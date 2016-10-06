@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="breach.n" pos="NN">
+    <instance id="br-r05#w549_0" docsrc="br-r05">
+      <context> `` Good '' ! replied the Senator . `` It took me five hours to write it that way '' . The misplaced modifier is another species more honored in the observance of obscurity than in the <head>breach</head> . This creates an amusing effect because its position in a sentence seems to make it apply to the wrong word . A verse familiar to all grammarians is the quatrain : `` I saw a man once beat his wife When on a drunken spree .</context>
+    </instance>
+    <instance id="v00775692_d_2" docsrc="v00775692_d">
+      <context> have a <head>breach</head> in relations ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,897 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="sport.n" pos="NN">
+    <instance id="Athletics-sport-0-0-1" docsrc="Athletics">
+      <context> <head>Athletics</head> may refer to : Sport of athletics , an umbrella term for the sports of running ( track running , road running , and cross country running ) , jumping , throwing , and racewalking</context>
+    </instance>
+    <instance id="Athletics-sport-0-16-1" docsrc="Athletics">
+      <context> <head>Athlete</head> ( disambiguation ) Athletic ( disambiguation ) Sport</context>
+    </instance>
+    <instance id="Athletics-sport-10-1-1" docsrc="Athletics">
+      <context> Athletics may refer to : Sport of athletics , an <head>umbrella</head> term for the sports of running ( track running , road running , and cross country running ) , jumping , throwing , and racewalking Track and field , the term for this group of sports in North America or , more narrowly , such events held on a track or field</context>
+    </instance>
+    <instance id="Athletics-sport-4-4-1" docsrc="Athletics">
+      <context> Track and field , <head>the</head> term for this group of sports in North America or , more narrowly , such events held on a track or field Athletics ( physical culture ) , sports or games based upon physical competition College athletics , athletic sports and organizations at the college level in North America</context>
+    </instance>
+    <instance id="Athletics-sport-6-2-1" docsrc="Athletics">
+      <context> Sport of athletics , an umbrella <head>term</head> for the sports of running ( track running , road running , and cross country running ) , jumping , throwing , and racewalking Track and field , the term for this group of sports in North America or , more narrowly , such events held on a track or field Athletics ( physical culture ) , sports or games based upon physical competition</context>
+    </instance>
+    <instance id="Athletics-sport-9-0-1" docsrc="Athletics">
+      <context> Athletics may refer to : Sport of athletics , <head>an</head> umbrella term for the sports of running ( track running , road running , and cross country running ) , jumping , throwing , and racewalking</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-0-25-1" docsrc="Athletics_(physical_culture)">
+      <context> <head>===</head> Sports medicine === === Nutrition === Sports nutrition is the study and practice of nutrition and diet as it relates to athletic performance .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-1-0-1" docsrc="Athletics_(physical_culture)">
+      <context> Athletics <head>is</head> a term encompassing the human competitive sports and games requiring physical skill , and the systems of training that prepare athletes for competition performance . Athletic sports or contests , are competitions which are primarily based on human , physical competition , demanding the qualities of stamina , fitness , and skill .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-1-0-2" docsrc="Athletics_(physical_culture)">
+      <context> Athletics <head>is</head> a term encompassing the human competitive sports and games requiring physical skill , and the systems of training that prepare athletes for competition performance . Athletic sports or contests , are competitions which are primarily based on human , physical competition , demanding the qualities of stamina , fitness , and skill . Athletic sports form the bulk of popular sporting activities , with other major forms including motorsports , precision sports , extreme sports and animal sports .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-1-18-3" docsrc="Athletics_(physical_culture)">
+      <context> Most <head>often</head> , trainers utilize proven athletic principles in order to develop athletic qualities ; these qualities include coordination , flexibility , precision , power , speed , endurance , balance , awareness efficiency , and timing . While physical strength is prized over most other qualities in Western athletics , it is forbidden in the physical conditioning of T'ai chi ch'uan . === Sports medicine ===</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-1-30-4" docsrc="Athletics_(physical_culture)">
+      <context> A <head>skill</head> such as high jumping can then be refined into a competitive technique like the Western roll or the Fosbury Flop . An individual ’s expression of a technique is often called a style ; while various competitive swimming strokes are also called styles . Team sports often develop and practice plays or strategies where players carry out specific tasks to coordinate a team effort of attack or defense .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-1-38-3" docsrc="Athletics_(physical_culture)">
+      <context> The <head>original</head> statute made no reference to athletics or athletics programs . From 1972 to 2006 , Title IX underwent a series of amendments for gender equity which became high impact on high school and collegiate athletics because it promoted maximum female participation in athletics through equal spending . Professional sports are sports in which athletes receive payment for their performance .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-1-55-1" docsrc="Athletics_(physical_culture)">
+      <context> Association <head>for</head> Intercollegiate Athletics for Women Outline of sports Athletic Sports in the 1911 Encyclopædia Britannica</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-10-2-2" docsrc="Athletics_(physical_culture)">
+      <context> Athletics has gained significant importance at educational institutions : talented <head>athletes</head> may gain entry into higher education through athletic scholarships and represent their institution in an athletic conference . Since the Industrial Revolution , people in the developed world have adopted an increasingly sedentary lifestyle and as a result athletics now plays a significant part in providing routine physical exercise . Athletic clubs worldwide offer athletic training facilities for multitudes of sports and games .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-12-30-5" docsrc="Athletics_(physical_culture)">
+      <context> An individual ’s expression of a technique is often called a style <head>;</head> while various competitive swimming strokes are also called styles . Team sports often develop and practice plays or strategies where players carry out specific tasks to coordinate a team effort of attack or defense . Technical training may also include teaching the rules and restrictions of a sport or game .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-14-39-1" docsrc="Athletics_(physical_culture)">
+      <context> From 1972 to 2006 , Title IX underwent a series of amendments for gender <head>equity</head> which became high impact on high school and collegiate athletics because it promoted maximum female participation in athletics through equal spending . Professional sports are sports in which athletes receive payment for their performance . Professional athletics is seen by some as a contradiction of the central ethos of sport , competition performed for its own sake and pure enjoyment , rather than as a means of earning a living .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-17-26-2" docsrc="Athletics_(physical_culture)">
+      <context> Sports nutrition is the study and practice of nutrition and diet as it relates to athletic performance <head>.</head> It is concerned with the type and quantity of fluid and food taken by an athlete , and deals with nutrients such as vitamins , minerals , supplements and organic substances such as carbohydrates , proteins and fats . Although an important part of many sports training regimens , it is most commonly considered in strength sports ( such as weight lifting and bodybuilding ) and endurance sports ( for example cycling , running , swimming ) .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-18-0-2" docsrc="Athletics_(physical_culture)">
+      <context> Athletics is a term encompassing the human competitive sports and games requiring physical skill , and the systems <head>of</head> training that prepare athletes for competition performance . Athletic sports or contests , are competitions which are primarily based on human , physical competition , demanding the qualities of stamina , fitness , and skill . Athletic sports form the bulk of popular sporting activities , with other major forms including motorsports , precision sports , extreme sports and animal sports .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-2-50-1" docsrc="Athletics_(physical_culture)">
+      <context> National Association <head>of</head> Intercollegiate Athletics Association for Intercollegiate Athletics for Women Outline of sports</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-21-0-2" docsrc="Athletics_(physical_culture)">
+      <context> Athletics is a term encompassing the human competitive sports and games requiring physical skill , and the systems of training that <head>prepare</head> athletes for competition performance . Athletic sports or contests , are competitions which are primarily based on human , physical competition , demanding the qualities of stamina , fitness , and skill . Athletic sports form the bulk of popular sporting activities , with other major forms including motorsports , precision sports , extreme sports and animal sports .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-22-14-1" docsrc="Athletics_(physical_culture)">
+      <context> === Athletic body types === Gender and genetics play major roles in assessing athletic potential . There are significantly fewer football leagues <head>for</head> women ; however , women have been active in martial arts for centuries , and sports like figure skating and tennis tend to favor women in terms of spectator popularity .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-24-0-2" docsrc="Athletics_(physical_culture)">
+      <context> Athletics is a term encompassing the human competitive sports and games requiring physical skill , and the systems of training that prepare athletes for <head>competition</head> performance . Athletic sports or contests , are competitions which are primarily based on human , physical competition , demanding the qualities of stamina , fitness , and skill . Athletic sports form the bulk of popular sporting activities , with other major forms including motorsports , precision sports , extreme sports and animal sports .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-28-26-2" docsrc="Athletics_(physical_culture)">
+      <context> Sports nutrition is the study and practice of nutrition and diet as it relates to athletic performance . It is concerned with the type and quantity of fluid <head>and</head> food taken by an athlete , and deals with nutrients such as vitamins , minerals , supplements and organic substances such as carbohydrates , proteins and fats . Although an important part of many sports training regimens , it is most commonly considered in strength sports ( such as weight lifting and bodybuilding ) and endurance sports ( for example cycling , running , swimming ) .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-29-7-2" docsrc="Athletics_(physical_culture)">
+      <context> In the modern English language , the term athletics has taken on two distinct meanings . Its meaning in American English connotes human physical sports and their respective systems <head>of</head> training . The other principal meaning of the word comes from British English and variants within the British Commonwealth ; this meaning of athletics refers solely to the concept of the sport of athletics ( a category of sporting competition which comprises track and field sports and various forms of foot racing ) , rather than athletic activity in general .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-3-38-3" docsrc="Athletics_(physical_culture)">
+      <context> The original statute <head>made</head> no reference to athletics or athletics programs . From 1972 to 2006 , Title IX underwent a series of amendments for gender equity which became high impact on high school and collegiate athletics because it promoted maximum female participation in athletics through equal spending . Professional sports are sports in which athletes receive payment for their performance .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-43-7-2" docsrc="Athletics_(physical_culture)">
+      <context> In the modern English language , the term athletics has taken on two distinct meanings . Its meaning in American English connotes human physical sports and their respective systems of training . The other principal meaning of the word comes from British English <head>and</head> variants within the British Commonwealth ; this meaning of athletics refers solely to the concept of the sport of athletics ( a category of sporting competition which comprises track and field sports and various forms of foot racing ) , rather than athletic activity in general .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-5-45-1" docsrc="Athletics_(physical_culture)">
+      <context> National Collegiate Athletic Association Amateur <head>Athletic</head> Union Union des Sociétés Françaises de Sports Athlétiques</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-6-26-2" docsrc="Athletics_(physical_culture)">
+      <context> Sports nutrition is the study and <head>practice</head> of nutrition and diet as it relates to athletic performance . It is concerned with the type and quantity of fluid and food taken by an athlete , and deals with nutrients such as vitamins , minerals , supplements and organic substances such as carbohydrates , proteins and fats . Although an important part of many sports training regimens , it is most commonly considered in strength sports ( such as weight lifting and bodybuilding ) and endurance sports ( for example cycling , running , swimming ) .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-7-30-1" docsrc="Athletics_(physical_culture)">
+      <context> Although an important part of many sports <head>training</head> regimens , it is most commonly considered in strength sports ( such as weight lifting and bodybuilding ) and endurance sports ( for example cycling , running , swimming ) . Athletes first learn basic movement patterns such as running , stopping , jumping and throwing . Coaches help athletes refine these movements into sport specific skills .</context>
+    </instance>
+    <instance id="Athletics_(physical_culture)-sport-8-7-1" docsrc="Athletics_(physical_culture)">
+      <context> The Ancient Olympic Games were born of war <head>and</head> featured various forms of athletics such as running , jumping , boxing and wrestling competitions . In the modern English language , the term athletics has taken on two distinct meanings . Its meaning in American English connotes human physical sports and their respective systems of training .</context>
+    </instance>
+    <instance id="Competition-sport-0-57-4" docsrc="Competition">
+      <context> <head>Thus</head> , sports provide artificial ( not natural ) competition ; for example , competing for control of a ball , or defending territory on a playing field is not an innate biological factor in humans . Athletes in sports such as gymnastics and competitive diving compete against each other in order to come closest to a conceptual ideal of a perfect performance , which incorporates measurable criteria and standards which are translated into numerical ratings and scores by appointed judges . Sports competition is generally broken down into three categories : individual sports , such as archery ; dual sports , such as doubles tennis , and team sports competition , such as cricket or football .</context>
+    </instance>
+    <instance id="Competition-sport-1-55-7" docsrc="Competition">
+      <context> Athletes <head>,</head> besides competing against other humans , also compete against nature in sports such as whitewater kayaking or mountaineering , where the goal is to reach a destination , with only natural barriers impeding the process . A regularly scheduled ( for instance annual ) competition meant to determine the " best " competitor of that cycle is called a championship . Competitive sports are governed by codified rules agreed upon by the participants .</context>
+    </instance>
+    <instance id="Competition-sport-11-57-4" docsrc="Competition">
+      <context> Thus , sports provide artificial ( not natural ) competition ; <head>for</head> example , competing for control of a ball , or defending territory on a playing field is not an innate biological factor in humans . Athletes in sports such as gymnastics and competitive diving compete against each other in order to come closest to a conceptual ideal of a perfect performance , which incorporates measurable criteria and standards which are translated into numerical ratings and scores by appointed judges . Sports competition is generally broken down into three categories : individual sports , such as archery ; dual sports , such as doubles tennis , and team sports competition , such as cricket or football .</context>
+    </instance>
+    <instance id="Competition-sport-13-55-5" docsrc="Competition">
+      <context> When there is no set reward for the winning team , many players <head>gain</head> a sense of pride . In addition , extrinsic rewards may also be given . Athletes , besides competing against other humans , also compete against nature in sports such as whitewater kayaking or mountaineering , where the goal is to reach a destination , with only natural barriers impeding the process .</context>
+    </instance>
+    <instance id="Competition-sport-14-58-1" docsrc="Competition">
+      <context> Athletes in sports such as gymnastics and competitive diving compete against each other in <head>order</head> to come closest to a conceptual ideal of a perfect performance , which incorporates measurable criteria and standards which are translated into numerical ratings and scores by appointed judges . Sports competition is generally broken down into three categories : individual sports , such as archery ; dual sports , such as doubles tennis , and team sports competition , such as cricket or football . While most sports competitions are recreation , there exist several major and minor professional sports leagues throughout the world .</context>
+    </instance>
+    <instance id="Competition-sport-17-58-2" docsrc="Competition">
+      <context> Sports competition is generally broken down into three categories : individual sports , such as archery ; <head>dual</head> sports , such as doubles tennis , and team sports competition , such as cricket or football . While most sports competitions are recreation , there exist several major and minor professional sports leagues throughout the world . The Olympic Games , held every four years , is usually regarded as the international pinnacle of sports competition .</context>
+    </instance>
+    <instance id="Competition-sport-18-57-4" docsrc="Competition">
+      <context> Thus , sports provide artificial ( not natural ) competition ; for example , competing for control of <head>a</head> ball , or defending territory on a playing field is not an innate biological factor in humans . Athletes in sports such as gymnastics and competitive diving compete against each other in order to come closest to a conceptual ideal of a perfect performance , which incorporates measurable criteria and standards which are translated into numerical ratings and scores by appointed judges . Sports competition is generally broken down into three categories : individual sports , such as archery ; dual sports , such as doubles tennis , and team sports competition , such as cricket or football .</context>
+    </instance>
+    <instance id="Competition-sport-2-50-4" docsrc="Competition">
+      <context> For example <head>,</head> the United States competed against the Soviet Union in the Cold War for world power , and the two also struggled over the different types of government ( in these cases representative democracy and communism ) . The result of this type of competition often leads to worldwide tensions , and may sometimes erupt into warfare . While some sports and games ( such as fishing or hiking ) have been viewed as primarily recreational , most sports are considered competitive .</context>
+    </instance>
+    <instance id="Competition-sport-2-57-2" docsrc="Competition">
+      <context> Competitive sports <head>are</head> governed by codified rules agreed upon by the participants . Violating these rules is considered to be unfair competition . Thus , sports provide artificial ( not natural ) competition ; for example , competing for control of a ball , or defending territory on a playing field is not an innate biological factor in humans .</context>
+    </instance>
+    <instance id="Competition-sport-2-57-3" docsrc="Competition">
+      <context> Violating these <head>rules</head> is considered to be unfair competition . Thus , sports provide artificial ( not natural ) competition ; for example , competing for control of a ball , or defending territory on a playing field is not an innate biological factor in humans . Athletes in sports such as gymnastics and competitive diving compete against each other in order to come closest to a conceptual ideal of a perfect performance , which incorporates measurable criteria and standards which are translated into numerical ratings and scores by appointed judges .</context>
+    </instance>
+    <instance id="Competition-sport-2-58-1" docsrc="Competition">
+      <context> Athletes in <head>sports</head> such as gymnastics and competitive diving compete against each other in order to come closest to a conceptual ideal of a perfect performance , which incorporates measurable criteria and standards which are translated into numerical ratings and scores by appointed judges . Sports competition is generally broken down into three categories : individual sports , such as archery ; dual sports , such as doubles tennis , and team sports competition , such as cricket or football . While most sports competitions are recreation , there exist several major and minor professional sports leagues throughout the world .</context>
+    </instance>
+    <instance id="Competition-sport-20-50-4" docsrc="Competition">
+      <context> For example , the United States competed against the Soviet Union in the Cold War for world power , and <head>the</head> two also struggled over the different types of government ( in these cases representative democracy and communism ) . The result of this type of competition often leads to worldwide tensions , and may sometimes erupt into warfare . While some sports and games ( such as fishing or hiking ) have been viewed as primarily recreational , most sports are considered competitive .</context>
+    </instance>
+    <instance id="Competition-sport-25-87-2" docsrc="Competition">
+      <context> === Hypercompetitiveness === Margaret Heffernan 's study , A Bigger Prize , examines the perils and disadvantages of competition in ( for example ) biology <head>,</head> families , sport , education , commerce and the Soviet Union .</context>
+    </instance>
+    <instance id="Competition-sport-27-57-4" docsrc="Competition">
+      <context> Thus , sports provide artificial ( not natural ) competition ; for example , competing for control of a ball , or defending territory on a playing <head>field</head> is not an innate biological factor in humans . Athletes in sports such as gymnastics and competitive diving compete against each other in order to come closest to a conceptual ideal of a perfect performance , which incorporates measurable criteria and standards which are translated into numerical ratings and scores by appointed judges . Sports competition is generally broken down into three categories : individual sports , such as archery ; dual sports , such as doubles tennis , and team sports competition , such as cricket or football .</context>
+    </instance>
+    <instance id="Competition-sport-6-38-2" docsrc="Competition">
+      <context> Competition law , known in the <head>United</head> States as antitrust law , has three main functions . First , it prohibits agreements aimed to restrict free trading between business entities and their customers . For example , a cartel of sports shops who together fix football jersey prices higher than normal is illegal .</context>
+    </instance>
+    <instance id="Mutant-sport-7-8-1" docsrc="Mutant">
+      <context> Although not all mutations have a noticeable <head>phenotypic</head> effect , the common usage of the word " mutant " is generally a pejorative term only used for noticeable mutations . Previously , people used the word " sport " ( related to spurt ) to refer to abnormal specimens .</context>
+    </instance>
+    <instance id="Sport-sport-0-114-1" docsrc="Sport">
+      <context> <head>It</head> has been used in Formula One since 2011 , Formula Renault 3.5 since 2012 , and Deutsche Tourenwagen Masters since 2013 . === Politics === Sports and politics can influence each other greatly .</context>
+    </instance>
+    <instance id="Sport-sport-0-43-1" docsrc="Sport">
+      <context> <head>There</head> are many shades of judging between boxing and mixed martial arts , where victory is assigned by judges if neither competitor has lost at the end of the match time . A wide range of sports were already established by the time of Ancient Greece and the military culture and the development of sports in Greece influenced one another considerably . Sports became such a prominent part of their culture that the Greeks created the Olympic Games , which in ancient times were held every four years in a small village in the Peloponnesus called Olympia .</context>
+    </instance>
+    <instance id="Sport-sport-1-100-2" docsrc="Sport">
+      <context> === <head>Amateur</head> and professional === Some sports , or individual competitions within a sport , retain a policy of allowing only amateur sport .</context>
+    </instance>
+    <instance id="Sport-sport-1-64-1" docsrc="Sport">
+      <context> === <head>Doping</head> and drugs === The competitive nature of sport encourages some participants to attempt to enhance their performance through the use of medicines , or through other means such as increasing the volume of blood in their bodies through artificial means . All sports recognised by the IOC or SportAccord are required to implement a testing programme , looking for a list of banned drugs , with suspensions or bans being placed on participants who test positive for banned substances .</context>
+    </instance>
+    <instance id="Sport-sport-1-80-1" docsrc="Sport">
+      <context> Hessel <head>(</head> 2000 ) . === Youth participation === Youth sports present children with opportunities for fun , socialization , forming peer relationships , physical fitness , and athletic scholarships .</context>
+    </instance>
+    <instance id="Sport-sport-10-127-1" docsrc="Sport">
+      <context> This was known as the Munich massacre . Related topics <head>European</head> Commission ( 2007 ) , The White Paper on Sport .</context>
+    </instance>
+    <instance id="Sport-sport-10-81-1" docsrc="Sport">
+      <context> === Youth participation === Youth sports present children with opportunities <head>for</head> fun , socialization , forming peer relationships , physical fitness , and athletic scholarships . Activists for education and the war on drugs encourage youth sports as a means to increase educational participation and to fight the illegal drug trade .</context>
+    </instance>
+    <instance id="Sport-sport-11-116-1" docsrc="Sport">
+      <context> === Politics === Sports and politics can influence each other greatly <head>.</head> When apartheid was the official policy in South Africa , many sports people , particularly in rugby union , adopted the conscientious approach that they should not appear in competitive sports there .</context>
+    </instance>
+    <instance id="Sport-sport-12-25-1" docsrc="Sport">
+      <context> be in no way harmful to any living creature not rely on <head>equipment</head> provided by a single supplier ( excluding proprietary games such as arena football ) not rely on any " luck " element specifically designed into the sport</context>
+    </instance>
+    <instance id="Sport-sport-13-120-2" docsrc="Sport">
+      <context> Nationalism is often evident in the pursuit of sports , or in its <head>reporting</head> : people compete in national teams , or commentators and audiences can adopt a partisan view . On occasion , such tensions can lead to violent confrontation among players or spectators within and beyond the sporting venue , as in the Football War . These trends are seen by many as contrary to the fundamental ethos of sports being carried on for its own sake and for the enjoyment of its participants .</context>
+    </instance>
+    <instance id="Sport-sport-13-89-1" docsrc="Sport">
+      <context> === Disabled participation === === Spectator involvement === The competition element of sport <head>,</head> along with the aesthetic appeal of some sports , result in the popularity of people attending to watch sport being played .</context>
+    </instance>
+    <instance id="Sport-sport-15-104-1" docsrc="Sport">
+      <context> Amateur and professional === Some sports , or individual competitions within a sport , retain <head>a</head> policy of allowing only amateur sport . The Olympic Games started with a principle of amateur competition with those who practiced a sport professionally considered to have an unfair advantage over those who practiced it merely as a hobby .</context>
+    </instance>
+    <instance id="Sport-sport-15-32-1" docsrc="Sport">
+      <context> Whilst SportAccord recognises a small number of mind sports , it is not open to <head>admitting</head> any further mind sports . === Competition === There are opposing views on the necessity of competition as a defining element of a sport , with almost all professional sport involving competition , and governing bodies requiring competition as a prerequisite of recognition by the International Olympic Committee(IOC ) or SportAccord .</context>
+    </instance>
+    <instance id="Sport-sport-16-75-1" docsrc="Sport">
+      <context> Rioting or hooliganism by fans in particular is a problem at some national and international sporting <head>contests</head> . === Gender participation === Female participation in sports continues to rise alongside the opportunity for involvement and the value of sports for child development and physical fitness .</context>
+    </instance>
+    <instance id="Sport-sport-17-100-2" docsrc="Sport">
+      <context> === Amateur and professional === Some sports , or individual competitions within a sport , retain a <head>policy</head> of allowing only amateur sport .</context>
+    </instance>
+    <instance id="Sport-sport-19-28-1" docsrc="Sport">
+      <context> not rely on any " luck " element specifically designed into the sport The inclusion of mind sports within <head>sport</head> definitions has not been universally accepted , leading to legal challenges from governing bodies in regards to being denied funding available to sports . Whilst SportAccord recognises a small number of mind sports , it is not open to admitting any further mind sports .</context>
+    </instance>
+    <instance id="Sport-sport-19-4-1" docsrc="Sport">
+      <context> It can also be determined by judges who are scoring elements of the sporting performance , including objective or <head>subjective</head> measures such as technical performance or artistic impression . According to A.T. Kearney , a consultancy , the global sporting industry is worth up to $ 620 billion as of 2013 . The world 's most accessible and practised sport is running , while association football is its most popular spectator sport .</context>
+    </instance>
+    <instance id="Sport-sport-2-68-1" docsrc="Sport">
+      <context> All sports <head>recognised</head> by the IOC or SportAccord are required to implement a testing programme , looking for a list of banned drugs , with suspensions or bans being placed on participants who test positive for banned substances . === Violence === Violence in sports involves crossing the line between fair competition and intentional aggressive violence .</context>
+    </instance>
+    <instance id="Sport-sport-20-119-1" docsrc="Sport">
+      <context> Some feel this was an effective contribution to the eventual demolition of the policy of apartheid , others feel that <head>it</head> may have prolonged and reinforced its worst effects . In the history of Ireland , Gaelic sports were connected with cultural nationalism . Until the mid 20th century a person could have been banned from playing Gaelic football , hurling , or other sports administered by the Gaelic Athletic Association ( GAA ) if she/he played or supported football , or other games seen to be of British origin .</context>
+    </instance>
+    <instance id="Sport-sport-20-81-2" docsrc="Sport">
+      <context> Youth sports present children with opportunities for fun , socialization , forming peer relationships , physical fitness , and athletic <head>scholarships</head> . Activists for education and the war on drugs encourage youth sports as a means to increase educational participation and to fight the illegal drug trade . According to the Center for Injury Research and Policy at Nationwide Children 's Hospital , the biggest risk for youth sports is death or serious injury including concussion .</context>
+    </instance>
+    <instance id="Sport-sport-21-32-1" docsrc="Sport">
+      <context> Whilst SportAccord recognises a small number of mind sports , it is not open to admitting any further mind sports . <head>===</head> Competition === There are opposing views on the necessity of competition as a defining element of a sport , with almost all professional sport involving competition , and governing bodies requiring competition as a prerequisite of recognition by the International Olympic Committee(IOC ) or SportAccord .</context>
+    </instance>
+    <instance id="Sport-sport-22-36-5" docsrc="Sport">
+      <context> In gymnastics or diving the result is decided by a panel of judges , and therefore subjective . There are many shades <head>of</head> judging between boxing and mixed martial arts , where victory is assigned by judges if neither competitor has lost at the end of the match time . A wide range of sports were already established by the time of Ancient Greece and the military culture and the development of sports in Greece influenced one another considerably .</context>
+    </instance>
+    <instance id="Sport-sport-23-21-1" docsrc="Sport">
+      <context> === Definition === The precise definition of what separates a sport from other leisure activities varies between sources . The closest to an <head>international</head> agreement on a definition is provided by SportAccord , which is the association for all the largest international sports federations ( including association football , athletics , cycling , tennis , equestrian sports and more ) , and is therefore the de facto representative of international sport .</context>
+    </instance>
+    <instance id="Sport-sport-24-15-1" docsrc="Sport">
+      <context> Roget 's defines the noun sport as an " activity engaged in for relaxation and amusement " with synonyms including diversion and recreation . <head>===</head> Nomenclature === The singular term " sport " is used in most English dialects to describe the overall concept ( e.g. " children taking part in sport " ) , with " sports " used to describe multiple activities ( e.g. " football and rugby are the most popular sports in England " ) .</context>
+    </instance>
+    <instance id="Sport-sport-24-89-1" docsrc="Sport">
+      <context> === Disabled participation === === Spectator involvement === The competition element of sport , along with the aesthetic appeal of some sports , result <head>in</head> the popularity of people attending to watch sport being played .</context>
+    </instance>
+    <instance id="Sport-sport-29-26-1" docsrc="Sport">
+      <context> not rely on equipment provided by a single supplier ( excluding proprietary games such as arena football ) not rely on any " luck " element specifically designed into <head>the</head> sport The inclusion of mind sports within sport definitions has not been universally accepted , leading to legal challenges from governing bodies in regards to being denied funding available to sports .</context>
+    </instance>
+    <instance id="Sport-sport-3-10-1" docsrc="Sport">
+      <context> The world 's <head>most</head> accessible and practised sport is running , while association football is its most popular spectator sport . === Etymology === The word " Sport " comes from the Old French desport meaning " leisure " , with the oldest definition in English from around 1300 being " anything humans find amusing or entertaining " .</context>
+    </instance>
+    <instance id="Sport-sport-3-56-1" docsrc="Sport">
+      <context> Sportsmanship is an <head>attitude</head> that strives for fair play , courtesy toward teammates and opponents , ethical behaviour and integrity , and grace in victory or defeat . === Cheating === Key principles of sport include that the result should not be predetermined , and that both sides should have equal opportunity to win .</context>
+    </instance>
+    <instance id="Sport-sport-3-75-1" docsrc="Sport">
+      <context> Rioting or hooliganism <head>by</head> fans in particular is a problem at some national and international sporting contests . === Gender participation === Female participation in sports continues to rise alongside the opportunity for involvement and the value of sports for child development and physical fitness .</context>
+    </instance>
+    <instance id="Sport-sport-30-116-1" docsrc="Sport">
+      <context> === Politics === Sports and politics can influence each other greatly . When apartheid was the official policy in South Africa , many sports people , particularly in rugby union <head>,</head> adopted the conscientious approach that they should not appear in competitive sports there .</context>
+    </instance>
+    <instance id="Sport-sport-30-15-1" docsrc="Sport">
+      <context> Roget 's defines the noun sport as an " activity engaged in for relaxation and amusement " with synonyms including diversion and recreation . === Nomenclature === The singular term <head>"</head> sport " is used in most English dialects to describe the overall concept ( e.g. " children taking part in sport " ) , with " sports " used to describe multiple activities ( e.g. " football and rugby are the most popular sports in England " ) .</context>
+    </instance>
+    <instance id="Sport-sport-37-21-1" docsrc="Sport">
+      <context> === Definition === The precise definition of what separates a sport from other leisure activities varies between sources . The closest to an international agreement on a definition is provided by SportAccord , which is the association <head>for</head> all the largest international sports federations ( including association football , athletics , cycling , tennis , equestrian sports and more ) , and is therefore the de facto representative of international sport .</context>
+    </instance>
+    <instance id="Sport-sport-4-15-1" docsrc="Sport">
+      <context> Roget 's defines the <head>noun</head> sport as an " activity engaged in for relaxation and amusement " with synonyms including diversion and recreation . === Nomenclature === The singular term " sport " is used in most English dialects to describe the overall concept ( e.g. " children taking part in sport " ) , with " sports " used to describe multiple activities ( e.g. " football and rugby are the most popular sports in England " ) .</context>
+    </instance>
+    <instance id="Sport-sport-4-16-1" docsrc="Sport">
+      <context> === Nomenclature === The <head>singular</head> term " sport " is used in most English dialects to describe the overall concept ( e.g. " children taking part in sport " ) , with " sports " used to describe multiple activities ( e.g. " football and rugby are the most popular sports in England " ) . American English uses " sports " for both terms .</context>
+    </instance>
+    <instance id="Sport-sport-4-26-1" docsrc="Sport">
+      <context> not rely on equipment <head>provided</head> by a single supplier ( excluding proprietary games such as arena football ) not rely on any " luck " element specifically designed into the sport The inclusion of mind sports within sport definitions has not been universally accepted , leading to legal challenges from governing bodies in regards to being denied funding available to sports .</context>
+    </instance>
+    <instance id="Sport-sport-4-36-5" docsrc="Sport">
+      <context> In gymnastics or diving <head>the</head> result is decided by a panel of judges , and therefore subjective . There are many shades of judging between boxing and mixed martial arts , where victory is assigned by judges if neither competitor has lost at the end of the match time . A wide range of sports were already established by the time of Ancient Greece and the military culture and the development of sports in Greece influenced one another considerably .</context>
+    </instance>
+    <instance id="Sport-sport-4-62-1" docsrc="Sport">
+      <context> The widespread existence of <head>gambling</head> on the results of sports fixtures creates the motivation for match fixing , where a participant or participants deliberately work to ensure a given outcome . === Doping and drugs === The competitive nature of sport encourages some participants to attempt to enhance their performance through the use of medicines , or through other means such as increasing the volume of blood in their bodies through artificial means .</context>
+    </instance>
+    <instance id="Sport-sport-4-89-1" docsrc="Sport">
+      <context> === Disabled participation === <head>===</head> Spectator involvement === The competition element of sport , along with the aesthetic appeal of some sports , result in the popularity of people attending to watch sport being played .</context>
+    </instance>
+    <instance id="Sport-sport-47-15-1" docsrc="Sport">
+      <context> Roget 's defines the noun sport as an " activity engaged in for relaxation and amusement " with synonyms including diversion and recreation . === Nomenclature === The singular term " sport " is used in most English dialects to describe the overall concept ( e.g. " <head>children</head> taking part in sport " ) , with " sports " used to describe multiple activities ( e.g. " football and rugby are the most popular sports in England " ) .</context>
+    </instance>
+    <instance id="Sport-sport-5-12-1" docsrc="Sport">
+      <context> The word " Sport " <head>comes</head> from the Old French desport meaning " leisure " , with the oldest definition in English from around 1300 being " anything humans find amusing or entertaining " . Other meanings include gambling and events staged for the purpose of gambling ; hunting ; and games and diversions , including ones that require exercise . Roget 's defines the noun sport as an " activity engaged in for relaxation and amusement " with synonyms including diversion and recreation .</context>
+    </instance>
+    <instance id="Sport-sport-5-120-3" docsrc="Sport">
+      <context> On occasion , such tensions <head>can</head> lead to violent confrontation among players or spectators within and beyond the sporting venue , as in the Football War . These trends are seen by many as contrary to the fundamental ethos of sports being carried on for its own sake and for the enjoyment of its participants . A very famous case when sports and politics collided was the 1972 Olympics in Munich .</context>
+    </instance>
+    <instance id="Sport-sport-5-133-1" docsrc="Sport">
+      <context> European Commission ( 2007 ) <head>,</head> The White Paper on Sport . Council of Europe ( 2001 ) , The Europien sport charter . Journal of the Philosophy of Sport</context>
+    </instance>
+    <instance id="Sport-sport-5-138-1" docsrc="Sport">
+      <context> Council of Europe ( 2001 <head>)</head> , The Europien sport charter . Journal of the Philosophy of Sport</context>
+    </instance>
+    <instance id="Sport-sport-5-91-2" docsrc="Sport">
+      <context> The competition element of sport <head>,</head> along with the aesthetic appeal of some sports , result in the popularity of people attending to watch sport being played . This has led to the specific phenomenon of spectator sport . It is common for popular sports to attract large broadcast audiences , leading to rival broadcasters bidding large amounts of money for the rights to show certain fixtures .</context>
+    </instance>
+    <instance id="Sport-sport-51-21-1" docsrc="Sport">
+      <context> === Definition === The precise definition of what separates a sport from other leisure activities varies between sources . The closest to an international agreement on a definition is provided by SportAccord , which is the association for all the largest international sports federations ( including association football , athletics , <head>cycling</head> , tennis , equestrian sports and more ) , and is therefore the de facto representative of international sport .</context>
+    </instance>
+    <instance id="Sport-sport-6-26-1" docsrc="Sport">
+      <context> not rely on equipment provided by <head>a</head> single supplier ( excluding proprietary games such as arena football ) not rely on any " luck " element specifically designed into the sport The inclusion of mind sports within sport definitions has not been universally accepted , leading to legal challenges from governing bodies in regards to being denied funding available to sports .</context>
+    </instance>
+    <instance id="Sport-sport-7-118-2" docsrc="Sport">
+      <context> When apartheid was the official policy in <head>South</head> Africa , many sports people , particularly in rugby union , adopted the conscientious approach that they should not appear in competitive sports there . Some feel this was an effective contribution to the eventual demolition of the policy of apartheid , others feel that it may have prolonged and reinforced its worst effects . In the history of Ireland , Gaelic sports were connected with cultural nationalism .</context>
+    </instance>
+    <instance id="Sport-sport-7-19-1" docsrc="Sport">
+      <context> American English uses " sports " for <head>both</head> terms . === Definition === The precise definition of what separates a sport from other leisure activities varies between sources .</context>
+    </instance>
+    <instance id="Sport-sport-7-33-1" docsrc="Sport">
+      <context> === Competition === There are opposing views <head>on</head> the necessity of competition as a defining element of a sport , with almost all professional sport involving competition , and governing bodies requiring competition as a prerequisite of recognition by the International Olympic Committee(IOC ) or SportAccord . Other bodies advocate widening the definition of sport to include all physical activity .</context>
+    </instance>
+    <instance id="Sport-sport-7-4-1" docsrc="Sport">
+      <context> It can also be determined by judges <head>who</head> are scoring elements of the sporting performance , including objective or subjective measures such as technical performance or artistic impression . According to A.T. Kearney , a consultancy , the global sporting industry is worth up to $ 620 billion as of 2013 . The world 's most accessible and practised sport is running , while association football is its most popular spectator sport .</context>
+    </instance>
+    <instance id="Sport-sport-8-100-2" docsrc="Sport">
+      <context> === Amateur and professional === Some sports , <head>or</head> individual competitions within a sport , retain a policy of allowing only amateur sport .</context>
+    </instance>
+    <instance id="Sport-sport-8-119-5" docsrc="Sport">
+      <context> This ban is still enforced , but was <head>modified</head> to allow football and rugby to be played in Croke Park while Lansdowne Road was redeveloped into Aviva Stadium . Until recently , under Rule 21 , the GAA also banned members of the British security forces and members of the RUC from playing Gaelic games , but the advent of the Good Friday Agreement in 1998 led to the eventual removal of the ban . Nationalism is often evident in the pursuit of sports , or in its reporting : people compete in national teams , or commentators and audiences can adopt a partisan view .</context>
+    </instance>
+    <instance id="Sport-sport-8-28-1" docsrc="Sport">
+      <context> not rely on any " luck " element <head>specifically</head> designed into the sport The inclusion of mind sports within sport definitions has not been universally accepted , leading to legal challenges from governing bodies in regards to being denied funding available to sports . Whilst SportAccord recognises a small number of mind sports , it is not open to admitting any further mind sports .</context>
+    </instance>
+    <instance id="Sport-sport-9-132-1" docsrc="Sport">
+      <context> Related topics European Commission ( 2007 ) , The <head>White</head> Paper on Sport . Council of Europe ( 2001 ) , The Europien sport charter .</context>
+    </instance>
+    <instance id="Sport-sport-9-21-2" docsrc="Sport">
+      <context> The precise definition of what separates a sport from <head>other</head> leisure activities varies between sources . The closest to an international agreement on a definition is provided by SportAccord , which is the association for all the largest international sports federations ( including association football , athletics , cycling , tennis , equestrian sports and more ) , and is therefore the de facto representative of international sport . SportAccord uses the following criteria , determining that a sport should :</context>
+    </instance>
+    <instance id="Sport-sport-9-59-1" docsrc="Sport">
+      <context> Rules are in place to ensure that fair play <head>to</head> occur , but participants can break these rules in order to gain advantage . Participants may choose to cheat in order to satisfy their desire to win , or in order to achieve an ulterior motive . The widespread existence of gambling on the results of sports fixtures creates the motivation for match fixing , where a participant or participants deliberately work to ensure a given outcome .</context>
+    </instance>
+    <instance id="Sport-sport-9-91-1" docsrc="Sport">
+      <context> === Spectator involvement === The competition element of sport <head>,</head> along with the aesthetic appeal of some sports , result in the popularity of people attending to watch sport being played . This has led to the specific phenomenon of spectator sport .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-1-111-4" docsrc="Sport_of_athletics">
+      <context> The <head>IAAF</head> has 213 member nations and territories , which are divided into six continental areas ( or area associations ) . The six association areas are for Asia , Africa , Europe , Oceania , North America and South America . The sports within athletics do not have their own independent governing bodies at either international or continental level and , instead , all fall under the athletics authorities .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-1-35-4" docsrc="Sport_of_athletics">
+      <context> Men <head>and</head> women compete separately . Track and field comes in both indoor and outdoor formats , with most indoor competitions occurring in winter , while outdoor events are mostly held in summer . The sport is defined by the venue in which the competitions are held –</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-1-43-8" docsrc="Sport_of_athletics">
+      <context> The <head>World</head> Marathon Majors series includes the five most prestigious marathon competitions at the elite level – the Berlin , Boston , Chicago , London , and New York City marathons . The sport of road running finds its roots in the activities of footmen : male servants who ran alongside the carriages of aristocrats around the 18th century , and who also ran errands over distances for their masters .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-1-45-2" docsrc="Sport_of_athletics">
+      <context> The <head>sport</head> of road running finds its roots in the activities of footmen : male servants who ran alongside the carriages of aristocrats around the 18th century , and who also ran errands over distances for their masters . Foot racing competitions evolved from wagers between aristocrats , who pitted their footman against that of another aristocrat in order to determine a winner . The sport became professionalised as footmen were hired specifically on their athletic ability and began to devote their lives to training for the gambling events .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-1-52-1" docsrc="Sport_of_athletics">
+      <context> === <head>Cross</head> country running === The Crick Run in England in 1838 was the first recorded instance of an organised cross country competition . The sport gained popularity in British , then American schools in the 19th century and culminated in the creation of the first International Cross Country Championships in 1903 .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-1-52-4" docsrc="Sport_of_athletics">
+      <context> The <head>annual</head> IAAF World Cross Country Championships was inaugurated in 1973 and this remains the highest level of competition for the sport . A number of continental cross country competitions are held , with championships taking place in Asia , Europe , North America and South America . The sport has retained its status at the scholastic level , particularly in the United Kingdom and United States .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-1-59-2" docsrc="Sport_of_athletics">
+      <context> Racewalking <head>finds</head> its roots in the sport of pedestrianism which emerged in the late 18th century in England . Spectators would gamble on the outcome of the walking competitions . The sport took on an endurance aspect and competitions were held over long distances or walkers would have to achieve a certain distance within a specified time frame , such as Centurion contests of walking 100 miles ( 160 km ) within 24 hours .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-10-4-6" docsrc="Sport_of_athletics">
+      <context> This definition continues to be the most prominent one in <head>the</head> United Kingdom and most of the areas of the former British Empire . Furthermore , foreign words in many Germanic and Romance languages which are related to the term athletics also have a similar meaning . In much of North America , athletics is synonymous with sports in general , maintaining a more historic usage of the term .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-11-118-1" docsrc="Sport_of_athletics">
+      <context> European Athletics Association         OAA – Oceania Athletics Association National level <head>athletics</head> organisations are responsible for the regulation of the sport within their respective countries and most major competitions have some form of permit or approval from their national body .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-12-142-2" docsrc="Sport_of_athletics">
+      <context> The IAAF World Championships in Athletics is the primary global athletics championships <head>held</head> by IAAF. The biennial competition was first held in 1983 and now features an event programme which is identical to the Olympics . Thus , road running , racewalking and track and field are the sports which feature at the competition .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-12-17-3" docsrc="Sport_of_athletics">
+      <context> Annually , from 1796 to 1798 , L'Olympiade de la République was <head>held</head> in revolutionary France , and is an early forerunner to the modern summer Olympic Games . The premier event of this competition was a running event , but various ancient Greek disciplines were also on display . The 1796 Olympiade marked the introduction of the metric system into the sport .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-12-21-3" docsrc="Sport_of_athletics">
+      <context> The United States also began holding an annual national competition – the <head>USA</head> Outdoor Track and Field Championships – first held in 1876 by the New York Athletic Club . Athletics became codified and standardised via the English AAA and other general sports organisations in the late 19th century , such as the Amateur Athletic Union ( founded in the US in 1888 ) and the Union des sociétés françaises de sports athlétiques ( founded in France in 1889 ) .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-12-5-1" docsrc="Sport_of_athletics">
+      <context> Furthermore , foreign words in many Germanic and Romance languages which are <head>related</head> to the term athletics also have a similar meaning . In much of North America , athletics is synonymous with sports in general , maintaining a more historic usage of the term . The word " athletics " is rarely used to refer to the sport of athletics in this region .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-14-43-1" docsrc="Sport_of_athletics">
+      <context> === Road running === Road running competitions are running events ( predominantly long distance <head>)</head> which are mainly conducted on courses of paved or tarmac roads , although major events often finish on the track of a main stadium . In addition to being a common recreational sport , the elite level of the sport – particularly marathon races –</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-16-21-4" docsrc="Sport_of_athletics">
+      <context> first held in 1876 by the New York Athletic Club . Athletics became codified and standardised <head>via</head> the English AAA and other general sports organisations in the late 19th century , such as the Amateur Athletic Union ( founded in the US in 1888 ) and the Union des sociétés françaises de sports athlétiques ( founded in France in 1889 ) . The Comité International Sports des Sourds had been formed by 1922 , to govern international deaf sports , including athletics .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-19-111-1" docsrc="Sport_of_athletics">
+      <context> Refreshment stations are also present over long distance walking competitions , with drinks being available on every lap for <head>races</head> longer than 10 km . Since its foundation in 1912 , the international governing body for athletics has been the International Association of Athletics Federations ( IAAF ) . It was initially known as the International Amateur Athletics Federation but changed later its name to reflect that the sport had moved away from amateurism towards professionalism in the late 1970s .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-19-4-3" docsrc="Sport_of_athletics">
+      <context> Initially , the term was used to describe athletic contests in general—i.e . sporting competition based primarily on human <head>physical</head> feats . In the 19th century , the term athletics acquired a more narrow definition in Europe and came to describe sports involving competitive running , walking , jumping and throwing .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-2-45-3" docsrc="Sport_of_athletics">
+      <context> Foot racing <head>competitions</head> evolved from wagers between aristocrats , who pitted their footman against that of another aristocrat in order to determine a winner . The sport became professionalised as footmen were hired specifically on their athletic ability and began to devote their lives to training for the gambling events . The amateur sports movement in the late 19th century marginalised competitions based on the professional , gambling model .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-20-18-2" docsrc="Sport_of_athletics">
+      <context> Athletics competitions were held about 1812 at the Royal Military College , Sandhurst , and in 1840 in Shrewsbury , <head>Shropshire</head> at the Royal Shrewsbury School Hunt . The Royal Military Academy at Woolwich held an organised competition in 1849 , and a regular series of closed meetings open only to undergraduates , was held by Exeter College , Oxford from 1850 . The annual Wenlock Olympian Games , first held in 1850 in Wenlock , England , incorporated athletics events into its sports programme .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-20-18-3" docsrc="Sport_of_athletics">
+      <context> The Royal Military Academy at Woolwich held an organised competition in 1849 , and a regular series of closed meetings <head>open</head> only to undergraduates , was held by Exeter College , Oxford from 1850 . The annual Wenlock Olympian Games , first held in 1850 in Wenlock , England , incorporated athletics events into its sports programme . The Amateur Athletic Association ( AAA ) was established in England in 1880 as the first national body for the sport of athletics and began holding its own annual athletics competition – the AAA Championships .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-21-142-8" docsrc="Sport_of_athletics">
+      <context> The IAAF World Indoor Championships in Athletics is a biennial athletics championships which features solely indoor track and field events . <head>The</head> foremost separate road running event is the annual IAAF World Half Marathon Championships ( formerly World Road Running Championships ) . While not having official world championship status , the biennial IAAF World Race Walking Cup fulfils a similar role for the sport of racewalking .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-21-52-2" docsrc="Sport_of_athletics">
+      <context> The Crick Run in England in 1838 was the first recorded instance of an organised cross country competition . The sport <head>gained</head> popularity in British , then American schools in the 19th century and culminated in the creation of the first International Cross Country Championships in 1903 . The annual IAAF World Cross Country Championships was inaugurated in 1973 and this remains the highest level of competition for the sport .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-21-59-7" docsrc="Sport_of_athletics">
+      <context> The men 's 20 kilometres race walk was added to the Olympic athletics schedule in 1956 and the women 's event <head>was</head> first held in 1992 . The most common events in modern competition are over 10 km , 20 km and 50 km on roads , although women 's 3 km and men 's 5 km are held on indoor tracks . The highest level racewalking competitions occur at the IAAF World Championships in Athletics and at the Summer Olympics , although the sport also has its own separate major competition – the IAAF World Race Walking Cup – which has been held since 1961 .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-24-1-1" docsrc="Sport_of_athletics">
+      <context> The most common types of athletics competitions are track and field , road running , cross country running , and race walking . The <head>results</head> of racing events are decided by finishing position ( or time , where measured ) , while the jumps and throws are won by the athlete that achieves the highest or furthest measurement from a series of attempts . The simplicity of the competitions , and the lack of a need for expensive equipment , makes athletics one of the most commonly competed sports in the world .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-26-33-1" docsrc="Sport_of_athletics">
+      <context> However , athletes ' performances are often tallied together by country at international championships , and in the case of cross country the finishing positions of <head>the</head> top athletes from each team or country are combined to declare a team victor . === Track and field === Track and field competitions emerged in the late 19th century and were typically contested between athletes who were representing rival educational institutions , military organisations and sports clubs .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-29-45-6" docsrc="Sport_of_athletics">
+      <context> The 1896 Summer Olympics saw the birth of the modern marathon and the event led to the growth of road running competitions through annual events such as the Boston <head>Marathon</head> ( first held in 1897 ) and the Lake Biwa Marathon and Fukuoka Marathons , which were established in the 1940s . The 1970s running boom in the United States made road running a common pastime and also increased its popularity at the elite level . Ekiden contests – which originated in Japan and remain very popular there – are a relay race variation on the marathon , being in contrast to the typically individual sport of road running .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-3-21-4" docsrc="Sport_of_athletics">
+      <context> first held in <head>1876</head> by the New York Athletic Club . Athletics became codified and standardised via the English AAA and other general sports organisations in the late 19th century , such as the Amateur Athletic Union ( founded in the US in 1888 ) and the Union des sociétés françaises de sports athlétiques ( founded in France in 1889 ) . The Comité International Sports des Sourds had been formed by 1922 , to govern international deaf sports , including athletics .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-38-5-2" docsrc="Sport_of_athletics">
+      <context> In much of North America , athletics is synonymous with sports in general , maintaining a more historic usage of the term . The word " athletics " is rarely used to refer to the sport of athletics <head>in</head> this region . Track and field is preferred , and is used in the United States and Canada to refer to most athletics events , including racewalking and marathon running ( although cross country running is typically considered as a separate sport ) .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-4-132-1" docsrc="Sport_of_athletics">
+      <context> ==== Olympic Games ==== <head>The</head> modern Summer Olympics was the first event at which a global athletics competition took place . All the four major sports within athletics have featured in the Olympic athletics programme since its inception in 1896 , although cross country has since been dropped .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-4-149-2" docsrc="Sport_of_athletics">
+      <context> Athletics is one of <head>the</head> sports at the quadrennial Commonwealth Games competition . It has been a Commonwealth Games sport since the inaugural edition of the event 's precursor , the 1930 British Empire Games . It is a core sport and must be included in the sporting programme of each edition of the Games .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-41-21-3" docsrc="Sport_of_athletics">
+      <context> The United States also began holding an annual national competition – the USA Outdoor Track and Field Championships – first held in 1876 by the New York Athletic Club . Athletics became codified and standardised via the English AAA and other <head>general</head> sports organisations in the late 19th century , such as the Amateur Athletic Union ( founded in the US in 1888 ) and the Union des sociétés françaises de sports athlétiques ( founded in France in 1889 ) .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-5-1-2" docsrc="Sport_of_athletics">
+      <context> The results of racing events <head>are</head> decided by finishing position ( or time , where measured ) , while the jumps and throws are won by the athlete that achieves the highest or furthest measurement from a series of attempts . The simplicity of the competitions , and the lack of a need for expensive equipment , makes athletics one of the most commonly competed sports in the world . Athletics is mostly an individual sport , with the exception of relay races and competitions which combine athletes ' performances for a team score , such as cross country .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-5-147-1" docsrc="Sport_of_athletics">
+      <context> Elite athletes with a physical <head>disability</head> compete at the IPC Athletics World Championships and at the Commonwealth Games . ==== Commonwealth Games ==== Athletics is one of the sports at the quadrennial Commonwealth Games competition .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-5-152-2" docsrc="Sport_of_athletics">
+      <context> ==== Universiade ==== Athletics is <head>one</head> of the sports at the biennial summer Universiade competition .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-5-99-2" docsrc="Sport_of_athletics">
+      <context> At the elite and professional <head>level</head> , courses must be looped and each lap must be between 1750 m and 2000 m in length . Severe obstacles such as deep ditches , high barriers and thick undergrowth not normally present ; the course should be able to be completed whilst remaining on foot throughout . In order to maintain the sport 's distinction from road running , the usage of unnatural or macadamised surfaces is generally kept to a minimum or avoided entirely .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-6-149-1" docsrc="Sport_of_athletics">
+      <context> ==== Commonwealth Games ==== Athletics is <head>one</head> of the sports at the quadrennial Commonwealth Games competition . It has been a Commonwealth Games sport since the inaugural edition of the event 's precursor , the 1930 British Empire Games .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-6-16-1" docsrc="Sport_of_athletics">
+      <context> === Antiquity === === Modern era <head>===</head> The Cotswold Olimpick Games , a sports festival which emerged in 17th century England , featured athletics in the form of sledgehammer throwing contests .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-6-30-1" docsrc="Sport_of_athletics">
+      <context> Competitions would over time be expanded <head>to</head> include mainly athletes with amputations , cerebral palsy and visual impairment , in addition to wheelchair events . The International Association of Athletics Federations , the sport 's governing body , defines athletics in five disciplines : track and field , road running , race walking , cross country running , and mountain running . All forms of athletics are individual sports with the exception of relay races .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-6-56-1" docsrc="Sport_of_athletics">
+      <context> Fell running and Orienteering are other <head>competitive</head> sports similar to cross country , although they feature an element of navigation which is absent from the set courses of cross country . === Racewalking === Racewalking finds its roots in the sport of pedestrianism which emerged in the late 18th century in England .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-7-142-9" docsrc="Sport_of_athletics">
+      <context> The foremost separate road running event is <head>the</head> annual IAAF World Half Marathon Championships ( formerly World Road Running Championships ) . While not having official world championship status , the biennial IAAF World Race Walking Cup fulfils a similar role for the sport of racewalking . Outdoor track and field is the only sport in athletics that does not have a its own distinct global championship which is separate from other types of athletics , although the IAAF Continental Cup ( a quadrennial competition between continental teams ) is composed entirely of outdoor track and field events .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-7-43-1" docsrc="Sport_of_athletics">
+      <context> === Road running === Road running competitions <head>are</head> running events ( predominantly long distance ) which are mainly conducted on courses of paved or tarmac roads , although major events often finish on the track of a main stadium . In addition to being a common recreational sport , the elite level of the sport – particularly marathon races –</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-7-53-2" docsrc="Sport_of_athletics">
+      <context> While cross country competitions are no longer <head>held</head> at the Olympics , having featured in the athletics programme from 1912–1924 , it has been present as one of the events within the modern pentathlon competition since the 1912 Summer Olympics . One variation on traditional cross country is mountain running , which incorporates significant uphill and/or downhill sections as an additional challenge to the course . Fell running and Orienteering are other competitive sports similar to cross country , although they feature an element of navigation which is absent from the set courses of cross country .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-8-25-4" docsrc="Sport_of_athletics">
+      <context> This inspired the first Paralympic Games , held <head>in</head> 1960 . Competitions would over time be expanded to include mainly athletes with amputations , cerebral palsy and visual impairment , in addition to wheelchair events . The International Association of Athletics Federations , the sport 's governing body , defines athletics in five disciplines : track and field , road running , race walking , cross country running , and mountain running .</context>
+    </instance>
+    <instance id="Sport_of_athletics-sport-9-154-1" docsrc="Sport_of_athletics">
+      <context> Universiade ==== Athletics is one of the sports at <head>the</head> biennial summer Universiade competition . It has been one of the event 's competed sports since the inaugural edition .</context>
+    </instance>
+    <instance id="Track_and_field-sport-11-101-2" docsrc="Track_and_field">
+      <context> === Throwing === Track and field contains some of the foremost <head>kinds</head> of throwing sports , and the four major disciplines are the only pure throwing events to feature at the Olympic Games .</context>
+    </instance>
+    <instance id="Track_and_field-sport-13-141-2" docsrc="Track_and_field">
+      <context> The four throwing events generally all begin on one side of the stadium <head>.</head> The javelin throw typically takes place on a piece of track that is central and parallel to the straights of the main running track . The javelin throwing area is a sector shape frequently across the Pitch ( sports field ) in the middle of the stadium , ensuring that the javelin has a minimal chance of causing damage or injury .</context>
+    </instance>
+    <instance id="Track_and_field-sport-14-13-5" docsrc="Track_and_field">
+      <context> Ultimately the " allcomers " ethos of the NOA won through and the AAC <head>was</head> reconstituted as the Amateur Athletic Association in 1880 , the first national body for the sport of athletics . The AAA Championships , the de facto British national championships despite being for England only , have been held annually since 3 July 1880 with breaks only during two world wars and 2006–2008 . The AAA was effectively a global governing body in the early years of the sport , codifying its rules for the first time .</context>
+    </instance>
+    <instance id="Track_and_field-sport-14-2-1" docsrc="Track_and_field">
+      <context> Track and field is categorised under the umbrella sport of athletics , which also <head>includes</head> road running , cross country running , and race walking . It is one of the oldest sports . In ancient times , it was an event held in conjunction with festivals and sports meets such as the Ancient Olympic Games in Greece .</context>
+    </instance>
+    <instance id="Track_and_field-sport-23-147-2" docsrc="Track_and_field">
+      <context> Another common adaptation is a 160-yard track ( 11 laps to a mile ) that fits into a common basketball court sized arena <head>.</head> This was quite popular when races were held at imperial distances , which gradually was phased out by different organizations in the 1970s and 1980s . Examples of this configuration include the Millrose Games at Madison Square Garden , and the Sunkist Invitational formerly held in the Los Angeles Sports Arena .</context>
+    </instance>
+    <instance id="Track_and_field-sport-27-13-2" docsrc="Track_and_field">
+      <context> In 1865 , Dr William Penny Brookes of Wenlock helped set up the National Olympian Association , which held their first Olympian Games in 1866 at The <head>Crystal</head> Palace in London . This national event was a great success , attracting a crowd of over ten thousand people . In response , that same year the Amateur Athletic Club was formed and held a championship for " gentlemen amateurs " in an attempt to reclaim the sport for the educated elite .</context>
+    </instance>
+    <instance id="Track_and_field-sport-28-14-1" docsrc="Track_and_field">
+      <context> The AAA was effectively a global governing body in the early years of the sport , codifying its rules for the first time . Meanwhile , the United <head>States</head> began holding an annual national competition—the USA Outdoor Track and Field Championships—first held in 1876 by the New York Athletic Club . The establishment of general sports governing bodies for the United States ( the Amateur Athletic Union in 1888 ) and France ( the Union des sociétés françaises de sports athlétiques in 1889 ) put the sport on a formal footing and meant that international competitions became possible .</context>
+    </instance>
+    <instance id="Track_and_field-sport-3-95-1" docsrc="Track_and_field">
+      <context> The men 's <head>high</head> jump was included in the 1896 Olympics and a women 's competition followed in 1928 . ==== Pole vault ==== In terms of sport , the use of poles for vaulting distances was recorded in Fierljeppen contests in the Frisian area of Europe , and vaulting for height was seen at gymnastics competitions in Germany in the 1770s .</context>
+    </instance>
+    <instance id="Track_and_field-sport-30-13-3" docsrc="Track_and_field">
+      <context> This national event was a great success , attracting a crowd of over ten thousand people . In response , that same year the Amateur Athletic Club was formed and <head>held</head> a championship for " gentlemen amateurs " in an attempt to reclaim the sport for the educated elite . Ultimately the " allcomers " ethos of the NOA won through and the AAC was reconstituted as the Amateur Athletic Association in 1880 , the first national body for the sport of athletics .</context>
+    </instance>
+    <instance id="Track_and_field-sport-35-14-1" docsrc="Track_and_field">
+      <context> The AAA was effectively a global governing body in the early years of the sport , codifying its rules for the first time . Meanwhile , the United States began holding an annual national competition—the <head>USA</head> Outdoor Track and Field Championships—first held in 1876 by the New York Athletic Club . The establishment of general sports governing bodies for the United States ( the Amateur Athletic Union in 1888 ) and France ( the Union des sociétés françaises de sports athlétiques in 1889 ) put the sport on a formal footing and meant that international competitions became possible .</context>
+    </instance>
+    <instance id="Track_and_field-sport-37-16-6" docsrc="Track_and_field">
+      <context> The Olympics was the elite competition for track and field , and only amateur sportsmen could compete . Track and field continued to be a largely amateur sport , as this rule was strictly enforced : Jim <head>Thorpe</head> was stripped of his track and field medals from the 1912 Olympics after it was revealed that he had played baseball professionally . That same year , the International Amateur Athletic Federation ( IAAF ) was established , becoming the international governing body for track and field , and it enshrined amateurism as one of its founding principles for the sport .</context>
+    </instance>
+    <instance id="Track_and_field-sport-4-14-1" docsrc="Track_and_field">
+      <context> The AAA was effectively <head>a</head> global governing body in the early years of the sport , codifying its rules for the first time . Meanwhile , the United States began holding an annual national competition—the USA Outdoor Track and Field Championships—first held in 1876 by the New York Athletic Club . The establishment of general sports governing bodies for the United States ( the Amateur Athletic Union in 1888 ) and France ( the Union des sociétés françaises de sports athlétiques in 1889 ) put the sport on a formal footing and meant that international competitions became possible .</context>
+    </instance>
+    <instance id="Track_and_field-sport-6-0-1" docsrc="Track_and_field">
+      <context> Track and field is a sport <head>which</head> includes athletic contests established on the skills of running , jumping , and throwing . The name is derived from the sport 's typical venue : a stadium with an oval running track enclosing a grass field where the throwing and jumping events take place .</context>
+    </instance>
+    <instance id="Track_and_field-sport-6-0-3" docsrc="Track_and_field">
+      <context> The name is derived from the <head>sport</head> 's typical venue : a stadium with an oval running track enclosing a grass field where the throwing and jumping events take place . Track and field is categorised under the umbrella sport of athletics , which also includes road running , cross country running , and race walking . It is one of the oldest sports .</context>
+    </instance>
+    <instance id="Track_and_field-sport-8-0-2" docsrc="Track_and_field">
+      <context> Track and field is a sport which includes <head>athletic</head> contests established on the skills of running , jumping , and throwing . The name is derived from the sport 's typical venue : a stadium with an oval running track enclosing a grass field where the throwing and jumping events take place . Track and field is categorised under the umbrella sport of athletics , which also includes road running , cross country running , and race walking .</context>
+    </instance>
+    <instance id="Track_and_field-sport-9-16-5" docsrc="Track_and_field">
+      <context> The Olympic athletics programme greatly expanded over the next <head>decades</head> , and track and field contests remained among the Games ' most prominent . The Olympics was the elite competition for track and field , and only amateur sportsmen could compete . Track and field continued to be a largely amateur sport , as this rule was strictly enforced : Jim Thorpe was stripped of his track and field medals from the 1912 Olympics after it was revealed that he had played baseball professionally .</context>
+    </instance>
+    <instance id="Women's_sports-sport-3-0-1" docsrc="Women's_sports">
+      <context> Women 's sports <head>includes</head> amateur as well as women 's professional sports , in virtually all varieties of sports . Female participation in sports rose dramatically in the twentieth century , especially in the last quarter , reflecting changes in modern societies that emphasized gender parity .</context>
+    </instance>
+    <instance id="a00033475_d_2" docsrc="a00033475_d">
+      <context> appropriate for <head>sport</head> or engagement in a sport ;</context>
+    </instance>
+    <instance id="a00600725_d_5" docsrc="a00600725_d">
+      <context> ( of a ball in <head>sport</head> ) not in the possession or control of any player ;</context>
+    </instance>
+    <instance id="a01279431_d_11" docsrc="a01279431_d">
+      <context> designating the player judged to be the most important to the <head>sport</head> ;</context>
+    </instance>
+    <instance id="a02801749_d_5" docsrc="a02801749_d">
+      <context> relating to or interested in <head>sports</head> ;</context>
+    </instance>
+    <instance id="a02801839_d_5" docsrc="a02801839_d">
+      <context> relating to or used in <head>sports</head> ;</context>
+    </instance>
+    <instance id="br-a14#w446_0" docsrc="br-a14">
+      <context> At a ceremony in the reception_room of Mayor_Richardson_Dilworth , the Eagles were honored for winning the championship . Shaw and Skorich headed a group of players , coaches and team officials who received an engrossed copy of an official city citation and a pair of silver cufflinks shaped like a football . With the announcement of a `` special achievement award '' to William_A._Bill_Shea , the awards list was completed yesterday for Sunday night 's thirty-eighth annual dinner and show of the New_York Chapter , Baseball_Writers_Association_of_America , at the Waldorf-Astoria_Hotel . Shea , the chairman of Mayor_Wagner_'s_Baseball_Committee , will be joined on the dais by Warren_Spahn , the southpaw pitching ace of the Milwaukee_Braves ; Frank_Graham , the Journal-American <head>sports</head> columnist ; Bill_Mazeroski , the World_Series hero of the Pittsburgh_Pirates , and Casey_Stengel , the former manager of the Yankees . Stengel will receive the Ben_Epstein_Good_Guy_Award . Mazeroski , whose homer beat the Yankees in the final series game , will receive the Babe_Ruth_Award as the outstanding player in the 1960 world_series . Graham will be recognized for his meritorious service to baseball and will get the William_J._Slocum_Memorial_Award .</context>
+    </instance>
+    <instance id="br-c01#w1378_0" docsrc="br-c01">
+      <context> The vast , dungeon kitchens may seem hardly worth using except on occasions when one is faced with a_thousand unexpected guests for lunch . Larkin has an answer to all that . The spaciousness of the Tudor cooking areas , for_example , will provide needed space for the extra television_sets required by modern butlers , cooks and maids . Also , perhaps , table-tennis and other indoor <head>sports</head> to keep them fit and contented . It 's a wonder , really , to how much mendacious trouble Larkin puts himself to sell the Jerebohms that preposterous manse . He does n't really need the immense sum_of_money ( probably converted from American gold on the London_Exchange ) he makes them pay . For Larkin is already wonderfully contented with his lot .</context>
+    </instance>
+    <instance id="br-e24#w408_0" docsrc="br-e24">
+      <context> Another reason gymnastic study is valuable is that it can be started very early in life . ( An enterprising teacher or parent could start training a healthy child at the age of seven days . Most Europeans have been exercising newborn infants for centuries . ) In most <head>sports</head> , as in most walks_of_life , the angels are on the side of those who begin young , and the Russian competitor of 16 has at_least thirteen years of training behind him . The American is very lucky if he has three . If a nation wished to get a head_start in physical fitness over all other nations , it would start its kindergarten students on a program of gymnastics the day they entered and thus eliminate a large_number of the problems that plague American schools . First of the problems attacked would be fatigue and emotional tension , since action relieves both .</context>
+    </instance>
+    <instance id="br-e24#w864_0" docsrc="br-e24">
+      <context> If the dance teachers of America make it their business to prepare their young charges for the gymnastics that must come some_day if our schools are really responsible , we will be that_much ahead . School_teachers , all_too unprepared for the job they must do , will need demonstrators . There should be youngsters who know how to do a headstand , and also how to help other children learn it . They should know simple exercises that could prepare less fortunate children for the <head>sports</head> we will demand be taught . Dance teachers can respond to President_Kennedy 's request not_only through their regular dance work , but also through the kind of basic gymnastic work that makes_for strength and flexibility . Very little in today 's living provides the strength we need , and nothing provides the flexibility . Dancers do have flexibility .</context>
+    </instance>
+    <instance id="br-e31#w1041_0" docsrc="br-e31">
+      <context> The American gun and ammunition producers sponsor a successful promotional program through their industry trade association . Since SAAMI 's conception in 1926 , and more specifically since the adoption of the Shooting Development Program in 1954 , millions of dollars and promotional man-hours have gone_into the development of more places to_shoot for more youths and adults . We trust that you , as a gun and ammunition dealer , have benefited through additional sales of equipment . Are you getting top dollar from the shooting <head>sports</head> ? Are you looking ahead to the exploding market of millions of American boys and girls , who will grow_up to enjoy a traditional American way_of_life - ranging the fields with a fine American gun and uniformly excellent ammunition ? Is your sporting firearms and ammunition department primed for the expanding horizons ? Would you like to organize Teen Hunters Clubs , shooting programs , and have information on seasons including six months of hunting with unlimited game bags on shooting_preserves ?</context>
+    </instance>
+    <instance id="br-e31#w477_0" docsrc="br-e31">
+      <context> The group known_as the American_Association_for_Health_,_Physical_Education_,_and_Recreation ( a division of the National_Education_Association ) initiated a conference which brought_together representatives of the National_Rifle_Association , SAAMI and the American_Fishing_Tackle_Manufacturers . This meeting was called to determine how these groups might cooperate to launch what is known_as the Outdoor_Education_Project . The Outdoor_Education_Project took cognizance of the fact , so often overlooked , that athletic activities stressed in most school programs have little or no relationship to the physical and mental needs and interests of later life . The various team <head>sports</head> assuredly have their place in every school , and they are important to proper physical development . But with the exception of professional athletes , few contact_sports and physical_education activities in our schools have any carryover in the adult life of the average American man or woman . Following a vigorous campaign of interpretation and leadership development by OEP director Dr._Julian_Smith , today thousands of secondary_schools , colleges and universities have shooting and hunting education in their physical_education and recreation programs . SAAMI 's financial support since 1955 has contributed to the success of this project in education .</context>
+    </instance>
+    <instance id="br-e31#w674_0" docsrc="br-e31">
+      <context> SAAMI 's financial support since 1955 has contributed to the success of this project in education . Personnel assigned through the shooting development program have proudly participated in over 53 state and regional workshops , at which hundreds of school administrators , teachers , professors , and recreational leaders have been introduced to Outdoor Education . Considering that the current school age potential is 23 million youths , the project and its message on hunting and shooting education have many_more to reach . In 1959 SAAMI 's shooting development program announced a new activity designed to expose thousands of teen-age boys and girls to the healthy fun enjoyed through the participation in the shooting <head>sports</head> . This program is now nationally known_as `` Teen Hunter Clubs '' . Teen Hunter Clubs were initially sponsored by affiliated members of the Allied_Merchandising_Corporation . The first program was sponsored by Abraham_+_Strauss , Hempstead , New_York , under the direction of Special Events director Jennings_Dennis .</context>
+    </instance>
+    <instance id="br-e31#w79_0" docsrc="br-e31">
+      <context> Modern_times have changed the world beyond recognition . The early years of the twentieth century seem very far_away . But with all the changes in philosophy , dress and terrain - a_few things remain constant , including the devotion of Americans to the great field_sports , hunting and fishing . As the generations move_on , clothes become more suitable for the enjoyment of outdoor <head>sports</head> . Sporting firearms change , markedly for the better . Just as modern transportation has outmoded the early Studebaker covered_wagon , the demand of today 's sportsmen and women has necessitated changes in their equipment . The American firearms and ammunition manufacturers through diligent research and technical development have replaced the muzzle_loader and slow firing single shot arms with modern fast firing autoloaders , extremely accurate bolt , lever , and slide_action firearms .</context>
+    </instance>
+    <instance id="br-p24#w1942_0" docsrc="br-p24">
+      <context> Deegan had no business ramming into that kid out there . He did it because he knows for each guy he puts out_of_commission that 's one less who might take his job away later_on . What the hell do you think baseball is ? A <head>sport</head> ? It 's a way_of_life , goddamit ! And you 've got to be ready to cut_to_ribbons anybody who want to take your way_of_life away from you '' ! He 's wrong !</context>
+    </instance>
+    <instance id="n00041188_d_8" docsrc="n00041188_d">
+      <context> the action of taking_part in a game or <head>sport</head> or other recreation ;</context>
+    </instance>
+    <instance id="n00063014_d_17" docsrc="n00063014_d">
+      <context> an extreme attainment ; the best ( or worst ) performance ever attested ( as in a <head>sport</head> ) ;</context>
+    </instance>
+    <instance id="n00077249_d_4" docsrc="n00077249_d">
+      <context> a spill in some <head>sport</head> ( as a fall from a bicycle or while skiing or being capsized on a surfboard ) ;</context>
+    </instance>
+    <instance id="n00124342_d_1" docsrc="n00124342_d">
+      <context> the <head>sport</head> of shooting at clay_pigeons that are hurled upward in such a way as to simulate the flight of a bird ;</context>
+    </instance>
+    <instance id="n00186634_d_8" docsrc="n00186634_d">
+      <context> the act of scoring in a game or <head>sport</head> ;</context>
+    </instance>
+    <instance id="n00326094_d_1" docsrc="n00326094_d">
+      <context> the <head>sport</head> or pastime of scaling rock masses on mountain sides ( especially with the help of ropes and special equipment ) ;</context>
+    </instance>
+    <instance id="n00343894_d_11" docsrc="n00343894_d">
+      <context> rotating a log rapidly in the water ( as a competitive <head>sport</head> ) ;</context>
+    </instance>
+    <instance id="n00433458_d_1" docsrc="n00433458_d">
+      <context> a <head>sport</head> that necessarily involves body contact between opposing players ;</context>
+    </instance>
+    <instance id="n00433661_d_1" docsrc="n00433661_d">
+      <context> a <head>sport</head> that is played outdoors ;</context>
+    </instance>
+    <instance id="n00433802_d_1" docsrc="n00433802_d">
+      <context> a <head>sport</head> that involves exercises intended to display strength and balance and agility ;</context>
+    </instance>
+    <instance id="n00439826_d_3" docsrc="n00439826_d">
+      <context> participating in athletic <head>sports</head> performed on a running track or on the field associated with it ;</context>
+    </instance>
+    <instance id="n00440747_d_1" docsrc="n00440747_d">
+      <context> a <head>sport</head> in which participants must travel on skis ;</context>
+    </instance>
+    <instance id="n00440941_d_1" docsrc="n00440941_d">
+      <context> the <head>sport</head> of skiing across the countryside ( rather than downhill ) ;</context>
+    </instance>
+    <instance id="n00441824_d_0" docsrc="n00441824_d">
+      <context> <head>sports</head> that involve bodies_of_water ;</context>
+    </instance>
+    <instance id="n00445055_d_1" docsrc="n00445055_d">
+      <context> the <head>sport</head> of riding a surfboard toward the shore on the crest of a wave ;</context>
+    </instance>
+    <instance id="n00445351_d_6" docsrc="n00445351_d">
+      <context> the act of rowing as a <head>sport</head> ;</context>
+    </instance>
+    <instance id="n00446980_d_1" docsrc="n00446980_d">
+      <context> the <head>sport</head> of shooting arrows with a bow ;</context>
+    </instance>
+    <instance id="n00447073_d_1" docsrc="n00447073_d">
+      <context> the <head>sport</head> of riding on a sled or sleigh ;</context>
+    </instance>
+    <instance id="n00447540_d_1" docsrc="n00447540_d">
+      <context> the <head>sport</head> of hand-to-hand_struggle between unarmed contestants who try to throw each other down ;</context>
+    </instance>
+    <instance id="n00448466_d_1" docsrc="n00448466_d">
+      <context> the <head>sport</head> of gliding on skates ;</context>
+    </instance>
+    <instance id="n00449054_d_1" docsrc="n00449054_d">
+      <context> the <head>sport</head> of skating on a skateboard ;</context>
+    </instance>
+    <instance id="n00449295_d_1" docsrc="n00449295_d">
+      <context> the <head>sport</head> of engaging in contests of speed ;</context>
+    </instance>
+    <instance id="n00449517_d_1" docsrc="n00449517_d">
+      <context> the <head>sport</head> of racing automobiles ;</context>
+    </instance>
+    <instance id="n00449695_d_1" docsrc="n00449695_d">
+      <context> the <head>sport</head> of racing_boats ;</context>
+    </instance>
+    <instance id="n00449892_d_1" docsrc="n00449892_d">
+      <context> the <head>sport</head> of racing camels ;</context>
+    </instance>
+    <instance id="n00449977_d_1" docsrc="n00449977_d">
+      <context> the <head>sport</head> of racing greyhounds ;</context>
+    </instance>
+    <instance id="n00450070_d_1" docsrc="n00450070_d">
+      <context> the <head>sport</head> of racing_horses ;</context>
+    </instance>
+    <instance id="n00450230_d_1" docsrc="n00450230_d">
+      <context> the <head>sport</head> of racing thoroughbred horses ;</context>
+    </instance>
+    <instance id="n00450700_d_1" docsrc="n00450700_d">
+      <context> a <head>sport</head> that tests horsemanship ;</context>
+    </instance>
+    <instance id="n00450866_d_1" docsrc="n00450866_d">
+      <context> a <head>sport</head> in which people ride across country on ponies ;</context>
+    </instance>
+    <instance id="n00451370_d_1" docsrc="n00451370_d">
+      <context> the <head>sport</head> of traveling on a bicycle or motorcycle ;</context>
+    </instance>
+    <instance id="n00451866_d_0" docsrc="n00451866_d">
+      <context> <head>sport</head> that involves killing animals ( especially hunting ) ;</context>
+    </instance>
+    <instance id="n00452152_d_3" docsrc="n00452152_d">
+      <context> participation in the <head>sport</head> of matching gamecocks in a cockfight ;</context>
+    </instance>
+    <instance id="n00452293_d_11" docsrc="n00452293_d">
+      <context> the pursuit and killing or capture of wild animals regarded_as a <head>sport</head> ;</context>
+    </instance>
+    <instance id="n00453631_d_1" docsrc="n00453631_d">
+      <context> the <head>sport</head> of hunting wild_boar with spears ;</context>
+    </instance>
+    <instance id="n00457723_d_5" docsrc="n00457723_d">
+      <context> an offensive move in a <head>sport</head> or game ;</context>
+    </instance>
+    <instance id="n00506554_d_5" docsrc="n00506554_d">
+      <context> active interest in gambling on <head>sports</head> events ;</context>
+    </instance>
+    <instance id="n00519118_d_9" docsrc="n00519118_d">
+      <context> a celebration following a victory in a battle or <head>sports</head> competition ;</context>
+    </instance>
+    <instance id="n00770997_d_8" docsrc="n00770997_d">
+      <context> an act that violates the rules of a <head>sport</head> ;</context>
+    </instance>
+    <instance id="n00812977_d_5" docsrc="n00812977_d">
+      <context> a hold used in the <head>sport</head> of wrestling ;</context>
+    </instance>
+    <instance id="n00825443_d_13" docsrc="n00825443_d">
+      <context> any of several Oriental arts of weaponless self-defense ; usually practiced as a <head>sport</head> ;</context>
+    </instance>
+    <instance id="n00825773_d_1" docsrc="n00825773_d">
+      <context> a <head>sport</head> adapted from jujitsu ( using principles of not resisting ) and similar to wrestling ; developed in Japan ;</context>
+    </instance>
+    <instance id="n00886582_d_2" docsrc="n00886582_d">
+      <context> participation in <head>sports</head> events as an extracurricular_activity ;</context>
+    </instance>
+    <instance id="n00886968_d_1" docsrc="n00886968_d">
+      <context> a <head>sport</head> that many people find entertaining to watch ;</context>
+    </instance>
+    <instance id="n00887544_d_1" docsrc="n00887544_d">
+      <context> a <head>sport</head> that involves competition between teams of players ;</context>
+    </instance>
+    <instance id="n01020117_d_8" docsrc="n01020117_d">
+      <context> the immediate rebroadcast of some action ( especially <head>sports</head> action ) that has been recorded on videotape ;</context>
+    </instance>
+    <instance id="n01171644_d_3" docsrc="n01171644_d">
+      <context> the art or <head>sport</head> of fighting with swords ( especially the use of foils or epees or sabres to score points under a set of rules ) ;</context>
+    </instance>
+    <instance id="n01814370_d_4" docsrc="n01814370_d">
+      <context> domesticated pigeon raised for <head>sport</head> or food ;</context>
+    </instance>
+    <instance id="n01850873_d_3" docsrc="n01850873_d">
+      <context> North_American_
+     _duck valued for <head>sport</head> and food ;</context>
+    </instance>
+    <instance id="n02152991_d_5" docsrc="n02152991_d">
+      <context> animal hunted for food or <head>sport</head> ;</context>
+    </instance>
+    <instance id="n02153109_d_6" docsrc="n02153109_d">
+      <context> large animals that are hunted for <head>sport</head> ;</context>
+    </instance>
+    <instance id="n02153203_d_12" docsrc="n02153203_d">
+      <context> any bird ( as grouse or pheasant ) that is hunted for <head>sport</head> ;</context>
+    </instance>
+    <instance id="n02378969_d_7" docsrc="n02378969_d">
+      <context> a saddle_horse used for transportation rather than <head>sport</head> etc. ;</context>
+    </instance>
+    <instance id="n02512830_d_3" docsrc="n02512830_d">
+      <context> any fish providing <head>sport</head> for the angler ;</context>
+    </instance>
+    <instance id="n02513248_d_6" docsrc="n02513248_d">
+      <context> any fish useless for food or <head>sport</head> or even as bait ;</context>
+    </instance>
+    <instance id="n02736511_d_3" docsrc="n02736511_d">
+      <context> a playing_field where <head>sports</head> events take_place ;</context>
+    </instance>
+    <instance id="n02888270_d_16" docsrc="n02888270_d">
+      <context> a protective_covering for the wrist or arm that is used in archery and fencing and other <head>sports</head> ;</context>
+    </instance>
+    <instance id="n03119790_d_13" docsrc="n03119790_d">
+      <context> facility consisting of a circumscribed area of land or water laid_out for a <head>sport</head> ;</context>
+    </instance>
+    <instance id="n03314378_d_10" docsrc="n03314378_d">
+      <context> mask that provides a protective_covering for the face in such <head>sports</head> as baseball or football or hockey ;</context>
+    </instance>
+    <instance id="n03327691_d_5" docsrc="n03327691_d">
+      <context> a sword used in the <head>sport</head> of fencing ;</context>
+    </instance>
+    <instance id="n03333480_d_6" docsrc="n03333480_d">
+      <context> an athletic_facility where athletes prepare for <head>sport</head> ;</context>
+    </instance>
+    <instance id="n03333610_d_4" docsrc="n03333610_d">
+      <context> a building for indoor <head>sports</head> ;</context>
+    </instance>
+    <instance id="n03430959_d_11" docsrc="n03430959_d">
+      <context> equipment consisting of miscellaneous articles needed for a particular operation or <head>sport</head> etc. ;</context>
+    </instance>
+    <instance id="n03472112_d_3" docsrc="n03472112_d">
+      <context> athletic_facility equipped for <head>sports</head> or physical training ;</context>
+    </instance>
+    <instance id="n03715892_d_15" docsrc="n03715892_d">
+      <context> a sports_implement with a long handle and a head like a hammer ; used in <head>sports</head> ( polo or croquet ) to hit a ball ;</context>
+    </instance>
+    <instance id="n03727946_d_13" docsrc="n03727946_d">
+      <context> sports_equipment consisting of a piece of thick padding on the floor for gymnastic <head>sports</head> ;</context>
+    </instance>
+    <instance id="n03970363_d_11" docsrc="n03970363_d">
+      <context> men's baggy knickers hanging below the knees ; formerly worn for <head>sports</head> ( especially golf ) ;</context>
+    </instance>
+    <instance id="n04000592_d_8" docsrc="n04000592_d">
+      <context> box reserved for reporters ( as at a <head>sports</head> event ) ;</context>
+    </instance>
+    <instance id="n04285146_d_7" docsrc="n04285146_d">
+      <context> equipment needed to participate in a particular <head>sport</head> ;</context>
+    </instance>
+    <instance id="n04285622_d_5" docsrc="n04285622_d">
+      <context> an implement used in a <head>sport</head> ;</context>
+    </instance>
+    <instance id="n04285803_d_3" docsrc="n04285803_d">
+      <context> attire worn for <head>sport</head> or for casual wear ;</context>
+    </instance>
+    <instance id="n04295881_d_5" docsrc="n04295881_d">
+      <context> a large structure for open-air <head>sports</head> or entertainments ;</context>
+    </instance>
+    <instance id="n05083687_d_6" docsrc="n05083687_d">
+      <context> a bodily position adopted in some <head>sports</head> ( such as diving or skiing ) in which the knees are bent and the thighs are drawn_close to the chest ;</context>
+    </instance>
+    <instance id="n05906867_d_8" docsrc="n05906867_d">
+      <context> a plan for achieving an objective in some <head>sport</head> ;</context>
+    </instance>
+    <instance id="n06246076_d_7" docsrc="n06246076_d">
+      <context> the conviction that people should participate in <head>sports</head> as a hobby ( for the fun of it ) rather than for money ;</context>
+    </instance>
+    <instance id="n06392787_d_8" docsrc="n06392787_d">
+      <context> the section of a newspaper that reports on <head>sports</head> ;</context>
+    </instance>
+    <instance id="n06683595_d_3" docsrc="n06683595_d">
+      <context> a broadcast of <head>sports</head> news or commentary ;</context>
+    </instance>
+    <instance id="n06706504_d_8" docsrc="n06706504_d">
+      <context> an award earned by participation in a school <head>sport</head> ;</context>
+    </instance>
+    <instance id="n06780882_ex2_4" docsrc="n06780882_ex2">
+      <context> he said it in <head>sport</head> ;</context>
+    </instance>
+    <instance id="n06788897_d_8" docsrc="n06788897_d">
+      <context> directions that define the way a game or <head>sport</head> is to be conducted ;</context>
+    </instance>
+    <instance id="n07457485_d_4" docsrc="n07457485_d">
+      <context> an Olympics for winter <head>sports</head> ;</context>
+    </instance>
+    <instance id="n08118725_d_8" docsrc="n08118725_d">
+      <context> the editorial_department of a newspaper that edits the <head>sports</head> news ;</context>
+    </instance>
+    <instance id="n08223581_d_4" docsrc="n08223581_d">
+      <context> the fans of a <head>sport</head> or famous_person ;</context>
+    </instance>
+    <instance id="n08229779_d_7" docsrc="n08229779_d">
+      <context> an association of huntsmen who hunt for <head>sport</head> ;</context>
+    </instance>
+    <instance id="n08230110_d_5" docsrc="n08230110_d">
+      <context> club for players of racket <head>sports</head> ;</context>
+    </instance>
+    <instance id="n08231184_d_3" docsrc="n08231184_d">
+      <context> an association of <head>sports</head> teams that organizes matches for its members ;</context>
+    </instance>
+    <instance id="n08231499_d_6" docsrc="n08231499_d">
+      <context> the most important league in any <head>sport</head> ( especially baseball ) ;</context>
+    </instance>
+    <instance id="n08593924_d_3" docsrc="n08593924_d">
+      <context> in games or <head>sports</head> ; a mark indicating positions or bounds of the playing_area ;</context>
+    </instance>
+    <instance id="n09082273_d_2" docsrc="n09082273_d">
+      <context> a winter <head>sports</head> resort in south_central Idaho ;</context>
+    </instance>
+    <instance id="n09194357_d_12" docsrc="n09194357_d">
+      <context> a large mountain system in south-central Europe ; scenic beauty and winter <head>sports</head> make them a popular tourist_attraction ;</context>
+    </instance>
+    <instance id="n09786585_d_6" docsrc="n09786585_d">
+      <context> someone who pursues a study or <head>sport</head> as a pastime ;</context>
+    </instance>
+    <instance id="n09820263_d_6" docsrc="n09820263_d">
+      <context> a person trained to compete in <head>sports</head> ;</context>
+    </instance>
+    <instance id="n09870208_d_7" docsrc="n09870208_d">
+      <context> someone who fights with his fists for <head>sport</head> ;</context>
+    </instance>
+    <instance id="n09929298_d_5" docsrc="n09929298_d">
+      <context> someone who climbs as a <head>sport</head> ; especially someone who climbs mountains ;</context>
+    </instance>
+    <instance id="n10076604_d_11" docsrc="n10076604_d">
+      <context> a person who breeds and trains hawks and who follows the <head>sport</head> of falconry ;</context>
+    </instance>
+    <instance id="n10153865_d_6" docsrc="n10153865_d">
+      <context> someone who spends all leisure_time playing <head>sports</head> or working_out in a gymnasium or health_spa ;</context>
+    </instance>
+    <instance id="n10255459_d_10" docsrc="n10255459_d">
+      <context> an athlete who has earned a letter in a school <head>sport</head> ;</context>
+    </instance>
+    <instance id="n10332257_d_10" docsrc="n10332257_d">
+      <context> the player judged to be the most important to the <head>sport</head> ;</context>
+    </instance>
+    <instance id="n10372076_d_9" docsrc="n10372076_d">
+      <context> someone who administers the rules of a game or <head>sport</head> ;</context>
+    </instance>
+    <instance id="n10460501_d_8" docsrc="n10460501_d">
+      <context> someone who hunts for food ( not for <head>sport</head> ) ;</context>
+    </instance>
+    <instance id="n10562968_d_16" docsrc="n10562968_d">
+      <context> someone employed to discover and recruit talented persons ( especially in the worlds of entertainment or <head>sports</head> ) ;</context>
+    </instance>
+    <instance id="n10638922_d_4" docsrc="n10638922_d">
+      <context> someone who engages in <head>sports</head> ;</context>
+    </instance>
+    <instance id="n10639047_ex1_2" docsrc="n10639047_ex1">
+      <context> a good <head>sport</head> ;</context>
+    </instance>
+    <instance id="n10639637_d_4" docsrc="n10639637_d">
+      <context> an announcer who reads <head>sports</head> news or describes sporting events ;</context>
+    </instance>
+    <instance id="n10639925_d_4" docsrc="n10639925_d">
+      <context> an enthusiastic devotee of <head>sports</head> ;</context>
+    </instance>
+    <instance id="n10640084_d_4" docsrc="n10640084_d">
+      <context> a journalist who writes_about <head>sports</head> ;</context>
+    </instance>
+    <instance id="n10662649_d_15" docsrc="n10662649_d">
+      <context> someone who learned to fight in the streets rather than being formally trained in the <head>sport</head> of boxing ;</context>
+    </instance>
+    <instance id="n14429484_d_10" docsrc="n14429484_d">
+      <context> position on a scale in relation to others in a <head>sport</head> ;</context>
+    </instance>
+    <instance id="v00833702_d_12" docsrc="v00833702_d">
+      <context> teach and supervise ; act_as a trainer or coach , as in <head>sports</head> ;</context>
+    </instance>
+    <instance id="v01072949_d_4" docsrc="v01072949_d">
+      <context> participate in games or <head>sport</head> ;</context>
+    </instance>
+    <instance id="v01079480_d_6" docsrc="v01079480_d">
+      <context> contend against an opponent in a <head>sport</head> , game , or battle ;</context>
+    </instance>
+    <instance id="v01085237_d_7" docsrc="v01085237_d">
+      <context> be a referee or umpire in a <head>sports</head> competition ;</context>
+    </instance>
+    <instance id="v01143838_d_4" docsrc="v01143838_d">
+      <context> pursue for food or <head>sport</head> ;</context>
+    </instance>
+    <instance id="v01146507_d_3" docsrc="v01146507_d">
+      <context> engage in the <head>sport</head> of bowling ;</context>
+    </instance>
+    <instance id="v01415454_d_6" docsrc="v01415454_d">
+      <context> strike sharply , as in some <head>sports</head> ;</context>
+    </instance>
+    <instance id="v01922895_d_6" docsrc="v01922895_d">
+      <context> climb mountains for pleasure as a <head>sport</head> ;</context>
+    </instance>
+    <instance id="v01927447_d_7" docsrc="v01927447_d">
+      <context> run with the ball ; in such <head>sports</head> as football ;</context>
+    </instance>
+    <instance id="v01998982_d_5" docsrc="v01998982_d">
+      <context> even the score , in <head>sports</head> ;</context>
+    </instance>
+    <instance id="v02007237_d_21" docsrc="v02007237_d">
+      <context> attain a level at which there is neither gain nor loss , as in business , gambling , or a competitive <head>sport</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

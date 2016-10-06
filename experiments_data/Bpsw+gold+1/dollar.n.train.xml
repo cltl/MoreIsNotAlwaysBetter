@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="dollar.n" pos="NN">
+    <instance id="$1-dollar-0-11-1" docsrc="$1">
+      <context> <head>Dollar</head> ( Hong Kong coin ) , coin of the Hong Kong dollar Other currencies with $ 1 banknotes , bills or coins are : Dollars</context>
+    </instance>
+    <instance id="$1-dollar-0-20-1" docsrc="$1">
+      <context> <head>Other</head> currencies $ 1 , a formal parameter in some programming languages Dollar sign $ , a symbol primarily used to indicate the various peso and dollar units of currency around the world</context>
+    </instance>
+    <instance id="$1-dollar-0-24-1" docsrc="$1">
+      <context> <head>$</head> 1 , a formal parameter in some programming languages Dollar sign $ , a symbol primarily used to indicate the various peso and dollar units of currency around the world Dollar , the name of several currencies</context>
+    </instance>
+    <instance id="$1-dollar-0-7-1" docsrc="$1">
+      <context> <head>Loonie</head> , which replaced the one dollar bill in Canada Dollar coin ( United States ) , a metal coin Dollar ( Hong Kong coin ) , coin of the Hong Kong dollar</context>
+    </instance>
+    <instance id="$1-dollar-12-7-1" docsrc="$1">
+      <context> Loonie , which replaced the one dollar bill in Canada Dollar coin <head>(</head> United States ) , a metal coin Dollar ( Hong Kong coin ) , coin of the Hong Kong dollar</context>
+    </instance>
+    <instance id="$1-dollar-14-20-1" docsrc="$1">
+      <context> Other currencies $ 1 , a formal parameter in some programming languages Dollar sign <head>$</head> , a symbol primarily used to indicate the various peso and dollar units of currency around the world</context>
+    </instance>
+    <instance id="$1-dollar-2-0-1" docsrc="$1">
+      <context> $ 1 <head>primarily</head> refers banknotes , bills or coins , including : Australian one dollar coin , which replaced the one dollar note</context>
+    </instance>
+    <instance id="$1-dollar-6-4-1" docsrc="$1">
+      <context> $ 1 primarily refers banknotes , <head>bills</head> or coins , including : Australian one dollar coin , which replaced the one dollar note Loonie , which replaced the one dollar bill in Canada</context>
+    </instance>
+    <instance id="$1-dollar-9-0-1" docsrc="$1">
+      <context> $ 1 primarily refers banknotes , bills or coins <head>,</head> including : Australian one dollar coin , which replaced the one dollar note</context>
+    </instance>
+    <instance id="Dollar-dollar-10-52-3" docsrc="Dollar">
+      <context> The surrounding territories ( that is , Malaya , British <head>North</head> Borneo , Sarawak , Brunei , and Singapore ) used several varieties of dollars ( for example , Straits dollar , Malayan dollar , Sarawak dollar , British North Borneo dollar ; Malaya and British Borneo dollar ) before Malaysia , Singapore and Brunei gained their independence from the United Kingdom . See also for a complete list of currencies . Spain : the Spanish dollar is closely related to the dollars and euros used today .</context>
+    </instance>
+    <instance id="Dollar-dollar-12-21-3" docsrc="Dollar">
+      <context> Currently the closest thing to a definition is found in United States <head>Code</head> Title 31 , Section 5116 , paragraph b , subsection 2 : " The Secretary [ of the Treasury ] shall sell silver under conditions the Secretary considers appropriate for at least $ 1.292929292 a fine troy ounce . " However , the dollar 's constitutional meaning has remained unchanged through the years ( see , United States Constitution ) . There are many quotes in the plays of William Shakespeare referring to dollars as money .</context>
+    </instance>
+    <instance id="Dollar-dollar-12-34-1" docsrc="Dollar">
+      <context> ( an anachronism because the real Macbeth , upon whom the play <head>was</head> based , lived in the 11th century ) . === Other national currencies called “ dollar ” === The tala is based on the Samoan pronunciation of the word " dollar " .</context>
+    </instance>
+    <instance id="Dollar-dollar-12-48-1" docsrc="Dollar">
+      <context> === Other territories that use a dollar === === Countries unofficially accepting <head>a</head> dollar === Malaysia : the Malaysian ringgit used to be called the " Malaysian Dollar " .</context>
+    </instance>
+    <instance id="Dollar-dollar-14-26-2" docsrc="Dollar">
+      <context> There are many quotes in the plays of William Shakespeare referring to dollars as <head>money</head> . Coins known as " thistle dollars " were in use in Scotland during the 16th and 17th centuries , and use of the English word , and perhaps even the use of the coin , may have begun at the University of St Andrews . This might be supported by a reference to the sum of " ten thousand dollars " in Macbeth ( act I , scene II )</context>
+    </instance>
+    <instance id="Dollar-dollar-2-0-1" docsrc="Dollar">
+      <context> Dollar ( <head>often</head> represented by the dollar sign $ ) is the name of several currencies , including those of Australia , Belize , Brunei , Canada , Hong Kong , Jamaica , Namibia , New Zealand , Singapore , Suriname , Taiwan , the United States , and previously Zimbabwe . The U.S. dollar is the official currency of East Timor , Ecuador , El Salvador , Federated States of Micronesia , Marshall Islands , Palau , the Caribbean Netherlands , and for banknotes , Panama .</context>
+    </instance>
+    <instance id="Dollar-dollar-21-54-1" docsrc="Dollar">
+      <context> Spain : the Spanish dollar is closely related to the dollars and euros used today . Rhodesia : the Rhodesian dollar <head>replaced</head> the Rhodesian pound in 1970 and it was used until Zimbabwe came into being in 1980 . Zimbabwe : once used the Zimbabwe dollar , but abolished it and now use the South African rand , the US dollar , the Euro , the Pound sterling and the Botswana pula .</context>
+    </instance>
+    <instance id="Dollar-dollar-21-55-1" docsrc="Dollar">
+      <context> Rhodesia : the Rhodesian dollar replaced the Rhodesian pound in 1970 and it was used until Zimbabwe came into being in <head>1980</head> . Zimbabwe : once used the Zimbabwe dollar , but abolished it and now use the South African rand , the US dollar , the Euro , the Pound sterling and the Botswana pula .</context>
+    </instance>
+    <instance id="Dollar-dollar-24-52-1" docsrc="Dollar">
+      <context> === Countries unofficially accepting a dollar === Malaysia : the Malaysian ringgit used to be called the " Malaysian Dollar " . The surrounding <head>territories</head> ( that is , Malaya , British North Borneo , Sarawak , Brunei , and Singapore ) used several varieties of dollars ( for example , Straits dollar , Malayan dollar , Sarawak dollar , British North Borneo dollar ; Malaya and British Borneo dollar ) before Malaysia , Singapore and Brunei gained their independence from the United Kingdom .</context>
+    </instance>
+    <instance id="Dollar-dollar-29-18-2" docsrc="Dollar">
+      <context> By the time of the American Revolution , Spanish dollars gained significance because they backed paper money authorized by the individual colonies and the Continental Congress . Common in <head>the</head> Thirteen Colonies , Spanish dollars were even legal tender in one colony , Virginia . Various acts have subsequently been passed affecting the amount and type of metal in U.S. coins , so that today there is no legal definition of the term " dollar " to be found in U.S. statute .</context>
+    </instance>
+    <instance id="Dollar-dollar-3-0-2" docsrc="Dollar">
+      <context> Dollar ( often <head>represented</head> by the dollar sign $ ) is the name of several currencies , including those of Australia , Belize , Brunei , Canada , Hong Kong , Jamaica , Namibia , New Zealand , Singapore , Suriname , Taiwan , the United States , and previously Zimbabwe . The U.S. dollar is the official currency of East Timor , Ecuador , El Salvador , Federated States of Micronesia , Marshall Islands , Palau , the Caribbean Netherlands , and for banknotes , Panama . Generally , one dollar is divided into one hundred cents .</context>
+    </instance>
+    <instance id="Dollar-dollar-3-21-2" docsrc="Dollar">
+      <context> Various acts have <head>subsequently</head> been passed affecting the amount and type of metal in U.S. coins , so that today there is no legal definition of the term " dollar " to be found in U.S. statute . Currently the closest thing to a definition is found in United States Code Title 31 , Section 5116 , paragraph b , subsection 2 : " The Secretary [ of the Treasury ] shall sell silver under conditions the Secretary considers appropriate for at least $ 1.292929292 a fine troy ounce . " However , the dollar 's constitutional meaning has remained unchanged through the years ( see , United States Constitution ) .</context>
+    </instance>
+    <instance id="Dollar-dollar-30-52-1" docsrc="Dollar">
+      <context> === Countries unofficially accepting a dollar === Malaysia : the Malaysian ringgit used to be called the " Malaysian Dollar " . The surrounding territories ( that is , Malaya <head>,</head> British North Borneo , Sarawak , Brunei , and Singapore ) used several varieties of dollars ( for example , Straits dollar , Malayan dollar , Sarawak dollar , British North Borneo dollar ; Malaya and British Borneo dollar ) before Malaysia , Singapore and Brunei gained their independence from the United Kingdom .</context>
+    </instance>
+    <instance id="Dollar-dollar-33-52-1" docsrc="Dollar">
+      <context> === Countries unofficially accepting a dollar === Malaysia : the Malaysian ringgit used to be called the " Malaysian Dollar " . The surrounding territories ( that is , Malaya , British North <head>Borneo</head> , Sarawak , Brunei , and Singapore ) used several varieties of dollars ( for example , Straits dollar , Malayan dollar , Sarawak dollar , British North Borneo dollar ; Malaya and British Borneo dollar ) before Malaysia , Singapore and Brunei gained their independence from the United Kingdom .</context>
+    </instance>
+    <instance id="Dollar-dollar-36-52-1" docsrc="Dollar">
+      <context> === Countries unofficially accepting a dollar === Malaysia : the Malaysian ringgit used to be called the " Malaysian Dollar " . The surrounding territories ( that is , Malaya , British North Borneo , Sarawak <head>,</head> Brunei , and Singapore ) used several varieties of dollars ( for example , Straits dollar , Malayan dollar , Sarawak dollar , British North Borneo dollar ; Malaya and British Borneo dollar ) before Malaysia , Singapore and Brunei gained their independence from the United Kingdom .</context>
+    </instance>
+    <instance id="Dollar-dollar-4-52-3" docsrc="Dollar">
+      <context> The surrounding territories ( <head>that</head> is , Malaya , British North Borneo , Sarawak , Brunei , and Singapore ) used several varieties of dollars ( for example , Straits dollar , Malayan dollar , Sarawak dollar , British North Borneo dollar ; Malaya and British Borneo dollar ) before Malaysia , Singapore and Brunei gained their independence from the United Kingdom . See also for a complete list of currencies . Spain : the Spanish dollar is closely related to the dollars and euros used today .</context>
+    </instance>
+    <instance id="Dollar-dollar-4-53-1" docsrc="Dollar">
+      <context> See also for a <head>complete</head> list of currencies . Spain : the Spanish dollar is closely related to the dollars and euros used today . Rhodesia : the Rhodesian dollar replaced the Rhodesian pound in 1970 and it was used until Zimbabwe came into being in 1980 .</context>
+    </instance>
+    <instance id="Dollar-dollar-41-52-1" docsrc="Dollar">
+      <context> === Countries unofficially accepting a dollar === Malaysia : the Malaysian ringgit used to be called the " Malaysian Dollar " . The surrounding territories ( that is , Malaya , British North Borneo , Sarawak , Brunei , and Singapore <head>)</head> used several varieties of dollars ( for example , Straits dollar , Malayan dollar , Sarawak dollar , British North Borneo dollar ; Malaya and British Borneo dollar ) before Malaysia , Singapore and Brunei gained their independence from the United Kingdom .</context>
+    </instance>
+    <instance id="Dollar-dollar-47-52-1" docsrc="Dollar">
+      <context> === Countries unofficially accepting a dollar === Malaysia : the Malaysian ringgit used to be called the " Malaysian Dollar " . The surrounding territories ( that is , Malaya , British North Borneo , Sarawak , Brunei , and Singapore ) used several varieties of dollars <head>(</head> for example , Straits dollar , Malayan dollar , Sarawak dollar , British North Borneo dollar ; Malaya and British Borneo dollar ) before Malaysia , Singapore and Brunei gained their independence from the United Kingdom .</context>
+    </instance>
+    <instance id="Dollar-dollar-5-26-1" docsrc="Dollar">
+      <context> However , the dollar 's <head>constitutional</head> meaning has remained unchanged through the years ( see , United States Constitution ) . There are many quotes in the plays of William Shakespeare referring to dollars as money . Coins known as " thistle dollars " were in use in Scotland during the 16th and 17th centuries , and use of the English word , and perhaps even the use of the coin , may have begun at the University of St Andrews .</context>
+    </instance>
+    <instance id="Dollar-dollar-5-45-1" docsrc="Dollar">
+      <context> The Slovenian tolar had the <head>same</head> etymological origin as dollar ( that is , thaler ) . === Other territories that use a dollar === === Countries unofficially accepting a dollar ===</context>
+    </instance>
+    <instance id="Dollar-dollar-6-26-4" docsrc="Dollar">
+      <context> This might be supported by a <head>reference</head> to the sum of " ten thousand dollars " in Macbeth ( act I , scene II ) ( an anachronism because the real Macbeth , upon whom the play was based , lived in the 11th century ) . === Other national currencies called “ dollar ” ===</context>
+    </instance>
+    <instance id="Dollar-dollar-6-39-1" docsrc="Dollar">
+      <context> The tala is based on the <head>Samoan</head> pronunciation of the word " dollar " . The Slovenian tolar had the same etymological origin as dollar ( that is , thaler ) . === Other territories that use a dollar ===</context>
+    </instance>
+    <instance id="Dollar-dollar-6-54-1" docsrc="Dollar">
+      <context> Spain : the Spanish dollar is <head>closely</head> related to the dollars and euros used today . Rhodesia : the Rhodesian dollar replaced the Rhodesian pound in 1970 and it was used until Zimbabwe came into being in 1980 . Zimbabwe : once used the Zimbabwe dollar , but abolished it and now use the South African rand , the US dollar , the Euro , the Pound sterling and the Botswana pula .</context>
+    </instance>
+    <instance id="Dollar-dollar-6-55-1" docsrc="Dollar">
+      <context> Rhodesia : the Rhodesian dollar replaced <head>the</head> Rhodesian pound in 1970 and it was used until Zimbabwe came into being in 1980 . Zimbabwe : once used the Zimbabwe dollar , but abolished it and now use the South African rand , the US dollar , the Euro , the Pound sterling and the Botswana pula .</context>
+    </instance>
+    <instance id="Dollar-dollar-7-18-1" docsrc="Dollar">
+      <context> The German name " Joachimsthal " literally <head>means</head> " Joachim 's valley " or " Joachim 's dale " . By the time of the American Revolution , Spanish dollars gained significance because they backed paper money authorized by the individual colonies and the Continental Congress . Common in the Thirteen Colonies , Spanish dollars were even legal tender in one colony , Virginia .</context>
+    </instance>
+    <instance id="Dollar-dollar-9-38-1" docsrc="Dollar">
+      <context> === Other national currencies called “ dollar ” === <head>The</head> tala is based on the Samoan pronunciation of the word " dollar " . The Slovenian tolar had the same etymological origin as dollar ( that is , thaler ) .</context>
+    </instance>
+    <instance id="Dollar-dollar-9-5-3" docsrc="Dollar">
+      <context> The coins were called " ' ' Joachimsthaler '' <head>,</head> " which became shortened in common usage to thaler or taler . The German name " Joachimsthal " literally means " Joachim 's valley " or " Joachim 's dale " . By the time of the American Revolution , Spanish dollars gained significance because they backed paper money authorized by the individual colonies and the Continental Congress .</context>
+    </instance>
+    <instance id="a02754618_d_9" docsrc="a02754618_d">
+      <context> of stocks of with a market_capitalization of five billion <head>dollars</head> or more ;</context>
+    </instance>
+    <instance id="a03118960_d_11" docsrc="a03118960_d">
+      <context> of stocks of with a market_capitalization of less than one billion <head>dollars</head> ;</context>
+    </instance>
+    <instance id="br-a01#w549_0" docsrc="br-a01">
+      <context> The jury also commented on the Fulton ordinary 's court which has been under_fire for its practices in the appointment of appraisers , guardians and administrators and the awarding of fees and compensation . The jury said it found the court `` has incorporated into its operating_procedures the recommendations '' of two previous grand_juries , the Atlanta_Bar_Association and an interim citizens_committee . `` These actions should serve to protect in_fact and in_effect the court 's wards from undue costs and its appointed and elected servants from unmeritorious criticisms '' , the jury said . Regarding Atlanta 's new million <head>dollar</head> airport , the jury recommended `` that when the new management takes_charge Jan. 1 the airport be operated in a manner that will eliminate political influences '' . The jury did not elaborate , but it added that `` there should be periodic surveillance of the pricing practices of the concessionaires for the purpose of keeping the prices reasonable '' . On other matters , the jury recommended that : Four additional deputies be employed at the Fulton_County_Jail and `` a doctor , medical_intern or extern be employed for night and weekend duty at the jail '' .</context>
+    </instance>
+    <instance id="br-a02#w109_0" docsrc="br-a02">
+      <context> Daniel personally led the fight for the measure , which he had watered_down considerably since its rejection by two previous Legislatures , in a public hearing before the House_Committee_on_Revenue_and_Taxation . Under committee rules , it went automatically to a subcommittee for one week . But questions with which committee_members taunted bankers appearing as witnesses left little doubt that they will recommend passage of_it . Daniel termed `` extremely conservative '' his estimate that it would produce 17 million dollars to help erase an anticipated deficit of 63 million <head>dollars</head> at the end of the current fiscal_year next Aug. 31 . He told the committee the measure would merely provide means of enforcing the escheat law which has been on_the_books `` since Texas was a republic '' . It permits the state to take_over bank_accounts , stocks and other personal_property of persons missing for seven years or more . The bill , which Daniel said he drafted personally , would force banks , insurance_firms , pipeline_companies and other corporations to report such property to the state_treasurer .</context>
+    </instance>
+    <instance id="br-a02#w1876_0" docsrc="br-a02">
+      <context> State and federal legislation against racial discrimination in employment was called_for yesterday in a report of a `` blue_ribbon '' citizens_committee on the aid to dependent children program . The report , culminating a year long study of the ADC program in Cook county by a New_York_City welfare consulting_firm , listed 10 long_range recommendations designed to reduce the soaring ADC case_load . The report called racial discrimination in employment `` one of the most serious causes of family breakdown , desertion , and ADC dependency '' . The monthly cost of ADC to more than 100000 recipients in the county is 4.4 million <head>dollars</head> , said C._Virgil_Martin , president of Carson_Pirie_Scott_+_Co. , committee chairman . `` We must solve the problems which have forced these people to depend_upon ADC for subsistence '' , Martin said . The volume of ADC cases will decrease , Martin reported , when the community is able to deal effectively with two problems : Relatively limited skills and discrimination in employment because of color . These , he said , are `` two of the principal underlying causes for family breakups leading to ADC '' .</context>
+    </instance>
+    <instance id="br-a02#w279_0" docsrc="br-a02">
+      <context> The escheat law cannot be enforced now because it is almost impossible to locate such property , Daniel declared . Dewey_Lawrence , a Tyler lawyer representing the Texas_Bankers_Association , sounded the opposition keynote when he said it would force banks to violate their contractual obligations with depositors and undermine the confidence of bank customers . `` If you destroy confidence in banks , you do something to the economy '' , he said . `` You take out_of circulation many millions of <head>dollars</head> '' . Rep._Charles_E._Hughes of Sherman , sponsor of the bill , said a failure to enact it would `` amount to making a gift out_of the taxpayers ' pockets to banks , insurance and pipeline_companies '' . His contention was denied by several bankers , including Scott_Hudson of Sherman , Gaynor_B._Jones of Houston , J._B._Brady of Harlingen and Howard_Cox of Austin . Cox argued that the bill is `` probably unconstitutional '' since , he said , it would impair contracts .</context>
+    </instance>
+    <instance id="br-a02#w99_0" docsrc="br-a02">
+      <context> Daniel personally led the fight for the measure , which he had watered_down considerably since its rejection by two previous Legislatures , in a public hearing before the House_Committee_on_Revenue_and_Taxation . Under committee rules , it went automatically to a subcommittee for one week . But questions with which committee_members taunted bankers appearing as witnesses left little doubt that they will recommend passage of_it . Daniel termed `` extremely conservative '' his estimate that it would produce 17 million <head>dollars</head> to help erase an anticipated deficit of 63 million dollars at the end of the current fiscal_year next Aug. 31 . He told the committee the measure would merely provide means of enforcing the escheat law which has been on_the_books `` since Texas was a republic '' . It permits the state to take_over bank_accounts , stocks and other personal_property of persons missing for seven years or more . The bill , which Daniel said he drafted personally , would force banks , insurance_firms , pipeline_companies and other corporations to report such property to the state_treasurer .</context>
+    </instance>
+    <instance id="br-b13#w1191_0" docsrc="br-b13">
+      <context> There 's more specialization and a narrower purpose in two albums recently issued by Dover_Publications . Dover `` publishes '' what the company calls `` Listen_and_Learn '' productions designed to teach foreign languages . Previous presentations have been on French , Spanish , Russian , Italian , German and Japanese . But the firm has recognized the tight <head>dollar</head> and the tourist 's desire to visit the `` smaller , less traveled and relatively inexpensive countries '' , and is now prepared to teach modern_Greek and Portuguese through recordings . The respective vocabularies `` essential for travel '' are available in separate albums . Thanks to Spoken_Arts_Records , history buffs may hear Lincoln 's `` most memorable speeches and letters '' in a two disc set , interpreted by Lincoln authority and lecturer Roy_P._Basler . As a contemporary bonus , the set includes Carl_Sandburg 's address at a joint session of Congress , delivered on Lincoln 's birthday two years ago .</context>
+    </instance>
+    <instance id="br-e22#w518_0" docsrc="br-e22">
+      <context> `` Uncle_Sam '' was , indeed , a rich uncle to Prokofieff , in those opulent , post-war victory years of peace and prosperity , bold speculations and extravaganzas , enjoyment and pleasure : `` The Golden_Twenties '' . We attended the premieres of his concertos , symphonies , and suites ; we studied , taught , and performed his piano_sonatas , chamber_music , gavottes , and marches ; we bought his records and played them in our schools and universities . We unanimously agreed that Prokofieff had won his rights as a world citizen to the first ranks of Twentieth Century Composers . Nevertheless , Prokofieff was much influenced by Paris during the Twenties : the Paris which was the artistic center of the Western World - the social Paris to which Russian aristocracy migrated - the chic Paris which attracted the tourist <head>dollars</head> of rich America - the avant-garde Paris of Diaghileff , Stravinsky , Koussevitzky , Cocteau , Picasso - the laissez-faire Paris of Dadaism and ultramodern art - the Paris sympathique which took young composers to her bosom with such quick and easy enthusiasms . So young Prokofieff was the darling of success : in his motherland ; in the spacious hunting_grounds of `` Uncle_Sam '' ; in the exciting salons of his lovely , brilliant Paris - mistress of gaiety - excess and abandon - world theatre of new found freedoms in tone , color , dance , design , and thought . Meanwhile , three great terrible forces were coagulating and crystallizing .</context>
+    </instance>
+    <instance id="br-e28#w1379_0" docsrc="br-e28">
+      <context> From the manufacturer 's point_of_view , the increasing cost of advertising and promotion is a very real problem to be faced in the sixties . It is accentuated by the need for pre selling goods , and private label competition . How much fundamental thinking and research has your company done on its advertising program ? Are you following competition willy-nilly - trying to match <head>dollar</head> for dollar - or are you experimenting with new means for reaching and influencing consumers ? Have you evaluated the proper place of advertising and all phases of promotion in your total marketing program - from the standpoint of effort , money , and effectiveness ? Practically all forecasts mention new and exciting products on the horizon . Will you be out in the market_place with some of these sales building new products ?</context>
+    </instance>
+    <instance id="br-e28#w1381_0" docsrc="br-e28">
+      <context> From the manufacturer 's point_of_view , the increasing cost of advertising and promotion is a very real problem to be faced in the sixties . It is accentuated by the need for pre selling goods , and private label competition . How much fundamental thinking and research has your company done on its advertising program ? Are you following competition willy-nilly - trying to match dollar for <head>dollar</head> - or are you experimenting with new means for reaching and influencing consumers ? Have you evaluated the proper place of advertising and all phases of promotion in your total marketing program - from the standpoint of effort , money , and effectiveness ? Practically all forecasts mention new and exciting products on the horizon . Will you be out in the market_place with some of these sales building new products ?</context>
+    </instance>
+    <instance id="br-e30#w1497_0" docsrc="br-e30">
+      <context> It can put an end to marginal claims which play havoc with your insurance rates . Also , beware of open_end policies , especially in the medical field . This will mean that every time there 's an increase in hospital rates your cost will go_up in like manner . Put a <head>dollar</head> and cents limit on benefits . Do n't go overboard on insurance that pays benefits only upon death . Generally , your employee will greatly appreciate benefits that protect him during his working life or during retirement . In granting bereavement leaves , specify the maximum time_off and list what the worker 's relation to the deceased must be to qualify .</context>
+    </instance>
+    <instance id="br-f08#w816_0" docsrc="br-f08">
+      <context> To please her , her husband assumed some of the domestic chores . Finally , he was cooking , washing dishes , bathing the children , and even ironing - and still his wife refused to have relations as often as he desired them . One wife , described by a New_York psychologist , so dominated her husband that she actually placed their sexual_relationship on a schedule , writing it down right between the weekly PTA meetings and the Thursday night neighborhood card parties . Another put sex on a <head>dollars</head> and cents basis . After every money argument , she rebuffed her husband 's overtures until the matter was settled in her favor . Experts say the partners in marriages like these can almost be typed . The wife is likely to be young , sophisticated , smart_as_a_whip - often a girl who has sacrificed a promising career for marriage .</context>
+    </instance>
+    <instance id="br-f10#w688_0" docsrc="br-f10">
+      <context> The sentence : 360 days ' confinement in the county jail . An isolated case of quackery ? By_no_means . Rather , it is typical of the thousands of quacks who use phony therapeutic devices to fatten themselves on the miseries of hundreds of thousands of Americans by robbing them of millions of <head>dollars</head> and luring them away from legitimate , ethical medical treatment of serious diseases . The machine quack makes his Rube_Goldberg devices out of odds_and_ends of metals , wires , and radio parts . With these gadgets - impressive to the gullible because of their flashing light_bulbs , ticks , and buzzes - he then carries_out a vicious medical con_game , capitalizing on people 's respect for the electrical and atomic wonders of our scientific age . He milks the latest scientific advances , translating them into his own special Buck_Rogers vocabulary to huckster his fake machines as a cure-all for everything from hay_fever to sexual impotence and cancer .</context>
+    </instance>
+    <instance id="br-f20#w1741_0" docsrc="br-f20">
+      <context> A further example of the incompatible difference in personalities was when two policemen held_up a Torrio beer convoy on a West_Side street and demanded $ 300 to let it through . One of the beer runners telephoned O_'_Banion - on a line tapped by the detective bureau - and reported the situation . O_'_Banion 's reaction was : `` Three_hundred <head>dollars</head> ! To them bums ? Why , I can get them knocked_off for half that_much '' . Upon which the detective bureau despatched rifle squads to prevent trouble if O_'_Banion should send his gunmen out to deal with the hijacking policemen .</context>
+    </instance>
+    <instance id="br-j60#w1154_0" docsrc="br-j60">
+      <context> But whenever a major purchase was contemplated forty years ago - a new bedroom_set or a winter coat , an Easter bonnet , a bicycle for Junior - the family set_off for the downtown department_store , where the selection would be greatest . Department_stores congregated in the `` one_hundred per_cent location '' , where all the transit_lines converged . These stores are still there , but the volume of the `` downtown store '' has been on a relative decline , while in many cities the suburban `` branch '' sells more_and_more dry_goods . If the retailer and hotelman 's downtown unit sales have been decreasing , however , his dollar_volume continues to rise , and it is <head>dollars</head> which you put_in the bank . In most discussions of this phenomenon , the figures are substantially inflated . No suburban shopping-center branch - not even Hudson 's vast Northland outside Detroit - does anything like the unit volume of business or carries anything like the variety of merchandise to be found in the home store . Telephone_orders distort the picture :</context>
+    </instance>
+    <instance id="br-k03#w685_0" docsrc="br-k03">
+      <context> Jane nodded with a pleasant smile . `` All_right . There was a sniper 's nest in a mountain cave , and it was picking_off our men with devilish accuracy . The Colonel ordered that it be wiped_out , and I suggested , ' You ask for volunteers , and promise each man on the patrol a quart of whisky , ten <head>dollars</head> and a week-end pass to Davao ' . Trig was one of the five volunteers . The patrol snaked around in back of the cave , approached it from above and dropped in suddenly with wild howls . You could hear them from our outpost .</context>
+    </instance>
+    <instance id="br-k04#w1355_0" docsrc="br-k04">
+      <context> He talked_about it to the Presiding_Elder . The Presiding_Elder looked him over rather carefully . He was not sure what kind of a man he had in_hand . But there was one thing that he had_to stress , and that was that the contribution to the general church expenses , the <head>dollar</head> money , had been seriously falling_behind in this church , and that must be looked_after immediately . In_fact , he intimated clearly that that was the reason that Wilson had been sent here - to make a larger contribution of dollar money . Wilson stressed the fact that clear as this was , they must have a better church , a more business-like conduct of the church organization , and an effort to get this religious center out_of its rut of wild worship into a modern church organization . He emphasized to the Presiding_Elder the plan of giving_up the old church and moving across the river .</context>
+    </instance>
+    <instance id="br-k04#w1396_0" docsrc="br-k04">
+      <context> The Presiding_Elder looked him over rather carefully . He was not sure what kind of a man he had in_hand . But there was one thing that he had_to stress , and that was that the contribution to the general church expenses , the dollar money , had been seriously falling_behind in this church , and that must be looked_after immediately . In_fact , he intimated clearly that that was the reason that Wilson had been sent here - to make a larger contribution of <head>dollar</head> money . Wilson stressed the fact that clear as this was , they must have a better church , a more business-like conduct of the church organization , and an effort to get this religious center out_of its rut of wild worship into a modern church organization . He emphasized to the Presiding_Elder the plan of giving_up the old church and moving across the river . The Presiding_Elder was sure that that would be impossible .</context>
+    </instance>
+    <instance id="br-k18#w101_0" docsrc="br-k18">
+      <context> `` Nothing 's free in the whole goddam world '' , was all I could think_of to say . When I 'd delivered myself of that gem there was nothing to do but order up another drink . `` I am '' , she said . I 'd forgotten all about Thelma and the Kentucky_Derby and how it was Thelma 's fifty <head>dollars</head> I was spending . It was just me and Eileen getting drunk together like we used_to in the old days , and me staring at her across the table crazy to get my hands on her partly because I wanted to wring her neck because she was so ornery but mostly because she was so wonderful to touch . Drunk or sober she was the most attractive woman in the world for me . I was crazy about her all over_again .</context>
+    </instance>
+    <instance id="br-k18#w1548_0" docsrc="br-k18">
+      <context> Eileen seemed to feel the same way . We still had that much in_common . The trouble was drinking cost money . The way Eileen and I were hitting_it_up , we needed ten or fifteen <head>dollars</head> an evening . Eileen must have wheedled a_little out of Precious . I raised some kale by hocking the good clothes I had left_over from my respectable uptown life , but when that was gone I did n't have a cent . I do n't know what we would have done if Pat_O'Dwyer had n't come to town .</context>
+    </instance>
+    <instance id="br-k18#w986_0" docsrc="br-k18">
+      <context> I wrote her that I 'd met_up_with Eileen and that old bonds had proved too strong and asked her to send my clothes down by express . Of_course I had_to give her Eileen 's address , but she never came_near us . All she did was write me a pleasant little note about how it was beautiful while it lasted but that now life had parted our ways and it was goodbye forever . She never said a word about the fifty <head>dollars</head> . She added a postscript begging me to be careful about drinking . I must know that that was my greatest weakness underlined three times . Afterwards I learned that Eileen had called Thelma on the telephone and made a big scene about Thelma trying to take her husband away .</context>
+    </instance>
+    <instance id="br-k22#w882_0" docsrc="br-k22">
+      <context> The contributions were ahead_of what she had got the previous year , and while the money , of_course , was not hers , it excited her to stuff her kit with big checks . She stopped at the Surcliffes ' after dusk , and had a Scotch-and-soda . She stayed too late , and when she left , it was dark and time to go_home and cook supper for her husband . `` I got a_hundred and sixty <head>dollars</head> for the hepatitis fund '' , she said excitedly when he walked in . `` I did everybody on my list but the Blevins and the Flannagans . I want to get my kit in tomorrow morning - would you mind doing them while I cook the dinner '' ? `` But I do n't know the Flannagans '' , Charlie_Pastern said .</context>
+    </instance>
+    <instance id="br-k29#w466_0" docsrc="br-k29">
+      <context> My memory has catalogued for easy reference and withdrawal the image of her pink , scented stationery and the unsloped , almost printed configurations of her neat , studious handwriting with which she invited me to recall our summer , so many sentences beginning with `` Remember when '' ; and_others concerning camp friends who resided in her suburban neighborhood , and news of her commencing again her piano_lessons , her private_school , a visit to Boston to see her grandparents and an uncle who was a surgeon returned on furlough , wounded , from the war in Europe . In my letters I took_on a personality that differed from the self I knew in real_life . Then epistolatory me was a foreign correspondent dispatching exciting cables and communiques , full of dash and wit and glamor , quoting from the books I read , imitating the grand styles of the authors recommended by a teacher in whose special , after_school class I was enrolled . The letters took their source from a stream of my imagination in which I was transformed into a young_man not unlike my bunkmate Eliot_Sands - he of the porch steps anecdotes - who smoked cigarettes , performed the tango , wore fifty <head>dollar</head> suits , and sneaked_off into the dark with girls to do unimaginable things with them . Like Eliot , in my fantasies , I had a proud bearing and , with a skill that was vaguely continental , I would lead Jessica through an evening of dancing and handsome descriptions of my newest exploits , would guide her gently to the night 's climax which , in my dreams , was always represented by our almost suffocating one another to death with deep , moist kisses burning with love . The night after reading her letter about her surgeon uncle - it must have been late in September - I had a vision of myself returned in ragged uniform from The Front , nearly dying , my head bandaged and bloody , and Jessica bending over me , the power of her love bringing me back to life . For many nights afterward , the idea of her having been so close to me in_that imagined bed would return and fill me with obscure and painful desires , would cause me to lie_awake in shame , tossing with irresolution , longing to fall into a deep sleep .</context>
+    </instance>
+    <instance id="br-l15#w1412_0" docsrc="br-l15">
+      <context> Tenure , too . Very nice for him . He went_on to personal bequests , a list of names largely unknown to him . Twenty-five_thousand to each of the great-nieces in Oregon ( not much to blood_relatives out of millions ) ten_thousand to this friend and that , five_thousand to another ; to Brian_Thayer , the sum of ten_thousand <head>dollars</head> ; to the Pecks , ten_thousand each ; to Joan_Sheldon the conditional bequest of ten_thousand to be paid to her in the event that she was still in Mrs._Meeker 's employ at the time of the latter 's death . ( No additional five_thousand for each year after Joan 's twenty-first birthday ; Mrs._Meeker had n't got_around_to taking_care of that . ) Too_bad , Madden thought . Joan_Sheldon had earned the larger bequest .</context>
+    </instance>
+    <instance id="br-l17#w1980_0" docsrc="br-l17">
+      <context> It was nine o_'_clock in the morning : the hour which , like a spade turning clods of earth , exposed to the day a myriad of busy creatures that had lain_dormant in the quiet night . Mission_Street at this hour was populated by a whole community that Gun could not have seen on his tour of duty - the neighborhood that had known Urbano_Quintana by day . Sol_Phillips had purchased the Alliance_Furniture_Mart seventeen years ago . It was professedly worth three thousand <head>dollars</head> in stock and good_will , and the name was written in gold in foot high letters across each of the two display_windows . On the right window , at eye level , in smaller print but also in gold , was Gonzalez , Prop. , and under_that , Se_Habla_Espanol . Mr._Phillips took a razor to Gonzalez , Prop. , but left the promise that Spanish would be understood because he thought it meant that Spanish clientele would be welcome . Language was no problem anyway ; Mr._Phillips had only to signal from his doorway to summon aid from the ubiquitous bilingual children who played on the sidewalks of Mission_Street .</context>
+    </instance>
+    <instance id="n03198819_d_12" docsrc="n03198819_d">
+      <context> street_name for a packet of illegal drugs that is sold for ten <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n05112308_d_4" docsrc="n05112308_d">
+      <context> the volume measured in <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n06821422_d_14" docsrc="n06821422_d">
+      <context> a mark written before a number to indicate that it stands_for the number of <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n06821581_ex1_4" docsrc="n06821581_ex1">
+      <context> he worships the almighty <head>dollar</head> ;</context>
+    </instance>
+    <instance id="n10529555_d_12" docsrc="n10529555_d">
+      <context> a person whose material wealth is valued at more than a million <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n10529684_d_13" docsrc="n10529684_d">
+      <context> a very rich_person whose material wealth is valued at more than a billion <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n10529823_d_12" docsrc="n10529823_d">
+      <context> a very rich_person whose material wealth is valued at many billions of <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n13257792_d_17" docsrc="n13257792_d">
+      <context> a statistical factor designed to remove the effect of inflation ; inflation adjusted variables are in constant <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n13390040_d_8" docsrc="n13390040_d">
+      <context> a United_States coin worth one tenth of a <head>dollar</head> ;</context>
+    </instance>
+    <instance id="n13390139_d_8" docsrc="n13390139_d">
+      <context> a United_States coin worth one twentieth of a <head>dollar</head> ;</context>
+    </instance>
+    <instance id="n13390244_d_10" docsrc="n13390244_d">
+      <context> a United_States or Canadian coin worth one fourth of a <head>dollar</head> ;</context>
+    </instance>
+    <instance id="n13390405_d_7" docsrc="n13390405_d">
+      <context> a United_States coin worth half of a <head>dollar</head> ;</context>
+    </instance>
+    <instance id="n13391967_d_5" docsrc="n13391967_d">
+      <context> a United_States coin worth one <head>dollar</head> ;</context>
+    </instance>
+    <instance id="n13391967_ex1_1" docsrc="n13391967_ex1">
+      <context> the <head>dollar</head> coin has never been popular in the United States ;</context>
+    </instance>
+    <instance id="n13392357_d_9" docsrc="n13392357_d">
+      <context> a former gold coin in the United_States worth 20 <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n13392472_d_9" docsrc="n13392472_d">
+      <context> a former gold coin in the United_States worth 10 <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n13392580_d_8" docsrc="n13392580_d">
+      <context> a former gold coin in United_States worth 5 <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n13395074_d_5" docsrc="n13395074_d">
+      <context> a United_States bill worth 100 <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n13395187_d_5" docsrc="n13395187_d">
+      <context> a United_States bill worth 50 <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n13395296_d_5" docsrc="n13395296_d">
+      <context> a United_States bill worth 20 <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n13395407_d_5" docsrc="n13395407_d">
+      <context> a United_States bill worth 10 <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n13395515_d_5" docsrc="n13395515_d">
+      <context> a United_States bill worth 5 <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n13395652_d_1" docsrc="n13395652_d">
+      <context> five <head>dollars</head> worth of a drug ;</context>
+    </instance>
+    <instance id="n13395799_d_5" docsrc="n13395799_d">
+      <context> a United_States bill worth 2 <head>dollars</head> ;</context>
+    </instance>
+    <instance id="n13395897_d_5" docsrc="n13395897_d">
+      <context> a piece_of_paper money worth one <head>dollar</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

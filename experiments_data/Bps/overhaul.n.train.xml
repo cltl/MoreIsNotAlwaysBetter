@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="overhaul.n" pos="NN">
+    <instance id="n00268112_ex1_5" docsrc="n00268112_ex1">
+      <context> it was time for an <head>overhaul</head> on the tractor ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="shareholder.n" pos="NN">
+    <instance id="a00360442_d_5" docsrc="a00360442_d">
+      <context> owned by a relatively few <head>shareholders</head> ;</context>
+    </instance>
+    <instance id="n00174782_d_15" docsrc="n00174782_d">
+      <context> a takeover_bid so attractive that the directors of the target_company must approve it or risk <head>shareholder</head> protest ;</context>
+    </instance>
+    <instance id="n00174950_d_18" docsrc="n00174950_d">
+      <context> a measure used by an acquirer to gain control of a takeover_target ; acquirer tries to persuade other <head>shareholders</head> that the management of the target should be replaced ;</context>
+    </instance>
+    <instance id="n00439043_d_14" docsrc="n00439043_d">
+      <context> an increase in the number of outstanding shares of a corporation without changing the <head>shareholders'</head> equity ;</context>
+    </instance>
+    <instance id="n00439284_d_14" docsrc="n00439284_d">
+      <context> a decrease in the number of outstanding shares of a corporation without changing the <head>shareholders'</head> equity ;</context>
+    </instance>
+    <instance id="n05188367_d_9" docsrc="n05188367_d">
+      <context> the 
+     _to_vote ; especially the right of a common <head>shareholder</head> to in person or by proxy on the affairs of a company ;</context>
+    </instance>
+    <instance id="n06531141_d_5" docsrc="n06531141_d">
+      <context> a power_of_attorney document given by <head>shareholders</head> of a corporation authorizing a specific vote on their behalf at a corporate meeting ;</context>
+    </instance>
+    <instance id="n07166432_d_6" docsrc="n07166432_d">
+      <context> an offering of common_stock to existing <head>shareholders</head> who hold subscription_rights or pre-emptive_rights that entitle them to buy newly issued shares at a discount from the price at which they will be offered to the public later ;</context>
+    </instance>
+    <instance id="n08383417_d_25" docsrc="n08383417_d">
+      <context> a company ( usually unincorporated ) which has the capital of its members pooled in a common fund ; transferable shares represent ownership interest ; <head>shareholders</head> are legally liable for all debts of the company ;</context>
+    </instance>
+    <instance id="n08384041_d_11" docsrc="n08384041_d">
+      <context> stock is publicly traded but most is held by a few <head>shareholders</head> who have no plans to sell ;</context>
+    </instance>
+    <instance id="n13241182_d_22" docsrc="n13241182_d">
+      <context> the right granting to shareholders the first opportunity to buy a new issue of stock ; provides protection against dilution of the <head>shareholder's</head> ownership interest ;</context>
+    </instance>
+    <instance id="n13241182_d_4" docsrc="n13241182_d">
+      <context> the right granting to <head>shareholders</head> the first opportunity to buy a new issue of stock ; provides protection against dilution of the shareholder's ownership interest ;</context>
+    </instance>
+    <instance id="n13241407_d_4" docsrc="n13241407_d">
+      <context> the right of a <head>shareholder</head> in a company to subscribe to shares of a new issue of common_stock before it is offered to the public ;</context>
+    </instance>
+    <instance id="n13333420_d_4" docsrc="n13333420_d">
+      <context> the ownership interest of <head>shareholders</head> in a corporation ;</context>
+    </instance>
+    <instance id="n13335172_d_23" docsrc="n13335172_d">
+      <context> stock other than preferred_stock ; entitles the owner to a share of the corporation's profits and a share of the voting power in <head>shareholder</head> elections ;</context>
+    </instance>
+    <instance id="n13336650_d_3" docsrc="n13336650_d">
+      <context> shares owned by <head>shareholders</head> who have a controlling_interest ;</context>
+    </instance>
+    <instance id="n13380667_d_10" docsrc="n13380667_d">
+      <context> an order_of_payment ( such as a check payable to a <head>shareholder</head> ) in which a dividend is paid ;</context>
+    </instance>
+    <instance id="n13408023_d_13" docsrc="n13408023_d">
+      <context> that part of the earnings of a corporation that is distributed to its <head>shareholders</head> ; usually paid quarterly ;</context>
+    </instance>
+    <instance id="n13408473_d_5" docsrc="n13408473_d">
+      <context> a dividend paid to compensate <head>shareholders</head> for losses resulting from a change in the dividend schedule ;</context>
+    </instance>
+    <instance id="n13417071_d_4" docsrc="n13417071_d">
+      <context> a certificate documenting the <head>shareholder's</head> ownership in the corporation ;</context>
+    </instance>
+    <instance id="n13420221_d_7" docsrc="n13420221_d">
+      <context> shares in a corporation that entitle the <head>shareholder</head> to voting and proxy ;</context>
+    </instance>
+  </lexelt>
+</corpus>

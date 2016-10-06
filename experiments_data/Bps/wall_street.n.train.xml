@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="wall_street.n" pos="NN">
+    <instance id="br-g39#w1352_0" docsrc="br-g39">
+      <context> For him Mercer produced the lyric to `` Out_of_Breath_Scared_to_Death_of_You '' , introduced in that most successful of all the Gaieties , by Sterling_Holloway . This 1930 edition also had songs in it by Vernon_Duke and Ira_Gershwin , by E._Y._Harburg and Duke , and by Harry_Myers . Entrance into such stellar song writing company encouraged the burgeoning song_writer to take a wife , Elizabeth_Meehan , a dancer in the Gaieties . The Mercers took_up residence in Brooklyn , and Mercer found a regular job in <head>Wall_Street</head> `` misplacing stocks and bonds '' . When he heard that Paul_Whiteman was looking_for singers to replace the Rhythm_Boys , Mercer applied and got the job , `` not for my voice , I 'm sure , but because I could write songs and material generally '' . While with the Whiteman band Mercer met Jerry_Arlen . He had yet to meet Harold_Arlen , for although they had `` collaborated '' on `` Satan 's Li ' l Lamb '' , Mercer and Harburg had worked from a lead_sheet the composer had furnished them .</context>
+    </instance>
+    <instance id="br-k16#w926_0" docsrc="br-k16">
+      <context> He drove on , wary and shaken . The Sons were out tonight . New_York lay bleaching in the summer sun , and the morning fish_hawk , flying in the heated air , saw below him the long triangular wedge of Manhattan_Island . It was thickly_settled by fifteen thousand citizens and laid_out into pig infested streets , mostly around the Battery , going bravely north to <head>Wall_Street</head> , but giving_up and becoming fields and farms in the region of Harlem_Heights . From there it looked_across at Westchester_County and the Hudson_River where the manor_houses , estates , and big farms of the original ( non Indian ) landowners began . On the east_side of the island of Manhattan the indifferent hawk knew the East_River that connected New_York_Bay with Long_Island_Sound . On the western tip of Long_Island protruded Brooklyn_Heights .</context>
+    </instance>
+  </lexelt>
+</corpus>

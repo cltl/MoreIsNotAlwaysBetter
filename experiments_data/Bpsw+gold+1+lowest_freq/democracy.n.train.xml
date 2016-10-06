@@ -1,0 +1,635 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="democracy.n" pos="NN">
+    <instance id="Democracy-democracy-0-0-1" docsrc="Democracy">
+      <context> <head>Democracy</head> , or democratic government , is " a system of government in which all the people of a state or polity ... are involved in making decisions about its affairs , typically by voting to elect representatives to a parliament or similar assembly " , as defined by the Oxford English Dictionary . Democracy is further defined as ( a : ) " government by the people ; especially : rule of the majority ( b : ) " a government in which the supreme power is vested in the people and exercised by them directly or indirectly through a system of representation usually involving periodically held free elections . "</context>
+    </instance>
+    <instance id="Democracy-democracy-0-1-2" docsrc="Democracy">
+      <context> <head>According</head> to political scientist Larry Diamond , it consists of four key elements : ( a ) A political system for choosing and replacing the government through free and fair elections ; ( b ) The active participation of the people , as citizens , in politics and civic life ; ( c ) Protection of the human rights of all citizens , and ( d ) A rule of law , in which the laws and procedures apply equally to all citizens . Democracy contrasts with forms of government where power is either held by an individual , as in an absolute monarchy , or where power is held by a small number of individuals , as in an oligarchy .</context>
+    </instance>
+    <instance id="Democracy-democracy-0-100-6" docsrc="Democracy">
+      <context> <head>The</head> Polity work is sponsored by the Political Instability Task Force ( PITF ) which is funded by the U.S. Central Intelligence Agency . However , the views expressed in the reports are the authors ' alone and do not represent the views of the US Government . Democracy has taken a number of forms , both in theory and practice .</context>
+    </instance>
+    <instance id="Democracy-democracy-0-176-4" docsrc="Democracy">
+      <context> <head>This</head> system ultimately manifests itself as council democracy and begins with workplace democracy . ( See Democracy in Marxism . ) Democracy can not consist solely of elections that are nearly always fictitious and managed by rich landowners and professional politicians .</context>
+    </instance>
+    <instance id="Democracy-democracy-0-228-3" docsrc="Democracy">
+      <context> <head>The</head> main idea about Creative Democracy is that democracy encourages individual capacity building and the interaction among the society . Dewey argues that democracy is a way of life in his work of " " Creative Democracy : The Task Before Us "   and an experience built on faith in human nature , faith in human beings , and faith in working with others . Democracy , in Dewey 's view , is a moral ideal requiring actual effort and work by people ; it is not an institutional concept that exists outside of ourselves . "</context>
+    </instance>
+    <instance id="Democracy-democracy-0-262-1" docsrc="Democracy">
+      <context> <head>====</head> Radical ==== Radical democracy is based on the idea that there are hierarchical and oppressive power relations that exist in society . Democracy 's role is to make visible and challenge those relations by allowing for difference , dissent and antagonisms in decision making processes .</context>
+    </instance>
+    <instance id="Democracy-democracy-0-306-7" docsrc="Democracy">
+      <context> <head>The</head> seat of power is there , but remains open to constant change . As such , what " democracy " is or what is " democratic " progresses throughout history as a continual and potentially never ending process of social construction . Democracy at DMOZ</context>
+    </instance>
+    <instance id="Democracy-democracy-0-322-1" docsrc="Democracy">
+      <context> <head>Democracy</head> at DMOZ Centre for Democratic Network Governance Democracy at the Stanford Encyclopedia of Philosophy</context>
+    </instance>
+    <instance id="Democracy-democracy-0-328-1" docsrc="Democracy">
+      <context> <head>The</head> Nature of Athenian Democracy , Clio History Journal , 2009 . Alexis de Tocqueville , Democracy in America Full hypertext with critical essays on America in 1831–32 from American Studies at the University of Virginia Democracy Watch ( Canada ) –</context>
+    </instance>
+    <instance id="Democracy-democracy-1-124-2" docsrc="Democracy">
+      <context> ==== <head>Representative</head> ==== Representative democracy involves the election of government officials by the people being represented .</context>
+    </instance>
+    <instance id="Democracy-democracy-1-13-1" docsrc="Democracy">
+      <context> With <head>its</head> emphasis on notions of social contract and the collective will of all the voters , democracy can also be characterised as a form of political collectivism because it is defined as a form of government in which all eligible citizens have an equal say in lawmaking . While representative democracy is sometimes equated with the republican form of government , the term " republic " classically has encompassed both democracies and aristocracies . Many democracies are constitutional monarchies , such as the United Kingdom .</context>
+    </instance>
+    <instance id="Democracy-democracy-1-130-2" docsrc="Democracy">
+      <context> ===== <head>Parliamentary</head> ===== Parliamentary democracy is a representative democracy where government is appointed by , or can be dismissed by , representatives as opposed to a " presidential rule " wherein the president is both head of state and the head of government and is elected by the voters .</context>
+    </instance>
+    <instance id="Democracy-democracy-1-136-2" docsrc="Democracy">
+      <context> ===== <head>Presidential</head> ===== Presidential Democracy is a system where the public elects the president through free and fair elections .</context>
+    </instance>
+    <instance id="Democracy-democracy-1-175-1" docsrc="Democracy">
+      <context> ==== <head>Socialist</head> ==== Socialist thought has several different views on democracy . Social democracy , democratic socialism , and the dictatorship of the proletariat ( usually exercised through Soviet democracy ) are some examples .</context>
+    </instance>
+    <instance id="Democracy-democracy-1-219-2" docsrc="Democracy">
+      <context> ==== <head>Cosmopolitan</head> ==== Cosmopolitan democracy , also known as Global democracy or World Federalism , is a political system in which democracy is implemented on a global scale , either directly or through representatives .</context>
+    </instance>
+    <instance id="Democracy-democracy-1-221-3" docsrc="Democracy">
+      <context> An <head>important</head> justification for this kind of system is that the decisions made in national or regional democracies often affect people outside the constituency who , by definition , can not vote . By contrast , in a cosmopolitan democracy , the people who are affected by decisions also have a say in them . Cosmopolitan Democracy has been promoted , among others , by physicist Albert Einstein , writer Kurt Vonnegut , columnist George Monbiot , and professors David Held and Daniele Archibugi .</context>
+    </instance>
+    <instance id="Democracy-democracy-1-226-1" docsrc="Democracy">
+      <context> The <head>creation</head> of the International Criminal Court in 2003 was seen as a major step forward by many supporters of this type of cosmopolitan democracy . ==== Creative Democracy ==== Creative Democracy is advocated by American philosopher John Dewey .</context>
+    </instance>
+    <instance id="Democracy-democracy-1-23-3" docsrc="Democracy">
+      <context> The <head>exclusion</head> of large parts of the population from the citizen body is closely related to the ancient understanding of citizenship . In most of antiquity the benefit of citizenship was tied to the obligation to fight war campaigns . Athenian democracy was not only direct in the sense that decisions were made by the assembled people , but also the most direct in the sense that the people through the assembly , boule and courts of law controlled the entire political process and a large proportion of citizens were involved constantly in the public business .</context>
+    </instance>
+    <instance id="Democracy-democracy-1-261-1" docsrc="Democracy">
+      <context> ==== <head>Deliberative</head> ==== ==== Radical ==== Radical democracy is based on the idea that there are hierarchical and oppressive power relations that exist in society .</context>
+    </instance>
+    <instance id="Democracy-democracy-1-329-1" docsrc="Democracy">
+      <context> Alexis <head>de</head> Tocqueville , Democracy in America Full hypertext with critical essays on America in 1831–32 from American Studies at the University of Virginia Democracy Watch ( Canada ) – Leading democracy monitoring organisation</context>
+    </instance>
+    <instance id="Democracy-democracy-1-98-4" docsrc="Democracy">
+      <context> It <head>was</head> created in 1994 . In its 2011 report , the U.S. was ranked 38th in overall human rights . The Democracy Index , published by the U.K.-based Economist Intelligence Unit , is an assessment of countries ' democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-1-99-2" docsrc="Democracy">
+      <context> The <head>Democracy</head> Index , published by the U.K.-based Economist Intelligence Unit , is an assessment of countries ' democracy . Countries are rated to be either Full Democracies , Flawed Democracies , Hybrid Regimes , or Authoritarian regimes . Full democracies , flawed democracies , and hybrid regimes are considered to be democracies , and the authoritarian nations are considered to be dictatorial .</context>
+    </instance>
+    <instance id="Democracy-democracy-10-11-4" docsrc="Democracy">
+      <context> An essential part of an " ideal " representative democracy <head>is</head> competitive elections that are substantively and procedurally " fair , " i.e. , just and equitable . In some countries , freedom of political expression , freedom of speech , and freedom of the press are considered important to ensure that voters are well informed enabling them to vote according to their own interests . It has also been suggested that a basic feature of democracy is the capacity of all voters to participate freely and fully in the life of their society .</context>
+    </instance>
+    <instance id="Democracy-democracy-10-213-1" docsrc="Democracy">
+      <context> ==== Inclusive ==== ==== Participatory politics ==== A Parpolity or <head>Participatory</head> Polity is a theoretical form of democracy that is ruled by a Nested Council structure .</context>
+    </instance>
+    <instance id="Democracy-democracy-10-240-1" docsrc="Democracy">
+      <context> He also thought that there was a good and a <head>bad</head> variant of each system ( he considered democracy to be the degenerate counterpart to polity ) . For Aristotle the underlying principle of democracy is freedom , since only in a democracy the citizens can have a share in freedom . In essence , he argues that this is what every democracy should make its aim .</context>
+    </instance>
+    <instance id="Democracy-democracy-10-254-3" docsrc="Democracy">
+      <context> He uses the term polyarchy to refer to societies in <head>which</head> there exists a certain set of institutions and procedures which are perceived as leading to such democracy . First and foremost among these institutions is the regular occurrence of free and open elections which are used to select representatives who then manage all or most of the public policy of the society . However , these polyarchic procedures may not create a full democracy if , for example , poverty prevents political participation .</context>
+    </instance>
+    <instance id="Democracy-democracy-10-7-3" docsrc="Democracy">
+      <context> These principles are reflected in all eligible citizens being equal <head>before</head> the law and having equal access to legislative processes . For example , in a representative democracy , every vote has equal weight , no unreasonable restrictions can apply to anyone seeking to become a representative , and the freedom of its eligible citizens is secured by legitimised rights and liberties which are typically protected by a constitution . Other uses of " democracy " include that of direct democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-10-99-1" docsrc="Democracy">
+      <context> In its 2011 report , the U.S. was ranked 38th <head>in</head> overall human rights . The Democracy Index , published by the U.K.-based Economist Intelligence Unit , is an assessment of countries ' democracy . Countries are rated to be either Full Democracies , Flawed Democracies , Hybrid Regimes , or Authoritarian regimes .</context>
+    </instance>
+    <instance id="Democracy-democracy-11-86-2" docsrc="Democracy">
+      <context> The liberal trend spread to some nations in Africa in the <head>1990s</head> , most prominently in South Africa . Some recent examples of attempts of liberalisation include the Indonesian Revolution of 1998 , the Bulldozer Revolution in Yugoslavia , the Rose Revolution in Georgia , the Orange Revolution in Ukraine , the Cedar Revolution in Lebanon , the Tulip Revolution in Kyrgyzstan , and the Jasmine Revolution in Tunisia . According to Freedom House , in 2007 there were 123 electoral democracies ( up from 40 in 1972 ) .</context>
+    </instance>
+    <instance id="Democracy-democracy-12-148-1" docsrc="Democracy">
+      <context> This may be the reason why presidential democracy is not very common <head>outside</head> the Americas , Africa , and Central and Southeast Asia . In New England , Town meetings are often used , especially in rural areas , to manage local government . This creates a hybrid form of government , with a local direct democracy and a state government which is representative .</context>
+    </instance>
+    <instance id="Democracy-democracy-12-163-1" docsrc="Democracy">
+      <context> Republic ==== The term republic has many different meanings , but today <head>often</head> refers to a representative democracy with an elected head of state , such as a president , serving for a limited term , in contrast to states with a hereditary monarch as a head of state , even if these states also are representative democracies with an elected or appointed head of government such as a prime minister . The Founding Fathers of the United States rarely praised and often criticised democracy , which in their time tended to specifically mean direct democracy , often without the protection of a constitution enshrining basic rights ; James Madison argued , especially in The Federalist No . 10 , that what distinguished a democracy from a republic was that the former became weaker as it got larger and suffered more violently from the effects of faction , whereas a republic could get stronger as it got larger and combats faction by its very structure .</context>
+    </instance>
+    <instance id="Democracy-democracy-12-176-2" docsrc="Democracy">
+      <context> Within Marxist orthodoxy there is a hostility to what is commonly called <head>"</head> liberal democracy " , which they simply refer to as parliamentary democracy because of its often centralised nature . Because of their desire to eliminate the political elitism they see in capitalism , Marxists , Leninists and Trotskyists believe in direct democracy implemented through a system of communes ( which are sometimes called soviets ) . This system ultimately manifests itself as council democracy and begins with workplace democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-12-278-3" docsrc="Democracy">
+      <context> 10 , arguing that representative democracy—which he described using the term " <head>republic"—is</head> a preferable form of government , saying : " ... democracies have ever been spectacles of turbulence and contention ; have ever been found incompatible with personal security or the rights of property ; and have in general been as short in their lives as they have been violent in their deaths . " Madison offered that republics were superior to democracies because republics safeguarded against tyranny of the majority , stating in Federalist No . 10 : " the same advantage which a republic has over a democracy , in controlling the effects of faction , is enjoyed by a large over a small republic " .</context>
+    </instance>
+    <instance id="Democracy-democracy-12-282-4" docsrc="Democracy">
+      <context> Even if a political party maintains power , vociferous , headline grabbing <head>protests</head> and harsh criticism from the mass media are often enough to force sudden , unexpected political change . Frequent policy changes with regard to business and immigration are likely to deter investment and so hinder economic growth . For this reason , many people have put forward the idea that democracy is undesirable for a developing country in which economic growth and the reduction of poverty are top priorities .</context>
+    </instance>
+    <instance id="Democracy-democracy-12-301-3" docsrc="Democracy">
+      <context> By the 1800s , guns were the best personal weapons available , <head>and</head> in America , almost everyone could afford to buy a gun , and could learn how to use it fairly easily . Governments could n't do any better : it became the age of mass armies of citizen soldiers with guns Similarly , Periclean Greece was an age of the citizen soldier and democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-12-303-4" docsrc="Democracy">
+      <context> Neither is there convincing evidence that increased reliance on oil revenues prevents <head>democratisation</head> , despite a vast theoretical literature on " the Resource Curse " that asserts that oil revenues sever the link between citizen taxation and government accountability , seen as the key to representative democracy . The lack of evidence for these conventional theories of democratisation have led researchers to search for the " deep " determinants of contemporary political institutions , be they geographical or demographic . Dr. Harald Wydra , in his book Communism and The Emergence of Democracy ( 2007 ) , maintains that the development of democracy should not be viewed as a purely procedural or as a static concept but rather as an ongoing " process of meaning formation " .</context>
+    </instance>
+    <instance id="Democracy-democracy-12-8-1" docsrc="Democracy">
+      <context> Other uses of " democracy " include that of direct democracy . <head>One</head> theory holds that democracy requires three fundamental principles : ( 1 ) upward control , i.e. sovereignty residing at the lowest levels of authority , ( 2 ) political equality , and ( 3 ) social norms by which individuals and institutions only consider acceptable acts that reflect the first two principles of upward control and political equality . The term " democracy " is sometimes used as shorthand for liberal democracy , which is a variant of representative democracy that may include elements such as political pluralism ; equality before the law ; the right to petition elected officials for redress of grievances ; due process ; civil liberties ; human rights ; and elements of civil society outside the government .</context>
+    </instance>
+    <instance id="Democracy-democracy-12-87-3" docsrc="Democracy">
+      <context> According to World Forum on Democracy , electoral democracies now represent 120 <head>of</head> the 192 existing countries and constitute 58.2 percent of the world 's population . At the same time liberal democracies i.e. countries Freedom House regards as free and respectful of basic human rights and the rule of law are 85 in number and represent 38 percent of the global population . In 2007 the United Nations declared September 15 the International Day of Democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-13-276-1" docsrc="Democracy">
+      <context> ==== Popular rule as a façade ==== ==== Mob rule ==== James Madison <head>critiqued</head> direct democracy ( which he referred to simply as " democracy " ) in Federalist No .</context>
+    </instance>
+    <instance id="Democracy-democracy-13-299-2" docsrc="Democracy">
+      <context> Several philosophers and researchers have outlined historical and social factors seen as supporting <head>the</head> evolution of democracy . Cultural factors like Protestantism influenced the development of democracy , rule of law , human rights and political liberty ( the faithful elected priests , religious freedom and tolerance has been practiced ) . Carroll Quigley concludes that the characteristics of weapons are the main predictor of democracy : Democracy tends to emerge only when the best weapons available are easy for individuals to buy and use .</context>
+    </instance>
+    <instance id="Democracy-democracy-13-99-2" docsrc="Democracy">
+      <context> The Democracy Index , published by the U.K.-based Economist Intelligence Unit , is <head>an</head> assessment of countries ' democracy . Countries are rated to be either Full Democracies , Flawed Democracies , Hybrid Regimes , or Authoritarian regimes . Full democracies , flawed democracies , and hybrid regimes are considered to be democracies , and the authoritarian nations are considered to be dictatorial .</context>
+    </instance>
+    <instance id="Democracy-democracy-14-175-3" docsrc="Democracy">
+      <context> Social democracy , democratic socialism , and the dictatorship of the proletariat ( usually <head>exercised</head> through Soviet democracy ) are some examples . Many democratic socialists and social democrats believe in a form of participatory , industrial , economic and/or workplace democracy combined with a representative democracy . Within Marxist orthodoxy there is a hostility to what is commonly called " liberal democracy " , which they simply refer to as parliamentary democracy because of its often centralised nature .</context>
+    </instance>
+    <instance id="Democracy-democracy-14-239-2" docsrc="Democracy">
+      <context> Aristotle contrasted rule by the many ( democracy/polity ) , with rule by the <head>few</head> ( oligarchy/aristocracy ) , and with rule by a single person ( tyranny or today autocracy/absolute monarchy ) . He also thought that there was a good and a bad variant of each system ( he considered democracy to be the degenerate counterpart to polity ) . For Aristotle the underlying principle of democracy is freedom , since only in a democracy the citizens can have a share in freedom .</context>
+    </instance>
+    <instance id="Democracy-democracy-15-161-2" docsrc="Democracy">
+      <context> ==== Republic ==== The term republic has many different meanings , but today often refers <head>to</head> a representative democracy with an elected head of state , such as a president , serving for a limited term , in contrast to states with a hereditary monarch as a head of state , even if these states also are representative democracies with an elected or appointed head of government such as a prime minister .</context>
+    </instance>
+    <instance id="Democracy-democracy-15-245-2" docsrc="Democracy">
+      <context> === Rationale === Among modern political theorists , there are three contending conceptions of the <head>fundamental</head> rationale for democracy : aggregative democracy , deliberative democracy , and radical democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-15-299-2" docsrc="Democracy">
+      <context> Several philosophers and researchers have outlined historical and social factors seen as supporting the evolution <head>of</head> democracy . Cultural factors like Protestantism influenced the development of democracy , rule of law , human rights and political liberty ( the faithful elected priests , religious freedom and tolerance has been practiced ) . Carroll Quigley concludes that the characteristics of weapons are the main predictor of democracy : Democracy tends to emerge only when the best weapons available are easy for individuals to buy and use .</context>
+    </instance>
+    <instance id="Democracy-democracy-16-228-2" docsrc="Democracy">
+      <context> Creative Democracy is advocated by American philosopher John Dewey . The main idea about Creative Democracy <head>is</head> that democracy encourages individual capacity building and the interaction among the society . Dewey argues that democracy is a way of life in his work of " " Creative Democracy : The Task Before Us "   and an experience built on faith in human nature , faith in human beings , and faith in working with others .</context>
+    </instance>
+    <instance id="Democracy-democracy-16-291-2" docsrc="Democracy">
+      <context> ==== Opposition ==== Several philosophers and researchers have outlined historical and social factors seen as supporting <head>the</head> evolution of democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-17-12-1" docsrc="Democracy">
+      <context> In some countries , freedom of political expression , freedom of speech , and freedom of the <head>press</head> are considered important to ensure that voters are well informed enabling them to vote according to their own interests . It has also been suggested that a basic feature of democracy is the capacity of all voters to participate freely and fully in the life of their society . With its emphasis on notions of social contract and the collective will of all the voters , democracy can also be characterised as a form of political collectivism because it is defined as a form of government in which all eligible citizens have an equal say in lawmaking .</context>
+    </instance>
+    <instance id="Democracy-democracy-17-175-1" docsrc="Democracy">
+      <context> ==== Socialist ==== Socialist thought has several different views on democracy . Social democracy , democratic socialism <head>,</head> and the dictatorship of the proletariat ( usually exercised through Soviet democracy ) are some examples .</context>
+    </instance>
+    <instance id="Democracy-democracy-17-221-1" docsrc="Democracy">
+      <context> Cosmopolitan ==== Cosmopolitan democracy , also known as Global democracy or World Federalism , is a political <head>system</head> in which democracy is implemented on a global scale , either directly or through representatives . An important justification for this kind of system is that the decisions made in national or regional democracies often affect people outside the constituency who , by definition , can not vote .</context>
+    </instance>
+    <instance id="Democracy-democracy-18-127-3" docsrc="Democracy">
+      <context> Some representative democracies also incorporate elements of direct democracy , such as referendums . A characteristic of representative <head>democracy</head> is that while the representatives are elected by the people to act in the people 's interest , they retain the freedom to exercise their own judgement as how best to do so . Such reasons have driven criticism upon representative democracy , pointing out the contradictions of representation mechanisms ' with democracy</context>
+    </instance>
+    <instance id="Democracy-democracy-18-175-2" docsrc="Democracy">
+      <context> Socialist thought has several different views on democracy . Social democracy , democratic socialism , and the dictatorship <head>of</head> the proletariat ( usually exercised through Soviet democracy ) are some examples . Many democratic socialists and social democrats believe in a form of participatory , industrial , economic and/or workplace democracy combined with a representative democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-18-219-2" docsrc="Democracy">
+      <context> ==== Cosmopolitan ==== Cosmopolitan democracy , also known as Global democracy or World Federalism , is a political <head>system</head> in which democracy is implemented on a global scale , either directly or through representatives .</context>
+    </instance>
+    <instance id="Democracy-democracy-18-239-1" docsrc="Democracy">
+      <context> Aristotle === Aristotle contrasted rule by the many ( democracy/polity ) , with rule by the few ( <head>oligarchy/aristocracy</head> ) , and with rule by a single person ( tyranny or today autocracy/absolute monarchy ) . He also thought that there was a good and a bad variant of each system ( he considered democracy to be the degenerate counterpart to polity ) .</context>
+    </instance>
+    <instance id="Democracy-democracy-18-245-2" docsrc="Democracy">
+      <context> === Rationale === Among modern political theorists , there are three contending conceptions of the fundamental rationale for <head>democracy</head> : aggregative democracy , deliberative democracy , and radical democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-18-98-4" docsrc="Democracy">
+      <context> It was created in 1994 . In its 2011 report , the U.S. was ranked 38th in overall <head>human</head> rights . The Democracy Index , published by the U.K.-based Economist Intelligence Unit , is an assessment of countries ' democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-19-303-1" docsrc="Democracy">
+      <context> Similarly , Periclean Greece was an age of the citizen soldier and democracy . Evidence that is consistent with <head>conventional</head> theories of why democracy emerges and is sustained has been hard to come by . Recent statistical analyses have challenged modernisation theory by demonstrating that there is no reliable evidence for the claim that democracy is more likely to emerge when countries become wealthier , more educated , or less unequal .</context>
+    </instance>
+    <instance id="Democracy-democracy-2-11-1" docsrc="Democracy">
+      <context> Though the <head>term</head> " democracy " is typically used in the context of a political state , the principles also are applicable to private organisations . Majority rule is often listed as a characteristic of democracy . Hence , democracy allows for political minorities to be oppressed by the " tyranny of the majority " in the absence of legal protections of individual or group rights .</context>
+    </instance>
+    <instance id="Democracy-democracy-2-12-2" docsrc="Democracy">
+      <context> It has <head>also</head> been suggested that a basic feature of democracy is the capacity of all voters to participate freely and fully in the life of their society . With its emphasis on notions of social contract and the collective will of all the voters , democracy can also be characterised as a form of political collectivism because it is defined as a form of government in which all eligible citizens have an equal say in lawmaking . While representative democracy is sometimes equated with the republican form of government , the term " republic " classically has encompassed both democracies and aristocracies .</context>
+    </instance>
+    <instance id="Democracy-democracy-2-127-1" docsrc="Democracy">
+      <context> Most western <head>countries</head> have representative systems . Representatives may be elected or become diplomatic representatives by a particular district ( or constituency ) , or represent the entire electorate through proportional systems , with some using a combination of the two . Some representative democracies also incorporate elements of direct democracy , such as referendums .</context>
+    </instance>
+    <instance id="Democracy-democracy-2-165-3" docsrc="Democracy">
+      <context> As Benjamin <head>Franklin</head> was exiting after writing the U.S. constitution , a woman asked him " Well , Doctor , what have we got—a republic or a monarchy ? " . He replied " A republic—if you can keep it . " ==== Liberal democracy ====</context>
+    </instance>
+    <instance id="Democracy-democracy-2-176-3" docsrc="Democracy">
+      <context> Because of <head>their</head> desire to eliminate the political elitism they see in capitalism , Marxists , Leninists and Trotskyists believe in direct democracy implemented through a system of communes ( which are sometimes called soviets ) . This system ultimately manifests itself as council democracy and begins with workplace democracy . ( See Democracy in Marxism . )</context>
+    </instance>
+    <instance id="Democracy-democracy-2-192-2" docsrc="Democracy">
+      <context> ==== Consociational <head>====</head> ==== Consensus democracy ====</context>
+    </instance>
+    <instance id="Democracy-democracy-2-223-2" docsrc="Democracy">
+      <context> Cosmopolitan Democracy <head>has</head> been promoted , among others , by physicist Albert Einstein , writer Kurt Vonnegut , columnist George Monbiot , and professors David Held and Daniele Archibugi . The creation of the International Criminal Court in 2003 was seen as a major step forward by many supporters of this type of cosmopolitan democracy . ==== Creative Democracy ====</context>
+    </instance>
+    <instance id="Democracy-democracy-20-8-1" docsrc="Democracy">
+      <context> Other uses of " democracy " include that of direct democracy . One theory holds that democracy requires three fundamental <head>principles</head> : ( 1 ) upward control , i.e. sovereignty residing at the lowest levels of authority , ( 2 ) political equality , and ( 3 ) social norms by which individuals and institutions only consider acceptable acts that reflect the first two principles of upward control and political equality . The term " democracy " is sometimes used as shorthand for liberal democracy , which is a variant of representative democracy that may include elements such as political pluralism ; equality before the law ; the right to petition elected officials for redress of grievances ; due process ; civil liberties ; human rights ; and elements of civil society outside the government .</context>
+    </instance>
+    <instance id="Democracy-democracy-21-245-2" docsrc="Democracy">
+      <context> === Rationale === Among modern political theorists , there are three contending conceptions of the fundamental rationale for democracy : aggregative <head>democracy</head> , deliberative democracy , and radical democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-22-12-2" docsrc="Democracy">
+      <context> It has also been suggested that a basic feature of democracy is the capacity of all voters to participate freely and fully <head>in</head> the life of their society . With its emphasis on notions of social contract and the collective will of all the voters , democracy can also be characterised as a form of political collectivism because it is defined as a form of government in which all eligible citizens have an equal say in lawmaking . While representative democracy is sometimes equated with the republican form of government , the term " republic " classically has encompassed both democracies and aristocracies .</context>
+    </instance>
+    <instance id="Democracy-democracy-22-176-1" docsrc="Democracy">
+      <context> Many democratic socialists and social democrats believe in a form of participatory , industrial , economic and/or workplace democracy combined with a <head>representative</head> democracy . Within Marxist orthodoxy there is a hostility to what is commonly called " liberal democracy " , which they simply refer to as parliamentary democracy because of its often centralised nature . Because of their desire to eliminate the political elitism they see in capitalism , Marxists , Leninists and Trotskyists believe in direct democracy implemented through a system of communes ( which are sometimes called soviets ) .</context>
+    </instance>
+    <instance id="Democracy-democracy-22-303-4" docsrc="Democracy">
+      <context> Neither is there convincing evidence that increased reliance on oil revenues prevents democratisation , despite a vast theoretical literature on " the <head>Resource</head> Curse " that asserts that oil revenues sever the link between citizen taxation and government accountability , seen as the key to representative democracy . The lack of evidence for these conventional theories of democratisation have led researchers to search for the " deep " determinants of contemporary political institutions , be they geographical or demographic . Dr. Harald Wydra , in his book Communism and The Emergence of Democracy ( 2007 ) , maintains that the development of democracy should not be viewed as a purely procedural or as a static concept but rather as an ongoing " process of meaning formation " .</context>
+    </instance>
+    <instance id="Democracy-democracy-23-163-1" docsrc="Democracy">
+      <context> Republic ==== The term republic has many different meanings , but today often refers to a representative democracy with an elected head of <head>state</head> , such as a president , serving for a limited term , in contrast to states with a hereditary monarch as a head of state , even if these states also are representative democracies with an elected or appointed head of government such as a prime minister . The Founding Fathers of the United States rarely praised and often criticised democracy , which in their time tended to specifically mean direct democracy , often without the protection of a constitution enshrining basic rights ; James Madison argued , especially in The Federalist No . 10 , that what distinguished a democracy from a republic was that the former became weaker as it got larger and suffered more violently from the effects of faction , whereas a republic could get stronger as it got larger and combats faction by its very structure .</context>
+    </instance>
+    <instance id="Democracy-democracy-23-175-2" docsrc="Democracy">
+      <context> Socialist thought has several different views on democracy . Social democracy , democratic socialism , and the dictatorship of the proletariat ( usually <head>exercised</head> through Soviet democracy ) are some examples . Many democratic socialists and social democrats believe in a form of participatory , industrial , economic and/or workplace democracy combined with a representative democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-23-278-1" docsrc="Democracy">
+      <context> ==== Mob rule ==== James Madison critiqued direct democracy ( which he referred to simply as " democracy " ) in Federalist No <head>.</head> 10 , arguing that representative democracy—which he described using the term " republic"—is a preferable form of government , saying : " ... democracies have ever been spectacles of turbulence and contention ; have ever been found incompatible with personal security or the rights of property ; and have in general been as short in their lives as they have been violent in their deaths . "</context>
+    </instance>
+    <instance id="Democracy-democracy-24-175-3" docsrc="Democracy">
+      <context> Social democracy , democratic socialism , and the dictatorship of the proletariat ( usually exercised through Soviet democracy ) are some examples . Many <head>democratic</head> socialists and social democrats believe in a form of participatory , industrial , economic and/or workplace democracy combined with a representative democracy . Within Marxist orthodoxy there is a hostility to what is commonly called " liberal democracy " , which they simply refer to as parliamentary democracy because of its often centralised nature .</context>
+    </instance>
+    <instance id="Democracy-democracy-24-223-1" docsrc="Democracy">
+      <context> By contrast , in a cosmopolitan democracy , the people who are affected by decisions also have a say in them . Cosmopolitan Democracy <head>has</head> been promoted , among others , by physicist Albert Einstein , writer Kurt Vonnegut , columnist George Monbiot , and professors David Held and Daniele Archibugi . The creation of the International Criminal Court in 2003 was seen as a major step forward by many supporters of this type of cosmopolitan democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-25-245-2" docsrc="Democracy">
+      <context> === Rationale === Among modern political theorists , there are three contending conceptions of the fundamental rationale for democracy : aggregative democracy , deliberative democracy <head>,</head> and radical democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-27-254-1" docsrc="Democracy">
+      <context> Most importantly , citizens do not really rule themselves unless they directly decide laws and policies . Robert A. Dahl argues that the fundamental democratic principle is <head>that</head> , when it comes to binding collective decisions , each person in a political community is entitled to have his/her interests be given equal consideration ( not necessarily that all people are equally satisfied by the collective decision ) . He uses the term polyarchy to refer to societies in which there exists a certain set of institutions and procedures which are perceived as leading to such democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-106-1" docsrc="Democracy">
+      <context> However , the <head>views</head> expressed in the reports are the authors ' alone and do not represent the views of the US Government . Democracy has taken a number of forms , both in theory and practice . Some varieties of democracy provide better representation and more freedom for their citizens than others .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-111-2" docsrc="Democracy">
+      <context> === Basic forms <head>===</head> Several variants of democracy exist , but there are two basic forms , both of which concern how the whole body of all eligible citizens executes its will .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-112-1" docsrc="Democracy">
+      <context> Basic forms === <head>Several</head> variants of democracy exist , but there are two basic forms , both of which concern how the whole body of all eligible citizens executes its will . One form of democracy is direct democracy , in which all eligible citizens have active participation in the political decision making , for example voting on policy initiatives directly .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-112-2" docsrc="Democracy">
+      <context> Several variants of <head>democracy</head> exist , but there are two basic forms , both of which concern how the whole body of all eligible citizens executes its will . One form of democracy is direct democracy , in which all eligible citizens have active participation in the political decision making , for example voting on policy initiatives directly . In most modern democracies , the whole body of eligible citizens remain the sovereign power but political power is exercised indirectly through elected representatives ; this is called a representative democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-132-1" docsrc="Democracy">
+      <context> Parliamentary ===== Parliamentary <head>democracy</head> is a representative democracy where government is appointed by , or can be dismissed by , representatives as opposed to a " presidential rule " wherein the president is both head of state and the head of government and is elected by the voters . Under a parliamentary democracy , government is exercised by delegation to an executive ministry and subject to ongoing review , checks and balances by the legislative parliament elected by the people .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-187-1" docsrc="Democracy">
+      <context> Anarchist ==== ==== <head>Sortition</head> ==== Sometimes called " democracy without elections " , sortition chooses decision makers via a random process .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-228-2" docsrc="Democracy">
+      <context> Creative Democracy is <head>advocated</head> by American philosopher John Dewey . The main idea about Creative Democracy is that democracy encourages individual capacity building and the interaction among the society . Dewey argues that democracy is a way of life in his work of " " Creative Democracy : The Task Before Us "   and an experience built on faith in human nature , faith in human beings , and faith in working with others .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-228-4" docsrc="Democracy">
+      <context> Dewey argues that <head>democracy</head> is a way of life in his work of " " Creative Democracy : The Task Before Us "   and an experience built on faith in human nature , faith in human beings , and faith in working with others . Democracy , in Dewey 's view , is a moral ideal requiring actual effort and work by people ; it is not an institutional concept that exists outside of ourselves . " The task of democracy " , Dewey concludes , " is forever that of creation of a freer and more humane experience in which all share and to which all contribute " .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-252-1" docsrc="Democracy">
+      <context> Therefore , proponents <head>of</head> this view hold that democratic participation should primarily focus on voting , where the policy with the most votes gets implemented . According to the theory of direct democracy , on the other hand , citizens should vote directly , not through their representatives , on legislative proposals . Proponents of direct democracy offer varied reasons to support this view .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-281-1" docsrc="Democracy">
+      <context> 10 : " <head>the</head> same advantage which a republic has over a democracy , in controlling the effects of faction , is enjoyed by a large over a small republic " . ==== Political instability ==== More recently , democracy is criticised for not offering enough political stability .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-3-2" docsrc="Democracy">
+      <context> Democracy contrasts with <head>forms</head> of government where power is either held by an individual , as in an absolute monarchy , or where power is held by a small number of individuals , as in an oligarchy . Nevertheless , these oppositions , inherited from Greek philosophy , are now ambiguous because contemporary governments have mixed democratic , oligarchic , and monarchic elements . Karl Popper defined democracy in contrast to dictatorship or tyranny , thus focusing on opportunities for the people to control their leaders and to oust them without the need for a revolution .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-336-1" docsrc="Democracy">
+      <context> J.K. Baltzersen : <head>Churchill</head> on Democracy Revisited , ( 24 January 2005 ) GegenStandpunkt : The Democratic State : Critique of Bourgeois Sovereignty Frank Karsten : Democracy Ca n't Be Fixed .</context>
+    </instance>
+    <instance id="Democracy-democracy-3-8-1" docsrc="Democracy">
+      <context> Other uses of <head>"</head> democracy " include that of direct democracy . One theory holds that democracy requires three fundamental principles : ( 1 ) upward control , i.e. sovereignty residing at the lowest levels of authority , ( 2 ) political equality , and ( 3 ) social norms by which individuals and institutions only consider acceptable acts that reflect the first two principles of upward control and political equality . The term " democracy " is sometimes used as shorthand for liberal democracy , which is a variant of representative democracy that may include elements such as political pluralism ; equality before the law ; the right to petition elected officials for redress of grievances ; due process ; civil liberties ; human rights ; and elements of civil society outside the government .</context>
+    </instance>
+    <instance id="Democracy-democracy-30-112-2" docsrc="Democracy">
+      <context> Several variants of democracy exist , but there are two basic forms , both of which concern how the whole body of all eligible citizens executes its will . One <head>form</head> of democracy is direct democracy , in which all eligible citizens have active participation in the political decision making , for example voting on policy initiatives directly . In most modern democracies , the whole body of eligible citizens remain the sovereign power but political power is exercised indirectly through elected representatives ; this is called a representative democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-34-306-1" docsrc="Democracy">
+      <context> The lack of evidence for these conventional theories of democratisation have led researchers to search for the " deep " determinants of contemporary political institutions , be they geographical or demographic . Dr. Harald <head>Wydra</head> , in his book Communism and The Emergence of Democracy ( 2007 ) , maintains that the development of democracy should not be viewed as a purely procedural or as a static concept but rather as an ongoing " process of meaning formation " . Drawing on Claude Lefort 's idea of the empty place of power , that " power emanates from the people [ ... ] but is the power of nobody " , he remarks that democracy is reverence to a symbolic mythical authority as in reality , there is no such thing as the people or demos .</context>
+    </instance>
+    <instance id="Democracy-democracy-4-10-3" docsrc="Democracy">
+      <context> In the United States <head>,</head> separation of powers is often cited as a central attribute . In India , parliamentary sovereignty is subject to the Constitution of India which includes judicial review . Though the term " democracy " is typically used in the context of a political state , the principles also are applicable to private organisations .</context>
+    </instance>
+    <instance id="Democracy-democracy-4-106-2" docsrc="Democracy">
+      <context> Democracy has taken a <head>number</head> of forms , both in theory and practice . Some varieties of democracy provide better representation and more freedom for their citizens than others . However , if any democracy is not structured so as to prohibit the government from excluding the people from the legislative process , or any branch of government from altering the separation of powers in its own favour , then a branch of the system can accumulate too much power and destroy the democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-4-127-2" docsrc="Democracy">
+      <context> Representatives may be elected <head>or</head> become diplomatic representatives by a particular district ( or constituency ) , or represent the entire electorate through proportional systems , with some using a combination of the two . Some representative democracies also incorporate elements of direct democracy , such as referendums . A characteristic of representative democracy is that while the representatives are elected by the people to act in the people 's interest , they retain the freedom to exercise their own judgement as how best to do so .</context>
+    </instance>
+    <instance id="Democracy-democracy-4-249-1" docsrc="Democracy">
+      <context> Among modern political theorists <head>,</head> there are three contending conceptions of the fundamental rationale for democracy : aggregative democracy , deliberative democracy , and radical democracy . ==== Aggregative ==== The theory of aggregative democracy claims that the aim of the democratic processes is to solicit citizens ' preferences and aggregate them together to determine what social policies society should adopt .</context>
+    </instance>
+    <instance id="Democracy-democracy-4-276-1" docsrc="Democracy">
+      <context> ==== Popular rule as <head>a</head> façade ==== ==== Mob rule ==== James Madison critiqued direct democracy ( which he referred to simply as " democracy " ) in Federalist No .</context>
+    </instance>
+    <instance id="Democracy-democracy-4-326-1" docsrc="Democracy">
+      <context> The Economist Intelligence Unit <head>'s</head> index of democracy Ewbank , N. The Nature of Athenian Democracy , Clio History Journal , 2009 .</context>
+    </instance>
+    <instance id="Democracy-democracy-4-326-2" docsrc="Democracy">
+      <context> Ewbank , N. The <head>Nature</head> of Athenian Democracy , Clio History Journal , 2009 . Alexis de Tocqueville , Democracy in America Full hypertext with critical essays on America in 1831–32 from American Studies at the University of Virginia</context>
+    </instance>
+    <instance id="Democracy-democracy-4-7-3" docsrc="Democracy">
+      <context> These principles are reflected <head>in</head> all eligible citizens being equal before the law and having equal access to legislative processes . For example , in a representative democracy , every vote has equal weight , no unreasonable restrictions can apply to anyone seeking to become a representative , and the freedom of its eligible citizens is secured by legitimised rights and liberties which are typically protected by a constitution . Other uses of " democracy " include that of direct democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-4-7-4" docsrc="Democracy">
+      <context> For example , in <head>a</head> representative democracy , every vote has equal weight , no unreasonable restrictions can apply to anyone seeking to become a representative , and the freedom of its eligible citizens is secured by legitimised rights and liberties which are typically protected by a constitution . Other uses of " democracy " include that of direct democracy . One theory holds that democracy requires three fundamental principles : ( 1 ) upward control , i.e. sovereignty residing at the lowest levels of authority , ( 2 ) political equality , and ( 3 ) social norms by which individuals and institutions only consider acceptable acts that reflect the first two principles of upward control and political equality .</context>
+    </instance>
+    <instance id="Democracy-democracy-4-9-1" docsrc="Democracy">
+      <context> One theory holds that <head>democracy</head> requires three fundamental principles : ( 1 ) upward control , i.e. sovereignty residing at the lowest levels of authority , ( 2 ) political equality , and ( 3 ) social norms by which individuals and institutions only consider acceptable acts that reflect the first two principles of upward control and political equality . The term " democracy " is sometimes used as shorthand for liberal democracy , which is a variant of representative democracy that may include elements such as political pluralism ; equality before the law ; the right to petition elected officials for redress of grievances ; due process ; civil liberties ; human rights ; and elements of civil society outside the government . Roger Scruton argues that democracy alone can not provide personal and political freedom unless the institutions of civil society are also present .</context>
+    </instance>
+    <instance id="Democracy-democracy-4-99-2" docsrc="Democracy">
+      <context> The Democracy Index , <head>published</head> by the U.K.-based Economist Intelligence Unit , is an assessment of countries ' democracy . Countries are rated to be either Full Democracies , Flawed Democracies , Hybrid Regimes , or Authoritarian regimes . Full democracies , flawed democracies , and hybrid regimes are considered to be democracies , and the authoritarian nations are considered to be dictatorial .</context>
+    </instance>
+    <instance id="Democracy-democracy-46-303-2" docsrc="Democracy">
+      <context> Evidence that is consistent with conventional theories of why democracy emerges and is sustained has been hard to come by . Recent statistical analyses have challenged modernisation theory by demonstrating that there is no reliable evidence for the claim that democracy is more likely to emerge <head>when</head> countries become wealthier , more educated , or less unequal . Neither is there convincing evidence that increased reliance on oil revenues prevents democratisation , despite a vast theoretical literature on " the Resource Curse " that asserts that oil revenues sever the link between citizen taxation and government accountability , seen as the key to representative democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-5-130-2" docsrc="Democracy">
+      <context> ===== Parliamentary ===== Parliamentary democracy <head>is</head> a representative democracy where government is appointed by , or can be dismissed by , representatives as opposed to a " presidential rule " wherein the president is both head of state and the head of government and is elected by the voters .</context>
+    </instance>
+    <instance id="Democracy-democracy-5-228-1" docsrc="Democracy">
+      <context> ==== Creative Democracy ==== Creative <head>Democracy</head> is advocated by American philosopher John Dewey . The main idea about Creative Democracy is that democracy encourages individual capacity building and the interaction among the society .</context>
+    </instance>
+    <instance id="Democracy-democracy-5-306-6" docsrc="Democracy">
+      <context> The essence of the democratic <head>system</head> is an empty place , void of real people which can only be temporarily filled and never be appropriated . The seat of power is there , but remains open to constant change . As such , what " democracy " is or what is " democratic " progresses throughout history as a continual and potentially never ending process of social construction .</context>
+    </instance>
+    <instance id="Democracy-democracy-5-333-1" docsrc="Democracy">
+      <context> Data visualizations of data on <head>democratisation</head> and list of data sources on political regimes on ' Our World in Data ' , by Max Roser . Critique J.K. Baltzersen : Churchill on Democracy Revisited , ( 24 January 2005 )</context>
+    </instance>
+    <instance id="Democracy-democracy-5-51-2" docsrc="Democracy">
+      <context> The Kouroukan Fouga divided the <head>Mali</head> Empire into ruling clans ( lineages ) that were represented at a great assembly called the Gbara . However , the charter made Mali more similar to a constitutional monarchy than a democratic republic . A little closer to modern democracy were the Cossack republics of Ukraine in the 16th and 17th centuries :</context>
+    </instance>
+    <instance id="Democracy-democracy-5-68-1" docsrc="Democracy">
+      <context> ==== 18th and 19th centuries <head>====</head> In the American colonial period before 1776 , and for some time after , often only adult white male property owners could vote ; enslaved Africans , most free black people and most women were not extended the franchise . On the American frontier , democracy became a way of life , with more widespread social , economic and political equality .</context>
+    </instance>
+    <instance id="Democracy-democracy-5-68-2" docsrc="Democracy">
+      <context> In the American colonial period <head>before</head> 1776 , and for some time after , often only adult white male property owners could vote ; enslaved Africans , most free black people and most women were not extended the franchise . On the American frontier , democracy became a way of life , with more widespread social , economic and political equality . Although not described as a democracy by the founding fathers , they shared a determination to root the American experiment in the principles of natural freedom and equality .</context>
+    </instance>
+    <instance id="Democracy-democracy-5-87-1" docsrc="Democracy">
+      <context> Some recent examples of attempts <head>of</head> liberalisation include the Indonesian Revolution of 1998 , the Bulldozer Revolution in Yugoslavia , the Rose Revolution in Georgia , the Orange Revolution in Ukraine , the Cedar Revolution in Lebanon , the Tulip Revolution in Kyrgyzstan , and the Jasmine Revolution in Tunisia . According to Freedom House , in 2007 there were 123 electoral democracies ( up from 40 in 1972 ) . According to World Forum on Democracy , electoral democracies now represent 120 of the 192 existing countries and constitute 58.2 percent of the world 's population .</context>
+    </instance>
+    <instance id="Democracy-democracy-5-87-2" docsrc="Democracy">
+      <context> According to Freedom House , <head>in</head> 2007 there were 123 electoral democracies ( up from 40 in 1972 ) . According to World Forum on Democracy , electoral democracies now represent 120 of the 192 existing countries and constitute 58.2 percent of the world 's population . At the same time liberal democracies i.e. countries Freedom House regards as free and respectful of basic human rights and the rule of law are 85 in number and represent 38 percent of the global population .</context>
+    </instance>
+    <instance id="Democracy-democracy-52-163-1" docsrc="Democracy">
+      <context> Republic ==== The term republic has many different meanings , but today often refers to a representative democracy with an elected head of state , such as a president , serving for a limited term , in contrast to states with a hereditary monarch as a head of state , even if <head>these</head> states also are representative democracies with an elected or appointed head of government such as a prime minister . The Founding Fathers of the United States rarely praised and often criticised democracy , which in their time tended to specifically mean direct democracy , often without the protection of a constitution enshrining basic rights ; James Madison argued , especially in The Federalist No . 10 , that what distinguished a democracy from a republic was that the former became weaker as it got larger and suffered more violently from the effects of faction , whereas a republic could get stronger as it got larger and combats faction by its very structure .</context>
+    </instance>
+    <instance id="Democracy-democracy-53-106-2" docsrc="Democracy">
+      <context> Democracy has taken a number of forms , both in theory and practice . Some varieties of democracy provide better representation and more freedom for their citizens than others . However , if any democracy is not structured so as to prohibit the government from excluding the people from the legislative process , <head>or</head> any branch of government from altering the separation of powers in its own favour , then a branch of the system can accumulate too much power and destroy the democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-55-161-2" docsrc="Democracy">
+      <context> ==== Republic ==== The term republic has many different meanings , but today often refers to a representative democracy with an elected head of state , such as a president , serving for a limited term , in contrast to states with a hereditary monarch as a head of state , even if these states <head>also</head> are representative democracies with an elected or appointed head of government such as a prime minister .</context>
+    </instance>
+    <instance id="Democracy-democracy-6-112-1" docsrc="Democracy">
+      <context> Basic forms === Several variants of <head>democracy</head> exist , but there are two basic forms , both of which concern how the whole body of all eligible citizens executes its will . One form of democracy is direct democracy , in which all eligible citizens have active participation in the political decision making , for example voting on policy initiatives directly .</context>
+    </instance>
+    <instance id="Democracy-democracy-6-221-2" docsrc="Democracy">
+      <context> Cosmopolitan democracy , also known as <head>Global</head> democracy or World Federalism , is a political system in which democracy is implemented on a global scale , either directly or through representatives . An important justification for this kind of system is that the decisions made in national or regional democracies often affect people outside the constituency who , by definition , can not vote . By contrast , in a cosmopolitan democracy , the people who are affected by decisions also have a say in them .</context>
+    </instance>
+    <instance id="Democracy-democracy-6-239-2" docsrc="Democracy">
+      <context> Aristotle contrasted rule by the many <head>(</head> democracy/polity ) , with rule by the few ( oligarchy/aristocracy ) , and with rule by a single person ( tyranny or today autocracy/absolute monarchy ) . He also thought that there was a good and a bad variant of each system ( he considered democracy to be the degenerate counterpart to polity ) . For Aristotle the underlying principle of democracy is freedom , since only in a democracy the citizens can have a share in freedom .</context>
+    </instance>
+    <instance id="Democracy-democracy-6-250-2" docsrc="Democracy">
+      <context> The theory of aggregative democracy claims <head>that</head> the aim of the democratic processes is to solicit citizens ' preferences and aggregate them together to determine what social policies society should adopt . Therefore , proponents of this view hold that democratic participation should primarily focus on voting , where the policy with the most votes gets implemented . According to the theory of direct democracy , on the other hand , citizens should vote directly , not through their representatives , on legislative proposals .</context>
+    </instance>
+    <instance id="Democracy-democracy-6-7-2" docsrc="Democracy">
+      <context> No consensus exists on how to <head>define</head> democracy , but legal equality , political freedom and rule of law have been identified as important characteristics . These principles are reflected in all eligible citizens being equal before the law and having equal access to legislative processes . For example , in a representative democracy , every vote has equal weight , no unreasonable restrictions can apply to anyone seeking to become a representative , and the freedom of its eligible citizens is secured by legitimised rights and liberties which are typically protected by a constitution .</context>
+    </instance>
+    <instance id="Democracy-democracy-6-85-1" docsrc="Democracy">
+      <context> Countries that were once part of <head>the</head> British Empire often adopted the British Westminster system . Economic malaise in the 1980s , along with resentment of Soviet oppression , contributed to the collapse of the Soviet Union , the associated end of the Cold War , and the democratisation and liberalisation of the former Eastern bloc countries . The most successful of the new democracies were those geographically and culturally closest to western Europe , and they are now members or candidate members of the European Union .</context>
+    </instance>
+    <instance id="Democracy-democracy-7-127-3" docsrc="Democracy">
+      <context> Some representative democracies also incorporate elements of <head>direct</head> democracy , such as referendums . A characteristic of representative democracy is that while the representatives are elected by the people to act in the people 's interest , they retain the freedom to exercise their own judgement as how best to do so . Such reasons have driven criticism upon representative democracy , pointing out the contradictions of representation mechanisms ' with democracy</context>
+    </instance>
+    <instance id="Democracy-democracy-7-139-3" docsrc="Democracy">
+      <context> This provides some measure of separation of <head>powers</head> . In consequence however , the president and the legislature may end up in the control of separate parties , allowing one to block the other and thereby interfere with the orderly operation of the state . This may be the reason why presidential democracy is not very common outside the Americas , Africa , and Central and Southeast Asia .</context>
+    </instance>
+    <instance id="Democracy-democracy-7-174-1" docsrc="Democracy">
+      <context> ==== Liberal democracy ==== ==== Socialist ==== <head>Socialist</head> thought has several different views on democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-7-176-2" docsrc="Democracy">
+      <context> Within Marxist orthodoxy there is a hostility <head>to</head> what is commonly called " liberal democracy " , which they simply refer to as parliamentary democracy because of its often centralised nature . Because of their desire to eliminate the political elitism they see in capitalism , Marxists , Leninists and Trotskyists believe in direct democracy implemented through a system of communes ( which are sometimes called soviets ) . This system ultimately manifests itself as council democracy and begins with workplace democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-7-219-2" docsrc="Democracy">
+      <context> ==== Cosmopolitan ==== Cosmopolitan democracy , also <head>known</head> as Global democracy or World Federalism , is a political system in which democracy is implemented on a global scale , either directly or through representatives .</context>
+    </instance>
+    <instance id="Democracy-democracy-7-254-4" docsrc="Democracy">
+      <context> First and foremost among these institutions is <head>the</head> regular occurrence of free and open elections which are used to select representatives who then manage all or most of the public policy of the society . However , these polyarchic procedures may not create a full democracy if , for example , poverty prevents political participation . Similarly , Ronald Dworkin argues that " democracy is a substantive , not a merely procedural , ideal . "</context>
+    </instance>
+    <instance id="Democracy-democracy-7-278-2" docsrc="Democracy">
+      <context> James Madison critiqued direct democracy ( which <head>he</head> referred to simply as " democracy " ) in Federalist No . 10 , arguing that representative democracy—which he described using the term " republic"—is a preferable form of government , saying : " ... democracies have ever been spectacles of turbulence and contention ; have ever been found incompatible with personal security or the rights of property ; and have in general been as short in their lives as they have been violent in their deaths . " Madison offered that republics were superior to democracies because republics safeguarded against tyranny of the majority , stating in Federalist No .</context>
+    </instance>
+    <instance id="Democracy-democracy-7-3-3" docsrc="Democracy">
+      <context> Nevertheless , these oppositions , inherited from <head>Greek</head> philosophy , are now ambiguous because contemporary governments have mixed democratic , oligarchic , and monarchic elements . Karl Popper defined democracy in contrast to dictatorship or tyranny , thus focusing on opportunities for the people to control their leaders and to oust them without the need for a revolution . No consensus exists on how to define democracy , but legal equality , political freedom and rule of law have been identified as important characteristics .</context>
+    </instance>
+    <instance id="Democracy-democracy-7-323-1" docsrc="Democracy">
+      <context> Centre for Democratic Network Governance Democracy at <head>the</head> Stanford Encyclopedia of Philosophy Dictionary of the History of Ideas : Democracy</context>
+    </instance>
+    <instance id="Democracy-democracy-7-324-1" docsrc="Democracy">
+      <context> Democracy at the Stanford Encyclopedia of Philosophy <head>Dictionary</head> of the History of Ideas : Democracy The Economist Intelligence Unit 's index of democracy</context>
+    </instance>
+    <instance id="Democracy-democracy-7-82-1" docsrc="Democracy">
+      <context> ==== 20th and 21st centuries ==== The <head>war</head> was followed by decolonisation , and again most of the new independent states had nominally democratic constitutions . India emerged as the world 's largest democracy and continues to be so .</context>
+    </instance>
+    <instance id="Democracy-democracy-7-88-1" docsrc="Democracy">
+      <context> At the same time liberal democracies i.e. <head>countries</head> Freedom House regards as free and respectful of basic human rights and the rule of law are 85 in number and represent 38 percent of the global population . In 2007 the United Nations declared September 15 the International Day of Democracy . Several freedom indices are used to measure democracy :</context>
+    </instance>
+    <instance id="Democracy-democracy-7-99-1" docsrc="Democracy">
+      <context> In its 2011 report , the U.S. <head>was</head> ranked 38th in overall human rights . The Democracy Index , published by the U.K.-based Economist Intelligence Unit , is an assessment of countries ' democracy . Countries are rated to be either Full Democracies , Flawed Democracies , Hybrid Regimes , or Authoritarian regimes .</context>
+    </instance>
+    <instance id="Democracy-democracy-8-127-1" docsrc="Democracy">
+      <context> Most western countries have representative systems . Representatives <head>may</head> be elected or become diplomatic representatives by a particular district ( or constituency ) , or represent the entire electorate through proportional systems , with some using a combination of the two . Some representative democracies also incorporate elements of direct democracy , such as referendums .</context>
+    </instance>
+    <instance id="Democracy-democracy-8-189-2" docsrc="Democracy">
+      <context> Sometimes called " democracy without elections " , <head>sortition</head> chooses decision makers via a random process . The intention is that those chosen will be representative of the opinions and interests of the people at large , and be more fair and impartial than an elected official . The technique was in widespread use in Athenian Democracy and Renaissance Florence and is still used in modern jury selection .</context>
+    </instance>
+    <instance id="Democracy-democracy-8-228-1" docsrc="Democracy">
+      <context> ==== Creative Democracy ==== Creative Democracy is advocated <head>by</head> American philosopher John Dewey . The main idea about Creative Democracy is that democracy encourages individual capacity building and the interaction among the society .</context>
+    </instance>
+    <instance id="Democracy-democracy-8-299-1" docsrc="Democracy">
+      <context> Opposition ==== Several philosophers and researchers have outlined <head>historical</head> and social factors seen as supporting the evolution of democracy . Cultural factors like Protestantism influenced the development of democracy , rule of law , human rights and political liberty ( the faithful elected priests , religious freedom and tolerance has been practiced ) .</context>
+    </instance>
+    <instance id="Democracy-democracy-8-87-1" docsrc="Democracy">
+      <context> Some recent examples of attempts of liberalisation include <head>the</head> Indonesian Revolution of 1998 , the Bulldozer Revolution in Yugoslavia , the Rose Revolution in Georgia , the Orange Revolution in Ukraine , the Cedar Revolution in Lebanon , the Tulip Revolution in Kyrgyzstan , and the Jasmine Revolution in Tunisia . According to Freedom House , in 2007 there were 123 electoral democracies ( up from 40 in 1972 ) . According to World Forum on Democracy , electoral democracies now represent 120 of the 192 existing countries and constitute 58.2 percent of the world 's population .</context>
+    </instance>
+    <instance id="Democracy-democracy-9-10-4" docsrc="Democracy">
+      <context> In India , parliamentary sovereignty is subject to the <head>Constitution</head> of India which includes judicial review . Though the term " democracy " is typically used in the context of a political state , the principles also are applicable to private organisations . Majority rule is often listed as a characteristic of democracy .</context>
+    </instance>
+    <instance id="Democracy-democracy-9-100-2" docsrc="Democracy">
+      <context> The U.S.-based Polity data series is a widely used <head>data</head> series in political science research . It contains coded annual information on regime authority characteristics and transitions for all independent states with greater than 500,000 total population and covers the years 1800–2006 . Polity 's conclusions about a state 's level of democracy are based on an evaluation of that state 's elections for competitiveness , openness and level of participation .</context>
+    </instance>
+    <instance id="Democracy-democracy-9-11-2" docsrc="Democracy">
+      <context> Majority rule is often listed as a characteristic of <head>democracy</head> . Hence , democracy allows for political minorities to be oppressed by the " tyranny of the majority " in the absence of legal protections of individual or group rights . An essential part of an " ideal " representative democracy is competitive elections that are substantively and procedurally " fair , " i.e. , just and equitable .</context>
+    </instance>
+    <instance id="Democracy-democracy-9-203-2" docsrc="Democracy">
+      <context> Qualified majority voting is designed by the Treaty of <head>Rome</head> to be the principal method of reaching decisions in the European Council of Ministers . This system allocates votes to member states in part according to their population , but heavily weighted in favour of the smaller states . This might be seen as a form of representative democracy , but representatives to the Council might be appointed rather than directly elected .</context>
+    </instance>
+    <instance id="Democracy-democracy-9-301-4" docsrc="Democracy">
+      <context> Governments could n't do any better : it became <head>the</head> age of mass armies of citizen soldiers with guns Similarly , Periclean Greece was an age of the citizen soldier and democracy . Evidence that is consistent with conventional theories of why democracy emerges and is sustained has been hard to come by .</context>
+    </instance>
+    <instance id="Democrat-democracy-0-23-1" docsrc="Democrat">
+      <context> <head>Democrat</head> Gulch , a valley in Oregon Democrats ( film ) , a 2014 documentary about politics in Zimbabwe Democracy ( disambiguation )</context>
+    </instance>
+    <instance id="Democrat-democracy-3-0-1" docsrc="Democrat">
+      <context> Democrat or Democratic <head>may</head> refer to : A proponent of democracy , or democratic government , rule of the people or rule by many .</context>
+    </instance>
+    <instance id="Democrat-democracy-4-6-1" docsrc="Democrat">
+      <context> Democratic Party ( Hong <head>Kong</head> ) ( DPHK ) Democratic Progressive Party ( DPP ) New Politics Alliance for Democracy ( NPAD )</context>
+    </instance>
+    <instance id="Demokratia-democracy-10-6-8" docsrc="Demokratia">
+      <context> Thus while democratic practices ultimately had a marked and deleterious <head>effect</head> on Athenian national strength and public morale and arguably contributed to the loss of Athenian independence , Athenian society managed to stave off the most harmful aspects of democratic theory . Even after they lost their democracy and autonomy , there is little evidence that the Athenians completely lost their fundamental conception of a society based on the principle of duties . I. Morris &amp; K. Raaflaub ( ed . ) , Democracy 2500 ? :</context>
+    </instance>
+    <instance id="Demokratia-democracy-13-2-2" docsrc="Demokratia">
+      <context> The word demokratia comes from δῆμος demos " people " and kratos " <head>power</head> " : " the people hold power . " Demos , including the lower classes , had political equality and notwhile respecting laws and institutions , was given full and absolute control of power and government . " In some languages , including Finnish , Demokratia is a word simply meaning democracy .</context>
+    </instance>
+    <instance id="Demokratia-democracy-2-17-2" docsrc="Demokratia">
+      <context> MODERN AMERICA <head>AND</head> THE RELIGION OF DEMOCRACY ( Internet archive ) by Loren J Samons II Department of Classical Studies , Boston University . ( Excerpted from What ’s Wrong With Democracy ?</context>
+    </instance>
+    <instance id="Demokratia-democracy-5-6-7" docsrc="Demokratia">
+      <context> The idea that the " <head>freedom</head> to make choices " or " diversity " were absolute goods and thus could serve as goals or ideals ( on a level with , much less above , family , gods , or polis ) contradicted the very premises of Athenian society . Thus while democratic practices ultimately had a marked and deleterious effect on Athenian national strength and public morale and arguably contributed to the loss of Athenian independence , Athenian society managed to stave off the most harmful aspects of democratic theory . Even after they lost their democracy and autonomy , there is little evidence that the Athenians completely lost their fundamental conception of a society based on the principle of duties .</context>
+    </instance>
+    <instance id="Demokratia-democracy-6-13-2" docsrc="Demokratia">
+      <context> I. Morris &amp; K. Raaflaub ( <head>ed</head> . ) , Democracy 2500 ? : Questions and Challenges , Kendal/Hunt Publishing Co. , 1998 MODERN AMERICA AND THE RELIGION OF DEMOCRACY ( Internet archive ) by Loren J Samons II Department of Classical Studies , Boston University .</context>
+    </instance>
+    <instance id="Demokratia-democracy-8-3-1" docsrc="Demokratia">
+      <context> Demos , including the lower classes , had <head>political</head> equality and notwhile respecting laws and institutions , was given full and absolute control of power and government . " In some languages , including Finnish , Demokratia is a word simply meaning democracy . Quoted from MODERN AMERICA AND THE RELIGION OF DEMOCRACY ( Internet archive ) by Loren J Samons II :</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-0-282-1" docsrc="History_of_democracy">
+      <context> <head>Woodrow</head> Wilson Kaplan , Temma . Democracy : A World History ( Oxford University Press , 2014 )</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-1-205-2" docsrc="History_of_democracy">
+      <context> === <head>Late</head> Cold War and after === === Democracy in the 21st century ===</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-1-49-10" docsrc="History_of_democracy">
+      <context> The <head>retired</head> archons became members of the Areopagus ( Council of the Hill of Ares ) , and like the Gerousia in Sparta , it was able to check improper actions of the newly powerful Ecclesia . Solon created a mixed timocratic and democratic system of institutions . ===== Democracy under Cleisthenes and Pericles =====</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-11-73-2" docsrc="History_of_democracy">
+      <context> === Rome , Towards Middle Ages === Even though Rome is <head>classified</head> as a Republic and not a democracy , its history has helped preserve the concept of democracy over the centuries .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-12-101-3" docsrc="History_of_democracy">
+      <context> Almost all cultures have at some time had their new leaders approved <head>,</head> or at least accepted , by the people ; and have changed the laws only after consultation with the assembly of the people or their leaders . Such institutions existed since before the times of the Iliad or of the Odyssey , and modern democracies are often derived from or inspired by them , or what remained of them . Nevertheless , the direct result of these institutions was not always a democracy .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-12-182-3" docsrc="History_of_democracy">
+      <context> Both were introduced in 1856 to voters in Victoria and South Australia <head>.</head> The Victorian method involved voters crossing out all the candidates whom he did not approve of . The South Australian method , which is more similar to what most democracies use today , had voters put a mark in the preferred candidate 's corresponding box .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-12-186-1" docsrc="History_of_democracy">
+      <context> The Victorian voting system also was not completely secret , as it <head>was</head> traceable by a special number . === Waves of democracy in the 20th century === The end of the First World War was a temporary victory for democracy in Europe , as it was preserved in France and temporarily extended to Germany .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-14-120-3" docsrc="History_of_democracy">
+      <context> The Magna Carta implicitly supported what became the English writ of habeas corpus , <head>safeguarding</head> individual freedom against unlawful imprisonment with right to appeal . The emergence of petitioning in the 13th century is some of the earliest evidence of this parliament being used as a forum to address the general grievances of ordinary people . Historian Jack Weatherford has argued that the ideas leading to the American Constitution and democracy derived from various indigenous peoples of the Americas including the Iroquois .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-15-188-2" docsrc="History_of_democracy">
+      <context> The end of the First World War was a temporary victory for democracy in Europe <head>,</head> as it was preserved in France and temporarily extended to Germany . Already in 1906 full modern democratic rights , universal suffrage for all citizens was implemented constitutionally in Finland as well as a proportional representation , open list system . Likewise , the February Revolution in Russia in 1917 inaugurated a few months of liberal democracy under Alexander Kerensky until Lenin took over in October .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-15-19-2" docsrc="History_of_democracy">
+      <context> Although pioneering in nature , the work has invoked little serious discussion and gained little <head>outright</head> acceptance . Scholars criticize the use of the word " democracy " in this context since the same evidence also can be interpreted convincingly to demonstrate a power struggle between primitive monarchs and noble classes , a struggle in which the common people function more like pawns rather than any kind of sovereign authority . Jacobsen has conceded that the vagueness of the evidence prohibits the separation between the Mesopotamian democracy from a primitive oligarchy .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-15-41-2" docsrc="History_of_democracy">
+      <context> ==== Athens ==== Athens is regarded as the birthplace of democracy and remains an important <head>reference</head> point of democracy .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-17-101-2" docsrc="History_of_democracy">
+      <context> Most of the procedures used by modern democracies are very old . Almost all cultures have at <head>some</head> time had their new leaders approved , or at least accepted , by the people ; and have changed the laws only after consultation with the assembly of the people or their leaders . Such institutions existed since before the times of the Iliad or of the Odyssey , and modern democracies are often derived from or inspired by them , or what remained of them .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-17-200-1" docsrc="History_of_democracy">
+      <context> Many restive colonies/possessions were promised subsequent independence in exchange for their support for embattled colonial powers during <head>the</head> war . The aftermath of World War II also resulted in the United Nations ' decision to partition the British Mandate into two states , one Jewish and one Arab . On 14 May 1948 the state of Israel declared independence and thus was born the first full democracy in the Middle East .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-19-194-4" docsrc="History_of_democracy">
+      <context> The third wave of democracy has been successful and covered major parts of previous autocratic areas . MaxRange can <head>show</head> detailed correlations between success of democracy and many relevant variables , such as previous democratic history , the transitional phase and selection of institutional political system . Even though the number of democratic states has continued to grow since 2006 , the share of weaker electoral democracies has grown significantly .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-19-201-1" docsrc="History_of_democracy">
+      <context> Israel is a representative democracy with a parliamentary system and universal suffrage . India became a Democratic Republic in <head>1950</head> after achieving independence from Great Britain in 1947 . After holding its first national elections in 1952 , India achieved the status of the world 's largest liberal democracy with universal suffrage which it continues to hold today .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-2-283-1" docsrc="History_of_democracy">
+      <context> Democracy : <head>A</head> World History ( Oxford University Press , 2014 ) Markoff , J. ( 1996 ) . Waves of Democracy .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-2-293-1" docsrc="History_of_democracy">
+      <context> History of <head>the</head> Parliament of the United Kingdom , 1216–2005 Historical Atlas of the Twentieth Century Waves of democracy often get reversed , Lipset reminds social scientists</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-2-294-1" docsrc="History_of_democracy">
+      <context> Historical Atlas <head>of</head> the Twentieth Century Waves of democracy often get reversed , Lipset reminds social scientists</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-21-73-2" docsrc="History_of_democracy">
+      <context> === Rome , Towards Middle Ages === Even though Rome is classified as a Republic and not a democracy , its <head>history</head> has helped preserve the concept of democracy over the centuries .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-22-75-2" docsrc="History_of_democracy">
+      <context> Even though Rome is classified as a Republic and not a democracy , its history has helped preserve the concept of democracy <head>over</head> the centuries . The Romans invented the concept of classics and many works from Ancient Greece were preserved . Additionally , the Roman model of governance inspired many political thinkers over the centuries , and today 's modern ( representative ) democracies imitate more the Roman than the Greek models .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-23-59-4" docsrc="History_of_democracy">
+      <context> Participation by the citizens selected was mandatory , and a modest financial compensation was given to citizens whose livelihood was affected by being <head>"</head> drafted " to office . The only officials chosen by elections , one from each tribe , were the strategoi ( generals ) , where military knowledge was required , and the treasurers , who had to be wealthy , since any funds revealed to have been embezzled were recovered from a treasurer 's private fortune . Debate was open to all present and decisions in all matters of policy were taken by majority vote in Ecclesia ( compare direct democracy ) , in which all male citizens could participate ( in some cases with a quorum of 6000 ) .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-25-108-3" docsrc="History_of_democracy">
+      <context> It consisted of the 39 , later 55 , goðar ; each owner of a goðarð ; and each hereditary goði kept a tight hold <head>on</head> his membership , which could in principle be lent or sold . Thus , for example , when Burnt Njal 's stepson wanted to enter it , Njal had to persuade the Althing to enlarge itself so a seat would become available . But as each independent farmer in the country could choose what goði represented him , the system could be claimed as an early form of democracy .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-28-30-3" docsrc="History_of_democracy">
+      <context> Many of these poleis were oligarchies . The most prominent Greek oligarchy , and the state with which democratic Athens is most often and most fruitfully compared , <head>was</head> Sparta . Yet Sparta , in its rejection of private wealth as a primary social differentiator , was a peculiar kind of oligarchy and some scholars note its resemblance to democracy .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-3-124-1" docsrc="History_of_democracy">
+      <context> The emergence of <head>petitioning</head> in the 13th century is some of the earliest evidence of this parliament being used as a forum to address the general grievances of ordinary people . Historian Jack Weatherford has argued that the ideas leading to the American Constitution and democracy derived from various indigenous peoples of the Americas including the Iroquois . Weatherford claimed this democracy was founded between the years 1000–1450 , and lasted several hundred years , and that the American democratic system was continually changed and improved by the influence of Native Americans throughout North America .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-3-182-5" docsrc="History_of_democracy">
+      <context> The South Australian <head>method</head> , which is more similar to what most democracies use today , had voters put a mark in the preferred candidate 's corresponding box . The Victorian voting system also was not completely secret , as it was traceable by a special number . === Waves of democracy in the 20th century ===</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-32-102-1" docsrc="History_of_democracy">
+      <context> Such institutions existed since before the times of the Iliad or of the Odyssey , and modern democracies are often derived from or inspired by them , or what remained of them <head>.</head> Nevertheless , the direct result of these institutions was not always a democracy . It was often a narrow oligarchy , as in Venice , or even an absolute monarchy , as in Florence , in the Renaissance period ; but during the medieval period guild democracies did evolve .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-4-1-1" docsrc="History_of_democracy">
+      <context> Democracy can be traced <head>back</head> from the present day to classical Athens and Greeks in the 6th century B.C.E. In a modern representative democracy , this formal equality is embodied primarily in the right to vote .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-4-194-2" docsrc="History_of_democracy">
+      <context> MaxRange data has defined <head>and</head> categorised pthe level of democracy and political regime type to all states and months from 1789 to this day and updating . MaxRange shows a dramatic expansion of democracy , especially from 1989 . The third wave of democracy has been successful and covered major parts of previous autocratic areas .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-4-194-6" docsrc="History_of_democracy">
+      <context> Even though the number <head>of</head> democratic states has continued to grow since 2006 , the share of weaker electoral democracies has grown significantly . This is the strongest causal factor behind fragile democracies . Japan had moved towards democracy during the Taishō period during the 1920s , but it was under effective military rule in the years before and during World War II.</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-4-200-2" docsrc="History_of_democracy">
+      <context> The aftermath of World <head>War</head> II also resulted in the United Nations ' decision to partition the British Mandate into two states , one Jewish and one Arab . On 14 May 1948 the state of Israel declared independence and thus was born the first full democracy in the Middle East . Israel is a representative democracy with a parliamentary system and universal suffrage .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-4-38-1" docsrc="History_of_democracy">
+      <context> It was all brought <head>to</head> an end a few years later , when Philip II of Macedon crushed what remained of the power of the factional city states to his South . === Athens , the first democracy , and the Republic of Rome ===</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-4-59-7" docsrc="History_of_democracy">
+      <context> The decisions taken in <head>Ecclesia</head> were executed by Boule of 500 , which had already approved the agenda for Ecclesia . The Athenian Boule was elected by lot every year and no citizen could serve more than twice . Overall , the Athenian democracy was not only direct in the sense that decisions were made by the assembled people , but also directest in the sense that the people through the assembly , boule , and courts of law controlled the entire political process and a large proportion of citizens were involved constantly in the public business .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-48-82-2" docsrc="History_of_democracy">
+      <context> Roman stability , in Polybius ’ assessment , was owing to the checks each element put on the superiority of any other : a consul at war , for example , required the cooperation of the Senate and the people if he hoped to secure victory and glory <head>,</head> and could not be indifferent to their wishes . This was not to say that the balance was in every way even : Polybius observes that the superiority of the Roman to the Carthaginian constitution ( another mixed constitution ) at the time of the Hannibalic War was an effect of the latter ’s greater inclination toward democracy than to aristocracy .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-5-212-1" docsrc="History_of_democracy">
+      <context> Late Cold War and after <head>===</head> === Democracy in the 21st century === In the 21st century , democracy movements have been seen across the world .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-5-23-3" docsrc="History_of_democracy">
+      <context> The evidence for this is <head>scattered</head> , however , and no pure historical source exists for that period . In addition , Diodorus—a Greek historian who wrote two centuries after the time of Alexander the Great 's invasion of India—mentions , without offering any detail , that independent and democratic states existed in India . Modern scholars note the word democracy at the time of the 3rd century B.C. and later suffered from degradation and could mean any autonomous state , no matter how oligarchic in nature .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-5-47-1" docsrc="History_of_democracy">
+      <context> After a period of unrest <head>between</head> the rich and poor , Athenians of all classes turned to Solon to act as a mediator between rival factions , and reached a generally satisfactory solution to their problems . ===== Solon and the foundations of democracy =====</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-6-194-1" docsrc="History_of_democracy">
+      <context> The act further enfranchised the rights <head>of</head> peoples resident within the boundaries of the United States . MaxRange data has defined and categorised pthe level of democracy and political regime type to all states and months from 1789 to this day and updating . MaxRange shows a dramatic expansion of democracy , especially from 1989 .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-7-198-2" docsrc="History_of_democracy">
+      <context> === Decolonisation and civil rights movements === <head>World</head> War II also planted seeds of democracy outside Europe and Japan , as it weakened , with the exception of the USSR and the United States , all the old colonial powers while strengthening anticolonial sentiment worldwide .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-7-234-1" docsrc="History_of_democracy">
+      <context> Indian Constitution of 1950 International Covenant on <head>Civil</head> and Political Rights of 1968 === Important figures in the history of democracy ===</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-7-41-2" docsrc="History_of_democracy">
+      <context> ==== Athens ==== Athens is regarded as <head>the</head> birthplace of democracy and remains an important reference point of democracy .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-7-56-3" docsrc="History_of_democracy">
+      <context> Cleisthenes reorganized the population into ten tribes <head>,</head> with the aim to change the basis of political organization from the family loyalties to political ones , and improve the army 's organization . He also introduced the principle of equality of rights for all , isonomia , by expanding access to power to more citizens . During this period , the word " democracy " ( Greek : δημοκρατία – " rule by the people " ) was first used by the Athenians to define their new system of government .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-7-96-1" docsrc="History_of_democracy">
+      <context> The Christian Church well into the 6th <head>century</head> AD had its bishops elected by popular acclaim . The collegia of the Roman period : associations of various social , economic , religious , funerary and even sportive natures elected officers yearly , often directly modeled on the Senate of Rome . Most of the procedures used by modern democracies are very old .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-8-19-1" docsrc="History_of_democracy">
+      <context> Mesopotamia ==== Although pioneering in nature , the <head>work</head> has invoked little serious discussion and gained little outright acceptance . Scholars criticize the use of the word " democracy " in this context since the same evidence also can be interpreted convincingly to demonstrate a power struggle between primitive monarchs and noble classes , a struggle in which the common people function more like pawns rather than any kind of sovereign authority .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-8-194-3" docsrc="History_of_democracy">
+      <context> MaxRange shows a dramatic expansion of democracy , <head>especially</head> from 1989 . The third wave of democracy has been successful and covered major parts of previous autocratic areas . MaxRange can show detailed correlations between success of democracy and many relevant variables , such as previous democratic history , the transitional phase and selection of institutional political system .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-8-194-5" docsrc="History_of_democracy">
+      <context> MaxRange can show detailed correlations between success of <head>democracy</head> and many relevant variables , such as previous democratic history , the transitional phase and selection of institutional political system . Even though the number of democratic states has continued to grow since 2006 , the share of weaker electoral democracies has grown significantly . This is the strongest causal factor behind fragile democracies .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-8-213-4" docsrc="History_of_democracy">
+      <context> This revolutionary wave was given the term Tunisia <head>Effect</head> , as well as the Arab Spring . The Palestinian Authority also took action to address democratic rights . Under the influence of the theory of deliberative democracy , there have been several experiments since the start of the new millennium with what are called deliberative fora , places ( in real life or in cyber space ) where citizens and their representatives assemble to exchange reasons .</context>
+    </instance>
+    <instance id="History_of_democracy-democracy-9-189-4" docsrc="History_of_democracy">
+      <context> The act was signed into law by President Calvin <head>Coolidge</head> on 2 June 1924 . The act further enfranchised the rights of peoples resident within the boundaries of the United States . MaxRange data has defined and categorised pthe level of democracy and political regime type to all states and months from 1789 to this day and updating .</context>
+    </instance>
+    <instance id="Majority_rule-democracy-15-43-4" docsrc="Majority_rule">
+      <context> Only after identifying those factors are they ready to take effective action . EPE was <head>discovered</head> by Kevin Dye after extensive research at the Food and Drug Administration . The discovery of EPE led to the recognition that even with good intentions for participatory democracy , people can not collectively take effective actions unless they change the paradigm for languaging and voting .</context>
+    </instance>
+    <instance id="a00715140_d_10" docsrc="a00715140_d">
+      <context> characterized by or advocating or based upon the principles of <head>democracy</head> or social equality ;</context>
+    </instance>
+    <instance id="a03075944_d_13" docsrc="a03075944_d">
+      <context> of or pertaining to Andrew_Jackson or his presidency or his concepts of popular <head>democracy</head> ;</context>
+    </instance>
+    <instance id="br-g17#w2043_0" docsrc="br-g17">
+      <context> Why should this be so ? It is true that New_England , more_than any other section , was dedicated to education from the start . But I think that something more than this is involved . How did it happen , for_example , that the state university , that great symbol of American <head>democracy</head> , failed to flourish in New_England as it did in other parts of the country ? Is n't it a_bit odd that the three states of Southern New_England ( Massachusetts , Connecticut , and Rhode_Island ) have had state institutions of university status only in the very recent past , these institutions having previously been A_+_M_colleges ? Was it supposed , perchance , that A_+_M ( vocational_training , that_is ) was quite sufficient for the immigrant_class which flooded that part of the New_England world in the post Civil_War period , the immigrants having been brought_in from Southern Europe , to work in the mills , to make_up for the labor shortage caused by migration to the West ? Is it not ironical that Roger_Williams 's state , Rhode_Island , should have been the very last of the forty-eight to establish a state university ?</context>
+    </instance>
+    <instance id="br-g21#w1721_0" docsrc="br-g21">
+      <context> What I want to point_out here is that all_of them are ex liberals , or modified liberals , with perhaps one exception . I suppose we might classify Billy_Graham as an old liberal . And I would further note that they all - with one exception again - sang in one key or another the same song . Its refrain was : `` Let us return to the individualistic <head>democracy</head> of our forefathers for our salvation '' . Adlai_Stevenson expressed some reservations about this return . Others invoked technology and common_sense . Only Walter_Lippman envisioned the possibility of our having `` outlived most_of what we used_to regard_as the program of our national purposes '' .</context>
+    </instance>
+    <instance id="br-g23#w117_0" docsrc="br-g23">
+      <context> Postmaster_General Burleson set_about to protect the American people against radical propaganda that might be spread through the mails . Attorney_General Palmer made a series of raids that sent more_than 4000 so-called radicals to the jails , in direct violation of their constitutional rights . Then , not many years later , the Un-American_Activities_Committee , under the leadership of Martin_Dies , pilloried hundreds of decent , patriotic citizens . Anyone who tried to remedy some of the most glaring defects in our form of <head>democracy</head> was denounced as a traitorous red whose real purpose was the destruction of our government . This hysteria reached its height under the leadership of Senator_Joseph_McCarthy . Demagogues of this sort found communist bogeys lurking behind any new idea that would run counter to stereotyped notions . New ideas were dangerous and must be repressed , no_matter_how .</context>
+    </instance>
+    <instance id="n06217944_d_11" docsrc="n06217944_d">
+      <context> a political_theory advocating an authoritarian hierarchical government ( as opposed to <head>democracy</head> or liberalism ) ;</context>
+    </instance>
+    <instance id="n08288189_d_12" docsrc="n08288189_d">
+      <context> a society that allows its members considerable freedom ( as in a <head>democracy</head> ) ;</context>
+    </instance>
+    <instance id="n08363711_d_1" docsrc="n08363711_d">
+      <context> a <head>democracy</head> having a parliament ;</context>
+    </instance>
+  </lexelt>
+</corpus>

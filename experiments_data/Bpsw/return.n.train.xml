@@ -1,0 +1,785 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="return.n" pos="NN">
+    <instance id="Enter_key-return-1-20-3" docsrc="Enter_key">
+      <context> key <head>was</head> kept comparatively large . This is due to the frequency of usage ( which also includes the space bar ) , and therefore , is kept large to reduce the likelihood of finger slips . Carriage return</context>
+    </instance>
+    <instance id="Enter_key-return-1-8-1" docsrc="Enter_key">
+      <context> While <head>using</head> the type tool in Adobe Photoshop , the return key produces a new line while the enter key ends editing mode . On IBM 's 3270 and 5250 line of terminals , the Enter key was located to the right of the space bar and was used to send the contents of the terminal 's buffer to the host computer . The Return key was located in a more standard location and was used to generate a new line .</context>
+    </instance>
+    <instance id="Enter_key-return-10-7-2" docsrc="Enter_key">
+      <context> On some keyboard layouts , the return and enter key <head>are</head> two different keys , an artifact of the differing handling of newlines by different operating systems . As an example , on the Macintosh , the return key is the usual key , while the enter key is positioned at the lower right of the numeric key pad . While using the type tool in Adobe Photoshop , the return key produces a new line while the enter key ends editing mode .</context>
+    </instance>
+    <instance id="Enter_key-return-14-9-1" docsrc="Enter_key">
+      <context> The Return key was located in a more standard location and was used to <head>generate</head> a new line . Apple also took advantage of this situation to create an editable command line environment called a " Worksheet " in the Macintosh Programmer 's Workshop , where return was used strictly as a formatting key while enter was used to execute a shell command or series of commands in direct mode . In technical terms , the Macintosh keyboard maps the return key to a carriage return , while the enter key maps to a newline .</context>
+    </instance>
+    <instance id="Enter_key-return-15-11-1" docsrc="Enter_key">
+      <context> In technical terms , the Macintosh keyboard maps the return key to a carriage return <head>,</head> while the enter key maps to a newline . Historically , many computer models did not have a separate keypad , and only had one button to function as Enter or Return . For example , the Commodore 64 ( manufactured from 1982 ) had only the " Return " key .</context>
+    </instance>
+    <instance id="Enter_key-return-2-0-2" docsrc="Enter_key">
+      <context> On computer <head>keyboards</head> , the enter key ( or the return key on Macs and most Sun Workstations ) in most cases causes a command line , window form , or dialog box to operate its default function . This is typically to finish an " entry " and begin the desired process , and is usually an alternative to pressing an OK button . The " return " key is often also referred to by many American groups ( and even marked ) as the " enter " key , and they usually perform identical functions ; however in some particular applications ( mainly page layout , word processing and in typewriting ) , " return " operates specifically like the carriage return key from which it originates .</context>
+    </instance>
+    <instance id="Enter_key-return-20-18-1" docsrc="Enter_key">
+      <context> For example , the Commodore 64 ( manufactured from 1982 ) had only the " Return " key . In <head>graphical</head> computer applications , the enter or return key is often used to close and submit a form the user is editing . Usually the default " OK " or " Save " button on a form is highlighted and sometimes shows a Return symbol , giving a subtle visual clue that the user has the option of clicking the button or simply pressing Enter .</context>
+    </instance>
+    <instance id="Enter_key-return-21-1-1" docsrc="Enter_key">
+      <context> This is typically to finish an " entry " and begin the desired process , and is usually an alternative to <head>pressing</head> an OK button . The " return " key is often also referred to by many American groups ( and even marked ) as the " enter " key , and they usually perform identical functions ; however in some particular applications ( mainly page layout , word processing and in typewriting ) , " return " operates specifically like the carriage return key from which it originates . It normally has an arrow pointing down and left ( ⏎ or ↵ ) , which is the symbol for carriage return .</context>
+    </instance>
+    <instance id="Enter_key-return-22-10-1" docsrc="Enter_key">
+      <context> Apple also took advantage of this situation to create an editable command line environment called a " Worksheet " in the Macintosh <head>Programmer</head> 's Workshop , where return was used strictly as a formatting key while enter was used to execute a shell command or series of commands in direct mode . In technical terms , the Macintosh keyboard maps the return key to a carriage return , while the enter key maps to a newline . Historically , many computer models did not have a separate keypad , and only had one button to function as Enter or Return .</context>
+    </instance>
+    <instance id="Enter_key-return-27-8-2" docsrc="Enter_key">
+      <context> On IBM 's 3270 and 5250 line of terminals , the Enter key was located to the right of the space bar and was used to send <head>the</head> contents of the terminal 's buffer to the host computer . The Return key was located in a more standard location and was used to generate a new line . Apple also took advantage of this situation to create an editable command line environment called a " Worksheet " in the Macintosh Programmer 's Workshop , where return was used strictly as a formatting key while enter was used to execute a shell command or series of commands in direct mode .</context>
+    </instance>
+    <instance id="Enter_key-return-51-0-2" docsrc="Enter_key">
+      <context> On computer keyboards , the enter key ( or the return key on Macs and most Sun Workstations ) in most cases causes a command line , window form , or dialog box to operate its default function . This is typically to finish an " entry " and begin the <head>desired</head> process , and is usually an alternative to pressing an OK button . The " return " key is often also referred to by many American groups ( and even marked ) as the " enter " key , and they usually perform identical functions ; however in some particular applications ( mainly page layout , word processing and in typewriting ) , " return " operates specifically like the carriage return key from which it originates .</context>
+    </instance>
+    <instance id="Enter_key-return-6-1-3" docsrc="Enter_key">
+      <context> It normally has an arrow pointing <head>down</head> and left ( ⏎ or ↵ ) , which is the symbol for carriage return . In contrast , the " Enter " key is commonly labelled with its name in plain text on generic PC keyboards , or with the symbol ⌤ ( U+2324 up arrowhead between two horizontal bars ) on many Apple Mac keyboards . ) On some keyboard layouts , the return and enter key are two different keys , an artifact of the differing handling of newlines by different operating systems .</context>
+    </instance>
+    <instance id="Enter_key-return-8-18-2" docsrc="Enter_key">
+      <context> In graphical computer applications , the enter or <head>return</head> key is often used to close and submit a form the user is editing . Usually the default " OK " or " Save " button on a form is highlighted and sometimes shows a Return symbol , giving a subtle visual clue that the user has the option of clicking the button or simply pressing Enter . In modern word processing applications , pressing the return key ends a paragraph and starts a new one .</context>
+    </instance>
+    <instance id="Enter_key-return-8-19-2" docsrc="Enter_key">
+      <context> In modern word processing applications , pressing the <head>return</head> key ends a paragraph and starts a new one . Spacing between the paragraphs can be defined through paragraph styles . Before computers , on electric typewriters the “ Return ”</context>
+    </instance>
+    <instance id="Enter_key-return-9-7-1" docsrc="Enter_key">
+      <context> In contrast , the " Enter " key is <head>commonly</head> labelled with its name in plain text on generic PC keyboards , or with the symbol ⌤ ( U+2324 up arrowhead between two horizontal bars ) on many Apple Mac keyboards . ) On some keyboard layouts , the return and enter key are two different keys , an artifact of the differing handling of newlines by different operating systems . As an example , on the Macintosh , the return key is the usual key , while the enter key is positioned at the lower right of the numeric key pad .</context>
+    </instance>
+    <instance id="Enter_key-return-9-9-1" docsrc="Enter_key">
+      <context> The Return key was located in a more standard <head>location</head> and was used to generate a new line . Apple also took advantage of this situation to create an editable command line environment called a " Worksheet " in the Macintosh Programmer 's Workshop , where return was used strictly as a formatting key while enter was used to execute a shell command or series of commands in direct mode . In technical terms , the Macintosh keyboard maps the return key to a carriage return , while the enter key maps to a newline .</context>
+    </instance>
+    <instance id="Rate_of_return-return-0-1528-1" docsrc="Rate_of_return">
+      <context> <head>Net</head> present value Rate of profit Return of capital</context>
+    </instance>
+    <instance id="Rate_of_return-return-0-1531-1" docsrc="Rate_of_return">
+      <context> <head>Return</head> on assets Return on capital Returns ( economics )</context>
+    </instance>
+    <instance id="Rate_of_return-return-0-4-2" docsrc="Rate_of_return">
+      <context> <head>Return</head> on investment ( ROI ) is return per dollar invested . It is a measure of investment performance , as opposed to size ( c.f . return on equity , return on assets , return on capital employed ) .</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-1137-1" docsrc="Rate_of_return">
+      <context>     <head>{</head> \displaystyle V_{f}/V_{i}&gt;0 }   . Ordinary returns and logarithmic returns are only equal when they are zero , but they are approximately equal when they are small .</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-1141-1" docsrc="Rate_of_return">
+      <context> For <head>example</head> , an arithmetic return of +50 % is equivalent to a logarithmic return of 40.55 % , while an arithmetic return of -50 % is equivalent to a logarithmic return of -69.31 % . === Symmetry of logarithmic returns === Logarithmic returns are useful for mathematical finance .</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-1148-1" docsrc="Rate_of_return">
+      <context> Comparing <head>geometric</head> with arithmetic average rates of return === For a return of +20 % , followed by −20 % , this again has an average return of 0 % , but an overall return of −4 % . A return of +100 % , followed by −100 % , has an average return of 0 % , but an overall return of −100 % , as the final value is 0 .</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-1154-1" docsrc="Rate_of_return">
+      <context> In <head>cases</head> of leveraged investments , even more extreme results are possible : a return of +200 % , followed by −200 % , has an average return of 0 % , but an overall return of −300 % . ==== Average returns and overall returns ==== Investment returns are often published as " average returns " .</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-1248-1" docsrc="Rate_of_return">
+      <context> 0.05 <head>x</head> 0.15 = 0.0075 0.10 x 0.25 = 0.025 A return may be adjusted for inflation .</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-1252-1" docsrc="Rate_of_return">
+      <context> 0.10 <head>x</head> 0.25 = 0.025 A return may be adjusted for inflation . When return is adjusted for inflation , the resulting return in real terms measures the change in purchasing power between the start and the end of the period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-1295-2" docsrc="Rate_of_return">
+      <context> As <head>explained</head> above , the return , or rate or return , depends on the currency of measurement . In the example given above , a US dollar cash deposit which returns 2 % over a year , measured in US dollars , returns 12.2 % measured in Japanese yen , over the same period , if the US dollar increases in value by 10 % against the Japanese yen over the same period . The return in Japanese yen is the result of compounding the 2 % US dollar return on the cash deposit with the 10 % return on US dollars against Japanese yen :</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-1368-1" docsrc="Rate_of_return">
+      <context> The <head>answer</head> is that there is insufficient data to compute a return , in any currency , without knowing the return for both periods in the same currency . If the return in 2015 was 10 % in Singapore dollars , and the Singapore dollar rose by 5 % against the US dollar over 2015 , then so long as there were no flows in 2015 , the return over 2015 in US dollars is : The return between the beginning of 2015 and the end of January 2016 in US dollars is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-14-1" docsrc="Rate_of_return">
+      <context> return <head>on</head> equity , return on assets , return on capital employed ) . ==== Return ==== The return over a single period is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-1425-1" docsrc="Rate_of_return">
+      <context> Mutual <head>fund</head> share prices are typically valued each day the stock or bond markets are open and typically the value of a share is the net asset value of the fund shares investors own . ==== Total returns ====</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-1522-1" docsrc="Rate_of_return">
+      <context> Effective <head>annual</head> rate Effective interest rate Expected return</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-154-2" docsrc="Rate_of_return">
+      <context> For <head>example</head> , 20,000 USD returned on an initial investment of 100,000 USD is a return of 20 % . If the 20,000 USD is paid in 5 annual installments of 4,000 USD per year , with no reinvestment , the rate of return is 4,000 / 100,000 = 20 % / 5 = 4 % per year . Assuming returns are reinvested however , due to the effect of compounding , the relationship between a rate of return</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-299-1" docsrc="Rate_of_return">
+      <context>    <head>is</head> per year . According to the CFA Institute 's Global Investment Performance Standards ( GIPS ) , " Returns for periods of less than one year must not be annualized . "</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-521-1" docsrc="Rate_of_return">
+      <context> For <head>example</head> , if the logarithmic return of a security per trading day is 0.14 % , assuming 250 trading days in a year , then the annualised logarithmic rate of return is 0.14%/(1/250 ) = 0.14 % x 250 = 35 % === Returns over multiple periods === When returns are calculated over more than one time period , they are based on the investment value at the beginning of each period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-83-1" docsrc="Rate_of_return">
+      <context>    <head>=</head> initial value ==== Currency of measurement ==== The return , or rate of return , depends on the currency of measurement .</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-84-2" docsrc="Rate_of_return">
+      <context> The <head>return</head> , or rate of return , depends on the currency of measurement . For example , a 10,000 USD cash deposit earns 2 % interest over a year , so its value at the end of the year is 10,200 USD including interest . The return over the year is 2 % , measured in US dollars .</context>
+    </instance>
+    <instance id="Rate_of_return-return-1-84-6" docsrc="Rate_of_return">
+      <context> The <head>value</head> in yen of one US dollar has increased by 10 % over the period . The deposit is worth 1.2 million yen at the start of the year , and 10,200 x 132 = 1,346,400 yen at the end of the year . The return on the deposit over the year in yen terms is therefore :</context>
+    </instance>
+    <instance id="Rate_of_return-return-10-1063-2" docsrc="Rate_of_return">
+      <context> When the internal rate of return is greater than the <head>cost</head> of capital , ( which is also referred to as the required rate of return ) , the investment adds value , i.e. the net present value of cash flows , discounted at the cost of capital , is greater than zero . Otherwise , the investment does not add value . Note that there is not always an internal rate of return for a particular set of cash flows ( i.e. the existence of a real solution to the equation</context>
+    </instance>
+    <instance id="Rate_of_return-return-10-1201-1" docsrc="Rate_of_return">
+      <context>   The geometric average return over the 4-year period was <head>-42.74</head> % . Over 4 years , this translates back into an overall return of :</context>
+    </instance>
+    <instance id="Rate_of_return-return-10-1258-1" docsrc="Rate_of_return">
+      <context> Many online poker tools include ROI in a player 's <head>tracked</head> statistics , assisting users in evaluating an opponent 's performance . Investments generate returns to the investor to compensate the investor for the time value of money . Factors that investors may use to determine the rate of return at which they are willing to invest money include :</context>
+    </instance>
+    <instance id="Rate_of_return-return-10-1291-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle 4.06\%=(1.01)^{4}-1 }   . As explained above <head>,</head> the return , or rate or return , depends on the currency of measurement .</context>
+    </instance>
+    <instance id="Rate_of_return-return-10-265-1" docsrc="Rate_of_return">
+      <context>   per month with reinvestment . Annualisation is the process <head>described</head> above , of converting a return</context>
+    </instance>
+    <instance id="Rate_of_return-return-10-500-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle r={\frac { R}{t } } } <head>  </head> is the annualised logarithmic rate of return for a return</context>
+    </instance>
+    <instance id="Rate_of_return-return-10-608-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle ( 1+r_{1})(1+r_{2})\cdots ( 1+r_{n})-1 }   If <head>the</head> returns are logarithmic returns however , the logarithmic return over the overall time period is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-11-0-4" docsrc="Rate_of_return">
+      <context> It may be measured either in absolute terms ( e.g. , <head>dollars</head> ) or as a percentage of the amount invested . The latter is also called the holding period return . A loss instead of a profit is described as a negative return .</context>
+    </instance>
+    <instance id="Rate_of_return-return-11-1252-2" docsrc="Rate_of_return">
+      <context> A return may be adjusted for inflation . When return is <head>adjusted</head> for inflation , the resulting return in real terms measures the change in purchasing power between the start and the end of the period . Any investment with a nominal annual return ( i.e. unadjusted annual return ) less than the annual inflation rate represents a loss of value in real terms , even when the nominal annual return is greater than 0 % , and the purchasing power at the end of the period is less than the purchasing power at the beginning .</context>
+    </instance>
+    <instance id="Rate_of_return-return-11-1357-1" docsrc="Rate_of_return">
+      <context>    is the return on the first currency against the second <head>currency</head> ( which in our example is the return on US dollars against Japanese yen ) . This holds true only because there are no flows in or out over the period . If there are flows , it is necessary to recalculate the return in the second currency using one of the methods for compensating for flows .</context>
+    </instance>
+    <instance id="Rate_of_return-return-11-1366-1" docsrc="Rate_of_return">
+      <context> ( Again , there are no inflows or outflows over the <head>January</head> 2016 period . ) What is the return on the portfolio , from the beginning of 2015 , and the end of January 2016 ? The answer is that there is insufficient data to compute a return , in any currency , without knowing the return for both periods in the same currency .</context>
+    </instance>
+    <instance id="Rate_of_return-return-11-1503-1" docsrc="Rate_of_return">
+      <context>   === Mutual fund capital gain distributions === Mutual funds include <head>capital</head> gains as well as dividends in their return calculations .</context>
+    </instance>
+    <instance id="Rate_of_return-return-11-448-1" docsrc="Rate_of_return">
+      <context> For example , if a stock is priced at 3.570 USD <head>per</head> share at the close on one day , and at 3.575 USD per share at the close the next day , then the logarithmic return is : ln(3.575/3.570 ) = 0.0014 , or 0.14 % . ==== Annualisation of logarithmic return ==== Under an assumption of reinvestment , the relationship between a logarithmic return</context>
+    </instance>
+    <instance id="Rate_of_return-return-11-815-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle { \bar { r}}_{\mathrm { geometric } }={\sqrt[{n}]{\prod <head>_{i=1}^{n}(1+r_{i})}}-1</head> }   Note that the geometric average return is equivalent to the cumulative return over the whole n periods , converted into a rate of return per period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-11-816-1" docsrc="Rate_of_return">
+      <context>   Note that the geometric average return is equivalent to the <head>cumulative</head> return over the whole n periods , converted into a rate of return per period . For example , assuming reinvestment , the cumulative return for annual returns : 50 % , -20 % , 30 % and -40 % is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-12-1142-2" docsrc="Rate_of_return">
+      <context> Logarithmic returns are useful for mathematical finance . One of the advantages <head>is</head> that the logarithmic returns are symmetric , while ordinary returns are not : positive and negative percent ordinary returns of equal magnitude do not cancel each other out and result in a net change , but logarithmic returns of equal magnitude but opposite signs will cancel each other out . This means that an investment of $ 100 that yields an arithmetic return of 50 % followed by an arithmetic return of -50 % will result in $ 75 , while an investment of $ 100 that yields a logarithmic return of 50 % followed by a logarithmic return of -50 % will come back to $ 100 .</context>
+    </instance>
+    <instance id="Rate_of_return-return-12-1260-1" docsrc="Rate_of_return">
+      <context> Factors that investors may use to determine the rate of return at <head>which</head> they are willing to invest money include : estimates of future inflation rates assessment of the risk of the investment , i.e. the uncertainty of returns ( including how likely it is that investors will receive interest/dividend payments they expect and the return of their full capital , with or without any possible additional capital gain )</context>
+    </instance>
+    <instance id="Rate_of_return-return-12-1264-3" docsrc="Rate_of_return">
+      <context> Each investment has a different discount rate , based on the cash <head>flow</head> expected in future from the investment . The higher the risk , the higher the discount rate ( rate of return ) the investor will demand from the investment . The annualized return of an investment depends on whether or not the return , including interest and dividends , from one period is reinvested in the next period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-12-1361-1" docsrc="Rate_of_return">
+      <context> === Foreign currency returns over multiple periods === It is not meaningful <head>to</head> compound together returns for consecutive periods measured in different currencies . Before compounding together returns over consecutive periods , recalculate or adjust the returns using a single currency of measurement .</context>
+    </instance>
+    <instance id="Rate_of_return-return-12-1421-3" docsrc="Rate_of_return">
+      <context> In other words , the investors are saying more or less that <head>the</head> fund returns may not be what their actual account returns are , based upon the actual investment account transaction history . This is because investments may have been made on various dates and additional purchases and withdrawals may have occurred which vary in amount and date and thus are unique to the particular account . More and more funds and brokerage firms are now providing personalized account returns on investor 's account statements in response to this need .</context>
+    </instance>
+    <instance id="Rate_of_return-return-13-1155-1" docsrc="Rate_of_return">
+      <context> ==== Average returns and overall returns ==== Investment returns are often published as <head>"</head> average returns " . In order to translate average returns into overall returns , compound the average returns over the number of periods .</context>
+    </instance>
+    <instance id="Rate_of_return-return-13-1264-2" docsrc="Rate_of_return">
+      <context> The rate of return which an investor requires from a particular investment is <head>called</head> the discount rate , and is also referred to as the ( opportunity ) cost of capital . Each investment has a different discount rate , based on the cash flow expected in future from the investment . The higher the risk , the higher the discount rate ( rate of return ) the investor will demand from the investment .</context>
+    </instance>
+    <instance id="Rate_of_return-return-13-1269-2" docsrc="Rate_of_return">
+      <context> The annualized return of an investment depends on whether or not the return <head>,</head> including interest and dividends , from one period is reinvested in the next period . If the return is reinvested , it contributes to the starting value of capital invested for the next period ( or reduces it , in the case of a negative return ) . Compounding reflects the effect of the return in the next period on the return from the previous period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-14-1138-2" docsrc="Rate_of_return">
+      <context> Ordinary returns and logarithmic returns are only equal when they are zero , but <head>they</head> are approximately equal when they are small . The difference between them is large only when percent changes are high . For example , an arithmetic return of +50 % is equivalent to a logarithmic return of 40.55 % , while an arithmetic return of -50 % is equivalent to a logarithmic return of -69.31 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-14-1142-1" docsrc="Rate_of_return">
+      <context> === Symmetry of logarithmic returns === Logarithmic returns are useful for mathematical finance . <head>One</head> of the advantages is that the logarithmic returns are symmetric , while ordinary returns are not : positive and negative percent ordinary returns of equal magnitude do not cancel each other out and result in a net change , but logarithmic returns of equal magnitude but opposite signs will cancel each other out .</context>
+    </instance>
+    <instance id="Rate_of_return-return-14-1148-1" docsrc="Rate_of_return">
+      <context> Comparing geometric with arithmetic average rates of return === For a return of +20 <head>%</head> , followed by −20 % , this again has an average return of 0 % , but an overall return of −4 % . A return of +100 % , followed by −100 % , has an average return of 0 % , but an overall return of −100 % , as the final value is 0 .</context>
+    </instance>
+    <instance id="Rate_of_return-return-14-1149-1" docsrc="Rate_of_return">
+      <context> For a return of +20 % , followed by −20 % , this again <head>has</head> an average return of 0 % , but an overall return of −4 % . A return of +100 % , followed by −100 % , has an average return of 0 % , but an overall return of −100 % , as the final value is 0 . In cases of leveraged investments , even more extreme results are possible : a return of +200 % , followed by −200 % , has an average return of 0 % , but an overall return of −300 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-14-1238-1" docsrc="Rate_of_return">
+      <context> For investments in which capital is at risk , such as stock shares , <head>mutual</head> fund shares and home purchases , the investor also takes into consideration the effects of price volatility and risk of loss . Ratios typically used by financial analysts to compare a company ’s performance over time or compare performance between companies include return on investment ( ROI ) , return on equity , and return on assets . In the capital budgeting process , companies would traditionally compare the internal rates of return of different projects to decide which projects to pursue in order to maximize returns for the company 's stockholders .</context>
+    </instance>
+    <instance id="Rate_of_return-return-14-1421-1" docsrc="Rate_of_return">
+      <context> === Mutual fund and investment company returns === Lastly , in more recent years <head>,</head> " personalized " brokerage account statements have been demanded by investors . In other words , the investors are saying more or less that the fund returns may not be what their actual account returns are , based upon the actual investment account transaction history .</context>
+    </instance>
+    <instance id="Rate_of_return-return-14-2-1" docsrc="Rate_of_return">
+      <context> A loss instead of a profit is described as a negative return . Rate <head>of</head> return is a profit on an investment over a period of time , expressed as a proportion of the original investment . The time period is typically a year , in which case the rate of return is referred to as annual return .</context>
+    </instance>
+    <instance id="Rate_of_return-return-14-748-1" docsrc="Rate_of_return">
+      <context> If you have a sequence of logarithmic rates of return over equal successive periods <head>,</head> the appropriate method of finding their average is the arithmetic average rate of return . ==== Geometric average rate of return ==== With reinvestment of all gains and losses however , the appropriate average rate of return is the geometric average rate of return over n periods , which is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-15-1295-2" docsrc="Rate_of_return">
+      <context> As explained above , the return , or rate or return , depends on the <head>currency</head> of measurement . In the example given above , a US dollar cash deposit which returns 2 % over a year , measured in US dollars , returns 12.2 % measured in Japanese yen , over the same period , if the US dollar increases in value by 10 % against the Japanese yen over the same period . The return in Japanese yen is the result of compounding the 2 % US dollar return on the cash deposit with the 10 % return on US dollars against Japanese yen :</context>
+    </instance>
+    <instance id="Rate_of_return-return-15-153-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle { \frac { R}{t } } }   For example , 20,000 <head>USD</head> returned on an initial investment of 100,000 USD is a return of 20 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-17-1145-2" docsrc="Rate_of_return">
+      <context> === Comparing geometric with arithmetic average rates of return === For a return of +20 % , <head>followed</head> by −20 % , this again has an average return of 0 % , but an overall return of −4 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-17-1385-1" docsrc="Rate_of_return">
+      <context> To the right is an example of a stock investment of one share purchased at the beginning <head>of</head> the year for $ 100 . The number of shares purchased each quarter = ( $ Dividend)/( $ Stock Price ) . The final investment value of $ 103.02 compared with the initial investment of $ 100 means the return is $ 3.02 or 3.02 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-19-1295-3" docsrc="Rate_of_return">
+      <context> In the example given above , a US dollar cash deposit which returns 2 % over a year , <head>measured</head> in US dollars , returns 12.2 % measured in Japanese yen , over the same period , if the US dollar increases in value by 10 % against the Japanese yen over the same period . The return in Japanese yen is the result of compounding the 2 % US dollar return on the cash deposit with the 10 % return on US dollars against Japanese yen : In more general terms , the return in a second currency is the result of compounding together the two returns :</context>
+    </instance>
+    <instance id="Rate_of_return-return-19-1355-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle r_{c } }    is the return on the first currency against the second currency <head>(</head> which in our example is the return on US dollars against Japanese yen ) .</context>
+    </instance>
+    <instance id="Rate_of_return-return-19-154-2" docsrc="Rate_of_return">
+      <context> For example , 20,000 USD returned on an initial investment of 100,000 USD is a return of 20 % <head>.</head> If the 20,000 USD is paid in 5 annual installments of 4,000 USD per year , with no reinvestment , the rate of return is 4,000 / 100,000 = 20 % / 5 = 4 % per year . Assuming returns are reinvested however , due to the effect of compounding , the relationship between a rate of return</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1-1" docsrc="Rate_of_return">
+      <context> The latter <head>is</head> also called the holding period return . A loss instead of a profit is described as a negative return . Rate of return is a profit on an investment over a period of time , expressed as a proportion of the original investment .</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1079-1" docsrc="Rate_of_return">
+      <context> There may <head>also</head> be more than one real solution to the equation , requiring some interpretation to determine the most appropriate one . === Comparing ordinary return with logarithmic return ===</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1145-2" docsrc="Rate_of_return">
+      <context> === Comparing <head>geometric</head> with arithmetic average rates of return === For a return of +20 % , followed by −20 % , this again has an average return of 0 % , but an overall return of −4 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1150-1" docsrc="Rate_of_return">
+      <context> A return <head>of</head> +100 % , followed by −100 % , has an average return of 0 % , but an overall return of −100 % , as the final value is 0 . In cases of leveraged investments , even more extreme results are possible : a return of +200 % , followed by −200 % , has an average return of 0 % , but an overall return of −300 % . ==== Average returns and overall returns ====</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1225-1" docsrc="Rate_of_return">
+      <context>       <head>===</head> Annual returns and annualized returns ===</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1233-2" docsrc="Rate_of_return">
+      <context> In the <head>cash</head> flow example below , the dollar returns for the four years add up to $ 265 . Assuming no reinvestment , the annualized rate of return for the four years is : $ 265 ÷ ( $ 1,000 x 4 years ) = 6.625 % ( per year ) . Rates of return are useful for making investment decisions .</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1253-1" docsrc="Rate_of_return">
+      <context> Any investment <head>with</head> a nominal annual return ( i.e. unadjusted annual return ) less than the annual inflation rate represents a loss of value in real terms , even when the nominal annual return is greater than 0 % , and the purchasing power at the end of the period is less than the purchasing power at the beginning . Many online poker tools include ROI in a player 's tracked statistics , assisting users in evaluating an opponent 's performance . Investments generate returns to the investor to compensate the investor for the time value of money .</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1264-3" docsrc="Rate_of_return">
+      <context> Each investment <head>has</head> a different discount rate , based on the cash flow expected in future from the investment . The higher the risk , the higher the discount rate ( rate of return ) the investor will demand from the investment . The annualized return of an investment depends on whether or not the return , including interest and dividends , from one period is reinvested in the next period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1269-1" docsrc="Rate_of_return">
+      <context> The higher <head>the</head> risk , the higher the discount rate ( rate of return ) the investor will demand from the investment . The annualized return of an investment depends on whether or not the return , including interest and dividends , from one period is reinvested in the next period . If the return is reinvested , it contributes to the starting value of capital invested for the next period ( or reduces it , in the case of a negative return ) .</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1271-2" docsrc="Rate_of_return">
+      <context> At the <head>beginning</head> of the second quarter , the account balance is $ 1,010.00 , which then earns $ 10.10 interest altogether during the second quarter . The extra dime was interest on the additional $ 10 investment from the previous interest accumulated in the account . The annualized return ( annual percentage yield , compound interest ) is higher than for simple interest , because the interest is reinvested as capital and then itself earns interest .</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1367-1" docsrc="Rate_of_return">
+      <context> What is <head>the</head> return on the portfolio , from the beginning of 2015 , and the end of January 2016 ? The answer is that there is insufficient data to compute a return , in any currency , without knowing the return for both periods in the same currency . If the return in 2015 was 10 % in Singapore dollars , and the Singapore dollar rose by 5 % against the US dollar over 2015 , then so long as there were no flows in 2015 , the return over 2015 in US dollars is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-1523-1" docsrc="Rate_of_return">
+      <context> Effective interest <head>rate</head> Expected return Holding period return</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-2-2" docsrc="Rate_of_return">
+      <context> Rate of <head>return</head> is a profit on an investment over a period of time , expressed as a proportion of the original investment . The time period is typically a year , in which case the rate of return is referred to as annual return . To compare returns over time periods of different lengths on an equal basis , it is useful to convert each return into an annual equivalent rate of return , or annualised return .</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-302-1" docsrc="Rate_of_return">
+      <context> ( Source <head>:</head> PROVISIONS OF THE GLOBAL INVESTMENT PERFORMANCE STANDARDS 5.A.4 ) This is because an annualised rate of return over a period of less than one year is statistically unlikely to be indicative of the annualised rate of return over the long run . And annualizing returns less than one year relys on the assumption that the rest of the year has the same return pattern as the realized return period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-306-1" docsrc="Rate_of_return">
+      <context> By annualizing <head>the</head> return , unrealized returns is used to demonstrate investment performance , which is not allowed by GIPS. ==== Logarithmic or continuously compounded return ==== The logarithmic return or continuously compounded return , also known as force of interest , is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-522-1" docsrc="Rate_of_return">
+      <context> === Returns <head>over</head> multiple periods === When returns are calculated over more than one time period , they are based on the investment value at the beginning of each period . If the returns over</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-608-1" docsrc="Rate_of_return">
+      <context>     { <head>\displaystyle</head> ( 1+r_{1})(1+r_{2})\cdots ( 1+r_{n})-1 }   If the returns are logarithmic returns however , the logarithmic return over the overall time period is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-938-2" docsrc="Rate_of_return">
+      <context> === Fees <head>===</head> To measure returns net of fees , allow the value of the portfolio to be reduced by the amount of the fees .</context>
+    </instance>
+    <instance id="Rate_of_return-return-2-939-1" docsrc="Rate_of_return">
+      <context> Fees === <head>To</head> measure returns net of fees , allow the value of the portfolio to be reduced by the amount of the fees . To calculate returns gross of fees , compensate for them by treating them as an external flow , and exclude accrued fees from valuations .</context>
+    </instance>
+    <instance id="Rate_of_return-return-20-1142-2" docsrc="Rate_of_return">
+      <context> Logarithmic returns are useful for mathematical finance . One of the advantages is that the logarithmic returns are symmetric , <head>while</head> ordinary returns are not : positive and negative percent ordinary returns of equal magnitude do not cancel each other out and result in a net change , but logarithmic returns of equal magnitude but opposite signs will cancel each other out . This means that an investment of $ 100 that yields an arithmetic return of 50 % followed by an arithmetic return of -50 % will result in $ 75 , while an investment of $ 100 that yields a logarithmic return of 50 % followed by a logarithmic return of -50 % will come back to $ 100 .</context>
+    </instance>
+    <instance id="Rate_of_return-return-20-1366-1" docsrc="Rate_of_return">
+      <context> ( Again , there are no inflows or outflows over the January 2016 period . ) What is the return <head>on</head> the portfolio , from the beginning of 2015 , and the end of January 2016 ? The answer is that there is insufficient data to compute a return , in any currency , without knowing the return for both periods in the same currency .</context>
+    </instance>
+    <instance id="Rate_of_return-return-20-2-1" docsrc="Rate_of_return">
+      <context> A loss instead of a profit is described as a negative return . Rate of return is a profit on <head>an</head> investment over a period of time , expressed as a proportion of the original investment . The time period is typically a year , in which case the rate of return is referred to as annual return .</context>
+    </instance>
+    <instance id="Rate_of_return-return-20-2-2" docsrc="Rate_of_return">
+      <context> Rate of return is a profit on an investment over a period of time , expressed as a proportion of <head>the</head> original investment . The time period is typically a year , in which case the rate of return is referred to as annual return . To compare returns over time periods of different lengths on an equal basis , it is useful to convert each return into an annual equivalent rate of return , or annualised return .</context>
+    </instance>
+    <instance id="Rate_of_return-return-20-302-1" docsrc="Rate_of_return">
+      <context> ( Source : PROVISIONS OF THE GLOBAL INVESTMENT PERFORMANCE STANDARDS 5.A.4 ) This is because an annualised rate of return <head>over</head> a period of less than one year is statistically unlikely to be indicative of the annualised rate of return over the long run . And annualizing returns less than one year relys on the assumption that the rest of the year has the same return pattern as the realized return period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-21-748-1" docsrc="Rate_of_return">
+      <context> If you have a sequence of logarithmic rates of return over equal successive periods , the appropriate method of finding their <head>average</head> is the arithmetic average rate of return . ==== Geometric average rate of return ==== With reinvestment of all gains and losses however , the appropriate average rate of return is the geometric average rate of return over n periods , which is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-22-1138-2" docsrc="Rate_of_return">
+      <context> Ordinary returns and logarithmic returns are only equal when they are zero , but they are approximately equal when they are small <head>.</head> The difference between them is large only when percent changes are high . For example , an arithmetic return of +50 % is equivalent to a logarithmic return of 40.55 % , while an arithmetic return of -50 % is equivalent to a logarithmic return of -69.31 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-22-1148-1" docsrc="Rate_of_return">
+      <context> Comparing geometric with arithmetic average rates of return === For a return of +20 % , followed by −20 % , this <head>again</head> has an average return of 0 % , but an overall return of −4 % . A return of +100 % , followed by −100 % , has an average return of 0 % , but an overall return of −100 % , as the final value is 0 .</context>
+    </instance>
+    <instance id="Rate_of_return-return-22-1421-1" docsrc="Rate_of_return">
+      <context> === Mutual fund and investment company returns === Lastly , in more recent years , " personalized " brokerage account statements have <head>been</head> demanded by investors . In other words , the investors are saying more or less that the fund returns may not be what their actual account returns are , based upon the actual investment account transaction history .</context>
+    </instance>
+    <instance id="Rate_of_return-return-23-1142-1" docsrc="Rate_of_return">
+      <context> === Symmetry of logarithmic returns === Logarithmic returns are useful for mathematical finance . One of the advantages is that the logarithmic returns <head>are</head> symmetric , while ordinary returns are not : positive and negative percent ordinary returns of equal magnitude do not cancel each other out and result in a net change , but logarithmic returns of equal magnitude but opposite signs will cancel each other out .</context>
+    </instance>
+    <instance id="Rate_of_return-return-23-154-1" docsrc="Rate_of_return">
+      <context>   For example , 20,000 USD returned on an initial investment of 100,000 USD is a return of 20 % . If the <head>20,000</head> USD is paid in 5 annual installments of 4,000 USD per year , with no reinvestment , the rate of return is 4,000 / 100,000 = 20 % / 5 = 4 % per year .</context>
+    </instance>
+    <instance id="Rate_of_return-return-23-815-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle { \bar { r}}_{\mathrm { geometric } }={\sqrt[{n}]{\prod _{i=1}^{n}(1+r_{i})}}-1 }   Note that the geometric average return is equivalent to <head>the</head> cumulative return over the whole n periods , converted into a rate of return per period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-24-1295-2" docsrc="Rate_of_return">
+      <context> As explained above , the return , or rate or return , depends on the currency of measurement . In the example given above <head>,</head> a US dollar cash deposit which returns 2 % over a year , measured in US dollars , returns 12.2 % measured in Japanese yen , over the same period , if the US dollar increases in value by 10 % against the Japanese yen over the same period . The return in Japanese yen is the result of compounding the 2 % US dollar return on the cash deposit with the 10 % return on US dollars against Japanese yen :</context>
+    </instance>
+    <instance id="Rate_of_return-return-25-1062-2" docsrc="Rate_of_return">
+      <context>   , net of any other flows at the beginning and at the end respectively . ( The initial value is treated as an inflow <head>,</head> and the final value as an outflow . ) When the internal rate of return is greater than the cost of capital , ( which is also referred to as the required rate of return ) , the investment adds value , i.e. the net present value of cash flows , discounted at the cost of capital , is greater than zero .</context>
+    </instance>
+    <instance id="Rate_of_return-return-25-1145-2" docsrc="Rate_of_return">
+      <context> === Comparing geometric with arithmetic average rates of return === For a return of +20 % , followed by −20 % , this again has <head>an</head> average return of 0 % , but an overall return of −4 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-25-302-1" docsrc="Rate_of_return">
+      <context> ( Source : PROVISIONS OF THE GLOBAL INVESTMENT PERFORMANCE STANDARDS 5.A.4 ) This is because an annualised rate of return over a period of less <head>than</head> one year is statistically unlikely to be indicative of the annualised rate of return over the long run . And annualizing returns less than one year relys on the assumption that the rest of the year has the same return pattern as the realized return period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-27-1149-1" docsrc="Rate_of_return">
+      <context> For a return of +20 % , followed by −20 % , this again has an average return of 0 % , but an overall return of <head>−4</head> % . A return of +100 % , followed by −100 % , has an average return of 0 % , but an overall return of −100 % , as the final value is 0 . In cases of leveraged investments , even more extreme results are possible : a return of +200 % , followed by −200 % , has an average return of 0 % , but an overall return of −300 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-27-1237-3" docsrc="Rate_of_return">
+      <context> For nominal risk investments such as savings accounts or Certificates of Deposit , the investor considers the effects of reinvesting/compounding on increasing savings balances over time to <head>project</head> expected gains into the future . For investments in which capital is at risk , such as stock shares , mutual fund shares and home purchases , the investor also takes into consideration the effects of price volatility and risk of loss . Ratios typically used by financial analysts to compare a company ’s performance over time or compare performance between companies include return on investment ( ROI ) , return on equity , and return on assets .</context>
+    </instance>
+    <instance id="Rate_of_return-return-27-2-2" docsrc="Rate_of_return">
+      <context> Rate of return is a profit on an investment over a period of time , expressed as a proportion of the original investment . The time period <head>is</head> typically a year , in which case the rate of return is referred to as annual return . To compare returns over time periods of different lengths on an equal basis , it is useful to convert each return into an annual equivalent rate of return , or annualised return .</context>
+    </instance>
+    <instance id="Rate_of_return-return-27-301-1" docsrc="Rate_of_return">
+      <context> " Returns for periods of less than one year must not be annualized . " ( Source : PROVISIONS OF THE GLOBAL INVESTMENT PERFORMANCE STANDARDS 5.A.4 ) <head>This</head> is because an annualised rate of return over a period of less than one year is statistically unlikely to be indicative of the annualised rate of return over the long run .</context>
+    </instance>
+    <instance id="Rate_of_return-return-28-1238-1" docsrc="Rate_of_return">
+      <context> For investments in which capital is at risk , such as stock shares , mutual fund shares and home purchases , the investor also takes into consideration the <head>effects</head> of price volatility and risk of loss . Ratios typically used by financial analysts to compare a company ’s performance over time or compare performance between companies include return on investment ( ROI ) , return on equity , and return on assets . In the capital budgeting process , companies would traditionally compare the internal rates of return of different projects to decide which projects to pursue in order to maximize returns for the company 's stockholders .</context>
+    </instance>
+    <instance id="Rate_of_return-return-28-744-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle { \bar { r}}={\frac { 1}{n}}\sum _{i=1}^{n}{r_{i}}={\frac { 1}{n}}(r_{1}+\cdots +r_{n } ) }   If you have a sequence of logarithmic rates of return over <head>equal</head> successive periods , the appropriate method of finding their average is the arithmetic average rate of return .</context>
+    </instance>
+    <instance id="Rate_of_return-return-29-1260-1" docsrc="Rate_of_return">
+      <context> Factors that investors may use to determine the rate of return at which they are willing to invest money include : estimates of future inflation rates assessment of the <head>risk</head> of the investment , i.e. the uncertainty of returns ( including how likely it is that investors will receive interest/dividend payments they expect and the return of their full capital , with or without any possible additional capital gain )</context>
+    </instance>
+    <instance id="Rate_of_return-return-3-1175-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle <head>1.05^{4}-1=21.55\</head> % }   The geometric average return over the 4-year period was -1.64 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-3-1200-1" docsrc="Rate_of_return">
+      <context>       The <head>geometric</head> average return over the 4-year period was -42.74 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-3-1262-1" docsrc="Rate_of_return">
+      <context> assessment of the <head>risk</head> of the investment , i.e. the uncertainty of returns ( including how likely it is that investors will receive interest/dividend payments they expect and the return of their full capital , with or without any possible additional capital gain ) whether or not the investors want the money available ( “ liquid ” ) for other uses . The rate of return which an investor requires from a particular investment is called the discount rate , and is also referred to as the ( opportunity ) cost of capital .</context>
+    </instance>
+    <instance id="Rate_of_return-return-3-1341-1" docsrc="Rate_of_return">
+      <context>         { <head>\displaystyle</head> r_{i } }    is the return on the investment in the first currency ( US dollars in our example ) , and</context>
+    </instance>
+    <instance id="Rate_of_return-return-3-1355-1" docsrc="Rate_of_return">
+      <context>         { <head>\displaystyle</head> r_{c } }    is the return on the first currency against the second currency ( which in our example is the return on US dollars against Japanese yen ) .</context>
+    </instance>
+    <instance id="Rate_of_return-return-3-1365-3" docsrc="Rate_of_return">
+      <context> In the first <head>month</head> of 2016 , it increases in value by another 7 % , in US dollars . ( Again , there are no inflows or outflows over the January 2016 period . ) What is the return on the portfolio , from the beginning of 2015 , and the end of January 2016 ?</context>
+    </instance>
+    <instance id="Rate_of_return-return-3-1524-1" docsrc="Rate_of_return">
+      <context> Expected return Holding <head>period</head> return Internal rate of return</context>
+    </instance>
+    <instance id="Rate_of_return-return-3-303-1" docsrc="Rate_of_return">
+      <context> This is because <head>an</head> annualised rate of return over a period of less than one year is statistically unlikely to be indicative of the annualised rate of return over the long run . And annualizing returns less than one year relys on the assumption that the rest of the year has the same return pattern as the realized return period . By annualizing the return , unrealized returns is used to demonstrate investment performance , which is not allowed by GIPS.</context>
+    </instance>
+    <instance id="Rate_of_return-return-30-1269-1" docsrc="Rate_of_return">
+      <context> The higher the risk , the higher the discount rate ( rate of return ) the investor will demand from the investment . The annualized return of an investment depends <head>on</head> whether or not the return , including interest and dividends , from one period is reinvested in the next period . If the return is reinvested , it contributes to the starting value of capital invested for the next period ( or reduces it , in the case of a negative return ) .</context>
+    </instance>
+    <instance id="Rate_of_return-return-31-1138-2" docsrc="Rate_of_return">
+      <context> Ordinary returns and logarithmic returns are only equal when they are zero , but they are approximately equal when they are small . The difference between them is large only when <head>percent</head> changes are high . For example , an arithmetic return of +50 % is equivalent to a logarithmic return of 40.55 % , while an arithmetic return of -50 % is equivalent to a logarithmic return of -69.31 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-31-2-2" docsrc="Rate_of_return">
+      <context> Rate of return is a profit on an investment over a period of time , expressed as a proportion of the original investment . The time period is typically a year <head>,</head> in which case the rate of return is referred to as annual return . To compare returns over time periods of different lengths on an equal basis , it is useful to convert each return into an annual equivalent rate of return , or annualised return .</context>
+    </instance>
+    <instance id="Rate_of_return-return-31-517-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle t }    is measured in years . For example , if the logarithmic return of a security per trading day is 0.14 % , assuming 250 trading <head>days</head> in a year , then the annualised logarithmic rate of return is 0.14%/(1/250 ) = 0.14 % x 250 = 35 %</context>
+    </instance>
+    <instance id="Rate_of_return-return-33-1252-2" docsrc="Rate_of_return">
+      <context> A return may be adjusted for inflation . When return is adjusted for inflation , the resulting return in real terms measures the change in purchasing power between the start and the end <head>of</head> the period . Any investment with a nominal annual return ( i.e. unadjusted annual return ) less than the annual inflation rate represents a loss of value in real terms , even when the nominal annual return is greater than 0 % , and the purchasing power at the end of the period is less than the purchasing power at the beginning .</context>
+    </instance>
+    <instance id="Rate_of_return-return-35-1149-1" docsrc="Rate_of_return">
+      <context> For a return of +20 % , followed by −20 % , this again has an average return of 0 % , but an overall return of −4 % . A return of +100 % <head>,</head> followed by −100 % , has an average return of 0 % , but an overall return of −100 % , as the final value is 0 . In cases of leveraged investments , even more extreme results are possible : a return of +200 % , followed by −200 % , has an average return of 0 % , but an overall return of −300 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-36-444-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle t }    = length of time period For example , if a stock is priced at 3.570 USD per share at the close on one day , and at 3.575 USD per <head>share</head> at the close the next day , then the logarithmic return is : ln(3.575/3.570 ) = 0.0014 , or 0.14 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-39-1367-1" docsrc="Rate_of_return">
+      <context> What is the return on the portfolio , from the beginning of 2015 , and the end of January 2016 ? The answer is that there is insufficient data to compute a return , in any currency , without <head>knowing</head> the return for both periods in the same currency . If the return in 2015 was 10 % in Singapore dollars , and the Singapore dollar rose by 5 % against the US dollar over 2015 , then so long as there were no flows in 2015 , the return over 2015 in US dollars is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-39-1429-1" docsrc="Rate_of_return">
+      <context> Total returns ==== ==== Average annual total return ( geometric ) ==== US mutual funds are to compute average annual total return as prescribed by the U.S. Securities and Exchange Commission ( SEC ) in instructions to form N-1A <head>(</head> the fund prospectus ) as the average annual compounded rates of return for 1-year , 5-year and 10-year periods ( or inception of the fund if shorter ) as the " average annual total return " for each fund .</context>
+    </instance>
+    <instance id="Rate_of_return-return-4-1137-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle V_{f}/V_{i}&gt;0 <head>}</head>   . Ordinary returns and logarithmic returns are only equal when they are zero , but they are approximately equal when they are small .</context>
+    </instance>
+    <instance id="Rate_of_return-return-4-1138-3" docsrc="Rate_of_return">
+      <context> The difference between them <head>is</head> large only when percent changes are high . For example , an arithmetic return of +50 % is equivalent to a logarithmic return of 40.55 % , while an arithmetic return of -50 % is equivalent to a logarithmic return of -69.31 % . === Symmetry of logarithmic returns ===</context>
+    </instance>
+    <instance id="Rate_of_return-return-4-1271-3" docsrc="Rate_of_return">
+      <context> The extra dime was <head>interest</head> on the additional $ 10 investment from the previous interest accumulated in the account . The annualized return ( annual percentage yield , compound interest ) is higher than for simple interest , because the interest is reinvested as capital and then itself earns interest . The yield or annualized return on the above investment is</context>
+    </instance>
+    <instance id="Rate_of_return-return-4-1425-2" docsrc="Rate_of_return">
+      <context> ==== Total returns ==== <head>====</head> Average annual total return ( geometric ) ====</context>
+    </instance>
+    <instance id="Rate_of_return-return-4-162-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle <head>r</head> }   , and a return</context>
+    </instance>
+    <instance id="Rate_of_return-return-4-445-1" docsrc="Rate_of_return">
+      <context>    = length of <head>time</head> period For example , if a stock is priced at 3.570 USD per share at the close on one day , and at 3.575 USD per share at the close the next day , then the logarithmic return is : ln(3.575/3.570 ) = 0.0014 , or 0.14 % . ==== Annualisation of logarithmic return ====</context>
+    </instance>
+    <instance id="Rate_of_return-return-4-939-2" docsrc="Rate_of_return">
+      <context> To measure returns net <head>of</head> fees , allow the value of the portfolio to be reduced by the amount of the fees . To calculate returns gross of fees , compensate for them by treating them as an external flow , and exclude accrued fees from valuations . ==== Internal rate of return ====</context>
+    </instance>
+    <instance id="Rate_of_return-return-40-1142-2" docsrc="Rate_of_return">
+      <context> Logarithmic returns are useful for mathematical finance . One of the advantages is that the logarithmic returns are symmetric , while ordinary returns are not : positive and negative percent ordinary returns of equal magnitude do not cancel each other <head>out</head> and result in a net change , but logarithmic returns of equal magnitude but opposite signs will cancel each other out . This means that an investment of $ 100 that yields an arithmetic return of 50 % followed by an arithmetic return of -50 % will result in $ 75 , while an investment of $ 100 that yields a logarithmic return of 50 % followed by a logarithmic return of -50 % will come back to $ 100 .</context>
+    </instance>
+    <instance id="Rate_of_return-return-42-1142-1" docsrc="Rate_of_return">
+      <context> === Symmetry of logarithmic returns === Logarithmic returns are useful for mathematical finance . One of the advantages is that the logarithmic returns are symmetric , while ordinary returns are not : positive and negative percent ordinary returns of equal magnitude do <head>not</head> cancel each other out and result in a net change , but logarithmic returns of equal magnitude but opposite signs will cancel each other out .</context>
+    </instance>
+    <instance id="Rate_of_return-return-48-1142-2" docsrc="Rate_of_return">
+      <context> Logarithmic returns are useful for mathematical finance . One of the advantages is that the logarithmic returns are symmetric , while ordinary returns are not : positive and negative percent ordinary returns of equal magnitude do not cancel each other out and result in a net change , <head>but</head> logarithmic returns of equal magnitude but opposite signs will cancel each other out . This means that an investment of $ 100 that yields an arithmetic return of 50 % followed by an arithmetic return of -50 % will result in $ 75 , while an investment of $ 100 that yields a logarithmic return of 50 % followed by a logarithmic return of -50 % will come back to $ 100 .</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-1062-2" docsrc="Rate_of_return">
+      <context>   , net of any <head>other</head> flows at the beginning and at the end respectively . ( The initial value is treated as an inflow , and the final value as an outflow . ) When the internal rate of return is greater than the cost of capital , ( which is also referred to as the required rate of return ) , the investment adds value , i.e. the net present value of cash flows , discounted at the cost of capital , is greater than zero .</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-1079-1" docsrc="Rate_of_return">
+      <context> There may also be more <head>than</head> one real solution to the equation , requiring some interpretation to determine the most appropriate one . === Comparing ordinary return with logarithmic return ===</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-1138-2" docsrc="Rate_of_return">
+      <context> Ordinary returns and logarithmic returns <head>are</head> only equal when they are zero , but they are approximately equal when they are small . The difference between them is large only when percent changes are high . For example , an arithmetic return of +50 % is equivalent to a logarithmic return of 40.55 % , while an arithmetic return of -50 % is equivalent to a logarithmic return of -69.31 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-1150-1" docsrc="Rate_of_return">
+      <context> A return of +100 % <head>,</head> followed by −100 % , has an average return of 0 % , but an overall return of −100 % , as the final value is 0 . In cases of leveraged investments , even more extreme results are possible : a return of +200 % , followed by −200 % , has an average return of 0 % , but an overall return of −300 % . ==== Average returns and overall returns ====</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-1155-1" docsrc="Rate_of_return">
+      <context> ==== Average returns and overall <head>returns</head> ==== Investment returns are often published as " average returns " . In order to translate average returns into overall returns , compound the average returns over the number of periods .</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-1155-2" docsrc="Rate_of_return">
+      <context> Investment returns are often published <head>as</head> " average returns " . In order to translate average returns into overall returns , compound the average returns over the number of periods . The geometric average rate of return was 5 % .</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-122-1" docsrc="Rate_of_return">
+      <context>   ==== Annualisation ==== Without <head>any</head> reinvestment , a return</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-1225-1" docsrc="Rate_of_return">
+      <context>       === Annual returns <head>and</head> annualized returns ===</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-1291-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle 4.06\%=(1.01)^{4}-1 } <head> </head> . As explained above , the return , or rate or return , depends on the currency of measurement .</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-1386-1" docsrc="Rate_of_return">
+      <context> The number of shares purchased <head>each</head> quarter = ( $ Dividend)/( $ Stock Price ) . The final investment value of $ 103.02 compared with the initial investment of $ 100 means the return is $ 3.02 or 3.02 % . The continuously compounded rate of return in this example is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-1459-1" docsrc="Rate_of_return">
+      <context> Where : P = a <head>hypothetical</head> initial payment of $ 1,000 . T = average annual total return .</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-209-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle R <head>}</head>    to a rate of return</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-303-2" docsrc="Rate_of_return">
+      <context> And annualizing returns less than <head>one</head> year relys on the assumption that the rest of the year has the same return pattern as the realized return period . By annualizing the return , unrealized returns is used to demonstrate investment performance , which is not allowed by GIPS. ==== Logarithmic or continuously compounded return ====</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-339-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle R=\ln \left({\frac <head>{</head> V_{f}}{V_{i}}}\right ) }   and the logarithmic rate of return is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-434-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle r <head>}</head>    = logarithmic rate of return</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-566-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle r_{1},r_{2},r_{3},\cdots <head>,</head> r_{n } }   , then the cumulative return or overall return over the overall time period is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-608-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle ( 1+r_{1})(1+r_{2})\cdots <head>(</head> 1+r_{n})-1 }   If the returns are logarithmic returns however , the logarithmic return over the overall time period is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-666-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle \sum _{i=1}^{n}{r_{i}}=r_{1}+r_{2}+r_{3}+\cdots <head>+r_{n</head> } }   ==== Arithmetic average rate of return ====</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-669-1" docsrc="Rate_of_return">
+      <context>   ==== Arithmetic average rate <head>of</head> return ==== The arithmetic average rate of return over</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-745-1" docsrc="Rate_of_return">
+      <context>   If you have a <head>sequence</head> of logarithmic rates of return over equal successive periods , the appropriate method of finding their average is the arithmetic average rate of return . ==== Geometric average rate of return ====</context>
+    </instance>
+    <instance id="Rate_of_return-return-5-815-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle { \bar <head>{</head> r}}_{\mathrm { geometric } }={\sqrt[{n}]{\prod _{i=1}^{n}(1+r_{i})}}-1 }   Note that the geometric average return is equivalent to the cumulative return over the whole n periods , converted into a rate of return per period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-6-1252-2" docsrc="Rate_of_return">
+      <context> A return may be adjusted for <head>inflation</head> . When return is adjusted for inflation , the resulting return in real terms measures the change in purchasing power between the start and the end of the period . Any investment with a nominal annual return ( i.e. unadjusted annual return ) less than the annual inflation rate represents a loss of value in real terms , even when the nominal annual return is greater than 0 % , and the purchasing power at the end of the period is less than the purchasing power at the beginning .</context>
+    </instance>
+    <instance id="Rate_of_return-return-6-1269-2" docsrc="Rate_of_return">
+      <context> The annualized return of an investment <head>depends</head> on whether or not the return , including interest and dividends , from one period is reinvested in the next period . If the return is reinvested , it contributes to the starting value of capital invested for the next period ( or reduces it , in the case of a negative return ) . Compounding reflects the effect of the return in the next period on the return from the previous period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-6-1295-3" docsrc="Rate_of_return">
+      <context> In the example given above , <head>a</head> US dollar cash deposit which returns 2 % over a year , measured in US dollars , returns 12.2 % measured in Japanese yen , over the same period , if the US dollar increases in value by 10 % against the Japanese yen over the same period . The return in Japanese yen is the result of compounding the 2 % US dollar return on the cash deposit with the 10 % return on US dollars against Japanese yen : In more general terms , the return in a second currency is the result of compounding together the two returns :</context>
+    </instance>
+    <instance id="Rate_of_return-return-6-1379-6" docsrc="Rate_of_return">
+      <context> ” If the price often changes <head>a</head> great deal , the stock has “ high volatility . ” === US income tax on investment returns ===</context>
+    </instance>
+    <instance id="Rate_of_return-return-6-242-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle r={\sqrt[{t}]{1+R}}-1 }   <head>For</head> example , a 33.1 % return over 3 months is equivalent to a rate of :</context>
+    </instance>
+    <instance id="Rate_of_return-return-6-273-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle R } <head>  </head> to an annual rate of return</context>
+    </instance>
+    <instance id="Rate_of_return-return-6-303-1" docsrc="Rate_of_return">
+      <context> This is because an annualised rate <head>of</head> return over a period of less than one year is statistically unlikely to be indicative of the annualised rate of return over the long run . And annualizing returns less than one year relys on the assumption that the rest of the year has the same return pattern as the realized return period . By annualizing the return , unrealized returns is used to demonstrate investment performance , which is not allowed by GIPS.</context>
+    </instance>
+    <instance id="Rate_of_return-return-6-306-1" docsrc="Rate_of_return">
+      <context> By annualizing the return , unrealized <head>returns</head> is used to demonstrate investment performance , which is not allowed by GIPS. ==== Logarithmic or continuously compounded return ==== The logarithmic return or continuously compounded return , also known as force of interest , is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-6-456-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle R } <head>  </head> and a logarithmic rate of return</context>
+    </instance>
+    <instance id="Rate_of_return-return-6-517-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle t }    <head>is</head> measured in years . For example , if the logarithmic return of a security per trading day is 0.14 % , assuming 250 trading days in a year , then the annualised logarithmic rate of return is 0.14%/(1/250 ) = 0.14 % x 250 = 35 %</context>
+    </instance>
+    <instance id="Rate_of_return-return-6-83-1" docsrc="Rate_of_return">
+      <context>    = initial value ==== Currency <head>of</head> measurement ==== The return , or rate of return , depends on the currency of measurement .</context>
+    </instance>
+    <instance id="Rate_of_return-return-62-1429-1" docsrc="Rate_of_return">
+      <context> Total returns ==== ==== Average annual total return ( geometric ) ==== US mutual funds are to compute average annual total return as prescribed by the U.S. Securities and Exchange Commission ( SEC ) in instructions to form N-1A ( the fund prospectus ) as the average annual compounded rates of return for 1-year , 5-year and 10-year periods ( or inception <head>of</head> the fund if shorter ) as the " average annual total return " for each fund .</context>
+    </instance>
+    <instance id="Rate_of_return-return-7-1145-1" docsrc="Rate_of_return">
+      <context> This means that an investment of $ <head>100</head> that yields an arithmetic return of 50 % followed by an arithmetic return of -50 % will result in $ 75 , while an investment of $ 100 that yields a logarithmic return of 50 % followed by a logarithmic return of -50 % will come back to $ 100 . === Comparing geometric with arithmetic average rates of return ===</context>
+    </instance>
+    <instance id="Rate_of_return-return-7-1360-1" docsrc="Rate_of_return">
+      <context> If there are flows , it is <head>necessary</head> to recalculate the return in the second currency using one of the methods for compensating for flows . === Foreign currency returns over multiple periods === It is not meaningful to compound together returns for consecutive periods measured in different currencies .</context>
+    </instance>
+    <instance id="Rate_of_return-return-7-138-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle t }    <head>is</head> equivalent to a rate of return :</context>
+    </instance>
+    <instance id="Rate_of_return-return-7-1514-1" docsrc="Rate_of_return">
+      <context> ==== Example ==== Annual percentage yield Average <head>for</head> a discussion of annualization of returns</context>
+    </instance>
+    <instance id="Rate_of_return-return-7-201-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle 1+R=(1+r)^{t } }   <head>which</head> can be used to convert the return</context>
+    </instance>
+    <instance id="Rate_of_return-return-7-301-1" docsrc="Rate_of_return">
+      <context> " Returns for periods of less than <head>one</head> year must not be annualized . " ( Source : PROVISIONS OF THE GLOBAL INVESTMENT PERFORMANCE STANDARDS 5.A.4 ) This is because an annualised rate of return over a period of less than one year is statistically unlikely to be indicative of the annualised rate of return over the long run .</context>
+    </instance>
+    <instance id="Rate_of_return-return-7-500-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle r={\frac { R}{t <head>}</head> } }    is the annualised logarithmic rate of return for a return</context>
+    </instance>
+    <instance id="Rate_of_return-return-7-902-1" docsrc="Rate_of_return">
+      <context>       which is equal to the <head>annualized</head> cumulative return :</context>
+    </instance>
+    <instance id="Rate_of_return-return-8-0-3" docsrc="Rate_of_return">
+      <context> It comprises any change in value and interest <head>or</head> dividends or other such cash flows which the investor receives from the investment . It may be measured either in absolute terms ( e.g. , dollars ) or as a percentage of the amount invested . The latter is also called the holding period return .</context>
+    </instance>
+    <instance id="Rate_of_return-return-8-1142-1" docsrc="Rate_of_return">
+      <context> === Symmetry of logarithmic returns === Logarithmic returns <head>are</head> useful for mathematical finance . One of the advantages is that the logarithmic returns are symmetric , while ordinary returns are not : positive and negative percent ordinary returns of equal magnitude do not cancel each other out and result in a net change , but logarithmic returns of equal magnitude but opposite signs will cancel each other out .</context>
+    </instance>
+    <instance id="Rate_of_return-return-8-1154-1" docsrc="Rate_of_return">
+      <context> In cases of leveraged investments , even more <head>extreme</head> results are possible : a return of +200 % , followed by −200 % , has an average return of 0 % , but an overall return of −300 % . ==== Average returns and overall returns ==== Investment returns are often published as " average returns " .</context>
+    </instance>
+    <instance id="Rate_of_return-return-8-1155-1" docsrc="Rate_of_return">
+      <context> ==== Average returns and overall returns ==== Investment <head>returns</head> are often published as " average returns " . In order to translate average returns into overall returns , compound the average returns over the number of periods .</context>
+    </instance>
+    <instance id="Rate_of_return-return-8-1228-1" docsrc="Rate_of_return">
+      <context>   === Annual returns and annualized returns === <head>The</head> appropriate method of annualization depends on whether returns are reinvested or not .</context>
+    </instance>
+    <instance id="Rate_of_return-return-8-1233-1" docsrc="Rate_of_return">
+      <context> The appropriate method of annualization depends on whether <head>returns</head> are reinvested or not . In the cash flow example below , the dollar returns for the four years add up to $ 265 . Assuming no reinvestment , the annualized rate of return for the four years is : $ 265 ÷ ( $ 1,000 x 4 years ) = 6.625 % ( per year ) .</context>
+    </instance>
+    <instance id="Rate_of_return-return-8-566-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle r_{1},r_{2},r_{3},\cdots , r_{n } <head>}</head>   , then the cumulative return or overall return over the overall time period is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-8-816-1" docsrc="Rate_of_return">
+      <context>   Note that the geometric average return is <head>equivalent</head> to the cumulative return over the whole n periods , converted into a rate of return per period . For example , assuming reinvestment , the cumulative return for annual returns : 50 % , -20 % , 30 % and -40 % is :</context>
+    </instance>
+    <instance id="Rate_of_return-return-9-1079-2" docsrc="Rate_of_return">
+      <context> === Comparing ordinary return with logarithmic return === The <head>value</head> of an investment is doubled if the return</context>
+    </instance>
+    <instance id="Rate_of_return-return-9-1156-1" docsrc="Rate_of_return">
+      <context> In order to translate average returns into overall returns <head>,</head> compound the average returns over the number of periods . The geometric average rate of return was 5 % . Over 4 years , this translates into an overall return of :</context>
+    </instance>
+    <instance id="Rate_of_return-return-9-1176-1" docsrc="Rate_of_return">
+      <context>   The geometric average return over the 4-year period <head>was</head> -1.64 % . Over 4 years , this translates into an overall return of :</context>
+    </instance>
+    <instance id="Rate_of_return-return-9-1230-1" docsrc="Rate_of_return">
+      <context> === Annual returns and annualized returns === The appropriate <head>method</head> of annualization depends on whether returns are reinvested or not . In the cash flow example below , the dollar returns for the four years add up to $ 265 .</context>
+    </instance>
+    <instance id="Rate_of_return-return-9-1252-1" docsrc="Rate_of_return">
+      <context> 0.10 x 0.25 = 0.025 A return may be <head>adjusted</head> for inflation . When return is adjusted for inflation , the resulting return in real terms measures the change in purchasing power between the start and the end of the period .</context>
+    </instance>
+    <instance id="Rate_of_return-return-9-1429-1" docsrc="Rate_of_return">
+      <context> Total returns ==== ==== Average annual total return ( <head>geometric</head> ) ==== US mutual funds are to compute average annual total return as prescribed by the U.S. Securities and Exchange Commission ( SEC ) in instructions to form N-1A ( the fund prospectus ) as the average annual compounded rates of return for 1-year , 5-year and 10-year periods ( or inception of the fund if shorter ) as the " average annual total return " for each fund .</context>
+    </instance>
+    <instance id="Rate_of_return-return-9-289-1" docsrc="Rate_of_return">
+      <context>         { \displaystyle t }    is measured <head>in</head> years and the rate of return</context>
+    </instance>
+    <instance id="Rate_of_return-return-9-744-1" docsrc="Rate_of_return">
+      <context>     { \displaystyle { \bar { r}}={\frac { 1}{n}}\sum <head>_{i=1}^{n}{r_{i}}={\frac</head> { 1}{n}}(r_{1}+\cdots +r_{n } ) }   If you have a sequence of logarithmic rates of return over equal successive periods , the appropriate method of finding their average is the arithmetic average rate of return .</context>
+    </instance>
+    <instance id="Yield_(finance)-return-10-1-2" docsrc="Yield_(finance)">
+      <context> The term is used in different situations to mean different <head>things</head> . It can be calculated as a ratio or as an internal rate of return ( IRR ) . It may be used to state the owner 's total return , or just a portion of income , or exceed the income .</context>
+    </instance>
+    <instance id="Yield_(finance)-return-13-1-1" docsrc="Yield_(finance)">
+      <context> Yield applies to various stated rates of return on stocks ( common and <head>preferred</head> , and convertible ) , fixed income instruments ( bonds , notes , bills , strips , zero coupon ) , and some other investment type insurance products ( e.g. annuities ) . The term is used in different situations to mean different things . It can be calculated as a ratio or as an internal rate of return ( IRR ) .</context>
+    </instance>
+    <instance id="Yield_(finance)-return-15-0-1" docsrc="Yield_(finance)">
+      <context> In finance , the term yield describes the amount in cash ( in percentage terms <head>)</head> that returns to the owners of a security , in the form of interest or dividends received from the security . Normally , it does not include the price variations , distinguishing it from the total return .</context>
+    </instance>
+    <instance id="Yield_(finance)-return-25-32-2" docsrc="Yield_(finance)">
+      <context> The life annuities purchased to fund retirement pay out a higher yield than can be obtained with other instruments , because part of the payment <head>comes</head> from a return of capital . $ YearlyDistribution / $ CostOfContract . Like annuities , distribution yields from REITs , Royalty trusts , and Income trusts often include cash that exceeds the income earned : that is return of capital .</context>
+    </instance>
+    <instance id="Yield_(finance)-return-28-28-2" docsrc="Yield_(finance)">
+      <context> The price/earnings ratio quoted for common shares is the reciprocal of what is called the earnings yield . EarningsPerShare / SharePrice . The life annuities purchased to fund <head>retirement</head> pay out a higher yield than can be obtained with other instruments , because part of the payment comes from a return of capital .</context>
+    </instance>
+    <instance id="Yield_(finance)-return-7-0-2" docsrc="Yield_(finance)">
+      <context> In finance , the term yield describes <head>the</head> amount in cash ( in percentage terms ) that returns to the owners of a security , in the form of interest or dividends received from the security . Normally , it does not include the price variations , distinguishing it from the total return . Yield applies to various stated rates of return on stocks ( common and preferred , and convertible ) , fixed income instruments ( bonds , notes , bills , strips , zero coupon ) , and some other investment type insurance products ( e.g. annuities ) .</context>
+    </instance>
+    <instance id="Yield_(finance)-return-7-48-1" docsrc="Yield_(finance)">
+      <context> A trial and error method can be <head>used</head> to identify the equivalent yield of a DCF , or if using Excel , the goal seek function can be used . All financial instruments compete with each other in the market place . Yield is one part of the total return of holding a security .</context>
+    </instance>
+    <instance id="br-a02#w872_0" docsrc="br-a02">
+      <context> Without dissent , senators passed a bill by Sen._A._R._Schwartz of Galveston authorizing establishment in the future of a school for the mentally_retarded in the Gulf_Coast district . Money for its construction will be sought later_on but in_the_meantime the State_Hospital board can accept gifts and donations of a site . Two tax revision bills were passed . One , by Sen._Louis_Crump of San_Saba , would aid more than 17000 retailers who pay a group of miscellaneous excise_taxes by eliminating the requirement that each <head>return</head> be notarized . Instead , retailers would sign a certificate of correctness , violation of which would carry a penalty of one to five years in prison , plus a $ 1000 fine . It was one of a series of recommendations by the Texas_Research_League . The other bill , by Sen._A._M._Aikin_Jr. of Paris , would relieve real_estate_brokers , who pay their own annual licensing_fee , from the $ 12 annual occupation_license on brokers in such_as stocks and bonds .</context>
+    </instance>
+    <instance id="br-a14#w589_0" docsrc="br-a14">
+      <context> Graham will be recognized for his meritorious service to baseball and will get the William_J._Slocum_Memorial_Award . To Spahn will go the Sid_Mercer_Memorial_Award as the chapter 's player of the year . A crowd of 1400 is expected for the ceremonies , which will be followed by the show in which the writers will lampoon baseball personalities in skit , dance and song . The 53 - year old Shea , a prominent corporation lawyer with a sports background , is generally recognized as the man most responsible_for the imminent <head>return</head> of a National_League club to New_York . Named by Mayor_Wagner three years ago to head a committee that included James_A._Farley , Bernard_Gimbel and Clint_Blume , Shea worked relentlessly . His goal was to obtain a National_League team for this city . The departure of the Giants and the Dodgers to California left New_York with only the Yankees .</context>
+    </instance>
+    <instance id="br-d03#w559_0" docsrc="br-d03">
+      <context> In the 355 years since the first Guy_Fawkes_Night , much of the story has been forgotten , so here is a reminder '' . The article proceeded to give an inaccurate account of a catholic plot to kill King_James_/1_1 , . In_spite_of the increase in numbers and prestige brought_about by the conversions of Newman and other Tractarians of the 1840 's and 1850 's , the Catholic segment of England one_hundred years ago was a very small one ( four per_cent , or 800000 ) which did not enjoy a gracious hearing from the general public . The <head>return</head> of the Catholic hierarchy in 1850 was looked_upon with indignant disapprobation and , in_fact , was charged with being a gesture of disloyalty . In 1864 Newman professedly had to write his Apologia with his keenest feelings in_order_to be believed and to command a fair hearing from English readers . Now , in 1961 , the Catholic population of England is still quite small ( ten per_cent , or 5 million ) ; yet it represents a very considerable percentage of the churchgoing population . A Protestant woman marveled to me over the large crowds going_in and out of the Birmingham_Oratory ( Catholic ) Church on Sunday mornings .</context>
+    </instance>
+    <instance id="br-f13#w230_0" docsrc="br-f13">
+      <context> Production may fall far below expectations . Drought , hail , disease , and insects take their toll of crops . Sickness or loss of some of the livestock may cut into the owner 's earnings , even into his capital . <head>Returns</head> for money and labor invested may be small even in a good year . The high cost of land , supplies , and labor make it difficult to farm profitably on a part-time basis . Land within commuting distance of a growing city is usually high in price , higher if it has subdivision possibilities . Part-time farmers generally must pay higher prices for supplies than full-time farmers because they buy in smaller quantities .</context>
+    </instance>
+    <instance id="br-f15#w1232_0" docsrc="br-f15">
+      <context> Consider what happened during World_War_1 , , when the Protestant churches united to push the Prohibition law through Congress . Many_of them sincerely believe that the use of liquor in any form or in any degree is intrinsically evil and sinful . With over four million American men away at war , Protestants forced their distinctive theological belief upon the general public . With the <head>return</head> of our soldiers , it soon became apparent that the belief was not shared by the great majority of citizens . The attempt to enforce that belief ushered_in a reign of bootleggers , racketeers , hijackers and gangsters that led to a breakdown of law unparalleled in our history . The so-called `` noble experiment '' came to an inglorious end . That tumultuous , painful and costly experience shows clearly that a law expressing a moral judgment cannot be enforced when it has little correspondence with the general view of society .</context>
+    </instance>
+    <instance id="br-f17#w1210_0" docsrc="br-f17">
+      <context> It was from the American outposts that Red_River shortages of livestock were to be made good . Hercules_L._Dousman , fur trader and merchant at Prairie_du_Chien , contracted to supply Selkirk 's people with some 300 head of cattle , and Alexis_Bailly and Francois_Labothe were hired as drovers . Bailly , after leaving Fort_Snelling in August 1821 , was forced to leave some of the cattle at the Hudson's_Bay_Company's post on Lake_Traverse `` in the Sieux_Country '' and reached Fort_Garry , as the Selkirk Hudson's_Bay_Company center was now called , late in the fall . He set_out on his 700 - mile <head>return</head> journey with five families of discontented and disappointed Swiss who turned their eyes toward the United_States . Observing their distressing condition , Colonel_Snelling allowed these half starved immigrants to settle on the military reservation . As these Swiss were moving from the Selkirk settlement to become the first civilian residents of Minnesota , Dousman of Michilimackinac , Michigan , and Prairie_du_Chien was traveling_to Red_River to open a trade in merchandise . Early in 1822 he was at Fort_Garry offering to bring_in pork , flour , liquor and tobacco .</context>
+    </instance>
+    <instance id="br-g18#w704_0" docsrc="br-g18">
+      <context> And yet amid all the gay hedonism in Pilgrimage and Wander-Years is a cycle of short poems , '' Thoughts_in_Loneliness `` , filled with brooding , melancholy , and sombre longing '' . Of the longer pieces of the volume none is so memorable as `` Nameless_and_Immortal '' , which at_once took rank among the finest poems ever written in the Swedish language . It celebrates the unknown architect who designed the temple of Neptune at Paestum , next to the Parthenon the noblest example of Grecian classic style now in existence . On the eve of his <head>return</head> to their native Naxos he speaks with his wife of the masterpiece which rises before them in its completed perfection . The supreme object of their lives is now fulfilled , says the wife , her husband has achieved immortality . Not so , he answers , it is not the architect but the temple that is immortal . `` The man 's true reputation is his work '' .</context>
+    </instance>
+    <instance id="br-g21#w1736_0" docsrc="br-g21">
+      <context> I suppose we might classify Billy_Graham as an old liberal . And I would further note that they all - with one exception again - sang in one key or another the same song . Its refrain was : `` Let us return to the individualistic democracy of our forefathers for our salvation '' . Adlai_Stevenson expressed some reservations about this <head>return</head> . Others invoked technology and common_sense . Only Walter_Lippman envisioned the possibility of our having `` outlived most_of what we used_to regard_as the program of our national purposes '' . But the most notable thing about the incantation of these ex liberals was that the one-time shibboleth of socialism was conspicuously absent .</context>
+    </instance>
+    <instance id="br-g39#w32_0" docsrc="br-g39">
+      <context> When Harold_Arlen returned to California in the winter of 1944 , it was to take_up again a collaboration with Johnny_Mercer , begun some years before . The film they did after his <head>return</head> was an inconsequential bit of nothing titled Out_of_This_World , a satire on the Sinatra bobby-soxer craze . The twist lay in using Bing_Crosby 's voice on the sound_track while leading_man Eddie_Bracken mouthed the words . If nothing else , at_least two good songs came_out of the project , `` Out_of_This_World '' and `` June_Comes_Around_Every_Year '' . Though they would produce some very memorable and lasting songs , Arlen and Mercer were not given strong material to work_on .</context>
+    </instance>
+    <instance id="br-h17#w1350_0" docsrc="br-h17">
+      <context> The appeal_board furnished petitioner a copy of the recommendation . In his answer thereto , he advised the Board that he had made no such statement in 1956 , and asserted that his only claim to `` pioneering '' was in 1952 . The appeal_board , however , unanimously concurred in the Department 's recommendation . Upon <head>return</head> of the file to the local board , petitioner was again ordered to report for induction and this prosecution followed his failure to do so . Petitioner first contends that the Department denied him procedural due_process by not giving him timely opportunity , before its final recommendation to the appeal_board , to answer the statement of the local board as to his claim of devoting 100 hours to actual preaching . But the statement of the local board attributing this claim to petitioner was in his file . He admitted that he knew it was open to him at all times , and he could have rebutted it before the hearing_officer .</context>
+    </instance>
+    <instance id="br-h24#w1042_0" docsrc="br-h24">
+      <context> Citizens of the United_States who , on April 15 , are not in the United_States or Puerto_Rico , are allowed an extension of time until June 15 for filing the return for the preceding calendar_year . An extension of 2 months beyond the regular due_date for filing is also available to taxpayers making returns for a fiscal_year . Taxpayers residing or traveling in Alaska are also allowed this extension of time for filing , but those residing or traveling in Hawaii are not allowed this automatic extension . Military or Naval Personnel on_duty in Alaska or outside the United_States and Puerto_Rico are also allowed this automatic extension of time for filing their <head>returns</head> . You must attach a statement to your return , if you take_advantage of this automatic extension , showing that you were in Alaska or were outside the United_States or Puerto_Rico on April 15 or other due_date . Interest at the rate of 6 % a year must be paid on taxes that are not paid on or before their due_date . Such interest must be paid even though an extension of time for filing is granted .</context>
+    </instance>
+    <instance id="br-h24#w1051_0" docsrc="br-h24">
+      <context> An extension of 2 months beyond the regular due_date for filing is also available to taxpayers making returns for a fiscal_year . Taxpayers residing or traveling in Alaska are also allowed this extension of time for filing , but those residing or traveling in Hawaii are not allowed this automatic extension . Military or Naval Personnel on_duty in Alaska or outside the United_States and Puerto_Rico are also allowed this automatic extension of time for filing their returns . You must attach a statement to your <head>return</head> , if you take_advantage of this automatic extension , showing that you were in Alaska or were outside the United_States or Puerto_Rico on April 15 or other due_date . Interest at the rate of 6 % a year must be paid on taxes that are not paid on or before their due_date . Such interest must be paid even though an extension of time for filing is granted . If your computation on Form_1040 or Form_1040_A shows you owe additional tax , it should be remitted with your return unless you owe less_than $ 1 , in which case it is forgiven .</context>
+    </instance>
+    <instance id="br-h24#w1140_0" docsrc="br-h24">
+      <context> You must attach a statement to your return , if you take_advantage of this automatic extension , showing that you were in Alaska or were outside the United_States or Puerto_Rico on April 15 or other due_date . Interest at the rate of 6 % a year must be paid on taxes that are not paid on or before their due_date . Such interest must be paid even though an extension of time for filing is granted . If your computation on Form_1040 or Form_1040_A shows you owe additional tax , it should be remitted with your <head>return</head> unless you owe less_than $ 1 , in which case it is forgiven . If payment is by cash , you should ask for a receipt . If you file Form_1040_A and the District_Director computes your tax , you will be sent a bill if additional tax is_due . This bill should be paid within 30 days .</context>
+    </instance>
+    <instance id="br-h24#w1283_0" docsrc="br-h24">
+      <context> If the check is not good and the April 15 or other due_date deadline elapses , additions to the tax may be incurred . Furthermore , a bad check may subject the maker to certain penalties . All checks and money_orders should be made payable to Internal_Revenue_Service . An overpayment of income and social_security taxes entitles you to a refund unless you indicate on the <head>return</head> that the overpayment should be applied to your succeeding year 's estimated tax . If you file Form_1040_A and the District_Director computes your tax , any refund to which you are entitled will be mailed to you . If you file a Form_1040 , you should indicate in the place provided that there is an overpayment of tax and the amount you want refunded and the amount you want credited against your estimated tax . Refunds of less_than $ 1 will not be made unless you attach a separate application to your return requesting such a refund .</context>
+    </instance>
+    <instance id="br-h24#w129_0" docsrc="br-h24">
+      <context> The same is true if you have itemized your deductions and later decide you should have used the Standard Deduction or Tax Table . The words amended_return should be plainly written across the top of such return . April 15 is usually the final date for filing income_tax_returns for most people because they use the calendar_year ending on December 31 . If you use a fiscal_year , a year ending on the last day of any month other_than December , your <head>return</head> is_due on or before the 15_th day of the 4_th month after the close of your tax year . If the last day ( due_date ) for performing any act for tax purposes , such_as filing a return or making a tax payment , etc. , falls on Saturday , Sunday , or a legal_holiday , you may perform that act on the next succeeding day which is not a Saturday , Sunday , or legal_holiday . Since April 15 , 1962 , is on Sunday your return for the calendar_year 1961 will be timely filed if it is filed on or before Monday , April 16 , 1962 . If you mail a return or tax payment , you must place it in the mails in ample time to reach the district director on or before the due_date .</context>
+    </instance>
+    <instance id="br-h24#w1376_0" docsrc="br-h24">
+      <context> An overpayment of income and social_security taxes entitles you to a refund unless you indicate on the return that the overpayment should be applied to your succeeding year 's estimated tax . If you file Form_1040_A and the District_Director computes your tax , any refund to which you are entitled will be mailed to you . If you file a Form_1040 , you should indicate in the place provided that there is an overpayment of tax and the amount you want refunded and the amount you want credited against your estimated tax . Refunds of less_than $ 1 will not be made unless you attach a separate application to your <head>return</head> requesting such a refund . Send your return to the Director_of_Internal_Revenue for the district in which you have your legal residence or principal place_of_business . If you have neither a legal residence nor a principal place_of_business in any internal_revenue district , your return should be filed with the District_Director_of_Internal_Revenue , Baltimore 2 , Md. . If your principal place of abode for the tax year is outside the United_States ( including Alaska and Hawaii ) , Puerto_Rico , or the Virgin_Islands and you have no legal residence or principal place_of_business in any internal_revenue district in the United_States , you should file your return with the Office_of_International_Operations , Internal_Revenue_Service , Washington 25 , D._C. .</context>
+    </instance>
+    <instance id="br-h24#w1384_0" docsrc="br-h24">
+      <context> If you file Form_1040_A and the District_Director computes your tax , any refund to which you are entitled will be mailed to you . If you file a Form_1040 , you should indicate in the place provided that there is an overpayment of tax and the amount you want refunded and the amount you want credited against your estimated tax . Refunds of less_than $ 1 will not be made unless you attach a separate application to your return requesting such a refund . Send your <head>return</head> to the Director_of_Internal_Revenue for the district in which you have your legal residence or principal place_of_business . If you have neither a legal residence nor a principal place_of_business in any internal_revenue district , your return should be filed with the District_Director_of_Internal_Revenue , Baltimore 2 , Md. . If your principal place of abode for the tax year is outside the United_States ( including Alaska and Hawaii ) , Puerto_Rico , or the Virgin_Islands and you have no legal residence or principal place_of_business in any internal_revenue district in the United_States , you should file your return with the Office_of_International_Operations , Internal_Revenue_Service , Washington 25 , D._C. . The deductions allowed in determining Adjusted_Gross_Income put all taxpayers on a comparable basis .</context>
+    </instance>
+    <instance id="br-h24#w1419_0" docsrc="br-h24">
+      <context> If you file a Form_1040 , you should indicate in the place provided that there is an overpayment of tax and the amount you want refunded and the amount you want credited against your estimated tax . Refunds of less_than $ 1 will not be made unless you attach a separate application to your return requesting such a refund . Send your return to the Director_of_Internal_Revenue for the district in which you have your legal residence or principal place_of_business . If you have neither a legal residence nor a principal place_of_business in any internal_revenue district , your <head>return</head> should be filed with the District_Director_of_Internal_Revenue , Baltimore 2 , Md. . If your principal place of abode for the tax year is outside the United_States ( including Alaska and Hawaii ) , Puerto_Rico , or the Virgin_Islands and you have no legal residence or principal place_of_business in any internal_revenue district in the United_States , you should file your return with the Office_of_International_Operations , Internal_Revenue_Service , Washington 25 , D._C. . The deductions allowed in determining Adjusted_Gross_Income put all taxpayers on a comparable basis . It is the amount you enter on line 9 , page 1 of Form_1040 .</context>
+    </instance>
+    <instance id="br-h24#w1479_0" docsrc="br-h24">
+      <context> Refunds of less_than $ 1 will not be made unless you attach a separate application to your return requesting such a refund . Send your return to the Director_of_Internal_Revenue for the district in which you have your legal residence or principal place_of_business . If you have neither a legal residence nor a principal place_of_business in any internal_revenue district , your return should be filed with the District_Director_of_Internal_Revenue , Baltimore 2 , Md. . If your principal place of abode for the tax year is outside the United_States ( including Alaska and Hawaii ) , Puerto_Rico , or the Virgin_Islands and you have no legal residence or principal place_of_business in any internal_revenue district in the United_States , you should file your <head>return</head> with the Office_of_International_Operations , Internal_Revenue_Service , Washington 25 , D._C. . The deductions allowed in determining Adjusted_Gross_Income put all taxpayers on a comparable basis . It is the amount you enter on line 9 , page 1 of Form_1040 . Some deductions are subtracted from Gross Income to determine Adjusted_Gross_Income .</context>
+    </instance>
+    <instance id="br-h24#w167_0" docsrc="br-h24">
+      <context> The words amended_return should be plainly written across the top of such return . April 15 is usually the final date for filing income_tax_returns for most people because they use the calendar_year ending on December 31 . If you use a fiscal_year , a year ending on the last day of any month other_than December , your return is_due on or before the 15_th day of the 4_th month after the close of your tax year . If the last day ( due_date ) for performing any act for tax purposes , such_as filing a <head>return</head> or making a tax payment , etc. , falls on Saturday , Sunday , or a legal_holiday , you may perform that act on the next succeeding day which is not a Saturday , Sunday , or legal_holiday . Since April 15 , 1962 , is on Sunday your return for the calendar_year 1961 will be timely filed if it is filed on or before Monday , April 16 , 1962 . If you mail a return or tax payment , you must place it in the mails in ample time to reach the district director on or before the due_date . If you were required to file a declaration_of_estimated_tax for the calendar_year 1961 , it is not necessary to pay the fourth installment otherwise due on January 15 , 1962 , if you file your income_tax_return Form_1040 , and pay your tax in_full for the calendar_year 1961 by January 31 , 1962 .</context>
+    </instance>
+    <instance id="br-h24#w1946_0" docsrc="br-h24">
+      <context> These deductions may_not be claimed if you elect to use the Standard Deduction or tax Table . ( See Chapters 30 through 37 . ) A minor is subject to tax on his own earnings even though his parent may , under local law , have the right to them and might actually have received the money . His income is not required to be included in the <head>return</head> of his parent . A minor child is allowed a personal exemption of $ 600 on his own return regardless of how much money he may earn . If your child is under 19 or is a student you may also claim an exemption for him if he qualifies as your dependent , even though he earns $ 600 or more . See Chapter 5 .</context>
+    </instance>
+    <instance id="br-h24#w1965_0" docsrc="br-h24">
+      <context> ( See Chapters 30 through 37 . ) A minor is subject to tax on his own earnings even though his parent may , under local law , have the right to them and might actually have received the money . His income is not required to be included in the return of his parent . A minor child is allowed a personal exemption of $ 600 on his own <head>return</head> regardless of how much money he may earn . If your child is under 19 or is a student you may also claim an exemption for him if he qualifies as your dependent , even though he earns $ 600 or more . See Chapter 5 . Your 16 year old son earned $ 720 in 1961 .</context>
+    </instance>
+    <instance id="br-h24#w2047_0" docsrc="br-h24">
+      <context> See Chapter 5 . Your 16 year old son earned $ 720 in 1961 . You spent $ 800 for his support . Since he had gross income of $ 600 or more , he must file a <head>return</head> in which he may claim an exemption deduction of $ 600 . Since you contributed more_than half of his support , you may also claim an exemption for him on your return . A minor who has gross income of less_than $ 600 is entitled to a refund if income_tax was withheld from his wages . Generally , the refund may be obtained by filing Form_1040_A accompanied by the withholding statement ( Form_W-2 ) .</context>
+    </instance>
+    <instance id="br-h24#w2079_0" docsrc="br-h24">
+      <context> Your 16 year old son earned $ 720 in 1961 . You spent $ 800 for his support . Since he had gross income of $ 600 or more , he must file a return in which he may claim an exemption deduction of $ 600 . Since you contributed more_than half of his support , you may also claim an exemption for him on your <head>return</head> . A minor who has gross income of less_than $ 600 is entitled to a refund if income_tax was withheld from his wages . Generally , the refund may be obtained by filing Form_1040_A accompanied by the withholding statement ( Form_W-2 ) . If he had income other_than wages subject to withholding , he may be required to file Form_1040 .</context>
+    </instance>
+    <instance id="br-h24#w217_0" docsrc="br-h24">
+      <context> April 15 is usually the final date for filing income_tax_returns for most people because they use the calendar_year ending on December 31 . If you use a fiscal_year , a year ending on the last day of any month other_than December , your return is_due on or before the 15_th day of the 4_th month after the close of your tax year . If the last day ( due_date ) for performing any act for tax purposes , such_as filing a return or making a tax payment , etc. , falls on Saturday , Sunday , or a legal_holiday , you may perform that act on the next succeeding day which is not a Saturday , Sunday , or legal_holiday . Since April 15 , 1962 , is on Sunday your <head>return</head> for the calendar_year 1961 will be timely filed if it is filed on or before Monday , April 16 , 1962 . If you mail a return or tax payment , you must place it in the mails in ample time to reach the district director on or before the due_date . If you were required to file a declaration_of_estimated_tax for the calendar_year 1961 , it is not necessary to pay the fourth installment otherwise due on January 15 , 1962 , if you file your income_tax_return Form_1040 , and pay your tax in_full for the calendar_year 1961 by January 31 , 1962 . The filing of an original or amended declaration , otherwise due on January 15 , 1962 , is also waived , if you file your Form_1040 for 1961 and pay the full tax by January 31 , 1962 .</context>
+    </instance>
+    <instance id="br-h24#w244_0" docsrc="br-h24">
+      <context> If you use a fiscal_year , a year ending on the last day of any month other_than December , your return is_due on or before the 15_th day of the 4_th month after the close of your tax year . If the last day ( due_date ) for performing any act for tax purposes , such_as filing a return or making a tax payment , etc. , falls on Saturday , Sunday , or a legal_holiday , you may perform that act on the next succeeding day which is not a Saturday , Sunday , or legal_holiday . Since April 15 , 1962 , is on Sunday your return for the calendar_year 1961 will be timely filed if it is filed on or before Monday , April 16 , 1962 . If you mail a <head>return</head> or tax payment , you must place it in the mails in ample time to reach the district director on or before the due_date . If you were required to file a declaration_of_estimated_tax for the calendar_year 1961 , it is not necessary to pay the fourth installment otherwise due on January 15 , 1962 , if you file your income_tax_return Form_1040 , and pay your tax in_full for the calendar_year 1961 by January 31 , 1962 . The filing of an original or amended declaration , otherwise due on January 15 , 1962 , is also waived , if you file your Form_1040 for 1961 and pay the full tax by January 31 , 1962 . Farmers , for these purposes , have until February 15 , 1962 , to file Form_1040 and pay the tax in_full for the calendar_year 1961 .</context>
+    </instance>
+    <instance id="br-h24#w482_0" docsrc="br-h24">
+      <context> See Chapter 38 . Nonresident aliens living in Canada or Mexico who earn wages in the United_States may be subject to withholding of tax on their wages , the same as if they were citizens of the United_States . Their United_States tax_returns are_due April 16 , 1962 . However , if their United_States income is not subject to the withholding of tax on wages , their <head>returns</head> are_due June 15 , 1962 , if they use a calendar_year , or the 15_th day of the 6_th month after the close of their fiscal_year . If you are a nonresident alien and a resident of Puerto_Rico , your return is also due June 15 , 1962 , or the 15_th day of the 6_th month after the close of your fiscal_year . If a taxpayer dies , the executor , administrator , or legal representative must file the final return for the decedent on or before the 15_th day of the 4_th month following the close of the deceased taxpayer 's normal tax year . Suppose John_Jones , who , for 1960 , filed on the basis of a calendar_year , died June 20 , 1961 .</context>
+    </instance>
+    <instance id="br-h24#w523_0" docsrc="br-h24">
+      <context> Nonresident aliens living in Canada or Mexico who earn wages in the United_States may be subject to withholding of tax on their wages , the same as if they were citizens of the United_States . Their United_States tax_returns are_due April 16 , 1962 . However , if their United_States income is not subject to the withholding of tax on wages , their returns are_due June 15 , 1962 , if they use a calendar_year , or the 15_th day of the 6_th month after the close of their fiscal_year . If you are a nonresident alien and a resident of Puerto_Rico , your <head>return</head> is also due June 15 , 1962 , or the 15_th day of the 6_th month after the close of your fiscal_year . If a taxpayer dies , the executor , administrator , or legal representative must file the final return for the decedent on or before the 15_th day of the 4_th month following the close of the deceased taxpayer 's normal tax year . Suppose John_Jones , who , for 1960 , filed on the basis of a calendar_year , died June 20 , 1961 . His return for the period January 1 to June 20 , 1961 , is_due April 16 , 1962 .</context>
+    </instance>
+    <instance id="br-h24#w564_0" docsrc="br-h24">
+      <context> Their United_States tax_returns are_due April 16 , 1962 . However , if their United_States income is not subject to the withholding of tax on wages , their returns are_due June 15 , 1962 , if they use a calendar_year , or the 15_th day of the 6_th month after the close of their fiscal_year . If you are a nonresident alien and a resident of Puerto_Rico , your return is also due June 15 , 1962 , or the 15_th day of the 6_th month after the close of your fiscal_year . If a taxpayer dies , the executor , administrator , or legal representative must file the final <head>return</head> for the decedent on or before the 15_th day of the 4_th month following the close of the deceased taxpayer 's normal tax year . Suppose John_Jones , who , for 1960 , filed on the basis of a calendar_year , died June 20 , 1961 . His return for the period January 1 to June 20 , 1961 , is_due April 16 , 1962 . The return for a decedent may also serve as a claim for refund of an overpayment of tax .</context>
+    </instance>
+    <instance id="br-h24#w613_0" docsrc="br-h24">
+      <context> If you are a nonresident alien and a resident of Puerto_Rico , your return is also due June 15 , 1962 , or the 15_th day of the 6_th month after the close of your fiscal_year . If a taxpayer dies , the executor , administrator , or legal representative must file the final return for the decedent on or before the 15_th day of the 4_th month following the close of the deceased taxpayer 's normal tax year . Suppose John_Jones , who , for 1960 , filed on the basis of a calendar_year , died June 20 , 1961 . His <head>return</head> for the period January 1 to June 20 , 1961 , is_due April 16 , 1962 . The return for a decedent may also serve as a claim for refund of an overpayment of tax . In such a case , Form_1310 should be completed and attached to the return . This form may be obtained from the local office of your district director .</context>
+    </instance>
+    <instance id="br-h24#w632_0" docsrc="br-h24">
+      <context> If a taxpayer dies , the executor , administrator , or legal representative must file the final return for the decedent on or before the 15_th day of the 4_th month following the close of the deceased taxpayer 's normal tax year . Suppose John_Jones , who , for 1960 , filed on the basis of a calendar_year , died June 20 , 1961 . His return for the period January 1 to June 20 , 1961 , is_due April 16 , 1962 . The <head>return</head> for a decedent may also serve as a claim for refund of an overpayment of tax . In such a case , Form_1310 should be completed and attached to the return . This form may be obtained from the local office of your district director . Returns of estates or trusts are_due on or before the 15_th day of the 4_th month after the close of the tax year .</context>
+    </instance>
+    <instance id="br-h24#w663_0" docsrc="br-h24">
+      <context> Suppose John_Jones , who , for 1960 , filed on the basis of a calendar_year , died June 20 , 1961 . His return for the period January 1 to June 20 , 1961 , is_due April 16 , 1962 . The return for a decedent may also serve as a claim for refund of an overpayment of tax . In such a case , Form_1310 should be completed and attached to the <head>return</head> . This form may be obtained from the local office of your district director . Returns of estates or trusts are_due on or before the 15_th day of the 4_th month after the close of the tax year . Under unusual circumstances a resident individual may be granted an extension of time to file a return .</context>
+    </instance>
+    <instance id="br-h24#w679_0" docsrc="br-h24">
+      <context> The return for a decedent may also serve as a claim for refund of an overpayment of tax . In such a case , Form_1310 should be completed and attached to the return . This form may be obtained from the local office of your district director . <head>Returns</head> of estates or trusts are_due on or before the 15_th day of the 4_th month after the close of the tax year . Under unusual circumstances a resident individual may be granted an extension of time to file a return . You may apply for such an extension by filing Form_2688 , Application_For_Extension_Of_Time_To_File , with the District_Director_of_Internal_Revenue for your district , or you may make your application in a letter . Your application must include the following information :</context>
+    </instance>
+    <instance id="br-h24#w719_0" docsrc="br-h24">
+      <context> In such a case , Form_1310 should be completed and attached to the return . This form may be obtained from the local office of your district director . Returns of estates or trusts are_due on or before the 15_th day of the 4_th month after the close of the tax year . Under unusual circumstances a resident individual may be granted an extension of time to file a <head>return</head> . You may apply for such an extension by filing Form_2688 , Application_For_Extension_Of_Time_To_File , with the District_Director_of_Internal_Revenue for your district , or you may make your application in a letter . Your application must include the following information : ( 1 ) your reasons for requesting an extension , ( 2 ) whether you filed timely income_tax_returns for the 3 preceding years , and ( 3 ) whether you were required to file an estimated return for the year , and if so whether you did file and have paid the estimated tax payments on or before the due_dates .</context>
+    </instance>
+    <instance id="br-h24#w795_0" docsrc="br-h24">
+      <context> Under unusual circumstances a resident individual may be granted an extension of time to file a return . You may apply for such an extension by filing Form_2688 , Application_For_Extension_Of_Time_To_File , with the District_Director_of_Internal_Revenue for your district , or you may make your application in a letter . Your application must include the following information : ( 1 ) your reasons for requesting an extension , ( 2 ) whether you filed timely income_tax_returns for the 3 preceding years , and ( 3 ) whether you were required to file an estimated <head>return</head> for the year , and if so whether you did file and have paid the estimated tax payments on or before the due_dates . Any failure to file timely returns or make estimated tax payments when due must be fully explained . Extensions are not granted as a matter_of_course , and the reasons for your request must be substantial . If you are unable to sign the request , because of illness or other good cause , another person who stands in close personal or business_relationship to you may sign the request on your behalf , stating the reason why you are unable to sign .</context>
+    </instance>
+    <instance id="br-h24#w825_0" docsrc="br-h24">
+      <context> You may apply for such an extension by filing Form_2688 , Application_For_Extension_Of_Time_To_File , with the District_Director_of_Internal_Revenue for your district , or you may make your application in a letter . Your application must include the following information : ( 1 ) your reasons for requesting an extension , ( 2 ) whether you filed timely income_tax_returns for the 3 preceding years , and ( 3 ) whether you were required to file an estimated return for the year , and if so whether you did file and have paid the estimated tax payments on or before the due_dates . Any failure to file timely <head>returns</head> or make estimated tax payments when due must be fully explained . Extensions are not granted as a matter_of_course , and the reasons for your request must be substantial . If you are unable to sign the request , because of illness or other good cause , another person who stands in close personal or business_relationship to you may sign the request on your behalf , stating the reason why you are unable to sign . You should make any request for an extension early so that if it is refused , your return may still be on_time .</context>
+    </instance>
+    <instance id="br-h24#w84_0" docsrc="br-h24">
+      <context> If you elect to use the Standard Deduction or the Tax Table , and later find you should have itemized your deductions , you may do so by filing an amended_return within the time prescribed for filing a claim for refund . See You_May_Claim_a_Refund , Page 135 . The same is true if you have itemized your deductions and later decide you should have used the Standard Deduction or Tax Table . The words amended_return should be plainly written across the top of such <head>return</head> . April 15 is usually the final date for filing income_tax_returns for most people because they use the calendar_year ending on December 31 . If you use a fiscal_year , a year ending on the last day of any month other_than December , your return is_due on or before the 15_th day of the 4_th month after the close of your tax year . If the last day ( due_date ) for performing any act for tax purposes , such_as filing a return or making a tax payment , etc. , falls on Saturday , Sunday , or a legal_holiday , you may perform that act on the next succeeding day which is not a Saturday , Sunday , or legal_holiday .</context>
+    </instance>
+    <instance id="br-h24#w919_0" docsrc="br-h24">
+      <context> Any failure to file timely returns or make estimated tax payments when due must be fully explained . Extensions are not granted as a matter_of_course , and the reasons for your request must be substantial . If you are unable to sign the request , because of illness or other good cause , another person who stands in close personal or business_relationship to you may sign the request on your behalf , stating the reason why you are unable to sign . You should make any request for an extension early so that if it is refused , your <head>return</head> may still be on_time . See_also Interest_on_Unpaid_Taxes , below . Citizens of the United_States who , on April 15 , are not in the United_States or Puerto_Rico , are allowed an extension of time until June 15 for filing the return for the preceding calendar_year . An extension of 2 months beyond the regular due_date for filing is also available to taxpayers making returns for a fiscal_year .</context>
+    </instance>
+    <instance id="br-h24#w960_0" docsrc="br-h24">
+      <context> If you are unable to sign the request , because of illness or other good cause , another person who stands in close personal or business_relationship to you may sign the request on your behalf , stating the reason why you are unable to sign . You should make any request for an extension early so that if it is refused , your return may still be on_time . See_also Interest_on_Unpaid_Taxes , below . Citizens of the United_States who , on April 15 , are not in the United_States or Puerto_Rico , are allowed an extension of time until June 15 for filing the <head>return</head> for the preceding calendar_year . An extension of 2 months beyond the regular due_date for filing is also available to taxpayers making returns for a fiscal_year . Taxpayers residing or traveling in Alaska are also allowed this extension of time for filing , but those residing or traveling in Hawaii are not allowed this automatic extension . Military or Naval Personnel on_duty in Alaska or outside the United_States and Puerto_Rico are also allowed this automatic extension of time for filing their returns .</context>
+    </instance>
+    <instance id="br-h24#w983_0" docsrc="br-h24">
+      <context> You should make any request for an extension early so that if it is refused , your return may still be on_time . See_also Interest_on_Unpaid_Taxes , below . Citizens of the United_States who , on April 15 , are not in the United_States or Puerto_Rico , are allowed an extension of time until June 15 for filing the return for the preceding calendar_year . An extension of 2 months beyond the regular due_date for filing is also available to taxpayers making <head>returns</head> for a fiscal_year . Taxpayers residing or traveling in Alaska are also allowed this extension of time for filing , but those residing or traveling in Hawaii are not allowed this automatic extension . Military or Naval Personnel on_duty in Alaska or outside the United_States and Puerto_Rico are also allowed this automatic extension of time for filing their returns . You must attach a statement to your return , if you take_advantage of this automatic extension , showing that you were in Alaska or were outside the United_States or Puerto_Rico on April 15 or other due_date .</context>
+    </instance>
+    <instance id="br-k19#w1007_0" docsrc="br-k19">
+      <context> Rector was often curious ; often tempted to ask questions but he never did . If and when Hino decided to tell him about his experiences , he would do so unasked . Rector had no doubt that Hino would come_back from the village bursting with information , ready to impart it with his customary gusto , liberally embellished with his active imagnation . When the telephone rang on the day after Hino went down to the village , Rector had a hunch it would be Hino with some morsel of information too important to wait until his <head>return</head> , for there were few telephones in the village and the phone in Rector 's office rarely rang unless it was important . He was surprised to find Kayabashi 's secretary on the other end of the line . He was even more startled when he heard what Kayabashi wanted . The oyabun was entertaining a group of dignitaries , the secretary said , businessmen from Tokyo for_the_most_part , and Kayabashi wished to show them the mission .</context>
+    </instance>
+    <instance id="br-k20#w1581_0" docsrc="br-k20">
+      <context> He rose and went to the bedroom . Pausing in the doorway he said : `` The form of the human female , unlike her mind and her spirit , is the most challenging loveliness in all nature '' . When Claire returned to Bishopsgate she longed to tell them she had become Byron 's mistress . By odd coincidence , on the evening of her <head>return</head> Shelley chose to read Parisina , which was the latest of the titled poet 's successes . As he declaimed the sonorous measures , it was as_much_as Claire could do to restrain herself from bursting_out with her dramatic tidings . `` Although it is not the best of which he is capable '' , said Shelley as he closed the book , `` it is still poetry of a high order '' . `` If he would only leave the East '' , said Mary .</context>
+    </instance>
+    <instance id="br-k27#w410_0" docsrc="br-k27">
+      <context> date of laying , length of incubation_period , number of chicks reaching the first week , second week , fifth week , weight of hen , size of rooster 's wattles and_so_on , all scrawled out in a hand that looked more Chinese than English , the most jagged and sprawling Alex had ever seen . Below these particulars was a series of alpha beta gammas connected by arrows and crosses which denoted the lineage of the breed . Alex 's instruction was rapid , for the doctor had_to go_off to the Rue_Ecole_de_Medecine to hear more speeches with only time for one sip of wine to sustain him through them all . But after the doctor 's <head>return</head> that night Alex could see , from the high window in his own room , the now familiar figure crouched on a truly impressive heap of towels , apparently giving its egg hatching powers one final chance before it was replaced in its office by a sure-enough hen . A knocking at Alex 's door roused him at six o'clock the following morning . It was the doctor , dressed and ready for the expedition to the market , and Alex was obliged to prepare himself in_haste . The doctor stood about , waiting for Alex to dress , with a show of impatience , and soon they were moving , as quietly as could be , through the still dark hallways , past the bedroom of the patronne , and so into the street .</context>
+    </instance>
+    <instance id="br-l10#w1994_0" docsrc="br-l10">
+      <context> Kitti could have married a score of men . There was no reason for her to marry someone like Stanley_Gilborn , there was no need for her to marry Stanley . Kitti had come into the office , on somebody 's recommendation , because she needed help in preparing her income_tax_return . Stanley had filled_out the <head>return</head> and because , when he was finished , it was close to the lunch hour , he had politely asked Kitti to join him , never expecting her to accept . Blanche knew all this because the door to Stanley 's office was open and , without straining too hard , she could hear everything that was said . Stanley had gone_out , saying he would be back in an hour . He had n't come_back for over two .</context>
+    </instance>
+    <instance id="br-l10#w2248_0" docsrc="br-l10">
+      <context> That night the two of them left for a week 's honeymoon in Acapulco . While they were away Blanche came into the office every morning , running things as she had always run them for Stanley , going_through the week in a dazed stupor , getting things done automatically , out of habit . For exactly one week , she was able to continue in this manner . On the morning of Stanley 's <head>return</head> , however , her strength left her . Two hours of watching his serenely happy face , listening to his soft humming as he bent over his penciled figures , and Blanche had_to leave . She stayed away for ten days . Those ten days were like no others that Blanche had known .</context>
+    </instance>
+    <instance id="br-n15#w464_0" docsrc="br-n15">
+      <context> At the prearranged time , Greg started the engine and taxied out . From the time the chocks were pulled until the plane was out_of_sight , he knew Donovan would keep his back to the strip . He wondered where the superstition had originated that it was bad_luck for a crew chief to watch his plane take_off on a combat_mission . Yet long before the scheduled time for <head>return</head> , Donovan would be watching for every speck in the sky . Greg rumbled down the rough metal taxi_strip , and one_by_one the seven members of his flight fell_in behind him . The dark brown bombs hanging under each wing looked large and powerful . The pilots ' heads looked ridiculously small .</context>
+    </instance>
+    <instance id="br-r08#w854_0" docsrc="br-r08">
+      <context> After a_few tortuous moments of wondering who `` he '' is , the camera pans across the room to the plaster statue , and we realize that Neitzbohr is trying to redeem himself in_the_eyes_of a mute piece of sculpture . The effect , needless to say , is almost terrifying , and though at_times a_bit obscure , the film is certainly a much needed catharsis for the `` repressed '' movie-goer . THE MUSIC OF BINI_SALFININISTAS , CAPITAL_LP 63711 - R , one of the rare recordings of this titanic , yet unsung , composer . Those persons who were lucky enough to see and hear the performance of his work at the Brest-Silevniov_Festival in August , 1916 , will certainly welcome his <head>return</head> to public notice ; and it is not unlikely that , even as the great Bach lay_dormant for so many years , so has the erudite , ingenious SalFininistas passed_through his `` purgatory '' of neglect . But now , under the guidance of the contemporary composer Marc_Schlek_, Jr. , a major revival is under_way . As he leads the Neurenschatz_Skolkau_Orchestra , Schlek gives a tremendously inspired performance of both the Baslot and Rattzhenfuut concertos , including the controversial Tschilwyk cadenza , which was included at the conductor 's insistence . A major portion of the credit should also go to flautist Haumd for his rendering of the almost impossible `` Indianapolis '' movement in the Baslot .</context>
+    </instance>
+    <instance id="n00051192_ex1_2" docsrc="n00051192_ex1">
+      <context> on his <head>return</head> from Australia we gave him a welcoming party ;</context>
+    </instance>
+    <instance id="n00328015_ex1_5" docsrc="n00328015_ex1">
+      <context> they set out on their <head>return</head> to the base camp ;</context>
+    </instance>
+    <instance id="n00566298_ex1_8" docsrc="n00566298_ex1">
+      <context> he won the point on a cross court <head>return</head> ;</context>
+    </instance>
+    <instance id="n01234729_ex1_1" docsrc="n01234729_ex1">
+      <context> in <head>return</head> we gave them as good as we got ;</context>
+    </instance>
+    <instance id="n07343363_ex1_1" docsrc="n07343363_ex1">
+      <context> the <head>return</head> of spring ;</context>
+    </instance>
+    <instance id="n13260190_ex1_2" docsrc="n13260190_ex1">
+      <context> the average <head>return</head> was about 5% ;</context>
+    </instance>
+  </lexelt>
+</corpus>

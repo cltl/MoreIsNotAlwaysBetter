@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="discipline.n" pos="NN">
+    <instance id="a01301316_d_4" docsrc="a01301316_d">
+      <context> unsparing and uncompromising in <head>discipline</head> or judgment ;</context>
+    </instance>
+    <instance id="a01613839_d_4" docsrc="a01613839_d">
+      <context> resistant to guidance or <head>discipline</head> ;</context>
+    </instance>
+    <instance id="a01672487_d_3" docsrc="a01672487_d">
+      <context> without regulation or <head>discipline</head> ;</context>
+    </instance>
+    <instance id="a01902313_d_5" docsrc="a01902313_d">
+      <context> not subjected to correction or <head>discipline</head> ;</context>
+    </instance>
+    <instance id="a01962492_d_8" docsrc="a01962492_d">
+      <context> not regulated ; not subject to rule or <head>discipline</head> ;</context>
+    </instance>
+    <instance id="a02943463_d_6" docsrc="a02943463_d">
+      <context> relating to the methodology of some <head>discipline</head> ;</context>
+    </instance>
+    <instance id="n01161821_ex1_5" docsrc="n01161821_ex1">
+      <context> the offenders deserved the harsh <head>discipline</head> they received ;</context>
+    </instance>
+    <instance id="n04069777_d_5" docsrc="n04069777_d">
+      <context> correctional_institution for the detention and <head>discipline</head> and training of young or first_offenders ;</context>
+    </instance>
+    <instance id="n08334087_d_7" docsrc="n08334087_d">
+      <context> a judicial court of commissioned_officers for the <head>discipline</head> and punishment of military_personnel ;</context>
+    </instance>
+    <instance id="n08455271_d_13" docsrc="n08455271_d">
+      <context> the body of laws and rules of conduct administered by military_courts for the <head>discipline</head> , trial , and punishment of military_personnel ;</context>
+    </instance>
+    <instance id="v00202445_d_4" docsrc="v00202445_d">
+      <context> correct by punishment or <head>discipline</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

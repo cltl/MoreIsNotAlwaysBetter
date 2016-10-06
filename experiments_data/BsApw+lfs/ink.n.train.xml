@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="ink.n" pos="NN">
+    <instance id="br-f18#w1053_0" docsrc="br-f18">
+      <context> I could tell you of plenty narrow_escapes , but we take no notice of them now '' . A Reb stationed near Petersburg informed his mother : `` I need not tell you that I dodge pretty often , for you can see that very plainly by the blots in this letter . Just count each blot a dodge and add in a_few for I do n't dodge every time '' . Another Reb writing under similar circumstances before Atlanta reported : `` The Yankees keep Shooting so I am afraid they will knock_over my <head>ink</head> , so I will close '' . The most common type of letter was that of soldier husbands to their wives . But fathers often addressed communications to their small children ; and these , full of homely advice , are among the most human and revealing of Civil_War letters . Rebs who owned slaves occasionally would include in their letters admonitions or greetings to members of the Negro community .</context>
+    </instance>
+    <instance id="br-f18#w867_0" docsrc="br-f18">
+      <context> The letters which poured forth from camps were usually written under adverse circumstances . Save for brief periods in garrison or winter quarters , soldiers rarely enjoyed the luxury of a writing_desk or table . Most_of the letters were written in the hubbub of camp , on stumps , pieces of bark , drum_heads , or the knee . In the South , after the first year of the war , paper and <head>ink</head> were very poor . Scarcity of paper caused many Southerners to adopt the practice of cross writing , i._e. , after writing from left to right of the page in the usual manner , they gave the sheet a half turn and wrote from end to end across the lines previously written . Sometimes soldiers wrote letters while bullets were whizzing about their heads . A Yank writing from Vicksburg , May 28 , 1863 , stated `` Not less_than 50 balls have passed_over me since I commenced writing .</context>
+    </instance>
+  </lexelt>
+</corpus>

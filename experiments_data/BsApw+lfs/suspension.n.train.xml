@@ -1,0 +1,569 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="suspension.n" pos="NN">
+    <instance id="Bicycle_suspension-suspension-0-116-2" docsrc="Bicycle_suspension">
+      <context> <head>===</head> Pendbox === Suspension may be implemented at the saddle either using a suspension saddle or a suspension seatpost .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-0-123-2" docsrc="Bicycle_suspension">
+      <context> <head>The</head> effectiveness of saddle or seatpost suspension depends on the rider placing their weight on the saddle . For this reason , this style of suspension is most popular on more upright styles of bicycle , where the rider spends the majority of time seated . Suspension may be provided in the hub of a bicycle wheel .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-0-3-1" docsrc="Bicycle_suspension">
+      <context> <head>Front</head> suspension Rear suspension Suspension seatpost</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-0-4-1" docsrc="Bicycle_suspension">
+      <context> <head>Rear</head> suspension Suspension seatpost Suspension saddle</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-0-5-1" docsrc="Bicycle_suspension">
+      <context> <head>Suspension</head> seatpost Suspension saddle Suspension stem ( now uncommon )</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-0-6-1" docsrc="Bicycle_suspension">
+      <context> <head>Suspension</head> saddle Suspension stem ( now uncommon ) Suspension hub</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-1-0-1" docsrc="Bicycle_suspension">
+      <context> Bicycle <head>suspension</head> is the system , or systems , used to suspend the rider and bicycle in order to insulate them from the roughness of the terrain . Bicycle suspension is used primarily on mountain bikes , but is also common on hybrid bicycles .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-1-0-2" docsrc="Bicycle_suspension">
+      <context> Bicycle <head>suspension</head> is the system , or systems , used to suspend the rider and bicycle in order to insulate them from the roughness of the terrain . Bicycle suspension is used primarily on mountain bikes , but is also common on hybrid bicycles . Bicycle suspension can be implemented in a variety of ways , and any combination thereof :</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-1-1-1" docsrc="Bicycle_suspension">
+      <context> Bicycle <head>suspension</head> is used primarily on mountain bikes , but is also common on hybrid bicycles . Bicycle suspension can be implemented in a variety of ways , and any combination thereof : Front suspension</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-1-2-1" docsrc="Bicycle_suspension">
+      <context> Bicycle <head>suspension</head> can be implemented in a variety of ways , and any combination thereof : Front suspension Rear suspension</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-10-105-1" docsrc="Bicycle_suspension">
+      <context> === Equilink === Bikes with a ' floating drivetrain ' <head>or</head> ' floating bottom bracket ' can use any type of suspension system to suspend the rear wheel from the frame , but use linkages to connect the crank assembly to the frame and rear suspension . Since the linkages are connected to the rear suspension , suspension movement causes the crank assembly to move as well .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-10-116-2" docsrc="Bicycle_suspension">
+      <context> === Pendbox === Suspension may be implemented at the saddle <head>either</head> using a suspension saddle or a suspension seatpost .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-10-148-1" docsrc="Bicycle_suspension">
+      <context> Sag === Sag refers to how much a suspension moves <head>under</head> just the static load of the rider . Sag is often used as one parameter when tuning a suspension for a rider .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-10-175-6" docsrc="Bicycle_suspension">
+      <context> The first suspension forks had about 1½ to 2 inches <head>(</head> 38 to 50 mm ) of suspension travel . Soon after , some frame designers came out with a full suspension frame which gave riders a smoother ride throughout the ride . Although much less common , some road bicycles do incorporate suspensions , particularly the Soft Tail variety mentioned above .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-10-33-3" docsrc="Bicycle_suspension">
+      <context> Early full suspension frames were heavy and tended to bounce <head>up</head> and down while a rider pedaled . This movement was called pedal bob , kickback , or monkey motion and took power out of a rider 's pedal stroke — especially during climbs up steep hills . Input from hard braking efforts also negatively affected early full suspension designs .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-11-152-1" docsrc="Bicycle_suspension">
+      <context> === Lockout === Lockout refers to a mechanism to disable a <head>suspension</head> mechanism to render it substantially rigid . This may be desirable during climbing or sprinting to prevent the suspension from absorbing power applied by the rider .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-11-175-2" docsrc="Bicycle_suspension">
+      <context> Many newer mountain bikes have a full suspension design . In <head>the</head> past , mountain bikes had a rigid frame and a rigid fork . In the early 1990s , mountain bikes started to have front suspension forks .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-11-175-5" docsrc="Bicycle_suspension">
+      <context> This made riding on rough terrain easier on a rider 's <head>arms</head> . The first suspension forks had about 1½ to 2 inches ( 38 to 50 mm ) of suspension travel . Soon after , some frame designers came out with a full suspension frame which gave riders a smoother ride throughout the ride .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-12-128-3" docsrc="Bicycle_suspension">
+      <context> These hubs were designed to stiffen up suspension forks , which were <head>still</head> somewhat of a novelty , by rigidly holding the fork legs in position relative to each other once the wheel was fitted , improving steering response in the fork . This term is no longer used as this function is no longer an exceptional requirement for mountain bike front hubs , so all current mountain bike hubs are suspension hubs . Several terms are commonly used to describe different aspects of a bicycle suspension .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-12-140-1" docsrc="Bicycle_suspension">
+      <context> Preload === Preload refers to the force applied to spring component before <head>external</head> loads , such as rider weight , are applied . More preload makes the suspension sag less and less preload makes the suspension sag more .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-13-181-2" docsrc="Bicycle_suspension">
+      <context> Although much less common , some road bicycles do incorporate suspensions , particularly <head>the</head> Soft Tail variety mentioned above . One example is Trek Bicycle Corporation 's s.p.a ( Suspension Performance Advantage ) rear suspension , offered on some of their Pilot models , but the system was removed for the 2008 model year . Virtually all bicycles produced by Alex Moulton bicycles also have very effective full suspension , due to the low unsuspended mass of the small wheels and high pressure tires , a characteristic of the unconventional design of these bicycles .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-13-7-1" docsrc="Bicycle_suspension">
+      <context> Suspension stem ( now uncommon ) Suspension hub Bicycles with only front suspension <head>are</head> referred to as hardtail and bicycles with suspension in both the front and rear are referred to as full suspension bikes .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-14-116-2" docsrc="Bicycle_suspension">
+      <context> === Pendbox === Suspension may be implemented at the saddle either using a suspension <head>saddle</head> or a suspension seatpost .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-14-181-1" docsrc="Bicycle_suspension">
+      <context> Soon after , some frame designers came out with a full suspension frame which <head>gave</head> riders a smoother ride throughout the ride . Although much less common , some road bicycles do incorporate suspensions , particularly the Soft Tail variety mentioned above . One example is Trek Bicycle Corporation 's s.p.a ( Suspension Performance Advantage ) rear suspension , offered on some of their Pilot models , but the system was removed for the 2008 model year .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-14-71-2" docsrc="Bicycle_suspension">
+      <context> Specialized has bought several of Leitner 's patents which they use for their " <head>FSR</head> Suspension " . Several manufacturer had licensed the design from Specialized . Some European manufacturers , such as Cube and Scott , do use the same suspension design , but could n't import it to the United States until 2013 due to patent protection .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-15-105-2" docsrc="Bicycle_suspension">
+      <context> Bikes with a ' floating drivetrain ' or ' floating bottom bracket ' can use <head>any</head> type of suspension system to suspend the rear wheel from the frame , but use linkages to connect the crank assembly to the frame and rear suspension . Since the linkages are connected to the rear suspension , suspension movement causes the crank assembly to move as well . The floating drivetrain is often employed to compensate for the disadvantages of a particular rear suspension system so the design can make better use of its advantages .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-15-68-1" docsrc="Bicycle_suspension">
+      <context> === Split pivot === === Horst link === Specialized has bought several of Leitner 's <head>patents</head> which they use for their " FSR Suspension " .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-17-175-4" docsrc="Bicycle_suspension">
+      <context> In the early 1990s , mountain bikes started to have front suspension forks . This made riding <head>on</head> rough terrain easier on a rider 's arms . The first suspension forks had about 1½ to 2 inches ( 38 to 50 mm ) of suspension travel .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-17-24-11" docsrc="Bicycle_suspension">
+      <context> This results in an increase in spring rate and gives the fork its progressive feel . Increasing <head>the</head> volume of the air inside the spring reduces this effect but the volume of the spring is ultimately limited by the need to be contained within the fork . The use of two air chambers within the system has allowed a more linear feel to air suspension , this is achieved by having a ' reserve ' chamber that becomes connected to the main chamber when it reaches a certain amount of compression .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-17-8-2" docsrc="Bicycle_suspension">
+      <context> Bicycles with only front suspension are referred to as hardtail and bicycles with suspension in both the <head>front</head> and rear are referred to as full suspension bikes . When a bicycle has no suspension it is called rigid . Bicycles with only rear suspension are uncommon although the Brompton folding bicycle is equipped with rear only suspension .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-18-100-1" docsrc="Bicycle_suspension">
+      <context> Trek Full Floater ==== === Equilink === Bikes with a ' floating drivetrain ' or ' floating bottom <head>bracket</head> ' can use any type of suspension system to suspend the rear wheel from the frame , but use linkages to connect the crank assembly to the frame and rear suspension .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-2-175-4" docsrc="Bicycle_suspension">
+      <context> In the <head>early</head> 1990s , mountain bikes started to have front suspension forks . This made riding on rough terrain easier on a rider 's arms . The first suspension forks had about 1½ to 2 inches ( 38 to 50 mm ) of suspension travel .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-2-26-4" docsrc="Bicycle_suspension">
+      <context> The two <head>components</head> are often separated by housing the spring mechanism in one of the fork 's legs and the damper in the other . Without a damper unit the system would rebound excessively and would actually give the rider less control than would a rigid bike . Mountain bike suspension technology has made great advances since first appearing in the early 1990s .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-2-33-1" docsrc="Bicycle_suspension">
+      <context> Without a <head>damper</head> unit the system would rebound excessively and would actually give the rider less control than would a rigid bike . Mountain bike suspension technology has made great advances since first appearing in the early 1990s . Early full suspension frames were heavy and tended to bounce up and down while a rider pedaled .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-2-49-2" docsrc="Bicycle_suspension">
+      <context> The single <head>pivot</head> is the simplest type of rear suspension . The rear axle is held by a swingarm which is connected to the frame via a single pivot located near the bottom bracket . When the suspension moves through its travel , the path the rear axle describes is a circle around the pivot point .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-20-33-6" docsrc="Bicycle_suspension">
+      <context> When a rider hit the brakes , these early suspensions compressed into their travel and lost some of their ability <head>to</head> absorb bumps . This happened in situations where the rear suspension was needed most . When braking efforts cause the suspension to compress it is referred to as brake squat , when braking causes the suspension to extend it is called brake jack .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-22-181-4" docsrc="Bicycle_suspension">
+      <context> Virtually all bicycles produced by Alex Moulton bicycles also have very effective full suspension , due to the low unsuspended mass of <head>the</head> small wheels and high pressure tires , a characteristic of the unconventional design of these bicycles . A recent design is the cantilevered ' swing shock ' on some modern hybrid bikes . A very closely related suspension design to the Softride is the Zipp 2001 , a contemporary competing beam bicycle , where the suspension was in the hinge , rather than in flex of the beam itself .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-22-192-1" docsrc="Bicycle_suspension">
+      <context> A recent design is the cantilevered ' swing shock ' on some modern hybrid bikes . A very closely related suspension design <head>to</head> the Softride is the Zipp 2001 , a contemporary competing beam bicycle , where the suspension was in the hinge , rather than in flex of the beam itself .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-25-7-1" docsrc="Bicycle_suspension">
+      <context> Suspension stem ( now uncommon ) Suspension hub Bicycles with only front suspension are referred to as hardtail and bicycles with suspension in both the <head>front</head> and rear are referred to as full suspension bikes .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-27-167-1" docsrc="Bicycle_suspension">
+      <context> Often , lockouts function by allowing no or very little compression . === Unsprung mass === In general , bikes are so light compared to their riders <head>that</head> travel is a much bigger motivator than unsprung mass in determining where to put the suspension and how much to use .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-28-128-2" docsrc="Bicycle_suspension">
+      <context> In mountain biking the term ' suspension hub ' was used in the 90s to describe hubs with oversized axle ends and a thicker axles than were customary <head>at</head> the time . These hubs were designed to stiffen up suspension forks , which were still somewhat of a novelty , by rigidly holding the fork legs in position relative to each other once the wheel was fitted , improving steering response in the fork . This term is no longer used as this function is no longer an exceptional requirement for mountain bike front hubs , so all current mountain bike hubs are suspension hubs .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-35-24-13" docsrc="Bicycle_suspension">
+      <context> The use of two air chambers within the system has allowed a more linear feel to air suspension , this is achieved by having a ' reserve ' chamber that becomes connected to the main <head>chamber</head> when it reaches a certain amount of compression . Once achieved , a valve opens and effectively makes the chamber larger . By linking the two , the force needed to compress the air in the chambers is reduced which reduces the exponential spring rate feel traditionally associated with air systems when approaching the end of the suspension 's travel .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-4-140-1" docsrc="Bicycle_suspension">
+      <context> Preload === Preload refers <head>to</head> the force applied to spring component before external loads , such as rider weight , are applied . More preload makes the suspension sag less and less preload makes the suspension sag more .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-4-181-4" docsrc="Bicycle_suspension">
+      <context> Virtually all bicycles produced <head>by</head> Alex Moulton bicycles also have very effective full suspension , due to the low unsuspended mass of the small wheels and high pressure tires , a characteristic of the unconventional design of these bicycles . A recent design is the cantilevered ' swing shock ' on some modern hybrid bikes . A very closely related suspension design to the Softride is the Zipp 2001 , a contemporary competing beam bicycle , where the suspension was in the hinge , rather than in flex of the beam itself .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-4-192-1" docsrc="Bicycle_suspension">
+      <context> A recent design is <head>the</head> cantilevered ' swing shock ' on some modern hybrid bikes . A very closely related suspension design to the Softride is the Zipp 2001 , a contemporary competing beam bicycle , where the suspension was in the hinge , rather than in flex of the beam itself .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-4-7-1" docsrc="Bicycle_suspension">
+      <context> Suspension stem ( now <head>uncommon</head> ) Suspension hub Bicycles with only front suspension are referred to as hardtail and bicycles with suspension in both the front and rear are referred to as full suspension bikes .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-4-8-2" docsrc="Bicycle_suspension">
+      <context> Bicycles with only front <head>suspension</head> are referred to as hardtail and bicycles with suspension in both the front and rear are referred to as full suspension bikes . When a bicycle has no suspension it is called rigid . Bicycles with only rear suspension are uncommon although the Brompton folding bicycle is equipped with rear only suspension .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-42-100-1" docsrc="Bicycle_suspension">
+      <context> Trek Full Floater ==== === Equilink === Bikes with a ' floating drivetrain ' or ' floating bottom bracket ' can use any type of suspension system to suspend the rear wheel from the frame , but use linkages to connect the <head>crank</head> assembly to the frame and rear suspension .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-5-33-6" docsrc="Bicycle_suspension">
+      <context> When a rider hit the <head>brakes</head> , these early suspensions compressed into their travel and lost some of their ability to absorb bumps . This happened in situations where the rear suspension was needed most . When braking efforts cause the suspension to compress it is referred to as brake squat , when braking causes the suspension to extend it is called brake jack .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-5-8-1" docsrc="Bicycle_suspension">
+      <context> Suspension hub Bicycles with only <head>front</head> suspension are referred to as hardtail and bicycles with suspension in both the front and rear are referred to as full suspension bikes . When a bicycle has no suspension it is called rigid .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-6-122-1" docsrc="Bicycle_suspension">
+      <context> Pendbox === Suspension may be implemented <head>at</head> the saddle either using a suspension saddle or a suspension seatpost . The effectiveness of saddle or seatpost suspension depends on the rider placing their weight on the saddle .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-6-127-2" docsrc="Bicycle_suspension">
+      <context> Suspension may be provided in the <head>hub</head> of a bicycle wheel . One manufacturer offers 12 mm to 24 mm of travel . In mountain biking the term ' suspension hub ' was used in the 90s to describe hubs with oversized axle ends and a thicker axles than were customary at the time .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-6-147-2" docsrc="Bicycle_suspension">
+      <context> === Sag === Sag refers to <head>how</head> much a suspension moves under just the static load of the rider .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-7-123-1" docsrc="Bicycle_suspension">
+      <context> Suspension may be implemented at the saddle <head>either</head> using a suspension saddle or a suspension seatpost . The effectiveness of saddle or seatpost suspension depends on the rider placing their weight on the saddle . For this reason , this style of suspension is most popular on more upright styles of bicycle , where the rider spends the majority of time seated .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-7-128-1" docsrc="Bicycle_suspension">
+      <context> One manufacturer offers 12 mm to 24 <head>mm</head> of travel . In mountain biking the term ' suspension hub ' was used in the 90s to describe hubs with oversized axle ends and a thicker axles than were customary at the time . These hubs were designed to stiffen up suspension forks , which were still somewhat of a novelty , by rigidly holding the fork legs in position relative to each other once the wheel was fitted , improving steering response in the fork .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-7-135-1" docsrc="Bicycle_suspension">
+      <context> Several terms are commonly used to describe <head>different</head> aspects of a bicycle suspension . === Travel === Travel refers to how much movement a suspension mechanism allows .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-7-170-2" docsrc="Bicycle_suspension">
+      <context> In general , bikes are so light <head>compared</head> to their riders that travel is a much bigger motivator than unsprung mass in determining where to put the suspension and how much to use . The exception to this is that on recumbent and tandem bicycles where the riders are either unable to lift themselves out of their seat or unable to see in advance when that will be needed , the riders ' mass can no longer be expected to be supported by their knees over road irregularities . These bicycles generally have some sort of suspension system to reduce unsprung mass .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-7-170-3" docsrc="Bicycle_suspension">
+      <context> The exception to this is that on <head>recumbent</head> and tandem bicycles where the riders are either unable to lift themselves out of their seat or unable to see in advance when that will be needed , the riders ' mass can no longer be expected to be supported by their knees over road irregularities . These bicycles generally have some sort of suspension system to reduce unsprung mass . Many newer mountain bikes have a full suspension design .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-7-33-5" docsrc="Bicycle_suspension">
+      <context> Input from hard braking efforts also negatively <head>affected</head> early full suspension designs . When a rider hit the brakes , these early suspensions compressed into their travel and lost some of their ability to absorb bumps . This happened in situations where the rear suspension was needed most .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-7-9-2" docsrc="Bicycle_suspension">
+      <context> Although a stiffer frame is usually preferable <head>,</head> no material is infinitely stiff and therefore any frame will exhibit some flexing . Bicycle designers intentionally make frames in such a way that the frame itself can absorb some vibrations . Besides providing comfort to the rider , suspension systems improve traction and safety by helping to keep one or both wheels in contact with the ground .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-8-105-1" docsrc="Bicycle_suspension">
+      <context> === Equilink === Bikes with a ' floating <head>drivetrain</head> ' or ' floating bottom bracket ' can use any type of suspension system to suspend the rear wheel from the frame , but use linkages to connect the crank assembly to the frame and rear suspension . Since the linkages are connected to the rear suspension , suspension movement causes the crank assembly to move as well .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-8-140-2" docsrc="Bicycle_suspension">
+      <context> Preload refers to the force applied to spring <head>component</head> before external loads , such as rider weight , are applied . More preload makes the suspension sag less and less preload makes the suspension sag more . Adjusting preload affects the ride height of the suspension .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-8-143-2" docsrc="Bicycle_suspension">
+      <context> === Rebound === Rebound refers to the rate <head>at</head> which the suspension component returns to its original configuration after absorbing a shock .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-8-151-1" docsrc="Bicycle_suspension">
+      <context> Spring preload is adjusted until the desired amount <head>of</head> sag is measured . === Lockout === Lockout refers to a mechanism to disable a suspension mechanism to render it substantially rigid .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-8-42-1" docsrc="Bicycle_suspension">
+      <context> === Soft tail === === Unified rear triangle <head>===</head> Notable examples of bikes with this type of suspension include the Ibis Szazbo , Klein Mantra , Schwinn S-10 , and Trek Y.</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-9-181-1" docsrc="Bicycle_suspension">
+      <context> Soon after , some frame designers came out with <head>a</head> full suspension frame which gave riders a smoother ride throughout the ride . Although much less common , some road bicycles do incorporate suspensions , particularly the Soft Tail variety mentioned above . One example is Trek Bicycle Corporation 's s.p.a ( Suspension Performance Advantage ) rear suspension , offered on some of their Pilot models , but the system was removed for the 2008 model year .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-9-33-4" docsrc="Bicycle_suspension">
+      <context> This movement was called pedal bob , kickback , <head>or</head> monkey motion and took power out of a rider 's pedal stroke — especially during climbs up steep hills . Input from hard braking efforts also negatively affected early full suspension designs . When a rider hit the brakes , these early suspensions compressed into their travel and lost some of their ability to absorb bumps .</context>
+    </instance>
+    <instance id="Bicycle_suspension-suspension-9-47-1" docsrc="Bicycle_suspension">
+      <context> Notable examples of bikes with this type of suspension <head>include</head> the Ibis Szazbo , Klein Mantra , Schwinn S-10 , and Trek Y. === Single pivot === The single pivot is the simplest type of rear suspension .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-1-107-1" docsrc="Suspension_(motorcycle)">
+      <context> The <head>hydraulic</head> shock absorbers used on the rear suspensions of motorcycles are essentially the same as those used in other vehicle applications . ==== Twin shock absorbers ==== Bicycle suspension</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-10-59-3" docsrc="Suspension_(motorcycle)">
+      <context> It was developed by Norman Hossack though used by Claude <head>Fior</head> and John Britten on racebikes . Hossack himself described the system as a ' steered upright ' . In 2004 BMW announced the K1200S with a new front suspension that is based upon this design .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-10-59-4" docsrc="Suspension_(motorcycle)">
+      <context> Hossack himself described the system as a ' steered upright <head>'</head> . In 2004 BMW announced the K1200S with a new front suspension that is based upon this design . With a fork the braking forces are put through the suspension , a situation that leads to the suspension being compressed , using up a large amount of suspension travel which makes dealing with bumps and other road irregularities extremely difficult .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-11-81-1" docsrc="Suspension_(motorcycle)">
+      <context> However , motorcycles with rear suspension were offered to the public <head>before</head> World War I. Notable among these are the 1913 Indian Single with a swingarm suspended from a leaf spring and the 1913 Pope with wheels supported on a pair of plungers which were each suspended by a coil spring . ==== Plunger suspension ==== Several motorcycles before and immediately after World War II used plunger suspension in which the vertical movement of the rear axle was controlled by plungers suspended by springs .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-12-0-1" docsrc="Suspension_(motorcycle)">
+      <context> A motorcycle 's suspension serves a dual purpose : contributing to the <head>vehicle</head> 's handling and braking , and providing safety and comfort by keeping the vehicle 's passengers comfortably isolated from road noise , bumps and vibrations . The typical motorcycle has a pair of fork tubes for the front suspension , and a swingarm with one or two shock absorbers for the rear suspension .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-12-58-1" docsrc="Suspension_(motorcycle)">
+      <context> Leading link front forks , such as used on some Ural motorcycles <head>,</head> can also be designed either to reduce or eliminate dive . ==== Hossack/Fior ( Duolever ) fork ==== The Hossack/Fior ( marketed as Duolever by BMW ) separates completely the suspension from steering forces .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-17-49-1" docsrc="Suspension_(motorcycle)">
+      <context> AVDS ( Automatic Variable Damping System ) : This was fitted to a number of Kawasaki motorcycles <head>.</head> Another method to reduce or eliminate brake dive in telescopic forks is to use a reactive link or torque arm to connect the braking components to the motorcycle frame via the triple clamp . Some fork designs mitigate dive , eliminate it , or even reverse it without affecting the front suspension adversely .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-18-59-4" docsrc="Suspension_(motorcycle)">
+      <context> Hossack himself described the system as a ' steered upright ' . In 2004 BMW announced the K1200S <head>with</head> a new front suspension that is based upon this design . With a fork the braking forces are put through the suspension , a situation that leads to the suspension being compressed , using up a large amount of suspension travel which makes dealing with bumps and other road irregularities extremely difficult .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-18-77-1" docsrc="Suspension_(motorcycle)">
+      <context> The length of the typical motorcycle fork means that they act as large levers about the headstock requiring <head>the</head> forks , the headstock , and the frame to be very robust adding to the bike 's weight . === Early rear suspensions === While front suspensions were almost universally adopted before World War I , several manufacturers did not use rear suspension on their bikes until after World War II.</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-19-70-2" docsrc="Suspension_(motorcycle)">
+      <context> With a fork the braking forces are put through the suspension , a situation that leads to the suspension <head>being</head> compressed , using up a large amount of suspension travel which makes dealing with bumps and other road irregularities extremely difficult . As the forks dive the steering geometry of the bike also changes making the bike more nervous , and inversely on acceleration becomes more lazy . Also , having the steering working through the forks causes problems with stiction , decreasing the effectiveness of the suspension .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-2-38-3" docsrc="Suspension_(motorcycle)">
+      <context> If the <head>bike</head> dives so far as to bottom out the front forks , it can also cause handling and braking problems . One of the purposes of a suspension is to help maintain contact between the tire and road . If the suspension has bottomed out , it is no longer moving as it should , and is no longer helping to maintain contact .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-2-77-1" docsrc="Suspension_(motorcycle)">
+      <context> The length <head>of</head> the typical motorcycle fork means that they act as large levers about the headstock requiring the forks , the headstock , and the frame to be very robust adding to the bike 's weight . === Early rear suspensions === While front suspensions were almost universally adopted before World War I , several manufacturers did not use rear suspension on their bikes until after World War II.</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-2-78-2" docsrc="Suspension_(motorcycle)">
+      <context> While front <head>suspensions</head> were almost universally adopted before World War I , several manufacturers did not use rear suspension on their bikes until after World War II. However , motorcycles with rear suspension were offered to the public before World War I. Notable among these are the 1913 Indian Single with a swingarm suspended from a leaf spring and the 1913 Pope with wheels supported on a pair of plungers which were each suspended by a coil spring . ==== Plunger suspension ====</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-2-83-1" docsrc="Suspension_(motorcycle)">
+      <context> Several motorcycles <head>before</head> and immediately after World War II used plunger suspension in which the vertical movement of the rear axle was controlled by plungers suspended by springs . Notable manufacturers of bikes with plunger suspension include Adler , Ariel , BMW , BSA , Indian , MZ , Saroléa , Norton , Cossack/Ural and Zündapp . Although plunger suspension could be sophisticated , with springing and damping in both compression and rebound , it had three disadvantages ( compared to the almost universal swingarm that succeeded it ) , as follows : ( i ) wheel travel was limited , ( ii ) the wheel could move out of the required vertical axis , and ( iii ) it was more expensive to produce and maintain .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-26-0-1" docsrc="Suspension_(motorcycle)">
+      <context> A motorcycle 's suspension serves a dual purpose : contributing to the vehicle 's handling and braking , and providing safety and comfort by keeping the <head>vehicle</head> 's passengers comfortably isolated from road noise , bumps and vibrations . The typical motorcycle has a pair of fork tubes for the front suspension , and a swingarm with one or two shock absorbers for the rear suspension .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-28-59-4" docsrc="Suspension_(motorcycle)">
+      <context> Hossack himself described the system as a ' steered upright ' . In 2004 BMW announced the K1200S with a new front suspension that is based upon this <head>design</head> . With a fork the braking forces are put through the suspension , a situation that leads to the suspension being compressed , using up a large amount of suspension travel which makes dealing with bumps and other road irregularities extremely difficult .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-3-70-4" docsrc="Suspension_(motorcycle)">
+      <context> Also , having <head>the</head> steering working through the forks causes problems with stiction , decreasing the effectiveness of the suspension . The length of the typical motorcycle fork means that they act as large levers about the headstock requiring the forks , the headstock , and the frame to be very robust adding to the bike 's weight . === Early rear suspensions ===</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-5-78-1" docsrc="Suspension_(motorcycle)">
+      <context> === Early rear suspensions === <head>While</head> front suspensions were almost universally adopted before World War I , several manufacturers did not use rear suspension on their bikes until after World War II. However , motorcycles with rear suspension were offered to the public before World War I. Notable among these are the 1913 Indian Single with a swingarm suspended from a leaf spring and the 1913 Pope with wheels supported on a pair of plungers which were each suspended by a coil spring .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-6-1-1" docsrc="Suspension_(motorcycle)">
+      <context> A motorcycle 's suspension serves a <head>dual</head> purpose : contributing to the vehicle 's handling and braking , and providing safety and comfort by keeping the vehicle 's passengers comfortably isolated from road noise , bumps and vibrations . The typical motorcycle has a pair of fork tubes for the front suspension , and a swingarm with one or two shock absorbers for the rear suspension . The most common form of front suspension for a modern motorcycle is the telescopic fork .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-6-38-2" docsrc="Suspension_(motorcycle)">
+      <context> Brake dive can be disconcerting to <head>the</head> rider , who may feel like he or she is about to be thrown over the front of the motorcycle . If the bike dives so far as to bottom out the front forks , it can also cause handling and braking problems . One of the purposes of a suspension is to help maintain contact between the tire and road .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-6-82-1" docsrc="Suspension_(motorcycle)">
+      <context> ==== Plunger suspension ==== Several motorcycles <head>before</head> and immediately after World War II used plunger suspension in which the vertical movement of the rear axle was controlled by plungers suspended by springs . Notable manufacturers of bikes with plunger suspension include Adler , Ariel , BMW , BSA , Indian , MZ , Saroléa , Norton , Cossack/Ural and Zündapp .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-8-99-1" docsrc="Suspension_(motorcycle)">
+      <context> In production motorcycles , swingarms are not exactly <head>rectangular</head> , but their function can be more easily understood by thinking of them as such . === Shock absorbers === The hydraulic shock absorbers used on the rear suspensions of motorcycles are essentially the same as those used in other vehicle applications .</context>
+    </instance>
+    <instance id="Suspension_(motorcycle)-suspension-9-13-2" docsrc="Suspension_(motorcycle)">
+      <context> Scott produced a motorcycle with telescopic forks in 1908 <head>,</head> and would continue to use them until 1931 . In 1935 BMW became the first manufacturer to produce a motorcycle with hydraulically damped telescopic forks . Most motorcycles today use telescopic forks for the front suspension .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-0-2-1" docsrc="Suspension_(vehicle)">
+      <context> <head>Suspension</head> is the system of tires , tire air , springs , shock absorbers and linkages that connects a vehicle to its wheels and allows relative motion between the two . Suspension systems serve a dual purpose — contributing to the vehicle 's roadholding/handling and braking for good active safety and driving pleasure , and keeping vehicle occupants comfortable and a ride quality reasonably well isolated from road noise , bumps , vibrations,etc .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-0-242-1" docsrc="Suspension_(vehicle)">
+      <context> <head>In</head> addition , the new Michelin wheel with embedded suspension working on an electromotor is also similar . === Interconnected suspensions === Suspension systems can be broadly classified into two subgroups : dependent and independent .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-0-254-1" docsrc="Suspension_(vehicle)">
+      <context> <head>De</head> Dion suspensions are also in this category as they rigidly connect the wheels together . An independent suspension allows wheels to rise and fall on their own without affecting the opposite wheel . Suspensions with other devices , such as sway bars that link the wheels in some way are still classed as independent .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-0-332-1" docsrc="Suspension_(vehicle)">
+      <context> <head>How</head> Car Suspensions Work Robert W. Temple , The ABCs of Chassis Frame and Suspensions , September 1969 Suspension Geometry Calculator</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-0-333-1" docsrc="Suspension_(vehicle)">
+      <context> <head>Robert</head> W. Temple , The ABCs of Chassis Frame and Suspensions , September 1969 Suspension Geometry Calculator</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-1-187-1" docsrc="Suspension_(vehicle)">
+      <context> These <head>are</head> usually small , except that the suspension is related to whether the brakes and differential(s ) are sprung . This is the main functional advantage of aluminum wheels over steel wheels . Aluminum suspension parts have been used in production cars , and carbon fiber suspension parts are common in racing cars .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-1-195-1" docsrc="Suspension_(vehicle)">
+      <context> Inboard <head>brakes</head> ( which reduce unsprung weight ) are probably avoided more due to space considerations than to cost . === Force distribution === The suspension attachment must match the frame design in geometry , strength and rigidity .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-1-2-4" docsrc="Suspension_(vehicle)">
+      <context> These <head>goals</head> are generally at odds , so the tuning of suspensions involves finding the right compromise . It is important for the suspension to keep the road wheel in contact with the road surface as much as possible , because all the road or ground forces acting on the vehicle do so through the contact patches of the tires . The suspension also protects the vehicle itself and any cargo or luggage from damage and wear .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-1-212-1" docsrc="Suspension_(vehicle)">
+      <context> A <head>number</head> of different types of each have been used : === Passive suspensions ===</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-1-258-1" docsrc="Suspension_(vehicle)">
+      <context> Suspensions <head>with</head> other devices , such as sway bars that link the wheels in some way are still classed as independent . === Dependent suspensions ===</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-1-303-2" docsrc="Suspension_(vehicle)">
+      <context> Military <head>AFVs</head> , including tanks , have specialized suspension requirements . They can weigh more than seventy tons and are required to move as quickly as possible over very rough or soft ground . Their suspension components must be protected from land mines and antitank weapons .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-1-305-3" docsrc="Suspension_(vehicle)">
+      <context> In <head>the</head> 1930s , the Christie suspension was developed , which allowed the use of coil springs inside a vehicle 's armored hull , by changing the direction of force deforming the spring , using a bell crank . The T-34 's suspension was directly descended from Christie designs . Horstmann suspension was a variation which used a combination of bell crank and exterior coil springs , in use from the 1930s to the 1990s .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-1-313-1" docsrc="Suspension_(vehicle)">
+      <context> 4-poster <head>–</head> a test rig 7 post shaker – a test rig for high speed vehicles Automotive suspension design – the design process</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-10-14-2" docsrc="Suspension_(vehicle)">
+      <context> Coil springs first appeared on a production vehicle in 1906 <head>in</head> the Brush Runabout made by the Brush Motor Company . Today , coil springs are used in most cars . In 1920 , Leyland Motors used torsion bars in a suspension system .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-10-148-1" docsrc="Suspension_(vehicle)">
+      <context> === Camber control === See dependent and independent below . <head>Camber</head> changes due to wheel travel , body roll and suspension system deflection or compliance .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-10-331-1" docsrc="Suspension_(vehicle)">
+      <context> Short long arms suspension — also known as " unequal <head>length</head> A arm " , one of the design parameters of double wishbone suspension How Car Suspensions Work Robert W. Temple , The ABCs of Chassis Frame and Suspensions , September 1969</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-10-36-5" docsrc="Suspension_(vehicle)">
+      <context> Vehicles which carry heavy loads will often have heavier springs <head>to</head> compensate for the additional weight that would otherwise collapse a vehicle to the bottom of its travel ( stroke ) . Heavier springs are also used in performance applications where the loading conditions experienced are more extreme . Springs that are too hard or too soft cause the suspension to become ineffective because they fail to properly isolate the vehicle from the road .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-11-143-3" docsrc="Suspension_(vehicle)">
+      <context> This may also vary , intentionally or unintentionally . Like spring <head>rate</head> , the optimal damping for comfort may be less than for control . Damping controls the travel speed and resistance of the vehicle 's suspension .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-11-2-2" docsrc="Suspension_(vehicle)">
+      <context> Suspension is the system of tires , tire air , springs <head>,</head> shock absorbers and linkages that connects a vehicle to its wheels and allows relative motion between the two . Suspension systems serve a dual purpose — contributing to the vehicle 's roadholding/handling and braking for good active safety and driving pleasure , and keeping vehicle occupants comfortable and a ride quality reasonably well isolated from road noise , bumps , vibrations,etc . These goals are generally at odds , so the tuning of suspensions involves finding the right compromise .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-11-238-1" docsrc="Suspension_(vehicle)">
+      <context> Citroën 's system adds about 1 % to the cost of <head>the</head> car versus passive steel springs . Several electromagnetic suspensions have also been developed for vehicles . Examples include the electromagnetic suspension of Bose , and the electromagnetic suspension developed by prof .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-11-304-1" docsrc="Suspension_(vehicle)">
+      <context> Some wheels are too big and confined to turn , so <head>skid</head> steering is used with some wheeled , as well as with tracked , vehicles . The earliest tanks of World War I had fixed suspension with no designed movement whatsoever . This unsatisfactory situation was improved with leaf spring or coil spring suspensions adopted from agricultural , automotive or railway machinery , but even these had very limited travel .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-12-17-1" docsrc="Suspension_(vehicle)">
+      <context> Today most cars have independent suspension on all four wheels . In <head>2002</head> , a new passive suspension component was invented by Malcolm C. Smith , the inerter . This has the ability to increase the effective inertia of a wheel suspension using a geared flywheel , but without adding significant mass .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-13-131-1" docsrc="Suspension_(vehicle)">
+      <context> Calculating the front and rear sprung weight transfer will also require knowing the <head>roll</head> couple percentage . === Jacking forces === Jacking forces are the sum of the vertical force components experienced by the suspension links .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-13-187-1" docsrc="Suspension_(vehicle)">
+      <context> These are usually small , except that the suspension is related to whether <head>the</head> brakes and differential(s ) are sprung . This is the main functional advantage of aluminum wheels over steel wheels . Aluminum suspension parts have been used in production cars , and carbon fiber suspension parts are common in racing cars .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-14-24-1" docsrc="Suspension_(vehicle)">
+      <context> It was initially employed in Formula 1 in secrecy but has since spread to <head>other</head> motorsport . === History === The Hotchkiss drive , invented by Albert Hotchkiss , was the most popular rear suspension system used in American cars from the 1930s to the 1970s .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-15-102-1" docsrc="Suspension_(vehicle)">
+      <context> This is as opposed to simply measuring the spring rate alone . Wheel rate is <head>usually</head> equal to or considerably less than the spring rate . Commonly , springs are mounted on control arms , swing arms or some other pivoting suspension member .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-15-156-1" docsrc="Suspension_(vehicle)">
+      <context> Conventionally , roll stiffness distribution is tuned adjusting antiroll bars rather than roll center height <head>(</head> as both tend to have a similar effect on the sprung mass ) , but the height of the roll center is significant when considering the amount of jacking forces experienced . === Instant center === Due to the fact that the wheel and tire 's motion is constrained by the suspension links on the vehicle , the motion of the wheel package in the front view will scribe an imaginary arc in space with an " instantaneous center " of rotation at any given point along its path .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-16-200-2" docsrc="Suspension_(vehicle)">
+      <context> Certain modern vehicles have height adjustable suspension in order to improve aerodynamics and fuel efficiency . <head>Modern</head> formula cars that have exposed wheels and suspension typically use streamlined tubing rather than simple round tubing for their suspension arms to reduce aerodynamic drag . Also typical is the use of rocker arm , push rod , or pull rod type suspensions that , among other things , place the spring/damper unit inboard and out of the air stream to further reduce air resistance .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-17-157-1" docsrc="Suspension_(vehicle)">
+      <context> === Instant center === Due to the fact that the wheel and tire 's motion is constrained <head>by</head> the suspension links on the vehicle , the motion of the wheel package in the front view will scribe an imaginary arc in space with an " instantaneous center " of rotation at any given point along its path . The instant center for any wheel package can be found by following imaginary lines drawn through the suspension links to their intersection point .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-2-204-2" docsrc="Suspension_(vehicle)">
+      <context> Production methods <head>improve</head> , but cost is always a factor . The continued use of the solid rear axle , with unsprung differential , especially on heavy vehicles , seems to be the most obvious example . Most conventional suspensions use passive springs to absorb impacts and dampers ( or shock absorbers ) to control spring motions .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-2-218-1" docsrc="Suspension_(vehicle)">
+      <context> Springs ==== <head>The</head> majority of land vehicles are suspended by steel springs , of these types : Torsion beam suspension</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-2-235-3" docsrc="Suspension_(vehicle)">
+      <context> It will <head>not</head> instantly compensate for body roll due to cornering however . Citroën 's system adds about 1 % to the cost of the car versus passive steel springs . Several electromagnetic suspensions have also been developed for vehicles .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-2-238-4" docsrc="Suspension_(vehicle)">
+      <context> Laurentiu Encica <head>.</head> In addition , the new Michelin wheel with embedded suspension working on an electromotor is also similar . === Interconnected suspensions ===</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-2-252-2" docsrc="Suspension_(vehicle)">
+      <context> Suspension systems <head>can</head> be broadly classified into two subgroups : dependent and independent . These terms refer to the ability of opposite wheels to move independently of each other . A dependent suspension normally has a beam ( a simple ' cart ' axle ) or ( driven ) live axle that holds wheels parallel to each other and perpendicular to the axle .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-2-253-2" docsrc="Suspension_(vehicle)">
+      <context> A dependent <head>suspension</head> normally has a beam ( a simple ' cart ' axle ) or ( driven ) live axle that holds wheels parallel to each other and perpendicular to the axle . When the camber of one wheel changes , the camber of the opposite wheel changes in the same way ( by convention on one side this is a positive change in camber and on the other side this a negative change ) . De Dion suspensions are also in this category as they rigidly connect the wheels together .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-2-253-3" docsrc="Suspension_(vehicle)">
+      <context> When the <head>camber</head> of one wheel changes , the camber of the opposite wheel changes in the same way ( by convention on one side this is a positive change in camber and on the other side this a negative change ) . De Dion suspensions are also in this category as they rigidly connect the wheels together . An independent suspension allows wheels to rise and fall on their own without affecting the opposite wheel .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-2-277-1" docsrc="Suspension_(vehicle)">
+      <context> It had <head>the</head> advantages of simplicity and low unsprung weight ( compared to other solid axle designs ) . Twist beam === Independent suspension ===</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-2-322-1" docsrc="Suspension_(vehicle)">
+      <context> Scrub radius <head>Short</head> long arms suspension — also known as " unequal length A arm " , one of the design parameters of double wishbone suspension How Car Suspensions Work</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-20-200-1" docsrc="Suspension_(vehicle)">
+      <context> === Air resistance ( drag ) === Certain modern vehicles have height adjustable suspension in order to improve aerodynamics and <head>fuel</head> efficiency . Modern formula cars that have exposed wheels and suspension typically use streamlined tubing rather than simple round tubing for their suspension arms to reduce aerodynamic drag .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-22-149-6" docsrc="Suspension_(vehicle)">
+      <context> Some race cars are tuned with -2 to -7° camber depending on the type of handling desired and the tire construction . <head>Often</head> , too much camber will result in the decrease of braking performance due to a reduced contact patch size through excessive camber variation in the suspension geometry . The amount of camber change in bump is determined by the instantaneous front view swing arm ( FVSA ) length of the suspension geometry , or in other words , the tendency of the tire to camber inward when compressed in bump .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-22-37-7" docsrc="Suspension_(vehicle)">
+      <context> However , even though we say they both have heavy springs , the actual spring rates for a 2,000 lb ( 910 <head>kg</head> ) race car and a 10,000 lb ( 4,500 kg ) truck are very different . A luxury car , taxi , or passenger bus would be described as having soft springs . Vehicles with worn out or damaged springs ride lower to the ground which reduces the overall amount of compression available to the suspension and increases the amount of body lean .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-23-102-7" docsrc="Suspension_(vehicle)">
+      <context> Squaring the ratio is because the ratio has two effects on the wheel rate . The ratio applies to both the force and <head>distance</head> traveled . Wheel rates are usually summed and compared with the sprung mass of a vehicle to create a " ride rate " and corresponding suspension natural frequency in ride ( also referred to as " heave " ) .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-23-321-1" docsrc="Suspension_(vehicle)">
+      <context> Maglev train Scrub radius Short long arms suspension — also known as " unequal length A arm " , one of the design <head>parameters</head> of double wishbone suspension</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-23-34-1" docsrc="Suspension_(vehicle)">
+      <context> Also , the dynamic defects of this design were suppressed by the enormous weight of US passenger vehicles before implementation the Corporate Average <head>Fuel</head> Economy standard . === Spring rate === The spring rate ( or suspension rate ) is a component in setting the vehicle 's ride height or its location in the suspension stroke .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-25-221-1" docsrc="Suspension_(vehicle)">
+      <context> Torsion beam suspension Coil spring Automakers are aware of the inherent limitations of steel springs , that they tend to produce undesirable oscillations , and <head>have</head> developed other types of suspension materials and mechanisms in attempts to improve performance :</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-25-305-4" docsrc="Suspension_(vehicle)">
+      <context> The T-34 's suspension was directly descended from Christie designs . Horstmann suspension was a variation which used a combination of bell crank and exterior <head>coil</head> springs , in use from the 1930s to the 1990s . The bogie , but nonetheless independent , suspension of the M3 Lee/Grant and the M4 Sherman was similar to the Hortsmann type , with the suspension contained within the track oval .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-26-149-5" docsrc="Suspension_(vehicle)">
+      <context> Small changes in camber , front and rear , can be used to tune handling . Some race cars are tuned with -2 to -7° camber <head>depending</head> on the type of handling desired and the tire construction . Often , too much camber will result in the decrease of braking performance due to a reduced contact patch size through excessive camber variation in the suspension geometry .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-27-59-1" docsrc="Suspension_(vehicle)">
+      <context> k is the spring rate of the spring . x is the deflection of the spring from its equilibrium position ( i.e. , when no force is <head>applied</head> on the spring ) Spring rate is confined to a narrow interval by the weight of the vehicle , load the vehicle will carry , and to a lesser extent by suspension geometry and performance desires .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-3-305-2" docsrc="Suspension_(vehicle)">
+      <context> Speeds increased due <head>to</head> more powerful engines , and the quality of ride had to be improved . In the 1930s , the Christie suspension was developed , which allowed the use of coil springs inside a vehicle 's armored hull , by changing the direction of force deforming the spring , using a bell crank . The T-34 's suspension was directly descended from Christie designs .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-3-321-1" docsrc="Suspension_(vehicle)">
+      <context> Maglev train Scrub <head>radius</head> Short long arms suspension — also known as " unequal length A arm " , one of the design parameters of double wishbone suspension</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-39-229-2" docsrc="Suspension_(vehicle)">
+      <context> The shock absorbers damp out the ( otherwise simple harmonic ) motions of a vehicle up and down on its springs . They also must damp out much of the wheel bounce when the unsprung weight of a wheel <head>,</head> hub , axle and sometimes brakes and differential bounces up and down on the springiness of a tire . Some have suggested that the regular bumps found on dirt roads ( nicknamed " corduroy " , but properly corrugations or washboarding ) are caused by this wheel bounce , though some evidence exists that it is unrelated to suspension at all .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-4-238-1" docsrc="Suspension_(vehicle)">
+      <context> Citroën 's system adds <head>about</head> 1 % to the cost of the car versus passive steel springs . Several electromagnetic suspensions have also been developed for vehicles . Examples include the electromagnetic suspension of Bose , and the electromagnetic suspension developed by prof .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-4-37-1" docsrc="Suspension_(vehicle)">
+      <context> Heavier springs are also <head>used</head> in performance applications where the loading conditions experienced are more extreme . Springs that are too hard or too soft cause the suspension to become ineffective because they fail to properly isolate the vehicle from the road . Vehicles that commonly experience suspension loads heavier than normal have heavy or hard springs with a spring rate close to the upper limit for that vehicle 's weight .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-5-15-1" docsrc="Suspension_(vehicle)">
+      <context> Today , coil springs are <head>used</head> in most cars . In 1920 , Leyland Motors used torsion bars in a suspension system . In 1922 , independent front suspension was pioneered on the Lancia Lambda and became more common in mass market cars from 1932 .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-5-16-1" docsrc="Suspension_(vehicle)">
+      <context> In 1920 , Leyland Motors <head>used</head> torsion bars in a suspension system . In 1922 , independent front suspension was pioneered on the Lancia Lambda and became more common in mass market cars from 1932 . Today most cars have independent suspension on all four wheels .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-5-2-3" docsrc="Suspension_(vehicle)">
+      <context> Suspension systems serve a dual <head>purpose</head> — contributing to the vehicle 's roadholding/handling and braking for good active safety and driving pleasure , and keeping vehicle occupants comfortable and a ride quality reasonably well isolated from road noise , bumps , vibrations,etc . These goals are generally at odds , so the tuning of suspensions involves finding the right compromise . It is important for the suspension to keep the road wheel in contact with the road surface as much as possible , because all the road or ground forces acting on the vehicle do so through the contact patches of the tires .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-5-34-1" docsrc="Suspension_(vehicle)">
+      <context> Also , the dynamic defects <head>of</head> this design were suppressed by the enormous weight of US passenger vehicles before implementation the Corporate Average Fuel Economy standard . === Spring rate === The spring rate ( or suspension rate ) is a component in setting the vehicle 's ride height or its location in the suspension stroke .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-6-16-2" docsrc="Suspension_(vehicle)">
+      <context> In 1922 , independent front suspension <head>was</head> pioneered on the Lancia Lambda and became more common in mass market cars from 1932 . Today most cars have independent suspension on all four wheels . In 2002 , a new passive suspension component was invented by Malcolm C. Smith , the inerter .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-6-199-1" docsrc="Suspension_(vehicle)">
+      <context> The suspension attachment must match the <head>frame</head> design in geometry , strength and rigidity . === Air resistance ( drag ) === Certain modern vehicles have height adjustable suspension in order to improve aerodynamics and fuel efficiency .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-6-2-5" docsrc="Suspension_(vehicle)">
+      <context> It is important for the suspension <head>to</head> keep the road wheel in contact with the road surface as much as possible , because all the road or ground forces acting on the vehicle do so through the contact patches of the tires . The suspension also protects the vehicle itself and any cargo or luggage from damage and wear . The design of front and rear suspension of a car may be different .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-6-305-1" docsrc="Suspension_(vehicle)">
+      <context> This unsatisfactory situation was improved with <head>leaf</head> spring or coil spring suspensions adopted from agricultural , automotive or railway machinery , but even these had very limited travel . Speeds increased due to more powerful engines , and the quality of ride had to be improved . In the 1930s , the Christie suspension was developed , which allowed the use of coil springs inside a vehicle 's armored hull , by changing the direction of force deforming the spring , using a bell crank .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-7-152-1" docsrc="Suspension_(vehicle)">
+      <context> The amount of camber change in bump <head>is</head> determined by the instantaneous front view swing arm ( FVSA ) length of the suspension geometry , or in other words , the tendency of the tire to camber inward when compressed in bump . === Roll center height === Roll center height is a product of suspension instant center heights and is a useful metric in analyzing weight transfer effects , body roll and front to rear roll stiffness distribution .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-7-169-1" docsrc="Suspension_(vehicle)">
+      <context> In this respect the instant centers are <head>more</head> important to the handling of the vehicle than the kinematic roll center alone , in that the ratio of geometric to elastic weight transfer is determined by the forces at the tires and their directions in relation to the position of their respective instant centers . For inboard brakes , the same procedure is followed but using the wheel center instead of contact patch center . === Flexibility and vibration modes of the suspension elements ===</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-7-290-1" docsrc="Suspension_(vehicle)">
+      <context> Swinging arm Leaf springs Transverse leaf springs <head>when</head> used as a suspension link , or four quarter elliptics on one end of a car are similar to wishbones in geometry , but are more compliant .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-7-305-4" docsrc="Suspension_(vehicle)">
+      <context> The T-34 's suspension was directly descended <head>from</head> Christie designs . Horstmann suspension was a variation which used a combination of bell crank and exterior coil springs , in use from the 1930s to the 1990s . The bogie , but nonetheless independent , suspension of the M3 Lee/Grant and the M4 Sherman was similar to the Hortsmann type , with the suspension contained within the track oval .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-8-181-1" docsrc="Suspension_(vehicle)">
+      <context> === Load levelling === === Isolation from high <head>frequency</head> shock === For most purposes , the weight of the suspension components is unimportant , but at high frequencies , caused by road surface roughness , the parts isolated by rubber bushings act as a multistage filter to suppress noise and vibration better than can be done with only the tires and springs .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-8-185-1" docsrc="Suspension_(vehicle)">
+      <context> ( The springs work mainly in the vertical <head>direction</head> . ) === Contribution to unsprung weight and total weight === These are usually small , except that the suspension is related to whether the brakes and differential(s ) are sprung .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-8-200-1" docsrc="Suspension_(vehicle)">
+      <context> === Air resistance ( drag ) === Certain <head>modern</head> vehicles have height adjustable suspension in order to improve aerodynamics and fuel efficiency . Modern formula cars that have exposed wheels and suspension typically use streamlined tubing rather than simple round tubing for their suspension arms to reduce aerodynamic drag .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-8-298-2" docsrc="Suspension_(vehicle)">
+      <context> Some vehicles such as trains run on long <head>rail</head> tracks fixed to the ground , and some such as tractors , snow vehicles and tanks run on continuous tracks that are part of the vehicle . Though either sort helps to smooth the path and reduce ground pressure , many of the same considerations apply . Military AFVs , including tanks , have specialized suspension requirements .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-9-104-1" docsrc="Suspension_(vehicle)">
+      <context> The ratio applies to both the force and distance <head>traveled</head> . Wheel rates are usually summed and compared with the sprung mass of a vehicle to create a " ride rate " and corresponding suspension natural frequency in ride ( also referred to as " heave " ) . This can be useful in creating a metric for suspension stiffness and travel requirements for a vehicle .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-9-212-2" docsrc="Suspension_(vehicle)">
+      <context> === Passive suspensions === Traditional springs and dampers are <head>referred</head> to as passive suspensions — most vehicles are suspended in this manner .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-9-238-3" docsrc="Suspension_(vehicle)">
+      <context> Examples include the electromagnetic suspension of Bose , and <head>the</head> electromagnetic suspension developed by prof . Laurentiu Encica . In addition , the new Michelin wheel with embedded suspension working on an electromotor is also similar .</context>
+    </instance>
+    <instance id="Suspension_(vehicle)-suspension-9-303-7" docsrc="Suspension_(vehicle)">
+      <context> Some have a Central Tire Inflation System to reduce <head>ground</head> loading on poor surfaces . Some wheels are too big and confined to turn , so skid steering is used with some wheeled , as well as with tracked , vehicles . The earliest tanks of World War I had fixed suspension with no designed movement whatsoever .</context>
+    </instance>
+    <instance id="a00921369_d_3" docsrc="a00921369_d">
+      <context> tending to cause <head>suspension</head> of regular breathing ;</context>
+    </instance>
+    <instance id="br-j03#w1566_0" docsrc="br-j03">
+      <context> If they are not ellipsoids , the conclusions will be a reasonable approximation . The direction of the tension of minimum pressure is , of_course , given by the direction of the major_axis of the ellipsoids . Mason and Taylor both show that the major_axis of the ellipsoids is at 45 ` at low rates of shear and that it approaches the direction of shear with increased rates of shear . ( Some <head>suspensions</head> break_up before they are near to the direction of shear , and some become asymptotic to it without breakup . ) This is , of_course , a similar type of behavior to that indicated by birefringence studies . The relative forces can be calculated from the various radii_of_curvature if we assume : ( A ) The surface_tension is uniform on the surface of the drop . ( B ) That because of the low viscosity of the fluid , the internal pressure is the same in all directions .</context>
+    </instance>
+    <instance id="br-j08#w287_0" docsrc="br-j08">
+      <context> Much new equipment and many unique techniques have been developed for the quantitative exposure of experimental animals to aerosols of infectious agents contained in particles of specified dimensional characteristics . Much information has been gathered relative to quantitative sampling and assessment techniques . Much of the older experimental work on respiratory infections was accomplished by very artificial procedures . The intra nasal instillation of a fluid <head>suspension</head> of infectious agent in an anesthetized animal is far different from exposure , through natural respiration , to aerosolized organisms . The importance of particle size in such aerosols has been thoroughly demonstrated . The natural anatomical and physiological defensive features of the upper respiratory_tract , such_as the turbinates of the nose and the cilia of the trachea and larger bronchi , are capable of impinging out the larger particles to which we are ordinarily exposed in our daily existence . Very small particles , however , in a size range of 1 to 4 microns in diameter are capable of passing these impinging barriers and entering the alveolar_bed of the lungs .</context>
+    </instance>
+    <instance id="br-j08#w829_0" docsrc="br-j08">
+      <context> From these dosage isopleths it can be seen that an area of over 34000 square_miles was covered . These dosages could have been increased by increasing the source strength which was small in this case . The behavior of a biological aerosol , on a much smaller scale , is illustrated by a specific field_trial conducted with a non pathogenic organism . An aqueous <head>suspension</head> of the spores of B. subtilis , var. niger , generally known as Bacillus_globigii , was aerosolized using commercially available nozzles . A satisfactory cloud was produced even_though these nozzles were only about 5 per_cent efficient in producing an initial cloud in the size range of 1 to 5 microns . In this test , 130 gallons of a suspension , having a count of * * f organisms per ml , or a total of approximately * * f spores , was aerosolized . The spraying operation was conducted from the rear deck of a small Naval vessel , cruising two miles off-shore and vertical to an on-shore breeze .</context>
+    </instance>
+    <instance id="br-j08#w889_0" docsrc="br-j08">
+      <context> The behavior of a biological aerosol , on a much smaller scale , is illustrated by a specific field_trial conducted with a non pathogenic organism . An aqueous suspension of the spores of B. subtilis , var. niger , generally known as Bacillus_globigii , was aerosolized using commercially available nozzles . A satisfactory cloud was produced even_though these nozzles were only about 5 per_cent efficient in producing an initial cloud in the size range of 1 to 5 microns . In this test , 130 gallons of a <head>suspension</head> , having a count of * * f organisms per ml , or a total of approximately * * f spores , was aerosolized . The spraying operation was conducted from the rear deck of a small Naval vessel , cruising two miles off-shore and vertical to an on-shore breeze . Spraying continued along a two mile course . This operation was started at 5 : 00 p.m. and lasted for 29 minutes .</context>
+    </instance>
+    <instance id="br-j09#w373_0" docsrc="br-j09">
+      <context> This serum exhibited titers of 1 : 16 in albumin and 1 : 256 by the indirect_Coombs_test . These antibody titers were determined by reaction with homozygous * * f red_cells . Anti - A and anti - B activities were determined in fractions from the sera of group A , group B or group O donors by the following tube agglutination methods . One drop of each sample was added to one drop of a 2 % <head>suspension</head> of group * * f or group B red_cells in a small * * f test_tube . In several instances group O cells were also used as controls . The red_cells were used within 2 days after donation and were washed with large amounts of saline before use . The mixtures of sample plus cell suspension were allowed to stand at room_temperature for 1 hr .</context>
+    </instance>
+    <instance id="br-j09#w429_0" docsrc="br-j09">
+      <context> One drop of each sample was added to one drop of a 2 % suspension of group * * f or group B red_cells in a small * * f test_tube . In several instances group O cells were also used as controls . The red_cells were used within 2 days after donation and were washed with large amounts of saline before use . The mixtures of sample plus cell <head>suspension</head> were allowed to stand at room_temperature for 1 hr . the tubes were then centrifuged at 1000 rpm for 1 min and examined macroscopically for agglutination . For the albumin method , equal volumes of 30 % bovine albumin , sample and 2 % cells suspended in saline were allowed to stand at room_temperature for 1 hr and then were centrifuged at 1000 rpm for 1 min . All samples were tested by both the saline and albumin methods .</context>
+    </instance>
+    <instance id="n00858188_d_1" docsrc="n00858188_d">
+      <context> the <head>suspension</head> of consciousness and decrease in metabolic_rate ;</context>
+    </instance>
+    <instance id="n01063697_d_4" docsrc="n01063697_d">
+      <context> an interruption or temporary <head>suspension</head> of progress or movement ;</context>
+    </instance>
+    <instance id="n03181899_d_15" docsrc="n03181899_d">
+      <context> a cleansing_agent that differs from soap but can also emulsify oils and hold dirt in <head>suspension</head> ;</context>
+    </instance>
+    <instance id="n03765269_d_7" docsrc="n03765269_d">
+      <context> purgative consisting of a milky white liquid <head>suspension</head> of magnesium_hydroxide ; used as a laxative and ( in smaller doses ) as an antacid ;</context>
+    </instance>
+    <instance id="n04294614_d_11" docsrc="n04294614_d">
+      <context> a rigid metal_bar between the front suspensions and between the rear <head>suspensions</head> of cars and trucks ; serves to stabilize the chassis ;</context>
+    </instance>
+    <instance id="n04294614_d_6" docsrc="n04294614_d">
+      <context> a rigid metal_bar between the front <head>suspensions</head> and between the rear suspensions of cars and trucks ; serves to stabilize the chassis ;</context>
+    </instance>
+    <instance id="n04466871_d_8" docsrc="n04466871_d">
+      <context> a lightweight motorcycle equipped with rugged tires and <head>suspension</head> ; an off road motorcycle designed for riding cross_country or over unpaved ground ;</context>
+    </instance>
+    <instance id="n04517535_d_4" docsrc="n04517535_d">
+      <context> immunogen consisting of a <head>suspension</head> of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies ;</context>
+    </instance>
+    <instance id="n07421859_d_2" docsrc="n07421859_d">
+      <context> a temporary <head>suspension</head> of operation ( as of computers ) ;</context>
+    </instance>
+    <instance id="n14010636_d_3" docsrc="n14010636_d">
+      <context> temporary cessation or <head>suspension</head> ;</context>
+    </instance>
+    <instance id="n14011557_d_3" docsrc="n14011557_d">
+      <context> temporary inactivity or <head>suspension</head> ;</context>
+    </instance>
+    <instance id="n14013751_d_0" docsrc="n14013751_d">
+      <context> <head>suspension</head> of an ongoing activity ;</context>
+    </instance>
+    <instance id="n14013841_d_1" docsrc="n14013841_d">
+      <context> a <head>suspension</head> and relaxation from an alert state or a state of readiness ;</context>
+    </instance>
+    <instance id="n14014621_d_10" docsrc="n14014621_d">
+      <context> a state of motor and mental inactivity with a partial <head>suspension</head> of sensibility ;</context>
+    </instance>
+    <instance id="n15271619_d_1" docsrc="n15271619_d">
+      <context> a <head>suspension</head> of radio or tv broadcasting ;</context>
+    </instance>
+    <instance id="n15274305_d_2" docsrc="n15274305_d">
+      <context> a brief <head>suspension</head> of play ;</context>
+    </instance>
+    <instance id="v01943571_d_4" docsrc="v01943571_d">
+      <context> be motionless , in <head>suspension</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

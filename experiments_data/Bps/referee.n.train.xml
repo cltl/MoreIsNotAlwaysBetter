@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="referee.n" pos="NN">
+    <instance id="br-f20#w1506_0" docsrc="br-f20">
+      <context> This further demonstration of O_'_Banion 's ballooning power did not please Torrio and Capone . In the past year there had been too many examples of his euphoric self-confidence and self_aggrandisement for their liking . He behaved publicly with a cocky , swaggering truculence that offended their vulpine Latin minds , and behaved towards them personally with an unimpressed insolence that enraged them beneath their blandness . They were disturbed by his idiotic bravado - as , when his bodyguard , Yankee_Schwartz , complained that he had been snubbed by Dave_Miller , a prize-fight <head>referee</head> , chieftain of a Jewish gang and one of four brothers of tough reputation , who were Hirschey , a gambler politician in loose beer running league with Torrio and O_'_Banion , Frank , a policeman , and Max , the youngest . To settle this slight , O_'_Banion went down to the La_Salle_Theatre in the Loop , where , he had learned , Dave_Miller was attending the opening of a musical_comedy . At the end of the performance , Dave and Max came_out into the brilliantly lit foyer among a surge of gowned and tuxedoed first_nighters . O_'_Banion drew his guns and fired at Dave , severely wounding him in the stomach .</context>
+    </instance>
+    <instance id="n00134246_d_5" docsrc="n00134246_d">
+      <context> a knockout declared by the <head>referee</head> who judges one boxer unable to continue ;</context>
+    </instance>
+    <instance id="n00164801_d_7" docsrc="n00164801_d">
+      <context> the decision made by an umpire or <head>referee</head> ;</context>
+    </instance>
+    <instance id="n00239024_d_7" docsrc="n00239024_d">
+      <context> the method of starting play ; a <head>referee</head> drops the puck between two opposing players ;</context>
+    </instance>
+    <instance id="n07150850_d_10" docsrc="n07150850_d">
+      <context> the hearing and determination of a dispute by an impartial <head>referee</head> agreed to by both parties</context>
+    </instance>
+    <instance id="n10263259_d_4" docsrc="n10263259_d">
+      <context> football_official who assists the <head>referee</head> by keeping_track of the official time during the game ;</context>
+    </instance>
+    <instance id="n10263931_d_14" docsrc="n10263931_d">
+      <context> official ( in tennis , soccer , football , etc. ) who assists the <head>referee</head> in_some_way ( especially by watching for out_of_bounds or offside ) ;</context>
+    </instance>
+    <instance id="v00822746_d_8" docsrc="v00822746_d">
+      <context> declare in the capacity of an umpire or <head>referee</head> ;</context>
+    </instance>
+    <instance id="v01085237_d_2" docsrc="v01085237_d">
+      <context> be a <head>referee</head> or umpire in a sports competition ;</context>
+    </instance>
+    <instance id="v01125209_d_6" docsrc="v01125209_d">
+      <context> be counted_out ; remain_down while the <head>referee</head> counts to ten ;</context>
+    </instance>
+  </lexelt>
+</corpus>

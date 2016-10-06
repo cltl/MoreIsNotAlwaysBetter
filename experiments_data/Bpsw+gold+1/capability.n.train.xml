@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="capability.n" pos="NN">
+    <instance id="a01388928_d_7" docsrc="a01388928_d">
+      <context> very large in scale or scope or <head>capability</head> ;</context>
+    </instance>
+    <instance id="a01430111_d_5" docsrc="a01430111_d">
+      <context> capable of or reflecting the <head>capability</head> for correct and valid reasoning ;</context>
+    </instance>
+    <instance id="n04688058_d_1" docsrc="n04688058_d">
+      <context> the <head>capability</head> of being easily associated or joined or connected in thought ;</context>
+    </instance>
+    <instance id="n04748187_d_0" docsrc="n04748187_d">
+      <context> <head>capability</head> of being equated ;</context>
+    </instance>
+    <instance id="n04755466_d_0" docsrc="n04755466_d">
+      <context> <head>capability</head> of being demonstrated or logically proved ;</context>
+    </instance>
+    <instance id="n04856721_d_0" docsrc="n04856721_d">
+      <context> <head>capability</head> of being cured or healed ;</context>
+    </instance>
+    <instance id="n14417993_d_1" docsrc="n14417993_d">
+      <context> the <head>capability</head> of being separated ;</context>
+    </instance>
+    <instance id="n14530836_ex1_1" docsrc="n14530836_ex1">
+      <context> the <head>capability</head> of a metal to be fused ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="push.n" pos="NN">
+    <instance id="n00112312_ex1_6" docsrc="n00112312_ex1">
+      <context> he gave the door a hard <head>push</head> ;</context>
+    </instance>
+    <instance id="n00282485_ex1_4" docsrc="n00282485_ex1">
+      <context> the army made a <head>push</head> toward the sea ;</context>
+    </instance>
+    <instance id="n04027023_ex2_1" docsrc="n04027023_ex2">
+      <context> the <head>push</head> beside the bed operated a buzzer at the desk ;</context>
+    </instance>
+    <instance id="n11498203_ex1_1" docsrc="n11498203_ex1">
+      <context> the <head>push</head> of the water on the walls of the tank ;</context>
+    </instance>
+  </lexelt>
+</corpus>

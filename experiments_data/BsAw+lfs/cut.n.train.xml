@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="cut.n" pos="NN">
+    <instance id="Batting_(cricket)-cut-19-66-1" docsrc="Batting_(cricket)">
+      <context> === Square drive === Although confusingly named a drive , the square drive is actually a horizontal bat shot <head>,</head> with identical arm mechanics to that of the square cut . The difference between the cut and the square drive is the height of the ball at contact : the cut is played to a ball bouncing waist high or above with the batsman standing tall , whereas the square drive is played to a wide ball of shin height with the batsman bending his knees and crouching low to make contact .</context>
+    </instance>
+    <instance id="Batting_(cricket)-cut-2-88-1" docsrc="Batting_(cricket)">
+      <context> === Slog <head>and</head> slog sweep === === Upper cut === An Upper cut is a shot played towards third man , usually hit when the ball is pitched outside the off stump with an extra bounce .</context>
+    </instance>
+    <instance id="Batting_(cricket)-cut-25-65-1" docsrc="Batting_(cricket)">
+      <context> === Cut === === Square drive === Although confusingly named a drive , the square drive is actually a horizontal bat shot , with identical <head>arm</head> mechanics to that of the square cut .</context>
+    </instance>
+    <instance id="Batting_(cricket)-cut-3-58-1" docsrc="Batting_(cricket)">
+      <context> Flick === The <head>second</head> class of cricket stroke are the horizontal bat shots , also known as cross bat shots . These comprise the cut , the square drive , the pull , the hook and the sweep .</context>
+    </instance>
+    <instance id="Batting_(cricket)-cut-4-66-1" docsrc="Batting_(cricket)">
+      <context> === Square drive === <head>Although</head> confusingly named a drive , the square drive is actually a horizontal bat shot , with identical arm mechanics to that of the square cut . The difference between the cut and the square drive is the height of the ball at contact : the cut is played to a ball bouncing waist high or above with the batsman standing tall , whereas the square drive is played to a wide ball of shin height with the batsman bending his knees and crouching low to make contact .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-1-10-3" docsrc="Cut_(cards)">
+      <context> On <head>the</head> other hand , any player may specifically request to cut the cards before they are dealt . If a cut is requested by a player , it must be granted by the dealer . A cut should always be completed with one hand to limit possibility of a false cut .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-1-9-2" docsrc="Cut_(cards)">
+      <context> The <head>contiguous</head> section may also be taken from the middle of the deck . This is called " Scarne 's cut " , though in some settings this is considered poor etiquette or against the rules . A cut involving a very small number of cards , such as taking only the top card ( or some cards from the bottom ) as a cut , is often acceptable according to rules .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-14-9-4" docsrc="Cut_(cards)">
+      <context> A cut involving a very small number of cards , such as taking only <head>the</head> top card ( or some cards from the bottom ) as a cut , is often acceptable according to rules . The same is true when a player takes every top card save for one on the cut . During informal card games , the dealer is typically not required to offer the cut , and even if offered , the designated player can decline the request .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-15-10-3" docsrc="Cut_(cards)">
+      <context> On the other hand , any player may specifically request to cut the cards before <head>they</head> are dealt . If a cut is requested by a player , it must be granted by the dealer . A cut should always be completed with one hand to limit possibility of a false cut .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-16-9-3" docsrc="Cut_(cards)">
+      <context> This is called " Scarne 's cut " , though in some settings this is considered <head>poor</head> etiquette or against the rules . A cut involving a very small number of cards , such as taking only the top card ( or some cards from the bottom ) as a cut , is often acceptable according to rules . The same is true when a player takes every top card save for one on the cut .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-2-0-2" docsrc="Cut_(cards)">
+      <context> After a <head>deck</head> of playing cards is shuffled by the dealer , it is often given to a player other than the one who performed the shuffle for a procedure called a cut . This is not to be confused with cut cards which are used in casino poker games . Once the cut is complete , the dealer then picks up the deck , straightens or " squares " it , then deals the cards .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-2-10-2" docsrc="Cut_(cards)">
+      <context> During informal <head>card</head> games , the dealer is typically not required to offer the cut , and even if offered , the designated player can decline the request . On the other hand , any player may specifically request to cut the cards before they are dealt . If a cut is requested by a player , it must be granted by the dealer .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-2-12-1" docsrc="Cut_(cards)">
+      <context> If a <head>cut</head> is requested by a player , it must be granted by the dealer . A cut should always be completed with one hand to limit possibility of a false cut . Scarne 's cut was developed by John Scarne during World War II to help protect servicemen against cheating by unscrupulous dealers .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-2-20-3" docsrc="Cut_(cards)">
+      <context> Even if <head>the</head> dealer does not plan on cheating , cutting will prevent suspicions , thus many rules require it . Some players also consider the cut to be lucky . A false cut is a move used either in magic , or for cheating when playing card games .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-22-28-2" docsrc="Cut_(cards)">
+      <context> A false cut is a move used either in magic , or for cheating when playing card games . It appears to <head>be</head> a real cut , but leaves the deck in the same order as when it began . More sophisticated versions may make specific desired changes to the deck 's order , while still appearing to be an innocuous normal cut .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-27-16-1" docsrc="Cut_(cards)">
+      <context> A cut should always be completed with one hand to limit possibility of a false cut . Scarne 's cut was developed by John Scarne during World <head>War</head> II to help protect servicemen against cheating by unscrupulous dealers . First one pulls out a portion of the middle of the stack and places it back on top of the deck ; one then performs a regular cut described earlier .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-27-9-2" docsrc="Cut_(cards)">
+      <context> The contiguous section may also be taken from the middle of the deck . This is called " Scarne 's cut " , though in some settings <head>this</head> is considered poor etiquette or against the rules . A cut involving a very small number of cards , such as taking only the top card ( or some cards from the bottom ) as a cut , is often acceptable according to rules .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-5-20-2" docsrc="Cut_(cards)">
+      <context> The practice of cutting is <head>primarily</head> a method of reducing the likelihood of someone cheating by manipulating the order of cards to gain advantage . Even if the dealer does not plan on cheating , cutting will prevent suspicions , thus many rules require it . Some players also consider the cut to be lucky .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-6-28-1" docsrc="Cut_(cards)">
+      <context> Some players also consider the cut <head>to</head> be lucky . A false cut is a move used either in magic , or for cheating when playing card games . It appears to be a real cut , but leaves the deck in the same order as when it began .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-6-9-1" docsrc="Cut_(cards)">
+      <context> Once the cut is complete , <head>the</head> dealer then picks up the deck , straightens or " squares " it , then deals the cards . The contiguous section may also be taken from the middle of the deck . This is called " Scarne 's cut " , though in some settings this is considered poor etiquette or against the rules .</context>
+    </instance>
+    <instance id="Cut_(cards)-cut-8-28-3" docsrc="Cut_(cards)">
+      <context> It appears to be a real cut , <head>but</head> leaves the deck in the same order as when it began . More sophisticated versions may make specific desired changes to the deck 's order , while still appearing to be an innocuous normal cut . There are many ways to accomplish a false cut , involving misdirection or using complex moves to conceal the real result .</context>
+    </instance>
+    <instance id="Cut_(clothing)-cut-1-0-1" docsrc="Cut_(clothing)">
+      <context> Cut <head>in</head> clothing , sewing and tailoring , is the style or shape of a garment as opposed to its fabric or trimmings . The cut of a coat refers to the way the garment hangs on the body based on the shape of the fabric pieces used to construct it , the position of the fabric 's grain line , and so on .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-0-4-1" docsrc="Cut_(earthmoving)">
+      <context> <head>A</head> cut is ( in a sense ) the opposite of an embankment . When used in reference to transportation routes , it reduces the grade of the route . Cuts can be created by multiple passes of a shovel , grader , scraper or excavator , or by blasting .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-1-0-1" docsrc="Cut_(earthmoving)">
+      <context> In <head>civil</head> engineering , a cut or cutting is where soil or rock material from a hill or mountain is cut out to make way for a canal , road or railway line . In cut and fill construction it keeps the route straight and/or flat , where the comparative cost or practicality of alternate solutions ( such as diversion ) is prohibitive .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-1-2-2" docsrc="Cut_(earthmoving)">
+      <context> In <head>cut</head> and fill construction it keeps the route straight and/or flat , where the comparative cost or practicality of alternate solutions ( such as diversion ) is prohibitive . Contrary to the general meaning of cutting , a cutting in construction is mechanically excavated or blasted out with carefully placed explosives . The cut may only be on one side of a slope , or directly through the middle or top of a hill .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-1-2-4" docsrc="Cut_(earthmoving)">
+      <context> The <head>cut</head> may only be on one side of a slope , or directly through the middle or top of a hill . Generally , a cut is open at the top ( otherwise it is a tunnel ) . A cut is ( in a sense ) the opposite of an embankment .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-1-20-1" docsrc="Cut_(earthmoving)">
+      <context> In <head>contrast</head> , through cuts , where the adjacent grade is higher on both sides of the route , require removal of material from the area since it can not be dumped alongside the route . === Notable canal cuts === Culebra Cut ( Gaillard Cut ) on the Panama Canal</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-10-10-2" docsrc="Cut_(earthmoving)">
+      <context> The term cutting appears in the 19th century literature to <head>designate</head> rock cuts developed to moderate grades of railway lines . Railway Age 's Comprehensive Railroad Dictionary defines a cut as " a passage cut for the roadway through an obstacle of rock or dirt . " There are at least two types of cut , sidehill cut and through cut .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-12-6-1" docsrc="Cut_(earthmoving)">
+      <context> Material removed from cuts is ideally balanced by material needed for fills <head>along</head> the same route , but this is not always the case when cut material is unsuitable for use as fill . The word is also used in the same sense in mining , as in an open cut mine . The term cutting appears in the 19th century literature to designate rock cuts developed to moderate grades of railway lines .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-13-10-1" docsrc="Cut_(earthmoving)">
+      <context> The word is also used in the same sense in mining , as <head>in</head> an open cut mine . The term cutting appears in the 19th century literature to designate rock cuts developed to moderate grades of railway lines . Railway Age 's Comprehensive Railroad Dictionary defines a cut as " a passage cut for the roadway through an obstacle of rock or dirt . "</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-16-5-3" docsrc="Cut_(earthmoving)">
+      <context> One unusual means of creating a cut is to remove the roof of a tunnel through <head>daylighting</head> . Material removed from cuts is ideally balanced by material needed for fills along the same route , but this is not always the case when cut material is unsuitable for use as fill . The word is also used in the same sense in mining , as in an open cut mine .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-2-14-2" docsrc="Cut_(earthmoving)">
+      <context> There are <head>at</head> least two types of cut , sidehill cut and through cut . The former permits passage of a transportation route alongside of or around a hill , where the slope is transverse to the roadway . A sidehill cut can be formed by means of sidecasting , i.e. , cutting on the high side balanced by moving the material to build up the low side to achieve a flat surface for the route .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-2-28-1" docsrc="Cut_(earthmoving)">
+      <context> Olive Mount <head>cutting</head> , Liverpool Bergen Hill Duffy 's Cut</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-2-35-1" docsrc="Cut_(earthmoving)">
+      <context> Hellfire Pass <head>===</head> Notable roadway cuts === Sideling Hill Cut on I-68</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-3-14-4" docsrc="Cut_(earthmoving)">
+      <context> A sidehill cut <head>can</head> be formed by means of sidecasting , i.e. , cutting on the high side balanced by moving the material to build up the low side to achieve a flat surface for the route . In contrast , through cuts , where the adjacent grade is higher on both sides of the route , require removal of material from the area since it can not be dumped alongside the route . === Notable canal cuts ===</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-3-2-3" docsrc="Cut_(earthmoving)">
+      <context> Contrary to the <head>general</head> meaning of cutting , a cutting in construction is mechanically excavated or blasted out with carefully placed explosives . The cut may only be on one side of a slope , or directly through the middle or top of a hill . Generally , a cut is open at the top ( otherwise it is a tunnel ) .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-3-22-1" docsrc="Cut_(earthmoving)">
+      <context> Culebra Cut ( <head>Gaillard</head> Cut ) on the Panama Canal Dawesville Cut === Notable railway cuts ===</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-3-32-1" docsrc="Cut_(earthmoving)">
+      <context> Windmill Hill Cutting <head>Hellfire</head> Pass === Notable roadway cuts ===</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-3-5-2" docsrc="Cut_(earthmoving)">
+      <context> Cuts can be <head>created</head> by multiple passes of a shovel , grader , scraper or excavator , or by blasting . One unusual means of creating a cut is to remove the roof of a tunnel through daylighting . Material removed from cuts is ideally balanced by material needed for fills along the same route , but this is not always the case when cut material is unsuitable for use as fill .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-4-14-3" docsrc="Cut_(earthmoving)">
+      <context> The former permits passage <head>of</head> a transportation route alongside of or around a hill , where the slope is transverse to the roadway . A sidehill cut can be formed by means of sidecasting , i.e. , cutting on the high side balanced by moving the material to build up the low side to achieve a flat surface for the route . In contrast , through cuts , where the adjacent grade is higher on both sides of the route , require removal of material from the area since it can not be dumped alongside the route .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-4-20-1" docsrc="Cut_(earthmoving)">
+      <context> In contrast , through <head>cuts</head> , where the adjacent grade is higher on both sides of the route , require removal of material from the area since it can not be dumped alongside the route . === Notable canal cuts === Culebra Cut ( Gaillard Cut ) on the Panama Canal</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-6-5-1" docsrc="Cut_(earthmoving)">
+      <context> When used in reference to transportation <head>routes</head> , it reduces the grade of the route . Cuts can be created by multiple passes of a shovel , grader , scraper or excavator , or by blasting . One unusual means of creating a cut is to remove the roof of a tunnel through daylighting .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-7-10-2" docsrc="Cut_(earthmoving)">
+      <context> The term cutting appears in the 19th <head>century</head> literature to designate rock cuts developed to moderate grades of railway lines . Railway Age 's Comprehensive Railroad Dictionary defines a cut as " a passage cut for the roadway through an obstacle of rock or dirt . " There are at least two types of cut , sidehill cut and through cut .</context>
+    </instance>
+    <instance id="Cut_(earthmoving)-cut-8-10-1" docsrc="Cut_(earthmoving)">
+      <context> The word is also used in the same <head>sense</head> in mining , as in an open cut mine . The term cutting appears in the 19th century literature to designate rock cuts developed to moderate grades of railway lines . Railway Age 's Comprehensive Railroad Dictionary defines a cut as " a passage cut for the roadway through an obstacle of rock or dirt . "</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-0-14-4" docsrc="Cut_(transition)">
+      <context> <head>In</head> many cases , cuts are also used in place of dissolves or wipes for minor changes , or to edit away insignificant details in order to maintain pace . Usage of the cut in this manner conforms to the goals of continuity editing , which deemphasizes the presence of the film crew . Cuts serve as transitions between camera angles , such a wide establishing shot and a medium shot .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-1-14-1" docsrc="Cut_(transition)">
+      <context> These <head>are</head> edited out in order to effect a seamless presentation . In practice , the cut does not break the suspension of disbelief necessary to keep an audience engaged to a narrative or program . The cut represents a continuous transition in setting and time—in turn , the dissolve and wipe respectively identify changes in time and setting .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-2-15-2" docsrc="Cut_(transition)">
+      <context> Cuts serve <head>as</head> transitions between camera angles , such a wide establishing shot and a medium shot . Footage of a moving character may be captured from multiple angles rather than a tracking shot , either for aesthetic reasons or to lessen the risk of damaging a camera while in motion . A jump cut is a cut , within the setting and time frame of a scene , where continuity is visibly broken .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-2-23-2" docsrc="Cut_(transition)">
+      <context> A cutaway <head>is</head> when footage extraneous to a scene is overlaid , visually interrupting the narrative but perhaps displaying some important action taking place simultaneously , or an action referenced in dialogue . Audio cutaways are much less common , as they do not achieve the same effect . A cross cut is similar to a cut used in dialogue , but where the subjects are not necessarily in the same setting ( or even time frame ) .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-2-24-2" docsrc="Cut_(transition)">
+      <context> A cross <head>cut</head> is similar to a cut used in dialogue , but where the subjects are not necessarily in the same setting ( or even time frame ) . It establishes the same intimate relation as a dialogue cut . A match cut , like the cross cut , links together two scenes that visually or otherwise resemble each other .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-3-14-3" docsrc="Cut_(transition)">
+      <context> The cut represents <head>a</head> continuous transition in setting and time—in turn , the dissolve and wipe respectively identify changes in time and setting . In many cases , cuts are also used in place of dissolves or wipes for minor changes , or to edit away insignificant details in order to maintain pace . Usage of the cut in this manner conforms to the goals of continuity editing , which deemphasizes the presence of the film crew .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-4-10-2" docsrc="Cut_(transition)">
+      <context> In between these commands <head>and</head> the actual footage to be captured , various marking elements ( the slate ) , preparatory actions ( extras , effects , or other costly elements ) , and the director 's " Action ! " command are also recorded . These are edited out in order to effect a seamless presentation . In practice , the cut does not break the suspension of disbelief necessary to keep an audience engaged to a narrative or program .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-4-14-2" docsrc="Cut_(transition)">
+      <context> In practice , the <head>cut</head> does not break the suspension of disbelief necessary to keep an audience engaged to a narrative or program . The cut represents a continuous transition in setting and time—in turn , the dissolve and wipe respectively identify changes in time and setting . In many cases , cuts are also used in place of dissolves or wipes for minor changes , or to edit away insignificant details in order to maintain pace .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-5-15-2" docsrc="Cut_(transition)">
+      <context> Cuts serve as transitions between <head>camera</head> angles , such a wide establishing shot and a medium shot . Footage of a moving character may be captured from multiple angles rather than a tracking shot , either for aesthetic reasons or to lessen the risk of damaging a camera while in motion . A jump cut is a cut , within the setting and time frame of a scene , where continuity is visibly broken .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-6-25-1" docsrc="Cut_(transition)">
+      <context> It establishes the same intimate relation <head>as</head> a dialogue cut . A match cut , like the cross cut , links together two scenes that visually or otherwise resemble each other . Cutting on action refers to a cut that links together two compositionally similar scenes .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-7-23-2" docsrc="Cut_(transition)">
+      <context> A cutaway is when footage extraneous to <head>a</head> scene is overlaid , visually interrupting the narrative but perhaps displaying some important action taking place simultaneously , or an action referenced in dialogue . Audio cutaways are much less common , as they do not achieve the same effect . A cross cut is similar to a cut used in dialogue , but where the subjects are not necessarily in the same setting ( or even time frame ) .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-7-24-2" docsrc="Cut_(transition)">
+      <context> A cross cut is similar to a <head>cut</head> used in dialogue , but where the subjects are not necessarily in the same setting ( or even time frame ) . It establishes the same intimate relation as a dialogue cut . A match cut , like the cross cut , links together two scenes that visually or otherwise resemble each other .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-8-22-2" docsrc="Cut_(transition)">
+      <context> A jump cut is a cut , within <head>the</head> setting and time frame of a scene , where continuity is visibly broken . Though a mistake in many cases , it can also be used for dramatic effect . It is not to be confused with a cut used where a dissolve or wipe would be ( perhaps more ) appropriate .</context>
+    </instance>
+    <instance id="Cut_(transition)-cut-9-24-1" docsrc="Cut_(transition)">
+      <context> Audio cutaways are much less common , as they <head>do</head> not achieve the same effect . A cross cut is similar to a cut used in dialogue , but where the subjects are not necessarily in the same setting ( or even time frame ) . It establishes the same intimate relation as a dialogue cut .</context>
+    </instance>
+    <instance id="Primal_cut-cut-0-13-1" docsrc="Primal_cut">
+      <context> <head>The</head> distinct term " prime cut " is sometimes used to describe cuts considered to be of better quality ; for example in the US Department of Agriculture meat grading systems , most use " prime " to indicate top quality . Cuts of beef Cuts of lamb</context>
+    </instance>
+    <instance id="Primal_cut-cut-0-14-1" docsrc="Primal_cut">
+      <context> <head>Cuts</head> of beef Cuts of lamb Cuts of pork</context>
+    </instance>
+    <instance id="Primal_cut-cut-0-15-1" docsrc="Primal_cut">
+      <context> <head>Cuts</head> of lamb Cuts of pork</context>
+    </instance>
+    <instance id="Primal_cut-cut-0-2-1" docsrc="Primal_cut">
+      <context> <head>The</head> primal cuts may be sold complete or cut further . The distinct term " prime cut " is sometimes used to describe cuts considered to be of better quality ; for example in the US Department of Agriculture meat grading systems , most use " prime " to indicate top quality . Cuts of beef</context>
+    </instance>
+    <instance id="Primal_cut-cut-12-1-6" docsrc="Primal_cut">
+      <context> Another notable example is fatback , which in Europe is an important <head>primal</head> cut of pork , but in North America is regarded as trimmings to be used in sausage or rendered into lard . The primal cuts may be sold complete or cut further . The distinct term " prime cut " is sometimes used to describe cuts considered to be of better quality ; for example in the US Department of Agriculture meat grading systems , most use " prime " to indicate top quality .</context>
+    </instance>
+    <instance id="Primal_cut-cut-13-0-2" docsrc="Primal_cut">
+      <context> A primal cut or cut of meat is a piece of meat initially <head>separated</head> from the carcass of an animal during butchering . Examples of primals include the beef round , loin , rib , and chuck or the swine ham , loin , Boston butt , and picnic . Different countries and cultures make these cuts in different ways , and primal cuts also differ between type of carcass .</context>
+    </instance>
+    <instance id="Primal_cut-cut-13-1-4" docsrc="Primal_cut">
+      <context> For example , " rump steak " in British and Commonwealth English is <head>commonly</head> called " sirloin " in American English . On the other hand , British " sirloin " is called " porterhouse " by Americans . Another notable example is fatback , which in Europe is an important primal cut of pork , but in North America is regarded as trimmings to be used in sausage or rendered into lard .</context>
+    </instance>
+    <instance id="Primal_cut-cut-2-1-5" docsrc="Primal_cut">
+      <context> On the <head>other</head> hand , British " sirloin " is called " porterhouse " by Americans . Another notable example is fatback , which in Europe is an important primal cut of pork , but in North America is regarded as trimmings to be used in sausage or rendered into lard . The primal cuts may be sold complete or cut further .</context>
+    </instance>
+    <instance id="Primal_cut-cut-5-1-6" docsrc="Primal_cut">
+      <context> Another notable example is fatback <head>,</head> which in Europe is an important primal cut of pork , but in North America is regarded as trimmings to be used in sausage or rendered into lard . The primal cuts may be sold complete or cut further . The distinct term " prime cut " is sometimes used to describe cuts considered to be of better quality ; for example in the US Department of Agriculture meat grading systems , most use " prime " to indicate top quality .</context>
+    </instance>
+    <instance id="Primal_cut-cut-6-0-2" docsrc="Primal_cut">
+      <context> A primal cut or cut of <head>meat</head> is a piece of meat initially separated from the carcass of an animal during butchering . Examples of primals include the beef round , loin , rib , and chuck or the swine ham , loin , Boston butt , and picnic . Different countries and cultures make these cuts in different ways , and primal cuts also differ between type of carcass .</context>
+    </instance>
+    <instance id="Primal_cut-cut-7-1-1" docsrc="Primal_cut">
+      <context> Examples of primals include the beef round <head>,</head> loin , rib , and chuck or the swine ham , loin , Boston butt , and picnic . Different countries and cultures make these cuts in different ways , and primal cuts also differ between type of carcass . The British , American and French primal cuts all differ in some respects .</context>
+    </instance>
+    <instance id="Wound-cut-20-55-1" docsrc="Wound">
+      <context> Buffering the pH of lidocaine makes the freezing less painful . Adhesive glue and sutures have comparable cosmetic outcomes for <head>minor</head> lacerations &lt; 5 cm in adults and children . The use of adhesive glue involves considerably less time for the doctor and less pain for the person with the cut .</context>
+    </instance>
+    <instance id="br-f20#w42_0" docsrc="br-f20">
+      <context> As part of the same arrangement , Torrio had , in the spirit of peace and good_will , and in exchange for armed support in the April election campaign , bestowed upon O_'_Banion a third share in the Hawthorne_Smoke_Shop proceeds and a <head>cut</head> in the Cicero beer trade . The coalition was to prove inadvisable . O_'_Banion was a complex and frightening man , whose bright_blue eyes stared with a kind_of frozen candour into others ' . He had a round , frank Irish face , creased in a jovial grin that stayed bleakly in_place even when he was pumping bullets into someone 's body .</context>
+    </instance>
+    <instance id="br-f43#w1482_0" docsrc="br-f43">
+      <context> If the change , at_first_sight , seems minor , we may recall that it took the Italian painters about two hundred years to make an analogous change , and the Italian painters , by universal consent , were the most brilliant group of geniuses any art has seen . In that apparently simple shift Porter opened the way to the sensitive use of the camera as an instrument of art as_well_as a mechanical recording device . He did more than that . He revealed the potential value of the `` <head>cut</head> '' as the basic technique in the art of the film . Cutting , of_course , takes_place automatically in the creation of a film . The meaning of the word is quite physical , to_begin_with . The physical film is cut with a knife at the end of one complete sequence , and the cut edge is joined physically , by cement , to the cut edge of the beginning of the next sequence .</context>
+    </instance>
+    <instance id="br-j06#w731_0" docsrc="br-j06">
+      <context> Previously purified chlorine was subsequently admitted and the exchange was allowed to take_place . The radiochlorine was stored at_- 78 ` in a tube equipped with a break_seal . Liter quantities of Mallinckrodt , low sulfur , reagent grade carbon_tetrachloride were saturated with * * f and * * f and illuminated for about 50 hours with a 1000 watt tungsten lamp at a distance of a_few inches . The mixture was then extracted with alkali and with water following which the carbon_tetrachloride was distilled on a Vigreux column , a 25 % center <head>cut</head> being retained which was then degassed under vacuum in the presence of * * f . Purified inactive chlorine was then added from one of the tubes described above and the mixture frozen_out and sealed_off in a flask equipped with a break_seal . This chlorine carbon_tetrachloride solution was illuminated for a day following which the flask was resealed onto a vacuum system and the excess chlorine distilled off . The required amount of carbon_tetrachloride was distilled into a series of reaction cells on a manifold on a vacuum line .</context>
+    </instance>
+  </lexelt>
+</corpus>

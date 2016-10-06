@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="juror.n" pos="NN">
+    <instance id="br-a01#w389_0" docsrc="br-a01">
+      <context> It urged that the next Legislature `` provide enabling funds and re-set the effective date so_that an orderly implementation of the law may be effected '' . The grand_jury took_a_swipe_at the State_Welfare_Department 's handling of federal funds granted for child_welfare_services in foster_homes . `` This is one of the major items in the Fulton_County general assistance program '' , the jury said , but the State_Welfare_Department `` has seen_fit to distribute these funds through the welfare departments of all the counties in the state with the exception of Fulton_County , which receives none of_this money . The <head>jurors</head> said they realize `` a proportionate distribution of these funds might disable this program in our less populous counties '' . Nevertheless , `` we feel that in_the_future Fulton_County should receive some portion of these available funds '' , the jurors said . `` Failure to do this will continue to place a disproportionate burden '' on Fulton taxpayers . The jury also commented on the Fulton ordinary 's court which has been under_fire for its practices in the appointment of appraisers , guardians and administrators and the awarding of fees and compensation .</context>
+    </instance>
+    <instance id="br-a01#w430_0" docsrc="br-a01">
+      <context> The grand_jury took_a_swipe_at the State_Welfare_Department 's handling of federal funds granted for child_welfare_services in foster_homes . `` This is one of the major items in the Fulton_County general assistance program '' , the jury said , but the State_Welfare_Department `` has seen_fit to distribute these funds through the welfare departments of all the counties in the state with the exception of Fulton_County , which receives none of_this money . The jurors said they realize `` a proportionate distribution of these funds might disable this program in our less populous counties '' . Nevertheless , `` we feel that in_the_future Fulton_County should receive some portion of these available funds '' , the <head>jurors</head> said . `` Failure to do this will continue to place a disproportionate burden '' on Fulton taxpayers . The jury also commented on the Fulton ordinary 's court which has been under_fire for its practices in the appointment of appraisers , guardians and administrators and the awarding of fees and compensation . The jury said it found the court `` has incorporated into its operating_procedures the recommendations '' of two previous grand_juries , the Atlanta_Bar_Association and an interim citizens_committee .</context>
+    </instance>
+    <instance id="n01181212_d_17" docsrc="n01181212_d">
+      <context> impeding those who seek justice in a court ( as by trying to influence or intimidate any <head>juror</head> or witness or officer of the court ) ; can result in a finding of contempt_of_court ;</context>
+    </instance>
+    <instance id="n01192633_d_7" docsrc="n01192633_d">
+      <context> a verdict resulting from improper compromises between <head>jurors</head> on material issues ;</context>
+    </instance>
+    <instance id="n07208565_d_12" docsrc="n07208565_d">
+      <context> a formal objection to the selection of a particular person as a <head>juror</head> ;</context>
+    </instance>
+    <instance id="v02472703_d_6" docsrc="v02472703_d">
+      <context> enter into a list of prospective <head>jurors</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

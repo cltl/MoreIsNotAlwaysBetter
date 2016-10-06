@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="nasdaq.n" pos="n">
+    <instance id="NASDAQ-nasdaq-0-16-1" docsrc="NASDAQ">
+      <context> <head>On</head> June 18 , 2012 , NASDAQ became a founding member of the United Nations Sustainable Stock Exchanges initiative on the eve of the United Nations Conference on Sustainable Development ( Rio+20 ) . In 2013 , NASDAQ was approached by private equity firm Carlyle Group about taking the exchange operator private , but the talks fell apart over a disagreement on price . NASDAQ quotes are available at three levels :</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-0-23-1" docsrc="NASDAQ">
+      <context> <head>Level</head> 2 shows all public quotes of market makers together with information of market dealers wishing to buy or sell stock and recently executed orders . Level 3 is used by the market makers and allows them to enter their quotes and execute orders . NASDAQ has three different market tiers :</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-0-31-1" docsrc="NASDAQ">
+      <context> <head>Level</head> 3 is used by the market makers and allows them to enter their quotes and execute orders . NASDAQ has three different market tiers : NASDAQ Capital Market ( small cap ) is an equity market for companies that have relatively small levels of market capitalization .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-0-32-2" docsrc="NASDAQ">
+      <context> <head>NASDAQ</head> Capital Market ( small cap ) is an equity market for companies that have relatively small levels of market capitalization . Listing requirements for such " small cap " companies are less stringent than for other Nasdaq markets that list larger companies with significantly higher market capitalization . NASDAQ Global Market ( mid cap ) is made up of stocks that represent the Nasdaq Global Market .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-0-4-1" docsrc="NASDAQ">
+      <context> <head>In</head> 1972 , NASDAQ stood for National Association of Securities Dealers Automated Quotations . NASDAQ was founded in 1971 by the National Association of Securities Dealers ( NASD ) , which divested itself of NASDAQ in a series of sales in 2000 and 2001 .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-0-4-2" docsrc="NASDAQ">
+      <context> <head>In</head> 1972 , NASDAQ stood for National Association of Securities Dealers Automated Quotations . NASDAQ was founded in 1971 by the National Association of Securities Dealers ( NASD ) , which divested itself of NASDAQ in a series of sales in 2000 and 2001 . NASDAQ is owned and operated by The NASDAQ OMX Group , the stocks of which were listed on its own stock exchange marketing July 2 , 2002 , under the ticker symbol NDAQ.</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-0-46-1" docsrc="NASDAQ">
+      <context> <head>Economy</head> of New York City NASDAQ-100 NASDAQ futures</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-0-47-1" docsrc="NASDAQ">
+      <context> <head>NASDAQ-100</head> NASDAQ futures NASDAQ MarketSite</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-0-48-1" docsrc="NASDAQ">
+      <context> <head>NASDAQ</head> futures NASDAQ MarketSite NASDAQ OMX Group</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-0-49-1" docsrc="NASDAQ">
+      <context> <head>NASDAQ</head> MarketSite NASDAQ OMX Group NASDAQ Dubai</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-0-50-1" docsrc="NASDAQ">
+      <context> <head>NASDAQ</head> OMX Group NASDAQ Dubai NASDAQ Private Market</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-0-9-4" docsrc="NASDAQ">
+      <context> <head>To</head> remedy this , the Small Order Execution System ( SOES ) was established . SOES provides an electronic method for dealers to enter their trades . NASDAQ requires market makers to honor trades executed using SOES.</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-1-33-1" docsrc="NASDAQ">
+      <context> Listing <head>requirements</head> for such " small cap " companies are less stringent than for other Nasdaq markets that list larger companies with significantly higher market capitalization . NASDAQ Global Market ( mid cap ) is made up of stocks that represent the Nasdaq Global Market . The NASDAQ Global Market consists of 1,450 stocks that meet Nasdaq 's strict financial and liquidity requirements , and corporate governance standards .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-1-6-2" docsrc="NASDAQ">
+      <context> When <head>the</head> NASDAQ began trading on February 8 , 1971 , it was the world 's first electronic stock market . At first , it was merely a quotation system and did not provide a way to perform electronic trades . The NASDAQ helped lower the spread ( the difference between the bid price and the ask price of the stock ) but was unpopular among brokerages which made much of their money on the spread .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-10-33-1" docsrc="NASDAQ">
+      <context> Listing requirements for such " small cap " companies are <head>less</head> stringent than for other Nasdaq markets that list larger companies with significantly higher market capitalization . NASDAQ Global Market ( mid cap ) is made up of stocks that represent the Nasdaq Global Market . The NASDAQ Global Market consists of 1,450 stocks that meet Nasdaq 's strict financial and liquidity requirements , and corporate governance standards .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-15-32-1" docsrc="NASDAQ">
+      <context> NASDAQ has three different market tiers : NASDAQ Capital Market ( small cap ) is <head>an</head> equity market for companies that have relatively small levels of market capitalization . Listing requirements for such " small cap " companies are less stringent than for other Nasdaq markets that list larger companies with significantly higher market capitalization .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-15-32-2" docsrc="NASDAQ">
+      <context> NASDAQ Capital Market ( small cap ) is an equity market for companies that have <head>relatively</head> small levels of market capitalization . Listing requirements for such " small cap " companies are less stringent than for other Nasdaq markets that list larger companies with significantly higher market capitalization . NASDAQ Global Market ( mid cap ) is made up of stocks that represent the Nasdaq Global Market .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-18-10-1" docsrc="NASDAQ">
+      <context> NASDAQ requires market makers to honor trades executed using SOES. In 1992 , NASDAQ joined with the London <head>Stock</head> Exchange to form the first intercontinental linkage of securities markets . The National Association of Securities Dealers spun off NASDAQ in 2000 to form a public company , the NASDAQ Stock Market , Inc.</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-2-38-2" docsrc="NASDAQ">
+      <context> As of <head>June</head> 2015 , the NASDAQ has had an average annualized growth rate of 9.24 % since its opening in February 1971 . Since the end of the recession in June 2009 however , it has increased by 18.29 % per year . ACT ( NASDAQ )</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-2-4-3" docsrc="NASDAQ">
+      <context> NASDAQ was <head>founded</head> in 1971 by the National Association of Securities Dealers ( NASD ) , which divested itself of NASDAQ in a series of sales in 2000 and 2001 . NASDAQ is owned and operated by The NASDAQ OMX Group , the stocks of which were listed on its own stock exchange marketing July 2 , 2002 , under the ticker symbol NDAQ. When the NASDAQ began trading on February 8 , 1971 , it was the world 's first electronic stock market .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-20-4-1" docsrc="NASDAQ">
+      <context> In 1972 , NASDAQ stood for National Association of Securities Dealers Automated Quotations . NASDAQ was founded in 1971 by <head>the</head> National Association of Securities Dealers ( NASD ) , which divested itself of NASDAQ in a series of sales in 2000 and 2001 .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-3-15-1" docsrc="NASDAQ">
+      <context> To qualify for <head>listing</head> on the exchange , a company must be registered with the United States Securities and Exchange Commission ( SEC ) , must have at least three market makers ( financial firms that act as brokers or dealers for specific securities ) and must meet minimum requirements for assets , capital , public shares , and shareholders . On June 18 , 2012 , NASDAQ became a founding member of the United Nations Sustainable Stock Exchanges initiative on the eve of the United Nations Conference on Sustainable Development ( Rio+20 ) . In 2013 , NASDAQ was approached by private equity firm Carlyle Group about taking the exchange operator private , but the talks fell apart over a disagreement on price .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-3-9-5" docsrc="NASDAQ">
+      <context> SOES provides an <head>electronic</head> method for dealers to enter their trades . NASDAQ requires market makers to honor trades executed using SOES. In 1992 , NASDAQ joined with the London Stock Exchange to form the first intercontinental linkage of securities markets .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-6-10-2" docsrc="NASDAQ">
+      <context> In 1992 , NASDAQ joined with <head>the</head> London Stock Exchange to form the first intercontinental linkage of securities markets . The National Association of Securities Dealers spun off NASDAQ in 2000 to form a public company , the NASDAQ Stock Market , Inc. In 2006 , the status of NASDAQ was changed from a stock market to a licensed national securities exchange .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-6-12-1" docsrc="NASDAQ">
+      <context> In 2006 , the status of <head>NASDAQ</head> was changed from a stock market to a licensed national securities exchange . To qualify for listing on the exchange , a company must be registered with the United States Securities and Exchange Commission ( SEC ) , must have at least three market makers ( financial firms that act as brokers or dealers for specific securities ) and must meet minimum requirements for assets , capital , public shares , and shareholders . On June 18 , 2012 , NASDAQ became a founding member of the United Nations Sustainable Stock Exchanges initiative on the eve of the United Nations Conference on Sustainable Development ( Rio+20 ) .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-6-33-3" docsrc="NASDAQ">
+      <context> The NASDAQ Global Market consists of <head>1,450</head> stocks that meet Nasdaq 's strict financial and liquidity requirements , and corporate governance standards . The Global Market is less exclusive than the Global Select Market . As of June 2015 , the NASDAQ has had an average annualized growth rate of 9.24 % since its opening in February 1971 .</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-7-4-2" docsrc="NASDAQ">
+      <context> In 1972 , NASDAQ stood for National <head>Association</head> of Securities Dealers Automated Quotations . NASDAQ was founded in 1971 by the National Association of Securities Dealers ( NASD ) , which divested itself of NASDAQ in a series of sales in 2000 and 2001 . NASDAQ is owned and operated by The NASDAQ OMX Group , the stocks of which were listed on its own stock exchange marketing July 2 , 2002 , under the ticker symbol NDAQ.</context>
+    </instance>
+    <instance id="NASDAQ-nasdaq-8-10-1" docsrc="NASDAQ">
+      <context> NASDAQ requires market makers to honor trades executed <head>using</head> SOES. In 1992 , NASDAQ joined with the London Stock Exchange to form the first intercontinental linkage of securities markets . The National Association of Securities Dealers spun off NASDAQ in 2000 to form a public company , the NASDAQ Stock Market , Inc.</context>
+    </instance>
+  </lexelt>
+</corpus>

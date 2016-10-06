@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="row.n" pos="NN">
+    <instance id="Row_(database)-row-14-0-1" docsrc="Row_(database)">
+      <context> In the context of a relational database , a row—also called a record or <head>tuple—represents</head> a single , implicitly structured data item in a table . In simple terms , a database table can be thought of as consisting of rows and columns or fields .</context>
+    </instance>
+    <instance id="Rowing_(sport)-row-6-100-2" docsrc="Rowing_(sport)">
+      <context> Sometimes , slides are placed underneath <head>the</head> erg to try to simulate the movement of being on the water . It allows the machine to move back and forth smoothly as if there is water beneath you . The slides can be connected in rows or columns so that rowers are forced to move together on the ergometer , similar to how they would match up their rhythm in a boat .</context>
+    </instance>
+    <instance id="br-h15#w198_0" docsrc="br-h15">
+      <context> The roof blocks are in two layers and are not mortared together . Work on the roof continues in this way . The last roof boards are covered with blocks from outside the shelter . When the roof blocks are all in_place , the final <head>rows</head> of wall blocks are mortared into position . The structure is complete . ( See fig. 7 . ) Building plans are on page 21 .</context>
+    </instance>
+    <instance id="n05045680_ex1_8" docsrc="n05045680_ex1">
+      <context> they won the championship three years in a <head>row</head> ;</context>
+    </instance>
+    <instance id="n08431437_ex1_1" docsrc="n08431437_ex1">
+      <context> a <head>row</head> of chairs ;</context>
+    </instance>
+    <instance id="n09417365_ex1_5" docsrc="n09417365_ex1">
+      <context> a mackerel sky filled with <head>rows</head> of clouds ;</context>
+    </instance>
+  </lexelt>
+</corpus>

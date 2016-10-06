@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="dramatization.n" pos="NN">
+    <instance id="Dramatization-dramatization-0-0-1" docsrc="Dramatization">
+      <context> <head>Dramatization</head> or Dramatisation is the adapting of a literary source ( e.g. a novel , short story , poem ) to drama or theater .</context>
+    </instance>
+    <instance id="n00899501_d_0" docsrc="n00899501_d">
+      <context> <head>dramatization</head> of a social issue ; enacted outside in a park or on the street ;</context>
+    </instance>
+    <instance id="n00930868_ex1_4" docsrc="n00930868_ex1">
+      <context> the play was a <head>dramatization</head> of a short story ;</context>
+    </instance>
+  </lexelt>
+</corpus>

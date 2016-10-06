@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="working_group.n" pos="NN">
+    <instance id="n08408900_ex1_1" docsrc="n08408900_ex1">
+      <context> the <head>working_group</head> was supposed to report back in two weeks ;</context>
+    </instance>
+  </lexelt>
+</corpus>

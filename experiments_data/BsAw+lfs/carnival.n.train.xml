@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="carnival.n" pos="NN">
+    <instance id="Fair-carnival-1-11-1" docsrc="Fair">
+      <context> It <head>is</head> a larger version of a county fair , often including only exhibits or competitors that have won in their categories at the more local county fairs . Trade fair , an exhibition organized so that companies in a specific industry can showcase and demonstrate their latest products and services , study activities of rivals , and examine recent market trends and opportunities . Traveling carnival , usually simply called a carnival , an amusement show made up of amusement rides , food vendors , merchandise vendors , games of chance and skill , thrill acts , and animal acts .</context>
+    </instance>
+    <instance id="Fair-carnival-7-11-1" docsrc="Fair">
+      <context> It is a larger version of a <head>county</head> fair , often including only exhibits or competitors that have won in their categories at the more local county fairs . Trade fair , an exhibition organized so that companies in a specific industry can showcase and demonstrate their latest products and services , study activities of rivals , and examine recent market trends and opportunities . Traveling carnival , usually simply called a carnival , an amusement show made up of amusement rides , food vendors , merchandise vendors , games of chance and skill , thrill acts , and animal acts .</context>
+    </instance>
+    <instance id="Funfair_(disambiguation)-carnival-1-3-1" docsrc="Funfair_(disambiguation)">
+      <context> Midway <head>(</head> fair ) Sideshow alley ( in Australia ) Traveling carnival ( US English )</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="goalkeeper.n" pos="NN">
+    <instance id="n02738859_d_7" docsrc="n02738859_d">
+      <context> a pad worn by football_players and hockey <head>goalkeepers</head> ;</context>
+    </instance>
+    <instance id="n02863340_d_5" docsrc="n02863340_d">
+      <context> a pad worn by hockey <head>goalkeeper</head> ;</context>
+    </instance>
+    <instance id="n04429038_d_4" docsrc="n04429038_d">
+      <context> protective_garment worn by hockey <head>goalkeeper</head> and catcher in baseball ;</context>
+    </instance>
+  </lexelt>
+</corpus>

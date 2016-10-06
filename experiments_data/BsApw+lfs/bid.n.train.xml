@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="bid.n" pos="NN">
+    <instance id="Bidding-bid-1-4-3" docsrc="Bidding">
+      <context> In <head>this</head> bidding users bid for the product , in that bids which one is unique that user will get the product . For Example If A,B,C,D,E users are there who are bidding for the same product . A bid for $ 5 and B also bid for $ 5 , C and D bid for $ 2 and E bid for $ 3 then E got the product , because his bid is unique in those 5 bids .</context>
+    </instance>
+    <instance id="Bidding-bid-10-10-3" docsrc="Bidding">
+      <context> An automated bidding service will bid on their behalf to <head>ensure</head> that they meet the reserve price or that they always stay in the lead , up to your maximum bid . If someone else has placed a bid that is higher than the maximum bid , the bidder will be notified , allowing them to change the maximum bid and stay in the auction . At the end of the auction , whoever ’s maximum bid is the most wins the lot .</context>
+    </instance>
+    <instance id="Bidding-bid-10-16-3" docsrc="Bidding">
+      <context> The reserve has been set at # 100,000 and this <head>bidder</head> is happy to buy it at # 120,000 . The bidding starts # 80,000 and without the auctioneer bidding on behalf of the vendor , it would never progress beyond that amount . However , because the auctioneer will take bids or generate bids of # 85,000 , the bidder then goes # 90,000 etc .</context>
+    </instance>
+    <instance id="Bidding-bid-11-4-1" docsrc="Bidding">
+      <context> One is Unique Bidding and another one is Dynamic Bidding . <head>Unique</head> Bidding : In this bidding users bid for the product , in that bids which one is unique that user will get the product .</context>
+    </instance>
+    <instance id="Bidding-bid-12-0-4" docsrc="Bidding">
+      <context> The term may be used in context of auctions , stock exchange <head>,</head> card games , or real estate . Bidding is used by various economic niche for determining the demand and hence the value of the article or property , in today 's world of advance technology , Internet is one of the most favourite platforms for providing bidding facilities , it is the most natural way of determining the price of a commodity in a free market economy . Biddings are arranged by first disclosinInternet the time frame for posting the bids may be a topic of interest .</context>
+    </instance>
+    <instance id="Bidding-bid-13-10-2" docsrc="Bidding">
+      <context> By entering a maximum bid a user is indicating the highest they’re willing <head>to</head> pay for a lot . An automated bidding service will bid on their behalf to ensure that they meet the reserve price or that they always stay in the lead , up to your maximum bid . If someone else has placed a bid that is higher than the maximum bid , the bidder will be notified , allowing them to change the maximum bid and stay in the auction .</context>
+    </instance>
+    <instance id="Bidding-bid-15-4-4" docsrc="Bidding">
+      <context> For Example If A,B,C,D,E users are there who are bidding for the same product . <head>A</head> bid for $ 5 and B also bid for $ 5 , C and D bid for $ 2 and E bid for $ 3 then E got the product , because his bid is unique in those 5 bids . Dynamic Bidding : Dynamic Bidding is type of bidding where one user can set his bid for the product .</context>
+    </instance>
+    <instance id="Bidding-bid-16-4-3" docsrc="Bidding">
+      <context> In this bidding users bid for the product , in that bids which one is unique <head>that</head> user will get the product . For Example If A,B,C,D,E users are there who are bidding for the same product . A bid for $ 5 and B also bid for $ 5 , C and D bid for $ 2 and E bid for $ 3 then E got the product , because his bid is unique in those 5 bids .</context>
+    </instance>
+    <instance id="Bidding-bid-21-13-1" docsrc="Bidding">
+      <context> How is it different to live bidding ? Bidding off the wall Bidding off the wall or taking bids from the <head>chandelier</head> , as it is sometime known , is where the auctioneer bids on behalf of the vendor .</context>
+    </instance>
+    <instance id="Bidding-bid-21-7-1" docsrc="Bidding">
+      <context> Timed Bidding What is timed bidding ? Timed bidding auctions allows users to bid at any time during a defined time <head>period</head> , simply by entering a maximum bid .</context>
+    </instance>
+    <instance id="Bidding-bid-22-4-3" docsrc="Bidding">
+      <context> In this bidding users bid for the product , in that bids which one is unique that user will get the product <head>.</head> For Example If A,B,C,D,E users are there who are bidding for the same product . A bid for $ 5 and B also bid for $ 5 , C and D bid for $ 2 and E bid for $ 3 then E got the product , because his bid is unique in those 5 bids .</context>
+    </instance>
+    <instance id="Bidding-bid-27-10-2" docsrc="Bidding">
+      <context> By entering a maximum bid a user is indicating the highest they’re willing to pay for a lot . An automated bidding service will bid on their <head>behalf</head> to ensure that they meet the reserve price or that they always stay in the lead , up to your maximum bid . If someone else has placed a bid that is higher than the maximum bid , the bidder will be notified , allowing them to change the maximum bid and stay in the auction .</context>
+    </instance>
+    <instance id="Bidding-bid-3-5-2" docsrc="Bidding">
+      <context> Dynamic Bidding : <head>Dynamic</head> Bidding is type of bidding where one user can set his bid for the product . At this time if the user present or not for bidding , automatically the bidding will perform up to his defined amount . After reaching his bid value the bidding stops from his side .</context>
+    </instance>
+    <instance id="Bidding-bid-30-10-1" docsrc="Bidding">
+      <context> How does timed bidding work ? By entering a maximum bid a user is indicating the highest they’re willing to pay for a lot . An automated bidding service will <head>bid</head> on their behalf to ensure that they meet the reserve price or that they always stay in the lead , up to your maximum bid .</context>
+    </instance>
+    <instance id="Bidding-bid-34-4-3" docsrc="Bidding">
+      <context> In this bidding users bid for the product , in that bids which one is unique that user will get the product . For Example If A,B,C,D,E users are there who are bidding for <head>the</head> same product . A bid for $ 5 and B also bid for $ 5 , C and D bid for $ 2 and E bid for $ 3 then E got the product , because his bid is unique in those 5 bids .</context>
+    </instance>
+    <instance id="Bidding-bid-4-17-1" docsrc="Bidding">
+      <context> It can end up <head>where</head> the bidder , if he wants to , can bid 100,000 pounds and secure the property on the reserve price . The result is that the vendor sold the property at reserve and the purchaser has bought the property on the reserve price at less than he was prepared to pay . Without the auctioneer taking bids off the wall , this would never have happened .</context>
+    </instance>
+    <instance id="Bidding-bid-4-4-1" docsrc="Bidding">
+      <context> One is Unique Bidding <head>and</head> another one is Dynamic Bidding . Unique Bidding : In this bidding users bid for the product , in that bids which one is unique that user will get the product .</context>
+    </instance>
+    <instance id="Bidding-bid-4-9-1" docsrc="Bidding">
+      <context> This means that a <head>bidder</head> does n't have to keep your eye on a live auction at a specific time . How does timed bidding work ? By entering a maximum bid a user is indicating the highest they’re willing to pay for a lot .</context>
+    </instance>
+    <instance id="Bidding-bid-40-4-3" docsrc="Bidding">
+      <context> In this bidding users bid for the product , in that bids which one is unique that user will get the product . For Example If A,B,C,D,E users are there who are bidding for the same product . A bid <head>for</head> $ 5 and B also bid for $ 5 , C and D bid for $ 2 and E bid for $ 3 then E got the product , because his bid is unique in those 5 bids .</context>
+    </instance>
+    <instance id="Bidding-bid-6-0-1" docsrc="Bidding">
+      <context> Bidding is an offer ( often <head>competitive</head> ) of setting a price one is willing to pay for something or a demand that something be done . A price offer is called a bid .</context>
+    </instance>
+    <instance id="Bidding-bid-6-10-2" docsrc="Bidding">
+      <context> By entering a maximum bid a <head>user</head> is indicating the highest they’re willing to pay for a lot . An automated bidding service will bid on their behalf to ensure that they meet the reserve price or that they always stay in the lead , up to your maximum bid . If someone else has placed a bid that is higher than the maximum bid , the bidder will be notified , allowing them to change the maximum bid and stay in the auction .</context>
+    </instance>
+    <instance id="Bidding-bid-6-13-1" docsrc="Bidding">
+      <context> How is it different to live <head>bidding</head> ? Bidding off the wall Bidding off the wall or taking bids from the chandelier , as it is sometime known , is where the auctioneer bids on behalf of the vendor .</context>
+    </instance>
+    <instance id="Bidding-bid-7-16-3" docsrc="Bidding">
+      <context> The reserve has been set at # <head>100,000</head> and this bidder is happy to buy it at # 120,000 . The bidding starts # 80,000 and without the auctioneer bidding on behalf of the vendor , it would never progress beyond that amount . However , because the auctioneer will take bids or generate bids of # 85,000 , the bidder then goes # 90,000 etc .</context>
+    </instance>
+    <instance id="br-k23#w1801_0" docsrc="br-k23">
+      <context> I feel kind_of bad about it '' . He gave Abel a quick glance and moved closer to the wheel , hugging it to him , and Abel caught this briefest of allusions to guilt . `` I imagine the old girl has n't missed us much '' , Mark added , his eyes on the road . Abel ignored the half expressed <head>bid</head> for confirmation . He smiled . It was barely possible that his brother was right . He could tell they were approaching the sea .</context>
+    </instance>
+    <instance id="n00786887_ex2_3" docsrc="n00786887_ex2">
+      <context> he made a <head>bid</head> to gain attention ;</context>
+    </instance>
+    <instance id="n01169112_d_4" docsrc="n01169112_d">
+      <context> a series of competing <head>bids</head> ;</context>
+    </instance>
+    <instance id="n06737394_d_2" docsrc="n06737394_d">
+      <context> the highest <head>bid</head> becomes the contract setting the number of tricks that the bidder must make ;</context>
+    </instance>
+    <instance id="n06737628_d_1" docsrc="n06737628_d">
+      <context> a <head>bid</head> that asks your partner to bid another suit ;</context>
+    </instance>
+    <instance id="n06737758_d_1" docsrc="n06737758_d">
+      <context> a <head>bid</head> that is higher than your opponent's bid ( especially when your partner has not bid at_all and your bid exceeds the value of your hand ) ;</context>
+    </instance>
+    <instance id="n06737758_d_20" docsrc="n06737758_d">
+      <context> a bid that is higher than your opponent's bid ( especially when your partner has not bid at_all and your <head>bid</head> exceeds the value of your hand ) ;</context>
+    </instance>
+    <instance id="n06737758_d_8" docsrc="n06737758_d">
+      <context> a bid that is higher than your opponent's <head>bid</head> ( especially when your partner has not bid at_all and your bid exceeds the value of your hand ) ;</context>
+    </instance>
+    <instance id="n06738008_d_2" docsrc="n06738008_d">
+      <context> a high <head>bid</head> that is intended to prevent the opposing players from bidding ;</context>
+    </instance>
+    <instance id="n07164546_d_7" docsrc="n07164546_d">
+      <context> something offered ( as a proposal or <head>bid</head> ) ;</context>
+    </instance>
+    <instance id="n07165298_d_1" docsrc="n07165298_d">
+      <context> a <head>bid</head> that is higher than preceding bids ;</context>
+    </instance>
+    <instance id="n07165298_d_7" docsrc="n07165298_d">
+      <context> a bid that is higher than preceding <head>bids</head> ;</context>
+    </instance>
+    <instance id="n07165410_d_1" docsrc="n07165410_d">
+      <context> a <head>bid</head> to buy all of a person's holdings ;</context>
+    </instance>
+    <instance id="n09853184_d_4" docsrc="n09853184_d">
+      <context> someone who makes a <head>bid</head> at cards ;</context>
+    </instance>
+    <instance id="n10505613_d_6" docsrc="n10505613_d">
+      <context> a bridge_partner who increases the partner's <head>bid</head> ;</context>
+    </instance>
+    <instance id="n13304665_d_11" docsrc="n13304665_d">
+      <context> the minimum price at which a seller of property will entertain <head>bids</head> ;</context>
+    </instance>
+    <instance id="v02300549_d_4" docsrc="v02300549_d">
+      <context> designate with the final <head>bid</head> of a hand ;</context>
+    </instance>
+    <instance id="v02300734_d_3" docsrc="v02300734_d">
+      <context> make a higher <head>bid</head> than ; in a card_game ;</context>
+    </instance>
+    <instance id="v02301000_d_4" docsrc="v02301000_d">
+      <context> bid over an opponent's <head>bid</head> when one's partner has not bid or doubled ;</context>
+    </instance>
+  </lexelt>
+</corpus>

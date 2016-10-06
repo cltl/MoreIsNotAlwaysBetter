@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="punishment.n" pos="NN">
+    <instance id="Penology-punishment-12-0-1" docsrc="Penology">
+      <context> Penology ( from the Latin poena , " punishment " and the <head>Greek</head> suffix -logia , " study of " ) is a section of criminology that deals with the philosophy and practice of various societies in their attempts to repress criminal activities , and satisfy public opinion via an appropriate treatment regime for persons convicted of criminal offences . The Oxford English Dictionary defines penology as " the study of the punishment of crime and prison management , " and in this sense it is equivalent with corrections .</context>
+    </instance>
+    <instance id="Penology-punishment-3-3-3" docsrc="Penology">
+      <context> Contemporary penology concerns <head>itself</head> mainly with criminal rehabilitation and prison management . The word seldom applies to theories and practices of punishment in less formal environments such as parenting , school and workplace correctional measures . Historical theories of punishment were based on the notion that fearful consequences would discourage potential offenders .</context>
+    </instance>
+    <instance id="Penology-punishment-31-1-1" docsrc="Penology">
+      <context> Penology ( from the Latin poena , " punishment " and the Greek suffix -logia , " study of " ) is a section of criminology that deals with the philosophy <head>and</head> practice of various societies in their attempts to repress criminal activities , and satisfy public opinion via an appropriate treatment regime for persons convicted of criminal offences . The Oxford English Dictionary defines penology as " the study of the punishment of crime and prison management , " and in this sense it is equivalent with corrections . Penology is concerned with the effectiveness of those social processes devised and adopted for the prevention of crime , via the repression or inhibition of criminal intent via the fear of punishment .</context>
+    </instance>
+    <instance id="Penology-punishment-32-8-1" docsrc="Penology">
+      <context> The word seldom applies to theories and practices of punishment in less formal environments such as parenting , school and workplace correctional measures . Historical theories of punishment were based on the <head>notion</head> that fearful consequences would discourage potential offenders . An example of this principle can be found in the Draconian law of Ancient Greece and the Bloody Code which persisted in Renaissance England , when ( at various times ) capital punishment was prescribed for over 200 offenses .</context>
+    </instance>
+    <instance id="Penology-punishment-34-2-3" docsrc="Penology">
+      <context> The study of penology therefore deals with the treatment of prisoners and the subsequent rehabilitation of convicted criminals . It also encompasses aspects of probation ( rehabilitation of offenders in the community ) as <head>well</head> as penitentiary science relating to the secure detention and retraining of offenders committed to secure institutions . Penology concerns many topics and theories , including those concerning prisons ( prison reform , prisoner abuse , prisoners ' rights , and recidivism ) , as well as theories of the purposes of punishment ( such as deterrence , rehabilitation , retribution , and utilitarianism ) .</context>
+    </instance>
+    <instance id="Penology-punishment-7-10-1" docsrc="Penology">
+      <context> Similarly , certain hudud offenses under Sharia <head>hadith</head> tradition may incur fearful penalties . Penologists have consequently evolved occupational and psychological education programs for offenders detained in prison , and a range of community service and probation orders which entail guidance and aftercare of the offender within the community . The importance of inflicting some measure of punishment on those persons who breach the law is however maintained in order to maintain social order and to moderate public outrage which might provoke appeals for cruel vengeance .</context>
+    </instance>
+    <instance id="Penology-punishment-9-3-2" docsrc="Penology">
+      <context> Penology concerns many topics and theories , including those <head>concerning</head> prisons ( prison reform , prisoner abuse , prisoners ' rights , and recidivism ) , as well as theories of the purposes of punishment ( such as deterrence , rehabilitation , retribution , and utilitarianism ) . Contemporary penology concerns itself mainly with criminal rehabilitation and prison management . The word seldom applies to theories and practices of punishment in less formal environments such as parenting , school and workplace correctional measures .</context>
+    </instance>
+    <instance id="Punishment-punishment-0-114-1" docsrc="Punishment">
+      <context> <head>Etymology</head> Online Brooks , Thom ( 2012 ) . Punishment .</context>
+    </instance>
+    <instance id="Punishment-punishment-0-20-8" docsrc="Punishment">
+      <context> <head>There</head> is some conflation of punishment and aversives , though an aversion that does not decrease behavior is not considered punishment in psychology . Additionally , " aversive stimulus " is a label behaviorists generally apply to negative reinforcers ( as in avoidance learning ) , rather than punishers . Punishment is sometimes called retaliatory or moralistic aggression ; it has been observed in all species of social animals , leading evolutionary biologists to conclude that it is an evolutionarily stable strategy , selected because it favors cooperative behavior .</context>
+    </instance>
+    <instance id="Punishment-punishment-0-24-1" docsrc="Punishment">
+      <context> <head>Additionally</head> , " aversive stimulus " is a label behaviorists generally apply to negative reinforcers ( as in avoidance learning ) , rather than punishers . Punishment is sometimes called retaliatory or moralistic aggression ; it has been observed in all species of social animals , leading evolutionary biologists to conclude that it is an evolutionarily stable strategy , selected because it favors cooperative behavior . Punishments are applied for various purposes , most generally , to encourage and enforce proper behavior as defined by society or family .</context>
+    </instance>
+    <instance id="Punishment-punishment-0-29-3" docsrc="Punishment">
+      <context> <head>Employees</head> can still be subject to a contractual form of fine or demotion . Most hierarchical organizations , such as military and police forces , or even churches , still apply quite rigid internal discipline , even with a judicial system of their own ( court martial , canonical courts ) . Punishment may also be applied on moral , especially religious , grounds , as in penance ( which is voluntary ) or imposed in a theocracy with a religious police ( as in a strict Islamic state like Iran or under the Taliban ) or ( though not a true theocracy ) by Inquisition .</context>
+    </instance>
+    <instance id="Punishment-punishment-0-3-5" docsrc="Punishment">
+      <context> <head>In</head> other situations , breaking a rule may be rewarded , and so receiving such a reward naturally does not constitute punishment . Finally the condition of breaking ( or breaching ) the rules must be satisfied for consequences to be considered punishment . Punishments differ in their degree of severity , and may include sanctions such as reprimands , deprivations of privileges or liberty , fines , incarcerations , ostracism , the infliction of pain , amputation and the death penalty .</context>
+    </instance>
+    <instance id="Punishment-punishment-0-30-1" docsrc="Punishment">
+      <context> <head>Most</head> hierarchical organizations , such as military and police forces , or even churches , still apply quite rigid internal discipline , even with a judicial system of their own ( court martial , canonical courts ) . Punishment may also be applied on moral , especially religious , grounds , as in penance ( which is voluntary ) or imposed in a theocracy with a religious police ( as in a strict Islamic state like Iran or under the Taliban ) or ( though not a true theocracy ) by Inquisition . Punishment in Hell typically corresponds to sins committed during life .</context>
+    </instance>
+    <instance id="Punishment-punishment-0-4-2" docsrc="Punishment">
+      <context> <head>Punishments</head> differ in their degree of severity , and may include sanctions such as reprimands , deprivations of privileges or liberty , fines , incarcerations , ostracism , the infliction of pain , amputation and the death penalty . Corporal punishment refers to punishments in which physical pain is intended to be inflicted upon the transgressor . Punishments may be judged as fair or unfair in terms of their degree of reciprocity and proportionality .</context>
+    </instance>
+    <instance id="Punishment-punishment-0-4-3" docsrc="Punishment">
+      <context> <head>Corporal</head> punishment refers to punishments in which physical pain is intended to be inflicted upon the transgressor . Punishments may be judged as fair or unfair in terms of their degree of reciprocity and proportionality . Punishment can be an integral part of socialization , and punishing unwanted behaviour is often part of a system of pedagogy or behavioral modification which also includes rewards .</context>
+    </instance>
+    <instance id="Punishment-punishment-0-66-1" docsrc="Punishment">
+      <context> <head>===</head> Retribution === Criminal activities typically give a benefit to the offender and a loss to the victim . Punishment has been justified as a measure of retributive justice , in which the goal is to try to rebalance any unjust advantage gained by ensuring that the offender also suffers a loss .</context>
+    </instance>
+    <instance id="Punishment-punishment-0-74-1" docsrc="Punishment">
+      <context> <head>Community</head> service or compensation orders are examples of this sort of penalty . === Education and denunciation === Punishment can be explained by positive prevention theory to use the criminal justice system to teach people what are the social norms for what is correct , and acts as a reinforcement .</context>
+    </instance>
+    <instance id="Punishment-punishment-0-76-1" docsrc="Punishment">
+      <context> <head>===</head> Education and denunciation === Punishment can be explained by positive prevention theory to use the criminal justice system to teach people what are the social norms for what is correct , and acts as a reinforcement . Punishment can serve as a means for society to publicly express denunciation of an action as being criminal .</context>
+    </instance>
+    <instance id="Punishment-punishment-1-101-1" docsrc="Punishment">
+      <context> Preventive <head>state</head> Telishment Corporal punishment</context>
+    </instance>
+    <instance id="Punishment-punishment-1-114-4" docsrc="Punishment">
+      <context> New <head>York</head> : Routledge . ISBN 9780415850513 . " Punishment " .</context>
+    </instance>
+    <instance id="Punishment-punishment-1-4-1" docsrc="Punishment">
+      <context> Finally <head>the</head> condition of breaking ( or breaching ) the rules must be satisfied for consequences to be considered punishment . Punishments differ in their degree of severity , and may include sanctions such as reprimands , deprivations of privileges or liberty , fines , incarcerations , ostracism , the infliction of pain , amputation and the death penalty . Corporal punishment refers to punishments in which physical pain is intended to be inflicted upon the transgressor .</context>
+    </instance>
+    <instance id="Punishment-punishment-1-55-1" docsrc="Punishment">
+      <context> === <head>Deterrence</head> ( prevention ) === === Rehabilitation === Some punishment includes work to reform and rehabilitate the culprit so that they will not commit the offence again .</context>
+    </instance>
+    <instance id="Punishment-punishment-10-11-1" docsrc="Punishment">
+      <context> In philosophy === Various philosophers have presented definitions of punishment <head>.</head> Conditions commonly considered necessary properly to describe an action as punishment are that</context>
+    </instance>
+    <instance id="Punishment-punishment-10-41-1" docsrc="Punishment">
+      <context> Sometimes these distinctions are specific , with damned souls suffering <head>for</head> each sin committed ( see for example Plato 's myth of Er or Dante 's The Divine Comedy ) , but sometimes they are general , with condemned sinners relegated to one or more chamber of Hell or to a level of suffering . === Seriousness of a crime ; Punishment fits the crime === A principle often mentioned with respect to the degree of punishment to be meted out is that the punishment should match the crime .</context>
+    </instance>
+    <instance id="Punishment-punishment-11-2-3" docsrc="Punishment">
+      <context> The last could include such measures as isolation , in order <head>to</head> prevent the wrongdoer 's having contact with potential victims , or the removal of a hand in order to make theft more difficult . Of the four justifications , only retribution is part of the definition of punishment and none of the other justifications is a guaranteed outcome , aside from obvious exceptions such as an executed man being incapacitated with regard to further crimes . If only some of the conditions included in the definition of punishment are present , descriptions other than " punishment " may be considered more accurate .</context>
+    </instance>
+    <instance id="Punishment-punishment-12-85-3" docsrc="Punishment">
+      <context> Detractors argue that punishment is simply wrong , of the same design <head>as</head> " two wrongs make a right " . Critics argue that punishment is simply revenge . Professor Deirdre Golash , author of the book , The Case against Punishment : Retribution , Crime Prevention , and the Law , states in her book that ,</context>
+    </instance>
+    <instance id="Punishment-punishment-13-1-2" docsrc="Punishment">
+      <context> The unpleasant imposition may include a fine , penalty , or confinement , <head>or</head> be the removal or denial of something pleasant or desirable . The individual may be a person , or even an animal . The authority may be either a group or a single person , and punishment may be carried out formally under a system of law or informally in other kinds of social settings such as within a family .</context>
+    </instance>
+    <instance id="Punishment-punishment-13-2-2" docsrc="Punishment">
+      <context> Justifications for punishment include retribution , deterrence , rehabilitation , and incapacitation . <head>The</head> last could include such measures as isolation , in order to prevent the wrongdoer 's having contact with potential victims , or the removal of a hand in order to make theft more difficult . Of the four justifications , only retribution is part of the definition of punishment and none of the other justifications is a guaranteed outcome , aside from obvious exceptions such as an executed man being incapacitated with regard to further crimes .</context>
+    </instance>
+    <instance id="Punishment-punishment-18-41-1" docsrc="Punishment">
+      <context> Sometimes these distinctions are specific , with damned souls suffering for each sin committed ( see for example <head>Plato</head> 's myth of Er or Dante 's The Divine Comedy ) , but sometimes they are general , with condemned sinners relegated to one or more chamber of Hell or to a level of suffering . === Seriousness of a crime ; Punishment fits the crime === A principle often mentioned with respect to the degree of punishment to be meted out is that the punishment should match the crime .</context>
+    </instance>
+    <instance id="Punishment-punishment-19-2-3" docsrc="Punishment">
+      <context> The last could include such measures as isolation , in order to prevent the wrongdoer 's having contact with <head>potential</head> victims , or the removal of a hand in order to make theft more difficult . Of the four justifications , only retribution is part of the definition of punishment and none of the other justifications is a guaranteed outcome , aside from obvious exceptions such as an executed man being incapacitated with regard to further crimes . If only some of the conditions included in the definition of punishment are present , descriptions other than " punishment " may be considered more accurate .</context>
+    </instance>
+    <instance id="Punishment-punishment-19-20-3" docsrc="Punishment">
+      <context> Along with reinforcement it belongs under the operant conditioning category . Operant conditioning refers to learning with either punishment <head>or</head> reinforcement . In psychology , punishment is the reduction of a behavior via application of an unpleasant stimulus ( " positive punishment " ) or removal of a pleasant stimulus ( " negative punishment " ) .</context>
+    </instance>
+    <instance id="Punishment-punishment-19-3-4" docsrc="Punishment">
+      <context> In addition , the word " punishment " is used as a metaphor , as when a boxer experiences <head>"</head> punishment " during a fight . In other situations , breaking a rule may be rewarded , and so receiving such a reward naturally does not constitute punishment . Finally the condition of breaking ( or breaching ) the rules must be satisfied for consequences to be considered punishment .</context>
+    </instance>
+    <instance id="Punishment-punishment-2-1-5" docsrc="Punishment">
+      <context> Negative consequences <head>that</head> are not authorized or that are administered without a breach of rules are not considered to be punishment as defined here . The study and practice of the punishment of crimes , particularly as it applies to imprisonment , is called penology , or , often in modern texts , corrections ; in this context , the punishment process is euphemistically called " correctional process " . Research into punishment often includes similar research into prevention .</context>
+    </instance>
+    <instance id="Punishment-punishment-2-1-6" docsrc="Punishment">
+      <context> The study <head>and</head> practice of the punishment of crimes , particularly as it applies to imprisonment , is called penology , or , often in modern texts , corrections ; in this context , the punishment process is euphemistically called " correctional process " . Research into punishment often includes similar research into prevention . Justifications for punishment include retribution , deterrence , rehabilitation , and incapacitation .</context>
+    </instance>
+    <instance id="Punishment-punishment-2-81-1" docsrc="Punishment">
+      <context> === Unified <head>theory</head> === A unified theory of punishment brings together multiple penal purposes — such as retribution , deterrence and rehabilitation — in a single , coherent framework . Instead of punishment requiring we choose between them , unified theorists argue that they work together as part of some wider goal such as the protection of rights .</context>
+    </instance>
+    <instance id="Punishment-punishment-20-1-3" docsrc="Punishment">
+      <context> The individual may be a person , or even an animal . The authority may be either a group or <head>a</head> single person , and punishment may be carried out formally under a system of law or informally in other kinds of social settings such as within a family . Negative consequences that are not authorized or that are administered without a breach of rules are not considered to be punishment as defined here .</context>
+    </instance>
+    <instance id="Punishment-punishment-20-20-6" docsrc="Punishment">
+      <context> Extra chores or spanking are examples of positive punishment , while removing an offending student 's recess or play privileges <head>are</head> examples of negative punishment . The definition requires that punishment is only determined after the fact by the reduction in behavior ; if the offending behavior of the subject does not decrease , it is not considered punishment . There is some conflation of punishment and aversives , though an aversion that does not decrease behavior is not considered punishment in psychology .</context>
+    </instance>
+    <instance id="Punishment-punishment-20-28-1" docsrc="Punishment">
+      <context> Punishment is sometimes called retaliatory or moralistic aggression ; it has been observed in all species of social animals , <head>leading</head> evolutionary biologists to conclude that it is an evolutionarily stable strategy , selected because it favors cooperative behavior . Punishments are applied for various purposes , most generally , to encourage and enforce proper behavior as defined by society or family . Criminals are punished judicially , by fines , corporal punishment or custodial sentences such as prison ; detainees risk further punishments for breaches of internal rules .</context>
+    </instance>
+    <instance id="Punishment-punishment-20-3-2" docsrc="Punishment">
+      <context> If only some of the conditions included in the definition of punishment are present , descriptions other than " punishment <head>"</head> may be considered more accurate . Inflicting something negative , or unpleasant , on a person or animal , without authority is considered revenge or spite rather than punishment . In addition , the word " punishment " is used as a metaphor , as when a boxer experiences " punishment " during a fight .</context>
+    </instance>
+    <instance id="Punishment-punishment-21-3-3" docsrc="Punishment">
+      <context> Inflicting something negative , or unpleasant , on a person or animal , without authority is considered revenge or spite rather <head>than</head> punishment . In addition , the word " punishment " is used as a metaphor , as when a boxer experiences " punishment " during a fight . In other situations , breaking a rule may be rewarded , and so receiving such a reward naturally does not constitute punishment .</context>
+    </instance>
+    <instance id="Punishment-punishment-22-3-1" docsrc="Punishment">
+      <context> Of the four justifications , only retribution is part of the definition of punishment and none of the other justifications is a <head>guaranteed</head> outcome , aside from obvious exceptions such as an executed man being incapacitated with regard to further crimes . If only some of the conditions included in the definition of punishment are present , descriptions other than " punishment " may be considered more accurate . Inflicting something negative , or unpleasant , on a person or animal , without authority is considered revenge or spite rather than punishment .</context>
+    </instance>
+    <instance id="Punishment-punishment-24-20-4" docsrc="Punishment">
+      <context> Operant conditioning refers to learning with either punishment or reinforcement . In psychology , punishment is the reduction of a behavior via application of <head>an</head> unpleasant stimulus ( " positive punishment " ) or removal of a pleasant stimulus ( " negative punishment " ) . Extra chores or spanking are examples of positive punishment , while removing an offending student 's recess or play privileges are examples of negative punishment .</context>
+    </instance>
+    <instance id="Punishment-punishment-3-20-3" docsrc="Punishment">
+      <context> Along with reinforcement <head>it</head> belongs under the operant conditioning category . Operant conditioning refers to learning with either punishment or reinforcement . In psychology , punishment is the reduction of a behavior via application of an unpleasant stimulus ( " positive punishment " ) or removal of a pleasant stimulus ( " negative punishment " ) .</context>
+    </instance>
+    <instance id="Punishment-punishment-3-85-1" docsrc="Punishment">
+      <context> Instead of punishment <head>requiring</head> we choose between them , unified theorists argue that they work together as part of some wider goal such as the protection of rights . Some people think that punishment as a whole is unhelpful and even harmful to the people that it is used against . Detractors argue that punishment is simply wrong , of the same design as " two wrongs make a right " .</context>
+    </instance>
+    <instance id="Punishment-punishment-3-85-2" docsrc="Punishment">
+      <context> Some people think <head>that</head> punishment as a whole is unhelpful and even harmful to the people that it is used against . Detractors argue that punishment is simply wrong , of the same design as " two wrongs make a right " . Critics argue that punishment is simply revenge .</context>
+    </instance>
+    <instance id="Punishment-punishment-31-20-3" docsrc="Punishment">
+      <context> Along with reinforcement it belongs under the operant conditioning category . Operant conditioning refers to learning with either punishment or reinforcement . In psychology , punishment is the reduction of a <head>behavior</head> via application of an unpleasant stimulus ( " positive punishment " ) or removal of a pleasant stimulus ( " negative punishment " ) .</context>
+    </instance>
+    <instance id="Punishment-punishment-32-20-5" docsrc="Punishment">
+      <context> In psychology , punishment is the reduction of a behavior via application of an unpleasant stimulus ( " positive punishment " ) or removal of a pleasant stimulus ( " negative punishment <head>"</head> ) . Extra chores or spanking are examples of positive punishment , while removing an offending student 's recess or play privileges are examples of negative punishment . The definition requires that punishment is only determined after the fact by the reduction in behavior ; if the offending behavior of the subject does not decrease , it is not considered punishment .</context>
+    </instance>
+    <instance id="Punishment-punishment-35-1-4" docsrc="Punishment">
+      <context> The authority may be either a group or a single person , and punishment may be carried out formally under a system of law or informally in other kinds of social settings such as within <head>a</head> family . Negative consequences that are not authorized or that are administered without a breach of rules are not considered to be punishment as defined here . The study and practice of the punishment of crimes , particularly as it applies to imprisonment , is called penology , or , often in modern texts , corrections ; in this context , the punishment process is euphemistically called " correctional process " .</context>
+    </instance>
+    <instance id="Punishment-punishment-4-20-5" docsrc="Punishment">
+      <context> In psychology , punishment <head>is</head> the reduction of a behavior via application of an unpleasant stimulus ( " positive punishment " ) or removal of a pleasant stimulus ( " negative punishment " ) . Extra chores or spanking are examples of positive punishment , while removing an offending student 's recess or play privileges are examples of negative punishment . The definition requires that punishment is only determined after the fact by the reduction in behavior ; if the offending behavior of the subject does not decrease , it is not considered punishment .</context>
+    </instance>
+    <instance id="Punishment-punishment-4-4-1" docsrc="Punishment">
+      <context> Finally the condition of <head>breaking</head> ( or breaching ) the rules must be satisfied for consequences to be considered punishment . Punishments differ in their degree of severity , and may include sanctions such as reprimands , deprivations of privileges or liberty , fines , incarcerations , ostracism , the infliction of pain , amputation and the death penalty . Corporal punishment refers to punishments in which physical pain is intended to be inflicted upon the transgressor .</context>
+    </instance>
+    <instance id="Punishment-punishment-4-69-1" docsrc="Punishment">
+      <context> One reason societies have <head>administered</head> punishments is to diminish the perceived need for retaliatory " street justice " , blood feud and vigilantism . === Restoration === For minor offenses , punishment may take the form of the offender " righting the wrong " , or restitution .</context>
+    </instance>
+    <instance id="Punishment-punishment-4-80-1" docsrc="Punishment">
+      <context> The pillory was a <head>method</head> for carrying out public denunciation . === Unified theory === A unified theory of punishment brings together multiple penal purposes — such as retribution , deterrence and rehabilitation — in a single , coherent framework .</context>
+    </instance>
+    <instance id="Punishment-punishment-4-81-2" docsrc="Punishment">
+      <context> A unified theory of <head>punishment</head> brings together multiple penal purposes — such as retribution , deterrence and rehabilitation — in a single , coherent framework . Instead of punishment requiring we choose between them , unified theorists argue that they work together as part of some wider goal such as the protection of rights . Some people think that punishment as a whole is unhelpful and even harmful to the people that it is used against .</context>
+    </instance>
+    <instance id="Punishment-punishment-5-119-2" docsrc="Punishment">
+      <context> " Punishment " . Internet <head>Encyclopedia</head> of Philosophy . " The Moral Permissibility of Punishment " .</context>
+    </instance>
+    <instance id="Punishment-punishment-5-18-2" docsrc="Punishment">
+      <context> === In psychology === Introduced <head>by</head> B.F. Skinner , punishment has a more restrictive and technical definition .</context>
+    </instance>
+    <instance id="Punishment-punishment-5-20-6" docsrc="Punishment">
+      <context> Extra chores or spanking are <head>examples</head> of positive punishment , while removing an offending student 's recess or play privileges are examples of negative punishment . The definition requires that punishment is only determined after the fact by the reduction in behavior ; if the offending behavior of the subject does not decrease , it is not considered punishment . There is some conflation of punishment and aversives , though an aversion that does not decrease behavior is not considered punishment in psychology .</context>
+    </instance>
+    <instance id="Punishment-punishment-5-60-1" docsrc="Punishment">
+      <context> This is distinguished from deterrence <head>,</head> in that the goal here is to change the offender 's attitude to what they have done , and make them come to see that their behavior was wrong . === Incapacitation and societal protection === Incapacitation as a justification of punishment refers to the offender ’s ability to commit further offences being removed .</context>
+    </instance>
+    <instance id="Punishment-punishment-5-66-3" docsrc="Punishment">
+      <context> Punishment has been justified as <head>a</head> measure of retributive justice , in which the goal is to try to rebalance any unjust advantage gained by ensuring that the offender also suffers a loss . Sometimes viewed as a way of " getting even " with a wrongdoer — the suffering of the wrongdoer is seen as a desired goal in itself , even if it has no restorative benefits for the victim . One reason societies have administered punishments is to diminish the perceived need for retaliatory " street justice " , blood feud and vigilantism .</context>
+    </instance>
+    <instance id="Punishment-punishment-6-1-4" docsrc="Punishment">
+      <context> The authority may be either a <head>group</head> or a single person , and punishment may be carried out formally under a system of law or informally in other kinds of social settings such as within a family . Negative consequences that are not authorized or that are administered without a breach of rules are not considered to be punishment as defined here . The study and practice of the punishment of crimes , particularly as it applies to imprisonment , is called penology , or , often in modern texts , corrections ; in this context , the punishment process is euphemistically called " correctional process " .</context>
+    </instance>
+    <instance id="Punishment-punishment-6-10-2" docsrc="Punishment">
+      <context> === In philosophy === Various philosophers <head>have</head> presented definitions of punishment .</context>
+    </instance>
+    <instance id="Punishment-punishment-6-3-2" docsrc="Punishment">
+      <context> If only some of the conditions <head>included</head> in the definition of punishment are present , descriptions other than " punishment " may be considered more accurate . Inflicting something negative , or unpleasant , on a person or animal , without authority is considered revenge or spite rather than punishment . In addition , the word " punishment " is used as a metaphor , as when a boxer experiences " punishment " during a fight .</context>
+    </instance>
+    <instance id="Punishment-punishment-6-34-2" docsrc="Punishment">
+      <context> Punishment in Hell typically corresponds to <head>sins</head> committed during life . Sometimes these distinctions are specific , with damned souls suffering for each sin committed ( see for example Plato 's myth of Er or Dante 's The Divine Comedy ) , but sometimes they are general , with condemned sinners relegated to one or more chamber of Hell or to a level of suffering . === Seriousness of a crime ; Punishment fits the crime ===</context>
+    </instance>
+    <instance id="Punishment-punishment-7-20-2" docsrc="Punishment">
+      <context> Introduced by B.F. Skinner , punishment has <head>a</head> more restrictive and technical definition . Along with reinforcement it belongs under the operant conditioning category . Operant conditioning refers to learning with either punishment or reinforcement .</context>
+    </instance>
+    <instance id="Punishment-punishment-8-20-4" docsrc="Punishment">
+      <context> Operant conditioning refers to learning with either punishment <head>or</head> reinforcement . In psychology , punishment is the reduction of a behavior via application of an unpleasant stimulus ( " positive punishment " ) or removal of a pleasant stimulus ( " negative punishment " ) . Extra chores or spanking are examples of positive punishment , while removing an offending student 's recess or play privileges are examples of negative punishment .</context>
+    </instance>
+    <instance id="Punishment-punishment-9-28-1" docsrc="Punishment">
+      <context> Punishment is sometimes called retaliatory or moralistic aggression ; <head>it</head> has been observed in all species of social animals , leading evolutionary biologists to conclude that it is an evolutionarily stable strategy , selected because it favors cooperative behavior . Punishments are applied for various purposes , most generally , to encourage and enforce proper behavior as defined by society or family . Criminals are punished judicially , by fines , corporal punishment or custodial sentences such as prison ; detainees risk further punishments for breaches of internal rules .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-0-16-11" docsrc="Punishment_(psychology)">
+      <context> <head>The</head> subject may then associate the punishment given with the unintended behaviors , and thus suppressing those behaviors instead of the targeted behavior . Therefore , immediate punishment is more effective in reducing a targeted behavior than a delayed punishment would be . Punishment is sometimes used for treatment programs in applied behavior analysis in the most extreme cases , to reduce dangerous behaviors such as head banging or biting exhibited most commonly by children or people with special needs or disabilities .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-0-16-5" docsrc="Punishment_(psychology)">
+      <context> <head>For</head> example , if a rat receives an aversive stimulus , such as a shock each time it presses a lever , then it is clear that contingency occurs between lever pressing and shock . In this case , the punisher ( shock ) is contingent upon the appearance of the behavior ( lever pressing ) . Punishment is most effective when contingency is present between a behavior and a punisher .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-0-21-1" docsrc="Punishment_(psychology)">
+      <context> <head>Therefore</head> , immediate punishment is more effective in reducing a targeted behavior than a delayed punishment would be . Punishment is sometimes used for treatment programs in applied behavior analysis in the most extreme cases , to reduce dangerous behaviors such as head banging or biting exhibited most commonly by children or people with special needs or disabilities . Punishment is considered one of the ethical challenges to autism treatment and is one of the major reasons for discussion of professionalizing behavior analysis .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-1-4-1" docsrc="Punishment_(psychology)">
+      <context> For <head>example</head> , painful stimulation which would serve as a punisher in many cases serves to reinforce some behaviors of the masochist . There are two types of punishment in operant conditioning : positive punishment , punishment by application , or type I punishment , an experimenter punishes a response by presenting an aversive stimulus into the animal 's surroundings ( a brief electric shock , for example ) .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-1-5-1" docsrc="Punishment_(psychology)">
+      <context> There <head>are</head> two types of punishment in operant conditioning : positive punishment , punishment by application , or type I punishment , an experimenter punishes a response by presenting an aversive stimulus into the animal 's surroundings ( a brief electric shock , for example ) . negative punishment , punishment by removal , or type II punishment , a valued , appetitive stimulus is removed ( as in the removal of a feeding dish ) .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-10-4-1" docsrc="Punishment_(psychology)">
+      <context> For example , painful stimulation which would serve as a <head>punisher</head> in many cases serves to reinforce some behaviors of the masochist . There are two types of punishment in operant conditioning : positive punishment , punishment by application , or type I punishment , an experimenter punishes a response by presenting an aversive stimulus into the animal 's surroundings ( a brief electric shock , for example ) .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-10-5-1" docsrc="Punishment_(psychology)">
+      <context> There are two types of punishment in operant conditioning : <head>positive</head> punishment , punishment by application , or type I punishment , an experimenter punishes a response by presenting an aversive stimulus into the animal 's surroundings ( a brief electric shock , for example ) . negative punishment , punishment by removal , or type II punishment , a valued , appetitive stimulus is removed ( as in the removal of a feeding dish ) .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-12-16-8" docsrc="Punishment_(psychology)">
+      <context> A second variable affecting punishment is contiguity , which is the closeness <head>of</head> events in time and/or space . Contiguity is important to reducing behavior because the longer the time interval between an unwanted behavior and a punishing effect , the less effective the punishment will be . One major problem with a time delay between a behavior and a punishment is that other behaviors may present during that time delay .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-15-16-10" docsrc="Punishment_(psychology)">
+      <context> One major problem with a time delay between a behavior and a punishment is that <head>other</head> behaviors may present during that time delay . The subject may then associate the punishment given with the unintended behaviors , and thus suppressing those behaviors instead of the targeted behavior . Therefore , immediate punishment is more effective in reducing a targeted behavior than a delayed punishment would be .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-15-16-2" docsrc="Punishment_(psychology)">
+      <context> One variable affecting punishment is contingency , which is defined as the dependency of events <head>.</head> A behavior may be dependent on a stimulus or dependent on a response . The purpose of punishment is to reduce a behavior , and the degree to which punishment is effective in reducing a targeted behavior is dependent on the relationship between the behavior and a punishment .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-18-6-1" docsrc="Punishment_(psychology)">
+      <context> positive punishment , punishment by application , or type I punishment , an experimenter punishes a response by <head>presenting</head> an aversive stimulus into the animal 's surroundings ( a brief electric shock , for example ) . negative punishment , punishment by removal , or type II punishment , a valued , appetitive stimulus is removed ( as in the removal of a feeding dish ) . As with reinforcement , it is not usually necessary to speak of positive and negative in regard to punishment .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-25-16-7" docsrc="Punishment_(psychology)">
+      <context> Punishment is most effective when contingency is present between a behavior and a punisher . A second variable affecting punishment is contiguity , which is <head>the</head> closeness of events in time and/or space . Contiguity is important to reducing behavior because the longer the time interval between an unwanted behavior and a punishing effect , the less effective the punishment will be .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-3-16-10" docsrc="Punishment_(psychology)">
+      <context> One major problem <head>with</head> a time delay between a behavior and a punishment is that other behaviors may present during that time delay . The subject may then associate the punishment given with the unintended behaviors , and thus suppressing those behaviors instead of the targeted behavior . Therefore , immediate punishment is more effective in reducing a targeted behavior than a delayed punishment would be .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-3-16-2" docsrc="Punishment_(psychology)">
+      <context> One variable affecting <head>punishment</head> is contingency , which is defined as the dependency of events . A behavior may be dependent on a stimulus or dependent on a response . The purpose of punishment is to reduce a behavior , and the degree to which punishment is effective in reducing a targeted behavior is dependent on the relationship between the behavior and a punishment .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-3-4-1" docsrc="Punishment_(psychology)">
+      <context> For example , <head>painful</head> stimulation which would serve as a punisher in many cases serves to reinforce some behaviors of the masochist . There are two types of punishment in operant conditioning : positive punishment , punishment by application , or type I punishment , an experimenter punishes a response by presenting an aversive stimulus into the animal 's surroundings ( a brief electric shock , for example ) .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-3-5-1" docsrc="Punishment_(psychology)">
+      <context> There are two <head>types</head> of punishment in operant conditioning : positive punishment , punishment by application , or type I punishment , an experimenter punishes a response by presenting an aversive stimulus into the animal 's surroundings ( a brief electric shock , for example ) . negative punishment , punishment by removal , or type II punishment , a valued , appetitive stimulus is removed ( as in the removal of a feeding dish ) .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-3-6-2" docsrc="Punishment_(psychology)">
+      <context> negative punishment , <head>punishment</head> by removal , or type II punishment , a valued , appetitive stimulus is removed ( as in the removal of a feeding dish ) . As with reinforcement , it is not usually necessary to speak of positive and negative in regard to punishment . One variable affecting punishment is contingency , which is defined as the dependency of events .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-33-16-2" docsrc="Punishment_(psychology)">
+      <context> One variable affecting punishment is contingency , which is defined as the dependency of events . A behavior may be dependent on a stimulus or dependent on a response . The purpose of <head>punishment</head> is to reduce a behavior , and the degree to which punishment is effective in reducing a targeted behavior is dependent on the relationship between the behavior and a punishment .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-4-16-6" docsrc="Punishment_(psychology)">
+      <context> In this case , <head>the</head> punisher ( shock ) is contingent upon the appearance of the behavior ( lever pressing ) . Punishment is most effective when contingency is present between a behavior and a punisher . A second variable affecting punishment is contiguity , which is the closeness of events in time and/or space .</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-5-0-4" docsrc="Punishment_(psychology)">
+      <context> Whether a change is or <head>is</head> not punishing is only known by its effect on the rate of the behavior , not by any " hostile " or aversive features of the change . For example , painful stimulation which would serve as a punisher in many cases serves to reinforce some behaviors of the masochist . There are two types of punishment in operant conditioning :</context>
+    </instance>
+    <instance id="Punishment_(psychology)-punishment-6-16-9" docsrc="Punishment_(psychology)">
+      <context> Contiguity is important to reducing behavior <head>because</head> the longer the time interval between an unwanted behavior and a punishing effect , the less effective the punishment will be . One major problem with a time delay between a behavior and a punishment is that other behaviors may present during that time delay . The subject may then associate the punishment given with the unintended behaviors , and thus suppressing those behaviors instead of the targeted behavior .</context>
+    </instance>
+    <instance id="a00097452_d_2" docsrc="a00097452_d">
+      <context> put_to_death as <head>punishment</head> ;</context>
+    </instance>
+    <instance id="a00348380_d_3" docsrc="a00348380_d">
+      <context> ( of the <head>punishment</head> ordered by a court ) capable of being changed to one less severe ;</context>
+    </instance>
+    <instance id="a00635456_d_4" docsrc="a00635456_d">
+      <context> impervious to correction by <head>punishment</head> ;</context>
+    </instance>
+    <instance id="a00924635_d_3" docsrc="a00924635_d">
+      <context> containing warning of <head>punishment</head> ;</context>
+    </instance>
+    <instance id="a01322846_d_4" docsrc="a01322846_d">
+      <context> liable to or deserving <head>punishment</head> ;</context>
+    </instance>
+    <instance id="a01371258_d_9" docsrc="a01371258_d">
+      <context> fitting or appropriate and deserved ; used especially of <head>punishment</head> ;</context>
+    </instance>
+    <instance id="a01404370_d_2" docsrc="a01404370_d">
+      <context> subject to <head>punishment</head> by law ;</context>
+    </instance>
+    <instance id="a01451225_d_5" docsrc="a01451225_d">
+      <context> in danger of the eternal <head>punishment</head> of Hell ;</context>
+    </instance>
+    <instance id="a01721401_d_3" docsrc="a01721401_d">
+      <context> warranting only temporal <head>punishment</head> ;</context>
+    </instance>
+    <instance id="a01902003_d_9" docsrc="a01902003_d">
+      <context> smeared with tar and covered with feathers as a <head>punishment</head> ;</context>
+    </instance>
+    <instance id="a01902468_d_1" docsrc="a01902468_d">
+      <context> inflicting <head>punishment</head> ;</context>
+    </instance>
+    <instance id="a01902866_d_6" docsrc="a01902866_d">
+      <context> serving as or designed to impose <head>punishment</head> ;</context>
+    </instance>
+    <instance id="a01902980_d_2" docsrc="a01902980_d">
+      <context> used for <head>punishment</head> or reform of criminals or wrongdoers ;</context>
+    </instance>
+    <instance id="a02779420_d_4" docsrc="a02779420_d">
+      <context> of or relating to <head>punishment</head> ;</context>
+    </instance>
+    <instance id="a03152759_d_2" docsrc="a03152759_d">
+      <context> resulting in <head>punishment</head> ;</context>
+    </instance>
+    <instance id="br-b20#w1198_0" docsrc="br-b20">
+      <context> A British writer , Richard_Haestier , in a book , Dead_Men_Tell_Tales , recalls that in the turmoil preceding French_Revolution the body of Henry_/4 , , who had died nearly 180 years earlier , was torn to pieces by a mob . And in England , after the Restoration , the body of Cromwell was disinterred and hanged at Tyburn . The head was then fixed on a pole at Westminster , and the rest of the body was buried under the gallows . Contemplating these posthumous <head>punishments</head> , Stalin should not lose all hope . In 1899 , Parliament erected a statue to Cromwell in Westminster , facing Whitehall and there , presumably , he still stands . Nikita_Khrushchev , however , has created yet another problem for himself . The Lenin tomb is obviously adequate for double occupancy , Moscow is a crowded city , and the creed of communism deplores waste .</context>
+    </instance>
+    <instance id="br-d04#w1835_0" docsrc="br-d04">
+      <context> This emphasis upon death rather than sin as man 's fundamental problem Irenaeus shares with many early theologians , especially the Greek speaking ones . They speak of the work of Christ as the bestowal of incorruptibility , which can mean ( though it does not have to mean ) deliverance from time and history . Death reminds man of his sin , but it reminds him also of his transience . It represents a <head>punishment</head> that he knows he deserves , but it also symbolizes most dramatically that he lives his life within the process of time . These two aspects of death cannot be successfully separated , but they dare not be confused or identified . The repeated efforts in Christian history to describe death as altogether the consequence of human sin show that these two aspects of death cannot be separated . Such efforts almost always find themselves compelled to ask whether Adam was created capable of growing old and_then older and_then still older , in_short , whether Adam 's life was intended to be part of the process of time .</context>
+    </instance>
+    <instance id="br-d04#w2026_0" docsrc="br-d04">
+      <context> Such efforts almost always find themselves compelled to ask whether Adam was created capable of growing old and_then older and_then still older , in_short , whether Adam 's life was intended to be part of the process of time . If it was , then it must have been God 's intention to translate him at a certain point from time to eternity . One night , so some of these theories run , Adam would have fallen_asleep , much_as he fell_asleep for the creation of Eve ; and thus he would have been carried_over into the life_eternal . The embarrassment of these theories over the naturalness of death is an illustration of the thesis that death cannot be only a <head>punishment</head> , for some termination seems necessary in a life that is lived within the natural_order of time and change . On_the_other_hand , Christian faith knows that death is more than the natural termination of temporal existence . It is the wages of sin , and its sting is the law . If this aspect of death as punishment is not distinguished from the idea of death as natural termination , the conclusion seems inevitable that temporal existence itself is a form of punishment rather than the state into which man is put by the will of the Creator .</context>
+    </instance>
+    <instance id="br-d04#w2084_0" docsrc="br-d04">
+      <context> The embarrassment of these theories over the naturalness of death is an illustration of the thesis that death cannot be only a punishment , for some termination seems necessary in a life that is lived within the natural_order of time and change . On_the_other_hand , Christian faith knows that death is more than the natural termination of temporal existence . It is the wages of sin , and its sting is the law . If this aspect of death as <head>punishment</head> is not distinguished from the idea of death as natural termination , the conclusion seems inevitable that temporal existence itself is a form of punishment rather than the state into which man is put by the will of the Creator . This seems to have been the conclusion to which Origen was forced . If death receives more_than its share of attention from the theologian and if sin receives less_than its share , the gift of the life_eternal through Christ begins to look_like the divinely appointed means of rescue from temporal , i.e. , created , existence . Such an interpretation of death radically alters the Christian view of creation ; for it teaches salvation from , not salvation in , time and history .</context>
+    </instance>
+    <instance id="br-d04#w2109_0" docsrc="br-d04">
+      <context> The embarrassment of these theories over the naturalness of death is an illustration of the thesis that death cannot be only a punishment , for some termination seems necessary in a life that is lived within the natural_order of time and change . On_the_other_hand , Christian faith knows that death is more than the natural termination of temporal existence . It is the wages of sin , and its sting is the law . If this aspect of death as punishment is not distinguished from the idea of death as natural termination , the conclusion seems inevitable that temporal existence itself is a form of <head>punishment</head> rather than the state into which man is put by the will of the Creator . This seems to have been the conclusion to which Origen was forced . If death receives more_than its share of attention from the theologian and if sin receives less_than its share , the gift of the life_eternal through Christ begins to look_like the divinely appointed means of rescue from temporal , i.e. , created , existence . Such an interpretation of death radically alters the Christian view of creation ; for it teaches salvation from , not salvation in , time and history .</context>
+    </instance>
+    <instance id="br-g15#w1006_0" docsrc="br-g15">
+      <context> We shall return to these statements and deal with them more fully as the evidence for them accumulates . For the present it is enough to note that in the grotesque figure of Jacoby , at the moment of his collapse , all these elements come together in prophetic parody . Professionally a lawyer , that_is_to_say associated with dignity , reserve , discipline , with much that is essentially middle-class , he is compelled by an impossible love to exhibit himself dressed_up , disguised - that_is , paradoxically , revealed - as a child , and , worse , as a whore masquerading as a child . That this abandonment takes_place on a stage , during an ' artistic ' performance , is enough to associate Jacoby with art , and to bring_down upon him the <head>punishment</head> for art ; that_is , he is suspect , guilty , punishable , as is anyone in Mann 's stories who produces illusion , and this is true even_though the constant elements of the artist nature , technique , magic , guilt and suffering , are divided in this story between Jacoby and La^utner . It appears that the dominant tendency of Mann 's early tales , however pictorial or even picturesque the surface , is already toward the symbolic , the emblematic , the expressionistic . In a certain perfectly definite way , the method and the theme of his stories are one_and_the_same . Something of this can be learned from `` The_Way_to_the_Churchyard '' ( 1901 ) , an anecdote about an old failure whose fit of anger at a passing cyclist causes him to die of a stroke or seizure .</context>
+    </instance>
+    <instance id="br-j58#w1082_0" docsrc="br-j58">
+      <context> In its account of the Trafton lecture , the Providence_Daily_Post said that the remarks of Rev._Trafton made the people indignant . No sympathy or admiration for Brown could be found in the Providence_Daily_Post , for the editor claimed that there were a score of men in the state_prison who were a_thousand times more deserving of sympathy . The Providence_Daily_Journal , however , stated that Brown 's courage , bravery , and heroism `` in a good cause would make a man a martyr ; it gives something of dignity even to a bad one '' . The Woonsocket_Patriot admitted that John_Brown might deserve <head>punishment</head> or imprisonment `` but he should no_more be hung than Henry_A._Wise or James_Buchanan '' . The Newport_Mercury exhibited more concern over the possibility of the abolitionists making a martyr of Brown than it did over the development of sympathy for him . In her letter to John_Brown , `` E._B. '' , the Quakeress from Newport , had suggested that the American people owed more honor to John_Brown for seeking to free the slaves than they did to George_Washington . During the latter days of November to the day of Brown 's execution , it seems that most Rhode_Islanders did not concur in `` E._B. 's '' suggestion .</context>
+    </instance>
+    <instance id="br-k03#w541_0" docsrc="br-k03">
+      <context> A New_York kid , a refugee from one of the Harlem gangs , made_fun of Trig 's accent , and drew a knife . Before the fight was over , the Harlem boy had a concussion and Trig was cut_up badly . They caught Trig stealing liquor from the officers ' mess , and he got a_couple_of girls in_trouble . The fear of <head>punishment</head> just did n't bother him . It was n't there . It was left_out of him at_birth . This is why he made such a magnificent soldier .</context>
+    </instance>
+    <instance id="br-k06#w1548_0" docsrc="br-k06">
+      <context> Perhaps one day He will choose you as He chose me , long_ago . Therefore , give Him your affection and store up His love for you . Open your heart to Him and pray , Stephen , pray ! For His mercy and His guidance to spare you from evil and eternal <head>punishment</head> in the Lake_of_Fire '' . Stevie had heard these words many times , yet on each occasion they caused him to tremble . For he feared the Lake_of_Fire . He strove to think of God and His eternal wrath ; he must pray to be spared .</context>
+    </instance>
+    <instance id="br-k23#w816_0" docsrc="br-k23">
+      <context> Jessica_Packard lifted her head and followed the retreating figure , her eyes resting nearly closed on the unself-conscious rise and fall of the rounded hips . For a moment she held her face to the empty doorway ; then she snorted and groped_for her fork . There 's no greater catastrophe in the universe , she reflected dourly , impaling tender green_beans on the silver fork , than the dwindling_away of a family . Procreation , expansion , proliferation - these are the laws of living_things , with the penalty for not obeying them the ultimate in <head>punishments</head> : oblivion . When the fate of the individual is visited on the group , then ( the warm sweet butter dripped from her raised trembling fork and she pushed her head forward belligerently ) , ah , then the true bitterness of existence could be tasted . And indeed the young garden beans were brackish in her mouth . She was the last living of the older generation .</context>
+    </instance>
+    <instance id="br-r09#w751_0" docsrc="br-r09">
+      <context> Fourteen of the sculptures you took posses properties of a most curious and terrifying nature , as you will observe when your limbs begin to wither and your hair falls_out in patches . In_time , these minor manifestations will multiply and effloresce , riddling you with frambesia , the king's_evil , sheep_rot , and clonic spasm , until your very existence becomes a burden and you cry_out_for release . All this , though , is simply a prelude , a curtain-raiser , for what ensues , and I doubt whether any Occidental could accurately forecast it . If , however , it would help to intensify your anguish , I can delimit the powers of a_few of the divinities you 've affronted and describe the <head>punishment</head> they meted_out in one analogous instance . Hold_on tight . First_of_all , the six figures of the Buddha you heisted - four Siamese heads , a black obsidian statuette in the earth touching position , and a large brass figure of the Dying_Buddha on a teakwood base . Now , you probably share the widespread Western belief that the Lord_Buddha is the most compassionate of the gods , much more so than Jehovah and Allah and the rest .</context>
+    </instance>
+    <instance id="n00094500_d_8" docsrc="n00094500_d">
+      <context> the remission by the pope of the temporal <head>punishment</head> in purgatory that is still due for sins even after absolution ;</context>
+    </instance>
+    <instance id="n00096851_d_7" docsrc="n00096851_d">
+      <context> the act of freeing from captivity or <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n00420877_d_12" docsrc="n00420877_d">
+      <context> the act of piercing with a sharpened stake as a form of <head>punishment</head> or torture ;</context>
+    </instance>
+    <instance id="n00422551_d_5" docsrc="n00422551_d">
+      <context> the infliction of extremely painful <head>punishment</head> or suffering ;</context>
+    </instance>
+    <instance id="n00423563_d_4" docsrc="n00423563_d">
+      <context> a form of military <head>punishment</head> used by the British in the late 17th century in which a soldier was forced to stand on one foot on a pointed stake ;</context>
+    </instance>
+    <instance id="n00694681_d_13" docsrc="n00694681_d">
+      <context> judgment involved in the determination of rights and the assignment of rewards and <head>punishments</head> ;</context>
+    </instance>
+    <instance id="n00769695_d_8" docsrc="n00769695_d">
+      <context> serious crimes committed by Muslims and punishable by <head>punishments</head> established in the Koran ;</context>
+    </instance>
+    <instance id="n01161017_d_1" docsrc="n01161017_d">
+      <context> verbal <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n01161411_d_0" docsrc="n01161411_d">
+      <context> <head>punishment</head> prohibited by the 8th amendment to the U.S._Constitution ; includes torture or degradation or punishment too severe for the crime committed ;</context>
+    </instance>
+    <instance id="n01161411_d_15" docsrc="n01161411_d">
+      <context> punishment prohibited by the 8th amendment to the U.S._Constitution ; includes torture or degradation or <head>punishment</head> too severe for the crime committed ;</context>
+    </instance>
+    <instance id="n01161635_d_1" docsrc="n01161635_d">
+      <context> a <head>punishment</head> in which a student must stay at school after others have gone_home ;</context>
+    </instance>
+    <instance id="n01162062_d_0" docsrc="n01162062_d">
+      <context> <head>punishment</head> of a group by cutting_off commercial dealings with them ;</context>
+    </instance>
+    <instance id="n01162376_d_9" docsrc="n01162376_d">
+      <context> putting someone in prison or in jail as lawful <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n01162529_d_0" docsrc="n01162529_d">
+      <context> <head>punishment</head> for one's actions ;</context>
+    </instance>
+    <instance id="n01162672_d_0" docsrc="n01162672_d">
+      <context> <head>punishment</head> inflicted on yourself ;</context>
+    </instance>
+    <instance id="n01163047_d_12" docsrc="n01163047_d">
+      <context> beating with a whip or strap or rope as a form of <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n01163586_d_6" docsrc="n01163586_d">
+      <context> the use of electricity to administer <head>punishment</head> or torture ;</context>
+    </instance>
+    <instance id="n01164063_d_3" docsrc="n01164063_d">
+      <context> a form of <head>punishment</head> in which a person is forced to run between two lines of men facing each other and armed with clubs or whips to beat the victim ;</context>
+    </instance>
+    <instance id="n01164275_d_0" docsrc="n01164275_d">
+      <context> <head>punishment</head> inflicted by kicking the victim in the behind ;</context>
+    </instance>
+    <instance id="n01164394_d_7" docsrc="n01164394_d">
+      <context> the act of pelting with stones ; <head>punishment</head> inflicted by throwing stones at the victim ( even unto death ) ;</context>
+    </instance>
+    <instance id="n01165919_d_6" docsrc="n01165919_d">
+      <context> the reduction in severity of a <head>punishment</head> imposed by law ;</context>
+    </instance>
+    <instance id="n01189282_d_10" docsrc="n01189282_d">
+      <context> a final_judgment of guilty in a criminal case and the <head>punishment</head> that is imposed ;</context>
+    </instance>
+    <instance id="n01259034_d_8" docsrc="n01259034_d">
+      <context> the act of reprieving ; postponing or remitting <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n02842809_d_21" docsrc="n02842809_d">
+      <context> a switch consisting of a twig or a bundle of twigs from a birch tree ; used to hit people as <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n02949084_d_8" docsrc="n02949084_d">
+      <context> a stiff switch used to hit students as <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n03907654_d_7" docsrc="n03907654_d">
+      <context> an institution where persons are confined for <head>punishment</head> and to protect the public ;</context>
+    </instance>
+    <instance id="n04005630_d_10" docsrc="n04005630_d">
+      <context> a correctional_institution where persons are confined while on_trial or for <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n04149968_d_5" docsrc="n04149968_d">
+      <context> a whip used to inflict <head>punishment</head></context>
+    </instance>
+    <instance id="n05629682_d_14" docsrc="n05629682_d">
+      <context> the abode of Satan and the forces of evil ; where sinners suffer eternal <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n05630409_d_7" docsrc="n05630409_d">
+      <context> a place of eternal fire envisaged as <head>punishment</head> for the damned ;</context>
+    </instance>
+    <instance id="n06539178_d_9" docsrc="n06539178_d">
+      <context> the body of law dealing with crimes and their <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n06548498_d_5" docsrc="n06548498_d">
+      <context> a warrant substituting a lesser <head>punishment</head> for a greater one ;</context>
+    </instance>
+    <instance id="n06552639_d_5" docsrc="n06552639_d">
+      <context> a warrant granting release from <head>punishment</head> for an offense ;</context>
+    </instance>
+    <instance id="n06668019_d_6" docsrc="n06668019_d">
+      <context> the legal_code governing crimes and their <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n06672752_d_0" docsrc="n06672752_d">
+      <context> <head>punishment</head> intended as a warning to others ;</context>
+    </instance>
+    <instance id="n06733682_d_4" docsrc="n06733682_d">
+      <context> a threat of divine <head>punishment</head> or vengeance ;</context>
+    </instance>
+    <instance id="n07494175_d_4" docsrc="n07494175_d">
+      <context> sexual_pleasure obtained from receiving <head>punishment</head> ( physical or psychological ) ;</context>
+    </instance>
+    <instance id="n07945490_d_6" docsrc="n07945490_d">
+      <context> people who are condemned to eternal <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n08334087_d_9" docsrc="n08334087_d">
+      <context> a judicial court of commissioned_officers for the discipline and <head>punishment</head> of military_personnel ;</context>
+    </instance>
+    <instance id="n08335599_d_13" docsrc="n08335599_d">
+      <context> a former English court that became notorious for its arbitrary methods and severe <head>punishments</head> ;</context>
+    </instance>
+    <instance id="n08455271_d_18" docsrc="n08455271_d">
+      <context> the body of laws and rules of conduct administered by military_courts for the discipline , trial , and <head>punishment</head> of military_personnel ;</context>
+    </instance>
+    <instance id="n08456178_d_11" docsrc="n08456178_d">
+      <context> Islamic_laws stating the limits ordained by Allah and including the deterrent <head>punishments</head> for serious crimes ;</context>
+    </instance>
+    <instance id="n09498697_d_10" docsrc="n09498697_d">
+      <context> a king in ancient Greece who offended Zeus and whose <head>punishment</head> was to roll a huge boulder to the top of a steep hill ; each time the boulder neared the top it rolled back down and Sisyphus was forced to start again ;</context>
+    </instance>
+    <instance id="n09557289_d_6" docsrc="n09557289_d">
+      <context> goddess of criminal rashness and its <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n09583321_d_11" docsrc="n09583321_d">
+      <context> wife of Loki ; held a cup over him during his <head>punishment</head> to spare him the pain of drops of poison ;</context>
+    </instance>
+    <instance id="n10297367_d_6" docsrc="n10297367_d">
+      <context> someone who obtains pleasure from receiving <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n10684146_d_4" docsrc="n10684146_d">
+      <context> a person who administers <head>punishment</head> by wielding a switch or whip ;</context>
+    </instance>
+    <instance id="n10716389_d_9" docsrc="n10716389_d">
+      <context> someone who inflicts severe physical pain ( usually for <head>punishment</head> or coercion ) ;</context>
+    </instance>
+    <instance id="n13291831_d_9" docsrc="n13291831_d">
+      <context> compensation in excess of actual_damages ( a form of <head>punishment</head> awarded in cases of malicious or willful misconduct ) ;</context>
+    </instance>
+    <instance id="n13998014_d_13" docsrc="n13998014_d">
+      <context> state of subjection to an owner or master or forced labor imposed as <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n14443912_d_4" docsrc="n14443912_d">
+      <context> dominance through threat of <head>punishment</head> and violence ;</context>
+    </instance>
+    <instance id="n14458593_d_7" docsrc="n14458593_d">
+      <context> the state of being condemned to eternal <head>punishment</head> in Hell ;</context>
+    </instance>
+    <instance id="n14529082_d_8" docsrc="n14529082_d">
+      <context> a period during which offenders are exempt from <head>punishment</head> ;</context>
+    </instance>
+    <instance id="n14529524_d_2" docsrc="n14529524_d">
+      <context> exemption from <head>punishment</head> or loss ;</context>
+    </instance>
+    <instance id="v00202445_d_2" docsrc="v00202445_d">
+      <context> correct by <head>punishment</head> or discipline ;</context>
+    </instance>
+    <instance id="v00234390_d_11" docsrc="v00234390_d">
+      <context> restrict movement to the dormitory or campus as a means of <head>punishment</head> ;</context>
+    </instance>
+    <instance id="v00748616_d_3" docsrc="v00748616_d">
+      <context> inflict as a <head>punishment</head> ;</context>
+    </instance>
+    <instance id="v00864910_d_12" docsrc="v00864910_d">
+      <context> curse or declare to be evil or anathema or threaten with divine <head>punishment</head> ;</context>
+    </instance>
+    <instance id="v00871405_d_6" docsrc="v00871405_d">
+      <context> to utter intentions of injury or <head>punishment</head> against :</context>
+    </instance>
+    <instance id="v01272582_d_14" docsrc="v01272582_d">
+      <context> smear the body of with tar and feathers ; done in some societies as <head>punishment</head> ;</context>
+    </instance>
+    <instance id="v01397210_d_13" docsrc="v01397210_d">
+      <context> give a beating to ; subject to a beating , either as a <head>punishment</head> or as an act of aggression ;</context>
+    </instance>
+    <instance id="v02108654_d_5" docsrc="v02108654_d">
+      <context> receive as a retribution or <head>punishment</head> ;</context>
+    </instance>
+    <instance id="v02307261_d_8" docsrc="v02307261_d">
+      <context> impose as a duty , burden , or <head>punishment</head> ;</context>
+    </instance>
+    <instance id="v02483267_d_7" docsrc="v02483267_d">
+      <context> kill as a means of socially sanctioned <head>punishment</head> ;</context>
+    </instance>
+    <instance id="v02499629_d_6" docsrc="v02499629_d">
+      <context> impose a penalty on ; inflict <head>punishment</head> on ;</context>
+    </instance>
+    <instance id="v02500144_d_2" docsrc="v02500144_d">
+      <context> inflict severe <head>punishment</head> on ;</context>
+    </instance>
+    <instance id="v02500397_d_1" docsrc="v02500397_d">
+      <context> receive <head>punishment</head> ;</context>
+    </instance>
+    <instance id="v02500489_d_1" docsrc="v02500489_d">
+      <context> receive <head>punishment</head> ; be scolded or reprimanded ;</context>
+    </instance>
+    <instance id="v02504280_d_9" docsrc="v02504280_d">
+      <context> ban from a place of residence , as for <head>punishment</head> ;</context>
+    </instance>
+    <instance id="v02644035_d_2" docsrc="v02644035_d">
+      <context> postpone the <head>punishment</head> of a convicted criminal , such as an execution ;</context>
+    </instance>
+  </lexelt>
+</corpus>

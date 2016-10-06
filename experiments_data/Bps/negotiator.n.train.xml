@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="negotiator.n" pos="NN">
+    <instance id="n07150328_d_4" docsrc="n07150328_d">
+      <context> a refusal by a <head>negotiator</head> to come to terms in the hope of obtaining a better deal ;</context>
+    </instance>
+    <instance id="n09624559_d_1" docsrc="n09624559_d">
+      <context> a <head>negotiator</head> who acts_as a link between parties ;</context>
+    </instance>
+    <instance id="n09839167_d_0" docsrc="n09839167_d">
+      <context> <head>negotiator</head> of the terms of a transaction ;</context>
+    </instance>
+    <instance id="n09970822_d_1" docsrc="n09970822_d">
+      <context> a <head>negotiator</head> willing to compromise ;</context>
+    </instance>
+    <instance id="n10180580_d_1" docsrc="n10180580_d">
+      <context> a <head>negotiator</head> who hopes to gain concessions by refusing to come to terms ;</context>
+    </instance>
+    <instance id="n10352208_d_2" docsrc="n10352208_d">
+      <context> a woman <head>negotiator</head> ;</context>
+    </instance>
+    <instance id="n10583916_d_1" docsrc="n10583916_d">
+      <context> a <head>negotiator</head> who settles disputes ;</context>
+    </instance>
+  </lexelt>
+</corpus>

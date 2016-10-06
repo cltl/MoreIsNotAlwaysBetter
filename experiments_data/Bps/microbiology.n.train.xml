@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="microbiology.n" pos="NN">
+    <instance id="n10313580_d_3" docsrc="n10313580_d">
+      <context> a specialist in <head>microbiology</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

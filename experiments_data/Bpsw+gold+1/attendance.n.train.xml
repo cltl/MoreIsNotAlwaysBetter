@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="attendance.n" pos="NN">
+    <instance id="br-e26#w1119_0" docsrc="br-e26">
+      <context> In 1803 Oersted returned to Copenhagen and applied for the university 's chair in physics but was rejected because he was probably considered more a philosopher than a physicist . However , he continued experimenting and lecturing , publishing the results of his experiments in German and Danish periodicals . In 1806 his ambition was realized and he became professor of physics at the Copenhagen_University , though not realizing full professorship ( ordinarius ) until 1817 . During Oersted 's <head>attendance</head> at the university , it was poorly equipped with physical apparatus for experimenting in the sciences . He was , however , fortunate in his contact with Prof._J._G._L._Manthey ( 1769 - 1842 ) , teacher of chemistry , who , in_addition to his academic chair , was also proprietor of the `` Lion_Pharmacy '' in Copenhagen where Oersted assisted him . Manthey maintained a valuable collection of physical and chemical apparatus which was at Oersted 's disposal during and after his graduation . In 1800 , Manthey went abroad and Oersted was appointed manager of the Lion_Pharmacy .</context>
+    </instance>
+    <instance id="br-e30#w342_0" docsrc="br-e30">
+      <context> When did you last compare your present premium costs with the costs of insurance from other sources ? Can your insurance_company aid you in reducing administrative costs ? Do you try to maintain the principle of employee contributed ( as opposed to fully company paid ) programs ? Do you protect your holiday privileges with an <head>attendance</head> requirement both before and after the holiday ? Do you plan to limit additional holidays to area and / or industrial patterns ? Have you investigated the possibility of moving midweek holidays forward to Monday or back to Friday in_order to have an uninterrupted work week ? Are you carefully policing wash-up time and rest periods to be certain that all other time is productive ?</context>
+    </instance>
+    <instance id="n01233627_d_1" docsrc="n01233627_d">
+      <context> formal <head>attendance</head> ( in court or at a hearing ) of a party in an action ;</context>
+    </instance>
+    <instance id="n01233917_d_0" docsrc="n01233917_d">
+      <context> <head>attendance</head> for a particular event or purpose ( as to vote in an election ) ;</context>
+    </instance>
+    <instance id="n03529175_d_31" docsrc="n03529175_d">
+      <context> a classroom in which all students in a particular grade ( or in a division of a grade ) meet at certain times under the supervision of a teacher who takes <head>attendance</head> and does other administrative business ;</context>
+    </instance>
+    <instance id="n06556692_d_12" docsrc="n06556692_d">
+      <context> a writ issued by authority of law ; usually compels the defendant's <head>attendance</head> in a civil_suit ; failure to appear results in a default_judgment against the defendant ;</context>
+    </instance>
+    <instance id="n06557047_d_9" docsrc="n06557047_d">
+      <context> a writ issued by court authority to compel the <head>attendance</head> of a witness at a judicial_proceeding ; disobedience may be punishable as a contempt_of_court ;</context>
+    </instance>
+    <instance id="n08185063_ex1_0" docsrc="n08185063_ex1">
+      <context> <head>attendance</head> was up by 50 per cent ;</context>
+    </instance>
+    <instance id="n10478118_d_10" docsrc="n10478118_d">
+      <context> someone who personally delivers a process ( a writ compelling <head>attendance</head> in court ) or court papers to the defendant ;</context>
+    </instance>
+  </lexelt>
+</corpus>

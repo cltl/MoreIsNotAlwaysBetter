@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="round.n" pos="NN">
+    <instance id="a02254778_d_25" docsrc="a02254778_d">
+      <context> ( of the more skilled contestants ) selectively arranged in the draw for position in a tournament so that they meet each other in later <head>rounds</head> ;</context>
+    </instance>
+    <instance id="br-a14#w1246_0" docsrc="br-a14">
+      <context> If such a paragon of perfection as Palmer could commit such a scoring sacrilege , there was hope left for all . It was neither a spirit of self-sacrifice nor a yen to encourage the downtrodden that motivated Arnold . He merely became victimized by a form of athletics that respects no one and aggravates all . The world 's best golfer , shooting below par , came to the last hole of the opening <head>round</head> of the Los_Angeles_open with every intention of delivering a final crusher . He boomed a 280 - yard drive . Then the pixies and the zombies took_over while the banshees wailed in the distance . On the narrow fairway of a 508 - yard hole , Arnold whipped into his second shot .</context>
+    </instance>
+    <instance id="br-e02#w1234_0" docsrc="br-e02">
+      <context> As_soon_as an experimental tug assures you that roots have taken_over , cut it off from the mother plant . A second and also good practice is to shear off the tops , leaving an inch high stub with just a leaf or two on each branch . These cut-down plants will bud and blossom in record time and will behave just as they did in early spring . I like to shear half my plants at_a_time , leaving one half of them to blossom while the second_half is getting_started on its new <head>round</head> of blooming . Probably no one needs to tell you that the way to stop all bloom is to let the blossoms go to seed . Nature 's aim , different from ours , is to provide for the coming generation . That done , her work is accomplished and she ignores the plant .</context>
+    </instance>
+    <instance id="br-j19#w1193_0" docsrc="br-j19">
+      <context> We can escape_from such a difficulty by ruling_out the animal as not constituting a trial , but such a solution is not always satisfactory . Each die has probability * * f of producing an ace ; the marksman has some probability p , perhaps 0.1 , of making a bull's-eye . Note that we need not know the value of p , for the experiment to be binomial . During a <head>round</head> of target_practice the sun comes from behind a cloud and dazzles the marksman , lowering his chance of a bull's-eye . Strictly_speaking , this means that the probability for each possible outcome of the experiment can be computed by multiplying together the probabilities of the possible outcomes of the single binomial trials . Thus in the three dice example * * f , * * f , and the independence assumption implies that the probability that the three dice fall ace , not ace , ace in that order is ( 1 6 ) ( 5 6 ) ( 1 6 ) . Experimentally , we expect independence when the trials have nothing to do with one another .</context>
+    </instance>
+    <instance id="br-n11#w263_0" docsrc="br-n11">
+      <context> He had received both first and second anonymous notices , and each time he had accused his neighbors of writing them . He had cursed at them and threatened them . He was a man , those neighbors testified later , who did n't have a friend in the world . William_Lewis made the <head>rounds</head> of all who lived near him again , that August morning after a bullet landed at his feet , and once_more he accused and threatened everyone . `` I 'll be ready next time '' ! he raged . `` I 'll be shootin ' right back '' . He had his chance the very next morning , for exactly the same thing happened again .</context>
+    </instance>
+    <instance id="n00415098_ex1_4" docsrc="n00415098_ex1">
+      <context> the doctor made his <head>rounds</head> ;</context>
+    </instance>
+    <instance id="n01055688_ex1_5" docsrc="n01055688_ex1">
+      <context> the doctor goes on his <head>rounds</head> first thing every morning ;</context>
+    </instance>
+    <instance id="n02907656_d_9" docsrc="n02907656_d">
+      <context> a belt-fed machine_gun capable of firing more than 500 <head>rounds</head> per minute ; used by United_States troops in World_War_II and the Korean_War ;</context>
+    </instance>
+    <instance id="n06692238_d_1" docsrc="n06692238_d">
+      <context> a <head>round</head> of applause to signify approval ;</context>
+    </instance>
+    <instance id="n07053089_ex1_3" docsrc="n07053089_ex1">
+      <context> they enjoyed singing <head>rounds</head> ;</context>
+    </instance>
+    <instance id="n07176499_d_5" docsrc="n07176499_d">
+      <context> you advance to the next <head>round</head> in a tournament without playing an opponent ;</context>
+    </instance>
+    <instance id="n07464969_d_9" docsrc="n07464969_d">
+      <context> a tournament in which losers are eliminated in successive <head>rounds</head> ;</context>
+    </instance>
+    <instance id="n07467393_d_9" docsrc="n07467393_d">
+      <context> one of the two competitions in the next_to the <head>round</head> of an elimination_tournament ;</context>
+    </instance>
+    <instance id="n07662406_d_4" docsrc="n07662406_d">
+      <context> roast cut from the <head>round</head> ; usually suitable for roasting ;</context>
+    </instance>
+    <instance id="n07884266_ex1_4" docsrc="n07884266_ex1">
+      <context> he ordered a second <head>round</head> ;</context>
+    </instance>
+    <instance id="n09417097_ex1_5" docsrc="n09417097_ex1">
+      <context> the story is going the <head>rounds</head> in Washington ;</context>
+    </instance>
+    <instance id="n10531694_d_12" docsrc="n10531694_d">
+      <context> a young_woman who holds up cards indicating the number of the next <head>round</head> at prize_fights ;</context>
+    </instance>
+    <instance id="v00658913_d_13" docsrc="v00658913_d">
+      <context> distribute so that outstanding teams or players will not meet in the early <head>rounds</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

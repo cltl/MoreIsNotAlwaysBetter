@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="addition.n" pos="NN">
+    <instance id="Addition-addition-0-1390-2" docsrc="Addition">
+      <context> <head>In</head> category theory , disjoint union is seen as a particular case of the coproduct operation , and general coproducts are perhaps the most abstract of all the generalizations of addition . Some coproducts , such as Direct sum and Wedge sum , are named to evoke their connection with addition . Addition , along with subtraction , multiplication and division , is considered one of the basic operations and is used in elementary arithmetic .</context>
+    </instance>
+    <instance id="Addition-addition-0-154-2" docsrc="Addition">
+      <context> <head>The</head> plus sign " + " ( Unicode:U+002B ; ASCII : &amp;#43 ; ) is an abbreviation of the Latin word et , meaning " and " . It appears in mathematical works dating back to at least 1489 . Addition is used to model countless physical processes .</context>
+    </instance>
+    <instance id="Addition-addition-0-179-1" docsrc="Addition">
+      <context> <head>The</head> unary view is also useful when discussing subtraction , because each unary addition operation has an inverse unary subtraction operation , and vice versa . === Commutativity === Addition is commutative : one can change the order of the terms in a sum , and the result is the same .</context>
+    </instance>
+    <instance id="Addition-addition-0-186-1" docsrc="Addition">
+      <context> <head>However</head> , many binary operations are not commutative , such as subtraction and division , so it is misleading to speak of an unqualified " commutative law " . === Associativity === Addition is associative : when adding three or more numbers , the order of operations does not matter .</context>
+    </instance>
+    <instance id="Addition-addition-0-2-2" docsrc="Addition">
+      <context> <head>In</head> arithmetic , rules for addition involving fractions and negative numbers have been devised amongst others . In algebra , addition is studied more abstractly . Addition has several important properties .</context>
+    </instance>
+    <instance id="Addition-addition-0-3-3" docsrc="Addition">
+      <context> <head>It</head> is commutative , meaning that order does not matter , and it is associative , meaning that when one adds more than two numbers , the order in which addition is performed does not matter ( see Summation ) . Repeated addition of 1 is the same as counting ; addition of 0 does not change a number . Addition also obeys predictable rules concerning related operations such as subtraction and multiplication .</context>
+    </instance>
+    <instance id="Addition-addition-0-3-4" docsrc="Addition">
+      <context> <head>Repeated</head> addition of 1 is the same as counting ; addition of 0 does not change a number . Addition also obeys predictable rules concerning related operations such as subtraction and multiplication . Addition is written using the plus sign " + " between the terms ; that is , in infix notation .</context>
+    </instance>
+    <instance id="Addition-addition-0-313-1" docsrc="Addition">
+      <context> <head>   </head> { \displaystyle 10^{b } }    is the exponential part . Addition requires two numbers in scientific notation to be represented using the same exponential part , so that the significand can be simply added or subtracted .</context>
+    </instance>
+    <instance id="Addition-addition-0-395-1" docsrc="Addition">
+      <context> <head>Proceeding</head> like this gives the final answer 1001002 ( 36 decimal ) . === Computers === Addition is also fundamental to the operation of digital computers , where the efficiency of addition , in particular the carry mechanism , is an important limitation to overall performance .</context>
+    </instance>
+    <instance id="Addition-addition-0-410-1" docsrc="Addition">
+      <context> <head>One</head> especially notable such error was the Y2K bug , where overflow errors due to using a 2-digit format for years caused significant computer problems in 2000 . To prove the usual properties of addition , one must first define addition for the context in question . Addition is first defined on the natural numbers .</context>
+    </instance>
+    <instance id="Addition-addition-0-442-2" docsrc="Addition">
+      <context> <head>A</head> much more convenient conception of the integers is the Grothendieck group construction . The essential observation is that every integer can be expressed ( not uniquely ) as the difference of two natural numbers , so we may as well define an integer as the difference of two natural numbers . Addition is then defined to be compatible with subtraction :</context>
+    </instance>
+    <instance id="Addition-addition-0-446-1" docsrc="Addition">
+      <context> <head>Given</head> two integers a − b and c − d , where a , b , c , and d are natural numbers , define ( a − b ) + ( c − d ) = ( a + c ) − ( b + d ) . === Rational numbers ( fractions ) === Addition of rational numbers can be computed using the least common denominator , but a conceptually simpler definition involves only integer addition and multiplication :</context>
+    </instance>
+    <instance id="Addition-addition-0-550-1" docsrc="Addition">
+      <context> <head>   </head> { \displaystyle { \frac { 3}{4}}+{\frac { 1}{8}}={\frac { 3\times 8+4\times 1}{4\times 8}}={\frac { 24+4}{32}}={\frac { 28}{32}}={\frac { 7}{8 } } }   . Addition of fractions is much simpler when the denominators are the same ; in this case , one can simply add the numerators while leaving the denominator the same :</context>
+    </instance>
+    <instance id="Addition-addition-1-0-1" docsrc="Addition">
+      <context> Addition <head>(</head> often signified by the plus symbol " + " ) is one of the four basic operations of arithmetic , with the others being subtraction , multiplication and division . The addition of two whole numbers is the total amount of those quantities combined .</context>
+    </instance>
+    <instance id="Addition-addition-1-1385-2" docsrc="Addition">
+      <context> The <head>general</head> theory of abstract algebra allows an " addition " operation to be any associative and commutative operation on a set . Basic algebraic structures with such an addition operation include commutative monoids and abelian groups . === Addition in set theory and category theory ===</context>
+    </instance>
+    <instance id="Addition-addition-1-189-1" docsrc="Addition">
+      <context> Addition <head>is</head> associative : when adding three or more numbers , the order of operations does not matter . As an example , should the expression a + b + c be defined to mean ( a + b ) + c or a + ( b + c ) ? That addition is associative tells us that the choice of definition is irrelevant .</context>
+    </instance>
+    <instance id="Addition-addition-1-189-4" docsrc="Addition">
+      <context> For <head>any</head> three numbers a , b , and c , it is true that ( a + b ) + c = a + ( b + c ) . For example , ( 1 + 2 ) + 3 = 3 + 3 = 6 = 1 + 5 = 1 + ( 2 + 3 ) . When addition is used together with other operations , the order of operations becomes important .</context>
+    </instance>
+    <instance id="Addition-addition-1-230-1" docsrc="Addition">
+      <context> More <head>recently</head> , Asian elephants have demonstrated an ability to perform basic arithmetic . === Learning addition as children === ==== Addition table ====</context>
+    </instance>
+    <instance id="Addition-addition-1-260-3" docsrc="Addition">
+      <context> An <head>alternate</head> strategy starts adding from the most significant digit on the left ; this route makes carrying a little clumsier , but it is faster at getting a rough estimate of the sum . There are many alternative methods . ==== Addition of decimal fractions ====</context>
+    </instance>
+    <instance id="Addition-addition-1-3-2" docsrc="Addition">
+      <context> Addition <head>has</head> several important properties . It is commutative , meaning that order does not matter , and it is associative , meaning that when one adds more than two numbers , the order in which addition is performed does not matter ( see Summation ) . Repeated addition of 1 is the same as counting ; addition of 0 does not change a number .</context>
+    </instance>
+    <instance id="Addition-addition-1-371-1" docsrc="Addition">
+      <context>     <head>{</head> \displaystyle 2.34\times 10^{-5}+5.67\times 10^{-6}=2.34\times 10^{-5}+0.567\times 10^{-5}=2.907\times 10^{-5 } }   === Addition in other bases ===</context>
+    </instance>
+    <instance id="Addition-addition-1-758-2" docsrc="Addition">
+      <context> There <head>are</head> many binary operations that can be viewed as generalizations of the addition operation on the real numbers . The field of abstract algebra is centrally concerned with such generalized operations , and they also appear in set theory and category theory . === Addition in abstract algebra ===</context>
+    </instance>
+    <instance id="Addition-addition-1-767-1" docsrc="Addition">
+      <context> The <head>sum</head> of two vectors is obtained by adding their individual coordinates : ( a,b ) + ( c,d ) = ( a+c,b+d ) . This addition operation is central to classical mechanics , in which vectors are interpreted as forces .</context>
+    </instance>
+    <instance id="Addition-addition-1-771-1" docsrc="Addition">
+      <context> This <head>addition</head> operation is central to classical mechanics , in which vectors are interpreted as forces . ==== Matrix addition ==== Matrix addition is defined for two matrices of the same dimensions .</context>
+    </instance>
+    <instance id="Addition-addition-10-149-1" docsrc="Addition">
+      <context>     { \displaystyle \sum _{k=1}^{5}k^{2}=1^{2}+2^{2}+3^{2}+4^{2}+5^{2}=55 . }   The numbers <head>or</head> the objects to be added in general addition are collectively referred to as the terms , the addends or the summands ; this terminology carries over to the summation of multiple terms .</context>
+    </instance>
+    <instance id="Addition-addition-10-3-2" docsrc="Addition">
+      <context> Addition has several important properties . It is commutative , <head>meaning</head> that order does not matter , and it is associative , meaning that when one adds more than two numbers , the order in which addition is performed does not matter ( see Summation ) . Repeated addition of 1 is the same as counting ; addition of 0 does not change a number .</context>
+    </instance>
+    <instance id="Addition-addition-11-1399-1" docsrc="Addition">
+      <context> Subtraction is itself a sort of inverse to addition , in <head>that</head> adding x and subtracting x are inverse functions . Given a set with an addition operation , one can not always define a corresponding subtraction operation on that set ; the set of natural numbers is a simple example . On the other hand , a subtraction operation uniquely determines an addition operation , an additive inverse operation , and an additive identity ; for this reason , an additive group can be described as a set that is closed under subtraction .</context>
+    </instance>
+    <instance id="Addition-addition-11-1405-2" docsrc="Addition">
+      <context> There are even more generalizations of multiplication than addition . In <head>general</head> , multiplication operations always distribute over addition ; this requirement is formalized in the definition of a ring . In some contexts , such as the integers , distributivity over addition and the existence of a multiplicative identity is enough to uniquely determine the multiplication operation .</context>
+    </instance>
+    <instance id="Addition-addition-11-1406-1" docsrc="Addition">
+      <context> For this reason , ring addition is commutative in general . <head>Division</head> is an arithmetic operation remotely related to addition . Since a/b = a(b−1 ) , division is right distributive over addition : ( a + b ) / c = a / c + b / c.</context>
+    </instance>
+    <instance id="Addition-addition-11-1413-1" docsrc="Addition">
+      <context> Accordingly , there is no subtraction operation for infinite cardinals . <head>Maximization</head> is commutative and associative , like addition . Furthermore , since addition preserves the ordering of real numbers , addition distributes over " max " in the same way that multiplication distributes over addition :</context>
+    </instance>
+    <instance id="Addition-addition-11-1414-1" docsrc="Addition">
+      <context> Furthermore , since addition preserves the ordering of real numbers , <head>addition</head> distributes over " max " in the same way that multiplication distributes over addition : a + max ( b , c ) = max ( a + b , a + c ) . For these reasons , in tropical geometry one replaces multiplication with addition and addition with maximization .</context>
+    </instance>
+    <instance id="Addition-addition-11-1472-1" docsrc="Addition">
+      <context> In this sense , the maximum operation is a dequantized version <head>of</head> addition . === Other ways to add === Incrementation , also known as the successor operation , is the addition of 1 to a number .</context>
+    </instance>
+    <instance id="Addition-addition-11-197-2" docsrc="Addition">
+      <context> This law was first identified in Brahmagupta 's Brahmasphutasiddhanta in 628 <head>AD</head> , although he wrote it as three separate laws , depending on whether a is negative , positive , or zero itself , and he used words rather than algebraic symbols . Later Indian mathematicians refined the concept ; around the year 830 , Mahavira wrote , " zero becomes the same as what is added to it " , corresponding to the unary statement 0 + a = a. In the 12th century , Bhaskara wrote , " In the addition of cipher , or subtraction of it , the quantity , positive or negative , remains the same " , corresponding to the unary statement a + 0 = a.</context>
+    </instance>
+    <instance id="Addition-addition-12-1415-3" docsrc="Addition">
+      <context> In this context , addition is called " tropical multiplication " , <head>maximization</head> is called " tropical addition " , and the tropical " additive identity " is negative infinity . Some authors prefer to replace addition with minimization ; then the additive identity is positive infinity . Tying these observations together , tropical addition is approximately related to regular addition through the logarithm :</context>
+    </instance>
+    <instance id="Addition-addition-12-1468-1" docsrc="Addition">
+      <context>     { \displaystyle \max(a,b)=\lim _{h\to 0}h\log(e^{a/h}+e^{b/h } ) . }   In <head>this</head> sense , the maximum operation is a dequantized version of addition .</context>
+    </instance>
+    <instance id="Addition-addition-12-406-4" docsrc="Addition">
+      <context> Such overflow bugs may be hard to discover and diagnose because they <head>may</head> manifest themselves only for very large input data sets , which are less likely to be used in validation tests . One especially notable such error was the Y2K bug , where overflow errors due to using a 2-digit format for years caused significant computer problems in 2000 . To prove the usual properties of addition , one must first define addition for the context in question .</context>
+    </instance>
+    <instance id="Addition-addition-12-753-1" docsrc="Addition">
+      <context>     { \displaystyle ( a+bi)+(c+di)=(a+c)+(b+d)i.\ }   Using the visualization of complex <head>numbers</head> in the complex plane , the addition has the following geometric interpretation : the sum of two complex numbers A and B , interpreted as points of the complex plane , is the point X obtained by building a parallelogram three of whose vertices are O , A and B. Equivalently , X is the point such that the triangles with vertices O , A , B , and X , B , A , are congruent .</context>
+    </instance>
+    <instance id="Addition-addition-13-1397-1" docsrc="Addition">
+      <context> Addition , along with subtraction , multiplication and division , is considered one <head>of</head> the basic operations and is used in elementary arithmetic . === Arithmetic === Subtraction can be thought of as a kind of addition—that is , the addition of an additive inverse .</context>
+    </instance>
+    <instance id="Addition-addition-13-1414-1" docsrc="Addition">
+      <context> Furthermore , since addition preserves the ordering of real numbers , addition distributes <head>over</head> " max " in the same way that multiplication distributes over addition : a + max ( b , c ) = max ( a + b , a + c ) . For these reasons , in tropical geometry one replaces multiplication with addition and addition with maximization .</context>
+    </instance>
+    <instance id="Addition-addition-13-165-2" docsrc="Addition">
+      <context> This interpretation is easy to visualize , with little danger of ambiguity . <head>It</head> is also useful in higher mathematics ; for the rigorous definition it inspires , see Natural numbers below . However , it is not obvious how one should extend this version of addition to include fractional numbers or negative numbers .</context>
+    </instance>
+    <instance id="Addition-addition-13-173-2" docsrc="Addition">
+      <context> The sum a + b can be interpreted as a binary operation that <head>combines</head> a and b , in an algebraic sense , or it can be interpreted as the addition of b more units to a. Under the latter interpretation , the parts of a sum a + b play asymmetric roles , and the operation a + b is viewed as applying the unary operation +b to a. Instead of calling both a and b addends , it is more appropriate to call a the augend in this case , since a plays a passive role . The unary view is also useful when discussing subtraction , because each unary addition operation has an inverse unary subtraction operation , and vice versa .</context>
+    </instance>
+    <instance id="Addition-addition-13-243-1" docsrc="Addition">
+      <context> One or two more : Adding 1 or 2 is a basic task <head>,</head> and it can be accomplished through counting on or , ultimately , intuition . Zero : Since zero is the additive identity , adding zero is trivial . Nonetheless , in the teaching of arithmetic , some students are introduced to addition as a process that always increases the addends ; word problems may help rationalize the " exception " of zero .</context>
+    </instance>
+    <instance id="Addition-addition-13-754-1" docsrc="Addition">
+      <context>   Using the visualization of complex numbers in the complex plane , the <head>addition</head> has the following geometric interpretation : the sum of two complex numbers A and B , interpreted as points of the complex plane , is the point X obtained by building a parallelogram three of whose vertices are O , A and B. Equivalently , X is the point such that the triangles with vertices O , A , B , and X , B , A , are congruent . There are many binary operations that can be viewed as generalizations of the addition operation on the real numbers .</context>
+    </instance>
+    <instance id="Addition-addition-14-182-1" docsrc="Addition">
+      <context> Symbolically , if a and b are any two numbers , then a + <head>b</head> = b + a. The fact that addition is commutative is known as the " commutative law of addition " .</context>
+    </instance>
+    <instance id="Addition-addition-15-395-1" docsrc="Addition">
+      <context> Proceeding like this gives the final answer 1001002 ( 36 decimal ) . === Computers <head>===</head> Addition is also fundamental to the operation of digital computers , where the efficiency of addition , in particular the carry mechanism , is an important limitation to overall performance .</context>
+    </instance>
+    <instance id="Addition-addition-17-1415-1" docsrc="Addition">
+      <context> a + max ( b , c ) = max ( a + b , a + <head>c</head> ) . For these reasons , in tropical geometry one replaces multiplication with addition and addition with maximization . In this context , addition is called " tropical multiplication " , maximization is called " tropical addition " , and the tropical " additive identity " is negative infinity .</context>
+    </instance>
+    <instance id="Addition-addition-18-1390-1" docsrc="Addition">
+      <context> === Addition in set theory and category theory === In category theory , disjoint union is seen as <head>a</head> particular case of the coproduct operation , and general coproducts are perhaps the most abstract of all the generalizations of addition . Some coproducts , such as Direct sum and Wedge sum , are named to evoke their connection with addition .</context>
+    </instance>
+    <instance id="Addition-addition-19-193-1" docsrc="Addition">
+      <context> In the standard order of operations , addition is a lower priority than exponentiation , nth roots , multiplication <head>and</head> division , but is given equal priority to subtraction . === Identity element === When adding zero to any number , the quantity does not change ; zero is the identity element for addition , also known as the additive identity .</context>
+    </instance>
+    <instance id="Addition-addition-2-1379-1" docsrc="Addition">
+      <context>   ==== <head>Modular</head> arithmetic ==== ==== General addition ====</context>
+    </instance>
+    <instance id="Addition-addition-2-227-4" docsrc="Addition">
+      <context> More dramatically <head>,</head> after being taught the meanings of the Arabic numerals 0 through 4 , one chimpanzee was able to compute the sum of two numerals without further training . More recently , Asian elephants have demonstrated an ability to perform basic arithmetic . === Learning addition as children ===</context>
+    </instance>
+    <instance id="Addition-addition-2-761-1" docsrc="Addition">
+      <context> The field <head>of</head> abstract algebra is centrally concerned with such generalized operations , and they also appear in set theory and category theory . === Addition in abstract algebra === ==== Vector addition ====</context>
+    </instance>
+    <instance id="Addition-addition-2-768-1" docsrc="Addition">
+      <context> ( a,b <head>)</head> + ( c,d ) = ( a+c,b+d ) . This addition operation is central to classical mechanics , in which vectors are interpreted as forces . ==== Matrix addition ====</context>
+    </instance>
+    <instance id="Addition-addition-21-239-1" docsrc="Addition">
+      <context> Knowing this , one can perform any addition . === Decimal system === Commutative property : Mentioned above , using the <head>pattern</head> a + b = b + a reduces the number of " addition facts " from 100 to 55 .</context>
+    </instance>
+    <instance id="Addition-addition-21-446-1" docsrc="Addition">
+      <context> Given two integers a − b and c − d , where a , b , c , and d are <head>natural</head> numbers , define ( a − b ) + ( c − d ) = ( a + c ) − ( b + d ) . === Rational numbers ( fractions ) === Addition of rational numbers can be computed using the least common denominator , but a conceptually simpler definition involves only integer addition and multiplication :</context>
+    </instance>
+    <instance id="Addition-addition-25-1413-1" docsrc="Addition">
+      <context> Accordingly , there is no subtraction operation for infinite cardinals . Maximization is commutative and associative , like addition . Furthermore , since addition preserves <head>the</head> ordering of real numbers , addition distributes over " max " in the same way that multiplication distributes over addition :</context>
+    </instance>
+    <instance id="Addition-addition-27-1405-3" docsrc="Addition">
+      <context> In general , multiplication operations always distribute over addition ; this requirement is formalized in the definition of a ring . In some contexts , such as <head>the</head> integers , distributivity over addition and the existence of a multiplicative identity is enough to uniquely determine the multiplication operation . The distributive property also provides information about addition ; by expanding the product ( 1 + 1)(a + b ) in both ways , one concludes that addition is forced to be commutative .</context>
+    </instance>
+    <instance id="Addition-addition-3-1413-1" docsrc="Addition">
+      <context> Accordingly , there <head>is</head> no subtraction operation for infinite cardinals . Maximization is commutative and associative , like addition . Furthermore , since addition preserves the ordering of real numbers , addition distributes over " max " in the same way that multiplication distributes over addition :</context>
+    </instance>
+    <instance id="Addition-addition-3-1473-1" docsrc="Addition">
+      <context> === Other ways <head>to</head> add === Incrementation , also known as the successor operation , is the addition of 1 to a number . Summation describes the addition of arbitrarily many numbers , usually more than just two .</context>
+    </instance>
+    <instance id="Addition-addition-3-182-1" docsrc="Addition">
+      <context> Symbolically , if <head>a</head> and b are any two numbers , then a + b = b + a. The fact that addition is commutative is known as the " commutative law of addition " .</context>
+    </instance>
+    <instance id="Addition-addition-3-2-1" docsrc="Addition">
+      <context> Using systematic generalizations <head>,</head> addition can also be defined on more abstract quantities , such as integers , rational numbers , real numbers and complex numbers and other abstract objects such as vectors and matrices . In arithmetic , rules for addition involving fractions and negative numbers have been devised amongst others . In algebra , addition is studied more abstractly .</context>
+    </instance>
+    <instance id="Addition-addition-30-1388-1" docsrc="Addition">
+      <context> Basic algebraic structures with such an addition operation include commutative monoids and abelian groups . === Addition in set theory and category theory === In category theory , disjoint union <head>is</head> seen as a particular case of the coproduct operation , and general coproducts are perhaps the most abstract of all the generalizations of addition .</context>
+    </instance>
+    <instance id="Addition-addition-30-153-2" docsrc="Addition">
+      <context> " Sum " and " summand " derive from the Latin noun summa " the highest , the top " and associated verb summare . This is appropriate not only <head>because</head> the sum of two positive numbers is greater than either , but because it was common for the ancient Greeks and Romans to add upward , contrary to the modern practice of adding downward , so that a sum was literally higher than the addends . Addere and summare date back at least to Boethius , if not to earlier Roman writers such as Vitruvius and Frontinus ; Boethius also used several other terms for the addition operation .</context>
+    </instance>
+    <instance id="Addition-addition-30-172-1" docsrc="Addition">
+      <context> A second interpretation of addition comes from extending an initial length by a given length : When an original length is extended by a given amount , the final length <head>is</head> the sum of the original length and the length of the extension . The sum a + b can be interpreted as a binary operation that combines a and b , in an algebraic sense , or it can be interpreted as the addition of b more units to a.</context>
+    </instance>
+    <instance id="Addition-addition-30-3-1" docsrc="Addition">
+      <context> In algebra , addition is studied more abstractly . Addition has several important properties . It is commutative , meaning that order does not matter , and it is associative <head>,</head> meaning that when one adds more than two numbers , the order in which addition is performed does not matter ( see Summation ) .</context>
+    </instance>
+    <instance id="Addition-addition-4-0-4" docsrc="Addition">
+      <context> For example , in <head>the</head> picture on the right , there is a combination of three apples and two apples together , making a total of five apples . This observation is equivalent to the mathematical expression " 3 + 2 = 5 " i.e. , " 3 add 2 is equal to 5 " . Besides counting fruits , addition can also represent combining other physical objects .</context>
+    </instance>
+    <instance id="Addition-addition-4-1-1" docsrc="Addition">
+      <context> This observation is equivalent <head>to</head> the mathematical expression " 3 + 2 = 5 " i.e. , " 3 add 2 is equal to 5 " . Besides counting fruits , addition can also represent combining other physical objects . Using systematic generalizations , addition can also be defined on more abstract quantities , such as integers , rational numbers , real numbers and complex numbers and other abstract objects such as vectors and matrices .</context>
+    </instance>
+    <instance id="Addition-addition-4-1415-1" docsrc="Addition">
+      <context> a + max ( <head>b</head> , c ) = max ( a + b , a + c ) . For these reasons , in tropical geometry one replaces multiplication with addition and addition with maximization . In this context , addition is called " tropical multiplication " , maximization is called " tropical addition " , and the tropical " additive identity " is negative infinity .</context>
+    </instance>
+    <instance id="Addition-addition-4-169-2" docsrc="Addition">
+      <context> === Extending a length <head>===</head> A second interpretation of addition comes from extending an initial length by a given length :</context>
+    </instance>
+    <instance id="Addition-addition-4-410-2" docsrc="Addition">
+      <context> To prove the usual <head>properties</head> of addition , one must first define addition for the context in question . Addition is first defined on the natural numbers . In set theory , addition is then extended to progressively larger sets that include the natural numbers : the integers , the rational numbers , and the real numbers .</context>
+    </instance>
+    <instance id="Addition-addition-4-433-4" docsrc="Addition">
+      <context> On the other hand <head>,</head> some sources prefer to use a restricted Recursion Theorem that applies only to the set of natural numbers . One then considers a to be temporarily " fixed " , applies recursion on b to define a function " a + " , and pastes these unary operations for all a together to form the full binary operation . This recursive formulation of addition was developed by Dedekind as early as 1854 , and he would expand upon it in the following decades .</context>
+    </instance>
+    <instance id="Addition-addition-4-439-2" docsrc="Addition">
+      <context> The simplest conception of <head>an</head> integer is that it consists of an absolute value ( which is a natural number ) and a sign ( generally either positive or negative ) . The integer zero is a special third case , being neither positive nor negative . The corresponding definition of addition must proceed by cases :</context>
+    </instance>
+    <instance id="Addition-addition-5-1-2" docsrc="Addition">
+      <context> Besides counting fruits , addition <head>can</head> also represent combining other physical objects . Using systematic generalizations , addition can also be defined on more abstract quantities , such as integers , rational numbers , real numbers and complex numbers and other abstract objects such as vectors and matrices . In arithmetic , rules for addition involving fractions and negative numbers have been devised amongst others .</context>
+    </instance>
+    <instance id="Addition-addition-5-1398-2" docsrc="Addition">
+      <context> Subtraction can be thought of <head>as</head> a kind of addition—that is , the addition of an additive inverse . Subtraction is itself a sort of inverse to addition , in that adding x and subtracting x are inverse functions . Given a set with an addition operation , one can not always define a corresponding subtraction operation on that set ; the set of natural numbers is a simple example .</context>
+    </instance>
+    <instance id="Addition-addition-5-1405-4" docsrc="Addition">
+      <context> In some contexts , such <head>as</head> the integers , distributivity over addition and the existence of a multiplicative identity is enough to uniquely determine the multiplication operation . The distributive property also provides information about addition ; by expanding the product ( 1 + 1)(a + b ) in both ways , one concludes that addition is forced to be commutative . For this reason , ring addition is commutative in general .</context>
+    </instance>
+    <instance id="Addition-addition-5-1415-2" docsrc="Addition">
+      <context> For these reasons , in <head>tropical</head> geometry one replaces multiplication with addition and addition with maximization . In this context , addition is called " tropical multiplication " , maximization is called " tropical addition " , and the tropical " additive identity " is negative infinity . Some authors prefer to replace addition with minimization ; then the additive identity is positive infinity .</context>
+    </instance>
+    <instance id="Addition-addition-5-252-2" docsrc="Addition">
+      <context> The standard algorithm for adding <head>multidigit</head> numbers is to align the addends vertically and add the columns , starting from the ones column on the right . If a column exceeds ten , the extra digit is " carried " into the next column . For example , in the addition 27 + 59</context>
+    </instance>
+    <instance id="Addition-addition-5-384-1" docsrc="Addition">
+      <context> 7 + 9 → 6 <head>,</head> carry 1 ( since 7 + 9 = 16 = 6 + ( 1 × 101 ) ) This is known as carrying . When the result of an addition exceeds the value of a digit , the procedure is to " carry " the excess amount divided by the radix ( that is , 10/10 ) to the left , adding it to the next positional value .</context>
+    </instance>
+    <instance id="Addition-addition-5-80-1" docsrc="Addition">
+      <context>     { \displaystyle 3+3+3+3=12 } <head>  </head> ( see " multiplication " below ) There are also situations where addition is " understood " even though no symbol appears :</context>
+    </instance>
+    <instance id="Addition-addition-6-1385-1" docsrc="Addition">
+      <context> ==== General addition ==== The general <head>theory</head> of abstract algebra allows an " addition " operation to be any associative and commutative operation on a set . Basic algebraic structures with such an addition operation include commutative monoids and abelian groups .</context>
+    </instance>
+    <instance id="Addition-addition-6-1415-3" docsrc="Addition">
+      <context> In this context , addition is <head>called</head> " tropical multiplication " , maximization is called " tropical addition " , and the tropical " additive identity " is negative infinity . Some authors prefer to replace addition with minimization ; then the additive identity is positive infinity . Tying these observations together , tropical addition is approximately related to regular addition through the logarithm :</context>
+    </instance>
+    <instance id="Addition-addition-6-161-1" docsrc="Addition">
+      <context> Even for the simple case of <head>adding</head> natural numbers , there are many possible interpretations and even more visual representations . === Combining sets === Possibly the most fundamental interpretation of addition lies in combining sets :</context>
+    </instance>
+    <instance id="Addition-addition-6-200-1" docsrc="Addition">
+      <context> In the 12th century , Bhaskara <head>wrote</head> , " In the addition of cipher , or subtraction of it , the quantity , positive or negative , remains the same " , corresponding to the unary statement a + 0 = a. === Successor === In the context of integers , addition of one also plays a special role : for any integer a , the integer ( a + 1 ) is the least integer greater than a , also known as the successor of a.</context>
+    </instance>
+    <instance id="Addition-addition-6-214-1" docsrc="Addition">
+      <context>         { \displaystyle b^{th } <head>}</head>    successor of a , making addition iterated succession .</context>
+    </instance>
+    <instance id="Addition-addition-6-235-1" docsrc="Addition">
+      <context> === Learning addition as children === <head>====</head> Addition table ==== Children are often presented with the addition table of pairs of numbers from 1 to 10 to memorize .</context>
+    </instance>
+    <instance id="Addition-addition-6-264-3" docsrc="Addition">
+      <context> One aligns two decimal fractions above <head>each</head> other , with the decimal point in the same location . If necessary , one can add trailing zeros to a shorter decimal to make it the same length as the longer decimal . Finally , one performs the same addition process as above , except the decimal point is placed in the answer , exactly where it was placed in the summands .</context>
+    </instance>
+    <instance id="Addition-addition-6-406-4" docsrc="Addition">
+      <context> Such overflow bugs may be hard <head>to</head> discover and diagnose because they may manifest themselves only for very large input data sets , which are less likely to be used in validation tests . One especially notable such error was the Y2K bug , where overflow errors due to using a 2-digit format for years caused significant computer problems in 2000 . To prove the usual properties of addition , one must first define addition for the context in question .</context>
+    </instance>
+    <instance id="Addition-addition-6-620-1" docsrc="Addition">
+      <context>     { \displaystyle { \frac { <head>1}{4}}+{\frac</head> { 2}{4}}={\frac { 1+2}{4}}={\frac { 3}{4 } } }   . The commutativity and associativity of rational addition is an easy consequence of the laws of integer arithmetic .</context>
+    </instance>
+    <instance id="Addition-addition-6-653-1" docsrc="Addition">
+      <context>   This definition was first published <head>,</head> in a slightly modified form , by Richard Dedekind in 1872 . The commutativity and associativity of real addition are immediate ; defining the real number 0 to be the set of negative rationals , it is easily seen to be the additive identity .</context>
+    </instance>
+    <instance id="Addition-addition-7-1399-2" docsrc="Addition">
+      <context> Given a set with an addition operation <head>,</head> one can not always define a corresponding subtraction operation on that set ; the set of natural numbers is a simple example . On the other hand , a subtraction operation uniquely determines an addition operation , an additive inverse operation , and an additive identity ; for this reason , an additive group can be described as a set that is closed under subtraction . Multiplication can be thought of as repeated addition .</context>
+    </instance>
+    <instance id="Addition-addition-7-1400-3" docsrc="Addition">
+      <context> If a single term x appears in <head>a</head> sum n times , then the sum is the product of n and x. If n is not a natural number , the product may still make sense ; for example , multiplication by −1 yields the additive inverse of a number . In the real and complex numbers , addition and multiplication can be interchanged by the exponential function :</context>
+    </instance>
+    <instance id="Addition-addition-7-1405-3" docsrc="Addition">
+      <context> In general , multiplication operations always distribute <head>over</head> addition ; this requirement is formalized in the definition of a ring . In some contexts , such as the integers , distributivity over addition and the existence of a multiplicative identity is enough to uniquely determine the multiplication operation . The distributive property also provides information about addition ; by expanding the product ( 1 + 1)(a + b ) in both ways , one concludes that addition is forced to be commutative .</context>
+    </instance>
+    <instance id="Addition-addition-7-1412-2" docsrc="Addition">
+      <context> The approximation becomes exact in a kind <head>of</head> infinite limit ; if either a or b is an infinite cardinal number , their cardinal sum is exactly equal to the greater of the two . Accordingly , there is no subtraction operation for infinite cardinals . Maximization is commutative and associative , like addition .</context>
+    </instance>
+    <instance id="Addition-addition-7-190-1" docsrc="Addition">
+      <context> For example , ( 1 + 2 <head>)</head> + 3 = 3 + 3 = 6 = 1 + 5 = 1 + ( 2 + 3 ) . When addition is used together with other operations , the order of operations becomes important . In the standard order of operations , addition is a lower priority than exponentiation , nth roots , multiplication and division , but is given equal priority to subtraction .</context>
+    </instance>
+    <instance id="Addition-addition-7-236-1" docsrc="Addition">
+      <context> ==== Addition table ==== Children are often <head>presented</head> with the addition table of pairs of numbers from 1 to 10 to memorize . Knowing this , one can perform any addition .</context>
+    </instance>
+    <instance id="Addition-addition-8-1398-1" docsrc="Addition">
+      <context> === Arithmetic === Subtraction can be thought of <head>as</head> a kind of addition—that is , the addition of an additive inverse . Subtraction is itself a sort of inverse to addition , in that adding x and subtracting x are inverse functions .</context>
+    </instance>
+    <instance id="Addition-addition-8-1403-1" docsrc="Addition">
+      <context> In the real and complex numbers , addition <head>and</head> multiplication can be interchanged by the exponential function : ea + b = ea eb . There are even more generalizations of multiplication than addition .</context>
+    </instance>
+    <instance id="Addition-addition-8-1405-1" docsrc="Addition">
+      <context> ea + b = ea eb . There <head>are</head> even more generalizations of multiplication than addition . In general , multiplication operations always distribute over addition ; this requirement is formalized in the definition of a ring .</context>
+    </instance>
+    <instance id="Addition-addition-8-1405-5" docsrc="Addition">
+      <context> The distributive property also provides information about addition <head>;</head> by expanding the product ( 1 + 1)(a + b ) in both ways , one concludes that addition is forced to be commutative . For this reason , ring addition is commutative in general . Division is an arithmetic operation remotely related to addition .</context>
+    </instance>
+    <instance id="Addition-addition-8-1406-2" docsrc="Addition">
+      <context> Division is an arithmetic operation remotely related to <head>addition</head> . Since a/b = a(b−1 ) , division is right distributive over addition : ( a + b ) / c = a / c + b / c. However , division is not left distributive over addition ; 1/ ( 2 + 2 ) is not the same as 1/2 + 1/2 .</context>
+    </instance>
+    <instance id="Addition-addition-8-150-4" docsrc="Addition">
+      <context> Some authors call the first addend the augend <head>.</head> In fact , during the Renaissance , many authors did not consider the first addend an " addend " at all . Today , due to the commutative property of addition , " augend " is rarely used , and both terms are generally called addends .</context>
+    </instance>
+    <instance id="Addition-addition-9-1384-1" docsrc="Addition">
+      <context> ==== Modular arithmetic ==== ==== General addition ==== The <head>general</head> theory of abstract algebra allows an " addition " operation to be any associative and commutative operation on a set .</context>
+    </instance>
+    <instance id="Addition-addition-9-1477-1" docsrc="Addition">
+      <context> Counting a finite set is equivalent to summing 1 <head>over</head> the set . Linear combinations combine multiplication and summation ; they are sums in which each term has a multiplier , usually a real or complex number . Linear combinations are especially useful in contexts where straightforward addition would violate some normalization rule , such as mixing of strategies in game theory or superposition of states in quantum mechanics .</context>
+    </instance>
+    <instance id="Addition-addition-9-1477-2" docsrc="Addition">
+      <context> Linear combinations combine multiplication and summation ; they are <head>sums</head> in which each term has a multiplier , usually a real or complex number . Linear combinations are especially useful in contexts where straightforward addition would violate some normalization rule , such as mixing of strategies in game theory or superposition of states in quantum mechanics .</context>
+    </instance>
+    <instance id="Addition-addition-9-400-1" docsrc="Addition">
+      <context> Addition is also fundamental to the operation of digital <head>computers</head> , where the efficiency of addition , in particular the carry mechanism , is an important limitation to overall performance . The abacus , also called a counting frame , is a calculating tool that was in use centuries before the adoption of the written modern numeral system and is still widely used by merchants , traders and clerks in Asia , Africa , and elsewhere ; it dates back to at least 2700–2300 BC , when it was used in Sumer . On a computer , if the result of an addition is too large to store , an arithmetic overflow occurs , resulting in an incorrect answer .</context>
+    </instance>
+    <instance id="Addition-addition-9-653-2" docsrc="Addition">
+      <context> This definition was first published , in a slightly <head>modified</head> form , by Richard Dedekind in 1872 . The commutativity and associativity of real addition are immediate ; defining the real number 0 to be the set of negative rationals , it is easily seen to be the additive identity . Probably the trickiest part of this construction pertaining to addition is the definition of additive inverses .</context>
+    </instance>
+    <instance id="Sum-addition-0-1-1" docsrc="Sum">
+      <context> <head>Sum</head> may refer to : Summation , the addition of a sequence of numbers Addition , the elementary mathematical operations of arithmetic that totals amount of quantities combined</context>
+    </instance>
+    <instance id="Sum-addition-3-0-1" docsrc="Sum">
+      <context> Sum may refer <head>to</head> : Summation , the addition of a sequence of numbers</context>
+    </instance>
+    <instance id="Summation-addition-0-2-3" docsrc="Summation">
+      <context> <head>In</head> the example , 1 + 2 + 4 + 2 = 9 . Because addition is associative , the sum does not depend on how the additions are grouped , for instance ( 1 + 2 ) + ( 4 + 2 ) and 1 + ( ( 2 + 4 ) + 2 ) both have the value 9 ; therefore , parentheses are usually omitted in repeated additions . Addition is also commutative , so permuting the terms of a finite sequence does not change its sum ( for infinite summations this property may fail ; see Absolute convergence for conditions under which it still holds ) .</context>
+    </instance>
+    <instance id="Summation-addition-1-2-2" docsrc="Summation">
+      <context> The <head>summation</head> of the sequence [ 1 , 2 , 4 , 2 ] is an expression whose value is the sum of each of the members of the sequence . In the example , 1 + 2 + 4 + 2 = 9 . Because addition is associative , the sum does not depend on how the additions are grouped , for instance ( 1 + 2 ) + ( 4 + 2 ) and 1 + ( ( 2 + 4 ) + 2 ) both have the value 9 ; therefore , parentheses are usually omitted in repeated additions .</context>
+    </instance>
+    <instance id="Summation-addition-13-2-2" docsrc="Summation">
+      <context> The summation of the sequence [ 1 , 2 , 4 , 2 <head>]</head> is an expression whose value is the sum of each of the members of the sequence . In the example , 1 + 2 + 4 + 2 = 9 . Because addition is associative , the sum does not depend on how the additions are grouped , for instance ( 1 + 2 ) + ( 4 + 2 ) and 1 + ( ( 2 + 4 ) + 2 ) both have the value 9 ; therefore , parentheses are usually omitted in repeated additions .</context>
+    </instance>
+    <instance id="Summation-addition-17-2-4" docsrc="Summation">
+      <context> Because addition is associative , the sum does not depend on how the additions are grouped , <head>for</head> instance ( 1 + 2 ) + ( 4 + 2 ) and 1 + ( ( 2 + 4 ) + 2 ) both have the value 9 ; therefore , parentheses are usually omitted in repeated additions . Addition is also commutative , so permuting the terms of a finite sequence does not change its sum ( for infinite summations this property may fail ; see Absolute convergence for conditions under which it still holds ) . There is no special notation for the summation of such explicit sequences , as the corresponding repeated addition expression will do .</context>
+    </instance>
+    <instance id="Summation-addition-17-3-3" docsrc="Summation">
+      <context> There is only a slight difficulty if the sequence has fewer than two elements : the summation <head>of</head> a sequence of one term involves no plus sign ( it is indistinguishable from the term itself ) and the summation of the empty sequence can not even be written down ( but one can write its value " 0 " in its place ) . If , however , the terms of the sequence are given by a regular pattern , possibly of variable length , then a summation operator may be useful or even essential . For the summation of the sequence of consecutive integers from 1 to 100 one could use an addition expression involving an ellipsis to indicate the missing terms : 1 + 2 + 3 + 4 + ... + 99 + 100 .</context>
+    </instance>
+    <instance id="Summation-addition-20-485-1" docsrc="Summation">
+      <context>     { \displaystyle x }   . If the summation has no summands , then the evaluated sum is zero <head>,</head> because zero is the identity for addition .</context>
+    </instance>
+    <instance id="Summation-addition-31-447-1" docsrc="Summation">
+      <context>     { \displaystyle \sum _{\ell }\sum _{\ell ' }. }   A similar notation is applied when it comes to denoting the product of a sequence , which is similar to <head>its</head> summation , but which uses the multiplication operation instead of addition ( and gives 1 for an empty sequence instead of 0 ) .</context>
+    </instance>
+    <instance id="Summation-addition-56-2-2" docsrc="Summation">
+      <context> The summation of the sequence [ 1 , 2 , 4 , 2 ] is an expression whose value is the sum of each of the members of the sequence . In the example , 1 + 2 + 4 + 2 = 9 . Because addition is associative , the sum does not depend on <head>how</head> the additions are grouped , for instance ( 1 + 2 ) + ( 4 + 2 ) and 1 + ( ( 2 + 4 ) + 2 ) both have the value 9 ; therefore , parentheses are usually omitted in repeated additions .</context>
+    </instance>
+    <instance id="Summation-addition-7-29-1" docsrc="Summation">
+      <context>   The value of this summation is <head>5050</head> . It can be found without performing 99 additions , since it can be shown ( for instance by mathematical induction ) that</context>
+    </instance>
+    <instance id="br-a11#w1445_0" docsrc="br-a11">
+      <context> Baltimore 's bulky spring_training contingent now gradually will be reduced as Manager Paul_Richards and his coaches seek to trim it down to a more streamlined and workable unit . `` Take a ride on this one '' , Brooks_Robinson greeted Hansen as the Bird third_sacker grabbed a bat , headed for the plate and bounced a third inning two run double off the left centerfield wall tonight . It was the first of two doubles by Robinson , who was in a mood to celebrate . Just before game time , Robinson 's pretty wife , Connie informed him that an <head>addition</head> to the family can be expected late next summer . Unfortunately , Brooks ' teammates were not in such festive mood as the Orioles expired before the seven hit pitching of three Kansas_City rookie hurlers . Hansen arrived just before nightfall , two hours late , in company with Lee_MacPhail ; J._A._W._Iglehart , chairman of the Oriole board_of_directors , and Public_Relations_Director Jack_Dunn . Their flight was delayed , Dunn said , when a boarding ramp inflicted some minor damage to the wing of the plane .</context>
+    </instance>
+    <instance id="br-e02#w1507_0" docsrc="br-e02">
+      <context> They stick_to their principles , insist upon their due , but grow and bloom with dependable regularity if given it . Treat them right and they 'll make a showing every_month in the year except the frigid ones . Give them food , some shade , mulch , water and more food , and they 'll repay your solicitude with beauty . A salad with greens and tomato is a popular and wonderfully healthful <head>addition</head> to a meal , but add an avocado and you have something really special . This delightful tropical fruit has become well-known in the past thirty years because modern transportation methods have made it possible to ship avocado anywhere in the United_States . It has a great many assets to recommend it and if you have n't made avocado a part of your diet yet , you really should . You will find that avocado is unlike any other fruit you have ever tasted .</context>
+    </instance>
+    <instance id="br-g20#w1020_1" docsrc="br-g20">
+      <context> The dweller at p is last to hear about a new cure , the slowest to announce to his neighbors his urgent distresses , the one who goes the farthest to trade , and the one with the greatest difficulty of all in putting_over an idea or getting people to join him in a cooperative effort . Since the hazards of poor communication are so great , p can be justified as a habitable site only on the basis of unusual productivity such_as is made available by a waterfall for milling purposes , a mine , or a sugar_maple camp . Location theorists have given these matters much consideration . The networks for military communications are one of the best examples of networks which not_only must be changed with the changes in objectives but also must be changed with the <head>addition</head> of new machines of war . They also furnish proof that , in modern war , message sending must be monitored . Without monitoring , a military hookup becomes a noisy party . The need for monitoring became greater when radio was adopted for military signaling .</context>
+    </instance>
+    <instance id="br-h24#w1234_0" docsrc="br-h24">
+      <context> If you file Form_1040_A and the District_Director computes your tax , you will be sent a bill if additional tax is_due . This bill should be paid within 30 days . Whether the check is certified or uncertified , the tax is not paid until the check is paid . If the check is not good and the April 15 or other due_date deadline elapses , <head>additions</head> to the tax may be incurred . Furthermore , a bad check may subject the maker to certain penalties . All checks and money_orders should be made payable to Internal_Revenue_Service . An overpayment of income and social_security taxes entitles you to a refund unless you indicate on the return that the overpayment should be applied to your succeeding year 's estimated tax .</context>
+    </instance>
+    <instance id="br-j06#w341_0" docsrc="br-j06">
+      <context> It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical_reactions in both the liquid and gas phases and to determine values for activation_energies of some of the intermediate reactions of atoms and free_radicals , as_well_as information on the heat_of_dissociation of the carbon halogen bond . The reaction of chlorine with carbon_tetrachloride seemed particularly suited for such studies . It should be possible to prepare very pure chlorine by oxidation of inorganic chlorides on a vacuum system followed by multiple distillation of the liquid . It should be possible to free carbon_tetrachloride of any interfering substances by the usual purification methods followed by prechlorination prior to <head>addition</head> of radioactive chlorine . Furthermore , the exchange would not be expected to be sensitive to trace amounts of impurities because it would not be apt to be a chain_reaction since the activation_energy for abstraction of chlorine by a chlorine atom would be expected to be too high ; also it would be expected that * * f would compete very effectively with any impurities as a scavenger for * * f radicals . Contrary to these expectations we have found it impossible to obtain the degree of reproducibility one would wish , even with extensive efforts to prepare especially pure reagents . We are reporting these investigations here briefly because of their relevancy to problems of the study of apparently simple exchange reactions of chlorine and because the results furnish some information on the activation_energy for abstraction of chlorine atoms from carbon_tetrachloride .</context>
+    </instance>
+    <instance id="br-j14#w1050_0" docsrc="br-j14">
+      <context> On_the_other_hand , there are a_few antithyroid drugs of this same general type , such as resorcinol , possessing no reducing activity and possibly acting through formation of a complex with molecular iodine . Any of the antithyroid drugs , of either type , if given in large enough doses for a long period_of_time will cause goitre , owing to inhibition of thyroid_hormone synthesis , with production of hypothyroidism . The anterior lobe of the pituitary then responds by an increased output of TSH , causing the thyroid to enlarge . The effect of drugs that act_on the iodide concentrating mechanism can be counteracted by <head>addition</head> of relatively large amounts of iodine to the diet . The antithyroid drugs of the thiouracil type , however , are not antagonised by such means . Besides those of the thiouracil and resorcinol types , certain antithyroid drugs have been found in naturally occurring foods . The most conclusively identified is L - 5 - vinyl - 2 - thio_oxazolidone , which was isolated from rutabaga ( Greer , 1950 ) .</context>
+    </instance>
+    <instance id="br-j14#w73_0" docsrc="br-j14">
+      <context> Interestingly enough , the effect of the digitalis_glycosides is inhibited by a high concentration of potassium in the incubation medium and is enhanced by the absence of potassium ( Wolff , 1960 ) . The precise mechanism for organification of iodine in the thyroid is not as_yet completely understood . However , the formation of organically bound iodine , mainly mono-iodotyrosine , can be accomplished in cell-free systems . In the absence of <head>additions</head> to the homogenate , the product formed is an iodinated particulate protein ( Fawcett and Kirkwood , 1953 ; Taurog , Potter and Chaikoff , 1955 ; Taurog , Potter , Tong , and Chaikoff , 1956 ; Serif and Kirkwood , 1958 ; De_Groot and Carvalho , 1960 ) . This iodoprotein does not appear to be the same as what is normally present in the thyroid , and there is no evidence so_far that thyroglobulin can be iodinated in_vitro by cell-free systems . In_addition , the iodoamino_acid formed in largest quantity in the intact thyroid is di-iodotyrosine . If tyrosine and a system generating hydrogen_peroxide are added to a cell-free homogenate of the thyroid , large quantities of free mono-iodotyrosine can be formed ( Alexander , 1959 ) .</context>
+    </instance>
+    <instance id="br-j32#w1913_0" docsrc="br-j32">
+      <context> The only requirements on dictionary information made by the text lookup operation are that each form represented by the dictionary be available for lookup in the text form list and that information for each form be available in a sequence identical with the sequence of the forms . This leaves the ordering of entries variable . ( Here an entry is a form plus the information that pertains to it . ) Two very useful ways for modifying a form dictionary are the <head>addition</head> to the dictionary of complete paradigms rather than single forms and the application of a single change to more_than one dictionary form . The former is intended to decrease the amount of work necessary to extend dictionary coverage . The latter is useful for modifying information about some or all forms of a word , hence reducing the work required to improve dictionary contents . Applying the techniques developed at Harvard for generating a paradigm from a representative form and its classification , we can add all forms of a word to the dictionary at_once .</context>
+    </instance>
+    <instance id="br-j70#w1990_0" docsrc="br-j70">
+      <context> The actual power requirements indicated 2 lb oxygen transfer / hr / hp . The polyethylene cover reduced the oxygen transfer rate by 10 per_cent , indicating that the maximum oxygen transfer is at the rotor rather_than through the surface . During this study septic conditions developed in the oxidation pond in the spring when the ice melted . Shortly after this study ended septic conditions resulted which required the <head>addition</head> of sodium_nitrate . The location of the oxidation pond in a high value residential area makes odor nuisances a sensitive problem for the developer . The organic concentration in the influent raw sewage ranged from 160 to 270 mg / l of BOD with an average of 230 mg / l . The BOD data are given in Table 4 , .</context>
+    </instance>
+    <instance id="br-j70#w405_0" docsrc="br-j70">
+      <context> The oxidation pond has a surface_area of 4.77 acres and a depth of 4 ft . The pond is currently serving 1230 persons or 260 persons per acre . In the summer of 1960 the oxidation pond became completely septic and emitted obnoxious odors . It was possible to maintain aerobic conditions in the pond by regular <head>additions</head> of sodium_nitrate until the temperature decreased and the algae population changed from blue-green to green_algae . The anaerobic conditions in the existing oxidation pond necessitated examination of other methods for supplying additional oxygen than by sodium_nitrate . At_the_same_time further expansion in the Red_Bridge_Subdivision required the construction of additional sewage treatment facilities . The large land_areas required for oxidation ponds made this type of treatment financially unattractive to the developer .</context>
+    </instance>
+    <instance id="br-n17#w681_0" docsrc="br-n17">
+      <context> She told me . ZING was the creation of two men , Louis_Thor and Bill_Blake , partners in ZING ! , Inc. . They 'd peddled the soap virtually alone , and without much success , until about a year ago , when - with the <head>addition</head> of `` SX-21 '' to their secret formula and the inauguration of a high-powered advertising_campaign - sales had soared practically into orbit . Their product had been endorsed by Good_Housekeeping , the A._M._A. , and the Veterinary_Journal , among other repositories of higher wisdom , and before much longer if you did n't have a cake of their soap in the john , even your best friends would think you did n't bathe . My lovely caller - Joyce_Holland was her name - had previously done three filmed commercials for ZING , and this_evening , the fourth , a super production , had been filmed at the home of Louis_Thor . The water in Thor 's big swimming_pool had been covered with a blanket of thick , foamy soapsuds - fashioned , of_course , from ZING - Joyce had dived from the board into the pool , then swirled and cavorted in her luxurious `` bath '' while cameras rolled .</context>
+    </instance>
+    <instance id="n00363788_ex1_1" docsrc="n00363788_ex1">
+      <context> the <head>addition</head> of flowers created a pleasing effect ;</context>
+    </instance>
+    <instance id="n00363788_ex2_1" docsrc="n00363788_ex2">
+      <context> the <head>addition</head> of a leap day every four years ;</context>
+    </instance>
+    <instance id="n02679415_ex1_1" docsrc="n02679415_ex1">
+      <context> the <head>addition</head> of a bathroom was a major improvement ;</context>
+    </instance>
+    <instance id="n02679415_ex2_1" docsrc="n02679415_ex2">
+      <context> the <head>addition</head> of cinnamon improved the flavor ;</context>
+    </instance>
+    <instance id="n13253423_ex2_4" docsrc="n13253423_ex2">
+      <context> he was a new <head>addition</head> to the staff ;</context>
+    </instance>
+    <instance id="n13754293_ex1_3" docsrc="n13754293_ex1">
+      <context> there was an <head>addition</head> to property taxes this year ;</context>
+    </instance>
+    <instance id="v02012725_d_13" docsrc="v02012725_d">
+      <context> transfer to the next column or unit's place before or after , in <head>addition</head> or multiplication ;</context>
+    </instance>
+  </lexelt>
+</corpus>

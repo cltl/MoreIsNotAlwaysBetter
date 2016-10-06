@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="swing.n" pos="NN">
+    <instance id="br-p01#w949_0" docsrc="br-p01">
+      <context> Sameness for the Old_Man was framed_in by a wall of ginkgo trees which divided these quarters from the city . Sameness lined the streets with two story houses the color of ash . It slashed the sloping manure scented lawns with concrete steps which climbed upward to white wooden porches . It swayed with the wicker <head>swings</head> and screeched with the rusted hinges of screen_doors . Even the stable garage , which housed nothing now but the scent of rot , had a lawn before it . And the coffee_shop on Drexel_Street , where the men spent their evenings and Sundays playing cards , had a rose hedge beneath its window . The hedge reeked of coffee dregs thrown against it .</context>
+    </instance>
+  </lexelt>
+</corpus>

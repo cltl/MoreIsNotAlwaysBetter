@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="courtroom.n" pos="NN">
+    <instance id="n02789770_d_8" docsrc="n02789770_d">
+      <context> a railing that encloses the part of the <head>courtroom</head> where the judges and lawyers sit and the case is tried ;</context>
+    </instance>
+    <instance id="n02829116_d_6" docsrc="n02829116_d">
+      <context> the seat for judges in a <head>courtroom</head> ;</context>
+    </instance>
+    <instance id="n03120778_ex1_6" docsrc="n03120778_ex1">
+      <context> television cameras were admitted in the <head>courtroom</head> ;</context>
+    </instance>
+    <instance id="n03606347_d_4" docsrc="n03606347_d">
+      <context> an enclosure within a <head>courtroom</head> for the jury ;</context>
+    </instance>
+    <instance id="n07143450_d_1" docsrc="n07143450_d">
+      <context> a <head>courtroom</head> conference between the lawyers and the judge that is held out of the jury's hearing ;</context>
+    </instance>
+    <instance id="n10742111_d_8" docsrc="n10742111_d">
+      <context> an official stationed at the entrance of a <head>courtroom</head> or legislative chamber ;</context>
+    </instance>
+  </lexelt>
+</corpus>

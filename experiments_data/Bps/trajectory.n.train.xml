@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="trajectory.n" pos="NN">
+    <instance id="a02979443_d_4" docsrc="a02979443_d">
+      <context> having or involving a <head>trajectory</head> of less than one orbit ;</context>
+    </instance>
+    <instance id="n11481487_d_1" docsrc="n11481487_d">
+      <context> the <head>trajectory</head> of an object in free flight ;</context>
+    </instance>
+    <instance id="n11481627_d_1" docsrc="n11481627_d">
+      <context> a <head>trajectory</head> that passes close to a planetary body in order to gain energy from its gravitational_field ;</context>
+    </instance>
+    <instance id="n13918584_d_13" docsrc="n13918584_d">
+      <context> the angle a rocket makes with the vertical as it curves along its <head>trajectory</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

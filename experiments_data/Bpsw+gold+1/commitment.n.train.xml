@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="commitment.n" pos="NN">
+    <instance id="a00518848_d_2" docsrc="a00518848_d">
+      <context> having no <head>commitments</head> or responsibilities ; carefree ;</context>
+    </instance>
+    <instance id="br-k12#w1182_0" docsrc="br-k12">
+      <context> He settled_on the sofa with his coffee , warming his hands on the cup , although the room was heavy with heat . The three had little to say to each other . The previous night 's horror - the absolute failure , overcast with the intrusions of the press , had left them all with a wan sense of uselessness , of play-acting . Sipping their coffee , discussing the weather , the day 's shopping , Fritzie 's <head>commitments</head> at the network ( all of which he would cancel ) , they avoided the radio , the morning TV news_show , even the front page of the Santa_Luisa_Register , resting on the kitchen bar . Kidnapper Spurns Ransom ; Amy Still Missing . Once , Andrus walked by it , hastily scanned the bold black headline and the five column lead of the article ( by Duane_Bosch , staff correspondent - age not given ) , and muttered : `` We a buncha national celebrities '' . McFeeley told the parents he would escort them to police_headquarters in a half hour .</context>
+    </instance>
+    <instance id="n01040943_d_2" docsrc="n01040943_d">
+      <context> loyalty and <head>commitment</head> to the interests of your own minority or ethnic_group rather than to society as a whole ;</context>
+    </instance>
+    <instance id="n01239868_ex1_2" docsrc="n01239868_ex1">
+      <context> his business <head>commitments</head> took him to London ;</context>
+    </instance>
+    <instance id="n04645473_d_1" docsrc="n04645473_d">
+      <context> undivided <head>commitment</head> or unreserved enthusiasm ;</context>
+    </instance>
+  </lexelt>
+</corpus>

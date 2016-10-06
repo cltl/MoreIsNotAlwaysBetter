@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="example.n" pos="NN">
+    <instance id="a00128733_d_3" docsrc="a00128733_d">
+      <context> having no previous <head>example</head> or precedent or parallel ;</context>
+    </instance>
+    <instance id="a01305123_d_4" docsrc="a01305123_d">
+      <context> clarifying by use of <head>examples</head> ;</context>
+    </instance>
+    <instance id="n00002137_d_10" docsrc="n00002137_d">
+      <context> a general concept formed by extracting common features from specific <head>examples</head> ;</context>
+    </instance>
+    <instance id="n00729919_ex1_4" docsrc="n00729919_ex1">
+      <context> you must work the <head>examples</head> at the end of each chapter in the textbook ;</context>
+    </instance>
+    <instance id="n01415920_d_14" docsrc="n01415920_d">
+      <context> a unicellular organism having cells lacking membrane bound nuclei ; bacteria are the prime <head>example</head> but also included are blue-green_algae and actinomycetes and mycoplasma ;</context>
+    </instance>
+    <instance id="n03893732_d_20" docsrc="n03893732_d">
+      <context> the main temple of the goddess Athena ; built on the acropolis in Athens more than 400 years B.C. ; <head>example</head> of Doric architecture ;</context>
+    </instance>
+    <instance id="n05667613_d_4" docsrc="n05667613_d">
+      <context> something regarded_as a normative <head>example</head> ;</context>
+    </instance>
+    <instance id="n05821102_d_2" docsrc="n05821102_d">
+      <context> a poor <head>example</head> ;</context>
+    </instance>
+    <instance id="n05925702_d_2" docsrc="n05925702_d">
+      <context> an outstanding <head>example</head> of its kind ;</context>
+    </instance>
+    <instance id="n06672752_ex1_5" docsrc="n06672752_ex1">
+      <context> they decided to make an <head>example</head> of him ;</context>
+    </instance>
+    <instance id="n07308889_ex3_6" docsrc="n07308889_ex3">
+      <context> but there is always the famous <head>example</head> of the Smiths ;</context>
+    </instance>
+    <instance id="n10957072_d_19" docsrc="n10957072_d">
+      <context> British poet ( born in the United_States ) who won the Nobel_prize for literature ; his plays are outstanding <head>examples</head> of modern verse drama ;</context>
+    </instance>
+  </lexelt>
+</corpus>

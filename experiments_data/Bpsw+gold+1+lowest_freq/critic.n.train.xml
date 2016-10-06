@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="critic.n" pos="NN">
+    <instance id="a02830645_d_6" docsrc="a02830645_d">
+      <context> of or involving or characteristic of <head>critics</head> or criticism ;</context>
+    </instance>
+    <instance id="n10534389_d_4" docsrc="n10534389_d">
+      <context> a harsh or humorous <head>critic</head> ( sometimes intended as a facetious compliment ) ;</context>
+    </instance>
+    <instance id="n11340992_d_4" docsrc="n11340992_d">
+      <context> United_States writer and social <head>critic</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

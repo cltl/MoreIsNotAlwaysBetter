@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="trainer.n" pos="NN">
+    <instance id="n09953178_d_1" docsrc="n09953178_d">
+      <context> a <head>trainer</head> of athletes ;</context>
+    </instance>
+    <instance id="v00833702_d_6" docsrc="v00833702_d">
+      <context> teach and supervise ; act_as a <head>trainer</head> or coach , as in sports ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="week.n" pos="NN">
+    <instance id="br-e30#w388_0" docsrc="br-e30">
+      <context> Do you try to maintain the principle of employee contributed ( as opposed to fully company paid ) programs ? Do you protect your holiday privileges with an attendance requirement both before and after the holiday ? Do you plan to limit additional holidays to area and / or industrial patterns ? Have you investigated the possibility of moving midweek holidays forward to Monday or back to Friday in_order to have an uninterrupted work <head>week</head> ? Are you carefully policing wash-up time and rest periods to be certain that all other time is productive ? Are you watching work schedules for boiler operators , guards , and other 24 - hour day , 7 - day week operations in_order to minimize overtime ? Are you careful to restrict the number of people on_leave at_one_time so that your total employment obligation is minimized ?</context>
+    </instance>
+    <instance id="br-j52#w1370_0" docsrc="br-j52">
+      <context> This way of escape is theoretically possible , but since it has grave difficulties of its own and has not , so_far_as I know , been urged by positivists , it is perhaps best not to spend time over it . I come now to a third argument , which again is very simple . When we come_upon the rabbit and make our remark about its suffering being a bad thing , we presumably make it with some feeling ; the positivists are plainly right in saying that such remarks do usually express feeling . But suppose that a <head>week</head> later we revert to the incident in thought and make our statement again . And suppose that the circumstances have now so changed that the feeling with which we made the remark in_the_first_place has faded . The pathetic evidence is no_longer before us ; and we are now so fatigued in body and mind that feeling is , as_we_say , quite dead . In these circumstances , since what was expressed by the remark when first made is , on the theory before us , simply absent , the remark now expresses nothing .</context>
+    </instance>
+    <instance id="br-l18#w1403_0" docsrc="br-l18">
+      <context> Casey believed that much . Calenda was not the sort who walked_around without one of his `` boys '' close_at_hand . `` So '' ? `` With my trial coming_up in Federal_Court next <head>week</head> I would n't want that picture published '' . `` Who says it 's going to be published '' ? `` I would n't even want it to get_around '' . Under normal circumstances Casey was a_little fussy when people told him what to do with pictures he had taken .</context>
+    </instance>
+  </lexelt>
+</corpus>

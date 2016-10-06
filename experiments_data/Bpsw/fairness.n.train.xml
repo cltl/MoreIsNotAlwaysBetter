@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="fairness.n" pos="NN">
+    <instance id="Fairness_measure-fairness-0-199-1" docsrc="Fairness_measure">
+      <context> <head>Several</head> other metrics have been defined , like worst case fairness , Fairness Index ,</context>
+    </instance>
+    <instance id="Fairness_measure-fairness-2-104-1" docsrc="Fairness_measure">
+      <context>     { <head>\displaystyle</head> { \mathcal { J}}(x_{1},x_{2},\dots , x_{n})={\frac { ( \sum _{i=1}^{n}x_{i})^{2}}{n\cdot \sum _{i=1}^{n}{x_{i}}^{2 } } } }   rates the fairness of a set of values where there are</context>
+    </instance>
+    <instance id="Fairness_measure-fairness-2-198-1" docsrc="Fairness_measure">
+      <context> This policy <head>is</head> less fair since " expensive " users are given lower throughput than others , but still scheduling starvation is avoided . Several other metrics have been defined , like worst case fairness ,</context>
+    </instance>
+    <instance id="Fairness_measure-fairness-28-183-1" docsrc="Fairness_measure">
+      <context>    users receive zero allocation . This metric identifies underutilized channels and is not unduly sensitive to atypical network flow patterns . If the cost of each user <head>is</head> known , in terms of consumed resources per transferred information bit , the FSSE measure may be redefined to reflect proportional fairness .</context>
+    </instance>
+    <instance id="Fairness_measure-fairness-8-0-1" docsrc="Fairness_measure">
+      <context> Fairness measures or metrics are used in network <head>engineering</head> to determine whether users or applications are receiving a fair share of system resources . There are several mathematical and conceptual definitions of fairness .</context>
+    </instance>
+    <instance id="a00931833_d_13" docsrc="a00931833_d">
+      <context> appropriate for achieving a particular end ; implies a lack of concern for <head>fairness</head> ;</context>
+    </instance>
+    <instance id="a02318464_d_4" docsrc="a02318464_d">
+      <context> characterized by honesty and <head>fairness</head> ;</context>
+    </instance>
+    <instance id="br-f14#w335_0" docsrc="br-f14">
+      <context> Most_of this testimony may have been legally admissible as bearing_on the corpus_delicti of the total Nazi crime but seemed subject_to question when not tied to the part in it of the defendant 's Department_of_Jewish_Affairs . Counsel for the defense , however , shrewdly allowing himself to be swept by the current of dreadful recollections , rarely raised an objection . Would not the emotional catharsis eventually brought_on by this awfulness have a calming , if not exhausting , effect likely to improve his client 's chances ? Those who feared `` emotionalism '' at the Trial showed less understanding than Dr._Servatius of the route by which man achieves the distance necessary for <head>fairness</head> toward enemies . Interruptions came largely from the bench , which numerous times rebuked the Attorney_General for letting his witnesses run on , though it , too , made no serious effort to choke_off the flow . But there was a contrast even more decisive than a hunger for fact between the Trial in Jerusalem and those in Moscow and New_York . In each of the last , the trial marked the beginning of a new course : in Moscow the liquidation of the Old Bolsheviks and the tightening of Stalin 's dictatorship ; in the United_States the initiation of militant anti Communism , with the repentant ex Communist in the vanguard .</context>
+    </instance>
+    <instance id="n04839154_ex1_4" docsrc="n04839154_ex1">
+      <context> the judge recognized the <head>fairness</head> of my claim ;</context>
+    </instance>
+    <instance id="n04839445_d_0" docsrc="n04839445_d">
+      <context> <head>fairness</head> in treating people without prejudice ;</context>
+    </instance>
+    <instance id="n04839555_d_0" docsrc="n04839555_d">
+      <context> <head>fairness</head> in following the rules of the game ;</context>
+    </instance>
+    <instance id="n04978371_d_2" docsrc="n04978371_d">
+      <context> lightness or <head>fairness</head> of complexion ;</context>
+    </instance>
+    <instance id="r00204906_d_3" docsrc="r00204906_d">
+      <context> without justice or <head>fairness</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

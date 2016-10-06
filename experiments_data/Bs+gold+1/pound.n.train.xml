@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="pound.n" pos="NN">
+    <instance id="br-f16#w1624_0" docsrc="br-f16">
+      <context> He went_to his cabin and emerged carrying a large chart , which he set_up in_view of the crew . Patiently , he explained what he knew about their course and their objectives . When Hudson had finished , the `` town_meeting '' broke_down into a general , wordy argument . One man remarked that if he had a_hundred <head>pounds</head> , he would give ninety of them to be back in England . Up spoke carpenter Staffe , who said he would n't give ten pounds to be home . The statement was effective . The meeting broke_up .</context>
+    </instance>
+    <instance id="br-f16#w1650_0" docsrc="br-f16">
+      <context> Patiently , he explained what he knew about their course and their objectives . When Hudson had finished , the `` town_meeting '' broke_down into a general , wordy argument . One man remarked that if he had a_hundred pounds , he would give ninety of them to be back in England . Up spoke carpenter Staffe , who said he would n't give ten <head>pounds</head> to be home . The statement was effective . The meeting broke_up . Hudson was free to sail on .</context>
+    </instance>
+    <instance id="br-k26#w692_0" docsrc="br-k26">
+      <context> Off_and_on , all day , someone would be wiping at the powdery gray dust that settled over everything . The evaporative_cooler had been moved to Granny 's room , and her door was kept shut ; so that the rest of the house stayed open , though there was a question as to whether it was hotter or cooler that way . The dust clogged their throats , and the heat parched them , so that the women were always making ice_water . They had cleaned_up an old ice_box and begun to buy fifty <head>pound</head> blocks of ice in town , as the electric_refrigerator came nowhere near providing enough ice for the crowds who ate and drank there . One afternoon , as the women sat clucking softly , a new carload of people pulled_up at the gate . It was a Cadillac , black grayed with the dust of the road , its windows closed tight so you knew that the people who climbed out of_it would be cool and unwrinkled . They were an old fat couple ( as Linda_Kay described them to herself ) , a thick middle-aged man , and a girl about ten or twelve .</context>
+    </instance>
+  </lexelt>
+</corpus>

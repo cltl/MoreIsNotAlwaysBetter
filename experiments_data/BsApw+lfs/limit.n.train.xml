@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="limit.n" pos="NN">
+    <instance id="Demarcation_line-limit-2-23-2" docsrc="Demarcation_line">
+      <context> The Military <head>Demarcation</head> Line , sometimes referred to as the Armistice Line , is the border between North Korea and South Korea . The Military Demarcation Line was established by the Korean Armistice Agreement as the line between the two Koreas at the end of Korean War in 1953 . The Northern Limit Line or North Limit Line ( NLL ) is a disputed maritime demarcation line in the Yellow Sea between North Korea and South Korea .</context>
+    </instance>
+    <instance id="Demarcation_line-limit-6-23-2" docsrc="Demarcation_line">
+      <context> The Military Demarcation Line , sometimes <head>referred</head> to as the Armistice Line , is the border between North Korea and South Korea . The Military Demarcation Line was established by the Korean Armistice Agreement as the line between the two Koreas at the end of Korean War in 1953 . The Northern Limit Line or North Limit Line ( NLL ) is a disputed maritime demarcation line in the Yellow Sea between North Korea and South Korea .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-0-0-1" docsrc="Limit_(mathematics)">
+      <context> <head>In</head> mathematics , a limit is the value that a function or sequence " approaches " as the input or index approaches some value . Limits are essential to calculus ( and mathematical analysis in general ) and are used to define continuity , derivatives , and integrals .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-0-779-1" docsrc="Limit_(mathematics)">
+      <context> <head>Cauchy</head> sequence complete metric space Limit of a function</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-1-330-2" docsrc="Limit_(mathematics)">
+      <context> Intuitively <head>,</head> this means that eventually all elements of the sequence get arbitrarily close to the limit , since the absolute value |   an − L   | is the distance between an and L. Not every sequence has a limit ; if it does , it is called convergent , and if it does not , it is divergent . One can show that a convergent sequence has only one limit . The limit of a sequence and the limit of a function are closely related .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-1-789-1" docsrc="Limit_(mathematics)">
+      <context> An <head>annotated</head> index Convergence of random variables Banach limit defined on the Banach space that extends the usual limits .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-1-791-1" docsrc="Limit_(mathematics)">
+      <context> Banach <head>limit</head> defined on the Banach space that extends the usual limits . Limit in category theory Direct limit</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-1-792-1" docsrc="Limit_(mathematics)">
+      <context> Limit <head>in</head> category theory Direct limit Inverse limit</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-10-330-1" docsrc="Limit_(mathematics)">
+      <context> N , we have |   an − L   <head>|</head> &lt; ε. Intuitively , this means that eventually all elements of the sequence get arbitrarily close to the limit , since the absolute value |   an − L   | is the distance between an and L. Not every sequence has a limit ; if it does , it is called convergent , and if it does not , it is divergent . One can show that a convergent sequence has only one limit .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-11-105-1" docsrc="Limit_(mathematics)">
+      <context>   then f(1 ) is not defined ( see division by <head>zero</head> ) , yet as x moves arbitrarily close to 1 , f(x ) correspondingly approaches 2 : Thus , f(x ) can be made arbitrarily close to the limit of 2 just by making x sufficiently close to 1 .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-11-301-1" docsrc="Limit_(mathematics)">
+      <context> It can be observed that the numbers are " approaching " <head>1.8</head> , the limit of the sequence . Formally , suppose a1 , a2 , ... is a sequence of real numbers . It can be stated that the real number L is the limit of this sequence , namely :</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-11-789-1" docsrc="Limit_(mathematics)">
+      <context> An annotated index Convergence of random variables Banach limit defined on <head>the</head> Banach space that extends the usual limits .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-12-237-1" docsrc="Limit_(mathematics)">
+      <context>     { \displaystyle \lim _{x\to 1}{\frac { x^{2}-1}{x-1}}=1+1=2 }   . In <head>addition</head> to limits at finite values , functions can also have limits at infinity .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-13-69-1" docsrc="Limit_(mathematics)">
+      <context>   means that f(x ) can be made to be as close to <head>L</head> as desired by making x sufficiently close to c. In that case , the above equation can be read as " the limit of f of x , as x approaches c , is L " .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-13-773-1" docsrc="Limit_(mathematics)">
+      <context> All of the above notions of limit can be unified and generalized to <head>arbitrary</head> topological spaces by introducing topological nets and defining their limits . An alternative is the concept of limit for filters on topological spaces . Rate of convergence : the rate at which a convergent sequence approaches its limit</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-14-300-1" docsrc="Limit_(mathematics)">
+      <context>   Consider the following sequence : 1.79 , 1.799 , 1.7999 , ... It <head>can</head> be observed that the numbers are " approaching " 1.8 , the limit of the sequence .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-16-0-2" docsrc="Limit_(mathematics)">
+      <context> In mathematics , a limit is the value that a function or sequence " approaches " <head>as</head> the input or index approaches some value . Limits are essential to calculus ( and mathematical analysis in general ) and are used to define continuity , derivatives , and integrals . The concept of a limit of a sequence is further generalized to the concept of a limit of a topological net , and is closely related to limit and direct limit in category theory .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-16-25-1" docsrc="Limit_(mathematics)">
+      <context>   and is read as " the limit of f of n as n approaches c <head>equals</head> L " . Here " lim " indicates limit , and the fact that function f(n ) approaches the limit L as n approaches c is represented by the right arrow ( → ) , as in</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-16-329-2" docsrc="Limit_(mathematics)">
+      <context> For every real number ε &gt; 0 , there exists a natural number N such that <head>for</head> all n &gt; N , we have |   an − L   | &lt; ε. Intuitively , this means that eventually all elements of the sequence get arbitrarily close to the limit , since the absolute value |   an − L   | is the distance between an and L. Not every sequence has a limit ; if it does , it is called convergent , and if it does not , it is divergent .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-19-331-1" docsrc="Limit_(mathematics)">
+      <context> One can show that a convergent sequence has only one limit . The limit of a sequence and the <head>limit</head> of a function are closely related . On one hand , the limit as n goes to infinity of a sequence a(n ) is simply the limit at infinity of a function defined on the natural numbers n.</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-2-326-1" docsrc="Limit_(mathematics)">
+      <context>   which <head>is</head> read as " The limit of an as n approaches infinity equals L "</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-2-781-1" docsrc="Limit_(mathematics)">
+      <context> complete metric <head>space</head> Limit of a function List of limits : list of limits for common functions</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-23-767-1" docsrc="Limit_(mathematics)">
+      <context>     { \displaystyle \left|f^{\prime \prime }(p)\right| }    If .... All of the above notions of limit can be unified and generalized to <head>arbitrary</head> topological spaces by introducing topological nets and defining their limits .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-28-331-2" docsrc="Limit_(mathematics)">
+      <context> The limit of a sequence and the limit of a function are closely related . On one hand , the limit as n goes to infinity of a <head>sequence</head> a(n ) is simply the limit at infinity of a function defined on the natural numbers n. On the other hand , a limit L of a function f(x ) as x goes to infinity , if it exists , is the same as the limit of any arbitrary sequence an that approaches L , and where an is never equal to L. Note that one such sequence would be L + 1/n .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-28-397-1" docsrc="Limit_(mathematics)">
+      <context>   . Here the standard part function " st " rounds off each finite hyperreal number to the nearest real number ( the difference between them is infinitesimal <head>)</head> . This formalizes the natural intuition that for " very large " values of the index , the terms in the sequence are " very close " to the limit value of the sequence .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-3-237-1" docsrc="Limit_(mathematics)">
+      <context>     { \displaystyle <head>\lim</head> _{x\to 1}{\frac { x^{2}-1}{x-1}}=1+1=2 }   . In addition to limits at finite values , functions can also have limits at infinity .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-30-0-2" docsrc="Limit_(mathematics)">
+      <context> In mathematics , a limit is the value that a function or sequence " approaches " as the input or index approaches some value . Limits are essential to calculus <head>(</head> and mathematical analysis in general ) and are used to define continuity , derivatives , and integrals . The concept of a limit of a sequence is further generalized to the concept of a limit of a topological net , and is closely related to limit and direct limit in category theory .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-4-0-2" docsrc="Limit_(mathematics)">
+      <context> In mathematics , a <head>limit</head> is the value that a function or sequence " approaches " as the input or index approaches some value . Limits are essential to calculus ( and mathematical analysis in general ) and are used to define continuity , derivatives , and integrals . The concept of a limit of a sequence is further generalized to the concept of a limit of a topological net , and is closely related to limit and direct limit in category theory .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-4-1-1" docsrc="Limit_(mathematics)">
+      <context> Limits are essential to <head>calculus</head> ( and mathematical analysis in general ) and are used to define continuity , derivatives , and integrals . The concept of a limit of a sequence is further generalized to the concept of a limit of a topological net , and is closely related to limit and direct limit in category theory . In formulas , a limit is usually written as</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-41-329-2" docsrc="Limit_(mathematics)">
+      <context> For every real number ε &gt; 0 , there exists a natural number N such that for all n &gt; N , we have |   an − L   | &lt; ε. Intuitively , this means that eventually all elements <head>of</head> the sequence get arbitrarily close to the limit , since the absolute value |   an − L   | is the distance between an and L. Not every sequence has a limit ; if it does , it is called convergent , and if it does not , it is divergent .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-5-25-1" docsrc="Limit_(mathematics)">
+      <context>   and is read as <head>"</head> the limit of f of n as n approaches c equals L " . Here " lim " indicates limit , and the fact that function f(n ) approaches the limit L as n approaches c is represented by the right arrow ( → ) , as in</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-5-266-1" docsrc="Limit_(mathematics)">
+      <context> f(10000 ) = 1.99990 As <head>x</head> becomes extremely large , the value of f(x ) approaches 2 , and the value of f(x ) can be made as close to 2 as one could wish just by picking x sufficiently large . In this case , the limit of f(x ) as x approaches infinity is 2 .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-5-331-1" docsrc="Limit_(mathematics)">
+      <context> One can show that a <head>convergent</head> sequence has only one limit . The limit of a sequence and the limit of a function are closely related . On one hand , the limit as n goes to infinity of a sequence a(n ) is simply the limit at infinity of a function defined on the natural numbers n.</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-5-428-1" docsrc="Limit_(mathematics)">
+      <context>         { \displaystyle ( <head>a_{n</head> } ) }   , is simply the limit of that sequence :</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-5-783-1" docsrc="Limit_(mathematics)">
+      <context> Limit of a function List <head>of</head> limits : list of limits for common functions Squeeze theorem : finds a limit of a function via comparison with two other functions</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-6-24-1" docsrc="Limit_(mathematics)">
+      <context>     { \displaystyle \lim _{n\to c}f(n)=L <head>}</head>   and is read as " the limit of f of n as n approaches c equals L " .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-6-331-2" docsrc="Limit_(mathematics)">
+      <context> The limit of a sequence and <head>the</head> limit of a function are closely related . On one hand , the limit as n goes to infinity of a sequence a(n ) is simply the limit at infinity of a function defined on the natural numbers n. On the other hand , a limit L of a function f(x ) as x goes to infinity , if it exists , is the same as the limit of any arbitrary sequence an that approaches L , and where an is never equal to L. Note that one such sequence would be L + 1/n .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-6-457-1" docsrc="Limit_(mathematics)">
+      <context>     { \displaystyle \operatorname { st <head>}</head> ( a)=\lim _{n\to \infty }a_{n } }   . In this sense , taking the limit and taking the standard part are equivalent procedures .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-6-767-1" docsrc="Limit_(mathematics)">
+      <context>     { \displaystyle \left|f^{\prime \prime }(p)\right| <head>}</head>    If .... All of the above notions of limit can be unified and generalized to arbitrary topological spaces by introducing topological nets and defining their limits .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-6-772-1" docsrc="Limit_(mathematics)">
+      <context>    If .... All of the <head>above</head> notions of limit can be unified and generalized to arbitrary topological spaces by introducing topological nets and defining their limits . An alternative is the concept of limit for filters on topological spaces .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-6-781-1" docsrc="Limit_(mathematics)">
+      <context> complete metric space Limit of a <head>function</head> List of limits : list of limits for common functions</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-7-330-2" docsrc="Limit_(mathematics)">
+      <context> Intuitively , this means that eventually all <head>elements</head> of the sequence get arbitrarily close to the limit , since the absolute value |   an − L   | is the distance between an and L. Not every sequence has a limit ; if it does , it is called convergent , and if it does not , it is divergent . One can show that a convergent sequence has only one limit . The limit of a sequence and the limit of a function are closely related .</context>
+    </instance>
+    <instance id="Limit_(mathematics)-limit-7-69-2" docsrc="Limit_(mathematics)">
+      <context> means that f(x ) can be made <head>to</head> be as close to L as desired by making x sufficiently close to c. In that case , the above equation can be read as " the limit of f of x , as x approaches c , is L " . Note that the above definition of a limit is true even if f(c ) ≠ L.</context>
+    </instance>
+    <instance id="br-e22#w1152_0" docsrc="br-e22">
+      <context> The early works were conceived for a sophisticated , international audience ; the later works were conceived to affirm a way_of_life for fellow citizens . However , in all of Prokofieff 's music , young or mature , we find his profile - his `` signature '' - his craftsman 's attitude . Prokofieff never forsakes his medium for the cause of experimentation per_se . In orchestration , he stretches the <head>limits</head> of instrumentation with good judgment and a fine imagination for color . His sense for rhythmic variety and timing is impeccable . His creative development of melodic designs of Slavic dance tunes and love songs is captivating : witty , clever , adroit , and subtle . His counterpoint is pertinent , skillful , and rarely thick .</context>
+    </instance>
+    <instance id="br-e30#w1500_0" docsrc="br-e30">
+      <context> It can put an end to marginal claims which play havoc with your insurance rates . Also , beware of open_end policies , especially in the medical field . This will mean that every time there 's an increase in hospital rates your cost will go_up in like manner . Put a dollar and cents <head>limit</head> on benefits . Do n't go overboard on insurance that pays benefits only upon death . Generally , your employee will greatly appreciate benefits that protect him during his working life or during retirement . In granting bereavement leaves , specify the maximum time_off and list what the worker 's relation to the deceased must be to qualify .</context>
+    </instance>
+    <instance id="br-f19#w2143_0" docsrc="br-f19">
+      <context> The last two writers introduce strong political bias into their works , and not unlike the union leaders that we will discuss soon , see folklore as a reservoir of protest by a downtrodden and publically silenced mass . Folklore , as used by such writers , really reflects images engraved into it by the very person using it . The folk are simply not homogeneous with_respect_to nation or political attitude . In_fact , there is much evidence to indicate they do n't care a_bit about anything beyond their particular regional , ethnic and occupational <head>limits</head> . Nevertheless , with a reading public that longs for `` the_good_old_days '' and with an awareness of our expanding international interests , it is easy for the Benets to obtain a magnified position in literature by use of all sorts of Americana , real or fake , and it is easy for the Steinbecks and Sandburgs to support their messages of reform by reading messages of reform into the minds of the folk .</context>
+    </instance>
+    <instance id="br-f43#w1111_0" docsrc="br-f43">
+      <context> The movie was The Great_Train_Robbery and its effects on the young industry and art were all_but incalculable . Overnight , for_one_thing , Porter 's film multiplied the standard running_time of movies by ten . The Great_Train_Robbery is a one reel film . One reel - from eight to twelve minutes - became the standard length from the year of Robbery , 1903 , until Griffith shattered that <head>limit</head> forever with Birth_of_a_Nation in 1915 . The reel itself became and still is the standard of measure for the movies . The material of the Porter film is simplicity itself ; much of_it has continued to be used over the years and the heart of_it - good_guys and bad_guys in the old West - pretty well dominated television toward the end of the 1950's . A band of robbers enters a railroad_station , overpowers and ties_up the telegraph_operator , holds_up the train and escapes .</context>
+    </instance>
+    <instance id="br-g43#w1923_0" docsrc="br-g43">
+      <context> One of the most frequent views of the value of literature is the education of sensibility that it is thought to provide . Sensibility is a vague word , covering an area of meaning rather than any precise talent , quality , or skill . Among_other_things it means perception , discrimination , sensitivity to subtle differences . Both the extent to which this is true and the <head>limits</head> of the field of perceptual skill involved should be acknowledged . Its truth is illustrated by the skill , sensitivity , and general expertise of the English_professor with whom one attends the theatre . The limits are suggested by an imaginary experiment : contrast the perceptual skill of English_professors with that of their colleagues in discriminating among motor_cars , political candidates , or female beauty . Along these lines , the particular point that sensitivity in literature leads to sensitivity in human relations would require more proof than I have seen .</context>
+    </instance>
+    <instance id="br-g43#w1959_0" docsrc="br-g43">
+      <context> Among_other_things it means perception , discrimination , sensitivity to subtle differences . Both the extent to which this is true and the limits of the field of perceptual skill involved should be acknowledged . Its truth is illustrated by the skill , sensitivity , and general expertise of the English_professor with whom one attends the theatre . The <head>limits</head> are suggested by an imaginary experiment : contrast the perceptual skill of English_professors with that of their colleagues in discriminating among motor_cars , political candidates , or female beauty . Along these lines , the particular point that sensitivity in literature leads to sensitivity in human relations would require more proof than I have seen . In a symposium and general exploration of the field of Person Perception and Interpersonal Behavior the discussion does not touch upon this aspect of the subject , with one possible exception ; Solomon_Asch shows the transcultural stability of metaphors based on sensation ( hot , sweet , bitter , etc . ) dealing with personal qualities of human_beings and events . But to go from here to the belief that those more sensitive to metaphor and language will also be more sensitive to personal differences is too great an inferential leap .</context>
+    </instance>
+    <instance id="br-h11#w1362_0" docsrc="br-h11">
+      <context> A prototype which fulfills the requirements was developed and thoroughly tested . The transducer is a null type instrument and employs a stretched diaphragm , 0.001 in. thick and 1 in. in diameter . A small pressure unbalance displaces the diaphragm and changes the capacitance between the diaphragm and an electrically insulated plate spaced 0.001 in. apart ( for * * f ) . Spherical concave backing surfaces support the diaphragm when excessive pressures are applied and prevent the stresses within the diaphragm from exceeding the elastic <head>limit</head> . Over a temperature range from 25 to 200 * * f and at pressures up_to 250 atm , an overload of 300 psi , applied for a period of one day , results in an uncertainty in the pressure of , at_most , one millimeter_of_mercury . A 6 - year study of the transport properties of air at elevated temperatures has been completed . This project was carried_out under sponsorship of the Ballistic_Missile_Division_of_the_Air_Research_and_Development_Command , U._S._Air_Force , and had as its goal the investigation of the transport by diffusion of the heat_energy of chemical binding .</context>
+    </instance>
+    <instance id="br-j01#w85_0" docsrc="br-j01">
+      <context> It has recently become practical to use the radio_emission of the moon and planets as a new source of information about these bodies and their atmospheres . The results of present observations of the thermal radio_emission of the moon are consistent with the very low thermal conductivity of the surface layer which was derived from the variation in the infrared_emission during eclipses ( e.g. , Garstung , 1958 ) . When sufficiently accurate and complete measurements are available , it will be possible to set <head>limits</head> on the thermal and electrical characteristics of the surface and subsurface materials of the moon . Observations of the radio_emission of a planet which has an extensive atmosphere will probe the atmosphere to_a_greater_extent than those using shorter wave_lengths and should in some cases give otherwise unobtainable information about the characteristics of the solid surface . Radio_observations of Venus and Jupiter have already supplied unexpected experimental data on the physical conditions of these planets . The observed intensity of the radio_emission of Venus is much higher than the expected thermal intensity , although the spectrum indicated by measurements at wave_lengths near 3 cm and 10 cm is like that of a black_body at about 600 ` K .</context>
+    </instance>
+    <instance id="br-j01#w980_0" docsrc="br-j01">
+      <context> The observable characteristics of planetary radio_radiation are the intensity , the polarization , and the direction of arrival of the waves . The maximum angular diameter of any planetary disk as observed from the earth is about 1 minute_of_arc . This is much smaller than the highest resolution of even the very large reflectors now under construction , and consequently the radio_emission of different regions of the disk cannot be resolved . It should be possible , however , to put useful <head>limits</head> on the diameters of the radio_sources by observing with large reflectors or with interferometers . Measurements of polarization are presently limited by apparatus sensitivity and will remain difficult because of the low intensity of the planetary radiation at the earth . There have been few measurements specifically for the determination of the polarization of planetary radiation . The measurements made with the NRL 50 - foot reflector , which is altitude azimuth mounted , would have shown a systematic change with local hour_angle in the measured intensities of Venus and Jupiter if a substantial part of the radiation had been linearly polarized .</context>
+    </instance>
+    <instance id="br-j04#w827_0" docsrc="br-j04">
+      <context> A drawing of the structure is to be_found in reference 6 . The gross details of the structure appear reasonable . The structure appears to be unique among ROOH compounds , but is the same as that assumed by **f . The bond angles and distances are all within the expected <head>limits</head> and the volume per oxygen is about normal . However , the possible absence of a center of symmetry not_only moves the hydrogen_atom off **f , but also allows the oxygen atoms to become nonequivalent , with **f at **f and **f at **f ( space group **f ) , where **f represents the oxygens on one side of the **f layers and **f those on the other side . However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence .</context>
+    </instance>
+    <instance id="br-j12#w858_0" docsrc="br-j12">
+      <context> The volume and , perhaps , even the characteristics of bronchial arterial blood flow might be different in the dog than in the horse . Also , interlobular air drifts may be all_but nonexistent in the cow ; probably occur in the horse much_as in the human_being ; and , in contrast are present to a relatively immense degree on a segmental basis in the dog where lobules are absent ( Van_Allen and Lindskog , ' 31 ) . A reason for such wide variation in the pulmonary morphology is entirely lacking at_present . Within certain wide <head>limits</head> anatomy dictates function and , if one is permitted to speculate , potential pathology should be included in this statement as_well . For_example , the marked susceptibility of the monkey to respiratory infection might be related_to its delicate , long alveolar ducts and short , large bronchioles situated within a parenchyma entirely lacking in protective supportive tissue barriers such_as those found in types 1 , and 3 , . One might also wonder if monkeys are capable of developing bronchiolitis as we know it in man or the horse . In_addition , it would be difficult to imagine chronic generalized emphysema occurring in a cow , considering its marked lobular development but , conversely , not difficult to imagine this occurring in the horse or the dog .</context>
+    </instance>
+    <instance id="br-j13#w1859_0" docsrc="br-j13">
+      <context> The growth center depicted here , in the distal phalanx of the second finger , is listed as the fifth of those in the seven short_bones . The mean onset age was 25.3 months ( Table 1 ) , and the average Span of the osseous stage was 133 months . The correlation ( Table 2 ) between onset age and completion age was + .50 , and that between onset age and Span was - .10 . With due consideration for the <head>limits</head> of precision in assessing , expected rate of change in ossification of girls age 2 years , and the known variations in rate of ossification of these children as described in our preceding paper in the Supplement , each arrow with a `` shaft length '' of four months or less was selected as indicating `` same schedule '' at Onset and Completion , for this particular epiphysis . Accordingly , girls 31 , 29 , 33 , 21 , 26 , 13 , 3 , 4 , 14 , 32 , 24 , 25 , 34 , 23 , 6 , 15 , 22 , and 16 may be said to have the `` same schedule '' at Onset and Completion . It seems clear , from the counter-balanced shape of the series of arrows in Figure 5 that there was about an equal number of early and late Onsets and Completions for the 34 girls . Accordingly , if epiphyseal diaphyseal fusion occurs in this phalanx near menarche , early and late menarches might have been forecast rather precisely at the time of Onset of ossification for the 18 girls with `` same schedule '' .</context>
+    </instance>
+    <instance id="br-j17#w552_0" docsrc="br-j17">
+      <context> Obviously , a vicious_cycle develops . This tendency can be broken either by restoring hypothalamic excitability directly or via cortico-hypothalamic pathways . It is believed that drug therapy and electroshock involve the former and psychotherapy the latter mechanism . Before we comment further on these pathological conditions , we should remember that changes in the state of the hypothalamus within physiological <head>limits</head> distinguish sleep from wakefulness . Thus , a low intensity of hypothalamic cortical discharges prevails in sleep and a high one during wakefulness , resulting in synchronous EEG potentials in the former and asynchrony in the latter condition . Moreover , the dominance in parasympathetic action ( with reciprocal inhibition of the sympathetic ) at the hypothalamic level induces , by its peripheral action , the autonomic symptoms of sleep and , by its action on the cortex , a lessening in the reactivity of the sensory and motor apparatus of the somatic nervous_system . With the dominance of the sympathetic division of the hypothalamus , the opposite changes occur .</context>
+    </instance>
+    <instance id="br-j35#w768_0" docsrc="br-j35">
+      <context> For Yokuts , I tabulated these 71 items in five columns , according_as they were expressed by 1 , 2 , 3 , 4 , and more_than 4 stems . The totals for these five categories are not too uneven , namely 20 , 15 , 11 , 16 , 9 respectively . For Athabascan , with a greater range of stems , the first two of five corresponding columns were identical , 1 and 2 stems ; the three others had to be spread somewhat , and are headed respectively * * f ; * * f ; and * * f stems . While the particular <head>limits</head> of these groupings may seem artificially arbitrary ; they do fairly express a corresponding grouping of more variable material , and they eventuate also in five classes , along a similar scale , containing approximately equal numbers of cases , namely 19 , 14 , 15 , 11 , 12 in Athabascan . When now we count the frequency of the 71 items in the two language families appearing in the same column or grade , or one column or grade apart , or two or three or four , we find these differences : * * f This distribution can be summarized by averaging the distance in grades apart : * * f ; which , divided by * * f gives a mean of 1.07 grades apart . If the distribution of the 71 items were wholly concordant in the two families , the distance would of_course be 0 . If it were wholly random and unrelated , it would be 2.0 , assuming the five classes were equal in n , which approximately they are .</context>
+    </instance>
+    <instance id="br-j38#w1587_0" docsrc="br-j38">
+      <context> There is a need for an expanded Federal effort to provide research and information to help guide state education departments and local school_boards in existing programs . A related question is whether unemployed workers can be motivated to take the training provided . There is little evidence that existing public or private training_programs have any great difficulty getting students to enroll in their programs , even though they must pay tuition , receive no subsistence payments , and are not guaranteed a job . However , there always is some <head>limit</head> to the numbers who will spend the time and effort to acquire training . Again , one major difficulty is the local focus . A training_program in a depressed area may have few enrollees unless there is some apparent prospect for better employment opportunities afterwards , and the prospect may be poor if the training is aimed solely at jobs in the local community . If there is adequate information on job opportunities for skilled jobs elsewhere , many_more workers can be expected to respond .</context>
+    </instance>
+    <instance id="br-j41#w1050_0" docsrc="br-j41">
+      <context> The entry limiting price will also be raised for potential domestic competition , but unless general inflation permits profit_margins to increase proportionately throughout the economy , we might expect the public limit price to approach the entry limit price . The foreign entry limit price would be approached more rapidly , since domestic wage rates do not enter foreign costs directly . Where this approach becomes critical , the industry can be expected to put much emphasis on this as evidence of its sincerity in `` resisting '' the wage pressures of a powerful union , requesting tariff relief after it has `` reluctantly '' acceded to the union pressure . Whether or not it is in the industry 's interest to allow the basic wage rate to rise obviously depends_upon the extent to which the public <head>limit</head> price rises in response to a basic wage increase , and the relation of this response to the increase in costs accompanying the wage increase . The extent to which the public limit price is raised by a given increase in the basic wage rate is itself a function of three things : the passage of time , the level of GNP , and the size of the wage increase . We are abstracting from the fact of strikes here , but it should be obvious that the extent to which the public limit price is raised by a given increase in the basic wage rate is also a function of the show of resistance put_up by the industry . The industry may deliberately take a strike , not to put pressure on the union , but in_order to `` educate '' the government and the customers of the industry .</context>
+    </instance>
+    <instance id="br-j41#w1083_0" docsrc="br-j41">
+      <context> The foreign entry limit price would be approached more rapidly , since domestic wage rates do not enter foreign costs directly . Where this approach becomes critical , the industry can be expected to put much emphasis on this as evidence of its sincerity in `` resisting '' the wage pressures of a powerful union , requesting tariff relief after it has `` reluctantly '' acceded to the union pressure . Whether or not it is in the industry 's interest to allow the basic wage rate to rise obviously depends_upon the extent to which the public limit price rises in response to a basic wage increase , and the relation of this response to the increase in costs accompanying the wage increase . The extent to which the public <head>limit</head> price is raised by a given increase in the basic wage rate is itself a function of three things : the passage of time , the level of GNP , and the size of the wage increase . We are abstracting from the fact of strikes here , but it should be obvious that the extent to which the public limit price is raised by a given increase in the basic wage rate is also a function of the show of resistance put_up by the industry . The industry may deliberately take a strike , not to put pressure on the union , but in_order to `` educate '' the government and the customers of the industry . As a strike continues , these parties increase their pressure on the industry to reach an agreement .</context>
+    </instance>
+    <instance id="br-j41#w1144_0" docsrc="br-j41">
+      <context> Where this approach becomes critical , the industry can be expected to put much emphasis on this as evidence of its sincerity in `` resisting '' the wage pressures of a powerful union , requesting tariff relief after it has `` reluctantly '' acceded to the union pressure . Whether or not it is in the industry 's interest to allow the basic wage rate to rise obviously depends_upon the extent to which the public limit price rises in response to a basic wage increase , and the relation of this response to the increase in costs accompanying the wage increase . The extent to which the public limit price is raised by a given increase in the basic wage rate is itself a function of three things : the passage of time , the level of GNP , and the size of the wage increase . We are abstracting from the fact of strikes here , but it should be obvious that the extent to which the public <head>limit</head> price is raised by a given increase in the basic wage rate is also a function of the show of resistance put_up by the industry . The industry may deliberately take a strike , not to put pressure on the union , but in_order to `` educate '' the government and the customers of the industry . As a strike continues , these parties increase their pressure on the industry to reach an agreement . They become increasingly willing to accept the price increase that the industry claims the wage bargain would entail .</context>
+    </instance>
+    <instance id="br-j41#w1299_0" docsrc="br-j41">
+      <context> They become increasingly willing to accept the price increase that the industry claims the wage bargain would entail . Public indignation and resistance to wage price increases is obviously much less when the increases are on the order of 3 % per_annum than when the increases are on the order of 3 % per month . The simple passage of an additional eleven months ' time makes the second 3 % boost more acceptable . Thus , the public <head>limit</head> price is raised further by a given wage increase the longer it has been since the previous price increase . Notice , however , that the passage of time does not permit the raising of prices per_se , without an accompanying wage increase . Similarly , higher levels of GNP do not , in themselves , provide grounds for raising prices , but they do relax some of the pressure on the industry so that it can raise prices higher for a given wage increase . This is not extended to anticipated levels of GNP , however - only the current level of GNP affects the public pressure against wage price increases .</context>
+    </instance>
+    <instance id="br-j41#w254_0" docsrc="br-j41">
+      <context> The model of this paper considers an industry which is not characterized by vigorous price_competition , but which is so basic that its wage price policies are held in_check by continuous critical public scrutiny . Where the industry 's product price has been kept below the `` profit_maximizing '' and `` entry limiting '' prices due_to fears of public reaction , the profit seeking producers have an interest in offering little real resistance to wage demands . The contribution of this paper is a demonstration of this proposition , and an exploration of some of its implications . In_order_to focus clearly upon the operation of this one force , which we may call the effect of `` public <head>limit</head> pricing '' on `` key '' wage bargains , we deliberately simplify the model by abstracting from other forces , such_as union power , which may be relevant in an actual situation . For expository purposes , this is best treated as a model which spells_out the conditions under which an important industry affected with the public interest would find it profitable to raise wages even in the absence of union pressures for higher wages . Part 1 , below describes this abstract model by spelling_out its assumptions . Part 2 , discusses the operation of the model and derives some significant conclusions .</context>
+    </instance>
+    <instance id="br-j41#w805_0" docsrc="br-j41">
+      <context> The threat of effective anti-trust action , provoked by `` gouging the public '' through price increases not justified by cost increases , and fears of endangering relations with customers , Congress , the general public and the press , all operate to keep price increases in some relation to cost increases . For the industry of this model , the effect of such public pressures in the past has been to hold the price well below the short-run profit maximizing price ( given the wage rate and the level of GNP ) , and even below the entry limited price ( but not below average_cost ) . For such an industry , it is only `` safe '' to raise its price if such an increase is manifestly `` justified '' by rising costs ( due_to rising wages , etc . ) . Thus , if public pressure sets the effective <head>limit</head> to the price that the industry may charge , this pressure is itself a function of the wage rate . In this model , we abstract from all non wage sources of cost changes , so that the `` public limit price '' only rises as the wage rate rises . In such circumstances , it may well be to the advantage of the industry to allow an increase in the basic wage rate . Since marginal_costs rise when the wage rate rises , the profit_maximizing price also rises when the public limit price is elevated , and is likely to remain well above the latter .</context>
+    </instance>
+    <instance id="br-j41#w846_0" docsrc="br-j41">
+      <context> For the industry of this model , the effect of such public pressures in the past has been to hold the price well below the short-run profit maximizing price ( given the wage rate and the level of GNP ) , and even below the entry limited price ( but not below average_cost ) . For such an industry , it is only `` safe '' to raise its price if such an increase is manifestly `` justified '' by rising costs ( due_to rising wages , etc . ) . Thus , if public pressure sets the effective limit to the price that the industry may charge , this pressure is itself a function of the wage rate . In this model , we abstract from all non wage sources of cost changes , so that the `` public <head>limit</head> price '' only rises as the wage rate rises . In such circumstances , it may well be to the advantage of the industry to allow an increase in the basic wage rate . Since marginal_costs rise when the wage rate rises , the profit_maximizing price also rises when the public limit price is elevated , and is likely to remain well above the latter . The entry limiting price will also be raised for potential domestic competition , but unless general inflation permits profit_margins to increase proportionately throughout the economy , we might expect the public limit price to approach the entry limit price .</context>
+    </instance>
+    <instance id="br-j41#w898_0" docsrc="br-j41">
+      <context> Thus , if public pressure sets the effective limit to the price that the industry may charge , this pressure is itself a function of the wage rate . In this model , we abstract from all non wage sources of cost changes , so that the `` public limit price '' only rises as the wage rate rises . In such circumstances , it may well be to the advantage of the industry to allow an increase in the basic wage rate . Since marginal_costs rise when the wage rate rises , the profit_maximizing price also rises when the public <head>limit</head> price is elevated , and is likely to remain well above the latter . The entry limiting price will also be raised for potential domestic competition , but unless general inflation permits profit_margins to increase proportionately throughout the economy , we might expect the public limit price to approach the entry limit price . The foreign entry limit price would be approached more rapidly , since domestic wage rates do not enter foreign costs directly . Where this approach becomes critical , the industry can be expected to put much emphasis on this as evidence of its sincerity in `` resisting '' the wage pressures of a powerful union , requesting tariff relief after it has `` reluctantly '' acceded to the union pressure .</context>
+    </instance>
+    <instance id="br-j41#w944_0" docsrc="br-j41">
+      <context> In this model , we abstract from all non wage sources of cost changes , so that the `` public limit price '' only rises as the wage rate rises . In such circumstances , it may well be to the advantage of the industry to allow an increase in the basic wage rate . Since marginal_costs rise when the wage rate rises , the profit_maximizing price also rises when the public limit price is elevated , and is likely to remain well above the latter . The entry limiting price will also be raised for potential domestic competition , but unless general inflation permits profit_margins to increase proportionately throughout the economy , we might expect the public <head>limit</head> price to approach the entry limit price . The foreign entry limit price would be approached more rapidly , since domestic wage rates do not enter foreign costs directly . Where this approach becomes critical , the industry can be expected to put much emphasis on this as evidence of its sincerity in `` resisting '' the wage pressures of a powerful union , requesting tariff relief after it has `` reluctantly '' acceded to the union pressure . Whether or not it is in the industry 's interest to allow the basic wage rate to rise obviously depends_upon the extent to which the public limit price rises in response to a basic wage increase , and the relation of this response to the increase in costs accompanying the wage increase .</context>
+    </instance>
+    <instance id="br-j41#w950_0" docsrc="br-j41">
+      <context> In this model , we abstract from all non wage sources of cost changes , so that the `` public limit price '' only rises as the wage rate rises . In such circumstances , it may well be to the advantage of the industry to allow an increase in the basic wage rate . Since marginal_costs rise when the wage rate rises , the profit_maximizing price also rises when the public limit price is elevated , and is likely to remain well above the latter . The entry limiting price will also be raised for potential domestic competition , but unless general inflation permits profit_margins to increase proportionately throughout the economy , we might expect the public limit price to approach the entry <head>limit</head> price . The foreign entry limit price would be approached more rapidly , since domestic wage rates do not enter foreign costs directly . Where this approach becomes critical , the industry can be expected to put much emphasis on this as evidence of its sincerity in `` resisting '' the wage pressures of a powerful union , requesting tariff relief after it has `` reluctantly '' acceded to the union pressure . Whether or not it is in the industry 's interest to allow the basic wage rate to rise obviously depends_upon the extent to which the public limit price rises in response to a basic wage increase , and the relation of this response to the increase in costs accompanying the wage increase .</context>
+    </instance>
+    <instance id="br-j41#w956_0" docsrc="br-j41">
+      <context> In such circumstances , it may well be to the advantage of the industry to allow an increase in the basic wage rate . Since marginal_costs rise when the wage rate rises , the profit_maximizing price also rises when the public limit price is elevated , and is likely to remain well above the latter . The entry limiting price will also be raised for potential domestic competition , but unless general inflation permits profit_margins to increase proportionately throughout the economy , we might expect the public limit price to approach the entry limit price . The foreign entry <head>limit</head> price would be approached more rapidly , since domestic wage rates do not enter foreign costs directly . Where this approach becomes critical , the industry can be expected to put much emphasis on this as evidence of its sincerity in `` resisting '' the wage pressures of a powerful union , requesting tariff relief after it has `` reluctantly '' acceded to the union pressure . Whether or not it is in the industry 's interest to allow the basic wage rate to rise obviously depends_upon the extent to which the public limit price rises in response to a basic wage increase , and the relation of this response to the increase in costs accompanying the wage increase . The extent to which the public limit price is raised by a given increase in the basic wage rate is itself a function of three things : the passage of time , the level of GNP , and the size of the wage increase .</context>
+    </instance>
+    <instance id="br-j42#w2124_0" docsrc="br-j42">
+      <context> One result was to nationalize much that had been regarded_as the law_of_nations . Admiralty_law , the law_merchant , and the host of problems which arise in private litigation because of some contact with a foreign country were all severed from the older Law_of_Nations and made dependent_on the several national laws . Private international_law ( which Americans call the `` conflict of laws '' ) was thus segregated from international_law proper , or , as it is often called , public international_law . States were free to enact , within broad though ( perhaps ) determinate <head>limits</head> , their own rules as_to the application of foreign law by their courts , to vary the law_merchant , and to enact legislation with regard_to many claims arising on the high_seas . The change was not quite so dramatic as it sounds because in_fact common norms continued to be invoked by municipal courts and were only gradually changed by legislation , and then largely in marginal situations .</context>
+    </instance>
+    <instance id="br-k16#w421_0" docsrc="br-k16">
+      <context> Or was it her own first ball as mistress of this big house , a Van_Rensselaer bride from way upstate near Albany , from Rensselaerwyck . And this handsome booby , staring and sweating , was he her bridegroom ? Martha picked_up the hem of her gown and with eyes closed she slowly began to dance a stately minuet around the ballroom . David_Cortlandt was tired beyond almost the <head>limits</head> of his flesh . He had ridden hard from Boston , and he was not used_to horseback . Now , driving the horse and sulky borrowed from Mynheer_Schuyler , he felt as if every bone was topped by burning oil and that every muscle was ready to dissolve into jelly and leave his big body helpless and unable to move . The road leading south along the river was shaded with old trees , and in the moonlight the silvery landscape was like a setting for trolls and wood gods rather_than the Hudson_River Valley of his boyhood memories .</context>
+    </instance>
+    <instance id="br-k20#w2193_0" docsrc="br-k20">
+      <context> The careless writing was in keeping with his mood of savage discontent . On all sides doors were being slammed in his face . The previous scandals , gaily diverting as they were , had only served to increase his popularity . Now , under the impact of his wife 's disclosures , he was brought suddenly to the realization that there was a <head>limit</head> to tolerance , however brilliant , however far-famed the offender might be . He tried defiance and openly flaunted his devotion to his half_sister , but he soon saw , as did she , that this course if persisted_in would involve them in a common ruin . For_the_moment there was no woman in his life , and it was this vacuum that had given Claire her opportunity . But the liaison successfully started in the last days of autumn was now languishing .</context>
+    </instance>
+    <instance id="n00792720_d_25" docsrc="n00792720_d">
+      <context> a clinical_trial on a few persons to determine the safety of a new drug or invasive medical device ; for drugs , dosage or toxicity <head>limits</head> should be obtained ;</context>
+    </instance>
+    <instance id="n01222034_d_9" docsrc="n01222034_d">
+      <context> the final irritation that stretches your patience beyond the <head>limit</head> ;</context>
+    </instance>
+    <instance id="n04432942_d_11" docsrc="n04432942_d">
+      <context> indicator consisting of a line at the highwater or low water <head>limits</head> of the tides ;</context>
+    </instance>
+    <instance id="n04749991_d_10" docsrc="n04749991_d">
+      <context> a permissible difference ; allowing some freedom to move within <head>limits</head> ;</context>
+    </instance>
+    <instance id="n05118437_d_10" docsrc="n05118437_d">
+      <context> immoderation as a consequence of going beyond sufficient or permitted <head>limits</head> ;</context>
+    </instance>
+    <instance id="n05124792_d_1" docsrc="n05124792_d">
+      <context> a <head>limit</head> to high speed flight imposed by aerodynamic heating ;</context>
+    </instance>
+    <instance id="n05135582_d_8" docsrc="n05135582_d">
+      <context> the property of being very deep ; without <head>limit</head> ;</context>
+    </instance>
+    <instance id="n05209324_d_9" docsrc="n05209324_d">
+      <context> the quality of being infinite ; without bound or <head>limit</head> ;</context>
+    </instance>
+    <instance id="n05863106_d_9" docsrc="n05863106_d">
+      <context> the approach of an infinite series to a finite <head>limit</head> ;</context>
+    </instance>
+    <instance id="n05863302_d_6" docsrc="n05863302_d">
+      <context> an infinite series that has no <head>limit</head> ;</context>
+    </instance>
+    <instance id="n05864047_d_7" docsrc="n05864047_d">
+      <context> a variable that has zero as its <head>limit</head> ;</context>
+    </instance>
+    <instance id="n06013741_d_8" docsrc="n06013741_d">
+      <context> the branch of mathematics that is concerned with <head>limits</head> and with the differentiation and integration of functions ;</context>
+    </instance>
+    <instance id="n06014043_d_10" docsrc="n06014043_d">
+      <context> a branch of mathematics involving calculus and the theory of <head>limits</head> ; sequences and series and integration and differentiation ;</context>
+    </instance>
+    <instance id="n06260518_d_6" docsrc="n06260518_d">
+      <context> a range of frequencies between two <head>limits</head> ;</context>
+    </instance>
+    <instance id="n07407272_d_11" docsrc="n07407272_d">
+      <context> the occurrence of surplus liquid ( as water ) exceeding the <head>limit</head> or capacity ;</context>
+    </instance>
+    <instance id="n08456178_d_3" docsrc="n08456178_d">
+      <context> Islamic_laws stating the <head>limits</head> ordained by Allah and including the deterrent punishments for serious crimes ;</context>
+    </instance>
+    <instance id="n08541130_d_1" docsrc="n08541130_d">
+      <context> the <head>limits</head> of the area occupied by a city or town ;</context>
+    </instance>
+    <instance id="n08592898_d_1" docsrc="n08592898_d">
+      <context> the <head>limit</head> on the upper ( or northernmost ) side of something ;</context>
+    </instance>
+    <instance id="n08593014_d_1" docsrc="n08593014_d">
+      <context> the <head>limit</head> on the lower ( or southernmost ) side of something ;</context>
+    </instance>
+    <instance id="n08628921_d_1" docsrc="n08628921_d">
+      <context> the <head>limits</head> within which something can be effective ;</context>
+    </instance>
+    <instance id="n08663051_d_1" docsrc="n08663051_d">
+      <context> the <head>limit</head> of a nation's territorial_waters ;</context>
+    </instance>
+    <instance id="n09370006_d_9" docsrc="n09370006_d">
+      <context> the upper part of a glacier ( beyond the <head>limit</head> of perpetual snow ) where the snow turns to ice ;</context>
+    </instance>
+    <instance id="n13758296_ex1_2" docsrc="n13758296_ex1">
+      <context> there are <head>limits</head> on the amount you can bet ;</context>
+    </instance>
+    <instance id="n13759014_d_2" docsrc="n13759014_d">
+      <context> a designated <head>limit</head> beyond which something can not function or must be terminated ;</context>
+    </instance>
+  </lexelt>
+</corpus>

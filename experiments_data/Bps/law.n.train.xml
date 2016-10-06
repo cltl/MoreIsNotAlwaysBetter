@@ -1,0 +1,1245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="law.n" pos="NN">
+    <instance id="a00427496_d_2" docsrc="a00427496_d">
+      <context> conforming_to dietary <head>laws</head> ;</context>
+    </instance>
+    <instance id="a00428121_d_3" docsrc="a00428121_d">
+      <context> not conforming_to dietary <head>laws</head> ;</context>
+    </instance>
+    <instance id="a00472057_d_6" docsrc="a00472057_d">
+      <context> ( of income ) required by <head>law</head> to be reported ;</context>
+    </instance>
+    <instance id="a00472177_d_10" docsrc="a00472177_d">
+      <context> ( of income ) not reportable ; not required by <head>law</head> to be reported ;</context>
+    </instance>
+    <instance id="a00575520_d_11" docsrc="a00575520_d">
+      <context> having or showing active concern for protection of civil_liberties protected by <head>law</head> ;</context>
+    </instance>
+    <instance id="a00575685_d_24" docsrc="a00575685_d">
+      <context> having or demonstrating belief in the essential goodness of man and the autonomy of the individual ; favoring civil and political_liberties , government by <head>law</head> with the consent of the governed , and protection from arbitrary authority ;</context>
+    </instance>
+    <instance id="a00600192_d_1" docsrc="a00600192_d">
+      <context> without <head>law</head> or control ;</context>
+    </instance>
+    <instance id="a00603804_d_14" docsrc="a00603804_d">
+      <context> inclined or showing an inclination to dispute or disagree , even to engage in <head>law</head> suits ;</context>
+    </instance>
+    <instance id="a00607009_d_5" docsrc="a00607009_d">
+      <context> not bound by rule or <head>law</head> or convention ;</context>
+    </instance>
+    <instance id="a00693961_d_5" docsrc="a00693961_d">
+      <context> by right ; according to <head>law</head> ;</context>
+    </instance>
+    <instance id="a00719328_d_3" docsrc="a00719328_d">
+      <context> not limited by <head>law</head> ;</context>
+    </instance>
+    <instance id="a00792075_d_7" docsrc="a00792075_d">
+      <context> responsible for making and enforcing rules and <head>laws</head> ;</context>
+    </instance>
+    <instance id="a00829243_d_23" docsrc="a00829243_d">
+      <context> containing no meat or milk ( or their derivatives ) and thus eatable with both meat and dairy dishes according to the dietary <head>laws</head> of Judaism ;</context>
+    </instance>
+    <instance id="a00847972_d_5" docsrc="a00847972_d">
+      <context> not required by rule or <head>law</head> ;</context>
+    </instance>
+    <instance id="a00852425_d_6" docsrc="a00852425_d">
+      <context> qualified for by right according to <head>law</head> ;</context>
+    </instance>
+    <instance id="a00853225_d_2" docsrc="a00853225_d">
+      <context> disqualified by <head>law</head> or rule or provision ;</context>
+    </instance>
+    <instance id="a00890781_d_6" docsrc="a00890781_d">
+      <context> having the same standing before the <head>law</head> ;</context>
+    </instance>
+    <instance id="a00956568_d_1" docsrc="a00956568_d">
+      <context> of <head>laws</head> and regulations ; designed to protect trade and commerce from unfair business practices ;</context>
+    </instance>
+    <instance id="a01395617_d_5" docsrc="a01395617_d">
+      <context> conformable to or allowed by <head>law</head> ;</context>
+    </instance>
+    <instance id="a01395821_d_7" docsrc="a01395821_d">
+      <context> ( of individuals ) adhering strictly to <head>laws</head> and rules and customs ;</context>
+    </instance>
+    <instance id="a01396047_d_8" docsrc="a01396047_d">
+      <context> contrary to or prohibited by or defiant of <head>law</head> ;</context>
+    </instance>
+    <instance id="a01396333_d_5" docsrc="a01396333_d">
+      <context> disobedient to or defiant of <head>law</head> ;</context>
+    </instance>
+    <instance id="a01396503_d_3" docsrc="a01396503_d">
+      <context> lax in enforcing <head>laws</head> ;</context>
+    </instance>
+    <instance id="a01400562_d_5" docsrc="a01400562_d">
+      <context> established by or founded upon <head>law</head> or official or accepted rules ;</context>
+    </instance>
+    <instance id="a01401105_d_4" docsrc="a01401105_d">
+      <context> of or relating to <head>law</head> or to legal_rights and obligations ;</context>
+    </instance>
+    <instance id="a01401224_d_9" docsrc="a01401224_d">
+      <context> authorized , sanctioned by , or in accordance with <head>law</head> ;</context>
+    </instance>
+    <instance id="a01401854_d_2" docsrc="a01401854_d">
+      <context> prohibited by <head>law</head> or by official or accepted rules ;</context>
+    </instance>
+    <instance id="a01402498_d_2" docsrc="a01402498_d">
+      <context> forbidden by <head>law</head> ;</context>
+    </instance>
+    <instance id="a01403469_d_5" docsrc="a01403469_d">
+      <context> not regulated or sanctioned by <head>law</head> ;</context>
+    </instance>
+    <instance id="a01403760_d_5" docsrc="a01403760_d">
+      <context> contrary to or forbidden by <head>law</head> ;</context>
+    </instance>
+    <instance id="a01404370_d_4" docsrc="a01404370_d">
+      <context> subject to punishment by <head>law</head> ;</context>
+    </instance>
+    <instance id="a01487627_d_7" docsrc="a01487627_d">
+      <context> directly relevant to a matter especially a <head>law</head> case ;</context>
+    </instance>
+    <instance id="a01488066_d_8" docsrc="a01488066_d">
+      <context> of no importance or relevance especially to a <head>law</head> case ;</context>
+    </instance>
+    <instance id="a01510320_d_7" docsrc="a01510320_d">
+      <context> made more severe or intense especially in <head>law</head> ;</context>
+    </instance>
+    <instance id="a01599445_d_4" docsrc="a01599445_d">
+      <context> in accordance with scientific <head>laws</head> ;</context>
+    </instance>
+    <instance id="a01599532_d_5" docsrc="a01599532_d">
+      <context> not in accordance with scientific <head>laws</head> ;</context>
+    </instance>
+    <instance id="a01616474_d_2" docsrc="a01616474_d">
+      <context> caused by <head>law</head> or conscience to follow a certain course ;</context>
+    </instance>
+    <instance id="a01631025_d_5" docsrc="a01631025_d">
+      <context> offending against or breaking a <head>law</head> or rule ;</context>
+    </instance>
+    <instance id="a01961410_d_5" docsrc="a01961410_d">
+      <context> not conforming_to legality , moral <head>law</head> , or social convention ;</context>
+    </instance>
+    <instance id="a01962310_d_9" docsrc="a01962310_d">
+      <context> controlled or governed according to rule or principle or <head>law</head> ;</context>
+    </instance>
+    <instance id="a02034828_d_5" docsrc="a02034828_d">
+      <context> in conformance with justice or <head>law</head> or morality ;</context>
+    </instance>
+    <instance id="a02035337_d_6" docsrc="a02035337_d">
+      <context> contrary to conscience or morality or <head>law</head> ;</context>
+    </instance>
+    <instance id="a02073678_d_10" docsrc="a02073678_d">
+      <context> of sound mind , memory , and understanding ; in <head>law</head> , competent to go to trial ;</context>
+    </instance>
+    <instance id="a02076988_d_11" docsrc="a02076988_d">
+      <context> not of sound mind , memory , or understanding ; in <head>law</head> , not competent to go to trial ;</context>
+    </instance>
+    <instance id="a02703001_d_11" docsrc="a02703001_d">
+      <context> pertaining to the branch of philosophy dealing with the elements and <head>laws</head> and especially the characteristics of the universe such as space and time and causality ;</context>
+    </instance>
+    <instance id="a02753724_d_5" docsrc="a02753724_d">
+      <context> of or relating to the <head>law</head> or jurisprudence ;</context>
+    </instance>
+    <instance id="a02753868_d_12" docsrc="a02753868_d">
+      <context> relating to the science or philosophy of law or a system of <head>laws</head> ;</context>
+    </instance>
+    <instance id="a02753868_d_7" docsrc="a02753868_d">
+      <context> relating to the science or philosophy of <head>law</head> or a system of laws ;</context>
+    </instance>
+    <instance id="a02754197_d_8" docsrc="a02754197_d">
+      <context> relating to or characteristic of the profession of <head>law</head> ;</context>
+    </instance>
+    <instance id="a03031102_d_10" docsrc="a03031102_d">
+      <context> of or relating to Draco or his harsh code of <head>laws</head> ;</context>
+    </instance>
+    <instance id="a03035313_d_7" docsrc="a03035313_d">
+      <context> of or relating to Moses or the <head>laws</head> and writings attributed to him ;</context>
+    </instance>
+    <instance id="br-a01#w1054_0" docsrc="br-a01">
+      <context> In the Blue_Ridge meeting , the audience was warned that entering a candidate for governor would force it to take petitions out into voting_precincts to obtain the signatures of registered voters . Despite the warning , there was a unanimous vote to enter a candidate , according_to Republicans who attended . When the crowd was asked whether it wanted to wait one more term to make the race , it voted no - and there were no dissents . The largest hurdle the Republicans would have to face is a state <head>law</head> which says that before making a first race , one of two alternative courses must be taken : Five per_cent of the voters in each county must sign petitions requesting that the Republicans be allowed to place names of candidates on the general_election ballot , or The Republicans must hold a primary under the county unit system - a system which the party opposes in its platform . Sam_Caldwell , State_Highway_Department public_relations director , resigned Tuesday to work for Lt._Gov._Garland_Byrd 's campaign . Caldwell 's resignation had been expected for some time .</context>
+    </instance>
+    <instance id="br-a01#w139_0" docsrc="br-a01">
+      <context> The jury further said in term end presentments that the City_Executive_Committee , which had over-all charge of the election , `` deserves the praise and thanks of the City_of_Atlanta '' for the manner in which the election was conducted . The September October term jury had been charged by Fulton Superior_Court_Judge_Durwood_Pye to investigate reports of possible `` irregularities '' in the hard-fought primary which was won by Mayor-nominate_Ivan_Allen_Jr. . `` Only a relative handful of such reports was received '' , the jury said , `` considering the widespread interest in the election , the number of voters and the size of_this city '' . The jury said it did find that many_of Georgia 's registration and election <head>laws</head> `` are outmoded or inadequate and often ambiguous '' . It recommended that Fulton legislators act `` to have these laws studied and revised to the end of modernizing and improving them '' . The grand_jury commented on a number of other topics , among them the Atlanta and Fulton_County purchasing_departments which it said `` are well operated and follow generally accepted practices which inure to the best interest of both governments '' . However , the jury said it believes `` these two offices should be combined to achieve greater efficiency and reduce the cost of administration '' .</context>
+    </instance>
+    <instance id="br-a01#w160_0" docsrc="br-a01">
+      <context> The September October term jury had been charged by Fulton Superior_Court_Judge_Durwood_Pye to investigate reports of possible `` irregularities '' in the hard-fought primary which was won by Mayor-nominate_Ivan_Allen_Jr. . `` Only a relative handful of such reports was received '' , the jury said , `` considering the widespread interest in the election , the number of voters and the size of_this city '' . The jury said it did find that many_of Georgia 's registration and election laws `` are outmoded or inadequate and often ambiguous '' . It recommended that Fulton legislators act `` to have these <head>laws</head> studied and revised to the end of modernizing and improving them '' . The grand_jury commented on a number of other topics , among them the Atlanta and Fulton_County purchasing_departments which it said `` are well operated and follow generally accepted practices which inure to the best interest of both governments '' . However , the jury said it believes `` these two offices should be combined to achieve greater efficiency and reduce the cost of administration '' . The City_Purchasing_Department , the jury said , `` is lacking in experienced clerical personnel as a result of city personnel policies '' .</context>
+    </instance>
+    <instance id="br-a01#w283_0" docsrc="br-a01">
+      <context> However , the jury said it believes `` these two offices should be combined to achieve greater efficiency and reduce the cost of administration '' . The City_Purchasing_Department , the jury said , `` is lacking in experienced clerical personnel as a result of city personnel policies '' . It urged that the city `` take steps to remedy '' this problem . Implementation of Georgia 's automobile title <head>law</head> was also recommended by the outgoing jury . It urged that the next Legislature `` provide enabling funds and re-set the effective date so_that an orderly implementation of the law may be effected '' . The grand_jury took_a_swipe_at the State_Welfare_Department 's handling of federal funds granted for child_welfare_services in foster_homes . `` This is one of the major items in the Fulton_County general assistance program '' , the jury said , but the State_Welfare_Department `` has seen_fit to distribute these funds through the welfare departments of all the counties in the state with the exception of Fulton_County , which receives none of_this money .</context>
+    </instance>
+    <instance id="br-a01#w313_0" docsrc="br-a01">
+      <context> The City_Purchasing_Department , the jury said , `` is lacking in experienced clerical personnel as a result of city personnel policies '' . It urged that the city `` take steps to remedy '' this problem . Implementation of Georgia 's automobile title law was also recommended by the outgoing jury . It urged that the next Legislature `` provide enabling funds and re-set the effective date so_that an orderly implementation of the <head>law</head> may be effected '' . The grand_jury took_a_swipe_at the State_Welfare_Department 's handling of federal funds granted for child_welfare_services in foster_homes . `` This is one of the major items in the Fulton_County general assistance program '' , the jury said , but the State_Welfare_Department `` has seen_fit to distribute these funds through the welfare departments of all the counties in the state with the exception of Fulton_County , which receives none of_this money . The jurors said they realize `` a proportionate distribution of these funds might disable this program in our less populous counties '' .</context>
+    </instance>
+    <instance id="br-a02#w135_0" docsrc="br-a02">
+      <context> Under committee rules , it went automatically to a subcommittee for one week . But questions with which committee_members taunted bankers appearing as witnesses left little doubt that they will recommend passage of_it . Daniel termed `` extremely conservative '' his estimate that it would produce 17 million dollars to help erase an anticipated deficit of 63 million dollars at the end of the current fiscal_year next Aug. 31 . He told the committee the measure would merely provide means of enforcing the escheat <head>law</head> which has been on_the_books `` since Texas was a republic '' . It permits the state to take_over bank_accounts , stocks and other personal_property of persons missing for seven years or more . The bill , which Daniel said he drafted personally , would force banks , insurance_firms , pipeline_companies and other corporations to report such property to the state_treasurer . The escheat law cannot be enforced now because it is almost impossible to locate such property , Daniel declared .</context>
+    </instance>
+    <instance id="br-a02#w1459_0" docsrc="br-a02">
+      <context> `` This is a poor boy 's bill '' , said Chapman . `` Dallas and Fort_Worth can vote bonds . This would help the little peanut districts '' . A Houston teacher , now serving in the Legislature , proposed Thursday a <head>law</head> reducing the time spent learning `` educational methods '' . Rep._Henry_C._Grover , who teaches history in the Houston public_schools , would reduce from 24 to 12 semester_hours the so-called `` teaching_methods '' courses required to obtain a junior or senior_high_school teaching_certificate . A normal year 's work in college is 30 semester_hours . Grover also would require junior senior_high teachers to have at_least 24 semester_hours credit in the subject they are teaching .</context>
+    </instance>
+    <instance id="br-a02#w199_0" docsrc="br-a02">
+      <context> He told the committee the measure would merely provide means of enforcing the escheat law which has been on_the_books `` since Texas was a republic '' . It permits the state to take_over bank_accounts , stocks and other personal_property of persons missing for seven years or more . The bill , which Daniel said he drafted personally , would force banks , insurance_firms , pipeline_companies and other corporations to report such property to the state_treasurer . The escheat <head>law</head> cannot be enforced now because it is almost impossible to locate such property , Daniel declared . Dewey_Lawrence , a Tyler lawyer representing the Texas_Bankers_Association , sounded the opposition keynote when he said it would force banks to violate their contractual obligations with depositors and undermine the confidence of bank customers . `` If you destroy confidence in banks , you do something to the economy '' , he said . `` You take out_of circulation many millions of dollars '' .</context>
+    </instance>
+    <instance id="br-d04#w2076_0" docsrc="br-d04">
+      <context> One night , so some of these theories run , Adam would have fallen_asleep , much_as he fell_asleep for the creation of Eve ; and thus he would have been carried_over into the life_eternal . The embarrassment of these theories over the naturalness of death is an illustration of the thesis that death cannot be only a punishment , for some termination seems necessary in a life that is lived within the natural_order of time and change . On_the_other_hand , Christian faith knows that death is more than the natural termination of temporal existence . It is the wages of sin , and its sting is the <head>law</head> . If this aspect of death as punishment is not distinguished from the idea of death as natural termination , the conclusion seems inevitable that temporal existence itself is a form of punishment rather than the state into which man is put by the will of the Creator . This seems to have been the conclusion to which Origen was forced . If death receives more_than its share of attention from the theologian and if sin receives less_than its share , the gift of the life_eternal through Christ begins to look_like the divinely appointed means of rescue from temporal , i.e. , created , existence .</context>
+    </instance>
+    <instance id="br-d04#w807_0" docsrc="br-d04">
+      <context> Recent research on Irenaeus , however , makes it evident that he does not consistently maintain this distinction . He does not mean to say that Adam lost the similitude of God and his immortality through the fall ; for he was created not exactly immortal , nor yet exactly mortal , but capable of immortality as_well_as of mortality . Therefore Irenaeus describes man 's creation as_follows : `` So_that the man should not have thoughts of grandeur , and become lifted_up , as if he had no lord , because of the dominion that had been given to him , and the freedom , fall into sin against God his Creator , overstepping his bounds , and take_up an attitude of self-conceited arrogance towards God , a <head>law</head> was given him by God , that he might know that he had for lord the lord of all . And He laid_down for him certain conditions : so_that , if he kept the command of God , then he would always remain as he was , that_is , immortal ; but if he did not , he would become mortal , melting into earth , whence his frame had been taken '' . These conditions man did not keep , and thus he became mortal ; yet he did not stop being human as a result . There is no justification for systematizing the random statements of Irenaeus about the image of God beyond this , nor for reading into his imprecise usage the later theological distinction between the image of God ( humanity ) and the similitude of God ( immortality ) .</context>
+    </instance>
+    <instance id="br-e26#w1537_0" docsrc="br-e26">
+      <context> In Berlin he published his views of the chemical laws_of_nature in German and this was issued in French translation ( Paris , 1813 ) under the title Recherches_sur_l_'_identite_des_forces_chimiques_et_electriques , a work held in very high esteem by the new generation of research chemists . His interest in finding a relationship between voltaic electricity and magnetism is here first indicated . Chapter 8 , is entitled `` On_Magnetism '' and in it are included such remarks as , `` One has always been tempted to compare the magnetic_forces with the electrical forces . The great resemblance between electrical and magnetic_attractions and repulsions and the similarity of their <head>laws</head> necessarily would bring_about this comparison . It is true , that nothing has been found comparable_with electricity by communication ; but the phenomena observed had such a degree of analogy to those depending_on electrical distribution that one could not find the slightest difference . The form of galvanic activity is halfway between the magnetic form and the electrical form . There , forces are more latent than in electricity , and less than in magnetism .</context>
+    </instance>
+    <instance id="br-e26#w334_0" docsrc="br-e26">
+      <context> At 12 , Hans was sufficiently mature to help his father in the apothecary shop , which helped stimulate his interest in medicine and science . His earlier love for literature and history remained with him for his entire life . In 1793 the brothers decided to enter the University_of_Copenhagen ( founded in 1479 ) and the following spring found them at the university preparing to matriculate for the autumn session . While Hans devoted himself to the sciences of medicine , physics , and astronomy , his brother studied <head>law</head> . The brothers continued to help each other during their studies , sharing a joint purse , lodging together in the dormitory and dining together at the home of their aunt . They supplemented their income by small government assistance , by tutoring and economizing wherever they could . So impressive were those serious years of study at the university that Hans later wrote , `` to be perfectly free , the young man must revel in the great kingdom of thought and imagination ; there is a struggle there , in which , if he falls , it is easy for him to rise again , there is freedom of utterance there , which draws after it no irreparable consequences on society .</context>
+    </instance>
+    <instance id="br-f15#w1018_0" docsrc="br-f15">
+      <context> This conclusion is based on two propositions : that man by the use of his reason can ascertain God 's purpose in the universe and that God makes known His purpose by certain `` given '' physical arrangements . Thus , man can readily deduce that the primary objective end of the conjugal act is procreation , the propagation of the race . Moreover , man may_not supplant or frustrate the physical arrangements established by God , who through the law of rhythm has provided a natural method for the control of conception . Believing that God is the Author of this <head>law</head> and of all laws_of_nature , Roman_Catholics believe that they are obliged to obey those laws , not frustrate or mock them . Let it be granted then that the theological differences in this area between Protestants and Roman_Catholics appear to be irreconcilable . But people differ in their religious_beliefs on scores of doctrines , without taking_up_arms against those who disagree with them . Why is it so different in regard_to birth_control ?</context>
+    </instance>
+    <instance id="br-f15#w1033_0" docsrc="br-f15">
+      <context> This conclusion is based on two propositions : that man by the use of his reason can ascertain God 's purpose in the universe and that God makes known His purpose by certain `` given '' physical arrangements . Thus , man can readily deduce that the primary objective end of the conjugal act is procreation , the propagation of the race . Moreover , man may_not supplant or frustrate the physical arrangements established by God , who through the law of rhythm has provided a natural method for the control of conception . Believing that God is the Author of this law and of all laws_of_nature , Roman_Catholics believe that they are obliged to obey those <head>laws</head> , not frustrate or mock them . Let it be granted then that the theological differences in this area between Protestants and Roman_Catholics appear to be irreconcilable . But people differ in their religious_beliefs on scores of doctrines , without taking_up_arms against those who disagree with them . Why is it so different in regard_to birth_control ?</context>
+    </instance>
+    <instance id="br-f15#w1147_0" docsrc="br-f15">
+      <context> But people differ in their religious_beliefs on scores of doctrines , without taking_up_arms against those who disagree with them . Why is it so different in regard_to birth_control ? It is because each side has sought to implement its distinctive theological belief through legislation and thus indirectly force its belief , or at_least the practical consequences thereof , upon others . It is always a temptation for a religious organization , especially a powerful or dominant one , to impose through the clenched_fist of the <head>law</head> its creedal viewpoint upon others . Both Roman_Catholics and Protestants have succumbed to this temptation in the past . Consider what happened during World_War_1 , , when the Protestant churches united to push the Prohibition law through Congress . Many_of them sincerely believe that the use of liquor in any form or in any degree is intrinsically evil and sinful .</context>
+    </instance>
+    <instance id="br-f15#w1183_0" docsrc="br-f15">
+      <context> It is because each side has sought to implement its distinctive theological belief through legislation and thus indirectly force its belief , or at_least the practical consequences thereof , upon others . It is always a temptation for a religious organization , especially a powerful or dominant one , to impose through the clenched_fist of the law its creedal viewpoint upon others . Both Roman_Catholics and Protestants have succumbed to this temptation in the past . Consider what happened during World_War_1 , , when the Protestant churches united to push the Prohibition <head>law</head> through Congress . Many_of them sincerely believe that the use of liquor in any form or in any degree is intrinsically evil and sinful . With over four million American men away at war , Protestants forced their distinctive theological belief upon the general public . With the return of our soldiers , it soon became apparent that the belief was not shared by the great majority of citizens .</context>
+    </instance>
+    <instance id="br-f15#w1277_0" docsrc="br-f15">
+      <context> Many_of them sincerely believe that the use of liquor in any form or in any degree is intrinsically evil and sinful . With over four million American men away at war , Protestants forced their distinctive theological belief upon the general public . With the return of our soldiers , it soon became apparent that the belief was not shared by the great majority of citizens . The attempt to enforce that belief ushered_in a reign of bootleggers , racketeers , hijackers and gangsters that led to a breakdown of <head>law</head> unparalleled in our history . The so-called `` noble experiment '' came to an inglorious end . That tumultuous , painful and costly experience shows clearly that a law expressing a moral judgment cannot be enforced when it has little correspondence with the general view of society . That experience holds a lesson for us all in regard_to birth_control today .</context>
+    </instance>
+    <instance id="br-f15#w1306_0" docsrc="br-f15">
+      <context> With the return of our soldiers , it soon became apparent that the belief was not shared by the great majority of citizens . The attempt to enforce that belief ushered_in a reign of bootleggers , racketeers , hijackers and gangsters that led to a breakdown of law unparalleled in our history . The so-called `` noble experiment '' came to an inglorious end . That tumultuous , painful and costly experience shows clearly that a <head>law</head> expressing a moral judgment cannot be enforced when it has little correspondence with the general view of society . That experience holds a lesson for us all in regard_to birth_control today . Up_to the turn_of_the_century , contraception was condemned by all Christian_churches as immoral , unnatural and contrary to divine_law . This was generally reflected in the civil_laws of Christian countries .</context>
+    </instance>
+    <instance id="br-f15#w1813_0" docsrc="br-f15">
+      <context> In_general , the means ( excluding abortion ) that prove most effective are considered the most ethical . This development is reflected in the action taken in February , 1961 , by the general board of the National_Council_of_Churches , the largest Protestant organization in the US . The board approved and commended the use of birth-control devices as a part of Christian responsibility in family_planning . It called_for opposition to <head>laws</head> and institutional practices restricting the information or availability of contraceptives . The general board declared : `` Most_of the Protestant churches hold contraception and periodic continence to be morally right when the motives are right . The general Protestant conviction is that motives , rather than methods , form the primary moral issue , provided the methods are limited to the prevention of conception '' . An action once universally condemned by all Christian_churches and forbidden by the civil_law is now not_only approved by the overwhelming majority of Protestant_denominations , but also deemed , at certain times , to be a positive religious duty .</context>
+    </instance>
+    <instance id="br-f15#w2015_0" docsrc="br-f15">
+      <context> This viewpoint has now been translated into action by the majority of people in this country . Repeated polls have disclosed that most married_couples are now using contraceptives in the practice of birth_control . For all concerned with social-welfare legislation , the significance of this radical and revolutionary change in the thought and habits of the vast majority of the American people is clear , profound and far reaching . To try to oppose the general religious and moral conviction of such a majority by a legislative fiat would be to invite the same breakdown of <head>law</head> and order that was occasioned by the ill-starred Prohibition experiment . This brings us to the fact that the realities we are dealing with lie not in the field of civil legislation , but in the realm of conscience and religion : They are moral judgments and matters of theological belief . Conscience and religion are concerned with private sin : The civil_law is concerned with public crimes . Only confusion , failure and anarchy result when the effort is made to impose upon the civil_authority the impossible task of policing private homes to preclude the possibility of sin .</context>
+    </instance>
+    <instance id="br-f15#w663_0" docsrc="br-f15">
+      <context> Pope_Pius_12 , declared in 1951 that it is possible to be exempt from the normal obligation of parenthood for a long_time and even for the whole duration of married life , if there are serious reasons , such_as those often mentioned in the so-called medical , eugenic , economic and social `` indications '' . This means that such factors as the health of the parents , particularly the mother , their ability to provide their children with the necessities of life , the degree of population density of a country and the shortage of housing facilities may legitimately be taken into consideration in determining the number of offspring . These are substantially the same factors considered by non-Catholics in family_planning . The <head>laws</head> of many states permit birth_control only for medical reasons . The Roman_Catholic_Church , however , sanctions a much more liberal policy on family_planning . Catholics , Protestants and Jews are in_agreement over the objectives of family_planning , but disagree over the methods to be used . The Roman_Catholic_Church sanctions only abstention or the rhythm_method , also_known_as the use of the infertile or safe period .</context>
+    </instance>
+    <instance id="br-f15#w752_0" docsrc="br-f15">
+      <context> The Roman_Catholic_Church , however , sanctions a much more liberal policy on family_planning . Catholics , Protestants and Jews are in_agreement over the objectives of family_planning , but disagree over the methods to be used . The Roman_Catholic_Church sanctions only abstention or the rhythm_method , also_known_as the use of the infertile or safe period . The Church considers this to be the method provided by nature and its divine Author : It involves no frustration of nature 's <head>laws</head> , but simply an intelligent and disciplined use of them . With the exception of the Roman_Catholic and the Orthodox_Catholic_Churches , most churches make no moral distinction between rhythm and mechanical or chemical contraceptives , allowing the couple free choice . Here is a difference in theological belief where there seems little chance of agreement . The grounds for the Church 's position are Scriptural ( Old_Testament ) , the teachings of the fathers and doctors of the early Church , the unbroken tradition of nineteen centuries , the decisions of the highest ecclesiastical authority and the natural_law .</context>
+    </instance>
+    <instance id="br-f15#w996_0" docsrc="br-f15">
+      <context> The Roman_Catholic natural-law tradition regards as self-evident that the primary objective purpose of the conjugal act is procreation and that the fostering of the mutual love of the spouses is the secondary and subjective end . This conclusion is based on two propositions : that man by the use of his reason can ascertain God 's purpose in the universe and that God makes known His purpose by certain `` given '' physical arrangements . Thus , man can readily deduce that the primary objective end of the conjugal act is procreation , the propagation of the race . Moreover , man may_not supplant or frustrate the physical arrangements established by God , who through the <head>law</head> of rhythm has provided a natural method for the control of conception . Believing that God is the Author of this law and of all laws_of_nature , Roman_Catholics believe that they are obliged to obey those laws , not frustrate or mock them . Let it be granted then that the theological differences in this area between Protestants and Roman_Catholics appear to be irreconcilable . But people differ in their religious_beliefs on scores of doctrines , without taking_up_arms against those who disagree with them .</context>
+    </instance>
+    <instance id="br-f17#w794_0" docsrc="br-f17">
+      <context> It was Dickson who suggested to Lord_Selkirk that he return to the Atlantic coast by way of the United_States . In September 1817 at Fort_Daer ( Pembina ) Dickson met the noble lord whom , with the help of a band of Sioux , he escorted to Prairie_du_Chien . During the trip Selkirk decided that the route through Illinois territory to Indiana and the eastern United_States was the best route for goods from England to reach Red_River and that the United_States was a better source of supply for many goods than either Canada or England . Upon arriving_at Baltimore , Selkirk on December 22 wrote to John_Quincy_Adams , Secretary_of_State at Washington , inquiring about <head>laws</head> covering trade with `` Missouri and Illinois_Territories '' . This traffic , he declared prophetically , `` tho ' it might be of small account at_first , would increase with the progress of our Settlements '' . The route which he had traveled and which he believed might develop_into a trade_route was followed by his settlers earlier than he might have expected . In 1819 grasshoppers again destroyed the crop at `` the Forks '' ( Fort_Douglas ) and in December 1819 , twenty men left Fort_Daer for the most northerly American outpost at Prairie_du_Chien .</context>
+    </instance>
+    <instance id="br-f21#w406_0" docsrc="br-f21">
+      <context> An ordinary sea wave is rarely more than a_few hundred feet long from crest to crest - no longer than 320 feet in the Atlantic or 1000 feet in the Pacific . But a tsunami often extends more than 100 miles and sometimes as much as 600 miles from crest to crest . While a wind wave never travels at more than 60 miles_per_hour , the velocity of a tsunami in the open sea must be reckoned in hundreds of miles_per_hour . The greater the depth of the water , the greater is the speed of the wave ; Lagrange 's <head>law</head> says that its velocity is equal to the square_root of the product of the depth times the acceleration due_to gravity . In the deep waters of the Pacific these waves reach a speed of 500 miles_per_hour . Tsunami are so shallow in comparison with their length that in the open ocean they are hardly detectable . Their amplitude sometimes is as little as two feet from trough to crest .</context>
+    </instance>
+    <instance id="br-g17#w313_0" docsrc="br-g17">
+      <context> In the pre Civil_War years , the South argued that the slave was not less humanely treated than the factory_worker of the North . At the present_time , the counter-attack takes the line that there 's no more of the true spirit of `` integration '' in the North than in the South . The line is a pretty good one . People talk_about `` the <head>law</head> of the land '' . The expression has become quite a cliche . But people can n't be made to integrate , socialize ( the two are inseparable by Southern standards ) by law . I was having lunch not_long ago ( apologies to N._V._Peale ) with three distinguished historians ( one specializing in the European Middle_Ages , one in American history , and one in the Far_East ) , and I asked them if they could name instances where the general mores had been radically changed with `` deliberate speed , majestic instancy '' ( Francis_Thompson 's words for the Hound_of_Heaven 's pursuit ) by judicial fiat .</context>
+    </instance>
+    <instance id="br-g17#w347_0" docsrc="br-g17">
+      <context> The line is a pretty good one . People talk_about `` the law of the land '' . The expression has become quite a cliche . But people can n't be made to integrate , socialize ( the two are inseparable by Southern standards ) by <head>law</head> . I was having lunch not_long ago ( apologies to N._V._Peale ) with three distinguished historians ( one specializing in the European Middle_Ages , one in American history , and one in the Far_East ) , and I asked them if they could name instances where the general mores had been radically changed with `` deliberate speed , majestic instancy '' ( Francis_Thompson 's words for the Hound_of_Heaven 's pursuit ) by judicial fiat . They did n't seem to be able to think_of any . A Virginia judge a while back cited a Roman jurist to the effect that ten years might be a reasonable length of time for such a change .</context>
+    </instance>
+    <instance id="br-g17#w515_0" docsrc="br-g17">
+      <context> A Virginia judge a while back cited a Roman jurist to the effect that ten years might be a reasonable length of time for such a change . But I suspect that the old Roman was referring to change made under military occupation - the sort of change which Tacitus was talking_about when he said , `` They make a desert , and call it peace '' ( `` Solitudinem faciunt , pacem appellant '' . ) . Moreover , the <head>law</head> of the land is not irrevocable ; it can be changed ; it has been , many times . Mr._Justice_Taney 's Dred_Scott decision in 1857 was unpopular in the North , and soon became a dead_letter . Prohibition was the law of the land , but it was unpopular ( how many of us oldsters took_up drinking in prohibition days , drinking was so gay , so fashionable , especially in the sophisticated Northeast ! ) and was repealed .</context>
+    </instance>
+    <instance id="br-g17#w556_0" docsrc="br-g17">
+      <context> . Moreover , the law of the land is not irrevocable ; it can be changed ; it has been , many times . Mr._Justice_Taney 's Dred_Scott decision in 1857 was unpopular in the North , and soon became a dead_letter . Prohibition was the <head>law</head> of the land , but it was unpopular ( how many of us oldsters took_up drinking in prohibition days , drinking was so gay , so fashionable , especially in the sophisticated Northeast ! ) and was repealed . The cliche loses its talismanic virtue in the light of a_little history . The Declaration_of_Independence says that `` governments derive their just powers from the consent of the governed '' .</context>
+    </instance>
+    <instance id="br-g19#w662_0" docsrc="br-g19">
+      <context> Driven from the marketplace by the course of history , our hero disguises himself as a private_detective . The birth of the myth compensates for the death of the ideal . Even on the fictional level , however , the contradictions which give_rise to the mystery_story are not fully resolved . The individualism and public service of the private_detective both stem from his dedication to a personal code_of_conduct : he enforces the <head>law</head> without being told to do so . The private_eye is therefore a moral man ; but his morality rests upon that of his society . The basic premise of all mystery_stories is that the distinction between good and bad coincides with the distinction between legal and illegal . Unfortunately , this assumption does not always hold good .</context>
+    </instance>
+    <instance id="br-g21#w377_0" docsrc="br-g21">
+      <context> Some fourteen or fifteen years ago , in an essay I called The Leader_Follows - Where ? I used his polarity to illustrate what I thought had happened to us in_that form of liberalism we call Progressivism . It seemed to me that the liberals had scrapped the balanced polarity and reposed both liberty and the fundamental_law in the common_man . That_is_to_say Gabriel 's fundamental_law had been so much modified by this time that it was neither fundamental nor <head>law</head> any_more . It is a weakness of Gabriel 's analysis that he never seems to realize that his so-called fundamental_law had already been cut loose from its foundations when it was adapted to democracy . And with Progressivism the Religion_of_Humanity was replacing what Gabriel called Christian supernaturalism . And the common_man was developing mythic power , or charisma , on_his_own .</context>
+    </instance>
+    <instance id="br-g23#w1321_0" docsrc="br-g23">
+      <context> What of the efficiency of this natural instrument of free discussion ? Is there some magic in it that assures results ? When Peter_B._Kyne ( Pride_of_Palomar , 43 ) informed us in 1921 that we had an instinctive dislike for the Japanese , did the heated debates of the Californians settle the truth or falsity of the proposition ? The Leopard 's_Spots came from the pen of Thomas_Dixon in 1902 , and in_this he announced an `` unchangeable '' <head>law</head> . If a child had a single drop of Negro blood , he would revert to the ancestral line which , except as slaves under a superior race , had not made one step of progress in 3000 years . That doctrine has been accepted by many , but has it produced good results ? In the same vein , a certain short-story plot has been overworked .</context>
+    </instance>
+    <instance id="br-h09#w1560_0" docsrc="br-h09">
+      <context> the relative contribution to safety of inspection programs embodying - right-of-entry only and right-of-entry plus enforcement authority ; the effectiveness of health and safety education and training ; the magnitude of effort and costs of each of these possible phases of an effective safety program for metal and nonmetallic mines ( excluding coal and lignite mines ) ; and the scope and adequacy of State mine safety <head>laws</head> applicable to such mines and the enforcement of such laws . The Secretary_of_the_Interior or any duly authorized representative shall be entitled to admission to , and to require reports from the operator of , any metal or nonmetallic mine which is in a State ( excluding any coal or lignite mine ) , the products of_which regularly enter commerce or the operations of_which substantially affect commerce , for the purpose of gathering data and information necessary for the study authorized in the first section of_this Act . As used in_this section - the term `` State '' includes the Commonwealth of Puerto_Rico and any possession of the United_States ; and the term `` commerce '' means commerce between any State and any place outside thereof , or between points within the same State but through any place outside thereof .</context>
+    </instance>
+    <instance id="br-h09#w1570_0" docsrc="br-h09">
+      <context> the relative contribution to safety of inspection programs embodying - right-of-entry only and right-of-entry plus enforcement authority ; the effectiveness of health and safety education and training ; the magnitude of effort and costs of each of these possible phases of an effective safety program for metal and nonmetallic mines ( excluding coal and lignite mines ) ; and the scope and adequacy of State mine safety laws applicable to such mines and the enforcement of such <head>laws</head> . The Secretary_of_the_Interior or any duly authorized representative shall be entitled to admission to , and to require reports from the operator of , any metal or nonmetallic mine which is in a State ( excluding any coal or lignite mine ) , the products of_which regularly enter commerce or the operations of_which substantially affect commerce , for the purpose of gathering data and information necessary for the study authorized in the first section of_this Act . As used in_this section - the term `` State '' includes the Commonwealth of Puerto_Rico and any possession of the United_States ; and the term `` commerce '' means commerce between any State and any place outside thereof , or between points within the same State but through any place outside thereof .</context>
+    </instance>
+    <instance id="br-h09#w949_0" docsrc="br-h09">
+      <context> This subsection shall not be so construed as to deprive the owner of any background patent relating thereto of such rights as he may have thereunder . The Secretary may dispose of water and byproducts resulting from his operations under this Act . All moneys received from dispositions under this section shall be paid into the Treasury as miscellaneous receipts ) Nothing in the Act shall be construed to alter existing <head>law</head> with respect to the ownership and control of water . The Secretary shall make reports to the President and the Congress at the beginning of each regular session of the action taken or instituted by him under the provisions of_this Act and of prospective action during the ensuing year . The Secretary_of_the_Interior may issue rules and regulations to effectuate the purposes of_this Act . There are authorized to be appropriated such sums , to remain available until expended , as may be necessary , but not more_than $ 75000000 in_all , ( a ) to carry_out the provisions of_this Act during the fiscal_years 1962 to 1967 , inclusive ; ( b ) to finance , for not more_than two years beyond the end of said period , such grants , contracts , cooperative agreements , and studies as may theretofore have been undertaken pursuant to this Act ; and ( c ) to finance , for not more_than three years beyond the end of said period , such activities as are required to correlate , coordinate , and round_out the results of studies and research undertaken pursuant to this Act : Provided , That funds available in any one year for research and development may , subject_to the approval of the Secretary_of_State to assure that such activities are consistent with the foreign_policy objectives of the United_States , be expended in_cooperation_with public or private agencies in foreign countries in the development of processes useful to the program in the United_States : And provided further , That every such contract or agreement made with any public or private agency in a foreign country shall contain provisions effective to insure that the results or information developed in connection therewith shall be available without cost to the United_States for the use of the United_States throughout the world and for the use of the general public within the United_States .</context>
+    </instance>
+    <instance id="br-h12#w1112_0" docsrc="br-h12">
+      <context> All amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts . Payments made pursuant to this Title shall be made only to the person or persons on behalf of whom the award is made , except that - if such person is deceased or is under a legal disability , payment shall be made to his legal representative : Provided , That if the total award is not over $ 500 and there is no qualified executor or administrator , payment may be made to the person or persons found by the Comptroller_General of the United_States to be entitled thereto , without the necessity of compliance with the requirements of <head>law</head> with_respect_to the administration of estates ; in the case of a partnership or corporation , the existence of which has been terminated and on behalf of which an award is made , payment shall be made , except as provided in paragraphs ( 3 ) and ( 4 ) , to the person or persons found by the Comptroller_General of the United_States to be entitled thereto ; if a receiver or trustee for any such partnership or corporation has been duly appointed by a court of competent jurisdiction in the United_States and has not been discharged prior to the date of payment , payment shall be made to such receiver or trustee in accordance with the order of the court ; if a receiver or trustee for any such partnership or corporation , duly appointed by a court of competent jurisdiction in the United_States , makes an assignment of the claim , or any part thereof , with_respect_to which an award is made , or makes an assignment of such award , or any part thereof , payment shall be made to the assignee , as his interest may appear ; and in the case of any assignment of an award , or any part thereof , which is made in_writing and duly acknowledged and filed , after such award is certified to the Secretary_of_the_Treasury , payment may , in the discretion of the Secretary_of_the_Treasury , be made to the assignee , as his interest may appear .</context>
+    </instance>
+    <instance id="br-h12#w637_0" docsrc="br-h12">
+      <context> The Commission shall notify all claimants of the approval or denial of their claims , stating the reasons and grounds therefor , and if approved , shall notify such claimants of the amount for which such claims are approved . Any claimant whose claim is denied , or is approved for less_than the full amount of such claim , shall be entitled , under such regulations as the Commission may prescribe , to a hearing before the Commission , or its duly authorized representatives , with_respect_to such claim . Upon such hearing , the Commission may affirm , modify , or revise its former action with_respect_to such claim , including a denial or reduction in the amount theretofore allowed with_respect_to such claim . The action of the Commission in allowing or denying any claim under this title shall be final and conclusive on all questions of <head>law</head> and fact and not subject_to review by the Secretary_of_State or any other official , department , agency , or establishment of the United_States or by any court by mandamus or otherwise . The Commission may in its discretion enter an award with_respect_to one or more items deemed to have been clearly established in an individual claim while deferring consideration and action on other items of the same claim . The Commission shall comply with the provisons of the Administrative_Procedure_Act_of_1946 except as otherwise specifically provided by this title . The Commission shall , as soon as possible , and in the order of the making of such awards , certify to the Secretary_of_the_Treasury and to the Secretary_of_State copies of the awards made in favor of the Government of the United_States or of nationals of the United_States under this Title .</context>
+    </instance>
+    <instance id="br-h14#w1401_0" docsrc="br-h14">
+      <context> Determine if the particular State 's unadjusted allotment ( result obtained in item 11 above ) is greater than its maximum allotment , and if so lower its unadjusted allotment to its maximum allotment . ( Each State 's unadjusted allotment for any fiscal_year , which exceeds its minimum allotment described in item 13 below by a percentage greater than one and one-half times the percentage by which the sum being allotted exceeds $ 23000000 , must be reduced by the amount of the excess . ) Determine if the particular State 's unadjusted allotment ( result obtained in item 11 above ) is less_than its minimum ( base ) allotment , and if so raise its unadjusted allotment to its minimum allotment . Regardless of its unadjusted allotment , each State is guaranteed by <head>law</head> a minimum allotment each_year equal to the allotment which it received in fiscal_year 1954 - increased by a uniform percentage of 5.4865771 which brings total 1954 allotments to all States up to $ 23000000 . The funds recouped by reductions in item 12 above are used : first , to increase the unadjusted allotments to the specified minimum in those States where the unadjusted allotment is less than the minimum allotment ( item 13 above ) ; and second , to increase uniformly the allotments to those States whose allotments are below their maximums , with adjustments to prevent the allotment of any State from thereby exceeding its maximum . For the States which maintain two separate agencies - one for the vocational rehabilitation of the blind , and one for the rehabilitation of persons other_than the blind - the Act specifies that their minimum ( base ) allotment shall be divided between the two agencies in the same proportion as it was divided in fiscal_year 1954 . Funds allotted in_addition to their minimum allotment are apportioned to the two agencies as they may determine .</context>
+    </instance>
+    <instance id="br-h14#w1697_0" docsrc="br-h14">
+      <context> As is the case with the allotment provisions for support of vocational rehabilitation services , the matching requirements are also based on a statutory formula . Prior to 1960 , in_order to provide matching for the minimum ( base ) allotment , State funds had to equal 1954 State funds . Prior to and since 1960 the rest of the support allotment is matched at rates related_to the fiscal capacity of the State , with a pivot of 40 % State ( or 60 % Federal ) participation in total program costs . The percentage of Federal participation in such costs for any State is referred to in the <head>law</head> as that State 's `` Federal share '' . For purposes of this explanation , this percentage is referred to as the States `` unadjusted Federal share '' . Beginning in 1960 , the matching requirements for the base allotment are being adjusted ( upward or downward , as_required ) 25 % a_year , so that by 1963 the entire support allotment will be matched on the basis of a 40 % pivot State share , with maximum and minimum State shares of 50 % and 30 % , respectively . The pre 1960 rate of Federal participation with_respect_to any State 's base allotment , as_well_as the adjusted rate in_effect during the 1960 - 1962 period , is designated by the statute as that State 's `` adjusted Federal Share '' .</context>
+    </instance>
+    <instance id="br-h14#w2162_0" docsrc="br-h14">
+      <context> Determine for each State ( except the Virgin_Islands , Guam , Puerto_Rico , and , prior to 1962 , Alaska and hawaii ) , that percentage which bears the same ratio to 40 % as the particular State 's average per_capita income bears to the average per_capita income of the United_States . ( Multiply the result obtained in item 3 above by the amount used for each State in item 1 above . ) Determine the particular State 's `` Federal Share '' . By <head>law</head> this is 70 % for the Virgin_Islands , Guam and Puerto_Rico . ( Alaska and Hawaii had fixed Federal share percentages in_effect prior to fiscal_year 1962 . ) In all other States it is the difference obtained by subtracting from 100 the result obtained in item 4 above ; except that no State shall have a Federal share less_than 50 % nor more_than 70 % . If the resulting difference for the particular State is less or more_than these extremes , the State 's Federal share must be raised or lowered to the appropriate extreme .</context>
+    </instance>
+    <instance id="br-h14#w288_0" docsrc="br-h14">
+      <context> Despite the successful rehabilitation of over a half million disabled persons in the first eleven years after 1943 , the existing program was still seen to be inadequate to cope_with the nation 's backlog of an estimated two million disabled . To assist the States , therefore , in rehabilitating handicapped individuals , `` so that they may prepare for and engage in remunerative employment to the extent of their capabilities '' , the 83_rd_Congress enacted the Vocational_Rehabilitation_Amendments_of_1954 ( P._L. 565 ) . These amendments to the Vocational_Rehabilitation_Act were designed to help provide_for more specialized rehabilitation facilities , for more sheltered and `` half-way '' workshops , for greater numbers of adequately trained personnel , for more comprehensive services to individuals ( particularly to the homebound and the blind ) , and for other administrative improvements to increase the program 's overall effectiveness . Under the <head>law</head> as it existed until 1943 , the Federal_Government made grants to the States on the basis of population , matching State expenditures on a 50_-_50 basis . Under P._L. 113 , 78_th_Congress , the Federal_Government assumed responsibility for 100 % of necessary State expenditures in_connection_with administration and the counseling and placement of the disabled , and for 50 % of the necessary costs of providing clients with rehabilitation case services . Throughout these years , the statutory authorization was for such sums as were necessary to carry_out the provisions of the Act . The 1954 Amendments completely changed the financing of the vocational_rehabilitation_program , providing_for a three part grant structure - for ( 1 ) basic support ; ( 2 ) extension and improvement ; and ( 3 ) research , demonstrations , training and traineeships for vocational_rehabilitation - and in_addition for short-term training and instruction .</context>
+    </instance>
+    <instance id="br-h14#w991_0" docsrc="br-h14">
+      <context> Determine for each State ( except the Virgin_Islands , Guam and Puerto_Rico , and , prior to 1962 , Alaska and Hawaii ) that percentage which bears the same ratio to 50 % as the particular State 's average per_capita income bears to the average per_capita income of the U._S. . ( Multiply the result obtained in item 3 above by the result obtained for each State in item 1 above . ) Determine the particular State 's `` allotment percentage '' . By <head>law</head> this is 75 % for the Virgin_Islands , Guam and Puerto_Rico . ( Alaska and Hawaii had fixed allotment percentages in_effect prior to fiscal_year 1962 . ) In all other States it is the difference obtained by subtracting from 100 the result obtained in item 4 above ; except that no State shall have an allotment percentage less_than 33 - 1 3 % nor more_than 75 % . If the resulting difference for the particular State is less or more_than these extremes , the State 's allotment percentage must be raised or lowered to the appropriate extreme .</context>
+    </instance>
+    <instance id="br-h17#w253_0" docsrc="br-h17">
+      <context> By making inroads in the name of law_enforcement into the protection which Congress has afforded to the marriage relationship , the Court today continues in the path charted by the recent decision in Wyatt_v._United_States , 362_U._S._525 , where the Court held that , under_the_circumstances of that case , a wife could be compelled to testify against her husband over her objection . One need not waver in his belief in virile law_enforcement to insist that there are other things in American life which are also of great importance , and to which even law_enforcement must accommodate itself . One of these is the solidarity and the confidential relationship of marriage . The Court 's opinion dogmatically asserts that the husband wife conspiracy doctrine does not in_fact protect this relationship , and that hence the doctrine `` enthrone [ s ] an unreality into a rule of <head>law</head> '' . I am not easily persuaded that a rule accepted by so many people for so many centuries can be so lightly dismissed . But in_any_event , I submit that the power to depose belongs_to Congress , not to this Court . I dissent .</context>
+    </instance>
+    <instance id="br-h21#w1227_0" docsrc="br-h21">
+      <context> On_the_other_hand , the new authority of $ 3825 million proposed for missile procurement ( excluding research and construction ) in 1961 is $ 581 million higher than for 1960 . These contrasting trends in procurement reflect the anticipated changes in the composition and missions of our Armed_Forces in the years ahead . The Department_of_Defense appropriation acts for the past several years have contained a rider which limits competitive bidding by firms in other countries on certain military supply items . As I have repeatedly stated , this provision is much more restrictive than the general <head>law</head> , popularly known_as the Buy American Act . I urge once_again that the Congress not reenact this rider . The task of providing a reasonable level of military strength , without endangering other vital aspects of our security , is greatly complicated by the swift pace of scientific progress . The last few years have witnessed what have been perhaps the most rapid advances in military technology in history .</context>
+    </instance>
+    <instance id="br-h24#w1921_0" docsrc="br-h24">
+      <context> They may be claimed only by itemizing them on page 2 of Form_1040 . These deductions may_not be claimed if you elect to use the Standard Deduction or tax Table . ( See Chapters 30 through 37 . ) A minor is subject to tax on his own earnings even though his parent may , under local <head>law</head> , have the right to them and might actually have received the money . His income is not required to be included in the return of his parent . A minor child is allowed a personal exemption of $ 600 on his own return regardless of how much money he may earn . If your child is under 19 or is a student you may also claim an exemption for him if he qualifies as your dependent , even though he earns $ 600 or more .</context>
+    </instance>
+    <instance id="br-j37#w571_0" docsrc="br-j37">
+      <context> There were rumors that the Ministry_of_the_Interior favored an arbitrary , `` non-political '' process , which were indirectly affirmed when the King personally intervened in the planned meetings . The day following his intervention the palace issued a statement reassuring the citizens that `` the possibility of introducing appeals concerning the establishment of electoral lists , lists of candidates and finally the holding of the consultation itself '' would be supported by the King himself . The Ifni crisis in the fall of 1957 postponed further consideration of elections , but French consultants were called_in and notices of further investigation appeared from_time_to_time . In January , 1958 , the Minister_of_the_Interior announced that an election <head>law</head> was ready to be submitted to the King , the rumors of election dates appeared once_again , first for spring of 1958 and later for the summer . Although the government was probably prepared for elections by mid - 1958 , the first decision was no_doubt made more difficult as party strife multiplied . In late 1957 the M.P. ( Mouvement_Populaire ) appeared and in the spring of 1958 the internal strains of the Istiqlal was revealed when the third Council_of_Government under Balafrej was formed without support from progressive elements in the party . The parties were on_the_whole unprepared for elections , while the people were still experiencing post independence let-down and suffering the after_effects of poor harvests in 1957 .</context>
+    </instance>
+    <instance id="br-j37#w862_0" docsrc="br-j37">
+      <context> They were increasingly looked_upon as a means of establishing the new rural communes as the focus of a new , constructive national effort . To minimize the chances of repeating the Balafrej debacle the Ibrahim government was formed a titre personnel and a special office was created in the Ministry_of_the_Interior to plan and to conduct the elections . By this time there is little doubt but what election plans were complete . There remained only the delicate task of maneuvering the <head>laws</head> through the labyrinth of Palace politics and making a small number of policy decisions . From the rather tortuous history of electoral planning in Morocco an important point emerges concerning the first elections in a developing country and evaluating their results . In the new country the electoral process is considered as a means of resolving fundamental , and sometimes bitter , differences among leaders and also as a source of policy guidance . In the absence of a reservoir of political consensus each organized political group hopes that the elections will give them new prominence , but in a system where there is as_yet no place for the less prominent .</context>
+    </instance>
+    <instance id="br-j42#w1012_0" docsrc="br-j42">
+      <context> National identification was not new , but it was accelerating in intensity and scope throughout Europe as new unifications occurred . It reached its ultimate philosophical statement in notions of `` state will '' put_forward by the Germans , especially by Hegel , although political philosophers will recognize its origins in the rejected doctrines of Hobbes . National identification was reflected jurisprudentially in law theories which incorporated this Hegelian abstraction and saw law , domestic and international , simply as its formal reflection . In the international community this reduced <head>law</head> to Jellinek 's auto_limitation . A state , the highest form of human organization in fact and theory , could be subjected to Law only by a manifestation of self-will , or consent . According_to the new theories , the nineteenth century corporate sovereign was `` sovereign '' in a quite new and different sense from his historical predecessors . He no_longer sought to find the law ; he made it ; he could be subjected to law only because he agreed to be .</context>
+    </instance>
+    <instance id="br-j42#w1036_0" docsrc="br-j42">
+      <context> It reached its ultimate philosophical statement in notions of `` state will '' put_forward by the Germans , especially by Hegel , although political philosophers will recognize its origins in the rejected doctrines of Hobbes . National identification was reflected jurisprudentially in law theories which incorporated this Hegelian abstraction and saw law , domestic and international , simply as its formal reflection . In the international community this reduced law to Jellinek 's auto_limitation . A state , the highest form of human organization in fact and theory , could be subjected to <head>Law</head> only by a manifestation of self-will , or consent . According_to the new theories , the nineteenth century corporate sovereign was `` sovereign '' in a quite new and different sense from his historical predecessors . He no_longer sought to find the law ; he made it ; he could be subjected to law only because he agreed to be . There was no law , domestic or international , except that willed by , acknowledged by , or consented to by states .</context>
+    </instance>
+    <instance id="br-j42#w106_0" docsrc="br-j42">
+      <context> The Congress_of_Vienna is a convenient starting_point because it both epitomized and symbolized what was to follow . Here in 1815 the great nations assembled to legislate not merely for Europe , but for the world . Thus the Congress marks a formal recognition of the political_system that was central to world politics for a century . International_law had to fit the conditions of Europe , and nothing that could not fit this system , or the interests of the great European_nations collectively , could possibly emerge as <head>law</head> in any meaningful sense . Essentially this imposed two conditions : First , international_law had to recognize and be compatible with an international political_system in which a number of states were competitive , suspicious , and opportunistic in their political alignments with one another ; second , it had to be compatible with the value_system that they shared . In both respects , international_law was Europeanized . It was not always easy to develop theory and doctrine which would square the two conditions .</context>
+    </instance>
+    <instance id="br-j42#w1079_0" docsrc="br-j42">
+      <context> In the international community this reduced law to Jellinek 's auto_limitation . A state , the highest form of human organization in fact and theory , could be subjected to Law only by a manifestation of self-will , or consent . According_to the new theories , the nineteenth century corporate sovereign was `` sovereign '' in a quite new and different sense from his historical predecessors . He no_longer sought to find the <head>law</head> ; he made it ; he could be subjected to law only because he agreed to be . There was no law , domestic or international , except that willed by , acknowledged by , or consented to by states . Hidden behind Hegelian abstractions were more practical reasons for a changing jurisprudence . Related_to , but distinguishable from , nationalism was the growth of democracy in one form or another .</context>
+    </instance>
+    <instance id="br-j42#w1090_0" docsrc="br-j42">
+      <context> In the international community this reduced law to Jellinek 's auto_limitation . A state , the highest form of human organization in fact and theory , could be subjected to Law only by a manifestation of self-will , or consent . According_to the new theories , the nineteenth century corporate sovereign was `` sovereign '' in a quite new and different sense from his historical predecessors . He no_longer sought to find the law ; he made it ; he could be subjected to <head>law</head> only because he agreed to be . There was no law , domestic or international , except that willed by , acknowledged by , or consented to by states . Hidden behind Hegelian abstractions were more practical reasons for a changing jurisprudence . Related_to , but distinguishable from , nationalism was the growth of democracy in one form or another .</context>
+    </instance>
+    <instance id="br-j42#w1101_0" docsrc="br-j42">
+      <context> A state , the highest form of human organization in fact and theory , could be subjected to Law only by a manifestation of self-will , or consent . According_to the new theories , the nineteenth century corporate sovereign was `` sovereign '' in a quite new and different sense from his historical predecessors . He no_longer sought to find the law ; he made it ; he could be subjected to law only because he agreed to be . There was no <head>law</head> , domestic or international , except that willed by , acknowledged by , or consented to by states . Hidden behind Hegelian abstractions were more practical reasons for a changing jurisprudence . Related_to , but distinguishable from , nationalism was the growth of democracy in one form or another . Increased participation in politics and the demands of various groups for status and recognition had dramatic effects upon law institutions .</context>
+    </instance>
+    <instance id="br-j42#w1170_0" docsrc="br-j42">
+      <context> There was no law , domestic or international , except that willed by , acknowledged by , or consented to by states . Hidden behind Hegelian abstractions were more practical reasons for a changing jurisprudence . Related_to , but distinguishable from , nationalism was the growth of democracy in one form or another . Increased participation in politics and the demands of various groups for status and recognition had dramatic effects upon <head>law</head> institutions . The efforts of various interest groups to control or influence governmental decisions , particularly when taken in conjunction with the impact of industrialization , led to a concentration of attention on the legislative power and the means whereby policy could be formulated and enforced as law through bureaucratic institutions . Law became a conscious process , something more than simply doing justice and looking_to local customs and a common morality for applicable norms . Particularly was this true when the norms previously applied were no_longer satisfactory to many , when customs were rapidly changing as the forces of the new productivity were harnessed .</context>
+    </instance>
+    <instance id="br-j42#w1218_0" docsrc="br-j42">
+      <context> Hidden behind Hegelian abstractions were more practical reasons for a changing jurisprudence . Related_to , but distinguishable from , nationalism was the growth of democracy in one form or another . Increased participation in politics and the demands of various groups for status and recognition had dramatic effects upon law institutions . The efforts of various interest groups to control or influence governmental decisions , particularly when taken in conjunction with the impact of industrialization , led to a concentration of attention on the legislative power and the means whereby policy could be formulated and enforced as <head>law</head> through bureaucratic institutions . Law became a conscious process , something more than simply doing justice and looking_to local customs and a common morality for applicable norms . Particularly was this true when the norms previously applied were no_longer satisfactory to many , when customs were rapidly changing as the forces of the new productivity were harnessed . The old way of doing things , which depended_on a relatively stable community with stable ideas dealing with familiar situations , was no_longer adequate_to the task .</context>
+    </instance>
+    <instance id="br-j42#w1223_0" docsrc="br-j42">
+      <context> Related_to , but distinguishable from , nationalism was the growth of democracy in one form or another . Increased participation in politics and the demands of various groups for status and recognition had dramatic effects upon law institutions . The efforts of various interest groups to control or influence governmental decisions , particularly when taken in conjunction with the impact of industrialization , led to a concentration of attention on the legislative power and the means whereby policy could be formulated and enforced as law through bureaucratic institutions . <head>Law</head> became a conscious process , something more than simply doing justice and looking_to local customs and a common morality for applicable norms . Particularly was this true when the norms previously applied were no_longer satisfactory to many , when customs were rapidly changing as the forces of the new productivity were harnessed . The old way of doing things , which depended_on a relatively stable community with stable ideas dealing with familiar situations , was no_longer adequate_to the task . First was the period of codification of existing law : the Code_Napoleon in France and the peculiar codification that , in_fact , resulted from Austin 's restatement and ordering of the Common_Law in England .</context>
+    </instance>
+    <instance id="br-j42#w1312_0" docsrc="br-j42">
+      <context> Law became a conscious process , something more than simply doing justice and looking_to local customs and a common morality for applicable norms . Particularly was this true when the norms previously applied were no_longer satisfactory to many , when customs were rapidly changing as the forces of the new productivity were harnessed . The old way of doing things , which depended_on a relatively stable community with stable ideas dealing with familiar situations , was no_longer adequate_to the task . First was the period of codification of existing <head>law</head> : the Code_Napoleon in France and the peculiar codification that , in_fact , resulted from Austin 's restatement and ordering of the Common_Law in England . Codification was followed in all countries by a growing amount of legislation , some changing and adjusting the older law , much dealing with entirely new situations . The legislative mills have been grinding ever since , and when its cumbersome processes were no_longer adequate_to the task , a limited legislative authority was delegated in one form or another , to the executive . Whereas the eighteenth century had been a time in which man sought justice , the nineteenth and twentieth have been centuries in which men are satisfied with law .</context>
+    </instance>
+    <instance id="br-j42#w1358_0" docsrc="br-j42">
+      <context> Particularly was this true when the norms previously applied were no_longer satisfactory to many , when customs were rapidly changing as the forces of the new productivity were harnessed . The old way of doing things , which depended_on a relatively stable community with stable ideas dealing with familiar situations , was no_longer adequate_to the task . First was the period of codification of existing law : the Code_Napoleon in France and the peculiar codification that , in_fact , resulted from Austin 's restatement and ordering of the Common_Law in England . Codification was followed in all countries by a growing amount of legislation , some changing and adjusting the older <head>law</head> , much dealing with entirely new situations . The legislative mills have been grinding ever since , and when its cumbersome processes were no_longer adequate_to the task , a limited legislative authority was delegated in one form or another , to the executive . Whereas the eighteenth century had been a time in which man sought justice , the nineteenth and twentieth have been centuries in which men are satisfied with law . Indeed , with developed positivism , the separation of law from justice , or from morality generally , became quite specific .</context>
+    </instance>
+    <instance id="br-j42#w1430_0" docsrc="br-j42">
+      <context> First was the period of codification of existing law : the Code_Napoleon in France and the peculiar codification that , in_fact , resulted from Austin 's restatement and ordering of the Common_Law in England . Codification was followed in all countries by a growing amount of legislation , some changing and adjusting the older law , much dealing with entirely new situations . The legislative mills have been grinding ever since , and when its cumbersome processes were no_longer adequate_to the task , a limited legislative authority was delegated in one form or another , to the executive . Whereas the eighteenth century had been a time in which man sought justice , the nineteenth and twentieth have been centuries in which men are satisfied with <head>law</head> . Indeed , with developed positivism , the separation of law from justice , or from morality generally , became quite specific . In municipal systems we tend to view what is called positivism as fundamentally a movement to democratize policy by increasing the power of parliament - the elected representatives - at the expense of the more conservative judiciary . When the power of the latter was made both limited and explicit - when norms were clarified and made more precise and the creation of new norms was placed exclusively in parliamentary hands - two purposes were served : Government was made subservient to an institutionalized popular will , and law became a rational system for implementing that will , for serving conscious goals , for embodying the `` public policy '' .</context>
+    </instance>
+    <instance id="br-j42#w1441_0" docsrc="br-j42">
+      <context> Codification was followed in all countries by a growing amount of legislation , some changing and adjusting the older law , much dealing with entirely new situations . The legislative mills have been grinding ever since , and when its cumbersome processes were no_longer adequate_to the task , a limited legislative authority was delegated in one form or another , to the executive . Whereas the eighteenth century had been a time in which man sought justice , the nineteenth and twentieth have been centuries in which men are satisfied with law . Indeed , with developed positivism , the separation of <head>law</head> from justice , or from morality generally , became quite specific . In municipal systems we tend to view what is called positivism as fundamentally a movement to democratize policy by increasing the power of parliament - the elected representatives - at the expense of the more conservative judiciary . When the power of the latter was made both limited and explicit - when norms were clarified and made more precise and the creation of new norms was placed exclusively in parliamentary hands - two purposes were served : Government was made subservient to an institutionalized popular will , and law became a rational system for implementing that will , for serving conscious goals , for embodying the `` public policy '' . It is true that , initially , the task was to remove restrictions that , it was thought , inhibited the free flow of money , goods , and labor ; but even laissez-faire was a conscious policy .</context>
+    </instance>
+    <instance id="br-j42#w1542_0" docsrc="br-j42">
+      <context> Whereas the eighteenth century had been a time in which man sought justice , the nineteenth and twentieth have been centuries in which men are satisfied with law . Indeed , with developed positivism , the separation of law from justice , or from morality generally , became quite specific . In municipal systems we tend to view what is called positivism as fundamentally a movement to democratize policy by increasing the power of parliament - the elected representatives - at the expense of the more conservative judiciary . When the power of the latter was made both limited and explicit - when norms were clarified and made more precise and the creation of new norms was placed exclusively in parliamentary hands - two purposes were served : Government was made subservient to an institutionalized popular will , and <head>law</head> became a rational system for implementing that will , for serving conscious goals , for embodying the `` public policy '' . It is true that , initially , the task was to remove restrictions that , it was thought , inhibited the free flow of money , goods , and labor ; but even laissez-faire was a conscious policy . Law was seen as an emanation of the `` sovereign will '' . However , the sovereign was not Hobbes ' absolute monarch but rather the parliamentary sovereign of Austin .</context>
+    </instance>
+    <instance id="br-j42#w1604_0" docsrc="br-j42">
+      <context> In municipal systems we tend to view what is called positivism as fundamentally a movement to democratize policy by increasing the power of parliament - the elected representatives - at the expense of the more conservative judiciary . When the power of the latter was made both limited and explicit - when norms were clarified and made more precise and the creation of new norms was placed exclusively in parliamentary hands - two purposes were served : Government was made subservient to an institutionalized popular will , and law became a rational system for implementing that will , for serving conscious goals , for embodying the `` public policy '' . It is true that , initially , the task was to remove restrictions that , it was thought , inhibited the free flow of money , goods , and labor ; but even laissez-faire was a conscious policy . <head>Law</head> was seen as an emanation of the `` sovereign will '' . However , the sovereign was not Hobbes ' absolute monarch but rather the parliamentary sovereign of Austin . It was , too , an optimistic philosophy , and , though it separated law from morality , it was by_no_means an immoral or amoral one . Man , through democratic institutions of government and economic freedom , was master of his destiny .</context>
+    </instance>
+    <instance id="br-j42#w1649_0" docsrc="br-j42">
+      <context> It is true that , initially , the task was to remove restrictions that , it was thought , inhibited the free flow of money , goods , and labor ; but even laissez-faire was a conscious policy . Law was seen as an emanation of the `` sovereign will '' . However , the sovereign was not Hobbes ' absolute monarch but rather the parliamentary sovereign of Austin . It was , too , an optimistic philosophy , and , though it separated <head>law</head> from morality , it was by_no_means an immoral or amoral one . Man , through democratic institutions of government and economic freedom , was master of his destiny . The theory did not require , though it unfortunately might acquire , a Hegelian mystique . It was merely a rationalization and ordering of new institutions of popular government .</context>
+    </instance>
+    <instance id="br-j42#w2014_0" docsrc="br-j42">
+      <context> It is not surprising that the international obligations of states were also viewed in_terms_of contract . In_fact , some - Anzilotti is the principle example - went so far as to say that all international_law could be traced to the single legal norm , Pacta sunt Servanda . The displacement ( at_least to a considerable extent ) of the ethical jurisprudence of the seventeenth and eighteenth centuries by positivism reshaped both international_law theory and doctrine . In_the_first_place the new doctrine brought a formal separation of international from municipal <head>law</head> , rejecting the earlier view that both were parts of a universal legal_system . One result was to nationalize much that had been regarded_as the law_of_nations . Admiralty_law , the law_merchant , and the host of problems which arise in private litigation because of some contact with a foreign country were all severed from the older Law_of_Nations and made dependent_on the several national laws . Private international_law ( which Americans call the `` conflict of laws '' ) was thus segregated from international_law proper , or , as it is often called , public international_law .</context>
+    </instance>
+    <instance id="br-j42#w2078_0" docsrc="br-j42">
+      <context> The displacement ( at_least to a considerable extent ) of the ethical jurisprudence of the seventeenth and eighteenth centuries by positivism reshaped both international_law theory and doctrine . In_the_first_place the new doctrine brought a formal separation of international from municipal law , rejecting the earlier view that both were parts of a universal legal_system . One result was to nationalize much that had been regarded_as the law_of_nations . Admiralty_law , the law_merchant , and the host of problems which arise in private litigation because of some contact with a foreign country were all severed from the older Law_of_Nations and made dependent_on the several national <head>laws</head> . Private international_law ( which Americans call the `` conflict of laws '' ) was thus segregated from international_law proper , or , as it is often called , public international_law . States were free to enact , within broad though ( perhaps ) determinate limits , their own rules as_to the application of foreign law by their courts , to vary the law_merchant , and to enact legislation with regard_to many claims arising on the high_seas . The change was not quite so dramatic as it sounds because in_fact common norms continued to be invoked by municipal courts and were only gradually changed by legislation , and then largely in marginal situations .</context>
+    </instance>
+    <instance id="br-j42#w2090_0" docsrc="br-j42">
+      <context> In_the_first_place the new doctrine brought a formal separation of international from municipal law , rejecting the earlier view that both were parts of a universal legal_system . One result was to nationalize much that had been regarded_as the law_of_nations . Admiralty_law , the law_merchant , and the host of problems which arise in private litigation because of some contact with a foreign country were all severed from the older Law_of_Nations and made dependent_on the several national laws . Private international_law ( which Americans call the `` conflict of <head>laws</head> '' ) was thus segregated from international_law proper , or , as it is often called , public international_law . States were free to enact , within broad though ( perhaps ) determinate limits , their own rules as_to the application of foreign law by their courts , to vary the law_merchant , and to enact legislation with regard_to many claims arising on the high_seas . The change was not quite so dramatic as it sounds because in_fact common norms continued to be invoked by municipal courts and were only gradually changed by legislation , and then largely in marginal situations .</context>
+    </instance>
+    <instance id="br-j42#w2134_0" docsrc="br-j42">
+      <context> One result was to nationalize much that had been regarded_as the law_of_nations . Admiralty_law , the law_merchant , and the host of problems which arise in private litigation because of some contact with a foreign country were all severed from the older Law_of_Nations and made dependent_on the several national laws . Private international_law ( which Americans call the `` conflict of laws '' ) was thus segregated from international_law proper , or , as it is often called , public international_law . States were free to enact , within broad though ( perhaps ) determinate limits , their own rules as_to the application of foreign <head>law</head> by their courts , to vary the law_merchant , and to enact legislation with regard_to many claims arising on the high_seas . The change was not quite so dramatic as it sounds because in_fact common norms continued to be invoked by municipal courts and were only gradually changed by legislation , and then largely in marginal situations .</context>
+    </instance>
+    <instance id="br-j42#w411_0" docsrc="br-j42">
+      <context> Thus , theory and doctrine applicable among the great nations and the smaller European states did not really comfortably fit less developed and less powerful societies elsewhere . Political interference in Africa and Asia and even in Latin_America ( though limited in Latin_America by the special interest of the United_States as expressed in the Monroe_Doctrine , itself from the outset related_to European politics and long dependent upon the `` balance_of_power '' system in Europe ) was necessary in_order to preserve both common economic_values and the European `` balance '' itself . A nation such_as Switzerland could be neutralized by agreement and could be relied_upon to protect its neutrality ; more doubtful , but possible , ( with an assist from the North ) was the neutralization of the Latin_American countries ; out_of_the_question was the neutralization of Asia and Africa . This Europeanization of the <head>law</head> was made explicit by a number of 19_th century scholars . More emphasis was put upon the fact that international_law was the law of `` civilized nations '' ; Kent and Story , the great early American scholars , repeatedly made_use_of this phrase , or of `` Christian nations '' , which is a substantial equivalent . Wheaton stated that the public_law was essentially `` limited to the civilized and Christian peoples of Europe or to those of European origin '' . Of_course it had always been of European origin in_fact , but it had maintained a universal outlook under the natural_law theory .</context>
+    </instance>
+    <instance id="br-j42#w434_0" docsrc="br-j42">
+      <context> Political interference in Africa and Asia and even in Latin_America ( though limited in Latin_America by the special interest of the United_States as expressed in the Monroe_Doctrine , itself from the outset related_to European politics and long dependent upon the `` balance_of_power '' system in Europe ) was necessary in_order to preserve both common economic_values and the European `` balance '' itself . A nation such_as Switzerland could be neutralized by agreement and could be relied_upon to protect its neutrality ; more doubtful , but possible , ( with an assist from the North ) was the neutralization of the Latin_American countries ; out_of_the_question was the neutralization of Asia and Africa . This Europeanization of the law was made explicit by a number of 19_th century scholars . More emphasis was put upon the fact that international_law was the <head>law</head> of `` civilized nations '' ; Kent and Story , the great early American scholars , repeatedly made_use_of this phrase , or of `` Christian nations '' , which is a substantial equivalent . Wheaton stated that the public_law was essentially `` limited to the civilized and Christian peoples of Europe or to those of European origin '' . Of_course it had always been of European origin in_fact , but it had maintained a universal outlook under the natural_law theory . Now , with virtually every writer , not_only was the European origin of public_law acknowledged as a historical phenomenon , but the rules thus established by the advanced civilizations of Europe were to be imposed on others .</context>
+    </instance>
+    <instance id="br-j42#w579_0" docsrc="br-j42">
+      <context> Wheaton stated that the public_law was essentially `` limited to the civilized and Christian peoples of Europe or to those of European origin '' . Of_course it had always been of European origin in_fact , but it had maintained a universal outlook under the natural_law theory . Now , with virtually every writer , not_only was the European origin of public_law acknowledged as a historical phenomenon , but the rules thus established by the advanced civilizations of Europe were to be imposed on others . The European customs on which international_law was based were to become , by force and fiat , the customs that others were to accept as <head>law</head> if they were to join this community as sovereign states . Hall , for_example , was quite explicit on this point when he said `` states outside European civilization must formally enter into the circle of law governed countries . They must do something with the acquiescence of the latter , or some of them , which amounts to an acceptance of the law in its entirety beyond all possibility of misconstruction '' . During the nineteenth century these views were protested by virtually all the Latin_American writers , though ineffectively , just as the new nations of Africa and Asia protest them , with more effect , today .</context>
+    </instance>
+    <instance id="br-j42#w616_0" docsrc="br-j42">
+      <context> Of_course it had always been of European origin in_fact , but it had maintained a universal outlook under the natural_law theory . Now , with virtually every writer , not_only was the European origin of public_law acknowledged as a historical phenomenon , but the rules thus established by the advanced civilizations of Europe were to be imposed on others . The European customs on which international_law was based were to become , by force and fiat , the customs that others were to accept as law if they were to join this community as sovereign states . Hall , for_example , was quite explicit on this point when he said `` states outside European civilization must formally enter into the circle of <head>law</head> governed countries . They must do something with the acquiescence of the latter , or some of them , which amounts to an acceptance of the law in its entirety beyond all possibility of misconstruction '' . During the nineteenth century these views were protested by virtually all the Latin_American writers , though ineffectively , just as the new nations of Africa and Asia protest them , with more effect , today . A number of other nineteenth century developments contributed to the transmutation of the law_of_nations into international_law ; that_is , from aspects of a universal system of Justice into particular rules governing the relations of sovereign states .</context>
+    </instance>
+    <instance id="br-j42#w643_0" docsrc="br-j42">
+      <context> Now , with virtually every writer , not_only was the European origin of public_law acknowledged as a historical phenomenon , but the rules thus established by the advanced civilizations of Europe were to be imposed on others . The European customs on which international_law was based were to become , by force and fiat , the customs that others were to accept as law if they were to join this community as sovereign states . Hall , for_example , was quite explicit on this point when he said `` states outside European civilization must formally enter into the circle of law governed countries . They must do something with the acquiescence of the latter , or some of them , which amounts to an acceptance of the <head>law</head> in its entirety beyond all possibility of misconstruction '' . During the nineteenth century these views were protested by virtually all the Latin_American writers , though ineffectively , just as the new nations of Africa and Asia protest them , with more effect , today . A number of other nineteenth century developments contributed to the transmutation of the law_of_nations into international_law ; that_is , from aspects of a universal system of Justice into particular rules governing the relations of sovereign states . The difference is important , for although the older law_of_nations did cover relationships among sovereigns , this was by_no_means its exclusive domain .</context>
+    </instance>
+    <instance id="br-j42#w751_0" docsrc="br-j42">
+      <context> During the nineteenth century these views were protested by virtually all the Latin_American writers , though ineffectively , just as the new nations of Africa and Asia protest them , with more effect , today . A number of other nineteenth century developments contributed to the transmutation of the law_of_nations into international_law ; that_is , from aspects of a universal system of Justice into particular rules governing the relations of sovereign states . The difference is important , for although the older law_of_nations did cover relationships among sovereigns , this was by_no_means its exclusive domain . The <head>law</head> of nature governed sovereigns in their relationship to their own citizens , to foreigners , and to each other in a conceptually unified system . The theory of international_law , which in the nineteenth century became common to virtually all writers in Europe and America , broke this unity and this universality . It lost sight of the individual almost entirely and confined itself to rules limiting the exercise of state power for reasons essentially unconnected with justice or morality save as these values might affect international relations . No_longer did the sovereign look_to the law_of_nations to determine what he ought to do ; his search was merely for rules that might limit his freedom of action .</context>
+    </instance>
+    <instance id="br-j42#w985_0" docsrc="br-j42">
+      <context> First , and most obvious , was the growing nationalism and the tendency to regard the state , and the individual 's identification with the state , as transcending other ties of social solidarity . National identification was not new , but it was accelerating in intensity and scope throughout Europe as new unifications occurred . It reached its ultimate philosophical statement in notions of `` state will '' put_forward by the Germans , especially by Hegel , although political philosophers will recognize its origins in the rejected doctrines of Hobbes . National identification was reflected jurisprudentially in <head>law</head> theories which incorporated this Hegelian abstraction and saw law , domestic and international , simply as its formal reflection . In the international community this reduced law to Jellinek 's auto_limitation . A state , the highest form of human organization in fact and theory , could be subjected to Law only by a manifestation of self-will , or consent . According_to the new theories , the nineteenth century corporate sovereign was `` sovereign '' in a quite new and different sense from his historical predecessors .</context>
+    </instance>
+    <instance id="br-j42#w994_0" docsrc="br-j42">
+      <context> First , and most obvious , was the growing nationalism and the tendency to regard the state , and the individual 's identification with the state , as transcending other ties of social solidarity . National identification was not new , but it was accelerating in intensity and scope throughout Europe as new unifications occurred . It reached its ultimate philosophical statement in notions of `` state will '' put_forward by the Germans , especially by Hegel , although political philosophers will recognize its origins in the rejected doctrines of Hobbes . National identification was reflected jurisprudentially in law theories which incorporated this Hegelian abstraction and saw <head>law</head> , domestic and international , simply as its formal reflection . In the international community this reduced law to Jellinek 's auto_limitation . A state , the highest form of human organization in fact and theory , could be subjected to Law only by a manifestation of self-will , or consent . According_to the new theories , the nineteenth century corporate sovereign was `` sovereign '' in a quite new and different sense from his historical predecessors .</context>
+    </instance>
+    <instance id="br-j55#w1204_0" docsrc="br-j55">
+      <context> Pels also sent a check for $ 100 to Russell 's widow and had a white marble monument erected on his grave . Cattle stealing and killing , again serious during the spring of 1891 , placed the land_grant company officers in a perplexing position . They were reluctant to appoint sheriffs to protect the property , thus running_the_risk of creating disturbances such_as that on the Vermejo , and yet the cowboys protested that they got no salary for arresting cattle_thieves and running_the_risk of being shot . And the <head>law</head> virtually ignored the situation . The judge became ill just as the Colfax_District_Court convened , no substitute was brought_in , no criminal cases heard , only 5 out of 122 cases docketed were tried , and court adjourned sine_die after sitting a_few days instead_of the usual three weeks . Pels complained : `` Litigants and witnesses were put to the expense and inconvenience of going long distances to transact business ; public money spent ; justice delayed ; nothing accomplished , and the whole distribution of justice in this county seems to be an absolute farce '' .</context>
+    </instance>
+    <instance id="br-j57#w1628_0" docsrc="br-j57">
+      <context> We should think_of it more as an act of justice than compassion '' . Because community not severalty of property is the law_of_nature no man can assert an absolutely unalterable right to what is his . Indeed , of all that is his every man is by nature and reason and therefore by conscience obligated to regard himself as a custodian . He is a trustee for the common good , however feeble the safeguards which the positive or municipal <head>law</head> of property provides against his misuse of that share of the common fund , wisely or unwisely , entrusted to his keeping . In_contrast_to this Stoic patristic view , Utopia implies that the nature of man is such that to rely_on individual conscience to supply the deficiencies of municipal law is to embark on the bottomless sea of human sinfulness in a sieve . The Utopians brace conscience with legal sanctions . In a properly ordered society the massive force of public_law performs the function which in natural_law theory ineptly is left altogether to a small_voice so often still .</context>
+    </instance>
+    <instance id="br-j57#w1678_0" docsrc="br-j57">
+      <context> Because community not severalty of property is the law_of_nature no man can assert an absolutely unalterable right to what is his . Indeed , of all that is his every man is by nature and reason and therefore by conscience obligated to regard himself as a custodian . He is a trustee for the common good , however feeble the safeguards which the positive or municipal law of property provides against his misuse of that share of the common fund , wisely or unwisely , entrusted to his keeping . In_contrast_to this Stoic patristic view , Utopia implies that the nature of man is such that to rely_on individual conscience to supply the deficiencies of municipal <head>law</head> is to embark on the bottomless sea of human sinfulness in a sieve . The Utopians brace conscience with legal sanctions . In a properly ordered society the massive force of public_law performs the function which in natural_law theory ineptly is left altogether to a small_voice so often still . In all the respects just indicated Utopian communism differs from previous conceptions in which community of possessions and living plays a role .</context>
+    </instance>
+    <instance id="br-j58#w1632_0" docsrc="br-j58">
+      <context> He spoke of his desire to promote the abolition of slavery by peaceable means and he compared John_Brown of Harper_'s_Ferry to the John_Brown of Rhode_Island 's colonial period . Barstow concluded that as Rhode_Island 's John_Brown became a canonized hero , if not a saint , so would it be with John_Brown of Harper_'s_Ferry . The next speaker was George_T._Day . Although admitting Brown 's guilt on legal grounds , Day said that , `` Brown is no common criminal ; his deed was not below , but above the <head>law</head> '' . Following Day was Woodbury who spoke of his disapproval of Brown 's attempt at servile insurrection , his admiration of Brown 's character , and his opposition to slavery . Woodbury 's remarks were applauded by a portion of the audience several times and once there was hissing . The fourth and last speaker was Thomas_Davis .</context>
+    </instance>
+    <instance id="br-j58#w1805_0" docsrc="br-j58">
+      <context> By this time large_numbers of the audience had left the hall . Davis commenced his remarks by an allusion to the general feeling of opposition which the meeting had encountered from many of the citizens and all the newspapers of the city . He said that the propriety or impropriety of such a gathering was a question that was to be settled by every man in accordance with the convictions of private judgments . In the remainder of his speech Davis spoke of his admiration for Brown and warned those who took_part in the meeting that they `` are liable to the charge that they are supporting traitors and upholding men whom the <head>laws</head> have condemned '' . He recalled that in Rhode_Island a party opposed to the state 's condemnation of a man ( Thomas_W._Dorr ) proclaimed the state 's action as a violation of the law of the land and the principles of human liberty . At the close of Davis ' speech the following preamble and resolutions were read by the president , and on the question of their adoption passed unanimously : Whereas , John_Brown has cheerfully risked his life in endeavoring to deliver those who are denied all rights and is this day doomed to suffer death for his efforts in behalf of those who have no helper :</context>
+    </instance>
+    <instance id="br-j58#w1839_0" docsrc="br-j58">
+      <context> Davis commenced his remarks by an allusion to the general feeling of opposition which the meeting had encountered from many of the citizens and all the newspapers of the city . He said that the propriety or impropriety of such a gathering was a question that was to be settled by every man in accordance with the convictions of private judgments . In the remainder of his speech Davis spoke of his admiration for Brown and warned those who took_part in the meeting that they `` are liable to the charge that they are supporting traitors and upholding men whom the laws have condemned '' . He recalled that in Rhode_Island a party opposed to the state 's condemnation of a man ( Thomas_W._Dorr ) proclaimed the state 's action as a violation of the <head>law</head> of the land and the principles of human liberty . At the close of Davis ' speech the following preamble and resolutions were read by the president , and on the question of their adoption passed unanimously : Whereas , John_Brown has cheerfully risked his life in endeavoring to deliver those who are denied all rights and is this day doomed to suffer death for his efforts in behalf of those who have no helper : Therefore ,</context>
+    </instance>
+    <instance id="br-j58#w467_0" docsrc="br-j58">
+      <context> On Wednesday morning , November_2 , 1859 , the Providence_Daily_Journal stated that although Brown justly deserved the extreme penalty , no man , however criminal , ought to suffer the penalty without a fairer trial . The editor 's main criticism of the trial was the haste with which it was conducted . The readers of the Providence_Daily_Post , however , learned that it was generally conceded that `` Old_Brown '' had a fair trial . Concerning the sentence the editor asked , `` What else can Virginia do than to hang the men who have defied her <head>laws</head> , organized treason , and butchered her citizens '' . In the eastern section of the state the newspapers ' reaction to Brown 's trial and sentence were basically identical . J._Wheaton_Smith , editor of the Warren_Telegraph stated that `` the ends of justice must be satisfied , a solitary example must be set , in_order_that all those misnamed philantropists [ sic ] , who , actuated by a blind zeal , dare to instigate riot , treason , and murder , may heed it and shape their future course accordingly '' . The editor of the Newport_Advertiser could discover no evidence of extenuating circumstances in the Brown trial which would warrant making an exception to the infliction of capital_punishment .</context>
+    </instance>
+    <instance id="br-j60#w101_0" docsrc="br-j60">
+      <context> And without high density in the core , rapid-transit systems cannot be maintained economically , let_alone built from_scratch at today 's prices . However , the building of freeways and garages cannot continue forever . The new interchange among the four Los_Angeles freeways , including the grade-constructed accesses , occupies by itself no less than eighty acres of downtown land , one-eighth of a square_mile , an area about the size of Rockefeller_Center in New_York . It is hard to believe that this mass of intertwined concrete constitutes what the <head>law</head> calls `` the highest and best use '' of centrally located urban land . As it affects the city 's fiscal situation , such an interchange is ruinous ; it removes forever from the tax rolls property which should be taxed to pay for the city services . Subways improved land values without taking_away land ; freeways boost valuation less ( because the garages they require are not prime buildings by_a_long_shot ) , and reduce the acreage that can be taxed . Downtown Los_Angeles is already two-thirds freeway , interchange , street , parking_lot and garage - one of those preposterous `` if '' statistics has already come to pass .</context>
+    </instance>
+    <instance id="br-k03#w955_0" docsrc="br-k03">
+      <context> `` He recommended both of them for the DSM and the Detroit fellow for the Purple_Heart , too , for a combat inflicted wound . So you see Mr._Christiansen knows what it 's all about . But not Jeff_Lawrence . When he was in the war , he was in <head>Law</head> or Supplies or something like that , and an old buddy of his told me he would come down on Sundays to the Pentagon and read the citations for medals - just like the one we sent_in for Trig - and go_away with a real glow . These were heroes nine feet tall to him '' . Jefferson_Lawrence was alone at the small , perfectly appointed table by the window looking_out_over the river . He had dinner and sat there over his coffee watching the winding pattern of traffic as it crossed the bridge and spread_out like a serpent with two heads .</context>
+    </instance>
+    <instance id="br-k10#w1638_0" docsrc="br-k10">
+      <context> I went_to your rooms , and Anthony told me you were here . Two Anabaptists , Caroli and Benoit , are to challenge you and William to a debate before the Council . It is to be a trap . You know the <head>law</head> : if you lose the debate after accepting a challenge , you will be banished '' ! `` What will be the subject '' ? `` You are to be accused of Arianism to confuse the religious who remain loyal '' . Anger and fear fused in John .</context>
+    </instance>
+    <instance id="br-k10#w474_0" docsrc="br-k10">
+      <context> John was quietly insistent . `` There can be no compromise when souls are in jeopardy '' . A week later the sentence of the Council was carried_out : Jake_Camaret and the woman were marched naked through the streets past a mocking populace . Before them stalked the beadle , proclaiming as he went , `` Thus the Council deals with those who break its <head>laws</head> - adulterers , thieves , murderers , and lewd persons . Let evildoers contemplate their ways , and let every man beware '' ! John 's thoughts raced painfully into the past as he read the letter he had just received from his sister Mary . Charles had died two_weeks before , in early November , without being reconciled to the Church .</context>
+    </instance>
+    <instance id="br-k23#w802_0" docsrc="br-k23">
+      <context> Jessica_Packard lifted her head and followed the retreating figure , her eyes resting nearly closed on the unself-conscious rise and fall of the rounded hips . For a moment she held her face to the empty doorway ; then she snorted and groped_for her fork . There 's no greater catastrophe in the universe , she reflected dourly , impaling tender green_beans on the silver fork , than the dwindling_away of a family . Procreation , expansion , proliferation - these are the <head>laws</head> of living_things , with the penalty for not obeying them the ultimate in punishments : oblivion . When the fate of the individual is visited on the group , then ( the warm sweet butter dripped from her raised trembling fork and she pushed her head forward belligerently ) , ah , then the true bitterness of existence could be tasted . And indeed the young garden beans were brackish in her mouth . She was the last living of the older generation .</context>
+    </instance>
+    <instance id="br-n09#w2307_0" docsrc="br-n09">
+      <context> He could n't see ; he was long past the point of coherent thinking . Dimly , he heard laughter , hoots of derision , but he could not read the racket properly . He could not grasp that Lord had withdrawn from the fight minutes ago , and that his leaden arms were flailing at nothing but the air . He hated them too_much to understand - the people of_this isolated <head>law</head> unto itself world that was Lord 's world . This , he was sure , was the way they would act ; laughing_at a dying man , laughing as a man was beaten to death . And nothing would be done about it . Nothing unless &amp; &amp; &amp; .</context>
+    </instance>
+    <instance id="br-n10#w1268_0" docsrc="br-n10">
+      <context> It was to be nothing more_than that . There was to be no gunplay . If the bluff failed and they ran_into trouble , Brannon had told the others , they would withdraw - and he would come after his son another time . He did n't want to put himself outside the <head>law</head> . With him were Hank_Maguire , Luis_Hernandez , and Luis 's son Pedro . The Ramirez brothers were also along . The seventh man was Red_Hogan , a wiry little puncher with a wild streak and a liking for hell_raising .</context>
+    </instance>
+    <instance id="br-p07#w1337_0" docsrc="br-p07">
+      <context> Those of us present , the Perry brothers , Deslonde and the other midshipmen now have the responsibility of the Somers . A great_deal of labor we have as_well , for we are too uncertain of where trust may be placed '' . And when he was alone again in the cabin , Alexander lowered his head into his arms and wept , for he knew full well what must be done , what in_the_end would be done . With all his heart he had loved the Navy and now he must act in accordance with the Navy 's implacable <head>laws</head> . And when he did , when he gave to his ship that protection necessary to preserve her honor , he knew he would lose forever the Navy to which he had dedicated his soul . Where had he failed ? How had he failed ?</context>
+    </instance>
+    <instance id="br-r06#w1128_0" docsrc="br-r06">
+      <context> `` You have visited England five times in the past quarter-century , I believe '' , my host said . `` What has impressed you most on your present visit '' ? `` I would say depressed , not impressed '' , I told him . `` I should say it is the turning of courts of <head>law</head> into veritable theatres for sex dramas , involving clergymen and parishioners , psychiatrists and patients . It is becoming harder and harder to tell law courts and political_arenas from the modern theatre '' . `` Do you think we need a new Henry_James to re-explore the Anglo-American scene '' ? he asked . `` Or perhaps a new Noel_Coward '' ?</context>
+    </instance>
+    <instance id="br-r06#w1153_0" docsrc="br-r06">
+      <context> `` What has impressed you most on your present visit '' ? `` I would say depressed , not impressed '' , I told him . `` I should say it is the turning of courts of law into veritable theatres for sex dramas , involving clergymen and parishioners , psychiatrists and patients . It is becoming harder and harder to tell <head>law</head> courts and political_arenas from the modern theatre '' . `` Do you think we need a new Henry_James to re-explore the Anglo-American scene '' ? he asked . `` Or perhaps a new Noel_Coward '' ? `` But you must have heard it said that the drawing-room disappeared forever with the somnolent years of James and the antic heyday of Coward .</context>
+    </instance>
+    <instance id="n00086297_d_10" docsrc="n00086297_d">
+      <context> placing private_property in the custody of an officer of the <head>law</head> ;</context>
+    </instance>
+    <instance id="n00087663_d_5" docsrc="n00087663_d">
+      <context> a grant made by a <head>law</head> court ;</context>
+    </instance>
+    <instance id="n00122106_d_10" docsrc="n00122106_d">
+      <context> the act of remitting ( especially the referral of a <head>law</head> case to another court ) ;</context>
+    </instance>
+    <instance id="n00232147_d_17" docsrc="n00232147_d">
+      <context> the partial taking_away of the effectiveness of a law ; a partial repeal or abolition of a <head>law</head> ;</context>
+    </instance>
+    <instance id="n00232147_d_8" docsrc="n00232147_d">
+      <context> the partial taking_away of the effectiveness of a <head>law</head> ; a partial repeal or abolition of a law ;</context>
+    </instance>
+    <instance id="n00413795_d_10" docsrc="n00413795_d">
+      <context> a custom or usage that has acquired the force of <head>law</head> ;</context>
+    </instance>
+    <instance id="n00416914_d_0" docsrc="n00416914_d">
+      <context> <head>law</head> based on customary behavior ;</context>
+    </instance>
+    <instance id="n00611143_ex1_2" docsrc="n00611143_ex1">
+      <context> he studied <head>law</head> at Yale ;</context>
+    </instance>
+    <instance id="n00736219_d_7" docsrc="n00736219_d">
+      <context> an antisocial misdeed in violation of the <head>law</head> by a minor ;</context>
+    </instance>
+    <instance id="n00745005_d_9" docsrc="n00745005_d">
+      <context> the act of transgressing ; the violation of a <head>law</head> or a duty or moral_principle ;</context>
+    </instance>
+    <instance id="n00766234_d_4" docsrc="n00766234_d">
+      <context> an act punishable by <head>law</head> ; usually considered an evil act ;</context>
+    </instance>
+    <instance id="n00767477_d_7" docsrc="n00767477_d">
+      <context> an evil act not necessarily punishable by <head>law</head> ;</context>
+    </instance>
+    <instance id="n01087740_d_10" docsrc="n01087740_d">
+      <context> benefits paid to bring incomes to minimum levels established by <head>law</head> ;</context>
+    </instance>
+    <instance id="n01125693_d_6" docsrc="n01125693_d">
+      <context> the act of making or enacting <head>laws</head> ;</context>
+    </instance>
+    <instance id="n01126856_d_4" docsrc="n01126856_d">
+      <context> the passing of a <head>law</head> by a legislative_body ;</context>
+    </instance>
+    <instance id="n01128137_d_4" docsrc="n01128137_d">
+      <context> ensuring obedience to the <head>laws</head> ;</context>
+    </instance>
+    <instance id="n01128266_d_10" docsrc="n01128266_d">
+      <context> the actions of a vigilance_committee in trying to enforce the <head>laws</head> ;</context>
+    </instance>
+    <instance id="n01131515_d_3" docsrc="n01131515_d">
+      <context> acts which the <head>law</head> requires be done or forborne ;</context>
+    </instance>
+    <instance id="n01165919_d_9" docsrc="n01165919_d">
+      <context> the reduction in severity of a punishment imposed by <head>law</head> ;</context>
+    </instance>
+    <instance id="n01179927_d_11" docsrc="n01179927_d">
+      <context> a group's refusal to obey a law because they believe the <head>law</head> is immoral ( as in protest against discrimination ) ;</context>
+    </instance>
+    <instance id="n01179927_d_6" docsrc="n01179927_d">
+      <context> a group's refusal to obey a <head>law</head> because they believe the law is immoral ( as in protest against discrimination ) ;</context>
+    </instance>
+    <instance id="n01191975_d_10" docsrc="n01191975_d">
+      <context> the decision of a court on issues of fact or <head>law</head> ;</context>
+    </instance>
+    <instance id="n01194331_d_18" docsrc="n01194331_d">
+      <context> the expulsion of someone ( such as a tenant ) from the possession of land by process of <head>law</head> ;</context>
+    </instance>
+    <instance id="n01196759_d_12" docsrc="n01196759_d">
+      <context> a highly publicized trial in 1925 when John_Thomas_Scopes violated a Tennessee state <head>law</head> by teaching evolution in high_school ; Scopes was prosecuted by William_Jennings_Bryan and defended by Clarence_Darrow ; Scopes was convicted but the verdict was later reversed ;</context>
+    </instance>
+    <instance id="n01199035_d_11" docsrc="n01199035_d">
+      <context> a defense that claims the defendant would not have broken the <head>law</head> if not tricked into doing it by law_enforcement officials ;</context>
+    </instance>
+    <instance id="n01204419_d_2" docsrc="n01204419_d">
+      <context> conformity with <head>law</head> or custom or practice etc. ;</context>
+    </instance>
+    <instance id="n01204711_d_5" docsrc="n01204711_d">
+      <context> a lack of conformity with <head>law</head> or custom or practice etc. ;</context>
+    </instance>
+    <instance id="n03096273_d_10" docsrc="n03096273_d">
+      <context> goods whose importation or exportation or possession is prohibited by <head>law</head> ;</context>
+    </instance>
+    <instance id="n03097890_d_11" docsrc="n03097890_d">
+      <context> a drug or chemical_substance whose possession and use are controlled by <head>law</head> ;</context>
+    </instance>
+    <instance id="n03179489_d_16" docsrc="n03179489_d">
+      <context> a psychoactive_drug deliberately synthesized to avoid anti_drug_laws ; mimics the effects of a banned drug ; <head>law</head> was revised in 1986 to ban designer drugs ;</context>
+    </instance>
+    <instance id="n03215076_d_4" docsrc="n03215076_d">
+      <context> a Muslim council_chamber or <head>law</head> court ;</context>
+    </instance>
+    <instance id="n04678401_d_13" docsrc="n04678401_d">
+      <context> a mere semblance of legal_right ; something done with the apparent authority of <head>law</head> but actually in contravention of law ;</context>
+    </instance>
+    <instance id="n04678401_d_19" docsrc="n04678401_d">
+      <context> a mere semblance of legal_right ; something done with the apparent authority of law but actually in contravention of <head>law</head> ;</context>
+    </instance>
+    <instance id="n04809642_d_3" docsrc="n04809642_d">
+      <context> ( of a <head>law</head> ) having legal validity ;</context>
+    </instance>
+    <instance id="n04809784_d_4" docsrc="n04809784_d">
+      <context> the quality of conforming_to <head>law</head> ;</context>
+    </instance>
+    <instance id="n04810035_d_10" docsrc="n04810035_d">
+      <context> lawfulness by virtue of being authorized or in accordance with <head>law</head> ;</context>
+    </instance>
+    <instance id="n04810194_d_5" docsrc="n04810194_d">
+      <context> the quality of strictly conforming_to <head>law</head> ;</context>
+    </instance>
+    <instance id="n04810865_d_6" docsrc="n04810865_d">
+      <context> the quality of failing to conform_to <head>law</head> ;</context>
+    </instance>
+    <instance id="n04811126_d_11" docsrc="n04811126_d">
+      <context> illegality as a consequence of unlawful acts ; defiance of the <head>law</head> ;</context>
+    </instance>
+    <instance id="n04811476_d_12" docsrc="n04811476_d">
+      <context> unlawfulness by virtue of not being authorized by or in accordance with <head>law</head> ;</context>
+    </instance>
+    <instance id="n04811628_d_6" docsrc="n04811628_d">
+      <context> the quality of not conforming strictly <head>law</head> ;</context>
+    </instance>
+    <instance id="n04854604_d_10" docsrc="n04854604_d">
+      <context> that which is contrary to the principles of justice or <head>law</head> ;</context>
+    </instance>
+    <instance id="n05174653_d_15" docsrc="n05174653_d">
+      <context> an abstract idea of that which is due to a person or governmental body by <head>law</head> or tradition or nature ;</context>
+    </instance>
+    <instance id="n05175613_d_4" docsrc="n05175613_d">
+      <context> the right in English <head>law</head> of presenting a nominee to a vacant ecclesiastical_benefice ;</context>
+    </instance>
+    <instance id="n05177285_d_4" docsrc="n05177285_d">
+      <context> a right based in <head>law</head> ;</context>
+    </instance>
+    <instance id="n05181754_d_3" docsrc="n05181754_d">
+      <context> right granted by <head>law</head> or contract ( especially a right to benefits ) ;</context>
+    </instance>
+    <instance id="n05183242_d_5" docsrc="n05183242_d">
+      <context> fundamental individual right protected by <head>law</head> and expressed as immunity from unwarranted governmental interference ;</context>
+    </instance>
+    <instance id="n05186766_d_20" docsrc="n05186766_d">
+      <context> immunity from discrimination on the basis of race or sex or nationality or religion or age ; guaranteed by federal <head>laws</head> of the United_States ;</context>
+    </instance>
+    <instance id="n05188801_d_2" docsrc="n05188801_d">
+      <context> in probate <head>law</head> : the legal_right of a surviving spouse to elect to take either what the deceased spouse gave under the will or the share of the estate as set_forth by statute ;</context>
+    </instance>
+    <instance id="n05198427_d_9" docsrc="n05198427_d">
+      <context> the right and power to interpret and apply the <head>law</head> ;</context>
+    </instance>
+    <instance id="n05622956_d_9" docsrc="n05622956_d">
+      <context> the power to learn or retain knowledge ; in <head>law</head> , the ability to understand the facts and significance of your behavior ;</context>
+    </instance>
+    <instance id="n05871140_d_1" docsrc="n05871140_d">
+      <context> a <head>law</head> that is believed to come directly from God ;</context>
+    </instance>
+    <instance id="n05872477_d_4" docsrc="n05872477_d">
+      <context> a basic truth or <head>law</head> or assumption ;</context>
+    </instance>
+    <instance id="n05872982_ex1_1" docsrc="n05872982_ex1">
+      <context> the <head>laws</head> of thermodynamics ;</context>
+    </instance>
+    <instance id="n05874232_d_3" docsrc="n05874232_d">
+      <context> a rule or <head>law</head> concerning a natural_phenomenon or the function of a complex system ;</context>
+    </instance>
+    <instance id="n05875148_d_0" docsrc="n05875148_d">
+      <context> <head>law</head> stating that a large number of items taken at_random from a population will ( on the average ) have the population statistics ;</context>
+    </instance>
+    <instance id="n05875392_d_1" docsrc="n05875392_d">
+      <context> a <head>law</head> used by auditors to identify fictitious populations of numbers ; applies to any population of numbers derived from other numbers ;</context>
+    </instance>
+    <instance id="n05875723_d_1" docsrc="n05875723_d">
+      <context> statistical <head>law</head> obeyed by a system of particles whose wave function is not changed when two particles are interchanged ( the Pauli_exclusion_principle does not apply ) ;</context>
+    </instance>
+    <instance id="n05876469_d_0" docsrc="n05876469_d">
+      <context> <head>law</head> stating that the pressure exerted by a mixture of gases equals the sum of the partial pressures of the gases in the mixture ; the pressure of a gas in a mixture equals the pressure it would exert if it occupied the same volume alone at the same temperature ;</context>
+    </instance>
+    <instance id="n05877178_d_1" docsrc="n05877178_d">
+      <context> a <head>law</head> expressing the distribution of energy among the molecules of a gas in thermal_equilibrium ;</context>
+    </instance>
+    <instance id="n05877991_d_0" docsrc="n05877991_d">
+      <context> <head>law</head> obeyed by a systems of particles whose wave function changes when two particles are interchanged ( the Pauli_exclusion_principle applies ) ;</context>
+    </instance>
+    <instance id="n05878771_d_0" docsrc="n05878771_d">
+      <context> <head>law</head> formulated by the English chemist William_Henry ; the amount of a gas that will be absorbed by water increases as the gas_pressure increases ;</context>
+    </instance>
+    <instance id="n05879441_d_4" docsrc="n05879441_d">
+      <context> one of three empirical <head>laws</head> of planetary motion stated by Johannes_Kepler ;</context>
+    </instance>
+    <instance id="n05879693_d_1" docsrc="n05879693_d">
+      <context> a <head>law</head> stating that the orbit of each planet is an ellipse with the sun at one focus of the ellipse ;</context>
+    </instance>
+    <instance id="n05879856_d_1" docsrc="n05879856_d">
+      <context> a <head>law</head> concerning the speed at which planets travel ; a line connecting a planet to the sun will sweep out equal areas in equal times ;</context>
+    </instance>
+    <instance id="n05880187_d_1" docsrc="n05880187_d">
+      <context> a <head>law</head> stating that the ratio of the square of the revolutionary period ( in years ) to the cube of the orbital axis ( in astronomical_units ) is the same for all planets ;</context>
+    </instance>
+    <instance id="n05880432_d_1" docsrc="n05880432_d">
+      <context> two <head>laws</head> governing electric networks in which steady currents flow : the sum of all the currents at a point is zero and the sum of the voltage gains and drops around any closed_circuit is zero ;</context>
+    </instance>
+    <instance id="n05880715_d_1" docsrc="n05880715_d">
+      <context> a <head>law</head> affirming that in the long_run probabilities will determine performance ;</context>
+    </instance>
+    <instance id="n05880854_d_0" docsrc="n05880854_d">
+      <context> <head>law</head> stating that every pure substance always contains the same elements combined in the same proportions by weight ;</context>
+    </instance>
+    <instance id="n05881102_d_1" docsrc="n05881102_d">
+      <context> a <head>law</head> affirming that to continue after a certain level of performance has been reached will result in a decline in effectiveness ;</context>
+    </instance>
+    <instance id="n05881578_d_0" docsrc="n05881578_d">
+      <context> <head>law</head> stating that the proportions in which two elements separately combine with a third element are also the proportions in which they combine together ;</context>
+    </instance>
+    <instance id="n05881867_d_1" docsrc="n05881867_d">
+      <context> the <head>law</head> that states any two bodies attract each other with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them ;</context>
+    </instance>
+    <instance id="n05882226_d_0" docsrc="n05882226_d">
+      <context> <head>law</head> stating that when two elements can combine to form more than one compound the amounts of one of them that combines with a fixed amount of the other will exhibit a simple multiple relation ;</context>
+    </instance>
+    <instance id="n05882537_d_1" docsrc="n05882537_d">
+      <context> the <head>law</head> that states the following principle : the rate of a chemical_reaction is directly proportional to the molecular concentrations of the reacting substances ;</context>
+    </instance>
+    <instance id="n05882793_d_1" docsrc="n05882793_d">
+      <context> a <head>law</head> governing the relations between states of energy in a closed system ;</context>
+    </instance>
+    <instance id="n05883035_d_1" docsrc="n05883035_d">
+      <context> a <head>law</head> stating that mechanical work can be derived from a body only when that body interacts with another at a lower temperature ; any spontaneous process results in an increase of entropy ;</context>
+    </instance>
+    <instance id="n05883296_d_0" docsrc="n05883296_d">
+      <context> <head>law</head> stating that the entropy of a substance approaches zero as its temperature approaches absolute_zero ;</context>
+    </instance>
+    <instance id="n05883473_d_1" docsrc="n05883473_d">
+      <context> the <head>law</head> that if two bodies are in thermal_equilibrium with a third body then the first two bodies are in thermal_equilibrium with each other ;</context>
+    </instance>
+    <instance id="n05885622_d_4" docsrc="n05885622_d">
+      <context> one of three basic <head>laws</head> of classical_mechanics ;</context>
+    </instance>
+    <instance id="n05903229_d_7" docsrc="n05903229_d">
+      <context> a system for interpreting and enforcing the <head>laws</head> ;</context>
+    </instance>
+    <instance id="n05903738_d_10" docsrc="n05903738_d">
+      <context> a legal_system for determining the facts at issue in a <head>law</head> suit ;</context>
+    </instance>
+    <instance id="n05957428_d_13" docsrc="n05957428_d">
+      <context> the principle that an act done at a later time is deemed by <head>law</head> to have occurred at an earlier time ;</context>
+    </instance>
+    <instance id="n05990480_d_2" docsrc="n05990480_d">
+      <context> a universal <head>law</head> that states that the laws of mechanics are not affected by a uniform rectilinear motion of the system of coordinates to which they are referred ;</context>
+    </instance>
+    <instance id="n05990480_d_7" docsrc="n05990480_d">
+      <context> a universal law that states that the <head>laws</head> of mechanics are not affected by a uniform rectilinear motion of the system of coordinates to which they are referred ;</context>
+    </instance>
+    <instance id="n06017472_d_6" docsrc="n06017472_d">
+      <context> a group that satisfies the commutative <head>law</head> ;</context>
+    </instance>
+    <instance id="n06105314_d_9" docsrc="n06105314_d">
+      <context> parity is conserved in a universe in which the <head>laws</head> of physics are the same in a right-handed system of coordinates as in a left-handed system ;</context>
+    </instance>
+    <instance id="n06107083_d_21" docsrc="n06107083_d">
+      <context> a physical theory_of_relativity based on the assumption that the speed_of_light in a vacuum is a constant and the assumption that the <head>laws</head> of physics are invariant in all inertial systems ;</context>
+    </instance>
+    <instance id="n06111728_d_19" docsrc="n06111728_d">
+      <context> the branch of physics that makes theoretical predictions about the behavior of macroscopic systems on the basis of statistical <head>laws</head> governing its component particles ;</context>
+    </instance>
+    <instance id="n06161718_d_7" docsrc="n06161718_d">
+      <context> the branch of philosophy concerned with the <head>law</head> and the principles that lead courts to make the decisions they do ;</context>
+    </instance>
+    <instance id="n06162223_d_7" docsrc="n06162223_d">
+      <context> that branch of jurisprudence that studies the <head>laws</head> governing corporations ;</context>
+    </instance>
+    <instance id="n06162377_d_7" docsrc="n06162377_d">
+      <context> that branch of jurisprudence that studies the <head>laws</head> governing matrimony ;</context>
+    </instance>
+    <instance id="n06162528_d_7" docsrc="n06162528_d">
+      <context> that branch of jurisprudence that studies the <head>laws</head> governing patents ;</context>
+    </instance>
+    <instance id="n06180720_d_1" docsrc="n06180720_d">
+      <context> a <head>law</head> describing sound changes in the history of a language ;</context>
+    </instance>
+    <instance id="n06185748_d_16" docsrc="n06185748_d">
+      <context> the states' rights doctrine that a state can refuse to recognize or to enforce a federal <head>law</head> passed by the United_States_Congress ;</context>
+    </instance>
+    <instance id="n06186166_d_7" docsrc="n06186166_d">
+      <context> a precept or commandment of the Jewish <head>law</head> ;</context>
+    </instance>
+    <instance id="n06187154_d_14" docsrc="n06187154_d">
+      <context> the theological_doctrine that by faith and God's grace a Christian is freed from all <head>laws</head> ( including the moral standards of the culture ) ;</context>
+    </instance>
+    <instance id="n06206576_d_13" docsrc="n06206576_d">
+      <context> extreme intolerance of antisocial behavior ( usually by an uncompromising application of the <head>law</head> ) ;</context>
+    </instance>
+    <instance id="n06212302_d_7" docsrc="n06212302_d">
+      <context> strict conformity to the letter of the <head>law</head> rather than its spirit ;</context>
+    </instance>
+    <instance id="n06220819_d_9" docsrc="n06220819_d">
+      <context> socialism to be established by gradual reforms within the <head>law</head> ;</context>
+    </instance>
+    <instance id="n06433035_d_9" docsrc="n06433035_d">
+      <context> the third book of the Old_Testament ; contains Levitical <head>law</head> and ritual precedents ;</context>
+    </instance>
+    <instance id="n06433672_d_25" docsrc="n06433672_d">
+      <context> religious_texts from Deuteronomy inscribed on parchment and rolled_up in a case that is attached to the doorframe of many Jewish households in accordance with Jewish <head>law</head> ;</context>
+    </instance>
+    <instance id="n06436183_d_16" docsrc="n06436183_d">
+      <context> an Old_Testament book telling of a rabbi's efforts in the 5th century BC to reconstitute Jewish <head>law</head> and worship in Jerusalem after the Babylonian_Captivity ;</context>
+    </instance>
+    <instance id="n06462396_d_8" docsrc="n06462396_d">
+      <context> the collection of ancient rabbinic writings on Jewish <head>law</head> and tradition ( the Mishna and the Gemara ) that constitute the basis of religious authority in Orthodox_Judaism ;</context>
+    </instance>
+    <instance id="n06463011_d_6" docsrc="n06463011_d">
+      <context> Talmudic_literature that does not deal with <head>law</head> but is still part of Jewish tradition ;</context>
+    </instance>
+    <instance id="n06463170_d_11" docsrc="n06463170_d">
+      <context> Talmudic_literature that deals with law and with the interpretation of the <head>laws</head> on the Hebrew_Scriptures ;</context>
+    </instance>
+    <instance id="n06463170_d_4" docsrc="n06463170_d">
+      <context> Talmudic_literature that deals with <head>law</head> and with the interpretation of the laws on the Hebrew_Scriptures ;</context>
+    </instance>
+    <instance id="n06469874_d_11" docsrc="n06469874_d">
+      <context> a concluding summary ( as in presenting a case before a <head>law</head> court ) ;</context>
+    </instance>
+    <instance id="n06520944_d_12" docsrc="n06520944_d">
+      <context> a binding agreement between two or more persons that is enforceable by <head>law</head> ;</context>
+    </instance>
+    <instance id="n06523969_d_4" docsrc="n06523969_d">
+      <context> a contract created by <head>law</head> for reasons of justice without any expression of assent ;</context>
+    </instance>
+    <instance id="n06532330_ex1_3" docsrc="n06532330_ex1">
+      <context> there is a <head>law</head> against kidnapping ;</context>
+    </instance>
+    <instance id="n06532910_d_1" docsrc="n06532910_d">
+      <context> a <head>law</head> forbidding the sale or use of narcotic drugs ;</context>
+    </instance>
+    <instance id="n06533039_d_0" docsrc="n06533039_d">
+      <context> <head>law</head> intended to eradicate organized_crime by establishing strong sanctions and forfeiture provisions ;</context>
+    </instance>
+    <instance id="n06533297_d_0" docsrc="n06533297_d">
+      <context> <head>law</head> intended to promote free competition in the market_place by outlawing monopolies ;</context>
+    </instance>
+    <instance id="n06533648_d_0" docsrc="n06533648_d">
+      <context> <head>law</head> determining the fundamental political principles of a government ;</context>
+    </instance>
+    <instance id="n06534548_d_1" docsrc="n06534548_d">
+      <context> a <head>law</head> affecting the public at_large ;</context>
+    </instance>
+    <instance id="n06534918_d_3" docsrc="n06534918_d">
+      <context> the code of <head>laws</head> of the Salian_Franks and other German tribes ;</context>
+    </instance>
+    <instance id="n06535035_d_1" docsrc="n06535035_d">
+      <context> a <head>law</head> established by following earlier judicial_decisions ;</context>
+    </instance>
+    <instance id="n06535222_d_0" docsrc="n06535222_d">
+      <context> <head>law</head> enacted by a legislative_body ;</context>
+    </instance>
+    <instance id="n06535476_d_12" docsrc="n06535476_d">
+      <context> legislation that gives appropriate officials the authority to implement or enforce the <head>law</head> ;</context>
+    </instance>
+    <instance id="n06535652_d_1" docsrc="n06535652_d">
+      <context> a <head>law</head> passed by the United_States_Congress that created the Occupational_Safety_and_Health_Administration to prevent employees from being injured or contracting diseases in the course of their employment ;</context>
+    </instance>
+    <instance id="n06536853_d_7" docsrc="n06536853_d">
+      <context> a statute in draft before it becomes <head>law</head> ;</context>
+    </instance>
+    <instance id="n06538215_d_2" docsrc="n06538215_d">
+      <context> a state <head>law</head> regulating the sale of securities in an attempt to control the sale of securities in fraudulent enterprises ;</context>
+    </instance>
+    <instance id="n06538412_d_1" docsrc="n06538412_d">
+      <context> any <head>law</head> that limits freedom_of_the_press ;</context>
+    </instance>
+    <instance id="n06538655_d_1" docsrc="n06538655_d">
+      <context> a <head>law</head> conferring privileges on owners of homesteads ;</context>
+    </instance>
+    <instance id="n06538785_d_1" docsrc="n06538785_d">
+      <context> a <head>law</head> providing support for the poor ;</context>
+    </instance>
+    <instance id="n06538895_d_13" docsrc="n06538895_d">
+      <context> a former English law requiring mobs to disperse after a magistrate reads the <head>law</head> to them ;</context>
+    </instance>
+    <instance id="n06538895_d_3" docsrc="n06538895_d">
+      <context> a former English <head>law</head> requiring mobs to disperse after a magistrate reads the law to them ;</context>
+    </instance>
+    <instance id="n06539178_d_3" docsrc="n06539178_d">
+      <context> the body of <head>law</head> dealing with crimes and their punishment ;</context>
+    </instance>
+    <instance id="n06541820_d_1" docsrc="n06541820_d">
+      <context> a <head>law</head> forbidding the sale of alcoholic_beverages ;</context>
+    </instance>
+    <instance id="n06543781_d_8" docsrc="n06543781_d">
+      <context> a document stating the facts and points of <head>law</head> of a client's case ;</context>
+    </instance>
+    <instance id="n06554675_d_13" docsrc="n06554675_d">
+      <context> an extraordinary writ commanding an official to perform a ministerial act that the <head>law</head> recognizes as an absolute duty and not a matter for the official's discretion ; used only when all other judicial remedies fail ;</context>
+    </instance>
+    <instance id="n06556692_d_6" docsrc="n06556692_d">
+      <context> a writ issued by authority of <head>law</head> ; usually compels the defendant's attendance in a civil_suit ; failure to appear results in a default_judgment against the defendant ;</context>
+    </instance>
+    <instance id="n06564640_d_3" docsrc="n06564640_d">
+      <context> formerly a state <head>law</head> that protected manufacturers from price_cutting by allowing them to set minimum retail prices for their merchandise ; eliminated by the United_States_Congress in 1975 ;</context>
+    </instance>
+    <instance id="n06565201_d_17" docsrc="n06565201_d">
+      <context> a provision in a law that confers on appropriate officials the power to implement or enforce the <head>law</head> ;</context>
+    </instance>
+    <instance id="n06565201_d_4" docsrc="n06565201_d">
+      <context> a provision in a <head>law</head> that confers on appropriate officials the power to implement or enforce the law ;</context>
+    </instance>
+    <instance id="n06604548_d_10" docsrc="n06604548_d">
+      <context> an ambiguity ( especially one in the text of a <head>law</head> or contract ) that makes it possible to evade a difficulty or obligation ;</context>
+    </instance>
+    <instance id="n06623788_d_19" docsrc="n06623788_d">
+      <context> an ancient Sanskrit text giving rules for sensuous and sensual pleasure and love and marriage in accordance with Hindu <head>law</head> ;</context>
+    </instance>
+    <instance id="n06655569_d_7" docsrc="n06655569_d">
+      <context> a principle that takes precedent over the <head>laws</head> of society ;</context>
+    </instance>
+    <instance id="n06667317_d_7" docsrc="n06667317_d">
+      <context> a set of rules or principles or <head>laws</head> ( especially written ones ) ;</context>
+    </instance>
+    <instance id="n06667792_d_3" docsrc="n06667792_d">
+      <context> a code of <head>laws</head> adopted by a state or nation ;</context>
+    </instance>
+    <instance id="n06668147_d_11" docsrc="n06668147_d">
+      <context> a consolidation and codification by subject_matter of the general and permanent <head>laws</head> of the United_States ; is prepared and published by a unit of the United_States_House_of_Representatives ;</context>
+    </instance>
+    <instance id="n06726939_d_11" docsrc="n06726939_d">
+      <context> the official announcement of a new law or ordinance whereby the <head>law</head> or ordinance is put into effect ;</context>
+    </instance>
+    <instance id="n06726939_d_6" docsrc="n06726939_d">
+      <context> the official announcement of a new <head>law</head> or ordinance whereby the law or ordinance is put into effect ;</context>
+    </instance>
+    <instance id="n06746347_d_12" docsrc="n06746347_d">
+      <context> a reply by a Pope to an inquiry concerning a point of <head>law</head> or morality ;</context>
+    </instance>
+    <instance id="n06757479_d_21" docsrc="n06757479_d">
+      <context> a false boast that can harm others ; especially a false claim to be married to someone ( formerly actionable at <head>law</head> ) ;</context>
+    </instance>
+    <instance id="n06765887_d_10" docsrc="n06765887_d">
+      <context> an opinion voiced by a judge on a point of <head>law</head> not directly bearing_on the case in_question and therefore not binding ;</context>
+    </instance>
+    <instance id="n07071366_d_10" docsrc="n07071366_d">
+      <context> a style that uses the abstruse technical vocabulary of the <head>law</head> ;</context>
+    </instance>
+    <instance id="n07172117_d_47" docsrc="n07172117_d">
+      <context> the endeavor of a Moslem scholar to derive a rule of divine_law from the Koran and Hadith without relying on the views of other scholars ; by the end of the 10th century theologians decided that debate on such matters would be closed and Muslim theology and <head>law</head> were frozen ;</context>
+    </instance>
+    <instance id="n07197537_d_15" docsrc="n07197537_d">
+      <context> an examination conducted at regular intervals to determine whether a candidate is qualified to practice <head>law</head> in a given jurisdiction ;</context>
+    </instance>
+    <instance id="n07214994_d_9" docsrc="n07214994_d">
+      <context> to furnish incriminating evidence to an officer of the <head>law</head> ( usually in return for favors ) ;</context>
+    </instance>
+    <instance id="n07256375_d_6" docsrc="n07256375_d">
+      <context> phenomena that appear to contradict physical <head>laws</head> and suggest the possibility of causation by mental_processes ;</context>
+    </instance>
+    <instance id="n07560542_d_8" docsrc="n07560542_d">
+      <context> food that fulfills the requirements of Jewish dietary <head>law</head> ;</context>
+    </instance>
+    <instance id="n07889274_d_8" docsrc="n07889274_d">
+      <context> a lager of high alcohol content ; by <head>law</head> it is considered too alcoholic to be sold as lager or beer ;</context>
+    </instance>
+    <instance id="n07889510_d_20" docsrc="n07889510_d">
+      <context> a general name for beer made with a top_fermenting_yeast ; in some of the United_States an ale is ( by <head>law</head> ) a brew of more than 4% alcohol by volume ;</context>
+    </instance>
+    <instance id="n08095160_d_23" docsrc="n08095160_d">
+      <context> Jews who keep some of the requirements of the Mosaic_law but allow for adaptation of other requirements ( as some of the dietary <head>laws</head> ) to fit modern circumstances ;</context>
+    </instance>
+    <instance id="n08112402_d_7" docsrc="n08112402_d">
+      <context> the body of individuals qualified to practice <head>law</head> in a particular jurisdiction ;</context>
+    </instance>
+    <instance id="n08121542_d_6" docsrc="n08121542_d">
+      <context> the department_of_local_government concerned with enforcing the <head>law</head> and preventing crime ;</context>
+    </instance>
+    <instance id="n08135342_d_6" docsrc="n08135342_d">
+      <context> the United_States_
+     _department responsible for enforcing federal <head>laws</head> ( including the enforcement of all civil_rights legislation ) ; created in 1870 ;</context>
+    </instance>
+    <instance id="n08136502_d_7" docsrc="n08136502_d">
+      <context> an agency in the Department_of_Justice that enforces <head>laws</head> and regulations for the admission of foreign-born persons to the United_States ;</context>
+    </instance>
+    <instance id="n08140219_d_11" docsrc="n08140219_d">
+      <context> the law_enforcement and tax_collection agency of the Treasury_Department that enforces federal <head>laws</head> concerning alcohol and tobacco products and firearms and explosives and arson ;</context>
+    </instance>
+    <instance id="n08141374_d_4" docsrc="n08141374_d">
+      <context> federal_agency responsible for enforcing <head>laws</head> and regulations governing narcotics and controlled_substances ; goal is to immobilize drug trafficking organizations ;</context>
+    </instance>
+    <instance id="n08141951_d_13" docsrc="n08141951_d">
+      <context> the judiciary of the United_States which is responsible for interpreting and enforcing federal <head>laws</head> ;</context>
+    </instance>
+    <instance id="n08163273_d_7" docsrc="n08163273_d">
+      <context> persons who make or amend or repeal <head>laws</head> ;</context>
+    </instance>
+    <instance id="n08165455_d_4" docsrc="n08165455_d">
+      <context> persons who administer the <head>law</head> ;</context>
+    </instance>
+    <instance id="n08166318_d_3" docsrc="n08166318_d">
+      <context> the system of <head>law</head> courts that administer justice and constitute the judicial_branch of government ;</context>
+    </instance>
+    <instance id="n08209687_ex1_1" docsrc="n08209687_ex1">
+      <context> the <head>law</head> came looking for him ;</context>
+    </instance>
+    <instance id="n08211169_d_5" docsrc="n08211169_d">
+      <context> a police group to enforce <head>laws</head> against gambling and prostitution ;</context>
+    </instance>
+    <instance id="n08243851_d_11" docsrc="n08243851_d">
+      <context> an association of British socialists who advocate gradual reforms within the <head>law</head> leading to democratic socialism ;</context>
+    </instance>
+    <instance id="n08302468_d_11" docsrc="n08302468_d">
+      <context> the United_Nations office responsible for crime prevention and criminal justice and <head>law</head> reform ;</context>
+    </instance>
+    <instance id="n08348815_d_8" docsrc="n08348815_d">
+      <context> an agency responsible for insuring obedience to the <head>laws</head> ;</context>
+    </instance>
+    <instance id="n08356074_d_11" docsrc="n08356074_d">
+      <context> the branch of the United_States_government that is responsible for carrying_out the <head>laws</head> ;</context>
+    </instance>
+    <instance id="n08358165_d_5" docsrc="n08358165_d">
+      <context> the quorum required by Jewish <head>law</head> to be present for public worship ( at_least ten males over thirteen years of age ) ;</context>
+    </instance>
+    <instance id="n08379630_d_14" docsrc="n08379630_d">
+      <context> segregation ( especially in schools ) that happens in fact although not required by <head>law</head> ;</context>
+    </instance>
+    <instance id="n08379782_d_5" docsrc="n08379782_d">
+      <context> segregation that is imposed by <head>law</head> ;</context>
+    </instance>
+    <instance id="n08380017_d_23" docsrc="n08380017_d">
+      <context> the body of Mullahs ( Muslim scholars trained in Islam and Islamic_law ) who are the interpreters of Islam's sciences and doctrines and <head>laws</head> and the chief guarantors of continuity in the spiritual and intellectual history of the Islamic community ;</context>
+    </instance>
+    <instance id="n08390731_d_9" docsrc="n08390731_d">
+      <context> the entire body of physically fit civilians eligible by <head>law</head> for military_service ;</context>
+    </instance>
+    <instance id="n08422714_d_6" docsrc="n08422714_d">
+      <context> a thrift_institution that is required by <head>law</head> to make a certain percentage of its loans as home mortgages ;</context>
+    </instance>
+    <instance id="n08440630_d_17" docsrc="n08440630_d">
+      <context> a form_of_government in which the ruler is an absolute dictator ( not restricted by a constitution or <head>laws</head> or opposition etc. ) ;</context>
+    </instance>
+    <instance id="n08441203_ex1_5" docsrc="n08441203_ex1">
+      <context> civilization presupposes respect for the <head>law</head> ;</context>
+    </instance>
+    <instance id="n08453299_d_4" docsrc="n08453299_d">
+      <context> the body of codified <head>laws</head> governing the affairs of a Christian_church ;</context>
+    </instance>
+    <instance id="n08453464_d_3" docsrc="n08453464_d">
+      <context> the body of <head>laws</head> established by a state or nation for its own regulation ;</context>
+    </instance>
+    <instance id="n08454003_d_3" docsrc="n08454003_d">
+      <context> the body of <head>laws</head> governing relations between nations ;</context>
+    </instance>
+    <instance id="n08454445_d_12" docsrc="n08454445_d">
+      <context> a phrase used in the Magna_Carta to refer to the then established <head>law</head> of the kingdom ( as distinct from Roman or civil_law ) ; today it refers to fundamental_principles of justice commensurate with due_process ;</context>
+    </instance>
+    <instance id="n08454818_d_3" docsrc="n08454818_d">
+      <context> the body of <head>law</head> imposed by the military over civilian affairs ( usually in time of war or civil crisis ) ; overrides civil_law ;</context>
+    </instance>
+    <instance id="n08455271_d_3" docsrc="n08455271_d">
+      <context> the body of <head>laws</head> and rules of conduct administered by military_courts for the discipline , trial , and punishment of military_personnel ;</context>
+    </instance>
+    <instance id="n08455520_d_1" docsrc="n08455520_d">
+      <context> the <head>laws</head> ( beginning with the Ten_Commandments ) that God gave to the Israelites through Moses ; it includes many rules of religious observance given in the first five books of the Old_Testament ( in Judaism these books are called the Torah ) ;</context>
+    </instance>
+    <instance id="n08455829_d_3" docsrc="n08455829_d">
+      <context> the code of <head>law</head> derived from the Koran and from the teachings and example of Mohammed ;</context>
+    </instance>
+    <instance id="n08456347_d_3" docsrc="n08456347_d">
+      <context> the body of <head>laws</head> created by legislative statutes ;</context>
+    </instance>
+    <instance id="n08456474_d_3" docsrc="n08456474_d">
+      <context> the body of <head>laws</head> governing the issuance and selling of securities ;</context>
+    </instance>
+    <instance id="n08456619_d_3" docsrc="n08456619_d">
+      <context> the body of <head>laws</head> governing taxation ;</context>
+    </instance>
+    <instance id="n08466412_d_26" docsrc="n08466412_d">
+      <context> a nihilistic art_movement ( especially in painting ) that flourished in Europe early in the 20th century ; based on irrationality and negation of the accepted <head>laws</head> of beauty ;</context>
+    </instance>
+    <instance id="n08590369_d_1" docsrc="n08590369_d">
+      <context> in <head>law</head> ; the territory within which power can be exercised ;</context>
+    </instance>
+    <instance id="n08677525_d_1" docsrc="n08677525_d">
+      <context> in <head>law</head> : the jurisdiction where a trial will be held ;</context>
+    </instance>
+    <instance id="n09083659_d_8" docsrc="n09083659_d">
+      <context> a city in central Illinois ; Abraham_Lincoln practiced <head>law</head> here ;</context>
+    </instance>
+    <instance id="n09366597_d_17" docsrc="n09366597_d">
+      <context> the physical universe considered as an orderly system subject to natural ( not human or supernatural ) <head>laws</head> ;</context>
+    </instance>
+    <instance id="n09788761_d_16" docsrc="n09788761_d">
+      <context> one of a group of rabbis ( active AD 250 500 ) who discussed the Mishnaic <head>law</head> in the law_schools of Palestine and Mesopotamia where they explained and applied earlier teachings and whose discussions are recorded in the Talmud ; they emphasized the study of Torah and the importance of personal action and the fulfillment of the commandments ;</context>
+    </instance>
+    <instance id="n09826945_d_11" docsrc="n09826945_d">
+      <context> a high-ranking Shiite religious_leader who is regarded_as an authority on religious <head>law</head> and its interpretation and who has political power as_well ;</context>
+    </instance>
+    <instance id="n10011902_d_6" docsrc="n10011902_d">
+      <context> a ruler who is unconstrained by <head>law</head> ;</context>
+    </instance>
+    <instance id="n10087736_d_8" docsrc="n10087736_d">
+      <context> a party who files a notice with a <head>law</head> court ;</context>
+    </instance>
+    <instance id="n10108464_d_5" docsrc="n10108464_d">
+      <context> someone who writes a new <head>law</head> or plan ;</context>
+    </instance>
+    <instance id="n10168584_d_6" docsrc="n10168584_d">
+      <context> a person who is entitled by <head>law</head> or by the terms of a will to inherit the estate of another ;</context>
+    </instance>
+    <instance id="n10199251_d_21" docsrc="n10199251_d">
+      <context> the man who leads prayers in a mosque ; for Shiites an imam is a recognized authority on Islamic theology and <head>law</head> and a spiritual guide ;</context>
+    </instance>
+    <instance id="n10249270_d_11" docsrc="n10249270_d">
+      <context> a maker of laws ; someone who gives a code of <head>laws</head> ;</context>
+    </instance>
+    <instance id="n10249270_d_3" docsrc="n10249270_d">
+      <context> a maker of <head>laws</head> ; someone who gives a code of laws ;</context>
+    </instance>
+    <instance id="n10249459_d_4" docsrc="n10249459_d">
+      <context> an officer of the <head>law</head> ;</context>
+    </instance>
+    <instance id="n10249950_d_5" docsrc="n10249950_d">
+      <context> a professional_person authorized to practice <head>law</head> ; conducts lawsuits or gives legal advice ;</context>
+    </instance>
+    <instance id="n10253995_d_5" docsrc="n10253995_d">
+      <context> someone who makes or enacts <head>laws</head> ;</context>
+    </instance>
+    <instance id="n10285762_d_8" docsrc="n10285762_d">
+      <context> someone who transgresses ; someone who violates a <head>law</head> or command ;</context>
+    </instance>
+    <instance id="n10337020_d_6" docsrc="n10337020_d">
+      <context> a jurist who interprets Muslim religious <head>law</head> ;</context>
+    </instance>
+    <instance id="n10338231_d_7" docsrc="n10338231_d">
+      <context> a Muslim trained in the doctrine and <head>law</head> of Islam ; the head of a mosque ;</context>
+    </instance>
+    <instance id="n10349836_d_38" docsrc="n10349836_d">
+      <context> a member of a group of Jews who ( during the early history of the Christian_Church ) accepted Jesus as the Messiah ; they accepted the Gospel_According_to_Matthew but rejected the Epistles of St._Paul and continued to follow Jewish <head>law</head> and celebrate Jewish holidays ; they were later declared heretic by the Church_of_Rome ;</context>
+    </instance>
+    <instance id="n10365984_d_14" docsrc="n10365984_d">
+      <context> an advocate of nullification ; someone who believes that a state can resist federal <head>laws</head> ;</context>
+    </instance>
+    <instance id="n10482587_d_3" docsrc="n10482587_d">
+      <context> one who promulgates <head>laws</head> ( announces a law as a way of putting it into execution ) ;</context>
+    </instance>
+    <instance id="n10482587_d_7" docsrc="n10482587_d">
+      <context> one who promulgates laws ( announces a <head>law</head> as a way of putting it into execution ) ;</context>
+    </instance>
+    <instance id="n10502329_d_12" docsrc="n10502329_d">
+      <context> spiritual_leader of a Jewish congregation ; qualified to expound and apply Jewish <head>law</head> ;</context>
+    </instance>
+    <instance id="n10561736_d_5" docsrc="n10561736_d">
+      <context> one who habitually ignores the <head>law</head> and does not answer court summonses ;</context>
+    </instance>
+    <instance id="n10754449_d_4" docsrc="n10754449_d">
+      <context> someone who violates the <head>law</head> ;</context>
+    </instance>
+    <instance id="n10858577_d_7" docsrc="n10858577_d">
+      <context> Indian physicist who with Albert_Einstein proposed statistical <head>laws</head> based on the indistinguishability of particles ; led to the description of fundamental_particles that later came to be known_as bosons ;</context>
+    </instance>
+    <instance id="n10942675_d_5" docsrc="n10942675_d">
+      <context> Athenian lawmaker whose code of <head>laws</head> prescribed death for almost every offense ;</context>
+    </instance>
+    <instance id="n10961650_d_14" docsrc="n10961650_d">
+      <context> Anglo-Saxon king of Kent who was converted to Christianity by Saint_Augustine ; codified English <head>law</head> ;</context>
+    </instance>
+    <instance id="n10964660_d_13" docsrc="n10964660_d">
+      <context> a Jewish priest and scribe sent by the Persian king to restore Jewish <head>law</head> and worship in Jerusalem ;</context>
+    </instance>
+    <instance id="n10993098_d_12" docsrc="n10993098_d">
+      <context> French chemist and physicist who first isolated boron and who formulated the <head>law</head> describing the behavior of gases under constant pressure ;</context>
+    </instance>
+    <instance id="n11026981_d_5" docsrc="n11026981_d">
+      <context> Babylonian king who codified the <head>laws</head> of Sumer and Mesopotamia ;</context>
+    </instance>
+    <instance id="n11050436_d_6" docsrc="n11050436_d">
+      <context> Palestinian rabbi and interpreter of Judaic <head>law</head> ;</context>
+    </instance>
+    <instance id="n11057925_d_24" docsrc="n11057925_d">
+      <context> English scientist who formulated the law of elasticity and proposed a wave_theory_of_light and formulated a theory of planetary motion and proposed the inverse square <head>law</head> of gravitational_attraction and discovered the cellular structure of cork and introduced the term cell into biology and invented a balance spring for watches ;</context>
+    </instance>
+    <instance id="n11057925_d_5" docsrc="n11057925_d">
+      <context> English scientist who formulated the <head>law</head> of elasticity and proposed a wave_theory_of_light and formulated a theory of planetary motion and proposed the inverse square law of gravitational_attraction and discovered the cellular structure of cork and introduced the term cell into biology and invented a balance spring for watches ;</context>
+    </instance>
+    <instance id="n11101986_d_5" docsrc="n11101986_d">
+      <context> German astronomer who first stated <head>laws</head> of planetary motion ;</context>
+    </instance>
+    <instance id="n11105945_d_10" docsrc="n11105945_d">
+      <context> German physicist who with Bunsen pioneered spectrum_analysis and formulated two <head>laws</head> governing electric networks ;</context>
+    </instance>
+    <instance id="n11149995_d_13" docsrc="n11149995_d">
+      <context> Spanish philosopher considered the greatest Jewish scholar of the Middle_Ages who codified Jewish <head>law</head> in the Talmud ;</context>
+    </instance>
+    <instance id="n11150471_d_11" docsrc="n11150471_d">
+      <context> English historian noted for his works on the history of English <head>law</head> ;</context>
+    </instance>
+    <instance id="n11158754_d_15" docsrc="n11158754_d">
+      <context> United_States jurist ; as chief_justice of the Supreme_Court he established the principles of United_States constitutional <head>law</head> ;</context>
+    </instance>
+    <instance id="n11259457_d_6" docsrc="n11259457_d">
+      <context> English economist who argued that the <head>laws</head> of supply and demand should operate in a free market ;</context>
+    </instance>
+    <instance id="n11288528_d_7" docsrc="n11288528_d">
+      <context> Tennessee highschool teacher who violated a state <head>law</head> by teaching evolution ; in a highly publicized trial in 1925 he was prosecuted by William_Jennings_Bryan and defended by Clarence_Darrow ;</context>
+    </instance>
+    <instance id="n11646694_d_21" docsrc="n11646694_d">
+      <context> Australian conifer bearing two inch seeds tasting like roasted chestnuts ; among the aborigines the tree is hereditary property protected by <head>law</head> ;</context>
+    </instance>
+    <instance id="n13264794_d_6" docsrc="n13264794_d">
+      <context> any property that is considered by <head>law</head> or custom as inseparable from an inheritance is inherited with that inheritance ;</context>
+    </instance>
+    <instance id="n13280515_d_16" docsrc="n13280515_d">
+      <context> the lowest wage that an employer is allowed to pay ; determined by contract or by <head>law</head> ;</context>
+    </instance>
+    <instance id="n13341756_d_4" docsrc="n13341756_d">
+      <context> the interest possessed by <head>law</head> or custom in some intangible thing ;</context>
+    </instance>
+    <instance id="n13350443_d_16" docsrc="n13350443_d">
+      <context> a security entered into before a court with a condition to perform some act required by <head>law</head> ; on failure to perform that act a sum is forfeited ;</context>
+    </instance>
+    <instance id="n13352464_d_14" docsrc="n13352464_d">
+      <context> a mortgage that has priority over all mortgages and liens except those imposed by <head>law</head> ;</context>
+    </instance>
+    <instance id="n13361830_d_6" docsrc="n13361830_d">
+      <context> a trust inferred by operation of <head>law</head> ;</context>
+    </instance>
+    <instance id="n13786595_d_6" docsrc="n13786595_d">
+      <context> an operator that obeys the distributive <head>law</head> : A(f+g) = Af + Ag ( where f and g are functions ) ;</context>
+    </instance>
+    <instance id="n13838205_d_6" docsrc="n13838205_d">
+      <context> a professional_relation that is regulated by <head>law</head> ( as between a lawyer and a client ) ;</context>
+    </instance>
+    <instance id="n13952601_d_4" docsrc="n13952601_d">
+      <context> a status defined by <head>law</head> ;</context>
+    </instance>
+    <instance id="n13965049_d_12" docsrc="n13965049_d">
+      <context> marriage within one's own tribe or group as required by custom or <head>law</head> ;</context>
+    </instance>
+    <instance id="n13965274_d_19" docsrc="n13965274_d">
+      <context> marriage to a person belonging to a tribe or group other than your own as required by custom or <head>law</head> ;</context>
+    </instance>
+    <instance id="n13968973_d_9" docsrc="n13968973_d">
+      <context> a state of order in which events conform_to the <head>law</head> ;</context>
+    </instance>
+    <instance id="n13969988_d_7" docsrc="n13969988_d">
+      <context> courteous respect by one nation for the <head>laws</head> and institutions of another ;</context>
+    </instance>
+    <instance id="n13993030_d_14" docsrc="n13993030_d">
+      <context> freedom of a local_government to determine by popular vote the applicability of a controversial <head>law</head> in their jurisdiction ;</context>
+    </instance>
+    <instance id="n13995662_d_10" docsrc="n13995662_d">
+      <context> one's freedom to exercise one's rights as guaranteed under the <head>laws</head> of the country ;</context>
+    </instance>
+    <instance id="n14529212_d_7" docsrc="n14529212_d">
+      <context> exemption from taxation or normal processes of <head>law</head> that is offered to diplomatic personnel in a foreign_country ;</context>
+    </instance>
+    <instance id="n15116910_d_18" docsrc="n15116910_d">
+      <context> the official time in a local region ( adjusted for location around the Earth ) ; established by <head>law</head> or custom ;</context>
+    </instance>
+    <instance id="n15183428_d_8" docsrc="n15183428_d">
+      <context> a day on which work is suspended by <head>law</head> or custom ;</context>
+    </instance>
+    <instance id="r00115254_d_4" docsrc="r00115254_d">
+      <context> in accord with physical <head>laws</head> ;</context>
+    </instance>
+    <instance id="r00251820_d_1" docsrc="r00251820_d">
+      <context> by <head>law</head> ; conforming_to the law ;</context>
+    </instance>
+    <instance id="r00251820_d_5" docsrc="r00251820_d">
+      <context> by law ; conforming_to the <head>law</head> ;</context>
+    </instance>
+    <instance id="r00251990_d_3" docsrc="r00251990_d">
+      <context> not conforming_to the <head>law</head> ;</context>
+    </instance>
+    <instance id="r00252122_d_10" docsrc="r00252122_d">
+      <context> in respect to jurisprudence or the science or philosophy of <head>law</head> ;</context>
+    </instance>
+    <instance id="r00285092_d_6" docsrc="r00285092_d">
+      <context> in conformity with the rules or <head>laws</head> and without fraud or cheating ;</context>
+    </instance>
+    <instance id="r00291589_d_4" docsrc="r00291589_d">
+      <context> in violation of the <head>law</head> ; in a criminal manner ;</context>
+    </instance>
+    <instance id="v00481739_d_12" docsrc="v00481739_d">
+      <context> organize into a code or system , such as a body of <head>law</head> ;</context>
+    </instance>
+    <instance id="v00861560_d_2" docsrc="v00861560_d">
+      <context> put a <head>law</head> into effect by formal declaration ;</context>
+    </instance>
+    <instance id="v00972457_d_6" docsrc="v00972457_d">
+      <context> make legally capable or qualify in <head>law</head> ;</context>
+    </instance>
+    <instance id="v02466670_d_1" docsrc="v02466670_d">
+      <context> make <head>laws</head> , bills , etc. or bring into effect by legislation ;</context>
+    </instance>
+    <instance id="v02467003_d_7" docsrc="v02467003_d">
+      <context> make liberal or more liberal , of <head>laws</head> and rules ;</context>
+    </instance>
+    <instance id="v02560164_d_3" docsrc="v02560164_d">
+      <context> ensure observance of <head>laws</head> and rules ;</context>
+    </instance>
+    <instance id="v02565687_d_12" docsrc="v02565687_d">
+      <context> commit a sin ; violate a law of God or a moral <head>law</head> ;</context>
+    </instance>
+    <instance id="v02565687_d_6" docsrc="v02565687_d">
+      <context> commit a sin ; violate a <head>law</head> of God or a moral law ;</context>
+    </instance>
+    <instance id="v02566528_d_4" docsrc="v02566528_d">
+      <context> act in disregard of <head>laws</head> , rules , contracts , or promises ;</context>
+    </instance>
+    <instance id="v02567147_d_6" docsrc="v02567147_d">
+      <context> go_against , as of rules and <head>laws</head> ;</context>
+    </instance>
+    <instance id="v02567422_d_2" docsrc="v02567422_d">
+      <context> break the <head>law</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

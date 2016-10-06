@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="boost.n" pos="NN">
+    <instance id="br-j41#w1291_0" docsrc="br-j41">
+      <context> As a strike continues , these parties increase their pressure on the industry to reach an agreement . They become increasingly willing to accept the price increase that the industry claims the wage bargain would entail . Public indignation and resistance to wage price increases is obviously much less when the increases are on the order of 3 % per_annum than when the increases are on the order of 3 % per month . The simple passage of an additional eleven months ' time makes the second 3 % <head>boost</head> more acceptable . Thus , the public limit price is raised further by a given wage increase the longer it has been since the previous price increase . Notice , however , that the passage of time does not permit the raising of prices per_se , without an accompanying wage increase . Similarly , higher levels of GNP do not , in themselves , provide grounds for raising prices , but they do relax some of the pressure on the industry so that it can raise prices higher for a given wage increase .</context>
+    </instance>
+    <instance id="n01211339_ex1_4" docsrc="n01211339_ex1">
+      <context> he gave her a <head>boost</head> over the fence ;</context>
+    </instance>
+    <instance id="v00310937_d_2" docsrc="v00310937_d">
+      <context> give a <head>boost</head> to ; be beneficial to ;</context>
+    </instance>
+  </lexelt>
+</corpus>

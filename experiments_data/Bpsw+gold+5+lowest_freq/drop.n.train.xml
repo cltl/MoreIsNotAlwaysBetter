@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="drop.n" pos="NN">
+    <instance id="Cliff-drop-34-14-2" docsrc="Cliff">
+      <context> The highest cliff ( rock wall , mountain face ) in the world , is Nanga Parbat 's Rupal Face , which rises approximately 4,600 metres , or 15,000 feet , above its base <head>.</head> According to other sources , the highest cliff in the world , about 1,340 m high , is the east face of Great Trango in the Karakoram mountains of northern Pakistan . This uses a fairly stringent notion of cliff , as the 1,340 m figure refers to a nearly vertical headwall of two stacked pillars ; adding in a very steep approach brings the total drop from the East Face precipice to the nearby Dunge Glacier to nearly 2,000 m.</context>
+    </instance>
+    <instance id="Cliff-drop-5-13-1" docsrc="Cliff">
+      <context> This makes listings of cliffs <head>an</head> inherently uncertain endeavor . Some of the largest cliffs on Earth are found underwater . For example , an 8,000-metre drop over a 4,250-metre span can be found at a ridge sitting inside the Kermadec Trench .</context>
+    </instance>
+    <instance id="br-j03#w1441_0" docsrc="br-j03">
+      <context> Essentially these birefringence studies show that at low rates of shear a tension is present at 45 ` to the direction of shear , and as the rate of shear increases , the direction of the maximum tension moves asymptotically toward the direction of shear . According_to Philippoff , the recoverable shear s is given by * * f where |c is the angle_of_extinction . From this and the force of deformation it should be possible to calculate the elastic energy of deformation which should be equal to the * * f calculated from the pressure normal to the shearing face . There is another means which should show the direction and relative value of the stresses in viscoelastic fluids that is not mentioned as_such in the literature , and that is the shape of the suspended <head>drops</head> of low viscosity fluids in shear fields . These droplets are distorted by the normal forces just as a balloon would be pulled or pressed out of shape in one 's hands . These droplets appear to be ellipsoids , and it is mathematically convenient to assume that they are . If they are not ellipsoids , the conclusions will be a reasonable approximation .</context>
+    </instance>
+    <instance id="br-j03#w1631_0" docsrc="br-j03">
+      <context> Mason and Taylor both show that the major_axis of the ellipsoids is at 45 ` at low rates of shear and that it approaches the direction of shear with increased rates of shear . ( Some suspensions break_up before they are near to the direction of shear , and some become asymptotic to it without breakup . ) This is , of_course , a similar type of behavior to that indicated by birefringence studies . The relative forces can be calculated from the various radii_of_curvature if we assume : ( A ) The surface_tension is uniform on the surface of the <head>drop</head> . ( B ) That because of the low viscosity of the fluid , the internal pressure is the same in all directions . ( C ) The kinetic effects are negligible . ( D ) Since the shape of the drop conforms_to the force field , it does not appreciably affect the distribution of forces in the fluid .</context>
+    </instance>
+    <instance id="br-j12#w1541_0" docsrc="br-j12">
+      <context> Nakamura ( ' 58 ) , Verloop ( ' 48 ) , Marchand , Gilroy and Watson ( ' 50 ) , von_Hayek ( ' 53 ) , and Tobin ( ' 52 ) have all claimed their normal but relatively nonfunctional existence in the human_being . Miller ( ' 50 ) is the principal antagonist of this viewpoint . In criticism of the latter 's views , his conclusions were based upon dog lung injection studies in which all_of the vascular channels were first filled with a solution under pressure and then were injected with various sized colored particles designed to stop at the arteriolar level . As early as 1913 Ghoreyeb and Karsner demonstrated with perfusion studies in dogs that bronchial_artery flow would remain constant at a certain low level when pressure was maintained in the pulmonary_artery and vein , but that increases in bronchial_artery flow would occur in response to a relative <head>drop</head> in pulmonary_artery pressure . Berry , Brailsford and Daly in 1931 and Nakamura in 1958 reaffirmed this . Our own studies in which bronchial_artery pulmonary_artery anastomoses were demonstrated , were accomplished by injecting the bronchial_artery first with no pressure on the pulmonary_artery or vein , and then by injecting the pulmonary_artery and vein afterwards . It is distinctly possible , therefore , that simultaneous pressures in all three vessels would have rendered the shunts inoperable and hence , uninjectable .</context>
+    </instance>
+    <instance id="n00327366_ex1_3" docsrc="n00327366_ex1">
+      <context> they expected the <head>drop</head> would be successful ;</context>
+    </instance>
+    <instance id="n05111835_ex1_1" docsrc="n05111835_ex1">
+      <context> a <head>drop</head> of 57 points on the Dow Jones index ;</context>
+    </instance>
+    <instance id="n05111835_ex2_3" docsrc="n05111835_ex2">
+      <context> there was a <head>drop</head> in pressure in the pulmonary artery ;</context>
+    </instance>
+    <instance id="n07362386_ex1_8" docsrc="n07362386_ex1">
+      <context> it was a miracle that he survived the <head>drop</head> from that height ;</context>
+    </instance>
+    <instance id="n09246464_ex2_2" docsrc="n09246464_ex2">
+      <context> a steep <head>drop</head> ;</context>
+    </instance>
+    <instance id="n13771404_ex1_3" docsrc="n13771404_ex1">
+      <context> he had a <head>drop</head> too much to drink ;</context>
+    </instance>
+    <instance id="n13771404_ex2_1" docsrc="n13771404_ex2">
+      <context> a <head>drop</head> of each sample was analyzed ;</context>
+    </instance>
+    <instance id="n13771404_ex3_4" docsrc="n13771404_ex3">
+      <context> there is not a <head>drop</head> of pity in that man ;</context>
+    </instance>
+    <instance id="n13901585_ex1_7" docsrc="n13901585_ex1">
+      <context> he studied the shapes of low viscosity <head>drops</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

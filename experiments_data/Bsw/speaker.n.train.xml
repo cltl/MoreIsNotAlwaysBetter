@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Speaker.n" pos="NN">
+    <instance id="Loudspeaker-speaker-0-109-2" docsrc="Loudspeaker">
+      <context> <head>Wireless</head> speakers still need power , so require a nearby AC power outlet , or possibly batteries . Only the wire to the amplifier is eliminated . Speaker specifications generally include :</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-0-145-1" docsrc="Loudspeaker">
+      <context> <head>Sound</head> reinforcement and public address loudspeakers have sensitivities of perhaps 95 to 102 dB for 1 W @ 1 m—an efficiency of 4–10 % . Rock concert , stadium PA , marine hailing , etc . speakers generally have higher sensitivities of 103 to 110 dB for 1 W @ 1 m—an efficiency of 10–20 % .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-0-415-1" docsrc="Loudspeaker">
+      <context> <head>Conversion</head> of sensitivity to energy efficiency in percent for passive loudspeakers Article on sensitivity and efficiency of loudspeakers Speaker Principles Illustrated guide to loudspeaker design and practice</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-0-416-1" docsrc="Loudspeaker">
+      <context> <head>Article</head> on sensitivity and efficiency of loudspeakers Speaker Principles Illustrated guide to loudspeaker design and practice</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-1-106-1" docsrc="Loudspeaker">
+      <context> === <head>Wiring</head> connections === === Wireless speakers === Wireless speakers are very similar to traditional ( wired ) loudspeakers , but they receive audio signals using radio frequency ( RF ) waves rather than over audio cables .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-1-108-4" docsrc="Loudspeaker">
+      <context> This <head>integration</head> of amplifier and loudspeaker is known as an active loudspeaker . Manufacturers of these loudspeakers design them to be as lightweight as possible while producing the maximum amount of audio output efficiency . Wireless speakers still need power , so require a nearby AC power outlet , or possibly batteries .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-1-332-1" docsrc="Loudspeaker">
+      <context> With <head>a</head> diaphragm === ==== Piezoelectric speakers ==== Piezoelectric speakers can have extended high frequency output , and this is useful in some specialized circumstances ; for instance , sonar applications in which piezoelectric variants are used as both output devices ( generating underwater sound ) and as input devices ( acting as the sensing components of underwater microphones ) .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-1-345-1" docsrc="Loudspeaker">
+      <context> ==== <head>Magnetostrictive</head> speakers ==== Magnetostrictive transducers , based on magnetostriction , have been predominantly used as sonar ultrasonic sound wave radiators , but their use has spread also to audio speaker systems . Magnetostrictive speaker drivers have some special advantages : they can provide greater force ( with smaller excursions ) than other technologies ; low excursion can avoid distortions from large excursion as in other designs ; the magnetizing coil is stationary and therefore more easily cooled ; they are robust because delicate suspensions and voice coils are not required .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-1-345-2" docsrc="Loudspeaker">
+      <context> Magnetostrictive <head>transducers</head> , based on magnetostriction , have been predominantly used as sonar ultrasonic sound wave radiators , but their use has spread also to audio speaker systems . Magnetostrictive speaker drivers have some special advantages : they can provide greater force ( with smaller excursions ) than other technologies ; low excursion can avoid distortions from large excursion as in other designs ; the magnetizing coil is stationary and therefore more easily cooled ; they are robust because delicate suspensions and voice coils are not required . Magnetostrictive speaker modules have been produced by Fostex and FeONIC and subwoofer drivers have also been produced .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-1-377-1" docsrc="Loudspeaker">
+      <context> ==== <head>Transparent</head> ionic conduction speaker ==== In 2013 , a research team introduced Transparent ionic conduction speaker which a 2 layers transparent conductive gel and a layer of transparent rubber in between to make high voltage and high actuation work to reproduce good sound quality . The speaker is suitable for robotics , mobile computing and adaptive optics fields .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-1-400-1" docsrc="Loudspeaker">
+      <context> === <head>New</head> technologies for driving speakers === ==== Digital speakers ==== Digital speakers have been the subject of experiments performed by Bell Labs as far back as the 1920s .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-1-89-3" docsrc="Loudspeaker">
+      <context> This <head>can</head> be reduced by internal absorption using absorptive materials ( often called " damping " ) , such as glass wool , wool , or synthetic fiber batting , within the enclosure . The internal shape of the enclosure can also be designed to reduce this by reflecting sounds away from the loudspeaker diaphragm , where they may then be absorbed . The speaker mounting scheme ( including cabinets ) can also cause diffraction , resulting in peaks and dips in the frequency response .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-10-366-1" docsrc="Loudspeaker">
+      <context> Josef W. Manger was awarded with the " Diesel Medal <head>"</head> for extraordinary developments and inventions by the German institute of inventions . ==== Flat panel loudspeakers ==== There have been many attempts to reduce the size of speaker systems , or alternatively to make them less obvious .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-10-376-1" docsrc="Loudspeaker">
+      <context> The drivers are less fragile than ribbons and considerably more <head>efficient</head> ( and able to produce higher absolute output levels ) than ribbon , electrostatic , or planar magnetic tweeter designs . ==== Transparent ionic conduction speaker ==== In 2013 , a research team introduced Transparent ionic conduction speaker which a 2 layers transparent conductive gel and a layer of transparent rubber in between to make high voltage and high actuation work to reproduce good sound quality .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-10-98-1" docsrc="Loudspeaker">
+      <context> ==== Horn loudspeakers ==== A horn loaded speaker can have <head>a</head> sensitivity as high as 110 dB at 2.83 volts ( 1 watt at 8 ohms ) at 1 meter . This is a hundredfold increase in output compared to a speaker rated at 90 dB sensitivity , and is invaluable in applications where high sound levels are required or amplifier power is limited .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-12-315-7" docsrc="Loudspeaker">
+      <context> The designs are controversial in high fidelity circles , but have proven <head>commercially</head> successful . Several other manufacturers ' designs follow similar principles . While dynamic cone speakers remain the most popular choice , many other speaker technologies exist .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-13-140-4" docsrc="Loudspeaker">
+      <context> The remainder is converted to heat , mostly in the voice coil and <head>magnet</head> assembly . The main reason for this is the difficulty of achieving proper impedance matching between the acoustic impedance of the drive unit and the air it radiates into . ( At low frequencies , improving this match is the main purpose of speaker enclosure designs ) .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-17-152-2" docsrc="Loudspeaker">
+      <context> The interaction of a loudspeaker system with its environment is complex and is largely out of the <head>loudspeaker</head> designer 's control . Most listening rooms present a more or less reflective environment , depending on size , shape , volume , and furnishings . This means the sound reaching a listener 's ears consists not only of sound directly from the speaker system , but also the same sound delayed by traveling to and from ( and being modified by ) one or more surfaces .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-17-361-2" docsrc="Loudspeaker">
+      <context> Bending wave transducers use a diaphragm that is intentionally flexible . The rigidity of the material increases <head>from</head> the center to the outside . Short wavelengths radiate primarily from the inner area , while longer waves reach the edge of the speaker .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-19-141-2" docsrc="Loudspeaker">
+      <context> Driver ratings based on the SPL for a given input are called sensitivity ratings and are notionally similar to <head>efficiency</head> . Sensitivity is usually defined as so many decibels at 1 W electrical input , measured at 1 meter ( except for headphones ) , often at a single frequency . The voltage used is often 2.83 VRMS , which is 1 watt into an 8 Ω ( nominal ) speaker impedance ( approximately true for many speaker systems ) .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-2-1-1" docsrc="Loudspeaker">
+      <context> The most <head>widely</head> used type of speaker today is the dynamic speaker , invented in 1925 by Edward W. Kellogg and Chester W. Rice . The dynamic speaker operates on the same basic principle as a dynamic microphone , but in reverse , to produce sound from an electrical signal .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-2-101-1" docsrc="Loudspeaker">
+      <context> This is <head>a</head> hundredfold increase in output compared to a speaker rated at 90 dB sensitivity , and is invaluable in applications where high sound levels are required or amplifier power is limited . === Wiring connections === === Wireless speakers ===</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-2-323-2" docsrc="Loudspeaker">
+      <context> === With <head>a</head> diaphragm === ==== Piezoelectric speakers ====</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-2-339-1" docsrc="Loudspeaker">
+      <context> They have <head>advantages</head> in these applications , not the least of which is simple and solid state construction that resists seawater better than a ribbon or cone based device would . ==== Magnetostatic loudspeakers ==== ==== Magnetostrictive speakers ====</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-2-386-1" docsrc="Loudspeaker">
+      <context> ==== Plasma <head>arc</head> speakers ==== A less expensive variation on this theme is the use of a flame for the driver , as flames contain ionized ( electrically charged ) gases . ==== Thermoacoustic speakers ====</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-2-397-1" docsrc="Loudspeaker">
+      <context> They are <head>often</head> employed in movie theaters to recreate rumbling bass effects , such as explosions . === New technologies for driving speakers === ==== Digital speakers ====</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-20-1-5" docsrc="Loudspeaker">
+      <context> Besides this most common method , there are several alternative technologies that can be used to convert an electrical signal <head>into</head> sound . The sound source ( e.g. , a sound recording or a microphone ) must be amplified with an amplifier before the signal is sent to the speaker . The term " loudspeaker " may refer to individual transducers ( known as " drivers " ) or to complete speaker systems consisting of an enclosure including one or more drivers .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-20-132-1" docsrc="Loudspeaker">
+      <context> Some amplifiers can cope with the variation better than others can . To make sound , a loudspeaker is driven <head>by</head> modulated electric current ( produced by an amplifier ) that pass through a " speaker coil " which then ( through inductance ) magnetizes the coil , creating a magnetic field . The electric current variations that pass through the speaker are thus converted to varying magnetic forces , which move the speaker diaphragm , which thus forces the driver to produce air motion that is similar to the original signal from the amplifier .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-20-367-2" docsrc="Loudspeaker">
+      <context> There have been many attempts to reduce the size of speaker systems , or alternatively to make them less obvious <head>.</head> One such attempt was the development of " exciter " transducer coils mounted to flat panels to act as sound sources , most accurately called exciter/panel drivers . These can then be made in a neutral color and hung on walls where they are less noticeable than many speakers , or can be deliberately painted with patterns , in which case they can function decoratively .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-20-394-1" docsrc="Loudspeaker">
+      <context> ==== Rotary woofers ==== A rotary woofer is essentially a fan with blades that constantly change their pitch , allowing <head>them</head> to easily push the air back and forth . Rotary woofers are able to efficiently reproduce infrasound frequencies , which are difficult to impossible to achieve on a traditional speaker with a diaphragm .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-22-108-1" docsrc="Loudspeaker">
+      <context> === Wireless speakers === Wireless speakers are very similar to traditional ( wired ) loudspeakers , but they receive audio signals using <head>radio</head> frequency ( RF ) waves rather than over audio cables . There is normally an amplifier integrated in the speaker 's cabinet because the RF waves alone are not enough to drive the speaker .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-22-402-3" docsrc="Loudspeaker">
+      <context> The design is simple ; each bit controls a driver , which is either fully ' on ' or ' off ' <head>.</head> Problems with this design have led manufacturers to abandon it as impractical for the present . First , for a reasonable number of bits ( required for adequate sound reproduction quality ) , the physical size of a speaker system becomes very large .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-22-71-1" docsrc="Loudspeaker">
+      <context> ==== Coaxial drivers ==== A coaxial driver is a loudspeaker driver with two or several combined concentric drivers . Coaxial drivers have <head>been</head> produced by many companies , such as Altec , Tannoy , Pioneer , KEF , SEAS , B&amp;C Speakers , BMS , Cabasse and Genelec .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-23-131-5" docsrc="Loudspeaker">
+      <context> The result is a load resistance that varies fairly widely with frequency , and usually a varying phase relationship between voltage and current <head>as</head> well , also changing with frequency . Some amplifiers can cope with the variation better than others can . To make sound , a loudspeaker is driven by modulated electric current ( produced by an amplifier ) that pass through a " speaker coil " which then ( through inductance ) magnetizes the coil , creating a magnetic field .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-26-1-4" docsrc="Loudspeaker">
+      <context> When an alternating current electrical audio signal is applied to its voice coil , a coil of wire suspended in a circular gap between the poles <head>of</head> a permanent magnet , the coil is forced to move rapidly back and forth due to Faraday 's law of induction , which causes a diaphragm ( usually conically shaped ) attached to the coil to move back and forth , pushing on the air to create sound waves . Besides this most common method , there are several alternative technologies that can be used to convert an electrical signal into sound . The sound source ( e.g. , a sound recording or a microphone ) must be amplified with an amplifier before the signal is sent to the speaker .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-26-141-2" docsrc="Loudspeaker">
+      <context> Driver ratings based on the SPL for a given input are called sensitivity ratings and are notionally similar to efficiency . Sensitivity is usually defined as <head>so</head> many decibels at 1 W electrical input , measured at 1 meter ( except for headphones ) , often at a single frequency . The voltage used is often 2.83 VRMS , which is 1 watt into an 8 Ω ( nominal ) speaker impedance ( approximately true for many speaker systems ) .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-26-344-1" docsrc="Loudspeaker">
+      <context> ==== Magnetostatic loudspeakers ==== ==== Magnetostrictive speakers ==== Magnetostrictive transducers , based on magnetostriction , have been predominantly used as sonar ultrasonic sound wave radiators , <head>but</head> their use has spread also to audio speaker systems .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-3-315-7" docsrc="Loudspeaker">
+      <context> The designs are <head>controversial</head> in high fidelity circles , but have proven commercially successful . Several other manufacturers ' designs follow similar principles . While dynamic cone speakers remain the most popular choice , many other speaker technologies exist .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-3-380-2" docsrc="Loudspeaker">
+      <context> === Without a <head>diaphragm</head> === ==== Plasma arc speakers ====</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-3-95-1" docsrc="Loudspeaker">
+      <context> The effect can <head>be</head> minimized by rounding the front edges of the cabinet , curving the cabinet itself , using a smaller or narrower enclosure , choosing a strategic driver arrangement , using absorptive material around a driver , or some combination of these and other schemes . ==== Horn loudspeakers ==== A horn loaded speaker can have a sensitivity as high as 110 dB at 2.83 volts ( 1 watt at 8 ohms ) at 1 meter .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-4-372-4" docsrc="Loudspeaker">
+      <context> Air is forced from <head>between</head> the pleats in accordance with the imposed signal , generating sound . The drivers are less fragile than ribbons and considerably more efficient ( and able to produce higher absolute output levels ) than ribbon , electrostatic , or planar magnetic tweeter designs . ==== Transparent ionic conduction speaker ====</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-5-394-3" docsrc="Loudspeaker">
+      <context> Rotary woofers are able to <head>efficiently</head> reproduce infrasound frequencies , which are difficult to impossible to achieve on a traditional speaker with a diaphragm . They are often employed in movie theaters to recreate rumbling bass effects , such as explosions . === New technologies for driving speakers ===</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-8-108-1" docsrc="Loudspeaker">
+      <context> === Wireless speakers === Wireless speakers are very <head>similar</head> to traditional ( wired ) loudspeakers , but they receive audio signals using radio frequency ( RF ) waves rather than over audio cables . There is normally an amplifier integrated in the speaker 's cabinet because the RF waves alone are not enough to drive the speaker .</context>
+    </instance>
+    <instance id="Loudspeaker-speaker-8-132-1" docsrc="Loudspeaker">
+      <context> Some amplifiers can cope with the variation better <head>than</head> others can . To make sound , a loudspeaker is driven by modulated electric current ( produced by an amplifier ) that pass through a " speaker coil " which then ( through inductance ) magnetizes the coil , creating a magnetic field . The electric current variations that pass through the speaker are thus converted to varying magnetic forces , which move the speaker diaphragm , which thus forces the driver to produce air motion that is similar to the original signal from the amplifier .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-0-52-1" docsrc="Speaker_(politics)">
+      <context> <head>The</head> Presiding Officer of the National Assembly for Wales , Presiding Officer of the Scottish Parliament , and Presiding Officer of the Northern Ireland Assembly fulfill the same role as the speaker . Generic Speaker of the senate ( disambiguation )</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-0-54-1" docsrc="Speaker_(politics)">
+      <context> <head>Generic</head> Speaker of the senate ( disambiguation ) Speaker of the House of Assembly ( disambiguation )</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-0-55-1" docsrc="Speaker_(politics)">
+      <context> <head>Speaker</head> of the senate ( disambiguation ) Speaker of the House of Assembly ( disambiguation ) Speaker of the House of Commons ( disambiguation )</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-0-56-1" docsrc="Speaker_(politics)">
+      <context> <head>Speaker</head> of the House of Assembly ( disambiguation ) Speaker of the House of Commons ( disambiguation ) Speaker of the House of Representatives ( disambiguation )</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-0-57-1" docsrc="Speaker_(politics)">
+      <context> <head>Speaker</head> of the House of Commons ( disambiguation ) Speaker of the House of Representatives ( disambiguation ) Speaker of the Legislative Assembly</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-0-58-1" docsrc="Speaker_(politics)">
+      <context> <head>Speaker</head> of the House of Representatives ( disambiguation ) Speaker of the Legislative Assembly Speaker of the National Assembly ( disambiguation )</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-0-61-1" docsrc="Speaker_(politics)">
+      <context> <head>Speaker</head> of the National Assembly ( disambiguation ) Specific Speaker of the Canadian Senate</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-0-65-1" docsrc="Speaker_(politics)">
+      <context> <head>List</head> of Speakers of the House of Commons of England Cathaoirleach ( Speaker of the Irish Senate ) Speaker of the Legislative Assembly of Ontario</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-0-66-1" docsrc="Speaker_(politics)">
+      <context> <head>Cathaoirleach</head> ( Speaker of the Irish Senate ) Speaker of the Legislative Assembly of Ontario Speaker of the Palestinian Legislative Council</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-0-70-1" docsrc="Speaker_(politics)">
+      <context> <head>Lawspeaker</head> Lord Speaker ( Speaker of the United Kingdom House of Lords ) Speaker of the United States House of Representatives</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-0-2" docsrc="Speaker_(politics)">
+      <context> The <head>Speaker</head> of a deliberative assembly , especially a legislative body , is its presiding officer ( chair ) . The title was first used in 1377 in England . The speaker 's official role is to moderate debate , make rulings on procedure , announce the results of votes , and the like .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-18-1" docsrc="Speaker_(politics)">
+      <context> Canada <head>===</head> In Canada , the Speaker of the House of Commons is the individual elected to preside over the House of Commons , the elected lower house . The speaker is a Member of Parliament ( MP ) and is elected at the beginning of each new parliament by fellow MPs .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-18-2" docsrc="Speaker_(politics)">
+      <context> In <head>Canada</head> , the Speaker of the House of Commons is the individual elected to preside over the House of Commons , the elected lower house . The speaker is a Member of Parliament ( MP ) and is elected at the beginning of each new parliament by fellow MPs . The Speaker 's role in presiding over Canada 's House of Commons is similar to that of speakers elsewhere in other countries that use the Westminster system .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-18-3" docsrc="Speaker_(politics)">
+      <context> The <head>speaker</head> is a Member of Parliament ( MP ) and is elected at the beginning of each new parliament by fellow MPs . The Speaker 's role in presiding over Canada 's House of Commons is similar to that of speakers elsewhere in other countries that use the Westminster system . The Speaker does not vote except in the case of a tie .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-18-5" docsrc="Speaker_(politics)">
+      <context> The <head>Speaker</head> does not vote except in the case of a tie . By convention , if required to vote , the Speaker will vote in favour of continuing debate on a matter , but will not ultimately vote for a measure to be approved . The Speaker of the Senate of Canada is the presiding officer of the Senate of Canada , the appointed upper house .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-19-1" docsrc="Speaker_(politics)">
+      <context> By <head>convention</head> , if required to vote , the Speaker will vote in favour of continuing debate on a matter , but will not ultimately vote for a measure to be approved . The Speaker of the Senate of Canada is the presiding officer of the Senate of Canada , the appointed upper house . The Speaker represents the Senate at official functions , rules on questions of parliamentary procedure and parliamentary privilege , and presides over debates and voting in the " Red Chamber " .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-19-2" docsrc="Speaker_(politics)">
+      <context> The <head>Speaker</head> of the Senate of Canada is the presiding officer of the Senate of Canada , the appointed upper house . The Speaker represents the Senate at official functions , rules on questions of parliamentary procedure and parliamentary privilege , and presides over debates and voting in the " Red Chamber " . The Speaker of the Senate is appointed by the Governor General of Canada from amongst sitting senators upon the advice of the Prime Minister .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-19-3" docsrc="Speaker_(politics)">
+      <context> The <head>Speaker</head> represents the Senate at official functions , rules on questions of parliamentary procedure and parliamentary privilege , and presides over debates and voting in the " Red Chamber " . The Speaker of the Senate is appointed by the Governor General of Canada from amongst sitting senators upon the advice of the Prime Minister . The Speaker has a vote on all matters .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-24-1" docsrc="Speaker_(politics)">
+      <context> === <head>United</head> Kingdom === In the United Kingdom , the Speaker of the House of Commons is the individual elected to preside over the elected House of Commons . The speaker is a Member of Parliament ( MP ) and is elected at the beginning of each new parliament by fellow MPs .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-5-1" docsrc="Speaker_(politics)">
+      <context> The <head>title</head> was first used in 1377 in England . The speaker 's official role is to moderate debate , make rulings on procedure , announce the results of votes , and the like . The speaker decides who may speak and has the powers to discipline members who break the procedures of the chamber or house .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-5-2" docsrc="Speaker_(politics)">
+      <context> The <head>speaker</head> 's official role is to moderate debate , make rulings on procedure , announce the results of votes , and the like . The speaker decides who may speak and has the powers to discipline members who break the procedures of the chamber or house . The speaker often also represents the body in person , as the voice of the body in ceremonial and some other situations .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-69-1" docsrc="Speaker_(politics)">
+      <context> Marshal <head>of</head> the Senate of the Republic of Poland Lawspeaker Lord Speaker ( Speaker of the United Kingdom House of Lords )</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-1-9-2" docsrc="Speaker_(politics)">
+      <context> === <head>Australia</head> === The Speaker of the Australian House of Representatives is the presiding officer of the Australian House of Representatives , the lower house of the Parliament of Australia .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-11-43-1" docsrc="Speaker_(politics)">
+      <context> In several American republics , the vice president of the country <head>serves</head> as the president of the upper house . This pattern is not universal , however . Some upper houses , including those of Canada , have a speaker .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-11-6-2" docsrc="Speaker_(politics)">
+      <context> By convention , Speakers are normally addressed in Parliament as ' <head>Mister</head> Speaker ' , if a man , or ' Madam Speaker ' , if a woman . In other cultures other styles are used , mainly being equivalents of English " chairman " or " president " . Many bodies also have a speaker pro tempore ( or deputy speaker ) , designated to fill in when the speaker is not available .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-12-5-4" docsrc="Speaker_(politics)">
+      <context> The speaker often also represents the body in person , as the <head>voice</head> of the body in ceremonial and some other situations . The title was first recorded in 1377 to describe the role of Thomas de Hungerford in the Parliament of England . By convention , Speakers are normally addressed in Parliament as ' Mister Speaker ' , if a man , or ' Madam Speaker ' , if a woman .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-16-19-5" docsrc="Speaker_(politics)">
+      <context> The Speaker has a vote on all matters . In the event of a tie , <head>the</head> matter fails . At the provincial level , the presiding officer of the provincial legislatures is called the " Speaker " in all provinces except Quebec , where the term " President " is used .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-17-10-1" docsrc="Speaker_(politics)">
+      <context> Australia === The Speaker of the Australian House of Representatives is the presiding officer of the Australian <head>House</head> of Representatives , the lower house of the Parliament of Australia . The current Speaker has been Tony Smith since 10 August 2015 , after the resignation of embattled speaker Bronwyn Bishop .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-17-18-2" docsrc="Speaker_(politics)">
+      <context> In Canada , the Speaker of the House of Commons is the individual elected to preside over <head>the</head> House of Commons , the elected lower house . The speaker is a Member of Parliament ( MP ) and is elected at the beginning of each new parliament by fellow MPs . The Speaker 's role in presiding over Canada 's House of Commons is similar to that of speakers elsewhere in other countries that use the Westminster system .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-17-25-3" docsrc="Speaker_(politics)">
+      <context> The commonly used " Speaker of the House of Lords " is not correct . The presiding <head>officer</head> of the House of Lords was until recently the Lord Chancellor , who was also a member of the government ( a cabinet member ) and the head of the judicial branch . The Lord Chancellor did not have the same authority to discipline members of the Lords that the speaker of the Commons has in that house .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-2-10-1" docsrc="Speaker_(politics)">
+      <context> Australia === <head>The</head> Speaker of the Australian House of Representatives is the presiding officer of the Australian House of Representatives , the lower house of the Parliament of Australia . The current Speaker has been Tony Smith since 10 August 2015 , after the resignation of embattled speaker Bronwyn Bishop .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-2-24-2" docsrc="Speaker_(politics)">
+      <context> In the <head>United</head> Kingdom , the Speaker of the House of Commons is the individual elected to preside over the elected House of Commons . The speaker is a Member of Parliament ( MP ) and is elected at the beginning of each new parliament by fellow MPs . The Lord Speaker is the presiding officer of the House of Lords .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-2-25-4" docsrc="Speaker_(politics)">
+      <context> The presiding <head>officer</head> of the House of Lords was until recently the Lord Chancellor , who was also a member of the government ( a cabinet member ) and the head of the judicial branch . The Lord Chancellor did not have the same authority to discipline members of the Lords that the speaker of the Commons has in that house . The Lord Speaker is elected by the members of the House of Lords and is expected to be politically impartial .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-2-63-1" docsrc="Speaker_(politics)">
+      <context> Specific Speaker <head>of</head> the Canadian Senate List of Speakers of the House of Commons of England</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-2-64-1" docsrc="Speaker_(politics)">
+      <context> Speaker of <head>the</head> Canadian Senate List of Speakers of the House of Commons of England Cathaoirleach ( Speaker of the Irish Senate )</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-20-6-2" docsrc="Speaker_(politics)">
+      <context> By convention , Speakers are normally addressed in Parliament as ' Mister Speaker ' , if a man , or <head>'</head> Madam Speaker ' , if a woman . In other cultures other styles are used , mainly being equivalents of English " chairman " or " president " . Many bodies also have a speaker pro tempore ( or deputy speaker ) , designated to fill in when the speaker is not available .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-22-5-4" docsrc="Speaker_(politics)">
+      <context> The speaker often also represents the body in person , as the voice of the body in ceremonial and some other situations <head>.</head> The title was first recorded in 1377 to describe the role of Thomas de Hungerford in the Parliament of England . By convention , Speakers are normally addressed in Parliament as ' Mister Speaker ' , if a man , or ' Madam Speaker ' , if a woman .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-29-13-2" docsrc="Speaker_(politics)">
+      <context> === Italy === Italian parliamentarism is centered on the Presidents of the two Houses , vested in defense of the members and of the assembly as a whole ; <head>so</head> " the Speaker invites the representative of the Government not to deviate from the rules of parliamentary behavior " .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-3-5-4" docsrc="Speaker_(politics)">
+      <context> The speaker often <head>also</head> represents the body in person , as the voice of the body in ceremonial and some other situations . The title was first recorded in 1377 to describe the role of Thomas de Hungerford in the Parliament of England . By convention , Speakers are normally addressed in Parliament as ' Mister Speaker ' , if a man , or ' Madam Speaker ' , if a woman .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-3-69-1" docsrc="Speaker_(politics)">
+      <context> Marshal of the <head>Senate</head> of the Republic of Poland Lawspeaker Lord Speaker ( Speaker of the United Kingdom House of Lords )</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-31-43-2" docsrc="Speaker_(politics)">
+      <context> This pattern is not universal , however . Some upper houses , including those of Canada , have a speaker . The Presiding Officer of the National Assembly for Wales , <head>Presiding</head> Officer of the Scottish Parliament , and Presiding Officer of the Northern Ireland Assembly fulfill the same role as the speaker .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-4-17-2" docsrc="Speaker_(politics)">
+      <context> === Canada === In <head>Canada</head> , the Speaker of the House of Commons is the individual elected to preside over the House of Commons , the elected lower house .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-4-25-1" docsrc="Speaker_(politics)">
+      <context> The speaker is a <head>Member</head> of Parliament ( MP ) and is elected at the beginning of each new parliament by fellow MPs . The Lord Speaker is the presiding officer of the House of Lords . The commonly used " Speaker of the House of Lords " is not correct .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-5-6-2" docsrc="Speaker_(politics)">
+      <context> By convention , Speakers are <head>normally</head> addressed in Parliament as ' Mister Speaker ' , if a man , or ' Madam Speaker ' , if a woman . In other cultures other styles are used , mainly being equivalents of English " chairman " or " president " . Many bodies also have a speaker pro tempore ( or deputy speaker ) , designated to fill in when the speaker is not available .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-5-71-1" docsrc="Speaker_(politics)">
+      <context> Lord Speaker ( Speaker of <head>the</head> United Kingdom House of Lords ) Speaker of the United States House of Representatives Green , Matthew N. The Speaker of the House : A Study of Leadership ( Yale University Press ; 2010 ) 292 pages ; US House</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-5-79-1" docsrc="Speaker_(politics)">
+      <context> Speaker of the United States <head>House</head> of Representatives Green , Matthew N. The Speaker of the House : A Study of Leadership ( Yale University Press ; 2010 ) 292 pages ; US House</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-6-23-1" docsrc="Speaker_(politics)">
+      <context> The presiding officer fulfills the same <head>role</head> as the Speaker of the House of Commons . === United Kingdom === In the United Kingdom , the Speaker of the House of Commons is the individual elected to preside over the elected House of Commons .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-9-18-4" docsrc="Speaker_(politics)">
+      <context> The Speaker 's role in presiding over Canada 's <head>House</head> of Commons is similar to that of speakers elsewhere in other countries that use the Westminster system . The Speaker does not vote except in the case of a tie . By convention , if required to vote , the Speaker will vote in favour of continuing debate on a matter , but will not ultimately vote for a measure to be approved .</context>
+    </instance>
+    <instance id="Speaker_(politics)-speaker-9-20-1" docsrc="Speaker_(politics)">
+      <context> In the event of a tie , the matter <head>fails</head> . At the provincial level , the presiding officer of the provincial legislatures is called the " Speaker " in all provinces except Quebec , where the term " President " is used . The presiding officer fulfills the same role as the Speaker of the House of Commons .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-0-112-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> <head>Green</head> , Matthew N. The Speaker of the House : A Study of Leadership ( Yale University Press ; 2010 ) 292 pages ; Examines partisan pressures and other factors that shaped the leadership of the speaker of the U.S. House of Representatives ; focuses on the period since 1940 . Grossman , Mark . Speakers of the House of Representatives ( Amenia , NY : Grey House Publishing , 2009 ) .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-1-10-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The <head>last</head> time repeated votes were required was in 1923 , when the Speaker was elected on the ninth ballot . In modern practice , the Speaker is chosen by the majority party from among its senior leaders either when a vacancy in the office arrives or when the majority party changes . Previous Speakers have been minority leaders ( when the majority party changes , as they are already the House party leader , and as the minority leader are usually their party 's nominee for Speaker ) , or majority leaders ( upon departure of the current Speaker in the majority party ) , assuming that the party leadership hierarchy is followed .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-1-116-4" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The <head>American</head> Congress : The Building of Democracy ( 2004 ) . A comprehensive history by 40 scholars . " Speaker of the House of Representatives " .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-1-13-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> If <head>the</head> Speaker 's party loses control of the House in an election , and if the Speaker and Majority Leader both remain in the leadership hierarchy , they would become the Minority Leader and Minority Whip , respectively . As the minority party has historically had one less leadership position after losing the Speaker 's chair , there may be a contest for the remaining leadership positions ; upon losing control of the House after the 2010 election , the Democrats created the position of Assistant Democratic Leader in order to prevent such a contest . Most Speakers whose party has lost control of the House have not returned to the party leadership ( Tom Foley lost his seat , Dennis Hastert returned to the backbenches and resigned from the House in late 2007 ) .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-1-32-6" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Neither <head>party</head> agreed to permit a speakership election with the opposite party 's delegation participating . Finally , it was agreed to exclude both delegations from the election and a Speaker was finally chosen on December 17 . The Speaker is responsible for ensuring that the House passes legislation supported by the majority party .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-1-50-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> More <head>modern</head> examples include Tip O'Neill , who was a vocal opponent of President Ronald Reagan 's economic and defense policies ; Newt Gingrich , who fought a bitter battle with President Bill Clinton for control of domestic policy ; Nancy Pelosi , who argued with President George W. Bush over the Iraq War ; and John Boehner , who clashed with President Barack Obama over budget issues and health care . Under the Rules of the House , the Speaker , " as soon as practicable after the election of the Speaker and whenever appropriate thereafter , " must deliver to the Clerk of the House a confidential list of Members who are designated to act as Speaker in the case of a vacancy caused by an emergency , such as a terrorist attack . The Speaker 's powers and duties extend beyond presiding in the chamber .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-1-52-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The <head>Speaker</head> 's powers and duties extend beyond presiding in the chamber . In particular , the Speaker has great influence over the committee process . The Speaker selects nine of the thirteen members of the powerful Committee on Rules , subject to the approval of the entire majority party .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-1-57-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Because <head>joint</head> sessions and joint meetings of Congress are held in the House chamber , the Speaker presides over joint sessions to hear addresses by the President , and joint meetings to hear addresses from foreign leaders or other invited guests . However , the Twelfth Amendment and 3 U.S.C. § 15 require that the President of the Senate preside over joint sessions of Congress assembled to count electoral votes and to certify the results of a presidential election . The Speaker is second in the presidential line of succession , immediately after the Vice President , under the Presidential Succession Act of 1947 .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-1-59-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> However <head>,</head> the Twelfth Amendment and 3 U.S.C. § 15 require that the President of the Senate preside over joint sessions of Congress assembled to count electoral votes and to certify the results of a presidential election . The Speaker is second in the presidential line of succession , immediately after the Vice President , under the Presidential Succession Act of 1947 . The Speaker is followed in the line of succession by the President pro tempore of the Senate and by the heads of federal executive departments .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-10-13-4" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Most Speakers whose party has lost control of the House <head>have</head> not returned to the party leadership ( Tom Foley lost his seat , Dennis Hastert returned to the backbenches and resigned from the House in late 2007 ) . However , Speakers Joseph William Martin , Jr. and Sam Rayburn did seek the post of Minority Leader in the late 1940s and early 1950s . Nancy Pelosi is the most recent example of an outgoing Speaker who was elected Minority Leader , after the Democrats lost control of the House in the 2010 elections .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-10-19-7" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> In 1855 and again in 1859 , for example , <head>the</head> contest for Speaker lasted for two months before the House achieved a result . During this time , Speakers tended to have very short tenures . For example , from 1839 to 1863 there were eleven Speakers , only one of whom served for more than one term .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-11-19-9" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> For example , from 1839 to 1863 there were eleven Speakers <head>,</head> only one of whom served for more than one term . To date , James K. Polk is the only Speaker of the House later elected President of the United States . Towards the end of the 19th century , the office of Speaker began to develop into a very powerful one .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-11-24-6" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> In 1910 , however , Democrats and several dissatisfied Republicans joined <head>together</head> to strip Cannon of many of his powers , including the ability to name committee members and his chairmanship of the Rules Committee . Fifteen years later , Speaker Nicholas Longworth restored much , but not all , of the lost influence of the position . Albert 's successor , Democrat Tip O'Neill , was a prominent Speaker because of his public opposition to the policies of President Ronald Reagan .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-12-21-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> To date , James K. Polk is the only Speaker of the <head>House</head> later elected President of the United States . Towards the end of the 19th century , the office of Speaker began to develop into a very powerful one . At the time , one of the most important sources of the Speaker 's power was his position as Chairman of the Committee on Rules , which , after the reorganization of the committee system in 1880 , became one of the most powerful standing committees of the House .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-13-19-5" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Following Clay 's retirement in 1825 , the power of the speakership once <head>again</head> began to decline , despite speakership elections becoming increasingly bitter . As the Civil War approached , several sectional factions nominated their own candidates , often making it difficult for any candidate to attain a majority . In 1855 and again in 1859 , for example , the contest for Speaker lasted for two months before the House achieved a result .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-13-8-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Although no rule exists , based on tradition and practice from the earliest <head>days</head> of the nation , to be elected speaker a candidate must receive an absolute majority of all votes cast for individuals , i.e. excluding those who abstain . If no candidate wins such a majority , then the roll call is repeated until a speaker is elected . The last time repeated votes were required was in 1923 , when the Speaker was elected on the ninth ballot .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-14-110-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Retrieved January 14 , 2015 . Garraty , John , ed . American National <head>Biography</head> ( 1999 ) 20 volumes ; contains scholarly biographies of all Speakers no longer alive .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-14-13-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> In response , the Democrats stripped him of his seniority and he lost all <head>of</head> his committee posts . If the Speaker 's party loses control of the House in an election , and if the Speaker and Majority Leader both remain in the leadership hierarchy , they would become the Minority Leader and Minority Whip , respectively . As the minority party has historically had one less leadership position after losing the Speaker 's chair , there may be a contest for the remaining leadership positions ; upon losing control of the House after the 2010 election , the Democrats created the position of Assistant Democratic Leader in order to prevent such a contest .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-14-32-5" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The problem was compounded by the fact that the result of the dispute would <head>determine</head> whether the Whigs or the Democrats held the majority . Neither party agreed to permit a speakership election with the opposite party 's delegation participating . Finally , it was agreed to exclude both delegations from the election and a Speaker was finally chosen on December 17 .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-15-1-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The office was established in 1789 by Article I , Section 2 of the United <head>States</head> Constitution , which states in part , " The House of Representatives shall choose their Speaker ... " The Constitution does not require that the Speaker be an elected House Representative , though every Speaker so far has been an elected Member of the House . Aside from duties relating to heading the House and the majority political party , the Speaker also performs administrative and procedural functions , and represents his or her Congressional district .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-16-0-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The Speaker of the House is the presiding officer of the United States House of Representatives <head>.</head> The office was established in 1789 by Article I , Section 2 of the United States Constitution , which states in part , " The House of Representatives shall choose their Speaker ... " The Constitution does not require that the Speaker be an elected House Representative , though every Speaker so far has been an elected Member of the House .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-16-105-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The election was held on October 29 . Leaders of the United States House of Representatives <head>Beth</head> , Richard S. ; Heitshusen , Valerie ( January 4 , 2013 ) . " Speakers of the House : Elections , 1913–2013 " ( PDF ) .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-16-112-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Grossman , Mark . Speakers of the House of Representatives ( Amenia , NY : Grey <head>House</head> Publishing , 2009 ) . The comprehensive work on the subject , covering , in depth , the lives of the Speakers from Frederick Muhlenberg to Nancy Pelosi .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-16-52-8" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> As a member of the House , the Speaker is entitled to participate in debate and <head>to</head> vote but , by custom , only does so in exceptional circumstances . Ordinarily , the Speaker votes only when the Speaker 's vote would be decisive or on matters of great importance , such as constitutional amendments or major legislation . Because joint sessions and joint meetings of Congress are held in the House chamber , the Speaker presides over joint sessions to hear addresses by the President , and joint meetings to hear addresses from foreign leaders or other invited guests .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-16-8-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> They may also abstain by voting " present " . Although no rule exists , based <head>on</head> tradition and practice from the earliest days of the nation , to be elected speaker a candidate must receive an absolute majority of all votes cast for individuals , i.e. excluding those who abstain . If no candidate wins such a majority , then the roll call is repeated until a speaker is elected .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-17-12-5" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The last instance where a representative voted for the other party 's candidate was in 2000 , <head>when</head> Democrat Jim Traficant of Ohio voted for Republican Dennis Hastert . In response , the Democrats stripped him of his seniority and he lost all of his committee posts . If the Speaker 's party loses control of the House in an election , and if the Speaker and Majority Leader both remain in the leadership hierarchy , they would become the Minority Leader and Minority Whip , respectively .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-2-12-5" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The last <head>instance</head> where a representative voted for the other party 's candidate was in 2000 , when Democrat Jim Traficant of Ohio voted for Republican Dennis Hastert . In response , the Democrats stripped him of his seniority and he lost all of his committee posts . If the Speaker 's party loses control of the House in an election , and if the Speaker and Majority Leader both remain in the leadership hierarchy , they would become the Minority Leader and Minority Whip , respectively .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-2-13-3" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> As the <head>minority</head> party has historically had one less leadership position after losing the Speaker 's chair , there may be a contest for the remaining leadership positions ; upon losing control of the House after the 2010 election , the Democrats created the position of Assistant Democratic Leader in order to prevent such a contest . Most Speakers whose party has lost control of the House have not returned to the party leadership ( Tom Foley lost his seat , Dennis Hastert returned to the backbenches and resigned from the House in late 2007 ) . However , Speakers Joseph William Martin , Jr. and Sam Rayburn did seek the post of Minority Leader in the late 1940s and early 1950s .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-2-42-3" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> In pursuing <head>this</head> goal , the Speaker may use their power to determine when each bill reaches the floor . They also chair the majority party 's steering committee in the House . While the Speaker is the functioning head of the House majority party , the same is not true of the President pro tempore of the Senate , whose office is primarily ceremonial and honorary .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-20-45-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> While the Speaker is the functioning head of the House majority party , the same is not true of the <head>President</head> pro tempore of the Senate , whose office is primarily ceremonial and honorary . More modern examples include Tip O'Neill , who was a vocal opponent of President Ronald Reagan 's economic and defense policies ; Newt Gingrich , who fought a bitter battle with President Bill Clinton for control of domestic policy ; Nancy Pelosi , who argued with President George W. Bush over the Iraq War ; and John Boehner , who clashed with President Barack Obama over budget issues and health care . Under the Rules of the House , the Speaker , " as soon as practicable after the election of the Speaker and whenever appropriate thereafter , " must deliver to the Clerk of the House a confidential list of Members who are designated to act as Speaker in the case of a vacancy caused by an emergency , such as a terrorist attack .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-21-7-5" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Representatives are not restricted to voting for one of the nominated candidates and may vote for any person , even for <head>someone</head> who is not a member of the House at all . They may also abstain by voting " present " . Although no rule exists , based on tradition and practice from the earliest days of the nation , to be elected speaker a candidate must receive an absolute majority of all votes cast for individuals , i.e. excluding those who abstain .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-25-19-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The position of Speaker started to gain its partisan role and its power in legislative development under Henry Clay ( 1811–1814 , 1815–1820 , and <head>1823–1825</head> ) . In contrast to many of his predecessors , Clay participated in several debates , and used his influence to procure the passage of measures he supported—for instance , the declaration of the War of 1812 , and various laws relating to Clay 's " American System " economic plan . Furthermore , when no candidate received an Electoral College majority in the 1824 presidential election causing the President to be elected by the House , Speaker Clay threw his support to John Quincy Adams instead of Andrew Jackson , thereby ensuring Adams ' victory .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-3-13-5" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> However , Speakers <head>Joseph</head> William Martin , Jr. and Sam Rayburn did seek the post of Minority Leader in the late 1940s and early 1950s . Nancy Pelosi is the most recent example of an outgoing Speaker who was elected Minority Leader , after the Democrats lost control of the House in the 2010 elections . The position of Speaker started to gain its partisan role and its power in legislative development under Henry Clay ( 1811–1814 , 1815–1820 , and 1823–1825 ) .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-3-21-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Towards the end <head>of</head> the 19th century , the office of Speaker began to develop into a very powerful one . At the time , one of the most important sources of the Speaker 's power was his position as Chairman of the Committee on Rules , which , after the reorganization of the committee system in 1880 , became one of the most powerful standing committees of the House . Furthermore , several Speakers became leading figures in their political parties ; examples include Democrats Samuel J. Randall , John Griffin Carlisle , and Charles F. Crisp , and Republicans James G. Blaine , Thomas Brackett Reed , and Joseph Gurney Cannon .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-3-52-4" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The Speaker selects <head>nine</head> of the thirteen members of the powerful Committee on Rules , subject to the approval of the entire majority party . The leadership of the minority party chooses the remaining four members . Furthermore , the Speaker appoints all members of select committees and conference committees .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-3-52-7" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Moreover , when <head>a</head> bill is introduced , the Speaker determines which committee will consider it . As a member of the House , the Speaker is entitled to participate in debate and to vote but , by custom , only does so in exceptional circumstances . Ordinarily , the Speaker votes only when the Speaker 's vote would be decisive or on matters of great importance , such as constitutional amendments or major legislation .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-30-3-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The Constitution does not require that the Speaker be an elected House Representative , though every Speaker so far has been an elected Member of the House . Aside from <head>duties</head> relating to heading the House and the majority political party , the Speaker also performs administrative and procedural functions , and represents his or her Congressional district . The House of Representatives elects the Speaker of the House on the first day of every new Congress and in the event of the death or resignation of an incumbent Speaker .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-31-0-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The Speaker of the House is the presiding officer of the United States House of Representatives . The office was established in 1789 by Article I , Section 2 of the <head>United</head> States Constitution , which states in part , " The House of Representatives shall choose their Speaker ... "</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-34-10-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The last time repeated votes were required was in 1923 , when the Speaker was elected on the ninth ballot . In modern practice , the Speaker is chosen by the majority party from <head>among</head> its senior leaders either when a vacancy in the office arrives or when the majority party changes . Previous Speakers have been minority leaders ( when the majority party changes , as they are already the House party leader , and as the minority leader are usually their party 's nominee for Speaker ) , or majority leaders ( upon departure of the current Speaker in the majority party ) , assuming that the party leadership hierarchy is followed .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-36-110-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Garraty , John , ed . American National Biography ( 1999 ) 20 volumes ; contains scholarly biographies of all Speakers no longer alive . Green , Matthew N. The Speaker of the House : A <head>Study</head> of Leadership ( Yale University Press ; 2010 ) 292 pages ; Examines partisan pressures and other factors that shaped the leadership of the speaker of the U.S. House of Representatives ; focuses on the period since 1940 .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-36-98-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> === October 2015 === On September 25 , 2015 , Speaker Boehner formally announced to the Republican congressional caucus of his intention to resign from the House on October 30 , 2015 , which necessitated an <head>election</head> for a new speaker before that time .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-4-19-6" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> As the Civil War <head>approached</head> , several sectional factions nominated their own candidates , often making it difficult for any candidate to attain a majority . In 1855 and again in 1859 , for example , the contest for Speaker lasted for two months before the House achieved a result . During this time , Speakers tended to have very short tenures .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-4-21-3" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> At the time , <head>one</head> of the most important sources of the Speaker 's power was his position as Chairman of the Committee on Rules , which , after the reorganization of the committee system in 1880 , became one of the most powerful standing committees of the House . Furthermore , several Speakers became leading figures in their political parties ; examples include Democrats Samuel J. Randall , John Griffin Carlisle , and Charles F. Crisp , and Republicans James G. Blaine , Thomas Brackett Reed , and Joseph Gurney Cannon . The power of the Speaker was greatly augmented during the tenure of the Republican Thomas Brackett Reed ( 1889–1891 , 1895–1899 ) . " Czar Reed " , as he was called by his opponents , sought to end the obstruction of bills by the minority , in particular by countering the tactic known as the " disappearing quorum " .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-4-24-5" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> He vigorously used his <head>powers</head> to ensure that Republican proposals were passed by the House . In 1910 , however , Democrats and several dissatisfied Republicans joined together to strip Cannon of many of his powers , including the ability to name committee members and his chairmanship of the Rules Committee . Fifteen years later , Speaker Nicholas Longworth restored much , but not all , of the lost influence of the position .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-4-52-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Under the Rules of <head>the</head> House , the Speaker , " as soon as practicable after the election of the Speaker and whenever appropriate thereafter , " must deliver to the Clerk of the House a confidential list of Members who are designated to act as Speaker in the case of a vacancy caused by an emergency , such as a terrorist attack . The Speaker 's powers and duties extend beyond presiding in the chamber . In particular , the Speaker has great influence over the committee process .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-4-59-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The Speaker is second <head>in</head> the presidential line of succession , immediately after the Vice President , under the Presidential Succession Act of 1947 . The Speaker is followed in the line of succession by the President pro tempore of the Senate and by the heads of federal executive departments . To be elected as Speaker , a candidate must receive an absolute majority of all votes cast for individuals , excluding those who abstain .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-46-10-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The last time repeated votes were required was in 1923 , when the Speaker was elected on the ninth ballot . In modern practice , the Speaker is chosen by the majority party from among its senior leaders either when a vacancy in the office arrives <head>or</head> when the majority party changes . Previous Speakers have been minority leaders ( when the majority party changes , as they are already the House party leader , and as the minority leader are usually their party 's nominee for Speaker ) , or majority leaders ( upon departure of the current Speaker in the majority party ) , assuming that the party leadership hierarchy is followed .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-46-45-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> While the Speaker is the functioning head of the House majority party , the same is not true of the President pro tempore of the Senate , whose office is primarily ceremonial and honorary . More modern examples include Tip O'Neill , who was a vocal <head>opponent</head> of President Ronald Reagan 's economic and defense policies ; Newt Gingrich , who fought a bitter battle with President Bill Clinton for control of domestic policy ; Nancy Pelosi , who argued with President George W. Bush over the Iraq War ; and John Boehner , who clashed with President Barack Obama over budget issues and health care . Under the Rules of the House , the Speaker , " as soon as practicable after the election of the Speaker and whenever appropriate thereafter , " must deliver to the Clerk of the House a confidential list of Members who are designated to act as Speaker in the case of a vacancy caused by an emergency , such as a terrorist attack .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-5-110-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Garraty , John , ed <head>.</head> American National Biography ( 1999 ) 20 volumes ; contains scholarly biographies of all Speakers no longer alive . Green , Matthew N. The Speaker of the House : A Study of Leadership ( Yale University Press ; 2010 ) 292 pages ; Examines partisan pressures and other factors that shaped the leadership of the speaker of the U.S. House of Representatives ; focuses on the period since 1940 .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-5-70-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> === January 2003 === Source <head>:</head> Election of the Speaker Office of the Clerk of the U.S. House of Representatives .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-5-74-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> === January 2005 === Source <head>:</head> Election of the Speaker Office of the Clerk of the U.S. House of Representatives .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-5-78-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> === January 2007 === Source <head>:</head> Election of the Speaker Office of the Clerk of the U.S. House of Representatives .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-5-8-3" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> If no candidate wins such <head>a</head> majority , then the roll call is repeated until a speaker is elected . The last time repeated votes were required was in 1923 , when the Speaker was elected on the ninth ballot . In modern practice , the Speaker is chosen by the majority party from among its senior leaders either when a vacancy in the office arrives or when the majority party changes .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-5-82-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> === January 2009 === Source <head>:</head> Election of the Speaker Office of the Clerk of the U.S. House of Representatives .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-5-86-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> === January 2011 === Source <head>:</head> Election of the Speaker Office of the Clerk of the U.S. House of Representatives .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-5-90-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> === January 2013 === Source <head>:</head> Election of the Speaker Office of the Clerk of the U.S. House of Representatives .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-5-94-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> === January 2015 === Source <head>:</head> Election of the Speaker Office of the Clerk of the U.S. House of Representatives .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-6-26-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Fifteen years later , Speaker Nicholas <head>Longworth</head> restored much , but not all , of the lost influence of the position . Albert 's successor , Democrat Tip O'Neill , was a prominent Speaker because of his public opposition to the policies of President Ronald Reagan . O'Neill is the longest continually serving Speaker , from 1977 through 1987 .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-6-3-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The Constitution does not require that <head>the</head> Speaker be an elected House Representative , though every Speaker so far has been an elected Member of the House . Aside from duties relating to heading the House and the majority political party , the Speaker also performs administrative and procedural functions , and represents his or her Congressional district . The House of Representatives elects the Speaker of the House on the first day of every new Congress and in the event of the death or resignation of an incumbent Speaker .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-6-42-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Finally , it was agreed to <head>exclude</head> both delegations from the election and a Speaker was finally chosen on December 17 . The Speaker is responsible for ensuring that the House passes legislation supported by the majority party . In pursuing this goal , the Speaker may use their power to determine when each bill reaches the floor .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-6-98-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> === October 2015 === On September <head>25</head> , 2015 , Speaker Boehner formally announced to the Republican congressional caucus of his intention to resign from the House on October 30 , 2015 , which necessitated an election for a new speaker before that time .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-7-0-2" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The Speaker of the House is the <head>presiding</head> officer of the United States House of Representatives . The office was established in 1789 by Article I , Section 2 of the United States Constitution , which states in part , " The House of Representatives shall choose their Speaker ... " The Constitution does not require that the Speaker be an elected House Representative , though every Speaker so far has been an elected Member of the House .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-8-45-1" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> While the Speaker is the functioning head of <head>the</head> House majority party , the same is not true of the President pro tempore of the Senate , whose office is primarily ceremonial and honorary . More modern examples include Tip O'Neill , who was a vocal opponent of President Ronald Reagan 's economic and defense policies ; Newt Gingrich , who fought a bitter battle with President Bill Clinton for control of domestic policy ; Nancy Pelosi , who argued with President George W. Bush over the Iraq War ; and John Boehner , who clashed with President Barack Obama over budget issues and health care . Under the Rules of the House , the Speaker , " as soon as practicable after the election of the Speaker and whenever appropriate thereafter , " must deliver to the Clerk of the House a confidential list of Members who are designated to act as Speaker in the case of a vacancy caused by an emergency , such as a terrorist attack .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-8-52-6" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Furthermore , the Speaker appoints all members of <head>select</head> committees and conference committees . Moreover , when a bill is introduced , the Speaker determines which committee will consider it . As a member of the House , the Speaker is entitled to participate in debate and to vote but , by custom , only does so in exceptional circumstances .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-8-52-7" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> Moreover , when a bill is introduced , <head>the</head> Speaker determines which committee will consider it . As a member of the House , the Speaker is entitled to participate in debate and to vote but , by custom , only does so in exceptional circumstances . Ordinarily , the Speaker votes only when the Speaker 's vote would be decisive or on matters of great importance , such as constitutional amendments or major legislation .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-9-19-8" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> During this time , Speakers tended to have very <head>short</head> tenures . For example , from 1839 to 1863 there were eleven Speakers , only one of whom served for more than one term . To date , James K. Polk is the only Speaker of the House later elected President of the United States .</context>
+    </instance>
+    <instance id="Speaker_of_the_United_States_House_of_Representatives-speaker-9-52-5" docsrc="Speaker_of_the_United_States_House_of_Representatives">
+      <context> The leadership of the minority party chooses the remaining <head>four</head> members . Furthermore , the Speaker appoints all members of select committees and conference committees . Moreover , when a bill is introduced , the Speaker determines which committee will consider it .</context>
+    </instance>
+    <instance id="Wireless_speaker-speaker-0-3-1" docsrc="Wireless_speaker">
+      <context> <head>Bluetooth</head> devices use a radio communications system and therefore do not have to be in a visual line of sight with each other . Different types of wireless speakers are designed for specific needs : Stereo speakers can deliver both Left and Right stereo channels in a single speaker . Speakers designed specifically for outdoor use have a robust casing ; manufacturers claim these are weatherproof .</context>
+    </instance>
+    <instance id="Wireless_speaker-speaker-1-17-1" docsrc="Wireless_speaker">
+      <context> Tweeter <head>Super</head> tweeter Midrange speaker</context>
+    </instance>
+    <instance id="Wireless_speaker-speaker-12-2-5" docsrc="Wireless_speaker">
+      <context> Many wireless speakers feature variable transmission channels that can be set using <head>a</head> tuning knob to overcome potential RF interference with other nearby wireless devices such as cordless phones or baby monitors . Bluetooth devices use a radio communications system and therefore do not have to be in a visual line of sight with each other . Different types of wireless speakers are designed for specific needs : Stereo speakers can deliver both Left and Right stereo channels in a single speaker .</context>
+    </instance>
+    <instance id="Wireless_speaker-speaker-2-2-3" docsrc="Wireless_speaker">
+      <context> The RF <head>signal</head> can traverse walls and floors/ceilings . Most manufacturers claim the signal transmits over a range of 150 to 300 feet . Many wireless speakers feature variable transmission channels that can be set using a tuning knob to overcome potential RF interference with other nearby wireless devices such as cordless phones or baby monitors .</context>
+    </instance>
+    <instance id="Wireless_speaker-speaker-20-3-2" docsrc="Wireless_speaker">
+      <context> Different types of wireless speakers are designed for specific needs : Stereo speakers can deliver both Left and Right stereo <head>channels</head> in a single speaker . Speakers designed specifically for outdoor use have a robust casing ; manufacturers claim these are weatherproof . Home theatres utilize a specialized set of speakers in which only the rear speaker/s are wireless , while the front speakers are wired .</context>
+    </instance>
+    <instance id="Wireless_speaker-speaker-24-2-5" docsrc="Wireless_speaker">
+      <context> Many wireless speakers feature variable transmission channels that can be set using a tuning knob to overcome potential RF interference with other nearby wireless <head>devices</head> such as cordless phones or baby monitors . Bluetooth devices use a radio communications system and therefore do not have to be in a visual line of sight with each other . Different types of wireless speakers are designed for specific needs : Stereo speakers can deliver both Left and Right stereo channels in a single speaker .</context>
+    </instance>
+    <instance id="Wireless_speaker-speaker-32-0-1" docsrc="Wireless_speaker">
+      <context> Wireless speakers are loudspeakers which receive audio signals using radio frequency ( RF ) waves rather than over audio cables . The two most popular RF frequencies that support audio transmission to <head>wireless</head> loudspeakers include a variation of WiFi IEEE 802.11 while others depends on Bluetooth to transmit audio data to the receiving speaker .</context>
+    </instance>
+    <instance id="Wireless_speaker-speaker-4-2-5" docsrc="Wireless_speaker">
+      <context> Many wireless speakers feature <head>variable</head> transmission channels that can be set using a tuning knob to overcome potential RF interference with other nearby wireless devices such as cordless phones or baby monitors . Bluetooth devices use a radio communications system and therefore do not have to be in a visual line of sight with each other . Different types of wireless speakers are designed for specific needs : Stereo speakers can deliver both Left and Right stereo channels in a single speaker .</context>
+    </instance>
+    <instance id="Wireless_speaker-speaker-5-3-3" docsrc="Wireless_speaker">
+      <context> Speakers designed specifically for outdoor <head>use</head> have a robust casing ; manufacturers claim these are weatherproof . Home theatres utilize a specialized set of speakers in which only the rear speaker/s are wireless , while the front speakers are wired . Starting 2015 , some Wireless Speakers integrate VOIP telephony functions .</context>
+    </instance>
+    <instance id="Wireless_speaker-speaker-7-0-2" docsrc="Wireless_speaker">
+      <context> Wireless speakers are loudspeakers which receive audio <head>signals</head> using radio frequency ( RF ) waves rather than over audio cables . The two most popular RF frequencies that support audio transmission to wireless loudspeakers include a variation of WiFi IEEE 802.11 while others depends on Bluetooth to transmit audio data to the receiving speaker . The signal frequency range used by wireless speakers is generally the same as that used by cordless telephones — 900 MHz .</context>
+    </instance>
+    <instance id="Wireless_speaker-speaker-7-3-2" docsrc="Wireless_speaker">
+      <context> Different types of wireless speakers are designed <head>for</head> specific needs : Stereo speakers can deliver both Left and Right stereo channels in a single speaker . Speakers designed specifically for outdoor use have a robust casing ; manufacturers claim these are weatherproof . Home theatres utilize a specialized set of speakers in which only the rear speaker/s are wireless , while the front speakers are wired .</context>
+    </instance>
+    <instance id="br-a01#w961_0" docsrc="br-a01">
+      <context> He will be succeeded by Ivan_Allen_Jr. , who became a candidate in the Sept. 13 primary after Mayor_Hartsfield announced that he would not run for reelection . Georgia Republicans are getting strong encouragement to enter a candidate in the 1962 governor_'s_race , a top official said Wednesday . Robert_Snodgrass , state GOP chairman , said a meeting held Tuesday night in Blue_Ridge brought enthusiastic responses from the audience . State_Party_Chairman_James_W._Dorsey added that enthusiasm was picking_up for a state rally to be held Sept. 8 in Savannah at which newly elected Texas Sen._John_Tower will be the featured <head>speaker</head> . In the Blue_Ridge meeting , the audience was warned that entering a candidate for governor would force it to take petitions out into voting_precincts to obtain the signatures of registered voters . Despite the warning , there was a unanimous vote to enter a candidate , according_to Republicans who attended . When the crowd was asked whether it wanted to wait one more term to make the race , it voted no - and there were no dissents .</context>
+    </instance>
+    <instance id="br-a02#w1037_0" docsrc="br-a02">
+      <context> The other bill , by Sen._A._M._Aikin_Jr. of Paris , would relieve real_estate_brokers , who pay their own annual licensing_fee , from the $ 12 annual occupation_license on brokers in such_as stocks and bonds . Natural_gas public_utility companies would be given the right of eminent_domain , under a bill by Sen._Frank_Owen /3 , of El_Paso , to acquire sites for underground storage reservoirs for gas . Marshall_Formby of Plainview , former chairman of the Texas_Highway_Commission , suggested a plan to fill by appointment future vacancies in the Legislature and Congress , eliminating the need for costly special elections . Under Formby 's plan , an appointee would be selected by a board composed of the governor , lieutenant_governor , <head>speaker</head> of the House , attorney_general and chief_justice of the Texas_Supreme_Court . State representatives decided Thursday against taking_a_poll on what kind of taxes Texans would prefer to pay . An adverse vote of 81 to 65 kept in the State_Affairs_Committee a bill which would order the referendum on the April 4 ballot , when Texas votes on a U.S. senator . Rep._Wesley_Roberts of Seminole , sponsor of the poll idea , said that further delay in the committee can kill the bill .</context>
+    </instance>
+    <instance id="br-a14#w1029_0" docsrc="br-a14">
+      <context> Deane_Beman , the National_Amateur champion , and all the metropolitan district champions , including Bob_Gardner , the amateur title-holder , also will receive awards . The writers ' Gold_Tee_Award will go to John_McAuliffe of Plainfield , N._J. , and Palm_Beach , Fla. , for his sponsorship of charity tournaments . Horton_Smith of Detroit , a former president of the Professional_Golfers_Association , will receive the Ben_Hogan_Trophy for his comeback following a recent illness . The principal <head>speaker</head> will be Senator_Stuart_Symington , Democrat of Missouri . Arnold_Palmer has been a blazing figure in golf over the past twelve months . He won the Masters , the United_States_Open and a record $ 80738 in prize_money . He was heralded as `` Sportsman of the Year '' by Sports_Illustrated , and last night was acclaimed in Rochester as the `` Professional_Athlete_of_the_Year '' , a distinction that earned for him the $ 10000 diamond - studded Hickok_Belt .</context>
+    </instance>
+    <instance id="br-a15#w892_0" docsrc="br-a15">
+      <context> Those Dodgers won their first 10 games and owned a 21 - 2 mark and a nine game lead by May 8 . The club that overcame the worst start in a comparable period to win the pennant was New_York 's '51 Giants , who dropped 11 of their first 13 . They honored the battling Billikens last night . <head>Speakers</head> at a Tipoff_Club dinner dealt lavish praise to a group of St._Louis_University players who , in the words of Coach_John_Benington , `` had more confidence in themselves than I did '' . The most_valuable_player award was split three ways , among Glen_Mankowski , Gordon_Hartweger and Tom_Kieffer . In_addition , a special award was given to Bob_(_Bevo_) Nordmann , the 6 - foot - 10 center who missed much of the season because of a knee injury . `` You often hear people talk_about team_spirit and that sort of thing '' , Benington said in a conversation after the ceremonies , `` but what this team had was a_little different .</context>
+    </instance>
+    <instance id="br-c02#w1188_0" docsrc="br-c02">
+      <context> She will sing `` La_Sonambula '' with it here next week . Anyone for musical Ping-pong ? It 's really quite fun_- as_long_as you like games . You will need a stereo music system , with <head>speakers</head> preferably placed at_least seven or eight feet apart , and one or more of the new London `` Phase 4 '' records . There are 12 of these to choose from , all_of them of popular_music except for the star release , Pass_in_Review ( SP 44001 ) . This features the marching songs of several nations , recorded as though the various national bands were marching by your reviewing_stand . Complete with crowd effects , interruptions by jet_planes , and sundry other touches of realism , this disc displays London 's new technique to the best effect .</context>
+    </instance>
+    <instance id="br-c02#w1345_0" docsrc="br-c02">
+      <context> Complete with crowd effects , interruptions by jet_planes , and sundry other touches of realism , this disc displays London 's new technique to the best effect . All_of the jackets carry a fairly technical and detailed explanation of this new recording program . No reference is made to the possibility of recording other_than popular_music in this manner , and it would not seem to lend itself well to serious_music . Directionality is greatly exaggerated most_of the time ; but when the sounds of the two <head>speakers</head> are allowed to mix , there is excellent depth and dimension to the music . You definitely hear some of the instruments close_up and others farther back , with the difference in placement apparently more distinct than would result from the nearer instruments merely being louder than the ones farther back . This is a characteristic of good stereo recording and one of its tremendous advantages over monaural sound . London explains that the very distinct directional effect in the Phase 4 series is due in large part to their novel methods of microphoning and recording the music on a number of separate tape channels .</context>
+    </instance>
+    <instance id="br-j34#w699_0" docsrc="br-j34">
+      <context> Of_course , something of the same sort occurs with other sectors of the phonology : consonantal articulations have both a linguistic and an individual component . But in_general the individual variation is a small thing added onto basic linguistic features of greater magnitude . With tone , individual differences may be greater than the linguistic contrasts which are superimposed on them . Pitch differences from one <head>speaker</head> to another , or from one emotional_state to another , may far exceed the small differences between tones . However , any such suggestion accounts_for only some of the difficulties in hearing tone , or in developing a realistic attitude about tone , but not for the analytic difficulties that occur even when tone is meticulously recorded . A second explanation is suggested by the material described in Rowlands ' paper . Tone and intonation often become seriously intermeshed .</context>
+    </instance>
+    <instance id="br-j58#w1529_0" docsrc="br-j58">
+      <context> Despite the opposition of the city newspapers , the Pratt_Hall meeting `` brought_together a very respectable audience , composed in part of those who had been distinguished for years for their radical views upon the subject of slavery , of many_of our colored citizens , and of those who were attracted to the place by the novelty of such a gathering '' . Seated on the platform were Amos_C._Barstow , ex-mayor of Providence and a wealthy Republican stove manufacturer ; Thomas_Davis , an uncompromising Garrisonian ; the Reverend_Augustus_Woodbury , a Unitarian minister ; the Reverend_George_T._Day , a Free-Will Baptist ; Daniel_w._Vaughan , and William_H._H._Clements . The latter two were appointed secretaries . The first <head>speaker</head> was Amos_C._Barstow who had been unanimously chosen president of the meeting . He spoke of his desire to promote the abolition of slavery by peaceable means and he compared John_Brown of Harper_'s_Ferry to the John_Brown of Rhode_Island 's colonial period . Barstow concluded that as Rhode_Island 's John_Brown became a canonized hero , if not a saint , so would it be with John_Brown of Harper_'s_Ferry . The next speaker was George_T._Day .</context>
+    </instance>
+    <instance id="br-j58#w1599_0" docsrc="br-j58">
+      <context> The first speaker was Amos_C._Barstow who had been unanimously chosen president of the meeting . He spoke of his desire to promote the abolition of slavery by peaceable means and he compared John_Brown of Harper_'s_Ferry to the John_Brown of Rhode_Island 's colonial period . Barstow concluded that as Rhode_Island 's John_Brown became a canonized hero , if not a saint , so would it be with John_Brown of Harper_'s_Ferry . The next <head>speaker</head> was George_T._Day . Although admitting Brown 's guilt on legal grounds , Day said that , `` Brown is no common criminal ; his deed was not below , but above the law '' . Following Day was Woodbury who spoke of his disapproval of Brown 's attempt at servile insurrection , his admiration of Brown 's character , and his opposition to slavery . Woodbury 's remarks were applauded by a portion of the audience several times and once there was hissing .</context>
+    </instance>
+    <instance id="br-j58#w1688_0" docsrc="br-j58">
+      <context> Although admitting Brown 's guilt on legal grounds , Day said that , `` Brown is no common criminal ; his deed was not below , but above the law '' . Following Day was Woodbury who spoke of his disapproval of Brown 's attempt at servile insurrection , his admiration of Brown 's character , and his opposition to slavery . Woodbury 's remarks were applauded by a portion of the audience several times and once there was hissing . The fourth and last <head>speaker</head> was Thomas_Davis . By this time large_numbers of the audience had left the hall . Davis commenced his remarks by an allusion to the general feeling of opposition which the meeting had encountered from many of the citizens and all the newspapers of the city . He said that the propriety or impropriety of such a gathering was a question that was to be settled by every man in accordance with the convictions of private judgments .</context>
+    </instance>
+    <instance id="br-l12#w1071_0" docsrc="br-l12">
+      <context> Bonner explained that , with the nightclub 's cooperation , the police had occupied El_Dorado like a battlefield . Motion_picture cameras had been installed to film the audience , the reservation list was being checked_out name by name , and a special detail was already at_work in the parking_lot scrutinizing automobiles for a possible lead . However , it was virtually impossible to screen the mob outside , even if Bonner had manpower available for the purpose . `` I want you to have the <head>speakers</head> taken_out '' . Andy sighed . `` Seems like we 're never going to see_eye_to_eye , Lieutenant . Did n't they tell you what I wanted the p._a._system for '' ?</context>
+    </instance>
+    <instance id="br-r05#w2370_0" docsrc="br-r05">
+      <context> Ambiguity arises when the pronoun it carries a twofold reference . Two friends were talking . One said , `` When I get a cold I buy a bottle of whiskey for it , and within a_few hours it 's gone '' . The <head>speaker</head> referred to the whiskey but his friend thought he meant the cold . It wit is a misnomer because it covers slips as_well as wit . An excited woman was making an emergency call over the phone : `` Doctor , please come over right_away . My husband is in great pain .</context>
+    </instance>
+  </lexelt>
+</corpus>

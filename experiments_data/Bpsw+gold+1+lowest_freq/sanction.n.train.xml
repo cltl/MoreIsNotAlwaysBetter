@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="sanction.n" pos="NN">
+    <instance id="a01194806_d_3" docsrc="a01194806_d">
+      <context> providing legal_power or <head>sanction</head> ;</context>
+    </instance>
+    <instance id="br-j57#w1699_0" docsrc="br-j57">
+      <context> Indeed , of all that is his every man is by nature and reason and therefore by conscience obligated to regard himself as a custodian . He is a trustee for the common good , however feeble the safeguards which the positive or municipal law of property provides against his misuse of that share of the common fund , wisely or unwisely , entrusted to his keeping . In_contrast_to this Stoic patristic view , Utopia implies that the nature of man is such that to rely_on individual conscience to supply the deficiencies of municipal law is to embark on the bottomless sea of human sinfulness in a sieve . The Utopians brace conscience with legal <head>sanctions</head> . In a properly ordered society the massive force of public_law performs the function which in natural_law theory ineptly is left altogether to a small_voice so often still . In all the respects just indicated Utopian communism differs from previous conceptions in which community of possessions and living plays a role . Neither from one of these conceptions nor from a combination of them can it be deduced .</context>
+    </instance>
+    <instance id="n00810234_d_4" docsrc="n00810234_d">
+      <context> possession for which criminal <head>sanctions</head> are provided because the property may not lawfully be possessed or may not be possessed under certain circumstances ;</context>
+    </instance>
+    <instance id="n01139000_ex1_3" docsrc="n01139000_ex1">
+      <context> it had the <head>sanction</head> of the church ;</context>
+    </instance>
+    <instance id="n06533039_d_8" docsrc="n06533039_d">
+      <context> law intended to eradicate organized_crime by establishing strong <head>sanctions</head> and forfeiture provisions ;</context>
+    </instance>
+    <instance id="v00806502_d_1" docsrc="v00806502_d">
+      <context> give <head>sanction</head> to ;</context>
+    </instance>
+  </lexelt>
+</corpus>

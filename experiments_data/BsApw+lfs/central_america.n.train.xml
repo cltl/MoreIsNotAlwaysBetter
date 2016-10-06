@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Central_America.n" pos="NN">
+    <instance id="n08503004_d_6" docsrc="n08503004_d">
+      <context> a small country ( especially in <head>Central_America</head> ) that is politically unstable and whose economy is dominated by foreign companies and depends_on one export ( such as bananas ) ;</context>
+    </instance>
+    <instance id="n08736107_d_3" docsrc="n08736107_d">
+      <context> a republic in <head>Central_America</head> ; one of the most politically stable countries in Latin_America ;</context>
+    </instance>
+    <instance id="n08737041_d_3" docsrc="n08737041_d">
+      <context> a republic in <head>Central_America</head> ; achieved independence from Spain in 1821 ; noted for low per_capita_income and illiteracy ; politically unstable ;</context>
+    </instance>
+    <instance id="n08737716_d_3" docsrc="n08737716_d">
+      <context> a republic in <head>Central_America</head> ; achieved independence from Spain in 1821 ; an early center of Mayan culture ;</context>
+    </instance>
+    <instance id="n08738820_d_3" docsrc="n08738820_d">
+      <context> a republic in <head>Central_America</head> ; achieved independence from Spain in 1821 ;</context>
+    </instance>
+    <instance id="n14372399_d_5" docsrc="n14372399_d">
+      <context> diarrhea contracted in Mexico or <head>Central_America</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

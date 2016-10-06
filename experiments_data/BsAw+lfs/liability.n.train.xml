@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="liability.n" pos="NN">
+    <instance id="Liability-liability-0-0-1" docsrc="Liability">
+      <context> <head>A</head> liability can mean something that is a hindrance or puts an individual or group at a disadvantage , or something someone is responsible for , or something that increases the chance of something occurring ( i.e. , it is a cause ) . Liability may also refer in specific fields to :</context>
+    </instance>
+    <instance id="Liability-liability-0-3-1" docsrc="Liability">
+      <context> <head>Legal</head> liability , the legal bound obligation to pay debts Public liability , part of the law of tort which focuses on civil wrongs Liability ( financial accounting ) , a current obligation of an entity arising from past transactions or events</context>
+    </instance>
+    <instance id="Liability-liability-1-1-1" docsrc="Liability">
+      <context> A <head>liability</head> can mean something that is a hindrance or puts an individual or group at a disadvantage , or something someone is responsible for , or something that increases the chance of something occurring ( i.e. , it is a cause ) . Liability may also refer in specific fields to : Legal liability , the legal bound obligation to pay debts</context>
+    </instance>
+    <instance id="Liability-liability-1-14-1" docsrc="Liability">
+      <context> Current <head>liability</head> The Liability , 2013 film</context>
+    </instance>
+    <instance id="Liability-liability-1-2-1" docsrc="Liability">
+      <context> Liability <head>may</head> also refer in specific fields to : Legal liability , the legal bound obligation to pay debts Public liability , part of the law of tort which focuses on civil wrongs</context>
+    </instance>
+    <instance id="Liability-liability-1-8-1" docsrc="Liability">
+      <context> Liability <head>(</head> financial accounting ) , a current obligation of an entity arising from past transactions or events Accrued liabilities and contingent liability Current liability</context>
+    </instance>
+    <instance id="Liability-liability-1-9-1" docsrc="Liability">
+      <context> Accrued <head>liabilities</head> and contingent liability Current liability The Liability , 2013 film</context>
+    </instance>
+    <instance id="Liability-liability-4-7-1" docsrc="Liability">
+      <context> Public liability , part <head>of</head> the law of tort which focuses on civil wrongs Liability ( financial accounting ) , a current obligation of an entity arising from past transactions or events Accrued liabilities and contingent liability</context>
+    </instance>
+    <instance id="Liability_(financial_accounting)-liability-1-0-1" docsrc="Liability_(financial_accounting)">
+      <context> In <head>financial</head> accounting , a liability is defined as the future sacrifices of economic benefits that the entity is obliged to make to other entities as a result of past transactions or other past events , the settlement of which may result in the transfer or use of assets , provision of services or other yielding of economic benefits in the future . A liability is defined by the following characteristics :</context>
+    </instance>
+    <instance id="Liability_(financial_accounting)-liability-1-28-2" docsrc="Liability_(financial_accounting)">
+      <context> Probably <head>the</head> most accepted accounting definition of liability is the one used by the International Accounting Standards Board ( IASB ) . The following is a quotation from IFRS Framework : A liability is a present obligation of the enterprise arising from past events , the settlement of which is expected to result in an outflow from the enterprise of resources embodying economic benefits</context>
+    </instance>
+    <instance id="Liability_(financial_accounting)-liability-1-46-1" docsrc="Liability_(financial_accounting)">
+      <context> Income <head>Taxes</head> Payable Customer Deposits Warranty Liability</context>
+    </instance>
+    <instance id="Liability_(financial_accounting)-liability-1-64-3" docsrc="Liability_(financial_accounting)">
+      <context> A <head>deposit</head> received by a bank is credited because the bank 's liability to its customer , the depositor , increases . When a bank informs its depositor that it has debited the depositor 's bank account , it means that the depositor 's bank account has been increased by the amount debited . Contingent liability</context>
+    </instance>
+    <instance id="Liability_(financial_accounting)-liability-10-63-1" docsrc="Liability_(financial_accounting)">
+      <context> Liabilities of uncertain value or timing are called provisions . <head>A</head> debit increases an asset ; and a credit decreases an asset . A debit decreases a liability ; and credit increases a liability .</context>
+    </instance>
+    <instance id="Liability_(financial_accounting)-liability-12-64-1" docsrc="Liability_(financial_accounting)">
+      <context> A debit decreases a liability ; and credit increases a liability . <head>When</head> a bank receives a deposit it credits a liability account called " deposits " and debits the depositor 's bank account for the same amount ( the bank 's " deposits " account is the sum of all of the amounts credited to all of its customer 's individual bank accounts ) . A deposit received by a bank is credited because the bank 's liability to its customer , the depositor , increases .</context>
+    </instance>
+    <instance id="Liability_(financial_accounting)-liability-4-63-1" docsrc="Liability_(financial_accounting)">
+      <context> Liabilities of uncertain value <head>or</head> timing are called provisions . A debit increases an asset ; and a credit decreases an asset . A debit decreases a liability ; and credit increases a liability .</context>
+    </instance>
+    <instance id="Liability_(financial_accounting)-liability-7-27-1" docsrc="Liability_(financial_accounting)">
+      <context>   The accounting equation is the mathematical <head>structure</head> of the balance sheet . Probably the most accepted accounting definition of liability is the one used by the International Accounting Standards Board ( IASB ) .</context>
+    </instance>
+    <instance id="Liability_(financial_accounting)-liability-9-63-2" docsrc="Liability_(financial_accounting)">
+      <context> A debit increases an asset ; and a credit <head>decreases</head> an asset . A debit decreases a liability ; and credit increases a liability . When a bank receives a deposit it credits a liability account called " deposits " and debits the depositor 's bank account for the same amount ( the bank 's " deposits " account is the sum of all of the amounts credited to all of its customer 's individual bank accounts ) .</context>
+    </instance>
+    <instance id="br-j35#w601_0" docsrc="br-j35">
+      <context> 22 % of his total list as against 3.5 % in mine . Or the exception may be_due to a particular durability peculiar to the Athabascan verb . More word_class ratios determined in more languages will no_doubt ultimately answer the question . If word_classes differ in their resistance or <head>liability</head> to stem replacement within meaning slot , it is conceivable that individual meanings also differ with fair consistence trans lingually . Hoijer 's Athabascan and my Yokuts share 71 identical meanings ( with allowance for several near synonyms like stomach belly , big large , long far , many much , die dead , say speak ) . For Yokuts , I tabulated these 71 items in five columns , according_as they were expressed by 1 , 2 , 3 , 4 , and more_than 4 stems . The totals for these five categories are not too uneven , namely 20 , 15 , 11 , 16 , 9 respectively .</context>
+    </instance>
+  </lexelt>
+</corpus>

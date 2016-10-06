@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="trading.n" pos="NN">
+    <instance id="br-f17#w584_0" docsrc="br-f17">
+      <context> For many years the Northwest_Company had its southern headquarters at Prairie_du_Chien on the Mississippi_River , some 300 miles southeast of present-day St._Paul , Minnesota . When in 1816 an act of Congress forced the foreign firm out of the United_States , its British born employees , now become American citizens - Joseph_Rolette , Joseph_Renville and Alexis_Bailly - continued in the fur business . On Big_Stone_Lake near the headwaters of the Red_River , Robert_Dickson , Superintendent of the Western Indian_Department of Canada , had a trading_post and planned in 1818 to build a fort to be defended by twenty men and two small artillery pieces . His <head>trading</head> goods came from Canada to the Forks of Red_River and from Selkirk's settlement he brought them south in carts . These carts were of a type devised in Pembina in the days of Alexander_Henry the Younger about a decade before the Selkirk colony was begun . In 1802 Henry referred to `` our new carts '' as being about four feet off the ground and carrying five times as much_as a horse could pack . They were held together by pegs and withes and in later times drawn by a single ox in thills .</context>
+    </instance>
+    <instance id="br-h18#w146_0" docsrc="br-h18">
+      <context> Foreign_policy is the total involvement of the American people with peoples and governments abroad . That means that , if we are to achieve a new standard of leadership , we must think in_terms_of the total context of our situation . It is the concern of the Department_of_State that the American people are safe and secure - defense is not a monopoly concern of the Department_of_Defense . It is also the concern of the Department_of_State that our <head>trading</head> relationships with the rest of the world are vigorous , profitable , and active - this is not just a passing interest or a matter of concern only to the Department_of_Commerce . We can no_longer rely_on interdepartmental machinery `` somewhere upstairs '' to resolve differences between this and other departments . Assistant_Secretaries_of_State will now carry an increased burden of active formulation and coordination of policies . Means must be found to enable us to keep in touch as regularly and as efficiently as possible with our colleagues in other departments concerned with foreign_policy .</context>
+    </instance>
+    <instance id="n00079603_d_0" docsrc="n00079603_d">
+      <context> <head>trading</head> in bonds ( usually by a broker on the floor of an exchange ) ;</context>
+    </instance>
+    <instance id="n00079752_d_1" docsrc="n00079752_d">
+      <context> a <head>trading</head> technique involving large blocks of stock with trades triggered by computer_programs ;</context>
+    </instance>
+    <instance id="n03366301_d_8" docsrc="n03366301_d">
+      <context> a large room in a exchange where the <head>trading</head> is done ;</context>
+    </instance>
+    <instance id="n04323026_d_4" docsrc="n04323026_d">
+      <context> an exchange where security <head>trading</head> is conducted by professional stockbrokers ;</context>
+    </instance>
+    <instance id="n13304340_d_10" docsrc="n13304340_d">
+      <context> the price of the last transaction completed during a day's <head>trading</head> session ;</context>
+    </instance>
+    <instance id="n13336368_d_8" docsrc="n13336368_d">
+      <context> the number of shares outstanding and available for <head>trading</head> by the public ;</context>
+    </instance>
+    <instance id="v02754276_d_5" docsrc="v02754276_d">
+      <context> be priced or listed when <head>trading</head> stops ;</context>
+    </instance>
+  </lexelt>
+</corpus>

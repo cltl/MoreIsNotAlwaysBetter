@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="code_of_conduct.n" pos="NN">
+    <instance id="br-g19#w657_0" docsrc="br-g19">
+      <context> Driven from the marketplace by the course of history , our hero disguises himself as a private_detective . The birth of the myth compensates for the death of the ideal . Even on the fictional level , however , the contradictions which give_rise to the mystery_story are not fully resolved . The individualism and public service of the private_detective both stem from his dedication to a personal <head>code_of_conduct</head> : he enforces the law without being told to do so . The private_eye is therefore a moral man ; but his morality rests upon that of his society . The basic premise of all mystery_stories is that the distinction between good and bad coincides with the distinction between legal and illegal . Unfortunately , this assumption does not always hold good .</context>
+    </instance>
+    <instance id="n05668581_d_3" docsrc="n05668581_d">
+      <context> a highly conventionalized <head>code_of_conduct</head> for lovers ;</context>
+    </instance>
+    <instance id="n05668725_d_1" docsrc="n05668725_d">
+      <context> the <head>code_of_conduct</head> observed by a knight errant who is wandering in search of deeds of chivalry ;</context>
+    </instance>
+    <instance id="n08210411_d_13" docsrc="n08210411_d">
+      <context> religious police in Saudi_Arabia whose duty is to ensure strict adherence to established <head>codes_of_conduct</head> ; offenders may be detained indefinitely ; foreigners are not excluded ;</context>
+    </instance>
+  </lexelt>
+</corpus>

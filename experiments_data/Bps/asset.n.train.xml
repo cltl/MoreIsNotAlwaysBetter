@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="asset.n" pos="NN">
+    <instance id="br-j38#w1062_0" docsrc="br-j38">
+      <context> A prospective industry also may be interested in the long-run advantages of training_programs in the area to supply future skilled_workers and provide supplementary extension courses for its employees . The existence of a public_school vocational training_program in trade and industry provides a base from which such needs can be filled . Additional courses can readily be added and special cooperative programs worked_out with any new industry if the basic facilities , staff and program are in being . Thus , besides the training provided to youth in school , the existence of the school program can have supplementary benefits to industry which make it an <head>asset</head> to industrial development efforts . Few states make effective use of their existing vocational education programs or funds for the purpose of attracting new industry . The opportunity exists for states to reserve some of their vocational education funds to apply on an ad_hoc flexible basis to subsidize any local preemployment_training_programs that my be quickly set_up in a community to aid a new industrial plant . The major weakness of vocational training_programs in labor surplus areas is their focus on serving solely local job demands .</context>
+    </instance>
+    <instance id="n00232604_d_12" docsrc="n00232604_d">
+      <context> the act of cancelling from an account a bad_debt or a worthless <head>asset</head> ;</context>
+    </instance>
+    <instance id="n01122938_d_7" docsrc="n01122938_d">
+      <context> the reduction of the value of an <head>asset</head> by prorating its cost over a period of years ;</context>
+    </instance>
+    <instance id="n05159225_d_1" docsrc="n05159225_d">
+      <context> an <head>asset</head> of special worth or utility ;</context>
+    </instance>
+    <instance id="n13302905_d_6" docsrc="n13302905_d">
+      <context> current cost of replacing a fixed <head>asset</head> with a new one of equal effectiveness ;</context>
+    </instance>
+    <instance id="n13311830_d_19" docsrc="n13311830_d">
+      <context> the amount by which the selling_price of an asset exceeds the purchase_price ; the gain is realized when the <head>asset</head> is sold ;</context>
+    </instance>
+    <instance id="n13311830_d_8" docsrc="n13311830_d">
+      <context> the amount by which the selling_price of an <head>asset</head> exceeds the purchase_price ; the gain is realized when the asset is sold ;</context>
+    </instance>
+    <instance id="n13312010_d_19" docsrc="n13312010_d">
+      <context> the amount by which the purchase_price of an asset exceeds the selling_price ; the loss is realized when the <head>asset</head> is sold ;</context>
+    </instance>
+    <instance id="n13312010_d_8" docsrc="n13312010_d">
+      <context> the amount by which the purchase_price of an <head>asset</head> exceeds the selling_price ; the loss is realized when the asset is sold ;</context>
+    </instance>
+    <instance id="n13328357_d_5" docsrc="n13328357_d">
+      <context> decrease in value of an <head>asset</head> due to obsolescence or use ;</context>
+    </instance>
+    <instance id="n13328578_d_12" docsrc="n13328578_d">
+      <context> a method of calculating depreciation by taking an equal amount of the <head>asset's</head> cost as an expense for each_year of the asset's useful life ;</context>
+    </instance>
+    <instance id="n13328578_d_21" docsrc="n13328578_d">
+      <context> a method of calculating depreciation by taking an equal amount of the asset's cost as an expense for each_year of the <head>asset's</head> useful life ;</context>
+    </instance>
+    <instance id="n13328853_d_6" docsrc="n13328853_d">
+      <context> reduction in the book_value of an <head>asset</head> ;</context>
+    </instance>
+    <instance id="n13337146_d_5" docsrc="n13337146_d">
+      <context> the value at which an <head>asset</head> is carried on a balance_sheet ; equals cost minus accumulated depreciation ;</context>
+    </instance>
+  </lexelt>
+</corpus>

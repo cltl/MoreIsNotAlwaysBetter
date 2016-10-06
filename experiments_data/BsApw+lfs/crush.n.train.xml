@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="crush.n" pos="NN">
+    <instance id="Puppy_love-crush-13-12-1" docsrc="Puppy_love">
+      <context> F. Scott Fitzgerald wrote short stories " valuing the intuitiveness of puppy love <head>over</head> mature , reasoned affection ... [its ] ' unreal , undesirous medley of ecstasy and peace . ' " J.Cole had released a music video for his song Wet Dreamz from his 2014 Forest Hills Drive album . He narrates about a high school crush he had where he and his crush were infatuated and found out in the end that they both have n't lost their virginity .</context>
+    </instance>
+    <instance id="Puppy_love-crush-6-12-1" docsrc="Puppy_love">
+      <context> F. Scott Fitzgerald wrote short stories <head>"</head> valuing the intuitiveness of puppy love over mature , reasoned affection ... [its ] ' unreal , undesirous medley of ecstasy and peace . ' " J.Cole had released a music video for his song Wet Dreamz from his 2014 Forest Hills Drive album . He narrates about a high school crush he had where he and his crush were infatuated and found out in the end that they both have n't lost their virginity .</context>
+    </instance>
+    <instance id="br-b13#w286_0" docsrc="br-b13">
+      <context> Orange and lemon are considered important as are such pastels as blue and lilac . In a brighter nautical vein is Ile_de_France blue . Contrast trim provides other touches of color . Spectators in white <head>crush</head> textures dip toe and heel in smooth black , navy and taffy tan . Designed for summer comfort are the shoes illustrated . At the left is a pair of dressy straw pumps in a light , but crisp texture . In a lacy open weave shoes have a luster finish , braided collar and bow highlight on the squared throat .</context>
+    </instance>
+  </lexelt>
+</corpus>

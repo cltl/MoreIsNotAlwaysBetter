@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="halftime.n" pos="NN">
+    <instance id="br-a15#w1065_0" docsrc="br-a15">
+      <context> The boys had a tremendous respect for each other 's ability . They knew what they could do and it was often a_little more than I thought they could do . `` Several times I found the players pepping me up , where it usually is the coach who is supposed to deliver the fight talk . We 'd be losing at <head>halftime</head> to a good team and Hartweger would say , ' Do n't worry , Coach - we 'll get 'em all_right '' ' . The trio who shared the most-valuable honors were introduced by Bob_Broeg , sports_editor of the Post-Dispatch . Kieffer , the only junior in the group , was commended for his ability to hit in the clutch , as_well as his all-round excellent play . Mankowski , the ball-hawking defensive expert , was cited for his performance against Bradley in St._Louis_U. 's nationally televised victory .</context>
+    </instance>
+  </lexelt>
+</corpus>

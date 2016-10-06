@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="healthcare.n" pos="NN">
+    <instance id="Health_care-healthcare-0-9-1" docsrc="Health_care">
+      <context> <head>It</head> includes the work done in providing primary care , secondary care , and tertiary care , as well as in public health . While the definitions of the various types of health care vary depending on the different cultural , political , organizational and disciplinary perspectives , there appears to be some consensus that primary care constitutes the first element of a continuing health care process , that may also include the provision of secondary and tertiary levels of care . Healthcare can be defined as either public or private .</context>
+    </instance>
+    <instance id="Health_care-healthcare-13-64-1" docsrc="Health_care">
+      <context> Health care extends beyond the delivery of services to patients , encompassing many <head>related</head> sectors , and set within a bigger picture of financing and governance structures . === Health system === A health system , also sometimes referred to as health care system or healthcare system is the organization of people , institutions , and resources to deliver health care services to meet the health needs of target populations .</context>
+    </instance>
+    <instance id="Health_care-healthcare-17-50-1" docsrc="Health_care">
+      <context> This can include prosthesis , orthotics or wheelchairs . === Ratings === Health care ratings are ratings <head>or</head> evaluations of health care used to evaluate process of care , healthcare structures and/or outcomes of a healthcare services .</context>
+    </instance>
+    <instance id="Health_care-healthcare-23-50-1" docsrc="Health_care">
+      <context> This can include prosthesis , orthotics or wheelchairs . === Ratings === Health care ratings are ratings or evaluations of health care used <head>to</head> evaluate process of care , healthcare structures and/or outcomes of a healthcare services .</context>
+    </instance>
+    <instance id="n00632342_d_3" docsrc="n00632342_d">
+      <context> medical_practice that provides <head>health_care</head> regardless of age or sex while placing emphasis on the family_unit ;</context>
+    </instance>
+    <instance id="n01060101_d_3" docsrc="n01060101_d">
+      <context> the provision of <head>health_care</head> ;</context>
+    </instance>
+    <instance id="n01089297_d_0" docsrc="n01089297_d">
+      <context> <head>health_care</head> that is provided by a health_care professional in the first contact of a patient with the health_care system ;</context>
+    </instance>
+    <instance id="n13384018_d_10" docsrc="n13384018_d">
+      <context> a check reimbursing an aged person for the expenses of <head>health_care</head> ;</context>
+    </instance>
+    <instance id="n13837667_d_4" docsrc="n13837667_d">
+      <context> the professional_relation between a <head>health_care</head> professional and a patient ;</context>
+    </instance>
+  </lexelt>
+</corpus>

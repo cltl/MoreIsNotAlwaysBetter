@@ -1,0 +1,680 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="case.n" pos="NN">
+    <instance id="Case_(goods)-case-15-0-2" docsrc="Case_(goods)">
+      <context> A case of some merchandise is a collection of items packaged together . In the <head>United</head> States , typically a standard case contains a certain number of items depending on what the merchandise is . For consumer foodstuffs such as canned goods , soda , cereal and such , a case is typically 24 items , however cases may range from 12 to 36 , typically in multiples of six .</context>
+    </instance>
+    <instance id="Case_(goods)-case-8-0-1" docsrc="Case_(goods)">
+      <context> A case of some merchandise is a collection <head>of</head> items packaged together . In the United States , typically a standard case contains a certain number of items depending on what the merchandise is .</context>
+    </instance>
+    <instance id="Causality-case-10-306-1" docsrc="Causality">
+      <context> Manipulation theories === Some theorists have equated causality with manipulability <head>.</head> Under these theories , x causes y only in the case that one can change x in order to change y. This coincides with commonsense notions of causations , since often we ask causal questions in order to change some feature of the world .</context>
+    </instance>
+    <instance id="Causality-case-10-66-1" docsrc="Causality">
+      <context> === Counterfactual theories === Subjunctive conditionals are familiar from ordinary <head>language</head> . They are of the form , if A were the case , then B would be the case , or if A had been the case , then B would have been the case .</context>
+    </instance>
+    <instance id="Causality-case-17-66-1" docsrc="Causality">
+      <context> === Counterfactual theories === Subjunctive conditionals are familiar from ordinary language . They are of the form <head>,</head> if A were the case , then B would be the case , or if A had been the case , then B would have been the case .</context>
+    </instance>
+    <instance id="Causality-case-2-2-1" docsrc="Causality">
+      <context> Accordingly , <head>causality</head> is built into the conceptual structure of ordinary language . In Aristotelian philosophy , the word ' cause ' is also used to mean ' explanation ' or ' answer to a why question ' , including Aristotle 's material , formal , efficient , and final " causes " ; then the " cause " is the explanans for the explanandum . In this case , failure to recognize that different kinds of " cause " are being considered can lead to futile debate .</context>
+    </instance>
+    <instance id="Causality-case-25-66-1" docsrc="Causality">
+      <context> === Counterfactual theories === Subjunctive conditionals are familiar from ordinary language . They are of the form , if A were the case , then <head>B</head> would be the case , or if A had been the case , then B would have been the case .</context>
+    </instance>
+    <instance id="Causality-case-33-66-1" docsrc="Causality">
+      <context> === Counterfactual theories === Subjunctive conditionals are familiar from ordinary language . They are of the form , if A were the case , then B would be the case , or if <head>A</head> had been the case , then B would have been the case .</context>
+    </instance>
+    <instance id="Causality-case-9-688-3" docsrc="Causality">
+      <context> Thus , the combination of poor harvests , the <head>hardships</head> of the peasants , high taxes , lack of representation of the people , and kingly ineptitude are among the causes of the French Revolution . This is a somewhat Platonic and Hegelian view that reifies causes as ontological entities . In Aristotelian terminology , this use approximates to the case of the efficient cause .</context>
+    </instance>
+    <instance id="Font-case-14-1-3" docsrc="Font">
+      <context> In particular , the use of " vector " or " outline " fonts <head>means</head> that different sizes of a typeface can be dynamically generated from one design . Each style may still be in a separate " font file"—for instance , the typeface " Bulmer " may include the fonts " Bulmer roman " , " Bulmer italic " , " Bulmer bold " and " Bulmer extended"—but the term " font " might be applied either to one of these alone or to the whole typeface . The word font ( traditionally spelled fount in British English , but in any case pronounced /fɒnt/ ) derives from Middle French fonte " [ something that has been ] melted ; a casting " .</context>
+    </instance>
+    <instance id="Font-case-7-15-1" docsrc="Font">
+      <context> In European alphabetic scripts , i.e. Latin <head>,</head> Cyrillic and Greek , the main such properties are the stroke width , called weight , the style or angle and the character width . The regular or standard font is sometimes labeled roman , both to distinguish it from bold or thin and from italic or oblique . The keyword for the default , regular case is often omitted for variants and never repeated , otherwise it would be Bulmer regular italic , Bulmer bold regular and even Bulmer regular regular .</context>
+    </instance>
+    <instance id="Font-case-9-56-2" docsrc="Font">
+      <context> There are other aspects that can differ among font <head>styles</head> , but more often these are considered immanent features of the typeface . These include the look of digits ( text figures ) and the minuscules , which may be smaller versions of the capital letters ( small caps ) although the script has developed characteristic shapes for them . Some typefaces do not include separate glyphs for the cases at all , thereby abolishing the bicamerality .</context>
+    </instance>
+    <instance id="Lawsuit-case-0-9-5" docsrc="Lawsuit">
+      <context> <head>In</head> reality however , courts typically have some power to sever claims and parties into separate actions if it is more efficient to do so . A court can do this if there is not a sufficient overlap of factual issues between the various associates , separating the issues into different lawsuits . Cases such as this illustrate the need for more comprehensive information than mere internet searches when researching legal decisions .</context>
+    </instance>
+    <instance id="Lawsuit-case-11-7-1" docsrc="Lawsuit">
+      <context> The term litigation may also refer to criminal trial . Rules <head>of</head> criminal or civil procedure govern the conduct of a lawsuit in the common law adversarial system of dispute resolution . Procedural rules are constrained and informed by separate statutory laws , case laws , and constitutional provisions that define the rights of the parties to a lawsuit ( see especially due process ) , though the rules generally reflect this legal context on their face .</context>
+    </instance>
+    <instance id="Lawsuit-case-12-72-3" docsrc="Lawsuit">
+      <context> This study concluded that the new rules that were set for litigation <head>financing</head> actually did produce more settlements . Under conservative rules , there tended to be fewer settlements , however under the older rules they tended to be larger on average . Legal financing can become an issue in some cases , varying from case to case and person to person .</context>
+    </instance>
+    <instance id="Lawsuit-case-13-40-2" docsrc="Lawsuit">
+      <context> The decisions that the jury makes are not put into effect until the <head>judge</head> makes a judgment , which is the approval to have this trial information be filed in public records . In a civil case , the judge is allowed at this time to make changes to the verdict that the jury came up with by either adding on or reducing the punishment . In criminal cases the situation is a little different , because in this case the judge does not have the authority to change the jury decision .</context>
+    </instance>
+    <instance id="Lawsuit-case-14-72-3" docsrc="Lawsuit">
+      <context> This study concluded that the new rules that were set for litigation financing actually <head>did</head> produce more settlements . Under conservative rules , there tended to be fewer settlements , however under the older rules they tended to be larger on average . Legal financing can become an issue in some cases , varying from case to case and person to person .</context>
+    </instance>
+    <instance id="Lawsuit-case-14-8-2" docsrc="Lawsuit">
+      <context> Though the majority of lawsuits are settled before ever reaching a state of trial <head>,</head> they can still be very complicated to litigate . This is particularly true in federal systems , where a federal court may be applying state law ( e.g. the Erie doctrine , for example in the United States ) , or vice versa . It is also possible for one state to apply the law of another in cases where additionally it may not be clear which level ( or location ) of court actually has jurisdiction over the claim or personal jurisdiction over the defendant , or whether the plaintiff has standing to participate in a lawsuit .</context>
+    </instance>
+    <instance id="Lawsuit-case-16-21-2" docsrc="Lawsuit">
+      <context> In a handful of jurisdictions ( notably , the U.S. state of New York ) a <head>lawsuit</head> begins when one or more plaintiffs properly serve a summons and complaint upon the defendant(s ) . In such jurisdictions , nothing must be filed with the court until a dispute develops requiring actual judicial intervention . A complaint can be considered one of the more important steps in pleading during a civil case .</context>
+    </instance>
+    <instance id="Lawsuit-case-19-34-2" docsrc="Lawsuit">
+      <context> === ResolutionEdit === Usually , lawsuits end in a settlement , with an empirical analysis finding that less than <head>2</head> % of cases end with a trial .</context>
+    </instance>
+    <instance id="Lawsuit-case-19-37-3" docsrc="Lawsuit">
+      <context> After this occurs , the judge or jury renders their decision . Generally speaking , the plaintiff has the <head>burden</head> of proof in making his claims , however , the defendant may have the burden of proof on other issues , such as affirmative defenses . The attorneys are held responsible in devising a trial strategy that ensures they meet the necessary elements of their case or ( when the opposing party has the burden of proof ) to ensure the opponent will not be able to meet his or her burden .</context>
+    </instance>
+    <instance id="Lawsuit-case-2-39-1" docsrc="Lawsuit">
+      <context> Motions can <head>also</head> be brought after the close of a trial to undo a jury verdict contrary to law or against the weight of the evidence , or to convince the judge to change the decision or grant a new trial . Also , at any time during this process from the filing of the complaint to the final judgment , the plaintiff may withdraw the complaint and end the whole matter , or the defendant may agree to a settlement . If the case settles , the parties might choose to enter into a stipulated judgment with the settlement agreement attached , or the plaintiff may simply file a voluntary dismissal , so that the settlement agreement is never entered into the court record .</context>
+    </instance>
+    <instance id="Lawsuit-case-2-40-2" docsrc="Lawsuit">
+      <context> The decisions <head>that</head> the jury makes are not put into effect until the judge makes a judgment , which is the approval to have this trial information be filed in public records . In a civil case , the judge is allowed at this time to make changes to the verdict that the jury came up with by either adding on or reducing the punishment . In criminal cases the situation is a little different , because in this case the judge does not have the authority to change the jury decision .</context>
+    </instance>
+    <instance id="Lawsuit-case-2-69-2" docsrc="Lawsuit">
+      <context> Particularly in <head>the</head> United States , plaintiffs and defendants who lack financial resources for litigation or other attorney 's fees may be able to obtain legal financing . Legal financing companies can provide a cash advance to litigants in return for a share of the ultimate settlement or award . If the case ultimately loses , the litigant does not have to pay any of the money funded back .</context>
+    </instance>
+    <instance id="Lawsuit-case-22-30-3" docsrc="Lawsuit">
+      <context> The deposition can be used in the trial or just in the pretrial , but this allows for both parties to be <head>aware</head> of the arguments or claims that are going to be made by the other party in the trial . It is notable that the depositions can be written or oral . At the close of discovery , the parties may either pick a jury and then have a trial by jury or the case may proceed as a bench trial .</context>
+    </instance>
+    <instance id="Lawsuit-case-23-38-3" docsrc="Lawsuit">
+      <context> prematurely"—before submission to the judge or jury for final consideration . These motions attempt to persuade the judge , through legal argument and <head>sometimes</head> accompanying evidence , that there is no reasonable way that the other party could legally win and therefore there is no sense in continuing with the trial . Motions for summary judgment , for example , can usually be brought before , after , or during the actual presentation of the case .</context>
+    </instance>
+    <instance id="Lawsuit-case-26-46-4" docsrc="Lawsuit">
+      <context> Decisions of the court can be made immediately after just reading the written brief , or there can also be oral arguments made by both parties <head>involved</head> in the appeal . The appellate court then makes the decision about what errors were made when the law was looked at more closely in the lower court . There were no errors made , the case would then end , but if the decision was reversed , the appellate court would then send the case back down to the lower court level .</context>
+    </instance>
+    <instance id="Lawsuit-case-3-40-1" docsrc="Lawsuit">
+      <context> If the case <head>settles</head> , the parties might choose to enter into a stipulated judgment with the settlement agreement attached , or the plaintiff may simply file a voluntary dismissal , so that the settlement agreement is never entered into the court record . The decisions that the jury makes are not put into effect until the judge makes a judgment , which is the approval to have this trial information be filed in public records . In a civil case , the judge is allowed at this time to make changes to the verdict that the jury came up with by either adding on or reducing the punishment .</context>
+    </instance>
+    <instance id="Lawsuit-case-33-69-4" docsrc="Lawsuit">
+      <context> If the case ultimately loses , the litigant does not have to pay any of the money funded back . Legal financing is different from a typical bank loan in that the legal <head>financing</head> company does not look at credit history or employment history . Litigants do not have to repay the cash advance with monthly payments , but do have to fill out an application so that the legal financing company can review the merits of the case .</context>
+    </instance>
+    <instance id="Lawsuit-case-44-36-1" docsrc="Lawsuit">
+      <context> ResolutionEdit === Usually , lawsuits end in a settlement , with an empirical analysis finding that less than 2 % of cases end with a trial . It is sometimes said that 95 % of cases end in settlement ; few jurisdictions report settlements <head>,</head> but empirical analysis suggests that the settlement rate varies by type of lawsuit , with torts settling around 90 % of the time and overall civil cases settling 50 % of the time ; other cases end due to default judgment , lack of a valid claim , and other reasons .</context>
+    </instance>
+    <instance id="Lawsuit-case-5-8-3" docsrc="Lawsuit">
+      <context> This is particularly true in <head>federal</head> systems , where a federal court may be applying state law ( e.g. the Erie doctrine , for example in the United States ) , or vice versa . It is also possible for one state to apply the law of another in cases where additionally it may not be clear which level ( or location ) of court actually has jurisdiction over the claim or personal jurisdiction over the defendant , or whether the plaintiff has standing to participate in a lawsuit . About 98 percent of civil cases in the United States federal courts are resolved without a trial .</context>
+    </instance>
+    <instance id="Lawsuit-case-53-36-1" docsrc="Lawsuit">
+      <context> ResolutionEdit === Usually , lawsuits end in a settlement , with an empirical analysis finding that less than 2 % of cases end with a trial . It is sometimes said that 95 % of cases end in settlement ; few jurisdictions report settlements , but empirical analysis suggests that the settlement rate <head>varies</head> by type of lawsuit , with torts settling around 90 % of the time and overall civil cases settling 50 % of the time ; other cases end due to default judgment , lack of a valid claim , and other reasons .</context>
+    </instance>
+    <instance id="Lawsuit-case-7-46-4" docsrc="Lawsuit">
+      <context> Decisions of the court can be made <head>immediately</head> after just reading the written brief , or there can also be oral arguments made by both parties involved in the appeal . The appellate court then makes the decision about what errors were made when the law was looked at more closely in the lower court . There were no errors made , the case would then end , but if the decision was reversed , the appellate court would then send the case back down to the lower court level .</context>
+    </instance>
+    <instance id="Lawsuit-case-8-21-4" docsrc="Lawsuit">
+      <context> A complaint can be considered one of the <head>more</head> important steps in pleading during a civil case . This document states the actions that the plaintiff intends to take and also the factual and reasonable basis for the actions . This essentially sets the framework for the entire case and the claim that will be held noteworthy throughout the entire lawsuit .</context>
+    </instance>
+    <instance id="Lawsuit-case-8-36-1" docsrc="Lawsuit">
+      <context> ResolutionEdit === Usually , lawsuits end in a <head>settlement</head> , with an empirical analysis finding that less than 2 % of cases end with a trial . It is sometimes said that 95 % of cases end in settlement ; few jurisdictions report settlements , but empirical analysis suggests that the settlement rate varies by type of lawsuit , with torts settling around 90 % of the time and overall civil cases settling 50 % of the time ; other cases end due to default judgment , lack of a valid claim , and other reasons .</context>
+    </instance>
+    <instance id="Lawsuit-case-8-72-3" docsrc="Lawsuit">
+      <context> This study concluded that the new rules that <head>were</head> set for litigation financing actually did produce more settlements . Under conservative rules , there tended to be fewer settlements , however under the older rules they tended to be larger on average . Legal financing can become an issue in some cases , varying from case to case and person to person .</context>
+    </instance>
+    <instance id="Legal_case-case-0-22-6" docsrc="Legal_case">
+      <context> <head>In</head> titles such as R v Adams , however , the initial " R " is usually an abbreviation for the Latin Rex or Regina , i.e. for the Crown . ( For an explanation of other terms that may appear in case titles , see the glossary of legal terms . ) case law</context>
+    </instance>
+    <instance id="Legal_case-case-1-26-1" docsrc="Legal_case">
+      <context> ( <head>For</head> an explanation of other terms that may appear in case titles , see the glossary of legal terms . ) case law early case assessment</context>
+    </instance>
+    <instance id="Legal_case-case-10-21-2" docsrc="Legal_case">
+      <context> In most systems , the governing body responsible for overseeing <head>the</head> courts assigns a unique number/letter combination or similar designation to each case in order to track the various disputes that are or have been before it . The outcome of the case is recorded , and can later be reviewed by obtaining a copy of the documents associated with the designation previously assigned to the case . However , it is often more convenient to refer to cases – particularly landmark and other notable cases – by a title of the form Claimant v Defendant ( e.g. Arkell v Pressdram ) .</context>
+    </instance>
+    <instance id="Legal_case-case-11-22-5" docsrc="Legal_case">
+      <context> Where it is considered necessary to protect the anonymity of a <head>natural</head> person , some cases may have one or both parties replaced by a standard pseudonym ( Jane Roe in Roe v. Wade ) or by an initial ( D v D ) . In titles such as R v Adams , however , the initial " R " is usually an abbreviation for the Latin Rex or Regina , i.e. for the Crown . ( For an explanation of other terms that may appear in case titles , see the glossary of legal terms . )</context>
+    </instance>
+    <instance id="Legal_case-case-14-4-4" docsrc="Legal_case">
+      <context> The remedy sought may be money , an injunction , which requires the defendant <head>to</head> perform or refrain from performing some action , or a declaratory judgment , which determines that the plaintiff has certain legal rights . Whoever wins gets either released from custody or gets nothing ( Accuser ) . The plaintiff must also make a genuine effort to inform the defendant of the case through service of process , by which the plaintiff delivers to the defendant the same documents that the plaintiff filed with the court .</context>
+    </instance>
+    <instance id="Legal_case-case-15-22-3" docsrc="Legal_case">
+      <context> Where a legal proceeding does not have formally designated adverse parties , a form such <head>as</head> In re , Re or In the matter of is used ( e.g. In re Gault ) . The " v " separating the parties is an abbreviation of the Latin versus , but , when spoken in Commonwealth countries , it is normally rendered as " and " or " against " ( as in , for example , Charles Dickens ' Jarndyce and Jarndyce ) . Where it is considered necessary to protect the anonymity of a natural person , some cases may have one or both parties replaced by a standard pseudonym ( Jane Roe in Roe v. Wade ) or by an initial ( D v D ) .</context>
+    </instance>
+    <instance id="Legal_case-case-17-21-2" docsrc="Legal_case">
+      <context> In most systems , the governing body responsible for overseeing the courts assigns a unique number/letter combination <head>or</head> similar designation to each case in order to track the various disputes that are or have been before it . The outcome of the case is recorded , and can later be reviewed by obtaining a copy of the documents associated with the designation previously assigned to the case . However , it is often more convenient to refer to cases – particularly landmark and other notable cases – by a title of the form Claimant v Defendant ( e.g. Arkell v Pressdram ) .</context>
+    </instance>
+    <instance id="Legal_case-case-19-5-1" docsrc="Legal_case">
+      <context> Whoever wins gets either released from custody or gets nothing ( Accuser ) . The plaintiff must also make <head>a</head> genuine effort to inform the defendant of the case through service of process , by which the plaintiff delivers to the defendant the same documents that the plaintiff filed with the court . At any point during the case , the parties can agree to a settlement , which will end the case , although in some circumstances , such as in class actions , a settlement requires court approval in order to be binding .</context>
+    </instance>
+    <instance id="Legal_case-case-2-0-1" docsrc="Legal_case">
+      <context> A legal <head>case</head> is a dispute between opposing parties resolved by a court , or by some equivalent legal process . A legal case may be either civil or criminal .</context>
+    </instance>
+    <instance id="Legal_case-case-2-0-3" docsrc="Legal_case">
+      <context> A legal <head>case</head> may be either civil or criminal . There is a defendant and an accuser . A civil case , more commonly known as a lawsuit or controversy , begins when a plaintiff files a document called a complaint with a court , informing the court of the wrong that the plaintiff has allegedly suffered because of the defendant , and requesting a remedy .</context>
+    </instance>
+    <instance id="Legal_case-case-2-27-1" docsrc="Legal_case">
+      <context> case law <head>early</head> case assessment lists of case law</context>
+    </instance>
+    <instance id="Legal_case-case-2-4-1" docsrc="Legal_case">
+      <context> There is <head>a</head> defendant and an accuser . A civil case , more commonly known as a lawsuit or controversy , begins when a plaintiff files a document called a complaint with a court , informing the court of the wrong that the plaintiff has allegedly suffered because of the defendant , and requesting a remedy . A civil case can also be arbitrated through arbitration .</context>
+    </instance>
+    <instance id="Legal_case-case-2-6-1" docsrc="Legal_case">
+      <context> The plaintiff <head>must</head> also make a genuine effort to inform the defendant of the case through service of process , by which the plaintiff delivers to the defendant the same documents that the plaintiff filed with the court . At any point during the case , the parties can agree to a settlement , which will end the case , although in some circumstances , such as in class actions , a settlement requires court approval in order to be binding . A criminal case , in common law jurisdictions , begins when a person suspected of a crime is indicted by a grand jury or otherwise charged with the offense by a government official called a prosecutor or district attorney .</context>
+    </instance>
+    <instance id="Legal_case-case-22-19-1" docsrc="Legal_case">
+      <context> If a person does not go to trial , he/she may endure even bigger penalties . === Designation and citation === In <head>most</head> systems , the governing body responsible for overseeing the courts assigns a unique number/letter combination or similar designation to each case in order to track the various disputes that are or have been before it .</context>
+    </instance>
+    <instance id="Legal_case-case-28-21-1" docsrc="Legal_case">
+      <context> === Designation and citation === In most systems , the governing body responsible for overseeing the courts assigns a unique number/letter combination or similar designation to each case <head>in</head> order to track the various disputes that are or have been before it . The outcome of the case is recorded , and can later be reviewed by obtaining a copy of the documents associated with the designation previously assigned to the case .</context>
+    </instance>
+    <instance id="Legal_case-case-3-11-1" docsrc="Legal_case">
+      <context> At any point <head>during</head> the case , the parties can agree to a settlement , which will end the case , although in some circumstances , such as in class actions , a settlement requires court approval in order to be binding . A criminal case , in common law jurisdictions , begins when a person suspected of a crime is indicted by a grand jury or otherwise charged with the offense by a government official called a prosecutor or district attorney . Like a civil case , a criminal case may also be settled before a trial through a plea bargain , in some jurisdictions .</context>
+    </instance>
+    <instance id="Legal_case-case-4-21-1" docsrc="Legal_case">
+      <context> === Designation and citation <head>===</head> In most systems , the governing body responsible for overseeing the courts assigns a unique number/letter combination or similar designation to each case in order to track the various disputes that are or have been before it . The outcome of the case is recorded , and can later be reviewed by obtaining a copy of the documents associated with the designation previously assigned to the case .</context>
+    </instance>
+    <instance id="Legal_case-case-5-5-1" docsrc="Legal_case">
+      <context> Whoever wins gets either released <head>from</head> custody or gets nothing ( Accuser ) . The plaintiff must also make a genuine effort to inform the defendant of the case through service of process , by which the plaintiff delivers to the defendant the same documents that the plaintiff filed with the court . At any point during the case , the parties can agree to a settlement , which will end the case , although in some circumstances , such as in class actions , a settlement requires court approval in order to be binding .</context>
+    </instance>
+    <instance id="Legal_case-case-7-11-1" docsrc="Legal_case">
+      <context> At any point during the case , <head>the</head> parties can agree to a settlement , which will end the case , although in some circumstances , such as in class actions , a settlement requires court approval in order to be binding . A criminal case , in common law jurisdictions , begins when a person suspected of a crime is indicted by a grand jury or otherwise charged with the offense by a government official called a prosecutor or district attorney . Like a civil case , a criminal case may also be settled before a trial through a plea bargain , in some jurisdictions .</context>
+    </instance>
+    <instance id="Pillow-case-21-26-5" docsrc="Pillow">
+      <context> The Chinese decorated their pillows by making them different shapes and by painting pictures of animals , humans , and plants <head>on</head> them . Ancient Chinese porcelain pillows reached their peak in terms of production and use during the Song , Jin , and Yuan dynasties between the 10th and 14th century , but slowly phased out during the Ming and Qing dynasties between 1368 and 1911 with the emergence of better pillow making materials . The fill is surrounded with a cover or shell made of cloth , such as silk , known as the pillow case or pillow slip .</context>
+    </instance>
+    <instance id="Pillow-case-35-32-2" docsrc="Pillow">
+      <context> The fill is surrounded with a cover or shell made of cloth , such as silk , known as the pillow case or pillow slip . Some pillows have a fancier cover called a sham <head>which</head> is closed on all sides and usually has a slit in the back through which the pillow is placed . Rectangular standard bed pillow cases usually do not have zippers , but instead have one side open all the time , however , a zippered pillow protector is often placed around standard pillows with the case in turn covering the protector .</context>
+    </instance>
+    <instance id="Pillow-case-4-32-2" docsrc="Pillow">
+      <context> The fill is surrounded <head>with</head> a cover or shell made of cloth , such as silk , known as the pillow case or pillow slip . Some pillows have a fancier cover called a sham which is closed on all sides and usually has a slit in the back through which the pillow is placed . Rectangular standard bed pillow cases usually do not have zippers , but instead have one side open all the time , however , a zippered pillow protector is often placed around standard pillows with the case in turn covering the protector .</context>
+    </instance>
+    <instance id="Pillow-case-6-45-1" docsrc="Pillow">
+      <context> Features Opening/closing Size conforms to the <head>pillow</head> the case is to contain .</context>
+    </instance>
+    <instance id="Pillow-case-8-41-3" docsrc="Pillow">
+      <context> In the US , they are common in <head>these</head> three sizes ( in inches ) : Standard ( 20×26 inches ) , Queen ( 20×30 inches ) , and King ( 20×36 inches ) . In the US , a less common size is Jumbo ( 20×28 inches ) , which is larger than the Standard Size but smaller than the Queen Size . Pillows are generally covered with a removable pillow case , which facilitates laundering .</context>
+    </instance>
+    <instance id="Typeface-case-9-50-2" docsrc="Typeface">
+      <context> Any two lines of text with the same number <head>of</head> characters in each line in a monospaced typeface should display as equal in width , while the same two lines in a proportional typeface may have radically different widths . This occurs because in a proportional font , glyph widths vary , such that wider glyphs ( typically those for characters such as W , Q , Z , M , D , O , H , and U ) use more space , and narrower glyphs ( such as those for the characters i , t , l , and 1 ) use less space than the average . In the publishing industry , it was once the case that editors read manuscripts in monospaced fonts ( typically Courier ) for ease of editing and word count estimates , and it was considered discourteous to submit a manuscript in a proportional font .</context>
+    </instance>
+    <instance id="a00257032_d_3" docsrc="a00257032_d">
+      <context> enclosed in a <head>case</head> ;</context>
+    </instance>
+    <instance id="a00459746_d_8" docsrc="a00459746_d">
+      <context> not covering the shoulders ( especially in the <head>case</head> of a blouse or dress ) ;</context>
+    </instance>
+    <instance id="a01411451_d_7" docsrc="a01411451_d">
+      <context> has a good chance of being the <head>case</head> or of coming_about ;</context>
+    </instance>
+    <instance id="a01412415_d_6" docsrc="a01412415_d">
+      <context> has little chance of being the <head>case</head> or coming_about ;</context>
+    </instance>
+    <instance id="a01428122_d_19" docsrc="a01428122_d">
+      <context> of a disease that is constantly present in an animal community but only occurs in a small number of <head>cases</head> ;</context>
+    </instance>
+    <instance id="a01487627_d_8" docsrc="a01487627_d">
+      <context> directly relevant to a matter especially a law <head>case</head> ;</context>
+    </instance>
+    <instance id="a01488066_d_9" docsrc="a01488066_d">
+      <context> of no importance or relevance especially to a law <head>case</head> ;</context>
+    </instance>
+    <instance id="a01657867_d_10" docsrc="a01657867_d">
+      <context> ( of an insect pupa ) enclosed in a rigid <head>case</head> ;</context>
+    </instance>
+    <instance id="a02155054_d_9" docsrc="a02155054_d">
+      <context> covered or protected with or as if with a <head>case</head> ;</context>
+    </instance>
+    <instance id="a02901491_d_4" docsrc="a02901491_d">
+      <context> having a large brain <head>case</head> ;</context>
+    </instance>
+    <instance id="a03129490_d_3" docsrc="a03129490_d">
+      <context> relating to a <head>case</head> used in some languages ;</context>
+    </instance>
+    <instance id="br-a02#w1913_0" docsrc="br-a02">
+      <context> The report called racial discrimination in employment `` one of the most serious causes of family breakdown , desertion , and ADC dependency '' . The monthly cost of ADC to more than 100000 recipients in the county is 4.4 million dollars , said C._Virgil_Martin , president of Carson_Pirie_Scott_+_Co. , committee chairman . `` We must solve the problems which have forced these people to depend_upon ADC for subsistence '' , Martin said . The volume of ADC <head>cases</head> will decrease , Martin reported , when the community is able to deal effectively with two problems : Relatively limited skills and discrimination in employment because of color . These , he said , are `` two of the principal underlying causes for family breakups leading to ADC '' . Other recommendations made by the committee are : Extension of the ADC program to all children in need living with any relatives , including both parents , as a means of preserving family unity .</context>
+    </instance>
+    <instance id="br-f10#w2061_0" docsrc="br-f10">
+      <context> He did this by the charming practice of buying_up used electric blankets for $ 5 to $ 10 from survivors of patients who had died , reconditioning them , and selling them at $ 185 each . When authorities convicted him of practicing medicine without a license ( he got_off with a suspended sentence of three years because of his advanced age of 77 ) , one of his victims was not around to testify : He was dead of cancer . By_no_means are these isolated cases . `` Unfortunately '' , says Chief_Postal_Inspector_David_H._Stephens , who has prosecuted many device quacks , `` the ghouls who trade on the hopes of the desperately ill often cannot be successfully prosecuted because the patients who are the chief witnesses die before the <head>case</head> is called_up in court '' . Death ! Have no_doubt about it . That 's where device quackery can lead .</context>
+    </instance>
+    <instance id="br-f14#w1917_0" docsrc="br-f14">
+      <context> The career of Eichmann made the Trial a potential showcase for anti-Semitic demoralization : fearful of being mistaken for a Jew , he seeks protection in his Nazi uniform ; clinging to the enemy Jew idea , he is forced to overcome habits of politeness and neighborliness ; once in power he begins to give_vent to a criminal opportunism that causes him to alternate between megalomania and envy of those above him . `` Is this the type of citizen you desire '' ? the Trial should have asked the nations . But though this characterization in_no_way diminished Eichmann 's guilt , the Prosecutor , more deeply involved in the tactics of a criminal <head>case</head> than a political one , would have none of_it . Finally , if the mission of the Trial was to convict anti-Semitism , how could it have failed to post before the world the contrasting fates of the countries in which the Final_Solution was aided by native Jew haters - i.e. , Germany , Poland , Hungary , Czechoslovakia - and those in which it met the obstacle of human solidarity - Denmark , Holland , Italy , Bulgaria , France ? Should not everyone have been awakened to_it as an outstanding fact of our time that the nations poisoned by anti-Semitism proved less fortunate in regard_to their own freedom than those whose citizens saved their Jewish compatriots from the transports ? Was n't this meaning of Eichmann 's experience in various countries worth highlighting ?</context>
+    </instance>
+    <instance id="br-f14#w456_0" docsrc="br-f14">
+      <context> Interruptions came largely from the bench , which numerous times rebuked the Attorney_General for letting his witnesses run on , though it , too , made no serious effort to choke_off the flow . But there was a contrast even more decisive than a hunger for fact between the Trial in Jerusalem and those in Moscow and New_York . In each of the last , the trial marked the beginning of a new course : in Moscow the liquidation of the Old Bolsheviks and the tightening of Stalin 's dictatorship ; in the United_States the initiation of militant anti Communism , with the repentant ex Communist in the vanguard . These trials were properly termed `` political <head>cases</head> '' in_that the trial itself was a political act producing political consequences . But what could the Eichmann Trial initiate ? Of what new course could it mark the beginning ? The Eichmann case looked_to the past , not to the future .</context>
+    </instance>
+    <instance id="br-f14#w490_0" docsrc="br-f14">
+      <context> These trials were properly termed `` political cases '' in_that the trial itself was a political act producing political consequences . But what could the Eichmann Trial initiate ? Of what new course could it mark the beginning ? The Eichmann <head>case</head> looked_to the past , not to the future . It was the conclusion of the first phase of a process of tragic recollection , and of refining the recollection , that will last as_long_as there are Jews . As_such , it was beyond politics and had no need of justification by a `` message '' . `` It is not an individual that is in the dock at this historical trial '' - said Ben_Gurion , `` and not the Nazi regime alone - but anti-Semitism throughout history '' .</context>
+    </instance>
+    <instance id="br-f14#w662_0" docsrc="br-f14">
+      <context> `` It is not an individual that is in the dock at this historical trial '' - said Ben_Gurion , `` and not the Nazi regime alone - but anti-Semitism throughout history '' . How could supplying Eichmann with a platform on which to maintain that one could collaborate in the murder of millions of Jews without being an anti-Semite contribute to a verdict against anti-Semitism ? And if it was not an individual who was in the dock , why was the Trial , as we shall observe later , all_but scuttled in the attempt to prove Eichmann a `` fiend '' ? These questions touch the root of confusion in the prosecution 's <head>case</head> . It might be contended , of_course , that Eichmann in stubbornly denying anti-Semitic feelings was lying or insisting on a private definition of anti-Semitism . But in either event he was the wrong man for the kind of case outlined by Ben_Gurion and set_forth in the indictment . In such a case the defendant should serve as a clear example and not have_to be tied to the issue by argument .</context>
+    </instance>
+    <instance id="br-f14#w702_0" docsrc="br-f14">
+      <context> And if it was not an individual who was in the dock , why was the Trial , as we shall observe later , all_but scuttled in the attempt to prove Eichmann a `` fiend '' ? These questions touch the root of confusion in the prosecution 's case . It might be contended , of_course , that Eichmann in stubbornly denying anti-Semitic feelings was lying or insisting on a private definition of anti-Semitism . But in either event he was the wrong man for the kind of <head>case</head> outlined by Ben_Gurion and set_forth in the indictment . In such a case the defendant should serve as a clear example and not have_to be tied to the issue by argument . One who could be linked to anti-Semitism only by overcoming his objections is scarcely a good specimen of the Jew-baiter throughout the ages . Shout at Eichmann though he might , the Prosecutor could not establish that the defendant was falsifying the way he felt about Jews or that what he did feel fell_into the generally recognized category of anti-Semitism .</context>
+    </instance>
+    <instance id="br-f14#w715_0" docsrc="br-f14">
+      <context> These questions touch the root of confusion in the prosecution 's case . It might be contended , of_course , that Eichmann in stubbornly denying anti-Semitic feelings was lying or insisting on a private definition of anti-Semitism . But in either event he was the wrong man for the kind of case outlined by Ben_Gurion and set_forth in the indictment . In such a <head>case</head> the defendant should serve as a clear example and not have_to be tied to the issue by argument . One who could be linked to anti-Semitism only by overcoming his objections is scarcely a good specimen of the Jew-baiter throughout the ages . Shout at Eichmann though he might , the Prosecutor could not establish that the defendant was falsifying the way he felt about Jews or that what he did feel fell_into the generally recognized category of anti-Semitism . Yes , he believed that the Jews were `` enemies of the Reich '' , and such a belief is , of_course , typical of `` patriotic '' anti-Semites ; but he believed in the Jew as enemy in a kind of abstract , theological way , like a member of a cult speculating on the nature of things .</context>
+    </instance>
+    <instance id="br-f19#w1798_0" docsrc="br-f19">
+      <context> As a result , most people do n't have more than a vague idea what folklore actually is ; they see it as a potpourri of charming , moral legends and patriotic anecdotes , with a superstition or remedy thrown_in here_and_there . And so well is such ignorance preserved by the amateur and the money-maker that even at the college_level most_of the hundred odd folklore courses given in the United_States survive on sentiment and nationalism alone . If one wishes to discuss a literary figure who uses folklore in his work , the first thing he must realize is that the literary figure is probably part of this ignorant American public . And while every writer must be dealt with as a special <head>case</head> , the interested student will want to ask himself a number of questions about each . Does the writer know the difference between an `` ersatz '' ballad or tall_tale and a true product of the folk ? When the writer uses material does he tamper with it to improve its commercial effect or does he leave it pure ? Is the writer propagandistic ?</context>
+    </instance>
+    <instance id="br-f20#w2183_0" docsrc="br-f20">
+      <context> O_'_Banion 's reply was a raucous laugh and a flat refusal . Still more jealous bitterness was engendered by the O_'_Banion gang 's seizure from a West_Side marshalling_yard of a freight-car load of Canadian whisky worth $ 100000 and by one of the biggest coups of the Prohibition_era - the Sibley warehouse robbery , which became famous for the cool brazenness of the operation . Here was stored $ 1000000 worth of bonded whisky . These 1750 <head>cases</head> were carted_off in a one night operation by the O_'_Banion men , who left in their stead the same number of barrels filled with water .</context>
+    </instance>
+    <instance id="br-g01#w479_0" docsrc="br-g01">
+      <context> - liberal considers that the need for a national economy with controls that will assure his conception of social justice is so great that individual and local liberties as_well_as democratic processes may have to yield before it . This seems like an attitude favoring a sort of totalitarian bureaucracy which , under a President of the same stamp , would try to coerce an uncooperative Congress or Supreme_Court . As for states ' rights , they have never counted in the thinking of my liberal friends except as irritations of a minor and immoral nature which exist now only as anachronisms . The American liberal may , in the world of to-day , have a strong <head>case</head> ; but he presents it publicly so enmeshed in hypocrisy that it is not an honest one . Why , in_the_first_place , call himself a liberal if he is against laissez-faire and favors an authoritarian central government with womb-to-tomb controls over everybody ? If he attaches little importance to personal liberty , why not make this known to the world ? And if he is so scornful of the rights of states , why not advocate a different sort of constitution that he could more sincerely support ?</context>
+    </instance>
+    <instance id="br-g17#w789_0" docsrc="br-g17">
+      <context> that regional peculiarities do not still exist ? that the Court_order does not unequally affect the Southern region ? Who will deny that in a vast portion of the South the Federal action is incompatible with the Jeffersonian concept of `` the consent of the governed '' ? Circumstances alter <head>cases</head> . A friend of mine in New_Mexico said the Court_order had caused no particular trouble out there , that all had gone as merry as a marriage bell . He seemed a_little surprised that it should have caused any particular trouble anywhere . I murmured something about a possible difference between New_Mexico 's history and Mississippi 's .</context>
+    </instance>
+    <instance id="br-g19#w10_0" docsrc="br-g19">
+      <context> Today the private_detective will also investigate insurance_claims or handle divorce <head>cases</head> , but his primary function remains what it has always been , to assist those who have money in their unending struggle with those who have not . It is from this unpromising background that the fictional private_detective was recruited . The mythological private_eye differs from his counterpart in real life in two essential ways . On_the_one_hand , he does not work for a large agency , but is almost always self-employed .</context>
+    </instance>
+    <instance id="br-g19#w145_0" docsrc="br-g19">
+      <context> On_the_one_hand , he does not work for a large agency , but is almost always self-employed . As a free-lance investigator , the fictional detective is responsible to no one but himself and his client . For this reason , he appears as an independent and self-reliant figure , whose rugged individualism need not be pressed into the mold of a 9 to 5 routine . On_the_other_hand , the fictional detective does not break strikes or handle divorce <head>cases</head> ; no client would ever think_of asking him to do such things . Whatever his original assignment , the fictional private_eye ends_up by investigating and solving a crime , usually a murder . Operating as a one_man police_force in fact if not in_name , he is at_once more independent and more dedicated than the police themselves . He catches criminals not merely because he is paid to do so ( frequently he does not receive a fee at_all ) , but because he enjoys his work , because he firmly believes that murder must be punished .</context>
+    </instance>
+    <instance id="br-h12#w137_0" docsrc="br-h12">
+      <context> In_addition to the penalties provided in title 18 , United_States Code , section 1001 , any person guilty of any act , as provided therein , with_respect_to any matter under this Title , shall forfeit all rights under this Title , and , if payment shall have been made or granted , the Commission shall take such action as may be necessary to recover the same . In connection with any claim decided by the Commission pursuant to this Title in which an award is made , the Commission may , upon the written request of the claimant or any attorney heretofore or hereafter employed by such claimant , determine and apportion the just and reasonable attorney 's fees for services rendered with_respect_to such claim , but the total amount of the fees so determined in any <head>case</head> shall not exceed 10 per_centum of the total amount paid pursuant to the award . Written evidence that the claimant and any such attorney have agreed to the amount of the attorney 's fees shall be conclusive upon the Commission : Provided , however , That the total amount of the fees so agreed_upon does not exceed 10 per_centum of the total amount paid pursuant to the award . Any fee so determined shall be entered as a part of such award , and payment thereof shall be made by the Secretary_of_the_Treasury by deducting the amount thereof from the total amount paid pursuant to the award . Any agreement to_the_contrary shall be unlawful and void .</context>
+    </instance>
+    <instance id="br-h16#w1026_0" docsrc="br-h16">
+      <context> 353_U._S._,_at_607 . On the basis of the findings which led to this conclusion , the Court remanded the case to the District_Court to determine the appropriate relief . The sole guidance given the Court for discharging the task committed to it was this : `` The judgment must therefore be reversed and the cause remanded to the District_Court for a determination , after further hearing , of the equitable relief necessary and appropriate in the public interest to eliminate the effects of the acquisition offensive to the statute . The District_Courts , in the framing of equitable decrees , are clothed ' with large discretion to model their judgments to fit the exigencies of the particular <head>case</head> ' . International_Salt_Co._v._United_States_,_332_U._S._392_,_400_-_401 '' . 353_U._S._,_at_607_-_608 . This brings us to the course of the proceedings in the District_Court .</context>
+    </instance>
+    <instance id="br-h16#w928_0" docsrc="br-h16">
+      <context> We repeat , that the test of a violation of 7 is whether , at the time of suit , there is a reasonable probability that the acquisition is likely to result in the condemned restraints . The conclusion upon this record is inescapable that such likelihood was proved as to this acquisition '' . 353_U._S._,_at_607 . On the basis of the findings which led to this conclusion , the Court remanded the <head>case</head> to the District_Court to determine the appropriate relief . The sole guidance given the Court for discharging the task committed to it was this : `` The judgment must therefore be reversed and the cause remanded to the District_Court for a determination , after further hearing , of the equitable relief necessary and appropriate in the public interest to eliminate the effects of the acquisition offensive to the statute . The District_Courts , in the framing of equitable decrees , are clothed ' with large discretion to model their judgments to fit the exigencies of the particular case ' . International_Salt_Co._v._United_States_,_332_U._S._392_,_400_-_401 '' .</context>
+    </instance>
+    <instance id="br-h16#w963_0" docsrc="br-h16">
+      <context> The conclusion upon this record is inescapable that such likelihood was proved as to this acquisition '' . 353_U._S._,_at_607 . On the basis of the findings which led to this conclusion , the Court remanded the case to the District_Court to determine the appropriate relief . The sole guidance given the Court for discharging the task committed to it was this : `` The judgment must therefore be reversed and the <head>cause</head> remanded to the District_Court for a determination , after further hearing , of the equitable relief necessary and appropriate in the public interest to eliminate the effects of the acquisition offensive to the statute . The District_Courts , in the framing of equitable decrees , are clothed ' with large discretion to model their judgments to fit the exigencies of the particular case ' . International_Salt_Co._v._United_States_,_332_U._S._392_,_400_-_401 '' . 353_U._S._,_at_607_-_608 .</context>
+    </instance>
+    <instance id="br-h17#w1089_0" docsrc="br-h17">
+      <context> On April 1 , 1953 , after some six months of full-time `` pioneering '' , petitioner discontinued devoting 100 hours a month to preaching , but failed to so notify his local board . In a periodic review , the local board on July 30 , 1953 , reclassified him 1_,_-_A and upheld this classification after a personal appearance by petitioner , because of his willingness to kill in defense of his church and home . Upon administrative approval of the reclassification , he was ordered to report for induction on June 11 , 1956 , but failed to do so . He was not prosecuted , however , and his <head>case</head> was subsequently reopened , in the light of Sicurella_v._United_States , 348_U._S._385_(_1955_) . He was again reclassified 1_,_-_A by the local board . There followed a customary Department_of_Justice hearing , at which petitioner appeared . In his report to the Attorney_General , the hearing_officer suggested that the petitioner be exempt only from combatant training and service .</context>
+    </instance>
+    <instance id="br-h17#w153_0" docsrc="br-h17">
+      <context> It is not a medieval mental quirk or an attitude `` unnourished by sense '' to believe that husbands and wives should not be subjected to such a risk , or that such a possibility should not be permitted to endanger the confidentiality of the marriage relationship . While it is easy enough to ridicule Hawkins ' pronouncement in Pleas_of_the_Crown from a metaphysical point_of_view , the concept of the `` oneness '' of a married_couple may reflect an abiding belief that the communion between husband and wife is such_that their actions are not always to be regarded by the criminal_law as if there were no marriage . By making inroads in the name of law_enforcement into the protection which Congress has afforded to the marriage relationship , the Court today continues in the path charted by the recent decision in Wyatt_v._United_States , 362_U._S._525 , where the Court held that , under_the_circumstances of that <head>case</head> , a wife could be compelled to testify against her husband over her objection . One need not waver in his belief in virile law_enforcement to insist that there are other things in American life which are also of great importance , and to which even law_enforcement must accommodate itself . One of these is the solidarity and the confidential relationship of marriage . The Court 's opinion dogmatically asserts that the husband wife conspiracy doctrine does not in_fact protect this relationship , and that hence the doctrine `` enthrone [ s ] an unreality into a rule of law '' .</context>
+    </instance>
+    <instance id="br-h17#w408_0" docsrc="br-h17">
+      <context> I dissent . Petitioner , who claims to be a conscientious_objector , was convicted of violating 12 ( a ) of the Universal_Military_Training_and_Service_Act by refusing to be inducted into the armed_forces . He claims that he was denied due_process_of_law in violation of the Fifth_Amendment , because ( 1 ) at a hearing before a hearing_officer of the Department_of_Justice_, he was not permitted to rebut statements attributed to him by the local board , and ( 2 ) at the trial , he was denied the right to have the hearing_officer 's report and the original report of the Federal_Bureau_of_Investigation as to his claim . Held : On the record in this <head>case</head> , the administrative procedures prescribed by the Act were fully complied with ; petitioner was not denied due_process ; and his conviction is sustained . Pp. 60 - 66 . Petitioner was not denied due_process in the administrative proceedings , because the statement in_question was in his file , to which he had access , and he had opportunities to rebut it both before the hearing_officer of the Department_of_Justice and before the appeal_board . Pp. 62 - 63 .</context>
+    </instance>
+    <instance id="br-j29#w331_0" docsrc="br-j29">
+      <context> Children whose reading scores were at_least one standard_deviation below the regression_line of each total third grade school population were considered under-achievers for the purposes of sample selection . Over-achievers were at_least one standard_deviation above the regression_line in their school_system . The final sample was not significantly different from a normal_distribution in regard_to reading achievement or intelligence_test scores . Twenty-four classrooms in twelve unstructured schools furnished 156 <head>cases</head> , 87 boys and 69 girls . Eight classrooms in three structured schools furnished 72 cases , 36 boys and 36 girls . Administrative restrictions necessitated the smaller sample size in the structured schools . It was assumed that the sampling procedure was purely random with_respect_to the personality variables under investigation .</context>
+    </instance>
+    <instance id="br-j29#w347_0" docsrc="br-j29">
+      <context> Over-achievers were at_least one standard_deviation above the regression_line in their school_system . The final sample was not significantly different from a normal_distribution in regard_to reading achievement or intelligence_test scores . Twenty-four classrooms in twelve unstructured schools furnished 156 cases , 87 boys and 69 girls . Eight classrooms in three structured schools furnished 72 <head>cases</head> , 36 boys and 36 girls . Administrative restrictions necessitated the smaller sample size in the structured schools . It was assumed that the sampling procedure was purely random with_respect_to the personality variables under investigation . An interview schedule of open-ended questions and a multiple-choice questionnaire were prepared , and one parent of each of the sample children was seen in the home .</context>
+    </instance>
+    <instance id="br-j29#w520_0" docsrc="br-j29">
+      <context> An interview schedule of open-ended questions and a multiple-choice questionnaire were prepared , and one parent of each of the sample children was seen in the home . The parent was asked to describe the child 's typical behavior in certain standard situations in which there was an opportunity to observe tendencies toward perfectionism in demands upon self and others , irrational conformity to rules , orderliness , punctuality , and need for certainty . The interviewers were instructed not to suggest answers and , as_much_as_possible , to record the parents ' actual words as they described the child 's behavior in home situations . The rating scale of compulsivity was constructed by first perusing the interview records , categorizing all evidence related to compulsivity , then arranging a distribution of such information apart from the <head>case</head> records . Final ratings were made on the basis of a point_system which was developed after studying the distributions of actual behaviors recorded and assigning weight values to each type of behavior that was deviant from the discovered norms . Children scoring high in compulsivity were those who gave evidence of tension or emotionality in situations where there was lack of organization or conformity to standards and expectations , or who made exaggerated efforts to achieve these goals . The low compulsive child was one who appeared relatively unconcerned about such matters .</context>
+    </instance>
+    <instance id="br-j52#w188_0" docsrc="br-j52">
+      <context> This is the course the positivists took . They explained value judgments by explaining them away . Now I do not think their view will do . But before discussing it , I should_like to record one vote of thanks to them for the clarity with which they have stated their <head>case</head> . It has been said of John_Stuart_Mill that he wrote so clearly that he could be found_out . This theory has been put so clearly and precisely that it deserves criticism of the same kind , and this I will do my best to supply . The theory claims to show by analysis that when we say , `` That is good '' , we do not mean to assert a character of the subject of which we are thinking .</context>
+    </instance>
+    <instance id="br-j55#w1227_0" docsrc="br-j55">
+      <context> Cattle stealing and killing , again serious during the spring of 1891 , placed the land_grant company officers in a perplexing position . They were reluctant to appoint sheriffs to protect the property , thus running_the_risk of creating disturbances such_as that on the Vermejo , and yet the cowboys protested that they got no salary for arresting cattle_thieves and running_the_risk of being shot . And the law virtually ignored the situation . The judge became ill just as the Colfax_District_Court convened , no substitute was brought_in , no criminal <head>cases</head> heard , only 5 out of 122 cases docketed were tried , and court adjourned sine_die after sitting a_few days instead_of the usual three weeks . Pels complained : `` Litigants and witnesses were put to the expense and inconvenience of going long distances to transact business ; public money spent ; justice delayed ; nothing accomplished , and the whole distribution of justice in this county seems to be an absolute farce '' . Word reached the company that the man behind these depredations was Manuel_Gonzales , a man with many followers , including a number who were kept in line through fear of him .</context>
+    </instance>
+    <instance id="br-j55#w1235_0" docsrc="br-j55">
+      <context> Cattle stealing and killing , again serious during the spring of 1891 , placed the land_grant company officers in a perplexing position . They were reluctant to appoint sheriffs to protect the property , thus running_the_risk of creating disturbances such_as that on the Vermejo , and yet the cowboys protested that they got no salary for arresting cattle_thieves and running_the_risk of being shot . And the law virtually ignored the situation . The judge became ill just as the Colfax_District_Court convened , no substitute was brought_in , no criminal cases heard , only 5 out of 122 <head>cases</head> docketed were tried , and court adjourned sine_die after sitting a_few days instead_of the usual three weeks . Pels complained : `` Litigants and witnesses were put to the expense and inconvenience of going long distances to transact business ; public money spent ; justice delayed ; nothing accomplished , and the whole distribution of justice in this county seems to be an absolute farce '' . Word reached the company that the man behind these depredations was Manuel_Gonzales , a man with many followers , including a number who were kept in line through fear of him .</context>
+    </instance>
+    <instance id="br-k12#w1803_0" docsrc="br-k12">
+      <context> Flanked by marble urns and alabaster lamps , they seemed to be posing for a tribal portrait . It was amazing how they had herded together for protection : an enormous matriarch in a quilted silk wrapper , rising from the breakfast_table ; a gross boy in his teens , shuffling in from the kitchen with a sandwich in his hands ; a girl in her twenties , fat and sullen , descending the marble staircase ; then all four gathering on the sofa to face the inquisitor . They answered him in monosyllables , nods , occasionally muttering in Greek to one another , awaiting the word from Papa , who restlessly cracked his knuckles , anxious to stuff himself into his white Cadillac and burst off to the freeway . No , they had n't seen anyone around ; no , they did n't know the Andrus family ; yes , they had read about the <head>case</head> ; yes , they had let some reporters use their phone , but they would no_longer . They offered no opinions , volunteered nothing , betrayed no emotions . Studying them , McFeeley could not help make comparison with the Andrus couple . The Skopas people seemed to him of that breed of human_beings whose insularity frees them from tragedy .</context>
+    </instance>
+    <instance id="br-k12#w1983_0" docsrc="br-k12">
+      <context> The equation was simple : wealth brought them happiness , and their united front to the world was their warning that they meant to keep everything they had , let no_one in on the secrets . By comparison , Fritzie and Laura_Andrus were quivering fledglings . They possessed no outer fortifications , no hard shells of confidence ; they had enough difficulty getting from day to day , let_alone having an awful crime thrust upon them . Skopas expressed no curiosity over the <head>case</head> , offered no expression of sympathy , made no move to escort McFeeley to the door . All four remained impacted on the sofa until he had left . He had spoken_to Mrs._Emerson the previous day . There remained a family named Kahler , owners of a two story Tudor style house on the south_side of the Andrus home .</context>
+    </instance>
+    <instance id="br-l11#w1845_0" docsrc="br-l11">
+      <context> This was a broth_of_a_boy , our Felix , and nothing was more obvious than the joy he took in demonstrating how agile he was and how full of juice and spirit . We followed him up_the_stairs . The cops would gather_up Connor and the foursome on the third floor and bring us those of them who would voluntarily submit to fingerprinting . You may think we did n't need Nancy and Jean , but you always get what you can when you can , and we had no guarantee that a fingerprint record on them could n't be useful before we were through_with this <head>case</head> . Also , if we had excluded the ladies we would have_to that extent let the whole world know at_least that much of where we stood . The killer , if in our present group , would certainly be interested in knowing that much , and even_though with the fingerprint evidence what it was I could see no way he could use this bit of information to improve on his situation , there might always be some way . If you can possibly avoid it , you do n't hand_out any extra chances .</context>
+    </instance>
+    <instance id="br-n16#w1083_0" docsrc="br-n16">
+      <context> `` Get_in , buddies . Get_in '' . The straight , black hair flopped in a vigorous nod , the slender nose plunged toward glass teeth and drew safely back . Johnson unwired the right_hand door , whose window was , like the left one , merely loosely taped fragments of glass , and Johnson wadded himself into a narrow seat made still more narrow by three <head>cases</head> of beer . `` In back , buddy '' , the driver said to me . Quickly but carefully lowering my duffel_bag over the low side rack , I stepped_on the running_board ; it flopped down , sprang back up and gouged my shin . The truck was hurtling forward .</context>
+    </instance>
+    <instance id="br-r05#w1283_0" docsrc="br-r05">
+      <context> Strangely_enough , this always brought_the_house_down . Apart from journalese and vaudeville gags , the anatomical is also found in jocular literature . A conscientious girl became the secretary of a doctor . Her first day at work she was puzzled by an entry in the doctor 's notes on an emergency <head>case</head> . It read : `` Shot in the lumbar region '' . After a moment of thought , her mind cleared and , in the interest of clarity , she typed into the record : `` Shot in the woods '' . There are many grammatical misconstructions other_than dangling_modifiers and anatomicals which permit two different interpretations .</context>
+    </instance>
+    <instance id="n00122106_d_11" docsrc="n00122106_d">
+      <context> the act of remitting ( especially the referral of a law <head>case</head> to another court ) ;</context>
+    </instance>
+    <instance id="n00322488_d_7" docsrc="n00322488_d">
+      <context> the act of enclosing something in a <head>case</head> ;</context>
+    </instance>
+    <instance id="n00581382_d_3" docsrc="n00581382_d">
+      <context> the number of <head>cases</head> handled in a given period_of_time ( as by a court or agency ) ;</context>
+    </instance>
+    <instance id="n00650543_d_18" docsrc="n00650543_d">
+      <context> dialysis of the blood to remove toxic substances or metabolic wastes from the bloodstream ; used in the <head>case</head> of kidney_failure ;</context>
+    </instance>
+    <instance id="n00667847_d_14" docsrc="n00667847_d">
+      <context> surgical removal of the testes or ovaries ( usually to inhibit hormone secretion in <head>cases</head> of breast_cancer in women or prostate_cancer in men ) ;</context>
+    </instance>
+    <instance id="n00681071_d_19" docsrc="n00681071_d">
+      <context> surgical_procedure that creates an opening from the ileum through the abdominal_wall to function as an anus ; performed in <head>cases</head> of cancer of the colon or ulcerative_colitis ;</context>
+    </instance>
+    <instance id="n00683722_d_13" docsrc="n00683722_d">
+      <context> psychosurgery in which amygdaloid fibers that mediate limbic_system activity are severed ( in <head>cases</head> of extreme uncontrollable violence ) ;</context>
+    </instance>
+    <instance id="n00683915_d_13" docsrc="n00683915_d">
+      <context> severing the corpus_callosum so that communication between the cerebral_hemispheres is interrupted ( in <head>cases</head> of severe intractable epilepsy ) ;</context>
+    </instance>
+    <instance id="n00684648_d_18" docsrc="n00684648_d">
+      <context> surgical removal of a tumor without removing much of the surrounding tissue or lymph_nodes ; performed in some <head>cases</head> of breast_cancer ;</context>
+    </instance>
+    <instance id="n00689302_d_12" docsrc="n00689302_d">
+      <context> surgical_incision into the testis to obtain material for analysis ( as in <head>cases</head> of abnormally low sperm_count ) ;</context>
+    </instance>
+    <instance id="n00689729_d_17" docsrc="n00689729_d">
+      <context> surgical resection of unnecessary palatal and oropharyngeal tissue to open the airway ; intended to cure extreme <head>cases</head> of snoring ( with or without sleep_apnea ) ;</context>
+    </instance>
+    <instance id="n00690132_d_13" docsrc="n00690132_d">
+      <context> surgical removal or all or part of a vein ; sometimes done in <head>cases</head> of severe varicose_veins ;</context>
+    </instance>
+    <instance id="n00690281_d_22" docsrc="n00690281_d">
+      <context> surgical_procedure that uses an intense laser_beam to destroy diseased retinal tissue or to make a scar that will hold the retina in <head>cases</head> of detached_retina ;</context>
+    </instance>
+    <instance id="n00694088_d_10" docsrc="n00694088_d">
+      <context> removal of significant amounts of prostate tissue ( as in <head>cases</head> of benign_prostatic_hyperplasia ) ;</context>
+    </instance>
+    <instance id="n00755277_d_5" docsrc="n00755277_d">
+      <context> pretending that something is the <head>case</head> in order to make a good impression ;</context>
+    </instance>
+    <instance id="n00818678_d_5" docsrc="n00818678_d">
+      <context> guardianship over ; in divorce <head>cases</head> it is the right to house and care for and discipline a child ;</context>
+    </instance>
+    <instance id="n00840898_d_15" docsrc="n00840898_d">
+      <context> eating earth , clay , chalk ; occurs in some primitive tribes , sometimes in <head>cases</head> of nutritional deficiency or obsessive behavior ;</context>
+    </instance>
+    <instance id="n00979557_d_2" docsrc="n00979557_d">
+      <context> a special <head>case</head> of loft_bombing in which the bomb is released past the vertical so it is tossed back to the target ;</context>
+    </instance>
+    <instance id="n01059445_d_15" docsrc="n01059445_d">
+      <context> administration of a nutritionally adequate solution through a catheter into the vena_cava ; used in <head>cases</head> of long-term coma or severe burns or severe gastrointestinal syndromes ;</context>
+    </instance>
+    <instance id="n01064468_d_8" docsrc="n01064468_d">
+      <context> confinement to bed continuously ( as in the <head>case</head> of some sick or injured persons ) ;</context>
+    </instance>
+    <instance id="n01147676_d_5" docsrc="n01147676_d">
+      <context> a strategy of defense in <head>cases</head> of bioterrorism ; vaccination only of people exposed and others who are in contact with them ;</context>
+    </instance>
+    <instance id="n01183638_d_2" docsrc="n01183638_d">
+      <context> a hypothetical <head>case</head> that law_students argue as an exercise ;</context>
+    </instance>
+    <instance id="n01189001_d_4" docsrc="n01189001_d">
+      <context> a judgment disposing_of the <head>case</head> before the court ; after the judgment ( or an appeal from it ) is rendered all that remains is to enforce the judgment ;</context>
+    </instance>
+    <instance id="n01189282_d_7" docsrc="n01189282_d">
+      <context> a final_judgment of guilty in a criminal <head>case</head> and the punishment that is imposed ;</context>
+    </instance>
+    <instance id="n01903756_d_4" docsrc="n01903756_d">
+      <context> hard outer covering or <head>case</head> of certain organisms such as arthropods and turtles ;</context>
+    </instance>
+    <instance id="n02724966_d_16" docsrc="n02724966_d">
+      <context> a class of drugs that block the action of tumor_necrosis_factor ( TNF ) ; used in <head>cases</head> of rheumatoid_arthritis because TNF instigates inflammation of the joints ;</context>
+    </instance>
+    <instance id="n02774630_d_0" docsrc="n02774630_d">
+      <context> <head>cases</head> used to carry belongings when traveling ;</context>
+    </instance>
+    <instance id="n02789770_d_17" docsrc="n02789770_d">
+      <context> a railing that encloses the part of the courtroom where the judges and lawyers sit and the <head>case</head> is tried ;</context>
+    </instance>
+    <instance id="n02895606_d_6" docsrc="n02895606_d">
+      <context> a device that facilitates breathing in <head>cases</head> of respiratory failure ;</context>
+    </instance>
+    <instance id="n02900705_d_1" docsrc="n02900705_d">
+      <context> a <head>case</head> with a handle ; for carrying papers or files or books ;</context>
+    </instance>
+    <instance id="n02972533_d_10" docsrc="n02972533_d">
+      <context> a mechanism in a firearm that ejects the empty shell <head>case</head> after firing ;</context>
+    </instance>
+    <instance id="n02972714_d_10" docsrc="n02972714_d">
+      <context> a mechanism in a firearm that pulls an empty shell <head>case</head> out of the chamber and passes it to the ejector ;</context>
+    </instance>
+    <instance id="n02975589_ex1_10" docsrc="n02975589_ex1">
+      <context> for English , a compositor will ordinarily have two such <head>cases</head> , the upper case containing the capitals and the lower case containing the small letters ;</context>
+    </instance>
+    <instance id="n02975589_ex1_14" docsrc="n02975589_ex1">
+      <context> for English , a compositor will ordinarily have two such cases , the upper <head>case</head> containing the capitals and the lower case containing the small letters ;</context>
+    </instance>
+    <instance id="n02975589_ex1_21" docsrc="n02975589_ex1">
+      <context> for English , a compositor will ordinarily have two such cases , the upper case containing the capitals and the lower <head>case</head> containing the small letters ;</context>
+    </instance>
+    <instance id="n03189995_d_33" docsrc="n03189995_d">
+      <context> a tranquilizer ( trade_name Valium ) used to relieve anxiety and relax muscles ; acts by enhancing the inhibitory actions of the neurotransmitter GABA ; can also be used as an anticonvulsant_drug in <head>cases</head> of nerve_agent poisoning ;</context>
+    </instance>
+    <instance id="n03267468_d_13" docsrc="n03267468_d">
+      <context> a pilot's seat in an airplane that can be forcibly ejected in the <head>case</head> of an emergency ; then the pilot descends by parachute ;</context>
+    </instance>
+    <instance id="n03345658_d_16" docsrc="n03345658_d">
+      <context> a stairway ( often on the outside of a building ) that permits exit in the <head>case</head> of fire or other emergency ;</context>
+    </instance>
+    <instance id="n03452594_d_7" docsrc="n03452594_d">
+      <context> a pendulum_clock enclosed in a tall narrow <head>case</head> ;</context>
+    </instance>
+    <instance id="n03522239_d_11" docsrc="n03522239_d">
+      <context> a medicine used to treat the gastric effects of histamine in <head>cases</head> of peptic_ulcers and gastritis and gastroesophageal_reflux ; works by blocking the effects of histamine on the receptor site known_as H2 ;</context>
+    </instance>
+    <instance id="n03583967_d_9" docsrc="n03583967_d">
+      <context> a medicinal_drug used to evoke vomiting ( especially in <head>cases</head> of drug overdose or poisoning ) ;</context>
+    </instance>
+    <instance id="n03588668_d_10" docsrc="n03588668_d">
+      <context> an oral antifungal drug ( trade_name Sporanox ) taken for <head>cases</head> of fungal nail disease ;</context>
+    </instance>
+    <instance id="n03640988_d_5" docsrc="n03640988_d">
+      <context> light in a transparent protective <head>case</head> ;</context>
+    </instance>
+    <instance id="n03742728_d_12" docsrc="n03742728_d">
+      <context> an antimalarial_drug ( trade_name Larium and Mephaquine ) that is effective in <head>cases</head> that do not respond to chloroquine ; said to produce harmful neuropsychiatric effects on some people ;</context>
+    </instance>
+    <instance id="n03840327_d_17" docsrc="n03840327_d">
+      <context> a prosthesis used to close an opening ( as to close an opening of the hard_palate in <head>cases</head> of cleft_palate ) ;</context>
+    </instance>
+    <instance id="n04022434_d_20" docsrc="n04022434_d">
+      <context> action_mechanism in a modern rifle or shotgun ; a back and forward_motion of a sliding lever ejects the empty shell <head>case</head> and cocks the firearm and loads a new round ;</context>
+    </instance>
+    <instance id="n04412727_d_11" docsrc="n04412727_d">
+      <context> an oral antifungal drug ( trade_name Lamisil ) used to treat <head>cases</head> of fungal nail disease ;</context>
+    </instance>
+    <instance id="n04488202_d_1" docsrc="n04488202_d">
+      <context> a <head>case</head> in which to display trophies ;</context>
+    </instance>
+    <instance id="n04506005_d_4" docsrc="n04506005_d">
+      <context> a drug used in <head>cases</head> of chronic myeloid_leukemia ;</context>
+    </instance>
+    <instance id="n04527808_d_16" docsrc="n04527808_d">
+      <context> a drug ( trade_names Calan and Isoptin ) used as an oral or parenteral calcium_blocker in <head>cases</head> of hypertension or congestive_heart_failure or angina or migraine ;</context>
+    </instance>
+    <instance id="n04762633_d_10" docsrc="n04762633_d">
+      <context> the quality of being particular and pertaining to a specific <head>case</head> or instance ;</context>
+    </instance>
+    <instance id="n04975739_d_14" docsrc="n04975739_d">
+      <context> either one of two chromatic_colors that when mixed together give white ( in the <head>case</head> of lights ) or grey ( in the case of pigments ) ;</context>
+    </instance>
+    <instance id="n04975739_d_23" docsrc="n04975739_d">
+      <context> either one of two chromatic_colors that when mixed together give white ( in the case of lights ) or grey ( in the <head>case</head> of pigments ) ;</context>
+    </instance>
+    <instance id="n05582859_d_13" docsrc="n05582859_d">
+      <context> tissue or organ transplanted from a donor to a recipient ; in some <head>cases</head> the patient can be both donor and recipient ;</context>
+    </instance>
+    <instance id="n05583624_d_15" docsrc="n05583624_d">
+      <context> tissue from an animal of one species used as a temporary graft ( as in <head>cases</head> of severe burns ) on an individual of another species ;</context>
+    </instance>
+    <instance id="n05680423_d_7" docsrc="n05680423_d">
+      <context> coma that can develop in inadequately treated <head>cases</head> of diabetes_mellitus ;</context>
+    </instance>
+    <instance id="n05680573_d_6" docsrc="n05680573_d">
+      <context> coma that can occur in severe <head>cases</head> of liver_disease ;</context>
+    </instance>
+    <instance id="n05699600_d_9" docsrc="n05699600_d">
+      <context> doubt or uncertainty as to whether something is the <head>case</head> ;</context>
+    </instance>
+    <instance id="n05791311_d_7" docsrc="n05791311_d">
+      <context> the more conspicuous of two alternatives or <head>cases</head> or sides ;</context>
+    </instance>
+    <instance id="n05817743_ex1_4" docsrc="n05817743_ex1">
+      <context> that was not the <head>case</head> ;</context>
+    </instance>
+    <instance id="n05919034_d_7" docsrc="n05919034_d">
+      <context> an impression that something might be the <head>case</head> ;</context>
+    </instance>
+    <instance id="n06023821_d_7" docsrc="n06023821_d">
+      <context> the value below which 50% of the <head>cases</head> fall ;</context>
+    </instance>
+    <instance id="n06027843_d_1" docsrc="n06027843_d">
+      <context> a <head>case</head> of multiple_regression in which the predictor_variables are themselves highly correlated ;</context>
+    </instance>
+    <instance id="n06311852_d_1" docsrc="n06311852_d">
+      <context> the <head>case</head> expressing ownership ;</context>
+    </instance>
+    <instance id="n06312237_d_1" docsrc="n06312237_d">
+      <context> the <head>case</head> ( in some inflected languages ) used when the referent of the noun is being addressed ;</context>
+    </instance>
+    <instance id="n06312418_d_1" docsrc="n06312418_d">
+      <context> the <head>case</head> indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb ;</context>
+    </instance>
+    <instance id="n06469874_d_8" docsrc="n06469874_d">
+      <context> a concluding summary ( as in presenting a <head>case</head> before a law court ) ;</context>
+    </instance>
+    <instance id="n06485593_d_9" docsrc="n06485593_d">
+      <context> the calendar of a court ; the list of <head>cases</head> to be tried or a summary of the court's activities ;</context>
+    </instance>
+    <instance id="n06487395_d_12" docsrc="n06487395_d">
+      <context> a list or register of events ( appointments or social_events or court <head>cases</head> etc ) ;</context>
+    </instance>
+    <instance id="n06503034_d_8" docsrc="n06503034_d">
+      <context> a book in which detailed written_records of a <head>case</head> are kept and which are a source of information for subsequent work ;</context>
+    </instance>
+    <instance id="n06543781_d_12" docsrc="n06543781_d">
+      <context> a document stating the facts and points of law of a client's <head>case</head> ;</context>
+    </instance>
+    <instance id="n06552116_d_10" docsrc="n06552116_d">
+      <context> an opinion that agrees with the court's disposition of the <head>case</head> but is written to express a particular judge's reasoning ;</context>
+    </instance>
+    <instance id="n06552320_d_10" docsrc="n06552320_d">
+      <context> an opinion that disagrees with the court's disposition of the <head>case</head> ;</context>
+    </instance>
+    <instance id="n06553631_d_18" docsrc="n06553631_d">
+      <context> a common_law writ issued by a superior_court to one of inferior jurisdiction demanding the record of a particular <head>case</head> ;</context>
+    </instance>
+    <instance id="n06556150_d_16" docsrc="n06556150_d">
+      <context> a judicial_writ from a higher court ordering a lower_court not to exercise jurisdiction in a particular <head>case</head> ;</context>
+    </instance>
+    <instance id="n06643883_d_18" docsrc="n06643883_d">
+      <context> biometric_identification obtained by examining a person's unique sequence of DNA base_pairs ; often used for evidence in criminal_law <head>cases</head> ;</context>
+    </instance>
+    <instance id="n06649426_ex1_3" docsrc="n06649426_ex1">
+      <context> he stated his <head>case</head> clearly ;</context>
+    </instance>
+    <instance id="n06731510_d_15" docsrc="n06731510_d">
+      <context> a contention presented by a lawyer to a judge or jury as part of the <head>case</head> he is arguing ;</context>
+    </instance>
+    <instance id="n06765887_d_15" docsrc="n06765887_d">
+      <context> an opinion voiced by a judge on a point of law not directly bearing_on the <head>case</head> in_question and therefore not binding ;</context>
+    </instance>
+    <instance id="n06784966_ex1_4" docsrc="n06784966_ex1">
+      <context> Perry Mason solved the <head>case</head> of the missing heir ;</context>
+    </instance>
+    <instance id="n07100522_d_7" docsrc="n07100522_d">
+      <context> repetition of a word in a different <head>case</head> or inflection in the same sentence ;</context>
+    </instance>
+    <instance id="n07145026_d_31" docsrc="n07145026_d">
+      <context> a conference held before the trial begins to bring the parties to outline discovery proceedings and to define the issues to be tried ; more useful in civil than in criminal <head>cases</head> ;</context>
+    </instance>
+    <instance id="n07214642_d_28" docsrc="n07214642_d">
+      <context> compulsory pretrial disclosure of documents relevant to a case ; enables one side in a litigation to elicit information from the other side concerning the facts in the <head>case</head> ;</context>
+    </instance>
+    <instance id="n07214642_d_8" docsrc="n07214642_d">
+      <context> compulsory pretrial disclosure of documents relevant to a <head>case</head> ; enables one side in a litigation to elicit information from the other side concerning the facts in the case ;</context>
+    </instance>
+    <instance id="n07308889_ex1_3" docsrc="n07308889_ex1">
+      <context> it was a <head>case</head> of bad judgment ;</context>
+    </instance>
+    <instance id="n08054226_d_9" docsrc="n08054226_d">
+      <context> a medical_institution that provides prolonged care ( as in <head>cases</head> of prolonged illness or rehabilitation from acute illness ) ;</context>
+    </instance>
+    <instance id="n08064742_d_9" docsrc="n08064742_d">
+      <context> the lawyers acting for the state to put the <head>case</head> against the defendant ;</context>
+    </instance>
+    <instance id="n08078644_d_19" docsrc="n08078644_d">
+      <context> a mobile group of trained people ( police or executives or officials ) able to move quickly in the <head>case</head> of emergencies ;</context>
+    </instance>
+    <instance id="n08331213_d_6" docsrc="n08331213_d">
+      <context> a court having jurisdiction over criminal <head>cases</head> ;</context>
+    </instance>
+    <instance id="n08334319_d_7" docsrc="n08334319_d">
+      <context> a mock court where law_students argue hypothetical <head>cases</head> ;</context>
+    </instance>
+    <instance id="n08335414_d_5" docsrc="n08335414_d">
+      <context> the supreme ecclesiastical tribunal for <head>cases</head> appealed to the_Holy_See from diocesan courts ;</context>
+    </instance>
+    <instance id="n08336490_d_9" docsrc="n08336490_d">
+      <context> the first court before which the facts of a <head>case</head> are decided ;</context>
+    </instance>
+    <instance id="n08415469_d_11" docsrc="n08415469_d">
+      <context> a jury whose members are selected for special knowledge for a <head>case</head> involving complicated issues ;</context>
+    </instance>
+    <instance id="n09417926_d_6" docsrc="n09417926_d">
+      <context> an inclusion_body found in plasma_cells in <head>cases</head> of cancer ;</context>
+    </instance>
+    <instance id="n09606380_d_8" docsrc="n09606380_d">
+      <context> someone who has a special interest in exceptional <head>cases</head> ;</context>
+    </instance>
+    <instance id="n09775663_d_4" docsrc="n09775663_d">
+      <context> a lawyer who pleads <head>cases</head> in court ;</context>
+    </instance>
+    <instance id="n09788237_d_15" docsrc="n09788237_d">
+      <context> an adviser to the court on some matter_of_law who is not a party to the <head>case</head> ; usually someone who wants to influence the outcome of a lawsuit involving matters of wide public interest ;</context>
+    </instance>
+    <instance id="n09898892_ex1_2" docsrc="n09898892_ex1">
+      <context> a typical <head>case</head> was the suburban housewife described by a marriage counselor ;</context>
+    </instance>
+    <instance id="n09909060_ex5_2" docsrc="n09909060_ex5">
+      <context> a mental <head>case</head> ;</context>
+    </instance>
+    <instance id="n10514643_d_12" docsrc="n10514643_d">
+      <context> an attorney appointed by a court to investigate and report on a <head>case</head> ;</context>
+    </instance>
+    <instance id="n10656969_d_12" docsrc="n10656969_d">
+      <context> a paid magistrate ( appointed by the Home_Secretary ) dealing with police <head>cases</head> ;</context>
+    </instance>
+    <instance id="n10668666_ex2_1" docsrc="n10668666_ex2">
+      <context> the <head>cases</head> that we studied were drawn from two different communities ;</context>
+    </instance>
+    <instance id="n10729175_d_11" docsrc="n10729175_d">
+      <context> one ( as a judge ) who examines and settles a <head>case</head> ;</context>
+    </instance>
+    <instance id="n10773800_d_1" docsrc="n10773800_d">
+      <context> a <head>case</head> for a welfare_worker ;</context>
+    </instance>
+    <instance id="n13291831_d_12" docsrc="n13291831_d">
+      <context> compensation in excess of actual_damages ( a form of punishment awarded in <head>cases</head> of malicious or willful misconduct ) ;</context>
+    </instance>
+    <instance id="n13322343_d_17" docsrc="n13322343_d">
+      <context> a fee ( in addition to that marked on the brief ) paid to counsel in a <head>case</head> that lasts more than one day ;</context>
+    </instance>
+    <instance id="n13766436_d_5" docsrc="n13766436_d">
+      <context> the quantity contained in a <head>case</head> ;</context>
+    </instance>
+    <instance id="n14015996_ex1_1" docsrc="n14015996_ex1">
+      <context> a <head>case</head> of the jitters ;</context>
+    </instance>
+    <instance id="n14484778_d_5" docsrc="n14484778_d">
+      <context> an opportunity to state your <head>case</head> and be heard ;</context>
+    </instance>
+    <instance id="r00021878_d_6" docsrc="r00021878_d">
+      <context> on certain occasions or in certain <head>cases</head> but not always ;</context>
+    </instance>
+    <instance id="r00118032_d_2" docsrc="r00118032_d">
+      <context> in that <head>case</head> or as a consequence ;</context>
+    </instance>
+    <instance id="r00154449_d_6" docsrc="r00154449_d">
+      <context> believed or reputed to be the <head>case</head> ;</context>
+    </instance>
+    <instance id="r00250987_d_3" docsrc="r00250987_d">
+      <context> for one specific <head>case</head> ;</context>
+    </instance>
+    <instance id="r00314835_d_4" docsrc="r00314835_d">
+      <context> it is sincerely the <head>case</head> that ;</context>
+    </instance>
+    <instance id="v00344643_d_7" docsrc="v00344643_d">
+      <context> happen , occur , or be the <head>case</head> in the course of events or by_chance ;</context>
+    </instance>
+    <instance id="v00905059_d_11" docsrc="v00905059_d">
+      <context> cause to be acquitted ; get off_the_hook ; in a legal <head>case</head> ;</context>
+    </instance>
+    <instance id="v00972867_d_5" docsrc="v00972867_d">
+      <context> disqualify oneself in a particular <head>case</head> ;</context>
+    </instance>
+    <instance id="v01486312_d_9" docsrc="v01486312_d">
+      <context> enclose in , or as if in , a <head>case</head> ;</context>
+    </instance>
+    <instance id="v02497586_d_3" docsrc="v02497586_d">
+      <context> take a court <head>case</head> to a higher court for review ;</context>
+    </instance>
+    <instance id="v02501159_d_5" docsrc="v02501159_d">
+      <context> hear or try a court <head>case</head> anew ;</context>
+    </instance>
+    <instance id="v02501278_d_5" docsrc="v02501278_d">
+      <context> put on_trial or hear a <head>case</head> and sit as the judge at the trial of ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="technician.n" pos="NN">
+    <instance id="br-j38#w195_0" docsrc="br-j38">
+      <context> The George-Barden_Act of 1946 raised the previous increases in annual authorizations to $ 29 million in_addition to the $ 7 million under the Smith_Act . The Health_Amendment_Act of 1956 added $ 5 million for practical_nurse training . The latest major change in this program was introduced by the National_Defense_Education_Act of 1958 , Title 8 , of which amended the George-Barden_Act . Annual authorizations of $ 15 million were added for area vocational education programs that meet national defense needs for highly skilled <head>technicians</head> . The Federal program of vocational education merely provides financial_aid to encourage the establishment of vocational education programs in public schools . The initiative , administration and control remain primarily with the local school districts . Even the states remain primarily in an assisting role , providing leadership and teacher training .</context>
+    </instance>
+    <instance id="br-j38#w581_0" docsrc="br-j38">
+      <context> In_addition , many large corporations operate their own formal training_programs . A recent study indicated that 85 per_cent of the nation 's largest corporations conducted educational programs involving some class meetings and examinations . Most skilled industrial workers , nevertheless , still acquire their skills outside of formal training institutions . The National_Manpower_Council of Columbia_University has estimated that three out of five skilled_workers and one out of five <head>technicians</head> have not been formally trained . There is little doubt that the students benefit from vocational education . Employers prefer to hire youth with such training rather_than those without , and most graduates of vocational training go to work in jobs related to their training . Vocational educators do not claim that school training alone makes skilled_workers , but it provides the essential groundwork for developing skills .</context>
+    </instance>
+    <instance id="br-k12#w931_0" docsrc="br-k12">
+      <context> `` Maybe today 'll be a good news day '' . She charged off to the bedrooms . Moll took his coffee into the nursery . During the night , a phone_company <head>technician</head> had deadened the bells and installed red blinkers on the phones . Someone would have_to remain in the office continually . McFeeley greeted the parents , then studied his notebook . He wanted to take the mother to headquarters at_once and start her on the mug_file .</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="US.n" pos="NN">
+    <instance id="br-f15#w1788_0" docsrc="br-f15">
+      <context> Since then , many Protestant_denominations have made separate pronouncements , in which they not_only approved birth_control , but declared it at_times to be a religious duty . What determines the morality , they state , is not the means used , but the motive . In_general , the means ( excluding abortion ) that prove most effective are considered the most ethical . This development is reflected in the action taken in February , 1961 , by the general board of the National_Council_of_Churches , the largest Protestant organization in the <head>US</head> . The board approved and commended the use of birth-control devices as a part of Christian responsibility in family_planning . It called_for opposition to laws and institutional practices restricting the information or availability of contraceptives . The general board declared : `` Most_of the Protestant churches hold contraception and periodic continence to be morally right when the motives are right .</context>
+    </instance>
+  </lexelt>
+</corpus>

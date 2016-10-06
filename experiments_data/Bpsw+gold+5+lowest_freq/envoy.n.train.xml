@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="envoy.n" pos="NN">
+    <instance id="Envoy_(title)-envoy-0-1-2" docsrc="Envoy_(title)">
+      <context> <head>Usually</head> just referred to as a Minister , an Envoy is a diplomatic representative , not considered a representative of the head of state , but nonetheless with plenipotentiary powers ( i.e. full authority to represent the government ) . A diplomatic mission headed by an Envoy would be called a Legation rather than an Embassy . Envoys are entitled to use the style " His/Her Excellency " .</context>
+    </instance>
+    <instance id="Envoy_(title)-envoy-15-10-1" docsrc="Envoy_(title)">
+      <context> === Popular parlance === In popular parlance , an envoy can mean a diplomat of <head>any</head> rank . Moreover , the rank of Envoy should not be confused with the position of Special Envoy , which is a relatively modern invention , appointed for a specific purpose rather than for bilateral diplomacy , and may be held by a person of any diplomatic rank or none ( though usually held by an ambassador ) .</context>
+    </instance>
+    <instance id="Envoy_(title)-envoy-5-10-1" docsrc="Envoy_(title)">
+      <context> === Popular parlance === In <head>popular</head> parlance , an envoy can mean a diplomat of any rank . Moreover , the rank of Envoy should not be confused with the position of Special Envoy , which is a relatively modern invention , appointed for a specific purpose rather than for bilateral diplomacy , and may be held by a person of any diplomatic rank or none ( though usually held by an ambassador ) .</context>
+    </instance>
+    <instance id="Envoy_(title)-envoy-5-9-1" docsrc="Envoy_(title)">
+      <context> Envoys are entitled to use <head>the</head> style " His/Her Excellency " . === Popular parlance === In popular parlance , an envoy can mean a diplomat of any rank .</context>
+    </instance>
+    <instance id="Envoy_(title)-envoy-6-1-1" docsrc="Envoy_(title)">
+      <context> In diplomacy , an " Envoy <head>Extraordinary</head> and Minister Plenipotentiary " , in short Envoy , is under the terms of the Congress of Vienna of 1815 , a diplomat of the second class , ranking between an Ambassador and a Minister Resident . Usually just referred to as a Minister , an Envoy is a diplomatic representative , not considered a representative of the head of state , but nonetheless with plenipotentiary powers ( i.e. full authority to represent the government ) . A diplomatic mission headed by an Envoy would be called a Legation rather than an Embassy .</context>
+    </instance>
+    <instance id="Envoy_(title)-envoy-9-0-1" docsrc="Envoy_(title)">
+      <context> In diplomacy , an " Envoy Extraordinary and Minister <head>Plenipotentiary</head> " , in short Envoy , is under the terms of the Congress of Vienna of 1815 , a diplomat of the second class , ranking between an Ambassador and a Minister Resident . Usually just referred to as a Minister , an Envoy is a diplomatic representative , not considered a representative of the head of state , but nonetheless with plenipotentiary powers ( i.e. full authority to represent the government ) .</context>
+    </instance>
+    <instance id="n06378427_d_8" docsrc="n06378427_d">
+      <context> a poem consisting of 3 stanzas and an <head>envoy</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

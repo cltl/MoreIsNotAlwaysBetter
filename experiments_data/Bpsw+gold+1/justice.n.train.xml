@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="justice.n" pos="NN">
+    <instance id="Judge-justice-0-122-1" docsrc="Judge">
+      <context> <head>Scotland</head> ===== In the Courts of Scotland judges in the Court of Session , High Court of Justiciary and Sheriff Courts are all addressed as " My Lord " or " My Lady " and referred to as " Your Lordship " or " Your Ladyship " . Justices of the Peace in Justice of the Peace Courts are addressed and referred to as " Your Honour " .</context>
+    </instance>
+    <instance id="Judge-justice-0-144-1" docsrc="Judge">
+      <context> <head>"</head> This is somewhat unusual as " Judge " and " Judge ( name ) " or similar forms of address are considered appropriate and respectful in other courts . The judges of the Supreme Court of the United States , and the judges of the supreme courts of several US states and other countries are called " justices " . Justices of the Supreme Court of the United States and Justices of other courts are addressed as " Justice ( name ) . " The Chief Justice of the United States is formally addressed as " Mr. Chief Justice " but also may be identified and addressed as " Chief Justice ( name ) " .</context>
+    </instance>
+    <instance id="Judge-justice-1-144-2" docsrc="Judge">
+      <context> The <head>judges</head> of the Supreme Court of the United States , and the judges of the supreme courts of several US states and other countries are called " justices " . Justices of the Supreme Court of the United States and Justices of other courts are addressed as " Justice ( name ) . " The Chief Justice of the United States is formally addressed as " Mr. Chief Justice " but also may be identified and addressed as " Chief Justice ( name ) " . The justices of the supreme courts usually hold higher offices than any other judges in a jurisdiction , including a justice of the peace , a judge who holds police court in some jurisdictions and who may also try small claims and misdemeanors .</context>
+    </instance>
+    <instance id="Judge-justice-1-160-1" docsrc="Judge">
+      <context> Outside <head>legal</head> contexts , the formal terms of address are " Judge " ( for puisne justices ) or " Chief Justice " ( for chief justices ) . The title for most puisne judges is " Justice " , which is abbreviated in law reports to a postnominal " J " , in the form " Surname J " . Chief Justices of the High Court and of state Supreme Courts are titled " Chief Justice " , which is abbreviated in law reports to a postnomial " CJ " .</context>
+    </instance>
+    <instance id="Judge-justice-10-114-1" docsrc="Judge">
+      <context> England and Wales ===== Judges of the High Court and <head>Court</head> of Appeal are addressed ( when sitting in those courts ) as " My Lord " or " My Lady " and referred to as " Your Lordship " or " Your Ladyship " . Judges of the Court of Appeal , also called Lords Justice of Appeal , are referred to as " Lord Justice N " or " Lady Justice N. "</context>
+    </instance>
+    <instance id="Judge-justice-10-144-1" docsrc="Judge">
+      <context> " This is somewhat unusual as " Judge " and <head>"</head> Judge ( name ) " or similar forms of address are considered appropriate and respectful in other courts . The judges of the Supreme Court of the United States , and the judges of the supreme courts of several US states and other countries are called " justices " . Justices of the Supreme Court of the United States and Justices of other courts are addressed as " Justice ( name ) . " The Chief Justice of the United States is formally addressed as " Mr. Chief Justice " but also may be identified and addressed as " Chief Justice ( name ) " .</context>
+    </instance>
+    <instance id="Judge-justice-13-136-1" docsrc="Judge">
+      <context> Canada ==== In general , Canadian judges may be addressed directly , depending <head>on</head> the province , as " My Lord " , " My Lady " , " Your Honour " or " Justice " and are formally referred to in the third person as " The Honourable Mr. ( or Madam ) Justice ' Forename Surname ' " . Less formally , judges of a Superior Court are referred to as " Justice ' Surname ' " , not as " Judge ' Surname . ' " When referred to in a decision of a court , judges ' titles are often abbreviated to the suffix " J. " , so that Justice Smith will be referred to as Smith J. Judges in some superior courts are addressed as " My Lord " or " My Lady " .</context>
+    </instance>
+    <instance id="Judge-justice-15-160-1" docsrc="Judge">
+      <context> Outside legal contexts , the formal terms of address are " Judge " ( for <head>puisne</head> justices ) or " Chief Justice " ( for chief justices ) . The title for most puisne judges is " Justice " , which is abbreviated in law reports to a postnominal " J " , in the form " Surname J " . Chief Justices of the High Court and of state Supreme Courts are titled " Chief Justice " , which is abbreviated in law reports to a postnomial " CJ " .</context>
+    </instance>
+    <instance id="Judge-justice-16-159-2" docsrc="Judge">
+      <context> In Australia judges , and since 2007 , magistrates , of all jurisdictions including the High <head>Court</head> of Australia are now addressed as " Your Honour " . In legal contexts , they are referred to as " His/Her Honour " and " the Honourable Justice Surname " ( for judges of superior courts ) or " his/her Honour Judge Surname " ( for inferior courts ) . Outside legal contexts , the formal terms of address are " Judge " ( for puisne justices ) or " Chief Justice " ( for chief justices ) .</context>
+    </instance>
+    <instance id="Judge-justice-16-39-2" docsrc="Judge">
+      <context> ==== Japan ==== In Japan , judges are addressed simply as Saibancho ( 裁判長 , literally <head>"</head> the Chief Justice " ) or Saibankan ( 裁判官 , literally " Judge " ) .</context>
+    </instance>
+    <instance id="Judge-justice-17-159-1" docsrc="Judge">
+      <context> Australia ==== In Australia judges , and since 2007 , magistrates , of all jurisdictions including the <head>High</head> Court of Australia are now addressed as " Your Honour " . In legal contexts , they are referred to as " His/Her Honour " and " the Honourable Justice Surname " ( for judges of superior courts ) or " his/her Honour Judge Surname " ( for inferior courts ) .</context>
+    </instance>
+    <instance id="Judge-justice-17-51-1" docsrc="Judge">
+      <context> In lower courts , judges are addressed as sir , madam or the Urdu equivalent Janab . <head>====</head> Sri Lanka ==== In Sri Lanka , judges of most courts are addressed as Your Honour , however the Chief Justice is addressed as Your Lordship .</context>
+    </instance>
+    <instance id="Judge-justice-18-144-1" docsrc="Judge">
+      <context> " This is somewhat unusual as " Judge " and " Judge ( name ) " or similar <head>forms</head> of address are considered appropriate and respectful in other courts . The judges of the Supreme Court of the United States , and the judges of the supreme courts of several US states and other countries are called " justices " . Justices of the Supreme Court of the United States and Justices of other courts are addressed as " Justice ( name ) . " The Chief Justice of the United States is formally addressed as " Mr. Chief Justice " but also may be identified and addressed as " Chief Justice ( name ) " .</context>
+    </instance>
+    <instance id="Judge-justice-18-163-1" docsrc="Judge">
+      <context> Judges in State Supreme Courts with a separate Court of Appeal division ( New South Wales , Victoria <head>,</head> Queensland and Western Australia ) are referred to as Justices/Judges of the Appeal ( abbreviated " Surname JA " ) , while the President of the Court of Appeal is referred to as " President " ( abbreviated " Surname P " ) . ==== New Zealand ==== In New Zealand , judges of the High Court and above are referred to as " His/Her Honour Justice Surname " in speech , and " Surname J " in writing .</context>
+    </instance>
+    <instance id="Judge-justice-18-31-6" docsrc="Judge">
+      <context> Explaining the rationale behind the move , the Bar Council had held that the words such as My <head>Lord</head> and Your Lordship were " relics of the colonial past " . The resolution has since been circulated to all state councils and the Supreme Court for adoption but over five years now , the resolution largely remained on paper . However , in an unprecedented move in October 2009 , one of the judges of Madras HC , Justice K Chandru had banned lawyers from addressing his court as My Lord and Your Lordship .</context>
+    </instance>
+    <instance id="Judge-justice-19-145-3" docsrc="Judge">
+      <context> However , the state of New York inverts this usual order . The initial trial court in this state <head>is</head> called the Supreme Court of New York , and its judges are called " justices " . The next highest appellate court is the Supreme Court , Appellate Division , whose judges are also called " justices " .</context>
+    </instance>
+    <instance id="Judge-justice-20-114-1" docsrc="Judge">
+      <context> England and Wales ===== Judges of the High Court and Court of Appeal are addressed ( when sitting in those <head>courts</head> ) as " My Lord " or " My Lady " and referred to as " Your Lordship " or " Your Ladyship " . Judges of the Court of Appeal , also called Lords Justice of Appeal , are referred to as " Lord Justice N " or " Lady Justice N. "</context>
+    </instance>
+    <instance id="Judge-justice-20-144-2" docsrc="Judge">
+      <context> The judges of the Supreme Court of the United States , and the judges of the supreme courts of several <head>US</head> states and other countries are called " justices " . Justices of the Supreme Court of the United States and Justices of other courts are addressed as " Justice ( name ) . " The Chief Justice of the United States is formally addressed as " Mr. Chief Justice " but also may be identified and addressed as " Chief Justice ( name ) " . The justices of the supreme courts usually hold higher offices than any other judges in a jurisdiction , including a justice of the peace , a judge who holds police court in some jurisdictions and who may also try small claims and misdemeanors .</context>
+    </instance>
+    <instance id="Judge-justice-21-159-2" docsrc="Judge">
+      <context> In Australia judges , and since 2007 , magistrates , of all jurisdictions including the High Court of Australia are now <head>addressed</head> as " Your Honour " . In legal contexts , they are referred to as " His/Her Honour " and " the Honourable Justice Surname " ( for judges of superior courts ) or " his/her Honour Judge Surname " ( for inferior courts ) . Outside legal contexts , the formal terms of address are " Judge " ( for puisne justices ) or " Chief Justice " ( for chief justices ) .</context>
+    </instance>
+    <instance id="Judge-justice-22-145-2" docsrc="Judge">
+      <context> The justices of the supreme courts usually hold higher offices than any other judges in a jurisdiction , including a justice of <head>the</head> peace , a judge who holds police court in some jurisdictions and who may also try small claims and misdemeanors . However , the state of New York inverts this usual order . The initial trial court in this state is called the Supreme Court of New York , and its judges are called " justices " .</context>
+    </instance>
+    <instance id="Judge-justice-26-114-1" docsrc="Judge">
+      <context> England and Wales ===== Judges of the High Court and Court of Appeal are addressed ( when sitting in those courts ) as " My Lord <head>"</head> or " My Lady " and referred to as " Your Lordship " or " Your Ladyship " . Judges of the Court of Appeal , also called Lords Justice of Appeal , are referred to as " Lord Justice N " or " Lady Justice N. "</context>
+    </instance>
+    <instance id="Judge-justice-26-144-1" docsrc="Judge">
+      <context> " This is somewhat unusual as " Judge " and " Judge ( name ) " or similar forms of address are considered appropriate and respectful <head>in</head> other courts . The judges of the Supreme Court of the United States , and the judges of the supreme courts of several US states and other countries are called " justices " . Justices of the Supreme Court of the United States and Justices of other courts are addressed as " Justice ( name ) . " The Chief Justice of the United States is formally addressed as " Mr. Chief Justice " but also may be identified and addressed as " Chief Justice ( name ) " .</context>
+    </instance>
+    <instance id="Judge-justice-26-159-2" docsrc="Judge">
+      <context> In Australia judges , and since 2007 , magistrates , of all jurisdictions including the High Court of Australia are now addressed as " Your Honour <head>"</head> . In legal contexts , they are referred to as " His/Her Honour " and " the Honourable Justice Surname " ( for judges of superior courts ) or " his/her Honour Judge Surname " ( for inferior courts ) . Outside legal contexts , the formal terms of address are " Judge " ( for puisne justices ) or " Chief Justice " ( for chief justices ) .</context>
+    </instance>
+    <instance id="Judge-justice-27-74-2" docsrc="Judge">
+      <context> ==== Ireland ==== Judges of the Supreme Court or High Court are officially titled The Honourable Mr , The Honourable Mrs , The Honourable Ms , or <head>The</head> Honourable Miss Justice ; referred to for short as Mr Justice , Mrs Justice , Ms Justice , or Miss Justice ; and addressed in court by their respective titles or styles , as The Court , or simply Judge .</context>
+    </instance>
+    <instance id="Judge-justice-28-143-3" docsrc="Judge">
+      <context> Notably , the Superior Court of Los Angeles County , the largest unified trial court in the United States , has a rule that the judge shall be <head>addressed</head> only as " Your Honor , " and never as " Judge , " " Judge ( name ) , " " ma'am , " or " sir . " This is somewhat unusual as " Judge " and " Judge ( name ) " or similar forms of address are considered appropriate and respectful in other courts . The judges of the Supreme Court of the United States , and the judges of the supreme courts of several US states and other countries are called " justices " .</context>
+    </instance>
+    <instance id="Judge-justice-32-135-2" docsrc="Judge">
+      <context> ==== Canada ==== In general , Canadian judges may be addressed directly , depending on the province , as " My Lord " , " My Lady " , " Your Honour <head>"</head> or " Justice " and are formally referred to in the third person as " The Honourable Mr. ( or Madam ) Justice ' Forename Surname ' " .</context>
+    </instance>
+    <instance id="Judge-justice-32-136-2" docsrc="Judge">
+      <context> In general , Canadian judges may be addressed directly , depending on the province , as " My Lord " , " My Lady " , " Your Honour " or " <head>Justice</head> " and are formally referred to in the third person as " The Honourable Mr. ( or Madam ) Justice ' Forename Surname ' " . Less formally , judges of a Superior Court are referred to as " Justice ' Surname ' " , not as " Judge ' Surname . ' " When referred to in a decision of a court , judges ' titles are often abbreviated to the suffix " J. " , so that Justice Smith will be referred to as Smith J. Judges in some superior courts are addressed as " My Lord " or " My Lady " . In Ontario , judges are never referred to as " My Lord " or " My Lady , " but only as " Your Honour " at the Ontario Superior Court of Justice .</context>
+    </instance>
+    <instance id="Judge-justice-35-74-2" docsrc="Judge">
+      <context> ==== Ireland ==== Judges of the Supreme Court or High Court are officially titled The Honourable Mr , The Honourable Mrs , The Honourable Ms , or The Honourable Miss Justice ; referred to for <head>short</head> as Mr Justice , Mrs Justice , Ms Justice , or Miss Justice ; and addressed in court by their respective titles or styles , as The Court , or simply Judge .</context>
+    </instance>
+    <instance id="Judge-justice-38-144-1" docsrc="Judge">
+      <context> " This is somewhat unusual as " Judge " and " Judge ( name ) " or similar forms of address are considered appropriate and respectful in other courts . The judges of the Supreme Court of the <head>United</head> States , and the judges of the supreme courts of several US states and other countries are called " justices " . Justices of the Supreme Court of the United States and Justices of other courts are addressed as " Justice ( name ) . " The Chief Justice of the United States is formally addressed as " Mr. Chief Justice " but also may be identified and addressed as " Chief Justice ( name ) " .</context>
+    </instance>
+    <instance id="Judge-justice-38-74-2" docsrc="Judge">
+      <context> ==== Ireland ==== Judges of the Supreme Court or High Court are officially titled The Honourable Mr , The Honourable Mrs , The Honourable Ms , or The Honourable Miss Justice ; referred to for short as Mr <head>Justice</head> , Mrs Justice , Ms Justice , or Miss Justice ; and addressed in court by their respective titles or styles , as The Court , or simply Judge .</context>
+    </instance>
+    <instance id="Judge-justice-41-74-2" docsrc="Judge">
+      <context> ==== Ireland ==== Judges of the Supreme Court or High Court are officially titled The Honourable Mr , The Honourable Mrs , The Honourable Ms , or The Honourable Miss Justice ; referred to for short as Mr Justice , Mrs <head>Justice</head> , Ms Justice , or Miss Justice ; and addressed in court by their respective titles or styles , as The Court , or simply Judge .</context>
+    </instance>
+    <instance id="Judge-justice-41-85-2" docsrc="Judge">
+      <context> ==== Netherlands ==== In the Netherlands , presiding judges of either sex are , in writing only , addressed edelachtbare ( " Your Honor " ) for judges in the Court of First Instance , edelgrootachtbare ( " Your Great Honor <head>"</head> ) for justices in the Court of Appeal and edelhoogachtbare ( " Your High Honor " ) for justices in the High Council of the Netherlands ( Supreme Court ) .</context>
+    </instance>
+    <instance id="Judge-justice-45-74-2" docsrc="Judge">
+      <context> ==== Ireland ==== Judges of the Supreme Court or High Court are officially titled The Honourable Mr , The Honourable Mrs , The Honourable Ms , or The Honourable Miss Justice ; referred to for short as Mr Justice , Mrs Justice , Ms Justice <head>,</head> or Miss Justice ; and addressed in court by their respective titles or styles , as The Court , or simply Judge .</context>
+    </instance>
+    <instance id="Judge-justice-48-136-3" docsrc="Judge">
+      <context> Less formally , judges of a Superior Court are referred to as " Justice ' Surname ' " , not as " Judge ' Surname . ' " When referred to in a decision of a court , judges ' titles are often abbreviated to the suffix " <head>J.</head> " , so that Justice Smith will be referred to as Smith J. Judges in some superior courts are addressed as " My Lord " or " My Lady " . In Ontario , judges are never referred to as " My Lord " or " My Lady , " but only as " Your Honour " at the Ontario Superior Court of Justice . Generally , it is only appropriate to use the term " judge " when speaking of an anonymous or general position , such as " the trial judge , " or when referring to a member of an inferior or provincial court such as the Ontario Court of Justice .</context>
+    </instance>
+    <instance id="Judge-justice-5-115-1" docsrc="Judge">
+      <context> Judges of the High Court <head>and</head> Court of Appeal are addressed ( when sitting in those courts ) as " My Lord " or " My Lady " and referred to as " Your Lordship " or " Your Ladyship " . Judges of the Court of Appeal , also called Lords Justice of Appeal , are referred to as " Lord Justice N " or " Lady Justice N. " In legal writing , Lords Justices of Appeal are afforded the post nominal letters " LJ : " for example , Smith LJ.</context>
+    </instance>
+    <instance id="Judge-justice-5-122-1" docsrc="Judge">
+      <context> Scotland ===== In the Courts <head>of</head> Scotland judges in the Court of Session , High Court of Justiciary and Sheriff Courts are all addressed as " My Lord " or " My Lady " and referred to as " Your Lordship " or " Your Ladyship " . Justices of the Peace in Justice of the Peace Courts are addressed and referred to as " Your Honour " .</context>
+    </instance>
+    <instance id="Judge-justice-5-174-1" docsrc="Judge">
+      <context> Judges sitting in the higher <head>courts</head> ( Supremo Tribunal Federal , Superior Tribunal de Justiça , Tribunal Superior do Trabalho , Superior Tribunal Militar and Tribunal Superior Eleitoral ) are called " ministro " or " ministra " ( male and female forms of " minister " ) and also referred to as " Vossa Excelência " . === International courts === At the International Court of Justice , judges may be addressed by the titles they received in their countries of origin .</context>
+    </instance>
+    <instance id="Judge-justice-50-144-1" docsrc="Judge">
+      <context> " This is somewhat unusual as " Judge " and " Judge ( name ) " or similar forms of address are considered appropriate and respectful in other courts . The judges of the Supreme Court of the United States , and the judges of the supreme courts of several <head>US</head> states and other countries are called " justices " . Justices of the Supreme Court of the United States and Justices of other courts are addressed as " Justice ( name ) . " The Chief Justice of the United States is formally addressed as " Mr. Chief Justice " but also may be identified and addressed as " Chief Justice ( name ) " .</context>
+    </instance>
+    <instance id="Judge-justice-52-135-2" docsrc="Judge">
+      <context> ==== Canada ==== In general , Canadian judges may be addressed directly , depending on the province , as " My Lord " , " My Lady " , " Your Honour " or " Justice " and are formally referred to in the third person as " The Honourable Mr. ( <head>or</head> Madam ) Justice ' Forename Surname ' " .</context>
+    </instance>
+    <instance id="Judge-justice-53-136-1" docsrc="Judge">
+      <context> Canada ==== In general , Canadian judges may be addressed directly , depending on the province , as " My Lord " , " My Lady " , " Your Honour " or " Justice " and are formally referred to in the third person as " The Honourable Mr. ( or Madam <head>)</head> Justice ' Forename Surname ' " . Less formally , judges of a Superior Court are referred to as " Justice ' Surname ' " , not as " Judge ' Surname . ' " When referred to in a decision of a court , judges ' titles are often abbreviated to the suffix " J. " , so that Justice Smith will be referred to as Smith J. Judges in some superior courts are addressed as " My Lord " or " My Lady " .</context>
+    </instance>
+    <instance id="Judge-justice-57-85-2" docsrc="Judge">
+      <context> ==== Netherlands ==== In the Netherlands , presiding judges of either sex are , in writing only , addressed edelachtbare ( " Your Honor " ) for judges in the Court of First Instance , edelgrootachtbare ( " Your Great Honor " ) for justices in the Court of Appeal and edelhoogachtbare ( " Your High Honor <head>"</head> ) for justices in the High Council of the Netherlands ( Supreme Court ) .</context>
+    </instance>
+    <instance id="Judge-justice-6-75-2" docsrc="Judge">
+      <context> Judges of the Supreme Court or <head>High</head> Court are officially titled The Honourable Mr , The Honourable Mrs , The Honourable Ms , or The Honourable Miss Justice ; referred to for short as Mr Justice , Mrs Justice , Ms Justice , or Miss Justice ; and addressed in court by their respective titles or styles , as The Court , or simply Judge . Some barristers continue occasionally to use the traditional mode of style , My Lord , but this has been discouraged since 2006 . In law reports , the Chief Justice of Ireland has the postnominal CJ , the President of the High Court the postnominal P , and all other judges J , e.g. Smith J.</context>
+    </instance>
+    <instance id="Judge-justice-7-191-1" docsrc="Judge">
+      <context> The same word is , however , <head>used</head> in contemporary Israel to denote judges whose function and authority is similar to that in other modern countries . State of California Commission of Judicial Performance CEPEJ European commission for the efficiency of justice .</context>
+    </instance>
+    <instance id="Judge-justice-8-137-2" docsrc="Judge">
+      <context> Generally , it is only appropriate to use <head>the</head> term " judge " when speaking of an anonymous or general position , such as " the trial judge , " or when referring to a member of an inferior or provincial court such as the Ontario Court of Justice . The exception is Citizenship Judges who are referred to only as " Judge ' Surname . ' " in accordance with their appointment as independent decision makers of the Citizenship Commission . Like other members of the Commonwealth , a justice of the peace is addressed as " Your Worship , " and a Master of a Superior Court is both addressed and referred to as " Master . "</context>
+    </instance>
+    <instance id="Judge-justice-8-159-3" docsrc="Judge">
+      <context> In legal contexts , they are referred to <head>as</head> " His/Her Honour " and " the Honourable Justice Surname " ( for judges of superior courts ) or " his/her Honour Judge Surname " ( for inferior courts ) . Outside legal contexts , the formal terms of address are " Judge " ( for puisne justices ) or " Chief Justice " ( for chief justices ) . The title for most puisne judges is " Justice " , which is abbreviated in law reports to a postnominal " J " , in the form " Surname J " .</context>
+    </instance>
+    <instance id="Judge-justice-8-77-1" docsrc="Judge">
+      <context> In law reports , Judge . Judges of <head>the</head> District Court are titled Judge and addressed in Court as Judge . Before 1991 these judges were known as district justices and addressed as Your Worship .</context>
+    </instance>
+    <instance id="Judge-justice-9-164-2" docsrc="Judge">
+      <context> In New Zealand , judges of the High Court <head>and</head> above are referred to as " His/Her Honour Justice Surname " in speech , and " Surname J " in writing . Judges of the District Court and the other statutory courts are referred to as " His/Her Honour Judge Surname " in speech , and " Surname DCJ " or " Judge Surname " in writing . The " Mr " of the title " Mr Justice " was dropped on the appointment of Cartwright J to the High Court .</context>
+    </instance>
+    <instance id="United_States_Department_of_Justice-justice-3-7-2" docsrc="United_States_Department_of_Justice">
+      <context> A second bill <head>was</head> introduced to Congress by Rhode Island Representative Thomas Jenckes on February 25 , 1870 , and both the Senate and House passed the bill . President Ulysses S. Grant then signed the bill into law on June 22 , 1870 . The Department of Justice officially began operations on July 1 , 1870 .</context>
+    </instance>
+    <instance id="br-g01#w382_0" docsrc="br-g01">
+      <context> When I question them as_to what they mean by concepts like liberty and democracy , I find that they fall_into two categories : the simpler ones who have simply accepted the shibboleths of their faith without analysis ; and the intelligent , cynical ones who scornfully reply that these things do n't count any_more in the world of to-day . I am naive , they say , to make use of such words . I take this to mean that the intelligent - and therefore necessarily cynical ? - liberal considers that the need for a national economy with controls that will assure his conception of social <head>justice</head> is so great that individual and local liberties as_well_as democratic processes may have to yield before it . This seems like an attitude favoring a sort of totalitarian bureaucracy which , under a President of the same stamp , would try to coerce an uncooperative Congress or Supreme_Court . As for states ' rights , they have never counted in the thinking of my liberal friends except as irritations of a minor and immoral nature which exist now only as anachronisms . The American liberal may , in the world of to-day , have a strong case ; but he presents it publicly so enmeshed in hypocrisy that it is not an honest one .</context>
+    </instance>
+    <instance id="br-j55#w1280_0" docsrc="br-j55">
+      <context> And the law virtually ignored the situation . The judge became ill just as the Colfax_District_Court convened , no substitute was brought_in , no criminal cases heard , only 5 out of 122 cases docketed were tried , and court adjourned sine_die after sitting a_few days instead_of the usual three weeks . Pels complained : `` Litigants and witnesses were put to the expense and inconvenience of going long distances to transact business ; public money spent ; <head>justice</head> delayed ; nothing accomplished , and the whole distribution of justice in this county seems to be an absolute farce '' . Word reached the company that the man behind these depredations was Manuel_Gonzales , a man with many followers , including a number who were kept in line through fear of him . Although wanted by the sheriff for killing an old_man named Asher_Jones , the warrant for his arrest had never been served . On May 19 , a deputy_sheriff 's posse of eight men left Maxwell_City and rode thirty-five miles up the Vermejo where they were joined by Juan_Jose_Martinez .</context>
+    </instance>
+    <instance id="br-j55#w75_0" docsrc="br-j55">
+      <context> Cook had discovered a beef in his possession a_few days earlier and , when he could not show the hide , arrested him . Thinking the evidence insufficient to get a conviction , he later released him . Even while suffering the trip to his home , Cook swore to Moore and Lane that he would kill the Indian . Three weeks later following his recovery , armed with a writ issued by the Catskill <head>justice</head> on affidavits prepared by the district_attorney , Cook and Russell rode to arrest Martinez . Arriving at daybreak , they found Julio in his corral and demanded that he surrender . Instead , he whirled and ran to his house for a gun forcing them to kill him , Cook reported . Both Cook 's and Russell 's lives were threatened by the Mexicans following the killing , but the company officers felt that in_the_end , it would serve to quiet them despite their immediate emotion .</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="rape.n" pos="NN">
+    <instance id="n00422719_d_4" docsrc="n00422719_d">
+      <context> blunt or penetrating_trauma or <head>rape</head> ( vaginal or anal ) ;</context>
+    </instance>
+    <instance id="n00773673_d_0" docsrc="n00773673_d">
+      <context> <head>rape</head> in which the rapist is known to the victim ( as when they are on a date together ) ;</context>
+    </instance>
+    <instance id="n01194125_d_2" docsrc="n01194125_d">
+      <context> conviction for <head>rape</head> ;</context>
+    </instance>
+    <instance id="n03414814_d_28" docsrc="n03414814_d">
+      <context> a club_drug available in liquid or powder form is taken orally ( frequently combined with alcohol ) ; used to incapacitate individuals for the commission of sexual_assault and <head>rape</head> ;</context>
+    </instance>
+    <instance id="n03785843_d_29" docsrc="n03785843_d">
+      <context> a large dose of estrogen taken orally within 24 to 72 hours after intercourse ; prevents implantation of a fertilized_ovum and so acts_as a contraceptive ; commonly used after <head>rape</head> or incest ;</context>
+    </instance>
+    <instance id="n09601219_d_23" docsrc="n09601219_d">
+      <context> a queen of Sparta who was raped by Zeus who had taken the form of a swan ; Helen_of_Troy was conceived in the <head>rape</head> of Leda ;</context>
+    </instance>
+    <instance id="n10507380_d_6" docsrc="n10507380_d">
+      <context> someone who is suspected of committing <head>rape</head> ;</context>
+    </instance>
+    <instance id="n11879895_d_2" docsrc="n11879895_d">
+      <context> seed of <head>rape</head> plants ; source of an edible oil ;</context>
+    </instance>
+  </lexelt>
+</corpus>

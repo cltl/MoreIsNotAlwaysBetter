@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="sulfur.n" pos="NN">
+    <instance id="br-j06#w672_0" docsrc="br-j06">
+      <context> The silver_chloride was fused under vacuum in the presence of aluminum chips with the resultant product of * * f which was sublimed into a flask on the vacuum line . Previously purified chlorine was subsequently admitted and the exchange was allowed to take_place . The radiochlorine was stored at_- 78 ` in a tube equipped with a break_seal . Liter quantities of Mallinckrodt , low <head>sulfur</head> , reagent grade carbon_tetrachloride were saturated with * * f and * * f and illuminated for about 50 hours with a 1000 watt tungsten lamp at a distance of a_few inches . The mixture was then extracted with alkali and with water following which the carbon_tetrachloride was distilled on a Vigreux column , a 25 % center cut being retained which was then degassed under vacuum in the presence of * * f . Purified inactive chlorine was then added from one of the tubes described above and the mixture frozen_out and sealed_off in a flask equipped with a break_seal . This chlorine carbon_tetrachloride solution was illuminated for a day following which the flask was resealed onto a vacuum system and the excess chlorine distilled off .</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="uproar.n" pos="NN">
+    <instance id="br-p24#w221_0" docsrc="br-p24">
+      <context> `` You bastard '' ! the Anniston catcher screamed . He jumped_to_his_feet and started to throw punches . Mike_Deegan tossed his glove away and began to swing at the catcher . This brought in everybody from both sides , while the spectators stood_up and added to the <head>uproar</head> . The fighters were separated in a_few minutes . The game was resumed . But Mike_Deegan was boiling mad now .</context>
+    </instance>
+  </lexelt>
+</corpus>

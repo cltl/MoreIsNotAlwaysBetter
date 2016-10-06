@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="culpability.n" pos="n">
+    <instance id="Culpability-culpability-0-0-1" docsrc="Culpability">
+      <context> <head>Culpability</head> , or being culpable , is a measure of the degree to which an agent , such as a person , can be held morally or legally responsible for action and inaction . Culpability marks the dividing line between moral evil , like murder , for which someone may be held legally responsible and a randomly occurring event , like earthquakes , for which no human can be held responsible .</context>
+    </instance>
+    <instance id="Culpability-culpability-0-5-1" docsrc="Culpability">
+      <context> <head>(</head> 2 ) the act and its consequences could have been controlled ( i.e. , the agent knew the likely consequences , the agent was not coerced , and the agent overcame hurdles to make the event happen ) ; and ( 3 ) the person provided no excuse or justification for the actions . Culpability descends from the Latin concept of fault ( culpa ) .</context>
+    </instance>
+    <instance id="Culpability-culpability-13-11-2" docsrc="Culpability">
+      <context> From a legal perspective , culpability describes the degree of one 's blameworthiness <head>in</head> the commission of a crime or offense . Except for strict liability crimes , the type and severity of punishment often follow the degree of culpability . " Culpability means , first and foremost , direct involvement in the wrongdoing , such as through participation or instruction " , as compared with responsibility merely arising from " failure to supervise or to maintain adequate controls or ethical culture " . Modern criminal codes in the United States usually make distinct four degrees of culpability .</context>
+    </instance>
+    <instance id="Culpability-culpability-14-7-2" docsrc="Culpability">
+      <context> Culpability descends from the Latin concept of fault ( culpa ) . The concept <head>of</head> culpability is intimately tied up with notions of agency , freedom , and free will . All are commonly held to be necessary , but not sufficient , conditions for culpability .</context>
+    </instance>
+    <instance id="Culpability-culpability-17-11-1" docsrc="Culpability">
+      <context> All are commonly held to be necessary , but not sufficient , conditions for culpability . From <head>a</head> legal perspective , culpability describes the degree of one 's blameworthiness in the commission of a crime or offense . Except for strict liability crimes , the type and severity of punishment often follow the degree of culpability . " Culpability means , first and foremost , direct involvement in the wrongdoing , such as through participation or instruction " , as compared with responsibility merely arising from " failure to supervise or to maintain adequate controls or ethical culture " .</context>
+    </instance>
+    <instance id="Culpability-culpability-20-11-1" docsrc="Culpability">
+      <context> All are commonly held to be necessary , but not sufficient , conditions for culpability . From a legal perspective <head>,</head> culpability describes the degree of one 's blameworthiness in the commission of a crime or offense . Except for strict liability crimes , the type and severity of punishment often follow the degree of culpability . " Culpability means , first and foremost , direct involvement in the wrongdoing , such as through participation or instruction " , as compared with responsibility merely arising from " failure to supervise or to maintain adequate controls or ethical culture " .</context>
+    </instance>
+    <instance id="Culpability-culpability-3-31-1" docsrc="Culpability">
+      <context> If someone acts <head>knowingly</head> , they also act recklessly . The definitions of specific crimes refer to these degrees to establish the mens rea ( mental state ) necessary for a person to be guilty of a crime . The stricter the culpability requirements , the harder it is for the prosecution to prove its case .</context>
+    </instance>
+    <instance id="Culpability-culpability-3-7-1" docsrc="Culpability">
+      <context> ( 3 ) <head>the</head> person provided no excuse or justification for the actions . Culpability descends from the Latin concept of fault ( culpa ) . The concept of culpability is intimately tied up with notions of agency , freedom , and free will .</context>
+    </instance>
+    <instance id="Culpability-culpability-5-29-1" docsrc="Culpability">
+      <context> A person causes a result <head>recklessly</head> if he/she is aware of and disregards a substantial and unjustifiable risk of the result occurring from the action , and A person causes a result negligently if there is a substantial and unjustifiable risk he/she is unaware of but should be aware of . The first two types of culpability are each a subset of the following .</context>
+    </instance>
+    <instance id="Culpability-culpability-5-7-3" docsrc="Culpability">
+      <context> The concept of culpability is <head>intimately</head> tied up with notions of agency , freedom , and free will . All are commonly held to be necessary , but not sufficient , conditions for culpability . From a legal perspective , culpability describes the degree of one 's blameworthiness in the commission of a crime or offense .</context>
+    </instance>
+    <instance id="Culpability-culpability-50-33-2" docsrc="Culpability">
+      <context> There is one more type of culpability , and that is strict liability . In strict liability crimes , the actor is responsible no matter what his mental state ; if the result occurs , the actor is liable . An example is the felony murder rule : if the <head>prosecution</head> proves beyond reasonable doubt that one commits a qualifying felony ( see the article ) during which death results , one is held strictly liable for murder and the prosecution does not have to prove any of the normal culpability requirements for murder .</context>
+    </instance>
+    <instance id="Culpability-culpability-6-32-5" docsrc="Culpability">
+      <context> Thus to be guilty of this <head>one</head> only needs to be aware of a substantial risk he is putting others in danger of ; it does not have to be one 's explicit goal to put people in risk . ( But , if one 's goal is to put others in substantial risk of death or serious bodily injury , this is , of course , sufficient . ) There is one more type of culpability , and that is strict liability .</context>
+    </instance>
+  </lexelt>
+</corpus>

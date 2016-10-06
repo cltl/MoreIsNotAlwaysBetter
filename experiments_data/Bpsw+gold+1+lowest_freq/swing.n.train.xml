@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="swing.n" pos="NN">
+    <instance id="Swing_(jazz_performance_style)-swing-7-3-1" docsrc="Swing_(jazz_performance_style)">
+      <context> If a jazz musician states that an <head>ensemble</head> performance is " really swinging , " this suggests that the performers are playing with a special degree of rhythmic coherence and " feel . " Although referring to a " sense of swing " is often done in the context of ensemble performances ( e.g. a jazz combo or band ) , even an unaccompanied soloist can be said to be performing with " swing . "</context>
+    </instance>
+    <instance id="n00136230_d_6" docsrc="n00136230_d">
+      <context> a hook delivered with an exaggerated <head>swing</head> ;</context>
+    </instance>
+    <instance id="n00571956_d_1" docsrc="n00571956_d">
+      <context> a <head>swing</head> downward of a golf_club ;</context>
+    </instance>
+    <instance id="n03386544_d_16" docsrc="n03386544_d">
+      <context> pendulum with a long wire ; can swing in any direction ; the change in the <head>swing</head> plane demonstrates the earth's rotation ;</context>
+    </instance>
+    <instance id="n04475411_d_1" docsrc="n04475411_d">
+      <context> a <head>swing</head> used by circus_acrobats ;</context>
+    </instance>
+    <instance id="n11007332_d_23" docsrc="n11007332_d">
+      <context> United_States clarinetist who in 1934 formed a big_band ( including black as_well as white musicians ) and introduced a kind of jazz known_as <head>swing</head> ;</context>
+    </instance>
+    <instance id="n14009946_ex1_5" docsrc="n14009946_ex1">
+      <context> the party went with a <head>swing</head> ;</context>
+    </instance>
+    <instance id="n14009946_ex2_7" docsrc="n14009946_ex2">
+      <context> it took time to get into the <head>swing</head> of things ;</context>
+    </instance>
+    <instance id="r00445374_d_5" docsrc="r00445374_d">
+      <context> with an outward or horizontal <head>swing</head> of the arm ;</context>
+    </instance>
+    <instance id="v01407059_d_13" docsrc="v01407059_d">
+      <context> hit in the direction that the player is facing when carrying through the <head>swing</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

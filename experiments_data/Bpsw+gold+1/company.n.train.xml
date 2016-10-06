@@ -1,0 +1,776 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="company.n" pos="NN">
+    <instance id="Company-company-0-0-1" docsrc="Company">
+      <context> <head>A</head> company is an association or collection of individuals , whether natural persons , legal persons , or a mixture of both . Company members share a common purpose and unite in order to focus their various talents and organize their collectively available skills or resources to achieve specific , declared goals .</context>
+    </instance>
+    <instance id="Company-company-0-0-2" docsrc="Company">
+      <context> <head>A</head> company is an association or collection of individuals , whether natural persons , legal persons , or a mixture of both . Company members share a common purpose and unite in order to focus their various talents and organize their collectively available skills or resources to achieve specific , declared goals . Companies take various forms such as :</context>
+    </instance>
+    <instance id="Company-company-0-40-1" docsrc="Company">
+      <context> <head>In</head> this case doctrine of veil of incorporation does not apply . Less common types of companies are : Companies formed by letters patent .</context>
+    </instance>
+    <instance id="Company-company-0-45-5" docsrc="Company">
+      <context> <head>Some</head> offshore jurisdictions have created special forms of offshore company in a bid to attract business for their jurisdictions . Examples include " segregated portfolio companies " and restricted purpose companies . Companies are also sometimes distinguished for legal and regulatory purposes between public companies and private companies .</context>
+    </instance>
+    <instance id="Company-company-1-18-2" docsrc="Company">
+      <context> In <head>English</head> law and in legal jurisdictions based upon it , a company is a body corporate or corporation company registered under the Companies Acts or similar legislation . Common forms include : Private companies limited by guarantee</context>
+    </instance>
+    <instance id="Company-company-1-4-1" docsrc="Company">
+      <context> Business <head>entities</head> with an aim of gaining a profit Financial entities and banks A company or association of persons can be created at law as legal person so that the company in itself can accept Limited liability for civil responsibility and taxation incurred as members perform ( or fail ) to discharge their duty within the publicly declared " birth certificate " or published policy .</context>
+    </instance>
+    <instance id="Company-company-1-42-3" docsrc="Company">
+      <context> Before <head>the</head> passing of modern companies legislation , these were the only types of companies . Now they are relatively rare , except for very old companies that still survive ( of which there are still many , particularly many British banks ) , or modern societies that fulfill a quasi regulatory function ( for example , the Bank of England is a corporation formed by a modern charter ) . Statutory Companies .</context>
+    </instance>
+    <instance id="Company-company-1-47-1" docsrc="Company">
+      <context> Examples <head>include</head> " segregated portfolio companies " and restricted purpose companies . Companies are also sometimes distinguished for legal and regulatory purposes between public companies and private companies . Public companies are companies whose shares can be publicly traded , often ( although not always ) on a stock exchange which imposes listing requirements/Listing Rules as to the issued shares , the trading of shares and future issue of shares to help bolster the reputation of the exchange or particular market of an exchange .</context>
+    </instance>
+    <instance id="Company-company-1-47-2" docsrc="Company">
+      <context> Companies <head>are</head> also sometimes distinguished for legal and regulatory purposes between public companies and private companies . Public companies are companies whose shares can be publicly traded , often ( although not always ) on a stock exchange which imposes listing requirements/Listing Rules as to the issued shares , the trading of shares and future issue of shares to help bolster the reputation of the exchange or particular market of an exchange . Private companies do not have publicly traded shares , and often contain restrictions on transfers of shares .</context>
+    </instance>
+    <instance id="Company-company-1-5-1" docsrc="Company">
+      <context> Financial <head>entities</head> and banks A company or association of persons can be created at law as legal person so that the company in itself can accept Limited liability for civil responsibility and taxation incurred as members perform ( or fail ) to discharge their duty within the publicly declared " birth certificate " or published policy . Because companies are legal persons , they also may associate and register themselves as companies – often known as a corporate group .</context>
+    </instance>
+    <instance id="Company-company-1-6-2" docsrc="Company">
+      <context> Because <head>companies</head> are legal persons , they also may associate and register themselves as companies – often known as a corporate group . When the company closes it may need a " death certificate " to avoid further legal obligations . A company can be defined as an " artificial person " , invisible , intangible , created by or under law , with a discrete legal entity , perpetual succession and a common seal .</context>
+    </instance>
+    <instance id="Company-company-10-19-1" docsrc="Company">
+      <context> Common forms include : Private companies limited by guarantee In <head>the</head> United Kingdom a partnership is not legally a company , but may sometimes be referred to informally as a company .</context>
+    </instance>
+    <instance id="Company-company-10-41-1" docsrc="Company">
+      <context> Less common types of companies are : Companies formed by <head>letters</head> patent . Most corporations by letters patent are corporations sole and not companies as the term is commonly understood today .</context>
+    </instance>
+    <instance id="Company-company-10-42-2" docsrc="Company">
+      <context> Charter corporations . Before the passing of modern companies legislation <head>,</head> these were the only types of companies . Now they are relatively rare , except for very old companies that still survive ( of which there are still many , particularly many British banks ) , or modern societies that fulfill a quasi regulatory function ( for example , the Bank of England is a corporation formed by a modern charter ) .</context>
+    </instance>
+    <instance id="Company-company-10-45-4" docsrc="Company">
+      <context> In a company limited by guarantee , this will be <head>the</head> guarantors . Some offshore jurisdictions have created special forms of offshore company in a bid to attract business for their jurisdictions . Examples include " segregated portfolio companies " and restricted purpose companies .</context>
+    </instance>
+    <instance id="Company-company-10-52-1" docsrc="Company">
+      <context> The definition of a parent company differs by jurisdiction , <head>with</head> the definition normally being defined by way of laws dealing with companies in that jurisdiction . The following table illustrates companies by size and country of origin . All the values have been publicly revealed in the respective company annual report and are recorded as of 2014 .</context>
+    </instance>
+    <instance id="Company-company-11-43-2" docsrc="Company">
+      <context> Statutory Companies . Relatively rare today , certain companies have been <head>formed</head> by a private statute passed in the relevant jurisdiction . Note that " Ltd after the company 's name signifies limited company , and PLC ( public limited company ) indicates that its shares are widely held . "</context>
+    </instance>
+    <instance id="Company-company-12-17-1" docsrc="Company">
+      <context> Usage of company to mean " business association " was first recorded <head>in</head> 1553 , and the abbreviation " co. " dates from 1769 . === United Kingdom === In English law and in legal jurisdictions based upon it , a company is a body corporate or corporation company registered under the Companies Acts or similar legislation .</context>
+    </instance>
+    <instance id="Company-company-12-45-5" docsrc="Company">
+      <context> Some offshore jurisdictions have created special forms of offshore company in a <head>bid</head> to attract business for their jurisdictions . Examples include " segregated portfolio companies " and restricted purpose companies . Companies are also sometimes distinguished for legal and regulatory purposes between public companies and private companies .</context>
+    </instance>
+    <instance id="Company-company-14-42-1" docsrc="Company">
+      <context> Most corporations by letters patent are corporations sole and not companies as the term <head>is</head> commonly understood today . Charter corporations . Before the passing of modern companies legislation , these were the only types of companies .</context>
+    </instance>
+    <instance id="Company-company-14-5-1" docsrc="Company">
+      <context> Financial entities and banks A company or association of persons can be created at <head>law</head> as legal person so that the company in itself can accept Limited liability for civil responsibility and taxation incurred as members perform ( or fail ) to discharge their duty within the publicly declared " birth certificate " or published policy . Because companies are legal persons , they also may associate and register themselves as companies – often known as a corporate group .</context>
+    </instance>
+    <instance id="Company-company-15-45-5" docsrc="Company">
+      <context> Some offshore jurisdictions have created special forms of offshore company in a bid to attract <head>business</head> for their jurisdictions . Examples include " segregated portfolio companies " and restricted purpose companies . Companies are also sometimes distinguished for legal and regulatory purposes between public companies and private companies .</context>
+    </instance>
+    <instance id="Company-company-17-4-1" docsrc="Company">
+      <context> Business entities with an aim of gaining a profit Financial entities and banks A company or association <head>of</head> persons can be created at law as legal person so that the company in itself can accept Limited liability for civil responsibility and taxation incurred as members perform ( or fail ) to discharge their duty within the publicly declared " birth certificate " or published policy .</context>
+    </instance>
+    <instance id="Company-company-18-43-2" docsrc="Company">
+      <context> Statutory Companies . Relatively rare today , certain companies have been formed by a private statute passed in <head>the</head> relevant jurisdiction . Note that " Ltd after the company 's name signifies limited company , and PLC ( public limited company ) indicates that its shares are widely held . "</context>
+    </instance>
+    <instance id="Company-company-19-17-1" docsrc="Company">
+      <context> Usage of company to mean " business association " was first recorded in 1553 , and the abbreviation " <head>co.</head> " dates from 1769 . === United Kingdom === In English law and in legal jurisdictions based upon it , a company is a body corporate or corporation company registered under the Companies Acts or similar legislation .</context>
+    </instance>
+    <instance id="Company-company-2-14-2" docsrc="Company">
+      <context> The English <head>word</head> company has its origins in the Old French military term compaignie ( first recorded in 1150 ) , meaning a " body of soldiers " , and originally from the Late Latin word companio " companion , one who eats bread [ pane ] with you " , first attested in the Lex Salica as a calque of the Germanic expression * gahlaibo ( literally , " with bread " ) , related to Old High German galeipo " companion " and Gothic gahlaiba " messmate " . By 1303 , the word referred to trade guilds . Usage of company to mean " business association " was first recorded in 1553 , and the abbreviation " co. " dates from 1769 .</context>
+    </instance>
+    <instance id="Company-company-2-26-1" docsrc="Company">
+      <context> It may <head>be</head> referred to as a firm . === United States === publicly traded company or a</context>
+    </instance>
+    <instance id="Company-company-2-34-1" docsrc="Company">
+      <context> === United <head>States</head> === publicly traded company or a privately held company .</context>
+    </instance>
+    <instance id="Company-company-2-35-1" docsrc="Company">
+      <context> publicly traded <head>company</head> or a privately held company . An unlimited company with or without a share capital .</context>
+    </instance>
+    <instance id="Company-company-2-45-1" docsrc="Company">
+      <context> Note that <head>"</head> Ltd after the company 's name signifies limited company , and PLC ( public limited company ) indicates that its shares are widely held . " In legal parlance , the owners of a company are normally referred to as the " members " . In a company limited or unlimited by shares ( formed or incorporated with a share capital ) , this will be the shareholders .</context>
+    </instance>
+    <instance id="Company-company-2-45-2" docsrc="Company">
+      <context> In legal <head>parlance</head> , the owners of a company are normally referred to as the " members " . In a company limited or unlimited by shares ( formed or incorporated with a share capital ) , this will be the shareholders . In a company limited by guarantee , this will be the guarantors .</context>
+    </instance>
+    <instance id="Company-company-2-47-4" docsrc="Company">
+      <context> Private companies <head>do</head> not have publicly traded shares , and often contain restrictions on transfers of shares . In some jurisdictions private companies have maximum numbers of shareholders . A parent company is a company that owns enough voting stock in another firm to control management and operations by influencing or electing its board of directors ; the second company being deemed as a subsidiary of the parent company .</context>
+    </instance>
+    <instance id="Company-company-2-57-1" docsrc="Company">
+      <context> All the <head>values</head> have been publicly revealed in the respective company annual report and are recorded as of 2014 . Corporate personhood List of company registers</context>
+    </instance>
+    <instance id="Company-company-2-6-1" docsrc="Company">
+      <context> A company <head>or</head> association of persons can be created at law as legal person so that the company in itself can accept Limited liability for civil responsibility and taxation incurred as members perform ( or fail ) to discharge their duty within the publicly declared " birth certificate " or published policy . Because companies are legal persons , they also may associate and register themselves as companies – often known as a corporate group . When the company closes it may need a " death certificate " to avoid further legal obligations .</context>
+    </instance>
+    <instance id="Company-company-21-19-1" docsrc="Company">
+      <context> Common forms include : Private companies limited by guarantee In the United Kingdom a partnership is not legally a company , <head>but</head> may sometimes be referred to informally as a company .</context>
+    </instance>
+    <instance id="Company-company-22-39-1" docsrc="Company">
+      <context> privately held company . An unlimited company with or without a share capital . A hybrid entity , a company where the <head>liability</head> of members or shareholders for the debts ( if any ) of the company are not limited .</context>
+    </instance>
+    <instance id="Company-company-22-48-1" docsrc="Company">
+      <context> In some jurisdictions private companies have maximum numbers of shareholders . A parent company is a company that owns enough voting stock <head>in</head> another firm to control management and operations by influencing or electing its board of directors ; the second company being deemed as a subsidiary of the parent company . The definition of a parent company differs by jurisdiction , with the definition normally being defined by way of laws dealing with companies in that jurisdiction .</context>
+    </instance>
+    <instance id="Company-company-23-17-1" docsrc="Company">
+      <context> Usage of company to mean " business association " was first recorded in 1553 , and the abbreviation " co. " dates from <head>1769</head> . === United Kingdom === In English law and in legal jurisdictions based upon it , a company is a body corporate or corporation company registered under the Companies Acts or similar legislation .</context>
+    </instance>
+    <instance id="Company-company-3-13-1" docsrc="Company">
+      <context> It is not <head>affected</head> by the death , insanity or insolvency of an individual member . === Etymology === The English word company has its origins in the Old French military term compaignie ( first recorded in 1150 ) , meaning a " body of soldiers " , and originally from the Late Latin word companio " companion , one who eats bread [ pane ] with you " , first attested in the Lex Salica as a calque of the Germanic expression * gahlaibo ( literally , " with bread " ) , related to Old High German galeipo " companion " and Gothic gahlaiba " messmate " .</context>
+    </instance>
+    <instance id="Company-company-3-47-1" docsrc="Company">
+      <context> Examples include " <head>segregated</head> portfolio companies " and restricted purpose companies . Companies are also sometimes distinguished for legal and regulatory purposes between public companies and private companies . Public companies are companies whose shares can be publicly traded , often ( although not always ) on a stock exchange which imposes listing requirements/Listing Rules as to the issued shares , the trading of shares and future issue of shares to help bolster the reputation of the exchange or particular market of an exchange .</context>
+    </instance>
+    <instance id="Company-company-30-47-4" docsrc="Company">
+      <context> Private companies do not have publicly traded shares , and often contain restrictions on transfers of shares . In some jurisdictions private companies have maximum numbers of shareholders . A <head>parent</head> company is a company that owns enough voting stock in another firm to control management and operations by influencing or electing its board of directors ; the second company being deemed as a subsidiary of the parent company .</context>
+    </instance>
+    <instance id="Company-company-39-47-4" docsrc="Company">
+      <context> Private companies do not have publicly traded shares , and often contain restrictions on transfers of shares . In some jurisdictions private companies have maximum numbers of shareholders . A parent company is a company that owns enough voting <head>stock</head> in another firm to control management and operations by influencing or electing its board of directors ; the second company being deemed as a subsidiary of the parent company .</context>
+    </instance>
+    <instance id="Company-company-4-39-3" docsrc="Company">
+      <context> A hybrid entity , <head>a</head> company where the liability of members or shareholders for the debts ( if any ) of the company are not limited . In this case doctrine of veil of incorporation does not apply . Less common types of companies are :</context>
+    </instance>
+    <instance id="Company-company-4-47-3" docsrc="Company">
+      <context> Public companies are companies <head>whose</head> shares can be publicly traded , often ( although not always ) on a stock exchange which imposes listing requirements/Listing Rules as to the issued shares , the trading of shares and future issue of shares to help bolster the reputation of the exchange or particular market of an exchange . Private companies do not have publicly traded shares , and often contain restrictions on transfers of shares . In some jurisdictions private companies have maximum numbers of shareholders .</context>
+    </instance>
+    <instance id="Company-company-4-48-2" docsrc="Company">
+      <context> A parent company is <head>a</head> company that owns enough voting stock in another firm to control management and operations by influencing or electing its board of directors ; the second company being deemed as a subsidiary of the parent company . The definition of a parent company differs by jurisdiction , with the definition normally being defined by way of laws dealing with companies in that jurisdiction . The following table illustrates companies by size and country of origin .</context>
+    </instance>
+    <instance id="Company-company-5-39-1" docsrc="Company">
+      <context> privately held company . An <head>unlimited</head> company with or without a share capital . A hybrid entity , a company where the liability of members or shareholders for the debts ( if any ) of the company are not limited .</context>
+    </instance>
+    <instance id="Company-company-5-42-1" docsrc="Company">
+      <context> Most corporations by letters patent <head>are</head> corporations sole and not companies as the term is commonly understood today . Charter corporations . Before the passing of modern companies legislation , these were the only types of companies .</context>
+    </instance>
+    <instance id="Company-company-5-43-1" docsrc="Company">
+      <context> Now they are relatively rare <head>,</head> except for very old companies that still survive ( of which there are still many , particularly many British banks ) , or modern societies that fulfill a quasi regulatory function ( for example , the Bank of England is a corporation formed by a modern charter ) . Statutory Companies . Relatively rare today , certain companies have been formed by a private statute passed in the relevant jurisdiction .</context>
+    </instance>
+    <instance id="Company-company-5-45-4" docsrc="Company">
+      <context> In a company limited by <head>guarantee</head> , this will be the guarantors . Some offshore jurisdictions have created special forms of offshore company in a bid to attract business for their jurisdictions . Examples include " segregated portfolio companies " and restricted purpose companies .</context>
+    </instance>
+    <instance id="Company-company-5-47-4" docsrc="Company">
+      <context> Private companies do not have <head>publicly</head> traded shares , and often contain restrictions on transfers of shares . In some jurisdictions private companies have maximum numbers of shareholders . A parent company is a company that owns enough voting stock in another firm to control management and operations by influencing or electing its board of directors ; the second company being deemed as a subsidiary of the parent company .</context>
+    </instance>
+    <instance id="Company-company-5-48-1" docsrc="Company">
+      <context> In some jurisdictions private companies <head>have</head> maximum numbers of shareholders . A parent company is a company that owns enough voting stock in another firm to control management and operations by influencing or electing its board of directors ; the second company being deemed as a subsidiary of the parent company . The definition of a parent company differs by jurisdiction , with the definition normally being defined by way of laws dealing with companies in that jurisdiction .</context>
+    </instance>
+    <instance id="Company-company-6-43-2" docsrc="Company">
+      <context> Statutory Companies . Relatively rare today <head>,</head> certain companies have been formed by a private statute passed in the relevant jurisdiction . Note that " Ltd after the company 's name signifies limited company , and PLC ( public limited company ) indicates that its shares are widely held . "</context>
+    </instance>
+    <instance id="Company-company-7-59-1" docsrc="Company">
+      <context> List of company registers List of largest <head>employers</head> John Micklethwait and Adrian Wooldridge , The Company : a Short History of a Revolutionary Idea ( New York : Modern Library , 2003 )</context>
+    </instance>
+    <instance id="Company-company-7-68-1" docsrc="Company">
+      <context> List of largest employers John Micklethwait and <head>Adrian</head> Wooldridge , The Company : a Short History of a Revolutionary Idea ( New York : Modern Library , 2003 )</context>
+    </instance>
+    <instance id="Company-company-8-44-1" docsrc="Company">
+      <context> Relatively rare today , certain companies have been <head>formed</head> by a private statute passed in the relevant jurisdiction . Note that " Ltd after the company 's name signifies limited company , and PLC ( public limited company ) indicates that its shares are widely held . " In legal parlance , the owners of a company are normally referred to as the " members " .</context>
+    </instance>
+    <instance id="Company-company-9-45-3" docsrc="Company">
+      <context> In a company limited or unlimited by shares ( <head>formed</head> or incorporated with a share capital ) , this will be the shareholders . In a company limited by guarantee , this will be the guarantors . Some offshore jurisdictions have created special forms of offshore company in a bid to attract business for their jurisdictions .</context>
+    </instance>
+    <instance id="Ship's_company-company-6-2-1" docsrc="Ship's_company">
+      <context> In the case of aircraft carriers <head>of</head> the U.S. Navy , the total ship 's complement is divided into three categories : ( 1 ) the ship 's company physically assigned to the ship , and</context>
+    </instance>
+    <instance id="a01863442_d_2" docsrc="a01863442_d">
+      <context> denoting a <head>company</head> or law_firm owned and run by members of the WASP elite who are generally conservative ;</context>
+    </instance>
+    <instance id="a02248984_d_7" docsrc="a02248984_d">
+      <context> instinctively or temperamentally seeking and enjoying the <head>company</head> of others ;</context>
+    </instance>
+    <instance id="a02847473_d_6" docsrc="a02847473_d">
+      <context> of or relating to an internet <head>company</head> ;</context>
+    </instance>
+    <instance id="br-a02#w955_0" docsrc="br-a02">
+      <context> Instead , retailers would sign a certificate of correctness , violation of which would carry a penalty of one to five years in prison , plus a $ 1000 fine . It was one of a series of recommendations by the Texas_Research_League . The other bill , by Sen._A._M._Aikin_Jr. of Paris , would relieve real_estate_brokers , who pay their own annual licensing_fee , from the $ 12 annual occupation_license on brokers in such_as stocks and bonds . Natural_gas public_utility <head>companies</head> would be given the right of eminent_domain , under a bill by Sen._Frank_Owen /3 , of El_Paso , to acquire sites for underground storage reservoirs for gas . Marshall_Formby of Plainview , former chairman of the Texas_Highway_Commission , suggested a plan to fill by appointment future vacancies in the Legislature and Congress , eliminating the need for costly special elections . Under Formby 's plan , an appointee would be selected by a board composed of the governor , lieutenant_governor , speaker of the House , attorney_general and chief_justice of the Texas_Supreme_Court . State representatives decided Thursday against taking_a_poll on what kind of taxes Texans would prefer to pay .</context>
+    </instance>
+    <instance id="br-b13#w1155_0" docsrc="br-b13">
+      <context> These sages include poet Carl_Sandburg , statesman Jawaharlal_Nehru and sculptor Jacques_Lipchitz , in Volume One , and playwright Sean_O'Casey , David_Ben-Gurion , philosopher Bertrand_Russell and the late Frank_Lloyd_Wright in the second set . Hugh_Downs is heard interviewing Wright , for an added prestige fillip . There 's more specialization and a narrower purpose in two albums recently issued by Dover_Publications . Dover `` publishes '' what the <head>company</head> calls `` Listen_and_Learn '' productions designed to teach foreign languages . Previous presentations have been on French , Spanish , Russian , Italian , German and Japanese . But the firm has recognized the tight dollar and the tourist 's desire to visit the `` smaller , less traveled and relatively inexpensive countries '' , and is now prepared to teach modern_Greek and Portuguese through recordings . The respective vocabularies `` essential for travel '' are available in separate albums .</context>
+    </instance>
+    <instance id="br-b13#w1398_0" docsrc="br-b13">
+      <context> The program was instituted in 1940 , and releases are available only from the Recording_Laboratory of the Library_of_Congress , Washington 25 , D._C. A catalogue is available on_request . Newest on the list are John_Ciardi , W._D._Snodgrass , I._A._Richards , Oscar_Williams , Robert_Hillyer , John_Hall_Wheelock , Stephen_Vincent_Benet , Edwin_Muir , John_Peal_Bishop and Maxwell_Bodenheim . Two poets are paired on each record , in the order given above . Decca is not the only large commercial <head>company</head> to impart instruction . RCA_Victor has an ambitious and useful project in a stereo series called `` Adventures in Music '' , which is an instructional record library for elementary_schools . Howard_Mitchell and the National_Symphony perform in the first two releases , designed for grades one and two . Teaching guides are included with each record .</context>
+    </instance>
+    <instance id="br-e28#w102_0" docsrc="br-e28">
+      <context> Why ? Companies of all types have made great advances in production capabilities and efficiencies - in modern equipment and new processes , enlarged R_+_D facilities , faster new product development . Many companies have upgraded their sales manpower and tested new selling , distribution , and promotion techniques to gain a bigger competitive edge . Given this kind of business climate , what competitive marketing problems will your <head>company</head> face in the next 10 yr. ? Based on our experience with clients , we see 14 major problems which fall_into three broad groups - the market_place itself , marketing methods , and marketing management . There has been an intensification of price consciousness in recent years ; there is every indication it will continue . Frequently , wittingly or unwittingly , price consciousness has been fostered by manufacturers , distributors , and dealers .</context>
+    </instance>
+    <instance id="br-e28#w1241_0" docsrc="br-e28">
+      <context> Do you have a program for scrutinizing all these links regularly and carefully - and with some imagination ? In your sales_force , will a smaller number of higher-priced , high quality salesmen serve you best , or can you make_out better with a larger number of lower paid salesmen ? Will your trade customers settle for less attention and fewer frills in_return_for some benefit they can share ? In one <head>company</head> covering the country with a high quality sales_force of 10 men , the president personally phones each major account every 6 mos. . As a result , distribution_costs were cut , customer relations improved . Distribution_costs are almost bound to increase in the sixties - and you will never know what you can do to control them unless you study each element and experiment with alternative ways of doing the job . From the manufacturer 's point_of_view , the increasing cost of advertising and promotion is a very real problem to be faced in the sixties .</context>
+    </instance>
+    <instance id="br-e28#w1363_0" docsrc="br-e28">
+      <context> Distribution_costs are almost bound to increase in the sixties - and you will never know what you can do to control them unless you study each element and experiment with alternative ways of doing the job . From the manufacturer 's point_of_view , the increasing cost of advertising and promotion is a very real problem to be faced in the sixties . It is accentuated by the need for pre selling goods , and private label competition . How much fundamental thinking and research has your <head>company</head> done on its advertising program ? Are you following competition willy-nilly - trying to match dollar for dollar - or are you experimenting with new means for reaching and influencing consumers ? Have you evaluated the proper place of advertising and all phases of promotion in your total marketing program - from the standpoint of effort , money , and effectiveness ? Practically all forecasts mention new and exciting products on the horizon .</context>
+    </instance>
+    <instance id="br-e28#w1671_0" docsrc="br-e28">
+      <context> We have seen good new products shelved because no one had the assignment to develop such facts and plans - and management could n't make_up_its_mind . There is a shortage of salesmen today . In the future , quantitative demand will be greater because of the expansion of the economy , and the qualitative need will be greater still . While many <head>companies</head> have done fine work in developing sales personnel , much of it has been product rather than sales training . Nor has the training been enough in_relation_to the need . Most marketing people agree it is going_to take redoubled efforts to satisfy future requirements . Have you estimated your sales manpower needs for the future ( both quantitatively and qualitatively ) ?</context>
+    </instance>
+    <instance id="br-e28#w1736_0" docsrc="br-e28">
+      <context> Nor has the training been enough in_relation_to the need . Most marketing people agree it is going_to take redoubled efforts to satisfy future requirements . Have you estimated your sales manpower needs for the future ( both quantitatively and qualitatively ) ? Has your <head>company</head> developed selection and training processes that are geared to providing the caliber of salesmen you will need in the next 10 yr. ? With the growing complexity of markets and intensity of competition , sales management , whether at the district , region or headquarters level , is a tough job today - and it will be tougher in_the future . Men qualified for the broader task of marketing manager are even more scarce due_to the demanding combination of qualifications called_for by this type of management work . The growth of business has outdistanced the available supply , and the demand will continue to exceed the supply in the sixties .</context>
+    </instance>
+    <instance id="br-e28#w1850_0" docsrc="br-e28">
+      <context> With the growing complexity of markets and intensity of competition , sales management , whether at the district , region or headquarters level , is a tough job today - and it will be tougher in_the future . Men qualified for the broader task of marketing manager are even more scarce due_to the demanding combination of qualifications called_for by this type of management work . The growth of business has outdistanced the available supply , and the demand will continue to exceed the supply in the sixties . Does your <head>company</head> have a program for selecting and developing sales and marketing management_personnel for the longer term ? Does your management climate and your management compensation plan attract and keep top-notch marketing people ? Every single problem touched_on thus_far is related to good marketing planning . `` Hip-pocket '' tactics are going_to be harder to apply .</context>
+    </instance>
+    <instance id="br-e28#w1910_0" docsrc="br-e28">
+      <context> Does your management climate and your management compensation plan attract and keep top-notch marketing people ? Every single problem touched_on thus_far is related to good marketing planning . `` Hip-pocket '' tactics are going_to be harder to apply . Many food and beverage <head>companies</head> are already on a highly planned basis . They have to be . With greater investments in plant facilities , with automation growing , you can n't switch around , either in volume or in product design , as much as was formerly possible - or at_least not as economically . Are planning and strategy development emphasized sufficiently in your company ?</context>
+    </instance>
+    <instance id="br-e28#w1971_0" docsrc="br-e28">
+      <context> Many food and beverage companies are already on a highly planned basis . They have to be . With greater investments in plant facilities , with automation growing , you can n't switch around , either in volume or in product design , as much as was formerly possible - or at_least not as economically . Are planning and strategy development emphasized sufficiently in your <head>company</head> ? We find too many sales and marketing executives so burdened with detail that they are short-changing planning . Are annual marketing plans reviewed throughout your management group to get the perspective of all individuals and get everyone on the marketing team ? Do you have a long-term ( 5 - or 10 - yr . ) marketing program ?</context>
+    </instance>
+    <instance id="br-e28#w2042_0" docsrc="br-e28">
+      <context> We find too many sales and marketing executives so burdened with detail that they are short-changing planning . Are annual marketing plans reviewed throughout your management group to get the perspective of all individuals and get everyone on the marketing team ? Do you have a long-term ( 5 - or 10 - yr . ) marketing program ? The key to effective marketing is wrapped_up in defining your <head>company</head> 's marketing problems realistically . Solutions frequently suggest themselves when you accurately pinpoint your problems , whether they be in the market , in marketing methods or in marketing management . If companies will take the time to give objective consideration to their major problems and to the questions they provoke , then a long constructive step will have been taken toward more effective marketing in next decade .</context>
+    </instance>
+    <instance id="br-e28#w2075_0" docsrc="br-e28">
+      <context> Do you have a long-term ( 5 - or 10 - yr . ) marketing program ? The key to effective marketing is wrapped_up in defining your company 's marketing problems realistically . Solutions frequently suggest themselves when you accurately pinpoint your problems , whether they be in the market , in marketing methods or in marketing management . If <head>companies</head> will take the time to give objective consideration to their major problems and to the questions they provoke , then a long constructive step will have been taken toward more effective marketing in next decade .</context>
+    </instance>
+    <instance id="br-e28#w335_0" docsrc="br-e28">
+      <context> Have you actually checked_out ( not just mentally tested ) different selling approaches designed to counter the price competition problem ? Average consumer is becoming more sophisticated regarding product and advertising claims , partly because of widespread criticism of such assertions . This problem can force a change in marketing approach in many kinds of businesses . Have you examined this problem of increasing consumer sophistication from the standpoint of your own <head>company</head> ? Need for service is here to stay - and the problem is going_to be tougher to solve in the sixties . There are two reasons for this . First , most products tend to become more complex .</context>
+    </instance>
+    <instance id="br-e28#w35_0" docsrc="br-e28">
+      <context> Marketing in the new decade will be no picnic - for the sixties will present possibly the most intense competitive activity that you have experienced in the last 20 - 25 yr. . Why ? <head>Companies</head> of all types have made great advances in production capabilities and efficiencies - in modern equipment and new processes , enlarged R_+_D facilities , faster new product development . Many companies have upgraded their sales manpower and tested new selling , distribution , and promotion techniques to gain a bigger competitive edge . Given this kind of business climate , what competitive marketing problems will your company face in the next 10 yr. ? Based on our experience with clients , we see 14 major problems which fall_into three broad groups - the market_place itself , marketing methods , and marketing management .</context>
+    </instance>
+    <instance id="br-e28#w593_0" docsrc="br-e28">
+      <context> To the manufacturer of the more convenient type product - the purchase of which can be switched , delayed , or put_off entirely - the implications are important . Your competition is now proportionately greater - you are competing not_only against manufacturers in the same field but also against a vast array of manufacturers of other appealing consumer products . Many industry trade associations are developing campaigns to protect or enhance the share of the consumer 's dollar being spent on their particular products . Has your <head>company</head> thought through its strategy in this whole `` discretionary buying '' area ? The trends have been in_evidence for many years - population_shifts to the Southwest and Far_West , and from city to suburbs . These shifts will continue in the next 10 yr. . Have you considered the implications of continuing geographic shifts in_terms_of sales_force allocation , strength of distributor organizations , and even plant location ?</context>
+    </instance>
+    <instance id="br-e28#w66_0" docsrc="br-e28">
+      <context> Marketing in the new decade will be no picnic - for the sixties will present possibly the most intense competitive activity that you have experienced in the last 20 - 25 yr. . Why ? Companies of all types have made great advances in production capabilities and efficiencies - in modern equipment and new processes , enlarged R_+_D facilities , faster new product development . Many <head>companies</head> have upgraded their sales manpower and tested new selling , distribution , and promotion techniques to gain a bigger competitive edge . Given this kind of business climate , what competitive marketing problems will your company face in the next 10 yr. ? Based on our experience with clients , we see 14 major problems which fall_into three broad groups - the market_place itself , marketing methods , and marketing management . There has been an intensification of price consciousness in recent years ; there is every indication it will continue .</context>
+    </instance>
+    <instance id="br-e29#w933_0" docsrc="br-e29">
+      <context> Thus technical efficiency is achieved at the expense of actual experience . In the earlier years of training certain phases of the work must be covered and the synthetic problem has its use . But to continue to divorce advanced students from reality is inexcusable . Consultation with architects , clients , real_estate men , fabric houses and furniture <head>companies</head> is essential to the proper development of class problems just as in actual work . Fortunately , although only a_few years ago they held the student at_arms_length , today the business houses welcome the opportunity to aid the student , not_only from an increased sense of community responsibility but also from the realization that the student of today is the interior_designer of tomorrow - that the student already is `` in the trade '' . Even the `` history of furniture '' can hardly be taught exclusively from photographs and lantern_slides . Here , too , the reality of actual furniture must be experienced .</context>
+    </instance>
+    <instance id="br-e30#w1288_0" docsrc="br-e30">
+      <context> If you want credit for your employee services program , let your workers know what they 're entitled to . Encourage them to exercise their benefits . This can be done by stories in your house_organs , posters , special publications , letters to workers ' homes as_well_as by_word_of_mouth through your chain of command . Some <head>companies</head> find a little imagination helpful . Hallmark_Cards_,_Inc. , Kansas_City , Mo. , has a do-it-yourself quiz game called `` Benefit_Bafflers '' , which it distributes to employees . M_+_R_Dietetic_Laboratories_,_Inc. , Columbus , gives all its workers a facsimile checkbook - each check showing the amount the company spends on a particular fringe . U._S._Rubber_Company , New_York , passes out a form itemizing the value of benefits .</context>
+    </instance>
+    <instance id="br-e30#w1335_0" docsrc="br-e30">
+      <context> This can be done by stories in your house_organs , posters , special publications , letters to workers ' homes as_well_as by_word_of_mouth through your chain of command . Some companies find a little imagination helpful . Hallmark_Cards_,_Inc. , Kansas_City , Mo. , has a do-it-yourself quiz game called `` Benefit_Bafflers '' , which it distributes to employees . M_+_R_Dietetic_Laboratories_,_Inc. , Columbus , gives all its workers a facsimile checkbook - each check showing the amount the <head>company</head> spends on a particular fringe . U._S._Rubber_Company , New_York , passes out a form itemizing the value of benefits . The blue-collar worker thus knows his insurance package , for_example , costs $ 227.72 . Have the insurance_company or your own accounting department break_down the cost of your insurance package periodically .</context>
+    </instance>
+    <instance id="br-e30#w1717_0" docsrc="br-e30">
+      <context> Consider installing supplemental serving lines in production areas . Make sure milk for the coffee is placed in dispensers rather than in containers , if you are supplying the coffee . Otherwise , you may be saddled with a good size milk bill by milk drinkers . Keep the retirement age flexible so skilled craftsmen such_as tool and die makers can be kept on_the_job for the convenience of the <head>company</head> . And so deadheads on the payroll can be eased out at the earliest possible age . Make sure you have minimum age and time on_the_job requirements tied into your pension plan . Younger men usually do n't think_of pensions as an important job benefit factor anyhow and they 're liable to change jobs several times before settling_down .</context>
+    </instance>
+    <instance id="br-e30#w1826_0" docsrc="br-e30">
+      <context> Choose carefully between contributory or non contributory pension plans . There are two sides of a coin for this decision . Workers usually think more of a plan they contribute to . And they can at_least collect the money they put_in , plus interest , when they leave the <head>company</head> . A non contributory plan usually won n't pay_off for the worker until he retires . Thus , there is an added incentive to stay on_the_job . Make sure you do n't pay for holidays that occur when an employee would not otherwise be working .</context>
+    </instance>
+    <instance id="br-e30#w280_0" docsrc="br-e30">
+      <context> Can you consider restricting any additional employee benefits to those paid for by profit-sharing money , such_as was done in the union contract recently signed by American_Motors_Corporation ? Do your employees understand all the benefits to which your insurance entitles them ? Are they encouraged to take full legal advantage of these benefits ? Have you publicized the cents per hour value of the <head>company</head> 's share of insurance_premiums ? When did you last compare your present premium costs with the costs of insurance from other sources ? Can your insurance_company aid you in reducing administrative costs ? Do you try to maintain the principle of employee contributed ( as opposed to fully company paid ) programs ?</context>
+    </instance>
+    <instance id="br-e30#w329_0" docsrc="br-e30">
+      <context> Have you publicized the cents per hour value of the company 's share of insurance_premiums ? When did you last compare your present premium costs with the costs of insurance from other sources ? Can your insurance_company aid you in reducing administrative costs ? Do you try to maintain the principle of employee contributed ( as opposed to fully <head>company</head> paid ) programs ? Do you protect your holiday privileges with an attendance requirement both before and after the holiday ? Do you plan to limit additional holidays to area and / or industrial patterns ? Have you investigated the possibility of moving midweek holidays forward to Monday or back to Friday in_order to have an uninterrupted work week ?</context>
+    </instance>
+    <instance id="br-e30#w579_0" docsrc="br-e30">
+      <context> Can staggered lunch periods relieve the capacity strain on your feeding facilities ? Would it be feasible to limit the menu in_order to reduce feeding costs ? Have you considered gradual withdrawal of subsidies to your in plant feeding operation ? Are you utilizing cafeteria space for <head>company</head> meetings or discussions ? Are your expenses in this area commensurate with the number of employees who benefit from your program ? Have you audited your program recently to weed_out those phases that draw least participation ? Do employees contribute their share of money to recreational_facilities ?</context>
+    </instance>
+    <instance id="br-e30#w770_0" docsrc="br-e30">
+      <context> If you use parking attendants , can they be replaced by automatic parking gates ? Will your local bus_company erect and / or maintain the bus_stops at your plant ? If you provide inter plant transportation , can this be replaced by available public transportation ? If you use <head>company</head> transportation to meet trains or to haul visitors , would taxis be cheaper ? How efficient and necessary are your intra company vehicles ? Can they be re-scheduled ? Can part-time drivers be assigned to other productive work ?</context>
+    </instance>
+    <instance id="br-e30#w792_0" docsrc="br-e30">
+      <context> Will your local bus_company erect and / or maintain the bus_stops at your plant ? If you provide inter plant transportation , can this be replaced by available public transportation ? If you use company transportation to meet trains or to haul visitors , would taxis be cheaper ? How efficient and necessary are your intra <head>company</head> vehicles ? Can they be re-scheduled ? Can part-time drivers be assigned to other productive work ? Which is more economical for your plant - a vacation shutdown or spaced vacations that require extra employees for vacation fill-ins ?</context>
+    </instance>
+    <instance id="br-f10#w1753_0" docsrc="br-f10">
+      <context> Moreover , the diabetic patient who relies_on cure by the quack device and therefore cuts_off his insulin intake can be committing suicide . For_instance : In Chicago , some time ago , Mr._H. , age 27 , a diabetic since he was six , stopped using insulin because he had bought a `` magic spike '' - a glass tube about the size of a pencil filled with barium chloride worth a small fraction of a cent - sold by the Vrilium_Company of Chicago for $ 306 as a cure-all . `` Hang this around your neck or attach it to other parts of your anatomy , and its rays will cure any disease you have '' , said the <head>company</head> . Mr._H. is dead today because he followed this advice . Doris_Hull , suffering from tuberculosis , was taken by her husband to see Otis_G._Carroll , a sanipractor - a licensed drugless healer - in Spokane . Carroll diagnosed Mrs._Hull by taking a drop of blood from her ear and putting it on his `` radionic '' machine and twirling some knobs ( fee $ 50 ) .</context>
+    </instance>
+    <instance id="br-f16#w1080_0" docsrc="br-f16">
+      <context> But men willing to sail at_all into waters where wooden ships could be crushed like eggs were hard to find . Hudson knew he had to use these men as_long_as he remained an explorer . And he refused to be anything else . It is believed that Hudson was related to other seafaring men of the Muscovy_Company and was trained on <head>company</head> ships . He was a Londoner , married , with three sons . ( The common misconception that he was Dutch and that his first_name was Hendrik stem from Dutch documents of his third voyage . ) In 1610 , Hudson was probably in his early forties , a good navigator , a stubborn voyager , but otherwise fatally unsuited to his chosen profession .</context>
+    </instance>
+    <instance id="br-f17#w1363_0" docsrc="br-f17">
+      <context> Early in 1822 he was at Fort_Garry offering to bring_in pork , flour , liquor and tobacco . Alexander_McDonnell , governor of Red_River , and James_Bird , a chief factor of the Hudson's_Bay_Company , ordered such `` sundry articles '' to a value of 4500 . For its part the Hudson's_Bay_Company was troubled by the approach of American settlement . As the time drew_near for the drawing of the British American frontier by terms of the agreement of 1818 , the <head>company</head> suspected that the Pembina_colony - its own post and Fort_Daer - was on American territory . Accordingly Selkirk 's agents ordered the settlers to move north , and by October , John_Halkett had torn_down both posts , floating the timber to `` the Forks '' in rafts . `` I have done everything '' , he wrote , `` to break_up the whole of that unfortunate establishment '' . Despite Company threats , duly carried_through , to cut_off supplies of powder , ball , and thread for fishing_nets , about 350 persons stayed in the village .</context>
+    </instance>
+    <instance id="br-g22#w1939_0" docsrc="br-g22">
+      <context> The battle is not easy . We are tempted to blame others for our problems rather than look them straight in the face and realize they are of_our_own making and possible of solution only by ourselves with the help of desperately needed , enlightened , competent leaders . Persons developed in to-day 's corporations cannot hope to serve here - a judgment based on experiences of my own in business and in activities outside . In my own <head>company</head> , in_effect a partnership , although legally a corporation , I have been able to do many things for my employees which `` normal '' corporations of comparable size and nature would have been unable to do . Also , I am convinced that if my company were a sole proprietorship instead of a partnership , I would have been even abler to solve long-range problems for myself and my fellow employees . Any abilities I may have were achieved in their present shape from experience in sharing_in the growth and control of my business , coupled with raising my family . This combined experience , on a foundation of very average , I assure you , intelligence and background , has helped me do things many well-informed people would bet heavily against .</context>
+    </instance>
+    <instance id="br-g22#w1986_0" docsrc="br-g22">
+      <context> We are tempted to blame others for our problems rather than look them straight in the face and realize they are of_our_own making and possible of solution only by ourselves with the help of desperately needed , enlightened , competent leaders . Persons developed in to-day 's corporations cannot hope to serve here - a judgment based on experiences of my own in business and in activities outside . In my own company , in_effect a partnership , although legally a corporation , I have been able to do many things for my employees which `` normal '' corporations of comparable size and nature would have been unable to do . Also , I am convinced that if my <head>company</head> were a sole proprietorship instead of a partnership , I would have been even abler to solve long-range problems for myself and my fellow employees . Any abilities I may have were achieved in their present shape from experience in sharing_in the growth and control of my business , coupled with raising my family . This combined experience , on a foundation of very average , I assure you , intelligence and background , has helped me do things many well-informed people would bet heavily against . Perhaps a list of some of the `` practices '' of my company will help here .</context>
+    </instance>
+    <instance id="br-g22#w2086_0" docsrc="br-g22">
+      <context> Also , I am convinced that if my company were a sole proprietorship instead of a partnership , I would have been even abler to solve long-range problems for myself and my fellow employees . Any abilities I may have were achieved in their present shape from experience in sharing_in the growth and control of my business , coupled with raising my family . This combined experience , on a foundation of very average , I assure you , intelligence and background , has helped me do things many well-informed people would bet heavily against . Perhaps a list of some of the `` practices '' of my <head>company</head> will help here . The company grew out of efforts by two completely inexperienced men in their late twenties , neither having a formal education applicable to , or experience in , manufacturing or selling our type of articles . From an initial investment of $ 1200 in 1943 , it has grown , with no additional capital investment , to a present value estimated by some as exceeding $ 10000000 ( we do n't disclose financial figures to the public ) . Its growth continues steadily on a par with past growth ; and no limitation is in_evidence .</context>
+    </instance>
+    <instance id="br-g22#w2092_0" docsrc="br-g22">
+      <context> Any abilities I may have were achieved in their present shape from experience in sharing_in the growth and control of my business , coupled with raising my family . This combined experience , on a foundation of very average , I assure you , intelligence and background , has helped me do things many well-informed people would bet heavily against . Perhaps a list of some of the `` practices '' of my company will help here . The <head>company</head> grew out of efforts by two completely inexperienced men in their late twenties , neither having a formal education applicable to , or experience in , manufacturing or selling our type of articles . From an initial investment of $ 1200 in 1943 , it has grown , with no additional capital investment , to a present value estimated by some as exceeding $ 10000000 ( we do n't disclose financial figures to the public ) . Its growth continues steadily on a par with past growth ; and no limitation is in_evidence . Our pin-curl clips and self-locking nuts achieved dominance in just a_few years time , despite substantial , well established competition .</context>
+    </instance>
+    <instance id="br-g22#w938_0" docsrc="br-g22">
+      <context> First , let us realize that whatever good this set-up achieved in earlier times , now the corporation per_se cannot take economic leadership . Businesses must develop as a result of the ideas , energies and ambitions of an individual having purpose and comprehensive ability within one mind . When we `` forced '' individuals to assume the corporate structure by means of taxes and other legal statutes , we adopted what I would term `` pseudo capitalism '' and so took a major step toward socialism . The biggest loss , of_course , was the individual 's lessened desire and ability to give his services to the growth of his <head>company</head> and our economy . Socialism , I grant , has a definite place in our society . But let us not complain of the evils of capitalism by referring to a form that is not truly capitalistic . Some forms of capitalism do indeed work - superb organizations , a credit to any society .</context>
+    </instance>
+    <instance id="br-h16#w1600_0" docsrc="br-h16">
+      <context> The plan called_for divestiture by du_Pont of its 63000000 shares of General_Motors stock by equal annual distributions to its stockholders , as a dividend , over a period of ten years . Christiana_Securities_Company and Delaware_Realty_+_Investment_Company , major stockholders in du_Pont , and the stockholders of Delaware were dealt with specially by provisions requiring the annual sale by a trustee , again over a ten year period , of du_Pont 's General_Motors stock allocable to them , as_well_as any General_Motors stock which Christiana and Delaware owned outright . If , in the trustee 's judgment , `` reasonable market conditions '' did not prevail during any given year , he was to be allowed to petition the court for an extension of time within the ten year period . In_addition , the right_to_vote the General_Motors stock held by du_Pont was to be vested in du_Pont 's stockholders , other_than Christiana and Delaware and the stockholders of Delaware ; du_Pont , Christiana , and Delaware were to be enjoined from acquiring stock in or exercising control over General_Motors ; du_Pont , Christiana , and Delaware were to be prohibited to have any director or officer in_common with General_Motors , and vice_versa ; and General_Motors and du_Pont were to be ordered to terminate any agreement that provided_for the purchase by General_Motors of any specified percentage of its requirements of any du_Pont manufactured product , or for the grant of exclusive patent_rights , or for a grant by General_Motors to du_Pont of a preferential right to make or sell any chemical discovery of General_Motors , or for the maintenance of any joint commercial_enterprise by the two <head>companies</head> . On motion of the amici_curiae , the court directed that a ruling be obtained from the Commissioner_of_Internal_Revenue as to the federal income_tax consequences of the Government 's plan . On May 9 , 1958 , the Commissioner announced his rulings . The annual dividends paid to du_Pont stockholders in shares of General_Motors stock would be taxable as ordinary income to the extent of du_Pont 's earnings and profits .</context>
+    </instance>
+    <instance id="br-h16#w1995_0" docsrc="br-h16">
+      <context> Du_Pont would be enjoined from having as a director , officer , or employee anyone who was simultaneously an officer or employee of General_Motors , and no director , officer , or employee of du_Pont could serve as a director of General_Motors without court approval . Du_Pont would be denied the right to acquire any additional General_Motors stock except through General_Motors ' distributions of stock or subscription_rights to its stockholders . On June 6 , 1958 , General_Motors submitted its objections to the Government 's proposal . It argued , inter_alia , that a divestiture order would severely depress the market_value of the stock of both General_Motors and du_Pont , with consequent serious loss and hardship to hundreds of thousands of innocent investors , among them thousands of small trusts and charitable institutions ; that there would be a similar decline in the market_values of other automotive and chemical stocks , with similar losses to the stockholders of those <head>companies</head> ; that the tremendous volume of General_Motors stock hanging over the market for ten years would hamper the efforts of General_Motors and other automobile manufacturers to raise equity capital ; and that all this would have a serious adverse effect on the entire stock_market and on general business_activity . General_Motors comprehensively contended that the Government plan would not be `` in the public interest '' as_required by the mandate of_this Court . The decrees proposed by the amici_curiae were filed in August of 1958 . These plans , like du_Pont 's contained provisions for passing the vote on du_Pont 's General_Motors shares on to the ultimate stockholders of du_Pont , Christiana , and Delaware , except that officers and directors of the three companies , their spouses , and other people living in their households , as_well_as other specified persons , were to be totally disenfranchised .</context>
+    </instance>
+    <instance id="br-h16#w2119_0" docsrc="br-h16">
+      <context> It argued , inter_alia , that a divestiture order would severely depress the market_value of the stock of both General_Motors and du_Pont , with consequent serious loss and hardship to hundreds of thousands of innocent investors , among them thousands of small trusts and charitable institutions ; that there would be a similar decline in the market_values of other automotive and chemical stocks , with similar losses to the stockholders of those companies ; that the tremendous volume of General_Motors stock hanging over the market for ten years would hamper the efforts of General_Motors and other automobile manufacturers to raise equity capital ; and that all this would have a serious adverse effect on the entire stock_market and on general business_activity . General_Motors comprehensively contended that the Government plan would not be `` in the public interest '' as_required by the mandate of_this Court . The decrees proposed by the amici_curiae were filed in August of 1958 . These plans , like du_Pont 's contained provisions for passing the vote on du_Pont 's General_Motors shares on to the ultimate stockholders of du_Pont , Christiana , and Delaware , except that officers and directors of the three <head>companies</head> , their spouses , and other people living in their households , as_well_as other specified persons , were to be totally disenfranchised . Both plans also prohibited common directors , officers , or employees between du_Pont , Christiana , and Delaware , on_the_one_hand , and General_Motors on_the_other .</context>
+    </instance>
+    <instance id="br-h16#w272_0" docsrc="br-h16">
+      <context> 353_U._S._,_at_605 . This Court agreed with the trial_court `` that considerations of price , quality and service were not overlooked by either du_Pont or General_Motors '' . 353_U._S._,_at_606 . However , it determined that neither this factor , nor `` the fact that all concerned in high executive posts in both <head>companies</head> acted honorably and fairly , each in the honest conviction that his actions were in the best interests of his own company and without any design to overreach anyone , including du_Pont 's competitors '' , 353_U._S._,_at_607 , outweighed the Government 's claim for relief . This claim , as submitted to the District_Court and dismissed by it , 126_F._Supp .235 , alleged violation not_only of 7 of the Clayton_Act , but also of 1 and 2 of the Sherman_Act . The latter provisions proscribe any contract , combination , or conspiracy in restraint of interstate or foreign trade , and monopolization of , or attempts , combinations , or conspiracies to monopolize , such trade . However , this Court put to one side without consideration the Government 's appeal from the dismissal of its Sherman_Act allegations .</context>
+    </instance>
+    <instance id="br-h16#w27_0" docsrc="br-h16">
+      <context> A former du_Pont official became a General_Motors vice_president and set_about maximizing du_Pont 's share of the General_Motors market . Lines of communications were established between the two <head>companies</head> and several du_Pont products were actively promoted . Within a_few years various du_Pont manufactured items were filling the entire requirements of from four to seven of General_Motors ' eight operating divisions . The Fisher_Body division , long controlled by the Fisher brothers under a voting_trust even though General_Motors owned a majority of its stock , followed an independent course for many years , but by 1947 and 1948 `` resistance had collapsed '' and its purchases from du_Pont `` compared favorably '' with purchases by other General_Motors divisions . Competitors came to receive higher percentage of General_Motors business in later years , but it is `` likely '' that this trend stemmed `` at_least in part '' from the needs of General_Motors outstripping du_Pont 's capacity .</context>
+    </instance>
+    <instance id="br-h16#w294_0" docsrc="br-h16">
+      <context> 353_U._S._,_at_605 . This Court agreed with the trial_court `` that considerations of price , quality and service were not overlooked by either du_Pont or General_Motors '' . 353_U._S._,_at_606 . However , it determined that neither this factor , nor `` the fact that all concerned in high executive posts in both companies acted honorably and fairly , each in the honest conviction that his actions were in the best interests of his own <head>company</head> and without any design to overreach anyone , including du_Pont 's competitors '' , 353_U._S._,_at_607 , outweighed the Government 's claim for relief . This claim , as submitted to the District_Court and dismissed by it , 126_F._Supp .235 , alleged violation not_only of 7 of the Clayton_Act , but also of 1 and 2 of the Sherman_Act . The latter provisions proscribe any contract , combination , or conspiracy in restraint of interstate or foreign trade , and monopolization of , or attempts , combinations , or conspiracies to monopolize , such trade . However , this Court put to one side without consideration the Government 's appeal from the dismissal of its Sherman_Act allegations .</context>
+    </instance>
+    <instance id="br-h16#w741_0" docsrc="br-h16">
+      <context> The section is violated whether or not actual restraints or monopolies , or the substantial lessening of competition , have occurred or are intended '' . 353_U._S._,_at_589 . Thus , a finding of conspiracy to restrain trade or attempt to monopolize was excluded from the Court 's decision . Indeed , as already noted , the Court proceeded on the assumption that the executives involved in the dealings between du_Pont and General_Motors acted `` honorably and fairly '' and exercised their business judgment only to serve what they deemed the best interests of their own <head>companies</head> . This , however , did not bar finding that du_Pont had become pre-eminent as a supplier of automotive fabrics and finishes to General_Motors ; that these products constituted a `` line of commerce '' within the meaning of the Clayton_Act ; that General_Motors ' share of the market for these products was substantial ; and that competition for this share of the market was endangered by the financial relationship between the two concerns : `` The statutory policy of fostering free competition is obviously furthered when no supplier has an advantage over his competitors from an acquisition of his customer 's stock likely to have the effects condemned by the statute . We repeat , that the test of a violation of 7 is whether , at the time of suit , there is a reasonable probability that the acquisition is likely to result in the condemned restraints .</context>
+    </instance>
+    <instance id="br-j38#w934_0" docsrc="br-j38">
+      <context> An extension of this program into the other distressed areas should be undertaken . Some of this trend toward area vocational_schools has been related to the problems of persistent labor surplus areas and their desire to attract new industry . The major training need of a new industrial plant is a short period of pre employment training for a large_number of semi-skilled machine operators . A_few key skilled_workers experienced in the <head>company</head> 's type of work usually must be brought_in with the plant manager , or hired away from a similar plant elsewhere . A prospective industry also may be interested in the long-run advantages of training_programs in the area to supply future skilled_workers and provide supplementary extension courses for its employees . The existence of a public_school vocational training_program in trade and industry provides a base from which such needs can be filled . Additional courses can readily be added and special cooperative programs worked_out with any new industry if the basic facilities , staff and program are in being .</context>
+    </instance>
+    <instance id="br-j41#w1426_0" docsrc="br-j41">
+      <context> Notice , however , that the passage of time does not permit the raising of prices per_se , without an accompanying wage increase . Similarly , higher levels of GNP do not , in themselves , provide grounds for raising prices , but they do relax some of the pressure on the industry so that it can raise prices higher for a given wage increase . This is not extended to anticipated levels of GNP , however - only the current level of GNP affects the public pressure against wage price increases . Finally , since the public requires some restraint on the part of the <head>companies</head> , larger wage increases call_for less_than proportionately larger price increases ( e._g. , if a wage increase of 5 % allows a price increase of 7 % , a wage increase of 10 % allows a price increase of something less_than 14 % ) . We assume that average total unit_cost in the relevant region of operation is constant with_respect_to quantity produced ( the average_cost curve is horizontal , and therefore is identical with the marginal_cost curve ) , and is the same for every firm ( and therefore for the industry ) . The level of this average_cost is determined by factor prices , technology , and_so_forth . As we have noted , however , we are abstracting from changes in all determinants of this level except for changes in the wage rate .</context>
+    </instance>
+    <instance id="br-j41#w1918_0" docsrc="br-j41">
+      <context> Disagreement on the amount of productivity increase exacerbates the problem of agreeing how an increase in profit_margins related to a productivity increase should be shared . The existence of conflict and of vigorous union demand for an increase in money wages does not contradict the assumption that the union is willing to settle for cost-of-living and productivity share increases as distinct from a cost raising increase in the basic wage rate . We assume further that the union recognizes the possibility that price level increases may offset wage rate increases , and it does not entirely disregard the effect of price increases arising from its own wage increases upon the `` real '' wage rate . For internal political reasons , the union asks for ( and accepts ) increases in the basic wage rate , and would vigorously oppose a reduction in this rate , but the adjustment of the basic wage rate upwards is essentially up_to the discretion of the <head>companies</head> of the industry . Changes in the basic wage rate are cost raising , and they constitute an argument for raising prices . However , it is not known to either the union or the public precisely how much of a cost increase is caused by a given change in the basic wage rate , although the companies are presumed to have reliable estimates of this magnitude . In this model , then , the industry is presumed to realize that they could successfully resist a change in the basic wage rate , but since such a change is the only effective means to raising prices they may , in circumstances to be spelled_out in Part 2 , below , find it to their advantage to allow the wage rise .</context>
+    </instance>
+    <instance id="br-j41#w1976_0" docsrc="br-j41">
+      <context> We assume further that the union recognizes the possibility that price level increases may offset wage rate increases , and it does not entirely disregard the effect of price increases arising from its own wage increases upon the `` real '' wage rate . For internal political reasons , the union asks for ( and accepts ) increases in the basic wage rate , and would vigorously oppose a reduction in this rate , but the adjustment of the basic wage rate upwards is essentially up_to the discretion of the companies of the industry . Changes in the basic wage rate are cost raising , and they constitute an argument for raising prices . However , it is not known to either the union or the public precisely how much of a cost increase is caused by a given change in the basic wage rate , although the <head>companies</head> are presumed to have reliable estimates of this magnitude . In this model , then , the industry is presumed to realize that they could successfully resist a change in the basic wage rate , but since such a change is the only effective means to raising prices they may , in circumstances to be spelled_out in Part 2 , below , find it to their advantage to allow the wage rise . Thus , for non negative changes in the basic wage rate , the industry becomes the active wage_setter , since any increase in the basic wage rate can occur only by reason of industry acquiescence . The presumption in the literature would appear to be that the basic wage rate would be unchanged in this case , on the grounds that it is `` clearly '' not in the interest of the industry to raise wages gratuitously .</context>
+    </instance>
+    <instance id="br-j55#w1154_0" docsrc="br-j55">
+      <context> His friends advised that it would be only a question of time until either the Mexicans killed him by ambuscade or he would be compelled to kill them in self-defense , perpetuating the troubles . By early summer , he wrote from Laramie that he was suffering from the wound inflicted in the ambush and was in_a_bad_way financially , so Pels sent him a draft for $ 100 , warning that it was still not wise for him to return . Pels also sent a check for $ 100 to Russell 's widow and had a white marble monument erected on his grave . Cattle stealing and killing , again serious during the spring of 1891 , placed the land_grant <head>company</head> officers in a perplexing position . They were reluctant to appoint sheriffs to protect the property , thus running_the_risk of creating disturbances such_as that on the Vermejo , and yet the cowboys protested that they got no salary for arresting cattle_thieves and running_the_risk of being shot . And the law virtually ignored the situation . The judge became ill just as the Colfax_District_Court convened , no substitute was brought_in , no criminal cases heard , only 5 out of 122 cases docketed were tried , and court adjourned sine_die after sitting a_few days instead_of the usual three weeks .</context>
+    </instance>
+    <instance id="br-j55#w1306_0" docsrc="br-j55">
+      <context> The judge became ill just as the Colfax_District_Court convened , no substitute was brought_in , no criminal cases heard , only 5 out of 122 cases docketed were tried , and court adjourned sine_die after sitting a_few days instead_of the usual three weeks . Pels complained : `` Litigants and witnesses were put to the expense and inconvenience of going long distances to transact business ; public money spent ; justice delayed ; nothing accomplished , and the whole distribution of justice in this county seems to be an absolute farce '' . Word reached the <head>company</head> that the man behind these depredations was Manuel_Gonzales , a man with many followers , including a number who were kept in line through fear of him . Although wanted by the sheriff for killing an old_man named Asher_Jones , the warrant for his arrest had never been served . On May 19 , a deputy_sheriff 's posse of eight men left Maxwell_City and rode thirty-five miles up the Vermejo where they were joined by Juan_Jose_Martinez . By 3 : 00 A.M. they reached his house and found it vacant .</context>
+    </instance>
+    <instance id="br-j55#w364_0" docsrc="br-j55">
+      <context> Suspecting an ambush , the two deputies decided to ride up a side canyon taking a short_cut into Catskill . After spending two nights ( Wednesday and Thursday ) in Catskill , the deputies again headed for the Vermejo to finish their business . They stayed with a rancher Friday night and by eleven o'clock Saturday morning passed the old Garnett_Lee ranch . Half a mile below at the mouth of Salyer_'s_Canyon was an old ranch that the <head>company</head> had purchased from A._J._Armstrong , occupied by a Mexican , his wife , and an old trapper . There were three houses in Salyer_'s_Canyon just at the foot of a low bluff , the road winding along the top , entering above , and_then passing down in_front_of the houses , thence to the Vermejo . To the west of this road was another low bluff , forty or fifty feet high , covered with scrub_oak and other brush . As they were riding along this winding road on the bench of land between the two bluffs , a volley of rifle fire suddenly crashed around the two officers .</context>
+    </instance>
+    <instance id="br-j55#w976_0" docsrc="br-j55">
+      <context> The officer demanded the names of the injured men ; the Mexicans not_only refused to give them , but told the possemen if they wanted a fight they could have it . Since the strength of the Mexicans had been underrated , too small a posse had been collected , and since the deputy had not been provided with search_warrants , MacPherson and his men decided it was much wiser to withdraw . The posse 's retreat encouraged the Mexicans to be overbearing and impudent . During the following week , six tons of hay belonging to one rancher were burned ; some buildings , farm tools , two horses , plows , and hay owned by Bonito_Lavato , a friendly interpreter for the <head>company</head> , and Pedro_Chavez ' hay were stolen or destroyed ; and a store was broken into and robbed . District_Attorney M._W._Mills warned that he would vigorously prosecute persons caught committing these crimes or carrying arms - he just did n't catch anyone . Increasing threats on his life finally convinced Cook that he should leave New_Mexico . His friends advised that it would be only a question of time until either the Mexicans killed him by ambuscade or he would be compelled to kill them in self-defense , perpetuating the troubles .</context>
+    </instance>
+    <instance id="br-j56#w1808_0" docsrc="br-j56">
+      <context> It was at the end of the sidewalk in_front of the Dellwood_Cemetery cottage . The first directors of the Manchester_Light_and_Power_Company were John_Marsden , M._L._Manley , William_F._Orvis , George_Smith , and John_Blackmer . The officers were John_Marsden , president ; John_C._Blackmer , vice-president ; George_Smith , treasurer ; and William_F._Orvis , secretary . Marsden was manager of the <head>company</head> for ten years and manager of its successor company , the Colonial_Light_and_Power_Company , for one year . At about the time the Marsden enterprise was getting under_way , the Vail_Light_and_Lumber_Company started construction of a chair stock factory on the site of the present Bennington_Co-operative_Creamery , intending to use its surplus power for generating electricity . Manchester then had two competing power_companies until 1904 , when the Manchester_Light_and_Power_Company purchased the transmission system of the Vail_Company . This was fortunate , as the Vail plant burned in 1905 .</context>
+    </instance>
+    <instance id="br-j56#w1817_0" docsrc="br-j56">
+      <context> It was at the end of the sidewalk in_front of the Dellwood_Cemetery cottage . The first directors of the Manchester_Light_and_Power_Company were John_Marsden , M._L._Manley , William_F._Orvis , George_Smith , and John_Blackmer . The officers were John_Marsden , president ; John_C._Blackmer , vice-president ; George_Smith , treasurer ; and William_F._Orvis , secretary . Marsden was manager of the company for ten years and manager of its successor <head>company</head> , the Colonial_Light_and_Power_Company , for one year . At about the time the Marsden enterprise was getting under_way , the Vail_Light_and_Lumber_Company started construction of a chair stock factory on the site of the present Bennington_Co-operative_Creamery , intending to use its surplus power for generating electricity . Manchester then had two competing power_companies until 1904 , when the Manchester_Light_and_Power_Company purchased the transmission system of the Vail_Company . This was fortunate , as the Vail plant burned in 1905 .</context>
+    </instance>
+    <instance id="br-j56#w430_0" docsrc="br-j56">
+      <context> At_any_rate , Manchester did not lag far behind the first commercial system which was set_up in 1844 between Baltimore and Washington . In 1846 Matthew_B._Goodwin , jeweler and watchmaker , became the town 's first telegrapher in a dwelling he built for himself and his business `` two doors north of the Equinox_House '' or `` one door north of the Bank , Manchester , Vermont '' . Goodwin was telegrapher for the `` American_Telegraph_Company '' and the `` Troy_and_Canada_Junction_Telegraph_Company '' . Shares of capital_stock at $ 15 each in the latter <head>company</head> were payable at the Bank_of_Manchester or at various other Vermont banks . A message of less_than fifteen words to Bennington cost twenty-five cents . By 1871 L._C._Orvis , manager of the `` Western_Union_Telegraph_Company '' , expressed willingness to send emergency telegrams on Sundays from his Village drugstore . Orvis even needed to hire an assistant , Clark_J._Wait .</context>
+    </instance>
+    <instance id="br-j56#w552_0" docsrc="br-j56">
+      <context> Orvis even needed to hire an assistant , Clark_J._Wait . The Manchester_Journal commented editorially on the surprising amount of local telegraphic business . In the fall of 1878 , the `` Popular_Telegraph_Line '' was established between Manchester and Factory_Point by the owners , Paul_W._Orvis , Henry_Gray , J._N._Hard , and Clark_J._Wait . The line soon lived_up_to its name , as local messages of moderate length could be sent for a dime and the <head>company</head> was quickly able to declare very liberal dividends on its capital_stock . In 1879 the same Clark_Wait , with H._H._Holley of South_Dorset , formed the `` American_Telegraph_Line '' , extending from Manchester_Depot via Factory_Point and South_Dorset to Dorset . Besides being most convenient , the line `` soon proved a good investment for the owners '' . Telegraphers at the Depot at this time were Aaron_C._Burr and Mark_Manley of `` Burr_and_Manley '' , dealers in lumber and dry_goods .</context>
+    </instance>
+    <instance id="br-j56#w651_0" docsrc="br-j56">
+      <context> Besides being most convenient , the line `` soon proved a good investment for the owners '' . Telegraphers at the Depot at this time were Aaron_C._Burr and Mark_Manley of `` Burr_and_Manley '' , dealers in lumber and dry_goods . Early equipment was very flimsy ; the smallest gusts of wind toppled poles , making communications impossible . But <head>companies</head> continued to spring_up . By 1883 the `` Battenkill_Telegraph_Company '' was in existence and Alvin_Pettibone was its president . Operating in 1887 was the `` Valley_Telegraph_Line '' , officers of which were E._C._Orvis , president ; H._K._Fowler , vice-president and secretary ; J._N._Hard , treasurer ; F._H._Walker , superintendent ; H._S._Walker , assistant superintendent . Two companies now had headquarters with Clark_J._Wait , who by then had his own drugstore at Factory_Point - the `` Northern_Union_Telegraph_Company '' and the `` Western_Union '' .</context>
+    </instance>
+    <instance id="br-j56#w708_0" docsrc="br-j56">
+      <context> But companies continued to spring_up . By 1883 the `` Battenkill_Telegraph_Company '' was in existence and Alvin_Pettibone was its president . Operating in 1887 was the `` Valley_Telegraph_Line '' , officers of which were E._C._Orvis , president ; H._K._Fowler , vice-president and secretary ; J._N._Hard , treasurer ; F._H._Walker , superintendent ; H._S._Walker , assistant superintendent . Two <head>companies</head> now had headquarters with Clark_J._Wait , who by then had his own drugstore at Factory_Point - the `` Northern_Union_Telegraph_Company '' and the `` Western_Union '' . Operators were Arthur_Koop and Norman_Taylor . Still existing on a `` Northern_Union '' telegraph_form is a typical peremptory message from Peru grocer J._J._Hapgood to Burton and Graves ' store in Manchester - `` Get and send by stage sure four pounds best Porterhouse or sirloin steak , for Mrs._Hapgood send six sweet_oranges '' . About 1888 J._E._McNaughton of Barnumville and E._G._Bacon became proprietors of the `` Green_Mountain_Telegraph_Company '' , connecting all offices on the Western_Union line and extending over the mountain from Barnumville to Peru , Londonderry , South_Londonderry , Lowell_Lake , Windham , North_Windham , Grafton , Cambridgeport , Saxton_'s_River , and Bellows_Falls .</context>
+    </instance>
+    <instance id="br-n09#w1645_0" docsrc="br-n09">
+      <context> Do n't like to bother no_one unless we have to , which I figger we do , in your case . Figger we got_to be plumb careful with any of you Highlands big_shots '' . McBride reddened . He himself had heard that there was gangster money in the <head>company</head> , but that had nothing to do with him . He was an honest man doing a hard job , and the implication that he was anything else was unbearable . `` Look , Lord '' , he said hoarsely . `` I know you 've_got a grudge against me , and maybe I can n't blame you .</context>
+    </instance>
+    <instance id="br-n11#w1716_0" docsrc="br-n11">
+      <context> This was the message found tacked to the cabin door . Keane left , within three days . All through Albany and Laramie counties , other men were doing the same . Houses of settlers who 'd treated the <head>company</head> herds as a natural_resource , free for the taking , were sitting empty , with weeds growing high in their yards . The small half-heartedly tended fields of men who 'd spent more time rustling cattle than farming were lying fallow . No cow thief could count_on a jury of his sympathetic peers to free him any_longer . Jury , judge and executioner were riding the range in the form of a single unknown figure that could materialize anywhere , at any time , to dispense an ancient brand of justice the men of the new West had believed long outdated .</context>
+    </instance>
+    <instance id="br-n11#w790_0" docsrc="br-n11">
+      <context> For a blood chilling ring of terror to the very sound of his name was the tool he needed for the job he 'd promised to do . Tom_Horn was soon back at_work , giving his secret employers their money 's worth . A good many beef hungry settlers were accepting the death of William_Lewis as proof that the warning notes were not idle threats . The <head>company</head> herds were being raided less often , and cabins and soddies all_over the range were standing deserted . But there were other homesteaders who passed the Lewis murder off as a personal grudge killing , the work of one of his neighbors . The rustling problem was by_no_means solved . Even in the very area where the shooting had been done , cattle were still disappearing .</context>
+    </instance>
+    <instance id="br-r04#w1840_0" docsrc="br-r04">
+      <context> There was no question of_that . `` By_the_way '' , said Mr._Blatz , packing his tools into a battered carrier , `` them power_tools needs extra voltage . I guess you know about that . Before you use ' em the light <head>company</head> 's got to run in a heavy line and you 'll need a new fuse box for the extra circuits . That ai n't too bad ' ceptin ' the light_company 's so busy you can n't ever get ' em to do nothin '' ' . Instead of being depressed by this news , Mr._Crombie was actually relieved . At_least the moment was postponed when he had_to face the mystery of the power_tools .</context>
+    </instance>
+    <instance id="n00081395_d_7" docsrc="n00081395_d">
+      <context> an option granted to corporate_executives if the <head>company</head> achieves certain financial goals ;</context>
+    </instance>
+    <instance id="n00176609_d_8" docsrc="n00176609_d">
+      <context> a poison_pill with potentially catastrophic implications for the <head>company</head> it is intended to protect ;</context>
+    </instance>
+    <instance id="n00176766_d_7" docsrc="n00176766_d">
+      <context> the target_company defends itself by acquiring a <head>company</head> so onerously regulated that it makes the target less attractive ;</context>
+    </instance>
+    <instance id="n00785818_d_5" docsrc="n00785818_d">
+      <context> a joint_venture between a foreign <head>company</head> and a United_States company ;</context>
+    </instance>
+    <instance id="n00785818_d_9" docsrc="n00785818_d">
+      <context> a joint_venture between a foreign company and a United_States <head>company</head> ;</context>
+    </instance>
+    <instance id="n00789534_d_3" docsrc="n00789534_d">
+      <context> acquisition of a <head>company</head> by purchasing a controlling percentage of its stock ;</context>
+    </instance>
+    <instance id="n00790347_d_10" docsrc="n00790347_d">
+      <context> an offer to buy shares in order to take_over the <head>company</head> ;</context>
+    </instance>
+    <instance id="n00799236_d_9" docsrc="n00799236_d">
+      <context> a campaign of flattery and friendliness ( by a <head>company</head> , politician , etc. ) to become more popular and gain support ;</context>
+    </instance>
+    <instance id="n00952787_d_13" docsrc="n00952787_d">
+      <context> the joint development of a petroleum resource that straddles territory controlled by different <head>companies</head> ;</context>
+    </instance>
+    <instance id="n01113595_d_5" docsrc="n01113595_d">
+      <context> a way of selling a <head>company's</head> product either directly or via distributors ;</context>
+    </instance>
+    <instance id="n01115017_d_4" docsrc="n01115017_d">
+      <context> the sale by a <head>company</head> of a product_line or a subsidiary or a division ;</context>
+    </instance>
+    <instance id="n01201021_d_7" docsrc="n01201021_d">
+      <context> the social act of separating or parting <head>company</head> ;</context>
+    </instance>
+    <instance id="n01238424_d_7" docsrc="n01238424_d">
+      <context> the combination of two or more commercial <head>companies</head> ;</context>
+    </instance>
+    <instance id="n02204907_d_15" docsrc="n02204907_d">
+      <context> larva of fungus_gnat that feed on cereals and other grains ; they march in large <head>companies</head> in regular order when the food is exhausted ;</context>
+    </instance>
+    <instance id="n02857644_d_13" docsrc="n02857644_d">
+      <context> a room where a committee meets ( such as the board_of_directors of a <head>company</head> ) ;</context>
+    </instance>
+    <instance id="n05188367_d_21" docsrc="n05188367_d">
+      <context> the 
+     _to_vote ; especially the right of a common shareholder to in person or by proxy on the affairs of a <head>company</head> ;</context>
+    </instance>
+    <instance id="n05738404_d_5" docsrc="n05738404_d">
+      <context> an evaluation by a rating <head>company</head> of the probability that a particular bond_issue will default ;</context>
+    </instance>
+    <instance id="n05912814_d_7" docsrc="n05912814_d">
+      <context> an organized plan for employees of a <head>company</head> to buy shares of its stock ;</context>
+    </instance>
+    <instance id="n05912969_d_15" docsrc="n05912969_d">
+      <context> a program under which employees regularly accumulate shares and may ultimately assume control of the <head>company</head> ;</context>
+    </instance>
+    <instance id="n06356755_d_10" docsrc="n06356755_d">
+      <context> a code for information exchange between computers made by different <head>companies</head> ; a string of 7 binary_digits represents each character ; used in most microcomputers ;</context>
+    </instance>
+    <instance id="n06494373_d_4" docsrc="n06494373_d">
+      <context> a listing on the <head>company's</head> records ;</context>
+    </instance>
+    <instance id="n06526811_d_5" docsrc="n06526811_d">
+      <context> an authorization to sell a <head>company's</head> goods or services in a particular place ;</context>
+    </instance>
+    <instance id="n06527710_d_8" docsrc="n06527710_d">
+      <context> contract governing the merger of two or more <head>companies</head> ;</context>
+    </instance>
+    <instance id="n06531327_d_6" docsrc="n06531327_d">
+      <context> the letters used to identify listed <head>companies</head> on the securities exchanges where they are traded ;</context>
+    </instance>
+    <instance id="n06540284_d_16" docsrc="n06540284_d">
+      <context> an agreement between two parties that is sanctioned by the court ; for example , a <head>company</head> might agree to stop certain questionable practices without admitting guilt ;</context>
+    </instance>
+    <instance id="n06618653_d_14" docsrc="n06618653_d">
+      <context> a low-budget Western movie produced by a European ( especially an Italian ) film <head>company</head> ;</context>
+    </instance>
+    <instance id="n06622020_d_21" docsrc="n06622020_d">
+      <context> a serialized program usually dealing with sentimentalized family matters that is broadcast on radio or television ( frequently sponsored by a <head>company</head> advertising soap products ) ;</context>
+    </instance>
+    <instance id="n06851516_d_3" docsrc="n06851516_d">
+      <context> trade_name of a <head>company</head> that produces musical recordings ;</context>
+    </instance>
+    <instance id="n07217117_d_8" docsrc="n07217117_d">
+      <context> a concession made by a labor_union to a <head>company</head> that is trying to lower its expenditures ;</context>
+    </instance>
+    <instance id="n07272084_d_1" docsrc="n07272084_d">
+      <context> a <head>company</head> emblem or device ;</context>
+    </instance>
+    <instance id="n07603613_d_8" docsrc="n07603613_d">
+      <context> a bar of milk_chocolate made by the Hershey <head>company</head> ;</context>
+    </instance>
+    <instance id="n08002015_d_1" docsrc="n08002015_d">
+      <context> a <head>company</head> that manages tv or radio_stations ;</context>
+    </instance>
+    <instance id="n08002269_d_1" docsrc="n08002269_d">
+      <context> a <head>company</head> that makes and sells automobiles ;</context>
+    </instance>
+    <instance id="n08002384_d_1" docsrc="n08002384_d">
+      <context> a <head>company</head> that operates its business primarily on the internet using a URL that ends in .com ;</context>
+    </instance>
+    <instance id="n08002578_d_1" docsrc="n08002578_d">
+      <context> a <head>company</head> that makes and sells pharmaceuticals ;</context>
+    </instance>
+    <instance id="n08002717_d_2" docsrc="n08002717_d">
+      <context> an English <head>company</head> formed in 1600 to develop trade with the new British colonies in India and southeastern Asia ; in the 18th century it assumed administrative control of Bengal and held it until the British army took_over in 1858 after the Indian_Mutiny ;</context>
+    </instance>
+    <instance id="n08003035_d_1" docsrc="n08003035_d">
+      <context> a <head>company</head> that makes and sells electronic_instruments ;</context>
+    </instance>
+    <instance id="n08003427_d_1" docsrc="n08003427_d">
+      <context> a <head>company</head> that processes and sells food ;</context>
+    </instance>
+    <instance id="n08003525_d_1" docsrc="n08003525_d">
+      <context> a <head>company</head> that sells furniture ;</context>
+    </instance>
+    <instance id="n08003619_d_1" docsrc="n08003619_d">
+      <context> a <head>company</head> that owns and manages mines ;</context>
+    </instance>
+    <instance id="n08003717_d_1" docsrc="n08003717_d">
+      <context> a <head>company</head> that provides shipping services ;</context>
+    </instance>
+    <instance id="n08003839_d_1" docsrc="n08003839_d">
+      <context> a <head>company</head> that makes and sells steel ;</context>
+    </instance>
+    <instance id="n08003935_d_1" docsrc="n08003935_d">
+      <context> a <head>company</head> that is completely controlled by another company ;</context>
+    </instance>
+    <instance id="n08003935_d_8" docsrc="n08003935_d">
+      <context> a company that is completely controlled by another <head>company</head> ;</context>
+    </instance>
+    <instance id="n08004089_d_1" docsrc="n08004089_d">
+      <context> a <head>company</head> providing transportation ;</context>
+    </instance>
+    <instance id="n08004210_d_1" docsrc="n08004210_d">
+      <context> a <head>company</head> that ships goods or possessions by truck ;</context>
+    </instance>
+    <instance id="n08058098_ex1_7" docsrc="n08058098_ex1">
+      <context> he only invests in large well established <head>companies</head> ;</context>
+    </instance>
+    <instance id="n08058098_ex2_3" docsrc="n08058098_ex2">
+      <context> he started the <head>company</head> in his garage ;</context>
+    </instance>
+    <instance id="n08058937_d_4" docsrc="n08058937_d">
+      <context> a group of diverse <head>companies</head> under common ownership and run as a single organization ;</context>
+    </instance>
+    <instance id="n08060193_d_13" docsrc="n08060193_d">
+      <context> a business established or operated under an authorization to sell or distribute a <head>company's</head> goods or services in a particular area ;</context>
+    </instance>
+    <instance id="n08061905_d_1" docsrc="n08061905_d">
+      <context> a <head>company</head> that markets merchandise ;</context>
+    </instance>
+    <instance id="n08065234_d_3" docsrc="n08065234_d">
+      <context> the people or <head>companies</head> engaged in a particular kind of commercial_enterprise ;</context>
+    </instance>
+    <instance id="n08069241_d_1" docsrc="n08069241_d">
+      <context> a <head>company</head> that sells oil ;</context>
+    </instance>
+    <instance id="n08069342_d_1" docsrc="n08069342_d">
+      <context> a <head>company</head> that packages goods for sale or shipment or storage ;</context>
+    </instance>
+    <instance id="n08069487_d_1" docsrc="n08069487_d">
+      <context> a <head>company</head> that operates oil_pipelines for the oil_industry ;</context>
+    </instance>
+    <instance id="n08069627_d_1" docsrc="n08069627_d">
+      <context> a <head>company</head> that does commercial printing ;</context>
+    </instance>
+    <instance id="n08070850_d_14" docsrc="n08070850_d">
+      <context> a financial_institution that sells shares to individuals and invests in securities issued by other <head>companies</head> ;</context>
+    </instance>
+    <instance id="n08075929_d_1" docsrc="n08075929_d">
+      <context> a <head>company</head> that invests in ( acquires control of ) other companies ;</context>
+    </instance>
+    <instance id="n08075929_d_11" docsrc="n08075929_d">
+      <context> a company that invests in ( acquires control of ) other <head>companies</head> ;</context>
+    </instance>
+    <instance id="n08076075_d_1" docsrc="n08076075_d">
+      <context> a <head>company</head> that has been chosen as attractive for takeover by a potential acquirer ;</context>
+    </instance>
+    <instance id="n08076253_d_7" docsrc="n08076253_d">
+      <context> a corporate_investor who intends to take_over a <head>company</head> by buying a controlling_interest in its stock and installing new management ;</context>
+    </instance>
+    <instance id="n08076705_d_1" docsrc="n08076705_d">
+      <context> a <head>company</head> that is a friendly acquirer in a takeover ;</context>
+    </instance>
+    <instance id="n08077711_ex1_4" docsrc="n08077711_ex1">
+      <context> a hook and ladder <head>company</head> ;</context>
+    </instance>
+    <instance id="n08184861_ex1_5" docsrc="n08184861_ex1">
+      <context> the house was filled with <head>company</head> when I arrived ;</context>
+    </instance>
+    <instance id="n08185211_d_1" docsrc="n08185211_d">
+      <context> a <head>company</head> that is organized to give its owners limited_liability ;</context>
+    </instance>
+    <instance id="n08185369_d_1" docsrc="n08185369_d">
+      <context> a <head>company</head> with controlling shares in other companies ;</context>
+    </instance>
+    <instance id="n08185369_d_7" docsrc="n08185369_d">
+      <context> a company with controlling shares in other <head>companies</head> ;</context>
+    </instance>
+    <instance id="n08185758_d_1" docsrc="n08185758_d">
+      <context> a <head>company</head> that performs a public_service ; subject to government regulation ;</context>
+    </instance>
+    <instance id="n08186047_d_1" docsrc="n08186047_d">
+      <context> a <head>company</head> or agency that performs a public_service ; subject to government regulation ;</context>
+    </instance>
+    <instance id="n08186898_d_4" docsrc="n08186898_d">
+      <context> one of the chartered <head>companies</head> of London originating with the craft guilds ;</context>
+    </instance>
+    <instance id="n08187370_d_1" docsrc="n08187370_d">
+      <context> a <head>company</head> that produces operas ;</context>
+    </instance>
+    <instance id="n08187460_d_1" docsrc="n08187460_d">
+      <context> a <head>company</head> that produces plays ;</context>
+    </instance>
+    <instance id="n08187707_d_1" docsrc="n08187707_d">
+      <context> a <head>company</head> that produces ballets ;</context>
+    </instance>
+    <instance id="n08213671_d_6" docsrc="n08213671_d">
+      <context> an army_unit usually consisting of five <head>companies</head> ;</context>
+    </instance>
+    <instance id="n08234792_d_7" docsrc="n08234792_d">
+      <context> a union of workers for a single <head>company</head> ; a union not affiliated with a larger union ;</context>
+    </instance>
+    <instance id="n08234935_d_1" docsrc="n08234935_d">
+      <context> a <head>company</head> whose workers are hired without regard to their membership in a labor_union ;</context>
+    </instance>
+    <instance id="n08235076_d_1" docsrc="n08235076_d">
+      <context> a <head>company</head> that hires only union_members ;</context>
+    </instance>
+    <instance id="n08235173_d_1" docsrc="n08235173_d">
+      <context> a <head>company</head> allowed to hire nonunion workers on the condition that they will join the union within a specified time ;</context>
+    </instance>
+    <instance id="n08236438_d_3" docsrc="n08236438_d">
+      <context> an association of <head>companies</head> for some definite purpose ;</context>
+    </instance>
+    <instance id="n08237699_d_3" docsrc="n08237699_d">
+      <context> a cartel of <head>companies</head> or nations formed to control the production and distribution of oil ;</context>
+    </instance>
+    <instance id="n08251213_d_1" docsrc="n08251213_d">
+      <context> a <head>company</head> of companions or supporters ;</context>
+    </instance>
+    <instance id="n08264897_ex2_1" docsrc="n08264897_ex2">
+      <context> the <head>company</head> of cooks walked into the kitchen ;</context>
+    </instance>
+    <instance id="n08274443_d_7" docsrc="n08274443_d">
+      <context> a cavalry unit corresponding to an infantry <head>company</head> ;</context>
+    </instance>
+    <instance id="n08274826_d_7" docsrc="n08274826_d">
+      <context> any cohesive unit such as a military <head>company</head> ;</context>
+    </instance>
+    <instance id="n08285719_d_1" docsrc="n08285719_d">
+      <context> a <head>company</head> of militia in England or America from the 16th century to the 18th century ;</context>
+    </instance>
+    <instance id="n08301307_d_6" docsrc="n08301307_d">
+      <context> a United_Nations_agency that invests directly in <head>companies</head> and guarantees loans to private investors ; affiliated with the World_Bank ;</context>
+    </instance>
+    <instance id="n08310168_d_12" docsrc="n08310168_d">
+      <context> a meeting at which the management reports to the stockholders of a <head>company</head> ;</context>
+    </instance>
+    <instance id="n08336627_d_17" docsrc="n08336627_d">
+      <context> a collection of works ( plays , songs , operas , ballets ) that an artist or <head>company</head> can perform and do perform for short intervals on a regular schedule ;</context>
+    </instance>
+    <instance id="n08383310_d_1" docsrc="n08383310_d">
+      <context> a <head>company</head> whose capital is represented by stock ;</context>
+    </instance>
+    <instance id="n08383417_d_1" docsrc="n08383417_d">
+      <context> a <head>company</head> ( usually unincorporated ) which has the capital of its members pooled in a common fund ; transferable shares represent ownership interest ; shareholders are legally liable for all debts of the company ;</context>
+    </instance>
+    <instance id="n08383417_d_34" docsrc="n08383417_d">
+      <context> a company ( usually unincorporated ) which has the capital of its members pooled in a common fund ; transferable shares represent ownership interest ; shareholders are legally liable for all debts of the <head>company</head> ;</context>
+    </instance>
+    <instance id="n08384201_d_1" docsrc="n08384201_d">
+      <context> a <head>company</head> that is incorporated but has no assets or operations ;</context>
+    </instance>
+    <instance id="n08421441_d_18" docsrc="n08421441_d">
+      <context> a finance_company owned by a manufacturer to finance dealers' inventories or to make loans to consumers buying the <head>company's</head> products ;</context>
+    </instance>
+    <instance id="n08478261_d_1" docsrc="n08478261_d">
+      <context> a <head>company</head> that makes and sells musical recordings ;</context>
+    </instance>
+    <instance id="n08478482_d_1" docsrc="n08478482_d">
+      <context> a <head>company</head> that moves the possessions of a family or business from one site to another ;</context>
+    </instance>
+    <instance id="n08478702_d_1" docsrc="n08478702_d">
+      <context> a <head>company</head> that does research for hire and issues reports on the implications ;</context>
+    </instance>
+    <instance id="n08480135_d_1" docsrc="n08480135_d">
+      <context> a <head>company</head> of people assembled at a table for a meal or game ;</context>
+    </instance>
+    <instance id="n08480512_d_2" docsrc="n08480512_d">
+      <context> a select <head>company</head> of people ;</context>
+    </instance>
+    <instance id="n08481715_d_1" docsrc="n08481715_d">
+      <context> a <head>company</head> in the business of shipping freight ;</context>
+    </instance>
+    <instance id="n08503004_d_19" docsrc="n08503004_d">
+      <context> a small country ( especially in Central_America ) that is politically unstable and whose economy is dominated by foreign <head>companies</head> and depends_on one export ( such as bananas ) ;</context>
+    </instance>
+    <instance id="n09786922_d_11" docsrc="n09786922_d">
+      <context> a businessman who arranges an amalgamation of two or more commercial <head>companies</head> ;</context>
+    </instance>
+    <instance id="n09865954_d_6" docsrc="n09865954_d">
+      <context> someone who engages a person or <head>company</head> for performances ;</context>
+    </instance>
+    <instance id="n09887850_ex1_10" docsrc="n09887850_ex1">
+      <context> the room was a mess because he had n't expected <head>company</head> ;</context>
+    </instance>
+    <instance id="n09945905_d_7" docsrc="n09945905_d">
+      <context> a friend who is frequently in the <head>company</head> of another ;</context>
+    </instance>
+    <instance id="n09946437_d_8" docsrc="n09946437_d">
+      <context> an employee whose first loyalty is to the <head>company</head> rather than to fellow_workers ;</context>
+    </instance>
+    <instance id="n09946574_d_6" docsrc="n09946574_d">
+      <context> an operator who works for a <head>company</head> ;</context>
+    </instance>
+    <instance id="n10211463_d_8" docsrc="n10211463_d">
+      <context> an auditor who is an employee of the <head>company</head> whose records are audited and who provides information to the management and board_of_directors ;</context>
+    </instance>
+    <instance id="n10270628_d_5" docsrc="n10270628_d">
+      <context> a person who avoids the <head>company</head> or assistance of others ;</context>
+    </instance>
+    <instance id="n10505459_d_10" docsrc="n10505459_d">
+      <context> executive who is very successful in bringing_in business to his <head>company</head> or firm ;</context>
+    </instance>
+    <instance id="n10517137_d_17" docsrc="n10517137_d">
+      <context> a person employed to keep a record of the owners of stocks and bonds issued by the <head>company</head> ;</context>
+    </instance>
+    <instance id="n10636014_d_20" docsrc="n10636014_d">
+      <context> a public_relations_person who tries to forestall negative publicity by publicizing a favorable interpretation of the words or actions of a <head>company</head> or political_party or famous_person ;</context>
+    </instance>
+    <instance id="n10711253_d_6" docsrc="n10711253_d">
+      <context> an owner or manager of a <head>company</head> that is engaged in lumbering ;</context>
+    </instance>
+    <instance id="n10991936_d_5" docsrc="n10991936_d">
+      <context> United_States computer entrepreneur whose software <head>company</head> made him the youngest multi-billionaire in the history of the United_States ;</context>
+    </instance>
+    <instance id="n11018862_d_17" docsrc="n11018862_d">
+      <context> United_States industrialist ( born in Switzerland ) who with his sons established vast mining and metal processing <head>companies</head> ;</context>
+    </instance>
+    <instance id="n11099438_d_25" docsrc="n11099438_d">
+      <context> United_States_
+     _manufacturer who ( with his brother ) developed a breakfast cereal of crisp flakes of rolled and toasted wheat and corn ; he established a <head>company</head> to manufacture the cereal ;</context>
+    </instance>
+    <instance id="n11302224_d_5" docsrc="n11302224_d">
+      <context> English electrical_engineer who founded a <head>company</head> that introduced many innovative products ;</context>
+    </instance>
+    <instance id="n11340642_d_11" docsrc="n11340642_d">
+      <context> United_States_
+     _engineer ( born in England ) who in 1892 formed a <head>company</head> with Thomas_Edison ;</context>
+    </instance>
+    <instance id="n11399274_d_10" docsrc="n11399274_d">
+      <context> United_States businessman ( born in German ) who founded a <head>company</head> to make pipe_organs ;</context>
+    </instance>
+    <instance id="n13241407_d_7" docsrc="n13241407_d">
+      <context> the right of a shareholder in a <head>company</head> to subscribe to shares of a new issue of common_stock before it is offered to the public ;</context>
+    </instance>
+    <instance id="n13255994_d_17" docsrc="n13255994_d">
+      <context> income before interest and taxes and depreciation and amortization have been subtracted ; an indicator of a <head>company's</head> profitability that is watched by investors ( especially in leveraged_buyouts ) ;</context>
+    </instance>
+    <instance id="n13259481_d_4" docsrc="n13259481_d">
+      <context> the portion of a <head>company's</head> profit allocated to each outstanding share of common_stock ;</context>
+    </instance>
+    <instance id="n13261380_d_14" docsrc="n13261380_d">
+      <context> income received but not yet earned ( usually considered a current liability on a <head>company's</head> balance_sheet ) ;</context>
+    </instance>
+    <instance id="n13329641_d_13" docsrc="n13329641_d">
+      <context> anything of material value or usefulness that is owned by a person or <head>company</head> ;</context>
+    </instance>
+    <instance id="n13334767_d_6" docsrc="n13334767_d">
+      <context> a common_stock of a nationally known <head>company</head> whose value and dividends are reliable ; typically have high price and low yield ;</context>
+    </instance>
+    <instance id="n13335635_d_10" docsrc="n13335635_d">
+      <context> the value of a security that is set by the <head>company</head> issuing it ; unrelated to market_value ;</context>
+    </instance>
+    <instance id="n13338439_d_20" docsrc="n13338439_d">
+      <context> a ( speculative ) bond with a credit_rating of BB or lower ; issued for leveraged_buyouts and other takeovers by <head>companies</head> with questionable credit ;</context>
+    </instance>
+    <instance id="n13338960_d_19" docsrc="n13338960_d">
+      <context> a bond given to protect the recipient against loss in case the terms_of_a_contract are not filled ; a surety <head>company</head> assumes liability for nonperformance ;</context>
+    </instance>
+    <instance id="n13344804_d_13" docsrc="n13344804_d">
+      <context> promise of reimbursement in the case of loss ; paid to people or <head>companies</head> so concerned about hazards that they have made prepayments to an insurance_company ;</context>
+    </instance>
+    <instance id="n13346432_d_14" docsrc="n13346432_d">
+      <context> insurance that is purchased by a group ( such as the employees of a <head>company</head> ) usually at a reduced rate to individual members of the group ;</context>
+    </instance>
+    <instance id="n13348456_d_17" docsrc="n13348456_d">
+      <context> sharing the risk by insurance_companies ; part or all of the insurer's risk is assumed by other <head>companies</head> in return for part of the premium paid by the insured ;</context>
+    </instance>
+    <instance id="n13370215_d_19" docsrc="n13370215_d">
+      <context> a reserve_fund created by a charge against profits in order to provide for changes in the value of a <head>company's</head> assets ;</context>
+    </instance>
+    <instance id="n13380309_d_8" docsrc="n13380309_d">
+      <context> a letter_of_credit issued by a bank or express <head>company</head> that is payable on presentation to any correspondent of the issuer ;</context>
+    </instance>
+    <instance id="n13407012_d_8" docsrc="n13407012_d">
+      <context> an accounting method used in the merging of <head>companies</head> ; the balance_sheets are added_together item by item ; this method is tax-free ;</context>
+    </instance>
+    <instance id="n15281329_d_13" docsrc="n15281329_d">
+      <context> the amount , expressed as a percentage , that is earned on a <head>company's</head> total capital calculated by dividing the total capital into earnings before interest , taxes , or dividends are paid ;</context>
+    </instance>
+    <instance id="v02274299_d_7" docsrc="v02274299_d">
+      <context> take_over ownership of ; of corporations and <head>companies</head> ;</context>
+    </instance>
+    <instance id="v02284544_d_6" docsrc="v02284544_d">
+      <context> buy stocks or shares of a <head>company</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

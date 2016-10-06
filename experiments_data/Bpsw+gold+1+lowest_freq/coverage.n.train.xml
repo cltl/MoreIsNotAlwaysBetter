@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="coverage.n" pos="NN">
+    <instance id="Journalism-coverage-23-62-2" docsrc="Journalism">
+      <context> Publishers , owners and other corporate executives , especially advertising sales executives , can try to use their powers over journalists to influence <head>how</head> news is reported and published . Journalists usually rely on top management to create and maintain a " firewall " between the news and other departments in a news organization to prevent undue influence on the news department . One journalism magazine , Columbia Journalism Review , has made it a practice to reveal examples of executives who try to influence news coverage , of executives who do not abuse their powers over journalists , and of journalists who resist such pressures .</context>
+    </instance>
+    <instance id="Journalism-coverage-24-101-1" docsrc="Journalism">
+      <context> === Sources === Quick , Amanda C. ed . World Press Encyclopedia : A Survey of Press Systems Worldwide ( 2nd ed . 2 <head>vol</head> 2002 ) ; 2500 pp ; highly detailed coverage of every country large and small .</context>
+    </instance>
+    <instance id="Journalism-coverage-3-1-3" docsrc="Journalism">
+      <context> In others , <head>the</head> news media is independent from the government but the profit motive is in tension with constitutional protections of freedom of the press . Access to freely available information gathered by independent and competing journalistic enterprises with transparent editorial standards can enable citizens to effectively participate in the political processes . This compactness in coverage has been linked to broad audience attrition , as a large majority of respondents in recent studies show changing preferences in news consumption .</context>
+    </instance>
+    <instance id="br-e30#w1392_0" docsrc="br-e30">
+      <context> U._S._Rubber_Company , New_York , passes out a form itemizing the value of benefits . The blue-collar worker thus knows his insurance package , for_example , costs $ 227.72 . Have the insurance_company or your own accounting department break_down the cost of your insurance package periodically . You may find certain <head>coverage</head> costing much more_than is economically feasible , thereby alerting you to desirable revisions . Check to see if some of your benefits - such_as on-the-job disability pay - can be put on a direct payment rather than an insured basis at a savings to you . Use deductable insurance wherever feasible . It can put an end to marginal claims which play havoc with your insurance rates .</context>
+    </instance>
+    <instance id="n05123760_ex1_2" docsrc="n05123760_ex1">
+      <context> the dictionary's <head>coverage</head> of standard English is excellent ;</context>
+    </instance>
+    <instance id="n06683784_ex1_6" docsrc="n06683784_ex1">
+      <context> they accused the paper of biased <head>coverage</head> of race relations ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="arsenic.n" pos="NN">
+    <instance id="br-f10#w1531_0" docsrc="br-f10">
+      <context> Mr._A has recovered , but he is , justifiably , a bitter man . `` That 's a lot of hard earned money to lose '' , he says today . `` Neither me nor my wife were helped by that chiropractor 's treatments '' . And there was the case of Tom_Hepker , a machinist , who was referred by a friend to a health machine quack who treated him with a so-called diagnostic machine for what Doctor_Fraud said was a system full of <head>arsenic</head> and strychnine . After his pains got_worse , Tom decided to see a real doctor , from whom he learned he was suffering from cancer of the lung . Yes , Tom caught it in_time to stay alive . But he 's a welfare_case now - a human wreck - thanks to this modern witch_doctor .</context>
+    </instance>
+  </lexelt>
+</corpus>

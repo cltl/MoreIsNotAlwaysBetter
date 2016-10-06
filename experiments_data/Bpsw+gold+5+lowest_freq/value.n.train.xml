@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="value.n" pos="NN">
+    <instance id="Lightness-value-7-1-1" docsrc="Lightness">
+      <context> Lightness should not be confused with brightness <head>.</head> Various color models have an explicit term for this property . The Munsell color model uses the term value , while the HSL color model and Lab color space use the term lightness .</context>
+    </instance>
+    <instance id="Note_value-value-10-12-2" docsrc="Note_value">
+      <context> A note value may be augmented by adding a dot <head>after</head> it . This dot adds the next briefer note value , making it one and a half times its original duration . A number of dots ( n ) lengthen the note value by</context>
+    </instance>
+    <instance id="Note_value-value-11-40-1" docsrc="Note_value">
+      <context>         { \displaystyle { \tfrac { 2^{n}-1}{2^{n } } } <head>}</head>    its value , so two dots add two lower note values , making a total of one and three quarters times its original duration .</context>
+    </instance>
+    <instance id="Note_value-value-2-40-1" docsrc="Note_value">
+      <context>         <head>{</head> \displaystyle { \tfrac { 2^{n}-1}{2^{n } } } }    its value , so two dots add two lower note values , making a total of one and three quarters times its original duration .</context>
+    </instance>
+    <instance id="Note_value-value-2-8-3" docsrc="Note_value">
+      <context> In most <head>cases</head> , the stem goes down if the notehead is on the center line or above , and up otherwise . Any flags always go to the right of the stem . A note value may be augmented by adding a dot after it .</context>
+    </instance>
+    <instance id="Note_value-value-7-12-1" docsrc="Note_value">
+      <context> Any flags always go to the right <head>of</head> the stem . A note value may be augmented by adding a dot after it . This dot adds the next briefer note value , making it one and a half times its original duration .</context>
+    </instance>
+    <instance id="Value_(economics)-value-0-15-3" docsrc="Value_(economics)">
+      <context> <head>There</head> was no price of objects or things that could be determined without taking these judgements into account , as manifested by markets . Thus , it was false to say that the economic value of a good was equal to what it cost to produce or to its current replacement cost . Value in the most basic sense can be referred to as " Real Value " or " Actual Value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-0-2-3" docsrc="Value_(economics)">
+      <context> <head>First</head> , economists tried to estimate the value of a good to an individual alone , and extend that definition to goods which can be exchanged . From this analysis came the concepts value in use and value in exchange . Value is linked to price through the mechanism of exchange .</context>
+    </instance>
+    <instance id="Value_(economics)-value-0-35-1" docsrc="Value_(economics)">
+      <context> <head>Use</head> value Utility Value ( marketing )</context>
+    </instance>
+    <instance id="Value_(economics)-value-0-36-1" docsrc="Value_(economics)">
+      <context> <head>Utility</head> Value ( marketing ) Value form</context>
+    </instance>
+    <instance id="Value_(economics)-value-0-37-1" docsrc="Value_(economics)">
+      <context> <head>Value</head> ( marketing ) Value form Value network</context>
+    </instance>
+    <instance id="Value_(economics)-value-0-38-1" docsrc="Value_(economics)">
+      <context> <head>Value</head> form Value network</context>
+    </instance>
+    <instance id="Value_(economics)-value-1-33-1" docsrc="Value_(economics)">
+      <context> Subjective <head>theory</head> of value Theory of value ( economics ) Use value</context>
+    </instance>
+    <instance id="Value_(economics)-value-1-5-1" docsrc="Value_(economics)">
+      <context> Additional <head>information</head> about market value is obtained by the rate at which transactions occur , telling observers the extent to which the purchase of the good has value over time . Said another way , value is how much a desired object or condition is worth relative to other objects or conditions . Economic values are expressed as " how much " of one desirable condition or commodity will , or would be given up in exchange for some other desired condition or commodity .</context>
+    </instance>
+    <instance id="Value_(economics)-value-1-5-3" docsrc="Value_(economics)">
+      <context> Economic <head>values</head> are expressed as " how much " of one desirable condition or commodity will , or would be given up in exchange for some other desired condition or commodity . Among the competing schools of economic theory there are differing metrics for value assessment and the metrics are the subject of a " Theory of Value . " Value theories are a large part of the differences and disagreements between the various schools of economic theory .</context>
+    </instance>
+    <instance id="Value_(economics)-value-10-15-2" docsrc="Value_(economics)">
+      <context> Economists such as Ludwig von Mises asserted that " value <head>,</head> " meaning exchange value , was always the result of subjective value judgements . There was no price of objects or things that could be determined without taking these judgements into account , as manifested by markets . Thus , it was false to say that the economic value of a good was equal to what it cost to produce or to its current replacement cost .</context>
+    </instance>
+    <instance id="Value_(economics)-value-10-2-2" docsrc="Value_(economics)">
+      <context> The economic value of a good or service has puzzled <head>economists</head> since the beginning of the discipline . First , economists tried to estimate the value of a good to an individual alone , and extend that definition to goods which can be exchanged . From this analysis came the concepts value in use and value in exchange .</context>
+    </instance>
+    <instance id="Value_(economics)-value-12-5-2" docsrc="Value_(economics)">
+      <context> Said another way , value is how much a desired object or <head>condition</head> is worth relative to other objects or conditions . Economic values are expressed as " how much " of one desirable condition or commodity will , or would be given up in exchange for some other desired condition or commodity . Among the competing schools of economic theory there are differing metrics for value assessment and the metrics are the subject of a " Theory of Value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-13-12-2" docsrc="Value_(economics)">
+      <context> " The value of a thing in any given time and place " <head>,</head> according to Henry George , " is the largest amount of exertion that anyone will render in exchange for it . But as men always seek to gratify their desires with the least exertion this is the lowest amount for which a similar thing can otherwise be obtained . " In 1860 , John Ruskin published a critique of the economic concept of value from a moral point of view .</context>
+    </instance>
+    <instance id="Value_(economics)-value-13-15-3" docsrc="Value_(economics)">
+      <context> There was no price of objects or things that could be determined without <head>taking</head> these judgements into account , as manifested by markets . Thus , it was false to say that the economic value of a good was equal to what it cost to produce or to its current replacement cost . Value in the most basic sense can be referred to as " Real Value " or " Actual Value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-13-20-3" docsrc="Value_(economics)">
+      <context> The market value of a machine part , for example , will depend <head>upon</head> a variety of objective facts involving its efficiency versus the efficiency of other types of part or other types of machine to make the kind of products that consumers will value in turn . In such a case , market value has both objective and subjective components . In philosophy , economic value is a subcategory of a more general philosophical value , as defined in goodness and value theory or in the science of value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-14-14-5" docsrc="Value_(economics)">
+      <context> Any given accumulation of commercial wealth may be indicative , on the one hand <head>,</head> of faithful industries , progressive energies , and productive ingenuities : or , on the other , it may be indicative of mortal luxury , merciless tyranny , ruinous chicanery . " Gandhi was greatly inspired by Ruskin 's book and published a paraphrase of it in 1908 . Economists such as Ludwig von Mises asserted that " value , " meaning exchange value , was always the result of subjective value judgements .</context>
+    </instance>
+    <instance id="Value_(economics)-value-15-0-2" docsrc="Value_(economics)">
+      <context> Economic value is a measure of the benefit provided by a good or service to <head>an</head> economic agent . It is generally measured relative to units of currency , and the interpretation is therefore " what is the maximum amount of money a specific actor is willing and able to pay for the good or service " ? Note that economic value is not the same as market price , nor is economic value the same thing as market value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-17-10-2" docsrc="Value_(economics)">
+      <context> In classical economics , the value of an object or condition is the amount of discomfort/labor saved <head>through</head> the consumption or use of an object or condition ( Labor Theory of Value ) . Though exchange value is recognized , economic value is not , in theory , dependent on the existence of a market and price and value are not seen as equal . This is complicated , however , by the efforts of classical economists to connect price and labor value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-18-1-1" docsrc="Value_(economics)">
+      <context> It is generally measured relative to units of currency , and the interpretation is therefore " what is <head>the</head> maximum amount of money a specific actor is willing and able to pay for the good or service " ? Note that economic value is not the same as market price , nor is economic value the same thing as market value . If a consumer is willing to buy a good , it implies that the customer places a higher value on the good than the market price .</context>
+    </instance>
+    <instance id="Value_(economics)-value-18-15-3" docsrc="Value_(economics)">
+      <context> There was no price of objects or things that could be determined without taking these judgements into account <head>,</head> as manifested by markets . Thus , it was false to say that the economic value of a good was equal to what it cost to produce or to its current replacement cost . Value in the most basic sense can be referred to as " Real Value " or " Actual Value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-2-1-4" docsrc="Value_(economics)">
+      <context> The difference <head>between</head> the value to the consumer and the market price is called " consumer surplus " . It is easy to see situations where the actual value is considerably larger than the market price : purchase of drinking water is one example . The economic value of a good or service has puzzled economists since the beginning of the discipline .</context>
+    </instance>
+    <instance id="Value_(economics)-value-2-10-1" docsrc="Value_(economics)">
+      <context> As such <head>,</head> everything is seen as a commodity and if there is no market to set a price then there is no economic value . In classical economics , the value of an object or condition is the amount of discomfort/labor saved through the consumption or use of an object or condition ( Labor Theory of Value ) . Though exchange value is recognized , economic value is not , in theory , dependent on the existence of a market and price and value are not seen as equal .</context>
+    </instance>
+    <instance id="Value_(economics)-value-2-10-4" docsrc="Value_(economics)">
+      <context> This is <head>complicated</head> , however , by the efforts of classical economists to connect price and labor value . Karl Marx , for one , saw exchange value as the " form of appearance " [ Erscheinungsform ] of value , which implies that , although value is separate from exchange value , it is meaningless without the act of exchange , i.e. , without a market . " The value of a thing in any given time and place " , according to Henry George , " is the largest amount of exertion that anyone will render in exchange for it .</context>
+    </instance>
+    <instance id="Value_(economics)-value-2-14-2" docsrc="Value_(economics)">
+      <context> In 1860 <head>,</head> John Ruskin published a critique of the economic concept of value from a moral point of view . He entitled the volume Unto This Last , and his central point was this : " It is impossible to conclude , of any given mass of acquired wealth , merely by the fact of its existence , whether it signifies good or evil to the nation in the midst of which it exists . Its real value depends on the moral sign attached to it , just as strictly as that of a mathematical quantity depends on the algebraic sign attached to it .</context>
+    </instance>
+    <instance id="Value_(economics)-value-2-16-2" docsrc="Value_(economics)">
+      <context> Value in <head>the</head> most basic sense can be referred to as " Real Value " or " Actual Value . " This is the measure of worth that is based purely on the utility derived from the consumption of a product or service . Utility derived value allows products or services to be measured on outcome instead of demand or supply theories that have the inherent ability to be manipulated .</context>
+    </instance>
+    <instance id="Value_(economics)-value-2-16-4" docsrc="Value_(economics)">
+      <context> Utility derived <head>value</head> allows products or services to be measured on outcome instead of demand or supply theories that have the inherent ability to be manipulated . Illustration : The real value of a book sold to a student who pays $ 50.00 at the cash register for the text and who earns no additional income from reading the book is essentially zero .</context>
+    </instance>
+    <instance id="Value_(economics)-value-2-16-6" docsrc="Value_(economics)">
+      <context> The real <head>value</head> of a book sold to a student who pays $ 50.00 at the cash register for the text and who earns no additional income from reading the book is essentially zero . However ; the real value of the same text purchased in a thrift shop at a price of $ 0.25 and provides the reader with an insight that allows him or her to earn $ 100,000.00 in additional income is $ 100,000.00 or the extended lifetime value earned by the consumer . This is value calculated by actual measurements of ROI instead of production input and or demand vs. supply .</context>
+    </instance>
+    <instance id="Value_(economics)-value-2-20-1" docsrc="Value_(economics)">
+      <context> No single <head>unit</head> has a fixed value . The theory of value is closely related to that of allocative efficiency , the quality by which firms produce those goods and services most valued by society . The market value of a machine part , for example , will depend upon a variety of objective facts involving its efficiency versus the efficiency of other types of part or other types of machine to make the kind of products that consumers will value in turn .</context>
+    </instance>
+    <instance id="Value_(economics)-value-2-26-1" docsrc="Value_(economics)">
+      <context> In philosophy <head>,</head> economic value is a subcategory of a more general philosophical value , as defined in goodness and value theory or in the science of value . Labour theory of value Law of value</context>
+    </instance>
+    <instance id="Value_(economics)-value-2-30-1" docsrc="Value_(economics)">
+      <context> Objective theory <head>of</head> value Real versus nominal value ( economics ) Store of value</context>
+    </instance>
+    <instance id="Value_(economics)-value-2-32-1" docsrc="Value_(economics)">
+      <context> Store of <head>value</head> Subjective theory of value Theory of value ( economics )</context>
+    </instance>
+    <instance id="Value_(economics)-value-20-10-3" docsrc="Value_(economics)">
+      <context> Though exchange value is recognized , economic value is not , in theory , dependent on the existence of a <head>market</head> and price and value are not seen as equal . This is complicated , however , by the efforts of classical economists to connect price and labor value . Karl Marx , for one , saw exchange value as the " form of appearance " [ Erscheinungsform ] of value , which implies that , although value is separate from exchange value , it is meaningless without the act of exchange , i.e. , without a market .</context>
+    </instance>
+    <instance id="Value_(economics)-value-20-20-3" docsrc="Value_(economics)">
+      <context> The market value of a machine part , for example , will depend upon a variety of objective facts involving <head>its</head> efficiency versus the efficiency of other types of part or other types of machine to make the kind of products that consumers will value in turn . In such a case , market value has both objective and subjective components . In philosophy , economic value is a subcategory of a more general philosophical value , as defined in goodness and value theory or in the science of value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-21-0-2" docsrc="Value_(economics)">
+      <context> Economic value is a measure of the benefit provided by a good or service to an economic agent . It is <head>generally</head> measured relative to units of currency , and the interpretation is therefore " what is the maximum amount of money a specific actor is willing and able to pay for the good or service " ? Note that economic value is not the same as market price , nor is economic value the same thing as market value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-22-14-5" docsrc="Value_(economics)">
+      <context> Any given accumulation of commercial wealth may be indicative , on the one hand , of faithful industries , progressive energies , <head>and</head> productive ingenuities : or , on the other , it may be indicative of mortal luxury , merciless tyranny , ruinous chicanery . " Gandhi was greatly inspired by Ruskin 's book and published a paraphrase of it in 1908 . Economists such as Ludwig von Mises asserted that " value , " meaning exchange value , was always the result of subjective value judgements .</context>
+    </instance>
+    <instance id="Value_(economics)-value-24-10-1" docsrc="Value_(economics)">
+      <context> As such , everything is seen as a commodity and if there is no market to set a price then there is no economic <head>value</head> . In classical economics , the value of an object or condition is the amount of discomfort/labor saved through the consumption or use of an object or condition ( Labor Theory of Value ) . Though exchange value is recognized , economic value is not , in theory , dependent on the existence of a market and price and value are not seen as equal .</context>
+    </instance>
+    <instance id="Value_(economics)-value-24-9-3" docsrc="Value_(economics)">
+      <context> This is determined primarily by the demand for the object relative to supply in a perfectly competitive market . Many neoclassical economic theories equate <head>the</head> value of a commodity with its price , whether the market is competitive or not . As such , everything is seen as a commodity and if there is no market to set a price then there is no economic value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-25-5-2" docsrc="Value_(economics)">
+      <context> Said another way , value is how much a desired object or condition is worth relative to other objects or conditions . Economic values are <head>expressed</head> as " how much " of one desirable condition or commodity will , or would be given up in exchange for some other desired condition or commodity . Among the competing schools of economic theory there are differing metrics for value assessment and the metrics are the subject of a " Theory of Value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-27-10-3" docsrc="Value_(economics)">
+      <context> Though exchange value is recognized , economic value is not , in theory , dependent on the existence of a market and price and value are not <head>seen</head> as equal . This is complicated , however , by the efforts of classical economists to connect price and labor value . Karl Marx , for one , saw exchange value as the " form of appearance " [ Erscheinungsform ] of value , which implies that , although value is separate from exchange value , it is meaningless without the act of exchange , i.e. , without a market .</context>
+    </instance>
+    <instance id="Value_(economics)-value-27-20-3" docsrc="Value_(economics)">
+      <context> The market value of a machine part , for example , will depend upon a variety of objective facts involving its efficiency versus the efficiency of other <head>types</head> of part or other types of machine to make the kind of products that consumers will value in turn . In such a case , market value has both objective and subjective components . In philosophy , economic value is a subcategory of a more general philosophical value , as defined in goodness and value theory or in the science of value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-27-3-3" docsrc="Value_(economics)">
+      <context> When an economist observes an exchange , two important value functions are revealed : those of the buyer and seller . Just as the buyer reveals what <head>he</head> is willing to pay for a certain amount of a good , so too does the seller reveal what it costs him to give up the good . Additional information about market value is obtained by the rate at which transactions occur , telling observers the extent to which the purchase of the good has value over time .</context>
+    </instance>
+    <instance id="Value_(economics)-value-3-0-2" docsrc="Value_(economics)">
+      <context> Economic value is <head>a</head> measure of the benefit provided by a good or service to an economic agent . It is generally measured relative to units of currency , and the interpretation is therefore " what is the maximum amount of money a specific actor is willing and able to pay for the good or service " ? Note that economic value is not the same as market price , nor is economic value the same thing as market value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-3-16-8" docsrc="Value_(economics)">
+      <context> This is value <head>calculated</head> by actual measurements of ROI instead of production input and or demand vs. supply . No single unit has a fixed value . The theory of value is closely related to that of allocative efficiency , the quality by which firms produce those goods and services most valued by society .</context>
+    </instance>
+    <instance id="Value_(economics)-value-3-21-1" docsrc="Value_(economics)">
+      <context> In such a <head>case</head> , market value has both objective and subjective components . In philosophy , economic value is a subcategory of a more general philosophical value , as defined in goodness and value theory or in the science of value . Labour theory of value</context>
+    </instance>
+    <instance id="Value_(economics)-value-3-27-1" docsrc="Value_(economics)">
+      <context> Labour theory of <head>value</head> Law of value Marginal theory of value</context>
+    </instance>
+    <instance id="Value_(economics)-value-3-28-1" docsrc="Value_(economics)">
+      <context> Law of value <head>Marginal</head> theory of value Objective theory of value</context>
+    </instance>
+    <instance id="Value_(economics)-value-3-29-1" docsrc="Value_(economics)">
+      <context> Marginal theory of <head>value</head> Objective theory of value Real versus nominal value ( economics )</context>
+    </instance>
+    <instance id="Value_(economics)-value-3-31-1" docsrc="Value_(economics)">
+      <context> Real versus nominal <head>value</head> ( economics ) Store of value Subjective theory of value</context>
+    </instance>
+    <instance id="Value_(economics)-value-31-9-4" docsrc="Value_(economics)">
+      <context> Many neoclassical economic theories equate the value of a commodity with its price , whether the market is competitive or not . As such , everything is seen as a commodity <head>and</head> if there is no market to set a price then there is no economic value . In classical economics , the value of an object or condition is the amount of discomfort/labor saved through the consumption or use of an object or condition ( Labor Theory of Value ) .</context>
+    </instance>
+    <instance id="Value_(economics)-value-32-10-3" docsrc="Value_(economics)">
+      <context> Though exchange value is recognized , economic value is not , in theory , dependent on the existence of a market and price and value are not seen as equal . This <head>is</head> complicated , however , by the efforts of classical economists to connect price and labor value . Karl Marx , for one , saw exchange value as the " form of appearance " [ Erscheinungsform ] of value , which implies that , although value is separate from exchange value , it is meaningless without the act of exchange , i.e. , without a market .</context>
+    </instance>
+    <instance id="Value_(economics)-value-4-1-2" docsrc="Value_(economics)">
+      <context> Note that economic value <head>is</head> not the same as market price , nor is economic value the same thing as market value . If a consumer is willing to buy a good , it implies that the customer places a higher value on the good than the market price . The difference between the value to the consumer and the market price is called " consumer surplus " .</context>
+    </instance>
+    <instance id="Value_(economics)-value-4-16-5" docsrc="Value_(economics)">
+      <context> Illustration : The real <head>value</head> of a book sold to a student who pays $ 50.00 at the cash register for the text and who earns no additional income from reading the book is essentially zero . However ; the real value of the same text purchased in a thrift shop at a price of $ 0.25 and provides the reader with an insight that allows him or her to earn $ 100,000.00 in additional income is $ 100,000.00 or the extended lifetime value earned by the consumer .</context>
+    </instance>
+    <instance id="Value_(economics)-value-4-20-3" docsrc="Value_(economics)">
+      <context> The market value of <head>a</head> machine part , for example , will depend upon a variety of objective facts involving its efficiency versus the efficiency of other types of part or other types of machine to make the kind of products that consumers will value in turn . In such a case , market value has both objective and subjective components . In philosophy , economic value is a subcategory of a more general philosophical value , as defined in goodness and value theory or in the science of value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-4-3-3" docsrc="Value_(economics)">
+      <context> When an economist observes <head>an</head> exchange , two important value functions are revealed : those of the buyer and seller . Just as the buyer reveals what he is willing to pay for a certain amount of a good , so too does the seller reveal what it costs him to give up the good . Additional information about market value is obtained by the rate at which transactions occur , telling observers the extent to which the purchase of the good has value over time .</context>
+    </instance>
+    <instance id="Value_(economics)-value-4-4-1" docsrc="Value_(economics)">
+      <context> Just as the buyer <head>reveals</head> what he is willing to pay for a certain amount of a good , so too does the seller reveal what it costs him to give up the good . Additional information about market value is obtained by the rate at which transactions occur , telling observers the extent to which the purchase of the good has value over time . Said another way , value is how much a desired object or condition is worth relative to other objects or conditions .</context>
+    </instance>
+    <instance id="Value_(economics)-value-46-16-5" docsrc="Value_(economics)">
+      <context> Illustration : The real value of a book sold to a student who pays $ 50.00 at the cash register for the text and who earns no additional income from reading the book is essentially zero . However ; the real value of the same text <head>purchased</head> in a thrift shop at a price of $ 0.25 and provides the reader with an insight that allows him or her to earn $ 100,000.00 in additional income is $ 100,000.00 or the extended lifetime value earned by the consumer .</context>
+    </instance>
+    <instance id="Value_(economics)-value-5-5-4" docsrc="Value_(economics)">
+      <context> Among the competing schools of <head>economic</head> theory there are differing metrics for value assessment and the metrics are the subject of a " Theory of Value . " Value theories are a large part of the differences and disagreements between the various schools of economic theory . In neoclassical economics , the value of an object or service is often seen as nothing but the price it would bring in an open and competitive market .</context>
+    </instance>
+    <instance id="Value_(economics)-value-5-9-4" docsrc="Value_(economics)">
+      <context> Many neoclassical economic theories equate <head>the</head> value of a commodity with its price , whether the market is competitive or not . As such , everything is seen as a commodity and if there is no market to set a price then there is no economic value . In classical economics , the value of an object or condition is the amount of discomfort/labor saved through the consumption or use of an object or condition ( Labor Theory of Value ) .</context>
+    </instance>
+    <instance id="Value_(economics)-value-6-16-7" docsrc="Value_(economics)">
+      <context> However ; the real value of <head>the</head> same text purchased in a thrift shop at a price of $ 0.25 and provides the reader with an insight that allows him or her to earn $ 100,000.00 in additional income is $ 100,000.00 or the extended lifetime value earned by the consumer . This is value calculated by actual measurements of ROI instead of production input and or demand vs. supply . No single unit has a fixed value .</context>
+    </instance>
+    <instance id="Value_(economics)-value-6-2-2" docsrc="Value_(economics)">
+      <context> The economic value of a good <head>or</head> service has puzzled economists since the beginning of the discipline . First , economists tried to estimate the value of a good to an individual alone , and extend that definition to goods which can be exchanged . From this analysis came the concepts value in use and value in exchange .</context>
+    </instance>
+    <instance id="Value_(economics)-value-6-20-2" docsrc="Value_(economics)">
+      <context> The theory of value is closely <head>related</head> to that of allocative efficiency , the quality by which firms produce those goods and services most valued by society . The market value of a machine part , for example , will depend upon a variety of objective facts involving its efficiency versus the efficiency of other types of part or other types of machine to make the kind of products that consumers will value in turn . In such a case , market value has both objective and subjective components .</context>
+    </instance>
+    <instance id="Value_(economics)-value-6-9-2" docsrc="Value_(economics)">
+      <context> In neoclassical economics , the value <head>of</head> an object or service is often seen as nothing but the price it would bring in an open and competitive market . This is determined primarily by the demand for the object relative to supply in a perfectly competitive market . Many neoclassical economic theories equate the value of a commodity with its price , whether the market is competitive or not .</context>
+    </instance>
+    <instance id="Value_(economics)-value-7-10-1" docsrc="Value_(economics)">
+      <context> As such , everything is seen as <head>a</head> commodity and if there is no market to set a price then there is no economic value . In classical economics , the value of an object or condition is the amount of discomfort/labor saved through the consumption or use of an object or condition ( Labor Theory of Value ) . Though exchange value is recognized , economic value is not , in theory , dependent on the existence of a market and price and value are not seen as equal .</context>
+    </instance>
+    <instance id="Value_(economics)-value-7-2-1" docsrc="Value_(economics)">
+      <context> It is easy to see situations where <head>the</head> actual value is considerably larger than the market price : purchase of drinking water is one example . The economic value of a good or service has puzzled economists since the beginning of the discipline . First , economists tried to estimate the value of a good to an individual alone , and extend that definition to goods which can be exchanged .</context>
+    </instance>
+    <instance id="Value_(economics)-value-8-10-3" docsrc="Value_(economics)">
+      <context> Though exchange value is recognized , economic value <head>is</head> not , in theory , dependent on the existence of a market and price and value are not seen as equal . This is complicated , however , by the efforts of classical economists to connect price and labor value . Karl Marx , for one , saw exchange value as the " form of appearance " [ Erscheinungsform ] of value , which implies that , although value is separate from exchange value , it is meaningless without the act of exchange , i.e. , without a market .</context>
+    </instance>
+    <instance id="Value_(economics)-value-9-1-3" docsrc="Value_(economics)">
+      <context> If a consumer is willing to buy a good <head>,</head> it implies that the customer places a higher value on the good than the market price . The difference between the value to the consumer and the market price is called " consumer surplus " . It is easy to see situations where the actual value is considerably larger than the market price : purchase of drinking water is one example .</context>
+    </instance>
+    <instance id="Value_(economics)-value-9-14-5" docsrc="Value_(economics)">
+      <context> Any given accumulation of commercial wealth may be indicative <head>,</head> on the one hand , of faithful industries , progressive energies , and productive ingenuities : or , on the other , it may be indicative of mortal luxury , merciless tyranny , ruinous chicanery . " Gandhi was greatly inspired by Ruskin 's book and published a paraphrase of it in 1908 . Economists such as Ludwig von Mises asserted that " value , " meaning exchange value , was always the result of subjective value judgements .</context>
+    </instance>
+    <instance id="Value_(economics)-value-9-3-1" docsrc="Value_(economics)">
+      <context> From this analysis came the concepts value in use <head>and</head> value in exchange . Value is linked to price through the mechanism of exchange . When an economist observes an exchange , two important value functions are revealed : those of the buyer and seller .</context>
+    </instance>
+    <instance id="Value_(ethics)-value-12-0-3" docsrc="Value_(ethics)">
+      <context> It may be described as treating actions themselves as abstract objects , <head>putting</head> value to them . It deals with right conduct and good life , in the sense that a highly , or at least relatively highly , valuable action may be regarded as ethically " good " ( adjective sense ) , and an action of low , or at least relatively low , value may be regarded as " bad " . What makes an action valuable may in turn depend on the ethic values of the objects it increases , decreases or alters .</context>
+    </instance>
+    <instance id="Value_(ethics)-value-13-0-1" docsrc="Value_(ethics)">
+      <context> In ethics , value denotes the degree of importance of something or action <head>,</head> with the aim of determining what actions are best to do or what way is best to live ( deontology ) , or to describe the significance of different actions ( axiology ) . It may be described as treating actions themselves as abstract objects , putting value to them .</context>
+    </instance>
+    <instance id="Value_(ethics)-value-49-0-2" docsrc="Value_(ethics)">
+      <context> In ethics , value denotes the degree of importance of something or action , with the aim of determining what actions are best to do or what way is best to live ( deontology ) , or to describe the significance of different actions ( axiology ) . It <head>may</head> be described as treating actions themselves as abstract objects , putting value to them . It deals with right conduct and good life , in the sense that a highly , or at least relatively highly , valuable action may be regarded as ethically " good " ( adjective sense ) , and an action of low , or at least relatively low , value may be regarded as " bad " .</context>
+    </instance>
+    <instance id="Value_(ethics)-value-5-0-4" docsrc="Value_(ethics)">
+      <context> It deals with right conduct <head>and</head> good life , in the sense that a highly , or at least relatively highly , valuable action may be regarded as ethically " good " ( adjective sense ) , and an action of low , or at least relatively low , value may be regarded as " bad " . What makes an action valuable may in turn depend on the ethic values of the objects it increases , decreases or alters . An object with " ethic value " may be termed an " ethic or philosophic good " ( noun sense ) .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-0-10-4" docsrc="Value_(marketing)">
+      <context> <head>When</head> it delivers high value at low price , the perceived value may be high . The key to deliver high perceived value is attaching value to each of the individuals or organizations—making them believe that what you are offering is beyond expectation—helping them to solve a problem , offering a solution , giving results , and making them happy . Value changes based on time , place and people in relation to changing environmental factors .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-0-3-3" docsrc="Value_(marketing)">
+      <context> <head>The</head> sources of value are not equally important to all consumers . How important a value is , depends on the consumer and the purchase . Values should always be defined through the " eyes " of the consumer .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-0-8-2" docsrc="Value_(marketing)">
+      <context> <head>For</head> a firm to deliver value to its customers , they must consider what is known as the " total market offering . " This includes the reputation of the organization , staff representation , product benefits , and technological characteristics as compared to competitors ' market offerings and prices . Value can thus be defined as the relationship of a firm 's market offerings to those of its competitors .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-0-8-3" docsrc="Value_(marketing)">
+      <context> <head>"</head> This includes the reputation of the organization , staff representation , product benefits , and technological characteristics as compared to competitors ' market offerings and prices . Value can thus be defined as the relationship of a firm 's market offerings to those of its competitors . Value in marketing can be defined by both qualitative and quantitative measures .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-1-3-4" docsrc="Value_(marketing)">
+      <context> How <head>important</head> a value is , depends on the consumer and the purchase . Values should always be defined through the " eyes " of the consumer . Functional Value : This type of value is what an offer does , it 's the solution an offer provides to the customer .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-1-4-1" docsrc="Value_(marketing)">
+      <context> Values <head>should</head> always be defined through the " eyes " of the consumer . Functional Value : This type of value is what an offer does , it 's the solution an offer provides to the customer . Social Value : The extent to which owning a product or engaging in a service allows the consumer to connect with others .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-1-6-1" docsrc="Value_(marketing)">
+      <context> Functional <head>Value</head> : This type of value is what an offer does , it 's the solution an offer provides to the customer . Social Value : The extent to which owning a product or engaging in a service allows the consumer to connect with others . Psychological Value : The extent to which a product allows consumers to express themselves or feel better .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-11-10-2" docsrc="Value_(marketing)">
+      <context> For an organization to deliver value , it has to improve <head>its</head> value : cost ratio . When an organization delivers high value at high price , the perceived value may be low . When it delivers high value at low price , the perceived value may be high .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-11-2-1" docsrc="Value_(marketing)">
+      <context> When wants are backed by buying power , they become demands <head>.</head> With a consumers wants and resources ( financial ability ) , they demand products and services with benefits that add up to the most value and satisfaction . The four types of value include : functional value , monetary value , social value , and psychological value .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-12-10-1" docsrc="Value_(marketing)">
+      <context> On the quantitative side , value is the actual gain measured in <head>terms</head> of financial numbers , percentages , and dollars . For an organization to deliver value , it has to improve its value : cost ratio . When an organization delivers high value at high price , the perceived value may be low .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-12-9-3" docsrc="Value_(marketing)">
+      <context> On the qualitative side , value is the perceived gain composed of <head>individual</head> 's emotional , mental and physical condition plus various social , economic , cultural and environmental factors . On the quantitative side , value is the actual gain measured in terms of financial numbers , percentages , and dollars . For an organization to deliver value , it has to improve its value : cost ratio .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-14-2-1" docsrc="Value_(marketing)">
+      <context> When wants are backed by buying power , they become demands . With a <head>consumers</head> wants and resources ( financial ability ) , they demand products and services with benefits that add up to the most value and satisfaction . The four types of value include : functional value , monetary value , social value , and psychological value .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-18-2-1" docsrc="Value_(marketing)">
+      <context> When wants are backed by buying power , they become demands . With a consumers wants and resources <head>(</head> financial ability ) , they demand products and services with benefits that add up to the most value and satisfaction . The four types of value include : functional value , monetary value , social value , and psychological value .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-24-1-4" docsrc="Value_(marketing)">
+      <context> Both culture and individual personality shape human needs in what is known as wants . When wants are backed by buying power , they <head>become</head> demands . With a consumers wants and resources ( financial ability ) , they demand products and services with benefits that add up to the most value and satisfaction .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-3-16-1" docsrc="Value_(marketing)">
+      <context> Assessment of the <head>company</head> 's and competitors ' performance on each attribute and benefits . Examining how customer in the particular segment rated company against major competitor on each attribute . Monitor customer perceived value over time .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-3-17-1" docsrc="Value_(marketing)">
+      <context> Examining how customer <head>in</head> the particular segment rated company against major competitor on each attribute . Monitor customer perceived value over time .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-3-3-1" docsrc="Value_(marketing)">
+      <context> With a consumers <head>wants</head> and resources ( financial ability ) , they demand products and services with benefits that add up to the most value and satisfaction . The four types of value include : functional value , monetary value , social value , and psychological value . The sources of value are not equally important to all consumers .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-3-3-2" docsrc="Value_(marketing)">
+      <context> The four types <head>of</head> value include : functional value , monetary value , social value , and psychological value . The sources of value are not equally important to all consumers . How important a value is , depends on the consumer and the purchase .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-4-10-2" docsrc="Value_(marketing)">
+      <context> For an organization to <head>deliver</head> value , it has to improve its value : cost ratio . When an organization delivers high value at high price , the perceived value may be low . When it delivers high value at low price , the perceived value may be high .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-4-2-1" docsrc="Value_(marketing)">
+      <context> When wants are backed <head>by</head> buying power , they become demands . With a consumers wants and resources ( financial ability ) , they demand products and services with benefits that add up to the most value and satisfaction . The four types of value include : functional value , monetary value , social value , and psychological value .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-5-10-1" docsrc="Value_(marketing)">
+      <context> On the quantitative side , <head>value</head> is the actual gain measured in terms of financial numbers , percentages , and dollars . For an organization to deliver value , it has to improve its value : cost ratio . When an organization delivers high value at high price , the perceived value may be low .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-5-11-2" docsrc="Value_(marketing)">
+      <context> Value changes based on time <head>,</head> place and people in relation to changing environmental factors . It is a creative energy exchange between people and organizations in our marketplace . Very often managers conduct customer value analysis to reveal the company 's strengths and weaknesses compared to other competitors .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-5-7-1" docsrc="Value_(marketing)">
+      <context> Social Value : The extent <head>to</head> which owning a product or engaging in a service allows the consumer to connect with others . Psychological Value : The extent to which a product allows consumers to express themselves or feel better . For a firm to deliver value to its customers , they must consider what is known as the " total market offering .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-5-9-1" docsrc="Value_(marketing)">
+      <context> Value can thus be defined <head>as</head> the relationship of a firm 's market offerings to those of its competitors . Value in marketing can be defined by both qualitative and quantitative measures . On the qualitative side , value is the perceived gain composed of individual 's emotional , mental and physical condition plus various social , economic , cultural and environmental factors .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-5-9-2" docsrc="Value_(marketing)">
+      <context> Value in marketing can be <head>defined</head> by both qualitative and quantitative measures . On the qualitative side , value is the perceived gain composed of individual 's emotional , mental and physical condition plus various social , economic , cultural and environmental factors . On the quantitative side , value is the actual gain measured in terms of financial numbers , percentages , and dollars .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-5-9-3" docsrc="Value_(marketing)">
+      <context> On the qualitative side , <head>value</head> is the perceived gain composed of individual 's emotional , mental and physical condition plus various social , economic , cultural and environmental factors . On the quantitative side , value is the actual gain measured in terms of financial numbers , percentages , and dollars . For an organization to deliver value , it has to improve its value : cost ratio .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-6-10-3" docsrc="Value_(marketing)">
+      <context> When an organization delivers high value <head>at</head> high price , the perceived value may be low . When it delivers high value at low price , the perceived value may be high . The key to deliver high perceived value is attaching value to each of the individuals or organizations—making them believe that what you are offering is beyond expectation—helping them to solve a problem , offering a solution , giving results , and making them happy .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-6-3-4" docsrc="Value_(marketing)">
+      <context> How important a value is , <head>depends</head> on the consumer and the purchase . Values should always be defined through the " eyes " of the consumer . Functional Value : This type of value is what an offer does , it 's the solution an offer provides to the customer .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-8-2-1" docsrc="Value_(marketing)">
+      <context> When wants are backed by buying power , <head>they</head> become demands . With a consumers wants and resources ( financial ability ) , they demand products and services with benefits that add up to the most value and satisfaction . The four types of value include : functional value , monetary value , social value , and psychological value .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-9-10-3" docsrc="Value_(marketing)">
+      <context> When an organization delivers high value at high price <head>,</head> the perceived value may be low . When it delivers high value at low price , the perceived value may be high . The key to deliver high perceived value is attaching value to each of the individuals or organizations—making them believe that what you are offering is beyond expectation—helping them to solve a problem , offering a solution , giving results , and making them happy .</context>
+    </instance>
+    <instance id="Value_(marketing)-value-9-12-2" docsrc="Value_(marketing)">
+      <context> Very often managers conduct customer value analysis to reveal <head>the</head> company 's strengths and weaknesses compared to other competitors . the steps of which are as followed . To identify the major attributes and benefits that customers value for choosing a product and vendor .</context>
+    </instance>
+    <instance id="br-e02#w1995_0" docsrc="br-e02">
+      <context> If the temperature is controlled properly , the avocado will delay its ripening until needed . And unlike other fruits , one cannot eat the skin of the avocado . It is thick , much like an egg_plant 's skin , so that poison sprays , if they are used , present no hazard to the consumer . Good taste and versatility , plus safety from spray poisons would be enough to recommend the frequent use of such a fruit , even if its nutritional <head>values</head> were limited . Avocados , however , are very rich_in nutrients . Their main asset is an abundance of unsaturated fatty_acids , so necessary for maintaining the good_health of the circulatory_system . Aside from this , the average portion contains some protein , an appreciable amount of vitamins and C - about one-tenth of the minimum daily requirement , and about a third of the official vitamin_E requirement .</context>
+    </instance>
+    <instance id="br-e21#w1561_0" docsrc="br-e21">
+      <context> Many things need to be checked . The size of the area alone can be a determining_factor . An area may be too small for the needs of the project . Areas should be large enough to include the attractions , have ample space for the use of facilities needed , and have room around the edges to protect the <head>values</head> of the area from encroachment by private developments . Acreage in_excess_of the minimum is good practice as recreation areas are never too large for the future and it is often more economical to operate one large area than several small ones . Shape of the area is also related_to the use attractions and needs of the development . A large picnic_area or camping development is most efficient in shape as a square or rectangle several hundred feet in_width in_preference_to a long narrow area less_than one_hundred feet wide .</context>
+    </instance>
+    <instance id="br-e21#w1709_0" docsrc="br-e21">
+      <context> A large picnic_area or camping development is most efficient in shape as a square or rectangle several hundred feet in_width in_preference_to a long narrow area less_than one_hundred feet wide . This is true because of savings in utility lines and the fact that your buildings have a useful radius equal in all directions . However , a narrow strip may be very practical for small developments , or to provide additional stream frontage for a fisherman 's trail , or include scenic strips within the park unit . The <head>values</head> of the site may be affected by the appearance of the adjoining lands , ownership and use of the land , and the utilities available there . For_instance , a site adjoining other publicly owned lands , such as a national forest or a public road , may be desirable , whereas a site next to an industrial plant might_not . The utilities available nearby may provide a savings in the cost of extending electricity or water to the site . - Topography is very important .</context>
+    </instance>
+    <instance id="br-e23#w1245_0" docsrc="br-e23">
+      <context> When this linear draft is completed , I dust it down to a faint image . From this point , I paint in as direct a manner as possible , by flowing on the washes with as pure a color mixture as I can manage . However , first I thoughtfully study my sketch for improvement of color and design along the lines I have described . Then I plan my attack : the parts I will finish first , the range of <head>values</head> , the accenting of minor details - all_in_all , mechanics of producing the finished job with a maximum of crispness . The longer I work , the more I am sure that for me , at_least , a workmanlike method is important . Trial_and_error are better placed in the preliminary sketch than in hoping for miracles in the final painting . `` As for materials , I use the best available .</context>
+    </instance>
+    <instance id="br-e23#w733_0" docsrc="br-e23">
+      <context> Inspiring - yes ; instructive - maybe ; duplicable - no ! But for the technical fact , we have the artist 's own testimony : `` Of_late years , I find that I like best to work out-of-doors . First I make preliminary watercolor sketches in quarter scale ( approximately * * f inches ) in which I pay particular attention to the design principles of three simple <head>values</head> - the lightest light , the middle tone , and the darkest dark - by reducing the forms of my subject to these large patterns . If a human figure or wild_life are to be part of the projected final picture , I try to place them in the initial sketch . For me , these will belong more completely to their surroundings if they are conceived in this early stage , though I freely admit that I do not hesitate to add or eliminate figures on the full sheet when it serves my final purpose . `` I am thoroughly convinced that most watercolors suffer because the artist expects nature will do his composing for him ; as a result , such pictures are only a literal translation of what the artist finds in the scene before him .</context>
+    </instance>
+    <instance id="br-e30#w1352_0" docsrc="br-e30">
+      <context> Some companies find a little imagination helpful . Hallmark_Cards_,_Inc. , Kansas_City , Mo. , has a do-it-yourself quiz game called `` Benefit_Bafflers '' , which it distributes to employees . M_+_R_Dietetic_Laboratories_,_Inc. , Columbus , gives all its workers a facsimile checkbook - each check showing the amount the company spends on a particular fringe . U._S._Rubber_Company , New_York , passes out a form itemizing the <head>value</head> of benefits . The blue-collar worker thus knows his insurance package , for_example , costs $ 227.72 . Have the insurance_company or your own accounting department break_down the cost of your insurance package periodically . You may find certain coverage costing much more_than is economically feasible , thereby alerting you to desirable revisions .</context>
+    </instance>
+    <instance id="br-f13#w1635_0" docsrc="br-f13">
+      <context> Look_for a farm in a neighborhood of well-kept homes . There are slums in the country as_well as in the city . Few rural_areas are protected by zoning . A tavern , filling_station , junk_yard , rendering plant , or some other business may go_up near enough to hurt your home or to hurt its <head>value</head> . Check on the schools in the area , the quality of teaching , and the provision for transportation to and from them . Find_out whether fire protection , sewage_system , gas , water_mains , and electrical lines are available in the locality . If these facilities are not at the door , getting them may cost more_than you expect .</context>
+    </instance>
+    <instance id="br-f13#w1941_0" docsrc="br-f13">
+      <context> How much will it cost to do any necessary modernizing and redecorating ? If the house is not wired adequately for electricity or if plumbing or a central_heating system must be installed , check_into the cost of making these improvements . Its worth as a place to live . The <head>value</head> of the products you can raise on it . The possibilities of selling the property later_on for suburban subdivision . Decide first what the place is worth to you and your family as a home in comparison with what it would cost to live in town . Take_into_account the difference in city and county taxes , insurance rates , utility rates , and the cost of travel to work .</context>
+    </instance>
+    <instance id="br-f13#w2016_0" docsrc="br-f13">
+      <context> The possibilities of selling the property later_on for suburban subdivision . Decide first what the place is worth to you and your family as a home in comparison with what it would cost to live in town . Take_into_account the difference in city and county taxes , insurance rates , utility rates , and the cost of travel to work . Next , estimate the <head>value</head> of possible earnings of the farm . To do this , set_up a plan on_paper for operating the farm . List the kind and quantity of things the farm can be expected to produce in an average year . Estimate the value of the produce at normal prices .</context>
+    </instance>
+    <instance id="br-f13#w2058_0" docsrc="br-f13">
+      <context> Next , estimate the value of possible earnings of the farm . To do this , set_up a plan on_paper for operating the farm . List the kind and quantity of things the farm can be expected to produce in an average year . Estimate the <head>value</head> of the produce at normal prices . The total is the probable gross income from farming . To find estimated net farm income , subtract estimated annual farming expenditures from probable gross income from farming . Include as expenditures an allowance for depreciation of farm_buildings and equipment .</context>
+    </instance>
+    <instance id="br-f13#w2162_0" docsrc="br-f13">
+      <context> Also count as an expense a charge for the labor to be contributed by the family . It may be hard to decide what this labor is worth , but charge something for it . Otherwise , you may pay too much for the farm and get nothing for your labor . To figure the <head>value</head> of the farm in_terms_of investment income , divide the estimated annual net farm income by the percentage that you could expect to get in interest if the money were invested in some other way .</context>
+    </instance>
+    <instance id="br-f13#w910_0" docsrc="br-f13">
+      <context> If you want_to raise feed or carry_out some enterprise on a larger scale , you 'll need more land . In deciding how much land you want , take_into_account the amount you 'll need to bring_in the income you expect . But consider also how much you and your family can keep_up along with your other work . The cost of land and the prospects for appreciation in <head>value</head> may influence your decision . Some part-time farmers buy more land than they need in anticipation of suburban development . This is a highly speculative venture . Sometimes a desired acreage is offered only as part of a larger tract .</context>
+    </instance>
+    <instance id="br-f13#w988_0" docsrc="br-f13">
+      <context> Some part-time farmers buy more land than they need in anticipation of suburban development . This is a highly speculative venture . Sometimes a desired acreage is offered only as part of a larger tract . When surplus land is not expensive to buy or to keep_up , it is usually better to buy it than to buy so small an acreage that the development of adjoining properties might impair the residential <head>value</head> of the farm . If you have a year-round , full-time job you can n't expect to grow much more than your family uses - unless other members of the family do a good_deal of the work or you hire help . As a rule , part-time farmers hire little help . In deciding on the enterprises to be managed by family labor , compare the amount of labor that can be supplied by the family with the labor needs of various enterprises listed in table 1 .</context>
+    </instance>
+    <instance id="br-f17#w1324_0" docsrc="br-f17">
+      <context> Observing their distressing condition , Colonel_Snelling allowed these half starved immigrants to settle on the military reservation . As these Swiss were moving from the Selkirk settlement to become the first civilian residents of Minnesota , Dousman of Michilimackinac , Michigan , and Prairie_du_Chien was traveling_to Red_River to open a trade in merchandise . Early in 1822 he was at Fort_Garry offering to bring_in pork , flour , liquor and tobacco . Alexander_McDonnell , governor of Red_River , and James_Bird , a chief factor of the Hudson's_Bay_Company , ordered such `` sundry articles '' to a <head>value</head> of 4500 . For its part the Hudson's_Bay_Company was troubled by the approach of American settlement . As the time drew_near for the drawing of the British American frontier by terms of the agreement of 1818 , the company suspected that the Pembina_colony - its own post and Fort_Daer - was on American territory . Accordingly Selkirk 's agents ordered the settlers to move north , and by October , John_Halkett had torn_down both posts , floating the timber to `` the Forks '' in rafts .</context>
+    </instance>
+    <instance id="br-g22#w2150_0" docsrc="br-g22">
+      <context> This combined experience , on a foundation of very average , I assure you , intelligence and background , has helped me do things many well-informed people would bet heavily against . Perhaps a list of some of the `` practices '' of my company will help here . The company grew out of efforts by two completely inexperienced men in their late twenties , neither having a formal education applicable to , or experience in , manufacturing or selling our type of articles . From an initial investment of $ 1200 in 1943 , it has grown , with no additional capital investment , to a present <head>value</head> estimated by some as exceeding $ 10000000 ( we do n't disclose financial figures to the public ) . Its growth continues steadily on a par with past growth ; and no limitation is in_evidence . Our pin-curl clips and self-locking nuts achieved dominance in just a_few years time , despite substantial , well established competition .</context>
+    </instance>
+    <instance id="br-j03#w1417_0" docsrc="br-j03">
+      <context> Essentially these birefringence studies show that at low rates of shear a tension is present at 45 ` to the direction of shear , and as the rate of shear increases , the direction of the maximum tension moves asymptotically toward the direction of shear . According_to Philippoff , the recoverable shear s is given by * * f where |c is the angle_of_extinction . From this and the force of deformation it should be possible to calculate the elastic energy of deformation which should be equal to the * * f calculated from the pressure normal to the shearing face . There is another means which should show the direction and relative <head>value</head> of the stresses in viscoelastic fluids that is not mentioned as_such in the literature , and that is the shape of the suspended drops of low viscosity fluids in shear fields . These droplets are distorted by the normal forces just as a balloon would be pulled or pressed out of shape in one 's hands . These droplets appear to be ellipsoids , and it is mathematically convenient to assume that they are . If they are not ellipsoids , the conclusions will be a reasonable approximation .</context>
+    </instance>
+    <instance id="br-j03#w1968_0" docsrc="br-j03">
+      <context> This viscosity of the material in the drops is , of_course , not negligible . Measurements on the photograph in this paper give * * f at the maximum rate of shear of * * f . If it is assumed that the formula given by Lodge of * * f , cosec 2lc applies , the pressure difference along the major_axes can be calculated from the angle of inclination of the major_axis , and from this the interfacial_tension can be calculated . Its <head>value</head> was * * f from the above data . This appears to be high , as would be expected from the appreciable viscosity of the material in the drops . It is appropriate to call_attention_to certain thermodynamic properties of an ideal_gas that are analogous to rubber-like deformation . The internal energy of an ideal_gas depends_on temperature only and is independent of pressure or volume .</context>
+    </instance>
+    <instance id="br-j05#w457_0" docsrc="br-j05">
+      <context> Even here there is room for some variation , for metal surfaces vary in smoothness , absorptive capacity , and chemical reactivity . Spring used a Brush surface analyzer in a metal cleaning study and showed considerable differences in soil removal , depending_upon surface roughness . There are considerable differences between the requirements for textile and hard surface cleaning . Exclusive of esthetic <head>values</head> , such_as high - or low foam level , perfume content , etc. , the requirements for the organic active used in washing textiles are high . No matter how they are formulated , a large_number of organic actives are simply not suitable for this application , since they do not give adequate soil removal . This is best demonstrated by practical washing tests in which cloth articles are repeatedly washed with the same detergent formulation . A good formulation will keep the clothes clean and white after many washings ; whereas , with a poor formulation , the clothes exhibit a build-up of `` tattle-tale_grey '' and dirty spots - sometimes with bad results even after the first wash .</context>
+    </instance>
+    <instance id="br-j05#w686_0" docsrc="br-j05">
+      <context> Harris has indicated that two devices , the Launder-Ometer and Terg-O-Tometer are most widely used for rapid detergent testing , and he has listed the commercially available standard soiled fabrics . Also given are several laboratory wash procedures in general use . The soiled fabrics used for rapid testing of detergent formulations are made in such a way that only part of the soil is removed by even the best detergent formulation in a single wash . In this way , numerical <head>values</head> for the relative efficacy of various detergent formulations can be obtained by measuring the reflectance ( whiteness ) of the cloth swatches before and after washing . Soil redeposition is evaluated by washing clean swatches with the dirty ones . As_is the case with the surface-active_agent , the requirements for builders to be used in detergent compositions for washing textiles are also high . Large_numbers of potential builders have been investigated , but none have been found to be as effective as the polyphosphates over the relatively wide range of conditions met in_practice .</context>
+    </instance>
+    <instance id="br-j09#w1516_0" docsrc="br-j09">
+      <context> The strip sections containing a given protein were pooled , eluted with 0.5 ml of isotonic saline , and the eluates were tested for antibody activity . Fractions from the column which were to be subjected to analytical ultracentrifugation were concentrated by negative pressure dialysis and dialyzed for 16 hr in the cold against at_least 500 volumes of phosphate buffered saline , pH 7.2 , ionic strength 0.154 . They were then centrifuged at 59780 rpm for 35 to 80 min at 20 ` C in a Spinco model E ultracentrifuge at a protein concentration of 1.00 to 1.25 % . Sedimentation coefficients were computed as * * f <head>values</head> and relative amounts of the various components were calculated from the Schlieren patterns . For preparative ultracentrifugation , fractions from the column were concentrated by negative pressure dialysis to volumes of 1 ml or less , transferred to cellulose tubes and diluted to 12 ml with isotonic saline . Ultracentrifugation was then carried_out in a Spinco model L ultracentrifuge at 40000 rpm for 125 to 150 min , refrigeration being used throughout the run . Successive 1 - ml fractions were then drawn off with a hypodermic_syringe , starting at the top of the tube , and tested for agglutinin activity .</context>
+    </instance>
+    <instance id="br-j52#w147_0" docsrc="br-j52">
+      <context> It appeared that the theory could be saved in one way only . If it could be shown that judgments of good and bad were not judgments at_all , that they asserted nothing true or false , but merely expressed emotions like `` Hurrah '' or `` Fiddlesticks '' , then these wayward judgments would cease from troubling and weary heads could be at_rest . This is the course the positivists took . They explained <head>value</head> judgments by explaining them away . Now I do not think their view will do . But before discussing it , I should_like to record one vote of thanks to them for the clarity with which they have stated their case . It has been said of John_Stuart_Mill that he wrote so clearly that he could be found_out .</context>
+    </instance>
+    <instance id="br-j52#w37_0" docsrc="br-j52">
+      <context> But neither was the statement empirical , for goodness was not a quality like red or squeaky that could be seen or heard . What were they to do , then , with these awkward judgments of <head>value</head> ? To find a place for them in their theory of knowledge would require them to revise the theory radically , and yet that theory was what they regarded_as their most important discovery . It appeared that the theory could be saved in one way only . If it could be shown that judgments of good and bad were not judgments at_all , that they asserted nothing true or false , but merely expressed emotions like `` Hurrah '' or `` Fiddlesticks '' , then these wayward judgments would cease from troubling and weary heads could be at_rest .</context>
+    </instance>
+    <instance id="br-j60#w153_0" docsrc="br-j60">
+      <context> The new interchange among the four Los_Angeles freeways , including the grade-constructed accesses , occupies by itself no less than eighty acres of downtown land , one-eighth of a square_mile , an area about the size of Rockefeller_Center in New_York . It is hard to believe that this mass of intertwined concrete constitutes what the law calls `` the highest and best use '' of centrally located urban land . As it affects the city 's fiscal situation , such an interchange is ruinous ; it removes forever from the tax rolls property which should be taxed to pay for the city services . Subways improved land <head>values</head> without taking_away land ; freeways boost valuation less ( because the garages they require are not prime buildings by_a_long_shot ) , and reduce the acreage that can be taxed . Downtown Los_Angeles is already two-thirds freeway , interchange , street , parking_lot and garage - one of those preposterous `` if '' statistics has already come to pass . The freeway with narrowly spaced interchanges concentrates and mitigates the access problem , but it also acts inevitably as an artificial , isolating boundary . City planners do not always use this boundary as effectively as they might .</context>
+    </instance>
+    <instance id="n04979425_ex1_13" docsrc="n04979425_ex1">
+      <context> I establish the colors and principal values by organizing the painting into three <head>values</head> -- dark , medium ... and light -Joe Hing Lowe ;</context>
+    </instance>
+    <instance id="n04979425_ex1_6" docsrc="n04979425_ex1">
+      <context> I establish the colors and principal <head>values</head> by organizing the painting into three values -- dark , medium ... and light -Joe Hing Lowe ;</context>
+    </instance>
+    <instance id="n05138488_ex1_6" docsrc="n05138488_ex1">
+      <context> the Shakespearean Shylock is of dubious <head>value</head> in the modern world ;</context>
+    </instance>
+    <instance id="n05856388_ex1_1" docsrc="n05856388_ex1">
+      <context> the <head>value</head> assigned was 16 milliseconds ;</context>
+    </instance>
+    <instance id="n05923983_ex1_3" docsrc="n05923983_ex1">
+      <context> he has old-fashioned <head>values</head> ;</context>
+    </instance>
+    <instance id="n13413493_ex1_5" docsrc="n13413493_ex1">
+      <context> he tried to estimate the <head>value</head> of the produce at normal prices ;</context>
+    </instance>
+  </lexelt>
+</corpus>

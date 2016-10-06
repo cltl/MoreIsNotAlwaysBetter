@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="spokesman.n" pos="NN">
+    <instance id="Spokesperson-spokesman-1-13-1" docsrc="Spokesperson">
+      <context> A <head>"</head> spokesman " is someone engaged or elected to speak on behalf of others . In the particle physics community , large collaborations of physicists elect one ( or two ) spokesmen or leader(s ) of the collaboration . The spokesman in such cases is the lead scientist of the collaboration , not a public speaker .</context>
+    </instance>
+    <instance id="Spokesperson-spokesman-16-0-1" docsrc="Spokesperson">
+      <context> A " spokesman " is someone engaged or elected to speak on behalf of others . <head>In</head> the particle physics community , large collaborations of physicists elect one ( or two ) spokesmen or leader(s ) of the collaboration .</context>
+    </instance>
+    <instance id="Spokesperson-spokesman-16-13-2" docsrc="Spokesperson">
+      <context> In the particle physics community , large collaborations of physicists elect one ( or two ) <head>spokesmen</head> or leader(s ) of the collaboration . The spokesman in such cases is the lead scientist of the collaboration , not a public speaker . Each collaboration chooses the roles and responsibilities of the spokesperson for internal purposes , but typically spokesmen also have defined roles for liaising with the host laboratory and/or funding agencies .</context>
+    </instance>
+    <instance id="br-h16#w1109_0" docsrc="br-h16">
+      <context> This brings us to the course of the proceedings in the District_Court . This Court 's judgment was filed in the District_Court on July 18 , 1957 . The first pretrial conference - held to appoint amici_curiae to represent the interest of the stockholders of du_Pont and General_Motors and to consider the procedure to be followed in the subsequent hearings - took_place on September 25 , 1957 . At the outset , the Government 's <head>spokesman</head> explained that counsel for the Government and for du_Pont had already held preliminary discussions with a view to arriving at a relief plan that both sides could recommend to the court . Du_Pont , he said , had proposed disenfranchisement of its General_Motors stock along with other restrictions on the du_Pont-General_Motors relationship . The Government , deeming these suggestions inadequate , had urged that any judgment include divestiture of du_Pont 's shares of General_Motors . Counsel for the Government invited du_Pont 's views on this proposal before recommending a specific program , but stated that if the court desired , or if counsel for du_Pont thought further discussion would not be profitable , the Government was prepared to submit a plan within thirty days .</context>
+    </instance>
+    <instance id="n10115271_d_5" docsrc="n10115271_d">
+      <context> a leader and organizer and <head>spokesman</head> ( especially a political_leader ) ;</context>
+    </instance>
+  </lexelt>
+</corpus>

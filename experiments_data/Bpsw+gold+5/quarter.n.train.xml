@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="quarter.n" pos="NN">
+    <instance id="a02998046_d_8" docsrc="a02998046_d">
+      <context> of or relating to or consisting of a <head>quarter</head> ;</context>
+    </instance>
+    <instance id="n01258579_ex1_5" docsrc="n01258579_ex1">
+      <context> he surrendered but asked for <head>quarter</head> ;</context>
+    </instance>
+    <instance id="n08555102_d_17" docsrc="n08555102_d">
+      <context> a New_Orleans district lying outside the original city_limits ; used in combination with the names of various <head>quarters</head> of the city ;</context>
+    </instance>
+    <instance id="n10498699_ex1_7" docsrc="n10498699_ex1">
+      <context> he dropped a word in the right <head>quarter</head> ;</context>
+    </instance>
+    <instance id="n13029326_d_22" docsrc="n13029326_d">
+      <context> a discomycete that is a harbinger of spring ; the fruiting_body is thin and tough and saucer-shaped ( about the size of <head>quarter</head> to a half_dollar ) with a deep bright red upper_surface and a whitish exterior ;</context>
+    </instance>
+    <instance id="n13830166_ex1_6" docsrc="n13830166_ex1">
+      <context> the wind is coming from that <head>quarter</head> ;</context>
+    </instance>
+    <instance id="n15226046_ex1_2" docsrc="n15226046_ex1">
+      <context> the fall <head>quarter</head> ends at Christmas ;</context>
+    </instance>
+    <instance id="n15234942_ex1_3" docsrc="n15234942_ex1">
+      <context> it 's a <head>quarter</head> til 4 ;</context>
+    </instance>
+    <instance id="n15258450_ex1_6" docsrc="n15258450_ex1">
+      <context> both teams scored in the first <head>quarter</head> ;</context>
+    </instance>
+    <instance id="r00436980_d_3" docsrc="r00436980_d">
+      <context> in diagonally opposed <head>quarters</head> of an escutcheon ;</context>
+    </instance>
+  </lexelt>
+</corpus>

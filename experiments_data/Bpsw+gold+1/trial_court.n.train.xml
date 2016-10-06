@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="trial_court.n" pos="NN">
+    <instance id="br-h16#w228_0" docsrc="br-h16">
+      <context> `` The fact that sticks_out in this voluminous record is that the bulk of du_Pont 's production has always supplied the largest part of the requirements of the one customer in the automobile_industry connected to du_Pont by a stock interest . The inference is overwhelming that du_Pont 's commanding position was promoted by its stock interest and was not gained solely on competitive merit '' . 353_U._S._,_at_605 . This Court agreed with the <head>trial_court</head> `` that considerations of price , quality and service were not overlooked by either du_Pont or General_Motors '' . 353_U._S._,_at_606 . However , it determined that neither this factor , nor `` the fact that all concerned in high executive posts in both companies acted honorably and fairly , each in the honest conviction that his actions were in the best interests of his own company and without any design to overreach anyone , including du_Pont 's competitors '' , 353_U._S._,_at_607 , outweighed the Government 's claim for relief . This claim , as submitted to the District_Court and dismissed by it , 126_F._Supp .235 , alleged violation not_only of 7 of the Clayton_Act , but also of 1 and 2 of the Sherman_Act .</context>
+    </instance>
+    <instance id="n01197658_d_31" docsrc="n01197658_d">
+      <context> review by a court_of_law of actions of a government official or entity or of some_other legally appointed person or body or the review by an appellate_court of the decision of a <head>trial_court</head> ;</context>
+    </instance>
+    <instance id="n07178182_d_13" docsrc="n07178182_d">
+      <context> resolution of a dispute prior to the rendering of a final_decision by the <head>trial_court</head> ;</context>
+    </instance>
+    <instance id="n10728523_d_4" docsrc="n10728523_d">
+      <context> a judge in a <head>trial_court</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

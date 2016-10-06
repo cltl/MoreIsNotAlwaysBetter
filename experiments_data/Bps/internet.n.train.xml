@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="internet.n" pos="NN">
+    <instance id="a02847473_d_5" docsrc="a02847473_d">
+      <context> of or relating to an <head>internet</head> company ;</context>
+    </instance>
+    <instance id="n00145779_d_5" docsrc="n00145779_d">
+      <context> a connection made via the <head>internet</head> to another website ;</context>
+    </instance>
+    <instance id="n00768483_d_7" docsrc="n00768483_d">
+      <context> crime committed using a computer and the <head>internet</head> to steal a person's identity or sell contraband or stalk victims or disrupt operations with malevolent_programs ;</context>
+    </instance>
+    <instance id="n01092974_d_7" docsrc="n01092974_d">
+      <context> commerce conducted electronically ( as on the <head>internet</head> ) ;</context>
+    </instance>
+    <instance id="n03155178_d_12" docsrc="n03155178_d">
+      <context> a cafe whose customers sit at computer terminals and log_on to the <head>internet</head> while they eat and drink ;</context>
+    </instance>
+    <instance id="n03348142_d_33" docsrc="n03348142_d">
+      <context> a security_system consisting of a combination of hardware and software that limits the exposure of a computer or computer_network to attack from crackers ; commonly used on local_area_networks that are connected to the <head>internet</head> ;</context>
+    </instance>
+    <instance id="n03577474_d_8" docsrc="n03577474_d">
+      <context> a computer_network similar to but separate from the <head>internet</head> ; devoted to the dissemination of information to and for the Intelligence_Community ;</context>
+    </instance>
+    <instance id="n04358491_d_7" docsrc="n04358491_d">
+      <context> an extensive electronic_network ( such as the <head>internet</head> ) used for the rapid transfer of sound and video and graphics in digital form ;</context>
+    </instance>
+    <instance id="n04569063_d_12" docsrc="n04569063_d">
+      <context> a digital_camera designed to take digital photographs and transmit them over the <head>internet</head> ;</context>
+    </instance>
+    <instance id="n06358900_d_13" docsrc="n06358900_d">
+      <context> a document connected to the World_Wide_Web and viewable by anyone connected to the <head>internet</head> who has a web_browser ;</context>
+    </instance>
+    <instance id="n06359193_d_5" docsrc="n06359193_d">
+      <context> a computer connected to the <head>internet</head> that maintains a series of web_pages on the World_Wide_Web ;</context>
+    </instance>
+    <instance id="n06359467_d_4" docsrc="n06359467_d">
+      <context> a site on the <head>internet</head> where a number of users can communicate in real_time ( typically one dedicated to a particular topic ) ;</context>
+    </instance>
+    <instance id="n06359657_d_14" docsrc="n06359657_d">
+      <context> a site that the owner positions as an entrance to other sites on the <head>internet</head> ;</context>
+    </instance>
+    <instance id="n06578654_d_20" docsrc="n06578654_d">
+      <context> a computer_program that retrieves documents or files or data from a database or from a computer_network ( especially from the <head>internet</head> ) ;</context>
+    </instance>
+    <instance id="n06579715_d_5" docsrc="n06579715_d">
+      <context> a computer_program that prowls the <head>internet</head> looking_for publicly accessible resources that can be added to a database ; the database can then be searched with a search_engine ;</context>
+    </instance>
+    <instance id="n06666210_d_5" docsrc="n06666210_d">
+      <context> a protocol developed for the <head>internet</head> to get data from one network device to another ;</context>
+    </instance>
+    <instance id="n06666486_d_11" docsrc="n06666486_d">
+      <context> a set of protocols ( including TCP ) developed for the <head>internet</head> in the 1970s to get data from one network device to another ;</context>
+    </instance>
+    <instance id="n06845303_d_22" docsrc="n06845303_d">
+      <context> strings of letters and numbers ( separated by periods ) that are used to name organizations and computers and addresses on the <head>internet</head> ;</context>
+    </instance>
+    <instance id="n07949160_d_8" docsrc="n07949160_d">
+      <context> a group of like-minded people united by the <head>internet</head> ; a new kind of social or political of business group that may exert broad influence on a shared concern ;</context>
+    </instance>
+    <instance id="n08002384_d_9" docsrc="n08002384_d">
+      <context> a company that operates its business primarily on the <head>internet</head> using a URL that ends in .com ;</context>
+    </instance>
+    <instance id="n09985683_d_5" docsrc="n09985683_d">
+      <context> a computer_user who uses the <head>internet</head> ; someone who explores cyberspace ;</context>
+    </instance>
+    <instance id="n14037816_d_5" docsrc="n14037816_d">
+      <context> sexual_arousal involving communication on the <head>internet</head> ;</context>
+    </instance>
+    <instance id="v00648764_d_2" docsrc="v00648764_d">
+      <context> search the <head>internet</head> using the Google search_engine ;</context>
+    </instance>
+    <instance id="v00968962_d_3" docsrc="v00968962_d">
+      <context> distribute over the <head>internet</head> for playback on a mobile device or a personal_computer ;</context>
+    </instance>
+  </lexelt>
+</corpus>

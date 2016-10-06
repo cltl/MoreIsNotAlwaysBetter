@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="period.n" pos="NN">
+    <instance id="Full_stop-period-11-22-1" docsrc="Full_stop">
+      <context> === Abbreviations === A full stop is used after some abbreviations <head>.</head> If the abbreviation ends a declaratory sentence there is no additional period immediately following the full stop that ends the abbreviation ( e.g. " My name is Gabriel Gama , Jr. " ) .</context>
+    </instance>
+    <instance id="Menstruation-period-2-0-5" docsrc="Menstruation">
+      <context> These may <head>interfere</head> with normal life , therefore qualifying as premenstrual syndrome , in 20 to 30 % of women . In 3 to 8 % , symptoms are severe . The first period usually begins between twelve and fifteen years of age , a point in time known as menarche .</context>
+    </instance>
+    <instance id="Menstruation-period-2-1-1" docsrc="Menstruation">
+      <context> In 3 <head>to</head> 8 % , symptoms are severe . The first period usually begins between twelve and fifteen years of age , a point in time known as menarche . However , periods may occasionally start as young as eight years old and still be considered normal .</context>
+    </instance>
+    <instance id="br-e25#w1997_0" docsrc="br-e25">
+      <context> A typical `` sonogram '' of a human eye , together with a description of the anatomical parts , is shown in Fig. 5 . The frequency used for these experiments is 15 mc. and the transducer is a specially cut crystal with an epoxy lens capable of providing beam diameters smaller than one millimeter . The transducer itself moves the beam in a sector scan , just like a radar antenna , while the entire transducer structure is moved over a 90 - degree arc in_front_of the eye to `` look_into '' all corners . The total picture is only seen by the camera which integrates the many sector scans over the entire 90 - degree rotation <head>period</head> . Drs._Howry and Holmes at the University_of_Colorado_Medical_School have applied the same sonar technique to other areas of soft tissue and have obtained extremely good results . By submerging the patient in a tub and rotating the transducer while the scanning goes_on , they have been able to get cross-section views of the neck , as shown in Fig. 7 , as_well_as many other hitherto impossible insights . As mentioned before , bone reflects the sound energy and in Fig. 7 the portion of the spine shows as the black area in the center .</context>
+    </instance>
+    <instance id="br-f21#w1176_0" docsrc="br-f21">
+      <context> The tsunami warning system developed since the 1946 disaster in Hawaii relies mainly on a simple and ingenious instrument devised by Commander_C._K._Green of the Coast_and_Geodetic_Survey staff . It consists_of a series of pipes and a pressure measuring chamber which record the rise and fall of the water surface . Ordinary water tides are disregarded . But when waves with a <head>period</head> of between 10 and 40 minutes begin to roll over the ocean , they set_in_motion a corresponding oscillation in a column of mercury which closes an electric_circuit . This in_turn sets_off an alarm , notifying the observers at the station that a tsunami is in progress . Such equipment has been installed at Hilo , Midway , Attu and Dutch_Harbor . The moment the alarm goes_off , information is immediately forwarded to Honolulu , which is the center of the warning system .</context>
+    </instance>
+    <instance id="n06843520_ex1_5" docsrc="n06843520_ex1">
+      <context> in England they call a <head>period</head> a stop ;</context>
+    </instance>
+    <instance id="n15113229_ex3_2" docsrc="n15113229_ex3">
+      <context> Picasso's blue <head>period</head> ;</context>
+    </instance>
+    <instance id="n15144178_ex1_3" docsrc="n15144178_ex1">
+      <context> death put a <head>period</head> to his endeavors ;</context>
+    </instance>
+    <instance id="n15144178_ex2_5" docsrc="n15144178_ex2">
+      <context> a change soon put a <head>period</head> to my tranquility ;</context>
+    </instance>
+    <instance id="n15248564_d_1" docsrc="n15248564_d">
+      <context> a <head>period</head> marked by distinctive character or reckoned from a fixed point or event ;</context>
+    </instance>
+  </lexelt>
+</corpus>

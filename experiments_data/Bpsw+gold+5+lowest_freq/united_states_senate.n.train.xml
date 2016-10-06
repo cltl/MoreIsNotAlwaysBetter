@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="United_States_Senate.n" pos="NN">
+    <instance id="n02956500_d_6" docsrc="n02956500_d">
+      <context> the government_building in Washington where the <head>United_States_Senate</head> and the House_of_Representatives meet ;</context>
+    </instance>
+    <instance id="n10751527_d_9" docsrc="n10751527_d">
+      <context> the vice_president of the United_States who presides over the <head>United_States_Senate</head> ;</context>
+    </instance>
+    <instance id="n10902752_d_10" docsrc="n10902752_d">
+      <context> wife of President_Clinton and later a woman member of the <head>United_States_Senate</head> ;</context>
+    </instance>
+    <instance id="n11002191_d_16" docsrc="n11002191_d">
+      <context> made the first orbital rocket powered flight by a United_States astronaut in 1962 ; later in <head>United_States_Senate</head> ;</context>
+    </instance>
+    <instance id="n11276676_d_25" docsrc="n11276676_d">
+      <context> United_States jurist and second chief_justice of the United_States_Supreme_Court ; he was appointed by George_Washington and briefly served as chief_justice but was ultimately rejected by the <head>United_States_Senate</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

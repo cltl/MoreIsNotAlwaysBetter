@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="speculation.n" pos="NN">
+    <instance id="n05891783_ex1_0" docsrc="n05891783_ex1">
+      <context> <head>speculations</head> about the outcome of the election ;</context>
+    </instance>
+    <instance id="n10221162_d_10" docsrc="n10221162_d">
+      <context> someone who builds cheap buildings out of poor materials on <head>speculation</head> for a quick profit ;</context>
+    </instance>
+    <instance id="n10456138_d_8" docsrc="n10456138_d">
+      <context> someone who emphasizes observable facts and excludes metaphysical <head>speculation</head> about origins or ultimate causes ;</context>
+    </instance>
+    <instance id="n10712835_d_7" docsrc="n10712835_d">
+      <context> one who sells advice about gambling or <head>speculation</head> ( especially at the racetrack ) ;</context>
+    </instance>
+    <instance id="n10756641_d_5" docsrc="n10756641_d">
+      <context> a person given to fanciful <head>speculations</head> and enthusiasms with little regard for what is actually possible ;</context>
+    </instance>
+    <instance id="n11213323_d_3" docsrc="n11213323_d">
+      <context> German naturalist whose <head>speculations</head> that plants and animals are made_up of tiny living infusoria led to the cell_theory ;</context>
+    </instance>
+    <instance id="n13342692_ex1_6" docsrc="n13342692_ex1">
+      <context> he knew the stock was a <head>speculation</head> when he bought it ;</context>
+    </instance>
+    <instance id="v00631398_d_2" docsrc="v00631398_d">
+      <context> make theoretical <head>speculations</head> about theology or discuss theological subjects ;</context>
+    </instance>
+    <instance id="v00925110_d_6" docsrc="v00925110_d">
+      <context> place in doubt or express doubtful <head>speculation</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

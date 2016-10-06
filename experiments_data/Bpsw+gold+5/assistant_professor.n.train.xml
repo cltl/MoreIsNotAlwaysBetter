@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="assistant_professor.n" pos="NN">
+    <instance id="n09817386_d_12" docsrc="n09817386_d">
+      <context> a teacher lower in rank than a full_professor but higher than an <head>assistant_professor</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

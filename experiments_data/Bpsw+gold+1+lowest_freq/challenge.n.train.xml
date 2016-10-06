@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="challenge.n" pos="NN">
+    <instance id="n07193405_ex1_1" docsrc="n07193405_ex1">
+      <context> his <head>challenge</head> of the assumption that Japan is still our enemy ;</context>
+    </instance>
+    <instance id="n07231532_d_1" docsrc="n07231532_d">
+      <context> a <head>challenge</head> to do something dangerous or foolhardy ;</context>
+    </instance>
+    <instance id="v00601659_d_6" docsrc="v00601659_d">
+      <context> believe or accept without questioning or <head>challenge</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

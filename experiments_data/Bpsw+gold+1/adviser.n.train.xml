@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="adviser.n" pos="NN">
+    <instance id="Consultant-adviser-0-45-1" docsrc="Consultant">
+      <context> <head>There</head> are about 10,000 CMCs worldwide . International Federation of Consulting Engineers ( FIDIC ) is a Federation whose members are national associations of Consulting Engineers . Adviser</context>
+    </instance>
+    <instance id="n08051946_d_4" docsrc="n08051946_d">
+      <context> the sovereign and his <head>advisers</head> who are the governing power of a state ;</context>
+    </instance>
+    <instance id="n08381820_d_13" docsrc="n08381820_d">
+      <context> persons appointed by a head_of_state to head executive_departments of government and act_as official <head>advisers</head> ;</context>
+    </instance>
+    <instance id="n09774266_ex1_1" docsrc="n09774266_ex1">
+      <context> an <head>adviser</head> helped students select their courses ;</context>
+    </instance>
+    <instance id="n09788237_d_1" docsrc="n09788237_d">
+      <context> an <head>adviser</head> to the court on some matter_of_law who is not a party to the case ; usually someone who wants to influence the outcome of a lawsuit involving matters of wide public interest ;</context>
+    </instance>
+    <instance id="n09830759_d_2" docsrc="n09830759_d">
+      <context> an expert <head>adviser</head> involved in making important decisions but usually lacking official status ;</context>
+    </instance>
+    <instance id="n10225787_d_5" docsrc="n10225787_d">
+      <context> a staff_officer serving as legal <head>adviser</head> to a military commander ;</context>
+    </instance>
+    <instance id="n10289338_d_0" docsrc="n10289338_d">
+      <context> <head>adviser</head> to business about efficient management practices ;</context>
+    </instance>
+    <instance id="n10316164_d_6" docsrc="n10316164_d">
+      <context> a military_officer who serves as an <head>adviser</head> to the troops of an allied nation ;</context>
+    </instance>
+    <instance id="n10574840_d_1" docsrc="n10574840_d">
+      <context> an <head>adviser</head> about alarm_systems to prevent burglaries ;</context>
+    </instance>
+    <instance id="n10649047_d_2" docsrc="n10649047_d">
+      <context> a religious <head>adviser</head> ( not necessarily a priest ) in the Eastern_Orthodox_Church ;</context>
+    </instance>
+    <instance id="n13838930_d_5" docsrc="n13838930_d">
+      <context> the responsibility of a confidential <head>adviser</head> to act in the best interest of the advisee ;</context>
+    </instance>
+  </lexelt>
+</corpus>

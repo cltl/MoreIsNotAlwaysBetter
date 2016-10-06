@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="football_player.n" pos="NN">
+    <instance id="br-k26#w1568_0" docsrc="br-k26">
+      <context> Driving along the caliche-topped road to town , Howard talked . Finally he said , `` Tell me about yourself '' , and Linda_Kay told him , because she thought herself that she had had an interesting life . She was such a well-rounded teenager , having been a twirler , Future_Farmers sweetheart , and secretary of Future_Homemakers . In her sophomore year she had started going_steady with Bobby_Joe , who was a <head>football_player</head> , Future_Homemakers sweetheart , and president of Future_Farmers . It was easy to see that they were made_for each other , and they knew what they wanted . Bobby_Joe would be a senior this year , and he planned to graduate . But there was no need for Linda_Kay to go_on , since all she wanted in life was to make a home for Bobby_Joe and ( blushing ) raise his children .</context>
+    </instance>
+    <instance id="n00172217_d_6" docsrc="n00172217_d">
+      <context> a deceptive move made by a <head>football_player</head> ;</context>
+    </instance>
+    <instance id="n00726369_d_5" docsrc="n00726369_d">
+      <context> the position of a defensive <head>football_player</head> who plays close behind the line_of_scrimmage ;</context>
+    </instance>
+    <instance id="n00726567_d_4" docsrc="n00726567_d">
+      <context> the position of the <head>football_player</head> in the backfield who directs the offensive play of his team ;</context>
+    </instance>
+    <instance id="n02738859_d_4" docsrc="n02738859_d">
+      <context> a pad worn by <head>football_players</head> and hockey goalkeepers ;</context>
+    </instance>
+    <instance id="n03015478_d_12" docsrc="n03015478_d">
+      <context> protective_garment consisting of a pad worn in baseball by catchers and by <head>football_players</head> ;</context>
+    </instance>
+    <instance id="n03268645_d_10" docsrc="n03268645_d">
+      <context> protective_garment consisting of a pad worn over the elbow by <head>football</head> and hockey_players ;</context>
+    </instance>
+    <instance id="n03379051_d_11" docsrc="n03379051_d">
+      <context> a padded helmet with a face_mask to protect the head of <head>football_players</head> ;</context>
+    </instance>
+    <instance id="n03521771_d_7" docsrc="n03521771_d">
+      <context> protective_garment consisting of a pad worn by <head>football</head> and hockey_players ;</context>
+    </instance>
+    <instance id="n04207903_d_9" docsrc="n04207903_d">
+      <context> protective_garment consisting of a hard rounded pad worn by <head>football_players</head> to protect their shoulders ;</context>
+    </instance>
+    <instance id="n04423552_d_10" docsrc="n04423552_d">
+      <context> protective_garment consisting of a pad worn over the thighs by <head>football_players</head> ;</context>
+    </instance>
+    <instance id="n04607640_d_7" docsrc="n04607640_d">
+      <context> protective_garment consisting of a pad worn by <head>football_players</head> ;</context>
+    </instance>
+    <instance id="n08429744_d_2" docsrc="n08429744_d">
+      <context> the offensive <head>football_players</head> who line_up behind the linemen ;</context>
+    </instance>
+    <instance id="n08429899_d_2" docsrc="n08429899_d">
+      <context> the defensive <head>football_players</head> who line_up behind the linemen ;</context>
+    </instance>
+    <instance id="n08430054_d_1" docsrc="n08430054_d">
+      <context> the <head>football_players</head> who line_up on the line_of_scrimmage ;</context>
+    </instance>
+    <instance id="n09860248_d_1" docsrc="n09860248_d">
+      <context> a <head>football_player</head> whose responsibility is to block players attempting to stop an offensive play ;</context>
+    </instance>
+    <instance id="n09965787_d_2" docsrc="n09965787_d">
+      <context> a defensive <head>football_player</head> stationed outside the linebackers ;</context>
+    </instance>
+    <instance id="n10101202_d_3" docsrc="n10101202_d">
+      <context> a coach of <head>football_players</head> ;</context>
+    </instance>
+    <instance id="n10101308_d_1" docsrc="n10101308_d">
+      <context> a <head>football_player</head> who has achieved a reputation for success ;</context>
+    </instance>
+    <instance id="n10263002_d_2" docsrc="n10263002_d">
+      <context> a defensive <head>football_player</head> who takes a position close behind the linemen ;</context>
+    </instance>
+    <instance id="n10510818_d_1" docsrc="n10510818_d">
+      <context> a <head>football_player</head> who catches ( or is supposed to catch ) a forward_pass ;</context>
+    </instance>
+    <instance id="n10688238_d_1" docsrc="n10688238_d">
+      <context> a <head>football_player</head> who tackles the ball_carrier ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="infrastructure.n" pos="NN">
+    <instance id="n08036005_d_19" docsrc="n08036005_d">
+      <context> a terrorist_group formed in 1976 to work for Corsican independence ; attacks on Corsica are aimed at sabotaging public <head>infrastructure</head> and symbols of colonialism ;</context>
+    </instance>
+  </lexelt>
+</corpus>

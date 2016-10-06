@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="military.n" pos="NN">
+    <instance id="br-h13#w1827_0" docsrc="br-h13">
+      <context> It is the strategy of blockade , therefore , that is suddenly at the center of attention of administration officials , Members of Congress , officers in the Pentagon . As a possible course of action , it also is the center of debate and is raising many questions . Among these questions : <head>Military</head> experts say a tight naval_blockade off Cuban ports and at the approaches to Cuban waters would require two naval task_forces , each built around an aircraft_carrier with a complement of about 100 planes and several destroyers . The Navy , on April 25 , announced it is bringing_back the carrier Shangri-La from the Mediterranean , increasing to four the number of attack_carriers in the vicinity of Cuba . More than 36 other big Navy ships are no less_than a day 's sailing time away . To round_out the blockading force , submarines would be needed - to locate , identify and track approaching vessels .</context>
+    </instance>
+  </lexelt>
+</corpus>

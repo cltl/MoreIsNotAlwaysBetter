@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="healthcare.n" pos="NN">
+    <instance id="Health_care-healthcare-0-9-1" docsrc="Health_care">
+      <context> <head>It</head> includes the work done in providing primary care , secondary care , and tertiary care , as well as in public health . While the definitions of the various types of health care vary depending on the different cultural , political , organizational and disciplinary perspectives , there appears to be some consensus that primary care constitutes the first element of a continuing health care process , that may also include the provision of secondary and tertiary levels of care . Healthcare can be defined as either public or private .</context>
+    </instance>
+    <instance id="Health_care-healthcare-13-64-1" docsrc="Health_care">
+      <context> Health care extends beyond the delivery of services to patients , encompassing many <head>related</head> sectors , and set within a bigger picture of financing and governance structures . === Health system === A health system , also sometimes referred to as health care system or healthcare system is the organization of people , institutions , and resources to deliver health care services to meet the health needs of target populations .</context>
+    </instance>
+    <instance id="Health_care-healthcare-17-50-1" docsrc="Health_care">
+      <context> This can include prosthesis , orthotics or wheelchairs . === Ratings === Health care ratings are ratings <head>or</head> evaluations of health care used to evaluate process of care , healthcare structures and/or outcomes of a healthcare services .</context>
+    </instance>
+    <instance id="Health_care-healthcare-23-50-1" docsrc="Health_care">
+      <context> This can include prosthesis , orthotics or wheelchairs . === Ratings === Health care ratings are ratings or evaluations of health care used <head>to</head> evaluate process of care , healthcare structures and/or outcomes of a healthcare services .</context>
+    </instance>
+  </lexelt>
+</corpus>

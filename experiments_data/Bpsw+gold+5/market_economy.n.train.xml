@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="market_economy.n" pos="NN">
+    <instance id="n08365344_d_6" docsrc="n08365344_d">
+      <context> an economy that is not a <head>market_economy</head> ;</context>
+    </instance>
+    <instance id="n13511243_d_9" docsrc="n13511243_d">
+      <context> the interaction of supply and demand that shapes a <head>market_economy</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

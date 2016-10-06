@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="congestion.n" pos="NN">
+    <instance id="br-j15#w1294_0" docsrc="br-j15">
+      <context> The lungs weighed together 950 gm. . On the surfaces of both lungs there were emphysematous blebs measuring up_to 3 cm. in diameter . The parenchyma was slightly hyperemic in the apex of the left lung , and there were several firm , gray , fibrocalcific nodules measuring as large as 3 mm. . Microscopically , there was emphysema , fibrosis , and vascular <head>congestion</head> . Macrophages laden with brown pigment were seen in some of the alveoli , and the intima of some of the small arteries was thickened by fibrous_tissue . The firm red spleen weighed 410 gm. , and its surface was mottled by discrete , small patches of white material . The endothelial cells lining the sinusoids were prominent , and many contained large quantities of hemosiderin .</context>
+    </instance>
+    <instance id="br-l17#w596_0" docsrc="br-l17">
+      <context> `` No , sir '' . `` Running in , running out . Ca n't have it . Makes_for confusion and <head>congestion</head> '' . He rocked back in the chair , knee locked against stomach , his beady eyes fixed on Matson . He was silent again , possibly listening to the sounds in the squadroom . Roll was being called .</context>
+    </instance>
+    <instance id="n08543776_d_3" docsrc="n08543776_d">
+      <context> a point of <head>congestion</head> or blockage ;</context>
+    </instance>
+    <instance id="n13944747_ex1_1" docsrc="n13944747_ex1">
+      <context> traffic <head>congestion</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

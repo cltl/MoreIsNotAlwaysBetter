@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="military.n" pos="NN">
+    <instance id="a00142407_d_6" docsrc="a00142407_d">
+      <context> ( used of persons or the <head>military</head> ) characterized by having or bearing arms ;</context>
+    </instance>
+    <instance id="a00142917_d_6" docsrc="a00142917_d">
+      <context> ( used of persons or the <head>military</head> ) not having or using arms ;</context>
+    </instance>
+    <instance id="a01193046_d_2" docsrc="a01193046_d">
+      <context> of the <head>military</head> or industry ; using ( or being ) relatively small or light arms or equipment ;</context>
+    </instance>
+    <instance id="a01193373_d_2" docsrc="a01193373_d">
+      <context> of the <head>military</head> or industry ; using ( or being ) the heaviest and most powerful armaments or weapons or equipment ;</context>
+    </instance>
+    <instance id="a01517921_d_15" docsrc="a01517921_d">
+      <context> associated with civil life or performed by persons who are not active members of the <head>military</head> ;</context>
+    </instance>
+    <instance id="a01518386_d_8" docsrc="a01518386_d">
+      <context> characteristic of or associated with soldiers or the <head>military</head> ;</context>
+    </instance>
+    <instance id="a01518955_d_6" docsrc="a01518955_d">
+      <context> not associated with soldiers or the <head>military</head> ;</context>
+    </instance>
+    <instance id="a01970777_d_4" docsrc="a01970777_d">
+      <context> ( used of the <head>military</head> ) belonging_to or engaged in by legitimate army forces ;</context>
+    </instance>
+    <instance id="a01971046_d_4" docsrc="a01971046_d">
+      <context> ( used of the <head>military</head> ) not belonging_to or engaged in by regular_army forces ;</context>
+    </instance>
+    <instance id="br-h13#w1827_0" docsrc="br-h13">
+      <context> It is the strategy of blockade , therefore , that is suddenly at the center of attention of administration officials , Members of Congress , officers in the Pentagon . As a possible course of action , it also is the center of debate and is raising many questions . Among these questions : <head>Military</head> experts say a tight naval_blockade off Cuban ports and at the approaches to Cuban waters would require two naval task_forces , each built around an aircraft_carrier with a complement of about 100 planes and several destroyers . The Navy , on April 25 , announced it is bringing_back the carrier Shangri-La from the Mediterranean , increasing to four the number of attack_carriers in the vicinity of Cuba . More than 36 other big Navy ships are no less_than a day 's sailing time away . To round_out the blockading force , submarines would be needed - to locate , identify and track approaching vessels .</context>
+    </instance>
+    <instance id="n00243102_d_10" docsrc="n00243102_d">
+      <context> a signal to get_up in the morning ; in the <head>military</head> it is a bugle_call at sunrise ;</context>
+    </instance>
+    <instance id="n00579201_d_4" docsrc="n00579201_d">
+      <context> compulsory service in the <head>military</head> during peacetime ;</context>
+    </instance>
+    <instance id="n00980394_d_7" docsrc="n00980394_d">
+      <context> an offensive conducted by secret_police or the <head>military</head> of a regime against revolutionary and terrorist insurgents and marked by the use of kidnapping and torture and murder with civilians often being the victims ;</context>
+    </instance>
+    <instance id="n08199025_ex1_1" docsrc="n08199025_ex1">
+      <context> their <head>military</head> is the largest in the region ;</context>
+    </instance>
+    <instance id="n08454818_d_7" docsrc="n08454818_d">
+      <context> the body of law imposed by the <head>military</head> over civilian affairs ( usually in time of war or civil crisis ) ; overrides civil_law ;</context>
+    </instance>
+    <instance id="n10316683_d_8" docsrc="n10316683_d">
+      <context> the head of a government established by the <head>military</head> ( as in a defeated country ) ;</context>
+    </instance>
+    <instance id="r00111016_d_4" docsrc="r00111016_d">
+      <context> with respect to the <head>military</head> ;</context>
+    </instance>
+    <instance id="v00603981_d_3" docsrc="v00603981_d">
+      <context> train in the <head>military</head> , e.g. , in the use of weapons ;</context>
+    </instance>
+    <instance id="v01097031_d_6" docsrc="v01097031_d">
+      <context> serve as a soldier in the <head>military</head> ;</context>
+    </instance>
+    <instance id="v01097192_d_2" docsrc="v01097192_d">
+      <context> join the <head>military</head> ;</context>
+    </instance>
+    <instance id="v01098452_d_7" docsrc="v01098452_d">
+      <context> cause to assemble or enlist in the <head>military</head> ;</context>
+    </instance>
+    <instance id="v02554797_d_7" docsrc="v02554797_d">
+      <context> promote somebody by brevet , in the <head>military</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

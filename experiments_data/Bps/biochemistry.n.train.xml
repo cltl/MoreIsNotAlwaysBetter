@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="biochemistry.n" pos="NN">
+    <instance id="a02664932_d_4" docsrc="a02664932_d">
+      <context> of or relating to <head>biochemistry</head> ; involving chemical_processes in living organisms ;</context>
+    </instance>
+    <instance id="n06080192_d_3" docsrc="n06080192_d">
+      <context> the branch of <head>biochemistry</head> dealing with the chemical nature and biological activity of enzymes ;</context>
+    </instance>
+    <instance id="n09854915_d_5" docsrc="n09854915_d">
+      <context> someone with special training in <head>biochemistry</head> ;</context>
+    </instance>
+    <instance id="r00133987_d_3" docsrc="r00133987_d">
+      <context> with respect to <head>biochemistry</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="bricklayer.n" pos="NN">
+    <instance id="Bricklayer-bricklayer-0-25-1" docsrc="Bricklayer">
+      <context> <head>Picture</head> of an Ehrbarkeit The buckle is worn on a belt very much like this ( this is a belt of a roofer ) Bricklayer trousers</context>
+    </instance>
+    <instance id="Bricklayer-bricklayer-1-26-1" docsrc="Bricklayer">
+      <context> The <head>buckle</head> is worn on a belt very much like this ( this is a belt of a roofer ) Bricklayer trousers Traditional bricklayer waistcoat ( most times this is not white , but rather grey )</context>
+    </instance>
+    <instance id="Bricklayer-bricklayer-1-27-1" docsrc="Bricklayer">
+      <context> Bricklayer <head>trousers</head> Traditional bricklayer waistcoat ( most times this is not white , but rather grey )</context>
+    </instance>
+    <instance id="Bricklayer-bricklayer-24-5-2" docsrc="Bricklayer">
+      <context> It ’s likely that as long as man seeks shelter from the elements , there will be work for these skilled professionals . While <head>steel</head> and glass make up the modern skyscraper , it ’s hard to imagine a world where the work of a mason isn’t held in high demand and esteem . In Aleksandr Solzhenitsyn 's One Day in the Life of Ivan Denisovich , the title character , a Gulag prisoner , worked as a bricklayer .</context>
+    </instance>
+    <instance id="Bricklayer-bricklayer-5-0-4" docsrc="Bricklayer">
+      <context> In British and Australian English <head>,</head> a bricklayer is colloquially known as a " brickie " . A stone mason is a term applied to one who lays any combination of stones , cinder blocks , and bricks in construction of building walls and other works . The main difference between a bricklayer and a true mason is skill level :</context>
+    </instance>
+    <instance id="Bricklayer-bricklayer-6-19-1" docsrc="Bricklayer">
+      <context> Guild Stonemasonry === Guild clothing of <head>the</head> German bricklayers ===</context>
+    </instance>
+    <instance id="Bricklayer-bricklayer-7-0-2" docsrc="Bricklayer">
+      <context> A bricklayer , which is related to <head>but</head> different from a mason , is a craftsman who lays bricks to construct brickwork . The terms also refer to personnel who use blocks to construct blockwork walls and other forms of masonry . In British and Australian English , a bricklayer is colloquially known as a " brickie " .</context>
+    </instance>
+    <instance id="br-k17#w1486_0" docsrc="br-k17">
+      <context> Styka blew his nose again . `` Were you able to make the arrangements '' ? Andrei asked . `` There is a man named Grabski who is the foreman in_charge_of the <head>bricklayers</head> at Majdanek . I did exactly as instructed . I told him you are on orders from the Home_Army to get inside Majdanek so you can make a report to the government_in_exile in London '' . `` His answer '' ?</context>
+    </instance>
+    <instance id="n10179527_d_8" docsrc="n10179527_d">
+      <context> a laborer who carries supplies to masons or <head>bricklayers</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

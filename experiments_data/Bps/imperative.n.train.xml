@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="imperative.n" pos="NN">
+    <instance id="v02189588_d_6" docsrc="v02189588_d">
+      <context> listen ; used mostly in the <head>imperative</head> ;</context>
+    </instance>
+    <instance id="v02680691_d_3" docsrc="v02680691_d">
+      <context> used in the <head>imperative</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

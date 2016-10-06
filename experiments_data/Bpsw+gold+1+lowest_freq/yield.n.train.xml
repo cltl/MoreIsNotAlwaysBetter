@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="yield.n" pos="NN">
+    <instance id="Rate_of_return-yield-0-1536-1" docsrc="Rate_of_return">
+      <context> <head>Time</head> value of money Value investing Yield</context>
+    </instance>
+    <instance id="Rate_of_return-yield-0-1537-1" docsrc="Rate_of_return">
+      <context> <head>Value</head> investing Yield</context>
+    </instance>
+    <instance id="Rate_of_return-yield-1-1271-3" docsrc="Rate_of_return">
+      <context> The <head>extra</head> dime was interest on the additional $ 10 investment from the previous interest accumulated in the account . The annualized return ( annual percentage yield , compound interest ) is higher than for simple interest , because the interest is reinvested as capital and then itself earns interest . The yield or annualized return on the above investment is</context>
+    </instance>
+    <instance id="Rate_of_return-yield-2-1507-1" docsrc="Rate_of_return">
+      <context> From the <head>shareholder</head> 's perspective , a capital gain distribution is not a net gain in assets , but it is a realized capital gain ( coupled with an equivalent decrease in unrealized capital gain ) . ==== Example ==== Annual percentage yield</context>
+    </instance>
+    <instance id="Rate_of_return-yield-6-1271-2" docsrc="Rate_of_return">
+      <context> At the beginning of the second <head>quarter</head> , the account balance is $ 1,010.00 , which then earns $ 10.10 interest altogether during the second quarter . The extra dime was interest on the additional $ 10 investment from the previous interest accumulated in the account . The annualized return ( annual percentage yield , compound interest ) is higher than for simple interest , because the interest is reinvested as capital and then itself earns interest .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-0-0-2" docsrc="Yield_(finance)">
+      <context> <head>In</head> finance , the term yield describes the amount in cash ( in percentage terms ) that returns to the owners of a security , in the form of interest or dividends received from the security . Normally , it does not include the price variations , distinguishing it from the total return . Yield applies to various stated rates of return on stocks ( common and preferred , and convertible ) , fixed income instruments ( bonds , notes , bills , strips , zero coupon ) , and some other investment type insurance products ( e.g. annuities ) .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-0-48-1" docsrc="Yield_(finance)">
+      <context> <head>A</head> trial and error method can be used to identify the equivalent yield of a DCF , or if using Excel , the goal seek function can be used . All financial instruments compete with each other in the market place . Yield is one part of the total return of holding a security .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-0-48-4" docsrc="Yield_(finance)">
+      <context> <head>A</head> higher yield allows the owner to recoup his investment sooner , and so lessens risk . But on the other hand , a high yield may have resulted from a falling market value for the security as a result of higher risk . Yield levels vary mainly with expectations of inflation .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-0-55-1" docsrc="Yield_(finance)">
+      <context> <head>The</head> more the default risk , the higher the yield would be in most of the cases since issuers need to offer investors some compensation for the risk . Ecological yield Yield curve</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-10-1" docsrc="Yield_(finance)">
+      <context> The <head>yield</head> to maturity is the IRR on the bond 's cash flows : the purchase price , the coupons received and the principal at maturity . The yield to call is the IRR on the bond 's cash flows , assuming it is called at the first opportunity , instead of being held till maturity . The yield of a bond is inversely related to its price today : if the price of a bond falls , its yield goes up .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-40-1" docsrc="Yield_(finance)">
+      <context> $ <head>YearlyDistribution</head> / $ SharePrice . Several different yields are used as measures of a real estate investment , including initial , equivalent and reversionary yields . Initial Yield is the annualised rents of a property expressed as a percentage of the property value .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-41-4" docsrc="Yield_(finance)">
+      <context> ( <head>May</head> 2012 ) . " Glossary , Initial Yield " . Initial Yield .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-41-7" docsrc="Yield_(finance)">
+      <context> Retrieved <head>May</head> 2012 .   E.g. £ 100,000 passing rent per annum £ 1,850,000 valuation 100000/1850000 = 0.054 or 5.4 % Reversionary Yield is the anticipated yield to which the initial yield will rise ( or fall ) once the rent reaches the ERV.Initialyield.com ( May 2012 ) . " Glossary , Reversionary Yield " .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-42-1" docsrc="Yield_(finance)">
+      <context>   <head>E.g.</head> £ 100,000 passing rent per annum £ 1,850,000 valuation 100000/1850000 = 0.054 or 5.4 % Reversionary Yield is the anticipated yield to which the initial yield will rise ( or fall ) once the rent reaches the ERV.Initialyield.com ( May 2012 ) . " Glossary , Reversionary Yield " . Reversionary Yield .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-42-4" docsrc="Yield_(finance)">
+      <context> Retrieved <head>May</head> 2012 .   E.g. £ 150,000 ERV per annum £ 1,850,000 valuation 150000/1850000 = 0.081 or 8.1 % Equivalent Yield lies somewhere in between the initial yield and reversionary yield , it encapsulates the DCF of the property with rents rising ( or falling ) from the current annualised rent to the underlying estimated rental value ( ERV ) less costs that are incurred along the way .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-43-2" docsrc="Yield_(finance)">
+      <context> Equivalent <head>Yield</head> lies somewhere in between the initial yield and reversionary yield , it encapsulates the DCF of the property with rents rising ( or falling ) from the current annualised rent to the underlying estimated rental value ( ERV ) less costs that are incurred along the way . The discount rate used to calculate the net present value ( NPV ) of the DCF to equal zero is the equivalent yield , or the IRR.Initialyield.com ( May 2012 ) . " Glossary , Equivalent Yield " . Equivalent Yield .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-50-3" docsrc="Yield_(finance)">
+      <context> The <head>relationship</head> between yields and the maturity of instruments of similar credit worthiness , is described by the yield curve . Long dated instruments typically have a higher yield than short dated instruments . The yield of a debt instrument is generally linked to the credit worthiness and default probability of the issuer .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-51-2" docsrc="Yield_(finance)">
+      <context> The <head>yield</head> of a debt instrument is generally linked to the credit worthiness and default probability of the issuer . The more the default risk , the higher the yield would be in most of the cases since issuers need to offer investors some compensation for the risk . Ecological yield</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-56-1" docsrc="Yield_(finance)">
+      <context> Ecological <head>yield</head> Yield curve 30-day yield</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-58-1" docsrc="Yield_(finance)">
+      <context> 30-day <head>yield</head> 7 Day SEC Yield Nominal yield</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-60-1" docsrc="Yield_(finance)">
+      <context> Nominal <head>yield</head> Bond ( finance ) Roll yield</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-61-1" docsrc="Yield_(finance)">
+      <context> Bond <head>(</head> finance ) Roll yield</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-8-1" docsrc="Yield_(finance)">
+      <context> The <head>coupon</head> rate ( also nominal rate ) is the yearly total of coupons ( or interest ) paid divided by the Principal ( Face ) Value of the bond . The current yield is those same payments divided by the bond 's spot market price . The yield to maturity is the IRR on the bond 's cash flows : the purchase price , the coupons received and the principal at maturity .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-1-9-1" docsrc="Yield_(finance)">
+      <context> The <head>current</head> yield is those same payments divided by the bond 's spot market price . The yield to maturity is the IRR on the bond 's cash flows : the purchase price , the coupons received and the principal at maturity . The yield to call is the IRR on the bond 's cash flows , assuming it is called at the first opportunity , instead of being held till maturity .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-10-41-7" docsrc="Yield_(finance)">
+      <context> Retrieved May 2012 .   E.g. £ 100,000 passing rent <head>per</head> annum £ 1,850,000 valuation 100000/1850000 = 0.054 or 5.4 % Reversionary Yield is the anticipated yield to which the initial yield will rise ( or fall ) once the rent reaches the ERV.Initialyield.com ( May 2012 ) . " Glossary , Reversionary Yield " .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-11-28-2" docsrc="Yield_(finance)">
+      <context> The price/earnings ratio quoted for common shares is the reciprocal of <head>what</head> is called the earnings yield . EarningsPerShare / SharePrice . The life annuities purchased to fund retirement pay out a higher yield than can be obtained with other instruments , because part of the payment comes from a return of capital .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-11-42-4" docsrc="Yield_(finance)">
+      <context> Retrieved May 2012 .   E.g. £ 150,000 ERV per annum <head>£</head> 1,850,000 valuation 150000/1850000 = 0.081 or 8.1 % Equivalent Yield lies somewhere in between the initial yield and reversionary yield , it encapsulates the DCF of the property with rents rising ( or falling ) from the current annualised rent to the underlying estimated rental value ( ERV ) less costs that are incurred along the way .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-12-44-1" docsrc="Yield_(finance)">
+      <context> Retrieved May 2012 . The calculation not only takes into account all <head>costs</head> , but other assumptions including rent reviews and void periods . A trial and error method can be used to identify the equivalent yield of a DCF , or if using Excel , the goal seek function can be used .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-13-49-1" docsrc="Yield_(finance)">
+      <context> But on the other hand , a high yield may have resulted from <head>a</head> falling market value for the security as a result of higher risk . Yield levels vary mainly with expectations of inflation . Fears of high inflation in the future mean that investors ask for high yield ( a low price vs the coupon ) today .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-16-18-1" docsrc="Yield_(finance)">
+      <context> The dividend yield is the total yearly payments divided by the principal value of the preferred <head>share</head> . The current yield is those same payments divided by the preferred share 's market price . If the preferred share has a maturity ( not always ) there can also be a yield to maturity and yield to call calculated , the same way as for bonds .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-16-27-3" docsrc="Yield_(finance)">
+      <context> The dividend yield is the total dollars ( RMB , Yen , etc . ) paid <head>in</head> a year divided by the spot price of the shares . Most web sites and reports are updated with the expected future year 's payments , not the past year 's . The price/earnings ratio quoted for common shares is the reciprocal of what is called the earnings yield .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-18-50-1" docsrc="Yield_(finance)">
+      <context> Fears of high inflation in the future mean that investors ask for high yield ( a low price <head>vs</head> the coupon ) today . The maturity of the instrument is one of the elements that determines risk . The relationship between yields and the maturity of instruments of similar credit worthiness , is described by the yield curve .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-19-36-2" docsrc="Yield_(finance)">
+      <context> Like annuities , distribution yields from REITs , Royalty trusts , and Income trusts often include cash that exceeds <head>the</head> income earned : that is return of capital . $ YearlyDistribution / $ SharePrice . Several different yields are used as measures of a real estate investment , including initial , equivalent and reversionary yields .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-2-16-4" docsrc="Yield_(finance)">
+      <context> This is <head>a</head> significant accounting difference as preferred dividends , unlike debt interest , are charged after taxes and below net income , therefore reducing net income and ultimately earnings per share . Preferred shares may also contain conversion privileges which allow for their exchange into common stock . The dividend yield is the total yearly payments divided by the principal value of the preferred share .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-2-17-1" docsrc="Yield_(finance)">
+      <context> Preferred shares <head>may</head> also contain conversion privileges which allow for their exchange into common stock . The dividend yield is the total yearly payments divided by the principal value of the preferred share . The current yield is those same payments divided by the preferred share 's market price .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-2-27-1" docsrc="Yield_(finance)">
+      <context> If the <head>preferred</head> share has a maturity ( not always ) there can also be a yield to maturity and yield to call calculated , the same way as for bonds . Common shares will often pay out a portion of the earnings as dividends . The dividend yield is the total dollars ( RMB , Yen , etc . ) paid in a year divided by the spot price of the shares .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-2-36-2" docsrc="Yield_(finance)">
+      <context> Like annuities <head>,</head> distribution yields from REITs , Royalty trusts , and Income trusts often include cash that exceeds the income earned : that is return of capital . $ YearlyDistribution / $ SharePrice . Several different yields are used as measures of a real estate investment , including initial , equivalent and reversionary yields .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-2-48-2" docsrc="Yield_(finance)">
+      <context> All financial <head>instruments</head> compete with each other in the market place . Yield is one part of the total return of holding a security . A higher yield allows the owner to recoup his investment sooner , and so lessens risk .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-2-7-1" docsrc="Yield_(finance)">
+      <context> This page <head>is</head> mainly a series of links to other pages with increased details . The coupon rate ( also nominal rate ) is the yearly total of coupons ( or interest ) paid divided by the Principal ( Face ) Value of the bond . The current yield is those same payments divided by the bond 's spot market price .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-22-10-1" docsrc="Yield_(finance)">
+      <context> The yield to maturity is the IRR on the bond 's cash flows : the purchase price , the coupons received and <head>the</head> principal at maturity . The yield to call is the IRR on the bond 's cash flows , assuming it is called at the first opportunity , instead of being held till maturity . The yield of a bond is inversely related to its price today : if the price of a bond falls , its yield goes up .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-22-43-1" docsrc="Yield_(finance)">
+      <context>   E.g. £ 150,000 ERV per annum £ 1,850,000 valuation 150000/1850000 = 0.081 or 8.1 % Equivalent Yield lies somewhere in between <head>the</head> initial yield and reversionary yield , it encapsulates the DCF of the property with rents rising ( or falling ) from the current annualised rent to the underlying estimated rental value ( ERV ) less costs that are incurred along the way . The discount rate used to calculate the net present value ( NPV ) of the DCF to equal zero is the equivalent yield , or the IRR.Initialyield.com ( May 2012 ) . " Glossary , Equivalent Yield " .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-3-50-1" docsrc="Yield_(finance)">
+      <context> Fears of high <head>inflation</head> in the future mean that investors ask for high yield ( a low price vs the coupon ) today . The maturity of the instrument is one of the elements that determines risk . The relationship between yields and the maturity of instruments of similar credit worthiness , is described by the yield curve .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-3-57-1" docsrc="Yield_(finance)">
+      <context> Yield curve 30-day <head>yield</head> 7 Day SEC Yield</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-32-41-7" docsrc="Yield_(finance)">
+      <context> Retrieved May 2012 .   E.g. £ 100,000 passing rent per annum £ 1,850,000 valuation 100000/1850000 = 0.054 or 5.4 % Reversionary Yield is the anticipated yield to which the initial yield <head>will</head> rise ( or fall ) once the rent reaches the ERV.Initialyield.com ( May 2012 ) . " Glossary , Reversionary Yield " .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-36-43-1" docsrc="Yield_(finance)">
+      <context>   E.g. £ 150,000 ERV per annum £ 1,850,000 valuation 150000/1850000 = 0.081 or 8.1 % Equivalent Yield lies somewhere in between the initial yield and reversionary yield , it encapsulates the DCF of the property <head>with</head> rents rising ( or falling ) from the current annualised rent to the underlying estimated rental value ( ERV ) less costs that are incurred along the way . The discount rate used to calculate the net present value ( NPV ) of the DCF to equal zero is the equivalent yield , or the IRR.Initialyield.com ( May 2012 ) . " Glossary , Equivalent Yield " .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-4-32-2" docsrc="Yield_(finance)">
+      <context> The life annuities purchased <head>to</head> fund retirement pay out a higher yield than can be obtained with other instruments , because part of the payment comes from a return of capital . $ YearlyDistribution / $ CostOfContract . Like annuities , distribution yields from REITs , Royalty trusts , and Income trusts often include cash that exceeds the income earned : that is return of capital .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-4-41-3" docsrc="Yield_(finance)">
+      <context> Initialyield.com ( May 2012 <head>)</head> . " Glossary , Initial Yield " .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-5-41-7" docsrc="Yield_(finance)">
+      <context> Retrieved May 2012 .   <head>E.g.</head> £ 100,000 passing rent per annum £ 1,850,000 valuation 100000/1850000 = 0.054 or 5.4 % Reversionary Yield is the anticipated yield to which the initial yield will rise ( or fall ) once the rent reaches the ERV.Initialyield.com ( May 2012 ) . " Glossary , Reversionary Yield " .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-6-1-3" docsrc="Yield_(finance)">
+      <context> It can be calculated as a <head>ratio</head> or as an internal rate of return ( IRR ) . It may be used to state the owner 's total return , or just a portion of income , or exceed the income . Because of these differences , the yields from different uses should never be compared as if they were equal .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-7-50-2" docsrc="Yield_(finance)">
+      <context> The maturity of the instrument is one <head>of</head> the elements that determines risk . The relationship between yields and the maturity of instruments of similar credit worthiness , is described by the yield curve . Long dated instruments typically have a higher yield than short dated instruments .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-8-42-4" docsrc="Yield_(finance)">
+      <context> Retrieved May 2012 .   E.g. £ 150,000 <head>ERV</head> per annum £ 1,850,000 valuation 150000/1850000 = 0.081 or 8.1 % Equivalent Yield lies somewhere in between the initial yield and reversionary yield , it encapsulates the DCF of the property with rents rising ( or falling ) from the current annualised rent to the underlying estimated rental value ( ERV ) less costs that are incurred along the way .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-8-48-3" docsrc="Yield_(finance)">
+      <context> Yield is one part of the total return <head>of</head> holding a security . A higher yield allows the owner to recoup his investment sooner , and so lessens risk . But on the other hand , a high yield may have resulted from a falling market value for the security as a result of higher risk .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-9-11-1" docsrc="Yield_(finance)">
+      <context> The yield to call is the IRR on the <head>bond</head> 's cash flows , assuming it is called at the first opportunity , instead of being held till maturity . The yield of a bond is inversely related to its price today : if the price of a bond falls , its yield goes up . Conversely , if interest rates decline ( the market yield declines ) , then the price of the bond should rise ( all else being equal ) .</context>
+    </instance>
+    <instance id="Yield_(finance)-yield-9-51-1" docsrc="Yield_(finance)">
+      <context> Long dated instruments typically have a higher yield than <head>short</head> dated instruments . The yield of a debt instrument is generally linked to the credit worthiness and default probability of the issuer . The more the default risk , the higher the yield would be in most of the cases since issuers need to offer investors some compensation for the risk .</context>
+    </instance>
+    <instance id="br-f17#w364_0" docsrc="br-f17">
+      <context> The latter , members of two regiments of Swiss mercenaries transported by Great_Britain to Canada to fight the Americans in the War_of_1812 , had settled in Montreal and Kingston at the close of the war in 1815 . Selkirk persuaded eighty men and four officers to go_to Red_River where they were to serve as a military_force to protect his settlers from the hostile Northwest_Company which resented the intrusion of farmers into the fur traders ' empire . The mercenaries were little interested in farming and added nothing to the output of the farm plots on which all work was still done with hoes as late as 1818 . It was the low <head>yield</head> of the Selkirk plots and the ravages of grasshoppers in 1818 that led to the dispersal of the settlement southward . When late in the summer the full extent of the damage was assessed , all but fifty of the Scots , Swiss and metis moved up the Red to the mouth of the Pembina river . Here they built huts and a stockade named Fort_Daer after Selkirk's barony in Scotland . The new site was somewhat warmer than Fort_Douglas and much closer to the great herds of buffalo on which the settlement must depend for food .</context>
+    </instance>
+    <instance id="br-f20#w2040_0" docsrc="br-f20">
+      <context> When , as a diplomatic gesture of amity and in payment for the loan of gunmen in the April election , Torrio had given O_'_Banion a slice of Cicero , the profits from that district had been $ 20000 a month . In six months O_'_Banion had boosted the profits to $ 100000 a month - mainly by bringing pressure to bear on fifty Chicago speak-easy proprietors to shift out to the suburb . These booze customers had until then been buying their supplies from the Sheldon , Saltis-McErlane , and Druggan-Lake gangs , and now they were competing for trade with the Torrio-Capone saloons ; once_again O_'_Banion 's brash recklessness had caused a proliferation of ill_will . The revenue from O_'_Banion 's Cicero territory went_up still higher , until the <head>yield</head> was more_than the Torrio-Capone takings from the far bigger trade area of Chicago 's South and West_Sides . But he still showed no intention of sharing with the syndicate . At_last , even the controlled Torrio was unable to hold still , and he tentatively suggested that O_'_Banion should take a percentage in the Stickney brothels in_return for one from his Cicero beer concession . O_'_Banion 's reply was a raucous laugh and a flat refusal .</context>
+    </instance>
+    <instance id="br-j06#w34_0" docsrc="br-j06">
+      <context> The thermal exchange of chlorine between * * f and liquid * * f is readily measurable at temperatures in the range of 180 ` and above . The photochemical_exchange occurs with a quantum <head>yield</head> of the order of unity in the liquid phase at 65 ` using light absorbed only by the * * f . In the gas phase , with * * f of * * f and * * f of * * f , quantum yields of the order of * * f have been observed at 85 ` . Despite extensive attempts to obtain highly pure reagents , serious difficulty was experienced in obtaining reproducible rates of reaction . It appears possible to set a lower_limit of about * * f for the activation_energy of the abstraction of a chlorine atom from a carbon_tetrachloride molecule by a chlorine atom to form * * f radical .</context>
+    </instance>
+  </lexelt>
+</corpus>

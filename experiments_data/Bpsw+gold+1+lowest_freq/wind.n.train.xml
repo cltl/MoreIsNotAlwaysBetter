@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="wind.n" pos="NN">
+    <instance id="Flatulence-wind-17-0-1" docsrc="Flatulence">
+      <context> Flatulence is defined in the medical literature as " flatus expelled through the anus " or the <head>"</head> quality or state of being flatulent " , which is defined in turn as " marked by or affected with gases generated in the intestine or stomach ; likely to cause digestive flatulence " . The root of these words is from the Latin flatus – " a blowing , a breaking wind " .</context>
+    </instance>
+    <instance id="Wind_instrument-wind-5-0-2" docsrc="Wind_instrument">
+      <context> A wind instrument is a <head>musical</head> instrument that contains some type of resonator ( usually a tube ) , in which a column of air is set into vibration by the player blowing into ( or over ) a mouthpiece set at the end of the resonator . The pitch of the vibration is determined by the length of the tube and by manual modifications of the effective length of the vibrating column of air . In the case of some wind instruments , sound is produced by blowing through a reed ; others require buzzing into a metal mouthpiece .</context>
+    </instance>
+    <instance id="a00088157_d_7" docsrc="a00088157_d">
+      <context> shaken into waves or undulations as by <head>wind</head> ;</context>
+    </instance>
+    <instance id="n00345641_ex1_13" docsrc="n00345641_ex1">
+      <context> he put the key in the old clock and gave it a good <head>wind</head> ;</context>
+    </instance>
+    <instance id="n00836537_ex1_4" docsrc="n00836537_ex1">
+      <context> the collision knocked the <head>wind</head> out of him ;</context>
+    </instance>
+    <instance id="n07136711_ex1_5" docsrc="n07136711_ex1">
+      <context> that 's a lot of <head>wind</head> ;</context>
+    </instance>
+    <instance id="n11415492_ex1_1" docsrc="n11415492_ex1">
+      <context> the <head>winds</head> of change ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="performance.n" pos="NN">
+    <instance id="a00036763_d_2" docsrc="a00036763_d">
+      <context> not giving <head>performances</head> ; closed ;</context>
+    </instance>
+    <instance id="a01140514_d_9" docsrc="a01140514_d">
+      <context> lacking grace or skill in manner or movement or <head>performance</head> ;</context>
+    </instance>
+    <instance id="a02082812_d_3" docsrc="a02082812_d">
+      <context> below acceptable in <head>performance</head> ;</context>
+    </instance>
+    <instance id="a02227772_d_4" docsrc="a02227772_d">
+      <context> proficient and confident in <head>performance</head> ;</context>
+    </instance>
+    <instance id="a02301969_d_2" docsrc="a02301969_d">
+      <context> consistent in <head>performance</head> or behavior ;</context>
+    </instance>
+    <instance id="a02341266_d_6" docsrc="a02341266_d">
+      <context> of high or superior quality or <head>performance</head> ;</context>
+    </instance>
+    <instance id="a02343636_d_4" docsrc="a02343636_d">
+      <context> modified to give superior <head>performance</head> ;</context>
+    </instance>
+    <instance id="a02345713_d_5" docsrc="a02345713_d">
+      <context> below average in quality or <head>performance</head> ;</context>
+    </instance>
+    <instance id="a02379157_d_6" docsrc="a02379157_d">
+      <context> of or relating to the simultaneous <head>performance</head> of multiple operations ;</context>
+    </instance>
+    <instance id="a02380358_d_6" docsrc="a02380358_d">
+      <context> of or relating to the sequential <head>performance</head> of multiple operations ;</context>
+    </instance>
+    <instance id="a02956272_d_2" docsrc="a02956272_d">
+      <context> arranged for <head>performance</head> by an orchestra ;</context>
+    </instance>
+    <instance id="n00047106_ex1_3" docsrc="n00047106_ex1">
+      <context> they admired his <head>performance</head> under stress ;</context>
+    </instance>
+    <instance id="n00047356_d_3" docsrc="n00047356_d">
+      <context> better than expected <head>performance</head> ( better than might have been predicted from intelligence_tests ) ;</context>
+    </instance>
+    <instance id="n00047550_d_3" docsrc="n00047550_d">
+      <context> poorer than expected <head>performance</head> ( poorer than might have been predicted from intelligence_tests ) ;</context>
+    </instance>
+    <instance id="n00066901_d_6" docsrc="n00066901_d">
+      <context> failure to reach a minimum required <head>performance</head> ;</context>
+    </instance>
+    <instance id="n00069444_d_9" docsrc="n00069444_d">
+      <context> a breach_of_contract committed prior to the time of required <head>performance</head> ;</context>
+    </instance>
+    <instance id="n00097504_ex1_3" docsrc="n00097504_ex1">
+      <context> they criticised his <head>performance</head> as mayor ;</context>
+    </instance>
+    <instance id="n00097504_ex2_3" docsrc="n00097504_ex2">
+      <context> experience generally improves <head>performance</head> ;</context>
+    </instance>
+    <instance id="n00097923_d_1" docsrc="n00097923_d">
+      <context> the <head>performance</head> of a legal contract as specified by its terms ;</context>
+    </instance>
+    <instance id="n00098625_d_1" docsrc="n00098625_d">
+      <context> the <head>performance</head> of duties by a waiter or servant ;</context>
+    </instance>
+    <instance id="n00100437_d_1" docsrc="n00100437_d">
+      <context> a <head>performance</head> in one place on one night only ;</context>
+    </instance>
+    <instance id="n00897811_d_4" docsrc="n00897811_d">
+      <context> practice intended to polish <head>performance</head> or refresh the memory ;</context>
+    </instance>
+    <instance id="n00994144_d_9" docsrc="n00994144_d">
+      <context> fire on or about a weapon_system to degrade its <head>performance</head> below what is needed to fulfill its mission objectives ;</context>
+    </instance>
+    <instance id="n01000969_d_8" docsrc="n01000969_d">
+      <context> adjustments made to an engine to improve its <head>performance</head> ;</context>
+    </instance>
+    <instance id="n01135529_d_4" docsrc="n01135529_d">
+      <context> management by overseeing the <head>performance</head> or operation of a person or group ;</context>
+    </instance>
+    <instance id="n02846733_d_6" docsrc="n02846733_d">
+      <context> equipment that records information about the <head>performance</head> of an aircraft during flight ;</context>
+    </instance>
+    <instance id="n03699975_d_15" docsrc="n03699975_d">
+      <context> any mechanical or electrical_device that transmits or modifies energy to perform or assist in the <head>performance</head> of human tasks ;</context>
+    </instance>
+    <instance id="n04513686_d_4" docsrc="n04513686_d">
+      <context> hardware that provides better <head>performance</head> than an earlier version did ;</context>
+    </instance>
+    <instance id="n04772844_d_4" docsrc="n04772844_d">
+      <context> unevenness in quality or <head>performance</head> ;</context>
+    </instance>
+    <instance id="n05701363_d_1" docsrc="n05701363_d">
+      <context> the <head>performance</head> of some composite cognitive activity ; an operation that affects mental contents ;</context>
+    </instance>
+    <instance id="n05799581_d_4" docsrc="n05799581_d">
+      <context> a test of the <head>performance</head> of some new product under the conditions in which it will be used ;</context>
+    </instance>
+    <instance id="n05880715_d_10" docsrc="n05880715_d">
+      <context> a law affirming that in the long_run probabilities will determine <head>performance</head> ;</context>
+    </instance>
+    <instance id="n05881102_d_11" docsrc="n05881102_d">
+      <context> a law affirming that to continue after a certain level of <head>performance</head> has been reached will result in a decline in effectiveness ;</context>
+    </instance>
+    <instance id="n06023243_d_6" docsrc="n06023243_d">
+      <context> the average age at which particular <head>performances</head> are expected to appear ;</context>
+    </instance>
+    <instance id="n06903255_d_4" docsrc="n06903255_d">
+      <context> software that provides better <head>performance</head> than an earlier version did ;</context>
+    </instance>
+    <instance id="n07328305_d_13" docsrc="n07328305_d">
+      <context> any factor that defines a system and determines ( or limits ) its <head>performance</head> ;</context>
+    </instance>
+    <instance id="n08435246_d_3" docsrc="n08435246_d">
+      <context> a system whose <head>performance</head> can not be described by equations of the first degree ;</context>
+    </instance>
+    <instance id="n09790865_d_6" docsrc="n09790865_d">
+      <context> an analyst who studies the financial <head>performance</head> of corporations ;</context>
+    </instance>
+    <instance id="n10703553_d_9" docsrc="n10703553_d">
+      <context> a driver who drives a motor_vehicle to evaluate its <head>performance</head> ;</context>
+    </instance>
+    <instance id="n13525549_ex3_4" docsrc="n13525549_ex3">
+      <context> they compared the cooking <head>performance</head> of each oven ;</context>
+    </instance>
+    <instance id="n13525549_ex4_2" docsrc="n13525549_ex4">
+      <context> the jet's <head>performance</head> conformed to high standards ;</context>
+    </instance>
+    <instance id="n13556377_d_6" docsrc="n13556377_d">
+      <context> decline from a standard level of <head>performance</head> or achievement ;</context>
+    </instance>
+    <instance id="n13556509_d_4" docsrc="n13556509_d">
+      <context> a noticeable deterioration in <head>performance</head> or quality ;</context>
+    </instance>
+    <instance id="v00168217_d_2" docsrc="v00168217_d">
+      <context> see one's <head>performance</head> improve ;</context>
+    </instance>
+    <instance id="v01062395_d_7" docsrc="v01062395_d">
+      <context> establish as the highest level or best <head>performance</head> ;</context>
+    </instance>
+    <instance id="v01649251_d_10" docsrc="v01649251_d">
+      <context> prepare and supply with the necessary equipment for execution or <head>performance</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

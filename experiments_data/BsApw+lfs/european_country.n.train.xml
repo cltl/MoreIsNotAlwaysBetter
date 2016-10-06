@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="European_country.n" pos="NN">
+    <instance id="br-j10#w1192_0" docsrc="br-j10">
+      <context> The nest itself , the structure that in some cases housed about 2000 individuals when the season was at its peak , is now rapidly destroyed by the scavenging larvae of certain beetles and moths . Not always , though , does the development of a bumblebee colony take_place in the smooth fashion we have just described . Some members of the bee family have become idlers , social parasites that live at the expense of their hardworking relatives . Bumblebees can thus suffer severely from the onslaughts of Psithyrus , the `` cuckoo_bumblebee '' as it is called in some <head>European_countries</head> . Female individuals of Psithyrus look deceptively like the workers and queens of the bumblebees they victimize . The one sure way to tell victim and villain apart is to examine the hind_legs which in the case of the idler , Psithyrus , lack the pollen baskets - naturally ! The female parasite spends much time in her efforts to find a nest of her host .</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="perimeter.n" pos="NN">
+    <instance id="Perimeter-perimeter-1-1-1" docsrc="Perimeter">
+      <context> Calculating <head>the</head> perimeter has considerable practical applications . The perimeter can be used to calculate the length of fence required to surround a yard or garden .</context>
+    </instance>
+    <instance id="n03165955_d_9" docsrc="n03165955_d">
+      <context> a round hardwood disk with holes and a grooved <head>perimeter</head> used to tighten a shroud ;</context>
+    </instance>
+    <instance id="n08649167_d_7" docsrc="n08649167_d">
+      <context> a line segment forming part of the <head>perimeter</head> of a plane_figure ;</context>
+    </instance>
+  </lexelt>
+</corpus>

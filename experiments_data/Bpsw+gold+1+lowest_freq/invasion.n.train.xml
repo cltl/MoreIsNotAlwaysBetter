@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="invasion.n" pos="NN">
+    <instance id="a01624267_d_6" docsrc="a01624267_d">
+      <context> seized and controlled as by military <head>invasion</head> ;</context>
+    </instance>
+    <instance id="br-f15#w173_0" docsrc="br-f15">
+      <context> In New_York_City in 1958 , the city 's Commissioner of Hospitals refused to permit a physician to provide a Protestant mother with a contraceptive_device . He thereby precipitated a bitter controversy involving Protestants , Jews and Roman_Catholics that continued for two months , until the city 's Board of Hospitals lifted the ban on birth-control therapy . A year later in Albany , N._Y. , a Roman_Catholic hospital barred an orthopedic surgeon because of his connection with the Planned_Parenthood_Association . Immediately , the religious groups of the city were embroiled in an angry dispute over the alleged <head>invasion</head> of a man 's right to freedom of religious_belief and conscience . These incidents , typical of many others , dramatize the distressing fact that no controversy during the last several decades has caused more tension , rancor and strife among religious groups in this country than the birth-control issue . It has flared_up periodically on the front pages of newspapers in communities divided over birth prevention regulations in municipal hospitals and health and family welfare agencies . It has erupted on the national level in the matter of including birth-control information and material in foreign aid to underdeveloped countries .</context>
+    </instance>
+    <instance id="n00861046_d_6" docsrc="n00861046_d">
+      <context> an immune_response ( chiefly against bacterial <head>invasion</head> ) that is mediated by B_cells ;</context>
+    </instance>
+    <instance id="n07429976_ex1_1" docsrc="n07429976_ex1">
+      <context> an <head>invasion</head> of tourists ;</context>
+    </instance>
+    <instance id="n07429976_ex2_1" docsrc="n07429976_ex2">
+      <context> an <head>invasion</head> of locusts ;</context>
+    </instance>
+    <instance id="n10914779_d_8" docsrc="n10914779_d">
+      <context> a chief of the Sioux who resisted the <head>invasion</head> of the Black_Hills and joined Sitting_Bull in the defeat of General_Custer at Little_Bighorn ;</context>
+    </instance>
+    <instance id="n14277833_d_16" docsrc="n14277833_d">
+      <context> any of several diseases of pines caused by rust_fungi of the genus_Cronartium and marked by destructive <head>invasion</head> of bark and sapwood and producing blisters externally ;</context>
+    </instance>
+  </lexelt>
+</corpus>

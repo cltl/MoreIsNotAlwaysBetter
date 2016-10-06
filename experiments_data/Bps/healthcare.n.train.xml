@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="healthcare.n" pos="NN">
+    <instance id="n00632342_d_3" docsrc="n00632342_d">
+      <context> medical_practice that provides <head>health_care</head> regardless of age or sex while placing emphasis on the family_unit ;</context>
+    </instance>
+    <instance id="n01060101_d_3" docsrc="n01060101_d">
+      <context> the provision of <head>health_care</head> ;</context>
+    </instance>
+    <instance id="n01089297_d_0" docsrc="n01089297_d">
+      <context> <head>health_care</head> that is provided by a health_care professional in the first contact of a patient with the health_care system ;</context>
+    </instance>
+    <instance id="n13384018_d_10" docsrc="n13384018_d">
+      <context> a check reimbursing an aged person for the expenses of <head>health_care</head> ;</context>
+    </instance>
+    <instance id="n13837667_d_4" docsrc="n13837667_d">
+      <context> the professional_relation between a <head>health_care</head> professional and a patient ;</context>
+    </instance>
+  </lexelt>
+</corpus>

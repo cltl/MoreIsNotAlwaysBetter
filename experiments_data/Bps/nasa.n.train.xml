@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="NASA.n" pos="NN">
+    <instance id="a02459969_ex1_0" docsrc="a02459969_ex1">
+      <context> <head>NASA</head> reported a trouble-free launch ;</context>
+    </instance>
+    <instance id="n09234104_d_26" docsrc="n09234104_d">
+      <context> a sandy promontory ( formerly Cape Kennedy ) extending into the Atlantic_Ocean from a barrier_island off the eastern coast of Florida ; the site of a <head>NASA</head> center for spaceflight ;</context>
+    </instance>
+  </lexelt>
+</corpus>

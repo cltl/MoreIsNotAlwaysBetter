@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="poll.n" pos="NN">
+    <instance id="Canvassing-poll-15-19-6" docsrc="Canvassing">
+      <context> In this period the candidates had to cover the costs of the election itself . <head>If</head> candidates did not find enough votes during their canvass they would drop out before wasting more money on an unwinnable campaign . Building the list of voters was also important , as only some districts kept full poll books .</context>
+    </instance>
+    <instance id="Canvassing-poll-37-42-1" docsrc="Canvassing">
+      <context> In the United States Alan S. Gerber and Donald Green launched a series of controlled experiments , and demonstrated that foot canvassing was one of the most effective tools available to boost voter turnout . The years <head>since</head> 2000 have seen a widespread revival of election canvassing . An intensive effort by the Al Gore campaign of 2000 was credited with gaining several points on election day in the 2000 election , enough to win the popular vote despite being down several points in the polls the day before .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-0-142-1" docsrc="Opinion_poll">
+      <context> <head>Bourdieu</head> , Pierre , " Public Opinion does not exist " in Sociology in Question , London , Sage ( 1995 ) . Bradburn , Norman M. and Seymour Sudman . Polls and Surveys :</context>
+    </instance>
+    <instance id="Opinion_poll-poll-0-171-6" docsrc="Opinion_poll">
+      <context> <head>Garland</head> Publishing Inc. , 1990 . xxix , 360p . Polls from UCB Libraries GovPubs</context>
+    </instance>
+    <instance id="Opinion_poll-poll-0-33-2" docsrc="Opinion_poll">
+      <context> <head>A</head> tracking poll is a poll repeated at intervals generally averaged over a trailing window . For example , a weekly tracking poll uses the data from the past week and discards older data . Polls based on samples of populations are subject to sampling error which reflects the effects of chance and uncertainty in the sampling process .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-1-0-1" docsrc="Opinion_poll">
+      <context> An <head>opinion</head> poll , sometimes simply referred to as a poll , is a human research survey of public opinion from a particular sample . Opinion polls are usually designed to represent the opinions of a population by conducting a series of questions and then extrapolating generalities in ratio or within confidence intervals .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-1-122-1" docsrc="Opinion_poll">
+      <context> For <head>instance</head> , in Canada , it is prohibited to publish the results of opinion surveys that would identify specific political parties or candidates in the final three days before a poll closes . Deliberative opinion poll Entrance poll</context>
+    </instance>
+    <instance id="Opinion_poll-poll-1-124-1" docsrc="Opinion_poll">
+      <context> Entrance <head>poll</head> Everett Carll Ladd Exit poll</context>
+    </instance>
+    <instance id="Opinion_poll-poll-1-128-1" docsrc="Opinion_poll">
+      <context> List <head>of</head> polling organizations Open access poll Push poll</context>
+    </instance>
+    <instance id="Opinion_poll-poll-1-132-1" docsrc="Opinion_poll">
+      <context> Roper <head>Center</head> for Public Opinion Research Sample size determination Straw poll</context>
+    </instance>
+    <instance id="Opinion_poll-poll-1-152-2" docsrc="Opinion_poll">
+      <context> Lavrakas <head>,</head> Paul J. et al . eds . Presidential Polls and the News Media ( 1995 )</context>
+    </instance>
+    <instance id="Opinion_poll-poll-1-27-1" docsrc="Opinion_poll">
+      <context> This <head>is</head> generally a short and simple survey of likely voters . === Brushfire polls === Brushfire polls are polls taken during the period between the benchmark poll and tracking polls .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-1-28-2" docsrc="Opinion_poll">
+      <context> Brushfire <head>polls</head> are polls taken during the period between the benchmark poll and tracking polls . The number of brushfire polls taken by a campaign is determined by how competitive the race is and how much money the campaign has to spend . These polls usually focus on likely voters and the length of the survey varies on the number of messages being tested .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-1-28-3" docsrc="Opinion_poll">
+      <context> The <head>number</head> of brushfire polls taken by a campaign is determined by how competitive the race is and how much money the campaign has to spend . These polls usually focus on likely voters and the length of the survey varies on the number of messages being tested . Brushfire polls are used for a number of purposes .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-1-32-1" docsrc="Opinion_poll">
+      <context> Thirdly <head>,</head> this kind of poll can be used by candidates or political parties to convince primary challengers to drop out of a race and support a stronger candidate . === Tracking polls ===</context>
+    </instance>
+    <instance id="Opinion_poll-poll-10-106-1" docsrc="Opinion_poll">
+      <context> Cue taking is " based on the psychological phenomenon of <head>using</head> heuristics to simplify a complex decision " ( 243 ) . The second , first described by Petty and Cacioppo ( 1996 ) is known as " cognitive response " theory . This theory asserts that a voter 's response to a poll may not line with their initial conception of the electoral reality .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-10-113-2" docsrc="Opinion_poll">
+      <context> Starting in the 1980s , tracking polls and related technologies <head>began</head> having a notable impact on U.S. political leaders . According to Douglas Bailey , a Republican who had helped run Gerald Ford 's 1976 presidential campaign , " It 's no longer necessary for a political candidate to guess what an audience thinks . He can [ find out ] with a nightly tracking poll .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-10-158-2" docsrc="Opinion_poll">
+      <context> Rogers , Lindsay . The Pollsters : Public Opinion , <head>Politics</head> , and Democratic Leadership ( 1949 ) . Traugott , Michael W. The Voter 's Guide to Election Polls 3rd ed .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-11-27-1" docsrc="Opinion_poll">
+      <context> This is generally a short and simple survey of likely voters <head>.</head> === Brushfire polls === Brushfire polls are polls taken during the period between the benchmark poll and tracking polls .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-11-51-1" docsrc="Opinion_poll">
+      <context> === Response bias === Use of the plurality voting system ( <head>select</head> only one candidate ) in a poll puts an unintentional bias into the poll , since people who favor more than one candidate can not indicate this . The fact that they must choose only one candidate biases the poll , causing it to favor the candidate most different from the others while it disfavors candidates who are similar to other candidates .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-11-6-6" docsrc="Opinion_poll">
+      <context> Gallup correctly predicted Roosevelt 's landslide victory . The Literary Digest <head>soon</head> went out of business , while polling started to take off . Elmo Roper was another American pioneer in political forecasting using scientific polls .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-12-40-4" docsrc="Opinion_poll">
+      <context> In practice , pollsters need to balance the cost of a large <head>sample</head> against the reduction in sampling error and a sample size of around 500–1,000 is a typical compromise for political polls . ( Note that to get complete responses it may be necessary to include thousands of additional participators . ) Another way to reduce the margin of error is to rely on poll averages .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-12-72-1" docsrc="Opinion_poll">
+      <context> Some people use their landlines only to access the Internet , and <head>answer</head> calls only to their cellphones . Some polling companies have attempted to get around that problem by including a " cellphone supplement " . There are a number of problems with including cellphones in a telephone poll :</context>
+    </instance>
+    <instance id="Opinion_poll-poll-13-113-5" docsrc="Opinion_poll">
+      <context> So it 's no longer likely that political leaders are going to lead <head>.</head> Instead , they 're going to follow . " Some jurisdictions over the world restrict the publication of the results of opinion polls , especially during the period around an election , in order to prevent the possibly erroneous results from affecting voters ' decisions .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-13-41-1" docsrc="Opinion_poll">
+      <context> ( Note that to get complete responses it may be necessary to include <head>thousands</head> of additional participators . ) Another way to reduce the margin of error is to rely on poll averages . This makes the assumption that the procedure is similar enough between many different polls and uses the sample size of each poll to create a polling average .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-14-104-1" docsrc="Opinion_poll">
+      <context> There is less empirical evidence for the existence of this effect than there is <head>for</head> the existence of the bandwagon effect . In addition , Mark Pickup in Cameron Anderson and Laura Stephenson 's " Voting Behaviour in Canada " outlines three additional " behavioural " responses that voters may exhibit when faced with polling data . The first is known as a " cue taking " effect which holds that poll data is used as a " proxy " for information about the candidates or parties .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-14-27-1" docsrc="Opinion_poll">
+      <context> This is generally a short and simple survey of likely voters . === Brushfire <head>polls</head> === Brushfire polls are polls taken during the period between the benchmark poll and tracking polls .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-14-49-1" docsrc="Opinion_poll">
+      <context> === Nonresponse bias === === Response bias === Use of the plurality voting system <head>(</head> select only one candidate ) in a poll puts an unintentional bias into the poll , since people who favor more than one candidate can not indicate this .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-15-93-1" docsrc="Opinion_poll">
+      <context> In the 2015 election virtually every poll predicted a hung parliament with Labour and the <head>Conservatives</head> neck and neck when the actual result was a clear Conservative majority . Social media today is a popular medium for the candidates to campaign and for gauging the public reaction to the campaigns . Social media can also be used as an indicator of the voter opinion regarding the poll .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-16-93-2" docsrc="Opinion_poll">
+      <context> Social media today is a popular medium for the candidates to campaign and for gauging the <head>public</head> reaction to the campaigns . Social media can also be used as an indicator of the voter opinion regarding the poll . Some research studies have shown that predictions made using social media signals can match traditional opinion polls .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-2-117-2" docsrc="Opinion_poll">
+      <context> Some jurisdictions <head>over</head> the world restrict the publication of the results of opinion polls , especially during the period around an election , in order to prevent the possibly erroneous results from affecting voters ' decisions . For instance , in Canada , it is prohibited to publish the results of opinion surveys that would identify specific political parties or candidates in the final three days before a poll closes . Deliberative opinion poll</context>
+    </instance>
+    <instance id="Opinion_poll-poll-2-127-1" docsrc="Opinion_poll">
+      <context> Historical polling <head>for</head> U.S. Presidential elections List of polling organizations Open access poll</context>
+    </instance>
+    <instance id="Opinion_poll-poll-2-17-3" docsrc="Opinion_poll">
+      <context> Also , <head>the</head> following has also led to differentiating results : Some polling organizations , such as Angus Reid Public Opinion , YouGov and Zogby use Internet surveys , where a sample is drawn from a large panel of volunteers , and the results are weighted to reflect the demographics of the population of interest . In contrast , popular web polls draw on whoever wishes to participate , rather than a scientific sample of the population , and are therefore not generally considered professional . === Benchmark polls ===</context>
+    </instance>
+    <instance id="Opinion_poll-poll-2-22-1" docsrc="Opinion_poll">
+      <context> In contrast <head>,</head> popular web polls draw on whoever wishes to participate , rather than a scientific sample of the population , and are therefore not generally considered professional . === Benchmark polls === A benchmark poll is generally the first poll taken in a campaign .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-2-23-3" docsrc="Opinion_poll">
+      <context> It is <head>often</head> taken before a candidate announces their bid for office but sometimes it happens immediately following that announcement after they have had some opportunity to raise funds . This is generally a short and simple survey of likely voters . === Brushfire polls ===</context>
+    </instance>
+    <instance id="Opinion_poll-poll-2-32-2" docsrc="Opinion_poll">
+      <context> === Tracking <head>polls</head> === A tracking poll is a poll repeated at intervals generally averaged over a trailing window .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-21-41-1" docsrc="Opinion_poll">
+      <context> ( Note that to get complete responses it may be necessary to include thousands of additional participators . ) Another way <head>to</head> reduce the margin of error is to rely on poll averages . This makes the assumption that the procedure is similar enough between many different polls and uses the sample size of each poll to create a polling average .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-21-49-1" docsrc="Opinion_poll">
+      <context> === Nonresponse bias === === Response bias === Use of the plurality voting system ( select only one candidate ) in <head>a</head> poll puts an unintentional bias into the poll , since people who favor more than one candidate can not indicate this .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-23-67-4" docsrc="Opinion_poll">
+      <context> In 2003 , only 2.9 % of households were wireless ( cellphones only ) , compared to 12.8 % in 2006 . This <head>results</head> in " coverage error " . Many polling organisations select their sample by dialling random telephone numbers ; however , in 2008 , there was a clear tendency for polls which included mobile phones in their samples to show a much larger lead for Obama , than polls that did not .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-28-106-2" docsrc="Opinion_poll">
+      <context> The second , first described by Petty and Cacioppo ( 1996 ) is known as " cognitive response " theory . This theory asserts that a voter 's <head>response</head> to a poll may not line with their initial conception of the electoral reality . In response , the voter is likely to generate a " mental list " in which they create reasons for a party 's loss or gain in the polls .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-3-146-1" docsrc="Opinion_poll">
+      <context> Gauging Public Opinion <head>(</head> 1944 ) . Crespi , Irving . Public Opinion , Polls , and Democracy ( 1989 ) .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-3-27-1" docsrc="Opinion_poll">
+      <context> This is generally <head>a</head> short and simple survey of likely voters . === Brushfire polls === Brushfire polls are polls taken during the period between the benchmark poll and tracking polls .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-3-55-3" docsrc="Opinion_poll">
+      <context> For instance , <head>the</head> public is more likely to indicate support for a person who is described by the operator as one of the " leading candidates " . This support itself overrides subtle bias for one candidate , as does lumping some candidates in an " other " category or vice versa . Thus comparisons between polls often boil down to the wording of the question .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-30-99-1" docsrc="Opinion_poll">
+      <context> Some research studies have shown that predictions made using social media signals can match traditional opinion polls . === Effect on voters === By providing information about voting intentions , <head>opinion</head> polls can sometimes influence the behavior of electors , and in his book The Broken Compass , Peter Hitchens asserts that opinion polls are actually a device for influencing public opinion .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-31-117-1" docsrc="Opinion_poll">
+      <context> Instead , they 're going to follow . " Some jurisdictions over the world restrict the publication of the results of opinion polls , especially during the period around an election <head>,</head> in order to prevent the possibly erroneous results from affecting voters ' decisions . For instance , in Canada , it is prohibited to publish the results of opinion surveys that would identify specific political parties or candidates in the final three days before a poll closes .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-31-54-2" docsrc="Opinion_poll">
+      <context> === Wording of questions === It is well established that the wording of the questions , the order in which they are asked and the number and form of alternative answers <head>offered</head> can influence results of polls .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-31-65-2" docsrc="Opinion_poll">
+      <context> In some places many people have only mobile telephones . Because pollsters can not use automated dialing machines to call mobile phones in the United States ( because the phone 's <head>owner</head> may be charged for taking a call ) , these individuals are typically excluded from polling samples . There is concern that , if the subset of the population without cell phones differs markedly from the rest of the population , these differences can skew the results of the poll .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-31-7-3" docsrc="Opinion_poll">
+      <context> He predicted the reelection of President Franklin D. Roosevelt three times , in 1936 , 1940 , and 1944 . Louis Harris had been in the field of public opinion since <head>1947</head> when he joined the Elmo Roper firm , then later became partner . In September 1938 Jean Stoetzel , after having met Gallup , created IFOP , the Institut Français d'Opinion Publique , as the first European survey institute in Paris and started political polls in summer 1939 with the question " Why die for Danzig ? " , looking for popular support or dissent with this question asked by appeasement politician and future collaborationist Marcel Déat .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-32-40-2" docsrc="Opinion_poll">
+      <context> A 3 % margin of error means that if the same procedure is used a large number of times , 95 % of the time the true population average will be within <head>the</head> 95 % confidence interval of the sample estimate plus or minus 3 % . The margin of error can be reduced by using a larger sample , however if a pollster wishes to reduce the margin of error to 1 % they would need a sample of around 10,000 people . In practice , pollsters need to balance the cost of a large sample against the reduction in sampling error and a sample size of around 500–1,000 is a typical compromise for political polls .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-4-178-1" docsrc="Opinion_poll">
+      <context> The Pew Research Center <head>nonpartisan</head> " fact tank " providing information on the issues , attitudes and trends shaping America and the world by conducting public opinion polling and social science research " Use Opinion Research To Build Strong Communication " by Frank Noto National Council on Public Polls association of polling organizations in the United States devoted to setting high professional standards for surveys</context>
+    </instance>
+    <instance id="Opinion_poll-poll-4-28-1" docsrc="Opinion_poll">
+      <context> === Brushfire polls === <head>Brushfire</head> polls are polls taken during the period between the benchmark poll and tracking polls . The number of brushfire polls taken by a campaign is determined by how competitive the race is and how much money the campaign has to spend .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-4-29-4" docsrc="Opinion_poll">
+      <context> Secondly , it is <head>a</head> way for the campaign to test a variety of messages , both positive and negative , on themselves and their opponent(s ) . This lets the campaign know what messages work best with certain demographics and what messages should be avoided . Campaigns often use these polls to test possible attack messages that their opponent may use and potential responses to those attacks .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-4-39-5" docsrc="Opinion_poll">
+      <context> One example is the <head>percent</head> of people who prefer product A versus product B. When a single , global margin of error is reported for a survey , it refers to the maximum margin of error for all reported percentages using the full sample from the survey . If the statistic is a percentage , this maximum margin of error can be calculated as the radius of the confidence interval for a reported percentage of 50 % . Others suggest that a poll with a random sample of 1,000 people has margin of sampling error of 3 % for the estimated percentage of the whole population .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-41-67-4" docsrc="Opinion_poll">
+      <context> In 2003 , only 2.9 % of households were wireless ( cellphones only ) , compared to 12.8 % in 2006 . This results in " coverage error " . Many polling organisations select their sample by dialling random telephone numbers <head>;</head> however , in 2008 , there was a clear tendency for polls which included mobile phones in their samples to show a much larger lead for Obama , than polls that did not .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-5-107-3" docsrc="Opinion_poll">
+      <context> The only salient difference is <head>that</head> a voter will go and seek new information to form their " mental list " , thus becoming more informed of the election . This may then affect voting behaviour . These effects indicate how opinion polls can directly affect political choices of the electorate .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-5-17-2" docsrc="Opinion_poll">
+      <context> Opinion polling developed into popular <head>applications</head> through popular thought , although response rates for some surveys declined . Also , the following has also led to differentiating results : Some polling organizations , such as Angus Reid Public Opinion , YouGov and Zogby use Internet surveys , where a sample is drawn from a large panel of volunteers , and the results are weighted to reflect the demographics of the population of interest . In contrast , popular web polls draw on whoever wishes to participate , rather than a scientific sample of the population , and are therefore not generally considered professional .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-5-29-6" docsrc="Opinion_poll">
+      <context> Campaigns often use these polls <head>to</head> test possible attack messages that their opponent may use and potential responses to those attacks . The campaign can then spend some time preparing an effective response to any likely attacks . Thirdly , this kind of poll can be used by candidates or political parties to convince primary challengers to drop out of a race and support a stronger candidate .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-5-32-2" docsrc="Opinion_poll">
+      <context> === Tracking polls === A <head>tracking</head> poll is a poll repeated at intervals generally averaged over a trailing window .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-6-111-1" docsrc="Opinion_poll">
+      <context> Opinion polling in some instances is <head>a</head> measure of cognitive bias , which is variably considered and handled appropriately in its various applications . === Effect on politicians === Starting in the 1980s , tracking polls and related technologies began having a notable impact on U.S. political leaders .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-6-168-1" docsrc="Opinion_poll">
+      <context> Additional Sources === Murphy , Joe <head>,</head> et al . " Social Media in Public Opinion Research : Report of the AAPOR Task Force on Emerging Technologies in Public Opinion Research . " American Association for Public Opinion Research ( 2014 ) . online Walden , Graham R. Public Opinion Polls and Survey Research : A Selective Annotated Bibliography of US Guides &amp; Studies from the 1980s .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-6-169-2" docsrc="Opinion_poll">
+      <context> Walden , Graham R. Public Opinion <head>Polls</head> and Survey Research : A Selective Annotated Bibliography of US Guides &amp; Studies from the 1980s . ( Routledge , 2014 ) Walden , Graham R. Public Opinion Polls and Survey Research : A Selective Annotated Bibliography of U.S. Guides and Studies from the 1980s .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-6-33-1" docsrc="Opinion_poll">
+      <context> Tracking polls === A tracking poll <head>is</head> a poll repeated at intervals generally averaged over a trailing window . For example , a weekly tracking poll uses the data from the past week and discards older data .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-6-88-2" docsrc="Opinion_poll">
+      <context> A widely publicized failure of opinion <head>polling</head> to date in the United States was the prediction that Thomas Dewey would defeat Harry S. Truman in the 1948 US presidential election . Major polling organizations , including Gallup and Roper , indicated a landslide victory for Dewey . In the United Kingdom , most polls failed to predict the Conservative election victories of 1970 and 1992 , and Labour 's victory in 1974 .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-6-89-2" docsrc="Opinion_poll">
+      <context> In the United Kingdom , most <head>polls</head> failed to predict the Conservative election victories of 1970 and 1992 , and Labour 's victory in 1974 . However , their figures at other elections have been generally accurate . In the 2015 election virtually every poll predicted a hung parliament with Labour and the Conservatives neck and neck when the actual result was a clear Conservative majority .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-7-22-1" docsrc="Opinion_poll">
+      <context> In contrast , popular web polls draw <head>on</head> whoever wishes to participate , rather than a scientific sample of the population , and are therefore not generally considered professional . === Benchmark polls === A benchmark poll is generally the first poll taken in a campaign .</context>
+    </instance>
+    <instance id="Opinion_poll-poll-8-99-1" docsrc="Opinion_poll">
+      <context> Some research studies have shown that predictions made <head>using</head> social media signals can match traditional opinion polls . === Effect on voters === By providing information about voting intentions , opinion polls can sometimes influence the behavior of electors , and in his book The Broken Compass , Peter Hitchens asserts that opinion polls are actually a device for influencing public opinion .</context>
+    </instance>
+    <instance id="Poll_(livestock)-poll-11-1-1" docsrc="Poll_(livestock)">
+      <context> This area of the anatomy is of particular significance for the <head>horse</head> . Specifically , the " poll " refers to the occipital protrusion at the back of the skull . However , in common usage , many horsemen refer to the poll joint , between the atlas ( C1 ) and skull as the poll .</context>
+    </instance>
+    <instance id="Poll_(livestock)-poll-11-1-3" docsrc="Poll_(livestock)">
+      <context> However , in common usage , many horsemen refer to the <head>poll</head> joint , between the atlas ( C1 ) and skull as the poll . The area at the joint has a slight depression , and is a sensitive location . Thus , because the crownpiece of a bridle passes over the poll joint , a rider can indirectly exert pressure on the horse 's poll by means of the reins , bit , and bridle .</context>
+    </instance>
+    <instance id="Poll_(livestock)-poll-24-1-1" docsrc="Poll_(livestock)">
+      <context> This area of the anatomy is of particular significance for the horse . Specifically , the " poll " refers to the occipital protrusion <head>at</head> the back of the skull . However , in common usage , many horsemen refer to the poll joint , between the atlas ( C1 ) and skull as the poll .</context>
+    </instance>
+    <instance id="Poll_(livestock)-poll-24-1-3" docsrc="Poll_(livestock)">
+      <context> However , in common usage , many horsemen refer to the poll joint , between the atlas ( C1 ) and skull as the <head>poll</head> . The area at the joint has a slight depression , and is a sensitive location . Thus , because the crownpiece of a bridle passes over the poll joint , a rider can indirectly exert pressure on the horse 's poll by means of the reins , bit , and bridle .</context>
+    </instance>
+    <instance id="Poll_(livestock)-poll-4-0-2" docsrc="Poll_(livestock)">
+      <context> The poll is a <head>name</head> of the part of an animal 's head , alternatively referencing a point immediately behind or right between the ears . This area of the anatomy is of particular significance for the horse . Specifically , the " poll " refers to the occipital protrusion at the back of the skull .</context>
+    </instance>
+    <instance id="br-a02#w1105_0" docsrc="br-a02">
+      <context> Under Formby 's plan , an appointee would be selected by a board composed of the governor , lieutenant_governor , speaker of the House , attorney_general and chief_justice of the Texas_Supreme_Court . State representatives decided Thursday against taking_a_poll on what kind of taxes Texans would prefer to pay . An adverse vote of 81 to 65 kept in the State_Affairs_Committee a bill which would order the referendum on the April 4 ballot , when Texas votes on a U.S. senator . Rep._Wesley_Roberts of Seminole , sponsor of the <head>poll</head> idea , said that further delay in the committee can kill the bill . The West_Texan reported that he had finally gotten Chairman_Bill_Hollowell of the committee to set it for public hearing on Feb. 22 . The proposal would have to receive final legislative approval , by two-thirds majorities , before March 1 to be printed on the April 4 ballot , Roberts said . Opponents generally argued that the ballot could n't give enough information about tax proposals for the voters to make an intelligent choice .</context>
+    </instance>
+    <instance id="br-f15#w1937_0" docsrc="br-f15">
+      <context> The general Protestant conviction is that motives , rather than methods , form the primary moral issue , provided the methods are limited to the prevention of conception '' . An action once universally condemned by all Christian_churches and forbidden by the civil_law is now not_only approved by the overwhelming majority of Protestant_denominations , but also deemed , at certain times , to be a positive religious duty . This viewpoint has now been translated into action by the majority of people in this country . Repeated <head>polls</head> have disclosed that most married_couples are now using contraceptives in the practice of birth_control . For all concerned with social-welfare legislation , the significance of this radical and revolutionary change in the thought and habits of the vast majority of the American people is clear , profound and far reaching . To try to oppose the general religious and moral conviction of such a majority by a legislative fiat would be to invite the same breakdown of law and order that was occasioned by the ill-starred Prohibition experiment . This brings us to the fact that the realities we are dealing with lie not in the field of civil legislation , but in the realm of conscience and religion : They are moral judgments and matters of theological belief .</context>
+    </instance>
+    <instance id="br-g01#w1065_0" docsrc="br-g01">
+      <context> My definition of this much abused adjective is that a reconstructed rebel is one who is glad that the North won the War . Nobody knows how many Southerners there are in this category . I suspect that there are far more unreconstructed ones than the North likes to believe . I never heard of a <head>poll</head> being taken on the question . No_doubt such a thing would be considered unpatriotic . Prior to 1954 I imagine that a majority of Southerners would have voted against the Confederacy . Since the Supreme_Court 's decision of that year this is more doubtful ; and if a poll had been taken immediately following the dispatch of troops to Little_Rock I believe the majority would have been for the Old_South .</context>
+    </instance>
+    <instance id="br-g01#w1114_0" docsrc="br-g01">
+      <context> I never heard of a poll being taken on the question . No_doubt such a thing would be considered unpatriotic . Prior to 1954 I imagine that a majority of Southerners would have voted against the Confederacy . Since the Supreme_Court 's decision of that year this is more doubtful ; and if a <head>poll</head> had been taken immediately following the dispatch of troops to Little_Rock I believe the majority would have been for the Old_South . Belief in the traditional way_of_life persists much more in the older states than in the new ones . Probably a larger percentage of Virginians and South_Carolinians remain unreconstructed than elsewhere , with Georgia , North_Carolina , and Alabama following along after them . Old attitudes are held more tenaciously in the Tidewater than the Piedmont ; so_that a line running down the length of the South marking the upper_limits of tidewater would roughly divide the Old_South from the new , but with , of_course , important minority enclaves .</context>
+    </instance>
+  </lexelt>
+</corpus>

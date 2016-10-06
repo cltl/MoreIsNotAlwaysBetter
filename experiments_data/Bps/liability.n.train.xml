@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="liability.n" pos="NN">
+    <instance id="a01322044_d_9" docsrc="a01322044_d">
+      <context> liable to be accused , or cause for such <head>liability</head> ;</context>
+    </instance>
+    <instance id="a02365397_d_13" docsrc="a02365397_d">
+      <context> ( of persons ) freed from or not subject to an obligation or <head>liability</head> ( as e.g. taxes ) to which others or other things are subject ;</context>
+    </instance>
+    <instance id="a02366200_d_10" docsrc="a02366200_d">
+      <context> ( of persons ) not exempt from an obligation or <head>liability</head> ;</context>
+    </instance>
+    <instance id="br-j35#w601_0" docsrc="br-j35">
+      <context> 22 % of his total list as against 3.5 % in mine . Or the exception may be_due to a particular durability peculiar to the Athabascan verb . More word_class ratios determined in more languages will no_doubt ultimately answer the question . If word_classes differ in their resistance or <head>liability</head> to stem replacement within meaning slot , it is conceivable that individual meanings also differ with fair consistence trans lingually . Hoijer 's Athabascan and my Yokuts share 71 identical meanings ( with allowance for several near synonyms like stomach belly , big large , long far , many much , die dead , say speak ) . For Yokuts , I tabulated these 71 items in five columns , according_as they were expressed by 1 , 2 , 3 , 4 , and more_than 4 stems . The totals for these five categories are not too uneven , namely 20 , 15 , 11 , 16 , 9 respectively .</context>
+    </instance>
+    <instance id="n00072691_d_4" docsrc="n00072691_d">
+      <context> the mistake of incurring <head>liability</head> or blame ;</context>
+    </instance>
+    <instance id="n00214315_d_8" docsrc="n00214315_d">
+      <context> personal immunity accorded to a public official from <head>liability</head> to anyone injured by actions that are the consequence of exerting official authority ;</context>
+    </instance>
+    <instance id="n00228535_d_12" docsrc="n00228535_d">
+      <context> termination of a business operation by using its assets to discharge its <head>liabilities</head> ;</context>
+    </instance>
+    <instance id="n05040275_d_9" docsrc="n05040275_d">
+      <context> the property of lacking physical or mental strength ; <head>liability</head> to failure under pressure or stress or strain ;</context>
+    </instance>
+    <instance id="n13243780_d_13" docsrc="n13243780_d">
+      <context> an unincorporated business owned by a single person who is responsible for its <head>liabilities</head> and entitled to its profits ;</context>
+    </instance>
+    <instance id="n13261380_d_11" docsrc="n13261380_d">
+      <context> income received but not yet earned ( usually considered a current <head>liability</head> on a company's balance_sheet ) ;</context>
+    </instance>
+    <instance id="n13338960_d_21" docsrc="n13338960_d">
+      <context> a bond given to protect the recipient against loss in case the terms_of_a_contract are not filled ; a surety company assumes <head>liability</head> for nonperformance ;</context>
+    </instance>
+    <instance id="n13396276_d_3" docsrc="n13396276_d">
+      <context> an excess of <head>liabilities</head> over assets ( usually over a certain period ) ;</context>
+    </instance>
+    <instance id="n13397018_d_1" docsrc="n13397018_d">
+      <context> the <head>liability</head> of a firm's owners for no_more than the capital they have invested in the firm ;</context>
+    </instance>
+    <instance id="n14490801_d_1" docsrc="n14490801_d">
+      <context> a <head>liability</head> account showing how much is owed for goods and services purchased on credit ;</context>
+    </instance>
+    <instance id="n14529408_d_3" docsrc="n14529408_d">
+      <context> legal exemption from <head>liability</head> for damages ;</context>
+    </instance>
+    <instance id="n14530563_d_0" docsrc="n14530563_d">
+      <context> <head>liability</head> to taxation ;</context>
+    </instance>
+    <instance id="v00891541_d_10" docsrc="v00891541_d">
+      <context> insure again by assuming all or a part of the <head>liability</head> of an insurance_company already covering a risk ;</context>
+    </instance>
+    <instance id="v00891734_d_13" docsrc="v00891734_d">
+      <context> insure again by transferring to another insurance_company all or a part of a <head>liability</head> assumed ;</context>
+    </instance>
+    <instance id="v02215790_d_9" docsrc="v02215790_d">
+      <context> accumulate a fund for the discharge of a recurrent <head>liability</head> ;</context>
+    </instance>
+    <instance id="v02251247_d_8" docsrc="v02251247_d">
+      <context> secure against future loss , damage , or <head>liability</head> ; give security for ;</context>
+    </instance>
+  </lexelt>
+</corpus>

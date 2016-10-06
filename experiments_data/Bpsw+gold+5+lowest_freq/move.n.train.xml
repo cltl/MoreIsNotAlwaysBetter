@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="move.n" pos="NN">
+    <instance id="br-k20#w2312_0" docsrc="br-k20">
+      <context> For_the_moment there was no woman in his life , and it was this vacuum that had given Claire her opportunity . But the liaison successfully started in the last days of autumn was now languishing . Byron , since the separation from his wife had been living in a smallish house in Piccadilly_Terrace . He refused to bring Claire to it even as an occasional visitor , claiming that his every <head>move</head> was watched by spies of the Milbankes .</context>
+    </instance>
+    <instance id="br-k28#w1199_0" docsrc="br-k28">
+      <context> After Mr._Jack drove away , Winston went_on looking out the window . He noticed a speck of dirt on the sill and swiped at it with his finger . Then he looked at his finger , at the wrinkled , heavy knuckle and the thick nail he used like a knife to pry up , slit , and open . For_the_first_time , he let himself be sad about the <head>move</head> . That house was ten years off his life . Each brass handle and hinge shone for his reward , and he knew how to get_at the dust in the china flowers and how to take_down the long glass drops which hung from the chandelier . He knew the house like a blind_man , through his fingers , and he did not like to think_of all the time and rags and polishes he had spent on keeping it up .</context>
+    </instance>
+    <instance id="n00165942_ex1_5" docsrc="n00165942_ex1">
+      <context> he did n't make a <head>move</head> to help ;</context>
+    </instance>
+    <instance id="n00165942_ex2_2" docsrc="n00165942_ex2">
+      <context> his first <head>move</head> was to hire a lawyer ;</context>
+    </instance>
+    <instance id="n00168658_ex1_4" docsrc="n00168658_ex1">
+      <context> they say that three <head>moves</head> equal one fire ;</context>
+    </instance>
+    <instance id="n00279835_ex3_1" docsrc="n00279835_ex3">
+      <context> his <head>move</head> put him directly in my path ;</context>
+    </instance>
+    <instance id="n00331950_ex3_2" docsrc="n00331950_ex3">
+      <context> an impatient <head>move</head> of his hand ;</context>
+    </instance>
+  </lexelt>
+</corpus>

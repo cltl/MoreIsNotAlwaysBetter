@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="market.n" pos="NN">
+    <instance id="Financial_market-market-1-10-1" docsrc="Financial_market">
+      <context> Stock <head>markets</head> , which provide financing through the issuance of shares or common stock , and enable the subsequent trading thereof . Bond markets , which provide financing through the issuance of bonds , and enable the subsequent trading thereof . Commodity markets , which facilitate the trading of commodities .</context>
+    </instance>
+    <instance id="Financial_market-market-1-12-1" docsrc="Financial_market">
+      <context> Bond <head>markets</head> , which provide financing through the issuance of bonds , and enable the subsequent trading thereof . Commodity markets , which facilitate the trading of commodities . Money markets , which provide short term debt financing and investment .</context>
+    </instance>
+    <instance id="Financial_market-market-1-127-1" docsrc="Financial_market">
+      <context> Improving <head>trading</head> floors === Based on market levels === Primary market : Primary market is a market for new issues or new financial claims .</context>
+    </instance>
+    <instance id="Financial_market-market-1-128-3" docsrc="Financial_market">
+      <context> Hence <head>it</head> ’s also called new issue market . The primary market deals with those securities which are issued to the public for the first time . Secondary market : It ’s a market for secondary sale of securities .</context>
+    </instance>
+    <instance id="Financial_market-market-1-13-1" docsrc="Financial_market">
+      <context> Commodity <head>markets</head> , which facilitate the trading of commodities . Money markets , which provide short term debt financing and investment . Derivatives markets , which provide instruments for the management of financial risk .</context>
+    </instance>
+    <instance id="Financial_market-market-1-130-1" docsrc="Financial_market">
+      <context> Generally <head>,</head> such securities are quoted in the stock exchange and it provides a continuous and regular market for buying and selling of securities . Simply put , primary market is the market where the newly started company issued shares to the public for the first time through IPO ( initial public offering ) . Secondary market is the market where the second hand securities are sold ( securitCommodity Marketies ) .</context>
+    </instance>
+    <instance id="Financial_market-market-1-133-1" docsrc="Financial_market">
+      <context> Secondary <head>market</head> is the market where the second hand securities are sold ( securitCommodity Marketies ) . === Based on security types === Money market : Money market is a market for dealing with financial assets and securities which have a maturity period of up to one year .</context>
+    </instance>
+    <instance id="Financial_market-market-1-134-2" docsrc="Financial_market">
+      <context> Money <head>market</head> : Money market is a market for dealing with financial assets and securities which have a maturity period of up to one year . In other words , it ’s a market for purely short term funds . Capital market : A capital market is a market for financial assets which have a long or indefinite maturity .</context>
+    </instance>
+    <instance id="Financial_market-market-1-135-2" docsrc="Financial_market">
+      <context> Capital <head>market</head> : A capital market is a market for financial assets which have a long or indefinite maturity . Generally it deals with long term securities which have a maturity period of above one year . Capital market may be further divided into : ( a ) industrial securities market ( b ) Govt .</context>
+    </instance>
+    <instance id="Financial_market-market-1-135-3" docsrc="Financial_market">
+      <context> Generally <head>it</head> deals with long term securities which have a maturity period of above one year . Capital market may be further divided into : ( a ) industrial securities market ( b ) Govt . securities market and ( c ) long term loans market .</context>
+    </instance>
+    <instance id="Financial_market-market-1-135-4" docsrc="Financial_market">
+      <context> Capital <head>market</head> may be further divided into : ( a ) industrial securities market ( b ) Govt . securities market and ( c ) long term loans market . Equity markets : A market where ownership of securities are issued and subscribed is known as equity market .</context>
+    </instance>
+    <instance id="Financial_market-market-1-136-2" docsrc="Financial_market">
+      <context> Equity <head>markets</head> : A market where ownership of securities are issued and subscribed is known as equity market . An example of a secondary equity market for shares is the Bombay stock exchange . Debt market : The market where funds are borrowed and lent is known as debt market .</context>
+    </instance>
+    <instance id="Financial_market-market-1-137-2" docsrc="Financial_market">
+      <context> Debt <head>market</head> : The market where funds are borrowed and lent is known as debt market . Arrangements are made in such a way that the borrowers agree to pay the lender the original amount of the loan plus some specified amount of interest . Derivative markets : A market where financial instruments are derived and traded based on an underlying asset such as commodities or stocks .</context>
+    </instance>
+    <instance id="Financial_market-market-1-14-1" docsrc="Financial_market">
+      <context> Money <head>markets</head> , which provide short term debt financing and investment . Derivatives markets , which provide instruments for the management of financial risk . Futures markets , which provide standardized forward contracts for trading products at some future date ; see also forward market .</context>
+    </instance>
+    <instance id="Financial_market-market-1-140-3" docsrc="Financial_market">
+      <context> Credit <head>rating</head> , stock broking etc . is known as financial service market . Individuals and firms use financial services markets , to purchase services that enhance the working of debt and equity markets . Depository markets : A depository market consists of depository institutions that accept deposit from individuals and firms and uses these funds to participate in the debt market , by giving loans or purchasing other debt instruments such as treasure bills .</context>
+    </instance>
+    <instance id="Financial_market-market-1-141-1" docsrc="Financial_market">
+      <context> Individuals <head>and</head> firms use financial services markets , to purchase services that enhance the working of debt and equity markets . Depository markets : A depository market consists of depository institutions that accept deposit from individuals and firms and uses these funds to participate in the debt market , by giving loans or purchasing other debt instruments such as treasure bills . Financial Markets with Yale Professor Robert Shiller</context>
+    </instance>
+    <instance id="Financial_market-market-1-15-1" docsrc="Financial_market">
+      <context> Derivatives <head>markets</head> , which provide instruments for the management of financial risk . Futures markets , which provide standardized forward contracts for trading products at some future date ; see also forward market . Insurance markets , which facilitate the redistribution of various risks .</context>
+    </instance>
+    <instance id="Financial_market-market-1-17-1" docsrc="Financial_market">
+      <context> Insurance <head>markets</head> , which facilitate the redistribution of various risks . Foreign exchange markets , which facilitate the trading of foreign exchange . Spot market</context>
+    </instance>
+    <instance id="Financial_market-market-1-18-1" docsrc="Financial_market">
+      <context> Foreign <head>exchange</head> markets , which facilitate the trading of foreign exchange . Spot market Interbanks market</context>
+    </instance>
+    <instance id="Financial_market-market-1-20-3" docsrc="Financial_market">
+      <context> Newly <head>formed</head> ( issued ) securities are bought or sold in primary markets , such as during initial public offerings . Secondary markets allow investors to buy and sell existing securities .</context>
+    </instance>
+    <instance id="Financial_market-market-1-7-2" docsrc="Financial_market">
+      <context> Within <head>the</head> financial sector , the term " financial markets " is often used to refer just to the markets that are used to raise finance : for long term finance , the Capital markets ; for short term finance , the Money markets . Another common use of the term is as a catchall for all the markets in the financial sector , as per examples in the breakdown below . Capital markets which to consist of :</context>
+    </instance>
+    <instance id="Financial_market-market-1-8-1" docsrc="Financial_market">
+      <context> Another <head>common</head> use of the term is as a catchall for all the markets in the financial sector , as per examples in the breakdown below . Capital markets which to consist of : Stock markets , which provide financing through the issuance of shares or common stock , and enable the subsequent trading thereof .</context>
+    </instance>
+    <instance id="Financial_market-market-1-9-1" docsrc="Financial_market">
+      <context> Capital <head>markets</head> which to consist of : Stock markets , which provide financing through the issuance of shares or common stock , and enable the subsequent trading thereof . Bond markets , which provide financing through the issuance of bonds , and enable the subsequent trading thereof .</context>
+    </instance>
+    <instance id="Financial_market-market-10-109-1" docsrc="Financial_market">
+      <context> They provide a sign for the allocation of funds in <head>the</head> economy based on the demand and to the supply through the mechanism called price discovery process . Sale mechanism : Financial markets provide a mechanism for selling of a financial asset by an investor so as to offer the benefit of marketability and liquidity of such assets . Information : The activities of the participants in the financial market result in the generation and the consequent dissemination of information to the various segments of the market .</context>
+    </instance>
+    <instance id="Financial_market-market-11-54-1" docsrc="Financial_market">
+      <context> These may include the postal services , railway companies and utility <head>companies</head> . Many borrowers have difficulty raising money locally . They need to borrow internationally with the aid of Foreign exchange markets .</context>
+    </instance>
+    <instance id="Financial_market-market-12-140-1" docsrc="Financial_market">
+      <context> Derivative markets : A market where financial instruments are derived and traded <head>based</head> on an underlying asset such as commodities or stocks . Financial service market : A market that comprises participants such as commercial banks that provide various financial services like ATM. Credit cards . Credit rating , stock broking etc . is known as financial service market .</context>
+    </instance>
+    <instance id="Financial_market-market-12-19-1" docsrc="Financial_market">
+      <context> Spot market Interbanks market The capital markets may also be divided into <head>primary</head> markets and secondary markets .</context>
+    </instance>
+    <instance id="Financial_market-market-12-20-5" docsrc="Financial_market">
+      <context> Secondary markets allow investors to buy and sell existing securities . The <head>transactions</head> in primary markets exist between issuers and investors , while secondary market transactions exist among investors . Liquidity is a crucial aspect of securities that are traded in secondary markets .</context>
+    </instance>
+    <instance id="Financial_market-market-12-55-4" docsrc="Financial_market">
+      <context> They can provide mortgage on weight basis . The main advantage is <head>that</head> this lowers the cost of their borrowings . During the 1980s and 1990s , a major growth sector in financial markets was the trade in so called derivative products , or derivatives for short .</context>
+    </instance>
+    <instance id="Financial_market-market-12-85-2" docsrc="Financial_market">
+      <context> Rocket scientist , a financial consultant at the zenith of mathematical and <head>computer</head> programming skill . They are able to invent derivatives of high complexity and construct sophisticated pricing models . They generally handle the most advanced computing techniques adopted by the financial markets since the early 1980s .</context>
+    </instance>
+    <instance id="Financial_market-market-13-129-1" docsrc="Financial_market">
+      <context> The primary market deals with those securities which are issued to the public <head>for</head> the first time . Secondary market : It ’s a market for secondary sale of securities . In other words , securities which have already passed through the new issue market are traded in this market .</context>
+    </instance>
+    <instance id="Financial_market-market-13-135-2" docsrc="Financial_market">
+      <context> Capital market : A capital market is a market for financial assets which <head>have</head> a long or indefinite maturity . Generally it deals with long term securities which have a maturity period of above one year . Capital market may be further divided into : ( a ) industrial securities market ( b ) Govt .</context>
+    </instance>
+    <instance id="Financial_market-market-13-163-1" docsrc="Financial_market">
+      <context> Depository markets : A depository market consists of depository institutions that accept deposit <head>from</head> individuals and firms and uses these funds to participate in the debt market , by giving loans or purchasing other debt instruments such as treasure bills . Financial Markets with Yale Professor Robert Shiller Understanding Derivatives : Markets and Infrastructure Federal Reserve Bank of Chicago , Financial Markets Group</context>
+    </instance>
+    <instance id="Financial_market-market-13-20-4" docsrc="Financial_market">
+      <context> securities are bought or sold in primary markets , such as during initial <head>public</head> offerings . Secondary markets allow investors to buy and sell existing securities . The transactions in primary markets exist between issuers and investors , while secondary market transactions exist among investors .</context>
+    </instance>
+    <instance id="Financial_market-market-13-7-1" docsrc="Financial_market">
+      <context> Trading of currencies and bonds is largely on a bilateral basis , although <head>some</head> bonds trade on a stock exchange , and people are building electronic systems for these as well , similar to stock exchanges . Within the financial sector , the term " financial markets " is often used to refer just to the markets that are used to raise finance : for long term finance , the Capital markets ; for short term finance , the Money markets . Another common use of the term is as a catchall for all the markets in the financial sector , as per examples in the breakdown below .</context>
+    </instance>
+    <instance id="Financial_market-market-15-136-2" docsrc="Financial_market">
+      <context> Equity markets : A market where ownership of securities are issued and subscribed is known <head>as</head> equity market . An example of a secondary equity market for shares is the Bombay stock exchange . Debt market : The market where funds are borrowed and lent is known as debt market .</context>
+    </instance>
+    <instance id="Financial_market-market-17-129-2" docsrc="Financial_market">
+      <context> Secondary market : It ’s a market for secondary sale of securities . In other words , <head>securities</head> which have already passed through the new issue market are traded in this market . Generally , such securities are quoted in the stock exchange and it provides a continuous and regular market for buying and selling of securities .</context>
+    </instance>
+    <instance id="Financial_market-market-17-135-4" docsrc="Financial_market">
+      <context> Capital market may be further divided into : ( a ) industrial securities market ( b ) <head>Govt</head> . securities market and ( c ) long term loans market . Equity markets : A market where ownership of securities are issued and subscribed is known as equity market .</context>
+    </instance>
+    <instance id="Financial_market-market-18-129-1" docsrc="Financial_market">
+      <context> The primary market deals with those securities which are issued to the public for the first time . <head>Secondary</head> market : It ’s a market for secondary sale of securities . In other words , securities which have already passed through the new issue market are traded in this market .</context>
+    </instance>
+    <instance id="Financial_market-market-19-14-1" docsrc="Financial_market">
+      <context> Money markets , which provide short term debt financing and investment . Derivatives markets , which provide instruments for <head>the</head> management of financial risk . Futures markets , which provide standardized forward contracts for trading products at some future date ; see also forward market .</context>
+    </instance>
+    <instance id="Financial_market-market-19-140-2" docsrc="Financial_market">
+      <context> Financial service market : A market that comprises participants such as commercial banks that provide various financial services like <head>ATM.</head> Credit cards . Credit rating , stock broking etc . is known as financial service market . Individuals and firms use financial services markets , to purchase services that enhance the working of debt and equity markets .</context>
+    </instance>
+    <instance id="Financial_market-market-19-3-1" docsrc="Financial_market">
+      <context> Much trading of stocks takes place on an exchange ; still , corporate actions ( merger , spinoff ) <head>are</head> outside an exchange , while any two companies or people , for whatever reason , may agree to sell stock from the one to the other without using an exchange . Trading of currencies and bonds is largely on a bilateral basis , although some bonds trade on a stock exchange , and people are building electronic systems for these as well , similar to stock exchanges . Within the financial sector , the term " financial markets " is often used to refer just to the markets that are used to raise finance : for long term finance , the Capital markets ; for short term finance , the Money markets .</context>
+    </instance>
+    <instance id="Financial_market-market-19-66-1" docsrc="Financial_market">
+      <context> Swap Seemingly , the most obvious buyers and sellers of currency are importers and exporters of goods . While <head>this</head> may have been true in the distant past , when international trade created the demand for currency markets , importers and exporters now represent only 1/32 of foreign exchange dealing , according to the Bank for International Settlements .</context>
+    </instance>
+    <instance id="Financial_market-market-2-128-2" docsrc="Financial_market">
+      <context> Primary market <head>:</head> Primary market is a market for new issues or new financial claims . Hence it ’s also called new issue market . The primary market deals with those securities which are issued to the public for the first time .</context>
+    </instance>
+    <instance id="Financial_market-market-2-139-1" docsrc="Financial_market">
+      <context> Arrangements are <head>made</head> in such a way that the borrowers agree to pay the lender the original amount of the loan plus some specified amount of interest . Derivative markets : A market where financial instruments are derived and traded based on an underlying asset such as commodities or stocks . Financial service market : A market that comprises participants such as commercial banks that provide various financial services like ATM. Credit cards .</context>
+    </instance>
+    <instance id="Financial_market-market-2-16-1" docsrc="Financial_market">
+      <context> Futures markets <head>,</head> which provide standardized forward contracts for trading products at some future date ; see also forward market . Insurance markets , which facilitate the redistribution of various risks . Foreign exchange markets , which facilitate the trading of foreign exchange .</context>
+    </instance>
+    <instance id="Financial_market-market-2-19-1" docsrc="Financial_market">
+      <context> Spot market <head>Interbanks</head> market The capital markets may also be divided into primary markets and secondary markets .</context>
+    </instance>
+    <instance id="Financial_market-market-2-21-4" docsrc="Financial_market">
+      <context> Securities with <head>an</head> active secondary market mean that there are many buyers and sellers at a given point in time . Investors benefit from liquid securities because they can sell their assets whenever they want ; an illiquid security may force the seller to get rid of their asset at a large discount . Without financial markets , borrowers would have difficulty finding lenders themselves .</context>
+    </instance>
+    <instance id="Financial_market-market-2-94-1" docsrc="Financial_market">
+      <context> Spread , <head>the</head> difference between the highest bid and the lowest offer . One of the important sustainability requisite for the accelerated development of an economy is the existence of a dynamic financial market . A financial market helps the economy in the following manner .</context>
+    </instance>
+    <instance id="Financial_market-market-20-90-1" docsrc="Financial_market">
+      <context> Smurfing , a deliberate structuring of payments or transactions to conceal it from regulators or other parties , a type <head>of</head> money laundering that is often illegal . Spread , the difference between the highest bid and the lowest offer . One of the important sustainability requisite for the accelerated development of an economy is the existence of a dynamic financial market .</context>
+    </instance>
+    <instance id="Financial_market-market-26-140-3" docsrc="Financial_market">
+      <context> Credit rating , stock broking etc . is known as financial service market . Individuals and firms use financial services markets , to purchase services that <head>enhance</head> the working of debt and equity markets . Depository markets : A depository market consists of depository institutions that accept deposit from individuals and firms and uses these funds to participate in the debt market , by giving loans or purchasing other debt instruments such as treasure bills .</context>
+    </instance>
+    <instance id="Financial_market-market-27-109-1" docsrc="Financial_market">
+      <context> They provide a sign for the allocation of funds in the economy based on the demand and to the supply through the mechanism called price discovery process <head>.</head> Sale mechanism : Financial markets provide a mechanism for selling of a financial asset by an investor so as to offer the benefit of marketability and liquidity of such assets . Information : The activities of the participants in the financial market result in the generation and the consequent dissemination of information to the various segments of the market .</context>
+    </instance>
+    <instance id="Financial_market-market-3-1-1" docsrc="Financial_market">
+      <context> Securities include stocks <head>and</head> bonds , and commodities include precious metals or agricultural products . In economics , typically , the term market means the aggregate of possible buyers and sellers of a certain good or service and the transactions between them . The term " market " is sometimes used for what are more strictly exchanges , organizations that facilitate the trade in financial securities , e.g. , a stock exchange or commodity exchange .</context>
+    </instance>
+    <instance id="Financial_market-market-3-121-1" docsrc="Financial_market">
+      <context> Facilitating balanced economic <head>growth</head> Improving trading floors === Based on market levels ===</context>
+    </instance>
+    <instance id="Financial_market-market-3-163-1" docsrc="Financial_market">
+      <context> Depository markets : <head>A</head> depository market consists of depository institutions that accept deposit from individuals and firms and uses these funds to participate in the debt market , by giving loans or purchasing other debt instruments such as treasure bills . Financial Markets with Yale Professor Robert Shiller Understanding Derivatives : Markets and Infrastructure Federal Reserve Bank of Chicago , Financial Markets Group</context>
+    </instance>
+    <instance id="Financial_market-market-3-59-1" docsrc="Financial_market">
+      <context> The main advantage <head>is</head> that this lowers the cost of their borrowings . During the 1980s and 1990s , a major growth sector in financial markets was the trade in so called derivative products , or derivatives for short . In the financial markets , stock prices , bond prices , currency rates , interest rates and dividends go up and down , creating risk .</context>
+    </instance>
+    <instance id="Financial_market-market-3-95-2" docsrc="Financial_market">
+      <context> Saving mobilization : <head>Obtaining</head> funds from the savers or surplus units such as household individuals , business firms , public sector units , central government , state governments etc . is an important role played by financial markets . Investment : Financial markets play a crucial role in arranging to invest funds thus collected in those units which are in need of the same .</context>
+    </instance>
+    <instance id="Financial_market-market-32-44-1" docsrc="Financial_market">
+      <context> === Companies === Companies tend to be lenders of capital . When companies have surplus cash that is not needed for a short period of time , they may seek to make <head>money</head> from their cash surplus by lending it via short term markets called money markets .</context>
+    </instance>
+    <instance id="Financial_market-market-34-3-1" docsrc="Financial_market">
+      <context> Much trading of stocks takes place on an exchange ; still , corporate actions ( merger , spinoff ) are outside an exchange , while any two companies or people , for whatever reason <head>,</head> may agree to sell stock from the one to the other without using an exchange . Trading of currencies and bonds is largely on a bilateral basis , although some bonds trade on a stock exchange , and people are building electronic systems for these as well , similar to stock exchanges . Within the financial sector , the term " financial markets " is often used to refer just to the markets that are used to raise finance : for long term finance , the Capital markets ; for short term finance , the Money markets .</context>
+    </instance>
+    <instance id="Financial_market-market-35-44-1" docsrc="Financial_market">
+      <context> === Companies === Companies tend to be lenders of capital . When companies have surplus cash that is not needed for a short period of time , they may seek to make money from their <head>cash</head> surplus by lending it via short term markets called money markets .</context>
+    </instance>
+    <instance id="Financial_market-market-4-104-1" docsrc="Financial_market">
+      <context> Intermediary functions : The <head>intermediary</head> functions of financial markets include the following : Transfer of resources : Financial markets facilitate the transfer of real economic resources from lenders to ultimate borrowers . Enhancing income : Financial markets allow lenders to earn interest or dividend on their surplus invisible funds , thus contributing to the enhancement of the individual and the national income .</context>
+    </instance>
+    <instance id="Financial_market-market-4-105-1" docsrc="Financial_market">
+      <context> Transfer of resources : <head>Financial</head> markets facilitate the transfer of real economic resources from lenders to ultimate borrowers . Enhancing income : Financial markets allow lenders to earn interest or dividend on their surplus invisible funds , thus contributing to the enhancement of the individual and the national income . Productive usage : Financial markets allow for the productive use of the funds borrowed .</context>
+    </instance>
+    <instance id="Financial_market-market-4-106-2" docsrc="Financial_market">
+      <context> Productive usage : Financial <head>markets</head> allow for the productive use of the funds borrowed . The enhancing the income and the gross national production . Capital formation : Financial markets provide a channel through which new savings flow to aid capital formation of a country .</context>
+    </instance>
+    <instance id="Financial_market-market-4-107-1" docsrc="Financial_market">
+      <context> The enhancing the income <head>and</head> the gross national production . Capital formation : Financial markets provide a channel through which new savings flow to aid capital formation of a country . Price determination : Financial markets allow for the determination of price of the traded financial assets through the interaction of buyers and sellers .</context>
+    </instance>
+    <instance id="Financial_market-market-4-108-2" docsrc="Financial_market">
+      <context> Price determination : Financial <head>markets</head> allow for the determination of price of the traded financial assets through the interaction of buyers and sellers . They provide a sign for the allocation of funds in the economy based on the demand and to the supply through the mechanism called price discovery process . Sale mechanism : Financial markets provide a mechanism for selling of a financial asset by an investor so as to offer the benefit of marketability and liquidity of such assets .</context>
+    </instance>
+    <instance id="Financial_market-market-4-114-1" docsrc="Financial_market">
+      <context> Providing the borrower with <head>funds</head> so as to enable them to carry out their investment plans . Providing the lenders with earning assets so as to enable them to earn wealth by deploying the assets in production debentures . Providing liquidity in the market so as to facilitate trading of funds .</context>
+    </instance>
+    <instance id="Financial_market-market-4-127-1" docsrc="Financial_market">
+      <context> Improving trading floors === <head>Based</head> on market levels === Primary market : Primary market is a market for new issues or new financial claims .</context>
+    </instance>
+    <instance id="Financial_market-market-4-129-3" docsrc="Financial_market">
+      <context> In other words , <head>securities</head> which have already passed through the new issue market are traded in this market . Generally , such securities are quoted in the stock exchange and it provides a continuous and regular market for buying and selling of securities . Simply put , primary market is the market where the newly started company issued shares to the public for the first time through IPO ( initial public offering ) .</context>
+    </instance>
+    <instance id="Financial_market-market-4-130-1" docsrc="Financial_market">
+      <context> Generally , such securities <head>are</head> quoted in the stock exchange and it provides a continuous and regular market for buying and selling of securities . Simply put , primary market is the market where the newly started company issued shares to the public for the first time through IPO ( initial public offering ) . Secondary market is the market where the second hand securities are sold ( securitCommodity Marketies ) .</context>
+    </instance>
+    <instance id="Financial_market-market-4-133-1" docsrc="Financial_market">
+      <context> Secondary market is the <head>market</head> where the second hand securities are sold ( securitCommodity Marketies ) . === Based on security types === Money market : Money market is a market for dealing with financial assets and securities which have a maturity period of up to one year .</context>
+    </instance>
+    <instance id="Financial_market-market-4-135-4" docsrc="Financial_market">
+      <context> Capital market may be <head>further</head> divided into : ( a ) industrial securities market ( b ) Govt . securities market and ( c ) long term loans market . Equity markets : A market where ownership of securities are issued and subscribed is known as equity market .</context>
+    </instance>
+    <instance id="Financial_market-market-4-136-2" docsrc="Financial_market">
+      <context> Equity markets : A <head>market</head> where ownership of securities are issued and subscribed is known as equity market . An example of a secondary equity market for shares is the Bombay stock exchange . Debt market : The market where funds are borrowed and lent is known as debt market .</context>
+    </instance>
+    <instance id="Financial_market-market-4-137-2" docsrc="Financial_market">
+      <context> Debt market : The <head>market</head> where funds are borrowed and lent is known as debt market . Arrangements are made in such a way that the borrowers agree to pay the lender the original amount of the loan plus some specified amount of interest . Derivative markets : A market where financial instruments are derived and traded based on an underlying asset such as commodities or stocks .</context>
+    </instance>
+    <instance id="Financial_market-market-4-20-4" docsrc="Financial_market">
+      <context> securities are bought or <head>sold</head> in primary markets , such as during initial public offerings . Secondary markets allow investors to buy and sell existing securities . The transactions in primary markets exist between issuers and investors , while secondary market transactions exist among investors .</context>
+    </instance>
+    <instance id="Financial_market-market-4-97-2" docsrc="Financial_market">
+      <context> National Growth : An <head>important</head> role played by financial market is that , they contribute to a nation 's growth by ensuring unfettered flow of surplus funds to deficit units . Flow of funds for productive purposes is also made possible . Entrepreneurship growth : Financial market contribute to the development of the entrepreneurial claw by making available the necessary financial resources .</context>
+    </instance>
+    <instance id="Financial_market-market-43-3-1" docsrc="Financial_market">
+      <context> Much trading of stocks takes place on an exchange ; still , corporate actions ( merger , spinoff ) are outside an exchange , while any two companies or people , for whatever reason , may agree to sell stock from the one <head>to</head> the other without using an exchange . Trading of currencies and bonds is largely on a bilateral basis , although some bonds trade on a stock exchange , and people are building electronic systems for these as well , similar to stock exchanges . Within the financial sector , the term " financial markets " is often used to refer just to the markets that are used to raise finance : for long term finance , the Capital markets ; for short term finance , the Money markets .</context>
+    </instance>
+    <instance id="Financial_market-market-5-103-1" docsrc="Financial_market">
+      <context> Entrepreneurship growth : Financial market <head>contribute</head> to the development of the entrepreneurial claw by making available the necessary financial resources . Intermediary functions : The intermediary functions of financial markets include the following : Transfer of resources : Financial markets facilitate the transfer of real economic resources from lenders to ultimate borrowers .</context>
+    </instance>
+    <instance id="Financial_market-market-5-134-2" docsrc="Financial_market">
+      <context> Money market : Money market <head>is</head> a market for dealing with financial assets and securities which have a maturity period of up to one year . In other words , it ’s a market for purely short term funds . Capital market : A capital market is a market for financial assets which have a long or indefinite maturity .</context>
+    </instance>
+    <instance id="Financial_market-market-5-139-1" docsrc="Financial_market">
+      <context> Arrangements are made in such <head>a</head> way that the borrowers agree to pay the lender the original amount of the loan plus some specified amount of interest . Derivative markets : A market where financial instruments are derived and traded based on an underlying asset such as commodities or stocks . Financial service market : A market that comprises participants such as commercial banks that provide various financial services like ATM. Credit cards .</context>
+    </instance>
+    <instance id="Financial_market-market-5-140-3" docsrc="Financial_market">
+      <context> Credit rating , stock broking <head>etc</head> . is known as financial service market . Individuals and firms use financial services markets , to purchase services that enhance the working of debt and equity markets . Depository markets : A depository market consists of depository institutions that accept deposit from individuals and firms and uses these funds to participate in the debt market , by giving loans or purchasing other debt instruments such as treasure bills .</context>
+    </instance>
+    <instance id="Financial_market-market-5-21-2" docsrc="Financial_market">
+      <context> Liquidity is a crucial aspect <head>of</head> securities that are traded in secondary markets . Liquidity refers to the ease with which a security can be sold without a loss of value . Securities with an active secondary market mean that there are many buyers and sellers at a given point in time .</context>
+    </instance>
+    <instance id="Financial_market-market-5-72-1" docsrc="Financial_market">
+      <context> Importers/Exporters Tourists See Statistical analysis <head>of</head> financial markets , statistical finance</context>
+    </instance>
+    <instance id="Financial_market-market-6-128-3" docsrc="Financial_market">
+      <context> Hence it ’s also called new <head>issue</head> market . The primary market deals with those securities which are issued to the public for the first time . Secondary market : It ’s a market for secondary sale of securities .</context>
+    </instance>
+    <instance id="Financial_market-market-6-136-1" docsrc="Financial_market">
+      <context> securities market and ( c ) <head>long</head> term loans market . Equity markets : A market where ownership of securities are issued and subscribed is known as equity market . An example of a secondary equity market for shares is the Bombay stock exchange .</context>
+    </instance>
+    <instance id="Financial_market-market-6-140-2" docsrc="Financial_market">
+      <context> Financial service market : A market <head>that</head> comprises participants such as commercial banks that provide various financial services like ATM. Credit cards . Credit rating , stock broking etc . is known as financial service market . Individuals and firms use financial services markets , to purchase services that enhance the working of debt and equity markets .</context>
+    </instance>
+    <instance id="Financial_market-market-6-27-1" docsrc="Financial_market">
+      <context> Banks popularly lend money in the <head>form</head> of loans and mortgages . More complex transactions than a simple bank deposit require markets where lenders and their agents can meet borrowers and their agents , and where existing borrowing or lending commitments can be sold on to other parties . A good example of a financial market is a stock exchange .</context>
+    </instance>
+    <instance id="Financial_market-market-6-27-3" docsrc="Financial_market">
+      <context> A good example of a financial <head>market</head> is a stock exchange . A company can raise money by selling shares to investors and its existing shares can be bought or sold . The following table illustrates where financial markets fit in the relationship between lenders and borrowers :</context>
+    </instance>
+    <instance id="Financial_market-market-7-0-2" docsrc="Financial_market">
+      <context> A financial market is a market in <head>which</head> people trade financial securities , commodities , and other fungible items of value at low transaction costs and at prices that reflect supply and demand . Securities include stocks and bonds , and commodities include precious metals or agricultural products . In economics , typically , the term market means the aggregate of possible buyers and sellers of a certain good or service and the transactions between them .</context>
+    </instance>
+    <instance id="Financial_market-market-7-127-1" docsrc="Financial_market">
+      <context> Improving trading floors === Based on market <head>levels</head> === Primary market : Primary market is a market for new issues or new financial claims .</context>
+    </instance>
+    <instance id="Financial_market-market-7-128-1" docsrc="Financial_market">
+      <context> === Based on market levels === Primary <head>market</head> : Primary market is a market for new issues or new financial claims . Hence it ’s also called new issue market .</context>
+    </instance>
+    <instance id="Financial_market-market-7-129-3" docsrc="Financial_market">
+      <context> In other words , securities which have <head>already</head> passed through the new issue market are traded in this market . Generally , such securities are quoted in the stock exchange and it provides a continuous and regular market for buying and selling of securities . Simply put , primary market is the market where the newly started company issued shares to the public for the first time through IPO ( initial public offering ) .</context>
+    </instance>
+    <instance id="Financial_market-market-7-133-1" docsrc="Financial_market">
+      <context> Secondary market is the market where the <head>second</head> hand securities are sold ( securitCommodity Marketies ) . === Based on security types === Money market : Money market is a market for dealing with financial assets and securities which have a maturity period of up to one year .</context>
+    </instance>
+    <instance id="Financial_market-market-7-134-1" docsrc="Financial_market">
+      <context> === Based on security types === Money <head>market</head> : Money market is a market for dealing with financial assets and securities which have a maturity period of up to one year . In other words , it ’s a market for purely short term funds .</context>
+    </instance>
+    <instance id="Financial_market-market-7-20-2" docsrc="Financial_market">
+      <context> The capital markets may also be divided <head>into</head> primary markets and secondary markets . Newly formed ( issued ) securities are bought or sold in primary markets , such as during initial public offerings .</context>
+    </instance>
+    <instance id="Financial_market-market-7-95-1" docsrc="Financial_market">
+      <context> A financial market helps the economy in <head>the</head> following manner . Saving mobilization : Obtaining funds from the savers or surplus units such as household individuals , business firms , public sector units , central government , state governments etc . is an important role played by financial markets .</context>
+    </instance>
+    <instance id="Financial_market-market-8-134-2" docsrc="Financial_market">
+      <context> Money market : Money market is a market <head>for</head> dealing with financial assets and securities which have a maturity period of up to one year . In other words , it ’s a market for purely short term funds . Capital market : A capital market is a market for financial assets which have a long or indefinite maturity .</context>
+    </instance>
+    <instance id="Financial_market-market-8-98-1" docsrc="Financial_market">
+      <context> Flow of funds for productive purposes is also <head>made</head> possible . Entrepreneurship growth : Financial market contribute to the development of the entrepreneurial claw by making available the necessary financial resources . Intermediary functions : The intermediary functions of financial markets include the following :</context>
+    </instance>
+    <instance id="Financial_market-market-9-135-3" docsrc="Financial_market">
+      <context> Generally it deals with long term securities which have <head>a</head> maturity period of above one year . Capital market may be further divided into : ( a ) industrial securities market ( b ) Govt . securities market and ( c ) long term loans market .</context>
+    </instance>
+    <instance id="Financial_market-market-9-19-1" docsrc="Financial_market">
+      <context> Spot market Interbanks market The capital markets may also <head>be</head> divided into primary markets and secondary markets .</context>
+    </instance>
+    <instance id="Financial_market-market-9-26-5" docsrc="Financial_market">
+      <context> They can then lend money from this pool of <head>deposited</head> money to those who seek to borrow . Banks popularly lend money in the form of loans and mortgages . More complex transactions than a simple bank deposit require markets where lenders and their agents can meet borrowers and their agents , and where existing borrowing or lending commitments can be sold on to other parties .</context>
+    </instance>
+    <instance id="Financial_market-market-9-3-1" docsrc="Financial_market">
+      <context> Much trading of stocks takes place on an exchange <head>;</head> still , corporate actions ( merger , spinoff ) are outside an exchange , while any two companies or people , for whatever reason , may agree to sell stock from the one to the other without using an exchange . Trading of currencies and bonds is largely on a bilateral basis , although some bonds trade on a stock exchange , and people are building electronic systems for these as well , similar to stock exchanges . Within the financial sector , the term " financial markets " is often used to refer just to the markets that are used to raise finance : for long term finance , the Capital markets ; for short term finance , the Money markets .</context>
+    </instance>
+    <instance id="Financial_market-market-9-96-1" docsrc="Financial_market">
+      <context> is an important role played by financial markets . <head>Investment</head> : Financial markets play a crucial role in arranging to invest funds thus collected in those units which are in need of the same . National Growth : An important role played by financial market is that , they contribute to a nation 's growth by ensuring unfettered flow of surplus funds to deficit units .</context>
+    </instance>
+    <instance id="Market_(place)-market-1-0-2" docsrc="Market_(place)">
+      <context> A <head>market</head> , or marketplace , is a location where people regularly gather for the purchase and sale of provisions , livestock , and other goods . In different parts of the world it may be referred to as a souk ( from the Arabic ) , bazaar ( from the Persian ) , a fixed mercado ( Spanish ) , or itinerant tianguis ( Mexico ) , or palengke ( Philippines ) . Some markets operate on most days ; others may be held once a week , or on less frequent specified days .</context>
+    </instance>
+    <instance id="Trade-market-1-140-1" docsrc="Trade">
+      <context> Such <head>ideas</head> have also sparked a debate on whether trade itself should be codified as a human right . List of trading companies Stock Market jackpot Trading Signals System</context>
+    </instance>
+    <instance id="Trade-market-12-57-2" docsrc="Trade">
+      <context> In 1776 , Adam Smith published the paper An Inquiry into the <head>Nature</head> and Causes of the Wealth of Nations . It criticised Mercantilism , and argued that economic specialisation could benefit nations just as much as firms . Since the division of labour was restricted by the size of the market , he said that countries having access to larger markets would be able to divide labour more efficiently and thereby become more productive .</context>
+    </instance>
+    <instance id="Trade-market-18-70-6" docsrc="Trade">
+      <context> These organisations became operational in 1946 after enough countries ratified the agreement . In 1947 , 23 countries <head>agreed</head> to the General Agreement on Tariffs and Trade to promote free trade . The European Union became the world 's largest exporter of manufactured goods and services , the biggest export market for around 80 countries .</context>
+    </instance>
+    <instance id="Trade-market-22-57-2" docsrc="Trade">
+      <context> In 1776 , Adam Smith published the paper An Inquiry into the Nature and Causes of the Wealth of Nations . It <head>criticised</head> Mercantilism , and argued that economic specialisation could benefit nations just as much as firms . Since the division of labour was restricted by the size of the market , he said that countries having access to larger markets would be able to divide labour more efficiently and thereby become more productive .</context>
+    </instance>
+    <instance id="Trade-market-33-80-1" docsrc="Trade">
+      <context> 1994 The GATT Marrakech Agreement specified formation of the WTO. January 1 , 1995 World Trade Organization was created to facilitate free trade , by mandating mutual most favoured nation trading status between <head>all</head> signatories . EC was transformed into the European Union , which accomplished the Economic and Monnetary Union ( EMU ) in 2002 , through introducing the Euro , and creating this way a real single market between 13 member states as of January 1 , 2007 .</context>
+    </instance>
+    <instance id="Trade-market-8-0-1" docsrc="Trade">
+      <context> Trade , or commerce , involves the transfer <head>of</head> the ownership of goods or services , from one person or entity to another , in exchange for money goods or services . A network that allows trade is called a market .</context>
+    </instance>
+    <instance id="a00484070_d_4" docsrc="a00484070_d">
+      <context> resulting from or dependent_on <head>market</head> factors rather than fundamental economic considerations ;</context>
+    </instance>
+    <instance id="a01005410_d_2" docsrc="a01005410_d">
+      <context> ( of <head>market</head> animals ) made ready for market ;</context>
+    </instance>
+    <instance id="br-b13#w1584_0" docsrc="br-b13">
+      <context> One of the roughest was the TV quiz shows , which gave him inferiority_complexes . Though it was a great relief when the big brains on these shows turned_out to be frauds and phonies , it did irreparable damage to the ego of the editor and many_another intelligent , well-informed American . But the one that upset the financially wise was the professional dancer who related in a book how he parlayed his earnings into a $ 2000000 profit on the stock_market . Every man who dabbles_in the <head>market</head> to make a_little easy_money on_the_side and suffers losses could at the time hardly face his wife who was wondering how her husband could be so dumb . Investors breathed more freely when it was learned that this acrobatic dancer had turned magician and was only doing a best_seller book to make some dough . People who take us for suckers are like the Westerner who had on exhibit his superior marksmanship in the form of a number of bull's-eye achievements . The promoter who wanted to sign him up for the circus asked him how he was able to do it .</context>
+    </instance>
+    <instance id="n00051897_d_15" docsrc="n00051897_d">
+      <context> the extent to which a product is recognized and bought by customers in a particular <head>market</head> ;</context>
+    </instance>
+    <instance id="n08072837_ex1_1" docsrc="n08072837_ex1">
+      <context> the <head>market</head> always frustrates the small investor ;</context>
+    </instance>
+    <instance id="n08073130_d_1" docsrc="n08073130_d">
+      <context> a <head>market</head> characterized by falling prices for securities ;</context>
+    </instance>
+    <instance id="n08073243_d_1" docsrc="n08073243_d">
+      <context> a <head>market</head> characterized by rising prices for securities ;</context>
+    </instance>
+    <instance id="n08073601_d_1" docsrc="n08073601_d">
+      <context> a <head>market</head> for short-term debt_instruments ;</context>
+    </instance>
+    <instance id="n09910840_d_7" docsrc="n09910840_d">
+      <context> a stock market_analyst who tries to predict <head>market</head> trends from graphs of recent prices of securities ;</context>
+    </instance>
+  </lexelt>
+</corpus>

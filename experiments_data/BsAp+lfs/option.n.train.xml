@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="option.n" pos="NN">
+    <instance id="a03094006_d_2" docsrc="a03094006_d">
+      <context> indicating an <head>option</head> or wish ;</context>
+    </instance>
+    <instance id="n04659567_d_5" docsrc="n04659567_d">
+      <context> flexibility of interpretation or of <head>options</head> ;</context>
+    </instance>
+    <instance id="n05686086_d_13" docsrc="n05686086_d">
+      <context> state of uncertainty or perplexity especially as requiring a choice between equally unfavorable <head>options</head> ;</context>
+    </instance>
+    <instance id="n05790944_ex1_1" docsrc="n05790944_ex1">
+      <context> what <head>option</head> did I have ? ;</context>
+    </instance>
+    <instance id="n05791864_d_1" docsrc="n05791864_d">
+      <context> an <head>option</head> that is selected automatically unless an alternative is specified ;</context>
+    </instance>
+    <instance id="n06493392_d_3" docsrc="n06493392_d">
+      <context> a list of <head>options</head> available to a computer_user ;</context>
+    </instance>
+    <instance id="n06493579_d_3" docsrc="n06493579_d">
+      <context> a menu of <head>options</head> that appears below the item when the computer_user clicks on it ;</context>
+    </instance>
+  </lexelt>
+</corpus>

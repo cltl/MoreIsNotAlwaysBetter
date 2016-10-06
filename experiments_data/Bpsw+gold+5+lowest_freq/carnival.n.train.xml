@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="carnival.n" pos="NN">
+    <instance id="n00520059_d_1" docsrc="n00520059_d">
+      <context> a <head>carnival</head> held in some countries on Shrove_Tuesday ( the last day before Lent ) but especially in New_Orleans ;</context>
+    </instance>
+    <instance id="n00552679_ex2_5" docsrc="n00552679_ex2">
+      <context> the whole occasion had a <head>carnival</head> atmosphere ;</context>
+    </instance>
+    <instance id="n08614746_d_6" docsrc="n08614746_d">
+      <context> the place at a fair or <head>carnival</head> where sideshows and similar amusements are located ;</context>
+    </instance>
+  </lexelt>
+</corpus>

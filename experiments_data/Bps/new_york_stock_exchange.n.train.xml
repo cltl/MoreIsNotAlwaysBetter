@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="New_York_Stock_Exchange.n" pos="NN">
+    <instance id="n02837134_d_5" docsrc="n02837134_d">
+      <context> the large display_board at the <head>New_York_Stock_Exchange</head> that reports on stocks traded on the exchange ;</context>
+    </instance>
+    <instance id="n03149261_d_10" docsrc="n03149261_d">
+      <context> a stock_market for trading in securities not listed on the <head>New_York_Stock_Exchange</head> ;</context>
+    </instance>
+    <instance id="n06640533_d_17" docsrc="n06640533_d">
+      <context> an indicator of stock market_prices ; based on the share values of 30 blue-chip_stocks listed on the <head>New_York_Stock_Exchange</head> ;</context>
+    </instance>
+    <instance id="n09122779_d_7" docsrc="n09122779_d">
+      <context> a street in lower Manhattan where the <head>New_York_Stock_Exchange</head> is located ; symbol of American finance ;</context>
+    </instance>
+  </lexelt>
+</corpus>

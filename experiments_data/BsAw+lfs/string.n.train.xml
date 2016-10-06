@@ -1,0 +1,977 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="string.n" pos="NN">
+    <instance id="Bowed_string_instrument-string-1-15-1" docsrc="Bowed_string_instrument">
+      <context> Violin <head>octet</head> Fiddle Five string violin</context>
+    </instance>
+    <instance id="Bowed_string_instrument-string-4-0-1" docsrc="Bowed_string_instrument">
+      <context> Bowed string instruments are <head>a</head> subcategory of string instruments that are played by a bow rubbing the strings . The bow rubbing the string causes vibration which the instrument emits as sound .</context>
+    </instance>
+    <instance id="Cosmic_string-string-1-1-2" docsrc="Cosmic_string">
+      <context> The <head>formation</head> of cosmic strings is somewhat analogous to the imperfections that form between crystal grains in solidifying liquids , or the cracks that form when water freezes into ice . The phase transitions leading to the production of cosmic strings are likely to have occurred during the earliest moments of the universe 's evolution , just after cosmological inflation , and are a fairly generic prediction in both quantum field theory and string theory models of the early universe . A string is a geometrical deviation from Euclidean geometry in spacetime characterized by an angular deficit : a circle around the outside of a string would comprise a total angle less than 360°.</context>
+    </instance>
+    <instance id="Cosmic_string-string-1-43-1" docsrc="Cosmic_string">
+      <context> Older <head>proposals</head> for detecting cosmic strings could now be used to investigate superstring theory . Note that most of these proposals depend , however , on the appropriate cosmological fundamentals ( strings , branes , etc . ) , and no convincing experimental verification of these has been confirmed to date . Cosmic strings nevertheless provide a window into string theory .</context>
+    </instance>
+    <instance id="Cosmic_string-string-1-49-1" docsrc="Cosmic_string">
+      <context> 1-dimensional <head>topological</head> defect : cosmic string 2-dimensional topological defect : domain wall cosmic string loop stabilised by a fermionic supercurrent : vorton</context>
+    </instance>
+    <instance id="Cosmic_string-string-1-66-3" docsrc="Cosmic_string">
+      <context> Spacetime <head>Warps</head> and the Quantum : A Glimpse of the Future . Lecture slides and audio Cosmic strings and superstrings on arxiv.org</context>
+    </instance>
+    <instance id="Cosmic_string-string-1-67-1" docsrc="Cosmic_string">
+      <context> Lecture <head>slides</head> and audio Cosmic strings and superstrings on arxiv.org</context>
+    </instance>
+    <instance id="Cosmic_string-string-10-21-1" docsrc="Cosmic_string">
+      <context> === Negative mass cosmic string === The standard model of <head>a</head> cosmic string is a geometrical structure with an angle deficit , which thus is in tension and hence has positive mass . In 1995 , Visser et al . proposed that cosmic strings could theoretically also exist with angle excesses , and thus negative tension and hence negative mass .</context>
+    </instance>
+    <instance id="Cosmic_string-string-10-32-3" docsrc="Cosmic_string">
+      <context> These in turn cause parts of the string to pinch <head>off</head> into isolated loops . These loops have a finite lifespan and decay ( primarily ) via gravitational radiation . This radiation which leads to the strongest signal from cosmic strings may in turn be detectable in gravitational wave experiments , such as LIGO and LISA. An important open question is to what extent do the pinched off loops backreact or change the initial state of the emitting cosmic string—such backreaction effects are almost always neglected in computations and are known to be important , even for order of magnitude estimates .</context>
+    </instance>
+    <instance id="Cosmic_string-string-11-15-4" docsrc="Cosmic_string">
+      <context> Even though cosmic strings are thought to be extremely thin , <head>they</head> would have immense density , and so would represent significant gravitational wave sources . A cosmic string about a kilometer in length may be more massive than the Earth . However general relativity predicts that the gravitational potential of a straight string vanishes : there is no gravitational force on static surrounding matter .</context>
+    </instance>
+    <instance id="Cosmic_string-string-12-32-4" docsrc="Cosmic_string">
+      <context> These loops have a finite lifespan and decay ( primarily ) via <head>gravitational</head> radiation . This radiation which leads to the strongest signal from cosmic strings may in turn be detectable in gravitational wave experiments , such as LIGO and LISA. An important open question is to what extent do the pinched off loops backreact or change the initial state of the emitting cosmic string—such backreaction effects are almost always neglected in computations and are known to be important , even for order of magnitude estimates . Gravitational lensing of a galaxy by a straight section of a cosmic string would produce two identical , undistorted images of the galaxy .</context>
+    </instance>
+    <instance id="Cosmic_string-string-12-33-5" docsrc="Cosmic_string">
+      <context> A cosmic string would produce a similar duplicate image of fluctuations in <head>the</head> cosmic microwave background , which it was thought might have been detectable by the Planck Surveyor mission . However , a 2013 analysis of data from the Planck mission failed to find any evidence of cosmic strings . During the early days of string theory both string theorists and cosmic string theorists believed that there was no direct connection between superstrings and cosmic strings ( the names were chosen independently by analogy with ordinary string ) .</context>
+    </instance>
+    <instance id="Cosmic_string-string-13-41-3" docsrc="Cosmic_string">
+      <context> It was subsequently realized by string theorist Joseph Polchinski that the expanding Universe <head>could</head> have stretched a " fundamental " string ( the sort which superstring theory considers ) until it was of intergalactic size . Such a stretched string would exhibit many of the properties of the old " cosmic " string variety , making the older calculations useful again . As theorist Tom Kibble remarks , " string theory cosmologists have discovered cosmic strings lurking everywhere in the undergrowth " .</context>
+    </instance>
+    <instance id="Cosmic_string-string-14-39-3" docsrc="Cosmic_string">
+      <context> The possibility of cosmic strings being produced in the early universe was first envisioned <head>by</head> quantum field theorist Tom Kibble in 1976 , and this sprouted the first flurry of interest in the field . In 1985 , during the first superstring revolution , Edward Witten contemplated on the possibility of fundamental superstrings having been produced in the early universe and stretched to macroscopic scales , in which case ( following the nomenclature of Tom Kibble ) they would then be referred to as cosmic superstrings . He concluded that had they been produced they would have either disintegrated into smaller strings before ever reaching macroscopic scales ( in the case of Type I superstring theory ) , they would always appear as boundaries of domain walls whose tension would force the strings to collapse rather than grow to cosmic scales ( in the context of heterotic superstring theory ) , or having a characteristic energy scale close to the Planck energy they would be produced before cosmological inflation and hence be diluted away with the expansion of the universe and not be observable .</context>
+    </instance>
+    <instance id="Cosmic_string-string-16-41-2" docsrc="Cosmic_string">
+      <context> In 2002 , Henry Tye and collaborators predicted the production of cosmic superstrings during the last <head>stages</head> of brane inflation , a string theory construction of the early universe that gives leads to an expanding universe and cosmological inflation . It was subsequently realized by string theorist Joseph Polchinski that the expanding Universe could have stretched a " fundamental " string ( the sort which superstring theory considers ) until it was of intergalactic size . Such a stretched string would exhibit many of the properties of the old " cosmic " string variety , making the older calculations useful again .</context>
+    </instance>
+    <instance id="Cosmic_string-string-16-41-5" docsrc="Cosmic_string">
+      <context> As theorist Tom Kibble remarks , " string theory cosmologists have discovered cosmic strings lurking everywhere <head>in</head> the undergrowth " . Older proposals for detecting cosmic strings could now be used to investigate superstring theory . Note that most of these proposals depend , however , on the appropriate cosmological fundamentals ( strings , branes , etc . ) , and no convincing experimental verification of these has been confirmed to date .</context>
+    </instance>
+    <instance id="Cosmic_string-string-16-43-2" docsrc="Cosmic_string">
+      <context> Note that most of these proposals depend , however , on the appropriate cosmological fundamentals ( <head>strings</head> , branes , etc . ) , and no convincing experimental verification of these has been confirmed to date . Cosmic strings nevertheless provide a window into string theory . If cosmic strings are observed which is a real possibility for a wide range of cosmological string models this would provide the first experimental evidence of a string theory model underlying the structure of spacetime .</context>
+    </instance>
+    <instance id="Cosmic_string-string-18-33-4" docsrc="Cosmic_string">
+      <context> However , observations by the Hubble Space Telescope in January 2005 showed them to be a pair of <head>similar</head> galaxies , not two images of the same galaxy . A cosmic string would produce a similar duplicate image of fluctuations in the cosmic microwave background , which it was thought might have been detectable by the Planck Surveyor mission . However , a 2013 analysis of data from the Planck mission failed to find any evidence of cosmic strings .</context>
+    </instance>
+    <instance id="Cosmic_string-string-19-21-2" docsrc="Cosmic_string">
+      <context> The standard model of a cosmic string is a geometrical structure with an angle deficit , which thus is <head>in</head> tension and hence has positive mass . In 1995 , Visser et al . proposed that cosmic strings could theoretically also exist with angle excesses , and thus negative tension and hence negative mass . The stability of such exotic matter strings is problematic ; however , they suggested that if a negative mass string were to be wrapped around a wormhole in the early universe , such a wormhole could be stabilized sufficiently to exist in the present day .</context>
+    </instance>
+    <instance id="Cosmic_string-string-2-15-3" docsrc="Cosmic_string">
+      <context> From the <head>general</head> theory of relativity such a geometrical defect must be in tension , and would be manifested by mass . Even though cosmic strings are thought to be extremely thin , they would have immense density , and so would represent significant gravitational wave sources . A cosmic string about a kilometer in length may be more massive than the Earth .</context>
+    </instance>
+    <instance id="Cosmic_string-string-2-33-3" docsrc="Cosmic_string">
+      <context> In 2003 <head>a</head> group led by Mikhail Sazhin reported the accidental discovery of two seemingly identical galaxies very close together in the sky , leading to speculation that a cosmic string had been found . However , observations by the Hubble Space Telescope in January 2005 showed them to be a pair of similar galaxies , not two images of the same galaxy . A cosmic string would produce a similar duplicate image of fluctuations in the cosmic microwave background , which it was thought might have been detectable by the Planck Surveyor mission .</context>
+    </instance>
+    <instance id="Cosmic_string-string-2-43-2" docsrc="Cosmic_string">
+      <context> Note that <head>most</head> of these proposals depend , however , on the appropriate cosmological fundamentals ( strings , branes , etc . ) , and no convincing experimental verification of these has been confirmed to date . Cosmic strings nevertheless provide a window into string theory . If cosmic strings are observed which is a real possibility for a wide range of cosmological string models this would provide the first experimental evidence of a string theory model underlying the structure of spacetime .</context>
+    </instance>
+    <instance id="Cosmic_string-string-20-41-1" docsrc="Cosmic_string">
+      <context> He concluded that had they been produced they would have either disintegrated into smaller strings before ever reaching macroscopic scales <head>(</head> in the case of Type I superstring theory ) , they would always appear as boundaries of domain walls whose tension would force the strings to collapse rather than grow to cosmic scales ( in the context of heterotic superstring theory ) , or having a characteristic energy scale close to the Planck energy they would be produced before cosmological inflation and hence be diluted away with the expansion of the universe and not be observable . In 2002 , Henry Tye and collaborators predicted the production of cosmic superstrings during the last stages of brane inflation , a string theory construction of the early universe that gives leads to an expanding universe and cosmological inflation . It was subsequently realized by string theorist Joseph Polchinski that the expanding Universe could have stretched a " fundamental " string ( the sort which superstring theory considers ) until it was of intergalactic size .</context>
+    </instance>
+    <instance id="Cosmic_string-string-21-16-1" docsrc="Cosmic_string">
+      <context> A cosmic string about a kilometer in length may be more massive than the Earth . However general relativity predicts that <head>the</head> gravitational potential of a straight string vanishes : there is no gravitational force on static surrounding matter . The only gravitational effect of a straight cosmic string is a relative deflection of matter ( or light ) passing the string on opposite sides ( a purely topological effect ) .</context>
+    </instance>
+    <instance id="Cosmic_string-string-22-39-4" docsrc="Cosmic_string">
+      <context> In 1985 , during the first superstring revolution , Edward Witten contemplated on the possibility of fundamental superstrings having been produced in <head>the</head> early universe and stretched to macroscopic scales , in which case ( following the nomenclature of Tom Kibble ) they would then be referred to as cosmic superstrings . He concluded that had they been produced they would have either disintegrated into smaller strings before ever reaching macroscopic scales ( in the case of Type I superstring theory ) , they would always appear as boundaries of domain walls whose tension would force the strings to collapse rather than grow to cosmic scales ( in the context of heterotic superstring theory ) , or having a characteristic energy scale close to the Planck energy they would be produced before cosmological inflation and hence be diluted away with the expansion of the universe and not be observable . In 2002 , Henry Tye and collaborators predicted the production of cosmic superstrings during the last stages of brane inflation , a string theory construction of the early universe that gives leads to an expanding universe and cosmological inflation .</context>
+    </instance>
+    <instance id="Cosmic_string-string-24-1-2" docsrc="Cosmic_string">
+      <context> The formation of cosmic strings is somewhat analogous to the imperfections that form between crystal grains in solidifying liquids , or the cracks that <head>form</head> when water freezes into ice . The phase transitions leading to the production of cosmic strings are likely to have occurred during the earliest moments of the universe 's evolution , just after cosmological inflation , and are a fairly generic prediction in both quantum field theory and string theory models of the early universe . A string is a geometrical deviation from Euclidean geometry in spacetime characterized by an angular deficit : a circle around the outside of a string would comprise a total angle less than 360°.</context>
+    </instance>
+    <instance id="Cosmic_string-string-25-33-5" docsrc="Cosmic_string">
+      <context> A cosmic string would produce a similar duplicate image of fluctuations in the cosmic microwave background , which it was thought might have been detectable <head>by</head> the Planck Surveyor mission . However , a 2013 analysis of data from the Planck mission failed to find any evidence of cosmic strings . During the early days of string theory both string theorists and cosmic string theorists believed that there was no direct connection between superstrings and cosmic strings ( the names were chosen independently by analogy with ordinary string ) .</context>
+    </instance>
+    <instance id="Cosmic_string-string-27-43-2" docsrc="Cosmic_string">
+      <context> Note that most of these proposals depend , however , on the appropriate cosmological fundamentals ( strings , branes , etc . ) , and no convincing <head>experimental</head> verification of these has been confirmed to date . Cosmic strings nevertheless provide a window into string theory . If cosmic strings are observed which is a real possibility for a wide range of cosmological string models this would provide the first experimental evidence of a string theory model underlying the structure of spacetime .</context>
+    </instance>
+    <instance id="Cosmic_string-string-3-15-2" docsrc="Cosmic_string">
+      <context> A string is <head>a</head> geometrical deviation from Euclidean geometry in spacetime characterized by an angular deficit : a circle around the outside of a string would comprise a total angle less than 360°. From the general theory of relativity such a geometrical defect must be in tension , and would be manifested by mass . Even though cosmic strings are thought to be extremely thin , they would have immense density , and so would represent significant gravitational wave sources .</context>
+    </instance>
+    <instance id="Cosmic_string-string-3-16-2" docsrc="Cosmic_string">
+      <context> However general relativity <head>predicts</head> that the gravitational potential of a straight string vanishes : there is no gravitational force on static surrounding matter . The only gravitational effect of a straight cosmic string is a relative deflection of matter ( or light ) passing the string on opposite sides ( a purely topological effect ) . A closed cosmic string gravitates in a more conventional way .</context>
+    </instance>
+    <instance id="Cosmic_string-string-3-41-2" docsrc="Cosmic_string">
+      <context> In 2002 , <head>Henry</head> Tye and collaborators predicted the production of cosmic superstrings during the last stages of brane inflation , a string theory construction of the early universe that gives leads to an expanding universe and cosmological inflation . It was subsequently realized by string theorist Joseph Polchinski that the expanding Universe could have stretched a " fundamental " string ( the sort which superstring theory considers ) until it was of intergalactic size . Such a stretched string would exhibit many of the properties of the old " cosmic " string variety , making the older calculations useful again .</context>
+    </instance>
+    <instance id="Cosmic_string-string-30-33-1" docsrc="Cosmic_string">
+      <context> This radiation which leads to the strongest signal from cosmic strings may in turn be detectable in gravitational wave experiments , such as LIGO and LISA. An important open question <head>is</head> to what extent do the pinched off loops backreact or change the initial state of the emitting cosmic string—such backreaction effects are almost always neglected in computations and are known to be important , even for order of magnitude estimates . Gravitational lensing of a galaxy by a straight section of a cosmic string would produce two identical , undistorted images of the galaxy . In 2003 a group led by Mikhail Sazhin reported the accidental discovery of two seemingly identical galaxies very close together in the sky , leading to speculation that a cosmic string had been found .</context>
+    </instance>
+    <instance id="Cosmic_string-string-36-33-5" docsrc="Cosmic_string">
+      <context> A cosmic string would produce a similar duplicate image of fluctuations in the cosmic microwave background , which it was thought might have been detectable by the Planck Surveyor mission . However , a 2013 analysis <head>of</head> data from the Planck mission failed to find any evidence of cosmic strings . During the early days of string theory both string theorists and cosmic string theorists believed that there was no direct connection between superstrings and cosmic strings ( the names were chosen independently by analogy with ordinary string ) .</context>
+    </instance>
+    <instance id="Cosmic_string-string-4-0-3" docsrc="Cosmic_string">
+      <context> It is expected that <head>at</head> least one string per Hubble volume is formed . Their existence was first contemplated by the theoretical physicist Tom Kibble in the 1970s . The formation of cosmic strings is somewhat analogous to the imperfections that form between crystal grains in solidifying liquids , or the cracks that form when water freezes into ice .</context>
+    </instance>
+    <instance id="Cosmic_string-string-4-17-2" docsrc="Cosmic_string">
+      <context> During the expansion of <head>the</head> universe , cosmic strings would form a network of loops , and in the past it was thought that their gravity could have been responsible for the original clumping of matter into galactic superclusters . It is now calculated that their contribution to the structure formation in the universe is less than 10 % . === Negative mass cosmic string ===</context>
+    </instance>
+    <instance id="Cosmic_string-string-4-39-1" docsrc="Cosmic_string">
+      <context> However , a 2013 <head>analysis</head> of data from the Planck mission failed to find any evidence of cosmic strings . During the early days of string theory both string theorists and cosmic string theorists believed that there was no direct connection between superstrings and cosmic strings ( the names were chosen independently by analogy with ordinary string ) . The possibility of cosmic strings being produced in the early universe was first envisioned by quantum field theorist Tom Kibble in 1976 , and this sprouted the first flurry of interest in the field .</context>
+    </instance>
+    <instance id="Cosmic_string-string-4-57-1" docsrc="Cosmic_string">
+      <context> cosmic string loop stabilised <head>by</head> a fermionic supercurrent : vorton An artistic perspective of Cosmic Strings A simulation of cosmic string</context>
+    </instance>
+    <instance id="Cosmic_string-string-42-1-1" docsrc="Cosmic_string">
+      <context> Their existence was first contemplated by the theoretical physicist Tom Kibble in the 1970s . The formation of cosmic strings is somewhat analogous to the imperfections that form between crystal grains in solidifying liquids , or the cracks that form when water <head>freezes</head> into ice . The phase transitions leading to the production of cosmic strings are likely to have occurred during the earliest moments of the universe 's evolution , just after cosmological inflation , and are a fairly generic prediction in both quantum field theory and string theory models of the early universe .</context>
+    </instance>
+    <instance id="Cosmic_string-string-45-39-3" docsrc="Cosmic_string">
+      <context> The possibility of cosmic strings being produced in the early universe was first envisioned by quantum field theorist Tom Kibble in 1976 , and this sprouted the first flurry of interest in the field . In 1985 , during the first superstring revolution , Edward <head>Witten</head> contemplated on the possibility of fundamental superstrings having been produced in the early universe and stretched to macroscopic scales , in which case ( following the nomenclature of Tom Kibble ) they would then be referred to as cosmic superstrings . He concluded that had they been produced they would have either disintegrated into smaller strings before ever reaching macroscopic scales ( in the case of Type I superstring theory ) , they would always appear as boundaries of domain walls whose tension would force the strings to collapse rather than grow to cosmic scales ( in the context of heterotic superstring theory ) , or having a characteristic energy scale close to the Planck energy they would be produced before cosmological inflation and hence be diluted away with the expansion of the universe and not be observable .</context>
+    </instance>
+    <instance id="Cosmic_string-string-5-21-3" docsrc="Cosmic_string">
+      <context> In 1995 , Visser et <head>al</head> . proposed that cosmic strings could theoretically also exist with angle excesses , and thus negative tension and hence negative mass . The stability of such exotic matter strings is problematic ; however , they suggested that if a negative mass string were to be wrapped around a wormhole in the early universe , such a wormhole could be stabilized sufficiently to exist in the present day . The violent oscillations of cosmic strings generically lead to the formation of cusps and kinks .</context>
+    </instance>
+    <instance id="Cosmic_string-string-5-33-5" docsrc="Cosmic_string">
+      <context> A cosmic string would produce <head>a</head> similar duplicate image of fluctuations in the cosmic microwave background , which it was thought might have been detectable by the Planck Surveyor mission . However , a 2013 analysis of data from the Planck mission failed to find any evidence of cosmic strings . During the early days of string theory both string theorists and cosmic string theorists believed that there was no direct connection between superstrings and cosmic strings ( the names were chosen independently by analogy with ordinary string ) .</context>
+    </instance>
+    <instance id="Cosmic_string-string-5-41-4" docsrc="Cosmic_string">
+      <context> Such a stretched string would <head>exhibit</head> many of the properties of the old " cosmic " string variety , making the older calculations useful again . As theorist Tom Kibble remarks , " string theory cosmologists have discovered cosmic strings lurking everywhere in the undergrowth " . Older proposals for detecting cosmic strings could now be used to investigate superstring theory .</context>
+    </instance>
+    <instance id="Cosmic_string-string-5-47-1" docsrc="Cosmic_string">
+      <context> If cosmic strings are observed <head>which</head> is a real possibility for a wide range of cosmological string models this would provide the first experimental evidence of a string theory model underlying the structure of spacetime . 0-dimensional topological defect : magnetic monopole 1-dimensional topological defect : cosmic string</context>
+    </instance>
+    <instance id="Cosmic_string-string-5-50-1" docsrc="Cosmic_string">
+      <context> 2-dimensional topological defect : domain <head>wall</head> cosmic string loop stabilised by a fermionic supercurrent : vorton An artistic perspective of Cosmic Strings</context>
+    </instance>
+    <instance id="Cosmic_string-string-6-20-1" docsrc="Cosmic_string">
+      <context> It is now calculated that their <head>contribution</head> to the structure formation in the universe is less than 10 % . === Negative mass cosmic string === The standard model of a cosmic string is a geometrical structure with an angle deficit , which thus is in tension and hence has positive mass .</context>
+    </instance>
+    <instance id="Cosmic_string-string-6-21-2" docsrc="Cosmic_string">
+      <context> The standard model of a cosmic <head>string</head> is a geometrical structure with an angle deficit , which thus is in tension and hence has positive mass . In 1995 , Visser et al . proposed that cosmic strings could theoretically also exist with angle excesses , and thus negative tension and hence negative mass . The stability of such exotic matter strings is problematic ; however , they suggested that if a negative mass string were to be wrapped around a wormhole in the early universe , such a wormhole could be stabilized sufficiently to exist in the present day .</context>
+    </instance>
+    <instance id="Cosmic_string-string-7-0-1" docsrc="Cosmic_string">
+      <context> Cosmic strings are hypothetical 1-dimensional topological defects <head>which</head> may have formed during a symmetry breaking phase transition in the early universe when the topology of the vacuum manifold associated to this symmetry breaking was not simply connected . It is expected that at least one string per Hubble volume is formed .</context>
+    </instance>
+    <instance id="Cosmic_string-string-7-32-1" docsrc="Cosmic_string">
+      <context> The stability of such exotic matter strings <head>is</head> problematic ; however , they suggested that if a negative mass string were to be wrapped around a wormhole in the early universe , such a wormhole could be stabilized sufficiently to exist in the present day . The violent oscillations of cosmic strings generically lead to the formation of cusps and kinks . These in turn cause parts of the string to pinch off into isolated loops .</context>
+    </instance>
+    <instance id="Cosmic_string-string-7-41-3" docsrc="Cosmic_string">
+      <context> It was subsequently realized by string theorist <head>Joseph</head> Polchinski that the expanding Universe could have stretched a " fundamental " string ( the sort which superstring theory considers ) until it was of intergalactic size . Such a stretched string would exhibit many of the properties of the old " cosmic " string variety , making the older calculations useful again . As theorist Tom Kibble remarks , " string theory cosmologists have discovered cosmic strings lurking everywhere in the undergrowth " .</context>
+    </instance>
+    <instance id="Cosmic_string-string-7-43-1" docsrc="Cosmic_string">
+      <context> Older proposals for detecting cosmic strings could <head>now</head> be used to investigate superstring theory . Note that most of these proposals depend , however , on the appropriate cosmological fundamentals ( strings , branes , etc . ) , and no convincing experimental verification of these has been confirmed to date . Cosmic strings nevertheless provide a window into string theory .</context>
+    </instance>
+    <instance id="Cosmic_string-string-8-16-1" docsrc="Cosmic_string">
+      <context> A cosmic string about a kilometer in length <head>may</head> be more massive than the Earth . However general relativity predicts that the gravitational potential of a straight string vanishes : there is no gravitational force on static surrounding matter . The only gravitational effect of a straight cosmic string is a relative deflection of matter ( or light ) passing the string on opposite sides ( a purely topological effect ) .</context>
+    </instance>
+    <instance id="Cosmic_string-string-8-16-3" docsrc="Cosmic_string">
+      <context> The only gravitational effect of a straight cosmic <head>string</head> is a relative deflection of matter ( or light ) passing the string on opposite sides ( a purely topological effect ) . A closed cosmic string gravitates in a more conventional way . During the expansion of the universe , cosmic strings would form a network of loops , and in the past it was thought that their gravity could have been responsible for the original clumping of matter into galactic superclusters .</context>
+    </instance>
+    <instance id="Cosmic_string-string-8-33-5" docsrc="Cosmic_string">
+      <context> A cosmic string would produce a similar duplicate <head>image</head> of fluctuations in the cosmic microwave background , which it was thought might have been detectable by the Planck Surveyor mission . However , a 2013 analysis of data from the Planck mission failed to find any evidence of cosmic strings . During the early days of string theory both string theorists and cosmic string theorists believed that there was no direct connection between superstrings and cosmic strings ( the names were chosen independently by analogy with ordinary string ) .</context>
+    </instance>
+    <instance id="Cosmic_string-string-9-1-1" docsrc="Cosmic_string">
+      <context> Their existence was first contemplated by the theoretical physicist <head>Tom</head> Kibble in the 1970s . The formation of cosmic strings is somewhat analogous to the imperfections that form between crystal grains in solidifying liquids , or the cracks that form when water freezes into ice . The phase transitions leading to the production of cosmic strings are likely to have occurred during the earliest moments of the universe 's evolution , just after cosmological inflation , and are a fairly generic prediction in both quantum field theory and string theory models of the early universe .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-0-135-1" docsrc="String_(computer_science)">
+      <context> <head>These</head> are given in the article on string operations . === Topology === Strings admit the following interpretation as nodes on a graph :</context>
+    </instance>
+    <instance id="String_(computer_science)-string-0-162-2" docsrc="String_(computer_science)">
+      <context> <head>Some</head> languages , such as C++ and Ruby , normally allow the contents of a string to be changed after it has been created ; these are termed mutable strings . In other languages , such as Java and Python , the value is fixed and a new string must be created if any alteration is to be made ; these are termed immutable strings . Strings are typically implemented as arrays of bytes , characters , or code units , in order to allow fast access to individual units or substrings—including characters when they have a fixed length .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-0-176-1" docsrc="String_(computer_science)">
+      <context> <head>Modern</head> implementations often use the extensive repertoire defined by Unicode along with a variety of complex encodings such as UTF-8 and UTF-16 . In terminated strings , the terminating code is not an allowable character in any string . Strings with length field do not have this limitation and can also store arbitrary binary data .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-0-249-1" docsrc="String_(computer_science)">
+      <context> <head>Perl</head> is particularly noted for its regular expression use , and many other languages and applications implement Perl compatible regular expressions . Some languages such as Perl and Ruby support string interpolation , which permits arbitrary expressions to be evaluated and included in string literals . String functions are used to manipulate a string or change or edit the contents of a string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-0-299-1" docsrc="String_(computer_science)">
+      <context> <head>Empty</head> string — its properties and representation in programming languages String metric — notions of similarity between strings string ( C++ ) — overview of C++ string handling</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-0-2" docsrc="String_(computer_science)">
+      <context> In <head>computer</head> programming , a string is traditionally a sequence of characters , either as a literal constant or as some kind of variable . The latter may allow its elements to be mutated and the length changed , or it may be fixed ( after creation ) . A string is generally understood as a data type and is often implemented as an array of bytes ( or words ) that stores a sequence of elements , typically characters , using some character encoding .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-0-3" docsrc="String_(computer_science)">
+      <context> The <head>latter</head> may allow its elements to be mutated and the length changed , or it may be fixed ( after creation ) . A string is generally understood as a data type and is often implemented as an array of bytes ( or words ) that stores a sequence of elements , typically characters , using some character encoding . A string may also denote more general arrays or other sequence ( or list ) data types and structures .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-110-1" docsrc="String_(computer_science)">
+      <context>     <head>{</head> \displaystyle L(st)=L(s)+L(t)\quad \forall s,t\in \Sigma ^{ * } }   ) . A string s is said to be a substring or factor of t if there exist ( possibly empty ) strings u and v such that t = usv .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-114-1" docsrc="String_(computer_science)">
+      <context> The <head>relation</head> " is a substring of " defines a partial order on Σ * , the least element of which is the empty string . === Prefixes and suffixes === A string s is said to be a prefix of t if there exists a string u such that t = su .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-118-1" docsrc="String_(computer_science)">
+      <context> If <head>u</head> is nonempty , s is said to be a proper suffix of t. Suffixes and prefixes are substrings of t. Both the relations " is a prefix of " and " is a suffix of " are prefix orders . === Rotations === A string s = uv is said to be a rotation of t if t = vu .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-123-2" docsrc="String_(computer_science)">
+      <context> The <head>reverse</head> of a string is a string with the same symbols but in reverse order . For example , if s = abc ( where a , b , and c are symbols of the alphabet ) , then the reverse of s is cba . A string that is the reverse of itself ( e.g. , s = madam ) is called a palindrome , which also includes the empty string and all strings of length 1 .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-168-1" docsrc="String_(computer_science)">
+      <context> === <head>Representations</head> === Representations of strings depend heavily on the choice of character repertoire and the method of character encoding . Older string implementations were designed to work with repertoire and encoding defined by ASCII , or more recent extensions like the ISO 8859 series .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-178-2" docsrc="String_(computer_science)">
+      <context> The <head>length</head> of the string in the above example , " FRANK " , is 5 characters , but it occupies 6 bytes . Characters after the terminator do not form part of the representation ; they may be either part of other data or just garbage . ( Strings of this form are sometimes called ASCIZ strings , after the original assembly language directive used to declare them . )</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-187-1" docsrc="String_(computer_science)">
+      <context> Using <head>a</head> special byte for terminating strings has historically appeared in both hardware and software , though sometimes with a value that was also a printing character . ' $ ' was used by many assembler systems , ' : ' used by CDC systems ( this character had a value of zero ) , and the ZX80 used ' " ' since this was the string delimiter in its BASIC language . Here is a Pascal string stored in a 10-byte buffer , along with its ASCII / UTF-8 representation : ==== Strings as records ====</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-229-1" docsrc="String_(computer_science)">
+      <context> Parsing <head>a</head> string Sequence mining Advanced string algorithms often employ complex mechanisms and data structures , among them suffix trees and finite state machines .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-231-1" docsrc="String_(computer_science)">
+      <context> Advanced <head>string</head> algorithms often employ complex mechanisms and data structures , among them suffix trees and finite state machines . The name stringology was coined in 1984 by computer scientist Zvi Galil for the issue of algorithms and data structures used for string processing . Character strings are such a useful datatype that several languages have been designed in order to make string processing applications easy to write .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-266-2" docsrc="String_(computer_science)">
+      <context> Java <head>'s</head> standard way to handle text is to use its String class . Any given String in Java is an immutable object , which means its state can not be changed . A String has an array of characters .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-291-1" docsrc="String_(computer_science)">
+      <context> , <head>so</head> a separate mutable string class is unnecessary . Formal language — a ( possibly infinite ) set of strings in theoretical computer science Connection string — passed to a driver to initiate a connection e.g. to a database</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-294-1" docsrc="String_(computer_science)">
+      <context> Rope <head>—</head> a data structure for efficiently manipulating long strings Bitstring — a string of binary digits Incompressible string — a string that can not be compressed by any algorithm</context>
+    </instance>
+    <instance id="String_(computer_science)-string-1-297-1" docsrc="String_(computer_science)">
+      <context> Bitstring <head>—</head> a string of binary digits Incompressible string — a string that can not be compressed by any algorithm Empty string — its properties and representation in programming languages</context>
+    </instance>
+    <instance id="String_(computer_science)-string-10-190-1" docsrc="String_(computer_science)">
+      <context> Here is a Pascal string stored in a 10-byte buffer <head>,</head> along with its ASCII / UTF-8 representation : ==== Strings as records ==== However , since the implementation is usually hidden , the string must be accessed and modified through member functions .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-10-219-1" docsrc="String_(computer_science)">
+      <context> Terminated by a newline sequence , for example in Windows <head>INI</head> files . C programmers draw a sharp distinction between a " string " , aka a " string of characters " , which by definition is always null terminated , vs. a " byte string " or " pseudo string " which may be stored in the same array but is often not null terminated . Using C string handling functions on such a " byte string " often seems to work , but later leads to security problems .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-10-254-3" docsrc="String_(computer_science)">
+      <context> They also are used to query information about a string <head>.</head> They are usually used within the context of a computer programming language . The most basic example of a string function is the string length function – the function that returns the length of a string ( not counting any terminator characters or any of the string 's internal structural information ) and does not modify the string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-10-286-2" docsrc="String_(computer_science)">
+      <context> In C++ and Ruby , the standard string class is <head>already</head> mutable , with the ability to change the contents and append strings , etc . , so a separate mutable string class is unnecessary . Formal language — a ( possibly infinite ) set of strings in theoretical computer science</context>
+    </instance>
+    <instance id="String_(computer_science)-string-11-265-1" docsrc="String_(computer_science)">
+      <context> In Java === ==== Theory ==== Java 's standard way to <head>handle</head> text is to use its String class .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-11-266-4" docsrc="String_(computer_science)">
+      <context> A String has an array of characters . Whenever a String <head>must</head> be manipulated , any changes require the creation of a new String ( which , in turn , involves the creation of a new array of characters , and copying of the original array ) . This happens even if the original String 's value or intermediate Strings used for the manipulation are not kept .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-11-273-1" docsrc="String_(computer_science)">
+      <context> like this : ==== Implications ==== Generally , a StringBuffer is <head>more</head> efficient than a String in string handling .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-12-119-1" docsrc="String_(computer_science)">
+      <context> === Rotations === A string s = uv is said to be <head>a</head> rotation of t if t = vu . For example , if Σ = { 0 , 1 } the string 0011001 is a rotation of 0100110 , where u = 00110 and v = 01 .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-12-246-2" docsrc="String_(computer_science)">
+      <context> Many Unix utilities perform simple string manipulations and can be used to <head>easily</head> program some powerful string processing algorithms . Files and finite streams may be viewed as strings . Some APIs like Multimedia Control Interface , embedded SQL or printf use strings to hold commands that will be interpreted .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-13-163-2" docsrc="String_(computer_science)">
+      <context> Strings are typically implemented as arrays of bytes , characters , or code <head>units</head> , in order to allow fast access to individual units or substrings—including characters when they have a fixed length . A few languages such as Haskell implement them as linked lists instead . Some languages , such as Prolog and Erlang , avoid implementing a dedicated string datatype at all , instead adopting the convention of representing strings as lists of character codes .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-13-255-3" docsrc="String_(computer_science)">
+      <context> This function is often named length or len . For example , length("hello <head>world</head> " ) would return 11 . In some programming languages , a string buffer is an alternative to a string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-14-1-1" docsrc="String_(computer_science)">
+      <context> A string may also denote more general arrays or other sequence ( or list <head>)</head> data types and structures . Depending on programming language and precise data type used , a variable declared to be a string may either cause storage in memory to be statically allocated for a predetermined maximum length or employ dynamic allocation to allow it to hold variable number of elements . When a string appears literally in source code , it is known as a string literal or an anonymous string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-14-168-3" docsrc="String_(computer_science)">
+      <context> Older string implementations were designed to work with repertoire and encoding defined by ASCII <head>,</head> or more recent extensions like the ISO 8859 series . Modern implementations often use the extensive repertoire defined by Unicode along with a variety of complex encodings such as UTF-8 and UTF-16 . In terminated strings , the terminating code is not an allowable character in any string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-14-200-2" docsrc="String_(computer_science)">
+      <context> While these representations are common , others are possible . Using ropes makes certain <head>string</head> operations , such as insertions , deletions , and concatenations more efficient . The core data structure in a text editor is the one that manages the string ( sequence of characters ) that represents the current state of the file being edited .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-14-259-1" docsrc="String_(computer_science)">
+      <context> For example , length("hello world " ) would return 11 . In some programming <head>languages</head> , a string buffer is an alternative to a string . It has the ability to be altered through adding or appending , whereas a String is normally fixed or immutable .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-14-267-3" docsrc="String_(computer_science)">
+      <context> A StringBuffer , like a String , has an array to hold characters . <head>It</head> , however , is mutable ( its state can be altered ) . Its array of characters is not necessarily completely filled ( as opposed to a String , whose array is always the exact required length for its contents ) .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-14-301-1" docsrc="String_(computer_science)">
+      <context> string ( C++ ) — overview of C++ string handling string.h — overview of <head>C</head> string handling Analysis of algorithms — determining time and storage needed by a particular ( e.g. string manipulation ) algorithm</context>
+    </instance>
+    <instance id="String_(computer_science)-string-15-114-1" docsrc="String_(computer_science)">
+      <context> The relation " is a substring of " defines a partial order on Σ * <head>,</head> the least element of which is the empty string . === Prefixes and suffixes === A string s is said to be a prefix of t if there exists a string u such that t = su .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-15-161-1" docsrc="String_(computer_science)">
+      <context> === Implementations === Some languages like C++ implement strings as templates that can be used <head>with</head> any datatype , but this is the exception , not the rule . Some languages , such as C++ and Ruby , normally allow the contents of a string to be changed after it has been created ; these are termed mutable strings .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-15-214-1" docsrc="String_(computer_science)">
+      <context> Two common representations are : Terminated by a newline sequence , for example in Windows <head>INI</head> files . C programmers draw a sharp distinction between a " string " , aka a " string of characters " , which by definition is always null terminated , vs. a " byte string " or " pseudo string " which may be stored in the same array but is often not null terminated .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-15-266-3" docsrc="String_(computer_science)">
+      <context> Any given String in Java is an immutable object , which means its state can <head>not</head> be changed . A String has an array of characters . Whenever a String must be manipulated , any changes require the creation of a new String ( which , in turn , involves the creation of a new array of characters , and copying of the original array ) .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-15-274-2" docsrc="String_(computer_science)">
+      <context> Generally , a StringBuffer is more efficient than a String in string handling . However <head>,</head> this is not necessarily the case , since a StringBuffer will be required to recreate its character array when it runs out of space . Theoretically , this is possible to happen the same number of times as a new String would be required , although this is unlikely ( and the programmer can provide length hints to prevent this ) .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-15-48-1" docsrc="String_(computer_science)">
+      <context> Although the set Σ * itself is countably infinite , each element of Σ * <head>is</head> a string of finite length . A set of strings over Σ ( i.e. any subset of Σ * ) is called a formal language over Σ. For example , if Σ = { 0 , 1 } , the set of strings with an even number of zeros , { ε , 1 , 00 , 11 , 001 , 010 , 100 , 111 , 0000 , 0011 , 0101 , 0110 , 1001 , 1010 , 1100 , 1111 , ... } , is a formal language over Σ.</context>
+    </instance>
+    <instance id="String_(computer_science)-string-16-0-4" docsrc="String_(computer_science)">
+      <context> A string is generally understood as a data type and is often implemented as an array <head>of</head> bytes ( or words ) that stores a sequence of elements , typically characters , using some character encoding . A string may also denote more general arrays or other sequence ( or list ) data types and structures . Depending on programming language and precise data type used , a variable declared to be a string may either cause storage in memory to be statically allocated for a predetermined maximum length or employ dynamic allocation to allow it to hold variable number of elements .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-16-137-1" docsrc="String_(computer_science)">
+      <context> === Topology === Strings admit the following interpretation as nodes on a graph : Isomorphisms between <head>string</head> representations of topologies can be found by normalizing according to the lexicographically minimal string rotation .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-16-2-1" docsrc="String_(computer_science)">
+      <context> Depending on programming language and precise data type used , a variable declared to be a <head>string</head> may either cause storage in memory to be statically allocated for a predetermined maximum length or employ dynamic allocation to allow it to hold variable number of elements . When a string appears literally in source code , it is known as a string literal or an anonymous string . In formal languages , which are used in mathematical logic and theoretical computer science , a string is a finite sequence of symbols that are chosen from a set called an alphabet .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-16-245-1" docsrc="String_(computer_science)">
+      <context> Tcl TTM Many Unix utilities perform simple string manipulations and can be used to easily program <head>some</head> powerful string processing algorithms .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-16-249-1" docsrc="String_(computer_science)">
+      <context> Perl is particularly noted for its regular expression use , and many other languages and applications <head>implement</head> Perl compatible regular expressions . Some languages such as Perl and Ruby support string interpolation , which permits arbitrary expressions to be evaluated and included in string literals . String functions are used to manipulate a string or change or edit the contents of a string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-17-162-1" docsrc="String_(computer_science)">
+      <context> Some languages like C++ implement strings as templates that can be used with any datatype , but <head>this</head> is the exception , not the rule . Some languages , such as C++ and Ruby , normally allow the contents of a string to be changed after it has been created ; these are termed mutable strings . In other languages , such as Java and Python , the value is fixed and a new string must be created if any alteration is to be made ; these are termed immutable strings .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-17-231-1" docsrc="String_(computer_science)">
+      <context> Advanced string algorithms often employ complex mechanisms and data structures , among them suffix trees and finite <head>state</head> machines . The name stringology was coined in 1984 by computer scientist Zvi Galil for the issue of algorithms and data structures used for string processing . Character strings are such a useful datatype that several languages have been designed in order to make string processing applications easy to write .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-17-276-1" docsrc="String_(computer_science)">
+      <context> In order to insert or remove characters at arbitrary positions , whole sections of arrays must be <head>moved</head> . The method by which a StringBuffer is attractive in an environment with low processing power takes this ability by using too much memory , which is likely also at a premium in this environment . This point , however , is trivial , considering the space required for creating many instances of Strings in order to process them .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-17-47-1" docsrc="String_(computer_science)">
+      <context>   For example , if Σ = { 0 , 1 } , then Σ * = <head>{</head> ε , 0 , 1 , 00 , 01 , 10 , 11 , 000 , 001 , 010 , 011 , ... }. Although the set Σ * itself is countably infinite , each element of Σ * is a string of finite length .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-18-115-1" docsrc="String_(computer_science)">
+      <context> === Prefixes and suffixes === A string s is said to be a prefix of t if there <head>exists</head> a string u such that t = su . If u is nonempty , s is said to be a proper prefix of t. Symmetrically , a string s is said to be a suffix of t if there exists a string u such that t = us .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-18-204-1" docsrc="String_(computer_science)">
+      <context> While that state could be stored in a single long consecutive array of characters , a typical text <head>editor</head> instead uses an alternative representation as its sequence data structure—a gap buffer , a linked list of lines , a piece table , or a rope—which makes certain string operations , such as insertions , deletions , and undoing previous edits , more efficient . === Security concerns === The differing memory layout and storage requirements of strings can affect the security of the program accessing the string data .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-19-1-1" docsrc="String_(computer_science)">
+      <context> A string may also denote more general arrays or other sequence ( or list ) data types and structures <head>.</head> Depending on programming language and precise data type used , a variable declared to be a string may either cause storage in memory to be statically allocated for a predetermined maximum length or employ dynamic allocation to allow it to hold variable number of elements . When a string appears literally in source code , it is known as a string literal or an anonymous string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-2-1-1" docsrc="String_(computer_science)">
+      <context> A string <head>may</head> also denote more general arrays or other sequence ( or list ) data types and structures . Depending on programming language and precise data type used , a variable declared to be a string may either cause storage in memory to be statically allocated for a predetermined maximum length or employ dynamic allocation to allow it to hold variable number of elements . When a string appears literally in source code , it is known as a string literal or an anonymous string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-2-137-1" docsrc="String_(computer_science)">
+      <context> === Topology <head>===</head> Strings admit the following interpretation as nodes on a graph : Isomorphisms between string representations of topologies can be found by normalizing according to the lexicographically minimal string rotation .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-2-167-1" docsrc="String_(computer_science)">
+      <context> Some languages <head>,</head> such as Prolog and Erlang , avoid implementing a dedicated string datatype at all , instead adopting the convention of representing strings as lists of character codes . === Representations === Representations of strings depend heavily on the choice of character repertoire and the method of character encoding .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-2-168-3" docsrc="String_(computer_science)">
+      <context> Older string <head>implementations</head> were designed to work with repertoire and encoding defined by ASCII , or more recent extensions like the ISO 8859 series . Modern implementations often use the extensive repertoire defined by Unicode along with a variety of complex encodings such as UTF-8 and UTF-16 . In terminated strings , the terminating code is not an allowable character in any string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-2-193-2" docsrc="String_(computer_science)">
+      <context> However , <head>since</head> the implementation is usually hidden , the string must be accessed and modified through member functions . text is a pointer to a dynamically allocated memory area , which might be expanded as needed . See also string ( C++ ) .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-2-227-1" docsrc="String_(computer_science)">
+      <context> Sorting algorithms <head>Regular</head> expression algorithms Parsing a string</context>
+    </instance>
+    <instance id="String_(computer_science)-string-2-266-1" docsrc="String_(computer_science)">
+      <context> ==== Theory <head>====</head> Java 's standard way to handle text is to use its String class . Any given String in Java is an immutable object , which means its state can not be changed .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-2-266-3" docsrc="String_(computer_science)">
+      <context> Any given <head>String</head> in Java is an immutable object , which means its state can not be changed . A String has an array of characters . Whenever a String must be manipulated , any changes require the creation of a new String ( which , in turn , involves the creation of a new array of characters , and copying of the original array ) .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-20-110-1" docsrc="String_(computer_science)">
+      <context>     { \displaystyle L(st)=L(s)+L(t)\quad \forall s,t\in \Sigma ^{ * } }   ) . A string s is said to <head>be</head> a substring or factor of t if there exist ( possibly empty ) strings u and v such that t = usv .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-21-248-2" docsrc="String_(computer_science)">
+      <context> Recent scripting programming languages , including Perl , Python , Ruby , and Tcl employ regular expressions to facilitate text operations <head>.</head> Perl is particularly noted for its regular expression use , and many other languages and applications implement Perl compatible regular expressions . Some languages such as Perl and Ruby support string interpolation , which permits arbitrary expressions to be evaluated and included in string literals .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-22-230-1" docsrc="String_(computer_science)">
+      <context> Sequence mining Advanced string algorithms often employ complex mechanisms and data structures , among them suffix trees and finite state machines . <head>The</head> name stringology was coined in 1984 by computer scientist Zvi Galil for the issue of algorithms and data structures used for string processing .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-22-254-3" docsrc="String_(computer_science)">
+      <context> They also are used to query information about a string . They are usually used within the context of a computer programming <head>language</head> . The most basic example of a string function is the string length function – the function that returns the length of a string ( not counting any terminator characters or any of the string 's internal structural information ) and does not modify the string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-22-285-2" docsrc="String_(computer_science)">
+      <context> === In other languages === In C++ and Ruby , the standard string class is already mutable , with the ability to <head>change</head> the contents and append strings , etc .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-24-111-1" docsrc="String_(computer_science)">
+      <context>   ) . A string s is said to be a substring or factor of t if there exist ( possibly empty ) strings <head>u</head> and v such that t = usv . The relation " is a substring of " defines a partial order on Σ * , the least element of which is the empty string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-24-163-2" docsrc="String_(computer_science)">
+      <context> Strings are typically implemented as arrays of bytes , characters , or code units , in order to allow fast access to individual units <head>or</head> substrings—including characters when they have a fixed length . A few languages such as Haskell implement them as linked lists instead . Some languages , such as Prolog and Erlang , avoid implementing a dedicated string datatype at all , instead adopting the convention of representing strings as lists of character codes .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-25-123-2" docsrc="String_(computer_science)">
+      <context> The reverse of a string is a string with the same symbols but in reverse order . For example , if s = abc ( <head>where</head> a , b , and c are symbols of the alphabet ) , then the reverse of s is cba . A string that is the reverse of itself ( e.g. , s = madam ) is called a palindrome , which also includes the empty string and all strings of length 1 .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-27-205-3" docsrc="String_(computer_science)">
+      <context> String representations requiring a terminating character are commonly susceptible to buffer overflow problems if the terminating character is not present , caused by a coding error or <head>an</head> attacker deliberately altering the data . String representations adopting a separate length field are also susceptible if the length can be manipulated . In such cases , program code accessing the string data requires bounds checking to ensure that it does not inadvertently access or change data outside of the string memory limits .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-28-123-2" docsrc="String_(computer_science)">
+      <context> The reverse of a string is a string with the same symbols but in reverse order . For example , if s = abc ( where a , <head>b</head> , and c are symbols of the alphabet ) , then the reverse of s is cba . A string that is the reverse of itself ( e.g. , s = madam ) is called a palindrome , which also includes the empty string and all strings of length 1 .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-29-161-1" docsrc="String_(computer_science)">
+      <context> === Implementations === Some languages like C++ implement strings as templates that can be used with any datatype , but this is the exception , not the rule . <head>Some</head> languages , such as C++ and Ruby , normally allow the contents of a string to be changed after it has been created ; these are termed mutable strings .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-3-293-1" docsrc="String_(computer_science)">
+      <context> Connection string — <head>passed</head> to a driver to initiate a connection e.g. to a database Rope — a data structure for efficiently manipulating long strings Bitstring — a string of binary digits</context>
+    </instance>
+    <instance id="String_(computer_science)-string-3-47-2" docsrc="String_(computer_science)">
+      <context> For example , <head>if</head> Σ = { 0 , 1 } , then Σ * = { ε , 0 , 1 , 00 , 01 , 10 , 11 , 000 , 001 , 010 , 011 , ... }. Although the set Σ * itself is countably infinite , each element of Σ * is a string of finite length . A set of strings over Σ ( i.e. any subset of Σ * ) is called a formal language over Σ.</context>
+    </instance>
+    <instance id="String_(computer_science)-string-3-52-1" docsrc="String_(computer_science)">
+      <context> === Concatenation and <head>substrings</head> === Concatenation is an important binary operation on Σ*. For any two strings s and t in Σ * , their concatenation is defined as the sequence of symbols in s followed by the sequence of characters in t , and is denoted st .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-32-115-1" docsrc="String_(computer_science)">
+      <context> === Prefixes and suffixes === A string s is said to be a prefix of t if there exists a string u such that t = su . If u is nonempty <head>,</head> s is said to be a proper prefix of t. Symmetrically , a string s is said to be a suffix of t if there exists a string u such that t = us .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-32-214-1" docsrc="String_(computer_science)">
+      <context> Two common representations are : Terminated by a newline sequence , for example in Windows INI files . C programmers draw a sharp distinction between a " string " , aka a <head>"</head> string of characters " , which by definition is always null terminated , vs. a " byte string " or " pseudo string " which may be stored in the same array but is often not null terminated .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-33-162-1" docsrc="String_(computer_science)">
+      <context> Some languages like C++ implement strings as templates that can be used with any datatype , but this is the exception , not the rule . Some languages , such as C++ and <head>Ruby</head> , normally allow the contents of a string to be changed after it has been created ; these are termed mutable strings . In other languages , such as Java and Python , the value is fixed and a new string must be created if any alteration is to be made ; these are termed immutable strings .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-33-196-2" docsrc="String_(computer_science)">
+      <context> ==== Other representations ==== Both character termination and length codes limit strings : For example , C character arrays that contain null ( NUL ) characters can not be handled directly by C <head>string</head> library functions : Strings using a length code are limited to the maximum value of the length code .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-33-254-3" docsrc="String_(computer_science)">
+      <context> They also are used to query information about a string . They are usually used within the context of a computer programming language . The most basic example of a string function is <head>the</head> string length function – the function that returns the length of a string ( not counting any terminator characters or any of the string 's internal structural information ) and does not modify the string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-37-214-1" docsrc="String_(computer_science)">
+      <context> Two common representations are : Terminated by a newline sequence , for example in Windows INI files . C programmers draw a sharp distinction between a " string " , aka a " string of characters " <head>,</head> which by definition is always null terminated , vs. a " byte string " or " pseudo string " which may be stored in the same array but is often not null terminated .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-4-10-3" docsrc="String_(computer_science)">
+      <context> n is denoted Σn <head>.</head> For example , if Σ = { 0 , 1 } , then Σ2 = { 00 , 01 , 10 , 11}. Note that Σ0 = { ε } for any alphabet Σ. The set of all strings over Σ of any length is the Kleene closure of Σ and is denoted Σ*. In terms of Σn ,</context>
+    </instance>
+    <instance id="String_(computer_science)-string-4-122-1" docsrc="String_(computer_science)">
+      <context> For example , if <head>Σ</head> = { 0 , 1 } the string 0011001 is a rotation of 0100110 , where u = 00110 and v = 01 . === Reversal === The reverse of a string is a string with the same symbols but in reverse order .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-4-176-2" docsrc="String_(computer_science)">
+      <context> In terminated strings , <head>the</head> terminating code is not an allowable character in any string . Strings with length field do not have this limitation and can also store arbitrary binary data . The length of the string in the above example , " FRANK " , is 5 characters , but it occupies 6 bytes .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-4-179-1" docsrc="String_(computer_science)">
+      <context> ( Strings of this <head>form</head> are sometimes called ASCIZ strings , after the original assembly language directive used to declare them . ) Using a special byte for terminating strings has historically appeared in both hardware and software , though sometimes with a value that was also a printing character . ' $ ' was used by many assembler systems , ' : ' used by CDC systems ( this character had a value of zero ) , and the ZX80 used ' " ' since this was the string delimiter in its BASIC language . Here is a Pascal string stored in a 10-byte buffer , along with its ASCII / UTF-8 representation :</context>
+    </instance>
+    <instance id="String_(computer_science)-string-4-200-1" docsrc="String_(computer_science)">
+      <context> It is also possible <head>to</head> optimize the string represented using techniques from run length encoding ( replacing repeated characters by the character value and a length ) and Hamming encoding . While these representations are common , others are possible . Using ropes makes certain string operations , such as insertions , deletions , and concatenations more efficient .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-4-294-1" docsrc="String_(computer_science)">
+      <context> Rope — a data <head>structure</head> for efficiently manipulating long strings Bitstring — a string of binary digits Incompressible string — a string that can not be compressed by any algorithm</context>
+    </instance>
+    <instance id="String_(computer_science)-string-4-3-1" docsrc="String_(computer_science)">
+      <context> When a string appears <head>literally</head> in source code , it is known as a string literal or an anonymous string . In formal languages , which are used in mathematical logic and theoretical computer science , a string is a finite sequence of symbols that are chosen from a set called an alphabet . The set of all strings over Σ of length</context>
+    </instance>
+    <instance id="String_(computer_science)-string-44-254-3" docsrc="String_(computer_science)">
+      <context> They also are used to query information about a string . They are usually used within the context of a computer programming language . The most basic example of a string function is the string length function – the function that returns the length <head>of</head> a string ( not counting any terminator characters or any of the string 's internal structural information ) and does not modify the string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-47-201-1" docsrc="String_(computer_science)">
+      <context> Using ropes makes certain string operations , such as insertions , deletions , and concatenations more efficient . The core data structure in a text editor is the one that manages the string ( sequence of characters ) that represents the current state of the file being <head>edited</head> . While that state could be stored in a single long consecutive array of characters , a typical text editor instead uses an alternative representation as its sequence data structure—a gap buffer , a linked list of lines , a piece table , or a rope—which makes certain string operations , such as insertions , deletions , and undoing previous edits , more efficient .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-5-160-1" docsrc="String_(computer_science)">
+      <context> These character sets were typically <head>based</head> on ASCII or EBCDIC. === Implementations === Some languages like C++ implement strings as templates that can be used with any datatype , but this is the exception , not the rule .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-5-245-1" docsrc="String_(computer_science)">
+      <context> Tcl TTM Many Unix utilities <head>perform</head> simple string manipulations and can be used to easily program some powerful string processing algorithms .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-5-267-1" docsrc="String_(computer_science)">
+      <context> This happens even if the <head>original</head> String 's value or intermediate Strings used for the manipulation are not kept . Java provides an alternate class for string manipulation , called StringBuffer . A StringBuffer , like a String , has an array to hold characters .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-5-286-1" docsrc="String_(computer_science)">
+      <context> In other languages === In <head>C++</head> and Ruby , the standard string class is already mutable , with the ability to change the contents and append strings , etc . , so a separate mutable string class is unnecessary .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-5-300-1" docsrc="String_(computer_science)">
+      <context> String metric — notions of <head>similarity</head> between strings string ( C++ ) — overview of C++ string handling string.h — overview of C string handling</context>
+    </instance>
+    <instance id="String_(computer_science)-string-5-302-1" docsrc="String_(computer_science)">
+      <context> string.h — overview of C <head>string</head> handling Analysis of algorithms — determining time and storage needed by a particular ( e.g. string manipulation ) algorithm Comparison of programming languages ( string functions )</context>
+    </instance>
+    <instance id="String_(computer_science)-string-5-303-1" docsrc="String_(computer_science)">
+      <context> Analysis of algorithms — determining <head>time</head> and storage needed by a particular ( e.g. string manipulation ) algorithm Comparison of programming languages ( string functions )</context>
+    </instance>
+    <instance id="String_(computer_science)-string-6-131-1" docsrc="String_(computer_science)">
+      <context> === Lexicographical ordering === === String <head>operations</head> === A number of additional operations on strings commonly occur in the formal theory .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-6-178-3" docsrc="String_(computer_science)">
+      <context> Characters after the terminator do not <head>form</head> part of the representation ; they may be either part of other data or just garbage . ( Strings of this form are sometimes called ASCIZ strings , after the original assembly language directive used to declare them . ) Using a special byte for terminating strings has historically appeared in both hardware and software , though sometimes with a value that was also a printing character . ' $ ' was used by many assembler systems , ' : ' used by CDC systems ( this character had a value of zero ) , and the ZX80 used ' " ' since this was the string delimiter in its BASIC language .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-6-254-3" docsrc="String_(computer_science)">
+      <context> They also are used to query <head>information</head> about a string . They are usually used within the context of a computer programming language . The most basic example of a string function is the string length function – the function that returns the length of a string ( not counting any terminator characters or any of the string 's internal structural information ) and does not modify the string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-6-255-3" docsrc="String_(computer_science)">
+      <context> This function is often named length <head>or</head> len . For example , length("hello world " ) would return 11 . In some programming languages , a string buffer is an alternative to a string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-6-266-4" docsrc="String_(computer_science)">
+      <context> A String has an array of <head>characters</head> . Whenever a String must be manipulated , any changes require the creation of a new String ( which , in turn , involves the creation of a new array of characters , and copying of the original array ) . This happens even if the original String 's value or intermediate Strings used for the manipulation are not kept .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-6-266-5" docsrc="String_(computer_science)">
+      <context> Whenever a String must be manipulated <head>,</head> any changes require the creation of a new String ( which , in turn , involves the creation of a new array of characters , and copying of the original array ) . This happens even if the original String 's value or intermediate Strings used for the manipulation are not kept . Java provides an alternate class for string manipulation , called StringBuffer .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-66-178-3" docsrc="String_(computer_science)">
+      <context> Characters after the terminator do not form part of the representation ; they may be either part of other data or just garbage . ( Strings of this form are sometimes called ASCIZ strings , after the original assembly language directive used to declare them . ) Using a special byte for terminating strings has historically appeared in both hardware and software , though sometimes with <head>a</head> value that was also a printing character . ' $ ' was used by many assembler systems , ' : ' used by CDC systems ( this character had a value of zero ) , and the ZX80 used ' " ' since this was the string delimiter in its BASIC language .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-7-122-1" docsrc="String_(computer_science)">
+      <context> For example , if Σ = { <head>0</head> , 1 } the string 0011001 is a rotation of 0100110 , where u = 00110 and v = 01 . === Reversal === The reverse of a string is a string with the same symbols but in reverse order .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-7-196-2" docsrc="String_(computer_science)">
+      <context> ==== Other representations ==== Both character termination <head>and</head> length codes limit strings : For example , C character arrays that contain null ( NUL ) characters can not be handled directly by C string library functions : Strings using a length code are limited to the maximum value of the length code .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-7-199-1" docsrc="String_(computer_science)">
+      <context> Both of these limitations can be overcome <head>by</head> clever programming . It is possible to create data structures and functions that manipulate them that do not have the problems associated with character termination and can in principle overcome length code bounds . It is also possible to optimize the string represented using techniques from run length encoding ( replacing repeated characters by the character value and a length ) and Hamming encoding .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-7-249-1" docsrc="String_(computer_science)">
+      <context> Perl is particularly noted for its regular <head>expression</head> use , and many other languages and applications implement Perl compatible regular expressions . Some languages such as Perl and Ruby support string interpolation , which permits arbitrary expressions to be evaluated and included in string literals . String functions are used to manipulate a string or change or edit the contents of a string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-7-285-2" docsrc="String_(computer_science)">
+      <context> === In other languages === In C++ <head>and</head> Ruby , the standard string class is already mutable , with the ability to change the contents and append strings , etc .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-7-298-1" docsrc="String_(computer_science)">
+      <context> Incompressible string — a string that can <head>not</head> be compressed by any algorithm Empty string — its properties and representation in programming languages String metric — notions of similarity between strings</context>
+    </instance>
+    <instance id="String_(computer_science)-string-8-204-1" docsrc="String_(computer_science)">
+      <context> While that state could be stored in a <head>single</head> long consecutive array of characters , a typical text editor instead uses an alternative representation as its sequence data structure—a gap buffer , a linked list of lines , a piece table , or a rope—which makes certain string operations , such as insertions , deletions , and undoing previous edits , more efficient . === Security concerns === The differing memory layout and storage requirements of strings can affect the security of the program accessing the string data .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-8-205-3" docsrc="String_(computer_science)">
+      <context> String representations requiring a terminating character are commonly <head>susceptible</head> to buffer overflow problems if the terminating character is not present , caused by a coding error or an attacker deliberately altering the data . String representations adopting a separate length field are also susceptible if the length can be manipulated . In such cases , program code accessing the string data requires bounds checking to ensure that it does not inadvertently access or change data outside of the string memory limits .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-8-246-1" docsrc="String_(computer_science)">
+      <context> TTM Many Unix utilities perform simple string manipulations <head>and</head> can be used to easily program some powerful string processing algorithms . Files and finite streams may be viewed as strings .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-8-299-1" docsrc="String_(computer_science)">
+      <context> Empty string — its properties and representation in <head>programming</head> languages String metric — notions of similarity between strings string ( C++ ) — overview of C++ string handling</context>
+    </instance>
+    <instance id="String_(computer_science)-string-9-178-2" docsrc="String_(computer_science)">
+      <context> The length of the string in the above example <head>,</head> " FRANK " , is 5 characters , but it occupies 6 bytes . Characters after the terminator do not form part of the representation ; they may be either part of other data or just garbage . ( Strings of this form are sometimes called ASCIZ strings , after the original assembly language directive used to declare them . )</context>
+    </instance>
+    <instance id="String_(computer_science)-string-9-214-1" docsrc="String_(computer_science)">
+      <context> Two common representations are : Terminated by a newline <head>sequence</head> , for example in Windows INI files . C programmers draw a sharp distinction between a " string " , aka a " string of characters " , which by definition is always null terminated , vs. a " byte string " or " pseudo string " which may be stored in the same array but is often not null terminated .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-9-254-1" docsrc="String_(computer_science)">
+      <context> Some languages such as Perl and Ruby support string <head>interpolation</head> , which permits arbitrary expressions to be evaluated and included in string literals . String functions are used to manipulate a string or change or edit the contents of a string . They also are used to query information about a string .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-9-273-1" docsrc="String_(computer_science)">
+      <context> like this : ==== Implications ==== Generally , a <head>StringBuffer</head> is more efficient than a String in string handling .</context>
+    </instance>
+    <instance id="String_(computer_science)-string-9-292-1" docsrc="String_(computer_science)">
+      <context> Formal language — a ( possibly infinite ) set <head>of</head> strings in theoretical computer science Connection string — passed to a driver to initiate a connection e.g. to a database Rope — a data structure for efficiently manipulating long strings</context>
+    </instance>
+    <instance id="String_(music)-string-0-0-1" docsrc="String_(music)">
+      <context> <head>A</head> string is the vibrating element that produces sound in string instruments such as the guitar , harp , piano ( piano wire ) , and members of the violin family . Strings are lengths of a flexible material that a musical instrument holds under tension so that they can vibrate freely , but controllably .</context>
+    </instance>
+    <instance id="String_(music)-string-0-0-2" docsrc="String_(music)">
+      <context> <head>A</head> string is the vibrating element that produces sound in string instruments such as the guitar , harp , piano ( piano wire ) , and members of the violin family . Strings are lengths of a flexible material that a musical instrument holds under tension so that they can vibrate freely , but controllably . Strings may be " plain " ( consisting only of a single material , like steel , nylon , or gut ) . " Wound " strings have a " core " of one material , with an overwinding of other materials .</context>
+    </instance>
+    <instance id="String_(music)-string-0-148-1" docsrc="String_(music)">
+      <context> <head>How</head> to Choose Which Strings To Use On Your Guitar String Calculation ; String Measurement ; Mass Per Unit Length String Tension – technical information on string tension , with tension calculator</context>
+    </instance>
+    <instance id="String_(music)-string-0-149-1" docsrc="String_(music)">
+      <context> <head>String</head> Calculation ; String Measurement ; Mass Per Unit Length String Tension – technical information on string tension , with tension calculator</context>
+    </instance>
+    <instance id="String_(music)-string-0-4-2" docsrc="String_(music)">
+      <context> <head>The</head> end of the string that mounts to the instrument 's tuning mechanism is usually plain . Depending on the instrument , the string 's other , fixed end may have either a plain , loop , or ball end ( actually a short brass cylinder ) that attaches the string at the end opposite the tuning mechanism . Strings for some instruments may be wrapped with silk at the ends to protect the string .</context>
+    </instance>
+    <instance id="String_(music)-string-1-117-7" docsrc="String_(music)">
+      <context> After <head>boiling</head> , strings may have less elasticity and be more brittle , depending on the quality of the alloys involved . Putting the strings through a cycle in the dishwasher has also been known to work . A string vibrates in a complex harmonic pattern .</context>
+    </instance>
+    <instance id="String_(music)-string-1-12-1" docsrc="String_(music)">
+      <context> Roundwound <head>====</head> The simplest wound strings are roundwound—with round wire wrapped in a tight spiral around either a round or hexagonal core . Such strings are usually simple to manufacture and the least expensive .</context>
+    </instance>
+    <instance id="String_(music)-string-1-12-3" docsrc="String_(music)">
+      <context> Such <head>strings</head> are usually simple to manufacture and the least expensive . They have several drawbacks , however : Roundwound strings have a bumpy surface profile ( the bumps of the winding ) that produce friction on the player 's fingertips .</context>
+    </instance>
+    <instance id="String_(music)-string-1-123-2" docsrc="String_(music)">
+      <context> In <head>a</head> phenomenon called sympathetic vibration , a string seems to vibrate by itself . This happens when sound waves strike the string at a frequency close to the string 's fundamental pitch or one of its overtones . The string is connected to this similar sound wave through the air , which picks up the vibrations of the sound waves at the same frequency , and in turn causes the string to vibrate on its own .</context>
+    </instance>
+    <instance id="String_(music)-string-1-142-1" docsrc="String_(music)">
+      <context> Harmonic <head>oscillator</head> Videos explaining differences among guitar strings Identify strings by their silk patterns</context>
+    </instance>
+    <instance id="String_(music)-string-1-144-1" docsrc="String_(music)">
+      <context> Identify <head>strings</head> by their silk patterns The vibrations of strings with both ends fixed Guitar Strings From The Nineteenth Century To The Advent Of Nylon</context>
+    </instance>
+    <instance id="String_(music)-string-1-23-1" docsrc="String_(music)">
+      <context> Manufacturing <head>is</head> also more difficult , as precise alignment of the flat sides of the winding must be maintained ( some rotation of the winding on roundwound strings is acceptable ) . ==== Halfwound , ground wound , pressure wound ==== Halfwound strings , ground wound strings , or pressure wound strings are a cross between roundwound and flatwound .</context>
+    </instance>
+    <instance id="String_(music)-string-1-24-1" docsrc="String_(music)">
+      <context> ==== <head>Halfwound</head> , ground wound , pressure wound ==== Halfwound strings , ground wound strings , or pressure wound strings are a cross between roundwound and flatwound . Such strings are usually made by winding round wire around a round or hex core first , then polishing , grinding ( thus the name , ground wound ) or pressing the exterior part of the winding until it is practically flat .</context>
+    </instance>
+    <instance id="String_(music)-string-1-38-3" docsrc="String_(music)">
+      <context> Usually <head>,</head> string manufactures that do n't describe strings by tension list string diameter in thousandths of an inch ( 0.001 in = 0.0254 mm ) . The larger the diameter , the heavier the string . Heavier strings require more tension for the same pitch and are , as a consequence , harder to press down to the fingerboard .</context>
+    </instance>
+    <instance id="String_(music)-string-1-62-5" docsrc="String_(music)">
+      <context> For <head>example</head> , a 14 1/2 PM gauge string has is .725 mm in diameter . Pirazzi ( now known as Pirastro ) continues to sell its Olive , Eudoxa , and Passione brand premium gut core strings by PM gauge . Each string is available in 5 or more discrete gauges .</context>
+    </instance>
+    <instance id="String_(music)-string-1-69-1" docsrc="String_(music)">
+      <context> Manufacturers <head>of</head> traditional plain gut strings , often used in historically informed performance , sell their products by light/medium/heavy , by PM , by mm or some combination . === Steel === Steel/Metal strings have become the foundation of strings for the electric guitar and bass .</context>
+    </instance>
+    <instance id="String_(music)-string-1-74-2" docsrc="String_(music)">
+      <context> === <head>Nylon</head> === Nylon string , traditionally used for classical music , has a more mellow tone and the responsiveness of it can be enjoyed typically for folk but other styles of music use it as well ( Willie Nelson performs on a nylon string guitar ) .</context>
+    </instance>
+    <instance id="String_(music)-string-1-75-2" docsrc="String_(music)">
+      <context> Nylon <head>string</head> , traditionally used for classical music , has a more mellow tone and the responsiveness of it can be enjoyed typically for folk but other styles of music use it as well ( Willie Nelson performs on a nylon string guitar ) . Note that nylon strings do n't work with magnetic pickups , which require ferrous strings that can interact with the magnetic field of the pickups to produce a signal . Nylon strings are made of a softer , less dense material and are under less tension than steel strings ( about 50 % less ) .</context>
+    </instance>
+    <instance id="String_(music)-string-10-117-1" docsrc="String_(music)">
+      <context> === Boiling strings ( guitar and bass ) === Some <head>musicians</head> boil guitar or bass strings to rejuvenate them . The high temperature of the boiling water helps free the strings of oil , salt , and grime from the players hands .</context>
+    </instance>
+    <instance id="String_(music)-string-10-123-3" docsrc="String_(music)">
+      <context> This happens when sound waves strike the string at a <head>frequency</head> close to the string 's fundamental pitch or one of its overtones . The string is connected to this similar sound wave through the air , which picks up the vibrations of the sound waves at the same frequency , and in turn causes the string to vibrate on its own . When an outside source applies forced vibration that matches a string 's natural frequency , the string vibrates .</context>
+    </instance>
+    <instance id="String_(music)-string-10-129-1" docsrc="String_(music)">
+      <context> For example , in a setup with an acoustic guitar <head>and</head> a PA system , the speaker vibrates at the same natural frequency of a string on the guitar and can force it into vibrational motion . Tuning a stringed instrument such as a guitar to pitch puts the strings under a large amount of strain , which indicates the amount of stress inside the string . Stress is relative to the stretch or elongation of the strings .</context>
+    </instance>
+    <instance id="String_(music)-string-10-23-1" docsrc="String_(music)">
+      <context> Manufacturing is also more difficult , as precise alignment of <head>the</head> flat sides of the winding must be maintained ( some rotation of the winding on roundwound strings is acceptable ) . ==== Halfwound , ground wound , pressure wound ==== Halfwound strings , ground wound strings , or pressure wound strings are a cross between roundwound and flatwound .</context>
+    </instance>
+    <instance id="String_(music)-string-10-37-1" docsrc="String_(music)">
+      <context> Round core is the traditional " vintage " way of <head>manufacturing</head> and results in a 100 % contact between the winding and the core of the string . Bowed instrument strings , such as for the violin or cello , are usually described by tension rather than gauge . Fretted instruments ( guitar , banjo , etc . ) strings are usually described by gauge—the diameter of the string .</context>
+    </instance>
+    <instance id="String_(music)-string-10-51-4" docsrc="String_(music)">
+      <context> ( Note : strings in dark gray boxes are bronze <head>wound</head> . All others are plain . These are for steel string guitars , not classical nylon/gut strings .</context>
+    </instance>
+    <instance id="String_(music)-string-10-70-5" docsrc="String_(music)">
+      <context> Much of the history about metal strings evolved through innovations <head>with</head> the piano . In fact , the first wound metal strings ever used were used in a piano . However , when it came to getting super small diameter strings with good elastic properties , the electric guitar took the metal string to the next level adapting it for the use of pickups .</context>
+    </instance>
+    <instance id="String_(music)-string-11-122-3" docsrc="String_(music)">
+      <context> Every time the player sets a string in motion , a <head>specific</head> set of frequencies resonate based on the harmonic series . The fundamental frequency is the lowest , and it is determined by the density , length and tension of the string . This is the frequency we identify as the pitch of the string .</context>
+    </instance>
+    <instance id="String_(music)-string-11-70-1" docsrc="String_(music)">
+      <context> === Steel === Steel/Metal strings have become the foundation of strings <head>for</head> the electric guitar and bass . They have a nice , bright tone when compared to nylon string guitars .</context>
+    </instance>
+    <instance id="String_(music)-string-11-81-3" docsrc="String_(music)">
+      <context> But they are also extremely hygroscopic , which makes them susceptible <head>to</head> pitch fluctuation as a result of changing humidity . Exposure to moisture from the sweat of a musician 's hands can cause plain ( unwound ) gut strings to fray and eventually break . This is not as much of a problem with wound gut strings , in which the gut core , being protected from contact with perspiration by the metal winding ( and underlayer , if there is one ) , lasts a much longer time .</context>
+    </instance>
+    <instance id="String_(music)-string-12-100-3" docsrc="String_(music)">
+      <context> The zinc also gives it a brighter tone , additional hardness and <head>slows</head> down the aging process . With additional string coating , they are preserved even more . Although , If some of the coating is applied poorly , the strings can lose their tone in just a matter of hours , and if left in high humidity can turn a hint of green because of the copper and corrode with the time .</context>
+    </instance>
+    <instance id="String_(music)-string-12-124-2" docsrc="String_(music)">
+      <context> Resonance can cause audio feedback . For example , in a setup <head>with</head> an acoustic guitar and a PA system , the speaker vibrates at the same natural frequency of a string on the guitar and can force it into vibrational motion . Tuning a stringed instrument such as a guitar to pitch puts the strings under a large amount of strain , which indicates the amount of stress inside the string .</context>
+    </instance>
+    <instance id="String_(music)-string-12-13-1" docsrc="String_(music)">
+      <context> They have several drawbacks , however : Roundwound strings have a bumpy <head>surface</head> profile ( the bumps of the winding ) that produce friction on the player 's fingertips . This causes squeaking sounds when the player 's fingers slide over the strings .</context>
+    </instance>
+    <instance id="String_(music)-string-12-38-1" docsrc="String_(music)">
+      <context> Fretted instruments ( guitar , banjo , etc . ) strings are <head>usually</head> described by gauge—the diameter of the string . The tone of a string depends partly on weight , and , therefore , on its diameter—its gauge . Usually , string manufactures that do n't describe strings by tension list string diameter in thousandths of an inch ( 0.001 in = 0.0254 mm ) .</context>
+    </instance>
+    <instance id="String_(music)-string-12-38-5" docsrc="String_(music)">
+      <context> Heavier strings require more tension for the same pitch and are , <head>as</head> a consequence , harder to press down to the fingerboard . A fretted instrument that is restrung with different string gauges may require adjustment to the string height above the frets ( the " action " ) to maintain playing ease or keep the strings from buzzing against the frets . The action height of fretless instruments is also adjusted to suit the string gauge or material , as well as the intended playing style .</context>
+    </instance>
+    <instance id="String_(music)-string-12-4-3" docsrc="String_(music)">
+      <context> Depending on the instrument , the string 's other , fixed end <head>may</head> have either a plain , loop , or ball end ( actually a short brass cylinder ) that attaches the string at the end opposite the tuning mechanism . Strings for some instruments may be wrapped with silk at the ends to protect the string . The color and pattern of the silk often identifies attributes of the string , such as manufacturer , size , intended pitch , etc .</context>
+    </instance>
+    <instance id="String_(music)-string-12-45-1" docsrc="String_(music)">
+      <context> === Guitar === ==== Electric guitar ==== The following table displays the <head>gauges</head> in inches : ( Note : strings in dark gray boxes are wound .</context>
+    </instance>
+    <instance id="String_(music)-string-12-82-1" docsrc="String_(music)">
+      <context> Furthermore , all gut strings are vulnerable to going out of tune <head>due</head> to changes in atmospheric humidity . However , even after the introduction of metal and synthetic core materials , many musicians still prefer to use gut strings , believing that they provide a superior tone . Players associated with the period performance movement use wound and unwound gut strings as part of an effort to recreate the sound of music of the Classical , Baroque , and Renaissance periods , as listeners would have heard it at the time of composition .</context>
+    </instance>
+    <instance id="String_(music)-string-13-56-2" docsrc="String_(music)">
+      <context> Note that some string manufacturers produce other sets of strings . The figure <head>above</head> merely lists the most common combinations . Since the 20th century , with the advent of steel and synthetic core strings , most bowed instrument string makers market their strings by tension rather than by diameter .</context>
+    </instance>
+    <instance id="String_(music)-string-14-113-5" docsrc="String_(music)">
+      <context> Teflon is resistant to many corrosive agents such as : chlorine , acetic acid <head>,</head> sulfuric acid , and hydrochloric acid . On the microscopic level Teflon has very tightly packed polymeric chains , and these tightly packed chains create a slippery surface that not only helps keep the oil from the player 's hands off the strings but makes them smooth to play as well . Ethylene tetrafluorothylene ( ETFE ) is another polymer that is sometimes used to coat strings .</context>
+    </instance>
+    <instance id="String_(music)-string-14-123-1" docsrc="String_(music)">
+      <context> This is an important consideration for piano tuners , who try to stretch the <head>tuning</head> across the piano to keep overtones more in tune as they go up the keyboard . In a phenomenon called sympathetic vibration , a string seems to vibrate by itself . This happens when sound waves strike the string at a frequency close to the string 's fundamental pitch or one of its overtones .</context>
+    </instance>
+    <instance id="String_(music)-string-14-75-1" docsrc="String_(music)">
+      <context> Nylon === Nylon string , traditionally used for classical music , has a more <head>mellow</head> tone and the responsiveness of it can be enjoyed typically for folk but other styles of music use it as well ( Willie Nelson performs on a nylon string guitar ) . Note that nylon strings do n't work with magnetic pickups , which require ferrous strings that can interact with the magnetic field of the pickups to produce a signal .</context>
+    </instance>
+    <instance id="String_(music)-string-14-96-1" docsrc="String_(music)">
+      <context> === Phosphor bronze === Phosphor bronze was introduced by D'Addario in the early 1970s <head>.</head> Phosphor Bronze is said to keep their " new " sound longer than other strings .</context>
+    </instance>
+    <instance id="String_(music)-string-15-129-8" docsrc="String_(music)">
+      <context> In the plastic region , plastic deformation occurs—deformation the material can not recover from . <head>Thus</head> , in the plastic region , the relationship is not linear anymore ( Young 's Modulus is no longer a constant ) . The elastic region is where elastic deformation is occurring , or deformation from where the string can recover .</context>
+    </instance>
+    <instance id="String_(music)-string-15-38-4" docsrc="String_(music)">
+      <context> The larger the diameter , the heavier the string . Heavier strings require more tension <head>for</head> the same pitch and are , as a consequence , harder to press down to the fingerboard . A fretted instrument that is restrung with different string gauges may require adjustment to the string height above the frets ( the " action " ) to maintain playing ease or keep the strings from buzzing against the frets .</context>
+    </instance>
+    <instance id="String_(music)-string-15-4-2" docsrc="String_(music)">
+      <context> The end of the string that mounts to the instrument 's tuning mechanism is usually <head>plain</head> . Depending on the instrument , the string 's other , fixed end may have either a plain , loop , or ball end ( actually a short brass cylinder ) that attaches the string at the end opposite the tuning mechanism . Strings for some instruments may be wrapped with silk at the ends to protect the string .</context>
+    </instance>
+    <instance id="String_(music)-string-15-82-2" docsrc="String_(music)">
+      <context> However , even after the introduction of metal and synthetic core materials , many musicians <head>still</head> prefer to use gut strings , believing that they provide a superior tone . Players associated with the period performance movement use wound and unwound gut strings as part of an effort to recreate the sound of music of the Classical , Baroque , and Renaissance periods , as listeners would have heard it at the time of composition . For players of plucked instruments , Nylgut strings are a recently developed alternative to gut strings .</context>
+    </instance>
+    <instance id="String_(music)-string-16-123-3" docsrc="String_(music)">
+      <context> This happens when sound waves strike the string at a frequency close to the string 's <head>fundamental</head> pitch or one of its overtones . The string is connected to this similar sound wave through the air , which picks up the vibrations of the sound waves at the same frequency , and in turn causes the string to vibrate on its own . When an outside source applies forced vibration that matches a string 's natural frequency , the string vibrates .</context>
+    </instance>
+    <instance id="String_(music)-string-17-83-1" docsrc="String_(music)">
+      <context> Players associated with the period performance movement use wound and unwound gut strings as part of an <head>effort</head> to recreate the sound of music of the Classical , Baroque , and Renaissance periods , as listeners would have heard it at the time of composition . For players of plucked instruments , Nylgut strings are a recently developed alternative to gut strings . They are made from a specialty nylon and purport to offer the same acoustic properties as gut strings without the tuning problems .</context>
+    </instance>
+    <instance id="String_(music)-string-18-56-2" docsrc="String_(music)">
+      <context> Note that some string manufacturers produce other sets of strings . The figure above merely lists the most <head>common</head> combinations . Since the 20th century , with the advent of steel and synthetic core strings , most bowed instrument string makers market their strings by tension rather than by diameter .</context>
+    </instance>
+    <instance id="String_(music)-string-18-75-2" docsrc="String_(music)">
+      <context> Nylon string , traditionally used for classical music , has a more mellow tone and the responsiveness of <head>it</head> can be enjoyed typically for folk but other styles of music use it as well ( Willie Nelson performs on a nylon string guitar ) . Note that nylon strings do n't work with magnetic pickups , which require ferrous strings that can interact with the magnetic field of the pickups to produce a signal . Nylon strings are made of a softer , less dense material and are under less tension than steel strings ( about 50 % less ) .</context>
+    </instance>
+    <instance id="String_(music)-string-18-75-3" docsrc="String_(music)">
+      <context> Note that nylon strings do n't work with magnetic pickups , which require ferrous strings that can interact <head>with</head> the magnetic field of the pickups to produce a signal . Nylon strings are made of a softer , less dense material and are under less tension than steel strings ( about 50 % less ) . This means they can be used on older guitars that ca n't support the tension of modern steel strings .</context>
+    </instance>
+    <instance id="String_(music)-string-18-81-2" docsrc="String_(music)">
+      <context> Animal intestines are composed largely of elastomers , making them very flexible . But they are also extremely <head>hygroscopic</head> , which makes them susceptible to pitch fluctuation as a result of changing humidity . Exposure to moisture from the sweat of a musician 's hands can cause plain ( unwound ) gut strings to fray and eventually break .</context>
+    </instance>
+    <instance id="String_(music)-string-19-37-1" docsrc="String_(music)">
+      <context> Round core is the traditional " vintage " way of manufacturing and results in a 100 % contact between <head>the</head> winding and the core of the string . Bowed instrument strings , such as for the violin or cello , are usually described by tension rather than gauge . Fretted instruments ( guitar , banjo , etc . ) strings are usually described by gauge—the diameter of the string .</context>
+    </instance>
+    <instance id="String_(music)-string-2-100-2" docsrc="String_(music)">
+      <context> 80/20 bronze <head>strings</head> are 80 percent copper and 20 percent zinc . The zinc also gives it a brighter tone , additional hardness and slows down the aging process . With additional string coating , they are preserved even more .</context>
+    </instance>
+    <instance id="String_(music)-string-2-113-7" docsrc="String_(music)">
+      <context> Ethylene tetrafluorothylene <head>(</head> ETFE ) is another polymer that is sometimes used to coat strings . It is abrasion and cut resistant and has many characteristics similar to Teflon . === Boiling strings ( guitar and bass ) ===</context>
+    </instance>
+    <instance id="String_(music)-string-2-117-2" docsrc="String_(music)">
+      <context> Some musicians <head>boil</head> guitar or bass strings to rejuvenate them . The high temperature of the boiling water helps free the strings of oil , salt , and grime from the players hands . When a string is played , very small metal shavings from fret wear may break off and lodge between the windings of the strings .</context>
+    </instance>
+    <instance id="String_(music)-string-2-117-3" docsrc="String_(music)">
+      <context> The high <head>temperature</head> of the boiling water helps free the strings of oil , salt , and grime from the players hands . When a string is played , very small metal shavings from fret wear may break off and lodge between the windings of the strings . Heating the strings can expand these particles and separate them from the windings .</context>
+    </instance>
+    <instance id="String_(music)-string-2-117-6" docsrc="String_(music)">
+      <context> Some players <head>use</head> deionized water to boil strings , believing that mineral deposits in tap water may aid corrosion of the string core . After boiling , strings may have less elasticity and be more brittle , depending on the quality of the alloys involved . Putting the strings through a cycle in the dishwasher has also been known to work .</context>
+    </instance>
+    <instance id="String_(music)-string-2-129-2" docsrc="String_(music)">
+      <context> Tuning a <head>stringed</head> instrument such as a guitar to pitch puts the strings under a large amount of strain , which indicates the amount of stress inside the string . Stress is relative to the stretch or elongation of the strings . As the string is tuned to a higher pitch , it gets longer and thinner .</context>
+    </instance>
+    <instance id="String_(music)-string-2-31-1" docsrc="String_(music)">
+      <context> Hexcore ==== <head>====</head> Round core ==== Round core strings are composed of regular round core and a tight ( usually round ) winding .</context>
+    </instance>
+    <instance id="String_(music)-string-2-32-2" docsrc="String_(music)">
+      <context> Round core <head>strings</head> are composed of regular round core and a tight ( usually round ) winding . Round core is the traditional " vintage " way of manufacturing and results in a 100 % contact between the winding and the core of the string . Bowed instrument strings , such as for the violin or cello , are usually described by tension rather than gauge .</context>
+    </instance>
+    <instance id="String_(music)-string-2-38-1" docsrc="String_(music)">
+      <context> Fretted instruments <head>(</head> guitar , banjo , etc . ) strings are usually described by gauge—the diameter of the string . The tone of a string depends partly on weight , and , therefore , on its diameter—its gauge . Usually , string manufactures that do n't describe strings by tension list string diameter in thousandths of an inch ( 0.001 in = 0.0254 mm ) .</context>
+    </instance>
+    <instance id="String_(music)-string-2-4-4" docsrc="String_(music)">
+      <context> Strings for <head>some</head> instruments may be wrapped with silk at the ends to protect the string . The color and pattern of the silk often identifies attributes of the string , such as manufacturer , size , intended pitch , etc . === Wound strings ===</context>
+    </instance>
+    <instance id="String_(music)-string-2-54-1" docsrc="String_(music)">
+      <context> The gauge <head>values</head> are in inches . ) ==== Bass guitar ==== Bass guitar strings are sometimes made for a particular scale length and come in short , medium , long and extra long ( sometimes called super long ) scale .</context>
+    </instance>
+    <instance id="String_(music)-string-2-76-2" docsrc="String_(music)">
+      <context> Currently , <head>stranded</head> nylon is one of the most popular materials for the cores of violin , viola , cello , and double bass strings . It 's often sold under the trade name of Perlon . Nylon guitar strings were first developed by Albert Augustine Strings in 1947 .</context>
+    </instance>
+    <instance id="String_(music)-string-2-99-1" docsrc="String_(music)">
+      <context> This makes <head>the</head> phosphor bronze slightly more corrosive resistant than 80/20 bronze . === 80/20 Bronze === 80/20 bronze strings are 80 percent copper and 20 percent zinc .</context>
+    </instance>
+    <instance id="String_(music)-string-20-122-2" docsrc="String_(music)">
+      <context> A string vibrates in a complex harmonic pattern . Every time the player sets a string in motion , a <head>specific</head> set of frequencies resonate based on the harmonic series . The fundamental frequency is the lowest , and it is determined by the density , length and tension of the string .</context>
+    </instance>
+    <instance id="String_(music)-string-20-81-6" docsrc="String_(music)">
+      <context> Nonetheless , as such a gut string ages and continually responds to cyclic changes in temperature and humidity , the <head>core</head> becomes weak and brittle , and eventually breaks . Furthermore , all gut strings are vulnerable to going out of tune due to changes in atmospheric humidity . However , even after the introduction of metal and synthetic core materials , many musicians still prefer to use gut strings , believing that they provide a superior tone .</context>
+    </instance>
+    <instance id="String_(music)-string-21-117-4" docsrc="String_(music)">
+      <context> When a string is played , very small metal shavings from fret wear may break off and lodge between the windings <head>of</head> the strings . Heating the strings can expand these particles and separate them from the windings . Some players use deionized water to boil strings , believing that mineral deposits in tap water may aid corrosion of the string core .</context>
+    </instance>
+    <instance id="String_(music)-string-21-62-4" docsrc="String_(music)">
+      <context> One PM equals .05 mm . For example , a 14 1/2 PM gauge string has is .725 mm in diameter <head>.</head> Pirazzi ( now known as Pirastro ) continues to sell its Olive , Eudoxa , and Passione brand premium gut core strings by PM gauge .</context>
+    </instance>
+    <instance id="String_(music)-string-22-122-5" docsrc="String_(music)">
+      <context> This is the frequency we identify as the pitch of the string . Above that frequency , overtones ( or harmonics ) <head>are</head> heard , each one getting quieter the higher it is . For example , if the fundamental pitch is 440 Hz ( A above middle C ) , the overtones for an ideal string tuned to that pitch are 880 Hz , 1320 Hz , 1760 Hz , 2200 Hz , etc .</context>
+    </instance>
+    <instance id="String_(music)-string-22-56-2" docsrc="String_(music)">
+      <context> Note that some string manufacturers produce other sets of strings . The figure above merely lists the most common combinations . Since <head>the</head> 20th century , with the advent of steel and synthetic core strings , most bowed instrument string makers market their strings by tension rather than by diameter .</context>
+    </instance>
+    <instance id="String_(music)-string-22-70-5" docsrc="String_(music)">
+      <context> Much of the history about metal strings evolved through innovations with the piano . In fact , the first wound metal strings <head>ever</head> used were used in a piano . However , when it came to getting super small diameter strings with good elastic properties , the electric guitar took the metal string to the next level adapting it for the use of pickups .</context>
+    </instance>
+    <instance id="String_(music)-string-23-117-2" docsrc="String_(music)">
+      <context> Some musicians boil guitar or bass strings to rejuvenate them . The high temperature of the boiling water helps free the strings of <head>oil</head> , salt , and grime from the players hands . When a string is played , very small metal shavings from fret wear may break off and lodge between the windings of the strings .</context>
+    </instance>
+    <instance id="String_(music)-string-24-75-4" docsrc="String_(music)">
+      <context> Nylon strings are made of a softer , less dense material and are under less tension than steel strings ( about 50 % less <head>)</head> . This means they can be used on older guitars that ca n't support the tension of modern steel strings . Currently , stranded nylon is one of the most popular materials for the cores of violin , viola , cello , and double bass strings .</context>
+    </instance>
+    <instance id="String_(music)-string-25-124-1" docsrc="String_(music)">
+      <context> When an outside source applies forced vibration that matches a string 's natural frequency , the string vibrates . Resonance can cause audio feedback . <head>For</head> example , in a setup with an acoustic guitar and a PA system , the speaker vibrates at the same natural frequency of a string on the guitar and can force it into vibrational motion .</context>
+    </instance>
+    <instance id="String_(music)-string-26-0-2" docsrc="String_(music)">
+      <context> A string is the vibrating element that produces sound in string instruments such as the guitar , harp , piano ( piano wire ) , and <head>members</head> of the violin family . Strings are lengths of a flexible material that a musical instrument holds under tension so that they can vibrate freely , but controllably . Strings may be " plain " ( consisting only of a single material , like steel , nylon , or gut ) . " Wound " strings have a " core " of one material , with an overwinding of other materials .</context>
+    </instance>
+    <instance id="String_(music)-string-26-100-4" docsrc="String_(music)">
+      <context> With additional string coating , they are preserved even more . Although , If some of the coating is applied poorly , the strings can lose <head>their</head> tone in just a matter of hours , and if left in high humidity can turn a hint of green because of the copper and corrode with the time . The name " 80/20 Bronze " is a misnomer , since bronze is by definition an alloy of copper and tin . " 80/20 bronze " strings would be more correctly referred to as brass .</context>
+    </instance>
+    <instance id="String_(music)-string-26-32-1" docsrc="String_(music)">
+      <context> ==== Round core ==== Round core strings are composed of regular round core and a tight ( usually round ) winding . Round core is the <head>traditional</head> " vintage " way of manufacturing and results in a 100 % contact between the winding and the core of the string .</context>
+    </instance>
+    <instance id="String_(music)-string-27-20-2" docsrc="String_(music)">
+      <context> On the other hand , flatwound strings sound less bright than roundwounds and tend to be harder to bend . Flatwounds also usually cost more than roundwounds <head>because</head> of less demand , less production , and higher overhead costs . Manufacturing is also more difficult , as precise alignment of the flat sides of the winding must be maintained ( some rotation of the winding on roundwound strings is acceptable ) .</context>
+    </instance>
+    <instance id="String_(music)-string-28-124-2" docsrc="String_(music)">
+      <context> Resonance can cause audio feedback . For example , in a setup with an acoustic guitar and a PA system , the speaker vibrates at the same natural <head>frequency</head> of a string on the guitar and can force it into vibrational motion . Tuning a stringed instrument such as a guitar to pitch puts the strings under a large amount of strain , which indicates the amount of stress inside the string .</context>
+    </instance>
+    <instance id="String_(music)-string-3-11-2" docsrc="String_(music)">
+      <context> ==== Roundwound ==== <head>The</head> simplest wound strings are roundwound—with round wire wrapped in a tight spiral around either a round or hexagonal core .</context>
+    </instance>
+    <instance id="String_(music)-string-3-117-5" docsrc="String_(music)">
+      <context> Heating the strings <head>can</head> expand these particles and separate them from the windings . Some players use deionized water to boil strings , believing that mineral deposits in tap water may aid corrosion of the string core . After boiling , strings may have less elasticity and be more brittle , depending on the quality of the alloys involved .</context>
+    </instance>
+    <instance id="String_(music)-string-3-143-1" docsrc="String_(music)">
+      <context> Videos explaining differences <head>among</head> guitar strings Identify strings by their silk patterns The vibrations of strings with both ends fixed</context>
+    </instance>
+    <instance id="String_(music)-string-3-147-1" docsrc="String_(music)">
+      <context> How to Change <head>the</head> Strings on a Fender Stratocaster How to Choose Which Strings To Use On Your Guitar String Calculation ; String Measurement ; Mass Per Unit Length</context>
+    </instance>
+    <instance id="String_(music)-string-3-51-2" docsrc="String_(music)">
+      <context> String gauge is <head>subject</head> to personal preferences of the musician , but acoustic guitars are typically strung with a heavier gauge than electric guitars . The need for projection due to lack of amplification is one of the main reasons for this . ( Note : strings in dark gray boxes are bronze wound .</context>
+    </instance>
+    <instance id="String_(music)-string-3-55-1" docsrc="String_(music)">
+      <context> ==== Bass guitar <head>====</head> Bass guitar strings are sometimes made for a particular scale length and come in short , medium , long and extra long ( sometimes called super long ) scale . Typical bass guitar strings come in the following gauges :</context>
+    </instance>
+    <instance id="String_(music)-string-3-55-2" docsrc="String_(music)">
+      <context> Bass guitar strings <head>are</head> sometimes made for a particular scale length and come in short , medium , long and extra long ( sometimes called super long ) scale . Typical bass guitar strings come in the following gauges : Note that some string manufacturers produce other sets of strings .</context>
+    </instance>
+    <instance id="String_(music)-string-3-61-1" docsrc="String_(music)">
+      <context> The figure above <head>merely</head> lists the most common combinations . Since the 20th century , with the advent of steel and synthetic core strings , most bowed instrument string makers market their strings by tension rather than by diameter . They typically make string sets in three tension levels:heavy , medium , and light ( German stark , mittel , and weich ) .</context>
+    </instance>
+    <instance id="String_(music)-string-3-75-1" docsrc="String_(music)">
+      <context> Nylon === Nylon <head>string</head> , traditionally used for classical music , has a more mellow tone and the responsiveness of it can be enjoyed typically for folk but other styles of music use it as well ( Willie Nelson performs on a nylon string guitar ) . Note that nylon strings do n't work with magnetic pickups , which require ferrous strings that can interact with the magnetic field of the pickups to produce a signal .</context>
+    </instance>
+    <instance id="String_(music)-string-32-123-2" docsrc="String_(music)">
+      <context> In a phenomenon called sympathetic vibration , a string seems to vibrate by itself . This happens when sound waves strike the string at a frequency close to the string 's fundamental <head>pitch</head> or one of its overtones . The string is connected to this similar sound wave through the air , which picks up the vibrations of the sound waves at the same frequency , and in turn causes the string to vibrate on its own .</context>
+    </instance>
+    <instance id="String_(music)-string-33-38-4" docsrc="String_(music)">
+      <context> The larger the diameter , the heavier the string . Heavier strings require more tension for the same pitch and are , as a consequence , harder to press down to the fingerboard <head>.</head> A fretted instrument that is restrung with different string gauges may require adjustment to the string height above the frets ( the " action " ) to maintain playing ease or keep the strings from buzzing against the frets .</context>
+    </instance>
+    <instance id="String_(music)-string-33-4-1" docsrc="String_(music)">
+      <context> This is to make the string vibrate at the desired pitch , while maintaining a low profile and sufficient flexibility for playability . The end of the string that mounts to the instrument <head>'s</head> tuning mechanism is usually plain . Depending on the instrument , the string 's other , fixed end may have either a plain , loop , or ball end ( actually a short brass cylinder ) that attaches the string at the end opposite the tuning mechanism .</context>
+    </instance>
+    <instance id="String_(music)-string-35-113-4" docsrc="String_(music)">
+      <context> When coated with a polymer ( polytetrafluorouthylene ) Teflon is the most commonly used . Teflon is resistant to many corrosive agents such as : chlorine , acetic acid , sulfuric acid , and hydrochloric <head>acid</head> . On the microscopic level Teflon has very tightly packed polymeric chains , and these tightly packed chains create a slippery surface that not only helps keep the oil from the player 's hands off the strings but makes them smooth to play as well .</context>
+    </instance>
+    <instance id="String_(music)-string-4-0-4" docsrc="String_(music)">
+      <context> Strings may be " <head>plain</head> " ( consisting only of a single material , like steel , nylon , or gut ) . " Wound " strings have a " core " of one material , with an overwinding of other materials . This is to make the string vibrate at the desired pitch , while maintaining a low profile and sufficient flexibility for playability . The end of the string that mounts to the instrument 's tuning mechanism is usually plain .</context>
+    </instance>
+    <instance id="String_(music)-string-4-145-1" docsrc="String_(music)">
+      <context> The vibrations of strings <head>with</head> both ends fixed Guitar Strings From The Nineteenth Century To The Advent Of Nylon How to Change the Strings on a Fender Stratocaster</context>
+    </instance>
+    <instance id="String_(music)-string-4-37-2" docsrc="String_(music)">
+      <context> Bowed instrument strings , <head>such</head> as for the violin or cello , are usually described by tension rather than gauge . Fretted instruments ( guitar , banjo , etc . ) strings are usually described by gauge—the diameter of the string . The tone of a string depends partly on weight , and , therefore , on its diameter—its gauge .</context>
+    </instance>
+    <instance id="String_(music)-string-4-51-4" docsrc="String_(music)">
+      <context> ( Note : strings <head>in</head> dark gray boxes are bronze wound . All others are plain . These are for steel string guitars , not classical nylon/gut strings .</context>
+    </instance>
+    <instance id="String_(music)-string-4-61-3" docsrc="String_(music)">
+      <context> They typically make string <head>sets</head> in three tension levels:heavy , medium , and light ( German stark , mittel , and weich ) . These tension levels are not standardized between manufacturers , and do not correlate to specific diameters . One brand 's medium strings may have quite a different tension from another brand 's medium .</context>
+    </instance>
+    <instance id="String_(music)-string-4-81-5" docsrc="String_(music)">
+      <context> This is not as <head>much</head> of a problem with wound gut strings , in which the gut core , being protected from contact with perspiration by the metal winding ( and underlayer , if there is one ) , lasts a much longer time . Nonetheless , as such a gut string ages and continually responds to cyclic changes in temperature and humidity , the core becomes weak and brittle , and eventually breaks . Furthermore , all gut strings are vulnerable to going out of tune due to changes in atmospheric humidity .</context>
+    </instance>
+    <instance id="String_(music)-string-41-74-2" docsrc="String_(music)">
+      <context> === Nylon === Nylon string , traditionally used for classical music , has a more mellow tone and the responsiveness of it can be enjoyed typically for folk but other styles of music use it as well ( Willie Nelson performs <head>on</head> a nylon string guitar ) .</context>
+    </instance>
+    <instance id="String_(music)-string-41-79-2" docsrc="String_(music)">
+      <context> === Gut === The intestine , or gut , of sheep , cattle , and other animals ( sometimes called catgut , though cats were never used as a source for this material ) is one of the first materials used <head>to</head> make musical strings .</context>
+    </instance>
+    <instance id="String_(music)-string-5-0-3" docsrc="String_(music)">
+      <context> Strings are lengths of a <head>flexible</head> material that a musical instrument holds under tension so that they can vibrate freely , but controllably . Strings may be " plain " ( consisting only of a single material , like steel , nylon , or gut ) . " Wound " strings have a " core " of one material , with an overwinding of other materials . This is to make the string vibrate at the desired pitch , while maintaining a low profile and sufficient flexibility for playability .</context>
+    </instance>
+    <instance id="String_(music)-string-5-135-1" docsrc="String_(music)">
+      <context> Electronic tuner Harmonic oscillator Videos <head>explaining</head> differences among guitar strings</context>
+    </instance>
+    <instance id="String_(music)-string-5-23-1" docsrc="String_(music)">
+      <context> Manufacturing is also more difficult <head>,</head> as precise alignment of the flat sides of the winding must be maintained ( some rotation of the winding on roundwound strings is acceptable ) . ==== Halfwound , ground wound , pressure wound ==== Halfwound strings , ground wound strings , or pressure wound strings are a cross between roundwound and flatwound .</context>
+    </instance>
+    <instance id="String_(music)-string-5-62-6" docsrc="String_(music)">
+      <context> Pirazzi ( now known as <head>Pirastro</head> ) continues to sell its Olive , Eudoxa , and Passione brand premium gut core strings by PM gauge . Each string is available in 5 or more discrete gauges . Manufacturers of traditional plain gut strings , often used in historically informed performance , sell their products by light/medium/heavy , by PM , by mm or some combination .</context>
+    </instance>
+    <instance id="String_(music)-string-6-116-1" docsrc="String_(music)">
+      <context> It is abrasion and cut resistant <head>and</head> has many characteristics similar to Teflon . === Boiling strings ( guitar and bass ) === Some musicians boil guitar or bass strings to rejuvenate them .</context>
+    </instance>
+    <instance id="String_(music)-string-6-122-1" docsrc="String_(music)">
+      <context> Putting the strings through a cycle <head>in</head> the dishwasher has also been known to work . A string vibrates in a complex harmonic pattern . Every time the player sets a string in motion , a specific set of frequencies resonate based on the harmonic series .</context>
+    </instance>
+    <instance id="String_(music)-string-6-148-1" docsrc="String_(music)">
+      <context> How to Choose Which Strings To <head>Use</head> On Your Guitar String Calculation ; String Measurement ; Mass Per Unit Length String Tension – technical information on string tension , with tension calculator</context>
+    </instance>
+    <instance id="String_(music)-string-6-149-1" docsrc="String_(music)">
+      <context> String Calculation ; String Measurement ; <head>Mass</head> Per Unit Length String Tension – technical information on string tension , with tension calculator</context>
+    </instance>
+    <instance id="String_(music)-string-6-18-2" docsrc="String_(music)">
+      <context> ==== Flatwound ==== On the other <head>hand</head> , flatwound strings sound less bright than roundwounds and tend to be harder to bend .</context>
+    </instance>
+    <instance id="String_(music)-string-6-4-1" docsrc="String_(music)">
+      <context> This is to make the string <head>vibrate</head> at the desired pitch , while maintaining a low profile and sufficient flexibility for playability . The end of the string that mounts to the instrument 's tuning mechanism is usually plain . Depending on the instrument , the string 's other , fixed end may have either a plain , loop , or ball end ( actually a short brass cylinder ) that attaches the string at the end opposite the tuning mechanism .</context>
+    </instance>
+    <instance id="String_(music)-string-6-7-1" docsrc="String_(music)">
+      <context> The color and pattern of the <head>silk</head> often identifies attributes of the string , such as manufacturer , size , intended pitch , etc . === Wound strings === There are several varieties of wound strings .</context>
+    </instance>
+    <instance id="String_(music)-string-6-70-3" docsrc="String_(music)">
+      <context> They have a nice , bright <head>tone</head> when compared to nylon string guitars . Their metal composition varies greatly , sometimes using many different alloys as plating . Much of the history about metal strings evolved through innovations with the piano .</context>
+    </instance>
+    <instance id="String_(music)-string-6-81-4" docsrc="String_(music)">
+      <context> Exposure to moisture from the sweat <head>of</head> a musician 's hands can cause plain ( unwound ) gut strings to fray and eventually break . This is not as much of a problem with wound gut strings , in which the gut core , being protected from contact with perspiration by the metal winding ( and underlayer , if there is one ) , lasts a much longer time . Nonetheless , as such a gut string ages and continually responds to cyclic changes in temperature and humidity , the core becomes weak and brittle , and eventually breaks .</context>
+    </instance>
+    <instance id="String_(music)-string-7-112-1" docsrc="String_(music)">
+      <context> The name " 80/20 Bronze " is <head>a</head> misnomer , since bronze is by definition an alloy of copper and tin . " 80/20 bronze " strings would be more correctly referred to as brass . === Coating and plating === Some common types of metal plating on strings include tin , nickel , gold , and silver .</context>
+    </instance>
+    <instance id="String_(music)-string-7-117-4" docsrc="String_(music)">
+      <context> When a string is played , very <head>small</head> metal shavings from fret wear may break off and lodge between the windings of the strings . Heating the strings can expand these particles and separate them from the windings . Some players use deionized water to boil strings , believing that mineral deposits in tap water may aid corrosion of the string core .</context>
+    </instance>
+    <instance id="String_(music)-string-7-122-7" docsrc="String_(music)">
+      <context> For example , if the fundamental pitch <head>is</head> 440 Hz ( A above middle C ) , the overtones for an ideal string tuned to that pitch are 880 Hz , 1320 Hz , 1760 Hz , 2200 Hz , etc . The note names for those pitches would be A , A , E , A , C♯ , etc . Due to the physical nature of the strings , however , the higher up the overtones go , the more out of tune ( or " false " ) they are to the fundamental .</context>
+    </instance>
+    <instance id="String_(music)-string-7-123-1" docsrc="String_(music)">
+      <context> This is an important consideration for piano <head>tuners</head> , who try to stretch the tuning across the piano to keep overtones more in tune as they go up the keyboard . In a phenomenon called sympathetic vibration , a string seems to vibrate by itself . This happens when sound waves strike the string at a frequency close to the string 's fundamental pitch or one of its overtones .</context>
+    </instance>
+    <instance id="String_(music)-string-7-129-5" docsrc="String_(music)">
+      <context> The instrument can go out of tune <head>because</head> if it has been stretched past its elastic limit , it is n't going to recover its original tension . On a stress vs. strain curve , there is a linear region where stress and strain are related called Young 's modulus . When you have a newer set of strings , they are often in a region on the stress vs. strain curve past the Young 's Modulus called the plastic region .</context>
+    </instance>
+    <instance id="String_(music)-string-7-61-4" docsrc="String_(music)">
+      <context> These tension levels are not standardized between <head>manufacturers</head> , and do not correlate to specific diameters . One brand 's medium strings may have quite a different tension from another brand 's medium . Based on available historical records , gut strings were sold before 1900 in a similar way .</context>
+    </instance>
+    <instance id="String_(music)-string-7-69-1" docsrc="String_(music)">
+      <context> Manufacturers of traditional plain gut strings , <head>often</head> used in historically informed performance , sell their products by light/medium/heavy , by PM , by mm or some combination . === Steel === Steel/Metal strings have become the foundation of strings for the electric guitar and bass .</context>
+    </instance>
+    <instance id="String_(music)-string-7-70-4" docsrc="String_(music)">
+      <context> Their metal composition varies greatly , sometimes <head>using</head> many different alloys as plating . Much of the history about metal strings evolved through innovations with the piano . In fact , the first wound metal strings ever used were used in a piano .</context>
+    </instance>
+    <instance id="String_(music)-string-7-82-2" docsrc="String_(music)">
+      <context> However , even after the introduction of <head>metal</head> and synthetic core materials , many musicians still prefer to use gut strings , believing that they provide a superior tone . Players associated with the period performance movement use wound and unwound gut strings as part of an effort to recreate the sound of music of the Classical , Baroque , and Renaissance periods , as listeners would have heard it at the time of composition . For players of plucked instruments , Nylgut strings are a recently developed alternative to gut strings .</context>
+    </instance>
+    <instance id="String_(music)-string-8-122-9" docsrc="String_(music)">
+      <context> Due to the physical nature of the strings <head>,</head> however , the higher up the overtones go , the more out of tune ( or " false " ) they are to the fundamental . This is an important consideration for piano tuners , who try to stretch the tuning across the piano to keep overtones more in tune as they go up the keyboard . In a phenomenon called sympathetic vibration , a string seems to vibrate by itself .</context>
+    </instance>
+    <instance id="String_(music)-string-8-38-1" docsrc="String_(music)">
+      <context> Fretted instruments ( guitar , banjo , etc <head>.</head> ) strings are usually described by gauge—the diameter of the string . The tone of a string depends partly on weight , and , therefore , on its diameter—its gauge . Usually , string manufactures that do n't describe strings by tension list string diameter in thousandths of an inch ( 0.001 in = 0.0254 mm ) .</context>
+    </instance>
+    <instance id="String_(music)-string-8-38-2" docsrc="String_(music)">
+      <context> The tone of a string depends partly on <head>weight</head> , and , therefore , on its diameter—its gauge . Usually , string manufactures that do n't describe strings by tension list string diameter in thousandths of an inch ( 0.001 in = 0.0254 mm ) . The larger the diameter , the heavier the string .</context>
+    </instance>
+    <instance id="String_(music)-string-8-38-4" docsrc="String_(music)">
+      <context> The larger the diameter , the heavier the <head>string</head> . Heavier strings require more tension for the same pitch and are , as a consequence , harder to press down to the fingerboard . A fretted instrument that is restrung with different string gauges may require adjustment to the string height above the frets ( the " action " ) to maintain playing ease or keep the strings from buzzing against the frets .</context>
+    </instance>
+    <instance id="String_(music)-string-8-61-5" docsrc="String_(music)">
+      <context> One brand 's medium strings may have quite <head>a</head> different tension from another brand 's medium . Based on available historical records , gut strings were sold before 1900 in a similar way . On the other hand , modern gut core strings with metal winding , typically have been sold either ungauged for less expensive brands , or by specific gauge .</context>
+    </instance>
+    <instance id="String_(music)-string-8-62-3" docsrc="String_(music)">
+      <context> The Gustav Pirazzi company in Germany introduced the <head>Pirazzi</head> meter ( PM ) measurement early in the 20th century . One PM equals .05 mm . For example , a 14 1/2 PM gauge string has is .725 mm in diameter .</context>
+    </instance>
+    <instance id="String_(music)-string-8-80-1" docsrc="String_(music)">
+      <context> Gut === The intestine , or gut , <head>of</head> sheep , cattle , and other animals ( sometimes called catgut , though cats were never used as a source for this material ) is one of the first materials used to make musical strings . In fact , the Ancient Greek word for string , " khordḗ , " has " gut " as its original meaning .</context>
+    </instance>
+    <instance id="String_(music)-string-9-113-1" docsrc="String_(music)">
+      <context> === Coating and plating === Some common types of <head>metal</head> plating on strings include tin , nickel , gold , and silver . Some metals such as gold and silver give the strings a different sound .</context>
+    </instance>
+    <instance id="String_(music)-string-9-55-2" docsrc="String_(music)">
+      <context> Bass guitar strings are sometimes made for a particular <head>scale</head> length and come in short , medium , long and extra long ( sometimes called super long ) scale . Typical bass guitar strings come in the following gauges : Note that some string manufacturers produce other sets of strings .</context>
+    </instance>
+    <instance id="String_(music)-string-9-76-2" docsrc="String_(music)">
+      <context> Currently , stranded nylon is one of the most <head>popular</head> materials for the cores of violin , viola , cello , and double bass strings . It 's often sold under the trade name of Perlon . Nylon guitar strings were first developed by Albert Augustine Strings in 1947 .</context>
+    </instance>
+    <instance id="String_(physics)-string-0-15-1" docsrc="String_(physics)">
+      <context> <head>===</head> Closed and open strings === === Orientation === Strings can also possess an orientation , which can be thought of as an internal " arrow " which distinguishes the string from one with the opposite orientation .</context>
+    </instance>
+    <instance id="String_(physics)-string-21-15-1" docsrc="String_(physics)">
+      <context> === Closed and open strings === === Orientation === Strings can also possess an orientation , which can be thought of <head>as</head> an internal " arrow " which distinguishes the string from one with the opposite orientation .</context>
+    </instance>
+    <instance id="String_(physics)-string-3-26-2" docsrc="String_(physics)">
+      <context> Schwarz , John <head>(</head> 2000 ) . " Introduction to Superstring Theory " . Retrieved Dec. 12 , 2005 . " NOVA 's strings homepage "</context>
+    </instance>
+    <instance id="String_(physics)-string-3-27-1" docsrc="String_(physics)">
+      <context> Retrieved Dec. 12 <head>,</head> 2005 . " NOVA 's strings homepage "</context>
+    </instance>
+    <instance id="String_(physics)-string-5-16-1" docsrc="String_(physics)">
+      <context> === Orientation === Strings can <head>also</head> possess an orientation , which can be thought of as an internal " arrow " which distinguishes the string from one with the opposite orientation . By contrast , an unoriented string is one with no such arrow on it .</context>
+    </instance>
+    <instance id="br-a12#w121_0" docsrc="br-a12">
+      <context> Although he never gets to play while the clock is running , he gets a big kick - several every Saturday , in_fact - out of football . Moritz does n't even have a nose guard or hip_pads but he 's one of the most valuable members of the Longhorn team that will be heavily favored Saturday over Oklahoma in the cotton_bowl . That 's because he already has kicked 14 extra_points in 15 tries . He ran his <head>string</head> of successful conversions this season to 13 straight before one went astray last Saturday night in the 41 - 8 slaughter of Washington_State . Moritz is listed on the Longhorn roster as a right halfback , the position at which he lettered on the 1956 team . But ask coach Darrell_Royal what position he plays and you 'll get the quick response , `` place_kicker '' . A 208 - pound , 6 - foot 1 - inch senior from Stamford , Moritz practices nothing but place-kicking .</context>
+    </instance>
+    <instance id="br-a14#w1738_0" docsrc="br-a14">
+      <context> Arnold sent_for Joe_Dey , the executive_secretary of the golf association . Joe naturally ruled that a ball be dropped from alongside the spot where it had originally entered the stream . `` I knew it all_along '' , confessed Arnold with a grin , `` but I just happened to think how much nicer it would be to drop one way up there '' . For a serious young_man who plays golf with a serious intensity , Palmer has such an inherent sense_of_humor that it relieves the strain and keeps his nerves from jangling like banjo <head>strings</head> . Yet he remains the fiercest of competitors . He 'll even bull head-on into the rules when he is sure he 's right . That 's how he first won the Masters in 1958 .</context>
+    </instance>
+    <instance id="br-e04#w555_0" docsrc="br-e04">
+      <context> The piano performance on this Trout is one that really demands a search for superlatives . About the Pro_Arte 's contribution I am less happy . I , for one , rather regret that Schnabel did n't collaborate with the Budapest_Quartet , whose rugged , athletic playing was a good_deal closer to this pianist 's interpretative outlook than the style of the Belgian group . From a technical standpoint , the <head>string</head> playing is good , but the Pro_Arte people fail to enter into the spirit of things here . The violinist , in particular , is very indulgent with swoops and slides , and his tone is pinched and edgy . The twenty-five year old recording offers rather faded string tone , but the balance between the instruments is good and the transfer is very quiet . There is a break in continuity just before the fourth variation in the `` Forellen '' movement , and I suspect that this is_due to imperfect splicing between sides of the original SPs .</context>
+    </instance>
+    <instance id="br-e04#w604_0" docsrc="br-e04">
+      <context> I , for one , rather regret that Schnabel did n't collaborate with the Budapest_Quartet , whose rugged , athletic playing was a good_deal closer to this pianist 's interpretative outlook than the style of the Belgian group . From a technical standpoint , the string playing is good , but the Pro_Arte people fail to enter into the spirit of things here . The violinist , in particular , is very indulgent with swoops and slides , and his tone is pinched and edgy . The twenty-five year old recording offers rather faded <head>string</head> tone , but the balance between the instruments is good and the transfer is very quiet . There is a break in continuity just before the fourth variation in the `` Forellen '' movement , and I suspect that this is_due to imperfect splicing between sides of the original SPs . Turning_to the more modern versions , Curzon 's ( London ) offers the most sophisticated keyboard work . Every detail in his interpretation has been beautifully thought_out , and of these I would especially cite the delicious landler touch the pianist brings to the fifth variation ( an obvious indication that he is playing with Viennese musicians ) , and the gossamer shading throughout .</context>
+    </instance>
+    <instance id="br-e04#w915_0" docsrc="br-e04">
+      <context> It is , moreover , a perfectly integrated ensemble effort . But having lived with the disc for some time now , I find the performance less exciting than either Schnabel 's or Fleisher 's ( whose superb performance with the Budapest_Quartet has still to be recorded ) and a good_deal less filled with humor than Curzon 's . Aeschbacher 's work is very_much akin to Schnabel 's , but the sound on his Decca disc is dated , and you will have a hard_time locating a copy of it . The Hephzibah_Menuhin-Amadeus_Quartet ( Angel ) and Victor_Babin-Festival_Quartet ( RCA_Victor ) editions give us superlative <head>string</head> playing ( both in symphonic style ) crippled by unimaginative piano playing . ( Babin has acquired some of Schnabel 's keyboard manner , but his playing is of limited insight . ) Badura-Skoda-Vienna_Konzerthaus ( Westminster ) and Demus-Schubert_Quartet ( Deutsche_Grammophon ) are both warm_toned , pleasantly lyrical , but rather slack and tensionless . Helmut_Roloff , playing with a group of musicians from the Bayreuth_Ensemble , gives a sturdy reading , in much the same vein as that of the last_mentioned pianists .</context>
+    </instance>
+    <instance id="br-f24#w2036_0" docsrc="br-f24">
+      <context> In the village of Soukhouma , which means `` Peaceful '' , we had a baci . This is the most endearing of Lao ceremonies . It takes_place in the household , a rite of well_wishing for myriad occasions - for the traveler , a wedding , a newborn child , the sick , the New Year , for any good purpose . The preparations were elaborate : flowers , candles , incense sticks , rice wine , dozens of delicacies , and pieces of white cotton <head>string</head> . The strings were draped around flowers in tall silver bowls ( page 261 ) . The candles were lighted , and we sat on split bamboo mats among the village notables . I was careful to keep my feet , the seat of the least worthy spirits , from pointing at anyone 's head , where the worthiest spirits reside .</context>
+    </instance>
+    <instance id="br-f24#w2039_0" docsrc="br-f24">
+      <context> This is the most endearing of Lao ceremonies . It takes_place in the household , a rite of well_wishing for myriad occasions - for the traveler , a wedding , a newborn child , the sick , the New Year , for any good purpose . The preparations were elaborate : flowers , candles , incense sticks , rice wine , dozens of delicacies , and pieces of white cotton string . The <head>strings</head> were draped around flowers in tall silver bowls ( page 261 ) . The candles were lighted , and we sat on split bamboo mats among the village notables . I was careful to keep my feet , the seat of the least worthy spirits , from pointing at anyone 's head , where the worthiest spirits reside . Now a distinguished old_man called_on nine divinities to come and join us .</context>
+    </instance>
+    <instance id="br-f24#w2176_0" docsrc="br-f24">
+      <context> A man has 32 souls , one for each part of the body . Those souls like to wander off , and must be called back . With the divinities present and our souls in_place , we were wished health , happiness , and power . Then , one_after_another , the villagers tied the waiting cotton <head>strings</head> around our wrists . These were to be kept on , to hold_in the 32 souls . As we stepped_out into the sunlight , a man came_up_to John_Cool and silently showed him his hand . It had a festering hole as big as a silver_dollar .</context>
+    </instance>
+    <instance id="br-j59#w2106_0" docsrc="br-j59">
+      <context> But even before that , Picasso had glimpsed and entered , for a moment , a certain revolutionary path in which no one had preceded him . It was as though , in_that instant , he had felt the flatness of collage as too constricting and had suddenly tried to escape all_the_way back - or forward - to literal three-dimensionality . This he did by using utterly literal means to carry the forward push of the collage ( and of Cubism in_general ) literally into the literal space in_front of the picture_plane . Some time in 1912 , Picasso cut_out and folded a piece_of_paper in the shape of a guitar ; to this he glued and fitted other pieces_of_paper and four taut <head>strings</head> , thus creating a sequence of flat surfaces in real and sculptural space to which there clung only the vestige of a picture_plane . The affixed elements of collage were extruded , as_it_were , and cut_off from the literal pictorial surface to form a bas-relief .</context>
+    </instance>
+    <instance id="br-k23#w239_0" docsrc="br-k23">
+      <context> She turned and walked stiffly into the parlor to the dainty legged escritoire , warped and cracked now from fifty years in an atmosphere of sea_spray . There she extracted two limp vellum sheets and wrote_off the letters , one to Abel , one to Mark . Once her trembling hand , with the pen grasped tight in it , was pressed against the paper the words came sharply , smoothly , as authoritatively as they would dropping from her own lips . And the stiffly regal look of them , she saw grimly , lacked the quaver of age which , thwarting the efforts of her amazing will , ran through her spoken_words like a thin ragged <head>string</head> . `` Please come_down as_soon_as you conveniently can '' , the upright letters stalked from the broad nibbed pen , `` I have an important matter to discuss with you '' . To Abel : `` I am afraid there is not much to amuse small children here .</context>
+    </instance>
+    <instance id="br-n05#w1461_0" docsrc="br-n05">
+      <context> She brought_up her free hand to hit him , but this time he was quicker . He side-stepped her blow and she fell , stumbling against the gelding . She finally regained her balance and got_up in the saddle . Her hat had come_off and fallen behind her shoulders , held by the <head>string</head> , and he could see her face more clearly than he had at any time before . He had forgotten that she was so pretty . But her prettiness was what he had noticed first , and all the other things had come afterward : cruelty , meanness , self-will .</context>
+    </instance>
+  </lexelt>
+</corpus>

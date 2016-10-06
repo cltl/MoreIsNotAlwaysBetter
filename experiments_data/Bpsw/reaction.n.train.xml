@@ -1,0 +1,1176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="reaction.n" pos="NN">
+    <instance id="Chemical_reaction-reaction-0-1116-5" docsrc="Chemical_reaction">
+      <context> <head>Rapid</head> precipitation results in an amorphous or microcrystalline residue and slow process can yield single crystals . The latter can also be obtained by recrystallization from microcrystalline salts . Reactions can take place between two solids .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-0-1229-1" docsrc="Chemical_reaction">
+      <context> <head>   </head> { \displaystyle { \ce { { R.}+{X2}-&gt;{R{-}X}+{X. } } } }   Reactions during the chain reaction of radical substitution</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-0-1281-1" docsrc="Chemical_reaction">
+      <context> <head>List</head> of organic reactions Organic reaction Reaction progress kinetic analysis</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-0-215-1" docsrc="Chemical_reaction">
+      <context> <head>A</head> change in the concentrations of the reactants does not affect the equilibrium constant , but does affect the equilibrium position . Chemical reactions are determined by the laws of thermodynamics . Reactions can proceed by themselves if they are exergonic , that is if they release energy .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-0-234-1" docsrc="Chemical_reaction">
+      <context> <head> </head> . G : free energy , H : enthalpy , T : temperature , S : entropy , Δ : difference(change between original and product ) Reactions can be exothermic , where ΔH is negative and energy is released .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-0-428-2" docsrc="Chemical_reaction">
+      <context> <head>is</head> favored by low temperatures , but its reverse is favored by high temperature . The shift in reaction direction tendency occurs at 7003110000000000000♠1100 K. Reactions can also be characterized by the internal energy which takes into account changes in the entropy , volume and chemical potential .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-1120-3" docsrc="Chemical_reaction">
+      <context> However <head>,</head> because of the relatively small diffusion rates in solids , the corresponding chemical reactions are very slow in comparison to liquid and gas phase reactions . They are accelerated by increasing the reaction temperature and finely dividing the reactant to increase the contacting surface area . === Reactions at the solid|gas interface ===</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-1129-2" docsrc="Chemical_reaction">
+      <context> In <head>photochemical</head> reactions , atoms and molecules absorb energy ( photons ) of the illumination light and convert into an excited state . They can then release this energy by breaking chemical bonds , thereby producing radicals . Photochemical reactions include hydrogen–oxygen reactions , radical polymerization , chain reactions and rearrangement reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-1145-1" docsrc="Chemical_reaction">
+      <context> === <head>Substitution</head> === In a substitution reaction , a functional group in a particular chemical compound is replaced by another group . These reactions can be distinguished by the type of substituting species into a nucleophilic , electrophilic or radical substitution .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-1246-2" docsrc="Chemical_reaction">
+      <context> === <head>Other</head> organic reaction mechanisms === Biochemical reactions are mainly controlled by enzymes .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-1255-2" docsrc="Chemical_reaction">
+      <context> Biochemical <head>reactions</head> are mainly controlled by enzymes . These proteins can specifically catalyze a single reaction , so that reactions can be controlled very precisely . The reaction takes place in the active site , a small part of the enzyme which is usually found in a cleft or pocket lined by amino acid residues , and the rest of the enzyme is used mainly for stabilization .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-1255-4" docsrc="Chemical_reaction">
+      <context> The <head>reaction</head> takes place in the active site , a small part of the enzyme which is usually found in a cleft or pocket lined by amino acid residues , and the rest of the enzyme is used mainly for stabilization . The catalytic action of enzymes relies on several mechanisms including the molecular shape ( " induced fit " ) , bond strain , proximity and orientation of molecules relative to the enzyme , proton donation or withdrawal ( acid/base catalysis ) , electrostatic interactions and many others . Chemical reactions are central to chemical engineering where they are used for the synthesis of new compounds from natural raw materials such as petroleum and mineral ores .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-1261-3" docsrc="Chemical_reaction">
+      <context> It <head>is</head> essential to make the reaction as efficient as possible , maximizing the yield and minimizing the amount of reagents , energy inputs and waste . Catalysts are especially helpful for reducing the energy required for the reaction and increasing its reaction rate . Chemical reaction</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-1274-1" docsrc="Chemical_reaction">
+      <context> Catalyst <head>Product</head> Chemical reaction model</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-1280-1" docsrc="Chemical_reaction">
+      <context> Limiting <head>reagent</head> List of organic reactions Organic reaction</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-205-1" docsrc="Chemical_reaction">
+      <context>     <head>{</head> \displaystyle { \ce { { NaCl}+{AgNO3}-&gt;{NaNO3}+{AgCl(v ) } } } }   The reaction yield stabilizes at equilibrium , but can be increased by removing the product from the reaction mixture or changed by increasing the temperature or pressure .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-211-2" docsrc="Chemical_reaction">
+      <context> The <head>reaction</head> yield stabilizes at equilibrium , but can be increased by removing the product from the reaction mixture or changed by increasing the temperature or pressure . A change in the concentrations of the reactants does not affect the equilibrium constant , but does affect the equilibrium position . Chemical reactions are determined by the laws of thermodynamics .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-322-1" docsrc="Chemical_reaction">
+      <context>     <head>{</head> \displaystyle \Delta H^{o}=+21.86\ { \text{kJ at 298 K } } }   This reaction to form carbon dioxide and molybdenum is endothermic at low temperatures , becoming less so with increasing temperature .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-4-2" docsrc="Chemical_reaction">
+      <context> Different <head>chemical</head> reactions are used in combinations during chemical synthesis in order to obtain a desired product . In biochemistry , a consecutive series of chemical reactions ( where the product of one reaction is the reactant of the next reaction ) form metabolic pathways . These reactions are often catalyzed by protein enzymes .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-468-1" docsrc="Chemical_reaction">
+      <context> The <head>rate</head> depends on various parameters , such as : Reactant concentrations , which usually make the reaction happen at a faster rate if raised through increased collisions per unit time . Some reactions , however , have rates that are independent of reactant concentrations .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-609-1" docsrc="Chemical_reaction">
+      <context> ==== <head>Synthesis</head> ==== In a synthesis reaction , two or more simple substances combine to form a more complex substance . These reactions are in the general form :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-824-1" docsrc="Chemical_reaction">
+      <context> ==== <head>Double</head> replacement ==== In a double replacement reaction , the anions and cations of two compounds switch places and form two entirely different compounds . These reactions are in the general form :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-917-1" docsrc="Chemical_reaction">
+      <context>   <head>===</head> Oxidation and reduction === Redox reactions can be understood in terms of transfer of electrons from one involved species ( reducing agent ) to another ( oxidizing agent ) .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-977-1" docsrc="Chemical_reaction">
+      <context> 4 <head>can</head> gain one or two extra electrons and are strong oxidizing agents . An important class of redox reactions are the electrochemical reactions , where electrons from the power supply are used as the reducing agent . These reactions are particularly important for the production of chemical elements , such as chlorine or aluminium .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-1-982-4" docsrc="Chemical_reaction">
+      <context> The <head>ligands</head> are Lewis bases , they can be both ions and neutral molecules , such as carbon monoxide , ammonia or water . The number of ligands that react with a central metal atom can be found using the 18-electron rule , saying that the valence shells of a transition metal will collectively accommodate 18 electrons , whereas the symmetry of the resulting complex can be predicted with the crystal field theory and ligand field theory . Complexation reactions also include ligand exchange , in which one or more ligands are replaced by another , and redox processes which change the oxidation state of the central metal atom .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-10-1129-2" docsrc="Chemical_reaction">
+      <context> In photochemical reactions , atoms and molecules absorb energy ( <head>photons</head> ) of the illumination light and convert into an excited state . They can then release this energy by breaking chemical bonds , thereby producing radicals . Photochemical reactions include hydrogen–oxygen reactions , radical polymerization , chain reactions and rearrangement reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-10-1233-1" docsrc="Chemical_reaction">
+      <context> Reactions during the chain reaction of radical substitution === Addition <head>and</head> elimination === The addition and its counterpart , the elimination , are reactions which change the number of substitutents on the carbon atom , and form or cleave multiple bonds .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-10-1234-2" docsrc="Chemical_reaction">
+      <context> The addition and its counterpart , the elimination , are <head>reactions</head> which change the number of substitutents on the carbon atom , and form or cleave multiple bonds . Double and triple bonds can be produced by eliminating a suitable leaving group . Similar to the nucleophilic substitution , there are several possible reaction mechanisms which are named after the respective reaction order .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-10-1239-1" docsrc="Chemical_reaction">
+      <context> This rule states that " In the heterolytic addition of <head>a</head> polar molecule to an alkene or alkyne , the more electronegative ( nucleophilic ) atom ( or part ) of the polar molecule becomes attached to the carbon atom bearing the smaller number of hydrogen atoms . " If the addition of a functional group takes place at the less substituted carbon atom of the double bond , then the electrophilic substitution with acids is not possible . In this case , one has to use the hydroboration–oxidation reaction , where in the first step , the boron atom acts as electrophile and adds to the less substituted carbon atom .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-10-463-1" docsrc="Chemical_reaction">
+      <context>   U : internal energy , S : entropy , <head>p</head> : pressure , μ : chemical potential , n : number of molecules , d : small change sign The speed at which reactions takes place is studied by reaction kinetics .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-10-85-3" docsrc="Chemical_reaction">
+      <context> Also , some relatively minor additions to the reaction can <head>be</head> indicated above the reaction arrow ; examples of such additions are water , heat , illumination , a catalyst , etc . Similarly , some minor products can be placed below the arrow , often with a minus sign . Retrosynthetic analysis can be applied to design a complex synthesis reaction .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-10-87-2" docsrc="Chemical_reaction">
+      <context> Retrosynthetic analysis can be applied to design a complex synthesis <head>reaction</head> . Here the analysis starts from the products , for example by splitting selected chemical bonds , to arrive at plausible initial reagents . A special arrow ( ⇒ ) is used in retro reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-10-91-1" docsrc="Chemical_reaction">
+      <context> A special arrow ( ⇒ ) is used in retro <head>reactions</head> . The elementary reaction is the smallest division into which a chemical reaction can be decomposed , it has no intermediate products . Most experimentally observed reactions are built up from many elementary reactions that occur in parallel or sequentially .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-10-977-2" docsrc="Chemical_reaction">
+      <context> An important class of redox reactions are the electrochemical reactions <head>,</head> where electrons from the power supply are used as the reducing agent . These reactions are particularly important for the production of chemical elements , such as chlorine or aluminium . The reverse process in which electrons are released in redox reactions and can be used as electrical energy is possible and used in batteries .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-11-1255-1" docsrc="Chemical_reaction">
+      <context> Other organic reaction mechanisms === Biochemical reactions are mainly controlled by <head>enzymes</head> . These proteins can specifically catalyze a single reaction , so that reactions can be controlled very precisely .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-11-1261-2" docsrc="Chemical_reaction">
+      <context> Chemical reactions are central to chemical engineering where they are used <head>for</head> the synthesis of new compounds from natural raw materials such as petroleum and mineral ores . It is essential to make the reaction as efficient as possible , maximizing the yield and minimizing the amount of reagents , energy inputs and waste . Catalysts are especially helpful for reducing the energy required for the reaction and increasing its reaction rate .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-11-323-2" docsrc="Chemical_reaction">
+      <context> This reaction to form carbon dioxide and molybdenum is endothermic at <head>low</head> temperatures , becoming less so with increasing temperature . ΔH° is zero at 7003185500000000000♠1855 K , and the reaction becomes exothermic above that temperature . Changes in temperature can also reverse the direction tendency of a reaction .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-11-4-4" docsrc="Chemical_reaction">
+      <context> These reactions are often catalyzed by protein enzymes . Enzymes increase <head>the</head> rates of biochemical reactions , so that metabolic syntheses and decompositions impossible under ordinary conditions can occur at the temperatures and concentrations present within a cell . The general concept of a chemical reaction has been extended to reactions between entities smaller than atoms , including nuclear reactions , radioactive decays , and reactions between elementary particles as described by quantum field theory .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-11-87-3" docsrc="Chemical_reaction">
+      <context> Here the analysis starts from the products , for example by <head>splitting</head> selected chemical bonds , to arrive at plausible initial reagents . A special arrow ( ⇒ ) is used in retro reactions . The elementary reaction is the smallest division into which a chemical reaction can be decomposed , it has no intermediate products .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-11-91-2" docsrc="Chemical_reaction">
+      <context> The elementary reaction is the smallest division into which a chemical <head>reaction</head> can be decomposed , it has no intermediate products . Most experimentally observed reactions are built up from many elementary reactions that occur in parallel or sequentially . The actual sequence of the individual elementary reactions is known as reaction mechanism .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-12-1129-3" docsrc="Chemical_reaction">
+      <context> They can then release this energy by breaking chemical bonds , thereby <head>producing</head> radicals . Photochemical reactions include hydrogen–oxygen reactions , radical polymerization , chain reactions and rearrangement reactions . In catalysis , the reaction does not proceed directly , but through reaction with a third substance known as catalyst .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-12-19-3" docsrc="Chemical_reaction">
+      <context> They consist of chemical or structural formulas of the reactants on the <head>left</head> and those of the products on the right . They are separated by an arrow ( → ) which indicates the direction and type of the reaction ; the arrow is read as the word " yields " . The tip of the arrow points in the direction in which the reaction proceeds .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-12-473-1" docsrc="Chemical_reaction">
+      <context> Temperature , which hastens reactions if raised , since higher temperature increases <head>the</head> energy of the molecules , creating more collisions per unit time , The presence or absence of a catalyst . Catalysts are substances which change the pathway ( mechanism ) of a reaction which in turn increases the speed of a reaction by lowering the activation energy needed for the reaction to take place .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-13-1129-2" docsrc="Chemical_reaction">
+      <context> In photochemical reactions , atoms and molecules absorb energy ( photons ) of <head>the</head> illumination light and convert into an excited state . They can then release this energy by breaking chemical bonds , thereby producing radicals . Photochemical reactions include hydrogen–oxygen reactions , radical polymerization , chain reactions and rearrangement reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-13-236-6" docsrc="Chemical_reaction">
+      <context> Since the entropy increases with temperature , many endothermic reactions preferably take place <head>at</head> high temperatures . On the contrary , many exothermic reactions such as crystallization occur at low temperatures . Changes in temperature can sometimes reverse the sign of the enthalpy of a reaction , as for the carbon monoxide reduction of molybdenum dioxide :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-14-19-4" docsrc="Chemical_reaction">
+      <context> They are separated by an arrow ( → ) which indicates the direction and <head>type</head> of the reaction ; the arrow is read as the word " yields " . The tip of the arrow points in the direction in which the reaction proceeds . A double arrow ( ⇌ ) pointing in opposite directions is used for equilibrium reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-14-471-1" docsrc="Chemical_reaction">
+      <context> Pressure – increasing the pressure decreases the volume between molecules and therefore increases the <head>frequency</head> of collisions between the molecules . Activation energy , which is defined as the amount of energy required to make the reaction start and carry on spontaneously . Higher activation energy implies that the reactants need more energy to start than a reaction with a lower activation energy .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-14-628-1" docsrc="Chemical_reaction">
+      <context>     { \displaystyle { \ce { { A}+{B}-&gt;AB } } }   Two or <head>more</head> reactants yielding one product is another way to identify a synthesis reaction .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-14-85-1" docsrc="Chemical_reaction">
+      <context>   More elaborate reactions are represented by reaction schemes , which in addition to <head>starting</head> materials and products show important intermediates or transition states . Also , some relatively minor additions to the reaction can be indicated above the reaction arrow ; examples of such additions are water , heat , illumination , a catalyst , etc .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-15-1120-1" docsrc="Chemical_reaction">
+      <context> The latter can also be obtained by recrystallization from microcrystalline salts . Reactions can take <head>place</head> between two solids . However , because of the relatively small diffusion rates in solids , the corresponding chemical reactions are very slow in comparison to liquid and gas phase reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-15-1261-2" docsrc="Chemical_reaction">
+      <context> Chemical reactions are central to chemical engineering where they are used for the synthesis of <head>new</head> compounds from natural raw materials such as petroleum and mineral ores . It is essential to make the reaction as efficient as possible , maximizing the yield and minimizing the amount of reagents , energy inputs and waste . Catalysts are especially helpful for reducing the energy required for the reaction and increasing its reaction rate .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-15-4-1" docsrc="Chemical_reaction">
+      <context> Typically , reaction rates increase with increasing temperature because there is more thermal energy available <head>to</head> reach the activation energy necessary for breaking bonds between atoms . Different chemical reactions are used in combinations during chemical synthesis in order to obtain a desired product . In biochemistry , a consecutive series of chemical reactions ( where the product of one reaction is the reactant of the next reaction ) form metabolic pathways .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-15-470-1" docsrc="Chemical_reaction">
+      <context> Larger surface areas lead to higher reaction rates . Pressure – increasing the pressure decreases <head>the</head> volume between molecules and therefore increases the frequency of collisions between the molecules . Activation energy , which is defined as the amount of energy required to make the reaction start and carry on spontaneously .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-15-94-4" docsrc="Chemical_reaction">
+      <context> In the first case , the bond is divided so that each product retains an <head>electron</head> and becomes a neutral radical . In the second case , both electrons of the chemical bond remain with one of the products , resulting in charged ions . Dissociation plays an important role in triggering chain reactions , such as hydrogen–oxygen or polymerization reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-17-1114-1" docsrc="Chemical_reaction">
+      <context> Arrhenius definition : Acids dissociate in water releasing H3O+ ions ; bases dissociate in water releasing OH− <head>ions</head> . === Precipitation === Precipitation is the formation of a solid in a solution or inside another solid during a chemical reaction .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-17-19-2" docsrc="Chemical_reaction">
+      <context> Chemical equations are used to graphically illustrate chemical reactions . They consist of chemical or structural formulas <head>of</head> the reactants on the left and those of the products on the right . They are separated by an arrow ( → ) which indicates the direction and type of the reaction ; the arrow is read as the word " yields " .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-17-205-1" docsrc="Chemical_reaction">
+      <context>     { \displaystyle { \ce { { NaCl}+{AgNO3}-&gt;{NaNO3}+{AgCl(v ) } } } }   The reaction yield <head>stabilizes</head> at equilibrium , but can be increased by removing the product from the reaction mixture or changed by increasing the temperature or pressure .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-17-236-3" docsrc="Chemical_reaction">
+      <context> Typical examples of exothermic reactions are precipitation and crystallization , in which ordered solids are formed from <head>disordered</head> gaseous or liquid phases . In contrast , in endothermic reactions , heat is consumed from the environment . This can occur by increasing the entropy of the system , often through the formation of gaseous reaction products , which have high entropy .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-18-1136-2" docsrc="Chemical_reaction">
+      <context> Heterogeneous catalysts are usually solids , powdered in order to maximize their surface area . Of particular importance <head>in</head> heterogeneous catalysis are the platinum group metals and other transition metals , which are used in hydrogenations , catalytic reforming and in the synthesis of commodity chemicals such as nitric acid and ammonia . Acids are an example of a homogeneous catalyst , they increase the nucleophilicity of carbonyls , allowing a reaction that would not otherwise proceed with electrophiles .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-18-1234-2" docsrc="Chemical_reaction">
+      <context> The addition and its counterpart , the elimination , are reactions which change the number of substitutents on <head>the</head> carbon atom , and form or cleave multiple bonds . Double and triple bonds can be produced by eliminating a suitable leaving group . Similar to the nucleophilic substitution , there are several possible reaction mechanisms which are named after the respective reaction order .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-18-919-4" docsrc="Chemical_reaction">
+      <context> Though sufficient for many purposes , these descriptions are not precisely correct . Oxidation is better defined as <head>an</head> increase in oxidation state , and reduction as a decrease in oxidation state . In practice , the transfer of electrons will always change the oxidation state , but there are many reactions that are classed as " redox " even though no electron transfer occurs ( such as those involving covalent bonds ) .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-1123-1" docsrc="Chemical_reaction">
+      <context> They are <head>accelerated</head> by increasing the reaction temperature and finely dividing the reactant to increase the contacting surface area . === Reactions at the solid|gas interface === === Photochemical reactions ===</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-1127-1" docsrc="Chemical_reaction">
+      <context> === Reactions <head>at</head> the solid|gas interface === === Photochemical reactions === In photochemical reactions , atoms and molecules absorb energy ( photons ) of the illumination light and convert into an excited state .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-114-1" docsrc="Chemical_reaction">
+      <context>   Dissociation <head>of</head> a molecule AB into fragments A and B For bimolecular reactions , two molecules collide and react with each other .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-1147-8" docsrc="Chemical_reaction">
+      <context> Nucleophilic substitution <head>can</head> take place by two different mechanisms , SN1 and SN2 . In their names , S stands for substitution , N for nucleophilic , and the number represents the kinetic order of the reaction , unimolecular or bimolecular . The SN1 reaction proceeds in two steps .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-1246-1" docsrc="Chemical_reaction">
+      <context> This is <head>one</head> of the most useful methods for the mild formation of C–C bonds . === Other organic reaction mechanisms ===</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-2-1" docsrc="Chemical_reaction">
+      <context> Chemical reactions <head>happen</head> at a characteristic reaction rate at a given temperature and chemical concentration . Typically , reaction rates increase with increasing temperature because there is more thermal energy available to reach the activation energy necessary for breaking bonds between atoms .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-2-2" docsrc="Chemical_reaction">
+      <context> Chemical reactions <head>happen</head> at a characteristic reaction rate at a given temperature and chemical concentration . Typically , reaction rates increase with increasing temperature because there is more thermal energy available to reach the activation energy necessary for breaking bonds between atoms . Different chemical reactions are used in combinations during chemical synthesis in order to obtain a desired product .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-473-3" docsrc="Chemical_reaction">
+      <context> Catalysts are <head>substances</head> which change the pathway ( mechanism ) of a reaction which in turn increases the speed of a reaction by lowering the activation energy needed for the reaction to take place . A catalyst is not destroyed or changed during a reaction , so it can be used again . For some reactions , the presence of electromagnetic radiation , most notably ultraviolet light , is needed to promote the breaking of bonds to start the reaction .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-662-1" docsrc="Chemical_reaction">
+      <context> Another example <head>is</head> simple hydrogen gas combined with simple oxygen gas to produce a more complex substance , such as water . ==== Decomposition ==== A decomposition reaction is when a more complex substance breaks down into its more simple parts .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-84-1" docsrc="Chemical_reaction">
+      <context>     { <head>\displaystyle</head> { \ce { { { \mathit { a}}A}+{\mathit { b}}B-&gt;{{\mathit { c}}C}+{\mathit { d}}D } } }   More elaborate reactions are represented by reaction schemes , which in addition to starting materials and products show important intermediates or transition states .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-87-3" docsrc="Chemical_reaction">
+      <context> Here the <head>analysis</head> starts from the products , for example by splitting selected chemical bonds , to arrive at plausible initial reagents . A special arrow ( ⇒ ) is used in retro reactions . The elementary reaction is the smallest division into which a chemical reaction can be decomposed , it has no intermediate products .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-91-3" docsrc="Chemical_reaction">
+      <context> Most experimentally <head>observed</head> reactions are built up from many elementary reactions that occur in parallel or sequentially . The actual sequence of the individual elementary reactions is known as reaction mechanism . An elementary reaction involves a few molecules , usually one or two , because of the low probability for several molecules to meet at a certain time .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-966-1" docsrc="Chemical_reaction">
+      <context>     { <head>\displaystyle</head> { \ce { { 2Na(s)}+{Cl2(g)}-&gt;2NaCl(s ) } } }   In the reaction , sodium metal goes from an oxidation state of 0 ( as it is a pure element ) to +1 : in other words , the sodium lost one electron and is said to have been oxidized .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-2-980-1" docsrc="Chemical_reaction">
+      <context> The reverse <head>process</head> in which electrons are released in redox reactions and can be used as electrical energy is possible and used in batteries . === Complexation === In complexation reactions , several ligands react with a metal atom to form a coordination complex .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-20-4-4" docsrc="Chemical_reaction">
+      <context> These reactions are often catalyzed by protein enzymes . Enzymes increase the rates of biochemical reactions , so that metabolic <head>syntheses</head> and decompositions impossible under ordinary conditions can occur at the temperatures and concentrations present within a cell . The general concept of a chemical reaction has been extended to reactions between entities smaller than atoms , including nuclear reactions , radioactive decays , and reactions between elementary particles as described by quantum field theory .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-21-1135-1" docsrc="Chemical_reaction">
+      <context> Photochemical reactions include hydrogen–oxygen reactions , radical polymerization , chain reactions and rearrangement reactions . In catalysis , the reaction does <head>not</head> proceed directly , but through reaction with a third substance known as catalyst . Although the catalyst takes part in the reaction , it is returned to its original state by the end of the reaction and so is not consumed .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-21-473-1" docsrc="Chemical_reaction">
+      <context> Temperature , which hastens reactions if raised , since higher temperature increases the energy of the molecules , creating more collisions <head>per</head> unit time , The presence or absence of a catalyst . Catalysts are substances which change the pathway ( mechanism ) of a reaction which in turn increases the speed of a reaction by lowering the activation energy needed for the reaction to take place .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-22-1147-7" docsrc="Chemical_reaction">
+      <context> The latter have high electron density and enter nucleophilic aromatic substitution only with very strong electron withdrawing groups . Nucleophilic substitution can <head>take</head> place by two different mechanisms , SN1 and SN2 . In their names , S stands for substitution , N for nucleophilic , and the number represents the kinetic order of the reaction , unimolecular or bimolecular .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-22-4-1" docsrc="Chemical_reaction">
+      <context> Typically , reaction rates increase with increasing temperature because there is more thermal energy available to reach the activation energy necessary for <head>breaking</head> bonds between atoms . Different chemical reactions are used in combinations during chemical synthesis in order to obtain a desired product . In biochemistry , a consecutive series of chemical reactions ( where the product of one reaction is the reactant of the next reaction ) form metabolic pathways .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-25-1239-3" docsrc="Chemical_reaction">
+      <context> In this case , one has to use the hydroboration–oxidation reaction , where in the first step , the boron atom acts as electrophile and <head>adds</head> to the less substituted carbon atom . At the second step , the nucleophilic hydroperoxide or halogen anion attacks the boron atom . Nucleophilic addition of a carbanion or another nucleophile to the double bond of an alpha , beta unsaturated carbonyl compound can proceed via the Michael reaction , which belongs to the larger class of conjugate additions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-26-1120-1" docsrc="Chemical_reaction">
+      <context> The latter can also be obtained by recrystallization from microcrystalline salts . Reactions can take place between two solids . However , because of the relatively <head>small</head> diffusion rates in solids , the corresponding chemical reactions are very slow in comparison to liquid and gas phase reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-26-4-4" docsrc="Chemical_reaction">
+      <context> These reactions are often catalyzed by protein enzymes . Enzymes increase the rates of biochemical reactions , so that metabolic syntheses and decompositions impossible under ordinary <head>conditions</head> can occur at the temperatures and concentrations present within a cell . The general concept of a chemical reaction has been extended to reactions between entities smaller than atoms , including nuclear reactions , radioactive decays , and reactions between elementary particles as described by quantum field theory .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-26-473-3" docsrc="Chemical_reaction">
+      <context> Catalysts are substances which change the pathway ( mechanism ) of a reaction which in turn increases the speed of a reaction by lowering the activation <head>energy</head> needed for the reaction to take place . A catalyst is not destroyed or changed during a reaction , so it can be used again . For some reactions , the presence of electromagnetic radiation , most notably ultraviolet light , is needed to promote the breaking of bonds to start the reaction .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-3-1144-1" docsrc="Chemical_reaction">
+      <context> Therefore , heterogeneous <head>catalysts</head> are preferred in many industrial processes . === Substitution === In a substitution reaction , a functional group in a particular chemical compound is replaced by another group .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-3-1147-4" docsrc="Chemical_reaction">
+      <context> The nucleophile may <head>be</head> electrically neutral or negatively charged , whereas the substrate is typically neutral or positively charged . Examples of nucleophiles are hydroxide ion , alkoxides , amines and halides . This type of reaction is found mainly in aliphatic hydrocarbons , and rarely in aromatic hydrocarbon .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-3-1279-1" docsrc="Chemical_reaction">
+      <context> Chemistry Limiting reagent <head>List</head> of organic reactions</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-3-428-1" docsrc="Chemical_reaction">
+      <context>   is favored <head>by</head> low temperatures , but its reverse is favored by high temperature . The shift in reaction direction tendency occurs at 7003110000000000000♠1100 K.</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-3-607-1" docsrc="Chemical_reaction">
+      <context> === Four basic <head>types</head> === ==== Synthesis ==== In a synthesis reaction , two or more simple substances combine to form a more complex substance .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-3-91-1" docsrc="Chemical_reaction">
+      <context> A special arrow <head>(</head> ⇒ ) is used in retro reactions . The elementary reaction is the smallest division into which a chemical reaction can be decomposed , it has no intermediate products . Most experimentally observed reactions are built up from many elementary reactions that occur in parallel or sequentially .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-30-473-1" docsrc="Chemical_reaction">
+      <context> Temperature , which hastens reactions if raised , since higher temperature increases the energy of the molecules , creating more collisions per unit time , The presence or absence of <head>a</head> catalyst . Catalysts are substances which change the pathway ( mechanism ) of a reaction which in turn increases the speed of a reaction by lowering the activation energy needed for the reaction to take place .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-31-735-1" docsrc="Chemical_reaction">
+      <context>   ==== Single replacement ==== In a single replacement reaction , a single uncombined element replaces another in a compound ; in other words , one element trades places with another <head>element</head> in a compound These reactions come in the general form of :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-34-14-3" docsrc="Chemical_reaction">
+      <context> According to the concept of vitalism , organic matter was endowed with a " vital force " and distinguished from inorganic materials . This separation was ended however by the synthesis of urea from <head>inorganic</head> precursors by Friedrich Wöhler in 1828 . Other chemists who brought major contributions to organic chemistry include Alexander William Williamson with his synthesis of ethers and Christopher Kelk Ingold , who , among many discoveries , established the mechanisms of substitution reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-4-1129-2" docsrc="Chemical_reaction">
+      <context> In photochemical reactions , <head>atoms</head> and molecules absorb energy ( photons ) of the illumination light and convert into an excited state . They can then release this energy by breaking chemical bonds , thereby producing radicals . Photochemical reactions include hydrogen–oxygen reactions , radical polymerization , chain reactions and rearrangement reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-4-1129-3" docsrc="Chemical_reaction">
+      <context> They can then release <head>this</head> energy by breaking chemical bonds , thereby producing radicals . Photochemical reactions include hydrogen–oxygen reactions , radical polymerization , chain reactions and rearrangement reactions . In catalysis , the reaction does not proceed directly , but through reaction with a third substance known as catalyst .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-4-1229-1" docsrc="Chemical_reaction">
+      <context>     { \displaystyle { <head>\ce</head> { { R.}+{X2}-&gt;{R{-}X}+{X. } } } }   Reactions during the chain reaction of radical substitution</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-4-1238-1" docsrc="Chemical_reaction">
+      <context> Because of the similar <head>conditions</head> , both reactions in the E1 or E1cb elimination always compete with the SN1 substitution . The counterpart of elimination is the addition where double or triple bonds are converted into single bonds . Similar to the substitution reactions , there are several types of additions distinguished by the type of the attacking particle .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-4-236-1" docsrc="Chemical_reaction">
+      <context> G : free energy <head>,</head> H : enthalpy , T : temperature , S : entropy , Δ : difference(change between original and product ) Reactions can be exothermic , where ΔH is negative and energy is released . Typical examples of exothermic reactions are precipitation and crystallization , in which ordered solids are formed from disordered gaseous or liquid phases .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-4-463-1" docsrc="Chemical_reaction">
+      <context>   U : internal <head>energy</head> , S : entropy , p : pressure , μ : chemical potential , n : number of molecules , d : small change sign The speed at which reactions takes place is studied by reaction kinetics .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-4-471-2" docsrc="Chemical_reaction">
+      <context> Activation energy , which <head>is</head> defined as the amount of energy required to make the reaction start and carry on spontaneously . Higher activation energy implies that the reactants need more energy to start than a reaction with a lower activation energy . Temperature , which hastens reactions if raised , since higher temperature increases the energy of the molecules , creating more collisions per unit time ,</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-4-735-1" docsrc="Chemical_reaction">
+      <context>   ==== Single replacement <head>====</head> In a single replacement reaction , a single uncombined element replaces another in a compound ; in other words , one element trades places with another element in a compound These reactions come in the general form of :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-4-823-1" docsrc="Chemical_reaction">
+      <context>   ==== Double replacement <head>====</head> In a double replacement reaction , the anions and cations of two compounds switch places and form two entirely different compounds .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-4-91-4" docsrc="Chemical_reaction">
+      <context> The actual sequence of <head>the</head> individual elementary reactions is known as reaction mechanism . An elementary reaction involves a few molecules , usually one or two , because of the low probability for several molecules to meet at a certain time . In a typical dissociation reaction , a bond in a molecule splits ( ruptures ) resulting in two molecular fragments .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-4-919-5" docsrc="Chemical_reaction">
+      <context> Oxidation is better defined <head>as</head> an increase in oxidation state , and reduction as a decrease in oxidation state . In practice , the transfer of electrons will always change the oxidation state , but there are many reactions that are classed as " redox " even though no electron transfer occurs ( such as those involving covalent bonds ) . In the following redox reaction , hazardous sodium metal reacts with toxic chlorine gas to form the ionic compound sodium chloride , or common table salt :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-5-1135-7" docsrc="Chemical_reaction">
+      <context> Additionally , heterogeneous catalysts can <head>dissolve</head> into the solution in a solid–liquid system or evaporate in a solid–gas system . Catalysts can only speed up the reaction – chemicals that slow down the reaction are called inhibitors .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-5-1135-9" docsrc="Chemical_reaction">
+      <context> chemicals that slow down the <head>reaction</head> are called inhibitors . Substances that increase the activity of catalysts are called promoters , and substances that deactivate catalysts are called catalytic poisons . With a catalyst , a reaction which is kinetically inhibited by a high activation energy can take place in circumvention of this activation energy .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-5-236-2" docsrc="Chemical_reaction">
+      <context> Reactions can be exothermic , <head>where</head> ΔH is negative and energy is released . Typical examples of exothermic reactions are precipitation and crystallization , in which ordered solids are formed from disordered gaseous or liquid phases . In contrast , in endothermic reactions , heat is consumed from the environment .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-5-468-2" docsrc="Chemical_reaction">
+      <context> Reactant concentrations , which usually <head>make</head> the reaction happen at a faster rate if raised through increased collisions per unit time . Some reactions , however , have rates that are independent of reactant concentrations . These are called zero order reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-5-474-1" docsrc="Chemical_reaction">
+      <context> A catalyst is not destroyed <head>or</head> changed during a reaction , so it can be used again . For some reactions , the presence of electromagnetic radiation , most notably ultraviolet light , is needed to promote the breaking of bonds to start the reaction . This is particularly true for reactions involving radicals .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-5-629-1" docsrc="Chemical_reaction">
+      <context>   Two or more reactants <head>yielding</head> one product is another way to identify a synthesis reaction . One example of a synthesis reaction is the combination of iron and sulfur to form iron(II ) sulfide :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-5-683-1" docsrc="Chemical_reaction">
+      <context>     { \displaystyle { \ce <head>{</head> AB-&gt;{A}+{B } } } }   One example of a decomposition reaction is the electrolysis of water to make oxygen and hydrogen gas :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-5-975-1" docsrc="Chemical_reaction">
+      <context> 7 , OsO 4 can <head>gain</head> one or two extra electrons and are strong oxidizing agents . An important class of redox reactions are the electrochemical reactions , where electrons from the power supply are used as the reducing agent .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-1120-2" docsrc="Chemical_reaction">
+      <context> Reactions can take place between two <head>solids</head> . However , because of the relatively small diffusion rates in solids , the corresponding chemical reactions are very slow in comparison to liquid and gas phase reactions . They are accelerated by increasing the reaction temperature and finely dividing the reactant to increase the contacting surface area .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-1135-6" docsrc="Chemical_reaction">
+      <context> In heterogeneous catalysis , typical secondary <head>processes</head> include coking where the catalyst becomes covered by polymeric side products . Additionally , heterogeneous catalysts can dissolve into the solution in a solid–liquid system or evaporate in a solid–gas system . Catalysts can only speed up the reaction –</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-1149-2" docsrc="Chemical_reaction">
+      <context> The SN1 reaction proceeds in two <head>steps</head> . First , the leaving group is eliminated creating a carbocation . This is followed by a rapid reaction with the nucleophile .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-1261-1" docsrc="Chemical_reaction">
+      <context> The catalytic action of enzymes relies <head>on</head> several mechanisms including the molecular shape ( " induced fit " ) , bond strain , proximity and orientation of molecules relative to the enzyme , proton donation or withdrawal ( acid/base catalysis ) , electrostatic interactions and many others . Chemical reactions are central to chemical engineering where they are used for the synthesis of new compounds from natural raw materials such as petroleum and mineral ores . It is essential to make the reaction as efficient as possible , maximizing the yield and minimizing the amount of reagents , energy inputs and waste .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-215-2" docsrc="Chemical_reaction">
+      <context> Chemical reactions are determined by the <head>laws</head> of thermodynamics . Reactions can proceed by themselves if they are exergonic , that is if they release energy . The associated free energy of the reaction is composed of two different thermodynamic quantities , enthalpy and entropy :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-236-5" docsrc="Chemical_reaction">
+      <context> This can occur by increasing the <head>entropy</head> of the system , often through the formation of gaseous reaction products , which have high entropy . Since the entropy increases with temperature , many endothermic reactions preferably take place at high temperatures . On the contrary , many exothermic reactions such as crystallization occur at low temperatures .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-4-3" docsrc="Chemical_reaction">
+      <context> In biochemistry , a consecutive series <head>of</head> chemical reactions ( where the product of one reaction is the reactant of the next reaction ) form metabolic pathways . These reactions are often catalyzed by protein enzymes . Enzymes increase the rates of biochemical reactions , so that metabolic syntheses and decompositions impossible under ordinary conditions can occur at the temperatures and concentrations present within a cell .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-4-4" docsrc="Chemical_reaction">
+      <context> These reactions are often catalyzed by <head>protein</head> enzymes . Enzymes increase the rates of biochemical reactions , so that metabolic syntheses and decompositions impossible under ordinary conditions can occur at the temperatures and concentrations present within a cell . The general concept of a chemical reaction has been extended to reactions between entities smaller than atoms , including nuclear reactions , radioactive decays , and reactions between elementary particles as described by quantum field theory .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-469-1" docsrc="Chemical_reaction">
+      <context> These are called zero order reactions <head>.</head> Surface area available for contact between the reactants , in particular solid ones in heterogeneous systems . Larger surface areas lead to higher reaction rates .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-598-1" docsrc="Chemical_reaction">
+      <context>   where Ea is the activation <head>energy</head> and kB is the Boltzmann constant . One of the simplest models of reaction rate is the collision theory .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-761-1" docsrc="Chemical_reaction">
+      <context>     { \displaystyle { \ce { <head>{</head> A}+{BC}-&gt;{AC}+{B } } } }   One example of a single displacement reaction is when magnesium replaces hydrogen in water to make magnesium hydroxide and hydrogen gas :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-84-1" docsrc="Chemical_reaction">
+      <context>     { \displaystyle { \ce { <head>{</head> { \mathit { a}}A}+{\mathit { b}}B-&gt;{{\mathit { c}}C}+{\mathit { d}}D } } }   More elaborate reactions are represented by reaction schemes , which in addition to starting materials and products show important intermediates or transition states .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-6-850-1" docsrc="Chemical_reaction">
+      <context>   For example , when barium <head>chloride</head> ( BaCl2 ) and magnesium sulfate ( MgSO4 ) react , the SO42− anion switches places with the 2Cl− anion , giving the compounds BaSO4 and MgCl2 . Another example of a double displacement reaction is the reaction of lead(II ) nitrate with potassium iodide to form lead(II ) iodide and potassium nitrate :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-7-1135-1" docsrc="Chemical_reaction">
+      <context> Photochemical reactions include hydrogen–oxygen reactions , radical <head>polymerization</head> , chain reactions and rearrangement reactions . In catalysis , the reaction does not proceed directly , but through reaction with a third substance known as catalyst . Although the catalyst takes part in the reaction , it is returned to its original state by the end of the reaction and so is not consumed .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-7-1234-7" docsrc="Chemical_reaction">
+      <context> The leaving order is reversed in the <head>E1cb</head> mechanism , that is the proton is split off first . This mechanism requires participation of a base . Because of the similar conditions , both reactions in the E1 or E1cb elimination always compete with the SN1 substitution .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-7-1255-1" docsrc="Chemical_reaction">
+      <context> Other organic reaction mechanisms === Biochemical reactions <head>are</head> mainly controlled by enzymes . These proteins can specifically catalyze a single reaction , so that reactions can be controlled very precisely .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-7-324-1" docsrc="Chemical_reaction">
+      <context> ΔH° is zero at 7003185500000000000♠1855 K , <head>and</head> the reaction becomes exothermic above that temperature . Changes in temperature can also reverse the direction tendency of a reaction . For example , the water gas shift reaction</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-7-467-2" docsrc="Chemical_reaction">
+      <context> The speed at which reactions takes place <head>is</head> studied by reaction kinetics . The rate depends on various parameters , such as : Reactant concentrations , which usually make the reaction happen at a faster rate if raised through increased collisions per unit time .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-7-91-2" docsrc="Chemical_reaction">
+      <context> The elementary reaction is the smallest division <head>into</head> which a chemical reaction can be decomposed , it has no intermediate products . Most experimentally observed reactions are built up from many elementary reactions that occur in parallel or sequentially . The actual sequence of the individual elementary reactions is known as reaction mechanism .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-8-14-4" docsrc="Chemical_reaction">
+      <context> This separation was ended however by the synthesis <head>of</head> urea from inorganic precursors by Friedrich Wöhler in 1828 . Other chemists who brought major contributions to organic chemistry include Alexander William Williamson with his synthesis of ethers and Christopher Kelk Ingold , who , among many discoveries , established the mechanisms of substitution reactions . Chemical equations are used to graphically illustrate chemical reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-8-4-1" docsrc="Chemical_reaction">
+      <context> Typically , reaction rates increase with increasing temperature <head>because</head> there is more thermal energy available to reach the activation energy necessary for breaking bonds between atoms . Different chemical reactions are used in combinations during chemical synthesis in order to obtain a desired product . In biochemistry , a consecutive series of chemical reactions ( where the product of one reaction is the reactant of the next reaction ) form metabolic pathways .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-8-664-1" docsrc="Chemical_reaction">
+      <context> ==== Decomposition ==== A decomposition reaction is when <head>a</head> more complex substance breaks down into its more simple parts . It is thus the opposite of a synthesis reaction , and can be written as</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-8-85-1" docsrc="Chemical_reaction">
+      <context>   More elaborate reactions are represented by reaction <head>schemes</head> , which in addition to starting materials and products show important intermediates or transition states . Also , some relatively minor additions to the reaction can be indicated above the reaction arrow ; examples of such additions are water , heat , illumination , a catalyst , etc .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-8-94-4" docsrc="Chemical_reaction">
+      <context> In the first case , the bond is <head>divided</head> so that each product retains an electron and becomes a neutral radical . In the second case , both electrons of the chemical bond remain with one of the products , resulting in charged ions . Dissociation plays an important role in triggering chain reactions , such as hydrogen–oxygen or polymerization reactions .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-9-115-1" docsrc="Chemical_reaction">
+      <context> Dissociation of a molecule AB into fragments A and <head>B</head> For bimolecular reactions , two molecules collide and react with each other . Their merger is called chemical synthesis or an addition reaction .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-9-236-4" docsrc="Chemical_reaction">
+      <context> In contrast , in endothermic reactions , heat is <head>consumed</head> from the environment . This can occur by increasing the entropy of the system , often through the formation of gaseous reaction products , which have high entropy . Since the entropy increases with temperature , many endothermic reactions preferably take place at high temperatures .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-9-323-1" docsrc="Chemical_reaction">
+      <context>   This reaction to form carbon dioxide and molybdenum <head>is</head> endothermic at low temperatures , becoming less so with increasing temperature . ΔH° is zero at 7003185500000000000♠1855 K , and the reaction becomes exothermic above that temperature .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-9-473-2" docsrc="Chemical_reaction">
+      <context> The presence or absence of a catalyst . Catalysts <head>are</head> substances which change the pathway ( mechanism ) of a reaction which in turn increases the speed of a reaction by lowering the activation energy needed for the reaction to take place . A catalyst is not destroyed or changed during a reaction , so it can be used again .</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-9-850-1" docsrc="Chemical_reaction">
+      <context>   For example , when barium chloride ( BaCl2 <head>)</head> and magnesium sulfate ( MgSO4 ) react , the SO42− anion switches places with the 2Cl− anion , giving the compounds BaSO4 and MgCl2 . Another example of a double displacement reaction is the reaction of lead(II ) nitrate with potassium iodide to form lead(II ) iodide and potassium nitrate :</context>
+    </instance>
+    <instance id="Chemical_reaction-reaction-9-975-1" docsrc="Chemical_reaction">
+      <context> 7 , OsO 4 can gain one or two <head>extra</head> electrons and are strong oxidizing agents . An important class of redox reactions are the electrochemical reactions , where electrons from the power supply are used as the reducing agent .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-0-6287-1" docsrc="Rate_equation">
+      <context> <head>Michaelis–Menten</head> kinetics Petersen matrix Reactions on surfaces : rate equations for reactions where at least one of the reactants adsorbs onto a surface</context>
+    </instance>
+    <instance id="Rate_equation-reaction-0-6289-1" docsrc="Rate_equation">
+      <context> <head>Petersen</head> matrix Reactions on surfaces : rate equations for reactions where at least one of the reactants adsorbs onto a surface Reaction progress kinetic analysis</context>
+    </instance>
+    <instance id="Rate_equation-reaction-0-6290-1" docsrc="Rate_equation">
+      <context> <head>Reactions</head> on surfaces : rate equations for reactions where at least one of the reactants adsorbs onto a surface Reaction progress kinetic analysis Reaction rate</context>
+    </instance>
+    <instance id="Rate_equation-reaction-0-6291-1" docsrc="Rate_equation">
+      <context> <head>Reaction</head> progress kinetic analysis Reaction rate Reaction rate constant</context>
+    </instance>
+    <instance id="Rate_equation-reaction-1-1265-1" docsrc="Rate_equation">
+      <context> This <head>equation</head> is a recursion allowing for the calculation of the amount present after any number of time periods , without need of the rate constant , provided that the average rate for each time period is known . A second order reaction depends on the concentrations of one second order reactant , or two first order reactants . Its reaction rate is given by :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-1-184-1" docsrc="Rate_equation">
+      <context>     <head>{</head> \displaystyle { \ce { [ A]0 } } }    represents the initial concentration . A reaction is zero order if concentration data are plotted versus time and the result is a straight line .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-1-1973-1" docsrc="Rate_equation">
+      <context>     <head>{</head> \displaystyle { \ce { { { \mathit { s}}A}+{\mathit { t}}B&lt;=&gt;{{\mathit { u}}X}+{{\mathit { v}}Y } } } }   The reaction rate expression for the above reactions ( assuming each one is elementary ) can be expressed as :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-1-2681-1" docsrc="Rate_equation">
+      <context>   <head>These</head> equations allow us to uncouple the system of differential equations , and allow us to solve for the concentration of A alone . The reaction equation , given previously as :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-1-3115-1" docsrc="Rate_equation">
+      <context>     <head>{</head> \displaystyle k_{f}+k_{b}={k_{b}{\frac { \ce { [ A]0}}{x_{e } } } } }   The reaction rate becomes :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-1-5212-1" docsrc="Rate_equation">
+      <context>     <head>   </head> { \displaystyle R }    reactions .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-1-5809-1" docsrc="Rate_equation">
+      <context>     <head>{</head> \displaystyle j }   . The reaction rate equations can then be written in the general form</context>
+    </instance>
+    <instance id="Rate_equation-reaction-10-3599-1" docsrc="Rate_equation">
+      <context>     { \displaystyle \left[{\ce { B}}\right]={\ce { [ A]0}}{\frac { <head>k_{f}}{k_{f}+k_{b}}}\left(1-e^{-\left(k_{f}+k_{b}\right)t}\right)+{\ce</head> { [ B]0}}{\frac { 1}{k_{f}+k_{b}}}\left(k_{f}+k_{b}e^{-\left(k_{f}+k_{b}\right)t}\right ) }   When the equilibrium constant is close to unity and the reaction rates very fast for instance in conformational analysis of molecules , other methods are required for the determination of rate constants for instance by complete lineshape analysis in NMR spectroscopy .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-10-5907-1" docsrc="Rate_equation">
+      <context>     { \displaystyle { \frac { d[{\ce { X}}_{i}]}{dt}}=0 } <head> </head> , for systems composed of merely reversible reactions . In this case the rate of the forward and backward reactions are equal , a principle called detailed balance .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-11-2814-1" docsrc="Rate_equation">
+      <context>     { \displaystyle -{\frac { d[{\ce { A}}]}{dt}}={k_{f}[{\ce { A}}]_{t}}-{k_{b}[{\ce { <head>B}}]_{t}}\</head> , }   The derivative is negative because this is the rate of the reaction going from A to B , and therefore the concentration of A is decreasing .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-12-34-2" docsrc="Rate_equation">
+      <context> where [ A ] and [ B ] express the concentration of <head>the</head> species A and B , respectively ( usually in moles per liter ( molarity , M ) ) . The exponents x and y are the partial reaction orders and must be determined experimentally ; they are often not equal to the stoichiometric coefficients . The constant k is the rate coefficient or rate constant of the reaction .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-13-2043-1" docsrc="Rate_equation">
+      <context>   where : k1 is the rate coefficient for the reaction that consumes <head>A</head> and B ; k2 is the rate coefficient for the backwards reaction , which consumes X and Y and produces A and B. The constants k1 and k2 are related to the equilibrium coefficient for the reaction ( K ) by the following relationship ( set r=0 in balance ) :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-13-3269-1" docsrc="Rate_equation">
+      <context>   A plot of the negative natural logarithm of the concentration of A <head>in</head> time minus the concentration at equilibrium versus time t gives a straight line with slope kf + kb . By measurement of Ae and Be the values of K and the two reaction rate constants will be known .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-14-5876-1" docsrc="Rate_equation">
+      <context>     { \displaystyle { \frac { d[{\ce { X}}_{i}]}{dt}}=\sum _{j=1}^{R}S_{ij}f_{j}([{\vec { \ce { X <head>}</head> } } ] ) . }   Note that this is the product of the stoichiometric matrix and the vector of reaction rate functions .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-14-63-2" docsrc="Rate_equation">
+      <context> A zero order reaction has a rate that is independent of the concentration of <head>the</head> reactant(s ) . Increasing the concentration of the reacting species will not speed up the rate of the reaction i.e. the amount of substance reacted is proportional to the time . Zero order reactions are typically found when a material that is required for the reaction to proceed , such as a surface or a catalyst , is saturated by the reactants .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-15-314-1" docsrc="Rate_equation">
+      <context>     { \displaystyle { \ce { 2NH3(g)-&gt;{3H2(g)}+{N2(g ) } } } }   The order <head>of</head> a reaction can not be deduced from the chemical equation of the reaction .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-15-315-1" docsrc="Rate_equation">
+      <context>   The order of a reaction can not be deduced from the chemical equation of <head>the</head> reaction . A first order reaction depends on the concentration of only one reactant ( a unimolecular reaction ) .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-15-4315-1" docsrc="Rate_equation">
+      <context>   The steady state approximation leads to very similar results in an easier way . <head>When</head> a substance reacts simultaneously to give two different products , a parallel or competitive reaction is said to take place .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-15-63-1" docsrc="Rate_equation">
+      <context> The rate equation is a differential equation and can be integrated to obtain an integrated <head>rate</head> equation that links concentrations of reactants or products with time . A zero order reaction has a rate that is independent of the concentration of the reactant(s ) . Increasing the concentration of the reacting species will not speed up the rate of the reaction i.e. the amount of substance reacted is proportional to the time .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-17-4736-1" docsrc="Rate_equation">
+      <context>   This can be the case when studying a bimolecular reaction and a simultaneous hydrolysis ( which <head>can</head> be treated as pseudo order one ) takes place : the hydrolysis complicates the study of the reaction kinetics , because some reactant is being " spent " in a parallel reaction . For example , A reacts with R to give our product C , but meanwhile the hydrolysis reaction takes away an amount of A to give B , a byproduct :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-18-1449-1" docsrc="Rate_equation">
+      <context>     { \displaystyle \ -{\frac { 1}{2}}{\frac { d[{\ce { A}}]}{dt}}={\frac { d[{\ce { B}}]}{dt } } } <head> </head> Taking into account the definition of the rate equation , which is a relationship between the rate of reaction in terms of the concentration of a given reagent , we can say that</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-0-1" docsrc="Rate_equation">
+      <context> The rate <head>law</head> or rate equation for a chemical reaction is an equation that links the reaction rate with concentrations or pressures of reactants and constant parameters ( normally rate coefficients and partial reaction orders ) . For many reactions the rate is given by a power law such as</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-1384-1" docsrc="Rate_equation">
+      <context>   This <head>last</head> equations stems from the definition of a rate law , with respect to a reactant , A. Consider the reaction :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-2231-1" docsrc="Rate_equation">
+      <context>     { <head>\displaystyle</head> { \ce { A&lt;=&gt;B } } }   Where the reactions starts with an initial concentration of A ,</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-34-4" docsrc="Rate_equation">
+      <context> The constant <head>k</head> is the rate coefficient or rate constant of the reaction . The value of this coefficient k may depend on conditions such as temperature , ionic strength , surface area of an adsorbent , or light irradiation . For elementary reactions , which consist of a single step , the order equals the molecularity as predicted by collision theory .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-453-1" docsrc="Rate_equation">
+      <context>     { <head>\displaystyle</head> t_{\frac { 1}{2}}={\frac { \ln { ( 2)}}{k } } }   . Examples of reactions that are first order with respect to the reactant :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-5220-1" docsrc="Rate_equation">
+      <context>         <head>{</head> \displaystyle j }   -th reaction can then be written in the generic form</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-5485-1" docsrc="Rate_equation">
+      <context>         <head>{</head> \displaystyle j }   -th reaction and</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-5657-2" docsrc="Rate_equation">
+      <context>    is <head>the</head> vector of concentrations . Note that this definition includes the elementary reactions : zero order reactions</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-5683-1" docsrc="Rate_equation">
+      <context>     { <head>\displaystyle</head> z }   , first order reactions</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-57-1" docsrc="Rate_equation">
+      <context>     { <head>\displaystyle</head> r\;=\;k[\mathrm { A } ][\mathrm { B } ] }   . For multistep reactions , the order of each step equals the molecularity , but this is not generally true for the overall rate .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-5709-1" docsrc="Rate_equation">
+      <context>     { <head>\displaystyle</head> z }   , second order reactions</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-5800-1" docsrc="Rate_equation">
+      <context>         <head>{</head> \displaystyle i }    in reaction</context>
+    </instance>
+    <instance id="Rate_equation-reaction-2-63-2" docsrc="Rate_equation">
+      <context> A zero <head>order</head> reaction has a rate that is independent of the concentration of the reactant(s ) . Increasing the concentration of the reacting species will not speed up the rate of the reaction i.e. the amount of substance reacted is proportional to the time . Zero order reactions are typically found when a material that is required for the reaction to proceed , such as a surface or a catalyst , is saturated by the reactants .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-24-2042-1" docsrc="Rate_equation">
+      <context>     { \displaystyle r={k_{1}[{\ce { A}}]^{s}[{\ce { B}}]^{t}}-{k_{2}[{\ce { X}}]^{u}[{\ce { Y}}]^{v}}\ , }   where : k1 is the rate coefficient for the <head>reaction</head> that consumes A and B ; k2 is the rate coefficient for the backwards reaction , which consumes X and Y and produces A and B.</context>
+    </instance>
+    <instance id="Rate_equation-reaction-3-1261-1" docsrc="Rate_equation">
+      <context>   This equation <head>is</head> a recursion allowing for the calculation of the amount present after any number of time periods , without need of the rate constant , provided that the average rate for each time period is known . A second order reaction depends on the concentrations of one second order reactant , or two first order reactants .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-3-1886-1" docsrc="Rate_equation">
+      <context>         { <head>\displaystyle</head> k ' }    for many reactions with different ( but excess ) concentrations of [ B ] , a plot of k ' versus [ B ] gives k ( the regular second order rate constant ) as the slope .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-3-315-1" docsrc="Rate_equation">
+      <context>   The order <head>of</head> a reaction can not be deduced from the chemical equation of the reaction . A first order reaction depends on the concentration of only one reactant ( a unimolecular reaction ) .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-3-5431-1" docsrc="Rate_equation">
+      <context>         { <head>\displaystyle</head> j }    is the reaction index running from 1 to</context>
+    </instance>
+    <instance id="Rate_equation-reaction-3-59-1" docsrc="Rate_equation">
+      <context> For multistep reactions <head>,</head> the order of each step equals the molecularity , but this is not generally true for the overall rate . The rate equation is a differential equation and can be integrated to obtain an integrated rate equation that links concentrations of reactants or products with time . A zero order reaction has a rate that is independent of the concentration of the reactant(s ) .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-33-1808-1" docsrc="Rate_equation">
+      <context>     { \displaystyle { \ce { 2NO2(g)-&gt;{2NO(g)}+O2(g ) } } }   If the concentration of one relative reactant remains constant because it is supplied in great excess , its concentration can be <head>absorbed</head> at the expressed constant rate , obtaining the pseudo first order reaction constant , because in fact , it depends on the same concentration of only one of the two reactants .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-34-4734-1" docsrc="Rate_equation">
+      <context>     { \displaystyle { \frac { \ce { [ B]}}{\ce { [ C]}}}={\frac { k_{1}}{k_{2 } } } }   This can be the case when studying a bimolecular reaction and a simultaneous hydrolysis <head>(</head> which can be treated as pseudo order one ) takes place : the hydrolysis complicates the study of the reaction kinetics , because some reactant is being " spent " in a parallel reaction .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-4-1399-1" docsrc="Rate_equation">
+      <context>     { \displaystyle { <head>\ce</head> { 2A-&gt;B } } }   Having a second order reaction involving one reagent only must mean , in terms of the definition of a rate law , that the derivative of [ B ] with respect to time is equal to one half of the derivative of A with respect to time .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-4-314-1" docsrc="Rate_equation">
+      <context>     { \displaystyle { <head>\ce</head> { 2NH3(g)-&gt;{3H2(g)}+{N2(g ) } } } }   The order of a reaction can not be deduced from the chemical equation of the reaction .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-4-5515-1" docsrc="Rate_equation">
+      <context>     { \displaystyle r_{ij <head>}</head> }    are the stoichiometric coefficients of reactants and products , respectively . The rate of such reaction can be inferred by the law of mass action</context>
+    </instance>
+    <instance id="Rate_equation-reaction-4-5934-2" docsrc="Rate_equation">
+      <context>   . All other <head>cases</head> where detailed balance is violated are commonly studied by flux balance analysis which has been developed to understand metabolic pathways . For a general unimolecular reaction involving interconversion of</context>
+    </instance>
+    <instance id="Rate_equation-reaction-48-4734-1" docsrc="Rate_equation">
+      <context>     { \displaystyle { \frac { \ce { [ B]}}{\ce { [ C]}}}={\frac { k_{1}}{k_{2 } } } }   This can be the case when studying a bimolecular reaction and a simultaneous hydrolysis ( which can be treated as pseudo order one ) takes place : the <head>hydrolysis</head> complicates the study of the reaction kinetics , because some reactant is being " spent " in a parallel reaction .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-5-1002-1" docsrc="Rate_equation">
+      <context>         { \displaystyle \Delta <head>t_{p}={\frac</head> { \ln \left(2\right)}{k } } } The average rate of the reaction for the nth time period is given by :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-5-1755-1" docsrc="Rate_equation">
+      <context>     { \displaystyle \ln { <head>}r=\ln</head> { }k+2\ln[{\ce { A } } ] }   Examples of a Second order reaction</context>
+    </instance>
+    <instance id="Rate_equation-reaction-5-2396-1" docsrc="Rate_equation">
+      <context>         { \displaystyle [ <head>{</head> \ce { B}}]_{t } }   , by the equilibrium reaction equation :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-5-251-1" docsrc="Rate_equation">
+      <context>     { \displaystyle t_{\frac { <head>1}{2}}={\frac</head> { \ce { [ A]0}}{2k } } }   Example of a zero order reaction</context>
+    </instance>
+    <instance id="Rate_equation-reaction-5-320-2" docsrc="Rate_equation">
+      <context> A first order reaction depends <head>on</head> the concentration of only one reactant ( a unimolecular reaction ) . Other reactants can be present , but each will be zero order . The rate law for a reaction that is first order with respect to a reactant A is</context>
+    </instance>
+    <instance id="Rate_equation-reaction-5-663-1" docsrc="Rate_equation">
+      <context>   === Further properties of <head>first</head> order reaction kinetics ===</context>
+    </instance>
+    <instance id="Rate_equation-reaction-6-1890-1" docsrc="Rate_equation">
+      <context> Example CH3COOCH3 + H2O → CH3COOH <head>+</head> CH3OH A pair of forward and reverse reactions may define an equilibrium process .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-6-35-1" docsrc="Rate_equation">
+      <context> The value of this coefficient k <head>may</head> depend on conditions such as temperature , ionic strength , surface area of an adsorbent , or light irradiation . For elementary reactions , which consist of a single step , the order equals the molecularity as predicted by collision theory . For example , a bimolecular elementary reaction A + B → products will be second order overall and first order in each reactant , with rate equation</context>
+    </instance>
+    <instance id="Rate_equation-reaction-6-5734-1" docsrc="Rate_equation">
+      <context>         { \displaystyle z } <head> </head> , i.e. , a bimolecular reaction , or</context>
+    </instance>
+    <instance id="Rate_equation-reaction-6-5758-1" docsrc="Rate_equation">
+      <context>         { \displaystyle z } <head> </head> , i.e. , a dimerization reaction .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-7-1973-1" docsrc="Rate_equation">
+      <context>     { \displaystyle { \ce { { <head>{</head> \mathit { s}}A}+{\mathit { t}}B&lt;=&gt;{{\mathit { u}}X}+{{\mathit { v}}Y } } } }   The reaction rate expression for the above reactions ( assuming each one is elementary ) can be expressed as :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-7-3600-1" docsrc="Rate_equation">
+      <context>   When the equilibrium constant is close <head>to</head> unity and the reaction rates very fast for instance in conformational analysis of molecules , other methods are required for the determination of rate constants for instance by complete lineshape analysis in NMR spectroscopy . If the rate constants for the following reaction are</context>
+    </instance>
+    <instance id="Rate_equation-reaction-7-5193-1" docsrc="Rate_equation">
+      <context>     { \displaystyle { \ce { { <head>[</head> A]0}-[C]\approx [ A]0 } } }    therefeore , previous equation for [ C ] can only be used for low concentrations of [ C ] compared to [ A]0 The most general description of a chemical reaction network considers a number</context>
+    </instance>
+    <instance id="Rate_equation-reaction-7-5657-1" docsrc="Rate_equation">
+      <context> ,[X_{\mathit { N } } ] ) <head>}</head> } }    is the vector of concentrations . Note that this definition includes the elementary reactions :</context>
+    </instance>
+    <instance id="Rate_equation-reaction-7-6287-1" docsrc="Rate_equation">
+      <context> Michaelis–Menten kinetics Petersen matrix Reactions on surfaces <head>:</head> rate equations for reactions where at least one of the reactants adsorbs onto a surface</context>
+    </instance>
+    <instance id="Rate_equation-reaction-7-63-3" docsrc="Rate_equation">
+      <context> Increasing the concentration of the reacting species <head>will</head> not speed up the rate of the reaction i.e. the amount of substance reacted is proportional to the time . Zero order reactions are typically found when a material that is required for the reaction to proceed , such as a surface or a catalyst , is saturated by the reactants . The rate law for a zero order reaction is</context>
+    </instance>
+    <instance id="Rate_equation-reaction-8-34-1" docsrc="Rate_equation">
+      <context>   where [ A ] and [ B <head>]</head> express the concentration of the species A and B , respectively ( usually in moles per liter ( molarity , M ) ) . The exponents x and y are the partial reaction orders and must be determined experimentally ; they are often not equal to the stoichiometric coefficients .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-8-5906-1" docsrc="Rate_equation">
+      <context>         { \displaystyle { \frac { d[{\ce <head>{</head> X}}_{i}]}{dt}}=0 }   , for systems composed of merely reversible reactions .</context>
+    </instance>
+    <instance id="Rate_equation-reaction-9-2042-1" docsrc="Rate_equation">
+      <context>     { \displaystyle r={k_{1}[{\ce { A}}]^{s}[{\ce { B}}]^{t}}-{k_{2}[{\ce { <head>X}}]^{u}[{\ce</head> { Y}}]^{v}}\ , }   where : k1 is the rate coefficient for the reaction that consumes A and B ; k2 is the rate coefficient for the backwards reaction , which consumes X and Y and produces A and B.</context>
+    </instance>
+    <instance id="Rate_equation-reaction-9-4734-1" docsrc="Rate_equation">
+      <context>     { \displaystyle { \frac { \ce { [ <head>B]}}{\ce</head> { [ C]}}}={\frac { k_{1}}{k_{2 } } } }   This can be the case when studying a bimolecular reaction and a simultaneous hydrolysis ( which can be treated as pseudo order one ) takes place : the hydrolysis complicates the study of the reaction kinetics , because some reactant is being " spent " in a parallel reaction .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-0-55-1" docsrc="Reaction_(physics)">
+      <context> <head>Isaac</head> Newton Ibn Bajjah Reaction engine/jet engine</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-1-46-1" docsrc="Reaction_(physics)">
+      <context> Another <head>common</head> mistake is to state that The centrifugal force that an object experiences is the reaction to the centripetal force on that object . Ground reaction force</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-12-8-1" docsrc="Reaction_(physics)">
+      <context> In certain fields of applied physics , such as biomechanics , this <head>force</head> by the ground is called ' ground reaction force ' ; the force by the object on the ground is viewed as the ' action ' . When someone wants to jump , he or she exerts additional downward force on the ground ( ' action ' ) . Simultaneously , the ground exerts upward force on the person ( ' reaction ' ) .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-15-0-2" docsrc="Reaction_(physics)">
+      <context> As described by the third of Newton 's laws of motion of classical mechanics , <head>all</head> forces occur in pairs such that if one object exerts a force on another object , then the second object exerts an equal and opposite reaction force on the first . The third law is also more generally stated as : " To every action there is always opposed an equal reaction : or the mutual actions of two bodies upon each other are always equal , and directed to contrary parts . " The attribution of which of the two forces is the action and which is the reaction is arbitrary .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-15-14-1" docsrc="Reaction_(physics)">
+      <context> === Gravitational forces === The Earth , among other planets , orbits the Sun because <head>the</head> Sun exerts a gravitational pull that acts as a centripetal force , holding the Earth to it , which would otherwise go shooting off into space . If the Sun 's pull is considered an action , then Earth simultaneously exerts a reaction as a gravitational pull on the Sun .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-15-35-4" docsrc="Reaction_(physics)">
+      <context> The forces on ball and player are both explained by their nearness , which results <head>in</head> a pair of contact forces ( ultimately due to electric repulsion ) . That this nearness is caused by a decision of the player has no bearing on the physical analysis . As far as the physics is concerned , the labels ' action ' and ' reaction ' can be flipped .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-16-0-3" docsrc="Reaction_(physics)">
+      <context> The third law is also more generally stated as : " To every action there is <head>always</head> opposed an equal reaction : or the mutual actions of two bodies upon each other are always equal , and directed to contrary parts . " The attribution of which of the two forces is the action and which is the reaction is arbitrary . Either of the two can be considered the action , while the other is its associated reaction .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-20-0-1" docsrc="Reaction_(physics)">
+      <context> As described by the third of Newton 's laws of motion of classical mechanics , all forces occur in pairs <head>such</head> that if one object exerts a force on another object , then the second object exerts an equal and opposite reaction force on the first . The third law is also more generally stated as : " To every action there is always opposed an equal reaction : or the mutual actions of two bodies upon each other are always equal , and directed to contrary parts . "</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-20-7-1" docsrc="Reaction_(physics)">
+      <context> === Interaction with ground === When something is exerting force on the ground , the ground will push back with <head>equal</head> force in the opposite direction . In certain fields of applied physics , such as biomechanics , this force by the ground is called ' ground reaction force ' ; the force by the object on the ground is viewed as the ' action ' .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-27-33-1" docsrc="Reaction_(physics)">
+      <context> However , it is still true that F1 = F2 and F3 = F4 , as this is required by Newton 's Third Law . === Causal <head>misinterpretation</head> === The terms ' action ' and ' reaction ' have the unfortunate suggestion of causality , as if the ' action ' is the cause and ' reaction ' is the effect .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-28-38-1" docsrc="Reaction_(physics)">
+      <context> As far as the physics is concerned , the labels ' action ' and ' reaction ' can be flipped . === ' Equal and opposite ' === <head>A</head> possible cause of this problem is that the Third Law is often stated in an abbreviated form : For every action there is an equal and opposite reaction , without the details , namely that these forces act on two different objects .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-3-18-1" docsrc="Reaction_(physics)">
+      <context> === Supported mass <head>===</head> Any mass on earth is pulled down by the gravitational force of the earth ; this force is also called its weight . The corresponding ' reaction ' is the gravitational force that mass exerts on the planet .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-34-9-1" docsrc="Reaction_(physics)">
+      <context> When these forces are perpendicular to the ground , they are also called a normal force . Likewise , the spinning wheels of a vehicle attempt to slide backward across the ground . If <head>the</head> ground is not too slippery , this results in a pair of friction forces : the ' action ' by the wheel on the ground in backward direction , and the ' reaction ' by the ground on the wheel in forward direction .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-57-34-3" docsrc="Reaction_(physics)">
+      <context> It is therefore easy to think of the second force as being there because of the first , and even happening some time after the first . This is incorrect ; the forces are perfectly simultaneous , and are there for the same reason . When the forces are caused by a person 's volition ( e.g. <head>a</head> soccer player kicks a ball ) , this volitional cause often leads to an asymmetric interpretation , where the force by the player on the ball is considered the ' action ' and the force by the ball on the player , the ' reaction ' .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-7-33-1" docsrc="Reaction_(physics)">
+      <context> However , it is still true that <head>F1</head> = F2 and F3 = F4 , as this is required by Newton 's Third Law . === Causal misinterpretation === The terms ' action ' and ' reaction ' have the unfortunate suggestion of causality , as if the ' action ' is the cause and ' reaction ' is the effect .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-9-19-2" docsrc="Reaction_(physics)">
+      <context> If the object is supported so that it remains <head>at</head> rest , for instance by a cable from which it is hanging , or by a surface underneath , or by a liquid on which it is floating , there is also a support force in upward direction ( tension force , normal force , buoyant force , respectively ) . This support force is an ' equal and opposite ' force ; we know this not because of Newton 's Third Law , but because the object remains at rest , so that the forces must be balanced . To this support force there is also a ' reaction ' : the object pulls down on the supporting cable , or pushes down on the supporting surface or liquid .</context>
+    </instance>
+    <instance id="Reaction_(physics)-reaction-9-44-1" docsrc="Reaction_(physics)">
+      <context> Centripetal and centrifugal force === Another common mistake is <head>to</head> state that The centrifugal force that an object experiences is the reaction to the centripetal force on that object .</context>
+    </instance>
+    <instance id="a00652351_d_19" docsrc="a00652351_d">
+      <context> ( especially of fissionable material ) able to sustain a chain_reaction in such a manner that the rate of <head>reaction</head> increases ;</context>
+    </instance>
+    <instance id="a01928608_d_3" docsrc="a01928608_d">
+      <context> participating readily in <head>reactions</head> ;</context>
+    </instance>
+    <instance id="a02102321_d_14" docsrc="a02102321_d">
+      <context> not of such character as to arouse intense interest , curiosity , or emotional <head>reaction</head> ;</context>
+    </instance>
+    <instance id="a02692966_d_12" docsrc="a02692966_d">
+      <context> of or made from or using substances produced by or used in <head>reactions</head> involving atomic or molecular changes ;</context>
+    </instance>
+    <instance id="a02901028_d_7" docsrc="a02901028_d">
+      <context> within the molecule ; occurring by a <head>reaction</head> between different parts of the same molecule ;</context>
+    </instance>
+    <instance id="br-b20#w516_0" docsrc="br-b20">
+      <context> If this capacity had not failed them , they would see that their enemy has made a disastrous miscalculation . He has gained only one thing - he has exploded a 50 - megaton_bomb and he probably has rockets with sufficient thrust to lob it over the shorter intercontinental ranges . But if his purpose was to inspire terror , his action could hardly have miscarried more obviously . Not terror , but anger and resentment have been the general <head>reaction</head> outside the Soviet sphere . Khrushchev himself is reported to be concerned by the surge of animosity he has aroused , yet our own nuclear statesmen seem intent_on following compulsively in his footsteps . When one powerful nation strives to emulate the success of another , it is only natural . Thus , when the Russians sent up their first sputnik , American chagrin was human enough , and American determination to put American satellites into orbit was perfectly understandable .</context>
+    </instance>
+    <instance id="br-d03#w260_0" docsrc="br-d03">
+      <context> I came to England last summer to do research on the unpublished letters of Cardinal_Newman . As an American Catholic of Irish ancestry , I came with certain preconceptions and expectations ; being intellectually influenced by Newman and the general 19th century literature of England , I knew only a Protestant dominated country . Since arriving here , however , I have formed a far different religious picture of present-day England . In representing part of this new picture , I will be recounting some of my own personal experiences , <head>reactions</head> and judgments ; but my primary aim is to transcribe what Englishmen themselves are saying and writing and implying about the Roman and Anglican_Churches and about the present religious state of England . Since the Protestant clergy for_the_most_part wear gray or some variant from the wholly black suit , my Roman_collar and black garb usually identify me in England as a Roman_Catholic cleric . In_any_case , I have always been treated with the utmost courtesy by Englishmen , even in Devonshire and Cornwall , where anti Catholic feeling has supposedly existed the strongest and longest . Nowhere have I seen public expression of anti-Catholicism .</context>
+    </instance>
+    <instance id="br-f14#w130_0" docsrc="br-f14">
+      <context> For almost two months , the defendant and the world heard from individuals escaped from the grave about fathers and mothers , graybeards , adolescents , babies , starved , beaten to death , strangled , machine-gunned , gassed , burned . One who had been a boy in Auschwitz had_to tell how children had been selected by height for the gas_chambers . The gruesome humor of the Nazis was not forgotten - the gas_chamber with a sign on it with the name of a Jewish foundation and bearing a copper Star_of_David - nor the gratuitous sadism of SS officers . Public_relations strategists everywhere , watching the <head>reaction</head> of the German press , the liberal press , the lunatic fringe press , listening to their neighbors , studying interviews with men and women on the street , cried_out : Too_much , too_much - the mind of the audience is becoming dulled , the horrors are losing their effect . And still another witness , one who had crawled out from under a heap of corpses , had_to tell how the victims had been forced to lay themselves head to foot one on top of the other before being shot . Most_of this testimony may have been legally admissible as bearing_on the corpus_delicti of the total Nazi crime but seemed subject_to question when not tied to the part in it of the defendant 's Department_of_Jewish_Affairs . Counsel for the defense , however , shrewdly allowing himself to be swept by the current of dreadful recollections , rarely raised an objection .</context>
+    </instance>
+    <instance id="br-f18#w1519_0" docsrc="br-f18">
+      <context> An Ohio soldier who , from a comrade just returned from leave , received an unfavorable comment on the conduct of his sister , took pen in hand and delivered himself thus : `` [ Dear Sis ] Alf sed he heard that you and hardy was a runing together all_the_time and he though he wod gust quit having any thing mor to doo with you for he thought it was no_more yuse . I think you made a dam good chouise to turn_off as nise a feler as Alf_dyer and let that orney thefin , drunkard , damed card_playing Sun_of_a_bich com to Sea you , the god_damed theaf and lop_yeard pigen_tode helion , he is too orney for hel . i will Shute him as_shore_as i Sea him '' . Initiation into combat sometimes elicited from soldier correspondents choice comments about their experiences and <head>reactions</head> . A Federal infantryman wrote to his father shortly after his first skirmish in Virginia : `` Dear Pa . Went_out a Skouting yesterday . We got to one house where there were five secessionist they brok + run and Arch holored_out to shoot the ornery suns_of_biches and we all let_go at them .</context>
+    </instance>
+    <instance id="br-f19#w954_0" docsrc="br-f19">
+      <context> Enthusiastically , Americans have swept subliterary and bogus materials like Paul_Bunyan tales , Abe_Lincoln anecdotes and labor_union songs up as true products of our American oral tradition . Nor have we remembered that in the melting_pot of America the hundreds of isolated and semi isolated ethnic , regional and occupational groups did not fuse into a homogeneous national unit until long after education and industrialization had caused them to cast oral tradition aside as a means of carrying culturally significant material . Naturally , such scholarly facts are of little concern to the man trying to make money or fan patriotism by means of folklore . That much of what he calls folklore is the result of beliefs carefully sown among the people with the conscious aim of producing a desired mass emotional <head>reaction</head> to a particular situation or set of situations is irrelevant . As_long_as his material is Americana , can in_some_way be ascribed to the masses and appears `` democratic '' to his audience , he remains satisfied . From all this we can now see that two streams of development run through the history of twentieth century American folklore . On the one side we have the university professors and their students , trained in Teutonic methods of research , who have sought_out , collected and studied the true products of the oral traditions of the ethnic , regional and occupational groups that make_up this nation .</context>
+    </instance>
+    <instance id="br-f20#w1736_0" docsrc="br-f20">
+      <context> That sort of braggadocio , for that sort of reason , in the view of Torrio and Capone , was a nonsense . A further example of the incompatible difference in personalities was when two policemen held_up a Torrio beer convoy on a West_Side street and demanded $ 300 to let it through . One of the beer runners telephoned O_'_Banion - on a line tapped by the detective bureau - and reported the situation . O_'_Banion 's <head>reaction</head> was : `` Three_hundred dollars ! To them bums ? Why , I can get them knocked_off for half that_much '' .</context>
+    </instance>
+    <instance id="br-g18#w1773_0" docsrc="br-g18">
+      <context> The first half of The_Charles_Men , ending on the climax of the battle of Poltava in 1709 , is more dramatically coherent than the second . After the collapse of that desperate and ill-fated campaign the character of the king degenerated for a time into a futility that was not merely pitiable but often ridiculous . Like Napoleon , he was the worst of losers . There are , however , some wonderful chapters at the beginning of the second part , concerning the <head>reactions</head> of the Swedes in adversity . Then more_than ever before did they show their fortitude and patient cheerfulness . This comes_out in `` When_the_Bells_Ring '' , which describes the rallying of the peasants in southern Sweden to repel an invasion by the Danes . In `` The_King 's_Ride '' , Charles breaks_out of a long period of petulance and inertia , regains his old self , escapes from Turkey , and finally reaches his own land after an absence of eighteen years .</context>
+    </instance>
+    <instance id="br-g31#w1096_0" docsrc="br-g31">
+      <context> Both these youths , who greatly admired Henrietta , were somewhat younger than she , as were also the neighboring Friedenwald boys , who were then studying medicine ; and bright though they all were , they could not possibly compete for her interest with Papa , whose mind - although he never tried to dazzle or patronize lesser lights with it - naturally eclipsed theirs and made them seem to her even younger than they were . Besides , Miss_Henrietta - as she was generally known since she had put up her hair with a chignon in the back - had little time to spare them from her teaching and writing ; so Cyrus_Adler became interested in her friend Racie_Friedenwald , and Joe_Jastrow - the only young_man who when he wrote had the temerity to address her as Henrietta , and signed himself Joe - fell_in_love with pretty sister Rachel . Henrietta , however , was at that time engaged in a lengthy correspondence with Joe 's older and more serious brother , Morris , who was just_about her own age and whom she had got to know well during trips to Philadelphia with Papa , when he substituted for Rabbi_Jastrow at Rodeph_Shalom_Temple there during its Rabbi 's absence in Europe . Young Morris , who , while attending the University_of_Pennsylvania , also taught and edited a paper , found time to write Henrietta twenty page letters on everything that engaged his interest , from the acting of Sarah_Bernhardt in Philadelphia to his <head>reactions</head> to the comments of `` Sulamith '' on the Jewish reform_movement being promulgated by the Hebrew_Union_College in Cincinnati . Unlike his younger brother , Joe , he never presumed_to address her more familiarly than as `` My dear friend '' , although he praised and envied the elegance and purity of her style . And when he complained of the lack of time for all he wanted to do , Henrietta advised him to rise at five in the morning as she and Papa did . One thing Papa had not taught Henrietta was how to handle a young_man as high-spirited and opinionated as herself .</context>
+    </instance>
+    <instance id="br-j04#w1375_0" docsrc="br-j04">
+      <context> 500 ml of 1 M aqueous **f with 1 g **f added are heated in a bomb at 170 ` C for 48 hours . A very fine , gray solid ( about 15 g ) is formed , water-washed by centrifugation , and dried at 110 ` C . Differential thermal analysis showed a very small endothermic_reaction at 340 ` C and a large endothermic_reaction at 470 ` C . This latter <head>reaction</head> is in_accord with the reported decomposition of **f . Thermogravimetric analysis showed a weight loss of 1.8 % centered at 337 ` C and another weight loss of 10.8 % at 463 ` C . The expected weight loss for **f going_to **f and **f is 10.6 % . Mass_spectrometric analysis of gases evolved upon heating to 410 ` C indicated nitrogen_oxides and water_vapor .</context>
+    </instance>
+    <instance id="br-j04#w1443_0" docsrc="br-j04">
+      <context> Thermogravimetric analysis showed a weight loss of 1.8 % centered at 337 ` C and another weight loss of 10.8 % at 463 ` C . The expected weight loss for **f going_to **f and **f is 10.6 % . Mass_spectrometric analysis of gases evolved upon heating to 410 ` C indicated nitrogen_oxides and water_vapor . The small <head>reaction</head> occurring at 337 ` C is probably caused by decomposition of occluded nitrates , and perhaps by a small amount of some hydrous material other_than **f . All subsequent measurements were made on material which had been heated to 375 ` C for one hour . Emission_spectra indicated **f calcium and all other impurities much lower . Chromium analysis gave 58.8 % Cr as compared with 61.2 % theory .</context>
+    </instance>
+    <instance id="br-j06#w1127_0" docsrc="br-j06">
+      <context> These cells were used rather than square Pyrex tubing because of the tendency of the latter to shatter when thawing frozen carbon_tetrachloride . The round cells were reproducibly positioned in the light_beam which entered the thermostated mineral_oil bath through a window . Two types of light source were used , a thousand watt projection lamp and an AH6 high pressure mercury arc . The light was filtered by the soft_glass window of the thermostat thus ensuring that only light absorbed by the chlorine and not by the carbon_tetrachloride could enter the <head>reaction</head> cell . Relative incident light intensities were measured with a thermopile potentiometer system . Changes of intensity on the cell were achieved by use of a wire screen and by varying the distance of the light source from the cell . Following reaction the cells were scratched with a file and opened under a 20 % aqueous sodium_iodide solution .</context>
+    </instance>
+    <instance id="br-j06#w113_0" docsrc="br-j06">
+      <context> The thermal exchange of chlorine between * * f and liquid * * f is readily measurable at temperatures in the range of 180 ` and above . The photochemical_exchange occurs with a quantum yield of the order of unity in the liquid phase at 65 ` using light absorbed only by the * * f . In the gas phase , with * * f of * * f and * * f of * * f , quantum yields of the order of * * f have been observed at 85 ` . Despite extensive attempts to obtain highly pure reagents , serious difficulty was experienced in obtaining reproducible rates of <head>reaction</head> . It appears possible to set a lower_limit of about * * f for the activation_energy of the abstraction of a chlorine atom from a carbon_tetrachloride molecule by a chlorine atom to form * * f radical . The rate of the gas phase exchange reaction appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by reaction with an impurity rather than by bimolecular radical combination reactions . Because of the simplicity of the molecules , isotopic exchange reactions between elemental halogens and the corresponding carbon_tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data .</context>
+    </instance>
+    <instance id="br-j06#w1170_0" docsrc="br-j06">
+      <context> The light was filtered by the soft_glass window of the thermostat thus ensuring that only light absorbed by the chlorine and not by the carbon_tetrachloride could enter the reaction cell . Relative incident light intensities were measured with a thermopile potentiometer system . Changes of intensity on the cell were achieved by use of a wire screen and by varying the distance of the light source from the cell . Following <head>reaction</head> the cells were scratched with a file and opened under a 20 % aqueous sodium_iodide solution . Carrier * * f was added and the aqueous and organic phases were separated ( cells containing gaseous reactants were immersed in liquid_air before opening under sodium_iodide ) . After titration of the liberated * * f with * * f , aliquots of the aqueous and of the organic phase were counted in a solution type Geiger_tube . In the liquid phase runs the amount of carbon_tetrachloride in each reaction tube was determined by weighing the tube before opening and weighing the fragments after emptying .</context>
+    </instance>
+    <instance id="br-j06#w1258_0" docsrc="br-j06">
+      <context> Following reaction the cells were scratched with a file and opened under a 20 % aqueous sodium_iodide solution . Carrier * * f was added and the aqueous and organic phases were separated ( cells containing gaseous reactants were immersed in liquid_air before opening under sodium_iodide ) . After titration of the liberated * * f with * * f , aliquots of the aqueous and of the organic phase were counted in a solution type Geiger_tube . In the liquid phase runs the amount of carbon_tetrachloride in each <head>reaction</head> tube was determined by weighing the tube before opening and weighing the fragments after emptying . The fraction of exchange was determined as the ratio of the counts / minute observed in the carbon_tetrachloride to the counts / minute calculated for the carbon_tetrachloride fractions for equilibrium distribution of the activity between the chlorine and carbon_tetrachloride , empirically determined correction being made for the difference in counting efficiency of * * f in * * f and * * f . In studying the liquid phase thermal reaction , some 70 tubes from 12 different manifold fillings were prepared and analyzed . Experiments were done at 180 , 200 , 210 , 220 ` .</context>
+    </instance>
+    <instance id="br-j06#w1345_0" docsrc="br-j06">
+      <context> After titration of the liberated * * f with * * f , aliquots of the aqueous and of the organic phase were counted in a solution type Geiger_tube . In the liquid phase runs the amount of carbon_tetrachloride in each reaction tube was determined by weighing the tube before opening and weighing the fragments after emptying . The fraction of exchange was determined as the ratio of the counts / minute observed in the carbon_tetrachloride to the counts / minute calculated for the carbon_tetrachloride fractions for equilibrium distribution of the activity between the chlorine and carbon_tetrachloride , empirically determined correction being made for the difference in counting efficiency of * * f in * * f and * * f . In studying the liquid phase thermal <head>reaction</head> , some 70 tubes from 12 different manifold fillings were prepared and analyzed . Experiments were done at 180 , 200 , 210 , 220 ` . Following observation of the fact that the reaction rates of supposedly identical reaction mixtures prepared on the same filling manifold and exposed under identical conditions often differed by several hundred per_cent , a systematic series of experiments was undertaken to see whether the difficulty could be ascribed to the method of preparing the chlorine , to the effects of oxygen or moisture or to the effect of surface to volume ratio in the reaction tubes . In_addition to the method described in the section above , chlorine and radiochlorine were prepared by the electrolysis of a * * f eutectic on the vacuum line , and by exchange of * * f with molten * * f .</context>
+    </instance>
+    <instance id="br-j06#w1380_0" docsrc="br-j06">
+      <context> The fraction of exchange was determined as the ratio of the counts / minute observed in the carbon_tetrachloride to the counts / minute calculated for the carbon_tetrachloride fractions for equilibrium distribution of the activity between the chlorine and carbon_tetrachloride , empirically determined correction being made for the difference in counting efficiency of * * f in * * f and * * f . In studying the liquid phase thermal reaction , some 70 tubes from 12 different manifold fillings were prepared and analyzed . Experiments were done at 180 , 200 , 210 , 220 ` . Following observation of the fact that the <head>reaction</head> rates of supposedly identical reaction mixtures prepared on the same filling manifold and exposed under identical conditions often differed by several hundred per_cent , a systematic series of experiments was undertaken to see whether the difficulty could be ascribed to the method of preparing the chlorine , to the effects of oxygen or moisture or to the effect of surface to volume ratio in the reaction tubes . In_addition to the method described in the section above , chlorine and radiochlorine were prepared by the electrolysis of a * * f eutectic on the vacuum line , and by exchange of * * f with molten * * f . Calcium_hydride was substituted for * * f as a drying_agent for carbon_tetrachloride . No correlation between these variables and the irreproducibility of the results was found .</context>
+    </instance>
+    <instance id="br-j06#w1385_0" docsrc="br-j06">
+      <context> The fraction of exchange was determined as the ratio of the counts / minute observed in the carbon_tetrachloride to the counts / minute calculated for the carbon_tetrachloride fractions for equilibrium distribution of the activity between the chlorine and carbon_tetrachloride , empirically determined correction being made for the difference in counting efficiency of * * f in * * f and * * f . In studying the liquid phase thermal reaction , some 70 tubes from 12 different manifold fillings were prepared and analyzed . Experiments were done at 180 , 200 , 210 , 220 ` . Following observation of the fact that the reaction rates of supposedly identical <head>reaction</head> mixtures prepared on the same filling manifold and exposed under identical conditions often differed by several hundred per_cent , a systematic series of experiments was undertaken to see whether the difficulty could be ascribed to the method of preparing the chlorine , to the effects of oxygen or moisture or to the effect of surface to volume ratio in the reaction tubes . In_addition to the method described in the section above , chlorine and radiochlorine were prepared by the electrolysis of a * * f eutectic on the vacuum line , and by exchange of * * f with molten * * f . Calcium_hydride was substituted for * * f as a drying_agent for carbon_tetrachloride . No correlation between these variables and the irreproducibility of the results was found .</context>
+    </instance>
+    <instance id="br-j06#w1446_0" docsrc="br-j06">
+      <context> The fraction of exchange was determined as the ratio of the counts / minute observed in the carbon_tetrachloride to the counts / minute calculated for the carbon_tetrachloride fractions for equilibrium distribution of the activity between the chlorine and carbon_tetrachloride , empirically determined correction being made for the difference in counting efficiency of * * f in * * f and * * f . In studying the liquid phase thermal reaction , some 70 tubes from 12 different manifold fillings were prepared and analyzed . Experiments were done at 180 , 200 , 210 , 220 ` . Following observation of the fact that the reaction rates of supposedly identical reaction mixtures prepared on the same filling manifold and exposed under identical conditions often differed by several hundred per_cent , a systematic series of experiments was undertaken to see whether the difficulty could be ascribed to the method of preparing the chlorine , to the effects of oxygen or moisture or to the effect of surface to volume ratio in the <head>reaction</head> tubes . In_addition to the method described in the section above , chlorine and radiochlorine were prepared by the electrolysis of a * * f eutectic on the vacuum line , and by exchange of * * f with molten * * f . Calcium_hydride was substituted for * * f as a drying_agent for carbon_tetrachloride . No correlation between these variables and the irreproducibility of the results was found .</context>
+    </instance>
+    <instance id="br-j06#w1519_0" docsrc="br-j06">
+      <context> In_addition to the method described in the section above , chlorine and radiochlorine were prepared by the electrolysis of a * * f eutectic on the vacuum line , and by exchange of * * f with molten * * f . Calcium_hydride was substituted for * * f as a drying_agent for carbon_tetrachloride . No correlation between these variables and the irreproducibility of the results was found . The <head>reaction</head> rates observed at 200 ` ranged from * * f of the chlorine exchanged per hour to 0.7 exchanged per hour . In most cases the chlorine concentration was about * * f . Sets of reaction tubes containing 0.2 of an atmosphere of added oxygen in one case and added moisture in another , both gave reaction rates in the range of 0.1 to 0.4 of the chlorine exchanged per hour . No detectable reaction was found at room_temperature for reaction mixtures allowed to stand up_to 5 hours .</context>
+    </instance>
+    <instance id="br-j06#w1556_0" docsrc="br-j06">
+      <context> No correlation between these variables and the irreproducibility of the results was found . The reaction rates observed at 200 ` ranged from * * f of the chlorine exchanged per hour to 0.7 exchanged per hour . In most cases the chlorine concentration was about * * f . Sets of <head>reaction</head> tubes containing 0.2 of an atmosphere of added oxygen in one case and added moisture in another , both gave reaction rates in the range of 0.1 to 0.4 of the chlorine exchanged per hour . No detectable reaction was found at room_temperature for reaction mixtures allowed to stand up_to 5 hours . The liquid phase photochemical_exchange between chlorine and carbon_tetrachloride was more reproducible than the thermal exchange , although still erratic . The improvement was most noticeable in the greater consistency among reaction cells prepared as_a_group on the same manifold .</context>
+    </instance>
+    <instance id="br-j06#w1577_0" docsrc="br-j06">
+      <context> No correlation between these variables and the irreproducibility of the results was found . The reaction rates observed at 200 ` ranged from * * f of the chlorine exchanged per hour to 0.7 exchanged per hour . In most cases the chlorine concentration was about * * f . Sets of reaction tubes containing 0.2 of an atmosphere of added oxygen in one case and added moisture in another , both gave <head>reaction</head> rates in the range of 0.1 to 0.4 of the chlorine exchanged per hour . No detectable reaction was found at room_temperature for reaction mixtures allowed to stand up_to 5 hours . The liquid phase photochemical_exchange between chlorine and carbon_tetrachloride was more reproducible than the thermal exchange , although still erratic . The improvement was most noticeable in the greater consistency among reaction cells prepared as_a_group on the same manifold .</context>
+    </instance>
+    <instance id="br-j06#w1595_0" docsrc="br-j06">
+      <context> The reaction rates observed at 200 ` ranged from * * f of the chlorine exchanged per hour to 0.7 exchanged per hour . In most cases the chlorine concentration was about * * f . Sets of reaction tubes containing 0.2 of an atmosphere of added oxygen in one case and added moisture in another , both gave reaction rates in the range of 0.1 to 0.4 of the chlorine exchanged per hour . No detectable <head>reaction</head> was found at room_temperature for reaction mixtures allowed to stand up_to 5 hours . The liquid phase photochemical_exchange between chlorine and carbon_tetrachloride was more reproducible than the thermal exchange , although still erratic . The improvement was most noticeable in the greater consistency among reaction cells prepared as_a_group on the same manifold . Rather large differences were still found between reaction cells from different manifold fillings .</context>
+    </instance>
+    <instance id="br-j06#w159_0" docsrc="br-j06">
+      <context> In the gas phase , with * * f of * * f and * * f of * * f , quantum yields of the order of * * f have been observed at 85 ` . Despite extensive attempts to obtain highly pure reagents , serious difficulty was experienced in obtaining reproducible rates of reaction . It appears possible to set a lower_limit of about * * f for the activation_energy of the abstraction of a chlorine atom from a carbon_tetrachloride molecule by a chlorine atom to form * * f radical . The rate of the gas phase exchange <head>reaction</head> appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by reaction with an impurity rather than by bimolecular radical combination reactions . Because of the simplicity of the molecules , isotopic exchange reactions between elemental halogens and the corresponding carbon_tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data . It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical_reactions in both the liquid and gas phases and to determine values for activation_energies of some of the intermediate reactions of atoms and free_radicals , as_well_as information on the heat_of_dissociation of the carbon halogen bond . The reaction of chlorine with carbon_tetrachloride seemed particularly suited for such studies .</context>
+    </instance>
+    <instance id="br-j06#w1601_0" docsrc="br-j06">
+      <context> The reaction rates observed at 200 ` ranged from * * f of the chlorine exchanged per hour to 0.7 exchanged per hour . In most cases the chlorine concentration was about * * f . Sets of reaction tubes containing 0.2 of an atmosphere of added oxygen in one case and added moisture in another , both gave reaction rates in the range of 0.1 to 0.4 of the chlorine exchanged per hour . No detectable reaction was found at room_temperature for <head>reaction</head> mixtures allowed to stand up_to 5 hours . The liquid phase photochemical_exchange between chlorine and carbon_tetrachloride was more reproducible than the thermal exchange , although still erratic . The improvement was most noticeable in the greater consistency among reaction cells prepared as_a_group on the same manifold . Rather large differences were still found between reaction cells from different manifold fillings .</context>
+    </instance>
+    <instance id="br-j06#w1640_0" docsrc="br-j06">
+      <context> Sets of reaction tubes containing 0.2 of an atmosphere of added oxygen in one case and added moisture in another , both gave reaction rates in the range of 0.1 to 0.4 of the chlorine exchanged per hour . No detectable reaction was found at room_temperature for reaction mixtures allowed to stand up_to 5 hours . The liquid phase photochemical_exchange between chlorine and carbon_tetrachloride was more reproducible than the thermal exchange , although still erratic . The improvement was most noticeable in the greater consistency among <head>reaction</head> cells prepared as_a_group on the same manifold . Rather large differences were still found between reaction cells from different manifold fillings . Some 80 reaction tubes from 13 manifold fillings were illuminated in the temperature range from 40 to 85 ` in a further endeavor to determine the cause of the irreproducibility and to obtain information on the activation_energy and the effect of light intensity . In all cases there was readily measurable exchange after as little as one hour of illumination .</context>
+    </instance>
+    <instance id="br-j06#w1656_0" docsrc="br-j06">
+      <context> No detectable reaction was found at room_temperature for reaction mixtures allowed to stand up_to 5 hours . The liquid phase photochemical_exchange between chlorine and carbon_tetrachloride was more reproducible than the thermal exchange , although still erratic . The improvement was most noticeable in the greater consistency among reaction cells prepared as_a_group on the same manifold . Rather large differences were still found between <head>reaction</head> cells from different manifold fillings . Some 80 reaction tubes from 13 manifold fillings were illuminated in the temperature range from 40 to 85 ` in a further endeavor to determine the cause of the irreproducibility and to obtain information on the activation_energy and the effect of light intensity . In all cases there was readily measurable exchange after as little as one hour of illumination . By comparing reaction cells sealed from the same manifold temperature dependency corresponding to activation_energies ranging from 11 to 18 * * f was observed while dependence on the first power of the light intensity seemed to be indicated in most cases .</context>
+    </instance>
+    <instance id="br-j06#w1665_0" docsrc="br-j06">
+      <context> The liquid phase photochemical_exchange between chlorine and carbon_tetrachloride was more reproducible than the thermal exchange , although still erratic . The improvement was most noticeable in the greater consistency among reaction cells prepared as_a_group on the same manifold . Rather large differences were still found between reaction cells from different manifold fillings . Some 80 <head>reaction</head> tubes from 13 manifold fillings were illuminated in the temperature range from 40 to 85 ` in a further endeavor to determine the cause of the irreproducibility and to obtain information on the activation_energy and the effect of light intensity . In all cases there was readily measurable exchange after as little as one hour of illumination . By comparing reaction cells sealed from the same manifold temperature dependency corresponding to activation_energies ranging from 11 to 18 * * f was observed while dependence on the first power of the light intensity seemed to be indicated in most cases . It was possible to make estimates of the quantum yield by observing the extent of reduction of a uranyl_oxalate actinometer solution illuminated for a known time in a typical reaction cell and making appropriate conversions based on the differences in the absorption_spectra of uranyl_oxalate and of chlorine , and considering the spectral distribution of the light source .</context>
+    </instance>
+    <instance id="br-j06#w1726_0" docsrc="br-j06">
+      <context> Rather large differences were still found between reaction cells from different manifold fillings . Some 80 reaction tubes from 13 manifold fillings were illuminated in the temperature range from 40 to 85 ` in a further endeavor to determine the cause of the irreproducibility and to obtain information on the activation_energy and the effect of light intensity . In all cases there was readily measurable exchange after as little as one hour of illumination . By comparing <head>reaction</head> cells sealed from the same manifold temperature dependency corresponding to activation_energies ranging from 11 to 18 * * f was observed while dependence on the first power of the light intensity seemed to be indicated in most cases . It was possible to make estimates of the quantum yield by observing the extent of reduction of a uranyl_oxalate actinometer solution illuminated for a known time in a typical reaction cell and making appropriate conversions based on the differences in the absorption_spectra of uranyl_oxalate and of chlorine , and considering the spectral distribution of the light source . These estimates indicated that the quantum yield for the exchange of chlorine with liquid carbon_tetrachloride at 65 ` is of the order_of_magnitude of unity . When typical reaction cells to which 0.3 of an atmosphere of oxygen had been added were illuminated , chlorine and phosgene were produced .</context>
+    </instance>
+    <instance id="br-j06#w1795_0" docsrc="br-j06">
+      <context> Some 80 reaction tubes from 13 manifold fillings were illuminated in the temperature range from 40 to 85 ` in a further endeavor to determine the cause of the irreproducibility and to obtain information on the activation_energy and the effect of light intensity . In all cases there was readily measurable exchange after as little as one hour of illumination . By comparing reaction cells sealed from the same manifold temperature dependency corresponding to activation_energies ranging from 11 to 18 * * f was observed while dependence on the first power of the light intensity seemed to be indicated in most cases . It was possible to make estimates of the quantum yield by observing the extent of reduction of a uranyl_oxalate actinometer solution illuminated for a known time in a typical <head>reaction</head> cell and making appropriate conversions based on the differences in the absorption_spectra of uranyl_oxalate and of chlorine , and considering the spectral distribution of the light source . These estimates indicated that the quantum yield for the exchange of chlorine with liquid carbon_tetrachloride at 65 ` is of the order_of_magnitude of unity . When typical reaction cells to which 0.3 of an atmosphere of oxygen had been added were illuminated , chlorine and phosgene were produced . Exchange was also observed in these cells , which had chlorine present at * * f .</context>
+    </instance>
+    <instance id="br-j06#w1851_0" docsrc="br-j06">
+      <context> By comparing reaction cells sealed from the same manifold temperature dependency corresponding to activation_energies ranging from 11 to 18 * * f was observed while dependence on the first power of the light intensity seemed to be indicated in most cases . It was possible to make estimates of the quantum yield by observing the extent of reduction of a uranyl_oxalate actinometer solution illuminated for a known time in a typical reaction cell and making appropriate conversions based on the differences in the absorption_spectra of uranyl_oxalate and of chlorine , and considering the spectral distribution of the light source . These estimates indicated that the quantum yield for the exchange of chlorine with liquid carbon_tetrachloride at 65 ` is of the order_of_magnitude of unity . When typical <head>reaction</head> cells to which 0.3 of an atmosphere of oxygen had been added were illuminated , chlorine and phosgene were produced . Exchange was also observed in these cells , which had chlorine present at * * f . Although there was some variation in results which must be attributed either to trace impurities or to variation in wall effects , the photochemical_exchange in the gas phase was sufficiently reproducible so that it seemed meaningful to compare the reaction rates in different series of reaction tubes for the purpose of obtaining information on the effect of chlorine concentration and of carbon_tetrachloride concentration on the reaction rate . Data on such comparisons together with data on the effect of light intensity are given in Table /1 .</context>
+    </instance>
+    <instance id="br-j06#w185_0" docsrc="br-j06">
+      <context> In the gas phase , with * * f of * * f and * * f of * * f , quantum yields of the order of * * f have been observed at 85 ` . Despite extensive attempts to obtain highly pure reagents , serious difficulty was experienced in obtaining reproducible rates of reaction . It appears possible to set a lower_limit of about * * f for the activation_energy of the abstraction of a chlorine atom from a carbon_tetrachloride molecule by a chlorine atom to form * * f radical . The rate of the gas phase exchange reaction appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by <head>reaction</head> with an impurity rather than by bimolecular radical combination reactions . Because of the simplicity of the molecules , isotopic exchange reactions between elemental halogens and the corresponding carbon_tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data . It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical_reactions in both the liquid and gas phases and to determine values for activation_energies of some of the intermediate reactions of atoms and free_radicals , as_well_as information on the heat_of_dissociation of the carbon halogen bond . The reaction of chlorine with carbon_tetrachloride seemed particularly suited for such studies .</context>
+    </instance>
+    <instance id="br-j06#w1929_0" docsrc="br-j06">
+      <context> These estimates indicated that the quantum yield for the exchange of chlorine with liquid carbon_tetrachloride at 65 ` is of the order_of_magnitude of unity . When typical reaction cells to which 0.3 of an atmosphere of oxygen had been added were illuminated , chlorine and phosgene were produced . Exchange was also observed in these cells , which had chlorine present at * * f . Although there was some variation in results which must be attributed either to trace impurities or to variation in wall effects , the photochemical_exchange in the gas phase was sufficiently reproducible so that it seemed meaningful to compare the <head>reaction</head> rates in different series of reaction tubes for the purpose of obtaining information on the effect of chlorine concentration and of carbon_tetrachloride concentration on the reaction rate . Data on such comparisons together with data on the effect of light intensity are given in Table /1 . . In series /1 , the relative light intensity was varied by varying the distance of the lamp from the reaction cell over the range from 14.7 to 29.2 cm. .</context>
+    </instance>
+    <instance id="br-j06#w1935_0" docsrc="br-j06">
+      <context> These estimates indicated that the quantum yield for the exchange of chlorine with liquid carbon_tetrachloride at 65 ` is of the order_of_magnitude of unity . When typical reaction cells to which 0.3 of an atmosphere of oxygen had been added were illuminated , chlorine and phosgene were produced . Exchange was also observed in these cells , which had chlorine present at * * f . Although there was some variation in results which must be attributed either to trace impurities or to variation in wall effects , the photochemical_exchange in the gas phase was sufficiently reproducible so that it seemed meaningful to compare the reaction rates in different series of <head>reaction</head> tubes for the purpose of obtaining information on the effect of chlorine concentration and of carbon_tetrachloride concentration on the reaction rate . Data on such comparisons together with data on the effect of light intensity are given in Table /1 . . In series /1 , the relative light intensity was varied by varying the distance of the lamp from the reaction cell over the range from 14.7 to 29.2 cm. .</context>
+    </instance>
+    <instance id="br-j06#w1955_0" docsrc="br-j06">
+      <context> These estimates indicated that the quantum yield for the exchange of chlorine with liquid carbon_tetrachloride at 65 ` is of the order_of_magnitude of unity . When typical reaction cells to which 0.3 of an atmosphere of oxygen had been added were illuminated , chlorine and phosgene were produced . Exchange was also observed in these cells , which had chlorine present at * * f . Although there was some variation in results which must be attributed either to trace impurities or to variation in wall effects , the photochemical_exchange in the gas phase was sufficiently reproducible so that it seemed meaningful to compare the reaction rates in different series of reaction tubes for the purpose of obtaining information on the effect of chlorine concentration and of carbon_tetrachloride concentration on the <head>reaction</head> rate . Data on such comparisons together with data on the effect of light intensity are given in Table /1 . . In series /1 , the relative light intensity was varied by varying the distance of the lamp from the reaction cell over the range from 14.7 to 29.2 cm. .</context>
+    </instance>
+    <instance id="br-j06#w195_0" docsrc="br-j06">
+      <context> In the gas phase , with * * f of * * f and * * f of * * f , quantum yields of the order of * * f have been observed at 85 ` . Despite extensive attempts to obtain highly pure reagents , serious difficulty was experienced in obtaining reproducible rates of reaction . It appears possible to set a lower_limit of about * * f for the activation_energy of the abstraction of a chlorine atom from a carbon_tetrachloride molecule by a chlorine atom to form * * f radical . The rate of the gas phase exchange reaction appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by reaction with an impurity rather than by bimolecular radical combination <head>reactions</head> . Because of the simplicity of the molecules , isotopic exchange reactions between elemental halogens and the corresponding carbon_tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data . It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical_reactions in both the liquid and gas phases and to determine values for activation_energies of some of the intermediate reactions of atoms and free_radicals , as_well_as information on the heat_of_dissociation of the carbon halogen bond . The reaction of chlorine with carbon_tetrachloride seemed particularly suited for such studies .</context>
+    </instance>
+    <instance id="br-j06#w1997_0" docsrc="br-j06">
+      <context> Although there was some variation in results which must be attributed either to trace impurities or to variation in wall effects , the photochemical_exchange in the gas phase was sufficiently reproducible so that it seemed meaningful to compare the reaction rates in different series of reaction tubes for the purpose of obtaining information on the effect of chlorine concentration and of carbon_tetrachloride concentration on the reaction rate . Data on such comparisons together with data on the effect of light intensity are given in Table /1 . . In series /1 , the relative light intensity was varied by varying the distance of the lamp from the <head>reaction</head> cell over the range from 14.7 to 29.2 cm. . The last column shows the rate of exchange that would have been observed at a relative intensity of 4 ( 14.7 cm. distance ) calculated on the assumptions that the incident light intensity is inversely proportional to the square of the distance of the lamp from the cell and that the rate is directly proportional to the incident light intensity . Direct proportionality of the rate to the incident intensity has also been assumed in obtaining the value in the last column for the fourth sample of series /2 , where the light intensity was reduced by use of a screen .</context>
+    </instance>
+    <instance id="br-j06#w207_0" docsrc="br-j06">
+      <context> Despite extensive attempts to obtain highly pure reagents , serious difficulty was experienced in obtaining reproducible rates of reaction . It appears possible to set a lower_limit of about * * f for the activation_energy of the abstraction of a chlorine atom from a carbon_tetrachloride molecule by a chlorine atom to form * * f radical . The rate of the gas phase exchange reaction appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by reaction with an impurity rather than by bimolecular radical combination reactions . Because of the simplicity of the molecules , isotopic exchange <head>reactions</head> between elemental halogens and the corresponding carbon_tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data . It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical_reactions in both the liquid and gas phases and to determine values for activation_energies of some of the intermediate reactions of atoms and free_radicals , as_well_as information on the heat_of_dissociation of the carbon halogen bond . The reaction of chlorine with carbon_tetrachloride seemed particularly suited for such studies . It should be possible to prepare very pure chlorine by oxidation of inorganic chlorides on a vacuum system followed by multiple distillation of the liquid .</context>
+    </instance>
+    <instance id="br-j06#w264_0" docsrc="br-j06">
+      <context> It appears possible to set a lower_limit of about * * f for the activation_energy of the abstraction of a chlorine atom from a carbon_tetrachloride molecule by a chlorine atom to form * * f radical . The rate of the gas phase exchange reaction appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by reaction with an impurity rather than by bimolecular radical combination reactions . Because of the simplicity of the molecules , isotopic exchange reactions between elemental halogens and the corresponding carbon_tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data . It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical_reactions in both the liquid and gas phases and to determine values for activation_energies of some of the intermediate <head>reactions</head> of atoms and free_radicals , as_well_as information on the heat_of_dissociation of the carbon halogen bond . The reaction of chlorine with carbon_tetrachloride seemed particularly suited for such studies . It should be possible to prepare very pure chlorine by oxidation of inorganic chlorides on a vacuum system followed by multiple distillation of the liquid . It should be possible to free carbon_tetrachloride of any interfering substances by the usual purification methods followed by prechlorination prior to addition of radioactive chlorine .</context>
+    </instance>
+    <instance id="br-j06#w282_0" docsrc="br-j06">
+      <context> The rate of the gas phase exchange reaction appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by reaction with an impurity rather than by bimolecular radical combination reactions . Because of the simplicity of the molecules , isotopic exchange reactions between elemental halogens and the corresponding carbon_tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data . It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical_reactions in both the liquid and gas phases and to determine values for activation_energies of some of the intermediate reactions of atoms and free_radicals , as_well_as information on the heat_of_dissociation of the carbon halogen bond . The <head>reaction</head> of chlorine with carbon_tetrachloride seemed particularly suited for such studies . It should be possible to prepare very pure chlorine by oxidation of inorganic chlorides on a vacuum system followed by multiple distillation of the liquid . It should be possible to free carbon_tetrachloride of any interfering substances by the usual purification methods followed by prechlorination prior to addition of radioactive chlorine . Furthermore , the exchange would not be expected to be sensitive to trace amounts of impurities because it would not be apt to be a chain_reaction since the activation_energy for abstraction of chlorine by a chlorine atom would be expected to be too high ; also it would be expected that * * f would compete very effectively with any impurities as a scavenger for * * f radicals .</context>
+    </instance>
+    <instance id="br-j06#w465_0" docsrc="br-j06">
+      <context> It should be possible to free carbon_tetrachloride of any interfering substances by the usual purification methods followed by prechlorination prior to addition of radioactive chlorine . Furthermore , the exchange would not be expected to be sensitive to trace amounts of impurities because it would not be apt to be a chain_reaction since the activation_energy for abstraction of chlorine by a chlorine atom would be expected to be too high ; also it would be expected that * * f would compete very effectively with any impurities as a scavenger for * * f radicals . Contrary to these expectations we have found it impossible to obtain the degree of reproducibility one would wish , even with extensive efforts to prepare especially pure reagents . We are reporting these investigations here briefly because of their relevancy to problems of the study of apparently simple exchange <head>reactions</head> of chlorine and because the results furnish some information on the activation_energy for abstraction of chlorine atoms from carbon_tetrachloride . Matheson highest purity tank chlorine was passed through a tube of resublimed * * f into an evacuated Pyrex system where it was condensed with liquid_air . It was then distilled at_least three times from a trap at_- 78 ` to a liquid_air trap with only a small middle fraction being retained in each distillation . The purified product was stored at_- 78 ` in a tube equipped with a break_seal .</context>
+    </instance>
+    <instance id="br-j06#w812_0" docsrc="br-j06">
+      <context> The mixture was then extracted with alkali and with water following which the carbon_tetrachloride was distilled on a Vigreux column , a 25 % center cut being retained which was then degassed under vacuum in the presence of * * f . Purified inactive chlorine was then added from one of the tubes described above and the mixture frozen_out and sealed_off in a flask equipped with a break_seal . This chlorine carbon_tetrachloride solution was illuminated for a day following which the flask was resealed onto a vacuum system and the excess chlorine distilled off . The required amount of carbon_tetrachloride was distilled into a series of <head>reaction</head> cells on a manifold on a vacuum line . The desired amounts of inactive chlorine and radioactive chlorine were likewise condensed in these cells on the vacuum line following which they were frozen_down and the manifold as_a_whole was sealed_off . The contents of the manifold for liquid phase experiments were then mixed by shaking , redistributed to the reaction tubes , frozen_down , and each tube was then sealed_off . The reactants for the gas phase experiments were first frozen_out in a side arm attached to the manifold and then allowed to distill slowly into the manifold of pre-cooled reaction cells before sealing_off .</context>
+    </instance>
+    <instance id="br-j06#w871_0" docsrc="br-j06">
+      <context> This chlorine carbon_tetrachloride solution was illuminated for a day following which the flask was resealed onto a vacuum system and the excess chlorine distilled off . The required amount of carbon_tetrachloride was distilled into a series of reaction cells on a manifold on a vacuum line . The desired amounts of inactive chlorine and radioactive chlorine were likewise condensed in these cells on the vacuum line following which they were frozen_down and the manifold as_a_whole was sealed_off . The contents of the manifold for liquid phase experiments were then mixed by shaking , redistributed to the <head>reaction</head> tubes , frozen_down , and each tube was then sealed_off . The reactants for the gas phase experiments were first frozen_out in a side arm attached to the manifold and then allowed to distill slowly into the manifold of pre-cooled reaction cells before sealing_off . This method in_general solved the problem of obtaining fairly equal concentrations of reactants in each of the six cells from a set . The samples for liquid phase thermal reaction studies were prepared in Pyrex capillary_tubing 2.5 mm. i.d. and about 15 cm. long .</context>
+    </instance>
+    <instance id="br-j06#w912_0" docsrc="br-j06">
+      <context> The required amount of carbon_tetrachloride was distilled into a series of reaction cells on a manifold on a vacuum line . The desired amounts of inactive chlorine and radioactive chlorine were likewise condensed in these cells on the vacuum line following which they were frozen_down and the manifold as_a_whole was sealed_off . The contents of the manifold for liquid phase experiments were then mixed by shaking , redistributed to the reaction tubes , frozen_down , and each tube was then sealed_off . The reactants for the gas phase experiments were first frozen_out in a side arm attached to the manifold and then allowed to distill slowly into the manifold of pre-cooled <head>reaction</head> cells before sealing_off . This method in_general solved the problem of obtaining fairly equal concentrations of reactants in each of the six cells from a set . The samples for liquid phase thermal reaction studies were prepared in Pyrex capillary_tubing 2.5 mm. i.d. and about 15 cm. long . In a_few experiments the tubes were made from standard 6 mm. i.d. Pyrex tubing of 1 mm. wall thickness .</context>
+    </instance>
+    <instance id="br-j06#w946_0" docsrc="br-j06">
+      <context> The contents of the manifold for liquid phase experiments were then mixed by shaking , redistributed to the reaction tubes , frozen_down , and each tube was then sealed_off . The reactants for the gas phase experiments were first frozen_out in a side arm attached to the manifold and then allowed to distill slowly into the manifold of pre-cooled reaction cells before sealing_off . This method in_general solved the problem of obtaining fairly equal concentrations of reactants in each of the six cells from a set . The samples for liquid phase thermal <head>reaction</head> studies were prepared in Pyrex capillary_tubing 2.5 mm. i.d. and about 15 cm. long . In a_few experiments the tubes were made from standard 6 mm. i.d. Pyrex tubing of 1 mm. wall thickness . Both types of tube withstood the pressure of approximately 20 atmospheres exerted by the carbon_tetrachloride at 220 ` . The photochemical_reaction cells consisted_of 10 mm. i.d. Pyrex tubing , 5.5 cm. long , diffraction effects being minimized by the fact that the light passed_through only liquid glass interfaces and not gas glass interfaces .</context>
+    </instance>
+    <instance id="br-j09#w319_0" docsrc="br-j09">
+      <context> The third , containing the mixed type of complete and incomplete antibodies , had titers of 1 : 256 in saline , 1 : 512 in albumin and 1 : 1024 by the indirect_Coombs_test . In_addition one serum was obtained from a donor ( R._E. . ) who had been sensitized 6 years previously . This serum exhibited titers of 1 : 16 in albumin and 1 : 256 by the indirect_Coombs_test . These antibody titers were determined by <head>reaction</head> with homozygous * * f red_cells . Anti - A and anti - B activities were determined in fractions from the sera of group A , group B or group O donors by the following tube agglutination methods . One drop of each sample was added to one drop of a 2 % suspension of group * * f or group B red_cells in a small * * f test_tube . In several instances group O cells were also used as controls .</context>
+    </instance>
+    <instance id="br-j15#w863_0" docsrc="br-j15">
+      <context> Muscle weakness did not improve , and the patient needed first a cane , then crutches . In_spite of normal thyroid function tests , a trial of propylthiouracil , 400 mg. daily for one week , was given but served only to intensify muscle weakness . Repeated attempts to withdraw steroids entirely were unsuccessful because increased muscle weakness resulted , as_well_as fever , malaise , anorexia , anxiety , and an exacerbation of the anemia . These <head>reactions</head> were interpreted as being manifestations of hypoadrenocorticism . Severe back pain in June , 1959 , prompted a third hospital admission . Extensive osteoporosis with partial collapse of D8 was found . A high protein diet , calcium_lactate supplements , and norethandrolone failed to change the skeletal complaint or the severe muscle weakness .</context>
+    </instance>
+    <instance id="br-j16#w1057_0" docsrc="br-j16">
+      <context> Two absorptions of * * f with ethyl_acetate or two absorptions of * * f ( which had been passed_through Dowex-2-chloride ) , NS and * * f with crown_gall tissue powder , or mouse liver powder did not further improve the specificity of staining . Treatment of all the sera with sweet_clover proteins greatly reduced nonspecific fluorescence , especially when the treated conjugate was diluted to 1 : 2 with 0.85 % saline . In all the above procedures , when the intermediate sera were diluted to 1 : 10 or 1 : 100 with 0.85 % saline , the specific and nonspecific fluorescence were not appreciably reduced , whereas , a dilution of the intermediate sera to 1 : 500 or diluting the * * f to 1 : 5 greatly reduced specific fluorescence . Rinsing the sections with PBS before layering the intermediate sera did not improve the staining <head>reaction</head> . In_addition to other treatments , treating the sections with normal sheep serum for half an hour before layering * * f did not reduce nonspecific staining . The only treatment by which nonspecific staining could be satisfactorily removed was by passing the conjugate through a DEAE-cellulose column . When 1 ml of conjugate was passed_through a column ( * * f ) , the first and second milliliter fractions collected were the most specific and gave no nonspecific staining in some experiments , and very little in others .</context>
+    </instance>
+    <instance id="br-j17#w1083_0" docsrc="br-j17">
+      <context> This explains the beneficial effect of electroshock_therapy in certain depressions and a shift in the reaction from hypo - to normal reactivity of the sympathetic system as shown by the Mecholyl_test . Some investigators have found a parallelism between remissions and return of the sympathetic reactivity of the hypothalamus to the normal level as indicated by the Mecholyl_test and , conversely , between clinical impairment and increasing deviation of this test from the norm . Nevertheless , the theory that the determining influence of the hypothalamic balance has a profound influence on the clinical behavior of neuropsychiatric patients has not_yet been tested on an adequate number of patients . The Mecholyl and noradrenalin tests applied with certain precautions are reliable indicators of this central autonomic balance , but for the sake of correlating autonomic and clinical states , and of studying the effect of certain therapeutic procedures on central autonomic <head>reactions</head> , additional tests seem to be desirable . It was assumed that the shift in autonomic hypothalamic balance occurring spontaneously in neuropsychiatric patients from the application of certain therapeutic procedures follows the pattern known from the sleep wakefulness cycle . A change in the balance to the parasympathetic side leads in the normal individual to sleep or , in special circumstances , to cardiovascular collapse or nausea and vomiting . In both conditions the emotional and perceptual sensitivity is diminished , but no depression occurs such_as is seen clinically or may be produced in normal persons by drugs .</context>
+    </instance>
+    <instance id="br-j17#w2_0" docsrc="br-j17">
+      <context> Since emotional <head>reactions</head> in the higher vertebrates depend_on individual experience and are aroused in man , in_addition , by complex symbols , one would expect that the hypothalamus could be excited from the cortex . In experiments with topical application of strychnine on the cerebral_cortex , the transmission of impulses from the cortex to the hypothalamus was demonstrated . Moreover , the responsiveness of the hypothalamus to nociceptive stimulation is greatly increased under these conditions . Even more complex and obviously cortically induced forms of emotional_arousal could be elicited in monkey A on seeing monkey B ( but not a rabbit ) in emotional stress .</context>
+    </instance>
+    <instance id="br-j17#w948_0" docsrc="br-j17">
+      <context> The shock_therapies act likewise on the hypothalamic balance . Physiological experiments and clinical observations have shown that these procedures influence the hypothalamically controlled hypophyseal secretions and increase sympathetic discharges . They shift the hypothalamic balance to the sympathetic side . This explains the beneficial effect of electroshock_therapy in certain depressions and a shift in the <head>reaction</head> from hypo - to normal reactivity of the sympathetic system as shown by the Mecholyl_test . Some investigators have found a parallelism between remissions and return of the sympathetic reactivity of the hypothalamus to the normal level as indicated by the Mecholyl_test and , conversely , between clinical impairment and increasing deviation of this test from the norm . Nevertheless , the theory that the determining influence of the hypothalamic balance has a profound influence on the clinical behavior of neuropsychiatric patients has not_yet been tested on an adequate number of patients . The Mecholyl and noradrenalin tests applied with certain precautions are reliable indicators of this central autonomic balance , but for the sake of correlating autonomic and clinical states , and of studying the effect of certain therapeutic procedures on central autonomic reactions , additional tests seem to be desirable .</context>
+    </instance>
+    <instance id="br-j41#w195_0" docsrc="br-j41">
+      <context> While there may be several such industries to which the model of this paper is applicable , the authors make particular claim of relevance to the explanation of the course of wages and prices in the steel industry of the United_States since World_War_2 , . Indeed , the apparent stiffening of the industry 's attitude in the recent steel strike has a direct explanation in_terms_of the model here presented . The model of this paper considers an industry which is not characterized by vigorous price_competition , but which is so basic that its wage price policies are held in_check by continuous critical public scrutiny . Where the industry 's product price has been kept below the `` profit_maximizing '' and `` entry limiting '' prices due_to fears of public <head>reaction</head> , the profit seeking producers have an interest in offering little real resistance to wage demands . The contribution of this paper is a demonstration of this proposition , and an exploration of some of its implications . In_order_to focus clearly upon the operation of this one force , which we may call the effect of `` public limit pricing '' on `` key '' wage bargains , we deliberately simplify the model by abstracting from other forces , such_as union power , which may be relevant in an actual situation . For expository purposes , this is best treated as a model which spells_out the conditions under which an important industry affected with the public interest would find it profitable to raise wages even in the absence of union pressures for higher wages .</context>
+    </instance>
+    <instance id="br-j53#w615_0" docsrc="br-j53">
+      <context> We shall consider these in the inverse order of their presentation . Obviously , a satisfactory answer to the third question is imperative , if the argument is to get under_way at_all , for if there is any possibility of doubt whether the patient 's tactual sensitivity had been impaired by the occipital lesion , any findings whatsoever in regard_to the first question become completely ambiguous and fail altogether , of_course , as evidence to establish the desired conclusion . The answer the authors give to it , therefore , is of supreme importance . It is as_follows : `` The usual sensitivity tests showed that the specific qualities of skin-perceptiveness ( pressure , pain , temperature ) , as_well_as the kinesthetic sensations ( muscular feelings , feelings in the tendons and joints ) , were , as_such , essentially intact , although they seemed , in_comparison_with normal <head>reactions</head> , to be somewhat diminished over the entire body . The supposed tactual sense of spatial location and orientation in the patient and his ability to specify the location of a member , as_well_as the direction and scope of a movement , passively executed ( with one of his members ) , proved to have been , on_the_contrary , very considerably affected '' . The authors insist , however , that these abnormalities in the sense_of_touch were due absolutely to no organic disorders in that sense faculty but rather to the injuries which the patient had sustained to the sense of sight . First_of_all , what is their evidence that the tactual apparatus was fundamentally undamaged ?</context>
+    </instance>
+    <instance id="br-j58#w488_0" docsrc="br-j58">
+      <context> The editor 's main criticism of the trial was the haste with which it was conducted . The readers of the Providence_Daily_Post , however , learned that it was generally conceded that `` Old_Brown '' had a fair trial . Concerning the sentence the editor asked , `` What else can Virginia do than to hang the men who have defied her laws , organized treason , and butchered her citizens '' . In the eastern section of the state the newspapers ' <head>reaction</head> to Brown 's trial and sentence were basically identical . J._Wheaton_Smith , editor of the Warren_Telegraph stated that `` the ends of justice must be satisfied , a solitary example must be set , in_order_that all those misnamed philantropists [ sic ] , who , actuated by a blind zeal , dare to instigate riot , treason , and murder , may heed it and shape their future course accordingly '' . The editor of the Newport_Advertiser could discover no evidence of extenuating circumstances in the Brown trial which would warrant making an exception to the infliction of capital_punishment . In direct_contrast to the other Rhode_Island editors , Samuel_S._Foss of the Woonsocket_Patriot outwardly condemned the trial as being completely unfair .</context>
+    </instance>
+    <instance id="br-k17#w103_0" docsrc="br-k17">
+      <context> Andrei remembered a Bathyran meeting long_ago . Tolek_Alterman had returned from the colonies in Palestine and , before the national leadership , exalted the miracles of drying_up swamps and irrigating the desert . A fund-raising_drive to buy tractors and machinery was launched . Andrei remembered that his own <head>reaction</head> had been one of indifference . Had he found the meaning too late ? It aggravated him . The land of the Lublin_Uplands was rich , but no_one seemed to care .</context>
+    </instance>
+    <instance id="br-l11#w876_0" docsrc="br-l11">
+      <context> What I'm getting at is that we were fully prepared for Felix 's being an odd one . We 'd seen his handiwork out in the back_yard , and the little his tenants had told us of him did make him sound a_little special . We were not , however , prepared_for anything like the apparition that confronted us as Felix came_up the stairs . He , of_course , must have been equally unprepared for what confronted him , but , nonetheless , I did find his <head>reaction</head> startling . If Felix was still wearing the hat and carrying the horn because he 'd forgotten about them , he now remembered . He came bounding up_the_stairs and joined the dance . He adjusted the hat , lifted the horn to his lips as_though it were a flute , and fell_in alongside our fingerprint_expert to cavort with him .</context>
+    </instance>
+    <instance id="n00039211_d_3" docsrc="n00039211_d">
+      <context> reciprocal action and <head>reaction</head> ;</context>
+    </instance>
+    <instance id="n00202816_ex1_6" docsrc="n00202816_ex1">
+      <context> his style of painting was a <head>reaction</head> against cubism ;</context>
+    </instance>
+    <instance id="n00203020_d_2" docsrc="n00203020_d">
+      <context> an adverse <head>reaction</head> to some political or social occurrence ;</context>
+    </instance>
+    <instance id="n00549766_d_13" docsrc="n00549766_d">
+      <context> an acting technique introduced by Stanislavsky in which the actor recalls emotions or <head>reactions</head> from his or her own life and uses them to identify with the character being portrayed ;</context>
+    </instance>
+    <instance id="n00648237_d_21" docsrc="n00648237_d">
+      <context> a measured amount of a solution of unknown concentration is added to a known volume of a second solution until the <head>reaction</head> between them is just complete ; the concentration of the unknown solution ( the titer ) can then be calculated ;</context>
+    </instance>
+    <instance id="n00791875_d_8" docsrc="n00791875_d">
+      <context> an assay that relies on an enzymatic conversion <head>reaction</head> and is used to detect the presence of specific substances ( such as enzymes or viruses or antibodies or bacteria ) ;</context>
+    </instance>
+    <instance id="n00859001_ex1_2" docsrc="n00859001_ex1">
+      <context> a bad <head>reaction</head> to the medicine ;</context>
+    </instance>
+    <instance id="n00859490_d_1" docsrc="n00859490_d">
+      <context> any <head>reaction</head> that occurs automatically without conscious thought or reflection ( especially the undirected behavior seen in psychomotor_epilepsy ) ;</context>
+    </instance>
+    <instance id="n00859691_d_1" docsrc="n00859691_d">
+      <context> a <head>reaction</head> to a crisis or setback or frustration ;</context>
+    </instance>
+    <instance id="n00859863_d_2" docsrc="n00859863_d">
+      <context> an excessive <head>reaction</head> ; a reaction with inappropriate emotional behavior ;</context>
+    </instance>
+    <instance id="n00859863_d_5" docsrc="n00859863_d">
+      <context> an excessive reaction ; a <head>reaction</head> with inappropriate emotional behavior ;</context>
+    </instance>
+    <instance id="n00860434_d_3" docsrc="n00860434_d">
+      <context> a bodily defense <head>reaction</head> that recognizes an invading substance ( an antigen : such as a virus or fungus or bacteria or transplanted organ ) and produces antibodies specific against that antigen ;</context>
+    </instance>
+    <instance id="n00861611_d_8" docsrc="n00861611_d">
+      <context> an involuntary orienting response ; positive or negative <head>reaction</head> to a stimulus source ;</context>
+    </instance>
+    <instance id="n00862859_d_7" docsrc="n00862859_d">
+      <context> movement by a cell or organism in <head>reaction</head> to a chemical stimulus ;</context>
+    </instance>
+    <instance id="n00863417_d_2" docsrc="n00863417_d">
+      <context> a delayed <head>reaction</head> indicating surprise ;</context>
+    </instance>
+    <instance id="n00863513_d_4" docsrc="n00863513_d">
+      <context> an automatic instinctive unlearned <head>reaction</head> to a stimulus ;</context>
+    </instance>
+    <instance id="n00864535_d_1" docsrc="n00864535_d">
+      <context> a <head>reaction</head> that has been acquired by learning ;</context>
+    </instance>
+    <instance id="n00865031_d_26" docsrc="n00865031_d">
+      <context> a complicated involuntary reaction to a sudden unexpected stimulus ( especially a loud noise ) ; involves flexion of most skeletal_muscles and a variety of visceral <head>reactions</head> ;</context>
+    </instance>
+    <instance id="n00865031_d_3" docsrc="n00865031_d">
+      <context> a complicated involuntary <head>reaction</head> to a sudden unexpected stimulus ( especially a loud noise ) ; involves flexion of most skeletal_muscles and a variety of visceral reactions ;</context>
+    </instance>
+    <instance id="n01221254_d_6" docsrc="n01221254_d">
+      <context> the aggregate of the responses or <head>reactions</head> or movements made by an organism in any situation ;</context>
+    </instance>
+    <instance id="n01234952_d_2" docsrc="n01234952_d">
+      <context> a nonverbal <head>reaction</head> ;</context>
+    </instance>
+    <instance id="n01267344_d_0" docsrc="n01267344_d">
+      <context> <head>reaction</head> of the body to a transfusion of blood that is not compatible with its own blood ; an adverse reaction can range from fever and hives to renal_failure and shock and death ;</context>
+    </instance>
+    <instance id="n01267344_d_20" docsrc="n01267344_d">
+      <context> reaction of the body to a transfusion of blood that is not compatible with its own blood ; an adverse <head>reaction</head> can range from fever and hives to renal_failure and shock and death ;</context>
+    </instance>
+    <instance id="n02720725_d_8" docsrc="n02720725_d">
+      <context> a medicine used to treat allergies and hypersensitive <head>reactions</head> and colds ; works by counteracting the effects of histamine on a receptor site ;</context>
+    </instance>
+    <instance id="n03107904_d_11" docsrc="n03107904_d">
+      <context> the chamber of a nuclear_reactor containing the fissile material where the <head>reaction</head> takes_place ;</context>
+    </instance>
+    <instance id="n03182232_d_18" docsrc="n03182232_d">
+      <context> a mechanical or electrical explosive_device or a small amount of explosive ; can be used to initiate the <head>reaction</head> of a disrupting_explosive ;</context>
+    </instance>
+    <instance id="n03275864_d_12" docsrc="n03275864_d">
+      <context> a cell containing an electrolyte in which an applied voltage causes a <head>reaction</head> to occur that would not occur otherwise ( such as the breakdown of water into hydrogen and oxygen ) ;</context>
+    </instance>
+    <instance id="n03990025_d_9" docsrc="n03990025_d">
+      <context> genre of art and literature and especially architecture in <head>reaction</head> against principles and practices of established modernism ;</context>
+    </instance>
+    <instance id="n04620216_d_14" docsrc="n04620216_d">
+      <context> the inherent complex of attributes that determines a persons moral and ethical actions and <head>reactions</head> ;</context>
+    </instance>
+    <instance id="n04623113_d_14" docsrc="n04623113_d">
+      <context> the complex of emotional and intellectual attributes that determine a person's characteristic actions and <head>reactions</head> ;</context>
+    </instance>
+    <instance id="n05009758_d_7" docsrc="n05009758_d">
+      <context> a property used to characterize materials in <head>reactions</head> that change their identity ;</context>
+    </instance>
+    <instance id="n05452845_d_8" docsrc="n05452845_d">
+      <context> a cell that develops from a B_lymphocyte in <head>reaction</head> to a specific antigen ; found in bone_marrow and sometimes in the blood ;</context>
+    </instance>
+    <instance id="n05742241_d_21" docsrc="n05742241_d">
+      <context> a blood_test to detect syphilis ; a complement_fixation_test is used to detect antibodies to the syphilis organism treponema ; a positive <head>reaction</head> indicates the presence of antibodies and therefore syphilis infection ;</context>
+    </instance>
+    <instance id="n05877412_d_10" docsrc="n05877412_d">
+      <context> the principle that ( at chemical_equilibrium ) in a reversible <head>reaction</head> the ratio of the rate of the forward reaction to the rate of the reverse reaction is a constant for that reaction ;</context>
+    </instance>
+    <instance id="n05877412_d_19" docsrc="n05877412_d">
+      <context> the principle that ( at chemical_equilibrium ) in a reversible reaction the ratio of the rate of the forward <head>reaction</head> to the rate of the reverse reaction is a constant for that reaction ;</context>
+    </instance>
+    <instance id="n05877412_d_26" docsrc="n05877412_d">
+      <context> the principle that ( at chemical_equilibrium ) in a reversible reaction the ratio of the rate of the forward reaction to the rate of the reverse <head>reaction</head> is a constant for that reaction ;</context>
+    </instance>
+    <instance id="n05877412_d_32" docsrc="n05877412_d">
+      <context> the principle that ( at chemical_equilibrium ) in a reversible reaction the ratio of the rate of the forward reaction to the rate of the reverse reaction is a constant for that <head>reaction</head> ;</context>
+    </instance>
+    <instance id="n05886266_d_2" docsrc="n05886266_d">
+      <context> action and <head>reaction</head> are equal and opposite ;</context>
+    </instance>
+    <instance id="n05917328_ex1_1" docsrc="n05917328_ex1">
+      <context> his <head>reaction</head> to the news was to start planning what to do ;</context>
+    </instance>
+    <instance id="n06084469_d_20" docsrc="n06084469_d">
+      <context> the science of matter ; the branch of the natural_sciences dealing with the composition of substances and their properties and <head>reactions</head> ;</context>
+    </instance>
+    <instance id="n06216634_ex1_3" docsrc="n06216634_ex1">
+      <context> the forces of <head>reaction</head> carried the election ;</context>
+    </instance>
+    <instance id="n06888848_d_5" docsrc="n06888848_d">
+      <context> a preview to test audience <head>reactions</head> ;</context>
+    </instance>
+    <instance id="n07065740_d_13" docsrc="n07065740_d">
+      <context> rock_music with deliberately offensive lyrics expressing anger and social alienation ; in_part a <head>reaction</head> against progressive_rock ;</context>
+    </instance>
+    <instance id="n07164349_d_7" docsrc="n07164349_d">
+      <context> a tentative suggestion designed to elicit the <head>reactions</head> of others ;</context>
+    </instance>
+    <instance id="n07483782_d_7" docsrc="n07483782_d">
+      <context> apathy demonstrated by an absence of emotional <head>reactions</head> ;</context>
+    </instance>
+    <instance id="n08370505_d_14" docsrc="n08370505_d">
+      <context> a youth_subculture closely associated with punk rock_music in the late 1970s ; in_part a <head>reaction</head> to the hippy subculture ; dress was optional but intended to shock ( plastic garbage bags or old school uniforms ) and hair was dyed in bright colors ( in Mohican haircuts or sometimes spiked in bright plumes ) ;</context>
+    </instance>
+    <instance id="n08371200_d_14" docsrc="n08371200_d">
+      <context> a youth_subculture that appeared first in England in the late 1960s as a working-class <head>reaction</head> to the hippies ; hair was cropped close to the scalp ; wore work-shirts and short jeans ( supported by suspenders ) and heavy red boots ; involved in attacks against Asians and football hooliganism ;</context>
+    </instance>
+    <instance id="n08468499_d_13" docsrc="n08468499_d">
+      <context> a movement by American and English poets early in the 20th century in <head>reaction</head> to Victorian sentimentality ; used common speech in free_verse with clear concrete imagery ;</context>
+    </instance>
+    <instance id="n08474623_d_1" docsrc="n08474623_d">
+      <context> the <head>reaction</head> of the Roman_Catholic_Church to the Reformation reaffirming the veneration of saints and the authority of the Pope ( to which Protestants objected ) ; many leaders were Jesuits ;</context>
+    </instance>
+    <instance id="n10262183_d_8" docsrc="n10262183_d">
+      <context> someone who is a frequent target of negative <head>reactions</head> and serves to distract attention from another ;</context>
+    </instance>
+    <instance id="n10627349_d_3" docsrc="n10627349_d">
+      <context> a person whose <head>reactions</head> to something serve as an indication of its acceptability ;</context>
+    </instance>
+    <instance id="n11417129_ex1_6" docsrc="n11417129_ex1">
+      <context> he was pleased by the audience's <head>reaction</head> to his performance ;</context>
+    </instance>
+    <instance id="n11417129_ex2_4" docsrc="n11417129_ex2">
+      <context> John feared his mother's <head>reaction</head> when she saw the broken lamp ;</context>
+    </instance>
+    <instance id="n11421822_d_17" docsrc="n11421822_d">
+      <context> the energy that an atomic system must acquire before a process ( such as an emission or <head>reaction</head> ) can occur ;</context>
+    </instance>
+    <instance id="n11498461_ex1_7" docsrc="n11498461_ex1">
+      <context> every action has an equal and opposite <head>reaction</head> ;</context>
+    </instance>
+    <instance id="n13429194_d_1" docsrc="n13429194_d">
+      <context> a <head>reaction</head> of aldehydes resulting in an aldol ;</context>
+    </instance>
+    <instance id="n13435770_d_12" docsrc="n13435770_d">
+      <context> catalysis in which the catalyst is one of the products of the <head>reaction</head> ;</context>
+    </instance>
+    <instance id="n13467009_d_6" docsrc="n13467009_d">
+      <context> a defense_mechanism that transfers affect or <head>reaction</head> from the original object to some more acceptable one ;</context>
+    </instance>
+    <instance id="n13467224_d_1" docsrc="n13467224_d">
+      <context> a <head>reaction</head> in which an elementary substance displaces and sets free a constituent element from a compound ;</context>
+    </instance>
+    <instance id="n13488606_d_11" docsrc="n13488606_d">
+      <context> a metabolic_process that breaks_down carbohydrates and sugars through a series of <head>reactions</head> to either pyruvic_acid or lactic_acid and releases energy for the body in the form of ATP ;</context>
+    </instance>
+    <instance id="n13505467_d_10" docsrc="n13505467_d">
+      <context> in all plants and animals : a series of enzymatic <head>reactions</head> in mitochondria involving oxidative metabolism of acetyl compounds to produce high-energy phosphate compounds that are the source of cellular energy ;</context>
+    </instance>
+    <instance id="n13521072_d_24" docsrc="n13521072_d">
+      <context> a chemical_reaction in which an acid and a base interact with the formation of a salt ; with strong acids and bases the essential <head>reaction</head> is the combination of hydrogen_ions with hydroxyl_ions to form water ;</context>
+    </instance>
+    <instance id="n13530799_d_6" docsrc="n13530799_d">
+      <context> a reversible chemical_reaction in which one <head>reaction</head> is an oxidation and the reverse is a reduction ;</context>
+    </instance>
+    <instance id="n13544537_d_9" docsrc="n13544537_d">
+      <context> the swelling of the capsule surrounding a microorganism after <head>reaction</head> with an antibody ; the basis of certain tests for identifying microorganisms ;</context>
+    </instance>
+    <instance id="n13554586_d_23" docsrc="n13554586_d">
+      <context> the action of forming a chelate or other stable with an ion or atom or molecule so that it is no_longer available for <head>reactions</head> ;</context>
+    </instance>
+    <instance id="n13589681_d_11" docsrc="n13589681_d">
+      <context> the ratio of concentrations when equilibrium is reached in a reversible <head>reaction</head> ( when the rate of the forward reaction equals the rate of the reverse reaction ) ;</context>
+    </instance>
+    <instance id="n13589681_d_19" docsrc="n13589681_d">
+      <context> the ratio of concentrations when equilibrium is reached in a reversible reaction ( when the rate of the forward <head>reaction</head> equals the rate of the reverse reaction ) ;</context>
+    </instance>
+    <instance id="n13589681_d_26" docsrc="n13589681_d">
+      <context> the ratio of concentrations when equilibrium is reached in a reversible reaction ( when the rate of the forward reaction equals the rate of the reverse <head>reaction</head> ) ;</context>
+    </instance>
+    <instance id="n13825840_d_11" docsrc="n13825840_d">
+      <context> the relation between the quantities of substances that take_part in a <head>reaction</head> or form a compound ( typically a ratio of whole integers ) ;</context>
+    </instance>
+    <instance id="n14008342_d_3" docsrc="n14008342_d">
+      <context> the action or <head>reaction</head> of something ( as a machine or substance ) under specified circumstances ;</context>
+    </instance>
+    <instance id="n14186738_d_35" docsrc="n14186738_d">
+      <context> a chronic autoimmune_disease with inflammation of the joints and marked deformities ; something ( possibly a virus ) triggers an attack on the synovium by the immune_system , which releases cytokines that stimulate an inflammatory <head>reaction</head> that can lead to the destruction of all components of the joint ;</context>
+    </instance>
+    <instance id="n14224547_d_2" docsrc="n14224547_d">
+      <context> a sensitization <head>reaction</head> to repeated invasion of the skin by cercariae of schistosomes ;</context>
+    </instance>
+    <instance id="n14311709_d_2" docsrc="n14311709_d">
+      <context> a bad <head>reaction</head> to a hallucinogenic_drug ;</context>
+    </instance>
+    <instance id="n14326607_d_13" docsrc="n14326607_d">
+      <context> pain in the head caused by dilation of cerebral_arteries or muscle_contractions or a <head>reaction</head> to drugs ;</context>
+    </instance>
+    <instance id="n14532458_d_13" docsrc="n14532458_d">
+      <context> a delayed allergic_reaction to the injection of an antiserum caused by an antibody <head>reaction</head> to an antigen in the donor serum ;</context>
+    </instance>
+    <instance id="n14533203_d_4" docsrc="n14533203_d">
+      <context> an inappropriate and excessive <head>reaction</head> to an allergen ( as pollen or dust or animal hair or certain foods ) ; severity ranges from mild allergy to severe systemic reactions leading to anaphylactic_shock ;</context>
+    </instance>
+    <instance id="n14583066_d_13" docsrc="n14583066_d">
+      <context> a substance from which another substance is formed ( especially by a metabolic <head>reaction</head> ) ;</context>
+    </instance>
+    <instance id="n14598383_d_4" docsrc="n14598383_d">
+      <context> an indicator used in <head>reactions</head> that involve precipitation ;</context>
+    </instance>
+    <instance id="n14609784_d_21" docsrc="n14609784_d">
+      <context> biochemical indicator of the presence of carbohydrates in a solution ; if carbohydrates are present a violet ring is formed by <head>reaction</head> with alpha-naphthol in the presence of sulfuric_acid ;</context>
+    </instance>
+    <instance id="n14615602_d_5" docsrc="n14615602_d">
+      <context> a solid acid formed by <head>reactions</head> of orthophosphoric_acid ;</context>
+    </instance>
+    <instance id="n14708042_d_18" docsrc="n14708042_d">
+      <context> a nucleotide derived from adenosine that occurs in muscle tissue ; the major source of energy for cellular <head>reactions</head> ;</context>
+    </instance>
+    <instance id="n14724025_d_13" docsrc="n14724025_d">
+      <context> a substance other than a catalyst that facilitates the start of a catalytic <head>reaction</head> ;</context>
+    </instance>
+    <instance id="n14724645_d_6" docsrc="n14724645_d">
+      <context> substance that inhibits oxidation or inhibits <head>reactions</head> promoted by oxygen or peroxides ;</context>
+    </instance>
+    <instance id="n14732946_d_16" docsrc="n14732946_d">
+      <context> any of several complex proteins that are produced by cells and act_as catalysts in specific biochemical <head>reactions</head> ;</context>
+    </instance>
+    <instance id="n14767291_d_11" docsrc="n14767291_d">
+      <context> a compound formed from one or more other compounds in a <head>reaction</head> resulting in removal of water ;</context>
+    </instance>
+    <instance id="n14775430_d_20" docsrc="n14775430_d">
+      <context> a white crystalline peroxide used in bleaching ( flour or oils or fats ) and as a catalyst for free_radical <head>reactions</head> ;</context>
+    </instance>
+    <instance id="n14786257_d_6" docsrc="n14786257_d">
+      <context> buffer_solution at the start of a <head>reaction</head> ;</context>
+    </instance>
+    <instance id="n14806838_d_7" docsrc="n14806838_d">
+      <context> material produced by or used in a <head>reaction</head> involving changes in atoms or molecules ;</context>
+    </instance>
+    <instance id="n14850483_d_2" docsrc="n14850483_d">
+      <context> formed by <head>reaction</head> between an acid and an alcohol with elimination of water ;</context>
+    </instance>
+    <instance id="n14866605_d_7" docsrc="n14866605_d">
+      <context> salt of ferrocyanic_acid usually obtained by a <head>reaction</head> of a cyanide with iron sulphate ;</context>
+    </instance>
+    <instance id="n14917208_d_35" docsrc="n14917208_d">
+      <context> a substance that changes color to indicate the presence of some ion or substance ; can be used to indicate the completion of a chemical_reaction or ( in medicine ) to test for a particular <head>reaction</head> ;</context>
+    </instance>
+    <instance id="n14995061_d_8" docsrc="n14995061_d">
+      <context> a cyanide compound that is prepared by the <head>reaction</head> of potassium_cyanide with ferrous salts ; commonly used by gardeners ;</context>
+    </instance>
+    <instance id="n15072099_d_14" docsrc="n15072099_d">
+      <context> coagulation_factor that is converted to an enzyme that converts prothrombin to thrombin in a <head>reaction</head> that depends_on_
+     _ions and other coagulation_factors ;</context>
+    </instance>
+    <instance id="n15085175_d_6" docsrc="n15085175_d">
+      <context> a yellow salt obtained by the <head>reaction</head> of uranium salts with nitric_acid ;</context>
+    </instance>
+    <instance id="n15085327_d_5" docsrc="n15085327_d">
+      <context> a salt obtained by the <head>reaction</head> of uranium salts with oxalic_acid ;</context>
+    </instance>
+    <instance id="v00690305_d_8" docsrc="v00690305_d">
+      <context> have a feeling or perception about oneself in <head>reaction</head> to someone's behavior or attitude ;</context>
+    </instance>
+    <instance id="v00717358_d_5" docsrc="v00717358_d">
+      <context> show a response or a <head>reaction</head> to something ;</context>
+    </instance>
+    <instance id="v00719062_d_4" docsrc="v00719062_d">
+      <context> show a violent emotional <head>reaction</head> ;</context>
+    </instance>
+    <instance id="v01759926_d_2" docsrc="v01759926_d">
+      <context> evoke a <head>reaction</head> , response , or emotion ;</context>
+    </instance>
+    <instance id="v02739480_d_3" docsrc="v02739480_d">
+      <context> experience as a <head>reaction</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

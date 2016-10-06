@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="perimeter.n" pos="NN">
+    <instance id="Perimeter-perimeter-0-5-1" docsrc="Perimeter">
+      <context> <head>Similarly</head> , the amount of string wound around a spool is related to the spool 's perimeter . The perimeter is the distance around a shape . Perimeters for more general shapes can be calculated as any path with</context>
+    </instance>
+    <instance id="Perimeter-perimeter-1-1-1" docsrc="Perimeter">
+      <context> Calculating <head>the</head> perimeter has considerable practical applications . The perimeter can be used to calculate the length of fence required to surround a yard or garden .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-1-1-2" docsrc="Perimeter">
+      <context> Calculating <head>the</head> perimeter has considerable practical applications . The perimeter can be used to calculate the length of fence required to surround a yard or garden . The perimeter of a wheel ( its circumference ) describes how far it will roll in one revolution .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-1-1-4" docsrc="Perimeter">
+      <context> The <head>perimeter</head> of a wheel ( its circumference ) describes how far it will roll in one revolution . Similarly , the amount of string wound around a spool is related to the spool 's perimeter . The perimeter is the distance around a shape .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-1-117-2" docsrc="Perimeter">
+      <context> A <head>cleaver</head> of a triangle is a segment from the midpoint of a side of a triangle to the opposite side such that the perimeter is divided into two equal lengths . The three cleavers of a triangle all intersect each other at the triangle 's Spieker center . The perimeter of a circle , often called the circumference , is proportional to its diameter and its radius .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-1-157-4" docsrc="Perimeter">
+      <context> So <head>,</head> obtaining an accurate approximation of π is important for the calculation . The search for the digits of π is relevant to many fields , such as mathematical analysis , algorithmics and computer science . The perimeter and the area are the main two measures of geometric figures .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-1-182-1" docsrc="Perimeter">
+      <context> Surface <head>area</head> Volume Wetted perimeter</context>
+    </instance>
+    <instance id="Perimeter-perimeter-1-55-2" docsrc="Perimeter">
+      <context> Polygons <head>are</head> fundamental to determining perimeters , not only because they are the simplest shapes but also because the perimeters of many shapes are calculated by approximating them with sequences of polygons tending to these shapes . The first mathematician known to have used this kind of reasoning is Archimedes , who approximated the perimeter of a circle by surrounding it with regular polygons . The perimeter of a polygon equals the sum of the lengths of its edges .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-10-162-5" docsrc="Perimeter">
+      <context> For example , if a field is drawn on a <head>1/10,000</head> scale map , the actual field perimeter can be calculated multiplying the drawing perimeter by 10,000 . The real area is 10,0002 times the area of the shape on the map . Nevertheless there is no relation between the area and the perimeter of an ordinary shape .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-12-165-1" docsrc="Perimeter">
+      <context> But a field 's production is proportional to its area , not <head>to</head> its perimeter : many naive peasants may have got fields with long perimeters but low areas ( thus , low crops ) . If one removes a piece from a figure , its area decreases but its perimeter may not . In the case of very irregular shapes , some people may confuse perimeter with convex hull .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-14-164-1" docsrc="Perimeter">
+      <context> Both areas equal to 1 . Proclus ( 5th century ) reported that Greek <head>peasants</head> " fairly " parted fields relying on their perimeters . But a field 's production is proportional to its area , not to its perimeter : many naive peasants may have got fields with long perimeters but low areas ( thus , low crops ) .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-14-164-2" docsrc="Perimeter">
+      <context> Proclus ( 5th century ) reported that Greek peasants " fairly " parted fields <head>relying</head> on their perimeters . But a field 's production is proportional to its area , not to its perimeter : many naive peasants may have got fields with long perimeters but low areas ( thus , low crops ) . If one removes a piece from a figure , its area decreases but its perimeter may not .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-15-171-3" docsrc="Perimeter">
+      <context> The isoperimetric problem is sometimes simplified : to find the quadrilateral , or the triangle <head>or</head> another particular figure , with the largest area amongst those having a given perimeter . The solution to the quadrilateral isoperimetric problem is the square , and the solution to the triangle problem is the equilateral triangle . In general , the polygon with n sides having the largest area and a given perimeter is the regular polygon , which is closer to being a circle than is an irregular polygon .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-16-1-3" docsrc="Perimeter">
+      <context> The perimeter can be used to calculate the length of fence required to surround a yard <head>or</head> garden . The perimeter of a wheel ( its circumference ) describes how far it will roll in one revolution . Similarly , the amount of string wound around a spool is related to the spool 's perimeter .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-17-162-3" docsrc="Perimeter">
+      <context> Confusing them is frequent , as well as believing that the greater one of them is , <head>the</head> greater is the other . Indeed , an enlargement ( or a reduction ) of a shape make its area grow ( or decrease ) as well as its perimeter . For example , if a field is drawn on a 1/10,000 scale map , the actual field perimeter can be calculated multiplying the drawing perimeter by 10,000 .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-17-163-3" docsrc="Perimeter">
+      <context> For example , the perimeter of a rectangle of width 0.001 and length 1000 is slightly above <head>2000</head> , while the perimeter of a rectangle of width 0.5 and length 2 is 5 . Both areas equal to 1 . Proclus ( 5th century ) reported that Greek peasants " fairly " parted fields relying on their perimeters .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-17-55-1" docsrc="Perimeter">
+      <context>   -dimensional Euclidean spaces can be found in the theory of Caccioppoli sets . Polygons are fundamental <head>to</head> determining perimeters , not only because they are the simplest shapes but also because the perimeters of many shapes are calculated by approximating them with sequences of polygons tending to these shapes . The first mathematician known to have used this kind of reasoning is Archimedes , who approximated the perimeter of a circle by surrounding it with regular polygons .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-18-122-1" docsrc="Perimeter">
+      <context> The three cleavers of a triangle all intersect each other at the triangle 's Spieker center . The <head>perimeter</head> of a circle , often called the circumference , is proportional to its diameter and its radius . That is to say , there exists a constant number pi , π ( the Greek p for perimeter ) , such that if P is the circle 's perimeter and D its diameter then :</context>
+    </instance>
+    <instance id="Perimeter-perimeter-18-165-4" docsrc="Perimeter">
+      <context> The convex hull of a figure may be visualized as the shape formed by a rubber band stretched <head>around</head> it . On the animated picture on the left , all the figures have the same convex hull : the big , first hexagon . The isoperimetric problem is to determine a figure with the largest area , amongst those having a given perimeter .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-19-50-1" docsrc="Perimeter">
+      <context>     { \displaystyle n }   -dimensional Euclidean spaces can be found in the theory of Caccioppoli sets . <head>Polygons</head> are fundamental to determining perimeters , not only because they are the simplest shapes but also because the perimeters of many shapes are calculated by approximating them with sequences of polygons tending to these shapes .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-19-86-2" docsrc="Perimeter">
+      <context> A regular polygon may be defined by the number of its sides and by its circumradius , that is <head>to</head> say , the constant distance between its centre and each of its vertices . One can calculate the length of its sides using trigonometry . If R is a regular polygon 's radius and n is the number of its sides , then its perimeter is</context>
+    </instance>
+    <instance id="Perimeter-perimeter-20-42-1" docsrc="Perimeter">
+      <context>     { \displaystyle ds }    is an infinitesimal line element . Both of these must be replaced with other <head>algebraic</head> forms in order to be solved : an advanced notion of perimeter , which includes hypersurfaces bounding volumes in</context>
+    </instance>
+    <instance id="Perimeter-perimeter-21-163-1" docsrc="Perimeter">
+      <context> The real area is 10,0002 times the area of the shape on the map . Nevertheless there is no relation between <head>the</head> area and the perimeter of an ordinary shape . For example , the perimeter of a rectangle of width 0.001 and length 1000 is slightly above 2000 , while the perimeter of a rectangle of width 0.5 and length 2 is 5 .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-22-115-1" docsrc="Perimeter">
+      <context>     { \displaystyle 2nR\sin \left({\frac { 180^{\circ }}{n}}\right ) . }   A splitter of a triangle is a cevian ( a <head>segment</head> from a vertex to the opposite side ) that divides the perimeter into two equal lengths , this common length being called the semiperimeter of the triangle .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-24-116-2" docsrc="Perimeter">
+      <context> A splitter of a triangle is a cevian ( a segment from a vertex to the opposite side ) that divides the perimeter into <head>two</head> equal lengths , this common length being called the semiperimeter of the triangle . The three splitters of a triangle all intersect each other at the Nagel point of the triangle . A cleaver of a triangle is a segment from the midpoint of a side of a triangle to the opposite side such that the perimeter is divided into two equal lengths .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-24-162-2" docsrc="Perimeter">
+      <context> The perimeter and the area are the main two measures of geometric figures . Confusing them is frequent , as well as believing that <head>the</head> greater one of them is , the greater is the other . Indeed , an enlargement ( or a reduction ) of a shape make its area grow ( or decrease ) as well as its perimeter .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-24-162-3" docsrc="Perimeter">
+      <context> Confusing them is frequent , as well as believing that the greater one of them is , the greater is the other . Indeed <head>,</head> an enlargement ( or a reduction ) of a shape make its area grow ( or decrease ) as well as its perimeter . For example , if a field is drawn on a 1/10,000 scale map , the actual field perimeter can be calculated multiplying the drawing perimeter by 10,000 .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-25-164-1" docsrc="Perimeter">
+      <context> Both areas equal to 1 . Proclus ( 5th century ) reported that Greek peasants " fairly " parted fields relying on their perimeters . <head>But</head> a field 's production is proportional to its area , not to its perimeter : many naive peasants may have got fields with long perimeters but low areas ( thus , low crops ) .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-29-122-1" docsrc="Perimeter">
+      <context> The three cleavers of a triangle all intersect each other at the triangle 's Spieker center . The perimeter of a circle , often called the circumference , is <head>proportional</head> to its diameter and its radius . That is to say , there exists a constant number pi , π ( the Greek p for perimeter ) , such that if P is the circle 's perimeter and D its diameter then :</context>
+    </instance>
+    <instance id="Perimeter-perimeter-29-171-1" docsrc="Perimeter">
+      <context> In particular , that is why drops of fat on a broth surface are circular . This problem may seem simple , but its mathematical proof needs sophisticated theorems <head>.</head> The isoperimetric problem is sometimes simplified : to find the quadrilateral , or the triangle or another particular figure , with the largest area amongst those having a given perimeter .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-3-85-1" docsrc="Perimeter">
+      <context>   . An <head>equilateral</head> polygon is a polygon which has all sides of the same length ( for example , a rhombus is a 4-sided equilateral polygon ) . To calculate the perimeter of an equilateral polygon , one must multiply the common length of the sides by the number of sides .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-4-163-1" docsrc="Perimeter">
+      <context> The real area is <head>10,0002</head> times the area of the shape on the map . Nevertheless there is no relation between the area and the perimeter of an ordinary shape . For example , the perimeter of a rectangle of width 0.001 and length 1000 is slightly above 2000 , while the perimeter of a rectangle of width 0.5 and length 2 is 5 .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-4-56-1" docsrc="Perimeter">
+      <context> The first mathematician known <head>to</head> have used this kind of reasoning is Archimedes , who approximated the perimeter of a circle by surrounding it with regular polygons . The perimeter of a polygon equals the sum of the lengths of its edges . In particular , the perimeter of a rectangle which width is</context>
+    </instance>
+    <instance id="Perimeter-perimeter-5-156-1" docsrc="Perimeter">
+      <context>     { \displaystyle P=2\pi \cdot <head>r.\</head> ! }   To calculate a circle 's perimeter , knowledge of its radius or diameter and of the number π is sufficient .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-5-50-1" docsrc="Perimeter">
+      <context>     { \displaystyle n } <head> </head> -dimensional Euclidean spaces can be found in the theory of Caccioppoli sets . Polygons are fundamental to determining perimeters , not only because they are the simplest shapes but also because the perimeters of many shapes are calculated by approximating them with sequences of polygons tending to these shapes .</context>
+    </instance>
+    <instance id="Perimeter-perimeter-6-183-1" docsrc="Perimeter">
+      <context> Volume Wetted perimeter Weisstein , Eric <head>W.</head> , " Perimeter " , MathWorld .</context>
+    </instance>
+  </lexelt>
+</corpus>

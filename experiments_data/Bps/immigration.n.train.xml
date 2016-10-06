@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="immigration.n" pos="NN">
+    <instance id="br-g17#w2209_0" docsrc="br-g17">
+      <context> Is n't it a_bit odd that the three states of Southern New_England ( Massachusetts , Connecticut , and Rhode_Island ) have had state institutions of university status only in the very recent past , these institutions having previously been A_+_M_colleges ? Was it supposed , perchance , that A_+_M ( vocational_training , that_is ) was quite sufficient for the immigrant_class which flooded that part of the New_England world in the post Civil_War period , the immigrants having been brought_in from Southern Europe , to work in the mills , to make_up for the labor shortage caused by migration to the West ? Is it not ironical that Roger_Williams 's state , Rhode_Island , should have been the very last of the forty-eight to establish a state university ? The state universities of Maine , New_Hampshire , And Vermont are older and more `` respectable '' ; they had less <head>immigration</head> to contend with . A Yale historian , writing a_few years ago in The Yale_Review , said : `` We in New_England have long_since segregated our children '' . He was referring not_only to the general college situation but more especially to the preparatory_schools . And what a galaxy of those adorns that fair land !</context>
+    </instance>
+    <instance id="n00056551_d_0" docsrc="n00056551_d">
+      <context> <head>immigration</head> of Jews to Israel ;</context>
+    </instance>
+    <instance id="n08413834_ex1_2" docsrc="n08413834_ex1">
+      <context> the increased <head>immigration</head> strengthened the colony ;</context>
+    </instance>
+    <instance id="n09120353_d_9" docsrc="n09120353_d">
+      <context> an island in New_York_Bay that was formerly the principal <head>immigration</head> station for the United_States ;</context>
+    </instance>
+    <instance id="n09783130_d_8" docsrc="n09783130_d">
+      <context> a fugitive remaining in the United_States after an <head>immigration</head> judge has ordered them deported ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="billion.n" pos="NN">
+    <instance id="Billion_(disambiguation)-billion-0-2-1" docsrc="Billion_(disambiguation)">
+      <context> <head>1,000,000,000</head> ( 109 , one thousand million ) , the short scale definition now normal in both British and American English 1,000,000,000,000 ( 1012 , one million million ) , the long scale definition used formerly in Britain and currently in certain other languages Billion may also refer to :</context>
+    </instance>
+    <instance id="br-h21#w416_0" docsrc="br-h21">
+      <context> I again proposed a reduction in the Army National_Guard and Army_Reserve - from their present strengths of 400000 and 300000 , respectively , to 360000 and 270000 by the end of the fiscal_year 1961 . These strengths are considered adequate to meet the essential roles and missions of the reserves in support of our national security objectives . - About 30 % of the expenditures for the Department_of_Defense in 1961 are for military_personnel costs , including pay for active , reserve , and retired military_personnel . These expenditures are estimated to be $ 12.1 <head>billion</head> , an increase of $ 187 million over 1960 , reflecting additional longevity pay of career personnel , more dependents , an increased number of men drawing proficiency pay , and social_security tax increases ( effective for the full year in 1961 compared with only 6 months in 1960 ) . Retired pay costs are increased by $ 94 million in 1961 over 1960 , partly because of a substantial increase in the number of retired personnel . These increased costs are partially offset by a decrease of $ 56 million in expenditures for the reserve forces , largely because of the planned reduction in strength of the Army_Reserve components during 1961 . Traditionally , rates_of_pay for retired military_personnel have been proportionate to current rates_of_pay for active personnel .</context>
+    </instance>
+    <instance id="n08271042_d_9" docsrc="n08271042_d">
+      <context> a collection of star systems ; any of the <head>billions</head> of systems each having many stars and nebulae and dust ;</context>
+    </instance>
+  </lexelt>
+</corpus>

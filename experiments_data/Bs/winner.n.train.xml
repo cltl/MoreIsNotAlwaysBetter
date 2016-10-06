@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="winner.n" pos="NN">
+    <instance id="br-a14#w875_0" docsrc="br-a14">
+      <context> Later , Shea owned and operated the Long_Island Indians , a minor_league professional football_team . He was the lawyer for Ted_Collins ' old Boston_Yankees in the National_Football_League . All was quiet in the office of the Yankees and the local National_Leaguers yesterday . On Friday , Roger_Maris , the Yankee outfielder and <head>winner</head> of the American_League 's most-valuable-player award , will meet with Roy_Hamey , the general_manager . Maris is in_line for a big raise . Arnold_Palmer and Sam_Snead will be among those honored at the national awards dinner of the Metropolitan_Golf_Writers_Association tonight . The dinner will be held at the Hotel_Pierre .</context>
+    </instance>
+    <instance id="br-a14#w932_0" docsrc="br-a14">
+      <context> Maris is in_line for a big raise . Arnold_Palmer and Sam_Snead will be among those honored at the national awards dinner of the Metropolitan_Golf_Writers_Association tonight . The dinner will be held at the Hotel_Pierre . Palmer , golf 's leading money <head>winner</head> in 1960 , and Snead will be saluted as the winning team in the Canada_Cup matches last June in Dublin . Deane_Beman , the National_Amateur champion , and all the metropolitan district champions , including Bob_Gardner , the amateur title-holder , also will receive awards . The writers ' Gold_Tee_Award will go to John_McAuliffe of Plainfield , N._J. , and Palm_Beach , Fla. , for his sponsorship of charity tournaments . Horton_Smith of Detroit , a former president of the Professional_Golfers_Association , will receive the Ben_Hogan_Trophy for his comeback following a recent illness .</context>
+    </instance>
+  </lexelt>
+</corpus>

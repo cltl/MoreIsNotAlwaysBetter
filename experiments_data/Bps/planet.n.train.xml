@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="planet.n" pos="NN">
+    <instance id="a00769926_d_12" docsrc="a00769926_d">
+      <context> moving from west to east on the celestial_sphere ; or -- for <head>planets</head> -- around the sun in the same direction as the Earth ;</context>
+    </instance>
+    <instance id="a00770114_d_12" docsrc="a00770114_d">
+      <context> moving from east to west on the celestial_sphere ; or -- for <head>planets</head> -- around the sun in a direction opposite to that of the Earth ;</context>
+    </instance>
+    <instance id="a02778668_d_13" docsrc="a02778668_d">
+      <context> of or relating to or resembling the physical or orbital characteristics of a <head>planet</head> or the planets ;</context>
+    </instance>
+    <instance id="a02778668_d_16" docsrc="a02778668_d">
+      <context> of or relating to or resembling the physical or orbital characteristics of a planet or the <head>planets</head> ;</context>
+    </instance>
+    <instance id="a02779310_d_3" docsrc="a02779310_d">
+      <context> between or among <head>planets</head> ;</context>
+    </instance>
+    <instance id="a02780093_d_8" docsrc="a02780093_d">
+      <context> of or relating to or characteristic of the <head>planet</head> Earth or its inhabitants ;</context>
+    </instance>
+    <instance id="a02866674_d_11" docsrc="a02866674_d">
+      <context> relating to or under the ( astrological ) influence of the <head>planet</head> Mercury ;</context>
+    </instance>
+    <instance id="a02939406_d_5" docsrc="a02939406_d">
+      <context> of or relating to the <head>planet</head> Mars ( or its fictional inhabitants ) ;</context>
+    </instance>
+    <instance id="a03077765_d_10" docsrc="a03077765_d">
+      <context> of or pertaining to or characteristic of or resembling the <head>planet</head> Jupiter ;</context>
+    </instance>
+    <instance id="br-j01#w108_0" docsrc="br-j01">
+      <context> It has recently become practical to use the radio_emission of the moon and planets as a new source of information about these bodies and their atmospheres . The results of present observations of the thermal radio_emission of the moon are consistent with the very low thermal conductivity of the surface layer which was derived from the variation in the infrared_emission during eclipses ( e.g. , Garstung , 1958 ) . When sufficiently accurate and complete measurements are available , it will be possible to set limits on the thermal and electrical characteristics of the surface and subsurface materials of the moon . Observations of the radio_emission of a <head>planet</head> which has an extensive atmosphere will probe the atmosphere to_a_greater_extent than those using shorter wave_lengths and should in some cases give otherwise unobtainable information about the characteristics of the solid surface . Radio_observations of Venus and Jupiter have already supplied unexpected experimental data on the physical conditions of these planets . The observed intensity of the radio_emission of Venus is much higher than the expected thermal intensity , although the spectrum indicated by measurements at wave_lengths near 3 cm and 10 cm is like that of a black_body at about 600 ` K . This result suggests a very high_temperature at the solid surface of the planet , although there is the possibility that the observed radiation may be a combination of both thermal and non thermal components and that the observed spectrum is that of a black_body merely by coincidence .</context>
+    </instance>
+    <instance id="br-j01#w1136_0" docsrc="br-j01">
+      <context> There have been few measurements specifically for the determination of the polarization of planetary radiation . The measurements made with the NRL 50 - foot reflector , which is altitude azimuth mounted , would have shown a systematic change with local hour_angle in the measured intensities of Venus and Jupiter if a substantial part of the radiation had been linearly polarized . Recent interferometer measurements ( Radhakrishnan and Roberts , 1960 ) have shown the 960 - Mc emission of Jupiter to be partially polarized and to originate_in a region of larger diameter than the visible disk . Other_than this very significant result , most_of the information now available about the radio_emission of the <head>planets</head> is restricted to the intensity of the radiation . The concept of apparent black-body temperature is used to describe the radiation received from the moon and the planets . The received radiation is compared with the radiation from a hypothetical black-body which subtends the same solid_angle as the visible disk of the planet . The apparent black-body disk temperature is the temperature which must be assumed for the black_body in_order_that the intensity of its radiation should equal that of the observed radiation .</context>
+    </instance>
+    <instance id="br-j01#w1164_0" docsrc="br-j01">
+      <context> The measurements made with the NRL 50 - foot reflector , which is altitude azimuth mounted , would have shown a systematic change with local hour_angle in the measured intensities of Venus and Jupiter if a substantial part of the radiation had been linearly polarized . Recent interferometer measurements ( Radhakrishnan and Roberts , 1960 ) have shown the 960 - Mc emission of Jupiter to be partially polarized and to originate_in a region of larger diameter than the visible disk . Other_than this very significant result , most_of the information now available about the radio_emission of the planets is restricted to the intensity of the radiation . The concept of apparent black-body temperature is used to describe the radiation received from the moon and the <head>planets</head> . The received radiation is compared with the radiation from a hypothetical black-body which subtends the same solid_angle as the visible disk of the planet . The apparent black-body disk temperature is the temperature which must be assumed for the black_body in_order_that the intensity of its radiation should equal that of the observed radiation . The use of this concept does not specify the origin of the radiation , and only if the planet really radiates as a black_body , will the apparent black-body temperature correspond to the physical temperature of the emitting material .</context>
+    </instance>
+    <instance id="br-j01#w1189_0" docsrc="br-j01">
+      <context> Recent interferometer measurements ( Radhakrishnan and Roberts , 1960 ) have shown the 960 - Mc emission of Jupiter to be partially polarized and to originate_in a region of larger diameter than the visible disk . Other_than this very significant result , most_of the information now available about the radio_emission of the planets is restricted to the intensity of the radiation . The concept of apparent black-body temperature is used to describe the radiation received from the moon and the planets . The received radiation is compared with the radiation from a hypothetical black-body which subtends the same solid_angle as the visible disk of the <head>planet</head> . The apparent black-body disk temperature is the temperature which must be assumed for the black_body in_order_that the intensity of its radiation should equal that of the observed radiation . The use of this concept does not specify the origin of the radiation , and only if the planet really radiates as a black_body , will the apparent black-body temperature correspond to the physical temperature of the emitting material . The radio_radiation of the sun which is reflected from the moon and planets should be negligible compared with their thermal_emission at centimeter wave_lengths , except possibly at times of exceptional outbursts of solar radio_noise .</context>
+    </instance>
+    <instance id="br-j01#w1238_0" docsrc="br-j01">
+      <context> The concept of apparent black-body temperature is used to describe the radiation received from the moon and the planets . The received radiation is compared with the radiation from a hypothetical black-body which subtends the same solid_angle as the visible disk of the planet . The apparent black-body disk temperature is the temperature which must be assumed for the black_body in_order_that the intensity of its radiation should equal that of the observed radiation . The use of this concept does not specify the origin of the radiation , and only if the <head>planet</head> really radiates as a black_body , will the apparent black-body temperature correspond to the physical temperature of the emitting material . The radio_radiation of the sun which is reflected from the moon and planets should be negligible compared with their thermal_emission at centimeter wave_lengths , except possibly at times of exceptional outbursts of solar radio_noise . The quiescent level of centimeter wave-length solar_radiation would increase the average disk brightness temperature by less than 1 ` K . At meter wave_lengths and increase of the order of 10 ` K in the average disk temperatures of the nearer planets would be expected .</context>
+    </instance>
+    <instance id="br-j01#w1272_0" docsrc="br-j01">
+      <context> The received radiation is compared with the radiation from a hypothetical black-body which subtends the same solid_angle as the visible disk of the planet . The apparent black-body disk temperature is the temperature which must be assumed for the black_body in_order_that the intensity of its radiation should equal that of the observed radiation . The use of this concept does not specify the origin of the radiation , and only if the planet really radiates as a black_body , will the apparent black-body temperature correspond to the physical temperature of the emitting material . The radio_radiation of the sun which is reflected from the moon and <head>planets</head> should be negligible compared with their thermal_emission at centimeter wave_lengths , except possibly at times of exceptional outbursts of solar radio_noise . The quiescent level of centimeter wave-length solar_radiation would increase the average disk brightness temperature by less than 1 ` K . At meter wave_lengths and increase of the order of 10 ` K in the average disk temperatures of the nearer planets would be expected . Therefore , neglecting the extreme outbursts , reflected solar_radiation is not expected to cause sizable errors in the measurements of planetary radiation in the centimeter - and decimeter wave-length range .</context>
+    </instance>
+    <instance id="br-j01#w1336_0" docsrc="br-j01">
+      <context> The use of this concept does not specify the origin of the radiation , and only if the planet really radiates as a black_body , will the apparent black-body temperature correspond to the physical temperature of the emitting material . The radio_radiation of the sun which is reflected from the moon and planets should be negligible compared with their thermal_emission at centimeter wave_lengths , except possibly at times of exceptional outbursts of solar radio_noise . The quiescent level of centimeter wave-length solar_radiation would increase the average disk brightness temperature by less than 1 ` K . At meter wave_lengths and increase of the order of 10 ` K in the average disk temperatures of the nearer <head>planets</head> would be expected . Therefore , neglecting the extreme outbursts , reflected solar_radiation is not expected to cause sizable errors in the measurements of planetary radiation in the centimeter - and decimeter wave-length range . Radio_observations of the moon have been made over the range of wave_lengths from 4.3 mm to 75 cm , and the results are summarized in Table 1 . Observations have also been made at 1.5 mm using optical techniques ( Sinton , 1955 , 1956 , ; see_also chap. 11 ) .</context>
+    </instance>
+    <instance id="br-j01#w13_0" docsrc="br-j01">
+      <context> It has recently become practical to use the radio_emission of the moon and <head>planets</head> as a new source of information about these bodies and their atmospheres . The results of present observations of the thermal radio_emission of the moon are consistent with the very low thermal conductivity of the surface layer which was derived from the variation in the infrared_emission during eclipses ( e.g. , Garstung , 1958 ) . When sufficiently accurate and complete measurements are available , it will be possible to set limits on the thermal and electrical characteristics of the surface and subsurface materials of the moon . Observations of the radio_emission of a planet which has an extensive atmosphere will probe the atmosphere to_a_greater_extent than those using shorter wave_lengths and should in some cases give otherwise unobtainable information about the characteristics of the solid surface .</context>
+    </instance>
+    <instance id="br-j01#w158_0" docsrc="br-j01">
+      <context> The results of present observations of the thermal radio_emission of the moon are consistent with the very low thermal conductivity of the surface layer which was derived from the variation in the infrared_emission during eclipses ( e.g. , Garstung , 1958 ) . When sufficiently accurate and complete measurements are available , it will be possible to set limits on the thermal and electrical characteristics of the surface and subsurface materials of the moon . Observations of the radio_emission of a planet which has an extensive atmosphere will probe the atmosphere to_a_greater_extent than those using shorter wave_lengths and should in some cases give otherwise unobtainable information about the characteristics of the solid surface . Radio_observations of Venus and Jupiter have already supplied unexpected experimental data on the physical conditions of these <head>planets</head> . The observed intensity of the radio_emission of Venus is much higher than the expected thermal intensity , although the spectrum indicated by measurements at wave_lengths near 3 cm and 10 cm is like that of a black_body at about 600 ` K . This result suggests a very high_temperature at the solid surface of the planet , although there is the possibility that the observed radiation may be a combination of both thermal and non thermal components and that the observed spectrum is that of a black_body merely by coincidence . For the case of Jupiter , the radio_emission spectrum is definitely not like the spectrum of a black-body radiator , and it seems very likely that the radiation reaching the earth is a combination of thermal radiation from the atmosphere and non thermal components .</context>
+    </instance>
+    <instance id="br-j01#w215_0" docsrc="br-j01">
+      <context> Observations of the radio_emission of a planet which has an extensive atmosphere will probe the atmosphere to_a_greater_extent than those using shorter wave_lengths and should in some cases give otherwise unobtainable information about the characteristics of the solid surface . Radio_observations of Venus and Jupiter have already supplied unexpected experimental data on the physical conditions of these planets . The observed intensity of the radio_emission of Venus is much higher than the expected thermal intensity , although the spectrum indicated by measurements at wave_lengths near 3 cm and 10 cm is like that of a black_body at about 600 ` K . This result suggests a very high_temperature at the solid surface of the <head>planet</head> , although there is the possibility that the observed radiation may be a combination of both thermal and non thermal components and that the observed spectrum is that of a black_body merely by coincidence . For the case of Jupiter , the radio_emission spectrum is definitely not like the spectrum of a black-body radiator , and it seems very likely that the radiation reaching the earth is a combination of thermal radiation from the atmosphere and non thermal components . Of the remaining planets , only Mars and Saturn have been observed as radio_sources , and not very much information is available . Mars has been observed twice at about 3 - cm wave_length , and the intensity of the observed radiation is in reasonable agreement with the thermal radiation which might be predicted on the basis of the known temperature of Mars .</context>
+    </instance>
+    <instance id="br-j01#w299_0" docsrc="br-j01">
+      <context> The observed intensity of the radio_emission of Venus is much higher than the expected thermal intensity , although the spectrum indicated by measurements at wave_lengths near 3 cm and 10 cm is like that of a black_body at about 600 ` K . This result suggests a very high_temperature at the solid surface of the planet , although there is the possibility that the observed radiation may be a combination of both thermal and non thermal components and that the observed spectrum is that of a black_body merely by coincidence . For the case of Jupiter , the radio_emission spectrum is definitely not like the spectrum of a black-body radiator , and it seems very likely that the radiation reaching the earth is a combination of thermal radiation from the atmosphere and non thermal components . Of the remaining <head>planets</head> , only Mars and Saturn have been observed as radio_sources , and not very much information is available . Mars has been observed twice at about 3 - cm wave_length , and the intensity of the observed radiation is in reasonable agreement with the thermal radiation which might be predicted on the basis of the known temperature of Mars . The low intensity of the radiation from Saturn has limited observations , but again the measured radiation seems to be consistent with a thermal origin . No attempts to measure the radio_emission of the remaining planets have been reported , and , because of their distances , small diameters , or low_temperatures , the thermal radiation at radio wave_lengths reaching the earth from these sources is expected to be of very low intensity .</context>
+    </instance>
+    <instance id="br-j01#w395_0" docsrc="br-j01">
+      <context> Of the remaining planets , only Mars and Saturn have been observed as radio_sources , and not very much information is available . Mars has been observed twice at about 3 - cm wave_length , and the intensity of the observed radiation is in reasonable agreement with the thermal radiation which might be predicted on the basis of the known temperature of Mars . The low intensity of the radiation from Saturn has limited observations , but again the measured radiation seems to be consistent with a thermal origin . No attempts to measure the radio_emission of the remaining <head>planets</head> have been reported , and , because of their distances , small diameters , or low_temperatures , the thermal radiation at radio wave_lengths reaching the earth from these sources is expected to be of very low intensity . In_spite of this , the very large radio_reflectors and improved amplifying techniques which are now becoming available should make it possible to observe the radio_emission of most of the planets in a_few years . The study of the radio_emission of the moon and planets began with the detection of the thermal radiation of the moon at 1.25 - cm wave_length by Dicke and Beringer ( 1946 ) . This was followed by a comprehensive series of observations of the 1.25 - cm emission of the moon over three lunar cycles by Piddington and Minnett ( 1949 ) .</context>
+    </instance>
+    <instance id="br-j01#w463_0" docsrc="br-j01">
+      <context> Mars has been observed twice at about 3 - cm wave_length , and the intensity of the observed radiation is in reasonable agreement with the thermal radiation which might be predicted on the basis of the known temperature of Mars . The low intensity of the radiation from Saturn has limited observations , but again the measured radiation seems to be consistent with a thermal origin . No attempts to measure the radio_emission of the remaining planets have been reported , and , because of their distances , small diameters , or low_temperatures , the thermal radiation at radio wave_lengths reaching the earth from these sources is expected to be of very low intensity . In_spite of this , the very large radio_reflectors and improved amplifying techniques which are now becoming available should make it possible to observe the radio_emission of most of the <head>planets</head> in a_few years . The study of the radio_emission of the moon and planets began with the detection of the thermal radiation of the moon at 1.25 - cm wave_length by Dicke and Beringer ( 1946 ) . This was followed by a comprehensive series of observations of the 1.25 - cm emission of the moon over three lunar cycles by Piddington and Minnett ( 1949 ) . They deduced from their measurements that the radio_emission from the whole disk of the moon varied during a lunation in a roughly sinusoidal fashion ; that the amplitude of the variation was considerably less_than the amplitude of the variation in the infrared_emission as measured by Pettit and Nicholson ( 1930 ) and Pettit ( 1935 ) ; and that the maximum of the radio_emission came about 3 - 1 2 days after Full_Moon , which is again in contrast to the infrared_emission , which reaches its maximum at Full_Moon .</context>
+    </instance>
+    <instance id="br-j01#w477_0" docsrc="br-j01">
+      <context> The low intensity of the radiation from Saturn has limited observations , but again the measured radiation seems to be consistent with a thermal origin . No attempts to measure the radio_emission of the remaining planets have been reported , and , because of their distances , small diameters , or low_temperatures , the thermal radiation at radio wave_lengths reaching the earth from these sources is expected to be of very low intensity . In_spite of this , the very large radio_reflectors and improved amplifying techniques which are now becoming available should make it possible to observe the radio_emission of most of the planets in a_few years . The study of the radio_emission of the moon and <head>planets</head> began with the detection of the thermal radiation of the moon at 1.25 - cm wave_length by Dicke and Beringer ( 1946 ) . This was followed by a comprehensive series of observations of the 1.25 - cm emission of the moon over three lunar cycles by Piddington and Minnett ( 1949 ) . They deduced from their measurements that the radio_emission from the whole disk of the moon varied during a lunation in a roughly sinusoidal fashion ; that the amplitude of the variation was considerably less_than the amplitude of the variation in the infrared_emission as measured by Pettit and Nicholson ( 1930 ) and Pettit ( 1935 ) ; and that the maximum of the radio_emission came about 3 - 1 2 days after Full_Moon , which is again in contrast to the infrared_emission , which reaches its maximum at Full_Moon . Piddington and Minnett explained their observations by pointing_out that rocklike materials which are likely to make_up the surface of the moon would be partially transparent to radio_waves , although opaque to infrared_radiation .</context>
+    </instance>
+    <instance id="br-j01#w742_0" docsrc="br-j01">
+      <context> Piddington and Minnett explained their observations by pointing_out that rocklike materials which are likely to make_up the surface of the moon would be partially transparent to radio_waves , although opaque to infrared_radiation . The infrared_emission could then be assumed to originate at the surface of the moon , while the radio_emission originates at some depth beneath the surface , where the temperature variation due_to solar_radiation is reduced in amplitude and shifted in phase . Since the absorption of radio_waves in rocklike material varies with wave_length , it should be possible to sample the temperature variation at different depths beneath the surface and possibly detect changes in the structure or composition of the lunar surface material . The radio_emission of a <head>planet</head> was first detected in 1955 , when Burke and Franklin ( 1955 ) identified the origin of interference like radio_noise on their records at about 15 meters wave_length as emission from Jupiter . This sporadic type of planetary radiation is discussed by Burke ( chap. 13 ) and Gallet ( chap. 14 ) . Steady radiation which was presumably of thermal origin was observed from Venus at 3.15 and 9.4 cm , and from Mars and Jupiter at 3.15 cm in 1956 ( Mayer , McCullough , and Sloanaker , 1958 a , b , c ) , and from Saturn at 3.75 cm in 1957 ( Drake and Ewen , 1958 ) . In the relatively short time since these early observations , Venus has been observed at additional wave_lengths in the range from 0.8 to 10.2 cm , and Jupiter has been observed over the wave-length range from 3.03 to 68 cm .</context>
+    </instance>
+    <instance id="br-l10#w659_0" docsrc="br-l10">
+      <context> Yet it was n't so . It was n't so because it could n't be so . When Kitti was alive - and he remembered the pressure of her hand resting lightly on his arm - she had been the center of his life . She was the sun , he the closest <head>planet</head> orbiting around her , the rest of the world existing and visible yet removed . For fifty-five years he had lived , progressing towards a no-goal , eating , working , breathing without plan , without reason . Kitti had come_along to justify everything . She was his goal , she was his reason .</context>
+    </instance>
+    <instance id="br-m01#w1377_0" docsrc="br-m01">
+      <context> `` We grok God '' . On Mars humans were building pressure_domes for the male and female party that would arrive by next ship . This went faster than scheduled as the Martians were helpful . Part of the time saved was spent on a preliminary estimate for a long-distance plan to free bound oxygen in the sands of Mars to make the <head>planet</head> more friendly to future human generations . The Old_Ones neither helped nor hindered this plan ; time was not_yet . Their meditations were approaching a violent cusp that would shape Martian art for many millennia . On Earth elections continued and a very advanced poet published a limited_edition of verse consisting entirely of punctuation_marks and spaces ; Time_magazine reviewed it and suggested that the Federation_Assembly_Daily_Record should be translated into the medium .</context>
+    </instance>
+    <instance id="br-m02#w158_0" docsrc="br-m02">
+      <context> `` How did you know '' ? he said sharply . `` Forgive me , Sandalphon '' , said Hal . `` But it was inevitable ! Did not the Forerunner predict in his Time and the World_Line that such a <head>planet</head> would be found ? I believe it was on page 573 '' ! Macneff smiled and said , `` I am glad that your scriptural lessons have left such an impression '' . How could they not ?</context>
+    </instance>
+    <instance id="br-m02#w411_0" docsrc="br-m02">
+      <context> If I die , I die because I willed it so . So , forgive me , Sigmen , for the contrary to reality thoughts ! `` Please pardon me again , Sandalphon '' , said Hal . `` But did the expedition find any records of the Forerunner having been on this <head>planet</head> ? Perhaps , even , though this is too_much to wish , find the Forerunner himself '' ? `` No '' , said Macneff . `` Though that does not mean that there may not be such records there .</context>
+    </instance>
+    <instance id="br-m02#w72_0" docsrc="br-m02">
+      <context> However , we sent a third vessel out , a much smaller and faster one than the first two . We have learned much about interstellar drives since a_hundred years ago ; that is all I can tell you about them . `` But the third ship came_back several years ago and reported &amp; &amp; &amp; '' . `` That it had found a <head>planet</head> on which human_beings could live and which was already inhabited by sentient beings '' ! said Hal , forgetting in his enthusiasm that he had not been asked to speak . Macneff stopped pacing to stare at Hal with his pale blue eyes . `` How did you know '' ? he said sharply . `` Forgive me , Sandalphon '' , said Hal .</context>
+    </instance>
+    <instance id="br-r06#w2058_0" docsrc="br-r06">
+      <context> Moreland went over to stare at his peacocks again , and_then came_back and sat_down , restively . `` The world that was once foot-loose and fancy-free '' , he said , `` has now become screw-loose and frenzy free . In our age of Science and Angst it seems to me more brave to stay on Earth and explore inner man than to fly far from the sphere of our sorrow and explore outer_space '' . `` The human ego being what it is '' , I put_in , `` science_fiction has always assumed that the creatures on the <head>planets</head> of a_thousand larger solar_systems than ours must look_like gigantic tube-nosed_fruit_bats . It seems to me that the first human_being to reach one of these planets may well learn what it is to be a truly great and noble species '' . `` Now we are leaving humor and comedy behind again '' , Moreland protested . `` Not in the largest sense of the words '' , I said .</context>
+    </instance>
+    <instance id="br-r06#w2083_0" docsrc="br-r06">
+      <context> `` The world that was once foot-loose and fancy-free '' , he said , `` has now become screw-loose and frenzy free . In our age of Science and Angst it seems to me more brave to stay on Earth and explore inner man than to fly far from the sphere of our sorrow and explore outer_space '' . `` The human ego being what it is '' , I put_in , `` science_fiction has always assumed that the creatures on the planets of a_thousand larger solar_systems than ours must look_like gigantic tube-nosed_fruit_bats . It seems to me that the first human_being to reach one of these <head>planets</head> may well learn what it is to be a truly great and noble species '' . `` Now we are leaving humor and comedy behind again '' , Moreland protested . `` Not in the largest sense of the words '' , I said . `` The other day Arnold_Toynbee spoke against the inveterate tendency of our species to believe_in the uniqueness of its religions , its ideologies , and its virtually everything else .</context>
+    </instance>
+    <instance id="n01045807_d_3" docsrc="n01045807_d">
+      <context> the worship of <head>planets</head> or stars ;</context>
+    </instance>
+    <instance id="n03537714_d_7" docsrc="n03537714_d">
+      <context> a diagram of the positions of the <head>planets</head> and signs_of_the_zodiac at a particular time and place ;</context>
+    </instance>
+    <instance id="n03638180_d_12" docsrc="n03638180_d">
+      <context> a space_vehicle that is designed to land on the moon or another <head>planet</head> ;</context>
+    </instance>
+    <instance id="n03956157_d_11" docsrc="n03956157_d">
+      <context> a building housing an instrument for projecting the positions of the <head>planets</head> onto a domed ceiling ;</context>
+    </instance>
+    <instance id="n05778131_d_9" docsrc="n05778131_d">
+      <context> a pseudoscience claiming divination by the positions of the <head>planets</head> and sun and moon ;</context>
+    </instance>
+    <instance id="n05879693_d_8" docsrc="n05879693_d">
+      <context> a law stating that the orbit of each <head>planet</head> is an ellipse with the sun at one focus of the ellipse ;</context>
+    </instance>
+    <instance id="n05879856_d_14" docsrc="n05879856_d">
+      <context> a law concerning the speed at which planets travel ; a line connecting a <head>planet</head> to the sun will sweep out equal areas in equal times ;</context>
+    </instance>
+    <instance id="n05879856_d_7" docsrc="n05879856_d">
+      <context> a law concerning the speed at which <head>planets</head> travel ; a line connecting a planet to the sun will sweep out equal areas in equal times ;</context>
+    </instance>
+    <instance id="n05880187_d_33" docsrc="n05880187_d">
+      <context> a law stating that the ratio of the square of the revolutionary period ( in years ) to the cube of the orbital axis ( in astronomical_units ) is the same for all <head>planets</head> ;</context>
+    </instance>
+    <instance id="n06749594_d_12" docsrc="n06749594_d">
+      <context> a prediction of someone's future based on the relative positions of the <head>planets</head> ;</context>
+    </instance>
+    <instance id="n07415396_d_7" docsrc="n07415396_d">
+      <context> the alignment of the Earth and a <head>planet</head> on the same side of the sun ;</context>
+    </instance>
+    <instance id="n07415561_d_7" docsrc="n07415561_d">
+      <context> the alignment of the Earth and a <head>planet</head> on the opposite side of the sun ;</context>
+    </instance>
+    <instance id="n08495908_d_12" docsrc="n08495908_d">
+      <context> apoapsis in solar orbit ; the point in the orbit of a <head>planet</head> or comet that is at the greatest distance from the sun ;</context>
+    </instance>
+    <instance id="n08499504_d_13" docsrc="n08499504_d">
+      <context> the regions of the surface and atmosphere of the Earth ( or other <head>planet</head> ) where living organisms exist ;</context>
+    </instance>
+    <instance id="n08592494_d_15" docsrc="n08592494_d">
+      <context> the circumferential edge of the apparent disc of the sun or the moon or a <head>planet</head> ;</context>
+    </instance>
+    <instance id="n08618831_d_12" docsrc="n08618831_d">
+      <context> periapsis in solar orbit ; the point in the orbit of a <head>planet</head> or comet where it is nearest to the sun ;</context>
+    </instance>
+    <instance id="n08622763_d_3" docsrc="n08622763_d">
+      <context> position of a <head>planet</head> as defined by its angular_distance from its perihelion ( as observed from the sun ) ;</context>
+    </instance>
+    <instance id="n08685019_d_4" docsrc="n08685019_d">
+      <context> the location of a <head>planet</head> in the zodiac at which it is believed to exert its maximum influence ;</context>
+    </instance>
+    <instance id="n09270894_d_2" docsrc="n09270894_d">
+      <context> the 3rd <head>planet</head> from the sun ; the planet we live on ;</context>
+    </instance>
+    <instance id="n09270894_d_8" docsrc="n09270894_d">
+      <context> the 3rd planet from the sun ; the <head>planet</head> we live on ;</context>
+    </instance>
+    <instance id="n09276872_d_1" docsrc="n09276872_d">
+      <context> a <head>planet</head> ( usually Venus ) seen at sunset in the western sky ;</context>
+    </instance>
+    <instance id="n09312999_d_3" docsrc="n09312999_d">
+      <context> any of the <head>planets</head> whose orbit lies inside the earth's orbit ;</context>
+    </instance>
+    <instance id="n09322087_d_5" docsrc="n09322087_d">
+      <context> any of the four outermost <head>planets</head> in the solar_system ; much larger than Earth and gaseous in nature ( like Jupiter ) ;</context>
+    </instance>
+    <instance id="n09322454_d_2" docsrc="n09322454_d">
+      <context> the largest <head>planet</head> and the 5th from the sun ; has many satellites and is one of the brightest objects in the night sky ;</context>
+    </instance>
+    <instance id="n09347445_d_3" docsrc="n09347445_d">
+      <context> a small reddish <head>planet</head> that is the 4th from the sun and is periodically visible to the naked_eye ; minerals rich in iron cover its surface and are responsible_for its characteristic color ;</context>
+    </instance>
+    <instance id="n09351408_d_2" docsrc="n09351408_d">
+      <context> the smallest <head>planet</head> and the nearest to the sun ;</context>
+    </instance>
+    <instance id="n09358226_d_5" docsrc="n09358226_d">
+      <context> any natural satellite of a <head>planet</head> ;</context>
+    </instance>
+    <instance id="n09359471_d_1" docsrc="n09359471_d">
+      <context> a <head>planet</head> ( usually Venus ) seen just before sunrise in the eastern sky ;</context>
+    </instance>
+    <instance id="n09368699_d_12" docsrc="n09368699_d">
+      <context> a giant planet with a ring of ice particles ; the 8th <head>planet</head> from the sun is the most remote of the gas_giants ;</context>
+    </instance>
+    <instance id="n09368699_d_2" docsrc="n09368699_d">
+      <context> a giant <head>planet</head> with a ring of ice particles ; the 8th planet from the sun is the most remote of the gas_giants ;</context>
+    </instance>
+    <instance id="n09394797_d_12" docsrc="n09394797_d">
+      <context> a nebula that was once thought to be a star with its <head>planets</head> but is now thought to be a very hot star surrounded by an expanding envelope of ionized gases that emit a fluorescent glow because of intense radiation from the star ;</context>
+    </instance>
+    <instance id="n09395899_d_2" docsrc="n09395899_d">
+      <context> a small <head>planet</head> and the farthest known planet from the sun ; it has the most elliptical orbit of all the planets ;</context>
+    </instance>
+    <instance id="n09395899_d_21" docsrc="n09395899_d">
+      <context> a small planet and the farthest known planet from the sun ; it has the most elliptical orbit of all the <head>planets</head> ;</context>
+    </instance>
+    <instance id="n09395899_d_7" docsrc="n09395899_d">
+      <context> a small planet and the farthest known <head>planet</head> from the sun ; it has the most elliptical orbit of all the planets ;</context>
+    </instance>
+    <instance id="n09424270_d_5" docsrc="n09424270_d">
+      <context> any celestial_body orbiting around a <head>planet</head> or star ;</context>
+    </instance>
+    <instance id="n09424642_d_17" docsrc="n09424642_d">
+      <context> a giant planet that is surrounded by three planar concentric rings of ice particles ; the 6th <head>planet</head> from the sun ;</context>
+    </instance>
+    <instance id="n09424642_d_2" docsrc="n09424642_d">
+      <context> a giant <head>planet</head> that is surrounded by three planar concentric rings of ice particles ; the 6th planet from the sun ;</context>
+    </instance>
+    <instance id="n09450163_d_12" docsrc="n09450163_d">
+      <context> the star that is the source of light and heat for the <head>planets</head> in the solar_system ;</context>
+    </instance>
+    <instance id="n09450866_d_3" docsrc="n09450866_d">
+      <context> any of the <head>planets</head> whose orbit lies outside the earth's orbit ;</context>
+    </instance>
+    <instance id="n09456369_d_1" docsrc="n09456369_d">
+      <context> a <head>planet</head> having a compact rocky surface like the Earth's ; the four innermost planets in the solar_system ;</context>
+    </instance>
+    <instance id="n09456369_d_14" docsrc="n09456369_d">
+      <context> a planet having a compact rocky surface like the Earth's ; the four innermost <head>planets</head> in the solar_system ;</context>
+    </instance>
+    <instance id="n09467417_d_12" docsrc="n09467417_d">
+      <context> a giant planet with a ring of ice particles ; the 7th <head>planet</head> from the sun has a blue-green color and many satellites ;</context>
+    </instance>
+    <instance id="n09467417_d_2" docsrc="n09467417_d">
+      <context> a giant <head>planet</head> with a ring of ice particles ; the 7th planet from the sun has a blue-green color and many satellites ;</context>
+    </instance>
+    <instance id="n09470550_d_12" docsrc="n09470550_d">
+      <context> a fissure in the earth's_crust ( or in the surface of some_other <head>planet</head> ) through which molten lava and gases erupt ;</context>
+    </instance>
+    <instance id="n09470762_d_3" docsrc="n09470762_d">
+      <context> the second nearest <head>planet</head> to the sun ; it is peculiar in that its rotation is slow and retrograde ( in the opposite sense of the Earth and all other planets except Uranus ) ; it is visible from Earth as an early morning_star or an evening_star ;</context>
+    </instance>
+    <instance id="n09470762_d_30" docsrc="n09470762_d">
+      <context> the second nearest planet to the sun ; it is peculiar in that its rotation is slow and retrograde ( in the opposite sense of the Earth and all other <head>planets</head> except Uranus ) ; it is visible from Earth as an early morning_star or an evening_star ;</context>
+    </instance>
+    <instance id="n09489790_d_6" docsrc="n09489790_d">
+      <context> imaginary people who live on the <head>planet</head> Mars ;</context>
+    </instance>
+    <instance id="n09817816_d_10" docsrc="n09817816_d">
+      <context> someone who predicts the future by the positions of the <head>planets</head> and sun and Moon ;</context>
+    </instance>
+    <instance id="n10849625_d_19" docsrc="n10849625_d">
+      <context> German mathematician and astronomer who made accurate measurements of stellar distances and who predicted the existence on an 8th <head>planet</head> ;</context>
+    </instance>
+    <instance id="n10861926_d_6" docsrc="n10861926_d">
+      <context> Danish astronomer whose observations of the <head>planets</head> provided the basis for Kepler's_laws_of_planetary_motion ;</context>
+    </instance>
+    <instance id="n11045898_d_18" docsrc="n11045898_d">
+      <context> English astronomer ( born in Germany ) who discovered infrared_light and who catalogued the stars and discovered the <head>planet</head> Uranus ;</context>
+    </instance>
+    <instance id="n11345539_d_5" docsrc="n11345539_d">
+      <context> United_States astronomer who discovered the <head>planet</head> Pluto ;</context>
+    </instance>
+    <instance id="n11415084_d_10" docsrc="n11415084_d">
+      <context> any perturbation of the mean motion or orbit of a <head>planet</head> or satellite ( especially a perturbation of the earth's moon ) ;</context>
+    </instance>
+    <instance id="n11477041_d_10" docsrc="n11477041_d">
+      <context> the magnetic_field of a planet ; the volume around the <head>planet</head> in which charged particles are subject more to the planet's magnetic_field than to the solar_magnetic_field ;</context>
+    </instance>
+    <instance id="n11477041_d_20" docsrc="n11477041_d">
+      <context> the magnetic_field of a planet ; the volume around the planet in which charged particles are subject more to the <head>planet's</head> magnetic_field than to the solar_magnetic_field ;</context>
+    </instance>
+    <instance id="n11477041_d_4" docsrc="n11477041_d">
+      <context> the magnetic_field of a <head>planet</head> ; the volume around the planet in which charged particles are subject more to the planet's magnetic_field than to the solar_magnetic_field ;</context>
+    </instance>
+    <instance id="n11511327_d_5" docsrc="n11511327_d">
+      <context> a bright spot on a <head>planet</head> ;</context>
+    </instance>
+    <instance id="n13442867_d_6" docsrc="n13442867_d">
+      <context> a process whereby a star or <head>planet</head> holds an object in its gravitational_field ;</context>
+    </instance>
+    <instance id="n15201505_d_7" docsrc="n15201505_d">
+      <context> the period_of_time that it takes for a <head>planet</head> ( as , e.g. , Earth or Mars ) to make a complete revolution around the sun ;</context>
+    </instance>
+    <instance id="n15208540_d_6" docsrc="n15208540_d">
+      <context> the period_of_time taken by a particular <head>planet</head> ( e.g. Mars ) to make a complete rotation on its axis ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="minister.n" pos="NN">
+    <instance id="Minister_(government)-minister-0-16-1" docsrc="Minister_(government)">
+      <context> <head>Lists</head> of incumbents groups lists of ministers by country Specific ministers include : Minister of the Crown</context>
+    </instance>
+    <instance id="Minister_(government)-minister-1-0-1" docsrc="Minister_(government)">
+      <context> A <head>minister</head> is a politician who holds significant public office in a national or regional government , making and implementing decisions on policies in conjunction with the other ministers . Some ministers are more senior than others , and are usually members of the government 's cabinet .</context>
+    </instance>
+    <instance id="Minister_(government)-minister-1-15-1" docsrc="Minister_(government)">
+      <context> Other <head>cabinets</head> are usually included in Politics of ..-articles Lists of incumbents groups lists of ministers by country Specific ministers include :</context>
+    </instance>
+    <instance id="Minister_(government)-minister-12-0-2" docsrc="Minister_(government)">
+      <context> A minister is a politician who holds significant public office in a <head>national</head> or regional government , making and implementing decisions on policies in conjunction with the other ministers . Some ministers are more senior than others , and are usually members of the government 's cabinet . In some countries the head of government is designated the " prime minister " .</context>
+    </instance>
+    <instance id="Minister_(government)-minister-12-0-3" docsrc="Minister_(government)">
+      <context> Some ministers are more senior than others , and are usually members <head>of</head> the government 's cabinet . In some countries the head of government is designated the " prime minister " . A government minister with responsibility for religion , such as the Israeli Minister of Religious Services , may be a layperson or cleric but the title should not be confused with the religious position of " Minister ( Christianity ) " or the activity of Christian ministry .</context>
+    </instance>
+    <instance id="Minister_(government)-minister-15-4-1" docsrc="Minister_(government)">
+      <context> A government minister with responsibility for religion , such as the Israeli Minister of Religious <head>Services</head> , may be a layperson or cleric but the title should not be confused with the religious position of " Minister ( Christianity ) " or the activity of Christian ministry . In some countries and territories , including Hong Kong , the Philippines , the United Kingdom , and the United States , holders of some posts equivalent to ministries are called secretaries of state , sometimes referred to simply as secretaries ( e.g. , the Home Secretary ) . In some presidential systems of government ( Mexico , Philippines , United States ) , ministers are formally titled secretaries because the term minister was considered to carry royalist connotations considered inappropriate in a republic .</context>
+    </instance>
+    <instance id="Minister_(government)-minister-2-0-3" docsrc="Minister_(government)">
+      <context> Some ministers <head>are</head> more senior than others , and are usually members of the government 's cabinet . In some countries the head of government is designated the " prime minister " . A government minister with responsibility for religion , such as the Israeli Minister of Religious Services , may be a layperson or cleric but the title should not be confused with the religious position of " Minister ( Christianity ) " or the activity of Christian ministry .</context>
+    </instance>
+    <instance id="Minister_(government)-minister-23-4-1" docsrc="Minister_(government)">
+      <context> A government minister with responsibility for religion , such as the Israeli Minister of Religious Services , may be a layperson or cleric <head>but</head> the title should not be confused with the religious position of " Minister ( Christianity ) " or the activity of Christian ministry . In some countries and territories , including Hong Kong , the Philippines , the United Kingdom , and the United States , holders of some posts equivalent to ministries are called secretaries of state , sometimes referred to simply as secretaries ( e.g. , the Home Secretary ) . In some presidential systems of government ( Mexico , Philippines , United States ) , ministers are formally titled secretaries because the term minister was considered to carry royalist connotations considered inappropriate in a republic .</context>
+    </instance>
+    <instance id="Minister_(government)-minister-36-0-3" docsrc="Minister_(government)">
+      <context> Some ministers are more senior than others , and are usually members of the government 's cabinet . In some countries the head of government is designated the " prime minister " . A government minister <head>with</head> responsibility for religion , such as the Israeli Minister of Religious Services , may be a layperson or cleric but the title should not be confused with the religious position of " Minister ( Christianity ) " or the activity of Christian ministry .</context>
+    </instance>
+    <instance id="Minister_(government)-minister-6-14-3" docsrc="Minister_(government)">
+      <context> Compare List of cabinets . Other <head>cabinets</head> are usually included in Politics of ..-articles Lists of incumbents groups lists of ministers by country</context>
+    </instance>
+    <instance id="a02764828_d_8" docsrc="a02764828_d">
+      <context> of or relating to a minister_of_religion or the <head>minister's</head> office ;</context>
+    </instance>
+    <instance id="n00585964_d_5" docsrc="n00585964_d">
+      <context> the job of a senior <head>minister</head> who is a member of the cabinet ;</context>
+    </instance>
+    <instance id="n03399047_d_12" docsrc="n03399047_d">
+      <context> any of the front seats in the House_of_Commons that are reserved for <head>ministers</head> or former ministers ;</context>
+    </instance>
+    <instance id="n03399047_d_15" docsrc="n03399047_d">
+      <context> any of the front seats in the House_of_Commons that are reserved for ministers or former <head>ministers</head> ;</context>
+    </instance>
+    <instance id="n06385244_d_10" docsrc="n06385244_d">
+      <context> a short verse said or sung by a priest or <head>minister</head> in public worship and followed by a response from the congregation ;</context>
+    </instance>
+    <instance id="n06385582_d_15" docsrc="n06385582_d">
+      <context> a phrase recited or sung by the congregation following a versicle by the priest or <head>minister</head> ;</context>
+    </instance>
+    <instance id="n08113797_d_1" docsrc="n08113797_d">
+      <context> religious <head>ministers</head> collectively ( especially Presbyterian ) ;</context>
+    </instance>
+    <instance id="n08114004_d_7" docsrc="n08114004_d">
+      <context> a government_department under the direction of a <head>minister</head> ;</context>
+    </instance>
+    <instance id="n08285109_d_5" docsrc="n08285109_d">
+      <context> a theological school for training <head>ministers</head> or priests or rabbis ;</context>
+    </instance>
+    <instance id="n08382056_d_2" docsrc="n08382056_d">
+      <context> the senior <head>ministers</head> of the British government ;</context>
+    </instance>
+    <instance id="n08403082_d_6" docsrc="n08403082_d">
+      <context> a permanent diplomatic_mission headed by a <head>minister</head> ;</context>
+    </instance>
+    <instance id="n10089892_d_1" docsrc="n10089892_d">
+      <context> the <head>minister</head> responsible for state finances ;</context>
+    </instance>
+    <instance id="n10158319_d_1" docsrc="n10158319_d">
+      <context> the <head>minister</head> of the Persian emperor who hated the Jews and was hanged for plotting to massacre them ;</context>
+    </instance>
+    <instance id="n10320863_ex1_0" docsrc="n10320863_ex1">
+      <context> <head>Minister</head> of Finance ;</context>
+    </instance>
+    <instance id="n11003724_d_2" docsrc="n11003724_d">
+      <context> German propaganda <head>minister</head> in Nazi_Germany who persecuted the Jews ;</context>
+    </instance>
+    <instance id="n11135610_d_8" docsrc="n11135610_d">
+      <context> American_Revolutionary_leader who served in the Continental_Congress and as <head>minister</head> to France ;</context>
+    </instance>
+    <instance id="n11261483_d_6" docsrc="n11261483_d">
+      <context> French prelate and statesman ; principal <head>minister</head> to Louis_XIII ;</context>
+    </instance>
+    <instance id="n11401947_d_1" docsrc="n11401947_d">
+      <context> Saudi_Arabian <head>minister</head> of petroleum who was a central figure in the creation of OPEC ;</context>
+    </instance>
+  </lexelt>
+</corpus>

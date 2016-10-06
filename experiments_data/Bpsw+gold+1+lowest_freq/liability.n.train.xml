@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="liability.n" pos="NN">
+    <instance id="a01322044_d_9" docsrc="a01322044_d">
+      <context> liable to be accused , or cause for such <head>liability</head> ;</context>
+    </instance>
+    <instance id="a02365397_d_13" docsrc="a02365397_d">
+      <context> ( of persons ) freed from or not subject to an obligation or <head>liability</head> ( as e.g. taxes ) to which others or other things are subject ;</context>
+    </instance>
+    <instance id="a02366200_d_10" docsrc="a02366200_d">
+      <context> ( of persons ) not exempt from an obligation or <head>liability</head> ;</context>
+    </instance>
+    <instance id="br-j35#w601_0" docsrc="br-j35">
+      <context> 22 % of his total list as against 3.5 % in mine . Or the exception may be_due to a particular durability peculiar to the Athabascan verb . More word_class ratios determined in more languages will no_doubt ultimately answer the question . If word_classes differ in their resistance or <head>liability</head> to stem replacement within meaning slot , it is conceivable that individual meanings also differ with fair consistence trans lingually . Hoijer 's Athabascan and my Yokuts share 71 identical meanings ( with allowance for several near synonyms like stomach belly , big large , long far , many much , die dead , say speak ) . For Yokuts , I tabulated these 71 items in five columns , according_as they were expressed by 1 , 2 , 3 , 4 , and more_than 4 stems . The totals for these five categories are not too uneven , namely 20 , 15 , 11 , 16 , 9 respectively .</context>
+    </instance>
+    <instance id="n00072691_d_4" docsrc="n00072691_d">
+      <context> the mistake of incurring <head>liability</head> or blame ;</context>
+    </instance>
+    <instance id="n00214315_d_8" docsrc="n00214315_d">
+      <context> personal immunity accorded to a public official from <head>liability</head> to anyone injured by actions that are the consequence of exerting official authority ;</context>
+    </instance>
+    <instance id="n00228535_d_12" docsrc="n00228535_d">
+      <context> termination of a business operation by using its assets to discharge its <head>liabilities</head> ;</context>
+    </instance>
+    <instance id="n05040275_d_9" docsrc="n05040275_d">
+      <context> the property of lacking physical or mental strength ; <head>liability</head> to failure under pressure or stress or strain ;</context>
+    </instance>
+    <instance id="n13338960_d_21" docsrc="n13338960_d">
+      <context> a bond given to protect the recipient against loss in case the terms_of_a_contract are not filled ; a surety company assumes <head>liability</head> for nonperformance ;</context>
+    </instance>
+    <instance id="n14529408_d_3" docsrc="n14529408_d">
+      <context> legal exemption from <head>liability</head> for damages ;</context>
+    </instance>
+    <instance id="n14530563_d_0" docsrc="n14530563_d">
+      <context> <head>liability</head> to taxation ;</context>
+    </instance>
+  </lexelt>
+</corpus>

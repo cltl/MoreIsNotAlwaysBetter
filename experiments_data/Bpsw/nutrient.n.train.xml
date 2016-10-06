@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="nutrient.n" pos="NN">
+    <instance id="Nutrient-nutrient-0-29-3" docsrc="Nutrient">
+      <context> <head>The</head> mnemonic C. HOPKN 'S CaFe Mg ( to be used as C. Hopkins coffee mug ) is used by some students to remember the list as : carbon , hydrogen , oxygen , phosphorus , potassium , nitrogen , sulfur , calcium , iron , and magnesium . Silicon , chloride , sodium , copper , zinc , and molybdenum are sometimes also included , but are in other cases considered micronutrients . Nutrients are frequently categorized as essential and nonessential .</context>
+    </instance>
+    <instance id="Nutrient-nutrient-0-58-1" docsrc="Nutrient">
+      <context> <head>Food</head> composition Nutrient density Nutrients ( journal )</context>
+    </instance>
+    <instance id="Nutrient-nutrient-10-25-1" docsrc="Nutrient">
+      <context> Water is an essential nutrient and is the solvent in <head>which</head> all the chemical reactions of life take place . Plants absorb nutrients from the soil or the atmosphere , or from water ( mainly aquatic plants ) . An exception are the carnivorous plants , which externally digest nutrients from animals before ingesting them .</context>
+    </instance>
+    <instance id="Nutrient-nutrient-2-23-1" docsrc="Nutrient">
+      <context> They usually <head>act</head> as coenzymes or cofactors for various proteins in the body . Water is an essential nutrient and is the solvent in which all the chemical reactions of life take place . Plants absorb nutrients from the soil or the atmosphere , or from water ( mainly aquatic plants ) .</context>
+    </instance>
+    <instance id="Nutrient-nutrient-2-34-1" docsrc="Nutrient">
+      <context> Silicon , <head>chloride</head> , sodium , copper , zinc , and molybdenum are sometimes also included , but are in other cases considered micronutrients . Nutrients are frequently categorized as essential and nonessential . === Essential nutrients ===</context>
+    </instance>
+    <instance id="Nutrient-nutrient-22-8-1" docsrc="Nutrient">
+      <context> The chemical elements humans consume in the largest quantities are carbon , hydrogen , nitrogen , oxygen , phosphorus , and sulphur <head>,</head> or CHNOPS. The classes of chemical compounds humans consume in the largest quantities and which provide bulk energy are carbohydrates , proteins , and fats . Water and atmospheric oxygen also must be consumed in large quantities , but are not always considered " food " or " nutrients " .</context>
+    </instance>
+    <instance id="Nutrient-nutrient-27-49-1" docsrc="Nutrient">
+      <context> Humans can derive energy from a wide variety of fats , carbohydrates , proteins , and simple chemicals such as ethanol and acetic acid . An inadequate <head>amount</head> of a nutrient is a deficiency . Deficiencies can be due to a number of causes including inadequacy in nutrient intake called dietary deficiency , or conditions that interfere with the utilization of a nutrient within an organism .</context>
+    </instance>
+    <instance id="Nutrient-nutrient-3-0-2" docsrc="Nutrient">
+      <context> Nutrients are components <head>in</head> foods that an organism uses to survive and grow . Macronutrients provide the bulk energy an organism 's metabolic system needs to function while micronutrients provide the necessary cofactors for metabolism to be carried out . Both types of nutrients can be acquired from the environment .</context>
+    </instance>
+    <instance id="Nutrient-nutrient-3-0-5" docsrc="Nutrient">
+      <context> Micronutrients are used <head>to</head> build and repair tissues and to regulate body processes while macronutrients are converted to , and used for , energy . Methods of nutrient intake are different for plants and animals . Plants take in nutrients directly from the soil through their roots and from the atmosphere through their leaves .</context>
+    </instance>
+    <instance id="br-e02#w2006_0" docsrc="br-e02">
+      <context> And unlike other fruits , one cannot eat the skin of the avocado . It is thick , much like an egg_plant 's skin , so that poison sprays , if they are used , present no hazard to the consumer . Good taste and versatility , plus safety from spray poisons would be enough to recommend the frequent use of such a fruit , even if its nutritional values were limited . Avocados , however , are very rich_in <head>nutrients</head> . Their main asset is an abundance of unsaturated fatty_acids , so necessary for maintaining the good_health of the circulatory_system . Aside from this , the average portion contains some protein , an appreciable amount of vitamins and C - about one-tenth of the minimum daily requirement , and about a third of the official vitamin_E requirement . The B_vitamins are well represented , especially thiamin and riboflavin .</context>
+    </instance>
+  </lexelt>
+</corpus>

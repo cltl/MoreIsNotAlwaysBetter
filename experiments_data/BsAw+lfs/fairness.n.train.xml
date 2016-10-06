@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="fairness.n" pos="NN">
+    <instance id="br-f14#w335_0" docsrc="br-f14">
+      <context> Most_of this testimony may have been legally admissible as bearing_on the corpus_delicti of the total Nazi crime but seemed subject_to question when not tied to the part in it of the defendant 's Department_of_Jewish_Affairs . Counsel for the defense , however , shrewdly allowing himself to be swept by the current of dreadful recollections , rarely raised an objection . Would not the emotional catharsis eventually brought_on by this awfulness have a calming , if not exhausting , effect likely to improve his client 's chances ? Those who feared `` emotionalism '' at the Trial showed less understanding than Dr._Servatius of the route by which man achieves the distance necessary for <head>fairness</head> toward enemies . Interruptions came largely from the bench , which numerous times rebuked the Attorney_General for letting his witnesses run on , though it , too , made no serious effort to choke_off the flow . But there was a contrast even more decisive than a hunger for fact between the Trial in Jerusalem and those in Moscow and New_York . In each of the last , the trial marked the beginning of a new course : in Moscow the liquidation of the Old Bolsheviks and the tightening of Stalin 's dictatorship ; in the United_States the initiation of militant anti Communism , with the repentant ex Communist in the vanguard .</context>
+    </instance>
+  </lexelt>
+</corpus>

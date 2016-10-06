@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Google.n" pos="NN">
+    <instance id="Google_Search-google-0-121-1" docsrc="Google_Search">
+      <context> <head>sometimes</head> followed by a CAPTCHA prompt . The screen was first reported in 2005 , and was a response to the heavy use of Google by search engine optimization companies to check on ranks of sites they were optimizing . Google says the message is triggered only by high volumes of requests from a single IP address , however the use of the " allintext " operator a few times in a period of minutes has the same effect .</context>
+    </instance>
+    <instance id="Google_Search-google-0-121-2" docsrc="Google_Search">
+      <context> <head>The</head> screen was first reported in 2005 , and was a response to the heavy use of Google by search engine optimization companies to check on ranks of sites they were optimizing . Google says the message is triggered only by high volumes of requests from a single IP address , however the use of the " allintext " operator a few times in a period of minutes has the same effect . Google apparently uses the Google cookie as part of its determination of refusing service .</context>
+    </instance>
+    <instance id="Google_Search-google-0-125-1" docsrc="Google_Search">
+      <context> <head>In</head> June 2009 , after the death of pop superstar Michael Jackson , this message appeared to many internet users who were searching Google for news stories related to the singer , and was assumed by Google to be a DDoS attack , although many queries were submitted by legitimate searchers . ==== January 2009 malware bug ==== Google flags search results with the message " This site may harm your computer " if the site is known to install malicious software in the background or otherwise surreptitiously .</context>
+    </instance>
+    <instance id="Google_Search-google-0-127-1" docsrc="Google_Search">
+      <context> <head>====</head> January 2009 malware bug ==== Google flags search results with the message " This site may harm your computer " if the site is known to install malicious software in the background or otherwise surreptitiously . Google does this to protect users against visiting sites that could harm their computers .</context>
+    </instance>
+    <instance id="Google_Search-google-0-164-1" docsrc="Google_Search">
+      <context> <head>The</head> FTC was also continuing to investigate if Google 's favoring of their own services in their search results violated antitrust regulations . In 2008 , Google started to give autocompleted search suggestions in a list below the search bar for incompletely entered queries . Google Instant , a feature that displays suggested results while the user types , was introduced in the US on September 8 , 2010 .</context>
+    </instance>
+    <instance id="Google_Search-google-0-168-4" docsrc="Google_Search">
+      <context> <head>At</head> the time of the announcement , Google expected Instant to save users 2 to 5 seconds in every search , collectively about 11 million seconds per hour . Search engine marketing experts speculated that Google Instant would have a great impact on local and paid search . Google Search is a turn from a static HTML page into an AJAX application .</context>
+    </instance>
+    <instance id="Google_Search-google-0-17-1" docsrc="Google_Search">
+      <context> <head>Schmidt</head> reaffirmed this during a 2010 interview with the Wall Street Journal : " I actually think most people do n't want Google to answer their questions , they want Google to tell them what they should be doing next . " === Search products === Google 's cache link in its search results provides a way of retrieving information from websites that have recently gone down and a way of retrieving data more quickly than by clicking the direct link .</context>
+    </instance>
+    <instance id="Google_Search-google-0-177-1" docsrc="Google_Search">
+      <context> <head>In</head> late June 2011 , Google introduced a new look to the Google home page in order to boost the use of the Google+ social tools . One of the major changes was replacing the classic navigation bar with a black one . Google 's digital creative director Chris Wiggins explains : " We 're working on a project to bring you a new and improved Google experience , and over the next few months , you 'll continue to see more updates to our look and feel . " The new navigation bar has been negatively received by a vocal minority .</context>
+    </instance>
+    <instance id="Google_Search-google-0-178-2" docsrc="Google_Search">
+      <context> <head>In</head> November 2013 , Google started testing yellow labels for advertisements displayed in search results , to improve user experience . The new labels , highlighted in yellow color , and aligned to the left of each sponsored link help users clearly differentiate between organic and sponsored results . Google is available in many languages and has been localized completely or partly for many countries .</context>
+    </instance>
+    <instance id="Google_Search-google-0-2-2" docsrc="Google_Search">
+      <context> <head>The</head> main purpose of Google Search is to hunt for text in publicly accessible documents offered by web servers , as opposed to other data , such as images or data contained in databases . It was originally developed by Larry Page and Sergey Brin in 1997 . Google Search provides several features beyond searching for words .</context>
+    </instance>
+    <instance id="Google_Search-google-0-201-3" docsrc="Google_Search">
+      <context> <head>In</head> 2012 , Google has indexed over 30 trillion web pages , and received 100 billion queries per month . It also caches much of the content that it indexes . Google operates other tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search .</context>
+    </instance>
+    <instance id="Google_Search-google-0-203-1" docsrc="Google_Search">
+      <context> <head>Google</head> operates other tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search . Also Google starts many new beta products , like Google Social Search or Google Image Swirl . Google claims that a search query requires altogether about 1 kJ or 0.0003 kW·h , which is enough to raise the temperature of one liter of water by 0.24 °C.</context>
+    </instance>
+    <instance id="Google_Search-google-0-234-1" docsrc="Google_Search">
+      <context> <head>Official</head> website The Original Google ! Google search trends</context>
+    </instance>
+    <instance id="Google_Search-google-0-235-1" docsrc="Google_Search">
+      <context> <head>The</head> Original Google ! Google search trends</context>
+    </instance>
+    <instance id="Google_Search-google-0-30-10" docsrc="Google_Search">
+      <context> <head>The</head> particular problem addressed in The New York Times article , which involved DecorMyEyes , was addressed shortly thereafter by an undisclosed fix in the Google algorithm . According to Google , it was not the frequently published consumer complaints about DecorMyEyes which resulted in the high ranking but mentions on news websites of events which affected the firm such as legal actions against it . Google Webmaster Tools helps to check for websites that use duplicate or copyright content .</context>
+    </instance>
+    <instance id="Google_Search-google-0-30-6" docsrc="Google_Search">
+      <context> <head>The</head> general idea is to affect Google 's relevance algorithm by incorporating the keywords being targeted in various places " on page " , in particular the title element and the body copy ( note : the higher up in the page , presumably the better its keyword prominence and thus the ranking ) . Too many occurrences of the keyword , however , cause the page to look suspect to Google 's spam checking algorithms . Google has published guidelines for website owners who would like to raise their rankings when using legitimate optimization consultants .</context>
+    </instance>
+    <instance id="Google_Search-google-0-46-1" docsrc="Google_Search">
+      <context> <head>===</head> Search syntax === === Query expansion === Google applies query expansion to the submitted search query , transforming it into the query that will actually be used to retrieve results .</context>
+    </instance>
+    <instance id="Google_Search-google-0-53-2" docsrc="Google_Search">
+      <context> <head>===</head> " I 'm Feeling Lucky " === Google 's homepage includes a button labeled " I 'm Feeling Lucky " .</context>
+    </instance>
+    <instance id="Google_Search-google-0-56-6" docsrc="Google_Search">
+      <context> <head>"</head> I 'm feeling hungry " or " I 'm feeling smart " ) . Each phrase links to a Google page related to the associated phrase . Google Chrome and Mozilla Firefox used " I 'm Feeling Lucky " as the default search string when the user entered a query in the location bar ; this functionality was deprecated in later versions .</context>
+    </instance>
+    <instance id="Google_Search-google-0-86-3" docsrc="Google_Search">
+      <context> <head>A</head> search to find the shortest path between an arbitrary actor and veteran Hollywood character actor Kevin Bacon . Simply search using ' bacon number actorname ' . Google Goggles – using the Google Goggles app on your smartphone you can take a photograph of anything and get quick results for your search .</context>
+    </instance>
+    <instance id="Google_Search-google-1-127-5" docsrc="Google_Search">
+      <context> The <head>bug</head> was caused by human error . The URL of " / " ( which expands to all URLs ) was mistakenly added to the malware patterns file . === Google Doodles ===</context>
+    </instance>
+    <instance id="Google_Search-google-1-132-5" docsrc="Google_Search">
+      <context> Clicking <head>on</head> the Doodle links to a string of Google search results about the topic . The first was a reference to the Burning Man Festival in 1998 , and others have been produced for the birthdays of notable people like Albert Einstein , historical events like the interlocking Lego block 's 50th anniversary and holidays like Valentine 's Day . Some Google Doodles have interactivity beyond a simple search , such as the famous " Google Pacman " version that appeared on May 21 , 2010 .</context>
+    </instance>
+    <instance id="Google_Search-google-1-132-6" docsrc="Google_Search">
+      <context> The <head>first</head> was a reference to the Burning Man Festival in 1998 , and others have been produced for the birthdays of notable people like Albert Einstein , historical events like the interlocking Lego block 's 50th anniversary and holidays like Valentine 's Day . Some Google Doodles have interactivity beyond a simple search , such as the famous " Google Pacman " version that appeared on May 21 , 2010 . === Google Caffeine ===</context>
+    </instance>
+    <instance id="Google_Search-google-1-19-2" docsrc="Google_Search">
+      <context> Google <head>'s</head> cache link in its search results provides a way of retrieving information from websites that have recently gone down and a way of retrieving data more quickly than by clicking the direct link . This feature is still available , but many users are not aware of this because it has been moved to the previews of the search results presented next to these . === Google optimization ===</context>
+    </instance>
+    <instance id="Google_Search-google-1-201-4" docsrc="Google_Search">
+      <context> It <head>also</head> caches much of the content that it indexes . Google operates other tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search . Also Google starts many new beta products , like Google Social Search or Google Image Swirl .</context>
+    </instance>
+    <instance id="Google_Search-google-1-28-1" docsrc="Google_Search">
+      <context> This <head>feature</head> is still available , but many users are not aware of this because it has been moved to the previews of the search results presented next to these . === Google optimization === Because Google is the most popular search engine , many webmasters have become eager to influence their website 's Google rankings .</context>
+    </instance>
+    <instance id="Google_Search-google-1-56-2" docsrc="Google_Search">
+      <context> With <head>the</head> introduction of Google Instant , the functionality of the button behaves differently . Currently , the " I 'm Feeling Lucky " button changes based on the user 's settings and what webpage users are at . If Google Instant is turned off , the button will work as it previously did or , if the search box is empty , redirect to the Google Doodles gallery .</context>
+    </instance>
+    <instance id="Google_Search-google-1-56-3" docsrc="Google_Search">
+      <context> Currently <head>,</head> the " I 'm Feeling Lucky " button changes based on the user 's settings and what webpage users are at . If Google Instant is turned off , the button will work as it previously did or , if the search box is empty , redirect to the Google Doodles gallery . If Google Instant is turned on and a user hovers over the button , the button text will spin and land on a phrase that starts with " I 'm feeling " ( e.g.</context>
+    </instance>
+    <instance id="Google_Search-google-1-93-1" docsrc="Google_Search">
+      <context> === <head>Search</head> options === The webpages maintained by the Google Help Center have text describing more than 15 various search options . The Google operator</context>
+    </instance>
+    <instance id="Google_Search-google-10-144-1" docsrc="Google_Search">
+      <context> === Conversational search ( OK Google ) === === Hummingbird <head>update</head> === The " Hummingbird " update was announced as part of Google 's 15-year anniversary and a Guardian technology journalist described it as " the biggest change to the inner workings of the world 's most popular search engine since Google 's " Caffeine " update in 2010 . " The update was progressively introduced over the month prior to the announcement and will benefit more modern forms of search , whereby users ask Google a question rather than entering keywords into the search box .</context>
+    </instance>
+    <instance id="Google_Search-google-10-201-3" docsrc="Google_Search">
+      <context> In 2012 , Google has indexed over 30 trillion web <head>pages</head> , and received 100 billion queries per month . It also caches much of the content that it indexes . Google operates other tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search .</context>
+    </instance>
+    <instance id="Google_Search-google-10-3-1" docsrc="Google_Search">
+      <context> In May 2012 Google introduced a Knowledge Graph semantic search <head>feature</head> in the U.S. Analysis of the frequency of search terms may indicate economic , social and health trends . Data about the frequency of use of search terms on Google can be openly inquired via Google Trends and have been shown to correlate with flu outbreaks and unemployment levels , and provide the information faster than traditional reporting methods and surveys .</context>
+    </instance>
+    <instance id="Google_Search-google-11-47-1" docsrc="Google_Search">
+      <context> === Query expansion === Google applies query expansion to the submitted <head>search</head> query , transforming it into the query that will actually be used to retrieve results . As with page ranking , the exact details of the algorithm Google uses are deliberately obscure , but certainly the following transformations are among those that occur :</context>
+    </instance>
+    <instance id="Google_Search-google-12-171-3" docsrc="Google_Search">
+      <context> As of August 2013 the word bisexual still did not autocomplete , <head>and</head> LGBT activists renewed efforts to have it whitelisted . As of June 2014 " bisexuality " ( but not " bisexual " ) and " myleak " were found . In late June 2011 , Google introduced a new look to the Google home page in order to boost the use of the Google+ social tools .</context>
+    </instance>
+    <instance id="Google_Search-google-13-168-5" docsrc="Google_Search">
+      <context> Search engine marketing experts speculated that Google Instant would have a great impact <head>on</head> local and paid search . Google Search is a turn from a static HTML page into an AJAX application . The publication 2600 : The Hacker Quarterly compiled a list of words that Google Instant did not show .</context>
+    </instance>
+    <instance id="Google_Search-google-13-201-3" docsrc="Google_Search">
+      <context> In 2012 , Google has indexed over 30 trillion web pages , and <head>received</head> 100 billion queries per month . It also caches much of the content that it indexes . Google operates other tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search .</context>
+    </instance>
+    <instance id="Google_Search-google-13-201-4" docsrc="Google_Search">
+      <context> It also caches much of the content that it indexes . Google operates <head>other</head> tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search . Also Google starts many new beta products , like Google Social Search or Google Image Swirl .</context>
+    </instance>
+    <instance id="Google_Search-google-13-30-1" docsrc="Google_Search">
+      <context> === Google optimization === Because Google is the most popular search engine , <head>many</head> webmasters have become eager to influence their website 's Google rankings . An industry of consultants has arisen to help websites increase their rankings on Google and on other search engines .</context>
+    </instance>
+    <instance id="Google_Search-google-14-151-3" docsrc="Google_Search">
+      <context> When using a search engine through a browser program on a computer , search <head>terms</head> and other information may be stored on the computer by default , unless the browser is set not to do this , or they are erased . Saved terms may be discovered on forensic analysis of the computer . An Internet Service Provider ( ISP ) or search engine provider ( e.g. , Google ) may store records which relate search terms to an IP address and a time .</context>
+    </instance>
+    <instance id="Google_Search-google-14-207-1" docsrc="Google_Search">
+      <context> Also Google starts many new beta products , like Google Social Search or Google <head>Image</head> Swirl . Google claims that a search query requires altogether about 1 kJ or 0.0003 kW·h , which is enough to raise the temperature of one liter of water by 0.24 °C. In 2007 , a group of Austrian researchers observed a tendency to misuse the Google engine as a " reality interface " .</context>
+    </instance>
+    <instance id="Google_Search-google-14-211-1" docsrc="Google_Search">
+      <context> Google claims that a search query requires altogether about 1 kJ or 0.0003 kW·h <head>,</head> which is enough to raise the temperature of one liter of water by 0.24 °C. In 2007 , a group of Austrian researchers observed a tendency to misuse the Google engine as a " reality interface " . Ordinary users as well as journalists tend to rely on the first pages of Google search , assuming that everything not listed there is either not important or merely does not exist .</context>
+    </instance>
+    <instance id="Google_Search-google-15-132-5" docsrc="Google_Search">
+      <context> Clicking on the Doodle links to a string of Google search results about the topic <head>.</head> The first was a reference to the Burning Man Festival in 1998 , and others have been produced for the birthdays of notable people like Albert Einstein , historical events like the interlocking Lego block 's 50th anniversary and holidays like Valentine 's Day . Some Google Doodles have interactivity beyond a simple search , such as the famous " Google Pacman " version that appeared on May 21 , 2010 .</context>
+    </instance>
+    <instance id="Google_Search-google-15-55-3" docsrc="Google_Search">
+      <context> Prior to a change in 2012 , when a user typed in a search and <head>clicked</head> on the button the user would be taken directly to the first search result , bypassing the search engine results page . The idea was that if a user is " feeling lucky " , the search engine would return the perfect match the first time without having to page through the search results . According to a study by Tom Chavez of " Rapt " , this feature cost Google $ 110 million a year as 1 % of all searches use this feature and bypass all advertising .</context>
+    </instance>
+    <instance id="Google_Search-google-16-201-3" docsrc="Google_Search">
+      <context> In 2012 , Google has indexed over 30 trillion web pages , and received 100 billion <head>queries</head> per month . It also caches much of the content that it indexes . Google operates other tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search .</context>
+    </instance>
+    <instance id="Google_Search-google-16-3-1" docsrc="Google_Search">
+      <context> In May 2012 Google introduced a Knowledge Graph semantic search feature in the U.S. Analysis of <head>the</head> frequency of search terms may indicate economic , social and health trends . Data about the frequency of use of search terms on Google can be openly inquired via Google Trends and have been shown to correlate with flu outbreaks and unemployment levels , and provide the information faster than traditional reporting methods and surveys .</context>
+    </instance>
+    <instance id="Google_Search-google-16-30-5" docsrc="Google_Search">
+      <context> Search engine optimization encompasses both " on page " factors ( like body copy , title <head>elements</head> , H1 heading elements and image alt attribute values ) and Off Page Optimization factors ( like anchor text and PageRank ) . The general idea is to affect Google 's relevance algorithm by incorporating the keywords being targeted in various places " on page " , in particular the title element and the body copy ( note : the higher up in the page , presumably the better its keyword prominence and thus the ranking ) . Too many occurrences of the keyword , however , cause the page to look suspect to Google 's spam checking algorithms .</context>
+    </instance>
+    <instance id="Google_Search-google-17-10-2" docsrc="Google_Search">
+      <context> === PageRank === In a potential hint of Google 's future direction for their Search algorithm , <head>Eric</head> Schmidt , Google 's then chief executive , said in a 2007 interview with the Financial Times : " The goal is to enable Google users to be able to ask the question such as ' What shall I do tomorrow ? ' and ' What job shall I take ? ' " .</context>
+    </instance>
+    <instance id="Google_Search-google-17-119-1" docsrc="Google_Search">
+      <context> Some searches will give a 403 Forbidden error with the text sometimes followed by a CAPTCHA prompt <head>.</head> The screen was first reported in 2005 , and was a response to the heavy use of Google by search engine optimization companies to check on ranks of sites they were optimizing .</context>
+    </instance>
+    <instance id="Google_Search-google-19-28-1" docsrc="Google_Search">
+      <context> This feature is still available , but many users are not aware of this because it has been moved <head>to</head> the previews of the search results presented next to these . === Google optimization === Because Google is the most popular search engine , many webmasters have become eager to influence their website 's Google rankings .</context>
+    </instance>
+    <instance id="Google_Search-google-2-233-1" docsrc="Google_Search">
+      <context> doi:10.1109/MM.2003.1196112 . <head>Official</head> website The Original Google !</context>
+    </instance>
+    <instance id="Google_Search-google-2-3-2" docsrc="Google_Search">
+      <context> Analysis of <head>the</head> frequency of search terms may indicate economic , social and health trends . Data about the frequency of use of search terms on Google can be openly inquired via Google Trends and have been shown to correlate with flu outbreaks and unemployment levels , and provide the information faster than traditional reporting methods and surveys . Competitors of Google include Baidu and Soso.com in China ; Naver.com and Daum.net in South Korea ; Yandex in Russia ; Seznam.cz in the Czech Republic ; Yahoo !</context>
+    </instance>
+    <instance id="Google_Search-google-2-30-9" docsrc="Google_Search">
+      <context> It has <head>been</head> hypothesized , and , allegedly , is the opinion of the owner of one business about which there have been numerous complaints , that negative publicity , for example , numerous consumer complaints , may serve as well to elevate page rank on Google Search as favorable comments . The particular problem addressed in The New York Times article , which involved DecorMyEyes , was addressed shortly thereafter by an undisclosed fix in the Google algorithm . According to Google , it was not the frequently published consumer complaints about DecorMyEyes which resulted in the high ranking but mentions on news websites of events which affected the firm such as legal actions against it .</context>
+    </instance>
+    <instance id="Google_Search-google-20-201-3" docsrc="Google_Search">
+      <context> In 2012 , Google has indexed over 30 trillion web pages , and received 100 billion queries per month . <head>It</head> also caches much of the content that it indexes . Google operates other tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search .</context>
+    </instance>
+    <instance id="Google_Search-google-21-130-1" docsrc="Google_Search">
+      <context> The URL of " / " ( which expands to all URLs ) was mistakenly added to the malware patterns file <head>.</head> === Google Doodles === On certain occasions , the logo on Google 's webpage will change to a special version , known as a " Google Doodle " .</context>
+    </instance>
+    <instance id="Google_Search-google-22-13-1" docsrc="Google_Search">
+      <context> PageRank === In a potential hint of Google 's future direction for their Search algorithm , Eric Schmidt , Google 's then <head>chief</head> executive , said in a 2007 interview with the Financial Times : " The goal is to enable Google users to be able to ask the question such as ' What shall I do tomorrow ? ' and ' What job shall I take ? ' " . Schmidt reaffirmed this during a 2010 interview with the Wall Street Journal : " I actually think most people do n't want Google to answer their questions , they want Google to tell them what they should be doing next . "</context>
+    </instance>
+    <instance id="Google_Search-google-23-102-2" docsrc="Google_Search">
+      <context> site : – Restrict the results to those websites in the given domain , such as , site:www.acmeacme.com . The option " site:com <head>"</head> will search all domain URLs named with " .com " ( no space after " site : " ) . intext : – Prefix to search in a webpage text , such as " intext:google search " will list pages with word " google " in the text of the page , and word " search " anywhere ( no space after " intext : " ) .</context>
+    </instance>
+    <instance id="Google_Search-google-23-104-1" docsrc="Google_Search">
+      <context> intext : – Prefix to search in a webpage text , such as " intext:google search " will list pages with word " <head>google</head> " in the text of the page , and word " search " anywhere ( no space after " intext : " ) . allintitle : – Only the page titles are searched ( not the remaining text on each webpage ) . intitle : – Prefix to search in a webpage title , such as " intitle:google search " will list pages with word " google " in title , and word " search " anywhere ( no space after " intitle : " ) .</context>
+    </instance>
+    <instance id="Google_Search-google-23-121-3" docsrc="Google_Search">
+      <context> Google says the message is triggered only by high volumes of requests from a single IP address , however the use of the <head>"</head> allintext " operator a few times in a period of minutes has the same effect . Google apparently uses the Google cookie as part of its determination of refusing service . In June 2009 , after the death of pop superstar Michael Jackson , this message appeared to many internet users who were searching Google for news stories related to the singer , and was assumed by Google to be a DDoS attack , although many queries were submitted by legitimate searchers .</context>
+    </instance>
+    <instance id="Google_Search-google-23-177-1" docsrc="Google_Search">
+      <context> In late June 2011 , Google introduced a new look to the Google home page in order to boost the use of the <head>Google+</head> social tools . One of the major changes was replacing the classic navigation bar with a black one . Google 's digital creative director Chris Wiggins explains : " We 're working on a project to bring you a new and improved Google experience , and over the next few months , you 'll continue to see more updates to our look and feel . " The new navigation bar has been negatively received by a vocal minority .</context>
+    </instance>
+    <instance id="Google_Search-google-23-201-3" docsrc="Google_Search">
+      <context> In 2012 , Google has indexed over 30 trillion web pages , and received 100 billion queries per month . It also caches <head>much</head> of the content that it indexes . Google operates other tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search .</context>
+    </instance>
+    <instance id="Google_Search-google-23-87-1" docsrc="Google_Search">
+      <context> Simply search using ' bacon number actorname ' . Google Goggles – using the Google Goggles app on your smartphone you can take <head>a</head> photograph of anything and get quick results for your search . If you wish to pursue more detailed search results you can click the " full results " tab and get a full blown Google search of the object you photographed .</context>
+    </instance>
+    <instance id="Google_Search-google-24-211-5" docsrc="Google_Search">
+      <context> To be precise : with the Google interface the user gets the impression that the search results imply a kind of totality . In <head>fact</head> , one only sees a small part of what one could see if one also integrates other research tools " . Barroso , Luiz Andre ; Dean , Jeffrey ; Hölzle , Urs ( 2003 ) . " Web Search for a Planet : The Google Cluster Architecture " .</context>
+    </instance>
+    <instance id="Google_Search-google-25-30-8" docsrc="Google_Search">
+      <context> Google has published guidelines for website owners who would like to raise their rankings when using legitimate optimization consultants . It has been hypothesized , <head>and</head> , allegedly , is the opinion of the owner of one business about which there have been numerous complaints , that negative publicity , for example , numerous consumer complaints , may serve as well to elevate page rank on Google Search as favorable comments . The particular problem addressed in The New York Times article , which involved DecorMyEyes , was addressed shortly thereafter by an undisclosed fix in the Google algorithm .</context>
+    </instance>
+    <instance id="Google_Search-google-27-110-1" docsrc="Google_Search">
+      <context> Prefix for each word to be found in the URL ; others words are matched anywhere , such as " inurl:acme search " matches " acme " <head>in</head> a URL , but matches " search " anywhere ( no space after " inurl : " ) . link : – The prefix " link : " will list webpages that have links to the specified webpage , such as " link:www.google.com " lists webpages linking to the Google homepage .</context>
+    </instance>
+    <instance id="Google_Search-google-27-56-2" docsrc="Google_Search">
+      <context> With the introduction of Google Instant , the functionality of the button behaves differently . Currently , the " I 'm Feeling Lucky " button changes based <head>on</head> the user 's settings and what webpage users are at . If Google Instant is turned off , the button will work as it previously did or , if the search box is empty , redirect to the Google Doodles gallery .</context>
+    </instance>
+    <instance id="Google_Search-google-3-159-2" docsrc="Google_Search">
+      <context> In 2012 the <head>US</head> Federal Trade Commission fined Google US$ 22.5 million for violating their agreement not to violate the privacy of users of the Apple Safari ( web browser ) . The FTC was also continuing to investigate if Google 's favoring of their own services in their search results violated antitrust regulations . In 2008 , Google started to give autocompleted search suggestions in a list below the search bar for incompletely entered queries .</context>
+    </instance>
+    <instance id="Google_Search-google-3-2-5" docsrc="Google_Search">
+      <context> These include synonyms <head>,</head> weather forecasts , time zones , stock quotes , maps , earthquake data , movie showtimes , airports , home listings , and sports scores . There are special features for numbers , dates , and some specific forms , including ranges , prices , temperatures , money and measurement unit conversions , calculations , package tracking , patents , area codes , and language translation . In June 2011 Google introduced " Google Voice Search " to search for spoken , rather than typed , words .</context>
+    </instance>
+    <instance id="Google_Search-google-3-2-6" docsrc="Google_Search">
+      <context> There are special <head>features</head> for numbers , dates , and some specific forms , including ranges , prices , temperatures , money and measurement unit conversions , calculations , package tracking , patents , area codes , and language translation . In June 2011 Google introduced " Google Voice Search " to search for spoken , rather than typed , words . In May 2012 Google introduced a Knowledge Graph semantic search feature in the U.S.</context>
+    </instance>
+    <instance id="Google_Search-google-3-201-1" docsrc="Google_Search">
+      <context> In addition to <head>the</head> main URL Google.com , Google Inc. owns 160 domain names for each of the countries/regions in which it has been localized . In addition to its tool for searching webpages , Google also provides services for searching images , Usenet newsgroups , news websites , videos , searching by locality , maps , and items for sale online . In 2012 , Google has indexed over 30 trillion web pages , and received 100 billion queries per month .</context>
+    </instance>
+    <instance id="Google_Search-google-30-13-1" docsrc="Google_Search">
+      <context> PageRank === In a potential hint of Google 's future direction for their Search algorithm , Eric Schmidt , Google 's then chief executive , said in a 2007 interview <head>with</head> the Financial Times : " The goal is to enable Google users to be able to ask the question such as ' What shall I do tomorrow ? ' and ' What job shall I take ? ' " . Schmidt reaffirmed this during a 2010 interview with the Wall Street Journal : " I actually think most people do n't want Google to answer their questions , they want Google to tell them what they should be doing next . "</context>
+    </instance>
+    <instance id="Google_Search-google-32-201-3" docsrc="Google_Search">
+      <context> In 2012 , Google has indexed over 30 trillion web pages , and received 100 billion queries per month . It also caches much of the content that it indexes . Google <head>operates</head> other tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search .</context>
+    </instance>
+    <instance id="Google_Search-google-35-201-3" docsrc="Google_Search">
+      <context> In 2012 , Google has indexed over 30 trillion web pages , and received 100 billion queries per month . It also caches much of the content that it indexes . Google operates other tools <head>and</head> services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search .</context>
+    </instance>
+    <instance id="Google_Search-google-36-121-3" docsrc="Google_Search">
+      <context> Google says the message is triggered only by high volumes of requests from a single IP address , however the use of the " allintext " operator a few times in a period of minutes has <head>the</head> same effect . Google apparently uses the Google cookie as part of its determination of refusing service . In June 2009 , after the death of pop superstar Michael Jackson , this message appeared to many internet users who were searching Google for news stories related to the singer , and was assumed by Google to be a DDoS attack , although many queries were submitted by legitimate searchers .</context>
+    </instance>
+    <instance id="Google_Search-google-39-10-2" docsrc="Google_Search">
+      <context> === PageRank === In a potential hint of Google 's future direction for their Search algorithm , Eric Schmidt , Google 's then chief executive , said in a 2007 interview with the Financial Times : " The goal <head>is</head> to enable Google users to be able to ask the question such as ' What shall I do tomorrow ? ' and ' What job shall I take ? ' " .</context>
+    </instance>
+    <instance id="Google_Search-google-39-144-1" docsrc="Google_Search">
+      <context> === Conversational search ( OK Google ) === === Hummingbird update === The " Hummingbird " update was announced as part of Google 's 15-year anniversary and a Guardian technology journalist described it as " the biggest change to <head>the</head> inner workings of the world 's most popular search engine since Google 's " Caffeine " update in 2010 . " The update was progressively introduced over the month prior to the announcement and will benefit more modern forms of search , whereby users ask Google a question rather than entering keywords into the search box .</context>
+    </instance>
+    <instance id="Google_Search-google-39-201-3" docsrc="Google_Search">
+      <context> In 2012 , Google has indexed over 30 trillion web pages , and received 100 billion queries per month . It also caches much of the content that it indexes . Google operates other tools and services including Google <head>News</head> , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search .</context>
+    </instance>
+    <instance id="Google_Search-google-4-121-2" docsrc="Google_Search">
+      <context> The screen was first <head>reported</head> in 2005 , and was a response to the heavy use of Google by search engine optimization companies to check on ranks of sites they were optimizing . Google says the message is triggered only by high volumes of requests from a single IP address , however the use of the " allintext " operator a few times in a period of minutes has the same effect . Google apparently uses the Google cookie as part of its determination of refusing service .</context>
+    </instance>
+    <instance id="Google_Search-google-4-168-1" docsrc="Google_Search">
+      <context> In 2008 , Google <head>started</head> to give autocompleted search suggestions in a list below the search bar for incompletely entered queries . Google Instant , a feature that displays suggested results while the user types , was introduced in the US on September 8 , 2010 . In concert with the Google Instant launch , Google disabled the ability of users to choose to see more than 10 search results per page .</context>
+    </instance>
+    <instance id="Google_Search-google-4-177-2" docsrc="Google_Search">
+      <context> One of the major <head>changes</head> was replacing the classic navigation bar with a black one . Google 's digital creative director Chris Wiggins explains : " We 're working on a project to bring you a new and improved Google experience , and over the next few months , you 'll continue to see more updates to our look and feel . " The new navigation bar has been negatively received by a vocal minority . In November 2013 , Google started testing yellow labels for advertisements displayed in search results , to improve user experience .</context>
+    </instance>
+    <instance id="Google_Search-google-4-55-4" docsrc="Google_Search">
+      <context> The idea was that <head>if</head> a user is " feeling lucky " , the search engine would return the perfect match the first time without having to page through the search results . According to a study by Tom Chavez of " Rapt " , this feature cost Google $ 110 million a year as 1 % of all searches use this feature and bypass all advertising . With the introduction of Google Instant , the functionality of the button behaves differently .</context>
+    </instance>
+    <instance id="Google_Search-google-46-30-7" docsrc="Google_Search">
+      <context> Too many occurrences of the keyword , however , cause the page to look suspect to Google 's spam checking algorithms . Google has published guidelines for website owners who would like to raise their rankings when using legitimate optimization consultants . It has been hypothesized <head>,</head> and , allegedly , is the opinion of the owner of one business about which there have been numerous complaints , that negative publicity , for example , numerous consumer complaints , may serve as well to elevate page rank on Google Search as favorable comments .</context>
+    </instance>
+    <instance id="Google_Search-google-5-10-2" docsrc="Google_Search">
+      <context> === PageRank === In a <head>potential</head> hint of Google 's future direction for their Search algorithm , Eric Schmidt , Google 's then chief executive , said in a 2007 interview with the Financial Times : " The goal is to enable Google users to be able to ask the question such as ' What shall I do tomorrow ? ' and ' What job shall I take ? ' " .</context>
+    </instance>
+    <instance id="Google_Search-google-5-135-1" docsrc="Google_Search">
+      <context> Some Google Doodles have interactivity <head>beyond</head> a simple search , such as the famous " Google Pacman " version that appeared on May 21 , 2010 . === Google Caffeine === === Conversational search ( OK Google ) ===</context>
+    </instance>
+    <instance id="Google_Search-google-5-171-3" docsrc="Google_Search">
+      <context> As of August 2013 the <head>word</head> bisexual still did not autocomplete , and LGBT activists renewed efforts to have it whitelisted . As of June 2014 " bisexuality " ( but not " bisexual " ) and " myleak " were found . In late June 2011 , Google introduced a new look to the Google home page in order to boost the use of the Google+ social tools .</context>
+    </instance>
+    <instance id="Google_Search-google-5-211-2" docsrc="Google_Search">
+      <context> In 2007 , a group <head>of</head> Austrian researchers observed a tendency to misuse the Google engine as a " reality interface " . Ordinary users as well as journalists tend to rely on the first pages of Google search , assuming that everything not listed there is either not important or merely does not exist . The researchers say that " Google has become the main interface for our whole reality .</context>
+    </instance>
+    <instance id="Google_Search-google-5-33-1" docsrc="Google_Search">
+      <context> Google Webmaster Tools helps to <head>check</head> for websites that use duplicate or copyright content . === Universal search === Universal search was launched by Google on May 16 , 2007 .</context>
+    </instance>
+    <instance id="Google_Search-google-5-56-5" docsrc="Google_Search">
+      <context> If Google Instant is turned <head>on</head> and a user hovers over the button , the button text will spin and land on a phrase that starts with " I 'm feeling " ( e.g. " I 'm feeling hungry " or " I 'm feeling smart " ) . Each phrase links to a Google page related to the associated phrase .</context>
+    </instance>
+    <instance id="Google_Search-google-5-86-3" docsrc="Google_Search">
+      <context> A search to find the <head>shortest</head> path between an arbitrary actor and veteran Hollywood character actor Kevin Bacon . Simply search using ' bacon number actorname ' . Google Goggles – using the Google Goggles app on your smartphone you can take a photograph of anything and get quick results for your search .</context>
+    </instance>
+    <instance id="Google_Search-google-5-92-1" docsrc="Google_Search">
+      <context> Metronome – Provides a metronome <head>with</head> an adjustable bpm . === Search options === The webpages maintained by the Google Help Center have text describing more than 15 various search options .</context>
+    </instance>
+    <instance id="Google_Search-google-6-168-3" docsrc="Google_Search">
+      <context> In concert with the Google Instant <head>launch</head> , Google disabled the ability of users to choose to see more than 10 search results per page . At the time of the announcement , Google expected Instant to save users 2 to 5 seconds in every search , collectively about 11 million seconds per hour . Search engine marketing experts speculated that Google Instant would have a great impact on local and paid search .</context>
+    </instance>
+    <instance id="Google_Search-google-6-2-5" docsrc="Google_Search">
+      <context> These include synonyms , weather forecasts <head>,</head> time zones , stock quotes , maps , earthquake data , movie showtimes , airports , home listings , and sports scores . There are special features for numbers , dates , and some specific forms , including ranges , prices , temperatures , money and measurement unit conversions , calculations , package tracking , patents , area codes , and language translation . In June 2011 Google introduced " Google Voice Search " to search for spoken , rather than typed , words .</context>
+    </instance>
+    <instance id="Google_Search-google-6-211-3" docsrc="Google_Search">
+      <context> Ordinary users as well as journalists <head>tend</head> to rely on the first pages of Google search , assuming that everything not listed there is either not important or merely does not exist . The researchers say that " Google has become the main interface for our whole reality . To be precise : with the Google interface the user gets the impression that the search results imply a kind of totality .</context>
+    </instance>
+    <instance id="Google_Search-google-6-30-4" docsrc="Google_Search">
+      <context> This field , called search engine <head>optimization</head> , attempts to discern patterns in search engine listings , and then develop a methodology for improving rankings to draw more searchers to their client 's sites . Search engine optimization encompasses both " on page " factors ( like body copy , title elements , H1 heading elements and image alt attribute values ) and Off Page Optimization factors ( like anchor text and PageRank ) . The general idea is to affect Google 's relevance algorithm by incorporating the keywords being targeted in various places " on page " , in particular the title element and the body copy ( note : the higher up in the page , presumably the better its keyword prominence and thus the ranking ) .</context>
+    </instance>
+    <instance id="Google_Search-google-6-60-1" docsrc="Google_Search">
+      <context> Google Chrome and Mozilla Firefox used <head>"</head> I 'm Feeling Lucky " as the default search string when the user entered a query in the location bar ; this functionality was deprecated in later versions . === Rich snippets === On May 12 , 2009 , Google announced that they would be parsing the hCard , hReview , and hProduct microformats and using them to populate search result pages with what they called " Rich Snippets " .</context>
+    </instance>
+    <instance id="Google_Search-google-7-130-1" docsrc="Google_Search">
+      <context> The URL of " / " ( <head>which</head> expands to all URLs ) was mistakenly added to the malware patterns file . === Google Doodles === On certain occasions , the logo on Google 's webpage will change to a special version , known as a " Google Doodle " .</context>
+    </instance>
+    <instance id="Google_Search-google-7-146-1" docsrc="Google_Search">
+      <context> === Hummingbird update === The " Hummingbird <head>"</head> update was announced as part of Google 's 15-year anniversary and a Guardian technology journalist described it as " the biggest change to the inner workings of the world 's most popular search engine since Google 's " Caffeine " update in 2010 . " The update was progressively introduced over the month prior to the announcement and will benefit more modern forms of search , whereby users ask Google a question rather than entering keywords into the search box . Searches made by search engines , including Google , leave traces .</context>
+    </instance>
+    <instance id="Google_Search-google-7-168-2" docsrc="Google_Search">
+      <context> Google Instant , a feature that displays <head>suggested</head> results while the user types , was introduced in the US on September 8 , 2010 . In concert with the Google Instant launch , Google disabled the ability of users to choose to see more than 10 search results per page . At the time of the announcement , Google expected Instant to save users 2 to 5 seconds in every search , collectively about 11 million seconds per hour .</context>
+    </instance>
+    <instance id="Google_Search-google-7-170-2" docsrc="Google_Search">
+      <context> The publication 2600 : The Hacker Quarterly <head>compiled</head> a list of words that Google Instant did not show . Most banned terms are those considered rude , but some apparently irrelevant searches including " Myleak " are removed . In September 2012 several sources reported that Google had removed bisexual from the list of blacklisted terms for Instant Search .</context>
+    </instance>
+    <instance id="Google_Search-google-7-201-3" docsrc="Google_Search">
+      <context> In 2012 , Google has indexed over <head>30</head> trillion web pages , and received 100 billion queries per month . It also caches much of the content that it indexes . Google operates other tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search .</context>
+    </instance>
+    <instance id="Google_Search-google-7-34-2" docsrc="Google_Search">
+      <context> Universal search was launched by Google on <head>May</head> 16 , 2007 . It was an idea which merged the results from different searches into one . Prior to Universal search , a standard Google search would consist of links to different websites .</context>
+    </instance>
+    <instance id="Google_Search-google-73-144-1" docsrc="Google_Search">
+      <context> === Conversational search ( OK Google ) === === Hummingbird update === The " Hummingbird " update was announced as part of Google 's 15-year anniversary and a Guardian technology journalist described it as " the biggest change to the inner workings of the world 's most popular search engine since Google 's " Caffeine " update in 2010 . " The update was progressively introduced over the month prior to the announcement <head>and</head> will benefit more modern forms of search , whereby users ask Google a question rather than entering keywords into the search box .</context>
+    </instance>
+    <instance id="Google_Search-google-8-158-1" docsrc="Google_Search">
+      <context> === Encrypted search === === FTC Fines === <head>In</head> 2012 the US Federal Trade Commission fined Google US$ 22.5 million for violating their agreement not to violate the privacy of users of the Apple Safari ( web browser ) .</context>
+    </instance>
+    <instance id="Google_Search-google-8-159-1" docsrc="Google_Search">
+      <context> === FTC Fines === In 2012 the US <head>Federal</head> Trade Commission fined Google US$ 22.5 million for violating their agreement not to violate the privacy of users of the Apple Safari ( web browser ) . The FTC was also continuing to investigate if Google 's favoring of their own services in their search results violated antitrust regulations .</context>
+    </instance>
+    <instance id="Google_Search-google-8-168-1" docsrc="Google_Search">
+      <context> In 2008 , Google started to give autocompleted <head>search</head> suggestions in a list below the search bar for incompletely entered queries . Google Instant , a feature that displays suggested results while the user types , was introduced in the US on September 8 , 2010 . In concert with the Google Instant launch , Google disabled the ability of users to choose to see more than 10 search results per page .</context>
+    </instance>
+    <instance id="Google_Search-google-8-194-1" docsrc="Google_Search">
+      <context> Pig Latin Pirate In addition to the main <head>URL</head> Google.com , Google Inc. owns 160 domain names for each of the countries/regions in which it has been localized .</context>
+    </instance>
+    <instance id="Google_Search-google-9-132-3" docsrc="Google_Search">
+      <context> This is a picture , drawing , or animation <head>that</head> includes the logo . It is usually done for a special event or day although not all of them are well known . Clicking on the Doodle links to a string of Google search results about the topic .</context>
+    </instance>
+    <instance id="Google_Search-google-9-195-1" docsrc="Google_Search">
+      <context> Pirate In addition to the main URL Google.com , <head>Google</head> Inc. owns 160 domain names for each of the countries/regions in which it has been localized . In addition to its tool for searching webpages , Google also provides services for searching images , Usenet newsgroups , news websites , videos , searching by locality , maps , and items for sale online .</context>
+    </instance>
+    <instance id="Google_Search-google-9-201-4" docsrc="Google_Search">
+      <context> It also caches much of the content that it <head>indexes</head> . Google operates other tools and services including Google News , Google Shopping , Google Maps , Google Custom Search , Google Earth , Google Docs , Picasa , Panoramio , YouTube , Google Translate , Google Blog Search and Google Desktop Search . Also Google starts many new beta products , like Google Social Search or Google Image Swirl .</context>
+    </instance>
+    <instance id="Google_Search-google-9-4-2" docsrc="Google_Search">
+      <context> Competitors of Google include Baidu and Soso.com in China <head>;</head> Naver.com and Daum.net in South Korea ; Yandex in Russia ; Seznam.cz in the Czech Republic ; Yahoo ! in Japan , Taiwan and the US , as well as Bing and DuckDuckGo . Some smaller search engines offer facilities not available with Google , e.g. not storing any private or tracking information ; one such search engine is Ixquick .</context>
+    </instance>
+    <instance id="Google_Search-google-9-88-1" docsrc="Google_Search">
+      <context> If you wish to pursue more detailed search results <head>you</head> can click the " full results " tab and get a full blown Google search of the object you photographed . Knowledge graph – A search for things , people or places that Google knows about , such as landmarks , celebrities , cities , sports teams , buildings , geographical features , movies , celestial objects , works of art and more , and information that applies to the search term is shown in the upper right .</context>
+    </instance>
+  </lexelt>
+</corpus>

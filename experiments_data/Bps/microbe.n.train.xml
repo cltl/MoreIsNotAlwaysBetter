@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="microbe.n" pos="NN">
+    <instance id="a03014485_d_8" docsrc="a03014485_d">
+      <context> of or involving or caused by or being <head>microbes</head> ;</context>
+    </instance>
+    <instance id="n11129808_d_21" docsrc="n11129808_d">
+      <context> Dutch pioneer microscopist who was among the first to recognize cells in animals and who gave the first accurate descriptions of <head>microbes</head> and spermatozoa and blood_corpuscles ;</context>
+    </instance>
+  </lexelt>
+</corpus>

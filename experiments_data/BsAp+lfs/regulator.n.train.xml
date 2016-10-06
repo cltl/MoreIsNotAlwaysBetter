@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="regulator.n" pos="NN">
+    <instance id="br-j02#w1264_0" docsrc="br-j02">
+      <context> To reduce heat transfer from the hot gas to this anode holder outside the region of the arc , a carbon shield was attached to the surface providing an air gap of 1/16 inch between the plate and the surface of the anode holder . In_addition , the inner surface of the carbon shield was covered with aluminum_foil to reduce radiation . Temperatures of the shield and of the surface of the water_cooled anode holder were measured by thermocouples to account_for heat received by the coolant but not originating from the anode plug . The argon flow from commercial bottles was regulated by a pressure <head>regulator</head> and measured with a gas flow rator . The power source was a commercial D.C. rectifier . At 100 Amp the 360 cycle ripple was less_than 0.5 V ( peak to peak ) with a resistive load . The current was regulated by_means_of a variable_resistor and measured with a 50 mV shunt and millivoltmeter .</context>
+    </instance>
+    <instance id="n04438507_d_1" docsrc="n04438507_d">
+      <context> a <head>regulator</head> that activates or deactivates a mechanism at set times ;</context>
+    </instance>
+  </lexelt>
+</corpus>

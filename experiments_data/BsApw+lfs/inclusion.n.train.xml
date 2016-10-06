@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="inclusion.n" pos="NN">
+    <instance id="Inclusion_bodies-inclusion-0-0-2" docsrc="Inclusion_bodies">
+      <context> <head>Inclusion</head> bodies , sometimes called elementary bodies , are nuclear or cytoplasmic aggregates of stainable substances , usually proteins . They typically represent sites of viral multiplication in a bacterium or a eukaryotic cell and usually consist of viral capsid proteins . Inclusion bodies can also be hallmarks of genetic diseases , as in the case of Neuronal Inclusion bodies in disorders like frontotemporal dementia and Parkinson 's disease .</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-1-43-1" docsrc="Inclusion_bodies">
+      <context> Developmental <head>Organelles</head> Abnormal Hemoglobin Precipitation Protozoan Inclusion</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-1-65-1" docsrc="Inclusion_bodies">
+      <context> Bacterial <head>cell</head> 's inclusion bodies are not as abundant intracellularly , in comparison to eukaryotic cells . JUNQ and IPOD Orthopoxvirus inclusion bodies</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-1-66-1" docsrc="Inclusion_bodies">
+      <context> JUNQ <head>and</head> IPOD Orthopoxvirus inclusion bodies</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-10-30-1" docsrc="Inclusion_bodies">
+      <context> Warthin–Finkeldey bodies in Measles Examples of viral inclusion bodies in <head>plants</head> include aggregations of virus particles ( like those for Cucumber mosaic virus ) and aggregations of viral proteins ( like the cylindrical inclusions of potyviruses ) . Depending on the plant and the plant virus family these inclusions can be found in epidermal cells , mesophyll cells , and stomatal cells when plant tissue when properly stained .</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-14-0-3" docsrc="Inclusion_bodies">
+      <context> They typically represent sites of viral multiplication in a bacterium or a eukaryotic cell <head>and</head> usually consist of viral capsid proteins . Inclusion bodies can also be hallmarks of genetic diseases , as in the case of Neuronal Inclusion bodies in disorders like frontotemporal dementia and Parkinson 's disease . When genes from one organism are expressed in another the resulting protein sometimes forms inclusion bodies .</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-16-0-2" docsrc="Inclusion_bodies">
+      <context> Inclusion bodies , sometimes called elementary bodies , are nuclear or cytoplasmic aggregates of stainable substances <head>,</head> usually proteins . They typically represent sites of viral multiplication in a bacterium or a eukaryotic cell and usually consist of viral capsid proteins . Inclusion bodies can also be hallmarks of genetic diseases , as in the case of Neuronal Inclusion bodies in disorders like frontotemporal dementia and Parkinson 's disease .</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-29-29-1" docsrc="Inclusion_bodies">
+      <context> " Owl 's eye appearance " in cytomegalovirus Warthin–Finkeldey bodies in Measles Examples of viral inclusion bodies in plants include aggregations of virus particles ( like those for Cucumber <head>mosaic</head> virus ) and aggregations of viral proteins ( like the cylindrical inclusions of potyviruses ) .</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-3-10-10" docsrc="Inclusion_bodies">
+      <context> The initial attempts <head>to</head> clone insulin in a bacterium suffered all of these deficits . In addition , the fine controls that may keep the concentration of a protein low will also be missing in a prokaryotic cell , and overexpression can result in filling a cell with ectopic protein that , even if it were properly folded , would precipitate by saturating its environment . Examples of viral inclusion bodies in animals are</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-3-29-1" docsrc="Inclusion_bodies">
+      <context> " Owl 's <head>eye</head> appearance " in cytomegalovirus Warthin–Finkeldey bodies in Measles Examples of viral inclusion bodies in plants include aggregations of virus particles ( like those for Cucumber mosaic virus ) and aggregations of viral proteins ( like the cylindrical inclusions of potyviruses ) .</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-3-53-1" docsrc="Inclusion_bodies">
+      <context> Babesia Polyhydroxyalkanoates or <head>PHA</head> are produced by bacteria as inclusion bodies , the size of PHA granules are limited in E. coli , due to its small bacterial size . Bacterial cell 's inclusion bodies are not as abundant intracellularly , in comparison to eukaryotic cells .</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-39-10-1" docsrc="Inclusion_bodies">
+      <context> Inclusion bodies can also be hallmarks of genetic diseases , as in the case of Neuronal Inclusion bodies in disorders like frontotemporal dementia and Parkinson 's disease . When genes from one organism are expressed in another the resulting <head>protein</head> sometimes forms inclusion bodies . This is often true when large evolutionary distances are crossed : a cDNA isolated from Eukarya for example , and expressed as a recombinant gene in a prokaryote risks the formation of the inactive aggregates of protein known as inclusion bodies .</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-6-34-2" docsrc="Inclusion_bodies">
+      <context> Normally a red blood cell does <head>not</head> contain inclusions in the cytoplasm . However , it may be seen because of certain hematologic disorders . There are three kinds of erythrocyte inclusions :</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-8-30-2" docsrc="Inclusion_bodies">
+      <context> Examples of viral inclusion bodies in plants include <head>aggregations</head> of virus particles ( like those for Cucumber mosaic virus ) and aggregations of viral proteins ( like the cylindrical inclusions of potyviruses ) . Depending on the plant and the plant virus family these inclusions can be found in epidermal cells , mesophyll cells , and stomatal cells when plant tissue when properly stained . Normally a red blood cell does not contain inclusions in the cytoplasm .</context>
+    </instance>
+    <instance id="Inclusion_bodies-inclusion-8-49-1" docsrc="Inclusion_bodies">
+      <context> Malaria Babesia Polyhydroxyalkanoates or PHA are produced by <head>bacteria</head> as inclusion bodies , the size of PHA granules are limited in E. coli , due to its small bacterial size .</context>
+    </instance>
+    <instance id="n09310806_ex1_1" docsrc="n09310806_ex1">
+      <context> an <head>inclusion</head> in the cytoplasm of the cell ;</context>
+    </instance>
+    <instance id="n13793504_d_3" docsrc="n13793504_d">
+      <context> a connection of <head>inclusion</head> or containment ;</context>
+    </instance>
+    <instance id="n13794034_ex1_3" docsrc="n13794034_ex1">
+      <context> he admired the <head>inclusion</head> of so many ideas in such a short work ;</context>
+    </instance>
+  </lexelt>
+</corpus>

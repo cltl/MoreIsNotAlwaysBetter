@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="match.n" pos="NN">
+    <instance id="br-a14#w948_0" docsrc="br-a14">
+      <context> Maris is in_line for a big raise . Arnold_Palmer and Sam_Snead will be among those honored at the national awards dinner of the Metropolitan_Golf_Writers_Association tonight . The dinner will be held at the Hotel_Pierre . Palmer , golf 's leading money winner in 1960 , and Snead will be saluted as the winning team in the Canada_Cup <head>matches</head> last June in Dublin . Deane_Beman , the National_Amateur champion , and all the metropolitan district champions , including Bob_Gardner , the amateur title-holder , also will receive awards . The writers ' Gold_Tee_Award will go to John_McAuliffe of Plainfield , N._J. , and Palm_Beach , Fla. , for his sponsorship of charity tournaments . Horton_Smith of Detroit , a former president of the Professional_Golfers_Association , will receive the Ben_Hogan_Trophy for his comeback following a recent illness .</context>
+    </instance>
+    <instance id="br-j32#w1422_0" docsrc="br-j32">
+      <context> A random address * * f that lies within the X-region of memory mentioned earlier is computed from the i-th dictionary form . If cell * * f is an information cell , it and any information cells in the Y-region that have been linked to * * f each contain an address in the W-region where a potentially matching form is stored . The dictionary form is compared with each of these text forms . When a <head>match</head> is found , an entry is made in the table of dictionary usage . If cell * * f is not an information cell we conclude that the i-th dictionary form is not in the text list . These two steps essentially complete the lookup operation . The final step merely uses the table of dictionary usage to select the dictionary information that pertains to each form matched in the text form list , and uses the list of information cells recorded in text order to attach the appropriate information to each occurrence in text .</context>
+    </instance>
+    <instance id="br-n12#w264_0" docsrc="br-n12">
+      <context> He turned and looked_around at the lobby as though seeing things he had n't before noticed . `` You know , Summers '' , he said thoughtfully . `` Eagle 's Nest ought to have a fire_company . If someone were to drop a <head>match</head> in here , this place would go_up like a haystack '' . He started toward the stairway , then turned to add , `` Tell her to come to Adams 's room , that Adams is in_trouble . Tell her to hurry '' . `` Yes sir '' .</context>
+    </instance>
+    <instance id="br-n12#w614_0" docsrc="br-n12">
+      <context> Again he stood in the darkness listening , but there was only the scrape of a shod hoof on a plank floor . He moved ahead carefully , his left_hand in_front of him , and came to a wooden partition . Horse smell was very strong , and he could hear the crunch of grain being ground between strong jaws . He found a <head>match</head> in his pocket and lit it . There were two horses in the barn , a sway-backed dun and Jess_Crouch 's buckskin . Curt snuffed_out the match . It was certain now that Jess was in the house , but also , presumably , was Stacey_Black .</context>
+    </instance>
+  </lexelt>
+</corpus>

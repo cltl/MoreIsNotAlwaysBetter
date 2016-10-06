@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="trajectory.n" pos="NN">
+    <instance id="Trajectory-trajectory-0-2356-1" docsrc="Trajectory">
+      <context> <head>Range</head> of a projectile Rigid body Trajectory of a projectile</context>
+    </instance>
+    <instance id="Trajectory-trajectory-0-2364-1" docsrc="Trajectory">
+      <context> <head>Trajectory</head> of a projectile Projectile Motion Flash Applet : ) Trajectory calculator</context>
+    </instance>
+    <instance id="Trajectory-trajectory-0-2367-1" docsrc="Trajectory">
+      <context> <head>An</head> interactive simulation on projectile motion Projectile Lab , JavaScript trajectory simulator Trajectory , ScienceWorld .</context>
+    </instance>
+    <instance id="Trajectory-trajectory-0-2369-1" docsrc="Trajectory">
+      <context> <head>Projectile</head> Lab , JavaScript trajectory simulator Trajectory , ScienceWorld .</context>
+    </instance>
+    <instance id="Trajectory-trajectory-0-50-5" docsrc="Trajectory">
+      <context> <head>Classical</head> mechanics became a most prominent demonstration of the power of rational thought , i.e. reason , in science as well as technology . It helps to understand and predict an enormous range of phenomena . Trajectories are but one example .</context>
+    </instance>
+    <instance id="Trajectory-trajectory-1-0-4" docsrc="Trajectory">
+      <context> For <head>example</head> . It can be an orbit—the path of a planet , an asteroid or a comet as it travels around a central mass . A trajectory can be described mathematically either by the geometry of the path , or as the position of the object over time .</context>
+    </instance>
+    <instance id="Trajectory-trajectory-13-178-1" docsrc="Trajectory">
+      <context>         { \displaystyle \nabla V }   , the gradient of the <head>potential</head> , taken at positions along the trajectory .</context>
+    </instance>
+    <instance id="Trajectory-trajectory-15-535-1" docsrc="Trajectory">
+      <context>     { \displaystyle R={v_{i}^{2}\sin 2\theta _{i } \over g } }   The height , <head>h</head> , is the greatest parabolic height said object reaches within its trajectory</context>
+    </instance>
+    <instance id="Trajectory-trajectory-16-1441-1" docsrc="Trajectory">
+      <context> In other words , pretend that the inclined target is at a horizontal distance equal to <head>the</head> slant range distance multiplied by the cosine of the inclination angle , and aim as if the target were really at that horizontal position."[1 ] ==== Derivation based on equations of a parabola ==== The intersect of the projectile trajectory with a hill may most easily be derived using the trajectory in parabolic form in Cartesian coordinates ( Equation 10 ) intersecting the hill of slope</context>
+    </instance>
+    <instance id="Trajectory-trajectory-4-2366-1" docsrc="Trajectory">
+      <context> Trajectory calculator An interactive <head>simulation</head> on projectile motion Projectile Lab , JavaScript trajectory simulator</context>
+    </instance>
+    <instance id="Trajectory-trajectory-4-48-4" docsrc="Trajectory">
+      <context> This can be a <head>good</head> approximation for a rock that is thrown for short distances , for example , at the surface of the moon . In this simple approximation , the trajectory takes the shape of a parabola . Generally , when determining trajectories it may be necessary to account for nonuniform gravitational forces and air resistance ( drag and aerodynamics ) .</context>
+    </instance>
+    <instance id="Trajectory-trajectory-5-1441-1" docsrc="Trajectory">
+      <context> In other words , pretend <head>that</head> the inclined target is at a horizontal distance equal to the slant range distance multiplied by the cosine of the inclination angle , and aim as if the target were really at that horizontal position."[1 ] ==== Derivation based on equations of a parabola ==== The intersect of the projectile trajectory with a hill may most easily be derived using the trajectory in parabolic form in Cartesian coordinates ( Equation 10 ) intersecting the hill of slope</context>
+    </instance>
+    <instance id="Trajectory-trajectory-5-44-1" docsrc="Trajectory">
+      <context>     { \displaystyle x } <head>  </head> of its source . A familiar example of a trajectory is the path of a projectile , such as a thrown ball or rock .</context>
+    </instance>
+    <instance id="Trajectory-trajectory-6-48-3" docsrc="Trajectory">
+      <context> In a greatly simplified model the <head>object</head> moves only under the influence of a uniform gravitational force field . This can be a good approximation for a rock that is thrown for short distances , for example , at the surface of the moon . In this simple approximation , the trajectory takes the shape of a parabola .</context>
+    </instance>
+    <instance id="a02979443_d_4" docsrc="a02979443_d">
+      <context> having or involving a <head>trajectory</head> of less than one orbit ;</context>
+    </instance>
+    <instance id="n11481487_d_1" docsrc="n11481487_d">
+      <context> the <head>trajectory</head> of an object in free flight ;</context>
+    </instance>
+    <instance id="n11481627_d_1" docsrc="n11481627_d">
+      <context> a <head>trajectory</head> that passes close to a planetary body in order to gain energy from its gravitational_field ;</context>
+    </instance>
+    <instance id="n13918584_d_13" docsrc="n13918584_d">
+      <context> the angle a rocket makes with the vertical as it curves along its <head>trajectory</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

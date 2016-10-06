@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="program.n" pos="NN">
+    <instance id="a00673662_d_8" docsrc="a00673662_d">
+      <context> made as part of the arts and crafts <head>program</head> at summer_camp ;</context>
+    </instance>
+    <instance id="a02645950_d_3" docsrc="a02645950_d">
+      <context> of or concerning <head>programs</head> stored in the computer's own memory ;</context>
+    </instance>
+    <instance id="n00088154_d_12" docsrc="n00088154_d">
+      <context> a grant of federal money to state and local_governments to support social_welfare <head>programs</head> ;</context>
+    </instance>
+    <instance id="n00212065_d_5" docsrc="n00212065_d">
+      <context> the successful completion of a <head>program</head> of study ;</context>
+    </instance>
+    <instance id="n00384510_d_7" docsrc="n00384510_d">
+      <context> a local announcement inserted into a network <head>program</head> ;</context>
+    </instance>
+    <instance id="n00551215_ex1_1" docsrc="n00551215_ex1">
+      <context> the <head>program</head> lasted more than two hours ;</context>
+    </instance>
+    <instance id="n00798959_d_2" docsrc="n00798959_d">
+      <context> an organized <head>program</head> of advertisements ;</context>
+    </instance>
+    <instance id="n01124384_d_9" docsrc="n01124384_d">
+      <context> control over the growth of population ; a government <head>program</head> ;</context>
+    </instance>
+    <instance id="n01144133_d_5" docsrc="n01144133_d">
+      <context> an act of formulating a <head>program</head> for a definite course_of_action ;</context>
+    </instance>
+    <instance id="n05900010_d_1" docsrc="n05900010_d">
+      <context> a <head>program</head> of rocket powered flights undertaken by US between 1961 and 1963 with the goal of putting a man in orbit around the earth ;</context>
+    </instance>
+    <instance id="n06501311_ex2_10" docsrc="n06501311_ex2">
+      <context> they won the election even though they offered no positive <head>program</head> ;</context>
+    </instance>
+    <instance id="n06615026_d_8" docsrc="n06615026_d">
+      <context> the principal ( full-length ) film in a <head>program</head> at a movie_theater ;</context>
+    </instance>
+    <instance id="n06748466_ex1_8" docsrc="n06748466_ex1">
+      <context> you ca n't tell the players without a <head>program</head> ;</context>
+    </instance>
+    <instance id="n06748703_d_2" docsrc="n06748703_d">
+      <context> a theatrical <head>program</head> ;</context>
+    </instance>
+    <instance id="n06892016_d_9" docsrc="n06892016_d">
+      <context> a short theatrical_performance that is part of a longer <head>program</head> ;</context>
+    </instance>
+    <instance id="n08189371_d_10" docsrc="n08189371_d">
+      <context> a troupe of performers in blackface typically giving a comic <head>program</head> of negro songs and jokes ;</context>
+    </instance>
+  </lexelt>
+</corpus>

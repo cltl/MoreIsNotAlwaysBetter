@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="verdict.n" pos="NN">
+    <instance id="br-f14#w610_0" docsrc="br-f14">
+      <context> It was the conclusion of the first phase of a process of tragic recollection , and of refining the recollection , that will last as_long_as there are Jews . As_such , it was beyond politics and had no need of justification by a `` message '' . `` It is not an individual that is in the dock at this historical trial '' - said Ben_Gurion , `` and not the Nazi regime alone - but anti-Semitism throughout history '' . How could supplying Eichmann with a platform on which to maintain that one could collaborate in the murder of millions of Jews without being an anti-Semite contribute to a <head>verdict</head> against anti-Semitism ? And if it was not an individual who was in the dock , why was the Trial , as we shall observe later , all_but scuttled in the attempt to prove Eichmann a `` fiend '' ? These questions touch the root of confusion in the prosecution 's case . It might be contended , of_course , that Eichmann in stubbornly denying anti-Semitic feelings was lying or insisting on a private definition of anti-Semitism .</context>
+    </instance>
+    <instance id="n01190561_d_9" docsrc="n01190561_d">
+      <context> a judgment rendered by the court prior to a <head>verdict</head> because no material issue of fact exists and one party or the other is entitled to a judgment as a matter_of_law ;</context>
+    </instance>
+    <instance id="n01192633_d_1" docsrc="n01192633_d">
+      <context> a <head>verdict</head> resulting from improper compromises between jurors on material issues ;</context>
+    </instance>
+    <instance id="n01192814_d_1" docsrc="n01192814_d">
+      <context> a <head>verdict</head> entered by the court in a jury trial without consideration by the jury ;</context>
+    </instance>
+    <instance id="n01193044_d_3" docsrc="n01193044_d">
+      <context> a manifestly unjust <head>verdict</head> ; not true to the evidence ;</context>
+    </instance>
+    <instance id="n01193176_d_2" docsrc="n01193176_d">
+      <context> an ordinary <head>verdict</head> declaring which party prevails without any special findings_of_fact ;</context>
+    </instance>
+    <instance id="n01193672_d_1" docsrc="n01193672_d">
+      <context> a <head>verdict</head> rendered on certain specific factual issues posed by the court without finding for one party or the other ;</context>
+    </instance>
+    <instance id="n01196759_d_34" docsrc="n01196759_d">
+      <context> a highly publicized trial in 1925 when John_Thomas_Scopes violated a Tennessee state law by teaching evolution in high_school ; Scopes was prosecuted by William_Jennings_Bryan and defended by Clarence_Darrow ; Scopes was convicted but the <head>verdict</head> was later reversed ;</context>
+    </instance>
+    <instance id="n01199365_d_17" docsrc="n01199365_d">
+      <context> a new trial in which issues already litigated and to which the court has already rendered a <head>verdict</head> or decision are reexamined by the same court ; occurs when the initial trial is found to have been improper or unfair due to procedural errors ;</context>
+    </instance>
+    <instance id="n08414119_d_9" docsrc="n08414119_d">
+      <context> a body of citizens sworn to give a true <head>verdict</head> according to the evidence presented in a court_of_law ;</context>
+    </instance>
+    <instance id="n08415127_d_9" docsrc="n08415127_d">
+      <context> a jury that is unable to agree on a <head>verdict</head> ( the result is a mistrial ) ;</context>
+    </instance>
+    <instance id="v01069638_d_2" docsrc="v01069638_d">
+      <context> accord by <head>verdict</head> ;</context>
+    </instance>
+    <instance id="v02557790_d_4" docsrc="v02557790_d">
+      <context> prevent from reaching a <head>verdict</head> , of a jury ;</context>
+    </instance>
+  </lexelt>
+</corpus>

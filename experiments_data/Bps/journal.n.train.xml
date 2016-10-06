@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="journal.n" pos="NN">
+    <instance id="br-f16#w165_0" docsrc="br-f16">
+      <context> What disaster struck the Discovery during those seventeen months ? What happened to the fourteen missing men ? These questions have remained one of the great sea mysteries of_all_time . For hundreds of years , the evidence available consisted_of ( 1 ) the captain 's fragmentary <head>journal</head> , ( 2 ) a highly prejudiced account by one of the survivors , ( 3 ) a note found in a dead man 's desk on_board , and ( 4 ) several second-hand reports . All_told , they offered a highly confused picture . But since 1927 , researchers digging_into ancient court records and legal files have been able to find illuminating pieces of information . Not enough to do away with all doubts , but sufficient to give a fairly accurate picture of the events of the voyage .</context>
+    </instance>
+    <instance id="br-f16#w960_0" docsrc="br-f16">
+      <context> On the third voyage , a near mutiny rising from a quarrel between Dutch and English crew_members on the Half_Moon had almost forced him to head the ship back to Amsterdam in mid Atlantic . Worse , his present crew included five men who had sailed with him before . Of only one could he be sure - young John_Hudson , his second son . The mate , Robert_Juet , who had kept the <head>journal</head> on the half_Moon , was experienced - but he was a bitter old_man , ready to complain or desert at any opportunity . Philip_Staffe , the ship 's carpenter , was a good worker , but perversely independent . Arnold_Lodley and Michael_Perse were like the rest - lukewarm , ready to swing against Hudson in a crisis . But men willing to sail at_all into waters where wooden ships could be crushed like eggs were hard to find .</context>
+    </instance>
+    <instance id="br-p10#w87_0" docsrc="br-p10">
+      <context> Among us , we three handled quite a few small commissions , from spot drawings for advertising_agencies uptown to magazine work and quick lettering jobs . Each of us had his own specialty besides . George did wonderful complicated pen-and-ink drawings like something out of a medieval miniature : hundreds of delicate details crammed into an eight by ten sheet and looking as if they had been done under a jeweler's_glass . He also drew precise crisp spots , which he sold to various literary and artistic <head>journals</head> , The New_Yorker , for_instance , or Esquire . I did book_jackets and covers for paperback reprints : naked girls huddling in corners of dingy furnished rooms while at the doorway , daring the cops to take him , is the guy in shirt_sleeves clutching a revolver . The book could be The_Brothers_Karamazov , but it would still have the same jacket illustration . I remember once I did a jacket for Magpie_Press ; the book was a fine historical novel about Edward_3 , , and I did a week of research to get the details just_right : the fifteenth century armor , furnishings , clothes .</context>
+    </instance>
+    <instance id="n03165211_d_2" docsrc="n03165211_d">
+      <context> an accounting <head>journal</head> as a physical_object ;</context>
+    </instance>
+    <instance id="n03189707_d_2" docsrc="n03189707_d">
+      <context> a personal <head>journal</head> ( as a physical_object ) ;</context>
+    </instance>
+    <instance id="n03542220_d_1" docsrc="n03542220_d">
+      <context> a <head>journal</head> bearing ( as of a railroad_car ) that has overheated ;</context>
+    </instance>
+    <instance id="n03602686_d_4" docsrc="n03602686_d">
+      <context> the bearing of a <head>journal</head> ;</context>
+    </instance>
+    <instance id="n03602790_d_4" docsrc="n03602790_d">
+      <context> metal housing for a <head>journal</head> bearing ;</context>
+    </instance>
+    <instance id="n03938401_d_8" docsrc="n03938401_d">
+      <context> a cast-iron or steel block for supporting a <head>journal</head> or bearing ;</context>
+    </instance>
+    <instance id="n05794189_d_22" docsrc="n05794189_d">
+      <context> the scientific study of plants or animals ( more observational than experimental ) usually published in popular magazines rather than in academic <head>journals</head> ;</context>
+    </instance>
+    <instance id="n06402202_d_3" docsrc="n06402202_d">
+      <context> a shared on-line <head>journal</head> where people can post diary entries about their personal experiences and hobbies ;</context>
+    </instance>
+    <instance id="n06597466_ex1_4" docsrc="n06597466_ex1">
+      <context> he reads the medical <head>journals</head> ;</context>
+    </instance>
+    <instance id="n08462534_d_6" docsrc="n08462534_d">
+      <context> all the data ( ledgers and <head>journals</head> and spreadsheets ) that support a financial_statement ; can be hard_copy or machine_readable ;</context>
+    </instance>
+    <instance id="n10011486_d_6" docsrc="n10011486_d">
+      <context> someone who keeps a diary or <head>journal</head> ;</context>
+    </instance>
+    <instance id="v00865280_d_9" docsrc="v00865280_d">
+      <context> read , write , or edit a shared on-line <head>journal</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

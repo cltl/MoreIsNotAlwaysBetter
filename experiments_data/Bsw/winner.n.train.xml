@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="winner.n" pos="NN">
+    <instance id="Winner_(card_game)-winner-10-29-2" docsrc="Winner_(card_game)">
+      <context> The game continues until the Winner and Loser have been <head>determined</head> , the Winner is the first person to play all their cards , the Loser is the player still holding cards when everyone else is out . After a Winner and Loser are established , the Loser must shuffle and deal out the next game . The Loser must then give their highest card to the Winner in exchange for one card out of two cards of the Winner 's choosing .</context>
+    </instance>
+    <instance id="Winner_(card_game)-winner-13-28-1" docsrc="Winner_(card_game)">
+      <context> When a player plays the 2 of spades either as a singleton or <head>as</head> part of a pair of 2s , it is often customary for that player to restart play immediately by leading a new card or combination , since the 2 of spades can not be beaten whether as a singleton or as part of a pair of 2s , and the passes are mere formalities . === End Game === The game continues until the Winner and Loser have been determined , the Winner is the first person to play all their cards , the Loser is the player still holding cards when everyone else is out .</context>
+    </instance>
+    <instance id="Winner_(card_game)-winner-2-29-1" docsrc="Winner_(card_game)">
+      <context> === End <head>Game</head> === The game continues until the Winner and Loser have been determined , the Winner is the first person to play all their cards , the Loser is the player still holding cards when everyone else is out . After a Winner and Loser are established , the Loser must shuffle and deal out the next game .</context>
+    </instance>
+    <instance id="Winner_(card_game)-winner-2-33-3" docsrc="Winner_(card_game)">
+      <context> The most <head>common</head> version is that after a game each player with cards remaining scores -1 point for each , unless they have 10 or more remaining , in which they score -2 for each . If they did n't get to play any cards at all , they score -3 for each . Then the winner of the hand scores +1 for every -1 his opponents got .</context>
+    </instance>
+    <instance id="Winner_(card_game)-winner-22-29-2" docsrc="Winner_(card_game)">
+      <context> The game continues until the Winner and Loser have been determined , the Winner is the first person to play all their <head>cards</head> , the Loser is the player still holding cards when everyone else is out . After a Winner and Loser are established , the Loser must shuffle and deal out the next game . The Loser must then give their highest card to the Winner in exchange for one card out of two cards of the Winner 's choosing .</context>
+    </instance>
+    <instance id="Winner_(card_game)-winner-5-28-1" docsrc="Winner_(card_game)">
+      <context> When a player plays the <head>2</head> of spades either as a singleton or as part of a pair of 2s , it is often customary for that player to restart play immediately by leading a new card or combination , since the 2 of spades can not be beaten whether as a singleton or as part of a pair of 2s , and the passes are mere formalities . === End Game === The game continues until the Winner and Loser have been determined , the Winner is the first person to play all their cards , the Loser is the player still holding cards when everyone else is out .</context>
+    </instance>
+    <instance id="br-a14#w875_0" docsrc="br-a14">
+      <context> Later , Shea owned and operated the Long_Island Indians , a minor_league professional football_team . He was the lawyer for Ted_Collins ' old Boston_Yankees in the National_Football_League . All was quiet in the office of the Yankees and the local National_Leaguers yesterday . On Friday , Roger_Maris , the Yankee outfielder and <head>winner</head> of the American_League 's most-valuable-player award , will meet with Roy_Hamey , the general_manager . Maris is in_line for a big raise . Arnold_Palmer and Sam_Snead will be among those honored at the national awards dinner of the Metropolitan_Golf_Writers_Association tonight . The dinner will be held at the Hotel_Pierre .</context>
+    </instance>
+    <instance id="br-a14#w932_0" docsrc="br-a14">
+      <context> Maris is in_line for a big raise . Arnold_Palmer and Sam_Snead will be among those honored at the national awards dinner of the Metropolitan_Golf_Writers_Association tonight . The dinner will be held at the Hotel_Pierre . Palmer , golf 's leading money <head>winner</head> in 1960 , and Snead will be saluted as the winning team in the Canada_Cup matches last June in Dublin . Deane_Beman , the National_Amateur champion , and all the metropolitan district champions , including Bob_Gardner , the amateur title-holder , also will receive awards . The writers ' Gold_Tee_Award will go to John_McAuliffe of Plainfield , N._J. , and Palm_Beach , Fla. , for his sponsorship of charity tournaments . Horton_Smith of Detroit , a former president of the Professional_Golfers_Association , will receive the Ben_Hogan_Trophy for his comeback following a recent illness .</context>
+    </instance>
+  </lexelt>
+</corpus>

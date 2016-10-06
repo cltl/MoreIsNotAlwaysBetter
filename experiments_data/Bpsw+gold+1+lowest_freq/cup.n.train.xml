@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="cup.n" pos="NN">
+    <instance id="Cup_(unit)-cup-1-0-2" docsrc="Cup_(unit)">
+      <context> The <head>cup</head> is a unit of measurement for volume , used in cooking to measure liquids ( fluid measurement ) and bulk foods such as granulated sugar ( dry measurement ) . It is principally used in the United States and Liberia where it is a legally defined unit of measurement . Actual cups used in a household in any country may differ from the cup size used for recipes ; standard measuring cups , often calibrated in fluid measure and weights of usual dry ingredients as well as in cups , are available .</context>
+    </instance>
+    <instance id="a00536572_d_5" docsrc="a00536572_d">
+      <context> resembling the shape of a <head>cup</head> ;</context>
+    </instance>
+    <instance id="n00461294_d_7" docsrc="n00461294_d">
+      <context> an eliminating game between teams in a <head>cup</head> competition ;</context>
+    </instance>
+    <instance id="n02815749_d_1" docsrc="n02815749_d">
+      <context> a <head>cup</head> ( usually without a handle ) ;</context>
+    </instance>
+    <instance id="n03147901_ex1_4" docsrc="n03147901_ex1">
+      <context> the school kept the <head>cups</head> is a special glass case ;</context>
+    </instance>
+    <instance id="n03148130_ex1_7" docsrc="n03148130_ex1">
+      <context> he swore as the ball rimmed the <head>cup</head> and rolled away ;</context>
+    </instance>
+    <instance id="n03164809_d_0" docsrc="n03164809_d">
+      <context> <head>cup</head> awarded for the annual international team tennis competition ;</context>
+    </instance>
+    <instance id="n04398834_d_7" docsrc="n04398834_d">
+      <context> a device to keep_back_
+     _leaves when pouring a <head>cup</head> of tea ;</context>
+    </instance>
+    <instance id="n07467027_d_5" docsrc="n07467027_d">
+      <context> the final match of any <head>cup</head> competition ( such as the annual final of the English soccer competition at Wembley ) ;</context>
+    </instance>
+    <instance id="n12270278_d_13" docsrc="n12270278_d">
+      <context> semi-evergreen shrub or small tree of Arizona and New_Mexico having acorns with hemispherical <head>cups</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

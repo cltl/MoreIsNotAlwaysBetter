@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="horde.n" pos="NN">
+    <instance id="br-f25#w1924_0" docsrc="br-f25">
+      <context> In_general , however , the timetable of travel lags considerably behind that of the student at Harvard or Smith . And acculturation into the world at_large is likely to occur for the Brooklyn_College student after college rather_than during the four school_years . Brooklyn_College is Marjorie_Morningstar territory , as much_as the_Bronx or Central_Park_West . There are <head>hordes</head> of nubile young_women there who , prodded by their impatient mothers , are determined to marry . It is interesting that , although the percentage of married students is not appreciably higher at Brooklyn than elsewhere - about 30 per_cent of the women and 25 per_cent of the men in the graduating_class - the anxiety of the unmarried has puffed_up the estimate . `` Almost everybody in the senior_class is married '' , students say dogmatically . And the school newspaper sells space to jubilant fraternities , sororities , and houses ( in the House_Plan_Association ) that have good news to impart .</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="concentration.n" pos="NN">
+    <instance id="Attention-concentration-5-70-1" docsrc="Attention">
+      <context> Five different kinds of activities <head>of</head> growing difficulty are described in the model ; connecting with the activities those patients could do as their recovering process advanced . Focused attention : The ability to respond discretely to specific visual , auditory or tactile stimuli . Sustained attention ( vigilance and concentration ) : The ability to maintain a consistent behavioral response during continuous and repetitive activity .</context>
+    </instance>
+    <instance id="Concentration-concentration-0-793-1" docsrc="Concentration">
+      <context> <head>   </head> { \displaystyle m_{\mathrm { tot } } }   , the mass ratio is almost identical to the mass fraction . Concentration depends on the variation of the volume of the solution due mainly to thermal expansion .</context>
+    </instance>
+    <instance id="Concentration-concentration-1-805-1" docsrc="Concentration">
+      <context> Concentration <head>depends</head> on the variation of the volume of the solution due mainly to thermal expansion . Dilution ratio Dose concentration</context>
+    </instance>
+    <instance id="Concentration-concentration-10-0-1" docsrc="Concentration">
+      <context> In chemistry , concentration is the abundance of a constituent <head>divided</head> by the total volume of a mixture . Several types of mathematical description can be distinguished : mass concentration , molar concentration , number concentration , and volume concentration .</context>
+    </instance>
+    <instance id="Concentration-concentration-11-0-3" docsrc="Concentration">
+      <context> Several types of mathematical description can be distinguished : mass concentration <head>,</head> molar concentration , number concentration , and volume concentration . The term concentration can be applied to any kind of chemical mixture , but most frequently it refers to solutes and solvents in solutions . The molar ( amount ) concentration has variants such as normal concentration and osmotic concentration .</context>
+    </instance>
+    <instance id="Concentration-concentration-13-0-1" docsrc="Concentration">
+      <context> In chemistry , concentration is the abundance of a constituent divided by the <head>total</head> volume of a mixture . Several types of mathematical description can be distinguished : mass concentration , molar concentration , number concentration , and volume concentration .</context>
+    </instance>
+    <instance id="Concentration-concentration-14-0-3" docsrc="Concentration">
+      <context> Several types of mathematical description can be distinguished : mass concentration , molar concentration <head>,</head> number concentration , and volume concentration . The term concentration can be applied to any kind of chemical mixture , but most frequently it refers to solutes and solvents in solutions . The molar ( amount ) concentration has variants such as normal concentration and osmotic concentration .</context>
+    </instance>
+    <instance id="Concentration-concentration-16-0-1" docsrc="Concentration">
+      <context> In chemistry , concentration is the abundance of a constituent divided by the total volume of <head>a</head> mixture . Several types of mathematical description can be distinguished : mass concentration , molar concentration , number concentration , and volume concentration .</context>
+    </instance>
+    <instance id="Concentration-concentration-2-0-2" docsrc="Concentration">
+      <context> In chemistry <head>,</head> concentration is the abundance of a constituent divided by the total volume of a mixture . Several types of mathematical description can be distinguished : mass concentration , molar concentration , number concentration , and volume concentration . The term concentration can be applied to any kind of chemical mixture , but most frequently it refers to solutes and solvents in solutions .</context>
+    </instance>
+    <instance id="Concentration-concentration-2-12-1" docsrc="Concentration">
+      <context> There are <head>four</head> quantities that describe concentration : === Mass concentration === The mass concentration</context>
+    </instance>
+    <instance id="Concentration-concentration-2-143-2" docsrc="Concentration">
+      <context> The SI <head>unit</head> is mol/m3 . However , more commonly the unit mol/L (= mol/dm3 ) is used . === Number concentration ===</context>
+    </instance>
+    <instance id="Concentration-concentration-2-146-1" docsrc="Concentration">
+      <context> However , <head>more</head> commonly the unit mol/L (= mol/dm3 ) is used . === Number concentration === The number concentration</context>
+    </instance>
+    <instance id="Concentration-concentration-2-210-1" docsrc="Concentration">
+      <context>   The <head>SI</head> unit is 1/m3 . === Volume concentration ===</context>
+    </instance>
+    <instance id="Concentration-concentration-2-213-1" docsrc="Concentration">
+      <context> The SI <head>unit</head> is 1/m3 . === Volume concentration === The volume concentration</context>
+    </instance>
+    <instance id="Concentration-concentration-2-76-1" docsrc="Concentration">
+      <context>   The <head>SI</head> unit is kg/m3 ( equal to g/L ) . === Molar concentration ===</context>
+    </instance>
+    <instance id="Concentration-concentration-2-79-1" docsrc="Concentration">
+      <context> The SI <head>unit</head> is kg/m3 ( equal to g/L ) . === Molar concentration === The molar concentration</context>
+    </instance>
+    <instance id="Concentration-concentration-2-9-1" docsrc="Concentration">
+      <context> The molar <head>(</head> amount ) concentration has variants such as normal concentration and osmotic concentration . There are four quantities that describe concentration : === Mass concentration ===</context>
+    </instance>
+    <instance id="Concentration-concentration-20-0-1" docsrc="Concentration">
+      <context> In chemistry , concentration is the abundance of a constituent divided by the total volume of a mixture . Several <head>types</head> of mathematical description can be distinguished : mass concentration , molar concentration , number concentration , and volume concentration .</context>
+    </instance>
+    <instance id="Concentration-concentration-5-0-3" docsrc="Concentration">
+      <context> Several types of mathematical description <head>can</head> be distinguished : mass concentration , molar concentration , number concentration , and volume concentration . The term concentration can be applied to any kind of chemical mixture , but most frequently it refers to solutes and solvents in solutions . The molar ( amount ) concentration has variants such as normal concentration and osmotic concentration .</context>
+    </instance>
+    <instance id="Concentration-concentration-6-0-4" docsrc="Concentration">
+      <context> The term concentration can be applied <head>to</head> any kind of chemical mixture , but most frequently it refers to solutes and solvents in solutions . The molar ( amount ) concentration has variants such as normal concentration and osmotic concentration . There are four quantities that describe concentration :</context>
+    </instance>
+    <instance id="Concentration-concentration-6-283-1" docsrc="Concentration">
+      <context> Note that these should not be <head>called</head> concentrations . === Normality === Normality is defined as the molar concentration</context>
+    </instance>
+    <instance id="Concentration-concentration-7-280-1" docsrc="Concentration">
+      <context> Being dimensionless , it is expressed as <head>a</head> number , e.g. , 0.18 or 18 % ; its unit is 1 . Several other quantities can be used to describe the composition of a mixture . Note that these should not be called concentrations .</context>
+    </instance>
+    <instance id="a00541823_d_2" docsrc="a00541823_d">
+      <context> having low <head>concentration</head> ;</context>
+    </instance>
+    <instance id="a00748359_d_3" docsrc="a00748359_d">
+      <context> requiring effort or <head>concentration</head> ; complex and not easy to answer or solve ;</context>
+    </instance>
+    <instance id="a00756091_d_4" docsrc="a00756091_d">
+      <context> reduced in strength or <head>concentration</head> or quality or purity ;</context>
+    </instance>
+    <instance id="a01107973_d_7" docsrc="a01107973_d">
+      <context> withdrawn from a center or place of <head>concentration</head> ; especially having power or function dispersed from a central to local_authorities ;</context>
+    </instance>
+    <instance id="a01472509_d_6" docsrc="a01472509_d">
+      <context> of your secondary field of academic <head>concentration</head> or specialization ;</context>
+    </instance>
+    <instance id="br-c02#w303_0" docsrc="br-c02">
+      <context> An enthusiastic audience confirmed the `` live '' character of the hour , and provided the interaction between musician and hearer which almost always seems to improve the quality of performance . About that same time John_Crosby 's TV series on the popular arts proved again that giving jazz ample breathing_space is one of the most sensible things a producer can do . In an hour remembered for its almost rudderless movement , a score of jazz luminaries went before the cameras for lengthy periods . The program had been arranged to permit the establishment of a mood of intense <head>concentration</head> on the music . Cameras stared at soloists ' faces in extreme closeups , then considerately pulled_back for full views of ensemble work . `` Chicago and All_That_Jazz '' could not be faulted on the choice of artists . Some of the in-person performers were Jack_Teagarden , Gene_Krupa , Bud_Freeman , Pee_Wee_Russell , Johnny_St._Cyr , Joe_Sullivan , Red_Allen , Lil_Armstrong , Blossom_Seeley .</context>
+    </instance>
+    <instance id="br-e01#w928_0" docsrc="br-e01">
+      <context> You need the barbell variation to build width and mass in the pecs . The dumbbell variation develops a most classically sculptured outline to the pecs . The `` pull '' exercise in this Super-Set is the one dumbbell Bent-Arm_Pullover . ( Note how strongly the upper lats and serratus are worked in this fine exercise because of the pin_point <head>concentration</head> of force which the dumbbell variation affords ) . In the third Push-Pull_Super-Set the `` push '' exercise is the wide grip Pushup_Between_Bars , while the `` pull '' exercise is the Moon_Bench_Lateral_Raise with bent arms . The Pushup done in this manner is the greatest pectoral rib_cage stretcher ever invented ! This is true only if a very wide grip is used and only when the greatest possible stretch is achieved .</context>
+    </instance>
+    <instance id="br-f22#w1210_0" docsrc="br-f22">
+      <context> Just a month after the Korean_War broke_out , the 7_th_Cavalry was moving_into the lines , ready for combat . From then on the Fighting_Seventh was in the thick of the bitterest fighting in Korea . One night on the Naktong_River , Mel_Chandler called_on that fabled esprit_de_corps . The regiment was dug_in on the east_side of the river and the North_Koreans were steadily building_up a <head>concentration</head> of crack troops on the other side . The troopers knew an attack was coming , but they did n't know when , and they did n't know where . At 6_o_'_clock on the morning of August 12 , they were in doubt no_longer . Then it came , against Troop_H .</context>
+    </instance>
+    <instance id="br-h11#w530_0" docsrc="br-h11">
+      <context> Besides the well-known hydrogen line at 21 cm wavelength , the spectra of extraterrestrial radio_sources may contain sharp lines characteristic of other atoms , ions , and small molecules . The detection and study of such line spectra would add considerably to present information on interstellar gas clouds and , perhaps , planetary atmospheres . Among the most likely producers of detectable radio line spectra are the light diatomic hydrides OH and CH ; somewhat less likely sources are the heavier hydrides SH , SiH , and ScH . Very small <head>concentrations</head> of these hydrides should be detectable ; in interstellar gas , concentrations as low as * * f molecules / * * f may be sufficient , as compared to the * * f hydrogen_atoms * * f required for detection of the 21 - cm line . High sensitivity in radio_telescopes is achieved by reducing the bandwidth of the receiver ; therefore , only with precise foreknowledge of the line frequencies is an astronomical search for the radio_spectra of these molecules feasible . To secure precise measurements of these frequencies , a research program in free_radical microwave spectroscopy has been started . Since conventional methods are insensitive at the low_frequencies of these molecular transitions , the paramagnetic resonance method is being used instead .</context>
+    </instance>
+    <instance id="br-h11#w542_0" docsrc="br-h11">
+      <context> Besides the well-known hydrogen line at 21 cm wavelength , the spectra of extraterrestrial radio_sources may contain sharp lines characteristic of other atoms , ions , and small molecules . The detection and study of such line spectra would add considerably to present information on interstellar gas clouds and , perhaps , planetary atmospheres . Among the most likely producers of detectable radio line spectra are the light diatomic hydrides OH and CH ; somewhat less likely sources are the heavier hydrides SH , SiH , and ScH . Very small concentrations of these hydrides should be detectable ; in interstellar gas , <head>concentrations</head> as low as * * f molecules / * * f may be sufficient , as compared to the * * f hydrogen_atoms * * f required for detection of the 21 - cm line . High sensitivity in radio_telescopes is achieved by reducing the bandwidth of the receiver ; therefore , only with precise foreknowledge of the line frequencies is an astronomical search for the radio_spectra of these molecules feasible . To secure precise measurements of these frequencies , a research program in free_radical microwave spectroscopy has been started . Since conventional methods are insensitive at the low_frequencies of these molecular transitions , the paramagnetic resonance method is being used instead .</context>
+    </instance>
+    <instance id="br-j03#w1108_0" docsrc="br-j03">
+      <context> The minimum total potential_energy is found by taking the derivative with_respect_to H and equating to zero . This gives * * f , which is the pressure . This is interesting for it combines both the thermodynamic concept of a minimum Gibbs function for equilibrium and minimum mechanical potential_energy for equilibrium . This method can be extended to include the <head>concentration</head> differences caused by shear fields . The relation between osmotic_pressure and the Gibbs function may also be developed in an analogous way . In the above development we have applied the thermodynamics_of_equilibrium ( referred to by some as thermostatics ) to the steady state . This can be justified thermodynamically in this case , and this will be done in a separate paper which is being prepared .</context>
+    </instance>
+    <instance id="br-j05#w1049_0" docsrc="br-j05">
+      <context> The purpose of washing is , obviously , to remove soils which are arbitrarily classed in the four major categories given below : Dirt , which is here defined as particulate material which is usually inorganic and is very often extremely finely divided so as to exhibit colloidal properties . Greasy soils , which are typified by hydrocarbons and fats ( esters of glycerol with long chain organic acids ) . Stains , which include the wide variety of nonparticulate materials which give color even when present in very low <head>concentration</head> on the soiled object . Miscellaneous soils , which primarily include sticky substances and colorless liquids which evaporate to leave a residue . The dirt on the soiled objects is mechanically held by surface irregularities to some extent . However , a major factor in binding dirt is the attraction between surfaces that goes_under_the_name_of van_der_Waal_'s_forces .</context>
+    </instance>
+    <instance id="br-j05#w1471_0" docsrc="br-j05">
+      <context> The detergent active is that substance which primarily acts to remove greasy soils . The other constituents in a built detergent assist in this and in the removal of dirty stains and the hydrophilic sticky or dried soils . As_is well_known , detergent actives belong_to the chemical class consisting_of moderately high molecular_weight and highly polar molecules which exhibit the property of forming micelles in solution . Physicochemical investigations of anionic surfactants , including the soaps , have shown that there is little polymerization or agglomeration of the chain anions below a certain region of <head>concentration</head> called the critical micelle concentration . ( 1 ) Below the critical micelle concentration , monomers and some dimers are present . ( 2 ) In the critical micelle region , there is a rapid agglomeration or polymerization to give the micelles , which have a degree of polymerization averaging around 60 - 80 . ( 3 ) For anionics , these micelles appear to be roughly spherical assemblages in which the hydrocarbon tails come together so that the polar groups ( the ionized ends ) face outward towards the aqueous continuous phase .</context>
+    </instance>
+    <instance id="br-j05#w1476_0" docsrc="br-j05">
+      <context> The detergent active is that substance which primarily acts to remove greasy soils . The other constituents in a built detergent assist in this and in the removal of dirty stains and the hydrophilic sticky or dried soils . As_is well_known , detergent actives belong_to the chemical class consisting_of moderately high molecular_weight and highly polar molecules which exhibit the property of forming micelles in solution . Physicochemical investigations of anionic surfactants , including the soaps , have shown that there is little polymerization or agglomeration of the chain anions below a certain region of concentration called the critical micelle <head>concentration</head> . ( 1 ) Below the critical micelle concentration , monomers and some dimers are present . ( 2 ) In the critical micelle region , there is a rapid agglomeration or polymerization to give the micelles , which have a degree of polymerization averaging around 60 - 80 . ( 3 ) For anionics , these micelles appear to be roughly spherical assemblages in which the hydrocarbon tails come together so that the polar groups ( the ionized ends ) face outward towards the aqueous continuous phase .</context>
+    </instance>
+    <instance id="br-j05#w1485_0" docsrc="br-j05">
+      <context> The other constituents in a built detergent assist in this and in the removal of dirty stains and the hydrophilic sticky or dried soils . As_is well_known , detergent actives belong_to the chemical class consisting_of moderately high molecular_weight and highly polar molecules which exhibit the property of forming micelles in solution . Physicochemical investigations of anionic surfactants , including the soaps , have shown that there is little polymerization or agglomeration of the chain anions below a certain region of concentration called the critical micelle concentration . ( 1 ) Below the critical micelle <head>concentration</head> , monomers and some dimers are present . ( 2 ) In the critical micelle region , there is a rapid agglomeration or polymerization to give the micelles , which have a degree of polymerization averaging around 60 - 80 . ( 3 ) For anionics , these micelles appear to be roughly spherical assemblages in which the hydrocarbon tails come together so that the polar groups ( the ionized ends ) face outward towards the aqueous continuous phase . Obviously hydrophobic ( oleophilic ) substances such_as greases , oils , or particles having a greasy or oily surface are more at_home in the center of a micelle than in the aqueous phase .</context>
+    </instance>
+    <instance id="br-j06#w1547_0" docsrc="br-j06">
+      <context> Calcium_hydride was substituted for * * f as a drying_agent for carbon_tetrachloride . No correlation between these variables and the irreproducibility of the results was found . The reaction rates observed at 200 ` ranged from * * f of the chlorine exchanged per hour to 0.7 exchanged per hour . In most cases the chlorine <head>concentration</head> was about * * f . Sets of reaction tubes containing 0.2 of an atmosphere of added oxygen in one case and added moisture in another , both gave reaction rates in the range of 0.1 to 0.4 of the chlorine exchanged per hour . No detectable reaction was found at room_temperature for reaction mixtures allowed to stand up_to 5 hours . The liquid phase photochemical_exchange between chlorine and carbon_tetrachloride was more reproducible than the thermal exchange , although still erratic .</context>
+    </instance>
+    <instance id="br-j06#w1948_0" docsrc="br-j06">
+      <context> These estimates indicated that the quantum yield for the exchange of chlorine with liquid carbon_tetrachloride at 65 ` is of the order_of_magnitude of unity . When typical reaction cells to which 0.3 of an atmosphere of oxygen had been added were illuminated , chlorine and phosgene were produced . Exchange was also observed in these cells , which had chlorine present at * * f . Although there was some variation in results which must be attributed either to trace impurities or to variation in wall effects , the photochemical_exchange in the gas phase was sufficiently reproducible so that it seemed meaningful to compare the reaction rates in different series of reaction tubes for the purpose of obtaining information on the effect of chlorine <head>concentration</head> and of carbon_tetrachloride concentration on the reaction rate . Data on such comparisons together with data on the effect of light intensity are given in Table /1 . . In series /1 , the relative light intensity was varied by varying the distance of the lamp from the reaction cell over the range from 14.7 to 29.2 cm. .</context>
+    </instance>
+    <instance id="br-j06#w1952_0" docsrc="br-j06">
+      <context> These estimates indicated that the quantum yield for the exchange of chlorine with liquid carbon_tetrachloride at 65 ` is of the order_of_magnitude of unity . When typical reaction cells to which 0.3 of an atmosphere of oxygen had been added were illuminated , chlorine and phosgene were produced . Exchange was also observed in these cells , which had chlorine present at * * f . Although there was some variation in results which must be attributed either to trace impurities or to variation in wall effects , the photochemical_exchange in the gas phase was sufficiently reproducible so that it seemed meaningful to compare the reaction rates in different series of reaction tubes for the purpose of obtaining information on the effect of chlorine concentration and of carbon_tetrachloride <head>concentration</head> on the reaction rate . Data on such comparisons together with data on the effect of light intensity are given in Table /1 . . In series /1 , the relative light intensity was varied by varying the distance of the lamp from the reaction cell over the range from 14.7 to 29.2 cm. .</context>
+    </instance>
+    <instance id="br-j06#w927_0" docsrc="br-j06">
+      <context> The desired amounts of inactive chlorine and radioactive chlorine were likewise condensed in these cells on the vacuum line following which they were frozen_down and the manifold as_a_whole was sealed_off . The contents of the manifold for liquid phase experiments were then mixed by shaking , redistributed to the reaction tubes , frozen_down , and each tube was then sealed_off . The reactants for the gas phase experiments were first frozen_out in a side arm attached to the manifold and then allowed to distill slowly into the manifold of pre-cooled reaction cells before sealing_off . This method in_general solved the problem of obtaining fairly equal <head>concentrations</head> of reactants in each of the six cells from a set . The samples for liquid phase thermal reaction studies were prepared in Pyrex capillary_tubing 2.5 mm. i.d. and about 15 cm. long . In a_few experiments the tubes were made from standard 6 mm. i.d. Pyrex tubing of 1 mm. wall thickness . Both types of tube withstood the pressure of approximately 20 atmospheres exerted by the carbon_tetrachloride at 220 ` .</context>
+    </instance>
+    <instance id="br-j07#w1975_0" docsrc="br-j07">
+      <context> Note that the mass scale is one to two orders_of_magnitude greater than some previously used ; for_example , Jacchia ( 1948 ) derived a scale of 0.15 g for a * * f , zero magnitude meteorite . The older scales were based on theoretical estimates of the conversion efficiency of kinetic_energy into light . The mass scale used in Table 5 - 1 was derived on the assumption that the motion of the glowing trail is related_to the momentum transfer to the trail by the meteorite , permitting the calculation of the mass if the velocity is known ( Cook and Whipple , 1958 ) . A <head>concentration</head> distribution has been derived from radar observations sensitive to the fifteenth magnitude ( Manning and Eshleman , 1959 ) . Extrapolation of this relationship through the thirtieth magnitude covers the range of micrometeorites . The approximate equation is * * f , where n is the number of * * f with electron line density greater than or equal to * * f , and q is proportional to the mass of the meteorite . Therefore , n is inversely proportional to the radius cubed and in fair agreement with the inverse 7 2 power derived from 1958_Alpha and 1959_Eta data .</context>
+    </instance>
+    <instance id="br-j07#w199_0" docsrc="br-j07">
+      <context> Whipple ( 1955 ) extends the effects to include the solar corpuscular_radiation pressure , which increases both the minimum particle size and the drag . Further , the corpuscular_radiation , i.e. , the solar_wind protons , must sputter away the surface atoms of the dust and cause a slow diminution in size , with a resultant increase in both the Poynting-Robertson effect and the ratio of the repulsive_force to the gravitational_force . The Poynting-Robertson effect causes the semi major_axis of orbits to diminish more rapidly than the semi-minor_axis , with a consequent tendency toward circular orbits as the particles move toward the sun . Also , planetary gravitational_attraction increases the dust <head>concentration</head> near the plane of the ecliptic as the sun is approached . At one astronomical_unit from the sun ( the Earth 's distance ) the dust orbits are probably nearly circular . If such is the case , the particles within a distance of about * * f km of the Earth will have , relative to the Earth , a kinetic_energy less than their potential_energy and they will be captured into orbits about the Earth . De_Jager ( 1955 ) has calculated the times required for these particles to reach the atmosphere under the influence of the Poynting-Robertson effect , which in this case causes the orbits to become more_and_more eccentric without changing the semi major_axis .</context>
+    </instance>
+    <instance id="br-j07#w2134_0" docsrc="br-j07">
+      <context> At the fifteenth magnitude , * * f , and at the twenty-fifth magnitude , * * f . These extrapolated fluxes are about an order_of_magnitude less_than the values from the satellite data and the figures in Whipple 's table . The extrapolation may be in error for several reasons . The observational data determining the <head>concentration</head> distribution have a range of error which is magnified in the extension into the micrometeorite region . The solar electromagnetic - and corpuscular-radiation_pressure and the associated Poynting-Robertson effect increase in effectiveness as the particle size decreases and modify the distribution and limit sizes to larger than a_few microns . Also , it has been suggested that the source of all or part of the dust may not be the same as that for visual or radar meteorites ( Best , 1960 ) , and the same distribution would not be expected . A measure of the total mass accretion of meteoritic material by the Earth is obtained from analyses of deep sea sediments and dust collected in remote regions ( Pettersson , 1960 ) .</context>
+    </instance>
+    <instance id="br-j07#w606_0" docsrc="br-j07">
+      <context> There are several sources of evidence on the micrometeorite environment . Direct information has been obtained from rockets and satellites equipped with impact sensors . In_addition , the size distribution obtained from visual and radar observations of meteors may be extrapolated to the micrometeorite domain . From the brightness of the F component of the solar corona and the brightness of the zodiacal_light , an estimate of the particle sizes , <head>concentrations</head> , and spatial distribution can be derived for regions of space near the ecliptic plane . Another important source of evidence only recently receiving much attention is the analysis of atmospheric dust for a meteoritic component . The cores of deep sea sediments and content of collectors in remote regions are valuable in this category . The data provide a measure of the total mass of cosmic material incident upon the Earth .</context>
+    </instance>
+    <instance id="br-j07#w991_0" docsrc="br-j07">
+      <context> One may conclude that most_of the detected micrometeoritic material is concentrated in orbital streams which intersect the Earth 's orbit . There have been contradictory reports from 1958 Delta_2 , and the data quoted here are believed to be the more reliable . On May 15 , a very large increase occurred with * * f of mass between * * f and * * f ; for the next two days , the impact rate was * * f ; and for the next nine days , the impact rate was less_than * * f ( Nazarova , 1960 ) . The data for the first day indicate a meteor_stream with a very high <head>concentration</head> of particles and may have led to the high estimates of micrometeorite flux . Preliminary data from 1959_Eta give an average impact rate of * * f for masses larger than * * f for about 1000 events in a 22 - day period ( LaGow and Alexander , 1960 ) . The day-to-day rate varied by less_than a factor of 4.5 . The data have not_yet been analyzed for diurnal_variations .</context>
+    </instance>
+    <instance id="br-j09#w1178_0" docsrc="br-j09">
+      <context> A flow_rate of 72 * * f was used and 12 ml fractions were collected . Approximately 165 fractions were obtained from each column . These were read at 280 m | m in a Beckman model DU spectrophotometer and tested for antibody activity as described above . For protein identification , fractions from the column were concentrated by pervaporation against a stream of air at 5 ` C or by negative pressure dialysis in an apparatus which permitted simultaneous <head>concentration</head> of the protein and dialysis against isotonic saline . During the latter procedure the temperature was maintained at 2 ` C by surrounding the apparatus with ice . Because negative pressure dialysis gave better recovery of proteins , permitted detection of proteins concentrated from very dilute solutions and was a gentler procedure , it was used in all but the earliest experiments . Paper_electrophoresis was carried_out on the concentrated samples in a Spinco model R cell using barbital buffer , pH 8.6 , ionic strength 0.075 , at room_temperature on Whatman 3 MM filter_paper .</context>
+    </instance>
+    <instance id="br-j09#w1501_0" docsrc="br-j09">
+      <context> The unstained strips were then marked , using the stained ones as a guide , and cut transversely so as to separate the various protein bands . The strip sections containing a given protein were pooled , eluted with 0.5 ml of isotonic saline , and the eluates were tested for antibody activity . Fractions from the column which were to be subjected to analytical ultracentrifugation were concentrated by negative pressure dialysis and dialyzed for 16 hr in the cold against at_least 500 volumes of phosphate buffered saline , pH 7.2 , ionic strength 0.154 . They were then centrifuged at 59780 rpm for 35 to 80 min at 20 ` C in a Spinco model E ultracentrifuge at a protein <head>concentration</head> of 1.00 to 1.25 % . Sedimentation coefficients were computed as * * f values and relative amounts of the various components were calculated from the Schlieren patterns . For preparative ultracentrifugation , fractions from the column were concentrated by negative pressure dialysis to volumes of 1 ml or less , transferred to cellulose tubes and diluted to 12 ml with isotonic saline . Ultracentrifugation was then carried_out in a Spinco model L ultracentrifuge at 40000 rpm for 125 to 150 min , refrigeration being used throughout the run .</context>
+    </instance>
+    <instance id="br-j09#w1826_0" docsrc="br-j09">
+      <context> When the early part of the gradient was flattened , either by using the gradient shown in Fig. 2 or by allowing the `` cone sphere '' gradient to become established more slowly , Region 2 activity could sometimes be separated into two areas ( donors P._J. and R._S. , Fig. 1 and E._M. , Fig. 2 ) . The latter procedure gave_rise to a small active protein peak ( Region 1a ) between Regions 1 and 2 . In 2 of 15 experiments on whole serum a region of agglutinin activity with intermediate anionic binding capacity was detected ( Region 3 , Fig. 1 ) . Moreover , after <head>concentration</head> using negative pressure dialysis , agglutinin activity could sometimes be detected in the region designated 2a ( donors P._J. , D._A. , and J._F. , Fig. 1 ) . Not all these regions exhibited equal agglutinating_activity , as evidenced by titer and the extent of the active areas . In all cases , most of the activity lay_in the region of high anionic binding capacity . This was particularly noticeable in group A and group B sera , in which cases activity in Regions 1 and 2 was usually not detectable without prior concentration and occasionally could not be detected at_all .</context>
+    </instance>
+    <instance id="br-j09#w1920_0" docsrc="br-j09">
+      <context> Moreover , after concentration using negative pressure dialysis , agglutinin activity could sometimes be detected in the region designated 2a ( donors P._J. , D._A. , and J._F. , Fig. 1 ) . Not all these regions exhibited equal agglutinating_activity , as evidenced by titer and the extent of the active areas . In all cases , most of the activity lay_in the region of high anionic binding capacity . This was particularly noticeable in group A and group B sera , in which cases activity in Regions 1 and 2 was usually not detectable without prior <head>concentration</head> and occasionally could not be detected at_all . There appeared to be no difference in the distribution of anti - A and anti - B activity in group O serum , though in two group O donors ( J._F. and E._M. ) only one type of agglutinin was found in the regions of low anionic binding capacity ( Figs. 1 and 2 ) . Several samples of citrated plasma were fractionated in our laboratory by Method 6 of Cohn et_al . These fractions were tested for ABO agglutinin activity , using fractions from group AB plasma as a control .</context>
+    </instance>
+    <instance id="br-j09#w760_0" docsrc="br-j09">
+      <context> The anti human sera used were prepared by injecting whole human serum into rabbits . Those antisera shown by immunoelectrophoresis to be of the `` broad spectrum '' type were selected for used in the present study . The red_cells for the Rh_antibody tests were used within 3 days after drawing except for the * * f cells , which had been glycerolized and stored at - 20 ` C for approximately 1 year . These cells were thawed at 37 ` C for 30 min and were deglycerolized by alternately centrifuging and mixing with descending <head>concentrations</head> of glycerol solutions ( 20 , 18 , 10 , 8 , 4 and 2 % ) . The cells were then washed three times with saline and resuspended to 2 % in saline . Blood samples were allowed to clot at room_temperature for 3 hr , centrifuged and the serum was removed . The serum was measured volumetrically and subsequently dialyzed in the cold for at_least 24 hr against three to four changes , approximately 750 ml each , of `` starting_buffer '' .</context>
+    </instance>
+    <instance id="br-j14#w13_0" docsrc="br-j14">
+      <context> Interestingly enough , the effect of the digitalis_glycosides is inhibited by a high <head>concentration</head> of potassium in the incubation medium and is enhanced by the absence of potassium ( Wolff , 1960 ) . The precise mechanism for organification of iodine in the thyroid is not as_yet completely understood . However , the formation of organically bound iodine , mainly mono-iodotyrosine , can be accomplished in cell-free systems . In the absence of additions to the homogenate , the product formed is an iodinated particulate protein ( Fawcett and Kirkwood , 1953 ; Taurog , Potter and Chaikoff , 1955 ; Taurog , Potter , Tong , and Chaikoff , 1956 ; Serif and Kirkwood , 1958 ; De_Groot and Carvalho , 1960 ) .</context>
+    </instance>
+    <instance id="br-j14#w1580_0" docsrc="br-j14">
+      <context> The name thyroid-stimulating_hormone ( TSH ) has been given to a substance found in the anterior pituitary_gland of all species of animal so_far tested for its presence . The hormone has also been called thyrotrophin or thyrotrophic_hormone . At the present_time we do not know by what biochemical_mechanism TSH acts_on the thyroid , but for bio-assay of the hormone there are a number of properties by which its activity may be estimated , including release of iodine from the thyroid , increase in thyroid weight , increase in mean height of the follicular cells and increase in the thyroidal uptake of * * f . Here we shall restrict discussion to those methods that appear sufficiently sensitive and precise for determining the <head>concentration</head> of TSH in blood . Brown ( 1959 ) has reviewed generally the various methods of assaying TSH , and the reader is referred to her paper for further information on the subject . As long_ago as 1851 it was pointed_out by Niepce ( 1851 ) that there is a connection between the pituitary and the thyroid . .</context>
+    </instance>
+    <instance id="br-j14#w1893_0" docsrc="br-j14">
+      <context> The most active preparations obtained by these two groups of investigators appear to be similar in potency , composition and physical_properties . Two problems present themselves in considering any hormone in blood . First , is the circulating form of the hormone the same as that found in the gland where it is synthesised and stored ? Second , what is its <head>concentration</head> in normal circumstances and in what circumstances will this concentration depart from the normal level and in which direction ? It is therefore necessary to consider the properties of pituitary TSH if the fragmentary chemical information about blood TSH is to be discussed rationally . The importance of knowing in what chemical forms the hormone may exist is accentuated by the recent observation that there exists an abnormally long-acting TSH in blood drawn from many thyrotoxic patients ( Adams , 1958 ) . Whether this abnormal TSH differs chemically from pituitary TSH , or is , alternatively , normal TSH with its period of effectiveness modified by some other blood constituent , cannot be decided without chemical study of the activity in the blood of these patients and a comparison of the substance responsible_for the blood activity with pituitary TSH .</context>
+    </instance>
+    <instance id="br-j14#w1903_0" docsrc="br-j14">
+      <context> The most active preparations obtained by these two groups of investigators appear to be similar in potency , composition and physical_properties . Two problems present themselves in considering any hormone in blood . First , is the circulating form of the hormone the same as that found in the gland where it is synthesised and stored ? Second , what is its concentration in normal circumstances and in what circumstances will this <head>concentration</head> depart from the normal level and in which direction ? It is therefore necessary to consider the properties of pituitary TSH if the fragmentary chemical information about blood TSH is to be discussed rationally . The importance of knowing in what chemical forms the hormone may exist is accentuated by the recent observation that there exists an abnormally long-acting TSH in blood drawn from many thyrotoxic patients ( Adams , 1958 ) . Whether this abnormal TSH differs chemically from pituitary TSH , or is , alternatively , normal TSH with its period of effectiveness modified by some other blood constituent , cannot be decided without chemical study of the activity in the blood of these patients and a comparison of the substance responsible_for the blood activity with pituitary TSH .</context>
+    </instance>
+    <instance id="br-j14#w2040_0" docsrc="br-j14">
+      <context> It is therefore necessary to consider the properties of pituitary TSH if the fragmentary chemical information about blood TSH is to be discussed rationally . The importance of knowing in what chemical forms the hormone may exist is accentuated by the recent observation that there exists an abnormally long-acting TSH in blood drawn from many thyrotoxic patients ( Adams , 1958 ) . Whether this abnormal TSH differs chemically from pituitary TSH , or is , alternatively , normal TSH with its period of effectiveness modified by some other blood constituent , cannot be decided without chemical study of the activity in the blood of these patients and a comparison of the substance responsible_for the blood activity with pituitary TSH . In evaluating data on the <head>concentration</head> of TSH in blood , one must examine critically the bio-assay methods used to obtain them . The introduction of the United_States_Pharmacopoeia reference standard in 1952 and the redefinition and equating of the USP and international units of thyroid stimulating activity have made_it possible to compare results published by different investigators since that time . We should_like to re-emphasise the importance of stating results solely in_terms_of international units of TSH activity and of avoiding the re-introduction of biological units . For_the_most_part , this discussion will be confined to results obtained since the introduction of the reference standard .</context>
+    </instance>
+    <instance id="br-j14#w592_0" docsrc="br-j14">
+      <context> Since the circulating thyroid_hormones are the amino_acids thyroxine and tri-iodothyronine ( cf. Section C ) , it is clear that some mechanism must exist in the thyroid_gland for their release from proteins before secretion . The presence of several proteases and peptidases has been demonstrated in the thyroid . One of the proteases has pH optimum of about 3.7 and another of about 5.7 ( McQuillan , Stanley and Trikojus , 1954 ; Alpers , Robbins and Rall , 1955 ) . The finding that the <head>concentration</head> of one of these proteases is increased in thyroid_glands from TSH treated animals suggests that this protease may be active in_vivo . There is no conclusive evidence yet that either of the proteases has been prepared in highly purified form nor is their specificity known . A study of their activity on thyroglobulin has shown that thyroxine is not preferentially released and that the degradation proceeds stepwise with the formation of macromolecular intermediates ( Alpers , Petermann and Rall , 1956 ) . Besides proteolytic enzymes the thyroid possesses de-iodinating enzymes .</context>
+    </instance>
+    <instance id="br-j14#w863_0" docsrc="br-j14">
+      <context> It has been suggested that the plasma thyroxine binding proteins , which have an extremely high affinity for thyroxine , compete with thyroglobulin for thyroxine ( Ingbar and Freinkel , 1957 ) . Antithyroid drugs are of two general types . One type has a small univalent anion of the thiocyanate perchlorate fluoroboride type . This ion inhibits thyroid_hormone synthesis by interfering with iodide <head>concentration</head> in the thyroid . It does not appear to affect the iodinating mechanism as_such . The other group of antithyroid agents or drugs is typified by thiouracil . These drugs have no effect on the iodide concentrating mechanism , but they inhibit organification .</context>
+    </instance>
+    <instance id="br-j16#w2208_0" docsrc="br-j16">
+      <context> The specific staining by both direct and indirect methods showed that WTV antigen was concentrated in the pseudophloem tissue and in a_few thick walled cells in the xylem region , but was not detectable in any other tissues of the root and stem tumors . A study of the distribution of WTV antigen within the pseudophloem cells indicates that it is irregularly distributed in the cytoplasm . Wound_tumor_virus is a leafhopper transmitted virus not easily transmissible by mechanical inoculation ( Black , 1944 ; Brakke et_al. , 1954 ) . The <head>concentration</head> and apparent localization of the WTV antigen in pseudophloem tissue of the tumor may indicate that the virus preferentially multiplies in the phloem and may need to be directly placed in this tissue in_order_to infect plants .</context>
+    </instance>
+    <instance id="br-j37#w1281_0" docsrc="br-j37">
+      <context> Both parties and the Ministry_of_the_Interior were busily at_work after the elections trying to unearth the political affiliations of the successful candidates and , thereby , give the elections a confidential but known degree of national political significance . Since a national interpretation cannot be avoided it is unfortunate that the elections were not held in a way to maximize party responsibility and the educational effect of mass political participation . The general setting of the Moroccan election may also encourage the deterioration of local party organization . The <head>concentration</head> of effective power in Rabat leads not_only to party bickering , but to distraction from local activity that might have had many auxiliary benefits in_addition to contributing to more meaningful elections . Interesting evidence can be found in the results of the Chamber_of_Commerce elections , which took_place three weeks before national elections . The Istiqlal sponsored U.M.C.I.A. ( L'Union_Marocaine_des_Commercants , Industrialistes_et_Artisans ) was opposed by candidates of the new U.N.F.P. ( L'Union_National_des_Forces_Populaires ) in nearly all urban_centers . As the more conservative group with strong backing from wealthy businessmen , the U.M.C.I.A. was generally favored against the more progressive , labor based U.N.F.P. The newer party campaigned heavily , while the older , more confident party expected the Moroccan merchants and small_businessmen to support them as they had done for many years .</context>
+    </instance>
+    <instance id="br-j42#w1200_0" docsrc="br-j42">
+      <context> Hidden behind Hegelian abstractions were more practical reasons for a changing jurisprudence . Related_to , but distinguishable from , nationalism was the growth of democracy in one form or another . Increased participation in politics and the demands of various groups for status and recognition had dramatic effects upon law institutions . The efforts of various interest groups to control or influence governmental decisions , particularly when taken in conjunction with the impact of industrialization , led to a <head>concentration</head> of attention on the legislative power and the means whereby policy could be formulated and enforced as law through bureaucratic institutions . Law became a conscious process , something more than simply doing justice and looking_to local customs and a common morality for applicable norms . Particularly was this true when the norms previously applied were no_longer satisfactory to many , when customs were rapidly changing as the forces of the new productivity were harnessed . The old way of doing things , which depended_on a relatively stable community with stable ideas dealing with familiar situations , was no_longer adequate_to the task .</context>
+    </instance>
+    <instance id="br-j70#w115_0" docsrc="br-j70">
+      <context> In the midwest , oxidation ponds are used extensively for the treatment of domestic sewage from suburban areas . The high cost of land and a_few operational problems resulting from excessive loadings have created the need for a wastewater treatment system with the operational characteristics of the oxidation pond but with the ability to treat more organic matter per unit volume . Research at Fayette_, Missouri on oxidation ponds has shown that the BOD in the treated effluent varied from 30 to 53 mg / l with loadings from 8 to 120 lb BOD / day / acre . Since experience indicates that effluents from oxidation ponds do not create major problems at these BOD <head>concentrations</head> , the goal for the effluent quality of the accelerated treatment system was the same as from conventional oxidation ponds . Recent studies by Weston and Stack had indicated that a turbine aerator could be added to an oxidation pond to increase the rate of oxygen transfer . Their study showed that it was possible to transfer 3 to 4 lb of oxygen / hr / hp . O'Connor and Eckenfelder discussed the use of aerated lagoons for treating organic wastes .</context>
+    </instance>
+    <instance id="br-j70#w1872_0" docsrc="br-j70">
+      <context> It was approximately one month before the belt problem was noticed and corrected , but at no time was there a deficiency of dissolved oxygen . A series of eight special tests were conducted at different rotor speeds to determine the oxygen transfer rate . Five of the tests were conducted with a polyethylene cover to simulate an ice cover . The rate of oxygen transfer at 1.0 - mg / l dissolved oxygen <head>concentration</head> and 10 ` C for various rotor speeds is given in Table 3 , . The maximum rate of oxygen transfer at 1.0 mg / l dissolved oxygen was calculated as 220 lb / day at a maximum rate of 9.3 mg / l / hr . The actual power requirements indicated 2 lb oxygen transfer / hr / hp . The polyethylene cover reduced the oxygen transfer rate by 10 per_cent , indicating that the maximum oxygen transfer is at the rotor rather_than through the surface .</context>
+    </instance>
+    <instance id="br-j70#w2018_0" docsrc="br-j70">
+      <context> During this study septic conditions developed in the oxidation pond in the spring when the ice melted . Shortly after this study ended septic conditions resulted which required the addition of sodium_nitrate . The location of the oxidation pond in a high value residential area makes odor nuisances a sensitive problem for the developer . The organic <head>concentration</head> in the influent raw sewage ranged from 160 to 270 mg / l of BOD with an average of 230 mg / l . The BOD data are given in Table 4 , . A single 24 - hr composite sample had a BOD of 260 mg / l , indicating a typical domestic sewage . The daily sewage volume to the oxidation pond averaged 147000 gpd , giving a retention period of 42 days .</context>
+    </instance>
+    <instance id="br-k12#w198_0" docsrc="br-k12">
+      <context> Amy walked - making_it halfway across the cottage floor . She lost not a second , picking herself up and continuing her pilgrimage to Laura . Then Laura took her gently and shoved her off again , toward Fritzie : Amy did not laugh - this was work , <head>concentration</head> , achievement . In a_few minutes she was making the ten foot hike unaided ; soon she was parading around the house , flaunting her new skill . Some liar 's logic , a wisp of optimism as fragile as the scent of tropical blossoms that came_through the window ( a euphoria perhaps engendered by the pill Fritzie had given her ) , consoled her for a moment . Amy had_to be safe , had_to come_back to them - if only to reap that share of life 's experiences that were her due , if only to give her parents another chance to do better by her .</context>
+    </instance>
+    <instance id="n00362659_d_4" docsrc="n00362659_d">
+      <context> weakening ( reducing the <head>concentration</head> ) by the addition of water or a thinner ;</context>
+    </instance>
+    <instance id="n00375071_d_2" docsrc="n00375071_d">
+      <context> strengthening the <head>concentration</head> ( as of a solute in a mixture ) by removing diluting material ;</context>
+    </instance>
+    <instance id="n00375348_d_1" docsrc="n00375348_d">
+      <context> the <head>concentration</head> of a colloidal_solution whose colloid will not pass_through a semipermeable_membrane ; solution is placed in a bag of the membrane and the solvent is evaporated off ;</context>
+    </instance>
+    <instance id="n00560866_d_7" docsrc="n00560866_d">
+      <context> a play in which there is a <head>concentration</head> of players in one location on the field of play ;</context>
+    </instance>
+    <instance id="n00648237_d_29" docsrc="n00648237_d">
+      <context> a measured amount of a solution of unknown concentration is added to a known volume of a second solution until the reaction between them is just complete ; the <head>concentration</head> of the unknown solution ( the titer ) can then be calculated ;</context>
+    </instance>
+    <instance id="n00648237_d_8" docsrc="n00648237_d">
+      <context> a measured amount of a solution of unknown <head>concentration</head> is added to a known volume of a second solution until the reaction between them is just complete ; the concentration of the unknown solution ( the titer ) can then be calculated ;</context>
+    </instance>
+    <instance id="n00788097_d_8" docsrc="n00788097_d">
+      <context> an aggressive attempt to compel acquiescence by the <head>concentration</head> or manipulation of power ;</context>
+    </instance>
+    <instance id="n00791527_d_29" docsrc="n00791527_d">
+      <context> a quantitative or qualitative test of a substance ( especially an ore or a drug ) to determine its components ; frequently used to test for the presence or <head>concentration</head> of infectious_agents or antibodies etc. ;</context>
+    </instance>
+    <instance id="n00885574_d_10" docsrc="n00885574_d">
+      <context> a course that teaches pregnant women to use breathing and <head>concentration</head> and exercise techniques to use during labor ;</context>
+    </instance>
+    <instance id="n00998768_d_10" docsrc="n00998768_d">
+      <context> measurement of the pH level and the oxygen and carbon_dioxide <head>concentrations</head> in arterial_blood ; important in diagnosis of many respiratory_diseases ;</context>
+    </instance>
+    <instance id="n04130566_d_5" docsrc="n04130566_d">
+      <context> a hydrometer that determines the <head>concentration</head> of salt solutions by measuring their density ;</context>
+    </instance>
+    <instance id="n05038823_d_1" docsrc="n05038823_d">
+      <context> the <head>concentration</head> of a solution as determined by titration ;</context>
+    </instance>
+    <instance id="n05039907_d_0" docsrc="n05039907_d">
+      <context> <head>concentration</head> measured by the number of moles of solute per kilogram of solvent ;</context>
+    </instance>
+    <instance id="n05040081_d_0" docsrc="n05040081_d">
+      <context> <head>concentration</head> measured by the number of moles of solute per liter of solution ;</context>
+    </instance>
+    <instance id="n05650579_d_6" docsrc="n05650579_d">
+      <context> the faculty or power of mental <head>concentration</head> ;</context>
+    </instance>
+    <instance id="n05704694_d_1" docsrc="n05704694_d">
+      <context> the <head>concentration</head> of attention or energy on something ;</context>
+    </instance>
+    <instance id="n05705184_d_1" docsrc="n05705184_d">
+      <context> the <head>concentration</head> of your efforts on a particular field_of_study or occupation ;</context>
+    </instance>
+    <instance id="n05882537_d_19" docsrc="n05882537_d">
+      <context> the law that states the following principle : the rate of a chemical_reaction is directly proportional to the molecular <head>concentrations</head> of the reacting substances ;</context>
+    </instance>
+    <instance id="n08565006_d_7" docsrc="n08565006_d">
+      <context> urban_areas in New_England and Midwest characterized by <head>concentrations</head> of declining industries ( steel or textiles ) ;</context>
+    </instance>
+    <instance id="n08582337_d_10" docsrc="n08582337_d">
+      <context> the highest region of the ionosphere which contains the highest <head>concentration</head> of free_electrons and is most useful for long-range radio transmission ;</context>
+    </instance>
+    <instance id="n08588916_d_11" docsrc="n08588916_d">
+      <context> the outer region of the Earth's atmosphere ; contains a high <head>concentration</head> of free_electrons ;</context>
+    </instance>
+    <instance id="n09166902_d_14" docsrc="n09166902_d">
+      <context> a region in California to the south of San_Francisco that is noted for its <head>concentration</head> of high technology industries ;</context>
+    </instance>
+    <instance id="n09382726_d_8" docsrc="n09382726_d">
+      <context> a layer in the stratosphere that contains a <head>concentration</head> of ozone sufficient to block most ultraviolet_radiation from the sun ;</context>
+    </instance>
+    <instance id="n09449282_d_6" docsrc="n09449282_d">
+      <context> a hypothetical one-dimensional subatomic_particle having a <head>concentration</head> of energy and the dynamic properties of a flexible loop ;</context>
+    </instance>
+    <instance id="n13426726_d_16" docsrc="n13426726_d">
+      <context> transport of a substance ( as a protein or drug ) across a cell_membrane against the <head>concentration</head> gradient ; requires an expenditure of energy ;</context>
+    </instance>
+    <instance id="n13506119_d_41" docsrc="n13506119_d">
+      <context> a method that prepares a mother for natural_childbirth ; the pregnant woman ( in classes and at home ) practices ( usually with the help of a coach ) and learns about the physiology of childbirth and techniques of relaxation , <head>concentration</head> , and breathing ;</context>
+    </instance>
+    <instance id="n13528100_d_11" docsrc="n13528100_d">
+      <context> diffusion of molecules through a semipermeable_membrane from a place of higher <head>concentration</head> to a place of lower concentration until the concentration on both sides is equal ;</context>
+    </instance>
+    <instance id="n13528100_d_17" docsrc="n13528100_d">
+      <context> diffusion of molecules through a semipermeable_membrane from a place of higher concentration to a place of lower <head>concentration</head> until the concentration on both sides is equal ;</context>
+    </instance>
+    <instance id="n13528100_d_20" docsrc="n13528100_d">
+      <context> diffusion of molecules through a semipermeable_membrane from a place of higher concentration to a place of lower concentration until the <head>concentration</head> on both sides is equal ;</context>
+    </instance>
+    <instance id="n13580909_d_5" docsrc="n13580909_d">
+      <context> ( of a solution ) <head>concentration</head> expressed in gram equivalents of solute per liter ;</context>
+    </instance>
+    <instance id="n13589681_d_3" docsrc="n13589681_d">
+      <context> the ratio of <head>concentrations</head> when equilibrium is reached in a reversible reaction ( when the rate of the forward reaction equals the rate of the reverse reaction ) ;</context>
+    </instance>
+    <instance id="n13610046_d_5" docsrc="n13610046_d">
+      <context> a system for measuring the <head>concentration</head> of sugar solutions ;</context>
+    </instance>
+    <instance id="n14009020_d_10" docsrc="n14009020_d">
+      <context> the state of high or excessive activity or productivity or <head>concentration</head> ;</context>
+    </instance>
+    <instance id="n14020023_d_3" docsrc="n14020023_d">
+      <context> acidosis and bicarbonate <head>concentration</head> in the body_fluids resulting either from the accumulation of acids or the abnormal loss of bases from the body ( as in diarrhea or renal disease ) ;</context>
+    </instance>
+    <instance id="n14020753_d_6" docsrc="n14020753_d">
+      <context> a blood_disorder characterized by an increased <head>concentration</head> of hydrogen_ions in the blood ( which falls below 7 on the pH_scale ) ;</context>
+    </instance>
+    <instance id="n14020936_d_6" docsrc="n14020936_d">
+      <context> a blood_disorder characterized by a lower <head>concentration</head> of hydrogen_ions in the blood ( which rises above 7.45 on the pH_scale ) ;</context>
+    </instance>
+    <instance id="n14041508_d_5" docsrc="n14041508_d">
+      <context> hypoxia resulting from a decreased <head>concentration</head> of hemoglobin ;</context>
+    </instance>
+    <instance id="n14043458_d_5" docsrc="n14043458_d">
+      <context> anoxia resulting from a decreased <head>concentration</head> of hemoglobin ;</context>
+    </instance>
+    <instance id="n14128650_d_3" docsrc="n14128650_d">
+      <context> an abnormally low <head>concentration</head> of gamma_globulin in the blood and increased risk_of_infection ;</context>
+    </instance>
+    <instance id="n14165373_d_7" docsrc="n14165373_d">
+      <context> anemia characterized by an increase in the <head>concentration</head> of corpuscular hemoglobin ;</context>
+    </instance>
+    <instance id="n14165544_d_7" docsrc="n14165544_d">
+      <context> anemia characterized by a decrease in the <head>concentration</head> of corpuscular hemoglobin ;</context>
+    </instance>
+    <instance id="n14781225_d_26" docsrc="n14781225_d">
+      <context> a viscous liquid with strong oxidizing properties ; a powerful bleaching_agent ; also used ( in aqueous_solutions ) as a mild disinfectant and ( in strong <head>concentrations</head> ) as an oxidant in rocket_fuels ;</context>
+    </instance>
+    <instance id="r00069346_d_5" docsrc="r00069346_d">
+      <context> indicates continuity or persistence or <head>concentration</head> ;</context>
+    </instance>
+    <instance id="v00475183_d_6" docsrc="v00475183_d">
+      <context> remove impurities from , increase the <head>concentration</head> of , and separate through the process of distillation ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="legal_action.n" pos="NN">
+    <instance id="a01370864_d_3" docsrc="a01370864_d">
+      <context> affording grounds for <head>legal_action</head> ;</context>
+    </instance>
+    <instance id="a02366365_d_2" docsrc="a02366365_d">
+      <context> subject to <head>legal_action</head> ;</context>
+    </instance>
+    <instance id="n00765791_d_5" docsrc="n00765791_d">
+      <context> the unauthorized interference in a <head>legal_action</head> by a person having no interest in it ( as by helping one party with money or otherwise to continue the action ) so as to obstruct justice or promote unnecessary litigation or unsettle the peace of the community ;</context>
+    </instance>
+    <instance id="n01184045_d_1" docsrc="n01184045_d">
+      <context> a <head>legal_action</head> brought against parties who are charged with limiting free competition in the market_place ;</context>
+    </instance>
+    <instance id="n01184230_d_0" docsrc="n01184230_d">
+      <context> <head>legal_action</head> to protect a private civil_right or to compel a civil remedy ( as distinguished from criminal_prosecution ) ;</context>
+    </instance>
+    <instance id="n01184407_d_10" docsrc="n01184407_d">
+      <context> a claim filed in opposition to another claim in a <head>legal_action</head> ;</context>
+    </instance>
+    <instance id="n01184565_d_1" docsrc="n01184565_d">
+      <context> a <head>legal_action</head> to determine custody ( usually of children following a divorce ) ;</context>
+    </instance>
+    <instance id="n01198588_d_2" docsrc="n01198588_d">
+      <context> a representative <head>legal_action</head> whose outcome is likely to become a precedent ;</context>
+    </instance>
+    <instance id="n06533484_d_7" docsrc="n06533484_d">
+      <context> a statute prescribing the time_period during which <head>legal_action</head> can be taken ;</context>
+    </instance>
+    <instance id="v01008719_d_5" docsrc="v01008719_d">
+      <context> place on the docket for <head>legal_action</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

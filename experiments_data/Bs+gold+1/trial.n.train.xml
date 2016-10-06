@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="trial.n" pos="NN">
+    <instance id="br-f20#w162_0" docsrc="br-f20">
+      <context> He had a round , frank Irish face , creased in a jovial grin that stayed bleakly in_place even when he was pumping bullets into someone 's body . He carried three guns - one in the right trouser pocket , one under his left armpit , one in the left outside coat pocket - and was equally lethal with both hands . He killed accurately , freely , and dispassionately . The police credited him with twenty-five murders but he was never brought to <head>trial</head> for one of them . Like a fair number of bootleggers he disliked alcohol . He was an expert florist , tenderly dextrous in the arrangement of bouquets and wreaths . He had no apparent comprehension of morality ; he divided humanity into `` right guys '' and `` wrong guys '' , and the wrong ones he was always willing to kill and trample under .</context>
+    </instance>
+    <instance id="br-j15#w811_0" docsrc="br-j15">
+      <context> From March 3 to May 1 , 1949 , the patient was maintained on dexamethasone , 3 to 6 mg. daily . In May 1959 , prednisone , 30 mg. daily , replaced the dexamethasone . Muscle weakness did not improve , and the patient needed first a cane , then crutches . In_spite of normal thyroid function tests , a <head>trial</head> of propylthiouracil , 400 mg. daily for one week , was given but served only to intensify muscle weakness . Repeated attempts to withdraw steroids entirely were unsuccessful because increased muscle weakness resulted , as_well_as fever , malaise , anorexia , anxiety , and an exacerbation of the anemia . These reactions were interpreted as being manifestations of hypoadrenocorticism . Severe back pain in June , 1959 , prompted a third hospital admission .</context>
+    </instance>
+    <instance id="br-j19#w8_0" docsrc="br-j19">
+      <context> Some experiments are composed of repetitions of independent <head>trials</head> , each with two possible outcomes . The binomial probability distribution may describe the variation that occurs from one set of trials of such a binomial experiment to another . We devote a chapter to the binomial_distribution not_only because it is a mathematical model for an enormous variety of real_life phenomena , but also because it has important properties that recur in many other probability models . We begin with a_few examples of binomial experiments .</context>
+    </instance>
+  </lexelt>
+</corpus>

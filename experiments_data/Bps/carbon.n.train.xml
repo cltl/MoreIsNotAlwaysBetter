@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="carbon.n" pos="NN">
+    <instance id="a00757408_d_7" docsrc="a00757408_d">
+      <context> used of a compound ( especially of <head>carbon</head> ) containing atoms sharing more than one valence bond ;</context>
+    </instance>
+    <instance id="a00757634_d_3" docsrc="a00757634_d">
+      <context> ( of long-chain <head>carbon</head> compounds especially fats ) saturated except for one multiple bond ;</context>
+    </instance>
+    <instance id="a00757783_d_3" docsrc="a00757783_d">
+      <context> ( of long-chain <head>carbon</head> compounds especially fats ) having many unsaturated bonds ;</context>
+    </instance>
+    <instance id="a01679055_d_9" docsrc="a01679055_d">
+      <context> relating or belonging_to the class of chemical_compounds having a <head>carbon</head> basis ;</context>
+    </instance>
+    <instance id="a01679244_d_10" docsrc="a01679244_d">
+      <context> relating or belonging_to the class of compounds not having a <head>carbon</head> basis ;</context>
+    </instance>
+    <instance id="a02652877_d_3" docsrc="a02652877_d">
+      <context> requiring organic_compounds of <head>carbon</head> and nitrogen for nourishment ;</context>
+    </instance>
+    <instance id="a02863724_d_7" docsrc="a02863724_d">
+      <context> relating to or consisting of or yielding <head>carbon</head> ;</context>
+    </instance>
+    <instance id="br-h11#w943_0" docsrc="br-h11">
+      <context> Such an interferometer provides a means of absolute_temperature measurement , and may be used as_an_alternative to the gas_thermometer . When values of temperature derived with this instrument were compared with the accepted values associated with liquid helium 4 vapor_pressures , differences of about 10 and 7 millidegrees respectively were found . This result is preliminary , and work is continuing . <head>Carbon</head> resistors and impurity doped germanium resistors have been investigated for use as precision secondary thermometers in the liquid helium temperature region . Several germanium resistors have been thermally cycled from 300 to 4.2 * * f and their resistances have been found to be reproducible within 1 3 millidegree when temperatures were derived from a vapor_pressure thermometer whose tubing is jacketed through most_of the liquid helium . Preliminary calibrations of the resistors have been made from 4.21 to 2.16 * * f at every 0.1 * * f . The estimated standard_deviations of the data for two of the resistors were 1 millidegree ; and for the third resistor , 3.3 millidegrees .</context>
+    </instance>
+    <instance id="br-j02#w1000_0" docsrc="br-j02">
+      <context> Argon was also blown at low velocities ( mass flow_rate **f ) through a tube coaxial with the cathode as an additional precaution against contamination of the arc by air . The anode consisted_of a 1/2 inch diameter porous graphite plug , 1/4 inch long . The graphite was National_Carbon_NC 60 , which has a porosity of 50 % and an average pore size of 30 This small pore size was required to ensure uniformity of the flow leaving the anode . The anode plug ( Figure 2 ) was inserted into a <head>carbon</head> anode holder . A shielded thermocouple was used to measure the upstream temperature of the transpiring gas . It was exposed to a high velocity gas_jet . A plug and a tube with holes in its cylindrical walls divided the chamber above the porous plug into two parts .</context>
+    </instance>
+    <instance id="br-j02#w1179_0" docsrc="br-j02">
+      <context> Three thermocouples were placed at different locations in the aluminum disk surrounding the anode holder to determine its temperature . Another anode holder used in the experiments is shown in figure 3 . In this design the anode holder is water_cooled and the heat losses by conduction from the anode were determined by measuring the temperature rise of the coolant . To reduce heat transfer from the hot gas to this anode holder outside the region of the arc , a <head>carbon</head> shield was attached to the surface providing an air gap of 1/16 inch between the plate and the surface of the anode holder . In_addition , the inner surface of the carbon shield was covered with aluminum_foil to reduce radiation . Temperatures of the shield and of the surface of the water_cooled anode holder were measured by thermocouples to account_for heat received by the coolant but not originating from the anode plug . The argon flow from commercial bottles was regulated by a pressure regulator and measured with a gas flow rator .</context>
+    </instance>
+    <instance id="br-j02#w1211_0" docsrc="br-j02">
+      <context> Another anode holder used in the experiments is shown in figure 3 . In this design the anode holder is water_cooled and the heat losses by conduction from the anode were determined by measuring the temperature rise of the coolant . To reduce heat transfer from the hot gas to this anode holder outside the region of the arc , a carbon shield was attached to the surface providing an air gap of 1/16 inch between the plate and the surface of the anode holder . In_addition , the inner surface of the <head>carbon</head> shield was covered with aluminum_foil to reduce radiation . Temperatures of the shield and of the surface of the water_cooled anode holder were measured by thermocouples to account_for heat received by the coolant but not originating from the anode plug . The argon flow from commercial bottles was regulated by a pressure regulator and measured with a gas flow rator . The power source was a commercial D.C. rectifier .</context>
+    </instance>
+    <instance id="br-j02#w1804_0" docsrc="br-j02">
+      <context> This calculation results in an enthalpy rise which is somewhat high because it assumes a mass flow equally distributed over the plug cross_section whereas in_reality the mass velocity is expected to be smaller in the regions of higher temperatures . The upstream gas temperature measured with the thermocouple shown in figure 2 was **f . The **f values are listed in Table 1 together with the measured surface temperatures and arc voltages . Simultaneously with the anode surface temperature and voltage measurements pyrometer readings were taken along the cylindrical surface of the <head>carbon</head> anode holder as indicated on figure 2 . Some of these temperatures are plotted in figure 4 . They showed no marked dependence on the flow_rate within the accuracy of these measurements . Thus , the dotted line shown in figure 4 was taken as typical for the temperature distribution for all blowing rates .</context>
+    </instance>
+    <instance id="br-j06#w277_0" docsrc="br-j06">
+      <context> It appears possible to set a lower_limit of about * * f for the activation_energy of the abstraction of a chlorine atom from a carbon_tetrachloride molecule by a chlorine atom to form * * f radical . The rate of the gas phase exchange reaction appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by reaction with an impurity rather than by bimolecular radical combination reactions . Because of the simplicity of the molecules , isotopic exchange reactions between elemental halogens and the corresponding carbon_tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data . It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical_reactions in both the liquid and gas phases and to determine values for activation_energies of some of the intermediate reactions of atoms and free_radicals , as_well_as information on the heat_of_dissociation of the <head>carbon</head> halogen bond . The reaction of chlorine with carbon_tetrachloride seemed particularly suited for such studies . It should be possible to prepare very pure chlorine by oxidation of inorganic chlorides on a vacuum system followed by multiple distillation of the liquid . It should be possible to free carbon_tetrachloride of any interfering substances by the usual purification methods followed by prechlorination prior to addition of radioactive chlorine .</context>
+    </instance>
+    <instance id="n01359762_d_12" docsrc="n01359762_d">
+      <context> large colonial bacterium common in tropical open ocean waters ; important in <head>carbon</head> and nitrogen_fixation ;</context>
+    </instance>
+    <instance id="n01359945_d_13" docsrc="n01359945_d">
+      <context> green and purple bacteria ; energy for growth is derived from sunlight ; <head>carbon</head> is derived from carbon_dioxide or organic carbon ;</context>
+    </instance>
+    <instance id="n01359945_d_20" docsrc="n01359945_d">
+      <context> green and purple bacteria ; energy for growth is derived from sunlight ; carbon is derived from carbon_dioxide or organic <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n02961947_d_1" docsrc="n02961947_d">
+      <context> has <head>carbon</head> electrodes ;</context>
+    </instance>
+    <instance id="n03007824_d_4" docsrc="n03007824_d">
+      <context> a stick of black <head>carbon</head> material used for drawing ;</context>
+    </instance>
+    <instance id="n06088995_d_5" docsrc="n06088995_d">
+      <context> the chemistry of compounds containing <head>carbon</head> ( originally defined as the chemistry of substances produced by living organisms but now extended_to substances synthesized artificially ) ;</context>
+    </instance>
+    <instance id="n09302400_d_22" docsrc="n09302400_d">
+      <context> a ring of atoms of more than one kind ; especially a ring of carbon_atoms containing at_least one atom that is not <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n13436361_d_7" docsrc="n13436361_d">
+      <context> process for producing permanent prints in a <head>carbon</head> pigment ;</context>
+    </instance>
+    <instance id="n13438223_d_19" docsrc="n13438223_d">
+      <context> an industrial_process for making steel using a Bessemer_converter to blast air through molten iron and thus burning the excess <head>carbon</head> and impurities ; the first successful method of making steel in quantity at low cost ;</context>
+    </instance>
+    <instance id="n13443228_d_4" docsrc="n13443228_d">
+      <context> the organic circulation of <head>carbon</head> from the atmosphere into organisms and back again ;</context>
+    </instance>
+    <instance id="n13556893_d_7" docsrc="n13556893_d">
+      <context> a hot vapor containing fine particles of <head>carbon</head> being produced by combustion ;</context>
+    </instance>
+    <instance id="n14622141_d_3" docsrc="n14622141_d">
+      <context> a form of <head>carbon</head> having a large molecule consisting of an empty cage of sixty or more carbon_atoms ;</context>
+    </instance>
+    <instance id="n14633206_d_12" docsrc="n14633206_d">
+      <context> an abundant nonmetallic tetravalent element occurring in three allotropic forms : amorphous <head>carbon</head> and graphite and diamond ; occurs in all organic_compounds ;</context>
+    </instance>
+    <instance id="n14633781_d_3" docsrc="n14633781_d">
+      <context> an atom of <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n14633856_d_4" docsrc="n14633856_d">
+      <context> a radioactive isotope of <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n14647722_d_8" docsrc="n14647722_d">
+      <context> a radioactive transuranic_element synthesized by bombarding curium with <head>carbon</head> ions ; 7 isotopes are known ;</context>
+    </instance>
+    <instance id="n14685768_d_0" docsrc="n14685768_d">
+      <context> <head>carbon</head> fuel produced by distillation of coal ;</context>
+    </instance>
+    <instance id="n14686352_d_15" docsrc="n14686352_d">
+      <context> fuel consisting of the remains of organisms preserved in rocks in the earth's_crust with high <head>carbon</head> and hydrogen content ;</context>
+    </instance>
+    <instance id="n14689817_d_7" docsrc="n14689817_d">
+      <context> any monosaccharide sugar containing three atoms of <head>carbon</head> per molecule ;</context>
+    </instance>
+    <instance id="n14689940_d_7" docsrc="n14689940_d">
+      <context> any monosaccharide sugar containing four atoms of <head>carbon</head> per molecule ;</context>
+    </instance>
+    <instance id="n14690063_d_7" docsrc="n14690063_d">
+      <context> any monosaccharide sugar containing five atoms of <head>carbon</head> per molecule ;</context>
+    </instance>
+    <instance id="n14716042_d_14" docsrc="n14716042_d">
+      <context> steel who characteristics are determined by the addition of other elements in addition to <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n14727670_d_3" docsrc="n14727670_d">
+      <context> any compound of <head>carbon</head> and another element or a radical ;</context>
+    </instance>
+    <instance id="n14740587_d_3" docsrc="n14740587_d">
+      <context> a fatty_acid whose <head>carbon</head> chain can not absorb any more hydrogen_atoms ; found chiefly in animal_fats ;</context>
+    </instance>
+    <instance id="n14740915_d_3" docsrc="n14740915_d">
+      <context> a fatty_acid whose <head>carbon</head> chain can absorb additional hydrogen_atoms ;</context>
+    </instance>
+    <instance id="n14741474_d_3" docsrc="n14741474_d">
+      <context> an unsaturated_fatty_acid whose <head>carbon</head> chain has one double or triple valence bond per molecule ; found chiefly in olive_oil and chicken and almonds ;</context>
+    </instance>
+    <instance id="n14741730_d_3" docsrc="n14741730_d">
+      <context> an unsaturated_fatty_acid whose <head>carbon</head> chain has more than one double or triple valence per molecule ; found chiefly in fish and corn and soybean_oil and safflower_oil ;</context>
+    </instance>
+    <instance id="n14742028_d_11" docsrc="n14742028_d">
+      <context> a polyunsaturated_fatty_acid whose carbon chain has its first double valence three <head>carbons</head> from the beginning ;</context>
+    </instance>
+    <instance id="n14742028_d_3" docsrc="n14742028_d">
+      <context> a polyunsaturated_fatty_acid whose <head>carbon</head> chain has its first double valence three carbons from the beginning ;</context>
+    </instance>
+    <instance id="n14742271_d_11" docsrc="n14742271_d">
+      <context> a polyunsaturated_fatty_acid whose carbon chain has its first double valence six <head>carbons</head> from the beginning ;</context>
+    </instance>
+    <instance id="n14742271_d_3" docsrc="n14742271_d">
+      <context> a polyunsaturated_fatty_acid whose <head>carbon</head> chain has its first double valence six carbons from the beginning ;</context>
+    </instance>
+    <instance id="n14769760_d_6" docsrc="n14769760_d">
+      <context> a solid_solution of ferric carbide or <head>carbon</head> in iron ; cools to form pearlite or martensite ;</context>
+    </instance>
+    <instance id="n14792550_d_3" docsrc="n14792550_d">
+      <context> a binary_compound of <head>carbon</head> with a more electropositive element ;</context>
+    </instance>
+    <instance id="n14793533_d_10" docsrc="n14793533_d">
+      <context> a black colloidal substance consisting wholly or principally of amorphous <head>carbon</head> and used to make pigments and ink ;</context>
+    </instance>
+    <instance id="n14796359_d_3" docsrc="n14796359_d">
+      <context> powdered or granular <head>carbon</head> used for purifying by adsorption ; given orally ( as a slurry ) it is an antidote for some kinds of poisons ;</context>
+    </instance>
+    <instance id="n14797641_d_13" docsrc="n14797641_d">
+      <context> an odorless very poisonous gas that is a product of incomplete combustion of <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n14797813_d_15" docsrc="n14797813_d">
+      <context> a thin paper coated on one side with a dark waxy substance ( often containing <head>carbon</head> ) ; used to transfer characters from the original to an under sheet_of_paper ;</context>
+    </instance>
+    <instance id="n14798331_d_4" docsrc="n14798331_d">
+      <context> compounds composed of 1 <head>carbon</head> and 4 halogen molecules ;</context>
+    </instance>
+    <instance id="n14801921_d_7" docsrc="n14801921_d">
+      <context> an alloy of iron containing so much <head>carbon</head> that it is brittle and so can not be wrought but must be shaped by casting ;</context>
+    </instance>
+    <instance id="n14802262_d_4" docsrc="n14802262_d">
+      <context> iron having a low <head>carbon</head> content that is tough and malleable and so can be forged and welded ;</context>
+    </instance>
+    <instance id="n14802450_d_8" docsrc="n14802450_d">
+      <context> an alloy of iron with small amounts of <head>carbon</head> ; widely used in construction ; mechanical properties can be varied over a wide range ;</context>
+    </instance>
+    <instance id="n14803074_d_9" docsrc="n14803074_d">
+      <context> steel whose characteristics are determined by the amount of <head>carbon</head> it contains ;</context>
+    </instance>
+    <instance id="n14834563_d_4" docsrc="n14834563_d">
+      <context> very hard native crystalline <head>carbon</head> valued as a gem ;</context>
+    </instance>
+    <instance id="n14852747_d_16" docsrc="n14852747_d">
+      <context> a steel that contains 0.9% carbon ( the eutectic point ) ; a carbon_steel with 0.9% <head>carbon</head> is pure pearlite ;</context>
+    </instance>
+    <instance id="n14852747_d_5" docsrc="n14852747_d">
+      <context> a steel that contains 0.9% <head>carbon</head> ( the eutectic point ) ; a carbon_steel with 0.9% carbon is pure pearlite ;</context>
+    </instance>
+    <instance id="n14904528_d_5" docsrc="n14904528_d">
+      <context> one of various compounds of <head>carbon</head> and any of the halogens ;</context>
+    </instance>
+    <instance id="n14905333_d_5" docsrc="n14905333_d">
+      <context> steel with more than 0.3% <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n14911057_d_4" docsrc="n14911057_d">
+      <context> an organic_compound containing only <head>carbon</head> and hydrogen ;</context>
+    </instance>
+    <instance id="n14913633_d_7" docsrc="n14913633_d">
+      <context> a steel that contains more than 0.9% <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n14914191_d_7" docsrc="n14914191_d">
+      <context> a steel that contains less that 0.9% <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n14919511_d_6" docsrc="n14919511_d">
+      <context> any compound that does not contain <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n14948377_d_3" docsrc="n14948377_d">
+      <context> a solid_solution of <head>carbon</head> in alpha iron that is formed when steel is cooled so rapidly that the change from austenite to pearlite is suppressed ; responsible for the hardness of quenched_steel ;</context>
+    </instance>
+    <instance id="n14949522_d_4" docsrc="n14949522_d">
+      <context> steel with 0.15 0.3% <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n14952878_d_5" docsrc="n14952878_d">
+      <context> steel with less than 0.15% <head>carbon</head> ;</context>
+    </instance>
+    <instance id="n14994824_d_6" docsrc="n14994824_d">
+      <context> a class of fats having long <head>carbon</head> chains with many double_bonds unsaturated with hydrogen_atoms ; used in some margarines ; supposedly associated with low blood cholesterol ;</context>
+    </instance>
+    <instance id="n15079030_d_7" docsrc="n15079030_d">
+      <context> any of three isomeric compounds having three <head>carbon</head> and three nitrogen atoms in a six-membered ring ;</context>
+    </instance>
+    <instance id="r00113311_d_1" docsrc="r00113311_d">
+      <context> involving <head>carbon</head> compounds ;</context>
+    </instance>
+    <instance id="r00113441_d_2" docsrc="r00113441_d">
+      <context> not involving <head>carbon</head> compounds ;</context>
+    </instance>
+    <instance id="v00255654_d_4" docsrc="v00255654_d">
+      <context> harden steel by adding <head>carbon</head> ;</context>
+    </instance>
+    <instance id="v00369628_d_2" docsrc="v00369628_d">
+      <context> turn into <head>carbon</head> , as by burning ;</context>
+    </instance>
+    <instance id="v00373520_d_2" docsrc="v00373520_d">
+      <context> unite with <head>carbon</head> ;</context>
+    </instance>
+    <instance id="v00530442_d_1" docsrc="v00530442_d">
+      <context> remove <head>carbon</head> from ;</context>
+    </instance>
+    <instance id="v01599435_d_2" docsrc="v01599435_d">
+      <context> combine with <head>carbon</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

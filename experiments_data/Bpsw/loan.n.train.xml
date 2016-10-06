@@ -1,0 +1,446 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="loan.n" pos="NN">
+    <instance id="Loan-loan-0-134-1" docsrc="Loan">
+      <context> <head>Legal</head> financing Leveraged loan Loan guarantee</context>
+    </instance>
+    <instance id="Loan-loan-0-135-1" docsrc="Loan">
+      <context> <head>Leveraged</head> loan Loan guarantee Loan sale</context>
+    </instance>
+    <instance id="Loan-loan-0-43-2" docsrc="Loan">
+      <context> <head>===</head> Personal === Loans can also be subcategorized according to whether the debtor is an individual person ( consumer ) or a business .</context>
+    </instance>
+    <instance id="Loan-loan-0-48-2" docsrc="Loan">
+      <context> <head>===</head> Commercial === Loans to businesses are similar to the above , but also include commercial mortgages and corporate bonds .</context>
+    </instance>
+    <instance id="Loan-loan-1-0-1" docsrc="Loan">
+      <context> In <head>finance</head> , a loan is the lending of money from one individual , organization or entity to another individual , organization or entity . A loan is a debt provided by an entity ( organization or individual ) to another entity at an interest rate , and evidenced by a promissory note which specifies , among other things , the principal amount of money borrowed , the interest rate the lender is charging , and date of repayment .</context>
+    </instance>
+    <instance id="Loan-loan-1-0-2" docsrc="Loan">
+      <context> In <head>finance</head> , a loan is the lending of money from one individual , organization or entity to another individual , organization or entity . A loan is a debt provided by an entity ( organization or individual ) to another entity at an interest rate , and evidenced by a promissory note which specifies , among other things , the principal amount of money borrowed , the interest rate the lender is charging , and date of repayment . A loan entails the reallocation of the subject asset(s ) for a period of time , between the lender and the borrower .</context>
+    </instance>
+    <instance id="Loan-loan-1-1-1" docsrc="Loan">
+      <context> A <head>loan</head> entails the reallocation of the subject asset(s ) for a period of time , between the lender and the borrower . In a loan , the borrower initially receives or borrows an amount of money , called the principal , from the lender , and is obligated to pay back or repay an equal amount of money to the lender at a later time . The loan is generally provided at a cost , referred to as interest on the debt , which provides an incentive for the lender to engage in the loan .</context>
+    </instance>
+    <instance id="Loan-loan-1-111-1" docsrc="Loan">
+      <context>   <head>another</head> set of rules that interpret the Internal Revenue Code ) . 1 . A loan is not gross income to the borrower .</context>
+    </instance>
+    <instance id="Loan-loan-1-133-1" docsrc="Loan">
+      <context> Finance <head>,</head> Personal finance , Settlement ( finance ) Legal financing Leveraged loan</context>
+    </instance>
+    <instance id="Loan-loan-1-137-1" docsrc="Loan">
+      <context> Loan <head>sale</head> Pay it forward Payday loan</context>
+    </instance>
+    <instance id="Loan-loan-1-139-1" docsrc="Loan">
+      <context> Payday <head>loan</head> Refund Anticipation Loan Student loan</context>
+    </instance>
+    <instance id="Loan-loan-1-140-1" docsrc="Loan">
+      <context> Refund <head>Anticipation</head> Loan Student loan Syndicated loan</context>
+    </instance>
+    <instance id="Loan-loan-1-141-1" docsrc="Loan">
+      <context> Student <head>loan</head> Syndicated loan Title loan</context>
+    </instance>
+    <instance id="Loan-loan-1-146-1" docsrc="Loan">
+      <context> Federal <head>student</head> loan consolidation Federal Perkins Loan Stafford loan</context>
+    </instance>
+    <instance id="Loan-loan-1-148-1" docsrc="Loan">
+      <context> Federal <head>Perkins</head> Loan Stafford loan Student loan default</context>
+    </instance>
+    <instance id="Loan-loan-1-149-1" docsrc="Loan">
+      <context> Stafford <head>loan</head> Student loan default</context>
+    </instance>
+    <instance id="Loan-loan-1-16-2" docsrc="Loan">
+      <context> === <head>Unsecured</head> === Unsecured loans are monetary loans that are not secured against the borrower 's assets .</context>
+    </instance>
+    <instance id="Loan-loan-1-18-1" docsrc="Loan">
+      <context> These <head>may</head> be available from financial institutions under many different guises or marketing packages : credit card debt personal loans</context>
+    </instance>
+    <instance id="Loan-loan-1-28-1" docsrc="Loan">
+      <context> Thus <head>,</head> a higher interest rate reflects the additional risk that in the event of insolvency , the debt may be uncollectible . === Demand === Demand loans are short term loans that are typically in that they do not have fixed dates for repayment and carry a floating interest rate which varies according to the prime lending rate .</context>
+    </instance>
+    <instance id="Loan-loan-1-29-2" docsrc="Loan">
+      <context> Demand <head>loans</head> are short term loans that are typically in that they do not have fixed dates for repayment and carry a floating interest rate which varies according to the prime lending rate . They can be " called " for repayment by the lending institution at any time . Demand loans may be unsecured or secured .</context>
+    </instance>
+    <instance id="Loan-loan-10-13-4" docsrc="Loan">
+      <context>   often corresponding to the useful life of the car <head>.</head> There are two types of auto loans , direct and indirect . A direct auto loan is where a bank gives the loan directly to a consumer .</context>
+    </instance>
+    <instance id="Loan-loan-11-100-1" docsrc="Loan">
+      <context>   For more information see " Monthly loan or mortgage payments <head>"</head> under compound interest . Predatory lending is one form of abuse in the granting of loans .</context>
+    </instance>
+    <instance id="Loan-loan-12-104-2" docsrc="Loan">
+      <context> Predatory lending is one form of abuse in the granting of loans <head>.</head> It usually involves granting a loan in order to put the borrower in a position that one can gain advantage over him or her . Where the moneylender is not authorized , they could be considered a loan shark .</context>
+    </instance>
+    <instance id="Loan-loan-12-24-3" docsrc="Loan">
+      <context> These may or may not be regulated by law . In the <head>United</head> Kingdom , when applied to individuals , these may come under the Consumer Credit Act 1974 . Interest rates on unsecured loans are nearly always higher than for secured loans , because an unsecured lender 's options for recourse against the borrower in the event of default are severely limited .</context>
+    </instance>
+    <instance id="Loan-loan-15-33-1" docsrc="Loan">
+      <context> === Subsidized === A subsidized loan is a loan on which the interest is reduced <head>by</head> an explicit or hidden subsidy . In the context of college loans in the United States , it refers to a loan on which no interest is accrued while a student remains enrolled in education .</context>
+    </instance>
+    <instance id="Loan-loan-17-111-3" docsrc="Loan">
+      <context> A loan is not gross income to the borrower . Since the borrower has the obligation to <head>repay</head> the loan , the borrower has no accession to wealth . 2 . The lender may not deduct ( from own gross income ) the amount of the loan .</context>
+    </instance>
+    <instance id="Loan-loan-18-105-3" docsrc="Loan">
+      <context> In different time periods and cultures the acceptable interest rate has varied , from no interest at all <head>to</head> unlimited interest rates . Credit card companies in some countries have been accused by consumer organizations of lending at usurious interest rates and making money out of frivolous " extra charges " . Abuses can also take place in the form of the customer abusing the lender by not repaying the loan or with an intent to defraud the lender .</context>
+    </instance>
+    <instance id="Loan-loan-2-0-3" docsrc="Loan">
+      <context> A loan <head>is</head> a debt provided by an entity ( organization or individual ) to another entity at an interest rate , and evidenced by a promissory note which specifies , among other things , the principal amount of money borrowed , the interest rate the lender is charging , and date of repayment . A loan entails the reallocation of the subject asset(s ) for a period of time , between the lender and the borrower . In a loan , the borrower initially receives or borrows an amount of money , called the principal , from the lender , and is obligated to pay back or repay an equal amount of money to the lender at a later time .</context>
+    </instance>
+    <instance id="Loan-loan-2-11-1" docsrc="Loan">
+      <context> === Secured <head>===</head> A secured loan is a loan in which the borrower pledges some asset ( e.g. a car or property ) as collateral . A mortgage loan is a very common type of loan , used by many individuals to purchase things .</context>
+    </instance>
+    <instance id="Loan-loan-2-119-1" docsrc="Loan">
+      <context> The major <head>exception</head> here is interest paid on a home mortgage . === Income from discharge of indebtedness === Although a loan does not start out as income to the borrower , it becomes income to the borrower if the borrower is discharged of indebtedness .</context>
+    </instance>
+    <instance id="Loan-loan-2-138-1" docsrc="Loan">
+      <context> Pay it <head>forward</head> Payday loan Refund Anticipation Loan</context>
+    </instance>
+    <instance id="Loan-loan-2-144-1" docsrc="Loan">
+      <context> US specific <head>:</head> FAFSA Federal student loan consolidation</context>
+    </instance>
+    <instance id="Loan-loan-2-145-1" docsrc="Loan">
+      <context> FAFSA Federal <head>student</head> loan consolidation Federal Perkins Loan</context>
+    </instance>
+    <instance id="Loan-loan-2-32-1" docsrc="Loan">
+      <context> Demand loans <head>may</head> be unsecured or secured . === Subsidized === A subsidized loan is a loan on which the interest is reduced by an explicit or hidden subsidy .</context>
+    </instance>
+    <instance id="Loan-loan-2-45-1" docsrc="Loan">
+      <context> Personal === <head>Loans</head> can also be subcategorized according to whether the debtor is an individual person ( consumer ) or a business . Common personal loans include mortgage loans , car loans , home equity lines of credit , credit cards , installment loans and payday loans .</context>
+    </instance>
+    <instance id="Loan-loan-2-45-4" docsrc="Loan">
+      <context> The credit <head>score</head> of the borrower is a major component in and underwriting and interest rates ( APR ) of these loans . The monthly payments of personal loans can be decreased by selecting longer payment terms , but overall interest paid increases as well . For car loans in the U.S. , the average term was about 60 months in 2009 .</context>
+    </instance>
+    <instance id="Loan-loan-2-9-1" docsrc="Loan">
+      <context> For other <head>institutions</head> , issuing of debt contracts such as bonds is a typical source of funding . === Secured === A secured loan is a loan in which the borrower pledges some asset ( e.g. a car or property ) as collateral .</context>
+    </instance>
+    <instance id="Loan-loan-20-45-1" docsrc="Loan">
+      <context> Personal === Loans can also be subcategorized according to whether the debtor is an individual person ( consumer ) or <head>a</head> business . Common personal loans include mortgage loans , car loans , home equity lines of credit , credit cards , installment loans and payday loans .</context>
+    </instance>
+    <instance id="Loan-loan-21-116-2" docsrc="Loan">
+      <context> 6 . Interest paid to the lender may be deductible by the borrower . In general , interest paid in connection <head>with</head> the borrower ’s business activity is deductible , while interest paid on personal loans are not deductible .</context>
+    </instance>
+    <instance id="Loan-loan-21-45-2" docsrc="Loan">
+      <context> Loans can also be subcategorized according to whether the debtor is an individual person ( consumer ) or a business . <head>Common</head> personal loans include mortgage loans , car loans , home equity lines of credit , credit cards , installment loans and payday loans . The credit score of the borrower is a major component in and underwriting and interest rates ( APR ) of these loans .</context>
+    </instance>
+    <instance id="Loan-loan-23-45-1" docsrc="Loan">
+      <context> Personal === Loans can also be subcategorized according to whether the debtor is an individual person ( consumer ) or a business . <head>Common</head> personal loans include mortgage loans , car loans , home equity lines of credit , credit cards , installment loans and payday loans .</context>
+    </instance>
+    <instance id="Loan-loan-27-2-1" docsrc="Loan">
+      <context> In a loan , the borrower initially receives or borrows an amount of money , called the principal , from the lender , and is obligated to <head>pay</head> back or repay an equal amount of money to the lender at a later time . The loan is generally provided at a cost , referred to as interest on the debt , which provides an incentive for the lender to engage in the loan . In a legal loan , each of these obligations and restrictions is enforced by contract , which can also place the borrower under additional restrictions known as loan covenants .</context>
+    </instance>
+    <instance id="Loan-loan-28-1-1" docsrc="Loan">
+      <context> A loan entails the reallocation of the subject asset(s ) for a period of time , between the lender and the borrower . In a loan , the <head>borrower</head> initially receives or borrows an amount of money , called the principal , from the lender , and is obligated to pay back or repay an equal amount of money to the lender at a later time . The loan is generally provided at a cost , referred to as interest on the debt , which provides an incentive for the lender to engage in the loan .</context>
+    </instance>
+    <instance id="Loan-loan-3-13-4" docsrc="Loan">
+      <context>   often corresponding <head>to</head> the useful life of the car . There are two types of auto loans , direct and indirect . A direct auto loan is where a bank gives the loan directly to a consumer .</context>
+    </instance>
+    <instance id="Loan-loan-3-13-5" docsrc="Loan">
+      <context> There are two <head>types</head> of auto loans , direct and indirect . A direct auto loan is where a bank gives the loan directly to a consumer . An indirect auto loan is where a car dealership acts as an intermediary between the bank or financial institution and the consumer .</context>
+    </instance>
+    <instance id="Loan-loan-3-2-1" docsrc="Loan">
+      <context> In a loan <head>,</head> the borrower initially receives or borrows an amount of money , called the principal , from the lender , and is obligated to pay back or repay an equal amount of money to the lender at a later time . The loan is generally provided at a cost , referred to as interest on the debt , which provides an incentive for the lender to engage in the loan . In a legal loan , each of these obligations and restrictions is enforced by contract , which can also place the borrower under additional restrictions known as loan covenants .</context>
+    </instance>
+    <instance id="Loan-loan-3-50-2" docsrc="Loan">
+      <context> Loans to businesses <head>are</head> similar to the above , but also include commercial mortgages and corporate bonds . Underwriting is not based upon credit score but rather credit rating . The most typical loan payment type is the fully amortizing payment in which each monthly rate has the same value over time .</context>
+    </instance>
+    <instance id="Loan-loan-4-13-1" docsrc="Loan">
+      <context> If the borrower defaults <head>on</head> the loan , the bank would have the legal right to repossess the house and sell it , to recover sums owing to it . In some instances , a loan taken out to purchase a new or used car may be secured by the car , in much the same way as a mortgage is secured by housing . The duration of the loan period is considerably shorter –</context>
+    </instance>
+    <instance id="Loan-loan-4-16-2" docsrc="Loan">
+      <context> === Unsecured === Unsecured <head>loans</head> are monetary loans that are not secured against the borrower 's assets .</context>
+    </instance>
+    <instance id="Loan-loan-4-24-3" docsrc="Loan">
+      <context> These may or may <head>not</head> be regulated by law . In the United Kingdom , when applied to individuals , these may come under the Consumer Credit Act 1974 . Interest rates on unsecured loans are nearly always higher than for secured loans , because an unsecured lender 's options for recourse against the borrower in the event of default are severely limited .</context>
+    </instance>
+    <instance id="Loan-loan-5-104-1" docsrc="Loan">
+      <context> For more information see " <head>Monthly</head> loan or mortgage payments " under compound interest . Predatory lending is one form of abuse in the granting of loans . It usually involves granting a loan in order to put the borrower in a position that one can gain advantage over him or her .</context>
+    </instance>
+    <instance id="Loan-loan-5-113-2" docsrc="Loan">
+      <context> 3 . The amount paid <head>to</head> satisfy the loan obligation is not deductible ( from own gross income ) by the borrower . 4 . Repayment of the loan is not gross income to the lender .</context>
+    </instance>
+    <instance id="Loan-loan-5-12-6" docsrc="Loan">
+      <context>   until the mortgage is <head>paid</head> off in full . If the borrower defaults on the loan , the bank would have the legal right to repossess the house and sell it , to recover sums owing to it . In some instances , a loan taken out to purchase a new or used car may be secured by the car , in much the same way as a mortgage is secured by housing .</context>
+    </instance>
+    <instance id="Loan-loan-5-2-3" docsrc="Loan">
+      <context> In a legal loan , <head>each</head> of these obligations and restrictions is enforced by contract , which can also place the borrower under additional restrictions known as loan covenants . Although this article focuses on monetary loans , in practice any material object might be lent . Acting as a provider of loans is one of the principal tasks for financial institutions such as banks and credit card companies .</context>
+    </instance>
+    <instance id="Loan-loan-5-28-1" docsrc="Loan">
+      <context> Thus , a higher interest <head>rate</head> reflects the additional risk that in the event of insolvency , the debt may be uncollectible . === Demand === Demand loans are short term loans that are typically in that they do not have fixed dates for repayment and carry a floating interest rate which varies according to the prime lending rate .</context>
+    </instance>
+    <instance id="Loan-loan-5-32-1" docsrc="Loan">
+      <context> Demand loans may be unsecured <head>or</head> secured . === Subsidized === A subsidized loan is a loan on which the interest is reduced by an explicit or hidden subsidy .</context>
+    </instance>
+    <instance id="Loan-loan-5-33-1" docsrc="Loan">
+      <context> === Subsidized === A subsidized <head>loan</head> is a loan on which the interest is reduced by an explicit or hidden subsidy . In the context of college loans in the United States , it refers to a loan on which no interest is accrued while a student remains enrolled in education .</context>
+    </instance>
+    <instance id="Loan-loan-5-45-1" docsrc="Loan">
+      <context> Personal === Loans can also <head>be</head> subcategorized according to whether the debtor is an individual person ( consumer ) or a business . Common personal loans include mortgage loans , car loans , home equity lines of credit , credit cards , installment loans and payday loans .</context>
+    </instance>
+    <instance id="Loan-loan-5-45-3" docsrc="Loan">
+      <context> Common personal loans include mortgage <head>loans</head> , car loans , home equity lines of credit , credit cards , installment loans and payday loans . The credit score of the borrower is a major component in and underwriting and interest rates ( APR ) of these loans . The monthly payments of personal loans can be decreased by selecting longer payment terms , but overall interest paid increases as well .</context>
+    </instance>
+    <instance id="Loan-loan-5-9-1" docsrc="Loan">
+      <context> For other institutions , issuing <head>of</head> debt contracts such as bonds is a typical source of funding . === Secured === A secured loan is a loan in which the borrower pledges some asset ( e.g. a car or property ) as collateral .</context>
+    </instance>
+    <instance id="Loan-loan-6-113-1" docsrc="Loan">
+      <context> Deductions are not typically available when <head>an</head> outlay serves to create a new or different asset . 3 . The amount paid to satisfy the loan obligation is not deductible ( from own gross income ) by the borrower .</context>
+    </instance>
+    <instance id="Loan-loan-6-12-5" docsrc="Loan">
+      <context>   a lien on the title <head>to</head> the house –   until the mortgage is paid off in full . If the borrower defaults on the loan , the bank would have the legal right to repossess the house and sell it , to recover sums owing to it .</context>
+    </instance>
+    <instance id="Loan-loan-6-13-3" docsrc="Loan">
+      <context> The duration of the loan period <head>is</head> considerably shorter –   often corresponding to the useful life of the car . There are two types of auto loans , direct and indirect .</context>
+    </instance>
+    <instance id="Loan-loan-6-2-2" docsrc="Loan">
+      <context> The loan is generally provided at <head>a</head> cost , referred to as interest on the debt , which provides an incentive for the lender to engage in the loan . In a legal loan , each of these obligations and restrictions is enforced by contract , which can also place the borrower under additional restrictions known as loan covenants . Although this article focuses on monetary loans , in practice any material object might be lent .</context>
+    </instance>
+    <instance id="Loan-loan-6-99-1" docsrc="Loan">
+      <context>     { \displaystyle P=L\cdot { \frac <head>{</head> c\,(1+c)^{n}}{(1+c)^{n}-1 } } }   For more information see " Monthly loan or mortgage payments " under compound interest .</context>
+    </instance>
+    <instance id="Loan-loan-7-106-1" docsrc="Loan">
+      <context> Credit card companies in some countries have <head>been</head> accused by consumer organizations of lending at usurious interest rates and making money out of frivolous " extra charges " . Abuses can also take place in the form of the customer abusing the lender by not repaying the loan or with an intent to defraud the lender . Most of the basic rules governing how loans are handled for tax purposes in the United States are codified by both Congress ( the Internal Revenue Code ) and the Treasury Department ( Treasury Regulations –</context>
+    </instance>
+    <instance id="Loan-loan-7-54-1" docsrc="Loan">
+      <context> Underwriting is not based upon credit score <head>but</head> rather credit rating . The most typical loan payment type is the fully amortizing payment in which each monthly rate has the same value over time . The fixed monthly payment P for a loan of L for n months and a monthly interest rate c is :</context>
+    </instance>
+    <instance id="Loan-loan-8-45-1" docsrc="Loan">
+      <context> Personal === Loans can also be subcategorized according <head>to</head> whether the debtor is an individual person ( consumer ) or a business . Common personal loans include mortgage loans , car loans , home equity lines of credit , credit cards , installment loans and payday loans .</context>
+    </instance>
+    <instance id="Loan-loan-9-11-1" docsrc="Loan">
+      <context> === Secured === A secured loan is a loan <head>in</head> which the borrower pledges some asset ( e.g. a car or property ) as collateral . A mortgage loan is a very common type of loan , used by many individuals to purchase things .</context>
+    </instance>
+    <instance id="Loan-loan-9-111-2" docsrc="Loan">
+      <context> 1 . A loan is not gross income to <head>the</head> borrower . Since the borrower has the obligation to repay the loan , the borrower has no accession to wealth .</context>
+    </instance>
+    <instance id="Loanword-loan-1-55-1" docsrc="Loanword">
+      <context> Inkhorn <head>debate</head> Language contact Semantic loan</context>
+    </instance>
+    <instance id="Loanword-loan-1-67-1" docsrc="Loanword">
+      <context> Bonn <head>:</head> Bouvier . Bloom , Dan ( 2010 ) : " What 's That Pho ? " . French Loan Words in Vietnam Today ; Taipei Times , [ 2 ]</context>
+    </instance>
+    <instance id="Loanword-loan-11-67-2" docsrc="Loanword">
+      <context> Bloom , Dan ( 2010 ) : " What 's That <head>Pho</head> ? " . French Loan Words in Vietnam Today ; Taipei Times , [ 2 ] Cannon , Garland ( 1999 ) : “ Problems in studying loans ” , Proceedings of the annual meeting of the Berkeley Linguistics Society 25 , 326–336 .</context>
+    </instance>
+    <instance id="Loanword-loan-12-6-1" docsrc="Loanword">
+      <context> Examples of loanwords in the English language include café ( from French <head>café</head> , which literally means " coffee " ) , bazaar ( from Persian bāzār , which means " market " ) , and kindergarten ( from German Kindergarten , which literally means " children 's garden " ) . In a bit of heterological irony , the word calque is a loanword from the French noun , derived from the verb calquer ( to trace , to copy ) , and the word loanword is a calque of the German word Lehnwort , and the phrase " loan translation " is a calque of the German Lehnübersetzung . Strictly speaking , the term loanword conflicts with the ordinary meaning of loan in that something is taken from the donor language without it being something that is possible to return .</context>
+    </instance>
+    <instance id="Loanword-loan-3-87-1" docsrc="Loanword">
+      <context> Zuckermann , Ghil’ad <head>(</head> 2003 ) , ‘ ‘ Language Contact and Lexical Enrichment in Israeli Hebrew ’ ’ , Houndmills : Palgrave Macmillan . World Loanword Database ( WOLD ) Discussion on how loan words exacerbate Future Shock ( Streaming audio &amp; mp3 )</context>
+    </instance>
+    <instance id="Loanword-loan-3-88-1" docsrc="Loanword">
+      <context> World Loanword Database <head>(</head> WOLD ) Discussion on how loan words exacerbate Future Shock ( Streaming audio &amp; mp3 )</context>
+    </instance>
+    <instance id="Loanword-loan-34-12-1" docsrc="Loanword">
+      <context> Strictly speaking , the term loanword conflicts with the ordinary meaning of loan in that something is taken from the donor language without it being something that is possible to return . Most of <head>the</head> technical vocabulary of classical music ( such as concerto , allegro , tempo , aria , opera , and soprano ) is borrowed from Italian , and that of ballet from French . The studies by Werner Betz ( 1949 , 1939 ) , Einar Haugen ( 1950 , also 1956 ) , and Uriel Weinreich ( 1953 ) are regarded as the classical theoretical works on loan influence .</context>
+    </instance>
+    <instance id="Loanword-loan-48-5-1" docsrc="Loanword">
+      <context> Examples of loanwords in the English language include café ( from French café , which literally means " coffee " ) , bazaar ( from Persian bāzār , which means " market " ) , and kindergarten ( from German Kindergarten , which literally means " children 's <head>garden</head> " ) . In a bit of heterological irony , the word calque is a loanword from the French noun , derived from the verb calquer ( to trace , to copy ) , and the word loanword is a calque of the German word Lehnwort , and the phrase " loan translation " is a calque of the German Lehnübersetzung .</context>
+    </instance>
+    <instance id="a01210581_d_3" docsrc="a01210581_d">
+      <context> ( used of <head>loans</head> ) charging a relatively small percentage of the amount borrowed ;</context>
+    </instance>
+    <instance id="a01210717_d_3" docsrc="a01210717_d">
+      <context> ( used of <head>loans</head> ) charging a relatively large percentage of the amount borrowed ;</context>
+    </instance>
+    <instance id="br-a02#w1314_0" docsrc="br-a02">
+      <context> Rep._James_Cotten of Weatherford insisted that a water_development bill passed by the Texas House_of_Representatives was an effort by big cities like Dallas and Fort_Worth to cover_up places like Paradise , a Wise_County hamlet of 250 people . When the shouting ended , the bill passed , 114 to 4 , sending it to the Senate , where a similar proposal is being sponsored by Sen._George_Parkhouse of Dallas . Most of the fire was directed by Cotten against Dallas and Sen._Parkhouse . The bill would increase from $ 5000000 to $ 15000000 the maximum <head>loan</head> the state could make to a local water_project . Cotten construed this as a veiled effort by Parkhouse to help Dallas and other large cities get money which Cotten felt could better be spent providing water for rural Texas . Statements by other legislators that Dallas is paying for all its water_program by local bonds , and that less populous places would benefit most by the pending bill , did not sway Cotten 's attack . The bill 's defenders were mostly small-town legislators like J._W._Buchanan of Dumas , Eligio_(_Kika_)_de_la_Garza of Mission , Sam_F._Collins of Newton and Joe_Chapman of Sulphur_Springs .</context>
+    </instance>
+    <instance id="br-f20#w1922_0" docsrc="br-f20">
+      <context> But Torrio and Capone had graver cause to hate and distrust the Irishman . For three years , since the liquor territorial conference , Torrio had , with his elastic patience , and because he knew that retaliation could cause only violent warfare and disaster to business , tolerated O_'_Banion 's impudent double-crossing . They had suffered , in sulky silence , the sight of his sharp practice in Cicero . When , as a diplomatic gesture of amity and in payment for the <head>loan</head> of gunmen in the April election , Torrio had given O_'_Banion a slice of Cicero , the profits from that district had been $ 20000 a month . In six months O_'_Banion had boosted the profits to $ 100000 a month - mainly by bringing pressure to bear on fifty Chicago speak-easy proprietors to shift out to the suburb . These booze customers had until then been buying their supplies from the Sheldon , Saltis-McErlane , and Druggan-Lake gangs , and now they were competing for trade with the Torrio-Capone saloons ; once_again O_'_Banion 's brash recklessness had caused a proliferation of ill_will . The revenue from O_'_Banion 's Cicero territory went_up still higher , until the yield was more_than the Torrio-Capone takings from the far bigger trade area of Chicago 's South and West_Sides .</context>
+    </instance>
+    <instance id="br-h01#w1026_0" docsrc="br-h01">
+      <context> Branch Offices are_located in other large cities . Small_Business_Administration , What It Is , What It Does , SBA Services for Community_Economic_Development , and various other useful publications on currently important management , technical production , and marketing topics are available , on_request , from Small_Business_Administration , Washington 25 , D.C. . New_Product_Introduction_for_Small_Business_Owners , 30 cents ; Developing_and_Selling_New_Products , 45 cents ; U.S._Government_Purchasing_,_Specifications_,_and_Sales_Directory , 60 cents , are available from the Superintendent_of_Documents , U.S._Government_Printing_Office , Washington 25 , D.C. . SBA makes <head>loans</head> to individual small business_firms , providing them with financing when it is not otherwise available through private lending sources on reasonable terms . Many such loans have been made to establish small concerns or to aid in their growth , thereby contributing substantially to community development programs . SBA loans , which may be made to small manufacturers , small business pools , wholesalers , retailers , service establishments and other small businesses ( when financing is not otherwise available to them on reasonable terms ) , are to finance business construction , conversion , or expansion ; the purchase of equipment , facilities , machinery , supplies , or materials ; or to supply working_capital . Evidence that other sources of financing are unavailable must be provided .</context>
+    </instance>
+    <instance id="br-h01#w1052_0" docsrc="br-h01">
+      <context> Small_Business_Administration , What It Is , What It Does , SBA Services for Community_Economic_Development , and various other useful publications on currently important management , technical production , and marketing topics are available , on_request , from Small_Business_Administration , Washington 25 , D.C. . New_Product_Introduction_for_Small_Business_Owners , 30 cents ; Developing_and_Selling_New_Products , 45 cents ; U.S._Government_Purchasing_,_Specifications_,_and_Sales_Directory , 60 cents , are available from the Superintendent_of_Documents , U.S._Government_Printing_Office , Washington 25 , D.C. . SBA makes loans to individual small business_firms , providing them with financing when it is not otherwise available through private lending sources on reasonable terms . Many such <head>loans</head> have been made to establish small concerns or to aid in their growth , thereby contributing substantially to community development programs . SBA loans , which may be made to small manufacturers , small business pools , wholesalers , retailers , service establishments and other small businesses ( when financing is not otherwise available to them on reasonable terms ) , are to finance business construction , conversion , or expansion ; the purchase of equipment , facilities , machinery , supplies , or materials ; or to supply working_capital . Evidence that other sources of financing are unavailable must be provided . SBA business loans are of two types : `` participation '' and `` direct '' .</context>
+    </instance>
+    <instance id="br-h01#w1076_0" docsrc="br-h01">
+      <context> New_Product_Introduction_for_Small_Business_Owners , 30 cents ; Developing_and_Selling_New_Products , 45 cents ; U.S._Government_Purchasing_,_Specifications_,_and_Sales_Directory , 60 cents , are available from the Superintendent_of_Documents , U.S._Government_Printing_Office , Washington 25 , D.C. . SBA makes loans to individual small business_firms , providing them with financing when it is not otherwise available through private lending sources on reasonable terms . Many such loans have been made to establish small concerns or to aid in their growth , thereby contributing substantially to community development programs . SBA <head>loans</head> , which may be made to small manufacturers , small business pools , wholesalers , retailers , service establishments and other small businesses ( when financing is not otherwise available to them on reasonable terms ) , are to finance business construction , conversion , or expansion ; the purchase of equipment , facilities , machinery , supplies , or materials ; or to supply working_capital . Evidence that other sources of financing are unavailable must be provided . SBA business loans are of two types : `` participation '' and `` direct '' . Participation_loans are those made jointly by the SBA and banks or other private lending_institutions .</context>
+    </instance>
+    <instance id="br-h01#w1158_0" docsrc="br-h01">
+      <context> Many such loans have been made to establish small concerns or to aid in their growth , thereby contributing substantially to community development programs . SBA loans , which may be made to small manufacturers , small business pools , wholesalers , retailers , service establishments and other small businesses ( when financing is not otherwise available to them on reasonable terms ) , are to finance business construction , conversion , or expansion ; the purchase of equipment , facilities , machinery , supplies , or materials ; or to supply working_capital . Evidence that other sources of financing are unavailable must be provided . SBA business <head>loans</head> are of two types : `` participation '' and `` direct '' . Participation_loans are those made jointly by the SBA and banks or other private lending_institutions . Direct_loans are those made by SBA alone . To qualify for either type of loan , an applicant must be a small business or approved small business `` pool '' and must meet certain credit requirements .</context>
+    </instance>
+    <instance id="br-h01#w1201_0" docsrc="br-h01">
+      <context> SBA business loans are of two types : `` participation '' and `` direct '' . Participation_loans are those made jointly by the SBA and banks or other private lending_institutions . Direct_loans are those made by SBA alone . To qualify for either type of <head>loan</head> , an applicant must be a small business or approved small business `` pool '' and must meet certain credit requirements . A small business is defined as one which is independently owned and operated and which is not dominant in its field . In_addition , the SBA uses such criteria as number of employees and dollar_volume of the business . The credit requirements stipulate that the applicant must have the ability to operate the business successfully and have enough capital in the business so that , with loan assistance from the SBA , it will be able to operate on a sound financial basis .</context>
+    </instance>
+    <instance id="br-h01#w1290_0" docsrc="br-h01">
+      <context> To qualify for either type of loan , an applicant must be a small business or approved small business `` pool '' and must meet certain credit requirements . A small business is defined as one which is independently owned and operated and which is not dominant in its field . In_addition , the SBA uses such criteria as number of employees and dollar_volume of the business . The credit requirements stipulate that the applicant must have the ability to operate the business successfully and have enough capital in the business so that , with <head>loan</head> assistance from the SBA , it will be able to operate on a sound financial basis . A proposed loan must be for sound purposes or sufficiently secured so_as to assure a reasonable chance of repayment . The record of past earnings and prospects for the future must indicate it has the ability to repay the loan out of current and anticipated income . The amount which may be borrowed from the SBA depends_on how much is required to carry_out the intended purpose of the loan .</context>
+    </instance>
+    <instance id="br-h01#w1310_0" docsrc="br-h01">
+      <context> A small business is defined as one which is independently owned and operated and which is not dominant in its field . In_addition , the SBA uses such criteria as number of employees and dollar_volume of the business . The credit requirements stipulate that the applicant must have the ability to operate the business successfully and have enough capital in the business so that , with loan assistance from the SBA , it will be able to operate on a sound financial basis . A proposed <head>loan</head> must be for sound purposes or sufficiently secured so_as to assure a reasonable chance of repayment . The record of past earnings and prospects for the future must indicate it has the ability to repay the loan out of current and anticipated income . The amount which may be borrowed from the SBA depends_on how much is required to carry_out the intended purpose of the loan . The maximum loan which SBA may make to any one borrower is $ 350000 .</context>
+    </instance>
+    <instance id="br-h01#w1347_0" docsrc="br-h01">
+      <context> In_addition , the SBA uses such criteria as number of employees and dollar_volume of the business . The credit requirements stipulate that the applicant must have the ability to operate the business successfully and have enough capital in the business so that , with loan assistance from the SBA , it will be able to operate on a sound financial basis . A proposed loan must be for sound purposes or sufficiently secured so_as to assure a reasonable chance of repayment . The record of past earnings and prospects for the future must indicate it has the ability to repay the <head>loan</head> out of current and anticipated income . The amount which may be borrowed from the SBA depends_on how much is required to carry_out the intended purpose of the loan . The maximum loan which SBA may make to any one borrower is $ 350000 . Business loans generally are repayable in regular installments - usually monthly , including interest at the rate of 5 - 1/2 percent per_annum on the unpaid balance - and have a maximum maturity of 10 years ; the term of loans for working_capital is 6 years .</context>
+    </instance>
+    <instance id="br-h01#w1376_0" docsrc="br-h01">
+      <context> The credit requirements stipulate that the applicant must have the ability to operate the business successfully and have enough capital in the business so that , with loan assistance from the SBA , it will be able to operate on a sound financial basis . A proposed loan must be for sound purposes or sufficiently secured so_as to assure a reasonable chance of repayment . The record of past earnings and prospects for the future must indicate it has the ability to repay the loan out of current and anticipated income . The amount which may be borrowed from the SBA depends_on how much is required to carry_out the intended purpose of the <head>loan</head> . The maximum loan which SBA may make to any one borrower is $ 350000 . Business loans generally are repayable in regular installments - usually monthly , including interest at the rate of 5 - 1/2 percent per_annum on the unpaid balance - and have a maximum maturity of 10 years ; the term of loans for working_capital is 6 years . For further information , contact SBA_Regional Offices in Atlanta , Ga. ; Boston , Mass. ; Chicago , Ill. ; Cleveland , Ohio ; Dallas , Tex. ; Denver , Colo. ; Detroit , Mich. ; Kansas_City , Mo. ; Los_Angeles , Calif. ; Minneapolis , Minn. ; New_York , N.Y. ; Philadelphia , Pa. ; Richmond , Va. ; San_Francisco , Calif. ; and Seattle , Wash. .</context>
+    </instance>
+    <instance id="br-h01#w1380_0" docsrc="br-h01">
+      <context> A proposed loan must be for sound purposes or sufficiently secured so_as to assure a reasonable chance of repayment . The record of past earnings and prospects for the future must indicate it has the ability to repay the loan out of current and anticipated income . The amount which may be borrowed from the SBA depends_on how much is required to carry_out the intended purpose of the loan . The maximum <head>loan</head> which SBA may make to any one borrower is $ 350000 . Business loans generally are repayable in regular installments - usually monthly , including interest at the rate of 5 - 1/2 percent per_annum on the unpaid balance - and have a maximum maturity of 10 years ; the term of loans for working_capital is 6 years . For further information , contact SBA_Regional Offices in Atlanta , Ga. ; Boston , Mass. ; Chicago , Ill. ; Cleveland , Ohio ; Dallas , Tex. ; Denver , Colo. ; Detroit , Mich. ; Kansas_City , Mo. ; Los_Angeles , Calif. ; Minneapolis , Minn. ; New_York , N.Y. ; Philadelphia , Pa. ; Richmond , Va. ; San_Francisco , Calif. ; and Seattle , Wash. . Branch Offices are located in other large cities .</context>
+    </instance>
+    <instance id="br-h01#w1394_0" docsrc="br-h01">
+      <context> The record of past earnings and prospects for the future must indicate it has the ability to repay the loan out of current and anticipated income . The amount which may be borrowed from the SBA depends_on how much is required to carry_out the intended purpose of the loan . The maximum loan which SBA may make to any one borrower is $ 350000 . Business <head>loans</head> generally are repayable in regular installments - usually monthly , including interest at the rate of 5 - 1/2 percent per_annum on the unpaid balance - and have a maximum maturity of 10 years ; the term of loans for working_capital is 6 years . For further information , contact SBA_Regional Offices in Atlanta , Ga. ; Boston , Mass. ; Chicago , Ill. ; Cleveland , Ohio ; Dallas , Tex. ; Denver , Colo. ; Detroit , Mich. ; Kansas_City , Mo. ; Los_Angeles , Calif. ; Minneapolis , Minn. ; New_York , N.Y. ; Philadelphia , Pa. ; Richmond , Va. ; San_Francisco , Calif. ; and Seattle , Wash. . Branch Offices are located in other large cities . Small_Business_Administration_,_What_It_Is_,_What_It_Does ; SBA Business_Loans_and_Small_Business_Pooling are available , on_request , from Small_Business_Administration , Washington 25 , D.C. , and its regional offices .</context>
+    </instance>
+    <instance id="br-h01#w1433_0" docsrc="br-h01">
+      <context> The record of past earnings and prospects for the future must indicate it has the ability to repay the loan out of current and anticipated income . The amount which may be borrowed from the SBA depends_on how much is required to carry_out the intended purpose of the loan . The maximum loan which SBA may make to any one borrower is $ 350000 . Business loans generally are repayable in regular installments - usually monthly , including interest at the rate of 5 - 1/2 percent per_annum on the unpaid balance - and have a maximum maturity of 10 years ; the term of <head>loans</head> for working_capital is 6 years . For further information , contact SBA_Regional Offices in Atlanta , Ga. ; Boston , Mass. ; Chicago , Ill. ; Cleveland , Ohio ; Dallas , Tex. ; Denver , Colo. ; Detroit , Mich. ; Kansas_City , Mo. ; Los_Angeles , Calif. ; Minneapolis , Minn. ; New_York , N.Y. ; Philadelphia , Pa. ; Richmond , Va. ; San_Francisco , Calif. ; and Seattle , Wash. . Branch Offices are located in other large cities . Small_Business_Administration_,_What_It_Is_,_What_It_Does ; SBA Business_Loans_and_Small_Business_Pooling are available , on_request , from Small_Business_Administration , Washington 25 , D.C. , and its regional offices .</context>
+    </instance>
+    <instance id="br-h01#w1685_0" docsrc="br-h01">
+      <context> The credit provdied by the first two services in the system outlined above is primarily for general agricultural purposes . The third credit service , Banks_for_Cooperatives , exists under authority of the Farm_Credit_Act_of_1933 . The Banks_for_Cooperatives were established to provide a permanent source of credit on a sound basis for farmers ' cooperatives . Three distinct classes of <head>loans</head> are made available to farmers ' cooperatives by the Banks_for_Cooperatives : Commodity loans , operating_capital loans , and facility loans . To be eligible to borrow from a Bank_for_Cooperatives , a cooperative must be an association in which farmers act together in processing and marketing farm products , purchasing farm supplies , or furnishing farm business services , and must meet the requirements set_forth in the Farm_Credit_Act_of_1933 , as amended . Interest_rates are determined by the board_of_directors of the bank with the approval of the Farm_Credit_Administration .</context>
+    </instance>
+    <instance id="br-h01#w1698_0" docsrc="br-h01">
+      <context> The third credit service , Banks_for_Cooperatives , exists under authority of the Farm_Credit_Act_of_1933 . The Banks_for_Cooperatives were established to provide a permanent source of credit on a sound basis for farmers ' cooperatives . Three distinct classes of loans are made available to farmers ' cooperatives by the Banks_for_Cooperatives : Commodity <head>loans</head> , operating_capital loans , and facility loans . To be eligible to borrow from a Bank_for_Cooperatives , a cooperative must be an association in which farmers act together in processing and marketing farm products , purchasing farm supplies , or furnishing farm business services , and must meet the requirements set_forth in the Farm_Credit_Act_of_1933 , as amended . Interest_rates are determined by the board_of_directors of the bank with the approval of the Farm_Credit_Administration . For further information , contact the Bank_for_Cooperatives serving the region , or the Farm_Credit_Administration , Research_and_Information_Division , Washington 25 , D.C. .</context>
+    </instance>
+    <instance id="br-h01#w1701_0" docsrc="br-h01">
+      <context> The third credit service , Banks_for_Cooperatives , exists under authority of the Farm_Credit_Act_of_1933 . The Banks_for_Cooperatives were established to provide a permanent source of credit on a sound basis for farmers ' cooperatives . Three distinct classes of loans are made available to farmers ' cooperatives by the Banks_for_Cooperatives : Commodity loans , operating_capital <head>loans</head> , and facility loans . To be eligible to borrow from a Bank_for_Cooperatives , a cooperative must be an association in which farmers act together in processing and marketing farm products , purchasing farm supplies , or furnishing farm business services , and must meet the requirements set_forth in the Farm_Credit_Act_of_1933 , as amended . Interest_rates are determined by the board_of_directors of the bank with the approval of the Farm_Credit_Administration . For further information , contact the Bank_for_Cooperatives serving the region , or the Farm_Credit_Administration , Research_and_Information_Division , Washington 25 , D.C. .</context>
+    </instance>
+    <instance id="br-h01#w1705_0" docsrc="br-h01">
+      <context> The third credit service , Banks_for_Cooperatives , exists under authority of the Farm_Credit_Act_of_1933 . The Banks_for_Cooperatives were established to provide a permanent source of credit on a sound basis for farmers ' cooperatives . Three distinct classes of loans are made available to farmers ' cooperatives by the Banks_for_Cooperatives : Commodity loans , operating_capital loans , and facility <head>loans</head> . To be eligible to borrow from a Bank_for_Cooperatives , a cooperative must be an association in which farmers act together in processing and marketing farm products , purchasing farm supplies , or furnishing farm business services , and must meet the requirements set_forth in the Farm_Credit_Act_of_1933 , as amended . Interest_rates are determined by the board_of_directors of the bank with the approval of the Farm_Credit_Administration . For further information , contact the Bank_for_Cooperatives serving the region , or the Farm_Credit_Administration , Research_and_Information_Division , Washington 25 , D.C. .</context>
+    </instance>
+    <instance id="br-l17#w2198_0" docsrc="br-l17">
+      <context> Language was no problem anyway ; Mr._Phillips had only to signal from his doorway to summon aid from the ubiquitous bilingual children who played on the sidewalks of Mission_Street . Aside from the fact that business was slow this time_of_year and his one salesgirl was not the most enterprising , Mr._Phillips had no worries at_all , and he said as much to Gun_Matson , who sat across from him in civilian clothes , on a Jiffy-Couch-a-Bed , mauve velour , $ 79.89 nothing down special ! `` She 's honest_as_the_day '' , Mr._Phillips said , and added , `` Mr._Gunnar , I can say this to you : Beebe is a_little too honest . You can n't tell a customer how much it 's going_to cost him to refinance his payments before he even signs for a <head>loan</head> on the money down ! A time_plan is a mere convenience , you understand , and when '' - He interrupted himself , smiling . `` I put her in lamps . That way I do n't lose so much '' .</context>
+    </instance>
+    <instance id="n00089891_d_13" docsrc="n00089891_d">
+      <context> the action of regaining possession ( especially the seizure of collateral securing a <head>loan</head> that is in default ) ;</context>
+    </instance>
+    <instance id="n00090076_d_11" docsrc="n00090076_d">
+      <context> the legal_proceedings initiated by a creditor to repossess the collateral for <head>loan</head> that is in default ;</context>
+    </instance>
+    <instance id="n00175174_d_14" docsrc="n00175174_d">
+      <context> a buyout using borrowed money ; the target_company's assets are usually security for the <head>loan</head> ;</context>
+    </instance>
+    <instance id="n00175433_d_12" docsrc="n00175433_d">
+      <context> a leveraged_buyout in which the target_company's assets are sold to repay the <head>loan</head> that financed the takeover ;</context>
+    </instance>
+    <instance id="n01100273_d_13" docsrc="n01100273_d">
+      <context> transacting business with a bank ; depositing or withdrawing funds or requesting a <head>loan</head> etc. ;</context>
+    </instance>
+    <instance id="n01100658_d_17" docsrc="n01100658_d">
+      <context> engaging in the business of keeping money for savings and checking_accounts or for exchange or for issuing <head>loans</head> and credit etc. ;</context>
+    </instance>
+    <instance id="n01111236_d_11" docsrc="n01111236_d">
+      <context> borrowing and leaving an article as security for repayment of the <head>loan</head> ;</context>
+    </instance>
+    <instance id="n01141366_d_5" docsrc="n01141366_d">
+      <context> formal authorization to get a <head>loan</head> ( usually from a bank ) ;</context>
+    </instance>
+    <instance id="n03680629_d_3" docsrc="n03680629_d">
+      <context> an office where <head>loans</head> are negotiated and repaid ;</context>
+    </instance>
+    <instance id="n03901974_d_3" docsrc="n03901974_d">
+      <context> a shop where <head>loans</head> are made with personal_property as security ;</context>
+    </instance>
+    <instance id="n05189396_d_12" docsrc="n05189396_d">
+      <context> the legal_right of a bank to seize deposited funds to cover a <head>loan</head> that is in default ;</context>
+    </instance>
+    <instance id="n06964600_d_14" docsrc="n06964600_d">
+      <context> the Italian dialect spoken in Sardinia ; sometimes considered a separate language with many <head>loan</head> words from Spanish ;</context>
+    </instance>
+    <instance id="n07188238_d_10" docsrc="n07188238_d">
+      <context> the act of soliciting money ( as a gift or <head>loan</head> ) ;</context>
+    </instance>
+    <instance id="n08055718_d_4" docsrc="n08055718_d">
+      <context> a financial_institution that makes <head>loans</head> ;</context>
+    </instance>
+    <instance id="n08300783_d_8" docsrc="n08300783_d">
+      <context> a United_Nations_agency created to assist developing nations by <head>loans</head> guaranteed by member governments ;</context>
+    </instance>
+    <instance id="n08301307_d_9" docsrc="n08301307_d">
+      <context> a United_Nations_agency that invests directly in companies and guarantees <head>loans</head> to private investors ; affiliated with the World_Bank ;</context>
+    </instance>
+    <instance id="n08418420_d_7" docsrc="n08418420_d">
+      <context> a financial_institution that accepts demand_deposits and makes <head>loans</head> and provides other services for the public ;</context>
+    </instance>
+    <instance id="n08421100_d_4" docsrc="n08421100_d">
+      <context> a finance_company that makes <head>loans</head> to people who have trouble getting a bank_loan ;</context>
+    </instance>
+    <instance id="n08421291_d_5" docsrc="n08421291_d">
+      <context> a finance_company that makes small <head>loans</head> to industrial workers ;</context>
+    </instance>
+    <instance id="n08421441_d_13" docsrc="n08421441_d">
+      <context> a finance_company owned by a manufacturer to finance dealers' inventories or to make <head>loans</head> to consumers buying the company's products ;</context>
+    </instance>
+    <instance id="n08422714_d_14" docsrc="n08422714_d">
+      <context> a thrift_institution that is required by law to make a certain percentage of its <head>loans</head> as home mortgages ;</context>
+    </instance>
+    <instance id="n13276519_d_3" docsrc="n13276519_d">
+      <context> interest paid on <head>loans</head> ;</context>
+    </instance>
+    <instance id="n13319253_d_9" docsrc="n13319253_d">
+      <context> interest on an annual basis deducted in_advance on a <head>loan</head> ;</context>
+    </instance>
+    <instance id="n13319872_d_4" docsrc="n13319872_d">
+      <context> the interest_rate on short-term <head>loans</head> that banks charge their commercial customers with high credit_ratings ;</context>
+    </instance>
+    <instance id="n13322938_d_19" docsrc="n13322938_d">
+      <context> a fee charged to a borrower ( especially for a mortgage_loan ) to cover the costs of initiating the <head>loan</head> ;</context>
+    </instance>
+    <instance id="n13339189_d_9" docsrc="n13339189_d">
+      <context> a bond made by a reversioner to secure a <head>loan</head> ; payable out of his reversion ;</context>
+    </instance>
+    <instance id="n13348964_d_17" docsrc="n13348964_d">
+      <context> low-cost insurance that is valid only for a stated period_of_time and has no cash surrender value or <head>loan</head> value ;</context>
+    </instance>
+    <instance id="n13352138_d_12" docsrc="n13352138_d">
+      <context> a conditional conveyance of property as security for the repayment of a <head>loan</head> ;</context>
+    </instance>
+    <instance id="n13352722_d_1" docsrc="n13352722_d">
+      <context> a <head>loan</head> to buy some personal item ; the item ( or chattel ) is security for the loan ;</context>
+    </instance>
+    <instance id="n13352722_d_18" docsrc="n13352722_d">
+      <context> a loan to buy some personal item ; the item ( or chattel ) is security for the <head>loan</head> ;</context>
+    </instance>
+    <instance id="n13352865_d_8" docsrc="n13352865_d">
+      <context> a security pledged for the repayment of a <head>loan</head> ;</context>
+    </instance>
+    <instance id="n13374597_d_1" docsrc="n13374597_d">
+      <context> a <head>loan</head> made by a bank ; to be repaid with interest on or before a fixed date ;</context>
+    </instance>
+    <instance id="n13374887_d_1" docsrc="n13374887_d">
+      <context> a <head>loan</head> from one bank to another ;</context>
+    </instance>
+    <instance id="n13374979_d_1" docsrc="n13374979_d">
+      <context> a <head>loan</head> secured by equity value in the borrower's home ;</context>
+    </instance>
+    <instance id="n13375167_d_1" docsrc="n13375167_d">
+      <context> a <head>loan</head> repaid with interest in equal periodic payments ;</context>
+    </instance>
+    <instance id="n13399275_d_1" docsrc="n13399275_d">
+      <context> a <head>loan</head> that is repayable on_demand ;</context>
+    </instance>
+    <instance id="n13399379_d_1" docsrc="n13399379_d">
+      <context> a <head>loan</head> by a lender to a customer without the use of a third party ; direct lending gives the lender greater discretion in making loans ;</context>
+    </instance>
+    <instance id="n13399379_d_25" docsrc="n13399379_d">
+      <context> a loan by a lender to a customer without the use of a third party ; direct lending gives the lender greater discretion in making <head>loans</head> ;</context>
+    </instance>
+    <instance id="n13399570_d_1" docsrc="n13399570_d">
+      <context> a <head>loan</head> that is shared by a group of banks that join to make a loan too big for any one of them alone ;</context>
+    </instance>
+    <instance id="n13399570_d_15" docsrc="n13399570_d">
+      <context> a loan that is shared by a group of banks that join to make a <head>loan</head> too big for any one of them alone ;</context>
+    </instance>
+    <instance id="n13399782_d_1" docsrc="n13399782_d">
+      <context> a <head>loan</head> that establishes consumer_credit that is granted for personal use ; usually unsecured and based on the borrower's integrity and ability to pay ;</context>
+    </instance>
+    <instance id="n13400334_d_1" docsrc="n13400334_d">
+      <context> a <head>loan</head> on real_estate that is usually secured by a mortgage ;</context>
+    </instance>
+    <instance id="n13400472_d_1" docsrc="n13400472_d">
+      <context> a <head>loan</head> that is payable on or before a specified date ;</context>
+    </instance>
+    <instance id="n13409850_d_21" docsrc="n13409850_d">
+      <context> a minimum credit balance that a bank may require a borrower to keep on deposit as a condition for granting a <head>loan</head> ; a common requirement for establishing a line_of_credit at a bank ;</context>
+    </instance>
+    <instance id="n13976527_d_15" docsrc="n13976527_d">
+      <context> a word for chaos or fiasco borrowed from modern Hebrew ( where it is a <head>loan</head> word from Russian ) ;</context>
+    </instance>
+    <instance id="n13997778_d_7" docsrc="n13997778_d">
+      <context> a practice in which employers give high-interest <head>loans</head> to workers whose entire families then labor at low wages to pay_off the debt ; the practice is illegal in the United_States ;</context>
+    </instance>
+    <instance id="v00998030_d_7" docsrc="v00998030_d">
+      <context> sign and endorse , as for a <head>loan</head> ;</context>
+    </instance>
+    <instance id="v02271667_d_4" docsrc="v02271667_d">
+      <context> negociate to repay a <head>loan</head> at a later date for an additional fee ;</context>
+    </instance>
+  </lexelt>
+</corpus>

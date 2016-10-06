@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="responsiveness.n" pos="NN">
+    <instance id="a02107634_d_2" docsrc="a02107634_d">
+      <context> blunted in <head>responsiveness</head> or sensibility ;</context>
+    </instance>
+    <instance id="n04620741_d_4" docsrc="n04620741_d">
+      <context> a concern with or <head>responsiveness</head> to outward things ( especially material objects as opposed to ideal concepts ) ;</context>
+    </instance>
+    <instance id="n05897255_d_14" docsrc="n05897255_d">
+      <context> a rare but serious syndrome of childhood characterized by withdrawal and lack of social <head>responsiveness</head> or interest in others and serious linguistic deficits ;</context>
+    </instance>
+  </lexelt>
+</corpus>

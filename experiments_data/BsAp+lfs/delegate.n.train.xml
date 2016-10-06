@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="delegate.n" pos="NN">
+    <instance id="br-h18#w632_0" docsrc="br-h18">
+      <context> Further , I would hope that we could pay_attention to little things . While observing the operations of our Government in various parts of the world , I have felt that in many situations where our policies were good we have tended to ignore minor problems which spoiled our main effort . To cite only a_few examples : The wrong man in the wrong position , perhaps even in a junior position abroad , can be a source of great harm to our policy ; the attitudes of a U.N. <head>delegate</head> who experiences difficulty in finding adequate housing in New_York_City , or of a foreign diplomat in similar circumstances in our Capital , can be easily be directed against the United_States and all that it stands_for . Dozens of seemingly small matters go_wrong all_over the world . Sometimes those who know about them are too far down the line to be able to do anything about them . I would hope that we could create the recognition in the Department and overseas that those who come_across little things going_wrong have the responsibility for bringing these to the attention of those who can do something about them .</context>
+    </instance>
+  </lexelt>
+</corpus>

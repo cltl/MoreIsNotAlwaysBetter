@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="asset.n" pos="NN">
+    <instance id="Asset-asset-0-21-2" docsrc="Asset">
+      <context> <head>The</head> accounting equation is the mathematical structure of the balance sheet . It relates assets , liabilities , and owner 's equity : Assets = Liabilities + Capital ( where Capital for a corporation equals Owner 's Equity )</context>
+    </instance>
+    <instance id="Asset-asset-0-25-1" docsrc="Asset">
+      <context> <head>Capital</head> = Assets − Liabilities That is , the total value of a firm 's Assets are always equal to the combined value of its " equity " and " liabilities . " Assets are listed on the balance sheet .</context>
+    </instance>
+    <instance id="Asset-asset-0-26-2" docsrc="Asset">
+      <context> <head>Assets</head> are listed on the balance sheet . In a company 's balance sheet certain divisions are required by generally accepted accounting principles ( GAAP ) , which vary from country to country . Assets can be divided into e.g. current assets and fixed assets , often with further subdivisions such as cash , receivables and inventory .</context>
+    </instance>
+    <instance id="Asset-asset-1-1-3" docsrc="Asset">
+      <context> It <head>is</head> money and other valuables belonging to an individual or business . Two major asset classes are tangible assets and intangible assets . Tangible assets contain various subclasses , including current assets and fixed assets .</context>
+    </instance>
+    <instance id="Asset-asset-1-1-4" docsrc="Asset">
+      <context> Two <head>major</head> asset classes are tangible assets and intangible assets . Tangible assets contain various subclasses , including current assets and fixed assets . Current assets include inventory , while fixed assets include such items as buildings and equipment .</context>
+    </instance>
+    <instance id="Asset-asset-1-1-5" docsrc="Asset">
+      <context> Tangible <head>assets</head> contain various subclasses , including current assets and fixed assets . Current assets include inventory , while fixed assets include such items as buildings and equipment . Intangible assets are nonphysical resources and rights that have a value to the firm because they give the firm some kind of advantage in the market place .</context>
+    </instance>
+    <instance id="Asset-asset-1-16-1" docsrc="Asset">
+      <context> This <head>is</head> because an entity does not have sufficient control over its employees to satisfy the Framework 's definition of an asset . Similarly , in economics an asset is any form in which wealth can be held . === Assets in accounting ===</context>
+    </instance>
+    <instance id="Asset-asset-1-2-2" docsrc="Asset">
+      <context> Intangible <head>assets</head> are nonphysical resources and rights that have a value to the firm because they give the firm some kind of advantage in the market place . Examples of intangible assets are goodwill , copyrights , trademarks , patents and computer programs , and financial assets , including such items as accounts receivable , bonds and stocks . An asset is a resource controlled by the entity as a result of past events and from which future economic benefits are expected to flow to the entity ( Framework Par 49a ) .</context>
+    </instance>
+    <instance id="Asset-asset-1-30-1" docsrc="Asset">
+      <context> Assets <head>can</head> be divided into e.g. current assets and fixed assets , often with further subdivisions such as cash , receivables and inventory . === Current assets === Current assets are cash and other assets expected to be converted to cash or consumed either in a year or in the operating cycle ( whichever is longer ) , without disturbing the normal operations of a business .</context>
+    </instance>
+    <instance id="Asset-asset-1-32-1" docsrc="Asset">
+      <context> === <head>Current</head> assets === Current assets are cash and other assets expected to be converted to cash or consumed either in a year or in the operating cycle ( whichever is longer ) , without disturbing the normal operations of a business . These assets are continually turned over in the course of a business during normal business activity .</context>
+    </instance>
+    <instance id="Asset-asset-1-56-1" docsrc="Asset">
+      <context> These <head>are</head> also called capital assets in management accounting . === Intangible assets === Intangible assets lack of physical substance and usually are very hard to evaluate .</context>
+    </instance>
+    <instance id="Asset-asset-1-58-2" docsrc="Asset">
+      <context> Intangible <head>assets</head> lack of physical substance and usually are very hard to evaluate . They include patents , copyrights , franchises , goodwill , trademarks , trade names , etc . These assets are ( according to US GAAP ) amortized to expense over 5 to 40 years with the exception of goodwill .</context>
+    </instance>
+    <instance id="Asset-asset-1-62-1" docsrc="Asset">
+      <context> Websites <head>are</head> treated differently in different countries and may fall under either tangible or intangible assets . === Tangible assets === Tangible assets are those that have a physical substance , such as currencies , buildings , real estate , vehicles , inventories , equipment , art collections , and precious metals .</context>
+    </instance>
+    <instance id="Asset-asset-10-24-1" docsrc="Asset">
+      <context> Liabilities = Assets − Capital Capital = Assets − Liabilities <head>That</head> is , the total value of a firm 's Assets are always equal to the combined value of its " equity " and " liabilities . "</context>
+    </instance>
+    <instance id="Asset-asset-10-26-2" docsrc="Asset">
+      <context> Assets are listed on the balance sheet . In a <head>company</head> 's balance sheet certain divisions are required by generally accepted accounting principles ( GAAP ) , which vary from country to country . Assets can be divided into e.g. current assets and fixed assets , often with further subdivisions such as cash , receivables and inventory .</context>
+    </instance>
+    <instance id="Asset-asset-10-32-3" docsrc="Asset">
+      <context> These assets are continually turned over in the course of <head>a</head> business during normal business activity . There are 5 major items included into current assets : Cash and cash equivalents — it is the most liquid asset , which includes currency , deposit accounts , and negotiable instruments ( e.g. , money orders , cheque , bank drafts ) .</context>
+    </instance>
+    <instance id="Asset-asset-10-68-1" docsrc="Asset">
+      <context> This process of depreciation is used instead of allocating the <head>entire</head> expense to one year . === Comparison : current assets , liquid assets and absolute liquid assets ===</context>
+    </instance>
+    <instance id="Asset-asset-11-1-3" docsrc="Asset">
+      <context> It is money and other valuables belonging to an individual or <head>business</head> . Two major asset classes are tangible assets and intangible assets . Tangible assets contain various subclasses , including current assets and fixed assets .</context>
+    </instance>
+    <instance id="Asset-asset-12-0-3" docsrc="Asset">
+      <context> Anything tangible or intangible that can be owned or controlled to produce <head>value</head> and that is held to have positive economic value is considered an asset . Simply stated , assets represent value of ownership that can be converted into cash ( although cash itself is also considered an asset ) . The balance sheet of a firm records the monetary value of the assets owned by the firm .</context>
+    </instance>
+    <instance id="Asset-asset-12-10-1" docsrc="Asset">
+      <context> An asset is a resource controlled by the entity as a result <head>of</head> past events and from which future economic benefits are expected to flow to the entity ( Framework Par 49a ) . One of the most widely accepted accounting definitions of asset is the one used by the International Accounting Standards Board . The following is a quotation from the IFRS Framework : " An asset is a resource controlled by the enterprise as a result of past events and from which future economic benefits are expected to flow to the enterprise . "</context>
+    </instance>
+    <instance id="Asset-asset-12-36-3" docsrc="Asset">
+      <context> The inventory value reported on the balance sheet is usually the historical <head>cost</head> or fair market value , whichever is lower . This is known as the " lower of cost or market " rule . Prepaid expenses — these are expenses paid in cash and recorded as assets before they are used or consumed ( common examples are insurance or office supplies ) .</context>
+    </instance>
+    <instance id="Asset-asset-14-11-1" docsrc="Asset">
+      <context> The following is a quotation from the IFRS Framework : " An asset is <head>a</head> resource controlled by the enterprise as a result of past events and from which future economic benefits are expected to flow to the enterprise . " This means that : The probable present benefit involve a capacity , singly or in combination with other assets , in the case of profit oriented enterprises , to contribute directly or indirectly to future net cash flows , and , in the case of nonprofit organizations , to provide services ;</context>
+    </instance>
+    <instance id="Asset-asset-15-58-3" docsrc="Asset">
+      <context> They include patents , copyrights , franchises , goodwill , trademarks , trade names , <head>etc</head> . These assets are ( according to US GAAP ) amortized to expense over 5 to 40 years with the exception of goodwill . Websites are treated differently in different countries and may fall under either tangible or intangible assets .</context>
+    </instance>
+    <instance id="Asset-asset-18-2-1" docsrc="Asset">
+      <context> Current assets include inventory , while fixed assets include such items as buildings and equipment . Intangible assets <head>are</head> nonphysical resources and rights that have a value to the firm because they give the firm some kind of advantage in the market place . Examples of intangible assets are goodwill , copyrights , trademarks , patents and computer programs , and financial assets , including such items as accounts receivable , bonds and stocks .</context>
+    </instance>
+    <instance id="Asset-asset-2-1-2" docsrc="Asset">
+      <context> The balance <head>sheet</head> of a firm records the monetary value of the assets owned by the firm . It is money and other valuables belonging to an individual or business . Two major asset classes are tangible assets and intangible assets .</context>
+    </instance>
+    <instance id="Asset-asset-2-21-1" docsrc="Asset">
+      <context> In the <head>financial</head> accounting sense of the term , it is not necessary to be able to legally enforce the asset 's benefit for qualifying a resource as being an asset , provided the entity can control its use by other means . The accounting equation is the mathematical structure of the balance sheet . It relates assets , liabilities , and owner 's equity :</context>
+    </instance>
+    <instance id="Asset-asset-2-22-1" docsrc="Asset">
+      <context> It relates <head>assets</head> , liabilities , and owner 's equity : Assets = Liabilities + Capital ( where Capital for a corporation equals Owner 's Equity ) Liabilities = Assets − Capital</context>
+    </instance>
+    <instance id="Asset-asset-2-23-1" docsrc="Asset">
+      <context> Assets = <head>Liabilities</head> + Capital ( where Capital for a corporation equals Owner 's Equity ) Liabilities = Assets − Capital Capital = Assets − Liabilities</context>
+    </instance>
+    <instance id="Asset-asset-2-26-3" docsrc="Asset">
+      <context> In a <head>company</head> 's balance sheet certain divisions are required by generally accepted accounting principles ( GAAP ) , which vary from country to country . Assets can be divided into e.g. current assets and fixed assets , often with further subdivisions such as cash , receivables and inventory . === Current assets ===</context>
+    </instance>
+    <instance id="Asset-asset-2-47-1" docsrc="Asset">
+      <context> Investments in <head>special</head> funds ( e.g. sinking funds or pension funds ) . Different forms of insurance may also be treated as long term investments . === Fixed assets ===</context>
+    </instance>
+    <instance id="Asset-asset-2-53-1" docsrc="Asset">
+      <context> === Fixed <head>assets</head> === These are also called capital assets in management accounting . === Intangible assets ===</context>
+    </instance>
+    <instance id="Asset-asset-2-59-1" docsrc="Asset">
+      <context> These assets <head>are</head> ( according to US GAAP ) amortized to expense over 5 to 40 years with the exception of goodwill . Websites are treated differently in different countries and may fall under either tangible or intangible assets . === Tangible assets ===</context>
+    </instance>
+    <instance id="Asset-asset-2-68-2" docsrc="Asset">
+      <context> === Comparison <head>:</head> current assets , liquid assets and absolute liquid assets === Trading account assets</context>
+    </instance>
+    <instance id="Asset-asset-2-72-1" docsrc="Asset">
+      <context> Comparison : <head>current</head> assets , liquid assets and absolute liquid assets === Trading account assets</context>
+    </instance>
+    <instance id="Asset-asset-20-19-1" docsrc="Asset">
+      <context> Similarly , in economics an asset is any form in which wealth can be held . === Assets in accounting <head>===</head> In the financial accounting sense of the term , it is not necessary to be able to legally enforce the asset 's benefit for qualifying a resource as being an asset , provided the entity can control its use by other means .</context>
+    </instance>
+    <instance id="Asset-asset-21-15-1" docsrc="Asset">
+      <context> The transaction or event giving rise to the entity 's right to , or control of , the benefit has already <head>occurred</head> . Employees are not considered assets like machinery is , even though they can generate future economic benefits . This is because an entity does not have sufficient control over its employees to satisfy the Framework 's definition of an asset .</context>
+    </instance>
+    <instance id="Asset-asset-21-38-1" docsrc="Asset">
+      <context> See also adjusting entries . Marketable securities : Securities that can be converted into cash quickly at a reasonable price . <head>The</head> phrase net current assets ( also called working capital ) is often used and refers to the total of current assets less the total of current liabilities .</context>
+    </instance>
+    <instance id="Asset-asset-22-0-2" docsrc="Asset">
+      <context> In financial accounting , an asset is an economic resource . Anything tangible or intangible that can be owned or controlled to <head>produce</head> value and that is held to have positive economic value is considered an asset . Simply stated , assets represent value of ownership that can be converted into cash ( although cash itself is also considered an asset ) .</context>
+    </instance>
+    <instance id="Asset-asset-25-0-1" docsrc="Asset">
+      <context> In financial accounting , an asset is an economic resource . Anything tangible or intangible that can be owned or controlled to produce value and <head>that</head> is held to have positive economic value is considered an asset .</context>
+    </instance>
+    <instance id="Asset-asset-3-0-2" docsrc="Asset">
+      <context> In financial accounting <head>,</head> an asset is an economic resource . Anything tangible or intangible that can be owned or controlled to produce value and that is held to have positive economic value is considered an asset . Simply stated , assets represent value of ownership that can be converted into cash ( although cash itself is also considered an asset ) .</context>
+    </instance>
+    <instance id="Asset-asset-3-2-1" docsrc="Asset">
+      <context> Current assets include <head>inventory</head> , while fixed assets include such items as buildings and equipment . Intangible assets are nonphysical resources and rights that have a value to the firm because they give the firm some kind of advantage in the market place . Examples of intangible assets are goodwill , copyrights , trademarks , patents and computer programs , and financial assets , including such items as accounts receivable , bonds and stocks .</context>
+    </instance>
+    <instance id="Asset-asset-3-39-1" docsrc="Asset">
+      <context> Marketable securities : <head>Securities</head> that can be converted into cash quickly at a reasonable price . The phrase net current assets ( also called working capital ) is often used and refers to the total of current assets less the total of current liabilities . Investments in fixed assets not used in operations ( e.g. , land held for sale ) .</context>
+    </instance>
+    <instance id="Asset-asset-3-68-1" docsrc="Asset">
+      <context> This process of <head>depreciation</head> is used instead of allocating the entire expense to one year . === Comparison : current assets , liquid assets and absolute liquid assets ===</context>
+    </instance>
+    <instance id="Asset-asset-30-19-1" docsrc="Asset">
+      <context> Similarly , in economics an asset is any form in which wealth can be held . === Assets in accounting === In the financial accounting sense of the term , <head>it</head> is not necessary to be able to legally enforce the asset 's benefit for qualifying a resource as being an asset , provided the entity can control its use by other means .</context>
+    </instance>
+    <instance id="Asset-asset-4-14-1" docsrc="Asset">
+      <context> The entity can control <head>access</head> to the benefit ; The transaction or event giving rise to the entity 's right to , or control of , the benefit has already occurred . Employees are not considered assets like machinery is , even though they can generate future economic benefits .</context>
+    </instance>
+    <instance id="Asset-asset-4-33-1" docsrc="Asset">
+      <context> There are 5 major <head>items</head> included into current assets : Cash and cash equivalents — it is the most liquid asset , which includes currency , deposit accounts , and negotiable instruments ( e.g. , money orders , cheque , bank drafts ) . Inventory — trading these assets is a normal business of a company .</context>
+    </instance>
+    <instance id="Asset-asset-4-38-1" docsrc="Asset">
+      <context> See also adjusting entries <head>.</head> Marketable securities : Securities that can be converted into cash quickly at a reasonable price . The phrase net current assets ( also called working capital ) is often used and refers to the total of current assets less the total of current liabilities .</context>
+    </instance>
+    <instance id="Asset-asset-5-15-2" docsrc="Asset">
+      <context> Employees are not considered assets <head>like</head> machinery is , even though they can generate future economic benefits . This is because an entity does not have sufficient control over its employees to satisfy the Framework 's definition of an asset . Similarly , in economics an asset is any form in which wealth can be held .</context>
+    </instance>
+    <instance id="Asset-asset-5-50-1" docsrc="Asset">
+      <context> Different forms of insurance may <head>also</head> be treated as long term investments . === Fixed assets === These are also called capital assets in management accounting .</context>
+    </instance>
+    <instance id="Asset-asset-5-63-1" docsrc="Asset">
+      <context> === Tangible assets === Tangible <head>assets</head> are those that have a physical substance , such as currencies , buildings , real estate , vehicles , inventories , equipment , art collections , and precious metals . Depreciation is applied to tangible assets when those assets have an anticipated lifespan of more than one year .</context>
+    </instance>
+    <instance id="Asset-asset-6-1-2" docsrc="Asset">
+      <context> The balance sheet of a firm <head>records</head> the monetary value of the assets owned by the firm . It is money and other valuables belonging to an individual or business . Two major asset classes are tangible assets and intangible assets .</context>
+    </instance>
+    <instance id="Asset-asset-6-30-1" docsrc="Asset">
+      <context> Assets can be divided into e.g. <head>current</head> assets and fixed assets , often with further subdivisions such as cash , receivables and inventory . === Current assets === Current assets are cash and other assets expected to be converted to cash or consumed either in a year or in the operating cycle ( whichever is longer ) , without disturbing the normal operations of a business .</context>
+    </instance>
+    <instance id="Asset-asset-6-68-1" docsrc="Asset">
+      <context> This process of depreciation is used <head>instead</head> of allocating the entire expense to one year . === Comparison : current assets , liquid assets and absolute liquid assets ===</context>
+    </instance>
+    <instance id="Asset-asset-7-1-4" docsrc="Asset">
+      <context> Two major asset classes are tangible assets <head>and</head> intangible assets . Tangible assets contain various subclasses , including current assets and fixed assets . Current assets include inventory , while fixed assets include such items as buildings and equipment .</context>
+    </instance>
+    <instance id="Asset-asset-7-26-2" docsrc="Asset">
+      <context> Assets are listed on the balance sheet <head>.</head> In a company 's balance sheet certain divisions are required by generally accepted accounting principles ( GAAP ) , which vary from country to country . Assets can be divided into e.g. current assets and fixed assets , often with further subdivisions such as cash , receivables and inventory .</context>
+    </instance>
+    <instance id="Asset-asset-8-1-3" docsrc="Asset">
+      <context> It is money and other valuables belonging to <head>an</head> individual or business . Two major asset classes are tangible assets and intangible assets . Tangible assets contain various subclasses , including current assets and fixed assets .</context>
+    </instance>
+    <instance id="Asset-asset-8-32-2" docsrc="Asset">
+      <context> Current assets are cash and other assets expected <head>to</head> be converted to cash or consumed either in a year or in the operating cycle ( whichever is longer ) , without disturbing the normal operations of a business . These assets are continually turned over in the course of a business during normal business activity . There are 5 major items included into current assets :</context>
+    </instance>
+    <instance id="Asset-asset-8-63-1" docsrc="Asset">
+      <context> === Tangible assets === Tangible assets are those <head>that</head> have a physical substance , such as currencies , buildings , real estate , vehicles , inventories , equipment , art collections , and precious metals . Depreciation is applied to tangible assets when those assets have an anticipated lifespan of more than one year .</context>
+    </instance>
+    <instance id="Asset-asset-9-1-2" docsrc="Asset">
+      <context> The balance sheet of a firm records the monetary <head>value</head> of the assets owned by the firm . It is money and other valuables belonging to an individual or business . Two major asset classes are tangible assets and intangible assets .</context>
+    </instance>
+    <instance id="Asset-asset-9-6-1" docsrc="Asset">
+      <context> Examples of intangible assets are goodwill , copyrights , <head>trademarks</head> , patents and computer programs , and financial assets , including such items as accounts receivable , bonds and stocks . An asset is a resource controlled by the entity as a result of past events and from which future economic benefits are expected to flow to the entity ( Framework Par 49a ) . One of the most widely accepted accounting definitions of asset is the one used by the International Accounting Standards Board .</context>
+    </instance>
+    <instance id="br-j38#w1062_0" docsrc="br-j38">
+      <context> A prospective industry also may be interested in the long-run advantages of training_programs in the area to supply future skilled_workers and provide supplementary extension courses for its employees . The existence of a public_school vocational training_program in trade and industry provides a base from which such needs can be filled . Additional courses can readily be added and special cooperative programs worked_out with any new industry if the basic facilities , staff and program are in being . Thus , besides the training provided to youth in school , the existence of the school program can have supplementary benefits to industry which make it an <head>asset</head> to industrial development efforts . Few states make effective use of their existing vocational education programs or funds for the purpose of attracting new industry . The opportunity exists for states to reserve some of their vocational education funds to apply on an ad_hoc flexible basis to subsidize any local preemployment_training_programs that my be quickly set_up in a community to aid a new industrial plant . The major weakness of vocational training_programs in labor surplus areas is their focus on serving solely local job demands .</context>
+    </instance>
+  </lexelt>
+</corpus>

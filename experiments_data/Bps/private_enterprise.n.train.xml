@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="private_enterprise.n" pos="NN">
+    <instance id="n11305258_d_4" docsrc="n11305258_d">
+      <context> Scottish economist who advocated <head>private_enterprise</head> and free_trade ;</context>
+    </instance>
+  </lexelt>
+</corpus>

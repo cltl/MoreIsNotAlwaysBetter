@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="impartiality.n" pos="n">
+    <instance id="Impartiality-impartiality-0-40-1" docsrc="Impartiality">
+      <context> <head>Harvard</head> University Press . Occhiogrosso , Peter . " Buddhism , " The Joy of Sects : a spirited guide to the world 's religious traditions , 1991 p. 84 Impartiality , from Stanford Online Encyclopedia of Philosophy</context>
+    </instance>
+    <instance id="Impartiality-impartiality-5-45-1" docsrc="Impartiality">
+      <context> Impartiality , from Stanford Online <head>Encyclopedia</head> of Philosophy Endtimeprophecy.net Quranicteachings.co.uk , The Quran on impartiality</context>
+    </instance>
+    <instance id="Impartiality-impartiality-5-46-1" docsrc="Impartiality">
+      <context> Endtimeprophecy.net Quranicteachings.co.uk , The Quran <head>on</head> impartiality</context>
+    </instance>
+    <instance id="Impartiality-impartiality-8-34-1" docsrc="Impartiality">
+      <context> —Book of Proverbs 24:23 , KJV Objectivity ( <head>philosophy</head> ) Gert , Bernard . 1995 . " Moral Impartiality . " Midwest Studies in Philosophy XX : 102–127 .</context>
+    </instance>
+  </lexelt>
+</corpus>

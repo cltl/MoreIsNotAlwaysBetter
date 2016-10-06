@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Nicaragua.n" pos="NN">
+    <instance id="a03090939_d_4" docsrc="a03090939_d">
+      <context> of or relating to <head>Nicaragua</head> or is people ;</context>
+    </instance>
+    <instance id="n01312096_d_56" docsrc="n01312096_d">
+      <context> a war between the Allies ( Australia , Belgium , Bolivia , Brazil , Canada , China , Colombia , Costa_Rica , Cuba , Czechoslovakia , Dominican_Republic , El_Salvador , Ethiopia , France , Greece , Guatemala , Haiti , Honduras , India , Iran , Iraq , Luxembourg , Mexico , Netherlands , New_Zealand , <head>Nicaragua</head> , Norway , Panama , Philippines , Poland , South_Africa , United_Kingdom , United_States , USSR , Yugoslavia ) and the Axis ( Albania , Bulgaria , Finland , Germany , Hungary , Italy , Japan , Rumania , Slovakia , Thailand ) from 1939 to 1945 ;</context>
+    </instance>
+    <instance id="n08739047_d_6" docsrc="n08739047_d">
+      <context> the capital and largest city of <head>Nicaragua</head> ;</context>
+    </instance>
+    <instance id="n09612447_d_11" docsrc="n09612447_d">
+      <context> a member of the guerrilla_force that opposed a left-wing government in <head>Nicaragua</head> ;</context>
+    </instance>
+    <instance id="n09724656_d_5" docsrc="n09724656_d">
+      <context> a native or inhabitant of <head>Nicaragua</head> ;</context>
+    </instance>
+    <instance id="n13665256_d_33" docsrc="n13665256_d">
+      <context> a fractional_monetary_unit of several countries : El_Salvador and Sao_Tome_and_Principe and Brazil and Argentina and Bolivia and Colombia and Cuba and the Dominican_Republic and Ecuador and El_Salvador and Guatemala and Honduras and Mexico and <head>Nicaragua</head> and Peru and the Philippines and Portugal ;</context>
+    </instance>
+    <instance id="n13691154_d_2" docsrc="n13691154_d">
+      <context> monetary_unit in <head>Nicaragua</head> ;</context>
+    </instance>
+    <instance id="n13691269_d_6" docsrc="n13691269_d">
+      <context> the basic unit of money in <head>Nicaragua</head> ; equal to 100 centavos ;</context>
+    </instance>
+  </lexelt>
+</corpus>

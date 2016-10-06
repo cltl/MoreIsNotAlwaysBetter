@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="arrival.n" pos="NN">
+    <instance id="a00096913_d_4" docsrc="a00096913_d">
+      <context> abbreviation for dead on <head>arrival</head> at the emergency_room ;</context>
+    </instance>
+    <instance id="a03030096_d_10" docsrc="a03030096_d">
+      <context> of or relating to or originating_in the Americas before the <head>arrival</head> of Columbus ;</context>
+    </instance>
+    <instance id="br-e27#w432_0" docsrc="br-e27">
+      <context> To reduce incidence of liver abscesses , supply 75 milligrams of oxytetracycline activity per head daily . To prevent or treat bacterial diarrhea , furnish 0.1 to 5 milligrams per pound of body_weight daily . For the prevention or treatment of the early stages of shipping_fever complex , increase feeding level to 0.5 to 2 grams per head per day . For the best results , feed this level to cattle 3 to 5 days preceding shipment and / or 3 to 5 days following their <head>arrival</head> in your feed_lot . For treatment of shipping_fever , this level should be fed at the onset of the disease symptoms until symptoms disappear . To increase rate of gain and improve feed efficiency , feed 10 to 20 grams per ton . As an aid in the prevention of bacterial diarrhea ( scours ) , feed 50 grams per ton .</context>
+    </instance>
+    <instance id="n00048374_ex1_3" docsrc="n00048374_ex1">
+      <context> they awaited her <head>arrival</head> ;</context>
+    </instance>
+    <instance id="n00048656_d_0" docsrc="n00048656_d">
+      <context> <head>arrival</head> at a new stage ;</context>
+    </instance>
+    <instance id="n00048828_d_0" docsrc="n00048828_d">
+      <context> <head>arrival</head> that has been awaited ( especially of something momentous ) ;</context>
+    </instance>
+    <instance id="n03998867_d_18" docsrc="n03998867_d">
+      <context> a computer for controlling antiaircraft_fire that computes the position of an aircraft at the instant of a shell's <head>arrival</head> ;</context>
+    </instance>
+    <instance id="n06479204_d_18" docsrc="n06479204_d">
+      <context> a certificate saying that a departing ship's_company is healthy ( to be presented at the next port of <head>arrival</head> ) ;</context>
+    </instance>
+    <instance id="n10355688_d_2" docsrc="n10355688_d">
+      <context> a recent <head>arrival</head> ;</context>
+    </instance>
+    <instance id="n13919394_d_3" docsrc="n13919394_d">
+      <context> the angle of <head>arrival</head> ( or departure ) of a radio_wave with respect to the axis of an antenna array ;</context>
+    </instance>
+    <instance id="v00900583_d_6" docsrc="v00900583_d">
+      <context> bid welcome to ; greet upon <head>arrival</head> ;</context>
+    </instance>
+    <instance id="v00966152_d_2" docsrc="v00966152_d">
+      <context> announce one's <head>arrival</head> , e.g. at hotels or airports ;</context>
+    </instance>
+    <instance id="v00966330_d_2" docsrc="v00966330_d">
+      <context> register one's <head>arrival</head> at_work ;</context>
+    </instance>
+    <instance id="v02022804_d_8" docsrc="v02022804_d">
+      <context> meet by design ; be present at the <head>arrival</head> of ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="representation.n" pos="NN">
+    <instance id="Theatre-representation-5-16-3" docsrc="Theatre">
+      <context> Old Comedy survives today largely <head>in</head> the form of the eleven surviving plays of Aristophanes , while Middle Comedy is largely lost ( preserved only in relatively short fragments in authors such as Athenaeus of Naucratis ) . New Comedy is known primarily from the substantial papyrus fragments of Menander . Aristotle defined comedy as a representation of laughable people that involves some kind of blunder or ugliness that does not cause pain or disaster .</context>
+    </instance>
+    <instance id="a00588207_d_19" docsrc="a00588207_d">
+      <context> destructive of images used in religious worship ; said of religions , such as Islam , in which the <head>representation</head> of living_things is prohibited ;</context>
+    </instance>
+    <instance id="a00631798_d_6" docsrc="a00631798_d">
+      <context> ( of ideas , images , <head>representations</head> , expressions ) characterized by perfect conformity to fact or truth ; strictly correct ;</context>
+    </instance>
+    <instance id="a00716562_d_6" docsrc="a00716562_d">
+      <context> being or characteristic of government by <head>representation</head> in which citizens exercise power through elected officers and representatives ;</context>
+    </instance>
+    <instance id="a01716034_d_7" docsrc="a01716034_d">
+      <context> not paintable especially not suitable for artistic <head>representation</head> on canvas ;</context>
+    </instance>
+    <instance id="br-d03#w1646_0" docsrc="br-d03">
+      <context> In this connection , it has been observed that the increasing number of Irish Catholics , priests and laity , in England , while certainly seen as good for Catholicism , is nevertheless a source of embarrassment for some of the more nationalistic English Catholics , especially when these Irishmen offer to remind their Christian brethren of this good . One of the more noteworthy changes that have taken_place since the mid 19th century is the situation of Catholics at Oxford and Cambridge_Universities . At Oxford one_hundred years ago there were very few Catholics , partly because religious tests were removed only in 1854 . Moreover , for those few there was almost no ecclesiastical <head>representation</head> in the city to care for their religious needs . Now , not_only are there considerably more laity as students and professors at Oxford , but there are also numerous houses of religious_orders existing in respectable and friendly relations with the non_Catholic members of the University . Some Catholic priests lecture there ; Catholic seminarians attend tutorials and row on the Cherwell with non-Catholic students . Further evidence that Roman_Catholicism enjoys a more favorable_position today than in 1861 is the respectful attention given to_it in the mass_media of England .</context>
+    </instance>
+    <instance id="n00528667_d_2" docsrc="n00528667_d">
+      <context> a theatrical <head>representation</head> of a story that is performed to music by trained dancers ;</context>
+    </instance>
+    <instance id="n00772026_d_8" docsrc="n00772026_d">
+      <context> an offense involving intent to defraud and false <head>representation</head> and obtaining property as a result of that misrepresentation ;</context>
+    </instance>
+    <instance id="n00778213_d_9" docsrc="n00778213_d">
+      <context> actual deceit ; concealing something or making a false <head>representation</head> with an evil intent to cause injury to another ;</context>
+    </instance>
+    <instance id="n01217720_d_0" docsrc="n01217720_d">
+      <context> <head>representation</head> of all parties in proportion to their popular vote ;</context>
+    </instance>
+    <instance id="n05754197_d_23" docsrc="n05754197_d">
+      <context> unconscious internalization of aspects of the world ( especially aspects of persons ) within the self in such a way that the internalized <head>representation</head> takes_over the psychological functions of the external objects ;</context>
+    </instance>
+    <instance id="n06739782_ex1_1" docsrc="n06739782_ex1">
+      <context> certain <head>representations</head> were made concerning police brutality ;</context>
+    </instance>
+    <instance id="n08337108_ex1_6" docsrc="n08337108_ex1">
+      <context> a Congressional vacancy occurred in the <head>representation</head> from California ;</context>
+    </instance>
+    <instance id="n14000820_d_1" docsrc="n14000820_d">
+      <context> personal <head>representation</head> that has legal_status ;</context>
+    </instance>
+  </lexelt>
+</corpus>

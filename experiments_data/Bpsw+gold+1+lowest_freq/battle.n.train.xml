@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="battle.n" pos="NN">
+    <instance id="a00097577_d_2" docsrc="a00097577_d">
+      <context> killed in <head>battle</head> ;</context>
+    </instance>
+    <instance id="a01318252_d_2" docsrc="a01318252_d">
+      <context> scarred by <head>battle</head> ;</context>
+    </instance>
+    <instance id="n00416646_d_6" docsrc="n00416646_d">
+      <context> a course leading to warfare or <head>battle</head> ;</context>
+    </instance>
+    <instance id="n00519118_d_7" docsrc="n00519118_d">
+      <context> a celebration following a victory in a <head>battle</head> or sports competition ;</context>
+    </instance>
+    <instance id="n00788973_ex2_3" docsrc="n00788973_ex2">
+      <context> he fought a <head>battle</head> for recognition ;</context>
+    </instance>
+    <instance id="n00956340_d_3" docsrc="n00956340_d">
+      <context> any catastrophically destructive <head>battle</head> ;</context>
+    </instance>
+    <instance id="n00958896_ex2_5" docsrc="n00958896_ex2">
+      <context> police tried to control the <head>battle</head> between the pro and anti abortion mobs ;</context>
+    </instance>
+    <instance id="n05164353_d_15" docsrc="n05164353_d">
+      <context> the number of deaths resulting from some particular cause such as an accident or a <head>battle</head> or a natural disaster ;</context>
+    </instance>
+    <instance id="n05902786_d_4" docsrc="n05902786_d">
+      <context> plan for conducting a <head>battle</head> ;</context>
+    </instance>
+    <instance id="n09779280_d_6" docsrc="n09779280_d">
+      <context> someone involved in a contest or <head>battle</head> ( as in an agon ) ;</context>
+    </instance>
+    <instance id="n14385919_d_4" docsrc="n14385919_d">
+      <context> a morbid fear of <head>battle</head> or physical injury ;</context>
+    </instance>
+    <instance id="v01079480_d_11" docsrc="v01079480_d">
+      <context> contend against an opponent in a sport , game , or <head>battle</head> ;</context>
+    </instance>
+    <instance id="v01121719_d_12" docsrc="v01121719_d">
+      <context> to make a rush at or sudden attack upon , as in <head>battle</head> ;</context>
+    </instance>
+    <instance id="v02620213_d_4" docsrc="v02620213_d">
+      <context> die , as in <head>battle</head> or in a hunt ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="participant.n" pos="NN">
+    <instance id="br-d02#w1745_0" docsrc="br-d02">
+      <context> When we say , then , that today , in our situation , the demand for demythologization must be accepted without condition , we are simply saying that at_least this much of the liberal tradition is an enduring achievement . However much we may have to criticize liberal theology 's constructive formulations , the theology we ourselves must strive to formulate can only go beyond liberalism , not behind it . In affirming this we have already taken the decisive step in breaking the deadlock into which Bultmann 's attempt to formulate such a theology has led . For we have said , in_effect , that of the two alternatives to his position variously represented by the other <head>participants</head> in the demythologizing discussion , only one is really an alternative . If the demand for demythologization is unavoidable and so must be accepted by theology unconditionally , the position of the `` right '' is clearly untenable . Whereas Bultmann 's `` center '' position is structurally inconsistent and is therefore indefensible on formal grounds alone , the general position of the `` right '' , as represented , say , by Karl_Barth , involves the rejection or at_least qualification of the demand for demythologization and so is invalidated on the material grounds we have just considered . It follows , then , provided the possibilities have been exhausted , that the only real alternative is the general viewpoint of the `` left '' , which has been represented on the Continent by Fritz_Buri and , to some extent at_least , is found in much that is significant in American and English theology .</context>
+    </instance>
+    <instance id="n00440747_d_4" docsrc="n00440747_d">
+      <context> a sport in which <head>participants</head> must travel on skis ;</context>
+    </instance>
+    <instance id="n00459570_d_4" docsrc="n00459570_d">
+      <context> a game in which <head>participants</head> compete to identify some obscurely indicated thing ;</context>
+    </instance>
+  </lexelt>
+</corpus>

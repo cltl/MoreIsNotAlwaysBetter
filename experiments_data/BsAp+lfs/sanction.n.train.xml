@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="sanction.n" pos="NN">
+    <instance id="a01194806_d_3" docsrc="a01194806_d">
+      <context> providing legal_power or <head>sanction</head> ;</context>
+    </instance>
+    <instance id="a01195128_d_1" docsrc="a01195128_d">
+      <context> implying <head>sanction</head> or serving to sanction ;</context>
+    </instance>
+    <instance id="a01632537_d_4" docsrc="a01632537_d">
+      <context> having official authority or <head>sanction</head> ;</context>
+    </instance>
+    <instance id="a01633490_d_5" docsrc="a01633490_d">
+      <context> having some official authority or <head>sanction</head> ;</context>
+    </instance>
+    <instance id="a01633591_d_5" docsrc="a01633591_d">
+      <context> not having official authority or <head>sanction</head> ;</context>
+    </instance>
+    <instance id="br-j23#w2192_0" docsrc="br-j23">
+      <context> The insuperable reward systems that most religions embody have great motivating effects . Religion provides the most attractive rewards , either in this world or the next , for those who not merely abide_by its norms , but who engage in good works . Religion usually acts_as a powerful aid in social_control , enforcing what men should or should not do . Among primitive peoples the <head>sanctions</head> and dictates of religion were more binding than any of the other controls exercised by the group ; and in modern societies such influence is still great . Religion has its own supernatural prescriptions that are at_the_same_time codes_of_behavior for the here_and_now .</context>
+    </instance>
+    <instance id="br-j57#w1699_0" docsrc="br-j57">
+      <context> Indeed , of all that is his every man is by nature and reason and therefore by conscience obligated to regard himself as a custodian . He is a trustee for the common good , however feeble the safeguards which the positive or municipal law of property provides against his misuse of that share of the common fund , wisely or unwisely , entrusted to his keeping . In_contrast_to this Stoic patristic view , Utopia implies that the nature of man is such that to rely_on individual conscience to supply the deficiencies of municipal law is to embark on the bottomless sea of human sinfulness in a sieve . The Utopians brace conscience with legal <head>sanctions</head> . In a properly ordered society the massive force of public_law performs the function which in natural_law theory ineptly is left altogether to a small_voice so often still . In all the respects just indicated Utopian communism differs from previous conceptions in which community of possessions and living plays a role . Neither from one of these conceptions nor from a combination of them can it be deduced .</context>
+    </instance>
+    <instance id="br-r09#w215_0" docsrc="br-r09">
+      <context> Since the latter obviously require an audacity you do not possess , you may perhaps suppose that I am taunting you as socially inferior . Far from it ; I merely draw an etymological distinction , hoping that specialists and busy people like you will welcome such precision in a layman . Above_all , disabuse yourselves of any thought that I propose to vent moral indignation at your rifling my residence , to whimper over the loss of a_few objets_d'art , or to shame you into rectitude . My object , rather , is to alert you to an aspect or two of the affair that could have the gravest implications for you , far beyond the legal <head>sanctions</head> society might inflict . You have unwittingly set_in_motion forces so malign , so vindictive , that it would be downright inhumane of me not to warn you about them . Quite candidly , fellows , I would n't be_in_your_shoes for all the rice in China . As you 've doubtless forgotten the circumstances in the press of more recent depredations , permit me to recapitulate them briefly .</context>
+    </instance>
+    <instance id="n00810234_d_4" docsrc="n00810234_d">
+      <context> possession for which criminal <head>sanctions</head> are provided because the property may not lawfully be possessed or may not be possessed under certain circumstances ;</context>
+    </instance>
+    <instance id="n01138670_d_6" docsrc="n01138670_d">
+      <context> the act of conferring legality or <head>sanction</head> or formal warrant ;</context>
+    </instance>
+    <instance id="n01139000_ex1_3" docsrc="n01139000_ex1">
+      <context> it had the <head>sanction</head> of the church ;</context>
+    </instance>
+    <instance id="n01139490_d_0" docsrc="n01139490_d">
+      <context> <head>sanction</head> by a religious_rite ;</context>
+    </instance>
+    <instance id="n01139636_d_2" docsrc="n01139636_d">
+      <context> by the <head>sanction</head> or authority of ;</context>
+    </instance>
+    <instance id="n03112605_d_8" docsrc="n03112605_d">
+      <context> a swift pirate_ship ( often operating with official <head>sanction</head> ) ;</context>
+    </instance>
+    <instance id="n06533039_d_8" docsrc="n06533039_d">
+      <context> law intended to eradicate organized_crime by establishing strong <head>sanctions</head> and forfeiture provisions ;</context>
+    </instance>
+    <instance id="n10410246_d_12" docsrc="n10410246_d">
+      <context> a member of a military_force that is assigned ( often with international <head>sanction</head> ) to preserve peace in a trouble area ;</context>
+    </instance>
+    <instance id="v00806891_d_2" docsrc="v00806891_d">
+      <context> give religious <head>sanction</head> to , such as through on oath ;</context>
+    </instance>
+    <instance id="v02484397_d_3" docsrc="v02484397_d">
+      <context> kill without legal <head>sanction</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,1190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="service.n" pos="NN">
+    <instance id="Robert_W._Service-service-0-6-1" docsrc="Robert_W._Service">
+      <context> <head>===</head> Early life === Service was born in Preston , Lancashire , England , the first of ten children .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-8-2" docsrc="Robert_W._Service">
+      <context> When he was five <head>,</head> Service was sent to live in Kilwinning with his three maiden aunts and his paternal grandfather , the town 's postmaster . There he is said to have composed his first verse , a grace , on his sixth birthday : After leaving school , Service joined the Commercial Bank of Scotland which would later become the Royal Bank of Scotland .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-5-11-3" docsrc="Robert_W._Service">
+      <context> He was writing at this <head>time</head> and reportedly already " selling his verses " . He was also reading poetry : Browning , Keats , Tennyson , and Thackeray . When he was 21 , Service travelled to Vancouver Island , British Columbia , with his Buffalo Bill outfit and dreams of becoming a cowboy .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-5-7-1" docsrc="Robert_W._Service">
+      <context> === Early life === Service <head>was</head> born in Preston , Lancashire , England , the first of ten children . His father , also Robert Service , was a banker from Kilwinning , Scotland , who had been transferred to England .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-5-7-2" docsrc="Robert_W._Service">
+      <context> Service was born in Preston <head>,</head> Lancashire , England , the first of ten children . His father , also Robert Service , was a banker from Kilwinning , Scotland , who had been transferred to England . When he was five , Service was sent to live in Kilwinning with his three maiden aunts and his paternal grandfather , the town 's postmaster .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-15-0-4" docsrc="Serve_(tennis)">
+      <context> Normally players begin a serve by tossing the ball into the air and hitting it <head>(</head> usually near the highest point of the toss ) . The ball can only touch the net on a return and will be considered good if it falls on the opposite side . If the ball contacts the net on the serve but then proceeds to the proper service box , it is called a let ; this is not a legal serve in the major tours ( but see below ) although it is also not a fault .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-15-1-2" docsrc="Serve_(tennis)">
+      <context> The serve is one of the more difficult shots for a novice , but once <head>mastered</head> it can be a considerable advantage . Advanced players can hit the serve in many different ways and often use it as an offensive weapon to gain an advantage in the point or to win it outright . Because of this , players above beginner level are expected to win most of their service games , and the ability to break an opponent 's serve plays a crucial role in a match .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-17-0-1" docsrc="Serve_(tennis)">
+      <context> A serve ( or , more formally , a service ) in tennis is a shot to <head>start</head> a point . A player will hit the ball with a racquet so it will fall into the diagonally opposite service box without being stopped by the net .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-44-2-1" docsrc="Serve_(tennis)">
+      <context> Because of this , players above beginner level are expected to win most of their service games , and the ability to break an opponent 's serve plays a crucial role in a match . For any serve , the server stands behind the <head>baseline</head> without touching it . For the first point of any game , the server stands to the right of the center point of the baseline and serves diagonally across the net to the left side ( from the server 's perspective ) of the court , into the service box which extends to the service line about midway into the opponent 's court .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-1-3" docsrc="Service_(economics)">
+      <context> <head>Thereby</head> , service providers participate in an economy without the restrictions of carrying inventory ( stock ) or the need to concern themselves with bulky raw materials . Furthermore , their investment in expertise does require consistent service marketing and upgrading in the face of competition . Services can be paraphrased in terms of their key characteristics , sometimes called the " Five I 's of Services " .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-22-1" docsrc="Service_(economics)">
+      <context> <head>From</head> the service consumer 's point of view , these characteristics make it difficult , or even impossible , to evaluate or compare services prior to experiencing the service delivery . Any service can be clearly and completely , consistently and concisely specified by means of the following 12 standard attributes which conform to the MECE principle ( Mutually Exclusive , Collectively Exhaustive ) Service consumer benefits – describe the ( set of ) benefits which are triggerable , consumable and effectively utilizable for any authorized service consumer and which are rendered to him as soon as he triggers one service .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-23-2" docsrc="Service_(economics)">
+      <context> <head>Service</head> consumer benefits – describe the ( set of ) benefits which are triggerable , consumable and effectively utilizable for any authorized service consumer and which are rendered to him as soon as he triggers one service . The description of these benefits must be phrased in the terms and wording of the intended service consumers . Service delivery point – describes the physical location and/or logical interface where the benefits of the service are triggered from and rendered to the authorized service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-25-2" docsrc="Service_(economics)">
+      <context> <head>Service</head> delivery point – describes the physical location and/or logical interface where the benefits of the service are triggered from and rendered to the authorized service consumer . At this point and/or interface , the preparedness for service delivery readiness can be assessed as well as the effective delivery of each triggered service can be monitored and controlled . Service consumer count – specifies the number of intended , clearly identified , explicitly named , definitely registered and authorized service consumers which shall be and/or are allowed and enabled to trigger and consume the commissioned service for executing and/or supporting their business tasks or private activities .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-26-1" docsrc="Service_(economics)">
+      <context> <head>At</head> this point and/or interface , the preparedness for service delivery readiness can be assessed as well as the effective delivery of each triggered service can be monitored and controlled . Service consumer count – specifies the number of intended , clearly identified , explicitly named , definitely registered and authorized service consumers which shall be and/or are allowed and enabled to trigger and consume the commissioned service for executing and/or supporting their business tasks or private activities . Service delivering readiness times – specify the distinct agreed times of every day of the week when</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-33-2" docsrc="Service_(economics)">
+      <context> <head>the</head> specified service benefits are competely and terminally rendered to any authorized triggering service consumer without any delay or friction . The time data are specified in 24 h format per local working day and local time UTC , referring to the location of the intended and/or triggering service consumers . Service consumer support language – specifies the national languages which are spoken by the service desk team(s ) to the service consumers calling them .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-36-1" docsrc="Service_(economics)">
+      <context> <head>The</head> time data are specified in 24 h format per local working day and local time UTC , referring to the location of the intended and/or triggering service consumers . Service consumer support language – specifies the national languages which are spoken by the service desk team(s ) to the service consumers calling them . Service fulfillment target – specifies the service provider 's promise of effectively and seamlessly deliver the specified benefits to any authorized service consumer triggering a service within the specified service delivery readiness times .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-37-3" docsrc="Service_(economics)">
+      <context> <head>It</head> is expressed as the promised minimum ratio of the count of successful individual service deliveries related to the count of triggered service deliveries . The effective service fulfillment ratio can be measured and calculated per single service consumer or per service consumer group and may be referred to different time periods ( workhour , workday , calendarweek , workmonth , etc . ) Service impairment duration per incident – specifies the maximum allowable elapsing time [ hh:mm ] between</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-4-1" docsrc="Service_(economics)">
+      <context> <head>Services</head> can be paraphrased in terms of their key characteristics , sometimes called the " Five I 's of Services " . 1 . Intangibility Services are intangible and insubstantial : they can not be touched , gripped , handled , looked at , smelled , tasted .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-40-1" docsrc="Service_(economics)">
+      <context> <head>the</head> first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial , whilst the service consumer consumes and utilizes the requested service , the full resumption and complete execution of the service delivery to the content of the affected service consumer . Service delivering duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all specified service consumer benefits to the triggering service consumer at his currently chosen service delivery point .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-42-1" docsrc="Service_(economics)">
+      <context> <head>the</head> full resumption and complete execution of the service delivery to the content of the affected service consumer . Service delivering duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all specified service consumer benefits to the triggering service consumer at his currently chosen service delivery point . Service delivery unit – specifies the basic portion for rendering the defined service consumer benefits to the triggering service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-43-2" docsrc="Service_(economics)">
+      <context> <head>Service</head> delivery unit – specifies the basic portion for rendering the defined service consumer benefits to the triggering service consumer . The service delivery unit is the reference and mapping object for the Service Delivering Price , for all service costs as well as for charging and billing the consumed service amounts to the service customer who has commissioned the service delivery . Service delivering price – specifies the amount of money the commissioning service customer has to pay for a distinct service delivery unit or for a distinct amount of service delivery units .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-6-1" docsrc="Service_(economics)">
+      <context> <head>Solely</head> , the service delivery can be commissioned to a service provider who must generate and render the service at the distinct request of an authorized service consumer . 2 . Inventory ( Perishability ) Services have little or no tangible components and therefore can not be stored for a future use .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-7-1" docsrc="Service_(economics)">
+      <context> <head>2</head> . Inventory ( Perishability ) Services have little or no tangible components and therefore can not be stored for a future use . Services are produced and consumed during the same period of time .</context>
+    </instance>
+    <instance id="Service_(economics)-service-0-7-2" docsrc="Service_(economics)">
+      <context> <head>Services</head> have little or no tangible components and therefore can not be stored for a future use . Services are produced and consumed during the same period of time . Services are perishable in two regards</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-11-1" docsrc="Service_(economics)">
+      <context> Example <head>:</head> the passenger has been transported to the destination and can not be transported again to this location at this point in time . 3 . Inseparability The service provider is indispensable for service delivery as he must promptly generate and render the service to the requesting service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-116-1" docsrc="Service_(economics)">
+      <context> Movie <head>theatres</head> ( providing the service of showing a movie on a big screen ) Performing arts productions Sexual services</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-12-4" docsrc="Service_(economics)">
+      <context> Additionally <head>,</head> the service consumer is inseparable from service delivery because he is involved in it from requesting it up to consuming the rendered benefits . Examples : The service consumer must sit in the hairdresser 's shop &amp; chair or in the plane &amp; seat ; correspondingly , the hairdresser or the pilot must be in the same shop or plane , respectively , for delivering the service .</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-122-1" docsrc="Service_(economics)">
+      <context> Fabric <head>care</head> Dry cleaning Financial services</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-135-1" docsrc="Service_(economics)">
+      <context> Health <head>care</head> ( all health care professions provide services ) Hospitality industry Information services</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-137-1" docsrc="Service_(economics)">
+      <context> Information <head>services</head> Data processing Database services</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-157-1" docsrc="Service_(economics)">
+      <context> Insurance <head>Security</head> Social services</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-17-1" docsrc="Service_(economics)">
+      <context> A <head>customer</head> has the opportunity to get the services modified according to specific requirement . Each of these characteristics is retractable per se and their inevitable coincidence complicates the consistent service conception and make service delivery a challenge in each and every case . Proper service marketing requires creative visualization to effectively evoke a concrete image in the service consumer 's mind .</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-17-3" docsrc="Service_(economics)">
+      <context> Proper <head>service</head> marketing requires creative visualization to effectively evoke a concrete image in the service consumer 's mind . From the service consumer 's point of view , these characteristics make it difficult , or even impossible , to evaluate or compare services prior to experiencing the service delivery . Any service can be clearly and completely , consistently and concisely specified by means of the following 12 standard attributes which conform to the MECE principle ( Mutually Exclusive , Collectively Exhaustive )</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-43-1" docsrc="Service_(economics)">
+      <context> Service <head>delivering</head> duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all specified service consumer benefits to the triggering service consumer at his currently chosen service delivery point . Service delivery unit – specifies the basic portion for rendering the defined service consumer benefits to the triggering service consumer . The service delivery unit is the reference and mapping object for the Service Delivering Price , for all service costs as well as for charging and billing the consumed service amounts to the service customer who has commissioned the service delivery .</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-59-1" docsrc="Service_(economics)">
+      <context> Other <head>customers</head> at the service delivery location Customer contact The service encounter is defined as all activities involved in the service delivery process .</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-60-1" docsrc="Service_(economics)">
+      <context> Customer <head>contact</head> The service encounter is defined as all activities involved in the service delivery process . Some service managers use the term " moment of truth " to indicate that defining point in a specific service encounter where interactions are most intense .</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-61-3" docsrc="Service_(economics)">
+      <context> The <head>location</head> of the service delivery is referred to as the stage and the objects that facilitate the service process are called props . A script is a sequence of behaviors followed by all those involved , including the client(s ) . Some service dramas are tightly scripted , others are more ad lib .</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-78-1" docsrc="Service_(economics)">
+      <context> business <head>functions</head> ( that apply to all organizations in general ) Consulting Customer service</context>
+    </instance>
+    <instance id="Service_(economics)-service-1-8-1" docsrc="Service_(economics)">
+      <context> Services <head>are</head> produced and consumed during the same period of time . Services are perishable in two regards The service relevant resources , processes and systems are assigned for service delivery during a definite period in time .</context>
+    </instance>
+    <instance id="Service_(economics)-service-10-30-1" docsrc="Service_(economics)">
+      <context> triggerable for the authorized service consumers at the defined service <head>delivery</head> point consumable and utilizable for the authorized service consumers at the respective agreed service level all the required service contributions are aggregated to the triggered service</context>
+    </instance>
+    <instance id="Service_(economics)-service-10-5-3" docsrc="Service_(economics)">
+      <context> Thus , there is neither potential nor need for transport <head>,</head> storage or stocking of services . Furthermore , a service can be ( re)sold or owned by somebody , but it can not be turned over from the service provider to the service consumer . Solely , the service delivery can be commissioned to a service provider who must generate and render the service at the distinct request of an authorized service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-10-64-1" docsrc="Service_(economics)">
+      <context> Under English law , if a service provider is induced <head>to</head> deliver services to a dishonest client by a deception , this is an offence under the Theft Act 1978 . Lovelock has used two issues of number of delivery sites ( whether single or multiple ) and the method of delivery to classify services in a 2 x 3 matrix . Then implications here are that the convenience of receiving the service is the lowest when the customer has to come to the service and must use a single or specific outlets .</context>
+    </instance>
+    <instance id="Service_(economics)-service-10-9-6" docsrc="Service_(economics)">
+      <context> The hairdresser serves another client when the scheduled starting time <head>or</head> time slot is over . An empty seat on a plane never can be utilized and charged after departure . When the service has been completely rendered to the requesting service consumer , this particular service irreversibly vanishes as it has been consumed by the service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-11-12-1" docsrc="Service_(economics)">
+      <context> 3 . Inseparability The service provider is indispensable for service delivery <head>as</head> he must promptly generate and render the service to the requesting service consumer . In many cases the service delivery is executed automatically but the service provider must preparatorily assign resources and systems and actively keep up appropriate service delivery readiness and capabilities .</context>
+    </instance>
+    <instance id="Service_(economics)-service-11-43-2" docsrc="Service_(economics)">
+      <context> Service delivery unit – specifies the basic portion for rendering the <head>defined</head> service consumer benefits to the triggering service consumer . The service delivery unit is the reference and mapping object for the Service Delivering Price , for all service costs as well as for charging and billing the consumed service amounts to the service customer who has commissioned the service delivery . Service delivering price – specifies the amount of money the commissioning service customer has to pay for a distinct service delivery unit or for a distinct amount of service delivery units .</context>
+    </instance>
+    <instance id="Service_(economics)-service-11-59-1" docsrc="Service_(economics)">
+      <context> Other customers at the service delivery location Customer contact The service <head>encounter</head> is defined as all activities involved in the service delivery process .</context>
+    </instance>
+    <instance id="Service_(economics)-service-11-71-4" docsrc="Service_(economics)">
+      <context> For example , a restaurant provides a physical good ( the <head>food</head> ) , but also provides services in the form of ambience , the setting and clearing of the table , etc . And although some utilities actually deliver physical goods — like water utilities which actually deliver water — utilities are usually treated as services . In a narrower sense , service refers to quality of customer service : the measured appropriateness of assistance and support provided to a customer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-11-8-1" docsrc="Service_(economics)">
+      <context> Services are produced and consumed during the same period of time <head>.</head> Services are perishable in two regards The service relevant resources , processes and systems are assigned for service delivery during a definite period in time .</context>
+    </instance>
+    <instance id="Service_(economics)-service-12-29-1" docsrc="Service_(economics)">
+      <context> the described service consumer benefits are triggerable for the authorized service consumers <head>at</head> the defined service delivery point consumable and utilizable for the authorized service consumers at the respective agreed service level</context>
+    </instance>
+    <instance id="Service_(economics)-service-12-37-2" docsrc="Service_(economics)">
+      <context> Service fulfillment target – specifies the service provider 's promise of effectively <head>and</head> seamlessly deliver the specified benefits to any authorized service consumer triggering a service within the specified service delivery readiness times . It is expressed as the promised minimum ratio of the count of successful individual service deliveries related to the count of triggered service deliveries . The effective service fulfillment ratio can be measured and calculated per single service consumer or per service consumer group and may be referred to different time periods ( workhour , workday , calendarweek , workmonth , etc . )</context>
+    </instance>
+    <instance id="Service_(economics)-service-12-42-1" docsrc="Service_(economics)">
+      <context> the full resumption and complete execution of the service delivery to the <head>content</head> of the affected service consumer . Service delivering duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all specified service consumer benefits to the triggering service consumer at his currently chosen service delivery point . Service delivery unit – specifies the basic portion for rendering the defined service consumer benefits to the triggering service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-12-43-1" docsrc="Service_(economics)">
+      <context> Service delivering duration – specifies the promised and agreed maximum allowable period <head>of</head> time for effectively rendering all specified service consumer benefits to the triggering service consumer at his currently chosen service delivery point . Service delivery unit – specifies the basic portion for rendering the defined service consumer benefits to the triggering service consumer . The service delivery unit is the reference and mapping object for the Service Delivering Price , for all service costs as well as for charging and billing the consumed service amounts to the service customer who has commissioned the service delivery .</context>
+    </instance>
+    <instance id="Service_(economics)-service-12-62-2" docsrc="Service_(economics)">
+      <context> In some service industries , especially health care , dispute resolution , <head>and</head> social services , a popular concept is the idea of the caseload , which refers to the total number of patients , clients , litigants , or claimants that a given employee is presently responsible for . On a daily basis , in all those fields , employees must balance the needs of any individual case against the needs of all other current cases as well as their own personal needs . Under English law , if a service provider is induced to deliver services to a dishonest client by a deception , this is an offence under the Theft Act 1978 .</context>
+    </instance>
+    <instance id="Service_(economics)-service-12-76-1" docsrc="Service_(economics)">
+      <context> This particular usage occurs frequently in retailing . The following is a <head>complete</head> list of service industries , grouped into sectors . Parenthetical notations indicate how specific occupations and organizations can be regarded as service industries to the extent they provide an intangible service , as opposed to a tangible good .</context>
+    </instance>
+    <instance id="Service_(economics)-service-13-32-1" docsrc="Service_(economics)">
+      <context> consumable and utilizable for the authorized service consumers at the respective agreed service <head>level</head> all the required service contributions are aggregated to the triggered service the specified service benefits are competely and terminally rendered to any authorized triggering service consumer without any delay or friction .</context>
+    </instance>
+    <instance id="Service_(economics)-service-13-38-1" docsrc="Service_(economics)">
+      <context> The effective service fulfillment ratio can be measured and calculated per single service <head>consumer</head> or per service consumer group and may be referred to different time periods ( workhour , workday , calendarweek , workmonth , etc . ) Service impairment duration per incident – specifies the maximum allowable elapsing time [ hh:mm ] between the first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial , whilst the service consumer consumes and utilizes the requested service ,</context>
+    </instance>
+    <instance id="Service_(economics)-service-13-9-1" docsrc="Service_(economics)">
+      <context> Services are perishable in two regards The service relevant resources , processes and <head>systems</head> are assigned for service delivery during a definite period in time . If the designated or scheduled service consumer does not request and consume the service during this period , the service can not be performed for him .</context>
+    </instance>
+    <instance id="Service_(economics)-service-14-17-1" docsrc="Service_(economics)">
+      <context> A customer has the opportunity to get the services modified according to specific requirement <head>.</head> Each of these characteristics is retractable per se and their inevitable coincidence complicates the consistent service conception and make service delivery a challenge in each and every case . Proper service marketing requires creative visualization to effectively evoke a concrete image in the service consumer 's mind .</context>
+    </instance>
+    <instance id="Service_(economics)-service-14-33-2" docsrc="Service_(economics)">
+      <context> the specified service benefits are competely and terminally rendered to any authorized triggering service <head>consumer</head> without any delay or friction . The time data are specified in 24 h format per local working day and local time UTC , referring to the location of the intended and/or triggering service consumers . Service consumer support language – specifies the national languages which are spoken by the service desk team(s ) to the service consumers calling them .</context>
+    </instance>
+    <instance id="Service_(economics)-service-14-37-1" docsrc="Service_(economics)">
+      <context> Service consumer support language – specifies the national languages which are spoken by the <head>service</head> desk team(s ) to the service consumers calling them . Service fulfillment target – specifies the service provider 's promise of effectively and seamlessly deliver the specified benefits to any authorized service consumer triggering a service within the specified service delivery readiness times . It is expressed as the promised minimum ratio of the count of successful individual service deliveries related to the count of triggered service deliveries .</context>
+    </instance>
+    <instance id="Service_(economics)-service-14-47-1" docsrc="Service_(economics)">
+      <context> a price portion covering the service consumption based on fixed flat rate price per <head>authorized</head> service consumer and reference period for an unlimited amount of consumed services , staged prices per authorized service consumer and reference period for staged amounts of consumed services ,</context>
+    </instance>
+    <instance id="Service_(economics)-service-14-61-5" docsrc="Service_(economics)">
+      <context> Some service dramas are tightly scripted , others are more ad lib . Role <head>congruence</head> occurs when each actor follows a script that harmonizes with the roles played by the other actors . In some service industries , especially health care , dispute resolution , and social services , a popular concept is the idea of the caseload , which refers to the total number of patients , clients , litigants , or claimants that a given employee is presently responsible for .</context>
+    </instance>
+    <instance id="Service_(economics)-service-15-16-2" docsrc="Service_(economics)">
+      <context> One of the most important characteristics of services is the participation of the customer in <head>the</head> service delivery process . A customer has the opportunity to get the services modified according to specific requirement . Each of these characteristics is retractable per se and their inevitable coincidence complicates the consistent service conception and make service delivery a challenge in each and every case .</context>
+    </instance>
+    <instance id="Service_(economics)-service-15-5-1" docsrc="Service_(economics)">
+      <context> 1 . Intangibility Services are intangible and insubstantial : they can not be touched , <head>gripped</head> , handled , looked at , smelled , tasted . Thus , there is neither potential nor need for transport , storage or stocking of services .</context>
+    </instance>
+    <instance id="Service_(economics)-service-15-9-6" docsrc="Service_(economics)">
+      <context> The hairdresser serves another client when the scheduled starting time or time slot is over <head>.</head> An empty seat on a plane never can be utilized and charged after departure . When the service has been completely rendered to the requesting service consumer , this particular service irreversibly vanishes as it has been consumed by the service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-16-11-1" docsrc="Service_(economics)">
+      <context> Example : the passenger has been transported to the destination and can not be transported again <head>to</head> this location at this point in time . 3 . Inseparability The service provider is indispensable for service delivery as he must promptly generate and render the service to the requesting service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-16-15-1" docsrc="Service_(economics)">
+      <context> 4 . Inconsistency ( Variability ) 5 . Involvement One of the most important characteristics of <head>services</head> is the participation of the customer in the service delivery process .</context>
+    </instance>
+    <instance id="Service_(economics)-service-16-23-1" docsrc="Service_(economics)">
+      <context> Any service can be clearly and completely , consistently and concisely specified by means of the <head>following</head> 12 standard attributes which conform to the MECE principle ( Mutually Exclusive , Collectively Exhaustive ) Service consumer benefits – describe the ( set of ) benefits which are triggerable , consumable and effectively utilizable for any authorized service consumer and which are rendered to him as soon as he triggers one service . The description of these benefits must be phrased in the terms and wording of the intended service consumers .</context>
+    </instance>
+    <instance id="Service_(economics)-service-16-23-2" docsrc="Service_(economics)">
+      <context> Service consumer benefits – describe the ( set of ) benefits which are triggerable , consumable <head>and</head> effectively utilizable for any authorized service consumer and which are rendered to him as soon as he triggers one service . The description of these benefits must be phrased in the terms and wording of the intended service consumers . Service delivery point – describes the physical location and/or logical interface where the benefits of the service are triggered from and rendered to the authorized service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-16-37-2" docsrc="Service_(economics)">
+      <context> Service fulfillment target – specifies the service provider 's promise of effectively and seamlessly deliver the <head>specified</head> benefits to any authorized service consumer triggering a service within the specified service delivery readiness times . It is expressed as the promised minimum ratio of the count of successful individual service deliveries related to the count of triggered service deliveries . The effective service fulfillment ratio can be measured and calculated per single service consumer or per service consumer group and may be referred to different time periods ( workhour , workday , calendarweek , workmonth , etc . )</context>
+    </instance>
+    <instance id="Service_(economics)-service-16-39-1" docsrc="Service_(economics)">
+      <context> Service impairment duration per incident – specifies the maximum allowable elapsing time [ hh:mm ] between <head>the</head> first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial , whilst the service consumer consumes and utilizes the requested service , the full resumption and complete execution of the service delivery to the content of the affected service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-17-38-1" docsrc="Service_(economics)">
+      <context> The effective service fulfillment ratio can be measured and calculated per single service consumer or per service <head>consumer</head> group and may be referred to different time periods ( workhour , workday , calendarweek , workmonth , etc . ) Service impairment duration per incident – specifies the maximum allowable elapsing time [ hh:mm ] between the first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial , whilst the service consumer consumes and utilizes the requested service ,</context>
+    </instance>
+    <instance id="Service_(economics)-service-17-44-2" docsrc="Service_(economics)">
+      <context> Service delivering price – specifies the amount of money the commissioning service customer has to pay for <head>a</head> distinct service delivery unit or for a distinct amount of service delivery units . Normally , the service delivering price comprises two portions a fixed basic price portion for basic efforts and resources which provide accessibility and usability of the service delivery functions , i.e. service access price</context>
+    </instance>
+    <instance id="Service_(economics)-service-17-46-1" docsrc="Service_(economics)">
+      <context> a fixed basic price portion for basic efforts and resources which provide accessibility and usability of the <head>service</head> delivery functions , i.e. service access price a price portion covering the service consumption based on fixed flat rate price per authorized service consumer and reference period for an unlimited amount of consumed services ,</context>
+    </instance>
+    <instance id="Service_(economics)-service-17-71-2" docsrc="Service_(economics)">
+      <context> Most modern business theorists see a continuum with pure service on one terminal point and pure commodity <head>good</head> on the other terminal point . Most products fall between these two extremes . For example , a restaurant provides a physical good ( the food ) , but also provides services in the form of ambience , the setting and clearing of the table , etc .</context>
+    </instance>
+    <instance id="Service_(economics)-service-18-42-1" docsrc="Service_(economics)">
+      <context> the full resumption and complete execution of the service delivery to the content of the affected service consumer <head>.</head> Service delivering duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all specified service consumer benefits to the triggering service consumer at his currently chosen service delivery point . Service delivery unit – specifies the basic portion for rendering the defined service consumer benefits to the triggering service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-18-43-1" docsrc="Service_(economics)">
+      <context> Service delivering duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all <head>specified</head> service consumer benefits to the triggering service consumer at his currently chosen service delivery point . Service delivery unit – specifies the basic portion for rendering the defined service consumer benefits to the triggering service consumer . The service delivery unit is the reference and mapping object for the Service Delivering Price , for all service costs as well as for charging and billing the consumed service amounts to the service customer who has commissioned the service delivery .</context>
+    </instance>
+    <instance id="Service_(economics)-service-18-5-3" docsrc="Service_(economics)">
+      <context> Thus , there is neither potential nor need for transport , storage or stocking of services . Furthermore <head>,</head> a service can be ( re)sold or owned by somebody , but it can not be turned over from the service provider to the service consumer . Solely , the service delivery can be commissioned to a service provider who must generate and render the service at the distinct request of an authorized service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-18-61-1" docsrc="Service_(economics)">
+      <context> Some service managers use the term " moment of truth " to indicate that defining point in a <head>specific</head> service encounter where interactions are most intense . Many business theorists view service provision as a performance or act ( sometimes humorously referred to as dramalurgy , perhaps in reference to dramaturgy ) . The location of the service delivery is referred to as the stage and the objects that facilitate the service process are called props .</context>
+    </instance>
+    <instance id="Service_(economics)-service-19-1-3" docsrc="Service_(economics)">
+      <context> Thereby , service providers participate in an economy without the restrictions of carrying inventory ( stock ) or the <head>need</head> to concern themselves with bulky raw materials . Furthermore , their investment in expertise does require consistent service marketing and upgrading in the face of competition . Services can be paraphrased in terms of their key characteristics , sometimes called the " Five I 's of Services " .</context>
+    </instance>
+    <instance id="Service_(economics)-service-19-16-2" docsrc="Service_(economics)">
+      <context> One of the most important characteristics of services is the participation of the customer in the service delivery process <head>.</head> A customer has the opportunity to get the services modified according to specific requirement . Each of these characteristics is retractable per se and their inevitable coincidence complicates the consistent service conception and make service delivery a challenge in each and every case .</context>
+    </instance>
+    <instance id="Service_(economics)-service-19-40-1" docsrc="Service_(economics)">
+      <context> the first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial <head>,</head> whilst the service consumer consumes and utilizes the requested service , the full resumption and complete execution of the service delivery to the content of the affected service consumer . Service delivering duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all specified service consumer benefits to the triggering service consumer at his currently chosen service delivery point .</context>
+    </instance>
+    <instance id="Service_(economics)-service-19-43-2" docsrc="Service_(economics)">
+      <context> Service delivery unit – specifies the basic portion for rendering the defined service consumer benefits to the triggering service <head>consumer</head> . The service delivery unit is the reference and mapping object for the Service Delivering Price , for all service costs as well as for charging and billing the consumed service amounts to the service customer who has commissioned the service delivery . Service delivering price – specifies the amount of money the commissioning service customer has to pay for a distinct service delivery unit or for a distinct amount of service delivery units .</context>
+    </instance>
+    <instance id="Service_(economics)-service-19-60-1" docsrc="Service_(economics)">
+      <context> Customer contact The service encounter is defined as all activities involved in the service delivery process . Some service <head>managers</head> use the term " moment of truth " to indicate that defining point in a specific service encounter where interactions are most intense .</context>
+    </instance>
+    <instance id="Service_(economics)-service-19-9-1" docsrc="Service_(economics)">
+      <context> Services are perishable in two regards The service relevant resources , processes and systems are assigned for service delivery <head>during</head> a definite period in time . If the designated or scheduled service consumer does not request and consume the service during this period , the service can not be performed for him .</context>
+    </instance>
+    <instance id="Service_(economics)-service-2-1-1" docsrc="Service_(economics)">
+      <context> Using resources <head>,</head> skill , ingenuity , and experience , service providers effect benefit to service consumers . Thereby , service providers participate in an economy without the restrictions of carrying inventory ( stock ) or the need to concern themselves with bulky raw materials .</context>
+    </instance>
+    <instance id="Service_(economics)-service-2-167-1" docsrc="Service_(economics)">
+      <context> Transport Below <head>is</head> a list of countries by service output at market exchange rates in 2015 . Goods and services</context>
+    </instance>
+    <instance id="Service_(economics)-service-2-17-2" docsrc="Service_(economics)">
+      <context> Each of <head>these</head> characteristics is retractable per se and their inevitable coincidence complicates the consistent service conception and make service delivery a challenge in each and every case . Proper service marketing requires creative visualization to effectively evoke a concrete image in the service consumer 's mind . From the service consumer 's point of view , these characteristics make it difficult , or even impossible , to evaluate or compare services prior to experiencing the service delivery .</context>
+    </instance>
+    <instance id="Service_(economics)-service-2-27-1" docsrc="Service_(economics)">
+      <context> Service consumer <head>count</head> – specifies the number of intended , clearly identified , explicitly named , definitely registered and authorized service consumers which shall be and/or are allowed and enabled to trigger and consume the commissioned service for executing and/or supporting their business tasks or private activities . Service delivering readiness times – specify the distinct agreed times of every day of the week when the described service consumer benefits are</context>
+    </instance>
+    <instance id="Service_(economics)-service-2-32-1" docsrc="Service_(economics)">
+      <context> consumable and <head>utilizable</head> for the authorized service consumers at the respective agreed service level all the required service contributions are aggregated to the triggered service the specified service benefits are competely and terminally rendered to any authorized triggering service consumer without any delay or friction .</context>
+    </instance>
+    <instance id="Service_(economics)-service-2-37-2" docsrc="Service_(economics)">
+      <context> Service fulfillment <head>target</head> – specifies the service provider 's promise of effectively and seamlessly deliver the specified benefits to any authorized service consumer triggering a service within the specified service delivery readiness times . It is expressed as the promised minimum ratio of the count of successful individual service deliveries related to the count of triggered service deliveries . The effective service fulfillment ratio can be measured and calculated per single service consumer or per service consumer group and may be referred to different time periods ( workhour , workday , calendarweek , workmonth , etc . )</context>
+    </instance>
+    <instance id="Service_(economics)-service-2-53-1" docsrc="Service_(economics)">
+      <context> fixed price <head>per</head> single consumed service delivering unit . The delivery of a service typically involves six factors : The accountable service provider and his service suppliers ( e.g. the people )</context>
+    </instance>
+    <instance id="Service_(economics)-service-2-56-1" docsrc="Service_(economics)">
+      <context> Equipment used <head>to</head> provide the service ( e.g. vehicles , cash registers , technical systems , computer systems ) The physical facilities ( e.g. buildings , parking , waiting rooms ) The requesting service consumer</context>
+    </instance>
+    <instance id="Service_(economics)-service-2-61-5" docsrc="Service_(economics)">
+      <context> Some service <head>dramas</head> are tightly scripted , others are more ad lib . Role congruence occurs when each actor follows a script that harmonizes with the roles played by the other actors . In some service industries , especially health care , dispute resolution , and social services , a popular concept is the idea of the caseload , which refers to the total number of patients , clients , litigants , or claimants that a given employee is presently responsible for .</context>
+    </instance>
+    <instance id="Service_(economics)-service-2-9-6" docsrc="Service_(economics)">
+      <context> The hairdresser <head>serves</head> another client when the scheduled starting time or time slot is over . An empty seat on a plane never can be utilized and charged after departure . When the service has been completely rendered to the requesting service consumer , this particular service irreversibly vanishes as it has been consumed by the service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-20-11-1" docsrc="Service_(economics)">
+      <context> Example : the passenger has been transported to the destination and can not be transported again to this location at <head>this</head> point in time . 3 . Inseparability The service provider is indispensable for service delivery as he must promptly generate and render the service to the requesting service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-20-25-2" docsrc="Service_(economics)">
+      <context> Service delivery point – describes the physical location and/or logical interface where the benefits of the service are triggered from <head>and</head> rendered to the authorized service consumer . At this point and/or interface , the preparedness for service delivery readiness can be assessed as well as the effective delivery of each triggered service can be monitored and controlled . Service consumer count – specifies the number of intended , clearly identified , explicitly named , definitely registered and authorized service consumers which shall be and/or are allowed and enabled to trigger and consume the commissioned service for executing and/or supporting their business tasks or private activities .</context>
+    </instance>
+    <instance id="Service_(economics)-service-20-33-2" docsrc="Service_(economics)">
+      <context> the specified service benefits are competely and terminally rendered to any authorized triggering service consumer without any delay or friction <head>.</head> The time data are specified in 24 h format per local working day and local time UTC , referring to the location of the intended and/or triggering service consumers . Service consumer support language – specifies the national languages which are spoken by the service desk team(s ) to the service consumers calling them .</context>
+    </instance>
+    <instance id="Service_(economics)-service-20-9-2" docsrc="Service_(economics)">
+      <context> The service relevant resources , processes and systems are assigned for service delivery during a definite period in time . <head>If</head> the designated or scheduled service consumer does not request and consume the service during this period , the service can not be performed for him . From the perspective of the service provider , this is a lost business opportunity as he can not charge any service delivery ; potentially , he can assign the resources , processes and systems to another service consumer who requests a service .</context>
+    </instance>
+    <instance id="Service_(economics)-service-21-36-1" docsrc="Service_(economics)">
+      <context> The time data are specified in 24 h format per local working day and local time UTC , referring to the <head>location</head> of the intended and/or triggering service consumers . Service consumer support language – specifies the national languages which are spoken by the service desk team(s ) to the service consumers calling them . Service fulfillment target – specifies the service provider 's promise of effectively and seamlessly deliver the specified benefits to any authorized service consumer triggering a service within the specified service delivery readiness times .</context>
+    </instance>
+    <instance id="Service_(economics)-service-21-76-1" docsrc="Service_(economics)">
+      <context> This particular usage occurs frequently in retailing . The following is a complete list of service industries , grouped into sectors <head>.</head> Parenthetical notations indicate how specific occupations and organizations can be regarded as service industries to the extent they provide an intangible service , as opposed to a tangible good .</context>
+    </instance>
+    <instance id="Service_(economics)-service-22-22-1" docsrc="Service_(economics)">
+      <context> From the service consumer 's point of view , these characteristics make it difficult , or even impossible , to evaluate or <head>compare</head> services prior to experiencing the service delivery . Any service can be clearly and completely , consistently and concisely specified by means of the following 12 standard attributes which conform to the MECE principle ( Mutually Exclusive , Collectively Exhaustive ) Service consumer benefits – describe the ( set of ) benefits which are triggerable , consumable and effectively utilizable for any authorized service consumer and which are rendered to him as soon as he triggers one service .</context>
+    </instance>
+    <instance id="Service_(economics)-service-22-37-1" docsrc="Service_(economics)">
+      <context> Service consumer support language – specifies the national languages which are spoken by the service desk team(s ) to the service consumers <head>calling</head> them . Service fulfillment target – specifies the service provider 's promise of effectively and seamlessly deliver the specified benefits to any authorized service consumer triggering a service within the specified service delivery readiness times . It is expressed as the promised minimum ratio of the count of successful individual service deliveries related to the count of triggered service deliveries .</context>
+    </instance>
+    <instance id="Service_(economics)-service-22-38-1" docsrc="Service_(economics)">
+      <context> The effective service fulfillment ratio can be measured and calculated per single service consumer or per service consumer group and may be <head>referred</head> to different time periods ( workhour , workday , calendarweek , workmonth , etc . ) Service impairment duration per incident – specifies the maximum allowable elapsing time [ hh:mm ] between the first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial , whilst the service consumer consumes and utilizes the requested service ,</context>
+    </instance>
+    <instance id="Service_(economics)-service-22-44-2" docsrc="Service_(economics)">
+      <context> Service delivering price – specifies the amount of money the commissioning service customer has to pay for a distinct service delivery unit <head>or</head> for a distinct amount of service delivery units . Normally , the service delivering price comprises two portions a fixed basic price portion for basic efforts and resources which provide accessibility and usability of the service delivery functions , i.e. service access price</context>
+    </instance>
+    <instance id="Service_(economics)-service-22-5-2" docsrc="Service_(economics)">
+      <context> Services are intangible and insubstantial : they can not be touched , gripped , handled , looked at , smelled , tasted <head>.</head> Thus , there is neither potential nor need for transport , storage or stocking of services . Furthermore , a service can be ( re)sold or owned by somebody , but it can not be turned over from the service provider to the service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-22-64-1" docsrc="Service_(economics)">
+      <context> Under English law , if a service provider is induced to deliver services to a dishonest client by a deception , this <head>is</head> an offence under the Theft Act 1978 . Lovelock has used two issues of number of delivery sites ( whether single or multiple ) and the method of delivery to classify services in a 2 x 3 matrix . Then implications here are that the convenience of receiving the service is the lowest when the customer has to come to the service and must use a single or specific outlets .</context>
+    </instance>
+    <instance id="Service_(economics)-service-22-71-3" docsrc="Service_(economics)">
+      <context> Most products fall between these two extremes . For example , a restaurant provides a physical good ( the food ) , <head>but</head> also provides services in the form of ambience , the setting and clearing of the table , etc . And although some utilities actually deliver physical goods — like water utilities which actually deliver water — utilities are usually treated as services .</context>
+    </instance>
+    <instance id="Service_(economics)-service-23-17-2" docsrc="Service_(economics)">
+      <context> Each of these characteristics is retractable per se and their inevitable coincidence complicates the consistent service conception and make service delivery a challenge <head>in</head> each and every case . Proper service marketing requires creative visualization to effectively evoke a concrete image in the service consumer 's mind . From the service consumer 's point of view , these characteristics make it difficult , or even impossible , to evaluate or compare services prior to experiencing the service delivery .</context>
+    </instance>
+    <instance id="Service_(economics)-service-23-63-1" docsrc="Service_(economics)">
+      <context> On a daily basis , in all those fields , employees must balance the needs of any individual case against the needs of <head>all</head> other current cases as well as their own personal needs . Under English law , if a service provider is induced to deliver services to a dishonest client by a deception , this is an offence under the Theft Act 1978 . Lovelock has used two issues of number of delivery sites ( whether single or multiple ) and the method of delivery to classify services in a 2 x 3 matrix .</context>
+    </instance>
+    <instance id="Service_(economics)-service-24-12-1" docsrc="Service_(economics)">
+      <context> 3 . Inseparability The service provider is indispensable for service delivery as he must promptly generate and render the service to the requesting service <head>consumer</head> . In many cases the service delivery is executed automatically but the service provider must preparatorily assign resources and systems and actively keep up appropriate service delivery readiness and capabilities .</context>
+    </instance>
+    <instance id="Service_(economics)-service-24-25-1" docsrc="Service_(economics)">
+      <context> The description of these benefits must be phrased in the terms and wording of the intended service consumers . Service delivery point – describes <head>the</head> physical location and/or logical interface where the benefits of the service are triggered from and rendered to the authorized service consumer . At this point and/or interface , the preparedness for service delivery readiness can be assessed as well as the effective delivery of each triggered service can be monitored and controlled .</context>
+    </instance>
+    <instance id="Service_(economics)-service-25-23-2" docsrc="Service_(economics)">
+      <context> Service consumer benefits – describe the ( set of ) benefits which are triggerable , consumable and effectively utilizable for any authorized service consumer and <head>which</head> are rendered to him as soon as he triggers one service . The description of these benefits must be phrased in the terms and wording of the intended service consumers . Service delivery point – describes the physical location and/or logical interface where the benefits of the service are triggered from and rendered to the authorized service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-25-36-1" docsrc="Service_(economics)">
+      <context> The time data are specified in 24 h format per local working day and local time UTC , referring to the location of the intended <head>and/or</head> triggering service consumers . Service consumer support language – specifies the national languages which are spoken by the service desk team(s ) to the service consumers calling them . Service fulfillment target – specifies the service provider 's promise of effectively and seamlessly deliver the specified benefits to any authorized service consumer triggering a service within the specified service delivery readiness times .</context>
+    </instance>
+    <instance id="Service_(economics)-service-25-40-1" docsrc="Service_(economics)">
+      <context> the first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial , whilst the service consumer consumes <head>and</head> utilizes the requested service , the full resumption and complete execution of the service delivery to the content of the affected service consumer . Service delivering duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all specified service consumer benefits to the triggering service consumer at his currently chosen service delivery point .</context>
+    </instance>
+    <instance id="Service_(economics)-service-25-9-6" docsrc="Service_(economics)">
+      <context> The hairdresser serves another client when the scheduled starting time or time slot is over . An empty seat on a plane never can be <head>utilized</head> and charged after departure . When the service has been completely rendered to the requesting service consumer , this particular service irreversibly vanishes as it has been consumed by the service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-26-5-2" docsrc="Service_(economics)">
+      <context> Services are intangible and insubstantial : they can not be touched , gripped , handled , looked at , smelled , tasted . Thus , there <head>is</head> neither potential nor need for transport , storage or stocking of services . Furthermore , a service can be ( re)sold or owned by somebody , but it can not be turned over from the service provider to the service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-26-5-3" docsrc="Service_(economics)">
+      <context> Thus , there is neither potential nor need for transport , storage or stocking of services . Furthermore , a service can be ( re)sold or <head>owned</head> by somebody , but it can not be turned over from the service provider to the service consumer . Solely , the service delivery can be commissioned to a service provider who must generate and render the service at the distinct request of an authorized service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-27-33-1" docsrc="Service_(economics)">
+      <context> all the required service contributions are aggregated to the triggered service the specified service benefits are competely and terminally rendered to any authorized triggering service consumer without <head>any</head> delay or friction . The time data are specified in 24 h format per local working day and local time UTC , referring to the location of the intended and/or triggering service consumers .</context>
+    </instance>
+    <instance id="Service_(economics)-service-28-17-2" docsrc="Service_(economics)">
+      <context> Each of these characteristics is retractable per se and their inevitable coincidence complicates the consistent service conception and make service delivery a challenge in each and every case <head>.</head> Proper service marketing requires creative visualization to effectively evoke a concrete image in the service consumer 's mind . From the service consumer 's point of view , these characteristics make it difficult , or even impossible , to evaluate or compare services prior to experiencing the service delivery .</context>
+    </instance>
+    <instance id="Service_(economics)-service-28-43-2" docsrc="Service_(economics)">
+      <context> Service delivery unit – specifies the basic portion for rendering the defined service consumer benefits to the triggering service consumer . The service delivery unit is the reference <head>and</head> mapping object for the Service Delivering Price , for all service costs as well as for charging and billing the consumed service amounts to the service customer who has commissioned the service delivery . Service delivering price – specifies the amount of money the commissioning service customer has to pay for a distinct service delivery unit or for a distinct amount of service delivery units .</context>
+    </instance>
+    <instance id="Service_(economics)-service-29-36-1" docsrc="Service_(economics)">
+      <context> The time data are specified in 24 h format per local working day and local time UTC , referring to the location of the intended and/or triggering service consumers <head>.</head> Service consumer support language – specifies the national languages which are spoken by the service desk team(s ) to the service consumers calling them . Service fulfillment target – specifies the service provider 's promise of effectively and seamlessly deliver the specified benefits to any authorized service consumer triggering a service within the specified service delivery readiness times .</context>
+    </instance>
+    <instance id="Service_(economics)-service-29-38-1" docsrc="Service_(economics)">
+      <context> The effective service fulfillment ratio can be measured and calculated per single service consumer or per service consumer group and may be referred to different time periods ( workhour <head>,</head> workday , calendarweek , workmonth , etc . ) Service impairment duration per incident – specifies the maximum allowable elapsing time [ hh:mm ] between the first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial , whilst the service consumer consumes and utilizes the requested service ,</context>
+    </instance>
+    <instance id="Service_(economics)-service-29-43-1" docsrc="Service_(economics)">
+      <context> Service delivering duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all specified service consumer benefits to the triggering service consumer at his <head>currently</head> chosen service delivery point . Service delivery unit – specifies the basic portion for rendering the defined service consumer benefits to the triggering service consumer . The service delivery unit is the reference and mapping object for the Service Delivering Price , for all service costs as well as for charging and billing the consumed service amounts to the service customer who has commissioned the service delivery .</context>
+    </instance>
+    <instance id="Service_(economics)-service-3-12-2" docsrc="Service_(economics)">
+      <context> The service provider <head>is</head> indispensable for service delivery as he must promptly generate and render the service to the requesting service consumer . In many cases the service delivery is executed automatically but the service provider must preparatorily assign resources and systems and actively keep up appropriate service delivery readiness and capabilities . Additionally , the service consumer is inseparable from service delivery because he is involved in it from requesting it up to consuming the rendered benefits .</context>
+    </instance>
+    <instance id="Service_(economics)-service-3-30-1" docsrc="Service_(economics)">
+      <context> triggerable for the <head>authorized</head> service consumers at the defined service delivery point consumable and utilizable for the authorized service consumers at the respective agreed service level all the required service contributions are aggregated to the triggered service</context>
+    </instance>
+    <instance id="Service_(economics)-service-3-44-1" docsrc="Service_(economics)">
+      <context> The service delivery <head>unit</head> is the reference and mapping object for the Service Delivering Price , for all service costs as well as for charging and billing the consumed service amounts to the service customer who has commissioned the service delivery . Service delivering price – specifies the amount of money the commissioning service customer has to pay for a distinct service delivery unit or for a distinct amount of service delivery units . Normally , the service delivering price comprises two portions</context>
+    </instance>
+    <instance id="Service_(economics)-service-3-5-2" docsrc="Service_(economics)">
+      <context> Services are intangible <head>and</head> insubstantial : they can not be touched , gripped , handled , looked at , smelled , tasted . Thus , there is neither potential nor need for transport , storage or stocking of services . Furthermore , a service can be ( re)sold or owned by somebody , but it can not be turned over from the service provider to the service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-3-5-3" docsrc="Service_(economics)">
+      <context> Thus , there <head>is</head> neither potential nor need for transport , storage or stocking of services . Furthermore , a service can be ( re)sold or owned by somebody , but it can not be turned over from the service provider to the service consumer . Solely , the service delivery can be commissioned to a service provider who must generate and render the service at the distinct request of an authorized service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-31-40-1" docsrc="Service_(economics)">
+      <context> the first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial , whilst the service consumer consumes and utilizes the requested service , <head>the</head> full resumption and complete execution of the service delivery to the content of the affected service consumer . Service delivering duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all specified service consumer benefits to the triggering service consumer at his currently chosen service delivery point .</context>
+    </instance>
+    <instance id="Service_(economics)-service-33-43-1" docsrc="Service_(economics)">
+      <context> Service delivering duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all specified service consumer benefits to the triggering service consumer at his currently chosen service delivery <head>point</head> . Service delivery unit – specifies the basic portion for rendering the defined service consumer benefits to the triggering service consumer . The service delivery unit is the reference and mapping object for the Service Delivering Price , for all service costs as well as for charging and billing the consumed service amounts to the service customer who has commissioned the service delivery .</context>
+    </instance>
+    <instance id="Service_(economics)-service-36-22-1" docsrc="Service_(economics)">
+      <context> From the service consumer 's point of view , these characteristics make it difficult , or even impossible , to evaluate or compare services prior to experiencing the service delivery . Any service can be clearly <head>and</head> completely , consistently and concisely specified by means of the following 12 standard attributes which conform to the MECE principle ( Mutually Exclusive , Collectively Exhaustive ) Service consumer benefits – describe the ( set of ) benefits which are triggerable , consumable and effectively utilizable for any authorized service consumer and which are rendered to him as soon as he triggers one service .</context>
+    </instance>
+    <instance id="Service_(economics)-service-36-25-2" docsrc="Service_(economics)">
+      <context> Service delivery point – describes the physical location and/or logical interface where the benefits of the service are triggered from and rendered to the authorized service consumer . At this point and/or interface , the preparedness <head>for</head> service delivery readiness can be assessed as well as the effective delivery of each triggered service can be monitored and controlled . Service consumer count – specifies the number of intended , clearly identified , explicitly named , definitely registered and authorized service consumers which shall be and/or are allowed and enabled to trigger and consume the commissioned service for executing and/or supporting their business tasks or private activities .</context>
+    </instance>
+    <instance id="Service_(economics)-service-36-9-2" docsrc="Service_(economics)">
+      <context> The service relevant resources , processes and systems are assigned for service delivery during a definite period in time . If the designated or scheduled service consumer does not request and consume the service during this <head>period</head> , the service can not be performed for him . From the perspective of the service provider , this is a lost business opportunity as he can not charge any service delivery ; potentially , he can assign the resources , processes and systems to another service consumer who requests a service .</context>
+    </instance>
+    <instance id="Service_(economics)-service-39-43-1" docsrc="Service_(economics)">
+      <context> Service delivering duration – specifies the promised and agreed maximum allowable period of time for effectively rendering all specified service consumer benefits to the triggering service consumer at his currently chosen service delivery point . Service delivery unit – <head>specifies</head> the basic portion for rendering the defined service consumer benefits to the triggering service consumer . The service delivery unit is the reference and mapping object for the Service Delivering Price , for all service costs as well as for charging and billing the consumed service amounts to the service customer who has commissioned the service delivery .</context>
+    </instance>
+    <instance id="Service_(economics)-service-4-100-1" docsrc="Service_(economics)">
+      <context> Courts of law ( <head>who</head> perform the service of dispute resolution backed by the power of the state ) Diplomacy Incarceration ( provides the service of keeping criminals out of society )</context>
+    </instance>
+    <instance id="Service_(economics)-service-4-104-1" docsrc="Service_(economics)">
+      <context> Lawyers ( who perform <head>the</head> services of advocacy and decisionmaking in many dispute resolution and prevention processes ) Mediation Military ( performs the service of protecting states in disputes with other states )</context>
+    </instance>
+    <instance id="Service_(economics)-service-4-12-1" docsrc="Service_(economics)">
+      <context> 3 . Inseparability The <head>service</head> provider is indispensable for service delivery as he must promptly generate and render the service to the requesting service consumer . In many cases the service delivery is executed automatically but the service provider must preparatorily assign resources and systems and actively keep up appropriate service delivery readiness and capabilities .</context>
+    </instance>
+    <instance id="Service_(economics)-service-4-28-1" docsrc="Service_(economics)">
+      <context> Service delivering readiness times <head>–</head> specify the distinct agreed times of every day of the week when the described service consumer benefits are triggerable for the authorized service consumers at the defined service delivery point</context>
+    </instance>
+    <instance id="Service_(economics)-service-4-47-1" docsrc="Service_(economics)">
+      <context> a price portion covering <head>the</head> service consumption based on fixed flat rate price per authorized service consumer and reference period for an unlimited amount of consumed services , staged prices per authorized service consumer and reference period for staged amounts of consumed services ,</context>
+    </instance>
+    <instance id="Service_(economics)-service-4-49-1" docsrc="Service_(economics)">
+      <context> staged prices per authorized <head>service</head> consumer and reference period for staged amounts of consumed services , fixed price per single consumed service delivering unit . The delivery of a service typically involves six factors :</context>
+    </instance>
+    <instance id="Service_(economics)-service-4-57-1" docsrc="Service_(economics)">
+      <context> The physical facilities ( <head>e.g.</head> buildings , parking , waiting rooms ) The requesting service consumer Other customers at the service delivery location</context>
+    </instance>
+    <instance id="Service_(economics)-service-4-60-2" docsrc="Service_(economics)">
+      <context> The service encounter is <head>defined</head> as all activities involved in the service delivery process . Some service managers use the term " moment of truth " to indicate that defining point in a specific service encounter where interactions are most intense . Many business theorists view service provision as a performance or act ( sometimes humorously referred to as dramalurgy , perhaps in reference to dramaturgy ) .</context>
+    </instance>
+    <instance id="Service_(economics)-service-4-61-1" docsrc="Service_(economics)">
+      <context> Some service managers use <head>the</head> term " moment of truth " to indicate that defining point in a specific service encounter where interactions are most intense . Many business theorists view service provision as a performance or act ( sometimes humorously referred to as dramalurgy , perhaps in reference to dramaturgy ) . The location of the service delivery is referred to as the stage and the objects that facilitate the service process are called props .</context>
+    </instance>
+    <instance id="Service_(economics)-service-4-89-1" docsrc="Service_(economics)">
+      <context> Construction Carpentry Electricians ( <head>offering</head> the service of making wiring work properly )</context>
+    </instance>
+    <instance id="Service_(economics)-service-4-95-1" docsrc="Service_(economics)">
+      <context> Coroners ( who provide <head>the</head> service of identifying cadavers and determining time and cause of death ) Funeral homes ( who prepare corpses for public display , cremation or burial ) Dispute resolution and prevention services</context>
+    </instance>
+    <instance id="Service_(economics)-service-40-12-4" docsrc="Service_(economics)">
+      <context> Additionally , the service consumer is inseparable from service delivery because he is involved in it from requesting it up to consuming the rendered benefits . Examples : The service consumer must sit in the hairdresser 's shop &amp; chair <head>or</head> in the plane &amp; seat ; correspondingly , the hairdresser or the pilot must be in the same shop or plane , respectively , for delivering the service .</context>
+    </instance>
+    <instance id="Service_(economics)-service-41-9-2" docsrc="Service_(economics)">
+      <context> The service relevant resources , processes and systems are assigned for service delivery during a definite period in time . If the designated or scheduled service consumer does not request and consume the service during this period , the service can <head>not</head> be performed for him . From the perspective of the service provider , this is a lost business opportunity as he can not charge any service delivery ; potentially , he can assign the resources , processes and systems to another service consumer who requests a service .</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-101-1" docsrc="Service_(economics)">
+      <context> Diplomacy Incarceration ( provides the <head>service</head> of keeping criminals out of society ) Law enforcement ( provides the service of identifying and apprehending criminals )</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-102-1" docsrc="Service_(economics)">
+      <context> Incarceration ( provides the service <head>of</head> keeping criminals out of society ) Law enforcement ( provides the service of identifying and apprehending criminals ) Lawyers ( who perform the services of advocacy and decisionmaking in many dispute resolution and prevention processes )</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-105-1" docsrc="Service_(economics)">
+      <context> Mediation Military ( performs the <head>service</head> of protecting states in disputes with other states ) Negotiation ( not really a service unless someone is negotiating on behalf of another )</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-106-1" docsrc="Service_(economics)">
+      <context> Military ( performs the service <head>of</head> protecting states in disputes with other states ) Negotiation ( not really a service unless someone is negotiating on behalf of another ) Education ( institutions offering the services of teaching and access to information )</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-114-1" docsrc="Service_(economics)">
+      <context> Entertainment ( when provided live <head>or</head> within a highly specialized facility ) Gambling Movie theatres ( providing the service of showing a movie on a big screen )</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-38-1" docsrc="Service_(economics)">
+      <context> The effective service fulfillment ratio <head>can</head> be measured and calculated per single service consumer or per service consumer group and may be referred to different time periods ( workhour , workday , calendarweek , workmonth , etc . ) Service impairment duration per incident – specifies the maximum allowable elapsing time [ hh:mm ] between the first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial , whilst the service consumer consumes and utilizes the requested service ,</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-45-1" docsrc="Service_(economics)">
+      <context> Normally , the service delivering <head>price</head> comprises two portions a fixed basic price portion for basic efforts and resources which provide accessibility and usability of the service delivery functions , i.e. service access price a price portion covering the service consumption based on</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-48-1" docsrc="Service_(economics)">
+      <context> fixed flat rate price per <head>authorized</head> service consumer and reference period for an unlimited amount of consumed services , staged prices per authorized service consumer and reference period for staged amounts of consumed services , fixed price per single consumed service delivering unit .</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-54-1" docsrc="Service_(economics)">
+      <context> The delivery of a service <head>typically</head> involves six factors : The accountable service provider and his service suppliers ( e.g. the people ) Equipment used to provide the service ( e.g. vehicles , cash registers , technical systems , computer systems )</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-71-4" docsrc="Service_(economics)">
+      <context> For example , a restaurant <head>provides</head> a physical good ( the food ) , but also provides services in the form of ambience , the setting and clearing of the table , etc . And although some utilities actually deliver physical goods — like water utilities which actually deliver water — utilities are usually treated as services . In a narrower sense , service refers to quality of customer service : the measured appropriateness of assistance and support provided to a customer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-79-1" docsrc="Service_(economics)">
+      <context> Consulting Customer service Human resources <head>administrators</head> ( providing services like ensuring that employees are paid accurately )</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-82-1" docsrc="Service_(economics)">
+      <context> Human resources administrators ( providing <head>services</head> like ensuring that employees are paid accurately ) Childcare Cleaning , repair and maintenance services</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-84-1" docsrc="Service_(economics)">
+      <context> Cleaning , repair and maintenance <head>services</head> Gardeners Janitors ( who provide cleaning services )</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-9-1" docsrc="Service_(economics)">
+      <context> Services are perishable in two <head>regards</head> The service relevant resources , processes and systems are assigned for service delivery during a definite period in time . If the designated or scheduled service consumer does not request and consume the service during this period , the service can not be performed for him .</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-9-2" docsrc="Service_(economics)">
+      <context> The service relevant resources , <head>processes</head> and systems are assigned for service delivery during a definite period in time . If the designated or scheduled service consumer does not request and consume the service during this period , the service can not be performed for him . From the perspective of the service provider , this is a lost business opportunity as he can not charge any service delivery ; potentially , he can assign the resources , processes and systems to another service consumer who requests a service .</context>
+    </instance>
+    <instance id="Service_(economics)-service-5-93-1" docsrc="Service_(economics)">
+      <context> Plumbing Death care Coroners ( <head>who</head> provide the service of identifying cadavers and determining time and cause of death )</context>
+    </instance>
+    <instance id="Service_(economics)-service-6-11-1" docsrc="Service_(economics)">
+      <context> Example : the passenger has been <head>transported</head> to the destination and can not be transported again to this location at this point in time . 3 . Inseparability The service provider is indispensable for service delivery as he must promptly generate and render the service to the requesting service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-6-29-1" docsrc="Service_(economics)">
+      <context> the described service consumer benefits are <head>triggerable</head> for the authorized service consumers at the defined service delivery point consumable and utilizable for the authorized service consumers at the respective agreed service level</context>
+    </instance>
+    <instance id="Service_(economics)-service-6-36-1" docsrc="Service_(economics)">
+      <context> The time data are specified in <head>24</head> h format per local working day and local time UTC , referring to the location of the intended and/or triggering service consumers . Service consumer support language – specifies the national languages which are spoken by the service desk team(s ) to the service consumers calling them . Service fulfillment target – specifies the service provider 's promise of effectively and seamlessly deliver the specified benefits to any authorized service consumer triggering a service within the specified service delivery readiness times .</context>
+    </instance>
+    <instance id="Service_(economics)-service-6-46-1" docsrc="Service_(economics)">
+      <context> a fixed basic price portion for <head>basic</head> efforts and resources which provide accessibility and usability of the service delivery functions , i.e. service access price a price portion covering the service consumption based on fixed flat rate price per authorized service consumer and reference period for an unlimited amount of consumed services ,</context>
+    </instance>
+    <instance id="Service_(economics)-service-6-53-1" docsrc="Service_(economics)">
+      <context> fixed price per single consumed service <head>delivering</head> unit . The delivery of a service typically involves six factors : The accountable service provider and his service suppliers ( e.g. the people )</context>
+    </instance>
+    <instance id="Service_(economics)-service-6-62-2" docsrc="Service_(economics)">
+      <context> In some service industries , especially <head>health</head> care , dispute resolution , and social services , a popular concept is the idea of the caseload , which refers to the total number of patients , clients , litigants , or claimants that a given employee is presently responsible for . On a daily basis , in all those fields , employees must balance the needs of any individual case against the needs of all other current cases as well as their own personal needs . Under English law , if a service provider is induced to deliver services to a dishonest client by a deception , this is an offence under the Theft Act 1978 .</context>
+    </instance>
+    <instance id="Service_(economics)-service-7-126-1" docsrc="Service_(economics)">
+      <context> Financial services Accountancy Banks and building societies <head>(</head> offering lending services and safekeeping of money and valuables )</context>
+    </instance>
+    <instance id="Service_(economics)-service-7-15-1" docsrc="Service_(economics)">
+      <context> 4 . Inconsistency ( Variability ) 5 <head>.</head> Involvement One of the most important characteristics of services is the participation of the customer in the service delivery process .</context>
+    </instance>
+    <instance id="Service_(economics)-service-7-162-1" docsrc="Service_(economics)">
+      <context> Social work Transport Below is a list <head>of</head> countries by service output at market exchange rates in 2015 .</context>
+    </instance>
+    <instance id="Service_(economics)-service-7-72-2" docsrc="Service_(economics)">
+      <context> In a narrower sense , service refers <head>to</head> quality of customer service : the measured appropriateness of assistance and support provided to a customer . This particular usage occurs frequently in retailing . The following is a complete list of service industries , grouped into sectors .</context>
+    </instance>
+    <instance id="Service_(economics)-service-7-98-1" docsrc="Service_(economics)">
+      <context> Dispute resolution and prevention services Arbitration Courts <head>of</head> law ( who perform the service of dispute resolution backed by the power of the state )</context>
+    </instance>
+    <instance id="Service_(economics)-service-8-12-2" docsrc="Service_(economics)">
+      <context> The service provider is indispensable for service delivery <head>as</head> he must promptly generate and render the service to the requesting service consumer . In many cases the service delivery is executed automatically but the service provider must preparatorily assign resources and systems and actively keep up appropriate service delivery readiness and capabilities . Additionally , the service consumer is inseparable from service delivery because he is involved in it from requesting it up to consuming the rendered benefits .</context>
+    </instance>
+    <instance id="Service_(economics)-service-8-133-1" docsrc="Service_(economics)">
+      <context> Valuation Foodservice industry Health care ( all health <head>care</head> professions provide services )</context>
+    </instance>
+    <instance id="Service_(economics)-service-8-16-1" docsrc="Service_(economics)">
+      <context> 5 . Involvement One of the most important <head>characteristics</head> of services is the participation of the customer in the service delivery process . A customer has the opportunity to get the services modified according to specific requirement .</context>
+    </instance>
+    <instance id="Service_(economics)-service-8-39-1" docsrc="Service_(economics)">
+      <context> Service impairment duration per incident – specifies the <head>maximum</head> allowable elapsing time [ hh:mm ] between the first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial , whilst the service consumer consumes and utilizes the requested service , the full resumption and complete execution of the service delivery to the content of the affected service consumer .</context>
+    </instance>
+    <instance id="Service_(economics)-service-9-1-2" docsrc="Service_(economics)">
+      <context> Using resources , skill , ingenuity , and experience <head>,</head> service providers effect benefit to service consumers . Thereby , service providers participate in an economy without the restrictions of carrying inventory ( stock ) or the need to concern themselves with bulky raw materials . Furthermore , their investment in expertise does require consistent service marketing and upgrading in the face of competition .</context>
+    </instance>
+    <instance id="Service_(economics)-service-9-25-1" docsrc="Service_(economics)">
+      <context> The description of these benefits must be phrased in <head>the</head> terms and wording of the intended service consumers . Service delivery point – describes the physical location and/or logical interface where the benefits of the service are triggered from and rendered to the authorized service consumer . At this point and/or interface , the preparedness for service delivery readiness can be assessed as well as the effective delivery of each triggered service can be monitored and controlled .</context>
+    </instance>
+    <instance id="Service_(economics)-service-9-28-1" docsrc="Service_(economics)">
+      <context> Service delivering readiness times – specify the distinct agreed <head>times</head> of every day of the week when the described service consumer benefits are triggerable for the authorized service consumers at the defined service delivery point</context>
+    </instance>
+    <instance id="Service_(economics)-service-9-38-1" docsrc="Service_(economics)">
+      <context> The effective service fulfillment ratio can be measured and <head>calculated</head> per single service consumer or per service consumer group and may be referred to different time periods ( workhour , workday , calendarweek , workmonth , etc . ) Service impairment duration per incident – specifies the maximum allowable elapsing time [ hh:mm ] between the first occurrence of a service impairment , i.e. service quality degradation , service delivery disruption or service denial , whilst the service consumer consumes and utilizes the requested service ,</context>
+    </instance>
+    <instance id="Service_(economics)-service-9-64-4" docsrc="Service_(economics)">
+      <context> As his options multiply , the degree of convenience <head>can</head> go on rising , from being able to choose desirable sites , .to getting access at convenient locations . ( Table 1.6 . Most modern business theorists see a continuum with pure service on one terminal point and pure commodity good on the other terminal point .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-1-0-1" docsrc="Service_(motor_vehicle)">
+      <context> A <head>motor</head> vehicle service is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a certain distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-11-0-1" docsrc="Service_(motor_vehicle)">
+      <context> A motor vehicle service is a series of maintenance procedures carried <head>out</head> at a set time interval or after the vehicle has traveled a certain distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-2-0-2" docsrc="Service_(motor_vehicle)">
+      <context> A motor <head>vehicle</head> service is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a certain distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel . The completed services are usually recorded in a service book which is rubber stamped by the service centre upon completion of each service .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-24-0-1" docsrc="Service_(motor_vehicle)">
+      <context> A motor vehicle service is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a <head>certain</head> distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-8-0-2" docsrc="Service_(motor_vehicle)">
+      <context> A motor vehicle service is a series of <head>maintenance</head> procedures carried out at a set time interval or after the vehicle has traveled a certain distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel . The completed services are usually recorded in a service book which is rubber stamped by the service centre upon completion of each service .</context>
+    </instance>
+    <instance id="a00183053_d_8" docsrc="a00183053_d">
+      <context> obtainable or accessible and ready for use or <head>service</head> ;</context>
+    </instance>
+    <instance id="a00821723_d_7" docsrc="a00821723_d">
+      <context> not gained by merit or labor or <head>service</head> ;</context>
+    </instance>
+    <instance id="a00863946_d_2" docsrc="a00863946_d">
+      <context> having your <head>services</head> engaged for ; or having a job especially one that pays wages or a salary ;</context>
+    </instance>
+    <instance id="a00864203_d_1" docsrc="a00864203_d">
+      <context> having <head>services</head> contracted for ;</context>
+    </instance>
+    <instance id="a00864346_d_1" docsrc="a00864346_d">
+      <context> having <head>services</head> engaged for a fee ;</context>
+    </instance>
+    <instance id="a00962306_d_6" docsrc="a00962306_d">
+      <context> owing or owed feudal allegiance and <head>service</head> ;</context>
+    </instance>
+    <instance id="a01064619_d_14" docsrc="a01064619_d">
+      <context> ( used of persons ) bound to a tract of land ; hence their <head>service</head> is transferable from owner to owner ;</context>
+    </instance>
+    <instance id="a01302137_d_19" docsrc="a01302137_d">
+      <context> of or relating to a society or economy marked by a lessened importance of manufacturing and an increase of <head>services</head> , information , and research ;</context>
+    </instance>
+    <instance id="a01660712_d_2" docsrc="a01660712_d">
+      <context> ready for <head>service</head> ;</context>
+    </instance>
+    <instance id="a01678729_d_3" docsrc="a01678729_d">
+      <context> for a special <head>service</head> or occasion ;</context>
+    </instance>
+    <instance id="a01691302_d_7" docsrc="a01691302_d">
+      <context> ( of Catholics ) refusing to attend <head>services</head> of the Church_of_England ;</context>
+    </instance>
+    <instance id="a02055460_d_5" docsrc="a02055460_d">
+      <context> devoted to or in the <head>service</head> or worship of a deity ;</context>
+    </instance>
+    <instance id="a02100376_d_7" docsrc="a02100376_d">
+      <context> having precedence ( especially because of longer <head>service</head> ) ;</context>
+    </instance>
+    <instance id="a02682543_d_11" docsrc="a02682543_d">
+      <context> sold for cash and the customer carries it ( no delivery <head>service</head> ) ;</context>
+    </instance>
+    <instance id="br-d01#w341_0" docsrc="br-d01">
+      <context> In such a world the words `` matter '' and `` spirit '' both referred to directly known realities in the common experience of all . In it important elements of Christianity and of the Biblical view of reality in_general , which now cause us much difficulty , could be responded to quite naturally and spontaneously . The progress of science over these last few centuries and the gradual replacement of Biblical by scientific categories of reality have to a large extent emptied the spirit_world of the entities which previously populated it . In carrying_out this program science has undoubtedly performed a very considerable <head>service</head> for which it can claim due credit . The objectification of the world of spirit in popular superstition had certainly gone far beyond what the experience of spirit could justify or support . Science is fully competent to deal with any element of experience which arises from an object in space and time . When , therefore , it turned its attention to the concrete entities with which popular imagination had peopled the world of spirit , these entities soon lost whatever status they had enjoyed as actual elements of external reality .</context>
+    </instance>
+    <instance id="br-e28#w339_0" docsrc="br-e28">
+      <context> Average consumer is becoming more sophisticated regarding product and advertising claims , partly because of widespread criticism of such assertions . This problem can force a change in marketing approach in many kinds of businesses . Have you examined this problem of increasing consumer sophistication from the standpoint of your own company ? Need for <head>service</head> is here to stay - and the problem is going_to be tougher to solve in the sixties . There are two reasons for this . First , most products tend to become more complex . Second , in a competitive market , the customer feels his weight and throws it around .</context>
+    </instance>
+    <instance id="br-e28#w395_0" docsrc="br-e28">
+      <context> There are two reasons for this . First , most products tend to become more complex . Second , in a competitive market , the customer feels his weight and throws it around . Providing good customer <head>service</head> requires as thorough a marketing and general management planning job as the original selling of the product . Too often it is thought_of at the last moment of new product introduction . Good service starts with product design and planning : Many products seem to be designed for a production economy , not for a service one .</context>
+    </instance>
+    <instance id="br-e28#w429_0" docsrc="br-e28">
+      <context> Second , in a competitive market , the customer feels his weight and throws it around . Providing good customer service requires as thorough a marketing and general management planning job as the original selling of the product . Too often it is thought_of at the last moment of new product introduction . Good <head>service</head> starts with product design and planning : Many products seem to be designed for a production economy , not for a service one . Proper follow-through requires training your own sales organization , and your distributor organizations , not_only in the techniques but also in good customer relations . Have you assessed the importance of service and given it proper attention ?</context>
+    </instance>
+    <instance id="br-e28#w451_0" docsrc="br-e28">
+      <context> Providing good customer service requires as thorough a marketing and general management planning job as the original selling of the product . Too often it is thought_of at the last moment of new product introduction . Good service starts with product design and planning : Many products seem to be designed for a production economy , not for a <head>service</head> one . Proper follow-through requires training your own sales organization , and your distributor organizations , not_only in the techniques but also in good customer relations . Have you assessed the importance of service and given it proper attention ? In spending his money today , the consumer is pulled in many directions .</context>
+    </instance>
+    <instance id="br-e28#w485_0" docsrc="br-e28">
+      <context> Good service starts with product design and planning : Many products seem to be designed for a production economy , not for a service one . Proper follow-through requires training your own sales organization , and your distributor organizations , not_only in the techniques but also in good customer relations . Have you assessed the importance of <head>service</head> and given it proper attention ? In spending his money today , the consumer is pulled in many directions . To the manufacturer of the more convenient type product - the purchase of which can be switched , delayed , or put_off entirely - the implications are important . Your competition is now proportionately greater - you are competing not_only against manufacturers in the same field but also against a vast array of manufacturers of other appealing consumer products .</context>
+    </instance>
+    <instance id="br-f13#w376_0" docsrc="br-f13">
+      <context> If the farm is in an industrial area where wages are high , farm labor costs will also be high . A part-time farmer needs unusual skill to get as high production per hen , per cow , or per acre as can be obtained by a competent full-time farmer . It will frequently be uneconomical for him to own the most up-to-date equipment . He may have_to depend_upon custom <head>service</head> for specialized operations , such_as spraying or threshing , and for these , he may have_to wait his turn . There will be losses caused by emergencies that arise while he is away at his off farm job . The farm may be an additional burden if the main job is lost . This may be true whether the farm is owned or rented .</context>
+    </instance>
+    <instance id="br-f20#w1014_0" docsrc="br-f20">
+      <context> There was a question and answer gag that went_around at that time : Q. `` Who 'll carry the Forty-second and Forty-third wards '' ? A. `` O_'_Banion , in his pistol pocket '' . But as November 1924 drew close the Democratic hierarchy was sorely troubled by grapevine reports that O_'_Banion was being wooed by the opposition , and was meeting and conferring with important Republicans . To forestall any change of allegiance , the Democrats hastily organised a testimonial banquet for O_'_Banion , as public reward for his past <head>services</head> and as a reminder of where his loyalties lay . The reception was held in a private dining_room of the Webster_Hotel on Lincoln_Park_West . It was an interesting fraternisation of ex convicts , union racketeers , ward_heelers , sold-out officials , and gunmen . The guest list is in itself a little parable of the state of American civic life at this time .</context>
+    </instance>
+    <instance id="br-h01#w1094_0" docsrc="br-h01">
+      <context> New_Product_Introduction_for_Small_Business_Owners , 30 cents ; Developing_and_Selling_New_Products , 45 cents ; U.S._Government_Purchasing_,_Specifications_,_and_Sales_Directory , 60 cents , are available from the Superintendent_of_Documents , U.S._Government_Printing_Office , Washington 25 , D.C. . SBA makes loans to individual small business_firms , providing them with financing when it is not otherwise available through private lending sources on reasonable terms . Many such loans have been made to establish small concerns or to aid in their growth , thereby contributing substantially to community development programs . SBA loans , which may be made to small manufacturers , small business pools , wholesalers , retailers , <head>service</head> establishments and other small businesses ( when financing is not otherwise available to them on reasonable terms ) , are to finance business construction , conversion , or expansion ; the purchase of equipment , facilities , machinery , supplies , or materials ; or to supply working_capital . Evidence that other sources of financing are unavailable must be provided . SBA business loans are of two types : `` participation '' and `` direct '' . Participation_loans are those made jointly by the SBA and banks or other private lending_institutions .</context>
+    </instance>
+    <instance id="br-h01#w1601_0" docsrc="br-h01">
+      <context> Small_Business_Administration_,_What_It_Is_,_What_It_Does ; SBA Business_Loans_and_Small_Business_Pooling are available , on_request , from Small_Business_Administration , Washington 25 , D.C. , and its regional offices . The Farm_Credit_Administration , an independent agency located within the Department_of_Agriculture , supervises and coordinates a cooperative credit_system for agriculture . The system is composed of three credit services , Federal_Land_Banks and National_Farm_Loan_Associations , Federal_Intermediate ( short-term ) Credit_Banks , and Banks_for_Cooperatives . This system provides long - and short-term credit to farmers and their cooperative marketing , purchasing , and business <head>service</head> organizations . As a source of investment capital , the system is beneficial to local communities and encourages the development of industries in rural_areas . The credit provdied by the first two services in the system outlined above is primarily for general agricultural purposes . The third credit service , Banks_for_Cooperatives , exists under authority of the Farm_Credit_Act_of_1933 .</context>
+    </instance>
+    <instance id="br-h01#w849_0" docsrc="br-h01">
+      <context> The Administration maintains a productive facilities inventory of small business industrial concerns that have voluntarily registered . It is kept in each Regional office for the small firms within the region . Purpose of this inventory is to include all eligible productive facilities in SBA 's facilities register so that the small business_concerns may have an opportunity to avail themselves of the services authorized by the Congress in establishing the Small_Business_Administration . These services include procurement and technical assistance and notice of surplus sales and invitations to bid on Government contracts for products and <head>services</head> within the registrants ' field_of_operations . SBA can make complete facilities inventories of all small business_concerns in labor surplus areas within budgetary and staff limitations . For further information , contact Small_Business_Administration_Regional_Offices in Atlanta , Ga. ; Boston , Mass. ; Chicago , Ill. ; Cleveland , Ohio ; Dallas , Tex. ; Denver , Colo. ; Detroit , Mich. ; Kansas_City , Mo. ; Los_Angeles , Calif. ; Minneapolis , Minn. ; New_York , N.Y. ; Philadelphia , Pa. ; Richmond , Va. ; San_Francisco , Calif. ; and Seattle , Wash. . Branch Offices are_located in other large cities .</context>
+    </instance>
+    <instance id="br-h09#w429_0" docsrc="br-h09">
+      <context> recommend to the Congress from_time_to_time authorization for construction and operation , or for participation in the construction and operation , of a demonstration plant for any process which he determines , on the basis of subsections ( a ) and ( b ) above , has great promise of accomplishing the purposes of_this Act , such recommendation to be accompanied by a report on the size , location , and cost of the proposed plant and the engineering and economic details with_respect_thereto ; study methods for the recovery and marketing of commercially valuable byproducts resulting from the conversion of saline water ; and undertake economic studies and surveys to determine present and prospective costs of producing water for beneficial consumptive purposes in various parts of the United_States by the leading saline water processes as compared with other standard methods . In carrying_out his functions under section 2 of_this Act , the Secretary may - acquire the <head>services</head> of chemists , physicists , engineers , and other personnel by contract or otherwise ; enter into contracts with educational_institutions , scientific organizations , and industrial and engineering firms ; make research and training grants ; utilize the facilities of Federal scientific laboratories ;</context>
+    </instance>
+    <instance id="br-h13#w125_0" docsrc="br-h13">
+      <context> And the solutions to the problems of the commuter lines have been equally varied , ranging all_the_way from Government ownership to complete discontinuance of this important service . There have been a number of sound plans proposed . But none of these has been implemented . Instead we have stood idly by , watched our commuter railroad <head>service</head> decline , and have failed to offer a helping_hand . Though the number of people flowing in and out of our metropolitan areas each_day has increased tremendously since World_War_2 , , total annual rail commutation dropped 124 million from 1947 to 1957 . Nowhere has this decline been more painfully evident than in the New_York_City area . Here the New_York_Central_Railroad , one of the Nation 's most important carriers , has alone lost 47.6 percent of its passengers since 1949 .</context>
+    </instance>
+    <instance id="br-h13#w24_0" docsrc="br-h13">
+      <context> Mr._Speaker , for several years now the commuter railroads serving our large metropolitan areas have found it increasingly difficult to render the kind of <head>service</head> our expanding population wants and is entitled to have . The causes of the decline of the commuter railroads are many and complex - high taxes , losses of revenue to Government subsidized highway and air carriers , to name but two . And the solutions to the problems of the commuter lines have been equally varied , ranging all_the_way from Government ownership to complete discontinuance of this important service . There have been a number of sound plans proposed .</context>
+    </instance>
+    <instance id="br-h13#w344_0" docsrc="br-h13">
+      <context> The New_York_Central has pointed_out that this control , if approved by the Interstate_Commerce_Commission , would give the combined C.+O. - B.+O._Railroad a total of 185 points served in_common with the New_York_Central . Not_only is this kind of duplication wasteful , but it gives the combined system the ability to take freight traffic away from the New_York_Central and other railroads serving the area . The New_York_Central notes : `` The freight traffic most susceptible to raiding by the C. +_O._-_B. +_O. provides the backbone of Central 's revenues . These revenues make it possible to provide essential freight and passenger <head>service</head> over the entire New_York_Central system as_well_as the New_York area commuter and terminal freight services . If these services are to be maintained , the New_York_Central must have the revenues to make them possible '' . The New_York_Central today handles 60 percent of all southbound commuter_traffic coming into New_York_City . This is a $ 14 million operation involving 3500 employees who work_on commuter_traffic exclusively .</context>
+    </instance>
+    <instance id="br-h13#w493_0" docsrc="br-h13">
+      <context> A blow to this phase of the Central 's operations would have serious economic consequences not_only to the railroad itself , but to the 40000 people per day who are provided with efficient , reasonably priced transportation in_and_out of the city . `` There is a workable alternative to this potentially dangerous and harmful C. + O. - B. + O. merger scheme '' - The Central has pointed_out . `` The logic of creating a strong , balanced , competitive two system railroad <head>service</head> in the East is so obvious that B._+_O. was publicly committed to the approach outlined here . Detailed studies of the plan were well underway . Though far from completion , these studies indicated beyond a doubt that savings would result which would be of unprecedented benefit to the railroads concerned , their investors , their customers , their users , and to the public at_large . Then , abandoning the studies in the face of their promising outlook for all concerned , B. + O. entered on-again-off-again negotiations with C. + O. which resulted in the present situation .</context>
+    </instance>
+    <instance id="br-h13#w94_0" docsrc="br-h13">
+      <context> Mr._Speaker , for several years now the commuter railroads serving our large metropolitan areas have found it increasingly difficult to render the kind of service our expanding population wants and is entitled to have . The causes of the decline of the commuter railroads are many and complex - high taxes , losses of revenue to Government subsidized highway and air carriers , to name but two . And the solutions to the problems of the commuter lines have been equally varied , ranging all_the_way from Government ownership to complete discontinuance of this important <head>service</head> . There have been a number of sound plans proposed . But none of these has been implemented . Instead we have stood idly by , watched our commuter railroad service decline , and have failed to offer a helping_hand .</context>
+    </instance>
+    <instance id="br-h16#w237_0" docsrc="br-h16">
+      <context> `` The fact that sticks_out in this voluminous record is that the bulk of du_Pont 's production has always supplied the largest part of the requirements of the one customer in the automobile_industry connected to du_Pont by a stock interest . The inference is overwhelming that du_Pont 's commanding position was promoted by its stock interest and was not gained solely on competitive merit '' . 353_U._S._,_at_605 . This Court agreed with the trial_court `` that considerations of price , quality and <head>service</head> were not overlooked by either du_Pont or General_Motors '' . 353_U._S._,_at_606 . However , it determined that neither this factor , nor `` the fact that all concerned in high executive posts in both companies acted honorably and fairly , each in the honest conviction that his actions were in the best interests of his own company and without any design to overreach anyone , including du_Pont 's competitors '' , 353_U._S._,_at_607 , outweighed the Government 's claim for relief . This claim , as submitted to the District_Court and dismissed by it , 126_F._Supp .235 , alleged violation not_only of 7 of the Clayton_Act , but also of 1 and 2 of the Sherman_Act .</context>
+    </instance>
+    <instance id="br-h17#w1144_0" docsrc="br-h17">
+      <context> He was not prosecuted , however , and his case was subsequently reopened , in the light of Sicurella_v._United_States , 348_U._S._385_(_1955_) . He was again reclassified 1_,_-_A by the local board . There followed a customary Department_of_Justice hearing , at which petitioner appeared . In his report to the Attorney_General , the hearing_officer suggested that the petitioner be exempt only from combatant training and <head>service</head> . On March 21 , 1957 , however , the Department recommended approval of the 1_,_-_A classification . Its ground for this recommendation was that , while petitioner claimed before the local board August 17 , 1956 ( as evidenced by its memorandum in his file of that date ) , that he was devoting 100 hours per month to actual preaching , the headquarters of the Jehovah's_Witnesses reported that he was no_longer doing so and , on_the_contrary , had relinquished both his Pioneer_and_Bible_Student_Servant positions . It reported that he now devoted only some 6 - 1_2 hours per month to public preaching and from 20 to 25 hours per month to church activities .</context>
+    </instance>
+    <instance id="br-j22#w653_0" docsrc="br-j22">
+      <context> Progress is impeded by psychological inhibitions to effective action among those in power and by a failure on their part to understand how local resources , human and material , can be mobilized to achieve the national goals of modernization already symbolically accepted . Most countries in this second category share the difficulty of having many of the structures of a modern political and social_system without the modern standards of performance required to make them effective . In these rapidly changing societies there is also too little appreciation of the need for effort to achieve goals . The colonial period has generally left people believing that government can , if it wishes , provide all manner of <head>services</head> for them - and that with independence free_men do not have_to work to realize the benefits of modern life . For_example , in accordance with the fashion of the times , most transitional societies have announced economic development plans of varying numbers of years ; such is the mystique of planning that people expect that fulfillment of the plan will follow automatically upon its announcement . The civil_services in such societies are generally inadequate to deal competently with the problems facing them ; and their members often equate a government career with security and status rather_than with sacrifice , self-discipline , and competence . American policy should press constantly the view that until these governments demand efficiency and effectiveness of their bureaucracies there is not the slightest hope that they will either modernize of democratize their societies .</context>
+    </instance>
+    <instance id="br-j23#w893_0" docsrc="br-j23">
+      <context> The belief in immortality , where held , functions as a redress for the ills and disappointments of the here_and_now . The tensions accompanying a repressive consciousness of wrongdoing or sinning or some tormenting secret are relieved for the less self-contained or self-sufficient by confession , repentance , and penance . The feeling of individual inferiority , defeat , or humilation growing out of various social situations or individual deficiencies or failures is compensated for by communion in worship or prayer with a friendly , but all-victorious Father-God , as_well as by sympathetic fellowship with others who share this faith , and by opportunities in religious acts for giving_vent to emotions and energies . In providing for these inner individual functions , religion undertakes in behalf of individual peace_of_mind and well-being <head>services</head> for which there is no other institution . In_addition to the functions of religion within man , there have always been the outer social functions for the community and society . The two have never been separable . Religion is vitally necessary in both societal maintenance and regulation .</context>
+    </instance>
+    <instance id="br-j56#w1350_0" docsrc="br-j56">
+      <context> George_Woodcock was manager and troubleshooter ; Elizabeth_Way was the first operator ; and a night operator was also employed . Anyone fortunate enough to have one of those early phones advertised the fact along with the telephone_number in the Manchester_Journal . In 1918 the New_England_Telephone_Company began erecting a building to house its operations on the corner of U._S._Rte._7 and what is now Memorial_Avenue at Manchester_Center . <head>Service</head> running through Barnumville and to Bennington_County towns east of the mountains was in the hands of the `` Gleason_Telephone_Company '' in 1925 , but major supervision of telephone_lines in Manchester was with the New_England_Telephone_and_Telegraph_Company , which eventually gained all control . More aerial and underground equipment was installed as_well as office improvements to take_care of the expanding business . In 1931 Mrs._F._H._Briggs , agent and chief operator , who was to retire in 1946 with thirty years ' service , led agency offices in sales for the year with $ 2490 . William_Hitchcock , who retired in 1938 , was a veteran of thirty-four years ' local service .</context>
+    </instance>
+    <instance id="br-j56#w1509_0" docsrc="br-j56">
+      <context> In 1931 Mrs._F._H._Briggs , agent and chief operator , who was to retire in 1946 with thirty years ' service , led agency offices in sales for the year with $ 2490 . William_Hitchcock , who retired in 1938 , was a veteran of thirty-four years ' local service . Another veteran telephone_operator was Edith_Fleming_Blackmer , who had been in the office forty years at the time of her death in 1960 . In 1932 Dorset received its own exchange , which made business easier for the Manchester office , but it was not until February 1953 that area <head>service</head> was extended to include Manchester and Dorset . This eliminated toll_calls between the two towns . Within a month , calls were up seventy per_cent . Electricity plays such an important part in community life today that it is difficult to envision a time when current was not available for daily use .</context>
+    </instance>
+    <instance id="br-j56#w1653_0" docsrc="br-j56">
+      <context> The first mention of an electric plant in Manchester seems to be one installed in Reuben_Colvin 's and Houghton 's gristmill on the West_Branch in Factory_Point . No records are available as_to the date or extent of installation , but it may have been in 1896 . On June_14 , 1900 the Manchester_Journal reported that an electrical_engineer was installing an electric_light plant for Edward_S._Isham at `` Ormsby_Hill '' . This was working by the end of August and giving satisfactory <head>service</head> . In November 1900 surveying was done under John_Marsden on the east mountains to ascertain if it would be possible to get sufficient water and fall to operate an electric power_plant . Nothing came of it , perhaps due_to lack of opportunity for water storage . The next step was construction by the Manchester_Light_and_Power_Company of a plant on the west bank of the Battenkill south of Union_Street bridge .</context>
+    </instance>
+    <instance id="br-j57#w2073_0" docsrc="br-j57">
+      <context> New , indeed , is Luther 's perception , but not modern , as anyone knows who has ever tried to make intelligible to modern students what Luther was getting at . Although Utopian communism is both new in 1516 and also modern , it is not modern communism or even modern socialism , as they exist or have ever existed in_theory or in_practice . Consider the features of Utopian communism : generous public provision for the infirm ; democratic and secret elections of all officers including priests , meals taken publicly in common refectories ; a common habit or uniform prescribed for all citizens ; even houses changed once a decade ; six hours of manual_labor a day for all but a handful of magistrates and scholars , and careful measures to prevent anyone from shirking ; no private_property , no money ; no sort of pricing at_all for any goods or <head>services</head> , and therefore no market in the economic sense of the term . Whatever the merits of its intent , Utopian communism is far too naive , far too crude , to suit any modern socialist or communist . It is not the details of Utopian communism that make Utopia modern , it is the spirit , the attitude of mind that informs those details . What that spirit and attitude were we can best understand if we see more precisely how it contrasts with the communist tradition with the longest continuous history , the one which reached Christianity by_the_way_of Stoicism through the Church_Fathers of Late Antiquity .</context>
+    </instance>
+    <instance id="n00098625_ex1_4" docsrc="n00098625_ex1">
+      <context> that restaurant has excellent <head>service</head> ;</context>
+    </instance>
+    <instance id="n00098822_d_0" docsrc="n00098822_d">
+      <context> <head>service</head> provided to customers who remain in their vehicles ;</context>
+    </instance>
+    <instance id="n00259643_d_5" docsrc="n00259643_d">
+      <context> the act of compensating for <head>service</head> or loss or injury ;</context>
+    </instance>
+    <instance id="n00318391_ex1_2" docsrc="n00318391_ex1">
+      <context> he accepted <head>service</head> of the subpoena ;</context>
+    </instance>
+    <instance id="n00353903_d_4" docsrc="n00353903_d">
+      <context> the act of reducing <head>service</head> ;</context>
+    </instance>
+    <instance id="n00577525_ex1_5" docsrc="n00577525_ex1">
+      <context> budget separately for goods and <head>services</head> ;</context>
+    </instance>
+    <instance id="n00577749_d_0" docsrc="n00577749_d">
+      <context> <head>service</head> provided by a professional advisor ( e.g. , a lawyer or doctor or CPA etc. ) ;</context>
+    </instance>
+    <instance id="n00578549_d_1" docsrc="n00578549_d">
+      <context> a <head>service</head> that an organization or a piece of equipment offers you ;</context>
+    </instance>
+    <instance id="n00579334_d_1" docsrc="n00579334_d">
+      <context> the <head>service</head> ( electric_power or water or transportation ) provided by a public utility ;</context>
+    </instance>
+    <instance id="n00579834_d_3" docsrc="n00579834_d">
+      <context> land_tenure by agricultural <head>service</head> or payment of rent ; not burdened with military_service ;</context>
+    </instance>
+    <instance id="n00579977_d_2" docsrc="n00579977_d">
+      <context> land_tenure by <head>service</head> in the lord's army ;</context>
+    </instance>
+    <instance id="n00580081_d_2" docsrc="n00580081_d">
+      <context> land_tenure by <head>service</head> to the lord as a knight ;</context>
+    </instance>
+    <instance id="n00585406_d_16" docsrc="n00585406_d">
+      <context> something designed and created to serve a particular function and to afford a particular convenience or <head>service</head> ;</context>
+    </instance>
+    <instance id="n00640188_d_12" docsrc="n00640188_d">
+      <context> research that gathers and analyzes information about the moving of good or <head>services</head> from producer to consumer ;</context>
+    </instance>
+    <instance id="n00640560_d_11" docsrc="n00640560_d">
+      <context> marketing_research that yields information about desired characteristics of the product or <head>service</head> ;</context>
+    </instance>
+    <instance id="n00913585_d_10" docsrc="n00913585_d">
+      <context> the creation of value or wealth by producing goods and <head>services</head> ;</context>
+    </instance>
+    <instance id="n00923444_d_8" docsrc="n00923444_d">
+      <context> the organized action of making of goods and <head>services</head> for sale ;</context>
+    </instance>
+    <instance id="n01032040_ex1_2" docsrc="n01032040_ex1">
+      <context> the Sunday <head>service</head> ;</context>
+    </instance>
+    <instance id="n01032368_d_1" docsrc="n01032368_d">
+      <context> a <head>service</head> conducted in a house_of_worship ;</context>
+    </instance>
+    <instance id="n01032892_d_1" docsrc="n01032892_d">
+      <context> a <head>service</head> at which people sing hymns and pray together ;</context>
+    </instance>
+    <instance id="n01033024_d_1" docsrc="n01033024_d">
+      <context> a <head>service</head> conducted in a place_of_worship that has its own altar ;</context>
+    </instance>
+    <instance id="n01041111_d_16" docsrc="n01041111_d">
+      <context> a solemn commitment of your life or your time to some cherished purpose ( to a <head>service</head> or a goal ) ;</context>
+    </instance>
+    <instance id="n01059900_d_13" docsrc="n01059900_d">
+      <context> the preservation of mental and physical health by preventing or treating illness through <head>services</head> offered by the health_profession ;</context>
+    </instance>
+    <instance id="n01087498_d_24" docsrc="n01087498_d">
+      <context> social_insurance program in Britain ; based on contributions from employers and employees ; provides payments to unemployed and sick and retired as_well as medical <head>services</head> ;</context>
+    </instance>
+    <instance id="n01090446_d_15" docsrc="n01090446_d">
+      <context> transactions ( sales and purchases ) having the objective of supplying commodities ( goods and <head>services</head> ) ;</context>
+    </instance>
+    <instance id="n01091905_d_16" docsrc="n01091905_d">
+      <context> the commercial exchange ( buying and selling on domestic or international markets ) of goods and <head>services</head> ;</context>
+    </instance>
+    <instance id="n01094725_d_6" docsrc="n01094725_d">
+      <context> the activity of providing goods and <head>services</head> involving financial and commercial and industrial aspects ;</context>
+    </instance>
+    <instance id="n01097292_d_7" docsrc="n01097292_d">
+      <context> the world of commercial_activity where goods and <head>services</head> are bought and sold ;</context>
+    </instance>
+    <instance id="n01100877_d_18" docsrc="n01100877_d">
+      <context> a jointly owned commercial_enterprise ( usually organized by farmers or consumers ) that produces and distributes goods and <head>services</head> and is run for the benefit of its owners ;</context>
+    </instance>
+    <instance id="n01104324_d_3" docsrc="n01104324_d">
+      <context> providing food and <head>services</head> ;</context>
+    </instance>
+    <instance id="n01109114_d_5" docsrc="n01109114_d">
+      <context> the transfer of goods and <head>services</head> to an ally to aid in a common cause ;</context>
+    </instance>
+    <instance id="n01112420_d_13" docsrc="n01112420_d">
+      <context> the commercial processes involved in promoting and selling and distributing a product or <head>service</head> ;</context>
+    </instance>
+    <instance id="n01121855_d_7" docsrc="n01121855_d">
+      <context> the act of paying for goods or <head>services</head> or to recompense for losses ;</context>
+    </instance>
+    <instance id="n01122601_d_8" docsrc="n01122601_d">
+      <context> the act of spending money for goods or <head>services</head> ;</context>
+    </instance>
+    <instance id="n01208924_d_3" docsrc="n01208924_d">
+      <context> any of various <head>services</head> designed to aid the poor and aged and to increase the welfare of children ;</context>
+    </instance>
+    <instance id="n01209576_ex1_4" docsrc="n01209576_ex1">
+      <context> he did them a <head>service</head> ;</context>
+    </instance>
+    <instance id="n01209963_d_1" docsrc="n01209963_d">
+      <context> a <head>service</head> involving care for other people's children ;</context>
+    </instance>
+    <instance id="n01210102_d_2" docsrc="n01210102_d">
+      <context> an unpaid <head>service</head> for the benefit of the public that is performed by lawbreakers as part ( or all ) of their sentence ;</context>
+    </instance>
+    <instance id="n01210281_d_1" docsrc="n01210281_d">
+      <context> a <head>service</head> that is performed for the benefit of the public or its institutions ;</context>
+    </instance>
+    <instance id="n01210547_d_1" docsrc="n01210547_d">
+      <context> a <head>service</head> that provides information and assistance to the users of a computer_network ;</context>
+    </instance>
+    <instance id="n01218327_d_13" docsrc="n01218327_d">
+      <context> the act of reserving ( a place or passage ) or engaging the <head>services</head> of ( a person or group ) ;</context>
+    </instance>
+    <instance id="n01231296_d_15" docsrc="n01231296_d">
+      <context> a trip made by a repairman to visit the location of something in need of <head>service</head> ;</context>
+    </instance>
+    <instance id="n02811719_d_5" docsrc="n02811719_d">
+      <context> a military_uniform designed for field <head>service</head> ;</context>
+    </instance>
+    <instance id="n03173929_d_7" docsrc="n03173929_d">
+      <context> a van suitable for delivering goods or <head>services</head> to customers ;</context>
+    </instance>
+    <instance id="n03294048_d_10" docsrc="n03294048_d">
+      <context> an instrumentality needed for an undertaking or to perform a <head>service</head> ;</context>
+    </instance>
+    <instance id="n03306207_d_4" docsrc="n03306207_d">
+      <context> commodities ( goods or <head>services</head> ) sold to a foreign_country ;</context>
+    </instance>
+    <instance id="n03542333_d_12" docsrc="n03542333_d">
+      <context> a building where travelers can pay for lodging and meals and other <head>services</head> ;</context>
+    </instance>
+    <instance id="n03564667_d_4" docsrc="n03564667_d">
+      <context> commodities ( goods or <head>services</head> ) bought from a foreign_country ;</context>
+    </instance>
+    <instance id="n03647872_d_4" docsrc="n03647872_d">
+      <context> a self-service laundry ( <head>service</head> mark Laundromat ) where coin-operated washing_machines are available to individual customers ;</context>
+    </instance>
+    <instance id="n03751065_d_7" docsrc="n03751065_d">
+      <context> a ( large ) military dining_room where <head>service</head> personnel eat or relax ;</context>
+    </instance>
+    <instance id="n03953020_d_28" docsrc="n03953020_d">
+      <context> an establishment ( a factory or an assembly_plant or retail_store or warehouse etc. ) where business is conducted , goods are made or stored or processed or where <head>services</head> are rendered ;</context>
+    </instance>
+    <instance id="n04202417_d_9" docsrc="n04202417_d">
+      <context> a mercantile_establishment for the retail sale of goods or <head>services</head> ;</context>
+    </instance>
+    <instance id="n04516874_d_22" docsrc="n04516874_d">
+      <context> a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a <head>service</head> such as heat or electricity or water or sewage_disposal ;</context>
+    </instance>
+    <instance id="n04563942_d_5" docsrc="n04563942_d">
+      <context> a telephone_line ; long distance <head>service</head> at fixed rates for fixed zones ; an acronym for wide area telephone_service ;</context>
+    </instance>
+    <instance id="n04854259_d_6" docsrc="n04854259_d">
+      <context> prostitution of talents or offices or <head>services</head> for reward ;</context>
+    </instance>
+    <instance id="n05149978_d_2" docsrc="n05149978_d">
+      <context> a particular <head>service</head> ;</context>
+    </instance>
+    <instance id="n05150129_d_8" docsrc="n05150129_d">
+      <context> the quality of being able to provide good <head>service</head> ;</context>
+    </instance>
+    <instance id="n05899087_d_5" docsrc="n05899087_d">
+      <context> a system of projects or <head>services</head> intended to meet a public need ;</context>
+    </instance>
+    <instance id="n05904918_d_8" docsrc="n05904918_d">
+      <context> a system for setting prices on goods or <head>services</head> ;</context>
+    </instance>
+    <instance id="n06149484_d_16" docsrc="n06149484_d">
+      <context> the branch of social_science that deals with the production and distribution and consumption of goods and <head>services</head> and their management ;</context>
+    </instance>
+    <instance id="n06279805_d_1" docsrc="n06279805_d">
+      <context> a <head>service</head> providing free email delivery in exchange for exposure to advertising ;</context>
+    </instance>
+    <instance id="n06494538_d_8" docsrc="n06494538_d">
+      <context> a listing of prices for different goods or <head>services</head> ;</context>
+    </instance>
+    <instance id="n06516955_d_10" docsrc="n06516955_d">
+      <context> an itemized statement of money owed for goods shipped or <head>services</head> rendered ;</context>
+    </instance>
+    <instance id="n06517547_d_5" docsrc="n06517547_d">
+      <context> statement of charges for medical <head>services</head> ;</context>
+    </instance>
+    <instance id="n06524454_d_4" docsrc="n06524454_d">
+      <context> a contract for maintenance <head>services</head> ;</context>
+    </instance>
+    <instance id="n06526811_d_8" docsrc="n06526811_d">
+      <context> an authorization to sell a company's goods or <head>services</head> in a particular place ;</context>
+    </instance>
+    <instance id="n06545960_d_19" docsrc="n06545960_d">
+      <context> under the feudal_system , the deed by which a person was given land in exchange for a pledge of <head>service</head> ;</context>
+    </instance>
+    <instance id="n06568134_d_11" docsrc="n06568134_d">
+      <context> software that controls the execution of computer_programs and may provide various <head>services</head> ;</context>
+    </instance>
+    <instance id="n06641654_d_9" docsrc="n06641654_d">
+      <context> an index of the cost of all goods and <head>services</head> to a typical consumer ;</context>
+    </instance>
+    <instance id="n06685456_d_7" docsrc="n06685456_d">
+      <context> a written assurance that some product or <head>service</head> will be provided or will meet certain specifications ;</context>
+    </instance>
+    <instance id="n06845599_d_7" docsrc="n06845599_d">
+      <context> a name given to a product or <head>service</head> ;</context>
+    </instance>
+    <instance id="n07248801_d_7" docsrc="n07248801_d">
+      <context> a public promotion of some product or <head>service</head> ;</context>
+    </instance>
+    <instance id="n07251373_d_17" docsrc="n07251373_d">
+      <context> a telephone_directory or section of a directory ( usually printed on yellow ) where business products and <head>services</head> are listed alphabetically by field along with classified advertising ;</context>
+    </instance>
+    <instance id="n07475242_d_7" docsrc="n07475242_d">
+      <context> a tennis game won on the opponent's <head>service</head> ;</context>
+    </instance>
+    <instance id="n07565608_d_7" docsrc="n07565608_d">
+      <context> a meal eaten in a mess_hall by <head>service</head> personnel ;</context>
+    </instance>
+    <instance id="n07565725_d_9" docsrc="n07565725_d">
+      <context> the food allowance for one day ( especially for <head>service</head> personnel ) ;</context>
+    </instance>
+    <instance id="n07953603_d_25" docsrc="n07953603_d">
+      <context> an accumulation of jobs not done or materials not processed that are yet to be dealt with ( especially unfilled customer orders for products or <head>services</head> ) ;</context>
+    </instance>
+    <instance id="n08003717_d_5" docsrc="n08003717_d">
+      <context> a company that provides shipping <head>services</head> ;</context>
+    </instance>
+    <instance id="n08041106_d_20" docsrc="n08041106_d">
+      <context> a Marxist and Maoist terrorist_organization in Germany ; a network of underground guerillas who committed acts of violence in the <head>service</head> of the class_struggle ; a successor to the Baader-Meinhof_Gang ; became one of Europe's most feared terrorist_groups ; disbanded in 1998 ;</context>
+    </instance>
+    <instance id="n08041484_d_27" docsrc="n08041484_d">
+      <context> a Marxist-Leninist terrorist_organization that arose out of a student protest movement in the late 1960s ; wants to separate Italy from NATO and advocates violence in the <head>service</head> of class_warfare and revolution ; mostly inactive since 1989 ;</context>
+    </instance>
+    <instance id="n08060193_d_16" docsrc="n08060193_d">
+      <context> a business established or operated under an authorization to sell or distribute a company's goods or <head>services</head> in a particular area ;</context>
+    </instance>
+    <instance id="n08062326_d_9" docsrc="n08062326_d">
+      <context> a firm of accountants who provide accounting and auditing <head>services</head> for a fee ;</context>
+    </instance>
+    <instance id="n08073700_d_4" docsrc="n08073700_d">
+      <context> an industry that provides <head>services</head> rather than tangible objects ;</context>
+    </instance>
+    <instance id="n08118849_d_8" docsrc="n08118849_d">
+      <context> the division of a business ( e.g. a <head>service</head> garage ) that sells replacement parts ;</context>
+    </instance>
+    <instance id="n08119525_d_11" docsrc="n08119525_d">
+      <context> the division of a business that is responsible_for selling products or <head>services</head> ;</context>
+    </instance>
+    <instance id="n08119698_d_8" docsrc="n08119698_d">
+      <context> the division of a business that provides customer <head>services</head> ;</context>
+    </instance>
+    <instance id="n08127304_d_9" docsrc="n08127304_d">
+      <context> an independent federal_agency that provides mail processing and delivery <head>service</head> for individuals and businesses in the United_States ;</context>
+    </instance>
+    <instance id="n08128964_d_7" docsrc="n08128964_d">
+      <context> the federal_department that administers programs that provide <head>services</head> to farmers ( including research and soil_conservation and efforts to stabilize the farming economy ) ; created in 1862 ;</context>
+    </instance>
+    <instance id="n08132323_d_5" docsrc="n08132323_d">
+      <context> a defense_laboratory that provides essential <head>services</head> in fundamental science for national security and environmental protection and provides technologies that contribute to industrial competitiveness ;</context>
+    </instance>
+    <instance id="n08236621_d_19" docsrc="n08236621_d">
+      <context> a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or <head>service</head> ;</context>
+    </instance>
+    <instance id="n08356573_d_10" docsrc="n08356573_d">
+      <context> an agency of the legislative_branch that provides printing and binding <head>services</head> for Congress and the departments and establishments of the federal_government ;</context>
+    </instance>
+    <instance id="n08418420_d_11" docsrc="n08418420_d">
+      <context> a financial_institution that accepts demand_deposits and makes loans and provides other <head>services</head> for the public ;</context>
+    </instance>
+    <instance id="n08423057_d_13" docsrc="n08423057_d">
+      <context> a thrift_institution in the northeastern_United_States ; since deregulation in the 1980s they offer <head>services</head> competitive with many commercial_banks ;</context>
+    </instance>
+    <instance id="n08424222_d_31" docsrc="n08424222_d">
+      <context> an organization ( usually with a commercial_bank ) that is engaged as a trustee or fiduciary or agent in handling trust_funds or estates of custodial arrangements or stock transfers or related <head>services</head> ;</context>
+    </instance>
+    <instance id="n08424951_d_7" docsrc="n08424951_d">
+      <context> the customers for a particular product or <head>service</head> ;</context>
+    </instance>
+    <instance id="n08648781_d_6" docsrc="n08648781_d">
+      <context> place on a highway providing garage <head>services</head> and eating and toilet_facilities ;</context>
+    </instance>
+    <instance id="n09612848_d_6" docsrc="n09612848_d">
+      <context> a person who uses goods or <head>services</head> ;</context>
+    </instance>
+    <instance id="n09761753_d_14" docsrc="n09761753_d">
+      <context> someone in charge of a client's account for an advertising_agency or brokerage or other <head>service</head> business ;</context>
+    </instance>
+    <instance id="n09890296_d_4" docsrc="n09890296_d">
+      <context> a prostitute who provides <head>service</head> to military_personnel ;</context>
+    </instance>
+    <instance id="n09899289_d_9" docsrc="n09899289_d">
+      <context> a person responsible for receiving payments for goods and <head>services</head> ( as in a shop or restaurant ) ;</context>
+    </instance>
+    <instance id="n09901642_d_5" docsrc="n09901642_d">
+      <context> someone who provides food and <head>service</head> ( as for a party ) ;</context>
+    </instance>
+    <instance id="n09917214_d_5" docsrc="n09917214_d">
+      <context> the senior officer of a <head>service</head> of the armed_forces ;</context>
+    </instance>
+    <instance id="n09984659_d_6" docsrc="n09984659_d">
+      <context> someone who pays for goods or <head>services</head> ;</context>
+    </instance>
+    <instance id="n10003870_d_6" docsrc="n10003870_d">
+      <context> someone trained to provide preventive dental <head>service</head> ( cleaning teeth or taking x-rays ) ;</context>
+    </instance>
+    <instance id="n10013614_d_4" docsrc="n10013614_d">
+      <context> someone employed to provide <head>service</head> in a dining_room ;</context>
+    </instance>
+    <instance id="n10017422_d_19" docsrc="n10017422_d">
+      <context> employee of a transportation_company who controls the departures of vehicles according to weather_conditions and in the interest of efficient <head>service</head> ;</context>
+    </instance>
+    <instance id="n10077106_d_19" docsrc="n10077106_d">
+      <context> a person attached to the household of a high official ( as a pope or bishop ) who renders <head>service</head> in return for support ;</context>
+    </instance>
+    <instance id="n10493922_d_6" docsrc="n10493922_d">
+      <context> an agent who purchases goods or <head>services</head> for another ;</context>
+    </instance>
+    <instance id="n10577284_d_7" docsrc="n10577284_d">
+      <context> someone who promotes or exchanges goods or <head>services</head> for money ;</context>
+    </instance>
+    <instance id="n10623806_d_5" docsrc="n10623806_d">
+      <context> a waiter who manages wine <head>service</head> in a hotel or restaurant ;</context>
+    </instance>
+    <instance id="n10635275_d_8" docsrc="n10635275_d">
+      <context> someone who spends money to purchase goods or <head>services</head> ;</context>
+    </instance>
+    <instance id="n10677271_d_8" docsrc="n10677271_d">
+      <context> someone whose business is to supply a particular <head>service</head> or commodity ;</context>
+    </instance>
+    <instance id="n10760199_d_12" docsrc="n10760199_d">
+      <context> one bound by vows to a religion or life of worship or <head>service</head> ;</context>
+    </instance>
+    <instance id="n10844231_d_5" docsrc="n10844231_d">
+      <context> pope who founded the Vatican <head>service</head> for prisoners_of_war during World_War_I ;</context>
+    </instance>
+    <instance id="n13242923_d_27" docsrc="n13242923_d">
+      <context> a medieval form of land_tenure in England ; a copyhold was a parcel_of_land granted to a peasant by the lord of the manor in return for agricultural <head>services</head> ;</context>
+    </instance>
+    <instance id="n13257098_d_13" docsrc="n13257098_d">
+      <context> former measure of the United_States economy ; the total market_value of goods and <head>services</head> produced by all citizens and capital during a given period ;</context>
+    </instance>
+    <instance id="n13257511_d_18" docsrc="n13257511_d">
+      <context> the measure of an economy adopted by the United_States in 1991 ; the total market_values of goods and <head>services</head> produced by workers and capital within a nation's borders during a given period ( usually 1 year ) ;</context>
+    </instance>
+    <instance id="n13260762_d_8" docsrc="n13260762_d">
+      <context> the net_sales minus the cost of goods and <head>services</head> sold ;</context>
+    </instance>
+    <instance id="n13260936_d_10" docsrc="n13260936_d">
+      <context> income ( at invoice values ) received for goods and <head>services</head> over some given period_of_time ;</context>
+    </instance>
+    <instance id="n13275495_d_5" docsrc="n13275495_d">
+      <context> amounts paid for goods and <head>services</head> that may be currently tax deductible ( as opposed to capital_expenditures ) ;</context>
+    </instance>
+    <instance id="n13275847_d_6" docsrc="n13275847_d">
+      <context> the total spent for goods or <head>services</head> including money and time and labor ;</context>
+    </instance>
+    <instance id="n13278100_d_17" docsrc="n13278100_d">
+      <context> a public expenditure ( as for unemployment_compensation or veteran's benefits ) that is not for goods and <head>services</head> ;</context>
+    </instance>
+    <instance id="n13282007_d_6" docsrc="n13282007_d">
+      <context> payment or reward ( as for <head>service</head> rendered ) ;</context>
+    </instance>
+    <instance id="n13282550_d_17" docsrc="n13282550_d">
+      <context> something ( such as money ) given or received as payment or reparation ( as for a <head>service</head> or loss or injury ) ;</context>
+    </instance>
+    <instance id="n13283764_d_6" docsrc="n13283764_d">
+      <context> payment made in return for a <head>service</head> rendered ;</context>
+    </instance>
+    <instance id="n13283952_d_7" docsrc="n13283952_d">
+      <context> a fee paid for a nominally free <head>service</head> ;</context>
+    </instance>
+    <instance id="n13298701_d_6" docsrc="n13298701_d">
+      <context> a relatively small amount_of_money given for <head>services</head> rendered ( as by a waiter ) ;</context>
+    </instance>
+    <instance id="n13298935_d_6" docsrc="n13298935_d">
+      <context> a present given at Christmas for <head>services</head> during the year ;</context>
+    </instance>
+    <instance id="n13306870_d_7" docsrc="n13306870_d">
+      <context> the price charged for some article or <head>service</head> ;</context>
+    </instance>
+    <instance id="n13313899_d_6" docsrc="n13313899_d">
+      <context> a tax levied on goods or <head>services</head> rather than on persons or organizations ;</context>
+    </instance>
+    <instance id="n13320168_d_8" docsrc="n13320168_d">
+      <context> a fixed_charge for a privilege or for professional <head>services</head> ;</context>
+    </instance>
+    <instance id="n13320860_d_3" docsrc="n13320860_d">
+      <context> a fee for <head>services</head> rendered based on a percentage of an amount received or collected or agreed to be paid ( as distinguished from a salary ) ;</context>
+    </instance>
+    <instance id="n13321081_d_15" docsrc="n13321081_d">
+      <context> a fee that is payable only_if the outcome is successful ( as for an attorney's <head>services</head> ) ;</context>
+    </instance>
+    <instance id="n13321992_d_5" docsrc="n13321992_d">
+      <context> a fee paid for legal <head>service</head> ;</context>
+    </instance>
+    <instance id="n13323313_d_7" docsrc="n13323313_d">
+      <context> a fee charged in_advance to retain the <head>services</head> of someone ;</context>
+    </instance>
+    <instance id="n13325847_d_17" docsrc="n13325847_d">
+      <context> a percentage of a bill ( as at a hotel or restaurant ) added in payment for <head>service</head> ;</context>
+    </instance>
+    <instance id="n13349208_d_5" docsrc="n13349208_d">
+      <context> group_insurance that entitles members to <head>services</head> of participating hospitals and clinics and physicians ;</context>
+    </instance>
+    <instance id="n13374281_d_7" docsrc="n13374281_d">
+      <context> arrangement for deferred payment for goods and <head>services</head> ;</context>
+    </instance>
+    <instance id="n13386465_d_5" docsrc="n13386465_d">
+      <context> prompt payment for goods or <head>services</head> in currency or by check ;</context>
+    </instance>
+    <instance id="n13397174_d_4" docsrc="n13397174_d">
+      <context> money or goods or <head>services</head> owed by one person to another ;</context>
+    </instance>
+    <instance id="n13407208_d_17" docsrc="n13407208_d">
+      <context> a creditor's accounts of money owed to him ; normally arise from the sale of products or <head>services</head> ;</context>
+    </instance>
+    <instance id="n13407561_d_16" docsrc="n13407561_d">
+      <context> a debtor's accounts of money he owes ; normally arise from the purchase of products or <head>services</head> ;</context>
+    </instance>
+    <instance id="n13410269_d_14" docsrc="n13410269_d">
+      <context> the difference in value over a period_of_time of a country's imports and exports of <head>services</head> and payments of property incomes ;</context>
+    </instance>
+    <instance id="n13410803_d_14" docsrc="n13410803_d">
+      <context> that part of the balance_of_payments recording a nation's exports and imports of goods and <head>services</head> and transfer_payments ;</context>
+    </instance>
+    <instance id="n13411533_d_1" docsrc="n13411533_d">
+      <context> a <head>service</head> ( less exhaustive than an audit ) that provides some assurance to interested parties as to the reliability of financial data ;</context>
+    </instance>
+    <instance id="n13413493_d_8" docsrc="n13413493_d">
+      <context> the amount ( of money or goods or <head>services</head> ) that is considered to be a fair equivalent for something else ;</context>
+    </instance>
+    <instance id="n13451665_d_2" docsrc="n13451665_d">
+      <context> buying expensive <head>services</head> and products in order to flaunt your wealth ;</context>
+    </instance>
+    <instance id="n13461162_d_8" docsrc="n13461162_d">
+      <context> the ability and desire to purchase goods and <head>services</head> ;</context>
+    </instance>
+    <instance id="n13563522_d_3" docsrc="n13563522_d">
+      <context> offering goods and <head>services</head> for sale ;</context>
+    </instance>
+    <instance id="n13580228_d_16" docsrc="n13580228_d">
+      <context> the amount that utility increases with an increase of one unit of an economic good or <head>service</head> ;</context>
+    </instance>
+    <instance id="n13929037_d_14" docsrc="n13929037_d">
+      <context> a formal contractual relationship established to provide for regular banking or brokerage or business <head>services</head> ;</context>
+    </instance>
+    <instance id="n14444644_d_6" docsrc="n14444644_d">
+      <context> a market in which goods or <head>services</head> are offered by several sellers but there is only one buyer ;</context>
+    </instance>
+    <instance id="n14490801_d_11" docsrc="n14490801_d">
+      <context> a liability account showing how much is owed for goods and <head>services</head> purchased on credit ;</context>
+    </instance>
+    <instance id="v00042792_d_2" docsrc="v00042792_d">
+      <context> perform the <head>services</head> of a barber : cut the hair and/or beard of ;</context>
+    </instance>
+    <instance id="v00754430_d_6" docsrc="v00754430_d">
+      <context> make a formal request for official <head>services</head> ;</context>
+    </instance>
+    <instance id="v01031756_d_7" docsrc="v01031756_d">
+      <context> send by rapid transport or special messenger <head>service</head> ;</context>
+    </instance>
+    <instance id="v01158872_d_2" docsrc="v01158872_d">
+      <context> put into <head>service</head> ; make work or employ for a particular purpose or for its inherent or natural purpose ;</context>
+    </instance>
+    <instance id="v01428203_d_4" docsrc="v01428203_d">
+      <context> be available for stud <head>services</head> ;</context>
+    </instance>
+    <instance id="v02203168_d_4" docsrc="v02203168_d">
+      <context> maintain for use and <head>service</head> ;</context>
+    </instance>
+    <instance id="v02209499_d_2" docsrc="v02209499_d">
+      <context> grant the <head>services</head> of or the temporary use of , for a fee ;</context>
+    </instance>
+    <instance id="v02251743_d_9" docsrc="v02251743_d">
+      <context> give money , usually in exchange for goods or <head>services</head> ;</context>
+    </instance>
+    <instance id="v02299269_d_8" docsrc="v02299269_d">
+      <context> pay as a contribution to a charity or <head>service</head> , especially at regular intervals ;</context>
+    </instance>
+    <instance id="v02361100_d_3" docsrc="v02361100_d">
+      <context> obtain goods or <head>services</head> from an outside supplier ; to contract work ;</context>
+    </instance>
+    <instance id="v02363371_d_11" docsrc="v02363371_d">
+      <context> put in possession of land in exchange for a pledge of <head>service</head> , in feudal society ;</context>
+    </instance>
+    <instance id="v02460619_d_11" docsrc="v02460619_d">
+      <context> hold under a lease or rental agreement ; of goods and <head>services</head> ;</context>
+    </instance>
+    <instance id="v02638444_d_9" docsrc="v02638444_d">
+      <context> be available or ready for a certain function or <head>service</head> ;</context>
+    </instance>
+    <instance id="v02747403_d_7" docsrc="v02747403_d">
+      <context> be scheduled so as to provide continuing <head>service</head> , as in transportation ;</context>
+    </instance>
+  </lexelt>
+</corpus>

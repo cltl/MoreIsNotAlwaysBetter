@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Department_of_Energy.n" pos="NN">
+    <instance id="n00601088_d_7" docsrc="n00601088_d">
+      <context> the position of the head of the <head>Department_of_Energy</head> ;</context>
+    </instance>
+    <instance id="n08133189_d_16" docsrc="n08133189_d">
+      <context> an agency that collects political and economic and technical information about energy matters and makes the <head>Department_of_Energy's</head> technical and analytical expertise available to other members of the Intelligence_Community ;</context>
+    </instance>
+    <instance id="n10571670_d_8" docsrc="n10571670_d">
+      <context> the person who holds the secretaryship of the <head>Department_of_Energy</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

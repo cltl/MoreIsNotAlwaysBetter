@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="hydrogen.n" pos="NN">
+    <instance id="Compressed_hydrogen-hydrogen-0-10-1" docsrc="Compressed_hydrogen">
+      <context> <head>Gas</head> compressor Gasoline gallon equivalent Hydrogen compressor</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-1-0-1" docsrc="Compressed_hydrogen">
+      <context> Compressed <head>hydrogen</head> ( CH2 , CGH2 or CGH2 ) is the gaseous state of the element hydrogen kept under pressure . Compressed hydrogen in hydrogen tanks at 350 bar ( 5,000 psi ) and 700 bar ( 10,000 psi ) is used for mobile hydrogen storage in hydrogen vehicles .</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-1-0-3" docsrc="Compressed_hydrogen">
+      <context> Compressed <head>hydrogen</head> in hydrogen tanks at 350 bar ( 5,000 psi ) and 700 bar ( 10,000 psi ) is used for mobile hydrogen storage in hydrogen vehicles . It is used as a fuel gas . Compressed hydrogen is used in hydrogen pipeline transport and in compressed hydrogen tube trailer transport .</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-1-11-1" docsrc="Compressed_hydrogen">
+      <context> Gasoline <head>gallon</head> equivalent Hydrogen compressor Liquid hydrogen</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-1-13-1" docsrc="Compressed_hydrogen">
+      <context> Liquid <head>hydrogen</head> Liquefaction of gases Metallic hydrogen</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-1-14-1" docsrc="Compressed_hydrogen">
+      <context> Liquefaction <head>of</head> gases Metallic hydrogen Slush hydrogen</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-1-17-1" docsrc="Compressed_hydrogen">
+      <context> Standard <head>cubic</head> foot Timeline of hydrogen technologies COMPRESSED HYDROGEN INFRASTRUCTURE PROGRAM ( " CH2IP " )</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-1-24-1" docsrc="Compressed_hydrogen">
+      <context> Timeline <head>of</head> hydrogen technologies COMPRESSED HYDROGEN INFRASTRUCTURE PROGRAM ( " CH2IP " )</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-11-0-3" docsrc="Compressed_hydrogen">
+      <context> Compressed hydrogen in hydrogen tanks at 350 bar ( 5,000 psi <head>)</head> and 700 bar ( 10,000 psi ) is used for mobile hydrogen storage in hydrogen vehicles . It is used as a fuel gas . Compressed hydrogen is used in hydrogen pipeline transport and in compressed hydrogen tube trailer transport .</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-2-16-1" docsrc="Compressed_hydrogen">
+      <context> Slush hydrogen <head>Standard</head> cubic foot Timeline of hydrogen technologies</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-23-0-1" docsrc="Compressed_hydrogen">
+      <context> Compressed hydrogen ( CH2 , CGH2 or CGH2 ) is the gaseous state of the element hydrogen kept under pressure . Compressed hydrogen <head>in</head> hydrogen tanks at 350 bar ( 5,000 psi ) and 700 bar ( 10,000 psi ) is used for mobile hydrogen storage in hydrogen vehicles .</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-26-0-1" docsrc="Compressed_hydrogen">
+      <context> Compressed hydrogen ( CH2 , CGH2 or CGH2 ) is the gaseous state of the element hydrogen kept under pressure . Compressed hydrogen in hydrogen tanks <head>at</head> 350 bar ( 5,000 psi ) and 700 bar ( 10,000 psi ) is used for mobile hydrogen storage in hydrogen vehicles .</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-3-0-1" docsrc="Compressed_hydrogen">
+      <context> Compressed hydrogen ( <head>CH2</head> , CGH2 or CGH2 ) is the gaseous state of the element hydrogen kept under pressure . Compressed hydrogen in hydrogen tanks at 350 bar ( 5,000 psi ) and 700 bar ( 10,000 psi ) is used for mobile hydrogen storage in hydrogen vehicles .</context>
+    </instance>
+    <instance id="Compressed_hydrogen-hydrogen-5-0-3" docsrc="Compressed_hydrogen">
+      <context> Compressed hydrogen in hydrogen tanks <head>at</head> 350 bar ( 5,000 psi ) and 700 bar ( 10,000 psi ) is used for mobile hydrogen storage in hydrogen vehicles . It is used as a fuel gas . Compressed hydrogen is used in hydrogen pipeline transport and in compressed hydrogen tube trailer transport .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-0-100-1" docsrc="Hydride">
+      <context> <head>silane</head> : many industrial uses , e.g. manufacture of composite materials and water repellents ammonia : coolant , fuel , fertilizer , many other industrial uses hydrogen sulfide : component of natural gas , important source of sulfur</context>
+    </instance>
+    <instance id="Hydride-hydrogen-0-114-1" docsrc="Hydride">
+      <context> <head>Hydronium</head> Proton Hydrogen ion</context>
+    </instance>
+    <instance id="Hydride-hydrogen-0-18-1" docsrc="Hydride">
+      <context> <head>Instead</head> , many compounds have hydrogen centres with hydridic character . Aside from electride , the hydride ion is the simplest possible anion , consisting of two electrons and a proton . Hydrogen has a relatively low electron affinity , 72.77 kJ/mol and reacts exothermically with protons as a powerful Lewis base .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-10-56-2" docsrc="Hydride">
+      <context> Transition metal hydrides include compounds that can be classified as <head>covalent</head> hydrides . Some are even classified as interstitial hydrides and other bridging hydrides . Classical transition metal hydride feature a single bond between the hydrogen centre and the transition metal .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-10-64-1" docsrc="Hydride">
+      <context> Some deuterides , such as LiD , are important fusion <head>fuels</head> in thermonuclear weapons , and useful moderators in nuclear reactors . Protide , deuteride , and tritide are used to describe ions or compounds , which contain enriched hydrogen-1 , deuterium or tritium , respectively . In the classic meaning , hydride refers to any compounds hydrogen forms with other elements , ranging over groups 1–16 ( the binary compounds of hydrogen ) .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-10-82-1" docsrc="Hydride">
+      <context> bismuth : bismuthine ( note ' bismuthane ' is the <head>IUPAC</head> recommended name ) helium : helium hydride ( only exists as an ion ) According to the convention above , the following are " hydrogen compounds " and not " hydrides " :</context>
+    </instance>
+    <instance id="Hydride-hydrogen-12-106-1" docsrc="Hydride">
+      <context> Chemically , even water and hydrocarbons could be considered hydrides . === <head>Precedence</head> convention === According to IUPAC convention , by precedence ( stylized electronegativity ) , hydrogen falls between group 15 and group 16 elements .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-12-56-5" docsrc="Hydride">
+      <context> Some transition metal hydrides are acidic , e.g. , HCo(CO)4 and H2Fe(CO)4 <head>.</head> The anions [ ReH9]2− and [ FeH6]4− are examples from the growing collection of known molecular homoleptic metal hydrides . As pseudohalides , hydride ligands are capable of bonding with positively polarized hydrogen centres .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-14-36-3" docsrc="Hydride">
+      <context> In these materials the hydrogen atom is viewed as a pseudohalide . Saline hydrides <head>are</head> insoluble in conventional solvents , reflecting their nonmolecular structures . Most ionic hydrides exist as " binary " materials involving only two elements including hydrogen .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-15-29-1" docsrc="Hydride">
+      <context> These substances have been classified into three main types according to the nature of their <head>bonding</head> : Ionic hydrides , which have significant ionic bonding character . Covalent hydrides , which include the hydrocarbons and many other compounds which covalently bond to hydrogen atoms .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-16-83-1" docsrc="Hydride">
+      <context> helium : helium hydride ( only exists as an ion ) According to the convention above <head>,</head> the following are " hydrogen compounds " and not " hydrides " : oxygen : water ( ' oxidane ' when substituted ; synonym : oxygen hydride ) , hydrogen peroxide</context>
+    </instance>
+    <instance id="Hydride-hydrogen-17-107-1" docsrc="Hydride">
+      <context> === Precedence convention === According to IUPAC convention , by precedence ( stylized electronegativity ) , hydrogen <head>falls</head> between group 15 and group 16 elements . Therefore we have NH3 , ' nitrogen hydride ' ( ammonia ) , versus H2O , ' hydrogen oxide ' ( water ) .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-2-0-2" docsrc="Hydride">
+      <context> In chemistry <head>,</head> a hydride is the anion of hydrogen , H− , or , more commonly , it is a compound in which one or more hydrogen centres have nucleophilic , reducing , or basic properties . In compounds that are regarded as hydrides , the hydrogen atom is bonded to a more electropositive element or group . Compounds containing hydrogen bonded to metals or metalloid may also be referred to as hydrides , even though in this case the hydrogen atoms can have a protic character .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-2-111-1" docsrc="Hydride">
+      <context> Therefore we <head>have</head> NH3 , ' nitrogen hydride ' ( ammonia ) , versus H2O , ' hydrogen oxide ' ( water ) . Parent hydride Hydron ( hydrogen cation )</context>
+    </instance>
+    <instance id="Hydride-hydrogen-2-84-1" docsrc="Hydride">
+      <context> According to <head>the</head> convention above , the following are " hydrogen compounds " and not " hydrides " : oxygen : water ( ' oxidane ' when substituted ; synonym : oxygen hydride ) , hydrogen peroxide sulfur : hydrogen sulfide ( ' sulfane ' when substituted ) synonym : sulfur hydride</context>
+    </instance>
+    <instance id="Hydride-hydrogen-2-85-1" docsrc="Hydride">
+      <context> oxygen : <head>water</head> ( ' oxidane ' when substituted ; synonym : oxygen hydride ) , hydrogen peroxide sulfur : hydrogen sulfide ( ' sulfane ' when substituted ) synonym : sulfur hydride selenium : hydrogen selenide ( ' selane ' when substituted )</context>
+    </instance>
+    <instance id="Hydride-hydrogen-2-86-1" docsrc="Hydride">
+      <context> sulfur : <head>hydrogen</head> sulfide ( ' sulfane ' when substituted ) synonym : sulfur hydride selenium : hydrogen selenide ( ' selane ' when substituted ) tellurium : hydrogen telluride ( ' tellane ' when substituted )</context>
+    </instance>
+    <instance id="Hydride-hydrogen-2-87-1" docsrc="Hydride">
+      <context> selenium : <head>hydrogen</head> selenide ( ' selane ' when substituted ) tellurium : hydrogen telluride ( ' tellane ' when substituted ) halogens : hydrogen halides</context>
+    </instance>
+    <instance id="Hydride-hydrogen-22-0-2" docsrc="Hydride">
+      <context> In chemistry , a hydride is the anion of hydrogen , H− , or , more commonly , it is a compound <head>in</head> which one or more hydrogen centres have nucleophilic , reducing , or basic properties . In compounds that are regarded as hydrides , the hydrogen atom is bonded to a more electropositive element or group . Compounds containing hydrogen bonded to metals or metalloid may also be referred to as hydrides , even though in this case the hydrogen atoms can have a protic character .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-25-64-1" docsrc="Hydride">
+      <context> Some deuterides , such as LiD , are important fusion fuels in thermonuclear weapons , and useful moderators in nuclear reactors . Protide , deuteride <head>,</head> and tritide are used to describe ions or compounds , which contain enriched hydrogen-1 , deuterium or tritium , respectively . In the classic meaning , hydride refers to any compounds hydrogen forms with other elements , ranging over groups 1–16 ( the binary compounds of hydrogen ) .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-4-36-1" docsrc="Hydride">
+      <context> === Ionic hydrides === <head>Ionic</head> or saline hydride , is a hydrogen atom bound to an extremely electropositive metal , generally an alkali metal or alkaline earth metal . In these materials the hydrogen atom is viewed as a pseudohalide .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-5-17-1" docsrc="Hydride">
+      <context> The energy carrier Nicotinamide adenine <head>dinucleotide</head> reacts as a hydride donor or hydride equivalent . Free hydride anions exist only under extreme conditions and are not invoked for homogeneous solution . Instead , many compounds have hydrogen centres with hydridic character .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-5-20-1" docsrc="Hydride">
+      <context> Hydrogen has a relatively low <head>electron</head> affinity , 72.77 kJ/mol and reacts exothermically with protons as a powerful Lewis base . H− + H+ → H2 ; ΔH = −1676 kJ/mol The low electron affinity of hydrogen and the strength of the H–H bond ( ∆HBE = 436 kJ/mol ) means that the hydride ion would also be a strong reducing agent</context>
+    </instance>
+    <instance id="Hydride-hydrogen-6-10-1" docsrc="Hydride">
+      <context> The hydride reacts with the weak <head>Bronsted</head> acid releasing H2 . Hydrides such as calcium hydride are used as desiccants , i.e. drying agents , to remove trace water from organic solvents . The hydride reacts with water forming hydrogen and hydroxide salt .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-7-35-1" docsrc="Hydride">
+      <context> While these divisions have not been used <head>universally</head> , they are still useful to understand differences in hydrides . === Ionic hydrides === Ionic or saline hydride , is a hydrogen atom bound to an extremely electropositive metal , generally an alkali metal or alkaline earth metal .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-8-92-1" docsrc="Hydride">
+      <context> palladium hydride : electrodes in cold fusion experiments <head>lithium</head> aluminium hydride : a powerful reducing agent used in organic chemistry sodium borohydride : selective specialty reducing agent , hydrogen storage in fuel cells</context>
+    </instance>
+    <instance id="Hydride-hydrogen-9-0-1" docsrc="Hydride">
+      <context> In chemistry , a hydride is the anion of <head>hydrogen</head> , H− , or , more commonly , it is a compound in which one or more hydrogen centres have nucleophilic , reducing , or basic properties . In compounds that are regarded as hydrides , the hydrogen atom is bonded to a more electropositive element or group .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-9-0-3" docsrc="Hydride">
+      <context> In compounds that are regarded as hydrides , the <head>hydrogen</head> atom is bonded to a more electropositive element or group . Compounds containing hydrogen bonded to metals or metalloid may also be referred to as hydrides , even though in this case the hydrogen atoms can have a protic character . Almost all of the elements form binary compounds with hydrogen , the exceptions being He , Ne , Ar , Kr , Pm , Os , Ir , Rn , Fr , and Ra .</context>
+    </instance>
+    <instance id="Hydride-hydrogen-9-56-6" docsrc="Hydride">
+      <context> The anions [ ReH9]2− and [ FeH6]4− are examples <head>from</head> the growing collection of known molecular homoleptic metal hydrides . As pseudohalides , hydride ligands are capable of bonding with positively polarized hydrogen centres . This interaction , called dihydrogen bond is similar to hydrogen bonding which exists between positively polarized protons and electronegative atoms with open lone pairs .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-108-3" docsrc="Hydrogen">
+      <context> <head>However</head> , hydrogen gas is very rare in the Earth 's atmosphere ( 1 ppm by volume ) because of its light weight , which enables it to escape from Earth 's gravity more easily than heavier gases . However , hydrogen is the third most abundant element on the Earth 's surface , mostly in the form of chemical compounds such as hydrocarbons and water . Hydrogen gas is produced by some bacteria and algae and is a natural component of flatus , as is methane , itself a hydrogen source of increasing importance .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-121-2" docsrc="Hydrogen">
+      <context> <head>===</head> Steam reforming === Hydrogen can be prepared in several different ways , but economically the most important processes involve removal of hydrogen from hydrocarbons , as about 95 % of hydrogen production came from steam reforming around year 2000 .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-15-1" docsrc="Hydrogen">
+      <context> <head>The</head> visible orange flames in that incident were the result of a rich mixture of hydrogen to oxygen combined with carbon compounds from the airship skin . H2 reacts with every oxidizing element . Hydrogen can react spontaneously and violently at room temperature with chlorine and fluorine to form the corresponding hydrogen halides , hydrogen chloride and hydrogen fluoride , which are also potentially dangerous acids .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-234-1" docsrc="Hydrogen">
+      <context> <head>H</head> 2 is also used as a reducing agent of metallic ores . Hydrogen is highly soluble in many rare earth and transition metals and is soluble in both nanocrystalline and amorphous metals .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-235-1" docsrc="Hydrogen">
+      <context> <head>2</head> is also used as a reducing agent of metallic ores . Hydrogen is highly soluble in many rare earth and transition metals and is soluble in both nanocrystalline and amorphous metals . Hydrogen solubility in metals is influenced by local distortions or impurities in the crystal lattice .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-238-1" docsrc="Hydrogen">
+      <context> <head>Because</head> H 2 is lighter than air , having a little more than 1⁄14 of the density of air , it was once widely used as a lifting gas in balloons and airships . Hydrogen 's rarer isotopes also each have specific applications .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-244-1" docsrc="Hydrogen">
+      <context> <head>The</head> triple point temperature of equilibrium hydrogen is a defining fixed point on the ITS-90 temperature scale at 13.8033 kelvins . === Coolant === Hydrogen is commonly used in power stations as a coolant in generators due to a number of favorable properties that are a direct result of its light diatomic molecules .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-249-1" docsrc="Hydrogen">
+      <context> <head>These</head> include low density , low viscosity , and the highest specific heat and thermal conductivity of all gases . === Energy carrier === Hydrogen is not an energy resource , except in the hypothetical context of commercial nuclear fusion power plants using deuterium or tritium , a technology presently far from development .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-251-3" docsrc="Hydrogen">
+      <context> <head>The</head> Sun 's energy comes from nuclear fusion of hydrogen , but this process is difficult to achieve controllably on Earth . Elemental hydrogen from solar , biological , or electrical sources require more energy to make it than is obtained by burning it , so in these cases hydrogen functions as an energy carrier , like a battery . Hydrogen may be obtained from fossil sources ( such as methane ) , but these sources are unsustainable .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-254-1" docsrc="Hydrogen">
+      <context> <head>2</head> sequestration followed by carbon capture and storage could be conducted at the point of H 2 production from fossil fuels . Hydrogen used in transportation would burn relatively cleanly , with some NOx emissions , but without carbon emissions .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-257-1" docsrc="Hydrogen">
+      <context> <head>Fuel</head> cells can convert hydrogen and oxygen directly to electricity more efficiently than internal combustion engines . === Semiconductor industry === Hydrogen is employed to saturate broken ( " dangling " ) bonds of amorphous silicon and amorphous carbon that helps stabilizing material properties .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-270-2" docsrc="Hydrogen">
+      <context> <head>Even</head> interpreting the hydrogen data ( including safety data ) is confounded by a number of phenomena . Many physical and chemical properties of hydrogen depend on the parahydrogen/orthohydrogen ratio ( it often takes days or weeks at a given temperature to reach the equilibrium ratio , for which the data is usually given ) . Hydrogen detonation parameters , such as critical detonation pressure and temperature , strongly depend on the container geometry .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-290-1" docsrc="Hydrogen">
+      <context> <head>Hydrogen</head> detonation parameters , such as critical detonation pressure and temperature , strongly depend on the container geometry . Basic Hydrogen Calculations of Quantum Mechanics Hydrogen at The Periodic Table of Videos ( University of Nottingham )</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-68-1" docsrc="Hydrogen">
+      <context> <head>3</head> ion , known as protonated molecular hydrogen or the trihydrogen cation . === Isotopes === Hydrogen has three naturally occurring isotopes , denoted 1H , 2H and 3H. Other , highly unstable nuclei ( 4H to 7H ) have been synthesized in the laboratory but not observed in nature .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-71-2" docsrc="Hydrogen">
+      <context> <head>1H</head> is the most common hydrogen isotope with an abundance of more than 99.98 % . Because the nucleus of this isotope consists of only a single proton , it is given the descriptive but rarely used formal name protium . Hydrogen is the only element that has different names for its isotopes in common use today .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-88-1" docsrc="Hydrogen">
+      <context> <head>3</head> Fe + 4 H2O → Fe3O4 + 4 H2 Many metals such as zirconium undergo a similar reaction with water leading to the production of hydrogen . Hydrogen was liquefied for the first time by James Dewar in 1898 by using regenerative cooling and his invention , the vacuum flask .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-0-9-1" docsrc="Hydrogen">
+      <context> <head>===</head> Combustion === Hydrogen gas ( dihydrogen or molecular hydrogen ) is highly flammable and will burn in air at a very wide range of concentrations between 4 % and 75 % by volume .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-1-251-2" docsrc="Hydrogen">
+      <context> Hydrogen <head>is</head> not an energy resource , except in the hypothetical context of commercial nuclear fusion power plants using deuterium or tritium , a technology presently far from development . The Sun 's energy comes from nuclear fusion of hydrogen , but this process is difficult to achieve controllably on Earth . Elemental hydrogen from solar , biological , or electrical sources require more energy to make it than is obtained by burning it , so in these cases hydrogen functions as an energy carrier , like a battery .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-1-270-3" docsrc="Hydrogen">
+      <context> Many <head>physical</head> and chemical properties of hydrogen depend on the parahydrogen/orthohydrogen ratio ( it often takes days or weeks at a given temperature to reach the equilibrium ratio , for which the data is usually given ) . Hydrogen detonation parameters , such as critical detonation pressure and temperature , strongly depend on the container geometry . Basic Hydrogen Calculations of Quantum Mechanics</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-1-31-1" docsrc="Hydrogen">
+      <context> === <head>Elemental</head> molecular forms === === Phases === Gaseous hydrogen</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-1-32-1" docsrc="Hydrogen">
+      <context> === <head>Phases</head> === Gaseous hydrogen Liquid hydrogen</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-1-33-1" docsrc="Hydrogen">
+      <context> Gaseous <head>hydrogen</head> Liquid hydrogen Slush hydrogen</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-1-34-1" docsrc="Hydrogen">
+      <context> Liquid <head>hydrogen</head> Slush hydrogen Solid hydrogen</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-1-35-1" docsrc="Hydrogen">
+      <context> Slush <head>hydrogen</head> Solid hydrogen Metallic hydrogen</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-10-162-1" docsrc="Hydrogen">
+      <context> 4 + 3 H 2 The electrolysis of water is <head>a</head> simple method of producing hydrogen .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-10-18-1" docsrc="Hydrogen">
+      <context> Hydrogen can react spontaneously and violently at room temperature with <head>chlorine</head> and fluorine to form the corresponding hydrogen halides , hydrogen chloride and hydrogen fluoride , which are also potentially dangerous acids . === Electron energy levels === The ground state energy level of the electron in a hydrogen atom is −13.6 eV , which is equivalent to an ultraviolet photon of roughly 91 nm wavelength .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-10-220-1" docsrc="Hydrogen">
+      <context> This reaction closely resembles the Schikorr reaction observed in the <head>anaerobic</head> oxidation of the ferrous hydroxide in contact with water . === Formation in transformers === From all the fault gases formed in power transformers , hydrogen is the most common and is generated under most fault conditions ; thus , formation of hydrogen is an early indication of serious problems in the transformer 's life cycle .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-11-12-1" docsrc="Hydrogen">
+      <context> The enthalpy of combustion is −286 kJ/mol : 2 H2(g ) <head>+</head> O2(g ) → 2 H2O(l ) + 572 kJ ( 286 kJ/mol ) The destruction of the Hindenburg airship was an notorious example of hydrogen combustion and the cause is still debated .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-11-163-5" docsrc="Hydrogen">
+      <context> If , however , the gas is to be burnt on <head>site</head> , oxygen is desirable to assist the combustion , and so both electrodes would be made from inert metals . ( Iron , for instance , would oxidize , and thus decrease the amount of oxygen given off . ) The theoretical maximum efficiency ( electricity used vs. energetic value of hydrogen produced ) is in the range 80–94 % .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-11-254-2" docsrc="Hydrogen">
+      <context> 2 production from fossil fuels . Hydrogen used in transportation would <head>burn</head> relatively cleanly , with some NOx emissions , but without carbon emissions . However , the infrastructure costs associated with full conversion to a hydrogen economy would be substantial .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-12-22-2" docsrc="Hydrogen">
+      <context> A more accurate description of the hydrogen atom comes from a purely <head>quantum</head> mechanical treatment that uses the Schrödinger equation , Dirac equation or even the Feynman path integral formulation to calculate the probability density of the electron around the proton . The most complicated treatments allow for the small effects of special relativity and vacuum polarization . In the quantum mechanical treatment , the electron in a ground state hydrogen atom has no angular momentum at all—illustrating how the " planetary orbit " differs from electron motion .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-12-89-3" docsrc="Hydrogen">
+      <context> He produced solid hydrogen the next year . Deuterium was discovered in <head>December</head> 1931 by Harold Urey , and tritium was prepared in 1934 by Ernest Rutherford , Mark Oliphant , and Paul Harteck . Heavy water , which consists of deuterium in the place of regular hydrogen , was discovered by Urey 's group in 1932 .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-13-163-2" docsrc="Hydrogen">
+      <context> The electrolysis of water is a simple method of producing hydrogen . A <head>low</head> voltage current is run through the water , and gaseous oxygen forms at the anode while gaseous hydrogen forms at the cathode . Typically the cathode is made from platinum or another inert metal when producing hydrogen for storage .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-13-237-1" docsrc="Hydrogen">
+      <context> Apart from its use as a reactant , H 2 has wide applications <head>in</head> physics and engineering . It is used as a shielding gas in welding methods such as atomic hydrogen welding .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-14-199-1" docsrc="Hydrogen">
+      <context> === Geological occurrence : the serpentinization reaction === In the absence of atmospheric oxygen <head>(</head> O 2 ) , in deep geological conditions prevailing far away from Earth atmosphere , hydrogen ( H</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-15-14-1" docsrc="Hydrogen">
+      <context> 2 H2(g ) + O2(g ) → 2 H2O(l ) + 572 kJ ( 286 <head>kJ/mol</head> ) The destruction of the Hindenburg airship was an notorious example of hydrogen combustion and the cause is still debated . The visible orange flames in that incident were the result of a rich mixture of hydrogen to oxygen combined with carbon compounds from the airship skin .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-15-182-1" docsrc="Hydrogen">
+      <context> 2 In its turn , under anaerobic conditions , the ferrous hydroxide ( Fe(OH ) <head>2</head> ) can be oxidized by the protons of water to form magnetite and molecular hydrogen .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-16-240-3" docsrc="Hydrogen">
+      <context> Deuterium ( hydrogen-2 ) is used in nuclear fission applications as a moderator to slow neutrons <head>,</head> and in nuclear fusion reactions . Deuterium compounds have applications in chemistry and biology in studies of reaction isotope effects . Tritium ( hydrogen-3 ) , produced in nuclear reactors , is used in the production of hydrogen bombs , as an isotopic label in the biosciences , and as a radiation source in luminous paints .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-16-87-1" docsrc="Hydrogen">
+      <context> 2 Fe + 3 H2O → Fe2O3 + 3 H2 3 Fe + 4 H2O → <head>Fe3O4</head> + 4 H2 Many metals such as zirconium undergo a similar reaction with water leading to the production of hydrogen .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-17-109-1" docsrc="Hydrogen">
+      <context> Hydrogen gas is produced by some bacteria and algae and is a natural component of flatus , <head>as</head> is methane , itself a hydrogen source of increasing importance . A molecular form called protonated molecular hydrogen ( H+ 3 ) is found in the interstellar medium , where it is generated by ionization of molecular hydrogen from cosmic rays .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-17-15-1" docsrc="Hydrogen">
+      <context> The visible orange flames in that incident were the result of a rich mixture of hydrogen to <head>oxygen</head> combined with carbon compounds from the airship skin . H2 reacts with every oxidizing element . Hydrogen can react spontaneously and violently at room temperature with chlorine and fluorine to form the corresponding hydrogen halides , hydrogen chloride and hydrogen fluoride , which are also potentially dangerous acids .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-17-96-1" docsrc="Hydrogen">
+      <context> The Döbereiner 's lamp and limelight were invented in 1823 . === Role in quantum theory === <head>Because</head> of its simple atomic structure , consisting only of a proton and an electron , the hydrogen atom , together with the spectrum of light produced from it or absorbed by it , has been central to the development of the theory of atomic structure .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-18-121-2" docsrc="Hydrogen">
+      <context> === Steam reforming === Hydrogen can be prepared in several different ways , but economically the most important <head>processes</head> involve removal of hydrogen from hydrocarbons , as about 95 % of hydrogen production came from steam reforming around year 2000 .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-19-163-1" docsrc="Hydrogen">
+      <context> 2 The electrolysis of water is a simple method of producing hydrogen . A low voltage current is run <head>through</head> the water , and gaseous oxygen forms at the anode while gaseous hydrogen forms at the cathode .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-2-108-1" docsrc="Hydrogen">
+      <context> Antihydrogen is <head>the</head> only type of antimatter atom to have been produced as of 2015 . Under ordinary conditions on Earth , elemental hydrogen exists as the diatomic gas , H2 . However , hydrogen gas is very rare in the Earth 's atmosphere ( 1 ppm by volume ) because of its light weight , which enables it to escape from Earth 's gravity more easily than heavier gases .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-2-108-2" docsrc="Hydrogen">
+      <context> Under ordinary <head>conditions</head> on Earth , elemental hydrogen exists as the diatomic gas , H2 . However , hydrogen gas is very rare in the Earth 's atmosphere ( 1 ppm by volume ) because of its light weight , which enables it to escape from Earth 's gravity more easily than heavier gases . However , hydrogen is the third most abundant element on the Earth 's surface , mostly in the form of chemical compounds such as hydrocarbons and water .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-2-111-1" docsrc="Hydrogen">
+      <context> The ion <head>is</head> relatively stable in the environment of outer space due to the low temperature and density . H+ 3 is one of the most abundant ions in the Universe , and it plays a notable role in the chemistry of the interstellar medium . Neutral triatomic hydrogen H3 can exist only in an excited form and is unstable .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-2-122-1" docsrc="Hydrogen">
+      <context> Steam reforming <head>===</head> Hydrogen can be prepared in several different ways , but economically the most important processes involve removal of hydrogen from hydrocarbons , as about 95 % of hydrogen production came from steam reforming around year 2000 . Commercial bulk hydrogen is usually produced by the steam reforming of natural gas .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-2-133-1" docsrc="Hydrogen">
+      <context> 2 Consequently <head>,</head> steam reforming typically employs an excess of H 2O. Additional hydrogen can be recovered from the steam by use of carbon monoxide through the water gas shift reaction , especially with an iron oxide catalyst .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-2-291-1" docsrc="Hydrogen">
+      <context> Basic Hydrogen <head>Calculations</head> of Quantum Mechanics Hydrogen at The Periodic Table of Videos ( University of Nottingham ) High temperature hydrogen phase diagram</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-2-292-1" docsrc="Hydrogen">
+      <context> Hydrogen at <head>The</head> Periodic Table of Videos ( University of Nottingham ) High temperature hydrogen phase diagram Wavefunction of hydrogen</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-2-293-1" docsrc="Hydrogen">
+      <context> High temperature <head>hydrogen</head> phase diagram Wavefunction of hydrogen</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-2-80-2" docsrc="Hydrogen">
+      <context> === Discovery <head>and</head> use === Lavoisier produced hydrogen for his experiments on mass conservation by reacting a flux of steam with metallic iron through an incandescent iron tube heated in a fire .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-20-15-1" docsrc="Hydrogen">
+      <context> The visible orange flames in that incident were the result of a rich mixture of hydrogen to oxygen combined with <head>carbon</head> compounds from the airship skin . H2 reacts with every oxidizing element . Hydrogen can react spontaneously and violently at room temperature with chlorine and fluorine to form the corresponding hydrogen halides , hydrogen chloride and hydrogen fluoride , which are also potentially dangerous acids .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-20-175-1" docsrc="Hydrogen">
+      <context> Thermochemical === === Anaerobic corrosion === Under anaerobic conditions , iron and steel alloys are slowly oxidized by the protons <head>of</head> water concomitantly reduced in molecular hydrogen ( H</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-20-59-2" docsrc="Hydrogen">
+      <context> A bare proton , H+ , can not exist in solution or in ionic crystals because of its unstoppable attraction <head>to</head> other atoms or molecules with electrons . Except at the high temperatures associated with plasmas , such protons can not be removed from the electron clouds of atoms and molecules , and will remain attached to them . However , the term ' proton ' is sometimes used loosely and metaphorically to refer to positively charged or cationic hydrogen attached to other species in this fashion , and as such is denoted " H+ " without any implication that any single protons exist freely as a species .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-20-89-4" docsrc="Hydrogen">
+      <context> Deuterium was discovered in December 1931 by Harold Urey , and tritium was prepared in 1934 by Ernest Rutherford , <head>Mark</head> Oliphant , and Paul Harteck . Heavy water , which consists of deuterium in the place of regular hydrogen , was discovered by Urey 's group in 1932 . François Isaac de Rivaz built the first de Rivaz engine , an internal combustion engine powered by a mixture of hydrogen and oxygen in 1806 .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-21-98-2" docsrc="Hydrogen">
+      <context> Because of its simple atomic structure , consisting only of a proton and an electron , the hydrogen atom , together <head>with</head> the spectrum of light produced from it or absorbed by it , has been central to the development of the theory of atomic structure . Furthermore , study of the corresponding simplicity of the hydrogen molecule and the corresponding cation H+ 2 brought understanding of the nature of the chemical bond , which followed shortly after the quantum mechanical treatment of the hydrogen atom had been developed in the mid-1920s .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-23-108-3" docsrc="Hydrogen">
+      <context> However , hydrogen gas is very rare in the Earth 's atmosphere ( 1 ppm by volume ) because of its light weight <head>,</head> which enables it to escape from Earth 's gravity more easily than heavier gases . However , hydrogen is the third most abundant element on the Earth 's surface , mostly in the form of chemical compounds such as hydrocarbons and water . Hydrogen gas is produced by some bacteria and algae and is a natural component of flatus , as is methane , itself a hydrogen source of increasing importance .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-23-15-1" docsrc="Hydrogen">
+      <context> The visible orange flames in that incident were the result of a rich mixture of hydrogen to oxygen combined with carbon compounds from <head>the</head> airship skin . H2 reacts with every oxidizing element . Hydrogen can react spontaneously and violently at room temperature with chlorine and fluorine to form the corresponding hydrogen halides , hydrogen chloride and hydrogen fluoride , which are also potentially dangerous acids .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-27-121-2" docsrc="Hydrogen">
+      <context> === Steam reforming === Hydrogen can be prepared in several different ways , but economically the most important processes involve removal of hydrogen from hydrocarbons , as <head>about</head> 95 % of hydrogen production came from steam reforming around year 2000 .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-27-220-1" docsrc="Hydrogen">
+      <context> This reaction closely resembles the Schikorr reaction observed in the anaerobic oxidation of the ferrous hydroxide in contact with water . === Formation in transformers === From <head>all</head> the fault gases formed in power transformers , hydrogen is the most common and is generated under most fault conditions ; thus , formation of hydrogen is an early indication of serious problems in the transformer 's life cycle .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-27-251-2" docsrc="Hydrogen">
+      <context> Hydrogen is not an energy resource , except in the hypothetical context of commercial nuclear fusion power plants using deuterium or tritium , a technology presently far <head>from</head> development . The Sun 's energy comes from nuclear fusion of hydrogen , but this process is difficult to achieve controllably on Earth . Elemental hydrogen from solar , biological , or electrical sources require more energy to make it than is obtained by burning it , so in these cases hydrogen functions as an energy carrier , like a battery .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-3-205-1" docsrc="Hydrogen">
+      <context> 3O 4 ) <head>,</head> quartz ( SiO 2 ) and hydrogen ( H</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-3-264-4" docsrc="Hydrogen">
+      <context> Efforts have been <head>undertaken</head> to genetically modify cyanobacterial hydrogenases to efficiently synthesize H2 gas even in the presence of oxygen . Efforts have also been undertaken with genetically modified alga in a bioreactor . Even interpreting the hydrogen data ( including safety data ) is confounded by a number of phenomena .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-3-89-1" docsrc="Hydrogen">
+      <context> Many metals such <head>as</head> zirconium undergo a similar reaction with water leading to the production of hydrogen . Hydrogen was liquefied for the first time by James Dewar in 1898 by using regenerative cooling and his invention , the vacuum flask . He produced solid hydrogen the next year .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-4-20-1" docsrc="Hydrogen">
+      <context> === Electron energy levels <head>===</head> The ground state energy level of the electron in a hydrogen atom is −13.6 eV , which is equivalent to an ultraviolet photon of roughly 91 nm wavelength . The energy levels of hydrogen can be calculated fairly accurately using the Bohr model of the atom , which conceptualizes the electron as " orbiting " the proton in analogy to the Earth 's orbit of the Sun .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-4-254-3" docsrc="Hydrogen">
+      <context> Hydrogen used in transportation <head>would</head> burn relatively cleanly , with some NOx emissions , but without carbon emissions . However , the infrastructure costs associated with full conversion to a hydrogen economy would be substantial . Fuel cells can convert hydrogen and oxygen directly to electricity more efficiently than internal combustion engines .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-5-111-2" docsrc="Hydrogen">
+      <context> 3 is one of the <head>most</head> abundant ions in the Universe , and it plays a notable role in the chemistry of the interstellar medium . Neutral triatomic hydrogen H3 can exist only in an excited form and is unstable . By contrast , the positive hydrogen molecular ion ( H+</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-5-70-1" docsrc="Hydrogen">
+      <context> === Isotopes === Hydrogen has <head>three</head> naturally occurring isotopes , denoted 1H , 2H and 3H. Other , highly unstable nuclei ( 4H to 7H ) have been synthesized in the laboratory but not observed in nature . 1H is the most common hydrogen isotope with an abundance of more than 99.98 % .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-5-89-5" docsrc="Hydrogen">
+      <context> Heavy water , which consists <head>of</head> deuterium in the place of regular hydrogen , was discovered by Urey 's group in 1932 . François Isaac de Rivaz built the first de Rivaz engine , an internal combustion engine powered by a mixture of hydrogen and oxygen in 1806 . Edward Daniel Clarke invented the hydrogen gas blowpipe in 1819 .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-6-108-4" docsrc="Hydrogen">
+      <context> However , hydrogen is the third <head>most</head> abundant element on the Earth 's surface , mostly in the form of chemical compounds such as hydrocarbons and water . Hydrogen gas is produced by some bacteria and algae and is a natural component of flatus , as is methane , itself a hydrogen source of increasing importance . A molecular form called protonated molecular hydrogen ( H+</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-6-21-3" docsrc="Hydrogen">
+      <context> However , the atomic electron and <head>proton</head> are held together by electromagnetic force , while planets and celestial objects are held by gravity . Because of the discretization of angular momentum postulated in early quantum mechanics by Bohr , the electron in the Bohr model can only occupy certain allowed distances from the proton , and therefore only certain allowed energies . A more accurate description of the hydrogen atom comes from a purely quantum mechanical treatment that uses the Schrödinger equation , Dirac equation or even the Feynman path integral formulation to calculate the probability density of the electron around the proton .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-6-233-1" docsrc="Hydrogen">
+      <context> H 2 is used as a <head>hydrogenating</head> agent , particularly in increasing the level of saturation of unsaturated fats and oils ( found in items such as margarine ) , and in the production of methanol . It is similarly the source of hydrogen in the manufacture of hydrochloric acid .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-6-235-2" docsrc="Hydrogen">
+      <context> Hydrogen is highly soluble in many <head>rare</head> earth and transition metals and is soluble in both nanocrystalline and amorphous metals . Hydrogen solubility in metals is influenced by local distortions or impurities in the crystal lattice . These properties may be useful when hydrogen is purified by passage through hot palladium disks , but the gas 's high solubility is a metallurgical problem , contributing to the embrittlement of many metals , complicating the design of pipelines and storage tanks .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-6-240-4" docsrc="Hydrogen">
+      <context> Deuterium compounds have applications in chemistry <head>and</head> biology in studies of reaction isotope effects . Tritium ( hydrogen-3 ) , produced in nuclear reactors , is used in the production of hydrogen bombs , as an isotopic label in the biosciences , and as a radiation source in luminous paints . The triple point temperature of equilibrium hydrogen is a defining fixed point on the ITS-90 temperature scale at 13.8033 kelvins .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-6-270-1" docsrc="Hydrogen">
+      <context> Efforts have also been undertaken with <head>genetically</head> modified alga in a bioreactor . Even interpreting the hydrogen data ( including safety data ) is confounded by a number of phenomena . Many physical and chemical properties of hydrogen depend on the parahydrogen/orthohydrogen ratio ( it often takes days or weeks at a given temperature to reach the equilibrium ratio , for which the data is usually given ) .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-6-9-1" docsrc="Hydrogen">
+      <context> === Combustion === Hydrogen gas ( <head>dihydrogen</head> or molecular hydrogen ) is highly flammable and will burn in air at a very wide range of concentrations between 4 % and 75 % by volume .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-7-101-3" docsrc="Hydrogen">
+      <context> It consists of an antiproton with a <head>positron</head> . Antihydrogen is the only type of antimatter atom to have been produced as of 2015 . Under ordinary conditions on Earth , elemental hydrogen exists as the diatomic gas , H2 .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-7-189-1" docsrc="Hydrogen">
+      <context> 2O + H 2 ferrous hydroxide → <head>magnetite</head> + water + hydrogen</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-7-64-1" docsrc="Hydrogen">
+      <context> 4 . Other oxonium ions are found <head>when</head> water is in acidic solution with other solvents . Although exotic on Earth , one of the most common ions in the universe is the H+ 3 ion , known as protonated molecular hydrogen or the trihydrogen cation .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-8-215-1" docsrc="Hydrogen">
+      <context> 2 + 3 H 2 fayalite + water <head>→</head> magnetite + quartz + hydrogen</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-9-251-1" docsrc="Hydrogen">
+      <context> === Energy carrier === Hydrogen is not an energy <head>resource</head> , except in the hypothetical context of commercial nuclear fusion power plants using deuterium or tritium , a technology presently far from development . The Sun 's energy comes from nuclear fusion of hydrogen , but this process is difficult to achieve controllably on Earth .</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-9-61-1" docsrc="Hydrogen">
+      <context> To avoid the implication of the naked " solvated <head>proton</head> " in solution , acidic aqueous solutions are sometimes considered to contain a less unlikely fictitious species , termed the " hydronium ion " ( H 3O+ ) . However , even in this case , such solvated hydrogen cations are more realistically conceived as being organized into clusters that form species closer to H</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-9-98-1" docsrc="Hydrogen">
+      <context> === Role in quantum theory === Because of its <head>simple</head> atomic structure , consisting only of a proton and an electron , the hydrogen atom , together with the spectrum of light produced from it or absorbed by it , has been central to the development of the theory of atomic structure . Furthermore , study of the corresponding simplicity of the hydrogen molecule and the corresponding cation H+</context>
+    </instance>
+    <instance id="Hydrogen-hydrogen-9-99-1" docsrc="Hydrogen">
+      <context> Furthermore , study of the corresponding simplicity of the <head>hydrogen</head> molecule and the corresponding cation H+ 2 brought understanding of the nature of the chemical bond , which followed shortly after the quantum mechanical treatment of the hydrogen atom had been developed in the mid-1920s . Antihydrogen ( H ) is the antimatter counterpart to hydrogen .</context>
+    </instance>
+    <instance id="br-b20#w172_0" docsrc="br-b20">
+      <context> He seems to have at_least a_few 30 - and 50 - megaton_bombs on_hand , since we cannot assume that he has exploded his entire stock . And now , of_course , the hue_and_cry for counter escalation is being raised on our side . Khrushchev threatens us with a 100 - megaton_bomb ? So_be_it - then we must embark_on a crash program for 200 - megaton_bombs of the common or <head>hydrogen</head> variety , and neutron_bombs , which do not exist but are said to be the coming thing . So escalation proceeds , ad_infinitum or , more accurately , until the contestants begin dropping them on each other instead_of on their respective proving_grounds . What is needed , Philip_Morrison writes in The_Cornell_Daily_Sun ( October 26 ) is a discontinuity . The escalation must end sometime , and probably quite soon .</context>
+    </instance>
+    <instance id="br-h11#w1986_0" docsrc="br-h11">
+      <context> Under the sponsorship of the Office_of_Naval_Research and the Advanced_Research_Projects_Agency , a data center was established to gather and index all published information on atomic transition probabilities . An exhaustive survey was made of the literature , and a primary reference file of approximately 600 references was catalogued . Selected bibliographies and tables of available data are now in preparation . A wall stabilized high current arc source was constructed and used to study transition probabilities of atomic <head>hydrogen</head> and oxygen . This apparatus will also be used to measure transition probabilities of a large_number of other elements . A study of the hydrogen line profiles indicates that a measurement of these profiles can be used to calculate a temperature for the arc plasma that is reliable to about * * f percent . A set of tables containing spectral intensities for 39000 lines of 70 elements , as observed in a copper matrix in a d-c arc , was completed and published .</context>
+    </instance>
+    <instance id="br-h11#w2011_0" docsrc="br-h11">
+      <context> Selected bibliographies and tables of available data are now in preparation . A wall stabilized high current arc source was constructed and used to study transition probabilities of atomic hydrogen and oxygen . This apparatus will also be used to measure transition probabilities of a large_number of other elements . A study of the <head>hydrogen</head> line profiles indicates that a measurement of these profiles can be used to calculate a temperature for the arc plasma that is reliable to about * * f percent . A set of tables containing spectral intensities for 39000 lines of 70 elements , as observed in a copper matrix in a d-c arc , was completed and published . Studies of the intensity data indicate that they may be converted to approximate transition probabilities . These data are not of the precision obtainable by the methods previously mentioned , but the vast number of approximate values available will be useful in many areas .</context>
+    </instance>
+    <instance id="br-h11#w442_0" docsrc="br-h11">
+      <context> During the discharge the magnetic_forces set_up by the passage of current cause the edges of the foil to roll inward toward its center_line , thus allowing light to pass into the camera . Experiments have shown that the shutter is 75 percent open in about 60 - 80 microseconds . The shutter aperture may be made larger or smaller by changing the foil area and adjusting the electrical energy input to the foil . Besides the well-known <head>hydrogen</head> line at 21 cm wavelength , the spectra of extraterrestrial radio_sources may contain sharp lines characteristic of other atoms , ions , and small molecules . The detection and study of such line spectra would add considerably to present information on interstellar gas clouds and , perhaps , planetary atmospheres . Among the most likely producers of detectable radio line spectra are the light diatomic hydrides OH and CH ; somewhat less likely sources are the heavier hydrides SH , SiH , and ScH . Very small concentrations of these hydrides should be detectable ; in interstellar gas , concentrations as low as * * f molecules / * * f may be sufficient , as compared to the * * f hydrogen_atoms * * f required for detection of the 21 - cm line .</context>
+    </instance>
+    <instance id="br-j04#w180_0" docsrc="br-j04">
+      <context> The experimental second_moment **f conforms_to the relation **f in_agreement with theory . Hence , the electron paramagnetic effects ( slope ) can be separated from the nuclear effects ( intercept ) . The paramagnetic dipole effects provide some information on the particle shapes . The nuclear dipole effects provide some information on the motions of the <head>hydrogen</head> nuclei , but the symmetry of the **f bond in **f remains in doubt . The magnetic_moment of an unpaired electron associated nearby may have a tremendous influence on the magnetic_resonance properties of nuclei . It is important to consider and experimentally verify this influence since quantitative nuclear_resonance is becoming increasingly used in investigations of structure . **f appeared to be well suited for the study of these matters , since it is a normal paramagnet , with three unpaired electrons on the chromium , its crystal structure is very simple , and the unknown position of the hydrogen in the strong **f bond provides structural interest .</context>
+    </instance>
+    <instance id="br-j04#w279_0" docsrc="br-j04">
+      <context> The nuclear dipole effects provide some information on the motions of the hydrogen nuclei , but the symmetry of the **f bond in **f remains in doubt . The magnetic_moment of an unpaired electron associated nearby may have a tremendous influence on the magnetic_resonance properties of nuclei . It is important to consider and experimentally verify this influence since quantitative nuclear_resonance is becoming increasingly used in investigations of structure . **f appeared to be well suited for the study of these matters , since it is a normal paramagnet , with three unpaired electrons on the chromium , its crystal structure is very simple , and the unknown position of the <head>hydrogen</head> in the strong **f bond provides structural interest . We first discuss the **f bond in **f . We then outline the theory of the interaction of paramagnetic dipoles with nuclei and show that the theory is in excellent agreement with experiment . Indeed it is possible to separate electron paramagnetic from nuclear effects .</context>
+    </instance>
+  </lexelt>
+</corpus>

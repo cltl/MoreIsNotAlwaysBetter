@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="scope.n" pos="NN">
+    <instance id="Oscilloscope-scope-1-243-2" docsrc="Oscilloscope">
+      <context> The <head>earliest</head> and simplest type of oscilloscope consisted of a cathode ray tube , a vertical amplifier , a timebase , a horizontal amplifier and a power supply . These are now called " analog " scopes to distinguish them from the " digital " scopes that became common in the 1990s and 2000s . Analog scopes do not necessarily include a calibrated reference grid for size measurement of waves , and they may not display waves in the traditional sense of a line segment sweeping from left to right .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-10-223-1" docsrc="Oscilloscope">
+      <context> First appearing in the 1970s for ignition system analysis , <head>automotive</head> oscilloscopes are becoming an important workshop tool for testing sensors and output signals on electronic engine management systems , braking and stability systems . === Selection === Analog oscilloscopes have been almost totally displaced by digital storage scopes except for use exclusively at lower frequencies .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-12-127-2" docsrc="Oscilloscope">
+      <context> ==== Holdoff ==== Trigger holdoff defines a certain period following a trigger <head>during</head> which the scope will not trigger again .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-12-204-1" docsrc="Oscilloscope">
+      <context> These cursors are more accurate than visual estimates referring to graticule lines <head>.</head> Sometimes the event that the user wants to see may only happen occasionally . To catch these events , some oscilloscopes , known as " storage scopes " , preserve the most recent sweep on the screen .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-14-192-1" docsrc="Oscilloscope">
+      <context> To achieve the flattest response , most probes must be " compensated " ( <head>an</head> adjustment performed using a test signal from the oscilloscope ) to allow for the reactance of the probe 's cable . Another related specification is rise time . This is the duration of the fastest pulse that can be resolved by the scope .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-16-150-1" docsrc="Oscilloscope">
+      <context> ==== Single sweeps ==== Types of trigger include : external trigger , a pulse from an <head>external</head> source connected to a dedicated input on the scope .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-16-243-1" docsrc="Oscilloscope">
+      <context> For a detailed discussion , refer to the other article . The earliest and simplest type <head>of</head> oscilloscope consisted of a cathode ray tube , a vertical amplifier , a timebase , a horizontal amplifier and a power supply . These are now called " analog " scopes to distinguish them from the " digital " scopes that became common in the 1990s and 2000s .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-2-133-1" docsrc="Oscilloscope">
+      <context> Imagine the <head>following</head> repeating waveform : The green line is the waveform , the red vertical partial line represents the location of the trigger , and the yellow line represents the trigger level . If the scope was simply set to trigger on every rising edge , this waveform would cause three triggers for each cycle :</context>
+    </instance>
+    <instance id="Oscilloscope-scope-2-31-3" docsrc="Oscilloscope">
+      <context> Although such <head>a</head> probe is an improvement , it does not work when the time scale shrinks to several cable transit times ( transit time is typically 5 ns ) . In that time frame , the cable looks like its characteristic impedance , and there will be reflections from the transmission line mismatch at the scope input and the probe that causes ringing . The modern scope probe uses lossy low capacitance transmission lines and sophisticated frequency shaping networks to make the 10X probe perform well at several hundred megahertz .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-25-31-2" docsrc="Oscilloscope">
+      <context> The result is a frequency compensated probe for modest frequencies that presents a load of about 10 megohms shunted by 12 pF. Although such a <head>probe</head> is an improvement , it does not work when the time scale shrinks to several cable transit times ( transit time is typically 5 ns ) . In that time frame , the cable looks like its characteristic impedance , and there will be reflections from the transmission line mismatch at the scope input and the probe that causes ringing .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-26-212-1" docsrc="Oscilloscope">
+      <context> === Examples of use === One of the most frequent uses of scopes is troubleshooting malfunctioning electronic equipment . One of the advantages of a scope <head>is</head> that it can graphically show signals : where a voltmeter may show a totally unexpected voltage , a scope may reveal that the circuit is oscillating .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-29-226-1" docsrc="Oscilloscope">
+      <context> === Selection === Analog oscilloscopes have been almost totally displaced by digital storage scopes except for use exclusively at lower frequencies . Greatly increased sample rates have largely eliminated <head>the</head> display of incorrect signals , known as " aliasing " , that was sometimes present in the first generation of digital scopes .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-36-212-3" docsrc="Oscilloscope">
+      <context> One of the advantages of a scope is that it can graphically show signals : where a voltmeter may show a totally unexpected voltage , a scope may reveal that the circuit is oscillating . In <head>other</head> cases the precise shape or timing of a pulse is important . In a piece of electronic equipment , for example , the connections between stages ( e.g. electronic mixers , electronic oscillators , amplifiers ) may be ' probed ' for the expected signal , using the scope as a simple signal tracer .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-4-134-1" docsrc="Oscilloscope">
+      <context> If the scope was <head>simply</head> set to trigger on every rising edge , this waveform would cause three triggers for each cycle : Assuming the signal is fairly high frequency , the scope would probably look something like this : Except that on the scope , each trigger would be the same channel , and so would be the same color .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-4-262-2" docsrc="Oscilloscope">
+      <context> A digital phosphor oscilloscope <head>(</head> DPO ) uses color information to convey information about a signal . It may , for example , display infrequent signal data in blue to make it stand out . In a conventional analog scope , such a rare trace may not be visible .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-6-135-1" docsrc="Oscilloscope">
+      <context> Assuming the signal is fairly high <head>frequency</head> , the scope would probably look something like this : Except that on the scope , each trigger would be the same channel , and so would be the same color . It is desired to set the scope to only trigger on one edge per cycle , so it is necessary to set the holdoff to be slightly less than the period of the waveform .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-6-212-1" docsrc="Oscilloscope">
+      <context> === Examples of use === One <head>of</head> the most frequent uses of scopes is troubleshooting malfunctioning electronic equipment . One of the advantages of a scope is that it can graphically show signals : where a voltmeter may show a totally unexpected voltage , a scope may reveal that the circuit is oscillating .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-7-210-1" docsrc="Oscilloscope">
+      <context> This was originally achieved by using a <head>special</head> CRT , a " storage tube " , which would retain the image of even a very brief event for a long time . === Examples of use === One of the most frequent uses of scopes is troubleshooting malfunctioning electronic equipment .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-7-243-1" docsrc="Oscilloscope">
+      <context> For a detailed discussion , refer to <head>the</head> other article . The earliest and simplest type of oscilloscope consisted of a cathode ray tube , a vertical amplifier , a timebase , a horizontal amplifier and a power supply . These are now called " analog " scopes to distinguish them from the " digital " scopes that became common in the 1990s and 2000s .</context>
+    </instance>
+    <instance id="Oscilloscope-scope-9-133-2" docsrc="Oscilloscope">
+      <context> The green line is the waveform , the red <head>vertical</head> partial line represents the location of the trigger , and the yellow line represents the trigger level . If the scope was simply set to trigger on every rising edge , this waveform would cause three triggers for each cycle : Assuming the signal is fairly high frequency , the scope would probably look something like this :</context>
+    </instance>
+    <instance id="Scope-scope-0-0-2" docsrc="Scope">
+      <context> <head>The</head> word scope may refer to many different devices or viewing instruments , constructed for many different purposes . Uses of scope or scopes may refer to : Scope ( charity ) , a British charity that supports people with disabilities</context>
+    </instance>
+    <instance id="Scope-scope-0-11-1" docsrc="Scope">
+      <context> <head>Senior</head> Consulting Program for Engineering ( SCOPE ) program at Franklin W. Olin College of Engineering === Brand names === Scope ( mouthwash ) , a mouthwash brand by Procter &amp; Gamble</context>
+    </instance>
+    <instance id="Scope-scope-0-12-1" docsrc="Scope">
+      <context> <head>===</head> Brand names === Scope ( mouthwash ) , a mouthwash brand by Procter &amp; Gamble Scope ( AngularJS ) , a certain kind of object used by the framework</context>
+    </instance>
+    <instance id="Scope-scope-0-16-1" docsrc="Scope">
+      <context> <head>Scope</head> ( mouthwash ) , a mouthwash brand by Procter &amp; Gamble Scope ( AngularJS ) , a certain kind of object used by the framework Scope ( computer science ) , the range in which a variable can be referenced</context>
+    </instance>
+    <instance id="Scope-scope-0-17-1" docsrc="Scope">
+      <context> <head>Scope</head> ( AngularJS ) , a certain kind of object used by the framework Scope ( computer science ) , the range in which a variable can be referenced scope ( scopeArchiv ) , an archival information software</context>
+    </instance>
+    <instance id="Scope-scope-0-18-1" docsrc="Scope">
+      <context> <head>Scope</head> ( computer science ) , the range in which a variable can be referenced scope ( scopeArchiv ) , an archival information software SCOPE ( software ) , an acronym for Supervisory Control Of Program Execution , operating systems for Control Data Corporation mainframe computers</context>
+    </instance>
+    <instance id="Scope-scope-0-19-1" docsrc="Scope">
+      <context> <head>scope</head> ( scopeArchiv ) , an archival information software SCOPE ( software ) , an acronym for Supervisory Control Of Program Execution , operating systems for Control Data Corporation mainframe computers Scope ( project management ) , the sum of all projects , products and their features</context>
+    </instance>
+    <instance id="Scope-scope-0-23-1" docsrc="Scope">
+      <context> <head>SCOPE</head> ( software ) , an acronym for Supervisory Control Of Program Execution , operating systems for Control Data Corporation mainframe computers Scope ( project management ) , the sum of all projects , products and their features Scope creep , the incremental expansion of the scope of a project</context>
+    </instance>
+    <instance id="Scope-scope-0-24-1" docsrc="Scope">
+      <context> <head>Scope</head> ( project management ) , the sum of all projects , products and their features Scope creep , the incremental expansion of the scope of a project Scope of practice ( US and Canada ) , terminology that defines the procedures , actions , and processes that are permitted for licensed professionals</context>
+    </instance>
+    <instance id="Scope-scope-0-33-1" docsrc="Scope">
+      <context> <head>Microscope</head> , an instrument used to see objects that are too small for the naked eye Oscilloscope , a type of electronic test instrument SCOPE ( protein engineering ) , a technique of creating gene libraries</context>
+    </instance>
+    <instance id="Scope-scope-0-4-1" docsrc="Scope">
+      <context> <head>Uses</head> of scope or scopes may refer to : Scope ( charity ) , a British charity that supports people with disabilities SCOPE Art Show , a global emerging art fair</context>
+    </instance>
+    <instance id="Scope-scope-0-41-1" docsrc="Scope">
+      <context> <head>Telescopic</head> sight , an optical device commonly used on firearms CinemaScope or Scope prints , anamorphic film prints Scope ( Australian TV series ) , Australian series formerly on Network Ten , now on Australian TV network Eleven</context>
+    </instance>
+    <instance id="Scope-scope-0-42-1" docsrc="Scope">
+      <context> <head>CinemaScope</head> or Scope prints , anamorphic film prints Scope ( Australian TV series ) , Australian series formerly on Network Ten , now on Australian TV network Eleven Scope ( Irish TV series )</context>
+    </instance>
+    <instance id="Scope-scope-0-43-1" docsrc="Scope">
+      <context> <head>Scope</head> ( Australian TV series ) , Australian series formerly on Network Ten , now on Australian TV network Eleven Scope ( Irish TV series ) Scope ( magazine ) , a South African men 's magazine</context>
+    </instance>
+    <instance id="Scope-scope-0-45-1" docsrc="Scope">
+      <context> <head>Scope</head> ( magazine ) , a South African men 's magazine The Scope ( alternative weekly ) , a newspaper in St. John 's , Newfoundland Scope of a quantification , the range influenced by the quantification</context>
+    </instance>
+    <instance id="Scope-scope-0-5-1" docsrc="Scope">
+      <context> <head>Scope</head> ( charity ) , a British charity that supports people with disabilities SCOPE Art Show , a global emerging art fair SCOPE Maastricht , nonprofit study association at Maastricht University , The Netherlands</context>
+    </instance>
+    <instance id="Scope-scope-0-6-1" docsrc="Scope">
+      <context> <head>SCOPE</head> Art Show , a global emerging art fair SCOPE Maastricht , nonprofit study association at Maastricht University , The Netherlands SCOPE or Scientific Committee on Problems of the Environment the environmental theory</context>
+    </instance>
+    <instance id="Scope-scope-1-44-1" docsrc="Scope">
+      <context> Scope <head>(</head> Irish TV series ) Scope ( magazine ) , a South African men 's magazine The Scope ( alternative weekly ) , a newspaper in St. John 's , Newfoundland</context>
+    </instance>
+    <instance id="Scope-scope-1-49-1" docsrc="Scope">
+      <context> The <head>Scope</head> ( alternative weekly ) , a newspaper in St. John 's , Newfoundland Scope of a quantification , the range influenced by the quantification Jamie Scope , English footballer</context>
+    </instance>
+    <instance id="Scope-scope-1-54-1" docsrc="Scope">
+      <context> Jamie <head>Scope</head> , English footballer John T. Scopes , the central figure in the Scopes Trial , a legal case regarding the teaching of the theory of evolution Norfolk Scope , an arena in Norfolk , Virginia</context>
+    </instance>
+    <instance id="Scope-scope-2-0-1" docsrc="Scope">
+      <context> The word <head>scope</head> may refer to many different devices or viewing instruments , constructed for many different purposes . Uses of scope or scopes may refer to :</context>
+    </instance>
+    <instance id="Scope-scope-2-37-1" docsrc="Scope">
+      <context> Telescope , <head>an</head> instrument used to see objects that are too distant for the naked eye Telescopic sight , an optical device commonly used on firearms CinemaScope or Scope prints , anamorphic film prints</context>
+    </instance>
+    <instance id="Scope-scope-2-53-1" docsrc="Scope">
+      <context> Scope of <head>a</head> quantification , the range influenced by the quantification Jamie Scope , English footballer John T. Scopes , the central figure in the Scopes Trial , a legal case regarding the teaching of the theory of evolution</context>
+    </instance>
+    <instance id="Scope-scope-4-0-1" docsrc="Scope">
+      <context> The word scope may <head>refer</head> to many different devices or viewing instruments , constructed for many different purposes . Uses of scope or scopes may refer to :</context>
+    </instance>
+    <instance id="Scope-scope-6-7-1" docsrc="Scope">
+      <context> SCOPE Maastricht , nonprofit study association <head>at</head> Maastricht University , The Netherlands SCOPE or Scientific Committee on Problems of the Environment the environmental theory Senior Consulting Program for Engineering ( SCOPE ) program at Franklin W. Olin College of Engineering</context>
+    </instance>
+    <instance id="Scope-scope-8-23-1" docsrc="Scope">
+      <context> SCOPE ( software ) , an acronym for <head>Supervisory</head> Control Of Program Execution , operating systems for Control Data Corporation mainframe computers Scope ( project management ) , the sum of all projects , products and their features Scope creep , the incremental expansion of the scope of a project</context>
+    </instance>
+    <instance id="Scope-scope-9-53-1" docsrc="Scope">
+      <context> Scope of a quantification , the range influenced by <head>the</head> quantification Jamie Scope , English footballer John T. Scopes , the central figure in the Scopes Trial , a legal case regarding the teaching of the theory of evolution</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-0-64-4" docsrc="Telescopic_sight">
+      <context> <head>Typical</head> standard factory parallax adjustment distances for hunting telescopic sights are 100 yd or 100 m to make them suited for hunting shots that rarely exceed 300 yd/m . Some long range target and military style telescopic sights without parallax compensation may be adjusted to be parallax free at ranges up to 300 yd/m to make them better suited for aiming at 300 yd/m+ ranges . Scopes for rimfire guns , shotguns , and muzzleloaders that are rarely fired at 100 yd/m+ ranges will have shorter parallax settings , commonly 50 yd/m for rimfire scopes and 100 yd/m for shotguns and muzzleloaders .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-0-64-5" docsrc="Telescopic_sight">
+      <context> <head>Some</head> long range target and military style telescopic sights without parallax compensation may be adjusted to be parallax free at ranges up to 300 yd/m to make them better suited for aiming at 300 yd/m+ ranges . Scopes for rimfire guns , shotguns , and muzzleloaders that are rarely fired at 100 yd/m+ ranges will have shorter parallax settings , commonly 50 yd/m for rimfire scopes and 100 yd/m for shotguns and muzzleloaders . Scopes for airguns that are commonly used at short ranges are very often found with adjustable parallax , usually in the form of an adjustable objective , or AO. These may adjust down as far as 3 yards ( 2.7 m ) .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-1-112-4" docsrc="Telescopic_sight">
+      <context> It <head>is</head> also possible to attach infrared light sources to use this telescopic sight as an active night sight in total darkness , though the image quality , and overall performance is poor . Some jurisdictions however forbid or limit to use of night vision devices for civilian or gun aiming use . === Scope bases ===</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-1-120-1" docsrc="Telescopic_sight">
+      <context> Some <head>jurisdictions</head> however forbid or limit to use of night vision devices for civilian or gun aiming use . === Scope bases === === Scope rings ===</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-1-125-5" docsrc="Telescopic_sight">
+      <context> Rings <head>are</head> also available in a variety of heights and materials . Ring height is chosen to place the scope high enough to clear the firearm , and at a height comfortable for the shooter . === Scope mounting rails ===</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-1-159-2" docsrc="Telescopic_sight">
+      <context> Though <head>they</head> had been used as early as the 1850s on rifles , and even earlier for other tasks , until the 1980s , when optical device and assault rifle combinations such as the Austrian Steyr AUG and the British SUSAT mounted on the SA80 , became standard issue , military use of telescopic sights was restricted to snipers because of the fragility and expense of optical components . Additionally the glass lenses are prone to breakage , and environmental conditions such as condensation , precipitation , dirt , and mud obscure external lenses . The scope tube also adds significant bulk to the rifle .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-11-125-1" docsrc="Telescopic_sight">
+      <context> === Scope rings === In addition to needing the right type <head>of</head> connector to attach to the desired base , scope rings must be used to hold the scope to the mount . The rings must be of the proper size to fit the scope ; common sizes are 3/4 inch ( 19.05 mm ) , 22 mm , 1 inch ( 25.4 mm ) , 26 mm , 30 mm and 34 mm .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-12-0-4" docsrc="Telescopic_sight">
+      <context> Telescopic sights are used with all types of systems that require accurate <head>aiming</head> but are most commonly found on firearms , particularly rifles . Other types of sights are iron sights , reflector ( reflex ) sights , and laser sights . The optical components may be combined with optoelectronics to form a night scope .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-13-111-2" docsrc="Telescopic_sight">
+      <context> === CCD and LCD technology === A totally different approach has been applied <head>in</head> the ELCAN DigitalHunter Digital Rifle Scope series which combines CCD and LCD technology with electronic ballistics compensation , automatic video capture , 4 field selectable reticles and customizable reticles .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-13-163-1" docsrc="Telescopic_sight">
+      <context> Many Finnish snipers in WWII used iron sights heavily because telescopic sights did <head>not</head> cope with very cold Finnish winters . The Israeli military began widespread use of telescopic sights by ordinary infantrymen to increase hit probability ( especially in dim light ) and extend effective range of standard issue infantry rifles . Palestinian militants in the al Aqsa Intifada likewise found that adding an inexpensive scope to an AK-47 increased its effectiveness .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-13-83-4" docsrc="Telescopic_sight">
+      <context> A rather common problem with the elevation and windage adjustment controls is that <head>once</head> smooth working adjustment turrets ' get stuck ' over the years . This is generally caused by long term lack of movement in the lubricated turret mechanisms . Older telescopic sights often did not offer windage and elevation adjustments in the scope , but rather used adjustable mounts to provide adjustment .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-16-124-1" docsrc="Telescopic_sight">
+      <context> === Scope bases === === Scope rings === In addition to needing the right type of <head>connector</head> to attach to the desired base , scope rings must be used to hold the scope to the mount .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-16-84-1" docsrc="Telescopic_sight">
+      <context> This is generally caused by long term lack of movement in the lubricated turret mechanisms . <head>Older</head> telescopic sights often did not offer windage and elevation adjustments in the scope , but rather used adjustable mounts to provide adjustment . Some modern mounts also allow for adjustment , but it is generally intended to supplement the scope adjustments .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-18-84-4" docsrc="Telescopic_sight">
+      <context> For example , some situations require fairly extreme elevation adjustments , such as very short range shooting common <head>with</head> airguns , or very long range shooting , where the bullet drop becomes very significant . Also , loose manufacturing tolerances may result in base mounting holes being less than perfectly aligned with the bore . In this case , rather than adjusting the scope to the extremes of its elevation adjustment , the scope mount can be adjusted .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-21-64-6" docsrc="Telescopic_sight">
+      <context> Scopes for rimfire guns , shotguns , and muzzleloaders that are rarely fired at 100 yd/m+ ranges will have shorter parallax <head>settings</head> , commonly 50 yd/m for rimfire scopes and 100 yd/m for shotguns and muzzleloaders . Scopes for airguns that are commonly used at short ranges are very often found with adjustable parallax , usually in the form of an adjustable objective , or AO. These may adjust down as far as 3 yards ( 2.7 m ) . Bullet Drop Compensation ( BDC ) ( sometimes referred to as ballistic elevation ) is a feature available on some rifle scopes .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-24-124-1" docsrc="Telescopic_sight">
+      <context> === Scope bases === === Scope rings === In addition to needing the right type of connector to attach to the desired base , <head>scope</head> rings must be used to hold the scope to the mount .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-28-64-4" docsrc="Telescopic_sight">
+      <context> Typical standard factory parallax adjustment distances for hunting telescopic sights are 100 yd or 100 m to make them suited for hunting shots that rarely exceed 300 yd/m <head>.</head> Some long range target and military style telescopic sights without parallax compensation may be adjusted to be parallax free at ranges up to 300 yd/m to make them better suited for aiming at 300 yd/m+ ranges . Scopes for rimfire guns , shotguns , and muzzleloaders that are rarely fired at 100 yd/m+ ranges will have shorter parallax settings , commonly 50 yd/m for rimfire scopes and 100 yd/m for shotguns and muzzleloaders .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-3-84-5" docsrc="Telescopic_sight">
+      <context> Also , loose <head>manufacturing</head> tolerances may result in base mounting holes being less than perfectly aligned with the bore . In this case , rather than adjusting the scope to the extremes of its elevation adjustment , the scope mount can be adjusted . This allows the scope to operate near the center of its adjustment range , which puts less stress on the internals .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-5-64-1" docsrc="Telescopic_sight">
+      <context> These models are often called <head>side</head> focus or sidewheel models . Most telescopic sights lack parallax compensation because they can perform very acceptably without this refinement . Telescopic sights manufacturers adjust these scopes at a distance that best suits their intended usage .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-7-125-4" docsrc="Telescopic_sight">
+      <context> Red dot sights commonly are found in <head>larger</head> sizes , such as 40 mm , and these often use ringless mounting systems designed to fit dovetail or Weaver type bases . Rings are also available in a variety of heights and materials . Ring height is chosen to place the scope high enough to clear the firearm , and at a height comfortable for the shooter .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-7-159-3" docsrc="Telescopic_sight">
+      <context> Additionally the glass lenses are prone to <head>breakage</head> , and environmental conditions such as condensation , precipitation , dirt , and mud obscure external lenses . The scope tube also adds significant bulk to the rifle . Snipers generally used moderate to high magnification scopes with special reticles that allow them to estimate range to the target .</context>
+    </instance>
+    <instance id="Telescopic_sight-scope-8-84-4" docsrc="Telescopic_sight">
+      <context> For example , some situations require fairly extreme <head>elevation</head> adjustments , such as very short range shooting common with airguns , or very long range shooting , where the bullet drop becomes very significant . Also , loose manufacturing tolerances may result in base mounting holes being less than perfectly aligned with the bore . In this case , rather than adjusting the scope to the extremes of its elevation adjustment , the scope mount can be adjusted .</context>
+    </instance>
+    <instance id="br-c01#w1076_0" docsrc="br-c01">
+      <context> H._E._Bates has scribbled a farce called `` Hark_,_Hark_,_the_Lark '' ! It is one of the most entertaining and irresponsible novels of the season . If there is a moral lurking among the shenanigans , it is hard to find . Perhaps the lesson we should take from these pages is that the welfare_state in England still allows wild <head>scope</head> for all kinds of rugged eccentrics . Anyway , a number of them meet here in devastating collisions . One is an imperial London stockbroker called Jerebohm . Another is a wily countryman called Larkin , whose blandly boisterous progress has been chronicled , I believe , in earlier volumes of Mr._Bates ' comedie_humaine .</context>
+    </instance>
+    <instance id="br-e04#w2075_0" docsrc="br-e04">
+      <context> The Command technique invites you to listen to the depth of the orchestration . Your ear takes you into the ensemble , and you may well become aware of instrumental details which previously were apparent only in the score . It is this sort of experience that makes the concept of high_fidelity of real musical significance for the home music listener . The first substantially complete stereo Giselle ( and the only one of its <head>scope</head> since Feyer 's four-sided LP edition of 1958 for Angel ) , this set is , I'm afraid , likely to provide more horrid fascination than enjoyment . The already faded pastel charms of the naive music itself vanish entirely in Fistoulari 's melodramatic contrasts between ultra vehement brute power and chilly , if suave , sentimentality . And in its engineers ' frantic attempts to achieve maximum dynamic impact and earsplitting brilliance , the recording sounds as though it had been `` doctored for super high_fidelity '' . The home listener is overpowered , all_right , but the experience is a far from pleasant one .</context>
+    </instance>
+    <instance id="br-e22#w993_0" docsrc="br-e22">
+      <context> This is precisely what makes lucid , straightforward music so difficult to compose - the clarity must be new , not old '' . How right he was ; how clearly he saw the cultural defection of experimentation as an escape for those who dare not or prefer not to face the discipline of modern traditionalism . And with what resource did Prokofieff back_up his Credo of words - with torrents of powerful music . Compare the vast difference in <head>scope</head> and beauty between his neat and witty little Classical_Symphony and his big , muscular , passionate , and eloquent Fifth_Symphony ; or the Love_for_Three_Oranges ( gay as it is ) with the wonderful , imaginative , colorful , and subtle tenderness of the magnificent ballet , The Stone_Flower . This masterpiece has gaiety , too , but it is the gaiety of dancing people : earthy , salty and humorous . Of_course , these works are not comparable , even though the same brain conceived them . The early works were conceived for a sophisticated , international audience ; the later works were conceived to affirm a way_of_life for fellow citizens .</context>
+    </instance>
+    <instance id="br-e31#w1301_0" docsrc="br-e31">
+      <context> Moving around camp we saw all kinds of camp stoves , lanterns , coolers , bedding , games , fishing_tackle , windbreaks and sunshades . We saw similar displays in the other three campgrounds in this 70 mile long National_Seashore_Recreation_Area . Dealers would do_well to visit such a campground often , look at the equipment and talk with the campers . Here you begin to appreciate the <head>scope</head> of the challenges and possibilities facing the industry . Camping is big and getting bigger . No one knows where it will stop . Almost every official who reflects on_it thinks this movement of Americans to canvas dwellings opens one of the most promising of all outdoor markets .</context>
+    </instance>
+    <instance id="br-g18#w1292_0" docsrc="br-g18">
+      <context> Heidenstam 's conception , on_the_contrary , was to revive the present by the memories of the past . Whether in prose or poetry , all_of Heidenstam 's later work was concerned with Sweden . With the first of a group of historical novels , The_Charles_Men_(_Karolinerna ) , published in 1897_-_8 , he achieved the masterpiece of his career . In <head>scope</head> and power it can only be compared to Tolstoy 's War_and_Peace . About one-third as long , it is less intimate and detailed , but better coordinated , more concise and more dramatic . Though it centers around the brilliant and enigmatic figure of Charles_12 , , the true hero is not finally the king himself . Hence the title of the book , referring to the soldiers and subjects of the king ; on the fatal battlefield of Poltava , to quote from the novel , `` the wreath he twined for himself slipped down upon his people '' .</context>
+    </instance>
+    <instance id="br-h09#w1553_0" docsrc="br-h09">
+      <context> the relative contribution to safety of inspection programs embodying - right-of-entry only and right-of-entry plus enforcement authority ; the effectiveness of health and safety education and training ; the magnitude of effort and costs of each of these possible phases of an effective safety program for metal and nonmetallic mines ( excluding coal and lignite mines ) ; and the <head>scope</head> and adequacy of State mine safety laws applicable to such mines and the enforcement of such laws . The Secretary_of_the_Interior or any duly authorized representative shall be entitled to admission to , and to require reports from the operator of , any metal or nonmetallic mine which is in a State ( excluding any coal or lignite mine ) , the products of_which regularly enter commerce or the operations of_which substantially affect commerce , for the purpose of gathering data and information necessary for the study authorized in the first section of_this Act . As used in_this section - the term `` State '' includes the Commonwealth of Puerto_Rico and any possession of the United_States ; and the term `` commerce '' means commerce between any State and any place outside thereof , or between points within the same State but through any place outside thereof .</context>
+    </instance>
+    <instance id="br-h21#w1577_0" docsrc="br-h21">
+      <context> The substantial progress being made in ballistic_missile technology is rapidly shifting the main threat from manned bombers to missiles . Considering the high cost of the F-108 system - over $ 4 billion for the force that had been planned - and the time_period in which it would become operational , it was decided to stop further work on the project . Meanwhile , other air_defense forces are being made effective , as described later in this message . The size and <head>scope</head> of other important programs have been reduced from earlier plans . Notable in this category are the Jupiter and Thor intermediate range ballistic_missiles , which have been successfully developed , produced , and deployed , but the relative importance of which has diminished with the increasing availability of the Atlas intercontinental_ballistic_missile . The impact of technological factors is also illustrated by the history of the high energy fuel program . This project was started at a time when there was a critical need for a high energy fuel to provide an extra margin of range for high performance aircraft , particularly our heavy bombers .</context>
+    </instance>
+    <instance id="br-h21#w1725_0" docsrc="br-h21">
+      <context> The impact of technological factors is also illustrated by the history of the high energy fuel program . This project was started at a time when there was a critical need for a high energy fuel to provide an extra margin of range for high performance aircraft , particularly our heavy bombers . Continuing technical problems involved in the use of this fuel , coupled with significant improvements in aircraft range through other means , have now raised serious questions about the value of the high energy fuel program . As a result , the <head>scope</head> of this project has been sharply curtailed . These examples underscore the importance of even more searching evaluations of new major development programs and even more penetrating and far ranging analyses of the potentialities of future technology . The cost of developing a major weapon_system is now so enormous that the greatest care must be exercised in selecting new systems for development , in determining the most satisfactory rate of development , and in deciding the proper time at which either to place a system into production or to abandon it . - The deterrent power of our Armed_Forces comes from both their nuclear retaliatory capability and their capability to conduct other essential operations in any form of war .</context>
+    </instance>
+    <instance id="br-j17#w326_0" docsrc="br-j17">
+      <context> MacLean stressed correctly the importance of the visceral_brain for preservation of the individual and the species , as evidenced by the influence of the limbic_brain ( including the hypothalamus ) on emotions related_to fight and flight and also on sexual functions . It should be added that in man neocortical hypothalamic interrelations probably play a role in the fusion of emotional processes with those underlying perception , memory , imagination , and creativity . Previous experiences are obviously of great importance for the qualitative and quantitative emotional response . The visceral_brain as_well_as the neocortex is known to contribute to memory , but this topic is beyond the <head>scope</head> of this paper . After this brief discussion of neo - , paleocortical , and cortico-hypothalamic relations , let us return once_more to the problem of hypothalamic balance and its physiological and pathological significance . Facilitatory processes take_place between neocortex and hypothalamus via ascending and descending pathways . Thus cortico-fugal discharges induced by topical application of strychnine to a minute area in the neocortex summate with spikes present in the hypothalamus and cause increased convulsive discharges .</context>
+    </instance>
+    <instance id="br-j29#w931_0" docsrc="br-j29">
+      <context> In_theory , compulsive behavior is a way of diminishing anxiety , and one might expect a negative association except for the possibility that for many children the obsessive-compulsive defenses are not sufficient to quell the amount of anxiety they suffer . The issue of interaction between anxiety and compulsivity will be taken_up later . In the primary grades , reading permeates almost every aspect of school progress , and the children 's early experiences of success or failure in learning to read often set a pattern of total achievement that is relatively enduring throughout the following years . In establishing criterion measurements , it was therefore thought best to broaden the <head>scope</head> beyond the reading act itself . The predicted interaction effect should , if potent , extend its influence over all academic achievement . The Stanford_Achievement_Test , Form_J , was administered by classroom teachers , consisting_of a battery of six sub_tests : Paragraph Meaning , Word Meaning , Spelling , Language , Arithmetic Computation , and Arithmetic Reasoning . All_of these sub-tests involve reading except Arithmetic Computation .</context>
+    </instance>
+    <instance id="br-j35#w2050_0" docsrc="br-j35">
+      <context> He has traversed provinces and kingdoms , but he has not consolidated them behind him , nor does he control them . He has announced results on Hokan , Penutian , Uto-Aztecan , and almost all other American families and phyla , and has diagrammed their degree of interrelation ; but he has not worked_out by lexicostatistics one comprehensively complete classification of even a single family other_than Salish . That is his privilege . The remote , cloudy , possible has values of its own - values of <head>scope</head> , stimulus , potential , and imagination . But there is also a firm aspect to lexicostatistics : the aspect of learning the internal organization of obvious natural genetic groups of languages as_well as their more remote and elusive external links ; of classification first , with elapsed age merely a by-product ; of acquiring evidential knowledge of what happened in Athabascan , in Yokuts , in Uto-Aztecan in the last few thousand years as_well as forecasting what more anciently may have happened between them . This involves step-by-step progress , and such will have to be the day-by-day work of lexicostatistics as a growing body of scientific inquiry .</context>
+    </instance>
+    <instance id="br-j35#w493_0" docsrc="br-j35">
+      <context> The groups are therefore really non comparable in content as_well as in size . Other classes are included only by myself ( interrogatives , adverbs ) or only by Swadesh and Hoijer ( pronouns , demonstratives ) . What we have left as reasonably comparable are four classes : ( 1 ) body_parts and products , which with a proportionally nearly even representation ( 51 terms out of 253 , 25 out of 100 ) come_out with nearly even ratios ; 2.6 and 2.7 ; ( 2 ) Nature ( 29 terms against 17 ) , ratios 3.3 versus 4.1 ; ( 3 ) adjectives ( 16 , 15 terms ) , ratios 3.9 versus 4.7 ; ( 4 ) verbs ( 9 , 22 terms ) , ratios 4.0 versus 3.4 . It will be seen that where the <head>scope</head> is similar , the Athabascan ratios come_out somewhat higher ( as indeed they ought to with a total ratio of 2.8 as against 3.5 or 4 : 5 ) except for verbs , where alone the Athabascan ratio is lower . This exception may be connected with Hoijer 's use of a much higher percentage of verbs : 22 % of his total list as against 3.5 % in mine . Or the exception may be_due to a particular durability peculiar to the Athabascan verb .</context>
+    </instance>
+    <instance id="br-j42#w935_0" docsrc="br-j42">
+      <context> No_longer did the sovereign look_to the law_of_nations to determine what he ought to do ; his search was merely for rules that might limit his freedom of action . To appreciate this development , we must relate it to other aspects of nineteenth century philosophy . First , and most obvious , was the growing nationalism and the tendency to regard the state , and the individual 's identification with the state , as transcending other ties of social solidarity . National identification was not new , but it was accelerating in intensity and <head>scope</head> throughout Europe as new unifications occurred . It reached its ultimate philosophical statement in notions of `` state will '' put_forward by the Germans , especially by Hegel , although political philosophers will recognize its origins in the rejected doctrines of Hobbes . National identification was reflected jurisprudentially in law theories which incorporated this Hegelian abstraction and saw law , domestic and international , simply as its formal reflection . In the international community this reduced law to Jellinek 's auto_limitation .</context>
+    </instance>
+    <instance id="br-j53#w653_0" docsrc="br-j53">
+      <context> Obviously , a satisfactory answer to the third question is imperative , if the argument is to get under_way at_all , for if there is any possibility of doubt whether the patient 's tactual sensitivity had been impaired by the occipital lesion , any findings whatsoever in regard_to the first question become completely ambiguous and fail altogether , of_course , as evidence to establish the desired conclusion . The answer the authors give to it , therefore , is of supreme importance . It is as_follows : `` The usual sensitivity tests showed that the specific qualities of skin-perceptiveness ( pressure , pain , temperature ) , as_well_as the kinesthetic sensations ( muscular feelings , feelings in the tendons and joints ) , were , as_such , essentially intact , although they seemed , in_comparison_with normal reactions , to be somewhat diminished over the entire body . The supposed tactual sense of spatial location and orientation in the patient and his ability to specify the location of a member , as_well_as the direction and <head>scope</head> of a movement , passively executed ( with one of his members ) , proved to have been , on_the_contrary , very considerably affected '' . The authors insist , however , that these abnormalities in the sense_of_touch were due absolutely to no organic disorders in that sense faculty but rather to the injuries which the patient had sustained to the sense of sight . First_of_all , what is their evidence that the tactual apparatus was fundamentally undamaged ? ( 1 ) When an object was placed in the patient 's hand , he had no difficulty determining whether it was warm or cold , sharp or blunt , rough or smooth , flexible , soft , or hard ; and he could tell , simply by the feel of it , whether it was made of wood , iron , cloth , rubber , and_so_on .</context>
+    </instance>
+    <instance id="br-k27#w681_0" docsrc="br-k27">
+      <context> He stroked the hens and they responded with delighted clucks , he gobbled with the turkeys and they at_once were all attention , he quacked with the ducks , and cackled with a pair of exceedingly flattered geese . The dawn progressed and it seemed that the doctor would never be done_with his ministrations when quite abruptly something broke his revery . It was a fine broody_hen , white , with a maternal eye and a striking abundance of feathers in the under region of the abdomen . The doctor , with the air of a man whose professional interests have found <head>scope</head> , drew Alex 's attention to those excellences which might otherwise have escaped him : the fine color in comb and wattles , the length and quality of neck and saddle_hackles , the firm , wide spread of the toes , and a rare justness in the formation of the ear lappets . All search was ended ; he had found his fowl . The purchase was effected and they made_their_way towards the hotel again , the hen , with whom some sort of communication had been set_up , nestling in the doctor 's arms . The clocks struck seven-thirty as they approached the hotel entrance ; and hopes that the chambermaid and patronne would still be abed began to rise in Alex 's well exercised breast .</context>
+    </instance>
+  </lexelt>
+</corpus>

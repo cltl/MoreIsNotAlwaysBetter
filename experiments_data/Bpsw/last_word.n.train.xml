@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="last_word.n" pos="NN">
+    <instance id="n06412213_ex1_4" docsrc="n06412213_ex1">
+      <context> my doctor has the <head>last_word</head> on the medicines I take ;</context>
+    </instance>
+    <instance id="n06649786_ex1_4" docsrc="n06649786_ex1">
+      <context> she always gets the <head>last_word</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

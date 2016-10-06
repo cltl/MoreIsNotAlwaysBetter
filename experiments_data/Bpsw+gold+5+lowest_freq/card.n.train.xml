@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="card.n" pos="NN">
+    <instance id="Batting_order_(cricket)-card-13-46-1" docsrc="Batting_order_(cricket)">
+      <context> The world 's most prolific and best recognised batsmen are generally found in <head>the</head> top order . The last batsman in the order is sometimes referred to as Last man Jack , a term that has passed into everyday parlance . This is because if the batting order were arranged as a pack of cards numbers 9 and 10 would be followed by Jack .</context>
+    </instance>
+    <instance id="Printed_circuit_board-card-0-12-1" docsrc="Printed_circuit_board">
+      <context> <head>Modern</head> PCBs are designed with dedicated layout software , generally in the following steps : Schematic capture through an electronic design automation ( EDA ) tool . Card dimensions and template are decided based on required circuitry and case of the PCB.</context>
+    </instance>
+    <instance id="Printed_circuit_board-card-9-4-3" docsrc="Printed_circuit_board">
+      <context> However , the term printed wiring board has fallen <head>into</head> disuse . A PCB populated with electronic components is called a printed circuit assembly ( PCA ) , printed circuit board assembly or PCB assembly ( PCBA ) . The IPC preferred term for assembled boards is circuit card assembly ( CCA ) , and for assembled backplanes it is backplane assemblies .</context>
+    </instance>
+    <instance id="Visiting_card-card-1-0-2" docsrc="Visiting_card">
+      <context> A <head>visiting</head> card , also known as a calling card , is a small paper card with one 's name printed on it , and often bearing an artistic design . In 18th century Europe , the footmen of aristocrats and royalty would deliver these first European visiting cards to the servants of their prospective hosts solemnly introducing the arrival of their owners . Visiting cards became an indispensable tool of etiquette , with sophisticated rules governing their use .</context>
+    </instance>
+    <instance id="Visiting_card-card-17-0-1" docsrc="Visiting_card">
+      <context> A visiting card , also known as a calling card , is a small paper card with <head>one</head> 's name printed on it , and often bearing an artistic design . In 18th century Europe , the footmen of aristocrats and royalty would deliver these first European visiting cards to the servants of their prospective hosts solemnly introducing the arrival of their owners .</context>
+    </instance>
+    <instance id="Visiting_card-card-19-5-2" docsrc="Visiting_card">
+      <context> Visiting cards became an indispensable tool of etiquette , with sophisticated rules governing their use . The essential convention <head>was</head> that one person would not expect to see another person in his own home ( unless invited or introduced ) without first leaving his visiting card for the person at his home . Upon leaving the card , he would not expect to be admitted at first , but might receive a card at his own home in response .</context>
+    </instance>
+    <instance id="Visiting_card-card-29-5-1" docsrc="Visiting_card">
+      <context> In 18th century Europe , the footmen of aristocrats and royalty would deliver these first European visiting cards to the servants of their prospective hosts solemnly introducing the arrival <head>of</head> their owners . Visiting cards became an indispensable tool of etiquette , with sophisticated rules governing their use . The essential convention was that one person would not expect to see another person in his own home ( unless invited or introduced ) without first leaving his visiting card for the person at his home .</context>
+    </instance>
+    <instance id="Visiting_card-card-3-5-2" docsrc="Visiting_card">
+      <context> Visiting cards became <head>an</head> indispensable tool of etiquette , with sophisticated rules governing their use . The essential convention was that one person would not expect to see another person in his own home ( unless invited or introduced ) without first leaving his visiting card for the person at his home . Upon leaving the card , he would not expect to be admitted at first , but might receive a card at his own home in response .</context>
+    </instance>
+    <instance id="n00091503_d_6" docsrc="n00091503_d">
+      <context> the act of throwing_out a useless <head>card</head> or of failing to follow_suit ;</context>
+    </instance>
+    <instance id="n00340463_d_4" docsrc="n00340463_d">
+      <context> the act of mixing <head>cards</head> haphazardly ;</context>
+    </instance>
+    <instance id="n00489933_d_24" docsrc="n00489933_d">
+      <context> a card_game played in casinos in which two or more punters gamble against the banker ; the player wins who holds 2 or 3 <head>cards</head> that total closest to nine ;</context>
+    </instance>
+    <instance id="n00490155_d_17" docsrc="n00490155_d">
+      <context> a card_game for two players in which the object is to win all of the other player's <head>cards</head> ;</context>
+    </instance>
+    <instance id="n00490350_d_3" docsrc="n00490350_d">
+      <context> a gambling_game using <head>cards</head> ; the object is to hold cards having a higher count than those dealt to the banker up to but not exceeding 21 ;</context>
+    </instance>
+    <instance id="n02977058_d_15" docsrc="n02977058_d">
+      <context> an unattended machine ( outside some banks ) that dispenses money when a personal coded <head>card</head> is used ;</context>
+    </instance>
+    <instance id="n03080731_d_6" docsrc="n03080731_d">
+      <context> compass in the form of a <head>card</head> that rotates so that 0 degrees or North points to magnetic_north ;</context>
+    </instance>
+    <instance id="n04004210_d_16" docsrc="n04004210_d">
+      <context> computer_circuit consisting of an electronic sub-assembly ; copper conductors are laminated on an insulating board or <head>card</head> and circuit components are inserted into holes and dip_soldered ;</context>
+    </instance>
+    <instance id="n04249705_d_5" docsrc="n04249705_d">
+      <context> display consisting of a printed <head>card</head> with letters and numbers in lines of decreasing size ; used to test visual_acuity ;</context>
+    </instance>
+    <instance id="n04437131_d_1" docsrc="n04437131_d">
+      <context> a <head>card</head> used with a time_clock to record an employee's starting and quitting times each day ;</context>
+    </instance>
+    <instance id="n06425404_d_1" docsrc="n06425404_d">
+      <context> a <head>card</head> on which are printed the person's name and business affiliation ;</context>
+    </instance>
+    <instance id="n06477371_d_1" docsrc="n06477371_d">
+      <context> a <head>card</head> certifying the identity of the bearer ;</context>
+    </instance>
+    <instance id="n06477371_ex1_5" docsrc="n06477371_ex1">
+      <context> he had to show his <head>card</head> to get in ;</context>
+    </instance>
+    <instance id="n06477645_d_1" docsrc="n06477645_d">
+      <context> a <head>card</head> that you carry on your person and that authorizes the use of your organs for transplantation after your death ;</context>
+    </instance>
+    <instance id="n06486161_ex1_4" docsrc="n06486161_ex1">
+      <context> the managers presented their <head>cards</head> to the umpire at home plate ;</context>
+    </instance>
+    <instance id="n06488473_d_12" docsrc="n06488473_d">
+      <context> a library_catalog in which each publication is described on a separate file <head>card</head> ;</context>
+    </instance>
+    <instance id="n06504838_d_1" docsrc="n06504838_d">
+      <context> a <head>card</head> recording an employee's starting and quitting times each work_day ;</context>
+    </instance>
+    <instance id="n06507941_ex1_6" docsrc="n06507941_ex1">
+      <context> you have to turn in your <head>card</head> to get a handicap ;</context>
+    </instance>
+    <instance id="n06627006_ex1_4" docsrc="n06627006_ex1">
+      <context> they sent us a <head>card</head> from Miami ;</context>
+    </instance>
+    <instance id="n06627260_d_1" docsrc="n06627260_d">
+      <context> a <head>card</head> expressing a birthday greeting ;</context>
+    </instance>
+    <instance id="n06627357_d_1" docsrc="n06627357_d">
+      <context> a <head>card</head> expressing get_well wishes ;</context>
+    </instance>
+    <instance id="n06627450_d_1" docsrc="n06627450_d">
+      <context> a <head>card</head> sent to express personal greetings ;</context>
+    </instance>
+    <instance id="n06627623_d_1" docsrc="n06627623_d">
+      <context> a <head>card</head> expressing a Christmas greeting ;</context>
+    </instance>
+    <instance id="n06793959_d_1" docsrc="n06793959_d">
+      <context> a <head>card</head> with words or numbers or pictures that is flashed to a class by the teacher ;</context>
+    </instance>
+    <instance id="n10531694_d_5" docsrc="n10531694_d">
+      <context> a young_woman who holds up <head>cards</head> indicating the number of the next round at prize_fights ;</context>
+    </instance>
+    <instance id="n13472341_d_9" docsrc="n13472341_d">
+      <context> automatic_data_processing by electronic means without the use of tabulating <head>cards</head> or punched tapes ;</context>
+    </instance>
+    <instance id="n13830305_d_8" docsrc="n13830305_d">
+      <context> any of 32 horizontal directions indicated on the <head>card</head> of a compass ;</context>
+    </instance>
+    <instance id="n14805676_d_16" docsrc="n14805676_d">
+      <context> a small piece_of_paper that is supposed to be removed when a hole is punched in a <head>card</head> or paper_tape ;</context>
+    </instance>
+  </lexelt>
+</corpus>

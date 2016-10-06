@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="circus.n" pos="NN">
+    <instance id="Circus_(building)-circus-4-1-1" docsrc="Circus_(building)">
+      <context> According to Edward Gibbon <head>,</head> in Chapter XXXI of his work The History of the Decline and Fall of the Roman Empire , the Roman people , at the start of the 5th century : ... still considered the Circus as their home , their temple , and the seat of the republic .</context>
+    </instance>
+    <instance id="Harrier_(bird)-circus-1-4-1" docsrc="Harrier_(bird)">
+      <context> Most <head>harriers</head> are placed in the genus Circus , derived from the Ancient Greek kirkos , referring to a bird of prey named for its circling flight ( kirkos , " circle " ) , probably the hen harrier . Genus Circus</context>
+    </instance>
+    <instance id="n00519739_ex1_8" docsrc="n00519739_ex1">
+      <context> the children always love to go to the <head>circus</head> ;</context>
+    </instance>
+    <instance id="n00552679_ex1_7" docsrc="n00552679_ex1">
+      <context> it was so funny it was a <head>circus</head> ;</context>
+    </instance>
+    <instance id="n03034860_ex1_9" docsrc="n03034860_ex1">
+      <context> they used the elephants to help put up the <head>circus</head> ;</context>
+    </instance>
+    <instance id="n08189211_ex1_8" docsrc="n08189211_ex1">
+      <context> he ran away from home to join the <head>circus</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

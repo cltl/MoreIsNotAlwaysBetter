@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="low.n" pos="NN">
+    <instance id="David_Low_(cartoonist)-low-17-1-4" docsrc="David_Low_(cartoonist)">
+      <context> His professional career began at The Canterbury Times in 1910 . The following year he moved to <head>Australia</head> and worked for the The Bulletin . His work attracted the attention of Henry Cadbury , the part owner of The Star , and Low moved to London in 1919 , working for that paper until 1927 , when he moved to the Evening Standard .</context>
+    </instance>
+    <instance id="n05097706_ex1_7" docsrc="n05097706_ex1">
+      <context> the stock market fell to a new <head>low</head> ;</context>
+    </instance>
+    <instance id="n14520829_ex1_1" docsrc="n14520829_ex1">
+      <context> a <head>low</head> moved in over night bringing sleet and snow ;</context>
+    </instance>
+  </lexelt>
+</corpus>

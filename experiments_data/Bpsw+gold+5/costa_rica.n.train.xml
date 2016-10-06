@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Costa_Rica.n" pos="NN">
+    <instance id="a03056693_d_4" docsrc="a03056693_d">
+      <context> of or relating to <head>Costa_Rica</head> or its people ;</context>
+    </instance>
+    <instance id="n01312096_d_20" docsrc="n01312096_d">
+      <context> a war between the Allies ( Australia , Belgium , Bolivia , Brazil , Canada , China , Colombia , <head>Costa_Rica</head> , Cuba , Czechoslovakia , Dominican_Republic , El_Salvador , Ethiopia , France , Greece , Guatemala , Haiti , Honduras , India , Iran , Iraq , Luxembourg , Mexico , Netherlands , New_Zealand , Nicaragua , Norway , Panama , Philippines , Poland , South_Africa , United_Kingdom , United_States , USSR , Yugoslavia ) and the Axis ( Albania , Bulgaria , Finland , Germany , Hungary , Italy , Japan , Rumania , Slovakia , Thailand ) from 1939 to 1945 ;</context>
+    </instance>
+    <instance id="n08703035_d_15" docsrc="n08703035_d">
+      <context> any one of the countries occupying Central_America ; these countries ( except for Belize and <head>Costa_Rica</head> ) are characterized by low per_capita_income and unstable governments ;</context>
+    </instance>
+    <instance id="n08736376_d_6" docsrc="n08736376_d">
+      <context> the capital and largest city of <head>Costa_Rica</head> ;</context>
+    </instance>
+    <instance id="n09698788_d_5" docsrc="n09698788_d">
+      <context> a native or inhabitant of <head>Costa_Rica</head> ;</context>
+    </instance>
+    <instance id="n12897788_d_2" docsrc="n12897788_d">
+      <context> vine of <head>Costa_Rica</head> sparsely armed with hooklike spines and having large lilac-blue flowers ;</context>
+    </instance>
+    <instance id="n13665027_d_5" docsrc="n13665027_d">
+      <context> a fractional_monetary_unit of Venezuela and <head>Costa_Rica</head> and Equatorial_Guinea and Paraguay and Spain ;</context>
+    </instance>
+    <instance id="n13667255_d_2" docsrc="n13667255_d">
+      <context> monetary_unit in <head>Costa_Rica</head> ;</context>
+    </instance>
+    <instance id="n13667372_d_6" docsrc="n13667372_d">
+      <context> the basic unit of money in <head>Costa_Rica</head> ; equal to 100 centimos ;</context>
+    </instance>
+  </lexelt>
+</corpus>

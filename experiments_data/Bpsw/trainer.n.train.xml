@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="trainer.n" pos="NN">
+    <instance id="Facilitator-trainer-6-41-3" docsrc="Facilitator">
+      <context> These facilitators are not always subject <head>experts</head> , and attempt to draw on the existing knowledge of the participant(s ) , and to then facilitate access to training where gaps in knowledge are identified and agreed on . Training facilitators focus on the foundations of adult education : establish existing knowledge , build on it and keep it relevant . The role is different from a trainer with subject expertise .</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-10-14-5" docsrc="Flight_simulator">
+      <context> This included having to fly in bad weather as well <head>as</head> good , for which the USAAF had not previously carried out much training . During the first weeks of the mail service , nearly a dozen Army pilots were killed . The Army Air Force hierarchy remembered Ed Link and his trainer .</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-12-10-1" docsrc="Flight_simulator">
+      <context> === World War I ( 1914–18 ) === === The 1920s and <head>1930s</head> === Initially , aviation flight schools showed little interest in the " Link Trainer " .</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-12-17-1" docsrc="Flight_simulator">
+      <context> The result was that the USAAF purchased six Link Trainers , and <head>this</head> can be said to mark the start of the world flight simulation industry . === World War II ( 1939–1945 ) === The principal pilot trainer used during World War II was the Link Trainer .</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-12-19-2" docsrc="Flight_simulator">
+      <context> The principal pilot trainer used during World War II was the Link <head>Trainer</head> . Some 10,000 were produced to train 500,000 new pilots from allied nations , many in the USA and Canada because many pilots were trained in those countries before returning to Europe or the Pacific to fly combat missions . Almost all US Army Air Force pilots were trained in a Link Trainer .</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-2-32-1" docsrc="Flight_simulator">
+      <context> === Training <head>for</head> pilots === Several different devices are utilized in modern flight training . Cockpit Procedures Trainer ( CPT ) are used to practice basic cockpit procedures , such as processing emergency checklists , and for cockpit familiarization .</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-3-17-1" docsrc="Flight_simulator">
+      <context> The result was <head>that</head> the USAAF purchased six Link Trainers , and this can be said to mark the start of the world flight simulation industry . === World War II ( 1939–1945 ) === The principal pilot trainer used during World War II was the Link Trainer .</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-3-20-1" docsrc="Flight_simulator">
+      <context> Almost all US <head>Army</head> Air Force pilots were trained in a Link Trainer . A different type of World War II trainer was used for navigating at night by the stars . The Celestial Navigation Trainer of 1941 was 13.7 m ( 45 ft ) high and capable of accommodating the navigation team of a bomber crew .</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-4-14-1" docsrc="Flight_simulator">
+      <context> === The 1920s and <head>1930s</head> === Initially , aviation flight schools showed little interest in the " Link Trainer " . Link also demonstrated his trainer to the U.S. Army Air Force ( USAAF ) , but with no result .</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-4-66-1" docsrc="Flight_simulator">
+      <context> Full Flight Simulators ( <head>FFS</head> ) ==== European Aviation Safety Agency ( EASA , ex JAA ) ==== Flight Navigation and Procedures Trainer ( FNPT )</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-7-19-3" docsrc="Flight_simulator">
+      <context> Some 10,000 were produced to train 500,000 <head>new</head> pilots from allied nations , many in the USA and Canada because many pilots were trained in those countries before returning to Europe or the Pacific to fly combat missions . Almost all US Army Air Force pilots were trained in a Link Trainer . A different type of World War II trainer was used for navigating at night by the stars .</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-9-14-7" docsrc="Flight_simulator">
+      <context> The Army Air Force hierarchy remembered Ed Link and <head>his</head> trainer . Link flew in to meet them at Newark Field in New Jersey , and they were impressed by his ability to arrive on a day with poor visibility , due to practice on his training device . The result was that the USAAF purchased six Link Trainers , and this can be said to mark the start of the world flight simulation industry .</context>
+    </instance>
+    <instance id="n09953178_d_1" docsrc="n09953178_d">
+      <context> a <head>trainer</head> of athletes ;</context>
+    </instance>
+    <instance id="v00833702_d_6" docsrc="v00833702_d">
+      <context> teach and supervise ; act_as a <head>trainer</head> or coach , as in sports ;</context>
+    </instance>
+  </lexelt>
+</corpus>

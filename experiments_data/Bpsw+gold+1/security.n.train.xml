@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="security.n" pos="NN">
+    <instance id="Security_(finance)-security-0-2-1" docsrc="Security_(finance)">
+      <context> <head>In</head> the United Kingdom , the national competent authority for financial markets regulation is the Financial Conduct Authority : the definition in its Handbook of the term " security " applies only to equities , debentures , alternative debentures , government and public securities , warrants , certificates representing certain securities , units , stakeholder pension schemes , personal pension schemes , rights to or interests in investments , and anything that may be admitted to the Official List . In the USA , a security is a tradable financial asset of any kind . Securities are broadly categorized into :</context>
+    </instance>
+    <instance id="Security_(finance)-security-0-25-1" docsrc="Security_(finance)">
+      <context> <head>Market</head> capitalization === New capital === Securities are the traditional way that commercial enterprises raise new capital .</context>
+    </instance>
+    <instance id="Security_(finance)-security-0-37-2" docsrc="Security_(finance)">
+      <context> <head>====</head> Collateral ==== Securities are traditionally divided into debt securities and equities ( see also derivatives ) .</context>
+    </instance>
+    <instance id="Security_(finance)-security-0-6-3" docsrc="Security_(finance)">
+      <context> <head>A</head> country 's regulatory structure determines what qualifies as a security . For example , private investment pools may have some features of securities , but they may not be registered or regulated as such if they meet various restrictions . Securities may be classified according to many categories or classification systems :</context>
+    </instance>
+    <instance id="Security_(finance)-security-1-2-2" docsrc="Security_(finance)">
+      <context> In <head>the</head> USA , a security is a tradable financial asset of any kind . Securities are broadly categorized into : debt securities , ( e.g. , banknotes , bonds and debentures )</context>
+    </instance>
+    <instance id="Security_(finance)-security-1-26-3" docsrc="Security_(finance)">
+      <context> These <head>may</head> be an attractive alternative to bank loans depending on their pricing and market demand for particular characteristics . Another disadvantage of bank loans as a source of financing is that the bank may seek a measure of protection against default by the borrower via extensive financial covenants . Through securities , capital is provided by investors who purchase the securities upon their initial issuance .</context>
+    </instance>
+    <instance id="Security_(finance)-security-1-3-1" docsrc="Security_(finance)">
+      <context> Securities <head>are</head> broadly categorized into : debt securities , ( e.g. , banknotes , bonds and debentures ) equity securities , ( e.g. , common stocks )</context>
+    </instance>
+    <instance id="Security_(finance)-security-1-47-1" docsrc="Security_(finance)">
+      <context> Securities <head>are</head> traditionally divided into debt securities and equities ( see also derivatives ) . === Debt === Debt securities may be called debentures , bonds , deposits , notes or commercial paper depending on their maturity and certain other characteristics .</context>
+    </instance>
+    <instance id="Security_(finance)-security-1-48-2" docsrc="Security_(finance)">
+      <context> Debt <head>securities</head> may be called debentures , bonds , deposits , notes or commercial paper depending on their maturity and certain other characteristics . The holder of a debt security is typically entitled to the payment of principal and interest , together with other contractual rights under the terms of the issue , such as the right to receive certain information . Debt securities are generally issued for a fixed term and redeemable by the issuer at the end of that term .</context>
+    </instance>
+    <instance id="Security_(finance)-security-1-48-3" docsrc="Security_(finance)">
+      <context> The <head>holder</head> of a debt security is typically entitled to the payment of principal and interest , together with other contractual rights under the terms of the issue , such as the right to receive certain information . Debt securities are generally issued for a fixed term and redeemable by the issuer at the end of that term . Debt securities may be protected by collateral or may be unsecured , and , if they are unsecured , may be contractually " senior " to other unsecured debt meaning their holders would have a priority in a bankruptcy of the issuer .</context>
+    </instance>
+    <instance id="Security_(finance)-security-10-6-1" docsrc="Security_(finance)">
+      <context> derivatives , ( e.g. , forwards , futures , options <head>and</head> swaps ) . The company or other entity issuing the security is called the issuer . A country 's regulatory structure determines what qualifies as a security .</context>
+    </instance>
+    <instance id="Security_(finance)-security-11-26-3" docsrc="Security_(finance)">
+      <context> These may be an attractive alternative to bank loans depending on <head>their</head> pricing and market demand for particular characteristics . Another disadvantage of bank loans as a source of financing is that the bank may seek a measure of protection against default by the borrower via extensive financial covenants . Through securities , capital is provided by investors who purchase the securities upon their initial issuance .</context>
+    </instance>
+    <instance id="Security_(finance)-security-11-6-2" docsrc="Security_(finance)">
+      <context> The company or other entity issuing the security is called the <head>issuer</head> . A country 's regulatory structure determines what qualifies as a security . For example , private investment pools may have some features of securities , but they may not be registered or regulated as such if they meet various restrictions .</context>
+    </instance>
+    <instance id="Security_(finance)-security-15-58-6" docsrc="Security_(finance)">
+      <context> In bankruptcy , they share only in the residual interest of the issuer after all <head>obligations</head> have been paid out to creditors . However , equity generally entitles the holder to a pro rata portion of control of the company , meaning that a holder of a majority of the equity is usually entitled to control the issuer . Equity also enjoys the right to profits and capital gain , whereas holders of debt securities receive only interest and repayment of principal regardless of how well the issuer performs financially .</context>
+    </instance>
+    <instance id="Security_(finance)-security-17-58-3" docsrc="Security_(finance)">
+      <context> The most common form of equity interest is common stock , although preferred equity is also a <head>form</head> of capital stock . The holder of an equity is a shareholder , owning a share , or fractional part of the issuer . Unlike debt securities , which typically require regular payments ( interest ) to the holder , equity securities are not entitled to any payment .</context>
+    </instance>
+    <instance id="Security_(finance)-security-2-29-1" docsrc="Security_(finance)">
+      <context> In a <head>similar</head> way , a government may issue securities too when it needs to increase government debt . === Type of holder === Investors in securities may be retail , i.e. members of the public investing other than by way of business .</context>
+    </instance>
+    <instance id="Security_(finance)-security-2-57-1" docsrc="Security_(finance)">
+      <context> Supranational bonds <head>represent</head> the debt of international organizations such as the World Bank , the International Monetary Fund , regional multilateral development banks and others . === Equity === An equity security is a share of equity interest in an entity such as the capital stock of a company , trust or partnership .</context>
+    </instance>
+    <instance id="Security_(finance)-security-2-58-3" docsrc="Security_(finance)">
+      <context> The most <head>common</head> form of equity interest is common stock , although preferred equity is also a form of capital stock . The holder of an equity is a shareholder , owning a share , or fractional part of the issuer . Unlike debt securities , which typically require regular payments ( interest ) to the holder , equity securities are not entitled to any payment .</context>
+    </instance>
+    <instance id="Security_(finance)-security-26-19-3" docsrc="Security_(finance)">
+      <context> ( " Sector " often refers to a higher level or broader category , such as Consumer Discretionary , whereas " industry " often refers to <head>a</head> lower level classification , such as Consumer Appliances . See Industry for a discussion of some classification systems . ) Region or country ( such as country of incorporation , country of principal sales/market of its products or services , or country in which the principal securities exchange where it trades is located )</context>
+    </instance>
+    <instance id="Security_(finance)-security-5-1-1" docsrc="Security_(finance)">
+      <context> In the United Kingdom , <head>the</head> national competent authority for financial markets regulation is the Financial Conduct Authority : the definition in its Handbook of the term " security " applies only to equities , debentures , alternative debentures , government and public securities , warrants , certificates representing certain securities , units , stakeholder pension schemes , personal pension schemes , rights to or interests in investments , and anything that may be admitted to the Official List . In the USA , a security is a tradable financial asset of any kind .</context>
+    </instance>
+    <instance id="Security_(finance)-security-5-48-1" docsrc="Security_(finance)">
+      <context> === Debt === Debt securities <head>may</head> be called debentures , bonds , deposits , notes or commercial paper depending on their maturity and certain other characteristics . The holder of a debt security is typically entitled to the payment of principal and interest , together with other contractual rights under the terms of the issue , such as the right to receive certain information .</context>
+    </instance>
+    <instance id="Security_(finance)-security-6-37-2" docsrc="Security_(finance)">
+      <context> ==== Collateral ==== Securities are traditionally <head>divided</head> into debt securities and equities ( see also derivatives ) .</context>
+    </instance>
+    <instance id="Security_(finance)-security-7-5-1" docsrc="Security_(finance)">
+      <context> equity securities , ( e.g. , common <head>stocks</head> ) derivatives , ( e.g. , forwards , futures , options and swaps ) . The company or other entity issuing the security is called the issuer .</context>
+    </instance>
+    <instance id="Security_(finance)-security-9-26-4" docsrc="Security_(finance)">
+      <context> Another disadvantage of bank loans as a source of <head>financing</head> is that the bank may seek a measure of protection against default by the borrower via extensive financial covenants . Through securities , capital is provided by investors who purchase the securities upon their initial issuance . In a similar way , a government may issue securities too when it needs to increase government debt .</context>
+    </instance>
+    <instance id="a00261602_d_3" docsrc="a00261602_d">
+      <context> owning land or <head>securities</head> as a principal source of revenue ;</context>
+    </instance>
+    <instance id="a00416164_d_10" docsrc="a00416164_d">
+      <context> of or pertaining to classified information or matters affecting national <head>security</head> ;</context>
+    </instance>
+    <instance id="a00784411_d_10" docsrc="a00784411_d">
+      <context> ( of investments ) not distributed among a variety of <head>securities</head> ;</context>
+    </instance>
+    <instance id="a01418647_d_2" docsrc="a01418647_d">
+      <context> ( of <head>securities</head> ) not traded on a stock_exchange ;</context>
+    </instance>
+    <instance id="a01440422_d_3" docsrc="a01440422_d">
+      <context> of a gilt-edged <head>security</head> ; having more than 15 years to run before redemption ;</context>
+    </instance>
+    <instance id="a01443581_d_3" docsrc="a01443581_d">
+      <context> of a gilt-edged <head>security</head> ; having less than 5 years to run before redemption ;</context>
+    </instance>
+    <instance id="a01444434_d_1" docsrc="a01444434_d">
+      <context> holding <head>securities</head> or commodities in expectation of a rise in prices ;</context>
+    </instance>
+    <instance id="a01444620_d_2" docsrc="a01444620_d">
+      <context> not holding <head>securities</head> or commodities that one sells in expectation of a fall in prices ;</context>
+    </instance>
+    <instance id="a01958512_d_2" docsrc="a01958512_d">
+      <context> ( of <head>securities</head> ) having the owner's name entered in a register ;</context>
+    </instance>
+    <instance id="a02094203_d_4" docsrc="a02094203_d">
+      <context> characterized by certainty or <head>security</head> ;</context>
+    </instance>
+    <instance id="a02094755_d_2" docsrc="a02094755_d">
+      <context> lacking in <head>security</head> or safety ;</context>
+    </instance>
+    <instance id="br-b20#w2055_0" docsrc="br-b20">
+      <context> According_to Friends , the unit was organized by John_Snook , a former World_War_/2 , commando who is vice_president and general_manager of the telephone_company . The girls , very fetching in their uniforms , are shown firing rockets from a launcher mounted on a dump_truck ; they are also trained with carbines , automatic weapons , pistols , rifles and other such ladies ' accessories . This may be opera_bouffe now , but it will become more serious should the cold_war mount in frenzy . The country is committed to the doctrine of <head>security</head> by military means . The doctrine has never worked ; it is not working now . The official military establishment can only threaten to use its nuclear arms ; it cannot bring them into actual play . A more dangerous formula for national frustration cannot be imagined .</context>
+    </instance>
+    <instance id="br-b20#w391_0" docsrc="br-b20">
+      <context> Morrison points_out that since our country is more urbanized than the Soviet_Union or Red_China , it is the most vulnerable of the great_powers - Europe of_course must be written_off out_of_hand . He feels , therefore , that to seek a discontinuity in the arms policy of the United_States is the least risky path our government can take . His proposal is opposed to that of Richard_Nixon , Governor_Rockefeller , past chairmen Strauss and McCone of the Atomic_Energy_Commission , Dr._Edward_Teller and those others now enjoying their hour of triumph in the exacerbation of the cold_war . These gentlemen are calling_for a resumption of testing - in the atmosphere - on the greatest possible scale , all in_the_name_of national <head>security</head> . Escalation is their first love and their last ; they will be faithful unto death . Capable as their minds may be in some directions , these guardians of the nation 's security are incapable of learning , or even of observing . If this capacity had not failed them , they would see that their enemy has made a disastrous miscalculation .</context>
+    </instance>
+    <instance id="br-b20#w425_0" docsrc="br-b20">
+      <context> His proposal is opposed to that of Richard_Nixon , Governor_Rockefeller , past chairmen Strauss and McCone of the Atomic_Energy_Commission , Dr._Edward_Teller and those others now enjoying their hour of triumph in the exacerbation of the cold_war . These gentlemen are calling_for a resumption of testing - in the atmosphere - on the greatest possible scale , all in_the_name_of national security . Escalation is their first love and their last ; they will be faithful unto death . Capable as their minds may be in some directions , these guardians of the nation 's <head>security</head> are incapable of learning , or even of observing . If this capacity had not failed them , they would see that their enemy has made a disastrous miscalculation . He has gained only one thing - he has exploded a 50 - megaton_bomb and he probably has rockets with sufficient thrust to lob it over the shorter intercontinental ranges . But if his purpose was to inspire terror , his action could hardly have miscarried more obviously .</context>
+    </instance>
+    <instance id="br-g22#w1772_0" docsrc="br-g22">
+      <context> To perpetuate wealth control led by small groups of individuals who played no role in its creation prevents those with real initiative from coming_to_the_fore , and is basically anti democratic . When the proprietor dies , the establishment should become a corporation until it is either acquired by another proprietor or the government decides to drop it . Strikes should be declared illegal against corporations because disagreements would have to be settled by government representatives acting_as controllers of the corporation whose responsibility to the state would now be defined against proprietorship because employees and proprietors must be completely interdependent , as they are each a part of the whole . Strikes threatening the <head>security</head> of the proprietorship , if internally motivated , prevent a healthy relationship . Certainly external forces should not be applied arbitrarily out of mere power available to do so . If we cannot stop warfare in our own economic_system , how can we expect to abolish it internationally ? These proposals would go_far toward creating the economic atmosphere favoring growth of the individual , who , in_turn , would help us to cope_with runaway technology .</context>
+    </instance>
+    <instance id="br-g23#w1970_0" docsrc="br-g23">
+      <context> Assuredly in our political_campaigns there is freedom to think , to examine any and all issues , and to speak without restraint . No_holds_are_barred . But have the results been heartening ? May we state with_confidence that in such an exhibition a republic will find its greatest <head>security</head> ? We must_not forget , to_be_sure , that free discussion and debate have produced beneficial results . In_truth , we can say that this broke the power of Senator_Joseph_McCarthy , who was finally exposed in full light to the American people . If he had been `` liquidated '' in_some_way , he would have become a martyr , a rallying_point for people who shared his ideas .</context>
+    </instance>
+    <instance id="br-g43#w1805_0" docsrc="br-g43">
+      <context> Anyone who has watched children develop a taste for literature will understand what I mean . It is at_least possible that the capacity to postpone gratification is developed as_well_as expressed in a continuous and guided exposure to great literature . In any inquiry into the way in which great literature affects the emotions , particularly with_respect_to the sense of harmony , or relief of tension , or sense of `` a transformed inner nature '' which may occur , a most careful exploration of the particular feature of the experience which produces the effect would be required . In the calm which follows the reading of a poem , for_example , is the effect produced by the enforced quiet , by the musical quality of words and rhythm , by the sentiments or sense of the poem , by the associations with earlier readings , if it is familiar , by the boost to the self-esteem for the semi-literate , by the diversion of attention , by the sense of <head>security</head> in a legitimized withdrawal , by a kind license for some variety of fantasy_life regarded_as forbidden , or by half conscious ideas about the magical_power of words ? These are , if the research is done with subtlety and skill , researchable topics , but the research is missing . One of the most frequent views of the value of literature is the education of sensibility that it is thought to provide . Sensibility is a vague word , covering an area of meaning rather than any precise talent , quality , or skill .</context>
+    </instance>
+    <instance id="br-h09#w743_0" docsrc="br-h09">
+      <context> cause on-site inspections to be made of promising projects , domestic and foreign , and , in the case of projects located in the United_States , cooperate and participate in their development in instances in which the purposes of_this Act will be served thereby ; foster and participate in regional , national , and international conferences relating to saline water conversion ; coordinate , correlate , and publish information with a view to advancing the development of low-cost saline water conversion projects ; and cooperate with other Federal_departments and agencies , with State and local_departments , agencies , and instrumentalities , and with interested persons , firms , institutions , and organizations . Research and development activities undertaken by the Secretary shall be coordinated or conducted jointly with the Department_of_Defense to the end that developments under this Act which are primarily of a civil nature will contribute to the defense of the Nation and that developments which are primarily of a military nature will , to the greatest practicable extent compatible with military and <head>security</head> requirements , be available to advance the purposes of_this Act and to strengthen the civil economy of the Nation . The fullest cooperation by and with Atomic_Energy_Commission , the Department_of_Health_Education_and_Welfare , the Department_of_State , and other concerned agencies shall also be carried_out in the interest of achieving the objectives of_this Act . All research within the United_States contracted for , sponsored , cosponsored , or authorized under authority of_this Act , shall be provided for in such manner that all information , uses , products , processes , patents , and other developments resulting from such research developed by Government expenditure will ( with such exceptions and limitations , if any , as the Secretary may find to be necessary in the interest of national defense ) be available to the general public . This subsection shall not be so construed as to deprive the owner of any background patent relating thereto of such rights as he may have thereunder .</context>
+    </instance>
+    <instance id="br-h13#w1278_0" docsrc="br-h13">
+      <context> Cuban S._S._R. : Whatever may have been the setbacks resulting from the unsuccessful attempt of the Cuban rebels to establish a beachhead on the Castro held mainland last week , there was at_least one positive benefit , and that was the clear-cut revelation to the whole world of the complete conversion of Cuba into a Russian dominated military base . In_fact , one of the major reasons for the failure of the ill-starred expedition appears to have been a lack of full information on the extent to which Cuba has been getting this Russian military equipment . Somehow , the pictures and stories of Soviet T-34 tanks on Cuban beaches and Russian Mig jet fighters strafing rebel troops has brought_home to all_of us the stark , blunt truth of what it means to have a Russian military base 90 miles away from home . Russian tanks and planes in Cuba jeopardize the <head>security</head> of the United_States , violate the Monroe_Doctrine , and threaten the security of every other Latin_American republic . Once the full extent of_this Russian military penetration of Cuba was clear , President_Kennedy announced we would take whatever action was appropriate to prevent this , even if we had to go it alone . But the Latin_American republics who have been rather inclined to drag their feet on taking action against Castro also reacted swiftly last week by finally throwing Cuba off the Inter-American_Defense_Board . For years the United_States had been trying to get these countries to exclude Castro 's representative from secret military talks .</context>
+    </instance>
+    <instance id="br-h13#w1290_0" docsrc="br-h13">
+      <context> Cuban S._S._R. : Whatever may have been the setbacks resulting from the unsuccessful attempt of the Cuban rebels to establish a beachhead on the Castro held mainland last week , there was at_least one positive benefit , and that was the clear-cut revelation to the whole world of the complete conversion of Cuba into a Russian dominated military base . In_fact , one of the major reasons for the failure of the ill-starred expedition appears to have been a lack of full information on the extent to which Cuba has been getting this Russian military equipment . Somehow , the pictures and stories of Soviet T-34 tanks on Cuban beaches and Russian Mig jet fighters strafing rebel troops has brought_home to all_of us the stark , blunt truth of what it means to have a Russian military base 90 miles away from home . Russian tanks and planes in Cuba jeopardize the security of the United_States , violate the Monroe_Doctrine , and threaten the <head>security</head> of every other Latin_American republic . Once the full extent of_this Russian military penetration of Cuba was clear , President_Kennedy announced we would take whatever action was appropriate to prevent this , even if we had to go it alone . But the Latin_American republics who have been rather inclined to drag their feet on taking action against Castro also reacted swiftly last week by finally throwing Cuba off the Inter-American_Defense_Board . For years the United_States had been trying to get these countries to exclude Castro 's representative from secret military talks .</context>
+    </instance>
+    <instance id="br-h21#w1265_0" docsrc="br-h21">
+      <context> The Department_of_Defense appropriation acts for the past several years have contained a rider which limits competitive bidding by firms in other countries on certain military supply items . As I have repeatedly stated , this provision is much more restrictive than the general law , popularly known_as the Buy American Act . I urge once_again that the Congress not reenact this rider . The task of providing a reasonable level of military strength , without endangering other vital aspects of our <head>security</head> , is greatly complicated by the swift pace of scientific progress . The last few years have witnessed what have been perhaps the most rapid advances in military technology in history . Some weapons_systems have become obsolescent while still in production , and some while still under development . Furthermore , unexpectedly rapid progress or a technological break-through on any one weapon_system , in itself , often diminishes the relative importance of other competitive systems .</context>
+    </instance>
+    <instance id="br-h21#w377_0" docsrc="br-h21">
+      <context> Similar restrictions on the strength of the Army National_Guard contained in the 1960 Department_of_Defense Appropriation_Act should likewise be dropped . I strongly recommend to the Congress the avoidance of mandatory floors on the size of the reserve components so that we may have the flexibility to make adjustments in keeping with military necessity . I again proposed a reduction in the Army National_Guard and Army_Reserve - from their present strengths of 400000 and 300000 , respectively , to 360000 and 270000 by the end of the fiscal_year 1961 . These strengths are considered adequate to meet the essential roles and missions of the reserves in support of our national <head>security</head> objectives . - About 30 % of the expenditures for the Department_of_Defense in 1961 are for military_personnel costs , including pay for active , reserve , and retired military_personnel . These expenditures are estimated to be $ 12.1 billion , an increase of $ 187 million over 1960 , reflecting additional longevity pay of career personnel , more dependents , an increased number of men drawing proficiency pay , and social_security tax increases ( effective for the full year in 1961 compared with only 6 months in 1960 ) . Retired pay costs are increased by $ 94 million in 1961 over 1960 , partly because of a substantial increase in the number of retired personnel .</context>
+    </instance>
+    <instance id="br-h21#w677_0" docsrc="br-h21">
+      <context> I endorse pending legislation that will restore the traditional relationship between retired and active duty pay_rates . - Expenditures for operating and maintaining the stations and equipment of the Armed_Forces are estimated to be $ 10.3 billion in 1961 , which is $ 184 million more than in 1960 . The increase stems largely from the growing complexity of and higher degree of maintenance required for newer weapons and equipment . A substantial increase is estimated in the cost of operating additional communications_systems in the air defense_program , as_well as in all programs where speed and <head>security</head> of communications are essential . Also , the program for fleet modernization will be stepped_up in 1961 causing an increase in expenditures . Further increases arise from the civilian employee health program enacted by the Congress last year . Other factors increasing operating_costs include the higher unit_cost of each flying hour , up 11 % in two years , and of each steaming hour , up 15 % .</context>
+    </instance>
+    <instance id="br-j22#w349_0" docsrc="br-j22">
+      <context> At_the_same_time , we should recognize that the obstacles to change and the lack of cohesion and stability which characterize these countries may make them particularly prone to diversions and external adventures of all sorts . It may seem to some of them that success can be purchased much less dearly by fishing in the murky waters of international politics than by facing_up to the intractable tasks at_home . We should do what we can to discourage this conclusion , both by offering assistance for their domestic needs and by reacting firmly to irresponsible actions on the world scene . When necessary , we should make it clear that countries which choose to derive marginal advantages from the cold_war or to exploit their potential for disrupting the <head>security</head> of the world will not_only lose our sympathy but also risk their own prospects for orderly development . As a nation , we feel an obligation to assist other countries in their development ; but this obligation pertains only to countries which are honestly seeking to become responsible members of a stable and forward-moving world community . When we look_at countries like Iran , Iraq , Pakistan , and Burma , where substantial progress has been made in creating a minimum supply of modern_men and of social overhead capital , and where institutions of centralized government exist , we find a second category of countries with a different set of problems and hence different priorities for policy . The men in power are committed in_principle to modernization , but economic and social changes are proceeding only erratically .</context>
+    </instance>
+    <instance id="br-j22#w746_0" docsrc="br-j22">
+      <context> In these rapidly changing societies there is also too little appreciation of the need for effort to achieve goals . The colonial period has generally left people believing that government can , if it wishes , provide all manner of services for them - and that with independence free_men do not have_to work to realize the benefits of modern life . For_example , in accordance with the fashion of the times , most transitional societies have announced economic development plans of varying numbers of years ; such is the mystique of planning that people expect that fulfillment of the plan will follow automatically upon its announcement . The civil_services in such societies are generally inadequate to deal competently with the problems facing them ; and their members often equate a government career with <head>security</head> and status rather_than with sacrifice , self-discipline , and competence . American policy should press constantly the view that until these governments demand efficiency and effectiveness of their bureaucracies there is not the slightest hope that they will either modernize of democratize their societies . We should spread the view that planning and national development are serious matters which call_for effort as_well_as enthusiasm . Above_all , we should seek to encourage the leaders of these societies to accept the unpleasant fact that they are responsible_for their fates .</context>
+    </instance>
+    <instance id="br-j54#w1868_0" docsrc="br-j54">
+      <context> They had had_to work_on very simple foundations and had not dared to give rein to impulses . The potters , in_particular , had virtually eschewed freehand drawing , elaborate motifs , and the curving lines of nature , while yet expressing a belief that there was order in the universe . In their vases were embodied the basic aesthetic and logical characteristics of Greek civilization , at_first hesitantly in Protogeometric work , and_then more confidently in the initial stages of the Geometric style . By 800 social and cultural <head>security</head> had been achieved , at_least on a simple plane ; it was time to take bigger steps , to venture on experiments . Ripe_Geometric potters continued to employ the old syntax of ornaments and shapes and made use of the well-defined though limited range of motifs which they had inherited . In these respects the vases of the early eighth century represent a culmination of earlier lines of progress . To the ancestral lore , however , new materials were added .</context>
+    </instance>
+    <instance id="br-k02#w1518_0" docsrc="br-k02">
+      <context> Warren eased his rifle 's safety off and gently , slowly sneaked another clip of ammunition from one of the cloth bandoleers that marked the upper part of his body with an X . This he placed within quick reach . The walk and his fears had served to overheat him and his sweaty armpits cooled at the touch of the night air . Although the armored vest fitted the upper part of his body snugly , he felt no <head>security</head> . Figures seemed to crouch in the surrounding dark ; in the distance he saw a band of men who seemed to advance and retreat even as he watched . Certain this menace was only imaginary , he yet stared in fascinated horror , his hand sticky against the stock of his weapon . He was aware of insistent inner beatings , as if prisoners within sought release from his rigid body .</context>
+    </instance>
+    <instance id="br-l16#w189_0" docsrc="br-l16">
+      <context> `` Why , I 'm not fit to touch the hem of her garment '' . `` Leigh , get_a_grip_on yourself . It 's not about you or Midge . I have some <head>security</head> information about the prime_minister '' . Griffith looked at him suspiciously through red-rimmed eyes . `` Not about me ? You mean it , Phil ?</context>
+    </instance>
+    <instance id="n00079398_d_3" docsrc="n00079398_d">
+      <context> buying or selling <head>securities</head> or commodities ;</context>
+    </instance>
+    <instance id="n00079908_d_2" docsrc="n00079908_d">
+      <context> sale of <head>securities</head> or commodity futures not owned by the seller ( who hopes to buy them later at a lower price ) ;</context>
+    </instance>
+    <instance id="n00080096_d_3" docsrc="n00080096_d">
+      <context> the purchase of <head>securities</head> or commodities by a short seller to close_out a short_sale ;</context>
+    </instance>
+    <instance id="n00085829_d_7" docsrc="n00085829_d">
+      <context> the seizure and holding of property as <head>security</head> for payment of a debt or satisfaction of a claim ;</context>
+    </instance>
+    <instance id="n00175174_d_11" docsrc="n00175174_d">
+      <context> a buyout using borrowed money ; the target_company's assets are usually <head>security</head> for the loan ;</context>
+    </instance>
+    <instance id="n00763282_d_11" docsrc="n00763282_d">
+      <context> terrorism using the chemical_agents of chemical_warfare ; can undermine the personal <head>security</head> of citizens ;</context>
+    </instance>
+    <instance id="n00824808_d_12" docsrc="n00824808_d">
+      <context> the activity of going_around or through an area at regular intervals for <head>security</head> purposes ;</context>
+    </instance>
+    <instance id="n00986275_d_9" docsrc="n00986275_d">
+      <context> intelligence_activities concerned with identifying and counteracting the threat to <head>security</head> posed by hostile intelligence organizations or by individuals engaged in espionage or sabotage or subversion or terrorism ;</context>
+    </instance>
+    <instance id="n01093380_d_8" docsrc="n01093380_d">
+      <context> act of exchanging one type of money or <head>security</head> for another ;</context>
+    </instance>
+    <instance id="n03149261_d_5" docsrc="n03149261_d">
+      <context> a stock_market for trading in <head>securities</head> not listed on the New_York_Stock_Exchange ;</context>
+    </instance>
+    <instance id="n03492250_d_7" docsrc="n03492250_d">
+      <context> a place of refuge and comfort and <head>security</head> ;</context>
+    </instance>
+    <instance id="n03810186_d_10" docsrc="n03810186_d">
+      <context> a computerized data_system to provide brokers with price quotations for <head>securities</head> traded over_the_counter ;</context>
+    </instance>
+    <instance id="n03866350_d_3" docsrc="n03866350_d">
+      <context> a stock_exchange where <head>securities</head> transactions are made via telephone and computer rather than on the floor of an exchange ;</context>
+    </instance>
+    <instance id="n04323026_d_3" docsrc="n04323026_d">
+      <context> an exchange where <head>security</head> trading is conducted by professional stockbrokers ;</context>
+    </instance>
+    <instance id="n05155123_d_7" docsrc="n05155123_d">
+      <context> something or someone turned_to for assistance or <head>security</head> ;</context>
+    </instance>
+    <instance id="n06480506_d_9" docsrc="n06480506_d">
+      <context> a financial instrument whose value is based on another <head>security</head> ;</context>
+    </instance>
+    <instance id="n06530412_d_15" docsrc="n06530412_d">
+      <context> an order to a broker to sell ( buy ) when the price of a <head>security</head> falls ( rises ) to a designated level ;</context>
+    </instance>
+    <instance id="n06531327_d_9" docsrc="n06531327_d">
+      <context> the letters used to identify listed companies on the <head>securities</head> exchanges where they are traded ;</context>
+    </instance>
+    <instance id="n06538215_d_16" docsrc="n06538215_d">
+      <context> a state law regulating the sale of securities in an attempt to control the sale of <head>securities</head> in fraudulent enterprises ;</context>
+    </instance>
+    <instance id="n06538215_d_7" docsrc="n06538215_d">
+      <context> a state law regulating the sale of <head>securities</head> in an attempt to control the sale of securities in fraudulent enterprises ;</context>
+    </instance>
+    <instance id="n06756267_d_8" docsrc="n06756267_d">
+      <context> a statement of the current market_price of a <head>security</head> or commodity ;</context>
+    </instance>
+    <instance id="n07165506_d_6" docsrc="n07165506_d">
+      <context> a formal written offer to sell <head>securities</head> ( filed with the SEC ) that sets_forth a plan for a ( proposed ) business_enterprise ;</context>
+    </instance>
+    <instance id="n07166101_d_17" docsrc="n07166101_d">
+      <context> an offer to buy shares in a corporation ( usually above the market_price ) for cash or <head>securities</head> or both ;</context>
+    </instance>
+    <instance id="n08042856_d_17" docsrc="n08042856_d">
+      <context> an extreme Marxist terrorist_organization in Turkey that is opposed to NATO and the United_States ; attacks Turkish <head>security</head> and military officials ;</context>
+    </instance>
+    <instance id="n08055150_d_6" docsrc="n08055150_d">
+      <context> an institution that issues something ( <head>securities</head> or publications or currency etc. ) ;</context>
+    </instance>
+    <instance id="n08070850_d_10" docsrc="n08070850_d">
+      <context> a financial_institution that sells shares to individuals and invests in <head>securities</head> issued by other companies ;</context>
+    </instance>
+    <instance id="n08072536_d_10" docsrc="n08072536_d">
+      <context> a regulated investment_company consisting of professional managers who issue redeemable <head>securities</head> representing a portfolio of many different securities ;</context>
+    </instance>
+    <instance id="n08072536_d_17" docsrc="n08072536_d">
+      <context> a regulated investment_company consisting of professional managers who issue redeemable securities representing a portfolio of many different <head>securities</head> ;</context>
+    </instance>
+    <instance id="n08073130_d_7" docsrc="n08073130_d">
+      <context> a market characterized by falling prices for <head>securities</head> ;</context>
+    </instance>
+    <instance id="n08073243_d_7" docsrc="n08073243_d">
+      <context> a market characterized by rising prices for <head>securities</head> ;</context>
+    </instance>
+    <instance id="n08120910_d_5" docsrc="n08120910_d">
+      <context> a department responsible for the <head>security</head> of the institution's property and workers ;</context>
+    </instance>
+    <instance id="n08121867_d_6" docsrc="n08121867_d">
+      <context> a government police_department dealing with political <head>security</head> ;</context>
+    </instance>
+    <instance id="n08127760_d_17" docsrc="n08127760_d">
+      <context> a committee in the executive_branch of government that advises the president on foreign and military and national <head>security</head> ; supervises the Central_Intelligence_Agency ;</context>
+    </instance>
+    <instance id="n08131530_d_6" docsrc="n08131530_d">
+      <context> the federal_department responsible for safeguarding national <head>security</head> of the United_States ; created in 1947 ;</context>
+    </instance>
+    <instance id="n08132323_d_11" docsrc="n08132323_d">
+      <context> a defense_laboratory that provides essential services in fundamental science for national <head>security</head> and environmental protection and provides technologies that contribute to industrial competitiveness ;</context>
+    </instance>
+    <instance id="n08138259_d_10" docsrc="n08138259_d">
+      <context> the bureau in the State_Department that is responsible for the <head>security</head> of diplomats and embassies overseas ;</context>
+    </instance>
+    <instance id="n08194266_d_12" docsrc="n08194266_d">
+      <context> the 
+     _intelligence_agency that provides for the intelligence and counterintelligence and investigative and <head>security</head> requirements of the United_States_Navy ;</context>
+    </instance>
+    <instance id="n08210982_d_8" docsrc="n08210982_d">
+      <context> a privately employed group hired to protect the <head>security</head> of a business or industry ;</context>
+    </instance>
+    <instance id="n08216176_d_4" docsrc="n08216176_d">
+      <context> a detachment used for <head>security</head> or reconnaissance ;</context>
+    </instance>
+    <instance id="n08229887_d_9" docsrc="n08229887_d">
+      <context> a club of small investors who buy and sell <head>securities</head> jointly ;</context>
+    </instance>
+    <instance id="n08295580_d_13" docsrc="n08295580_d">
+      <context> an organization of independent states formed in 1945 to promote international peace and <head>security</head> ;</context>
+    </instance>
+    <instance id="n08329113_d_14" docsrc="n08329113_d">
+      <context> a group that goes through a region at regular intervals for the purpose of <head>security</head> ;</context>
+    </instance>
+    <instance id="n08349916_d_25" docsrc="n08349916_d">
+      <context> a government monetary authority that issues currency and regulates the supply of credit and holds the reserves of other banks and sells new issues of <head>securities</head> for the government ;</context>
+    </instance>
+    <instance id="n08419984_d_11" docsrc="n08419984_d">
+      <context> a financial_institution that funds their investment activities from the sale of <head>securities</head> or insurance ;</context>
+    </instance>
+    <instance id="n08424044_d_8" docsrc="n08424044_d">
+      <context> an independent federal_agency that oversees the exchange of <head>securities</head> to protect investors ;</context>
+    </instance>
+    <instance id="n08456474_d_10" docsrc="n08456474_d">
+      <context> the body of laws governing the issuance and selling of <head>securities</head> ;</context>
+    </instance>
+    <instance id="n09791530_d_10" docsrc="n09791530_d">
+      <context> an expert who studies financial data ( on credit or <head>securities</head> or sales or financial patterns etc. ) and recommends appropriate business actions ;</context>
+    </instance>
+    <instance id="n09803800_d_8" docsrc="n09803800_d">
+      <context> someone who engages in arbitrage ( who purchases <head>securities</head> in one market for immediate resale in another in the hope of profiting from the price differential ) ;</context>
+    </instance>
+    <instance id="n09910840_d_15" docsrc="n09910840_d">
+      <context> a stock market_analyst who tries to predict market trends from graphs of recent prices of <head>securities</head> ;</context>
+    </instance>
+    <instance id="n10037588_d_11" docsrc="n10037588_d">
+      <context> an adherent of an esoteric monotheistic religious_sect living in the relative <head>security</head> of the mountains of Syria and Lebanon who believes that Al-hakim was an incarnation of God ;</context>
+    </instance>
+    <instance id="n10215953_d_8" docsrc="n10215953_d">
+      <context> a banker who deals chiefly in underwriting new <head>securities</head> ;</context>
+    </instance>
+    <instance id="n13304186_d_12" docsrc="n13304186_d">
+      <context> the price at which a broker is willing to buy a certain <head>security</head> ;</context>
+    </instance>
+    <instance id="n13304508_d_12" docsrc="n13304508_d">
+      <context> the price at which a broker is willing to sell a certain <head>security</head> ;</context>
+    </instance>
+    <instance id="n13305510_d_6" docsrc="n13305510_d">
+      <context> the price at which a certain <head>security</head> becomes attractive to investors ;</context>
+    </instance>
+    <instance id="n13335635_d_4" docsrc="n13335635_d">
+      <context> the value of a <head>security</head> that is set by the company issuing it ; unrelated to market_value ;</context>
+    </instance>
+    <instance id="n13337634_d_8" docsrc="n13337634_d">
+      <context> a bond that can be converted to other <head>securities</head> under certain conditions ;</context>
+    </instance>
+    <instance id="n13338234_d_13" docsrc="n13338234_d">
+      <context> a bond that is an IOU of the United_States_Treasury ; considered the safest <head>security</head> in the investment world ;</context>
+    </instance>
+    <instance id="n13338780_d_12" docsrc="n13338780_d">
+      <context> a bond containing a provision that the holder can not redeem the <head>security</head> before a specific date ( usually at maturity ) ;</context>
+    </instance>
+    <instance id="n13340080_d_1" docsrc="n13340080_d">
+      <context> a <head>security</head> issued by United_States_government agencies or the Farm_Credit_System ;</context>
+    </instance>
+    <instance id="n13340244_d_1" docsrc="n13340244_d">
+      <context> a <head>security</head> created when a group of mortgages are gathered together and bonds are sold to other institutions or the public ; investors receive a portion of the interest payments on the mortgages as_well as the principal payments ; usually guaranteed by the government ;</context>
+    </instance>
+    <instance id="n13340579_d_1" docsrc="n13340579_d">
+      <context> a <head>security</head> whose owner's name is recorded on the books of the issuer ( or issuer's agent ) ;</context>
+    </instance>
+    <instance id="n13351278_d_17" docsrc="n13351278_d">
+      <context> the amount of collateral a customer deposits with a broker when borrowing from the broker to buy <head>securities</head> ;</context>
+    </instance>
+    <instance id="n13351457_d_9" docsrc="n13351457_d">
+      <context> a fund that a customer has entrusted to a <head>securities</head> brokerage ;</context>
+    </instance>
+    <instance id="n13351680_d_4" docsrc="n13351680_d">
+      <context> an account with a <head>securities</head> brokerage whose transactions are settled on a cash_basis ;</context>
+    </instance>
+    <instance id="n13351986_d_4" docsrc="n13351986_d">
+      <context> an account with a <head>securities</head> brokerage in which the broker extends credit ;</context>
+    </instance>
+    <instance id="n13355656_d_13" docsrc="n13355656_d">
+      <context> that part of the balance_of_payments recording a nation's outflow and inflow of financial <head>securities</head> ;</context>
+    </instance>
+    <instance id="n13362734_d_7" docsrc="n13362734_d">
+      <context> an investment_trust that can buy only those <head>securities</head> listed when the trust was organized ;</context>
+    </instance>
+    <instance id="n13394907_d_0" docsrc="n13394907_d">
+      <context> <head>securities</head> with maturities of 1 to 10 years ; sold for cash or in exchange for maturing issues or at auction ;</context>
+    </instance>
+    <instance id="n13416345_ex1_4" docsrc="n13416345_ex1">
+      <context> he held several valuable <head>securities</head> ;</context>
+    </instance>
+    <instance id="n13417289_d_1" docsrc="n13417289_d">
+      <context> a <head>security</head> that is not subject to taxation ;</context>
+    </instance>
+    <instance id="n13418823_d_1" docsrc="n13418823_d">
+      <context> a <head>security</head> that makes no interest payments but instead is sold at a deep discount from its face_value ;</context>
+    </instance>
+    <instance id="n13419325_d_17" docsrc="n13419325_d">
+      <context> a corporate security ( usually bonds or preferred_stock ) that can be exchanged for another form of <head>security</head> ( usually common_stock ) ;</context>
+    </instance>
+    <instance id="n13419325_d_2" docsrc="n13419325_d">
+      <context> a corporate <head>security</head> ( usually bonds or preferred_stock ) that can be exchanged for another form of security ( usually common_stock ) ;</context>
+    </instance>
+    <instance id="n13420900_d_1" docsrc="n13420900_d">
+      <context> a <head>security</head> that has been accepted for trading by one of the organized and registered_securities exchanges in the US ;</context>
+    </instance>
+    <instance id="n13421095_d_1" docsrc="n13421095_d">
+      <context> a <head>security</head> traded in the over-the-counter_market ;</context>
+    </instance>
+    <instance id="n13929336_d_8" docsrc="n13929336_d">
+      <context> a brokerage_account of someone who sells_short ( sells <head>securities</head> he does not own ) ;</context>
+    </instance>
+    <instance id="n14539268_ex1_10" docsrc="n14539268_ex1">
+      <context> we support the armed services in the name of national <head>security</head> ;</context>
+    </instance>
+    <instance id="n14539524_d_2" docsrc="n14539524_d">
+      <context> the general <head>security</head> of public places ;</context>
+    </instance>
+    <instance id="v02243186_d_1" docsrc="v02243186_d">
+      <context> sell <head>securities</head> or commodities or foreign currency that is not actually owned by the seller , who hopes to cover the sold items at a lower price and thus to earn a profit ;</context>
+    </instance>
+    <instance id="v02271490_d_7" docsrc="v02271490_d">
+      <context> re invest into a similar fund or <head>security</head> ;</context>
+    </instance>
+    <instance id="v02454939_d_2" docsrc="v02454939_d">
+      <context> maintain the <head>security</head> of by carrying_out a patrol ;</context>
+    </instance>
+  </lexelt>
+</corpus>

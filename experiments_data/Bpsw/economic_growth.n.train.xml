@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="economic_growth.n" pos="NN">
+    <instance id="a00576011_d_8" docsrc="a00576011_d">
+      <context> having or showing belief in the need for <head>economic_growth</head> in addition to traditional liberalistic values ;</context>
+    </instance>
+    <instance id="n06219009_d_13" docsrc="n06219009_d">
+      <context> a political_orientation_
+     _in the 1960s ; blends liberal political views with an emphasis on <head>economic_growth</head> ;</context>
+    </instance>
+    <instance id="n06656741_d_5" docsrc="n06656741_d">
+      <context> a government policy for maintaining <head>economic_growth</head> and tax_revenues ;</context>
+    </instance>
+    <instance id="n08130712_d_20" docsrc="n08130712_d">
+      <context> an agency in the Department_of_Commerce that works with United_States industries to promote competitiveness and maximize the impact of technology on <head>economic_growth</head> ;</context>
+    </instance>
+    <instance id="n11113266_d_19" docsrc="n11113266_d">
+      <context> United_States economist ( born in Russia ) who developed a method for using a country's gross_national_product to estimate its <head>economic_growth</head> ;</context>
+    </instance>
+    <instance id="n13560738_d_4" docsrc="n13560738_d">
+      <context> a period of slow <head>economic_growth</head> and high unemployment ( stagnation ) while prices rise ( inflation ) ;</context>
+    </instance>
+  </lexelt>
+</corpus>

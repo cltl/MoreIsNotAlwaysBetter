@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="committee.n" pos="NN">
+    <instance id="Committee-committee-0-0-2" docsrc="Committee">
+      <context> <head>A</head> committee ( or " commission " ) is a body of one or more persons that is subordinate to a deliberative assembly . Usually , the assembly sends matters into a committee as a way to explore them more fully than would be possible if the assembly itself were considering them . Committees may have different functions and the type of work that each committee does would depend on the type of organization and its needs .</context>
+    </instance>
+    <instance id="Committee-committee-0-129-1" docsrc="Committee">
+      <context> <head>As</head> with other committees , the specific duties and role of the steering committee vary among organizations . A committee that is a subset of a larger committee is called a subcommittee . Committees that have a large workload may form subcommittees to further divide the work .</context>
+    </instance>
+    <instance id="Committee-committee-0-22-1" docsrc="Committee">
+      <context> <head>===</head> Power and authority === Generally , committees are required to report to their parent body . Committees do not usually have the power to act independently unless the body that created it gives it such power .</context>
+    </instance>
+    <instance id="Committee-committee-0-28-4" docsrc="Committee">
+      <context> <head>For</head> most organizations , committees are not required to keep formal minutes . However , some bodies require that committees take minutes , especially if the committees are public ones subject to open meeting laws . Committees may meet on a regular basis , such as weekly or more often , or meetings may be called irregularly as the need arises .</context>
+    </instance>
+    <instance id="Committee-committee-0-4-2" docsrc="Committee">
+      <context> <head>A</head> deliberative assembly may form a committee ( or " commission " ) consisting of one or more persons to assist with the work of the assembly . For larger organizations , much work is done in committees . Committees can be a way to formally draw together people of relevant expertise from different parts of an organization who otherwise would not have a good way to share information and coordinate actions .</context>
+    </instance>
+    <instance id="Committee-committee-0-7-1" docsrc="Committee">
+      <context> <head>They</head> can also be appointed with experts to recommend actions in matters that require specialized knowledge or technical judgment . === Functions === Committees can serve several different functions :</context>
+    </instance>
+    <instance id="Committee-committee-1-100-1" docsrc="Committee">
+      <context> Public <head>bill</head> committee United States Standing committee ( United States Congress )</context>
+    </instance>
+    <instance id="Committee-committee-1-107-2" docsrc="Committee">
+      <context> Examples <head>of</head> standing committees in organizations are an audit committee , an elections committee , a finance committee , a fundraising committee , a governance committee , and a program committee . Typically , the standing committees perform their work throughout the year and present their reports at an annual meeting of the organization . These committees continue to exist after presenting their reports , although the membership in the committees may change .</context>
+    </instance>
+    <instance id="Committee-committee-1-120-1" docsrc="Committee">
+      <context> The <head>functions</head> of the committee might include building a business case for the project , planning , providing assistance and guidance , monitoring the progress , controlling the project scope and resolving conflicts . As with other committees , the specific duties and role of the steering committee vary among organizations . A committee that is a subset of a larger committee is called a subcommittee .</context>
+    </instance>
+    <instance id="Committee-committee-1-141-1" docsrc="Committee">
+      <context> List <head>of</head> IEC Technical Committees List of the Czech Republic Senate committees Standing Committees of the European Parliament</context>
+    </instance>
+    <instance id="Committee-committee-1-49-1" docsrc="Committee">
+      <context> Discharge <head>a</head> committee === In Robert 's Rules of Order Newly Revised , the motion to discharge a committee is used to take a matter out of a committee 's hands before the committee has made a final report on it . A committee can use this motion to discharge a subcommittee .</context>
+    </instance>
+    <instance id="Committee-committee-1-61-2" docsrc="Committee">
+      <context> A <head>conference</head> committee in the United States Congress is a temporary panel of negotiators from the House of Representatives and the Senate . Unless one chamber decides to accept the other 's original bill , the compromise version must pass both chambers after leaving the conference committee . The committee is usually composed of the senior members of the standing committees that originally considered the legislation in each chamber .</context>
+    </instance>
+    <instance id="Committee-committee-1-66-2" docsrc="Committee">
+      <context> In <head>organizations</head> , the term " conference committee " may have a different meaning . This meaning may be associated with the conferences , or conventions , that the organization puts together . The committees that are responsible for organizing such events may be called " conference committees " .</context>
+    </instance>
+    <instance id="Committee-committee-1-81-1" docsrc="Committee">
+      <context> Canada <head>List</head> of committees of the Canadian House of Commons Standing committee ( Canada )</context>
+    </instance>
+    <instance id="Committee-committee-1-84-1" docsrc="Committee">
+      <context> Standing <head>committee</head> ( Canada ) China Standing Committee of the National People 's Congress</context>
+    </instance>
+    <instance id="Committee-committee-1-90-1" docsrc="Committee">
+      <context> List <head>of</head> standing committees of the Icelandic parliament India Standing committee ( India )</context>
+    </instance>
+    <instance id="Committee-committee-10-111-2" docsrc="Committee">
+      <context> A nominating committee ( or nominations committee ) is a <head>group</head> formed for the purpose of nominating candidates for office or the board in an organization . It may consist of members from inside the organization . Sometimes a governance committee takes the role of a nominating committee .</context>
+    </instance>
+    <instance id="Committee-committee-10-112-4" docsrc="Committee">
+      <context> The intention is that they be made up of qualified <head>and</head> knowledgeable people representing the best interests of the membership . In the case of business entities , their directors will often be brought in from outside , and receive a benefit for their expertise . In the context of nominations for awards , a nominating committee can also be formed for the purpose of nominating persons or things held up for judgment by others as to their comparative quality or value , especially for the purpose of bestowing awards in the arts , or in application to industry 's products and services .</context>
+    </instance>
+    <instance id="Committee-committee-10-9-2" docsrc="Committee">
+      <context> Governance : In organizations considered too large for all the <head>members</head> to participate in decisions affecting the organization as a whole , a smaller body , such as a board of directors , is given the power to make decisions , spend money , or take actions . A governance committee is formed as a separate committee to review the performance of the board and board policy as well as nominate candidates for the board . Coordination and administration : A large body may have smaller committees with more specialized functions .</context>
+    </instance>
+    <instance id="Committee-committee-11-103-1" docsrc="Committee">
+      <context> Standing committee ( United States Congress ) Under the laws of <head>the</head> United States of America , a standing committee is a Congressional committee permanently authorized by United States House of Representatives and United States Senate rules . The Legislative Reorganization Act of 1946 greatly reduced the number of committees , and set up the legislative committee structure still in use today , as modified by authorized changes via the orderly mechanism of rules changes .</context>
+    </instance>
+    <instance id="Committee-committee-11-11-2" docsrc="Committee">
+      <context> Coordination and administration : A large body may have smaller committees <head>with</head> more specialized functions . Examples are an audit committee , an elections committee , a finance committee , a fundraising committee , and a program committee . Large conventions or academic conferences are usually organized by a coordinating committee drawn from the membership of the organization .</context>
+    </instance>
+    <instance id="Committee-committee-11-27-2" docsrc="Committee">
+      <context> The chairman is responsible for running meetings . Duties include keeping <head>the</head> discussion on the appropriate subject , recognizing members to speak , and confirming what the committee has decided ( through voting or by unanimous consent ) . Using Roberts Rules of Order Newly Revised ( RONR ) , committees may follow informal procedures ( such as not requiring motions if it 's clear what is being discussed ) .</context>
+    </instance>
+    <instance id="Committee-committee-11-27-3" docsrc="Committee">
+      <context> Duties include keeping the discussion on the appropriate subject , recognizing <head>members</head> to speak , and confirming what the committee has decided ( through voting or by unanimous consent ) . Using Roberts Rules of Order Newly Revised ( RONR ) , committees may follow informal procedures ( such as not requiring motions if it 's clear what is being discussed ) . The level of formality depends on the size and type of committee , in which sometimes larger committees considering crucial issues may require more formal processes .</context>
+    </instance>
+    <instance id="Committee-committee-11-29-1" docsrc="Committee">
+      <context> However , some bodies require that committees take minutes , especially <head>if</head> the committees are public ones subject to open meeting laws . Committees may meet on a regular basis , such as weekly or more often , or meetings may be called irregularly as the need arises . The frequency of the meetings depend on the work of the committee and the needs of the parent body .</context>
+    </instance>
+    <instance id="Committee-committee-12-0-2" docsrc="Committee">
+      <context> A committee ( or " commission " ) is a body of <head>one</head> or more persons that is subordinate to a deliberative assembly . Usually , the assembly sends matters into a committee as a way to explore them more fully than would be possible if the assembly itself were considering them . Committees may have different functions and the type of work that each committee does would depend on the type of organization and its needs .</context>
+    </instance>
+    <instance id="Committee-committee-12-101-1" docsrc="Committee">
+      <context> United States Standing committee ( United States Congress ) Under the laws <head>of</head> the United States of America , a standing committee is a Congressional committee permanently authorized by United States House of Representatives and United States Senate rules .</context>
+    </instance>
+    <instance id="Committee-committee-12-11-1" docsrc="Committee">
+      <context> A governance committee is formed as a separate committee to review the <head>performance</head> of the board and board policy as well as nominate candidates for the board . Coordination and administration : A large body may have smaller committees with more specialized functions . Examples are an audit committee , an elections committee , a finance committee , a fundraising committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-12-56-1" docsrc="Committee">
+      <context> Under The Standard Code of Parliamentary Procedure , the assembly that has <head>referred</head> a motion or a matter to a committee may , by a majority vote , withdraw it at any time from the committee , refer it to another committee , or decide the question itself . Organizations with a large board of directors ( such as international labor unions , large corporations with thousands of stock holders or national and international organizations ) may have a smaller body of the board , called an executive committee , handle its business . The executive committee may function more like a board than an actual committee .</context>
+    </instance>
+    <instance id="Committee-committee-12-61-2" docsrc="Committee">
+      <context> A conference committee in the United States Congress is a temporary panel <head>of</head> negotiators from the House of Representatives and the Senate . Unless one chamber decides to accept the other 's original bill , the compromise version must pass both chambers after leaving the conference committee . The committee is usually composed of the senior members of the standing committees that originally considered the legislation in each chamber .</context>
+    </instance>
+    <instance id="Committee-committee-13-106-1" docsrc="Committee">
+      <context> The Legislative Reorganization Act of 1946 greatly reduced the number of committees , <head>and</head> set up the legislative committee structure still in use today , as modified by authorized changes via the orderly mechanism of rules changes . === Examples in organizations === Examples of standing committees in organizations are an audit committee , an elections committee , a finance committee , a fundraising committee , a governance committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-13-119-2" docsrc="Committee">
+      <context> Project steering committees are frequently used for guiding and monitoring IT projects in <head>large</head> organizations , as part of project governance . The functions of the committee might include building a business case for the project , planning , providing assistance and guidance , monitoring the progress , controlling the project scope and resolving conflicts . As with other committees , the specific duties and role of the steering committee vary among organizations .</context>
+    </instance>
+    <instance id="Committee-committee-13-28-3" docsrc="Committee">
+      <context> They can be taken by a person designated as the secretary . For <head>most</head> organizations , committees are not required to keep formal minutes . However , some bodies require that committees take minutes , especially if the committees are public ones subject to open meeting laws .</context>
+    </instance>
+    <instance id="Committee-committee-14-48-2" docsrc="Committee">
+      <context> === Discharge a committee === In Robert 's Rules of Order Newly Revised , <head>the</head> motion to discharge a committee is used to take a matter out of a committee 's hands before the committee has made a final report on it .</context>
+    </instance>
+    <instance id="Committee-committee-14-66-2" docsrc="Committee">
+      <context> In organizations , the term " conference committee " may have a different meaning <head>.</head> This meaning may be associated with the conferences , or conventions , that the organization puts together . The committees that are responsible for organizing such events may be called " conference committees " .</context>
+    </instance>
+    <instance id="Committee-committee-15-107-2" docsrc="Committee">
+      <context> Examples of standing committees in organizations are an audit committee , an elections committee , <head>a</head> finance committee , a fundraising committee , a governance committee , and a program committee . Typically , the standing committees perform their work throughout the year and present their reports at an annual meeting of the organization . These committees continue to exist after presenting their reports , although the membership in the committees may change .</context>
+    </instance>
+    <instance id="Committee-committee-15-13-1" docsrc="Committee">
+      <context> Large conventions or academic conferences are usually organized by a coordinating committee drawn from the <head>membership</head> of the organization . Research and recommendations : Committees may be formed to do research and make recommendations on a potential or planned project or change . For example , an organization considering a major capital investment might create a temporary working committee of several people to review options and make recommendations to upper management or the board of directors .</context>
+    </instance>
+    <instance id="Committee-committee-15-30-4" docsrc="Committee">
+      <context> If the committee is not ready to report , it may provide a partial report <head>or</head> the assembly may discharge the committee of the matter so that the assembly can handle it . Also , if members of the committee are not performing their duties , they may be removed or replaced by the appointing power . Whether the committee continues to exist after presenting its report depends on the type of committee .</context>
+    </instance>
+    <instance id="Committee-committee-15-45-3" docsrc="Committee">
+      <context> These forms are to go into a committee of the whole , to go into <head>a</head> quasi committee of the whole , and to consider informally . Passing any of these motions removes the limitations on the number of times a member can speak . The Standard Code of Parliamentary Procedure has informal consideration , but does not have " committee of the whole " and " quasi committee of the whole " .</context>
+    </instance>
+    <instance id="Committee-committee-16-101-1" docsrc="Committee">
+      <context> United States Standing committee ( United States Congress ) Under the laws of the United States <head>of</head> America , a standing committee is a Congressional committee permanently authorized by United States House of Representatives and United States Senate rules .</context>
+    </instance>
+    <instance id="Committee-committee-16-11-1" docsrc="Committee">
+      <context> A governance committee is formed as a separate committee to review the performance of the board <head>and</head> board policy as well as nominate candidates for the board . Coordination and administration : A large body may have smaller committees with more specialized functions . Examples are an audit committee , an elections committee , a finance committee , a fundraising committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-16-17-2" docsrc="Committee">
+      <context> === As a tactic for indecision === As a means of public relations by sending sensitive <head>,</head> inconvenient , or irrelevant matters to committees , organizations may bypass , stall , or disacknowledge matters without declaring a formal policy of inaction or indifference .</context>
+    </instance>
+    <instance id="Committee-committee-17-106-1" docsrc="Committee">
+      <context> The Legislative Reorganization Act of 1946 greatly reduced the number of committees , and set up the <head>legislative</head> committee structure still in use today , as modified by authorized changes via the orderly mechanism of rules changes . === Examples in organizations === Examples of standing committees in organizations are an audit committee , an elections committee , a finance committee , a fundraising committee , a governance committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-17-27-3" docsrc="Committee">
+      <context> Duties include keeping the discussion on the appropriate subject , recognizing members to speak , and confirming <head>what</head> the committee has decided ( through voting or by unanimous consent ) . Using Roberts Rules of Order Newly Revised ( RONR ) , committees may follow informal procedures ( such as not requiring motions if it 's clear what is being discussed ) . The level of formality depends on the size and type of committee , in which sometimes larger committees considering crucial issues may require more formal processes .</context>
+    </instance>
+    <instance id="Committee-committee-17-30-5" docsrc="Committee">
+      <context> Also , if members of the committee are not performing their duties , they may be removed <head>or</head> replaced by the appointing power . Whether the committee continues to exist after presenting its report depends on the type of committee . Generally , committees established by the bylaws or the organization 's rules continue to exist , while committees formed for a particular purpose go out of existence after the final report .</context>
+    </instance>
+    <instance id="Committee-committee-17-45-1" docsrc="Committee">
+      <context> === Variations for full assembly consideration === In Robert 's Rules of Order Newly Revised ( RONR <head>)</head> , the motion to commit has three variations which do not turn a question over to a smaller group , but simply permit the assembly 's full meeting body to consider it with the greater freedom of debate that is allowed to committees . These forms are to go into a committee of the whole , to go into a quasi committee of the whole , and to consider informally .</context>
+    </instance>
+    <instance id="Committee-committee-18-103-1" docsrc="Committee">
+      <context> Standing committee ( United States Congress ) Under the laws of the United States of America , a <head>standing</head> committee is a Congressional committee permanently authorized by United States House of Representatives and United States Senate rules . The Legislative Reorganization Act of 1946 greatly reduced the number of committees , and set up the legislative committee structure still in use today , as modified by authorized changes via the orderly mechanism of rules changes .</context>
+    </instance>
+    <instance id="Committee-committee-18-129-3" docsrc="Committee">
+      <context> Committees that have a large workload may form subcommittees to further divide the work . Subcommittees report to <head>the</head> parent committee and not to the general assembly . When the entire assembly meets as a committee to discuss or debate , this is called a " committee of the whole " .</context>
+    </instance>
+    <instance id="Committee-committee-18-34-1" docsrc="Committee">
+      <context> Commit ( motion ) === In parliamentary procedure , the motion to commit ( or refer ) is <head>used</head> to refer another motion—usually a main motion—to a committee . A motion to commit should specify which committee the matter is to be referred , and if the committee is a special committee appointed specifically for purposes of the referred motion , it should also specify the number of committee members and the method of their selection , unless that is specified in the bylaws .</context>
+    </instance>
+    <instance id="Committee-committee-18-41-1" docsrc="Committee">
+      <context> === Recommit === In the United States House of Representatives , a motion to recommit can be made <head>with</head> or without instructions . If the motion is made without instructions , the bill or resolution is simply sent back to the committee .</context>
+    </instance>
+    <instance id="Committee-committee-18-41-2" docsrc="Committee">
+      <context> In the United States House of Representatives , a motion to recommit can be made with or without <head>instructions</head> . If the motion is made without instructions , the bill or resolution is simply sent back to the committee . If the motion is made with instructions and the motion is agreed to , the chairman of the committee in question will immediately report the bill or resolution back to the whole House with the new language .</context>
+    </instance>
+    <instance id="Committee-committee-19-27-1" docsrc="Committee">
+      <context> Committees do not usually have the power to act independently unless the body that created it gives it such <head>power</head> . The chairman is responsible for running meetings . Duties include keeping the discussion on the appropriate subject , recognizing members to speak , and confirming what the committee has decided ( through voting or by unanimous consent ) .</context>
+    </instance>
+    <instance id="Committee-committee-19-35-1" docsrc="Committee">
+      <context> In parliamentary procedure , the motion to commit ( or refer ) is used to refer another motion—usually a <head>main</head> motion—to a committee . A motion to commit should specify which committee the matter is to be referred , and if the committee is a special committee appointed specifically for purposes of the referred motion , it should also specify the number of committee members and the method of their selection , unless that is specified in the bylaws . Any proposed amendments to the main motion that are pending at the time the motion is referred to a committee go to the committee as well .</context>
+    </instance>
+    <instance id="Committee-committee-2-107-3" docsrc="Committee">
+      <context> Typically , <head>the</head> standing committees perform their work throughout the year and present their reports at an annual meeting of the organization . These committees continue to exist after presenting their reports , although the membership in the committees may change . A nominating committee ( or nominations committee ) is a group formed for the purpose of nominating candidates for office or the board in an organization .</context>
+    </instance>
+    <instance id="Committee-committee-2-111-4" docsrc="Committee">
+      <context> Sometimes a <head>governance</head> committee takes the role of a nominating committee . Depending on the organization , this committee may be empowered to actively seek out candidates or may only have the power to receive nominations from members and verify that the candidates are eligible . A nominating committee works similarly to an electoral college , the main difference being that the available candidates , either nominated or " written in " outside of the committee 's choices , are then voted into office by the membership .</context>
+    </instance>
+    <instance id="Committee-committee-2-113-2" docsrc="Committee">
+      <context> In the <head>context</head> of nominations for awards , a nominating committee can also be formed for the purpose of nominating persons or things held up for judgment by others as to their comparative quality or value , especially for the purpose of bestowing awards in the arts , or in application to industry 's products and services . The objective being to update , set , and maintain high and possibly new standards . A steering committee is a committee that provides guidance , direction and control to a project within an organization .</context>
+    </instance>
+    <instance id="Committee-committee-2-118-2" docsrc="Committee">
+      <context> A steering <head>committee</head> is a committee that provides guidance , direction and control to a project within an organization . The term is derived from the steering mechanism that changes the steering angle of a vehicle 's wheels . Project steering committees are frequently used for guiding and monitoring IT projects in large organizations , as part of project governance .</context>
+    </instance>
+    <instance id="Committee-committee-2-138-1" docsrc="Committee">
+      <context> This is <head>not</head> an actual committee but a procedural device that is more commonly used in legislative bodies . Caucus List of Committees of the United Kingdom Parliament</context>
+    </instance>
+    <instance id="Committee-committee-2-21-1" docsrc="Committee">
+      <context> However , <head>this</head> could be considered a dilatory tactic . === Power and authority === Generally , committees are required to report to their parent body .</context>
+    </instance>
+    <instance id="Committee-committee-2-29-2" docsrc="Committee">
+      <context> Committees may <head>meet</head> on a regular basis , such as weekly or more often , or meetings may be called irregularly as the need arises . The frequency of the meetings depend on the work of the committee and the needs of the parent body . When the committee completes its work , it provides the results in a report to its parent body .</context>
+    </instance>
+    <instance id="Committee-committee-2-30-2" docsrc="Committee">
+      <context> When the <head>committee</head> completes its work , it provides the results in a report to its parent body . The report may include the methods used , the facts uncovered , the conclusions reached , and any recommendations . If the committee is not ready to report , it may provide a partial report or the assembly may discharge the committee of the matter so that the assembly can handle it .</context>
+    </instance>
+    <instance id="Committee-committee-2-30-4" docsrc="Committee">
+      <context> If the <head>committee</head> is not ready to report , it may provide a partial report or the assembly may discharge the committee of the matter so that the assembly can handle it . Also , if members of the committee are not performing their duties , they may be removed or replaced by the appointing power . Whether the committee continues to exist after presenting its report depends on the type of committee .</context>
+    </instance>
+    <instance id="Committee-committee-2-30-5" docsrc="Committee">
+      <context> Also , <head>if</head> members of the committee are not performing their duties , they may be removed or replaced by the appointing power . Whether the committee continues to exist after presenting its report depends on the type of committee . Generally , committees established by the bylaws or the organization 's rules continue to exist , while committees formed for a particular purpose go out of existence after the final report .</context>
+    </instance>
+    <instance id="Committee-committee-2-48-1" docsrc="Committee">
+      <context> The Standard <head>Code</head> of Parliamentary Procedure has informal consideration , but does not have " committee of the whole " and " quasi committee of the whole " . === Discharge a committee ===</context>
+    </instance>
+    <instance id="Committee-committee-2-56-1" docsrc="Committee">
+      <context> Under The <head>Standard</head> Code of Parliamentary Procedure , the assembly that has referred a motion or a matter to a committee may , by a majority vote , withdraw it at any time from the committee , refer it to another committee , or decide the question itself . Organizations with a large board of directors ( such as international labor unions , large corporations with thousands of stock holders or national and international organizations ) may have a smaller body of the board , called an executive committee , handle its business . The executive committee may function more like a board than an actual committee .</context>
+    </instance>
+    <instance id="Committee-committee-2-60-1" docsrc="Committee">
+      <context> In some <head>cases</head> , it may be empowered to act on behalf of the board or organization , while in others , it may only be able to make recommendations . Governments at the national level may have a conference committee . A conference committee in a bicameral legislature is responsible for creating a compromise version of a particular bill when each house has passed a different version .</context>
+    </instance>
+    <instance id="Committee-committee-2-60-2" docsrc="Committee">
+      <context> Governments at <head>the</head> national level may have a conference committee . A conference committee in a bicameral legislature is responsible for creating a compromise version of a particular bill when each house has passed a different version . A conference committee in the United States Congress is a temporary panel of negotiators from the House of Representatives and the Senate .</context>
+    </instance>
+    <instance id="Committee-committee-2-77-1" docsrc="Committee">
+      <context> Australia Australian <head>House</head> of Representatives committees Australian Senate committees</context>
+    </instance>
+    <instance id="Committee-committee-2-80-1" docsrc="Committee">
+      <context> Australian Senate <head>committees</head> Canada List of committees of the Canadian House of Commons</context>
+    </instance>
+    <instance id="Committee-committee-2-9-1" docsrc="Committee">
+      <context> Committees can <head>serve</head> several different functions : Governance : In organizations considered too large for all the members to participate in decisions affecting the organization as a whole , a smaller body , such as a board of directors , is given the power to make decisions , spend money , or take actions . A governance committee is formed as a separate committee to review the performance of the board and board policy as well as nominate candidates for the board .</context>
+    </instance>
+    <instance id="Committee-committee-2-93-1" docsrc="Committee">
+      <context> Standing committee <head>(</head> India ) Malaysia Dewan Rakyat committees</context>
+    </instance>
+    <instance id="Committee-committee-2-94-1" docsrc="Committee">
+      <context> Malaysia Dewan <head>Rakyat</head> committees Dewan Negara committees</context>
+    </instance>
+    <instance id="Committee-committee-2-97-1" docsrc="Committee">
+      <context> Dewan Negara <head>committees</head> United Kingdom Public bill committee</context>
+    </instance>
+    <instance id="Committee-committee-20-49-2" docsrc="Committee">
+      <context> In Robert 's Rules of Order Newly Revised , the motion to discharge a committee is used to take a <head>matter</head> out of a committee 's hands before the committee has made a final report on it . A committee can use this motion to discharge a subcommittee . Under The Standard Code of Parliamentary Procedure , the assembly that has referred a motion or a matter to a committee may , by a majority vote , withdraw it at any time from the committee , refer it to another committee , or decide the question itself .</context>
+    </instance>
+    <instance id="Committee-committee-21-106-1" docsrc="Committee">
+      <context> The Legislative Reorganization Act of 1946 greatly reduced the number of committees , and set up the legislative committee structure still <head>in</head> use today , as modified by authorized changes via the orderly mechanism of rules changes . === Examples in organizations === Examples of standing committees in organizations are an audit committee , an elections committee , a finance committee , a fundraising committee , a governance committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-21-11-1" docsrc="Committee">
+      <context> A governance committee is formed as a separate committee to review the performance of the board and board policy as well <head>as</head> nominate candidates for the board . Coordination and administration : A large body may have smaller committees with more specialized functions . Examples are an audit committee , an elections committee , a finance committee , a fundraising committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-21-30-2" docsrc="Committee">
+      <context> When the committee completes its work , it provides the results in a report to its parent body . The report <head>may</head> include the methods used , the facts uncovered , the conclusions reached , and any recommendations . If the committee is not ready to report , it may provide a partial report or the assembly may discharge the committee of the matter so that the assembly can handle it .</context>
+    </instance>
+    <instance id="Committee-committee-22-33-2" docsrc="Committee">
+      <context> === Commit ( motion ) === In parliamentary procedure , the motion to commit ( or refer ) is used to refer <head>another</head> motion—usually a main motion—to a committee .</context>
+    </instance>
+    <instance id="Committee-committee-22-34-1" docsrc="Committee">
+      <context> Commit ( motion ) === In parliamentary procedure , the motion to commit ( or refer ) is used to refer another <head>motion—usually</head> a main motion—to a committee . A motion to commit should specify which committee the matter is to be referred , and if the committee is a special committee appointed specifically for purposes of the referred motion , it should also specify the number of committee members and the method of their selection , unless that is specified in the bylaws .</context>
+    </instance>
+    <instance id="Committee-committee-23-35-1" docsrc="Committee">
+      <context> In parliamentary procedure , the motion to commit ( or refer ) is used to refer another motion—usually a main motion—to a committee <head>.</head> A motion to commit should specify which committee the matter is to be referred , and if the committee is a special committee appointed specifically for purposes of the referred motion , it should also specify the number of committee members and the method of their selection , unless that is specified in the bylaws . Any proposed amendments to the main motion that are pending at the time the motion is referred to a committee go to the committee as well .</context>
+    </instance>
+    <instance id="Committee-committee-23-36-1" docsrc="Committee">
+      <context> A motion to commit should specify which committee the matter is to be referred , and if the committee is a special committee <head>appointed</head> specifically for purposes of the referred motion , it should also specify the number of committee members and the method of their selection , unless that is specified in the bylaws . Any proposed amendments to the main motion that are pending at the time the motion is referred to a committee go to the committee as well . Once referred , but before the committee reports its recommendations back to the assembly , the referred motion may be removed from the committee 's consideration by the motion to discharge a committee .</context>
+    </instance>
+    <instance id="Committee-committee-23-45-3" docsrc="Committee">
+      <context> These forms are to go into a committee of the whole , to go into a quasi committee of the whole , and <head>to</head> consider informally . Passing any of these motions removes the limitations on the number of times a member can speak . The Standard Code of Parliamentary Procedure has informal consideration , but does not have " committee of the whole " and " quasi committee of the whole " .</context>
+    </instance>
+    <instance id="Committee-committee-23-61-1" docsrc="Committee">
+      <context> A conference committee in a bicameral legislature is responsible for creating a compromise version of a particular bill when each house has passed <head>a</head> different version . A conference committee in the United States Congress is a temporary panel of negotiators from the House of Representatives and the Senate . Unless one chamber decides to accept the other 's original bill , the compromise version must pass both chambers after leaving the conference committee .</context>
+    </instance>
+    <instance id="Committee-committee-24-48-2" docsrc="Committee">
+      <context> === Discharge a committee === In Robert 's Rules of Order Newly Revised , the motion to discharge a committee is used to take <head>a</head> matter out of a committee 's hands before the committee has made a final report on it .</context>
+    </instance>
+    <instance id="Committee-committee-25-106-1" docsrc="Committee">
+      <context> The Legislative Reorganization Act of 1946 greatly reduced the number of committees , and set up the legislative committee structure still in use today , <head>as</head> modified by authorized changes via the orderly mechanism of rules changes . === Examples in organizations === Examples of standing committees in organizations are an audit committee , an elections committee , a finance committee , a fundraising committee , a governance committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-29-111-4" docsrc="Committee">
+      <context> Sometimes a governance committee takes the role of a nominating committee . Depending on the organization , this committee may be empowered to actively seek out candidates or may <head>only</head> have the power to receive nominations from members and verify that the candidates are eligible . A nominating committee works similarly to an electoral college , the main difference being that the available candidates , either nominated or " written in " outside of the committee 's choices , are then voted into office by the membership .</context>
+    </instance>
+    <instance id="Committee-committee-29-48-2" docsrc="Committee">
+      <context> === Discharge a committee === In Robert 's Rules of Order Newly Revised , the motion to discharge a committee is used to take a matter out of a <head>committee</head> 's hands before the committee has made a final report on it .</context>
+    </instance>
+    <instance id="Committee-committee-3-106-1" docsrc="Committee">
+      <context> The Legislative Reorganization <head>Act</head> of 1946 greatly reduced the number of committees , and set up the legislative committee structure still in use today , as modified by authorized changes via the orderly mechanism of rules changes . === Examples in organizations === Examples of standing committees in organizations are an audit committee , an elections committee , a finance committee , a fundraising committee , a governance committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-3-111-2" docsrc="Committee">
+      <context> A nominating committee <head>(</head> or nominations committee ) is a group formed for the purpose of nominating candidates for office or the board in an organization . It may consist of members from inside the organization . Sometimes a governance committee takes the role of a nominating committee .</context>
+    </instance>
+    <instance id="Committee-committee-3-119-2" docsrc="Committee">
+      <context> Project steering committees <head>are</head> frequently used for guiding and monitoring IT projects in large organizations , as part of project governance . The functions of the committee might include building a business case for the project , planning , providing assistance and guidance , monitoring the progress , controlling the project scope and resolving conflicts . As with other committees , the specific duties and role of the steering committee vary among organizations .</context>
+    </instance>
+    <instance id="Committee-committee-3-13-2" docsrc="Committee">
+      <context> Research and recommendations <head>:</head> Committees may be formed to do research and make recommendations on a potential or planned project or change . For example , an organization considering a major capital investment might create a temporary working committee of several people to review options and make recommendations to upper management or the board of directors . Discipline : A committee on discipline may be used to handle disciplinary procedures on members of the organization .</context>
+    </instance>
+    <instance id="Committee-committee-3-142-1" docsrc="Committee">
+      <context> List of the <head>Czech</head> Republic Senate committees Standing Committees of the European Parliament United States congressional committee</context>
+    </instance>
+    <instance id="Committee-committee-3-143-1" docsrc="Committee">
+      <context> Standing Committees of <head>the</head> European Parliament United States congressional committee</context>
+    </instance>
+    <instance id="Committee-committee-3-74-1" docsrc="Committee">
+      <context> The committees that <head>are</head> responsible for organizing such events may be called " conference committees " . === Legislatures === Most governmental legislative committees are standing committees .</context>
+    </instance>
+    <instance id="Committee-committee-3-87-1" docsrc="Committee">
+      <context> Standing Committee of <head>the</head> National People 's Congress Iceland List of standing committees of the Icelandic parliament</context>
+    </instance>
+    <instance id="Committee-committee-30-106-1" docsrc="Committee">
+      <context> The Legislative Reorganization Act of 1946 greatly reduced the number of committees , and set up the legislative committee structure still in use today , as modified by authorized changes <head>via</head> the orderly mechanism of rules changes . === Examples in organizations === Examples of standing committees in organizations are an audit committee , an elections committee , a finance committee , a fundraising committee , a governance committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-32-36-1" docsrc="Committee">
+      <context> A motion to commit should specify which committee the matter is to be referred , and if the committee is a special committee appointed specifically for purposes of the referred motion , <head>it</head> should also specify the number of committee members and the method of their selection , unless that is specified in the bylaws . Any proposed amendments to the main motion that are pending at the time the motion is referred to a committee go to the committee as well . Once referred , but before the committee reports its recommendations back to the assembly , the referred motion may be removed from the committee 's consideration by the motion to discharge a committee .</context>
+    </instance>
+    <instance id="Committee-committee-32-56-2" docsrc="Committee">
+      <context> Organizations with a large board of directors ( such as international labor unions , large corporations with thousands of stock holders or national and international organizations ) may have a smaller body <head>of</head> the board , called an executive committee , handle its business . The executive committee may function more like a board than an actual committee . In any case , an executive committee can only be established through a specific provision in the charter or bylaws of the entity ( i.e. a board can not appoint an executive committee without authorization to do so ) .</context>
+    </instance>
+    <instance id="Committee-committee-35-49-2" docsrc="Committee">
+      <context> In Robert 's Rules of Order Newly Revised , the motion to discharge a committee is used to take a matter out of a committee 's hands before the committee has made a final report <head>on</head> it . A committee can use this motion to discharge a subcommittee . Under The Standard Code of Parliamentary Procedure , the assembly that has referred a motion or a matter to a committee may , by a majority vote , withdraw it at any time from the committee , refer it to another committee , or decide the question itself .</context>
+    </instance>
+    <instance id="Committee-committee-39-34-1" docsrc="Committee">
+      <context> Commit ( motion ) === In parliamentary procedure , the motion to commit ( or refer ) is used to refer another motion—usually a main motion—to a committee . A motion to commit should specify which committee the matter <head>is</head> to be referred , and if the committee is a special committee appointed specifically for purposes of the referred motion , it should also specify the number of committee members and the method of their selection , unless that is specified in the bylaws .</context>
+    </instance>
+    <instance id="Committee-committee-39-51-1" docsrc="Committee">
+      <context> A committee can use this motion to discharge a subcommittee . Under The Standard Code of Parliamentary Procedure , the assembly that has referred a motion or a matter to a committee may , by a majority vote , <head>withdraw</head> it at any time from the committee , refer it to another committee , or decide the question itself . Organizations with a large board of directors ( such as international labor unions , large corporations with thousands of stock holders or national and international organizations ) may have a smaller body of the board , called an executive committee , handle its business .</context>
+    </instance>
+    <instance id="Committee-committee-4-107-1" docsrc="Committee">
+      <context> === Examples in organizations <head>===</head> Examples of standing committees in organizations are an audit committee , an elections committee , a finance committee , a fundraising committee , a governance committee , and a program committee . Typically , the standing committees perform their work throughout the year and present their reports at an annual meeting of the organization .</context>
+    </instance>
+    <instance id="Committee-committee-4-11-1" docsrc="Committee">
+      <context> A governance committee is <head>formed</head> as a separate committee to review the performance of the board and board policy as well as nominate candidates for the board . Coordination and administration : A large body may have smaller committees with more specialized functions . Examples are an audit committee , an elections committee , a finance committee , a fundraising committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-4-11-3" docsrc="Committee">
+      <context> Examples are an audit <head>committee</head> , an elections committee , a finance committee , a fundraising committee , and a program committee . Large conventions or academic conferences are usually organized by a coordinating committee drawn from the membership of the organization . Research and recommendations : Committees may be formed to do research and make recommendations on a potential or planned project or change .</context>
+    </instance>
+    <instance id="Committee-committee-4-119-1" docsrc="Committee">
+      <context> The term is derived <head>from</head> the steering mechanism that changes the steering angle of a vehicle 's wheels . Project steering committees are frequently used for guiding and monitoring IT projects in large organizations , as part of project governance . The functions of the committee might include building a business case for the project , planning , providing assistance and guidance , monitoring the progress , controlling the project scope and resolving conflicts .</context>
+    </instance>
+    <instance id="Committee-committee-4-139-1" docsrc="Committee">
+      <context> Caucus List of Committees <head>of</head> the United Kingdom Parliament List of IEC Technical Committees</context>
+    </instance>
+    <instance id="Committee-committee-4-28-2" docsrc="Committee">
+      <context> Minutes are a record <head>of</head> the decisions at meetings . They can be taken by a person designated as the secretary . For most organizations , committees are not required to keep formal minutes .</context>
+    </instance>
+    <instance id="Committee-committee-4-56-3" docsrc="Committee">
+      <context> The executive committee may <head>function</head> more like a board than an actual committee . In any case , an executive committee can only be established through a specific provision in the charter or bylaws of the entity ( i.e. a board can not appoint an executive committee without authorization to do so ) . Members of the executive committee may be elected by the overall franchised membership or by the board , depending on the rules of the organization .</context>
+    </instance>
+    <instance id="Committee-committee-4-62-1" docsrc="Committee">
+      <context> The committee is usually <head>composed</head> of the senior members of the standing committees that originally considered the legislation in each chamber . Other countries that use conference committees include France , Germany , Japan , and Switzerland . In Canada , conference committees have been unused since 1947 .</context>
+    </instance>
+    <instance id="Committee-committee-4-76-1" docsrc="Committee">
+      <context> The phrase is used <head>in</head> the legislatures of the following countries : Australia Australian House of Representatives committees</context>
+    </instance>
+    <instance id="Committee-committee-41-49-2" docsrc="Committee">
+      <context> In Robert 's Rules of Order Newly Revised , the motion to discharge a committee is used to take a matter out of a committee 's hands before the committee has made a final report on it . A committee can <head>use</head> this motion to discharge a subcommittee . Under The Standard Code of Parliamentary Procedure , the assembly that has referred a motion or a matter to a committee may , by a majority vote , withdraw it at any time from the committee , refer it to another committee , or decide the question itself .</context>
+    </instance>
+    <instance id="Committee-committee-5-113-2" docsrc="Committee">
+      <context> In the context of nominations <head>for</head> awards , a nominating committee can also be formed for the purpose of nominating persons or things held up for judgment by others as to their comparative quality or value , especially for the purpose of bestowing awards in the arts , or in application to industry 's products and services . The objective being to update , set , and maintain high and possibly new standards . A steering committee is a committee that provides guidance , direction and control to a project within an organization .</context>
+    </instance>
+    <instance id="Committee-committee-5-129-2" docsrc="Committee">
+      <context> A committee that is a <head>subset</head> of a larger committee is called a subcommittee . Committees that have a large workload may form subcommittees to further divide the work . Subcommittees report to the parent committee and not to the general assembly .</context>
+    </instance>
+    <instance id="Committee-committee-5-134-1" docsrc="Committee">
+      <context> Subcommittees report to the parent <head>committee</head> and not to the general assembly . When the entire assembly meets as a committee to discuss or debate , this is called a " committee of the whole " . This is not an actual committee but a procedural device that is more commonly used in legislative bodies .</context>
+    </instance>
+    <instance id="Committee-committee-5-56-4" docsrc="Committee">
+      <context> In any case , an <head>executive</head> committee can only be established through a specific provision in the charter or bylaws of the entity ( i.e. a board can not appoint an executive committee without authorization to do so ) . Members of the executive committee may be elected by the overall franchised membership or by the board , depending on the rules of the organization . However formed , an executive committee only has such powers and authority that the governing documents of the organization give it .</context>
+    </instance>
+    <instance id="Committee-committee-5-61-3" docsrc="Committee">
+      <context> Unless one chamber decides to <head>accept</head> the other 's original bill , the compromise version must pass both chambers after leaving the conference committee . The committee is usually composed of the senior members of the standing committees that originally considered the legislation in each chamber . Other countries that use conference committees include France , Germany , Japan , and Switzerland .</context>
+    </instance>
+    <instance id="Committee-committee-53-44-1" docsrc="Committee">
+      <context> In this sense , a motion to recommit with instructions is effectively an amendment . === Variations for full assembly consideration === In Robert 's Rules of Order Newly Revised ( RONR ) , the motion to commit has three variations which do not turn a question over to a smaller group , <head>but</head> simply permit the assembly 's full meeting body to consider it with the greater freedom of debate that is allowed to committees .</context>
+    </instance>
+    <instance id="Committee-committee-6-0-3" docsrc="Committee">
+      <context> Usually , the assembly sends matters <head>into</head> a committee as a way to explore them more fully than would be possible if the assembly itself were considering them . Committees may have different functions and the type of work that each committee does would depend on the type of organization and its needs . A deliberative assembly may form a committee ( or " commission " ) consisting of one or more persons to assist with the work of the assembly .</context>
+    </instance>
+    <instance id="Committee-committee-6-107-3" docsrc="Committee">
+      <context> Typically , the standing committees perform <head>their</head> work throughout the year and present their reports at an annual meeting of the organization . These committees continue to exist after presenting their reports , although the membership in the committees may change . A nominating committee ( or nominations committee ) is a group formed for the purpose of nominating candidates for office or the board in an organization .</context>
+    </instance>
+    <instance id="Committee-committee-6-111-3" docsrc="Committee">
+      <context> It may consist of members from <head>inside</head> the organization . Sometimes a governance committee takes the role of a nominating committee . Depending on the organization , this committee may be empowered to actively seek out candidates or may only have the power to receive nominations from members and verify that the candidates are eligible .</context>
+    </instance>
+    <instance id="Committee-committee-6-140-1" docsrc="Committee">
+      <context> List of Committees of the United <head>Kingdom</head> Parliament List of IEC Technical Committees List of the Czech Republic Senate committees</context>
+    </instance>
+    <instance id="Committee-committee-6-28-3" docsrc="Committee">
+      <context> They can be taken by a <head>person</head> designated as the secretary . For most organizations , committees are not required to keep formal minutes . However , some bodies require that committees take minutes , especially if the committees are public ones subject to open meeting laws .</context>
+    </instance>
+    <instance id="Committee-committee-6-30-3" docsrc="Committee">
+      <context> The report may include the methods <head>used</head> , the facts uncovered , the conclusions reached , and any recommendations . If the committee is not ready to report , it may provide a partial report or the assembly may discharge the committee of the matter so that the assembly can handle it . Also , if members of the committee are not performing their duties , they may be removed or replaced by the appointing power .</context>
+    </instance>
+    <instance id="Committee-committee-6-36-1" docsrc="Committee">
+      <context> A motion to commit should specify <head>which</head> committee the matter is to be referred , and if the committee is a special committee appointed specifically for purposes of the referred motion , it should also specify the number of committee members and the method of their selection , unless that is specified in the bylaws . Any proposed amendments to the main motion that are pending at the time the motion is referred to a committee go to the committee as well . Once referred , but before the committee reports its recommendations back to the assembly , the referred motion may be removed from the committee 's consideration by the motion to discharge a committee .</context>
+    </instance>
+    <instance id="Committee-committee-6-56-2" docsrc="Committee">
+      <context> Organizations with a large board of <head>directors</head> ( such as international labor unions , large corporations with thousands of stock holders or national and international organizations ) may have a smaller body of the board , called an executive committee , handle its business . The executive committee may function more like a board than an actual committee . In any case , an executive committee can only be established through a specific provision in the charter or bylaws of the entity ( i.e. a board can not appoint an executive committee without authorization to do so ) .</context>
+    </instance>
+    <instance id="Committee-committee-6-74-1" docsrc="Committee">
+      <context> The committees that are responsible for <head>organizing</head> such events may be called " conference committees " . === Legislatures === Most governmental legislative committees are standing committees .</context>
+    </instance>
+    <instance id="Committee-committee-7-129-3" docsrc="Committee">
+      <context> Committees that have a large workload may <head>form</head> subcommittees to further divide the work . Subcommittees report to the parent committee and not to the general assembly . When the entire assembly meets as a committee to discuss or debate , this is called a " committee of the whole " .</context>
+    </instance>
+    <instance id="Committee-committee-7-34-1" docsrc="Committee">
+      <context> Commit ( motion ) === In parliamentary <head>procedure</head> , the motion to commit ( or refer ) is used to refer another motion—usually a main motion—to a committee . A motion to commit should specify which committee the matter is to be referred , and if the committee is a special committee appointed specifically for purposes of the referred motion , it should also specify the number of committee members and the method of their selection , unless that is specified in the bylaws .</context>
+    </instance>
+    <instance id="Committee-committee-7-45-1" docsrc="Committee">
+      <context> === Variations for full assembly consideration === <head>In</head> Robert 's Rules of Order Newly Revised ( RONR ) , the motion to commit has three variations which do not turn a question over to a smaller group , but simply permit the assembly 's full meeting body to consider it with the greater freedom of debate that is allowed to committees . These forms are to go into a committee of the whole , to go into a quasi committee of the whole , and to consider informally .</context>
+    </instance>
+    <instance id="Committee-committee-7-65-1" docsrc="Committee">
+      <context> In Canada , conference committees have been <head>unused</head> since 1947 . === Different use of term === In organizations , the term " conference committee " may have a different meaning .</context>
+    </instance>
+    <instance id="Committee-committee-8-0-1" docsrc="Committee">
+      <context> A committee ( or " commission " ) <head>is</head> a body of one or more persons that is subordinate to a deliberative assembly . Usually , the assembly sends matters into a committee as a way to explore them more fully than would be possible if the assembly itself were considering them .</context>
+    </instance>
+    <instance id="Committee-committee-8-11-1" docsrc="Committee">
+      <context> A governance committee is formed as a separate <head>committee</head> to review the performance of the board and board policy as well as nominate candidates for the board . Coordination and administration : A large body may have smaller committees with more specialized functions . Examples are an audit committee , an elections committee , a finance committee , a fundraising committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-8-9-1" docsrc="Committee">
+      <context> Committees can serve several different functions : Governance <head>:</head> In organizations considered too large for all the members to participate in decisions affecting the organization as a whole , a smaller body , such as a board of directors , is given the power to make decisions , spend money , or take actions . A governance committee is formed as a separate committee to review the performance of the board and board policy as well as nominate candidates for the board .</context>
+    </instance>
+    <instance id="Committee-committee-9-106-1" docsrc="Committee">
+      <context> The Legislative Reorganization Act of 1946 greatly reduced the <head>number</head> of committees , and set up the legislative committee structure still in use today , as modified by authorized changes via the orderly mechanism of rules changes . === Examples in organizations === Examples of standing committees in organizations are an audit committee , an elections committee , a finance committee , a fundraising committee , a governance committee , and a program committee .</context>
+    </instance>
+    <instance id="Committee-committee-9-120-1" docsrc="Committee">
+      <context> The functions of the committee might include building a <head>business</head> case for the project , planning , providing assistance and guidance , monitoring the progress , controlling the project scope and resolving conflicts . As with other committees , the specific duties and role of the steering committee vary among organizations . A committee that is a subset of a larger committee is called a subcommittee .</context>
+    </instance>
+    <instance id="Committee-committee-9-4-1" docsrc="Committee">
+      <context> Committees may have different functions and the type of <head>work</head> that each committee does would depend on the type of organization and its needs . A deliberative assembly may form a committee ( or " commission " ) consisting of one or more persons to assist with the work of the assembly . For larger organizations , much work is done in committees .</context>
+    </instance>
+    <instance id="Committee-committee-9-56-6" docsrc="Committee">
+      <context> However formed , an executive committee only has such <head>powers</head> and authority that the governing documents of the organization give it . In some cases , it may be empowered to act on behalf of the board or organization , while in others , it may only be able to make recommendations . Governments at the national level may have a conference committee .</context>
+    </instance>
+    <instance id="br-a02#w0_0" docsrc="br-a02">
+      <context> <head>Committee</head> approval of Gov._Price_Daniel 's `` abandoned property '' act seemed certain Thursday despite the adamant protests of Texas bankers . Daniel personally led the fight for the measure , which he had watered_down considerably since its rejection by two previous Legislatures , in a public hearing before the House_Committee_on_Revenue_and_Taxation . Under committee rules , it went automatically to a subcommittee for one week . But questions with which committee_members taunted bankers appearing as witnesses left little doubt that they will recommend passage of_it .</context>
+    </instance>
+    <instance id="br-a02#w1114_0" docsrc="br-a02">
+      <context> Under Formby 's plan , an appointee would be selected by a board composed of the governor , lieutenant_governor , speaker of the House , attorney_general and chief_justice of the Texas_Supreme_Court . State representatives decided Thursday against taking_a_poll on what kind of taxes Texans would prefer to pay . An adverse vote of 81 to 65 kept in the State_Affairs_Committee a bill which would order the referendum on the April 4 ballot , when Texas votes on a U.S. senator . Rep._Wesley_Roberts of Seminole , sponsor of the poll idea , said that further delay in the <head>committee</head> can kill the bill . The West_Texan reported that he had finally gotten Chairman_Bill_Hollowell of the committee to set it for public hearing on Feb. 22 . The proposal would have to receive final legislative approval , by two-thirds majorities , before March 1 to be printed on the April 4 ballot , Roberts said . Opponents generally argued that the ballot could n't give enough information about tax proposals for the voters to make an intelligent choice .</context>
+    </instance>
+    <instance id="br-a02#w1131_0" docsrc="br-a02">
+      <context> State representatives decided Thursday against taking_a_poll on what kind of taxes Texans would prefer to pay . An adverse vote of 81 to 65 kept in the State_Affairs_Committee a bill which would order the referendum on the April 4 ballot , when Texas votes on a U.S. senator . Rep._Wesley_Roberts of Seminole , sponsor of the poll idea , said that further delay in the committee can kill the bill . The West_Texan reported that he had finally gotten Chairman_Bill_Hollowell of the <head>committee</head> to set it for public hearing on Feb. 22 . The proposal would have to receive final legislative approval , by two-thirds majorities , before March 1 to be printed on the April 4 ballot , Roberts said . Opponents generally argued that the ballot could n't give enough information about tax proposals for the voters to make an intelligent choice . All Dallas members voted with Roberts , except Rep._Bill_Jones , who was absent .</context>
+    </instance>
+    <instance id="br-a02#w124_0" docsrc="br-a02">
+      <context> Under committee rules , it went automatically to a subcommittee for one week . But questions with which committee_members taunted bankers appearing as witnesses left little doubt that they will recommend passage of_it . Daniel termed `` extremely conservative '' his estimate that it would produce 17 million dollars to help erase an anticipated deficit of 63 million dollars at the end of the current fiscal_year next Aug. 31 . He told the <head>committee</head> the measure would merely provide means of enforcing the escheat law which has been on_the_books `` since Texas was a republic '' . It permits the state to take_over bank_accounts , stocks and other personal_property of persons missing for seven years or more . The bill , which Daniel said he drafted personally , would force banks , insurance_firms , pipeline_companies and other corporations to report such property to the state_treasurer . The escheat law cannot be enforced now because it is almost impossible to locate such property , Daniel declared .</context>
+    </instance>
+    <instance id="br-a02#w1885_0" docsrc="br-a02">
+      <context> State and federal legislation against racial discrimination in employment was called_for yesterday in a report of a `` blue_ribbon '' citizens_committee on the aid to dependent children program . The report , culminating a year long study of the ADC program in Cook county by a New_York_City welfare consulting_firm , listed 10 long_range recommendations designed to reduce the soaring ADC case_load . The report called racial discrimination in employment `` one of the most serious causes of family breakdown , desertion , and ADC dependency '' . The monthly cost of ADC to more than 100000 recipients in the county is 4.4 million dollars , said C._Virgil_Martin , president of Carson_Pirie_Scott_+_Co. , <head>committee</head> chairman . `` We must solve the problems which have forced these people to depend_upon ADC for subsistence '' , Martin said . The volume of ADC cases will decrease , Martin reported , when the community is able to deal effectively with two problems : Relatively limited skills and discrimination in employment because of color . These , he said , are `` two of the principal underlying causes for family breakups leading to ADC '' .</context>
+    </instance>
+    <instance id="br-a02#w1969_0" docsrc="br-a02">
+      <context> `` We must solve the problems which have forced these people to depend_upon ADC for subsistence '' , Martin said . The volume of ADC cases will decrease , Martin reported , when the community is able to deal effectively with two problems : Relatively limited skills and discrimination in employment because of color . These , he said , are `` two of the principal underlying causes for family breakups leading to ADC '' . Other recommendations made by the <head>committee</head> are : Extension of the ADC program to all children in need living with any relatives , including both parents , as a means of preserving family unity . Research projects as soon as possible on the causes and prevention of dependency and illegitimacy .</context>
+    </instance>
+    <instance id="br-a02#w52_0" docsrc="br-a02">
+      <context> Committee approval of Gov._Price_Daniel 's `` abandoned property '' act seemed certain Thursday despite the adamant protests of Texas bankers . Daniel personally led the fight for the measure , which he had watered_down considerably since its rejection by two previous Legislatures , in a public hearing before the House_Committee_on_Revenue_and_Taxation . Under <head>committee</head> rules , it went automatically to a subcommittee for one week . But questions with which committee_members taunted bankers appearing as witnesses left little doubt that they will recommend passage of_it . Daniel termed `` extremely conservative '' his estimate that it would produce 17 million dollars to help erase an anticipated deficit of 63 million dollars at the end of the current fiscal_year next Aug. 31 . He told the committee the measure would merely provide means of enforcing the escheat law which has been on_the_books `` since Texas was a republic '' .</context>
+    </instance>
+    <instance id="br-a02#w686_0" docsrc="br-a02">
+      <context> `` But I believe if people were better informed on this question , most_of them would oppose it also . I'm willing to stake my political career on_it '' . Rep._Berry , an ex_gambler from San_Antonio , got elected on his advocacy of betting_on the ponies . A House <head>committee</head> which heard his local_option proposal is expected to give it a favorable report , although the resolution faces hard_sledding later . The House passed finally , and sent to the Senate , a bill extending the State_Health_Department 's authority to give planning assistance to cities . The Senate quickly whipped_through its meager fare of House bills approved by committees , passing the three on the calendar . One validated acts of school districts .</context>
+    </instance>
+    <instance id="br-a02#w745_0" docsrc="br-a02">
+      <context> Rep._Berry , an ex_gambler from San_Antonio , got elected on his advocacy of betting_on the ponies . A House committee which heard his local_option proposal is expected to give it a favorable report , although the resolution faces hard_sledding later . The House passed finally , and sent to the Senate , a bill extending the State_Health_Department 's authority to give planning assistance to cities . The Senate quickly whipped_through its meager fare of House bills approved by <head>committees</head> , passing the three on the calendar . One validated acts of school districts . Another enlarged authority of the Beaumont_Navigation_District . The third amended the enabling_act for creation of the Lamar_county Hospital_District , for which a special constitutional amendment previously was adopted .</context>
+    </instance>
+    <instance id="br-a14#w606_0" docsrc="br-a14">
+      <context> To Spahn will go the Sid_Mercer_Memorial_Award as the chapter 's player of the year . A crowd of 1400 is expected for the ceremonies , which will be followed by the show in which the writers will lampoon baseball personalities in skit , dance and song . The 53 - year old Shea , a prominent corporation lawyer with a sports background , is generally recognized as the man most responsible_for the imminent return of a National_League club to New_York . Named by Mayor_Wagner three years ago to head a <head>committee</head> that included James_A._Farley , Bernard_Gimbel and Clint_Blume , Shea worked relentlessly . His goal was to obtain a National_League team for this city . The departure of the Giants and the Dodgers to California left New_York with only the Yankees . Despite countless barriers and disappointments , Shea moved forward .</context>
+    </instance>
+    <instance id="br-d03#w916_0" docsrc="br-d03">
+      <context> According_to a newspaper report of the 1961 statistics of the Church_of_England , the `` total of confirmed members is 9748000 , but only 2887671 are registered on the parochial church_rolls '' , and `` over 27 million people in England are baptized into the Church_of_England , but roughly only a tenth of them continue '' . An amazing article in the Manchester_Guardian of last November , entitled `` Fate of Redundant Churches '' , states than an Archbishops ' Commission `` reported last month that in the Church_of_England alone there are 790 churches which are redundant now , or will be in 20 years ' time . A further 260 Anglican churches have been demolished since 1948 '' . And in the last five years , the `` Methodist chapel <head>committee</head> has authorized the demolition or , more often , the sale of 764 chapels '' . Most of these former churches are now used as warehouses , but `` neither Anglicans nor Nonconformists object to selling churches to Roman_Catholics '' , and have done so . While it must be said that these same Protestants have built some new churches during this period , and that religious population_shifts have emptied churches , a principal reason for this phenomenon of redundancy is that fewer Protestants are going_to church . It should be admitted , too , that there is a good percentage of lapsed or nonchurchgoing Catholics ( one paper writes 50 per_cent ) .</context>
+    </instance>
+    <instance id="br-f15#w1623_0" docsrc="br-f15">
+      <context> In 1930 , the Lambeth_Conference again affirmed the primary purpose of marriage to be the procreation of children , but conceded that , in certain limited circumstances , contraception might be morally legitimate . In 1958 , the Conference endorsed birth_control as the responsibility laid by God on parents everywhere . Many other Protestant_denominations preceded the Anglicans in such action . In March , 1931 , 22 out of 28 members of a <head>committee</head> of the Federal_Council_of_Churches ratified artificial methods of birth_control . `` As_to the necessity '' , the committee declared , `` for some form of effective control of the size of the family and the spacing of children , and consequently of control of conception , there can be no question . There is general_agreement also that sex union between husbands and wives as an expression of mutual_affection without relation_to procreation is right '' . Since then , many Protestant_denominations have made separate pronouncements , in which they not_only approved birth_control , but declared it at_times to be a religious duty .</context>
+    </instance>
+    <instance id="br-f15#w1640_0" docsrc="br-f15">
+      <context> In 1958 , the Conference endorsed birth_control as the responsibility laid by God on parents everywhere . Many other Protestant_denominations preceded the Anglicans in such action . In March , 1931 , 22 out of 28 members of a committee of the Federal_Council_of_Churches ratified artificial methods of birth_control . `` As_to the necessity '' , the <head>committee</head> declared , `` for some form of effective control of the size of the family and the spacing of children , and consequently of control of conception , there can be no question . There is general_agreement also that sex union between husbands and wives as an expression of mutual_affection without relation_to procreation is right '' . Since then , many Protestant_denominations have made separate pronouncements , in which they not_only approved birth_control , but declared it at_times to be a religious duty . What determines the morality , they state , is not the means used , but the motive .</context>
+    </instance>
+    <instance id="br-f17#w2052_0" docsrc="br-f17">
+      <context> To reduce further the flow of goods from England , the Company 's local officials asked that its London authorities refrain_from forwarding any more trade goods to these men . With their customary source of supply cut_off , the Fort_Garry free_traders engaged three men to cart goods to them from the Mississippi country . Others carried pemmican from `` the Forks '' to St._Paul and goods from St._Paul to Red_River , as in the summer of 1847 when one trader , Wells , transported twenty barrels of whisky to the British settlement . This trade was subject to a tariff of 7.5 per_cent after February 1835 , but much was smuggled into Assiniboia with the result that the duty was reduced by 1841 to 4 per_cent on the initiative of the London <head>committee</head> . The trade in a_few commodities noted above was to grow in volume as a result of changes both north and south of the 49 th parallel .</context>
+    </instance>
+    <instance id="br-j56#w129_0" docsrc="br-j56">
+      <context> The sewer on Bonnet_Street was constructed when there were only a_few houses on the street . as new homes were built they were connected so that all residences south of School_Street are served by it . B._J._Connell is the present treasurer and manager . The 1946 town_meeting voted to have the Selectmen appoint a <head>committee</head> to investigate and report on the feasibility of some system of sewage_disposal and a disposal_plant to serve Manchester_Center , Depot , and Way_'s_Lane . The committee submitted a report signed by Louis_Martin and Leon_Wiley with a map published in the 1946 town report . The layout of the sewer_lines was designed by Henry_W._Taylor , who was the engineer for the Manchester_Village disposal_plant . No figures were submitted with the report and no action was taken on it by the town .</context>
+    </instance>
+    <instance id="br-j56#w155_0" docsrc="br-j56">
+      <context> as new homes were built they were connected so that all residences south of School_Street are served by it . B._J._Connell is the present treasurer and manager . The 1946 town_meeting voted to have the Selectmen appoint a committee to investigate and report on the feasibility of some system of sewage_disposal and a disposal_plant to serve Manchester_Center , Depot , and Way_'s_Lane . The <head>committee</head> submitted a report signed by Louis_Martin and Leon_Wiley with a map published in the 1946 town report . The layout of the sewer_lines was designed by Henry_W._Taylor , who was the engineer for the Manchester_Village disposal_plant . No figures were submitted with the report and no action was taken on it by the town . The 1958 town_meeting directed town authorities to seek federal and state funds with which to conduct a preliminary survey of a proposed sewage plant with its attendant facilities .</context>
+    </instance>
+    <instance id="br-r04#w399_0" docsrc="br-r04">
+      <context> Why in the world could n't he live in one place the way everyone else seemed to ? It worried him , this inability to get the simplest things done in the course of a day . He would wake_up in_the_middle of the night and fret about it . How in the world had he formerly found time to build_up a business , raise a family , be on half_a_dozen boards , work actively on <head>committees</head> and either go_out in the evening or plow through the contents of a bulging brief_case ? Was it possible that as people grow older the nature of time changed ? Could it be that it speeded_up for the aged in some mysterious way , as if a bored universe were skipping through the end of the chapter just to get_it_over_with ? Or was the answer less metaphysical ?</context>
+    </instance>
+    <instance id="n01154083_d_10" docsrc="n01154083_d">
+      <context> the system of patronage in communist countries ; controlled by <head>committees</head> in the Communist_Party ;</context>
+    </instance>
+    <instance id="n02857644_d_4" docsrc="n02857644_d">
+      <context> a room where a <head>committee</head> meets ( such as the board_of_directors of a company ) ;</context>
+    </instance>
+    <instance id="n06532095_d_9" docsrc="n06532095_d">
+      <context> a legal_document codifying the result of deliberations of a <head>committee</head> or society or legislative_body ;</context>
+    </instance>
+    <instance id="n07147267_d_5" docsrc="n07147267_d">
+      <context> a session ( of a <head>committee</head> or grand_jury ) in which witnesses are called and testimony is taken ;</context>
+    </instance>
+    <instance id="n07163381_d_22" docsrc="n07163381_d">
+      <context> the second presentation of a bill in a legislature ; to approve its general principles ( Britain ) or to discuss a <head>committee's</head> report and take a vote ;</context>
+    </instance>
+    <instance id="n08127760_d_1" docsrc="n08127760_d">
+      <context> a <head>committee</head> in the executive_branch of government that advises the president on foreign and military and national security ; supervises the Central_Intelligence_Agency ;</context>
+    </instance>
+    <instance id="n08164585_d_4" docsrc="n08164585_d">
+      <context> the persons ( or <head>committees</head> or departments etc. ) who make_up a body for the purpose of administering something ;</context>
+    </instance>
+    <instance id="n08311933_d_20" docsrc="n08311933_d">
+      <context> a council representing employer and employees of a plant or business to discuss working conditions etc ; also : a <head>committee</head> representing the workers elected to negotiate with management about grievances and wages etc ;</context>
+    </instance>
+    <instance id="n08322981_d_1" docsrc="n08322981_d">
+      <context> a <head>committee</head> having supervisory powers ;</context>
+    </instance>
+    <instance id="n08323658_d_1" docsrc="n08323658_d">
+      <context> a <head>committee</head> of university officers who have general supervision over the welfare and conduct of students ;</context>
+    </instance>
+    <instance id="n08324514_ex1_1" docsrc="n08324514_ex1">
+      <context> a <head>committee</head> is a group that keeps minutes and loses hours - Milton Berle ;</context>
+    </instance>
+    <instance id="n08325851_d_2" docsrc="n08325851_d">
+      <context> a parliamentary <head>committee</head> appointed for some special purpose ;</context>
+    </instance>
+    <instance id="n08326114_d_2" docsrc="n08326114_d">
+      <context> a volunteer <head>committee</head> to maintain order where an efficient legal_system does not exist ;</context>
+    </instance>
+    <instance id="n08326266_d_1" docsrc="n08326266_d">
+      <context> a <head>committee</head> to welcome new residents to a community ;</context>
+    </instance>
+    <instance id="n08326383_d_2" docsrc="n08326383_d">
+      <context> a permanent <head>committee</head> ;</context>
+    </instance>
+    <instance id="n08326487_d_2" docsrc="n08326487_d">
+      <context> a permanent <head>committee</head> of the United_States_House_of_Representatives that makes recommendations to the US_House on all bills that would raise revenue ;</context>
+    </instance>
+    <instance id="n08326706_d_1" docsrc="n08326706_d">
+      <context> a <head>committee</head> to arrange the order_of_business for some larger ( legislative ) body ;</context>
+    </instance>
+    <instance id="n08326850_d_1" docsrc="n08326850_d">
+      <context> a <head>committee</head> appointed to consider ethical issues ;</context>
+    </instance>
+    <instance id="n08326976_d_1" docsrc="n08326976_d">
+      <context> a <head>committee</head> appointed to consider financial issues ;</context>
+    </instance>
+    <instance id="n08327090_d_5" docsrc="n08327090_d">
+      <context> the chief executive and political <head>committee</head> of the Communist_Party ;</context>
+    </instance>
+    <instance id="n08327212_d_0" docsrc="n08327212_d">
+      <context> <head>committee</head> formed by a special_
+     _group to raise money for their favorite political candidates ;</context>
+    </instance>
+    <instance id="n08327390_d_3" docsrc="n08327390_d">
+      <context> a permanent executive <head>committee</head> in socialist countries that has all the powers of some larger legislative_body and that acts for it when it is not in session ;</context>
+    </instance>
+    <instance id="n08414807_d_1" docsrc="n08414807_d">
+      <context> a <head>committee</head> appointed to judge a competition ;</context>
+    </instance>
+    <instance id="n08478851_d_5" docsrc="n08478851_d">
+      <context> in the Protestant_Episcopal_Church : a <head>committee</head> elected by the congregation to work with the churchwardens in managing the temporal affairs of the church ;</context>
+    </instance>
+    <instance id="n09944160_d_4" docsrc="n09944160_d">
+      <context> a member of a <head>committee</head> ;</context>
+    </instance>
+    <instance id="n09944337_d_7" docsrc="n09944337_d">
+      <context> a man who is a member of <head>committee</head> ;</context>
+    </instance>
+    <instance id="n09944430_d_8" docsrc="n09944430_d">
+      <context> a woman who is a member of a <head>committee</head> ;</context>
+    </instance>
+    <instance id="n10507565_d_5" docsrc="n10507565_d">
+      <context> a recorder appointed by a <head>committee</head> to prepare reports of the meetings ;</context>
+    </instance>
+    <instance id="n11191653_d_5" docsrc="n11191653_d">
+      <context> United_States statesman who led the <head>committee</head> that produced the final draft of the United_States_Constitution ;</context>
+    </instance>
+    <instance id="v00949974_d_3" docsrc="v00949974_d">
+      <context> refer to another <head>committee</head> or authority or court for decision ;</context>
+    </instance>
+    <instance id="v01953191_d_3" docsrc="v01953191_d">
+      <context> send_back to a <head>committee</head> ;</context>
+    </instance>
+    <instance id="v02210622_d_6" docsrc="v02210622_d">
+      <context> receive officially , as from a <head>committee</head> ;</context>
+    </instance>
+    <instance id="v02396536_d_2" docsrc="v02396536_d">
+      <context> set_up a <head>committee</head> or legislative_body with one's own supporters so as to influence the outcome ;</context>
+    </instance>
+  </lexelt>
+</corpus>

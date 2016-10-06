@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="suit.n" pos="NN">
+    <instance id="Lawsuit-suit-10-64-3" docsrc="Lawsuit">
+      <context> Americans also use " claim " to describe a demand <head>filed</head> with an insurer or administrative agency . If the claim is denied , then the claimant ( or policyholder or applicant ) files a lawsuit with the courts and later participates in the lawsuit . In medieval times , both " action " and " suit " had the approximate meaning of some kind of legal proceeding , but an action terminated when a judgment was rendered , while a suit also included the execution of the judgment .</context>
+    </instance>
+    <instance id="Lawsuit-suit-24-9-2" docsrc="Lawsuit">
+      <context> Lawsuits can become additionally complicated as more parties become involved ( see joinder ) . Within a " single " lawsuit , there can <head>be</head> any number of claims and defenses ( all based on numerous laws ) between any number of plaintiffs or defendants . Each of these participants can bring any number of cross claims and counterclaims against each other , and even bring additional parties into the suit on either side after it progresses .</context>
+    </instance>
+    <instance id="Lawsuit-suit-25-56-1" docsrc="Lawsuit">
+      <context> Liens Wage garnishment During the 18th and 19th centuries , it was common for lawyers to speak of bringing an " action " at law <head>and</head> a " suit " in equity .</context>
+    </instance>
+    <instance id="Lawsuit-suit-35-64-3" docsrc="Lawsuit">
+      <context> Americans also use " claim " to describe a demand filed with an insurer or administrative agency . If the claim is denied , then the claimant ( or policyholder or applicant ) files a <head>lawsuit</head> with the courts and later participates in the lawsuit . In medieval times , both " action " and " suit " had the approximate meaning of some kind of legal proceeding , but an action terminated when a judgment was rendered , while a suit also included the execution of the judgment .</context>
+    </instance>
+    <instance id="Lawsuit-suit-59-62-2" docsrc="Lawsuit">
+      <context> During the 18th and 19th centuries , it was common for lawyers to speak of bringing an " action " at law and a " suit " in equity . An example of that distinction survives today in the text of the Civil Rights Act of 1871 . The fusion of common law and equity in England in the <head>Judicature</head> Acts of 1873 and 1875 led to the collapse of that distinction , so it became possible to speak of a " lawsuit . " In the United States , the Federal Rules of Civil Procedure ( 1938 ) abolished the distinction between actions at law and suits in equity in federal practice , in favor of a single form referred to as a " civil action . "</context>
+    </instance>
+    <instance id="Standard_52-card_deck-suit-19-29-7" docsrc="Standard_52-card_deck">
+      <context> Some decks use four colors for the suits in order to make it easier to tell them apart : <head>the</head> most common set of colors is black ( spades ♠ ) , red ( hearts ♥ ) , blue ( diamonds ♦ ) and green ( clubs ♣ ) . Another common color set is borrowed from the German suits and uses green Spades and yellow Diamonds with red Hearts and black Clubs . When giving the full written name of a specific card , the rank is given first followed by the suit , e.g. , " Ace of Spades " .</context>
+    </instance>
+    <instance id="Standard_52-card_deck-suit-36-17-1" docsrc="Standard_52-card_deck">
+      <context> The Queen of Spades usually holds a scepter and is sometimes known as " the bedpost queen " , though more often she is called " Black Lady " . In many decks , the Queen <head>of</head> Clubs holds a flower . She is thus known as the " flower queen " , though this design element is among the most variable ; the standard Bicycle Poker deck depicts all Queens with a flower styled according to their suit .</context>
+    </instance>
+    <instance id="Standard_52-card_deck-suit-4-30-2" docsrc="Standard_52-card_deck">
+      <context> When giving the full <head>written</head> name of a specific card , the rank is given first followed by the suit , e.g. , " Ace of Spades " . Shorthand notation may reflect this by listing the rank first , " A♠ " ; this is common usage when discussing poker . Alternately , listing the suit first , as in " ♠K " for a single card or " ♠AKQ " for multiple cards , is common practice when writing about bridge ; this helps differentiate between the card(s ) and the contract ( e.g. " 4♥ " , a contract of Four Hearts . ) Tens may be either abbreviated to T or written as 10 .</context>
+    </instance>
+    <instance id="Standard_52-card_deck-suit-7-29-5" docsrc="Standard_52-card_deck">
+      <context> Many modern decks have bar code markings <head>on</head> the edge of the face to enable them to be sorted by machine ( for playing duplicate bridge , especially simultaneous events where the same hands may be played at many different venues ) . Many decks have large indices , largely for use in stud poker games , where being able to read cards from a distance is a benefit and hand sizes are small . Some decks use four colors for the suits in order to make it easier to tell them apart : the most common set of colors is black ( spades ♠ ) , red ( hearts ♥ ) , blue ( diamonds ♦ ) and green ( clubs ♣ ) .</context>
+    </instance>
+    <instance id="Standard_52-card_deck-suit-9-29-6" docsrc="Standard_52-card_deck">
+      <context> Many decks have large indices , largely for use <head>in</head> stud poker games , where being able to read cards from a distance is a benefit and hand sizes are small . Some decks use four colors for the suits in order to make it easier to tell them apart : the most common set of colors is black ( spades ♠ ) , red ( hearts ♥ ) , blue ( diamonds ♦ ) and green ( clubs ♣ ) . Another common color set is borrowed from the German suits and uses green Spades and yellow Diamonds with red Hearts and black Clubs .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-1-133-5" docsrc="Suit_(cards)">
+      <context> A <head>later</head> content patch added the suits of Lunacy , Storms , Furies , and Blessings . The Inscription skill allowed the crafting of cards of the suits of Mages , Swords , Rogues , and Demons . Card suit symbols occur in places outside card playing :</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-1-83-2" docsrc="Suit_(cards)">
+      <context> 5° <head>Dimension</head> , is an 80-card deck introduced in 2007 . The five suits are Hearts ( red ) , Spades ( black ) , Clubs ( green ) , Diamonds ( yellow ) and Stars ( blue ) . Each suit has 16 cards : 1 to 10 , King , Queen , Jack , Princess , Ace ( distinct from 1 ) and a Joker .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-10-0-5" docsrc="Suit_(cards)">
+      <context> Ranking indicates which cards within a suit are better , <head>higher</head> or more valuable than others , whereas there is no order between the suits unless defined in the rules of a specific card game . Unless playing with multiple decks , there is exactly one card of any given rank in any given suit . A deck may include special cards that belong to no suit , often called jokers .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-10-122-2" docsrc="Suit_(cards)">
+      <context> A special mention should be made of the card game <head>Set</head> . Whereas cards in a traditional deck have two classifications—suit and rank—and each combination is represented by one card , giving for example 4 suits × 13 ranks = 52 cards , each card in a Set deck has four classifications each into one of three categories , giving a total of 3 × 3 × 3 × 3 = 81 cards . Any one of these four classifications could be considered a suit , but this is not really enlightening in terms of the structure of the game .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-10-133-4" docsrc="Suit_(cards)">
+      <context> Initially , this was limited to the ace through eight <head>of</head> the suits of Elementals , Beasts , Warlords , and Portals . A later content patch added the suits of Lunacy , Storms , Furies , and Blessings . The Inscription skill allowed the crafting of cards of the suits of Mages , Swords , Rogues , and Demons .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-10-154-1" docsrc="Suit_(cards)">
+      <context> Spades ( Explorers ) ( ♠ ) enjoy digging around <head>,</head> discovering new areas , or learning about easter eggs or glitches in the game . In computer and another digital media , suit symbols are represented with character encoding , notably in the ISO and Unicode standards , and as Web standard ( SGML 's named entity " &amp;name ; " syntax ) : Unicode is the most frequently used encoding standard , and suits are in the Miscellaneous Symbols Block ( 2600–26FF ) of the Unicode .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-10-155-1" docsrc="Suit_(cards)">
+      <context> In computer and another digital media , suit symbols are <head>represented</head> with character encoding , notably in the ISO and Unicode standards , and as Web standard ( SGML 's named entity " &amp;name ; " syntax ) : Unicode is the most frequently used encoding standard , and suits are in the Miscellaneous Symbols Block ( 2600–26FF ) of the Unicode . Other expressions drawn from bridge and similar games include strong suit ( used to refer to any area of personal strength ) and following suit ( in the sense of going along with the crowd ) .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-11-12-2" docsrc="Suit_(cards)">
+      <context> There are four types of Latin suits : Italian , Spanish <head>,</head> Portuguese , and an extinct archaic type . The archaic system did not survive the 15th century , and the Portuguese system lingers on only in the Tarocco Siciliano and the Unsun Karuta of Japan . The systems can be distinguished by the pips of their long suits : swords and clubs .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-11-124-2" docsrc="Suit_(cards)">
+      <context> Bicycle Playing Cards produce a set of 55 cards that technically <head>has</head> 11 suits . They are actually a set of Double Nine Dominoes , where each card belongs to 2 suits . As in dominoes , each half of the domino represents one suit , in this case the suits range from 0 ( blank ) up to 9 , and the eleventh suit is reserved for the doubles .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-11-39-1" docsrc="Suit_(cards)">
+      <context> Tarot decks have a dedicated trump suit . === Ranking of <head>suits</head> === As there is no truly standard way to order the four suits , each game that needs to do so has its own convention ; however , the ubiquity of bridge has gone some way to make its ordering a de facto standard .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-11-53-2" docsrc="Suit_(cards)">
+      <context> The pairing of suits is a vestigial remnant of Ganjifa , <head>a</head> game where half the suits were in reverse order , the lower cards beating the higher . In Ganjifa , progressive suits were called " strong " while inverted suits were called " weak " . In Latin decks , the traditional division is between the long suits of swords and clubs and the round suits of cups and coins .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-11-54-2" docsrc="Suit_(cards)">
+      <context> In some games , such as blackjack , suits are ignored <head>.</head> In other games , such as Canasta , only the color ( red or black ) is relevant . In yet others , such as bridge , each of the suit pairings are distinguished .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-12-130-1" docsrc="Suit_(cards)">
+      <context> The Cripple Mr. Onion deck uses eight fictional suits , but may <head>be</head> simulated by combining the standard French suits with the traditional Latin suited ones or by using a modern 8-suited deck . The Discordian deck is a parody of the Tarot deck , its five suits corresponding to the five Discordian elements . The card game of sabacc from the Star Wars universe has the suits of staves , flasks , sabers , and coins ( similar to Latin suits ) , with cards ranked one through fifteen , plus two each of eight other cards which have no suit .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-12-133-2" docsrc="Suit_(cards)">
+      <context> In World of Warcraft , there are cards that randomly drop from <head>humanoid</head> enemies . If a player collected the entire suit , he/she could trade it for a trinket that would grant special abilities . Initially , this was limited to the ace through eight of the suits of Elementals , Beasts , Warlords , and Portals .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-12-53-1" docsrc="Suit_(cards)">
+      <context> Pairing or ignoring suits === The pairing of suits is a vestigial <head>remnant</head> of Ganjifa , a game where half the suits were in reverse order , the lower cards beating the higher . In Ganjifa , progressive suits were called " strong " while inverted suits were called " weak " .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-12-93-2" docsrc="Suit_(cards)">
+      <context> In America in 1895 , Hiram Jones created a deck called International <head>Playing</head> Cards and it had two additional suits , a red suit with crosses and a black suit of bullets . ( The bullets of that period were round , hence the pip was a circle . ) Other attempts over the years experimented with either suit substitutions or additional suits added to decks of playing cards .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-13-122-3" docsrc="Suit_(cards)">
+      <context> Whereas cards in a traditional deck have two classifications—suit and rank—and each combination <head>is</head> represented by one card , giving for example 4 suits × 13 ranks = 52 cards , each card in a Set deck has four classifications each into one of three categories , giving a total of 3 × 3 × 3 × 3 = 81 cards . Any one of these four classifications could be considered a suit , but this is not really enlightening in terms of the structure of the game . Bicycle Playing Cards produce a set of 55 cards that technically has 11 suits .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-13-128-1" docsrc="Suit_(cards)">
+      <context> === Fictional decks === Several people have invented decks which are not meant <head>to</head> be seriously played . The Double Fanucci deck from Zork takes the most imaginative licence with the suits : it has no fewer than fifteen , with the names Mazes , Books , Rain , Bugs , Fromps , Inkblots , Scythes , Plungers , Faces , Time , Lamps , Hives , Ears , Zurfs , and Tops .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-13-129-1" docsrc="Suit_(cards)">
+      <context> The Double Fanucci deck from Zork takes the most imaginative licence with the <head>suits</head> : it has no fewer than fifteen , with the names Mazes , Books , Rain , Bugs , Fromps , Inkblots , Scythes , Plungers , Faces , Time , Lamps , Hives , Ears , Zurfs , and Tops . The Cripple Mr. Onion deck uses eight fictional suits , but may be simulated by combining the standard French suits with the traditional Latin suited ones or by using a modern 8-suited deck . The Discordian deck is a parody of the Tarot deck , its five suits corresponding to the five Discordian elements .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-13-36-1" docsrc="Suit_(cards)">
+      <context> === Special suits === Some games treat one or more suits as being <head>special</head> or different from the others . A simple example is Spades , which uses spades as a permanent trump suit .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-14-20-2" docsrc="Suit_(cards)">
+      <context> === Tarot === Beginning around the mid-15th century in Italy , some decks include <head>of</head> an extra suit of ( usually ) 21 numbered cards known as trionfi or trumps , to play tarot card games .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-15-46-1" docsrc="Suit_(cards)">
+      <context> Five Hundred : hearts , diamonds , clubs , spades ( for bidding and scoring <head>)</head> Skat : clubs , spades , hearts , diamonds ( for bidding and to determine which Jack beats which in play ) Big Two : spades , hearts , clubs , diamonds ( Presidents and Arseholes reverses suit strength : hearts , diamonds , spades , clubs )</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-16-0-1" docsrc="Suit_(cards)">
+      <context> In playing cards , a suit is one of several categories into which the cards of <head>a</head> deck are divided . Most often , each card bears one of several pips ( symbols ) showing to which suit it belongs ; the suit may alternatively or additionally be indicated by the color printed on the card .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-16-124-1" docsrc="Suit_(cards)">
+      <context> Any one of these four classifications could be considered a suit , but this is not <head>really</head> enlightening in terms of the structure of the game . Bicycle Playing Cards produce a set of 55 cards that technically has 11 suits . They are actually a set of Double Nine Dominoes , where each card belongs to 2 suits .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-16-52-2" docsrc="Suit_(cards)">
+      <context> === Pairing or ignoring suits === The pairing of suits is a vestigial remnant of Ganjifa <head>,</head> a game where half the suits were in reverse order , the lower cards beating the higher .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-16-55-1" docsrc="Suit_(cards)">
+      <context> In yet others , such as bridge , each of the suit pairings are distinguished . <head>Fundamentally</head> , there are three ways to divide four suits into pairs : by color , by rank and by shape resulting in six possible suit combinations . Color is used to denote the red suits ( hearts and diamonds ) and the black suits ( spades and clubs ) .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-16-68-1" docsrc="Suit_(cards)">
+      <context> Shape is used to denote the pointed ( diamonds and spades , which visually have a <head>sharp</head> point uppermost ) versus rounded ( hearts and clubs ) suits . Numerous variations of the 52-card French deck have existed over the years . Most notably , the tarot deck has a separate trump series in addition to the four suits ; however this fifth suit is a series of cards of a different number and style than the suited cards .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-16-68-2" docsrc="Suit_(cards)">
+      <context> Numerous variations of the 52-card French deck have existed over the years . Most notably , <head>the</head> tarot deck has a separate trump series in addition to the four suits ; however this fifth suit is a series of cards of a different number and style than the suited cards . Various people have independently suggested expanding the French deck to five , six or even more suits where the additional suits have the same number and style of cards as the French suits , and have proposed rules for expanded versions of popular games such as rummy , hearts , bridge , and poker that could be played with such a deck .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-16-83-3" docsrc="Suit_(cards)">
+      <context> The five suits are Hearts ( red ) , Spades ( black ) , Clubs ( <head>green</head> ) , Diamonds ( yellow ) and Stars ( blue ) . Each suit has 16 cards : 1 to 10 , King , Queen , Jack , Princess , Ace ( distinct from 1 ) and a Joker . Another five suited deck is Do n't Quote Me , with single quotations as the fifth suit .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-17-124-2" docsrc="Suit_(cards)">
+      <context> Bicycle Playing Cards produce a set of 55 cards that technically has 11 suits . They are <head>actually</head> a set of Double Nine Dominoes , where each card belongs to 2 suits . As in dominoes , each half of the domino represents one suit , in this case the suits range from 0 ( blank ) up to 9 , and the eleventh suit is reserved for the doubles .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-18-0-4" docsrc="Suit_(cards)">
+      <context> The rank for each card is determined by the number of pips on it . Ranking indicates which <head>cards</head> within a suit are better , higher or more valuable than others , whereas there is no order between the suits unless defined in the rules of a specific card game . Unless playing with multiple decks , there is exactly one card of any given rank in any given suit .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-19-128-2" docsrc="Suit_(cards)">
+      <context> Several people have invented decks which are not meant to be seriously played . The Double Fanucci deck from <head>Zork</head> takes the most imaginative licence with the suits : it has no fewer than fifteen , with the names Mazes , Books , Rain , Bugs , Fromps , Inkblots , Scythes , Plungers , Faces , Time , Lamps , Hives , Ears , Zurfs , and Tops . The Cripple Mr. Onion deck uses eight fictional suits , but may be simulated by combining the standard French suits with the traditional Latin suited ones or by using a modern 8-suited deck .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-19-53-2" docsrc="Suit_(cards)">
+      <context> The pairing of suits is a vestigial remnant of Ganjifa , a game where half the suits were in <head>reverse</head> order , the lower cards beating the higher . In Ganjifa , progressive suits were called " strong " while inverted suits were called " weak " . In Latin decks , the traditional division is between the long suits of swords and clubs and the round suits of cups and coins .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-19-56-1" docsrc="Suit_(cards)">
+      <context> Fundamentally , there are three ways to divide four suits into pairs : by color , by rank and <head>by</head> shape resulting in six possible suit combinations . Color is used to denote the red suits ( hearts and diamonds ) and the black suits ( spades and clubs ) . Rank is used to indicate the major ( spades and hearts ) versus minor ( diamonds and clubs ) suits .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-19-92-1" docsrc="Suit_(cards)">
+      <context> The cards are pentagonal . ==== Historical decks ==== In America in 1895 , Hiram Jones created a deck <head>called</head> International Playing Cards and it had two additional suits , a red suit with crosses and a black suit of bullets .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-2-137-1" docsrc="Suit_(cards)">
+      <context> The Inscription <head>skill</head> allowed the crafting of cards of the suits of Mages , Swords , Rogues , and Demons . Card suit symbols occur in places outside card playing : The four suits were famously employed by the 101st Airborne Division during World War II to distinguish its four constituent regiments :</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-2-30-2" docsrc="Suit_(cards)">
+      <context> === Trumps <head>===</head> === Special suits ===</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-2-83-1" docsrc="Suit_(cards)">
+      <context> ==== Commercial <head>decks</head> ==== 5° Dimension , is an 80-card deck introduced in 2007 . The five suits are Hearts ( red ) , Spades ( black ) , Clubs ( green ) , Diamonds ( yellow ) and Stars ( blue ) .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-20-68-2" docsrc="Suit_(cards)">
+      <context> Numerous variations of the 52-card French deck have existed over the years . Most notably , the tarot deck has <head>a</head> separate trump series in addition to the four suits ; however this fifth suit is a series of cards of a different number and style than the suited cards . Various people have independently suggested expanding the French deck to five , six or even more suits where the additional suits have the same number and style of cards as the French suits , and have proposed rules for expanded versions of popular games such as rummy , hearts , bridge , and poker that could be played with such a deck .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-21-0-1" docsrc="Suit_(cards)">
+      <context> In playing cards , a suit is one of several categories into which the cards of a deck are divided . <head>Most</head> often , each card bears one of several pips ( symbols ) showing to which suit it belongs ; the suit may alternatively or additionally be indicated by the color printed on the card .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-21-68-1" docsrc="Suit_(cards)">
+      <context> Shape is used to denote the pointed ( diamonds and spades , which visually have a sharp point uppermost ) versus <head>rounded</head> ( hearts and clubs ) suits . Numerous variations of the 52-card French deck have existed over the years . Most notably , the tarot deck has a separate trump series in addition to the four suits ; however this fifth suit is a series of cards of a different number and style than the suited cards .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-23-122-1" docsrc="Suit_(cards)">
+      <context> Roodles was described on its box cover as simple , instructive , scientific and entertaining . A special mention should be made of <head>the</head> card game Set . Whereas cards in a traditional deck have two classifications—suit and rank—and each combination is represented by one card , giving for example 4 suits × 13 ranks = 52 cards , each card in a Set deck has four classifications each into one of three categories , giving a total of 3 × 3 × 3 × 3 = 81 cards .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-23-92-1" docsrc="Suit_(cards)">
+      <context> The cards are pentagonal . ==== Historical decks ==== In America in 1895 , Hiram Jones created a deck called International Playing Cards <head>and</head> it had two additional suits , a red suit with crosses and a black suit of bullets .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-24-0-3" docsrc="Suit_(cards)">
+      <context> Most often , each card bears one of several pips ( symbols ) showing to which suit it belongs ; the suit may alternatively <head>or</head> additionally be indicated by the color printed on the card . The rank for each card is determined by the number of pips on it . Ranking indicates which cards within a suit are better , higher or more valuable than others , whereas there is no order between the suits unless defined in the rules of a specific card game .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-24-155-1" docsrc="Suit_(cards)">
+      <context> In computer and another digital media , suit symbols are represented with character encoding , notably in the ISO and Unicode standards , and <head>as</head> Web standard ( SGML 's named entity " &amp;name ; " syntax ) : Unicode is the most frequently used encoding standard , and suits are in the Miscellaneous Symbols Block ( 2600–26FF ) of the Unicode . Other expressions drawn from bridge and similar games include strong suit ( used to refer to any area of personal strength ) and following suit ( in the sense of going along with the crowd ) .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-24-47-1" docsrc="Suit_(cards)">
+      <context> Skat : clubs , spades , hearts , diamonds ( for bidding and to determine which Jack beats which in play ) Big Two <head>:</head> spades , hearts , clubs , diamonds ( Presidents and Arseholes reverses suit strength : hearts , diamonds , spades , clubs ) Teen patti : In the case where two players have flushes with cards of the same value , the winning hand is based on suit color as ranked by clubs , hearts , spades , diamonds .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-25-54-3" docsrc="Suit_(cards)">
+      <context> In other games , such as Canasta , only the color ( red or black ) is relevant . In yet others , such as <head>bridge</head> , each of the suit pairings are distinguished . Fundamentally , there are three ways to divide four suits into pairs : by color , by rank and by shape resulting in six possible suit combinations .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-26-130-1" docsrc="Suit_(cards)">
+      <context> The Cripple Mr. Onion deck uses eight fictional suits , but may be simulated by combining the standard French suits with the traditional Latin suited ones <head>or</head> by using a modern 8-suited deck . The Discordian deck is a parody of the Tarot deck , its five suits corresponding to the five Discordian elements . The card game of sabacc from the Star Wars universe has the suits of staves , flasks , sabers , and coins ( similar to Latin suits ) , with cards ranked one through fifteen , plus two each of eight other cards which have no suit .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-26-41-2" docsrc="Suit_(cards)">
+      <context> As there is no truly standard way to order the four suits , each game that needs to do so has its own convention ; however <head>,</head> the ubiquity of bridge has gone some way to make its ordering a de facto standard . Typical orderings of suits include ( from highest to lowest ) : Bridge ( for bidding and scoring ) and occasionally poker : spades , hearts , diamonds , clubs ; ' notrump ' ranks above all the suits</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-27-57-1" docsrc="Suit_(cards)">
+      <context> Color is used to denote the red suits ( hearts and diamonds ) and the black suits ( spades and clubs ) . Rank is used to <head>indicate</head> the major ( spades and hearts ) versus minor ( diamonds and clubs ) suits . Shape is used to denote the pointed ( diamonds and spades , which visually have a sharp point uppermost ) versus rounded ( hearts and clubs ) suits .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-29-119-3" docsrc="Suit_(cards)">
+      <context> An example would be the game Taj Mahal , in which each card has one of four background colors , the rule being that all the cards played by <head>a</head> single player in a single round must be the same color . The selection of cards in the deck of each color is approximately the same and the player 's choice of which color to use is guided by the contents of their particular hand . Roodles , a game published in 1912 by A.J. Patterson of Kalamazoo and later by Flinch Card Co. , uses a deck with 14 cards in each of four suits ( all black ) – Wishbones , Horseshoes , 4-Leaf Clovers , and Swastikas – plus a joker labeled " Roodles " .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-29-92-1" docsrc="Suit_(cards)">
+      <context> The cards are pentagonal . ==== Historical decks ==== In America in 1895 , Hiram Jones created a deck called International Playing Cards and it had two additional suits <head>,</head> a red suit with crosses and a black suit of bullets .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-3-36-5" docsrc="Suit_(cards)">
+      <context> With typical rules <head>for</head> Hearts ( rules vary slightly ) the queen of spades and the two of clubs ( sometimes also the jack of diamonds ) have special effects , with the result that all four suits have different strategic value . Tarot decks have a dedicated trump suit . === Ranking of suits ===</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-3-41-1" docsrc="Suit_(cards)">
+      <context> === Ranking of <head>suits</head> === As there is no truly standard way to order the four suits , each game that needs to do so has its own convention ; however , the ubiquity of bridge has gone some way to make its ordering a de facto standard . Typical orderings of suits include ( from highest to lowest ) :</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-3-52-1" docsrc="Suit_(cards)">
+      <context> Thirteen : Hearts <head>,</head> Diamonds , Clubs , Spades ( in descending order ) . === Pairing or ignoring suits ===</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-3-52-2" docsrc="Suit_(cards)">
+      <context> === Pairing or <head>ignoring</head> suits === The pairing of suits is a vestigial remnant of Ganjifa , a game where half the suits were in reverse order , the lower cards beating the higher .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-3-53-4" docsrc="Suit_(cards)">
+      <context> In Latin decks <head>,</head> the traditional division is between the long suits of swords and clubs and the round suits of cups and coins . This pairing can be seen in Ombre and Tarot card games . German and Swiss suits lack pairing but French suits reintroduced them and this can be seen in the game of Spoil Five .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-31-124-2" docsrc="Suit_(cards)">
+      <context> Bicycle Playing Cards produce a set of 55 cards that technically has 11 suits . They are actually a set of Double Nine Dominoes , where each card belongs to 2 <head>suits</head> . As in dominoes , each half of the domino represents one suit , in this case the suits range from 0 ( blank ) up to 9 , and the eleventh suit is reserved for the doubles .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-32-68-2" docsrc="Suit_(cards)">
+      <context> Numerous variations of the 52-card French deck have existed over the years . Most notably , the tarot deck has a separate trump series in addition to the four suits ; however <head>this</head> fifth suit is a series of cards of a different number and style than the suited cards . Various people have independently suggested expanding the French deck to five , six or even more suits where the additional suits have the same number and style of cards as the French suits , and have proposed rules for expanded versions of popular games such as rummy , hearts , bridge , and poker that could be played with such a deck .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-37-36-3" docsrc="Suit_(cards)">
+      <context> A simple example is Spades , which uses spades as a permanent trump suit . A less simple example is Hearts , which is a kind of point trick game in which the object is to avoid <head>taking</head> tricks containing hearts . With typical rules for Hearts ( rules vary slightly ) the queen of spades and the two of clubs ( sometimes also the jack of diamonds ) have special effects , with the result that all four suits have different strategic value .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-4-53-1" docsrc="Suit_(cards)">
+      <context> Pairing or ignoring suits <head>===</head> The pairing of suits is a vestigial remnant of Ganjifa , a game where half the suits were in reverse order , the lower cards beating the higher . In Ganjifa , progressive suits were called " strong " while inverted suits were called " weak " .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-46-130-1" docsrc="Suit_(cards)">
+      <context> The Cripple Mr. Onion deck uses eight fictional suits , but may be simulated by combining the standard French suits with the traditional Latin suited ones or by using a modern 8-suited deck . The Discordian deck is a parody of the Tarot deck , its <head>five</head> suits corresponding to the five Discordian elements . The card game of sabacc from the Star Wars universe has the suits of staves , flasks , sabers , and coins ( similar to Latin suits ) , with cards ranked one through fifteen , plus two each of eight other cards which have no suit .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-5-12-10" docsrc="Suit_(cards)">
+      <context> The archaic system is like <head>the</head> Italian one , but the curved swords only touch each other without intersecting . Minchiate used a mixed system of Italian clubs and Portuguese swords . === Invention of the Germanic suits ===</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-6-0-3" docsrc="Suit_(cards)">
+      <context> Most often , each card bears <head>one</head> of several pips ( symbols ) showing to which suit it belongs ; the suit may alternatively or additionally be indicated by the color printed on the card . The rank for each card is determined by the number of pips on it . Ranking indicates which cards within a suit are better , higher or more valuable than others , whereas there is no order between the suits unless defined in the rules of a specific card game .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-6-131-1" docsrc="Suit_(cards)">
+      <context> The Discordian deck is a parody <head>of</head> the Tarot deck , its five suits corresponding to the five Discordian elements . The card game of sabacc from the Star Wars universe has the suits of staves , flasks , sabers , and coins ( similar to Latin suits ) , with cards ranked one through fifteen , plus two each of eight other cards which have no suit . The deck used in Firefly has suits of Plum , Peach , Orange , Apple , Apricot , and Banana .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-6-133-1" docsrc="Suit_(cards)">
+      <context> The deck used in Firefly has <head>suits</head> of Plum , Peach , Orange , Apple , Apricot , and Banana . In World of Warcraft , there are cards that randomly drop from humanoid enemies . If a player collected the entire suit , he/she could trade it for a trinket that would grant special abilities .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-6-133-3" docsrc="Suit_(cards)">
+      <context> If a player collected the entire <head>suit</head> , he/she could trade it for a trinket that would grant special abilities . Initially , this was limited to the ace through eight of the suits of Elementals , Beasts , Warlords , and Portals . A later content patch added the suits of Lunacy , Storms , Furies , and Blessings .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-6-145-2" docsrc="Suit_(cards)">
+      <context> The United States Navy 's Strike <head>Fighter</head> Squadron 41 ( VFA-41 ) is nicknamed The Black Aces and their emblem is an Ace of Spades with the number 41 . For fighter pilots , " ace " carries the meaning of flying ace . The Bartle Test uses the four suits in order to distinguish different player personalities that arise typically in a video game :</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-6-181-1" docsrc="Suit_(cards)">
+      <context> the Discordian Tarot Five Crowns , <head>a</head> 5-suits deck 5°Dimension , a deck with 5 suits of 16 cards each ( archive copy , see also video presentation )</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-6-182-1" docsrc="Suit_(cards)">
+      <context> Five Crowns , a 5-suits deck <head>5°Dimension</head> , a deck with 5 suits of 16 cards each ( archive copy , see also video presentation )</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-6-35-1" docsrc="Suit_(cards)">
+      <context> Trumps === === Special suits === <head>Some</head> games treat one or more suits as being special or different from the others .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-6-36-4" docsrc="Suit_(cards)">
+      <context> A less simple example is Hearts <head>,</head> which is a kind of point trick game in which the object is to avoid taking tricks containing hearts . With typical rules for Hearts ( rules vary slightly ) the queen of spades and the two of clubs ( sometimes also the jack of diamonds ) have special effects , with the result that all four suits have different strategic value . Tarot decks have a dedicated trump suit .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-6-8-1" docsrc="Suit_(cards)">
+      <context> A deck may include special cards <head>that</head> belong to no suit , often called jokers . === Origin and development of the Latin suits === There are four types of Latin suits : Italian , Spanish , Portuguese , and an extinct archaic type .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-7-0-6" docsrc="Suit_(cards)">
+      <context> Unless playing with multiple decks , there <head>is</head> exactly one card of any given rank in any given suit . A deck may include special cards that belong to no suit , often called jokers . === Origin and development of the Latin suits ===</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-7-118-1" docsrc="Suit_(cards)">
+      <context> Toss™ Double Deluxe Decks consists of the <head>traditional</head> French suits plus gold Crosses and Oracles , blue Castles and Shields , five Jokers ( one for each color plus a Boss Joker ) and two Null cards . === Other modern decks === Decks for some games are divided into suits , but otherwise bear little relation to traditional games .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-7-150-1" docsrc="Suit_(cards)">
+      <context> Hearts ( Socializers ) ( ♥ ) <head>enjoy</head> playing games for the social aspect or by interacting with other players . Spades ( Explorers ) ( ♠ ) enjoy digging around , discovering new areas , or learning about easter eggs or glitches in the game . In computer and another digital media , suit symbols are represented with character encoding , notably in the ISO and Unicode standards , and as Web standard ( SGML 's named entity " &amp;name ; " syntax ) :</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-7-168-1" docsrc="Suit_(cards)">
+      <context> Spades ( card game ) Stripped deck <head>Names</head> of ranks of court cards and suits in various languages</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-7-55-1" docsrc="Suit_(cards)">
+      <context> In yet others , such as bridge <head>,</head> each of the suit pairings are distinguished . Fundamentally , there are three ways to divide four suits into pairs : by color , by rank and by shape resulting in six possible suit combinations . Color is used to denote the red suits ( hearts and diamonds ) and the black suits ( spades and clubs ) .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-8-128-2" docsrc="Suit_(cards)">
+      <context> Several people have invented decks which are not <head>meant</head> to be seriously played . The Double Fanucci deck from Zork takes the most imaginative licence with the suits : it has no fewer than fifteen , with the names Mazes , Books , Rain , Bugs , Fromps , Inkblots , Scythes , Plungers , Faces , Time , Lamps , Hives , Ears , Zurfs , and Tops . The Cripple Mr. Onion deck uses eight fictional suits , but may be simulated by combining the standard French suits with the traditional Latin suited ones or by using a modern 8-suited deck .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-8-53-4" docsrc="Suit_(cards)">
+      <context> In Latin decks , the traditional division is <head>between</head> the long suits of swords and clubs and the round suits of cups and coins . This pairing can be seen in Ombre and Tarot card games . German and Swiss suits lack pairing but French suits reintroduced them and this can be seen in the game of Spoil Five .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-8-53-5" docsrc="Suit_(cards)">
+      <context> This pairing can be seen in Ombre and <head>Tarot</head> card games . German and Swiss suits lack pairing but French suits reintroduced them and this can be seen in the game of Spoil Five . In some games , such as blackjack , suits are ignored .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-8-93-2" docsrc="Suit_(cards)">
+      <context> In America in 1895 , Hiram Jones created <head>a</head> deck called International Playing Cards and it had two additional suits , a red suit with crosses and a black suit of bullets . ( The bullets of that period were round , hence the pip was a circle . ) Other attempts over the years experimented with either suit substitutions or additional suits added to decks of playing cards .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-9-107-1" docsrc="Suit_(cards)">
+      <context> ==== Commercial decks ==== The Fat Pack adds red <head>Roses</head> , black Axes , black Tridents and red Doves to the standard deck . Toss™ Double Deluxe Decks consists of the traditional French suits plus gold Crosses and Oracles , blue Castles and Shields , five Jokers ( one for each color plus a Boss Joker ) and two Null cards .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-9-21-2" docsrc="Suit_(cards)">
+      <context> Beginning around the mid-15th century in Italy , some <head>decks</head> include of an extra suit of ( usually ) 21 numbered cards known as trionfi or trumps , to play tarot card games . Always included in tarot decks is one card , the Fool or Excuse , whose function varies according to the game or region . These cards do not have pips like the other suits .</context>
+    </instance>
+    <instance id="Suit_(cards)-suit-9-54-3" docsrc="Suit_(cards)">
+      <context> In other games , such as Canasta , only <head>the</head> color ( red or black ) is relevant . In yet others , such as bridge , each of the suit pairings are distinguished . Fundamentally , there are three ways to divide four suits into pairs : by color , by rank and by shape resulting in six possible suit combinations .</context>
+    </instance>
+    <instance id="Trump-suit-11-4-2" docsrc="Trump">
+      <context> The word " trump " derives from " trionfi " or <head>"</head> triumph " , documented as the name of a card game in 1529 and which spawned the game Ruff and Honours , which in turn led to Whist . Trionfi was also the name of the original card game for which tarot cards were designed , and in it the tarot cards had the role of what are now called trumps ; later card games , beginning with Triomphe , started using one of the ordinary suits as a replacement for the tarots when a tarot pack was not available . In most games , the relative rank of cards within a suit is the same in trump and plain suits , but they may sometimes differ , for example in Klabberjass , Euchre , or Eighty Points .</context>
+    </instance>
+    <instance id="Trump-suit-19-4-2" docsrc="Trump">
+      <context> The word " trump " derives from " trionfi " or " triumph " , documented as the name <head>of</head> a card game in 1529 and which spawned the game Ruff and Honours , which in turn led to Whist . Trionfi was also the name of the original card game for which tarot cards were designed , and in it the tarot cards had the role of what are now called trumps ; later card games , beginning with Triomphe , started using one of the ordinary suits as a replacement for the tarots when a tarot pack was not available . In most games , the relative rank of cards within a suit is the same in trump and plain suits , but they may sometimes differ , for example in Klabberjass , Euchre , or Eighty Points .</context>
+    </instance>
+    <instance id="Trump-suit-47-4-1" docsrc="Trump">
+      <context> The word " trump " derives from " trionfi " or " triumph " , documented as the name of a card game in 1529 and which spawned the game Ruff and Honours , which in turn led to Whist . Trionfi was also the name of <head>the</head> original card game for which tarot cards were designed , and in it the tarot cards had the role of what are now called trumps ; later card games , beginning with Triomphe , started using one of the ordinary suits as a replacement for the tarots when a tarot pack was not available .</context>
+    </instance>
+    <instance id="br-a01#w703_0" docsrc="br-a01">
+      <context> Four additional deputies be employed at the Fulton_County_Jail and `` a doctor , medical_intern or extern be employed for night and weekend duty at the jail '' . Fulton legislators `` work with city officials to pass enabling_legislation that will permit the establishment of a fair and equitable '' pension plan for city employes . The jury praised the administration and operation of the Atlanta Police_Department , the Fulton_Tax_Commissioner_'s_Office , the Bellwood and Alpharetta prison_farms , Grady_Hospital and the Fulton_Health_Department . Mayor_William_B._Hartsfield filed <head>suit</head> for divorce from his wife , Pearl_Williams_Hartsfield , in Fulton_Superior_Court Friday . His petition charged mental cruelty . The couple was married Aug. 2 , 1913 . They have a son , William_Berry_Jr. , and a daughter , Mrs._J._M._Cheshire of Griffin .</context>
+    </instance>
+    <instance id="br-d03#w308_0" docsrc="br-d03">
+      <context> As an American Catholic of Irish ancestry , I came with certain preconceptions and expectations ; being intellectually influenced by Newman and the general 19th century literature of England , I knew only a Protestant dominated country . Since arriving here , however , I have formed a far different religious picture of present-day England . In representing part of this new picture , I will be recounting some of my own personal experiences , reactions and judgments ; but my primary aim is to transcribe what Englishmen themselves are saying and writing and implying about the Roman and Anglican_Churches and about the present religious state of England . Since the Protestant clergy for_the_most_part wear gray or some variant from the wholly black <head>suit</head> , my Roman_collar and black garb usually identify me in England as a Roman_Catholic cleric . In_any_case , I have always been treated with the utmost courtesy by Englishmen , even in Devonshire and Cornwall , where anti Catholic feeling has supposedly existed the strongest and longest . Nowhere have I seen public expression of anti-Catholicism . On my first Guy_Fawkes_Day here , I found Catholics as well as non Catholics celebrating with the traditional fireworks and bonfires , and was told that most Englishmen either do not know or are not concerned with the historical significance of the day .</context>
+    </instance>
+    <instance id="br-g12#w489_0" docsrc="br-g12">
+      <context> The mouth frequently breaks_into a disarming smile . The voice is light in timbre , with a rough edge that corresponds to his visage . The Irish accent is , as one would expect , combined with slight inflections from the French . His tweed <head>suit</head> was a baggy gray and green . He wore a brown knit sports_shirt with no tie . We walked down the Rue_de_L_'_Arcade , thence along beside the Madeleine and across to a sidewalk cafe opposite that church . The conversation that ensued may have been engrossing but it could hardly be called world_shattering .</context>
+    </instance>
+    <instance id="br-h16#w623_0" docsrc="br-h16">
+      <context> However , this Court put to one side without consideration the Government 's appeal from the dismissal of its Sherman_Act allegations . It rested its decision solely on 7 , which reads in pertinent part : `` [ N_]_o corporation engaged in commerce shall acquire , directly or indirectly , the whole or any part of the stock or other share capital of another corporation engaged also in commerce , where the effect of such acquisition may be to substantially lessen competition between the corporation whose stock is so acquired and the corporation making the acquisition , or to restrain such commerce in any section or community , or tend to create a monopoly of any line of commerce . This section shall not apply to corporations purchasing such stock solely for investment and not using the same by voting or otherwise to bring_about , or in attempting to bring_about , the substantial lessening of competition `` . The purpose of_this provision was thus explained in the Court 's opinion : `` Section 7 is designed to arrest in its incipiency not_only the substantial lessening of competition from the acquisition by one corporation of the whole or any part of the stock of a competing corporation , but also to arrest in their incipiency restraints or monopolies in a relevant market which , as a reasonable probability , appear at the time of <head>suit</head> likely to result from the acquisition by one corporation of all or any part of the stock of any other corporation . The section is violated whether or not actual restraints or monopolies , or the substantial lessening of competition , have occurred or are intended '' . 353_U._S._,_at_589 . Thus , a finding of conspiracy to restrain trade or attempt to monopolize was excluded from the Court 's decision .</context>
+    </instance>
+    <instance id="br-h16#w873_0" docsrc="br-h16">
+      <context> Indeed , as already noted , the Court proceeded on the assumption that the executives involved in the dealings between du_Pont and General_Motors acted `` honorably and fairly '' and exercised their business judgment only to serve what they deemed the best interests of their own companies . This , however , did not bar finding that du_Pont had become pre-eminent as a supplier of automotive fabrics and finishes to General_Motors ; that these products constituted a `` line of commerce '' within the meaning of the Clayton_Act ; that General_Motors ' share of the market for these products was substantial ; and that competition for this share of the market was endangered by the financial relationship between the two concerns : `` The statutory policy of fostering free competition is obviously furthered when no supplier has an advantage over his competitors from an acquisition of his customer 's stock likely to have the effects condemned by the statute . We repeat , that the test of a violation of 7 is whether , at the time of <head>suit</head> , there is a reasonable probability that the acquisition is likely to result in the condemned restraints . The conclusion upon this record is inescapable that such likelihood was proved as to this acquisition '' . 353_U._S._,_at_607 . On the basis of the findings which led to this conclusion , the Court remanded the case to the District_Court to determine the appropriate relief .</context>
+    </instance>
+    <instance id="br-k01#w236_0" docsrc="br-k01">
+      <context> He was discharged from the hospital after a two day checkup and he and his parents had what Mr._McKinley described as a `` celebration lunch '' at the cafeteria on the campus . Rachel wore a smart hat and , because she had been warned recently about smoking , puffed at her cigarettes through a long ivory holder stained with lipstick . Scotty 's father sat sprawled in his chair , angular , alert as a cricket , looking about at the huge stainless-steel appointments of the room with an expression of proprietorship . Teachers - men who wore brown <head>suits</head> and had gray hair and pleasant smiles - came to their table to talk_shop and to be introduced to Scotty and Rachel . Rachel was polite , Scotty indifferent . They ate the cafeteria food with its orange sauces and Scotty gazed without interest at his food , the teachers , the heroic baronial windows , and the bright ranks of college banners . His father tried to make the food a topic .</context>
+    </instance>
+    <instance id="br-k16#w2065_0" docsrc="br-k16">
+      <context> David finished shaving , washed his face clean of lather , and combed and retied his hair . He was proud that he had never worn a wig . More_and_more of the colonials were wearing their own hair and not using powder . He felt cheerful again , refreshed ; presentable in his wide-cut brown <head>suit</head> , the well-made riding_boots . It is so easy to falsify sentiment . In the meadow below , militia officers shouted at their men and on King_'s_Bridge two boys sat fishing . The future would happen ; he did not have_to hurry it by thinking too_much .</context>
+    </instance>
+    <instance id="br-k19#w2196_0" docsrc="br-k19">
+      <context> He found Elizabeth in the parlor and asked her to make sure everything was in_order in the residential hall , and_then to take_charge of the office while the party was here . When everything had been done , Rector went_back to his desk to occupy himself with his monthly report until three o'clock . At two thirty he sent Fujimoto to the top of the wall at the northeast corner of the mission to keep_an_eye_on the ridge road and give a signal when he first glimpsed the approach of Kayabashi 's party . Then Rector , attired in his best blue serge <head>suit</head> , sat in a chair out on the lawn , in the shade of a tree , smoking a cigarette and waiting . The air was cooler here , and the lacy pattern of the trees threw a dappled shadow on the grass , an effect which he found pleasant .</context>
+    </instance>
+    <instance id="br-k28#w1653_0" docsrc="br-k28">
+      <context> `` Winston '' , she said , `` get the basket for the breakables '' . Winston had the big straw basket ready in the hall . He brought it in and put it down beside her . Miss_Ada was looking fine ; she had_on her Easter <head>suit</head> , blue , with lavender binding . Halfway across the house , he could have smelled her morning perfume . It hung_in all her day clothes , sweet and strong ; sometimes when he was pressing , Winston raised her dresses to his face . Frowning , Miss_Ada studied the list .</context>
+    </instance>
+    <instance id="br-k29#w1466_0" docsrc="br-k29">
+      <context> We would attend a film and , later_on , I stated , we might go to the Mayflower_Coffee_Shop or Child 's or Toffenetti 's for waffles . I set the hour of our meeting for seven . At five o'clock that night it was already dark , and behind my closed door I was dressing as carefully as a groom . I wore a new double-breasted brown worsted <head>suit</head> with a faint herringbone design and wide lapels like a devil 's ears . My camp made leather wallet , bulky with twisted , raised stitches around the edges , I stuffed with money I had been saving . Hatless , in an overcoat of rough blue wool , I was given a proud farewell by my mother and father , and I set_out into the strangely still streets of Brooklyn . I felt superior to the neighborhood friends I was leaving_behind , felt older than my years , and was full of compliments for myself as I headed into the subway that was carrying its packs of passengers out of_that dull borough and into the unstable , tantalizing excitement of Manhattan .</context>
+    </instance>
+    <instance id="br-k29#w467_0" docsrc="br-k29">
+      <context> My memory has catalogued for easy reference and withdrawal the image of her pink , scented stationery and the unsloped , almost printed configurations of her neat , studious handwriting with which she invited me to recall our summer , so many sentences beginning with `` Remember when '' ; and_others concerning camp friends who resided in her suburban neighborhood , and news of her commencing again her piano_lessons , her private_school , a visit to Boston to see her grandparents and an uncle who was a surgeon returned on furlough , wounded , from the war in Europe . In my letters I took_on a personality that differed from the self I knew in real_life . Then epistolatory me was a foreign correspondent dispatching exciting cables and communiques , full of dash and wit and glamor , quoting from the books I read , imitating the grand styles of the authors recommended by a teacher in whose special , after_school class I was enrolled . The letters took their source from a stream of my imagination in which I was transformed into a young_man not unlike my bunkmate Eliot_Sands - he of the porch steps anecdotes - who smoked cigarettes , performed the tango , wore fifty dollar <head>suits</head> , and sneaked_off into the dark with girls to do unimaginable things with them . Like Eliot , in my fantasies , I had a proud bearing and , with a skill that was vaguely continental , I would lead Jessica through an evening of dancing and handsome descriptions of my newest exploits , would guide her gently to the night 's climax which , in my dreams , was always represented by our almost suffocating one another to death with deep , moist kisses burning with love . The night after reading her letter about her surgeon uncle - it must have been late in September - I had a vision of myself returned in ragged uniform from The Front , nearly dying , my head bandaged and bloody , and Jessica bending over me , the power of her love bringing me back to life . For many nights afterward , the idea of her having been so close to me in_that imagined bed would return and fill me with obscure and painful desires , would cause me to lie_awake in shame , tossing with irresolution , longing to fall into a deep sleep .</context>
+    </instance>
+    <instance id="br-n17#w1319_0" docsrc="br-n17">
+      <context> `` You know who the other man was '' ? `` No , I never did see his face . I did n't get a good look at him at_all , his back was to me , and I was so scared . It was just somebody in a man 's <head>suit</head> . But I 'm sure the other one was Lou '' . What Joyce wanted me to do was go_to Thor 's house and `` do whatever detectives do '' , and get her clothes - and handbag containing her identification . She realized I 'd have_to notify the police , but fervently hoped I could avoid mentioning her name .</context>
+    </instance>
+    <instance id="br-p09#w455_0" docsrc="br-p09">
+      <context> And Gratt_Shafer would be in Memphis today for the wedding rehearsal and then tomorrow he would marry just like everybody knew he would , just like everybody knew all_along . Like Mattie and the mayor up there gripping the microphone and Toonker_Burkette back in his office yanking out teeth , like they all knew he would . Just like the balloon would go_up and you could sit all day and wish it would spring a leak or blow to_hell up and burn and nothing like that would happen . Or you could hope the parachute would n't open just so you could say you saw it not open , not because you meant any harm to Starkey_Poe in his <head>suit</head> of red underwear , but mainly because you were tired_of being an old_maid - a thing which cannot admit when it thinks it might be pregnant , but must stand the dizzy feeling all alone and go_on like everything is all_right instead of being able to say to somebody in a normal voice : `` I think I 'm pregnant '' . You could wish that . Or you could wish your daddy would really do it - kill Gratt_Shafer like he said when you all_the_time , all_along , could feel the nerve draining out of him like air out of a punctured tire when you are on a muddy road alone and it is raining and at night . So you sit in the car and listen to the air run_out and listen to the rain and see the mud in_front_of the headlights , waiting for you , for your new spectator_pumps , waiting for you to squat by yourself out there in your tight skirt , crying and afraid and trying to get that damned son-of-a-bitch tire off , because that is being an old_maid too , if you happen to drive a car , it is changing the tire yourself in the night , and in the mud and the rain , hating to get out in it but afraid to stay and afraid to try to walk out for help .</context>
+    </instance>
+    <instance id="br-p12#w858_0" docsrc="br-p12">
+      <context> You look_like a tweedy Englishman . Ca n't you wear something else and look a_little more as though you belonged '' ? `` I do n't mind at_all '' , he said , delighted with her attention . Changing his clothes , he put_on his dark-blue flannel <head>suit</head> , and laid away the gray jacket with the feeling that he might be putting it aside for_good . But it was a hopeful sign , he told himself . She no_longer wanted anything about him to remind her of the circumstances of their meeting that first night in Parioli . That day they loafed around , just getting the feel of the city .</context>
+    </instance>
+    <instance id="br-r05#w2077_0" docsrc="br-r05">
+      <context> `` If you can fix it up with the undertaker '' , returned the politician , `` it 's all_right with me '' . The manager of a movie_theater received a telephone_call from a woman who was equally indefinite . `` What have you got_on today '' ? she inquired . `` A blue <head>suit</head> '' , he answered . `` Who 's in it '' ? she continued . `` I am '' , he said . There was a short pause for reflection .</context>
+    </instance>
+  </lexelt>
+</corpus>

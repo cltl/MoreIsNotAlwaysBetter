@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="proximity.n" pos="NN">
+    <instance id="a01062938_d_4" docsrc="a01062938_d">
+      <context> free from contact or <head>proximity</head> or connection ;</context>
+    </instance>
+    <instance id="n08642632_d_2" docsrc="n08642632_d">
+      <context> the immediate <head>proximity</head> of someone or something ;</context>
+    </instance>
+    <instance id="n09394007_d_41" docsrc="n09394007_d">
+      <context> any of the nine large celestial_bodies in the solar_system that revolve_around the sun and shine by reflected light ; Mercury , Venus , Earth , Mars , Jupiter , Saturn , Uranus , Neptune , and Pluto in order of their <head>proximity</head> to the sun ; viewed from the constellation Hercules , all the planets rotate around the sun in a counterclockwise direction ;</context>
+    </instance>
+    <instance id="n14419510_d_11" docsrc="n14419510_d">
+      <context> the state or condition of touching or of being in immediate <head>proximity</head> ;</context>
+    </instance>
+    <instance id="r00163480_d_2" docsrc="r00163480_d">
+      <context> in close <head>proximity</head> ;</context>
+    </instance>
+    <instance id="v01500214_d_5" docsrc="v01500214_d">
+      <context> place side_by_side or in close <head>proximity</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

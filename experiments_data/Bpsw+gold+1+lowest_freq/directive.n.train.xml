@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="directive.n" pos="NN">
+    <instance id="a00732456_d_3" docsrc="a00732456_d">
+      <context> pertaining to giving <head>directives</head> or rules ;</context>
+    </instance>
+    <instance id="br-g22#w696_0" docsrc="br-g22">
+      <context> But hear Harrison_E._Salisbury , former Moscow correspondent of The_New_York_Times , and author of `` To_Moscow_-_And_Beyond '' . In a book review of `` The_Soviet_Cultural_Offensive '' , he says , `` Long before the State_Department organized its bureaucracy into an East-West_Contacts_Staff in_order to wage a cultural counter-offensive within Soviet borders , the sharp cutting-edge of American culture had carved its mark across the Russian steppes , as when the enterprising promoters of ' Porgy_and_Bess ' overrode the State_Department to carry the contemporary ' cultural warfare ' behind the enemy lines . They were not diplomats or jazz_musicians , or even organizers of reading-rooms and photo_montage displays , but rugged capitalist entrepreneurs like Henry_Ford , Hugh_Cooper , Thomas_Campbell , the International_Harvester_Co. , and David_W._Griffith . Their kind created an American culture superior to any in the world , an industrial and technological culture which penetrated Russia as it did almost every corner of the earth without a nickel from the Federal treasury or a single governmental specialist to contrive <head>directives</head> or program a series of consultations of interested agencies . This favorable image of America in the minds of Russian men and women is still there despite years of energetic anti American propaganda '' . Perhaps the public 's present attitude toward business stems from the fact that the `` rugged capitalist entrepreneur '' no_more exists in America . In his stead is a milquetoast version known_as `` the corporation '' .</context>
+    </instance>
+    <instance id="n07170080_ex1_6" docsrc="n07170080_ex1">
+      <context> the boss loves to send us <head>directives</head> ;</context>
+    </instance>
+    <instance id="n07170282_d_1" docsrc="n07170282_d">
+      <context> a <head>directive</head> issued by the President_of_the_United_States ; usually addressed to all heads of departments and agencies ;</context>
+    </instance>
+  </lexelt>
+</corpus>

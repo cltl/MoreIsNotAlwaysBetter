@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="deposit.n" pos="NN">
+    <instance id="Deposit_account-deposit-1-10-2" docsrc="Deposit_account">
+      <context> Accounts <head>maintained</head> by retail banks that pay interest but can not be used directly as money ( for example , by writing a cheque ) . Although not as convenient to use as checking accounts , these accounts let customers keep liquid assets while still earning a monetary return . Time deposit</context>
+    </instance>
+    <instance id="Deposit_account-deposit-1-12-3" docsrc="Deposit_account">
+      <context> When <head>the</head> term is over it can be withdrawn or it can be rolled over for another term . Generally speaking , the longer the term the better the yield on the money . Call deposit</context>
+    </instance>
+    <instance id="Deposit_account-deposit-1-13-1" docsrc="Deposit_account">
+      <context> Generally <head>speaking</head> , the longer the term the better the yield on the money . Call deposit A deposit account that allows for the withdrawal of funds without penalty , generally without notification to the bank .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-1-28-2" docsrc="Deposit_account">
+      <context> Banks <head>are</head> normally subject to prudential regulation which has the purpose of reducing the risk of failure of the bank . It may also have the purpose of reducing the extent of depositor losses in the event of bank failure . Bank deposits may also be insured by a deposit insurance scheme , if applicable .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-1-5-1" docsrc="Deposit_account">
+      <context> Transactional <head>account</head> Current account ( Commonwealth)/Checking account ( US ) A deposit account held at a bank or other financial institution , for the purpose of securely and quickly providing frequent access to funds on demand , through a variety of different channels .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-1-7-1" docsrc="Deposit_account">
+      <context> Because <head>money</head> is available on demand these accounts are also referred to as demand accounts or demand deposit accounts , except in the case of NOW Accounts . Money market account A deposit account that pays interest , and for which short notice ( or no notice ) is required for withdrawals .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-10-21-3" docsrc="Deposit_account">
+      <context> The bank 's financial statement reflects the economic substance of <head>the</head> transaction—which is that the bank has borrowed $ 100 from its depositor and has contractually obliged itself to repay the customer according to the terms of the agreement . To offset this deposit liability , the bank now owns the funds deposited ( either in notes and coin or more usually as a debt owed by another bank ) and the bank shows those funds as an asset of the bank . These " physical " reserve funds may be held as deposits at the relevant central bank and will receive the interest as per monetary policy .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-11-19-1" docsrc="Deposit_account">
+      <context> The customer may or may not be able to pay money <head>into</head> or out of the account by cheque , internet banking , EFTPOS or other channels , depending on those terms and conditions . The banking terms " deposit " and " withdrawal " mean a customer paying money into , and taking money out of , the account . From a legal and financial accounting standpoint , the term " deposit " is used by the banking industry in financial statements to describe the liability owed by the bank to its depositor , and not the funds that the bank holds as a result of the deposit , which are shown as assets of the bank .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-12-8-1" docsrc="Deposit_account">
+      <context> Money market account A deposit account that pays interest , and for <head>which</head> short notice ( or no notice ) is required for withdrawals . In the United States , it is a style of instant access deposit subject to federal savings account regulations , such as a monthly transaction limit .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-16-23-4" docsrc="Deposit_account">
+      <context> For example , if a bank in the United States makes a loan to a customer <head>by</head> depositing the loan proceeds in that customer 's checking account , the bank typically records this event by debiting an asset account on the bank 's books ( called loans receivable or some similar name ) and credits the deposit liability or checking account of the customer on the bank 's books . From an economic standpoint , the bank has essentially created economic money ( although not legal tender ) . The customer 's checking account balance has no dollar bills in it , as a demand deposit account is simply a liability owed by the bank to its customer .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-17-6-1" docsrc="Deposit_account">
+      <context> Current account ( Commonwealth)/Checking account ( US ) A deposit account held at a bank or other <head>financial</head> institution , for the purpose of securely and quickly providing frequent access to funds on demand , through a variety of different channels . Because money is available on demand these accounts are also referred to as demand accounts or demand deposit accounts , except in the case of NOW Accounts .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-2-11-1" docsrc="Deposit_account">
+      <context> Although not <head>as</head> convenient to use as checking accounts , these accounts let customers keep liquid assets while still earning a monetary return . Time deposit A money deposit at a banking institution that can not be withdrawn for a preset fixed ' term ' or period of time .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-2-23-1" docsrc="Deposit_account">
+      <context> These " <head>physical</head> " reserve funds may be held as deposits at the relevant central bank and will receive the interest as per monetary policy . By transferring the ownership of deposits from one party to another , banks can avoid using physical cash as a method of payment . Commercial bank deposits account for most of the money supply in use today .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-3-21-2" docsrc="Deposit_account">
+      <context> In the audited <head>financial</head> statements of the bank , the $ 100 in currency would be shown on the balance sheet as an asset of the bank on the left side , and the deposit account would be shown as a liability owed by the bank to its customer , on the right side of the balance sheet . The bank 's financial statement reflects the economic substance of the transaction—which is that the bank has borrowed $ 100 from its depositor and has contractually obliged itself to repay the customer according to the terms of the agreement . To offset this deposit liability , the bank now owns the funds deposited ( either in notes and coin or more usually as a debt owed by another bank ) and the bank shows those funds as an asset of the bank .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-34-19-2" docsrc="Deposit_account">
+      <context> The banking terms " deposit " and " withdrawal " mean a customer paying money into , and taking money out of , the account . From a legal and financial accounting standpoint , <head>the</head> term " deposit " is used by the banking industry in financial statements to describe the liability owed by the bank to its depositor , and not the funds that the bank holds as a result of the deposit , which are shown as assets of the bank . In the audited financial statements of the bank , the $ 100 in currency would be shown on the balance sheet as an asset of the bank on the left side , and the deposit account would be shown as a liability owed by the bank to its customer , on the right side of the balance sheet .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-4-18-2" docsrc="Deposit_account">
+      <context> Subject to restrictions imposed <head>by</head> the terms and conditions of the account , the account holder ( customer ) retains the right to have their money repaid on demand . The customer may or may not be able to pay money into or out of the account by cheque , internet banking , EFTPOS or other channels , depending on those terms and conditions . The banking terms " deposit " and " withdrawal " mean a customer paying money into , and taking money out of , the account .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-47-19-1" docsrc="Deposit_account">
+      <context> The customer may or may not be able to pay money into or out of the account by cheque , internet banking , EFTPOS or other channels , depending on those terms and conditions . The banking terms " deposit " and " withdrawal " mean a <head>customer</head> paying money into , and taking money out of , the account . From a legal and financial accounting standpoint , the term " deposit " is used by the banking industry in financial statements to describe the liability owed by the bank to its depositor , and not the funds that the bank holds as a result of the deposit , which are shown as assets of the bank .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-5-21-4" docsrc="Deposit_account">
+      <context> To offset this deposit liability <head>,</head> the bank now owns the funds deposited ( either in notes and coin or more usually as a debt owed by another bank ) and the bank shows those funds as an asset of the bank . These " physical " reserve funds may be held as deposits at the relevant central bank and will receive the interest as per monetary policy . By transferring the ownership of deposits from one party to another , banks can avoid using physical cash as a method of payment .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-56-23-2" docsrc="Deposit_account">
+      <context> By transferring the ownership of deposits from one party to another , banks can avoid using physical cash as a method of payment . Commercial bank deposits account for most of the money supply in use today . For example , if a bank in the United States makes a loan to a customer by depositing <head>the</head> loan proceeds in that customer 's checking account , the bank typically records this event by debiting an asset account on the bank 's books ( called loans receivable or some similar name ) and credits the deposit liability or checking account of the customer on the bank 's books .</context>
+    </instance>
+    <instance id="Deposit_account-deposit-8-28-2" docsrc="Deposit_account">
+      <context> Banks are normally subject to prudential regulation which <head>has</head> the purpose of reducing the risk of failure of the bank . It may also have the purpose of reducing the extent of depositor losses in the event of bank failure . Bank deposits may also be insured by a deposit insurance scheme , if applicable .</context>
+    </instance>
+    <instance id="Deposition_(geology)-deposit-0-106-3" docsrc="Deposition_(geology)">
+      <context> <head>The</head> formation of this harbour has occurred due to active erosional processes on an extinct shield volcano , whereby the sea has flooded the caldera creating an inlet 16 km in length , with an average width of 2 km and a depth of -13 m relative to mean sea level at the 9 km point down the transect of the central axis . The predominant storm wave energy has unlimited fetch for the outer harbour from a southerly direction , with a calmer environment within the inner harbour , though localised harbour breezes create surface currents and chop influencing the marine sedimentation processes . Deposits of loess from subsequent glacial periods have in filled volcanic fissures over millennia , resulting in volcanic basalt and loess as the main sediment types available for deposition in Akaroa Harbour</context>
+    </instance>
+    <instance id="Deposition_(geology)-deposit-1-129-1" docsrc="Deposition_(geology)">
+      <context> Shields <head>parameter</head> Stokes ' law Superficial deposits</context>
+    </instance>
+    <instance id="Deposition_(geology)-deposit-1-130-1" docsrc="Deposition_(geology)">
+      <context> Stokes <head>'</head> law Superficial deposits</context>
+    </instance>
+    <instance id="Institutional_repository-deposit-0-2-1" docsrc="Institutional_repository">
+      <context> <head>For</head> a university , this includes materials such as monographs , eprints of academic journal articles—both before ( preprints ) and after ( postprints ) undergoing peer review—as well as electronic theses and dissertations ( ETDs ) . An institutional repository might also include other digital assets generated by academics , such as datasets , administrative documents , course notes , learning objects , or conference proceedings . Deposit of material in an institutional repository is sometimes mandated by that institution .</context>
+    </instance>
+    <instance id="Sediment_(wine)-deposit-13-1-3" docsrc="Sediment_(wine)">
+      <context> So unaccustomed have modern consumers become that many ( erroneously ) view it <head>as</head> a fault . Many winemakers therefore take great pains to ensure that the great majority of wines made today ( especially those designed to be drunk within their first few years ) will remain free of sediment for this time . Wines designed for long bottle aging , on the other hand , frequently deposit crystals of tartrates , and in addition red wines deposit some pigmented tannins .</context>
+    </instance>
+    <instance id="br-e21#w1359_0" docsrc="br-e21">
+      <context> Each area has its own historical interests with which much can be done . Park visitors are always eager to learn more about the area they are in . The historical sign tells its story , but nothing gets interest across as well as some of the original historical items or places themselves which still have the character of the period covered . Notice should be taken_of unusual rock formations , <head>deposits</head> , or shapes of the earth 's crust in your region . Those which tell a story of the earth 's formation in each area can add geological interest to the recreation sites . An old shipwreck , a high dam , an old covered bridge , a place to find agates or other semi-precious stones or a place to pan gold , etcetera may be of interest . Some areas may provide archeological values such as ancient Indian village sites or hunting areas , caves , artifacts , etcetera .</context>
+    </instance>
+    <instance id="br-j10#w2163_0" docsrc="br-j10">
+      <context> The thing is that these bees love a fine-grained soil that is moist ; yet the water in the ground should not be stagnant either . They dislike dense vegetation . Where does one find such conditions ? The best chance , of_course , is offered by gently sloping terrain where the water remains close to the surface and where the air is dry , so that a high evaporation leaves salty <head>deposits</head> which permit only sparse plant growth .</context>
+    </instance>
+  </lexelt>
+</corpus>

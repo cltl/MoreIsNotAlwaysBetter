@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Peru.n" pos="NN">
+    <instance id="br-l12#w1372_0" docsrc="br-l12">
+      <context> He stalled for a half-hour longer , hoping to hear something from Vecchio about the ransom_money . Bake and Shirl_Winter , on separate telephones , could not reach him at any conceivable location in Los_Angeles , nor could they secure any clear-cut information regarding his efforts . Bake cursed . `` The sweaty bastard 's probably halfway to <head>Peru</head> with our money by now '' . When no one smiled , he felt constrained to add , `` Just kidding , natch '' . Thornburg popped_in to advise , `` Andy , Skolman 's sending_up_smoke_signals . You about ready '' ?</context>
+    </instance>
+  </lexelt>
+</corpus>

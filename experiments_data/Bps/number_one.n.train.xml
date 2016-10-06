@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="number_one.n" pos="NN">
+    <instance id="n09605110_d_10" docsrc="n09605110_d">
+      <context> a reference to yourself or myself etc. ; take_care of <head>number_one</head> means to put your own interests first ;</context>
+    </instance>
+  </lexelt>
+</corpus>

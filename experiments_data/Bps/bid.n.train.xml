@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="bid.n" pos="NN">
+    <instance id="br-k23#w1801_0" docsrc="br-k23">
+      <context> I feel kind_of bad about it '' . He gave Abel a quick glance and moved closer to the wheel , hugging it to him , and Abel caught this briefest of allusions to guilt . `` I imagine the old girl has n't missed us much '' , Mark added , his eyes on the road . Abel ignored the half expressed <head>bid</head> for confirmation . He smiled . It was barely possible that his brother was right . He could tell they were approaching the sea .</context>
+    </instance>
+    <instance id="n00786887_ex2_3" docsrc="n00786887_ex2">
+      <context> he made a <head>bid</head> to gain attention ;</context>
+    </instance>
+    <instance id="n01169112_d_4" docsrc="n01169112_d">
+      <context> a series of competing <head>bids</head> ;</context>
+    </instance>
+    <instance id="n06737394_d_2" docsrc="n06737394_d">
+      <context> the highest <head>bid</head> becomes the contract setting the number of tricks that the bidder must make ;</context>
+    </instance>
+    <instance id="n06737628_d_1" docsrc="n06737628_d">
+      <context> a <head>bid</head> that asks your partner to bid another suit ;</context>
+    </instance>
+    <instance id="n06737758_d_1" docsrc="n06737758_d">
+      <context> a <head>bid</head> that is higher than your opponent's bid ( especially when your partner has not bid at_all and your bid exceeds the value of your hand ) ;</context>
+    </instance>
+    <instance id="n06737758_d_20" docsrc="n06737758_d">
+      <context> a bid that is higher than your opponent's bid ( especially when your partner has not bid at_all and your <head>bid</head> exceeds the value of your hand ) ;</context>
+    </instance>
+    <instance id="n06737758_d_8" docsrc="n06737758_d">
+      <context> a bid that is higher than your opponent's <head>bid</head> ( especially when your partner has not bid at_all and your bid exceeds the value of your hand ) ;</context>
+    </instance>
+    <instance id="n06738008_d_2" docsrc="n06738008_d">
+      <context> a high <head>bid</head> that is intended to prevent the opposing players from bidding ;</context>
+    </instance>
+    <instance id="n07164546_d_7" docsrc="n07164546_d">
+      <context> something offered ( as a proposal or <head>bid</head> ) ;</context>
+    </instance>
+    <instance id="n07165298_d_1" docsrc="n07165298_d">
+      <context> a <head>bid</head> that is higher than preceding bids ;</context>
+    </instance>
+    <instance id="n07165298_d_7" docsrc="n07165298_d">
+      <context> a bid that is higher than preceding <head>bids</head> ;</context>
+    </instance>
+    <instance id="n07165410_d_1" docsrc="n07165410_d">
+      <context> a <head>bid</head> to buy all of a person's holdings ;</context>
+    </instance>
+    <instance id="n09853184_d_4" docsrc="n09853184_d">
+      <context> someone who makes a <head>bid</head> at cards ;</context>
+    </instance>
+    <instance id="n10505613_d_6" docsrc="n10505613_d">
+      <context> a bridge_partner who increases the partner's <head>bid</head> ;</context>
+    </instance>
+    <instance id="n13304665_d_11" docsrc="n13304665_d">
+      <context> the minimum price at which a seller of property will entertain <head>bids</head> ;</context>
+    </instance>
+    <instance id="v02300549_d_4" docsrc="v02300549_d">
+      <context> designate with the final <head>bid</head> of a hand ;</context>
+    </instance>
+    <instance id="v02300734_d_3" docsrc="v02300734_d">
+      <context> make a higher <head>bid</head> than ; in a card_game ;</context>
+    </instance>
+    <instance id="v02301000_d_4" docsrc="v02301000_d">
+      <context> bid over an opponent's <head>bid</head> when one's partner has not bid or doubled ;</context>
+    </instance>
+  </lexelt>
+</corpus>

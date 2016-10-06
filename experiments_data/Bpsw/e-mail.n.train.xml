@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="e-mail.n" pos="NN">
+    <instance id="n06279805_d_4" docsrc="n06279805_d">
+      <context> a service providing free <head>email</head> delivery in exchange for exposure to advertising ;</context>
+    </instance>
+    <instance id="n06279939_d_21" docsrc="n06279939_d">
+      <context> a representation of a facial_expression ( as a smile or frown ) created by typing a sequence of characters in sending <head>email</head> ;</context>
+    </instance>
+    <instance id="n06280347_d_1" docsrc="n06280347_d">
+      <context> unwanted <head>e-mail</head> ( usually of a commercial nature sent_out in bulk ) ;</context>
+    </instance>
+    <instance id="n06280477_d_5" docsrc="n06280477_d">
+      <context> the sending and processing of <head>e-mail</head> by computer ;</context>
+    </instance>
+    <instance id="n10629545_d_4" docsrc="n10629545_d">
+      <context> someone who sends unwanted <head>email</head> ( often in bulk ) ;</context>
+    </instance>
+    <instance id="v00790703_d_10" docsrc="v00790703_d">
+      <context> communicate over long distances , as via the telephone or <head>e-mail</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

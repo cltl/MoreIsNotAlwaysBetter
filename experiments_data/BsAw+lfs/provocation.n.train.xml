@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="provocation.n" pos="NN">
+    <instance id="br-g01#w885_0" docsrc="br-g01">
+      <context> But in our case - and neither my wife nor I have extreme views on integration , nor are we given to emotional outbursts - the situation has ruined one or two valued friendships and come_close to wrecking several more . In_fact it has caused us to give serious thought to moving our residence south , because it is not easy for the most objective Southerner to sit calmly by when his host is telling a roomful of people that the only way to deal with Southerners who oppose integration is to send in troops and shoot the bastards down . Accounts have been published of Northern liberals in the South up_against segregationist prejudice , especially in state-supported universities where pressure may be strong to uphold the majority view . But these accounts do not show that Northerners have been subjected to embarrassment or <head>provocation</head> by Yankee hatred displayed in social gatherings . From my wife 's experience and other sources , this seems to be rarely encountered in educated circles . The strong feeling is certainly there ; but there is a leavening of liberalism among college graduates throughout the South , especially among those who studied in the North . And social_relations arising out of business ties impose courtesy , if not sympathy , toward resident and visiting Northerners .</context>
+    </instance>
+  </lexelt>
+</corpus>

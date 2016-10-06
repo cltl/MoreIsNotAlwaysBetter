@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Ecuador.n" pos="NN">
+    <instance id="a02966324_d_7" docsrc="a02966324_d">
+      <context> of or relating to or characteristic of <head>Ecuador</head> or its people ;</context>
+    </instance>
+    <instance id="n08040008_d_7" docsrc="n08040008_d">
+      <context> a small but violent terrorist_organization formed in <head>Ecuador</head> in the early 1990s ; responsible_for bombing several government_buildings ;</context>
+    </instance>
+    <instance id="n08777130_d_4" docsrc="n08777130_d">
+      <context> the largest city of <head>Ecuador</head> ;</context>
+    </instance>
+    <instance id="n08777233_d_3" docsrc="n08777233_d">
+      <context> the capital of <head>Ecuador</head> ;</context>
+    </instance>
+    <instance id="n08777348_d_12" docsrc="n08777348_d">
+      <context> a group of islands in the Pacific off South_America ; owned by <head>Ecuador</head> ; known for unusual animal life ;</context>
+    </instance>
+    <instance id="n09174166_d_5" docsrc="n09174166_d">
+      <context> an Andean volcano in northern <head>Ecuador</head> ; last erupted in 1955 ;</context>
+    </instance>
+    <instance id="n09174301_d_12" docsrc="n09174301_d">
+      <context> the world's largest active volcano ; located in the Andes in north_central <head>Ecuador</head> ;</context>
+    </instance>
+    <instance id="n09177103_d_8" docsrc="n09177103_d">
+      <context> an inactive volcano in the Andes in central <head>Ecuador</head> ; last erupted in 1946 ;</context>
+    </instance>
+    <instance id="n09243615_d_6" docsrc="n09243615_d">
+      <context> a mountain_peak in the Andes in <head>Ecuador</head> ;</context>
+    </instance>
+    <instance id="n09700371_d_5" docsrc="n09700371_d">
+      <context> a native or inhabitant of <head>Ecuador</head> ;</context>
+    </instance>
+    <instance id="n11488601_d_17" docsrc="n11488601_d">
+      <context> a warm ocean_current that flows along the equator from the date_line and south off the coast of <head>Ecuador</head> at Christmas_time ;</context>
+    </instance>
+    <instance id="n12664469_d_3" docsrc="n12664469_d">
+      <context> small tree of <head>Ecuador</head> and Peru having very large glossy leaves and large panicles of fragrant pink flowers ; cultivated for its medicinal bark ;</context>
+    </instance>
+    <instance id="n13665256_d_23" docsrc="n13665256_d">
+      <context> a fractional_monetary_unit of several countries : El_Salvador and Sao_Tome_and_Principe and Brazil and Argentina and Bolivia and Colombia and Cuba and the Dominican_Republic and <head>Ecuador</head> and El_Salvador and Guatemala and Honduras and Mexico and Nicaragua and Peru and the Philippines and Portugal ;</context>
+    </instance>
+    <instance id="n13707473_d_2" docsrc="n13707473_d">
+      <context> monetary_unit in <head>Ecuador</head> ;</context>
+    </instance>
+    <instance id="n13707585_d_6" docsrc="n13707585_d">
+      <context> the basic unit of money in <head>Ecuador</head> ; equal to 100 centavos ;</context>
+    </instance>
+  </lexelt>
+</corpus>

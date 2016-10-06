@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Supreme_Court.n" pos="NN">
+    <instance id="br-g01#w1100_0" docsrc="br-g01">
+      <context> I never heard of a poll being taken on the question . No_doubt such a thing would be considered unpatriotic . Prior to 1954 I imagine that a majority of Southerners would have voted against the Confederacy . Since the <head>Supreme_Court</head> 's decision of that year this is more doubtful ; and if a poll had been taken immediately following the dispatch of troops to Little_Rock I believe the majority would have been for the Old_South . Belief in the traditional way_of_life persists much more in the older states than in the new ones . Probably a larger percentage of Virginians and South_Carolinians remain unreconstructed than elsewhere , with Georgia , North_Carolina , and Alabama following along after them . Old attitudes are held more tenaciously in the Tidewater than the Piedmont ; so_that a line running down the length of the South marking the upper_limits of tidewater would roughly divide the Old_South from the new , but with , of_course , important minority enclaves .</context>
+    </instance>
+    <instance id="br-g01#w430_0" docsrc="br-g01">
+      <context> I am naive , they say , to make use of such words . I take this to mean that the intelligent - and therefore necessarily cynical ? - liberal considers that the need for a national economy with controls that will assure his conception of social justice is so great that individual and local liberties as_well_as democratic processes may have to yield before it . This seems like an attitude favoring a sort of totalitarian bureaucracy which , under a President of the same stamp , would try to coerce an uncooperative Congress or <head>Supreme_Court</head> . As for states ' rights , they have never counted in the thinking of my liberal friends except as irritations of a minor and immoral nature which exist now only as anachronisms . The American liberal may , in the world of to-day , have a strong case ; but he presents it publicly so enmeshed in hypocrisy that it is not an honest one . Why , in_the_first_place , call himself a liberal if he is against laissez-faire and favors an authoritarian central government with womb-to-tomb controls over everybody ?</context>
+    </instance>
+  </lexelt>
+</corpus>

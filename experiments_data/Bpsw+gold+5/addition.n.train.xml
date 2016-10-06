@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="addition.n" pos="NN">
+    <instance id="Summation-addition-1-2-2" docsrc="Summation">
+      <context> The <head>summation</head> of the sequence [ 1 , 2 , 4 , 2 ] is an expression whose value is the sum of each of the members of the sequence . In the example , 1 + 2 + 4 + 2 = 9 . Because addition is associative , the sum does not depend on how the additions are grouped , for instance ( 1 + 2 ) + ( 4 + 2 ) and 1 + ( ( 2 + 4 ) + 2 ) both have the value 9 ; therefore , parentheses are usually omitted in repeated additions .</context>
+    </instance>
+    <instance id="br-h24#w1234_0" docsrc="br-h24">
+      <context> If you file Form_1040_A and the District_Director computes your tax , you will be sent a bill if additional tax is_due . This bill should be paid within 30 days . Whether the check is certified or uncertified , the tax is not paid until the check is paid . If the check is not good and the April 15 or other due_date deadline elapses , <head>additions</head> to the tax may be incurred . Furthermore , a bad check may subject the maker to certain penalties . All checks and money_orders should be made payable to Internal_Revenue_Service . An overpayment of income and social_security taxes entitles you to a refund unless you indicate on the return that the overpayment should be applied to your succeeding year 's estimated tax .</context>
+    </instance>
+    <instance id="n00363788_ex1_1" docsrc="n00363788_ex1">
+      <context> the <head>addition</head> of flowers created a pleasing effect ;</context>
+    </instance>
+    <instance id="n00363788_ex2_1" docsrc="n00363788_ex2">
+      <context> the <head>addition</head> of a leap day every four years ;</context>
+    </instance>
+    <instance id="n02679415_ex1_1" docsrc="n02679415_ex1">
+      <context> the <head>addition</head> of a bathroom was a major improvement ;</context>
+    </instance>
+    <instance id="n02679415_ex2_1" docsrc="n02679415_ex2">
+      <context> the <head>addition</head> of cinnamon improved the flavor ;</context>
+    </instance>
+    <instance id="n13253423_ex2_4" docsrc="n13253423_ex2">
+      <context> he was a new <head>addition</head> to the staff ;</context>
+    </instance>
+    <instance id="n13754293_ex1_3" docsrc="n13754293_ex1">
+      <context> there was an <head>addition</head> to property taxes this year ;</context>
+    </instance>
+    <instance id="v02012725_d_13" docsrc="v02012725_d">
+      <context> transfer to the next column or unit's place before or after , in <head>addition</head> or multiplication ;</context>
+    </instance>
+  </lexelt>
+</corpus>

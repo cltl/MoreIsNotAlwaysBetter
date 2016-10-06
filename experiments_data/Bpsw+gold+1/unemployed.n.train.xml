@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="unemployed.n" pos="NN">
+    <instance id="n08428252_d_8" docsrc="n08428252_d">
+      <context> a march of protest or demonstration by the <head>unemployed</head> ;</context>
+    </instance>
+    <instance id="n08477307_ex1_2" docsrc="n08477307_ex1">
+      <context> the long-term <head>unemployed</head> need assistance ;</context>
+    </instance>
+    <instance id="n13382766_d_11" docsrc="n13382766_d">
+      <context> a check given by the British government to someone who is <head>unemployed</head> ; it can be cashed either at a bank or at the post_office ;</context>
+    </instance>
+  </lexelt>
+</corpus>

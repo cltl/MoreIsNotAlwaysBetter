@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="nutrient.n" pos="NN">
+    <instance id="br-e02#w2006_0" docsrc="br-e02">
+      <context> And unlike other fruits , one cannot eat the skin of the avocado . It is thick , much like an egg_plant 's skin , so that poison sprays , if they are used , present no hazard to the consumer . Good taste and versatility , plus safety from spray poisons would be enough to recommend the frequent use of such a fruit , even if its nutritional values were limited . Avocados , however , are very rich_in <head>nutrients</head> . Their main asset is an abundance of unsaturated fatty_acids , so necessary for maintaining the good_health of the circulatory_system . Aside from this , the average portion contains some protein , an appreciable amount of vitamins and C - about one-tenth of the minimum daily requirement , and about a third of the official vitamin_E requirement . The B_vitamins are well represented , especially thiamin and riboflavin .</context>
+    </instance>
+  </lexelt>
+</corpus>

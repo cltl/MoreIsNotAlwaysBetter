@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="perimeter.n" pos="NN">
+    <instance id="n03165955_d_9" docsrc="n03165955_d">
+      <context> a round hardwood disk with holes and a grooved <head>perimeter</head> used to tighten a shroud ;</context>
+    </instance>
+    <instance id="n08649167_d_7" docsrc="n08649167_d">
+      <context> a line segment forming part of the <head>perimeter</head> of a plane_figure ;</context>
+    </instance>
+    <instance id="n13871538_d_7" docsrc="n13871538_d">
+      <context> a straight_line from the center to the <head>perimeter</head> of a circle ( or from the center to the surface of a sphere ) ;</context>
+    </instance>
+    <instance id="n13871717_d_13" docsrc="n13871717_d">
+      <context> a straight_line connecting the center of a circle with two points on its <head>perimeter</head> ( or the center of a sphere with two points on its surface ) ;</context>
+    </instance>
+    <instance id="v01469445_d_6" docsrc="v01469445_d">
+      <context> place upon another so that their <head>perimeters</head> coincide ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="carnival.n" pos="NN">
+    <instance id="n00520059_d_1" docsrc="n00520059_d">
+      <context> a <head>carnival</head> held in some countries on Shrove_Tuesday ( the last day before Lent ) but especially in New_Orleans ;</context>
+    </instance>
+    <instance id="n00552679_ex2_5" docsrc="n00552679_ex2">
+      <context> the whole occasion had a <head>carnival</head> atmosphere ;</context>
+    </instance>
+    <instance id="n08614746_d_6" docsrc="n08614746_d">
+      <context> the place at a fair or <head>carnival</head> where sideshows and similar amusements are located ;</context>
+    </instance>
+    <instance id="n09839515_d_12" docsrc="n09839515_d">
+      <context> someone who stands in front of a show ( as at a <head>carnival</head> ) and gives a loud colorful sales_talk to potential customers ;</context>
+    </instance>
+    <instance id="n10123615_d_1" docsrc="n10123615_d">
+      <context> a <head>carnival</head> performer who does disgusting acts ;</context>
+    </instance>
+    <instance id="n10411551_d_14" docsrc="n10411551_d">
+      <context> someone who travels about selling his wares ( as on the streets or at <head>carnivals</head> ) ;</context>
+    </instance>
+    <instance id="v01094898_d_5" docsrc="v01094898_d">
+      <context> appear at county fairs and <head>carnivals</head> as a stunt_flier and parachute_jumper ;</context>
+    </instance>
+  </lexelt>
+</corpus>

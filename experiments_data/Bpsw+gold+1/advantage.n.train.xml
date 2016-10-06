@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="advantage.n" pos="NN">
+    <instance id="a00064479_d_2" docsrc="a00064479_d">
+      <context> giving an <head>advantage</head> ;</context>
+    </instance>
+    <instance id="a00149461_d_9" docsrc="a00149461_d">
+      <context> skillful in influencing or controlling others to your own <head>advantage</head> ;</context>
+    </instance>
+    <instance id="a00888765_d_8" docsrc="a00888765_d">
+      <context> showing extreme cupidity ; painfully desirous of another's <head>advantages</head> ;</context>
+    </instance>
+    <instance id="a00907972_d_5" docsrc="a00907972_d">
+      <context> displaying or setting_off to best <head>advantage</head> ;</context>
+    </instance>
+    <instance id="a00942693_d_5" docsrc="a00942693_d">
+      <context> developed or used to greatest <head>advantage</head> ;</context>
+    </instance>
+    <instance id="n00158185_d_9" docsrc="n00158185_d">
+      <context> exerting shrewd or devious influence especially for one's own <head>advantage</head> ;</context>
+    </instance>
+    <instance id="n00754593_d_18" docsrc="n00754593_d">
+      <context> an act of gerrymandering ( dividing a voting area so as to give your own party an unfair <head>advantage</head> ) ;</context>
+    </instance>
+    <instance id="n00776262_d_15" docsrc="n00776262_d">
+      <context> the practice of offering something ( usually money ) in order to gain an illicit <head>advantage</head> ;</context>
+    </instance>
+    <instance id="n05142863_ex1_5" docsrc="n05142863_ex1">
+      <context> it turned out to my <head>advantage</head> ;</context>
+    </instance>
+    <instance id="n06765531_d_7" docsrc="n06765531_d">
+      <context> an opening remark intended to secure an <head>advantage</head> for the speaker ;</context>
+    </instance>
+    <instance id="n09794081_d_10" docsrc="n09794081_d">
+      <context> a scheming person ; someone who schemes to gain an <head>advantage</head> ;</context>
+    </instance>
+    <instance id="n09830926_d_11" docsrc="n09830926_d">
+      <context> someone who is willing to trade favors or services for mutual <head>advantage</head> ;</context>
+    </instance>
+    <instance id="n10094782_d_10" docsrc="n10094782_d">
+      <context> a slick spokesperson who can turn any criticism to the <head>advantage</head> of their employer ;</context>
+    </instance>
+    <instance id="n10252674_d_18" docsrc="n10252674_d">
+      <context> a follower who hangs_around a host ( without benefit to the host ) in hope of gain or <head>advantage</head> ;</context>
+    </instance>
+    <instance id="n10336537_d_13" docsrc="n10336537_d">
+      <context> one who spreads real or alleged scandal about another ( usually for political <head>advantage</head> ) ;</context>
+    </instance>
+    <instance id="n10684827_d_13" docsrc="n10684827_d">
+      <context> a person who tries to please someone in order to gain a personal <head>advantage</head> ;</context>
+    </instance>
+    <instance id="n10711641_d_9" docsrc="n10711641_d">
+      <context> one who conforms_to current ways and opinions for personal <head>advantage</head> ;</context>
+    </instance>
+    <instance id="r00013793_d_6" docsrc="r00013793_d">
+      <context> in a manner affording benefit or <head>advantage</head> ;</context>
+    </instance>
+    <instance id="v01162754_d_5" docsrc="v01162754_d">
+      <context> use or manipulate to one's <head>advantage</head> ;</context>
+    </instance>
+    <instance id="v01163197_d_3" docsrc="v01163197_d">
+      <context> turn to one's <head>advantage</head> ;</context>
+    </instance>
+    <instance id="v01803936_d_8" docsrc="v01803936_d">
+      <context> control or influence skillfully , usually to one's <head>advantage</head> ;</context>
+    </instance>
+    <instance id="v02467516_d_5" docsrc="v02467516_d">
+      <context> divide unfairly and to one's <head>advantage</head> ; of voting districts ;</context>
+    </instance>
+    <instance id="v02584475_d_14" docsrc="v02584475_d">
+      <context> desert one's party or group of friends , for example , for one's personal <head>advantage</head> ;</context>
+    </instance>
+    <instance id="v02600490_d_9" docsrc="v02600490_d">
+      <context> seek or achieve an end by using to one's <head>advantage</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

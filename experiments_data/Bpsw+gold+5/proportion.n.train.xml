@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="proportion.n" pos="NN">
+    <instance id="a00351012_d_5" docsrc="a00351012_d">
+      <context> adjusted to reflect value or <head>proportion</head> ;</context>
+    </instance>
+    <instance id="a00482227_d_3" docsrc="a00482227_d">
+      <context> being in due <head>proportion</head> ;</context>
+    </instance>
+    <instance id="a00483048_d_2" docsrc="a00483048_d">
+      <context> out of <head>proportion</head> ;</context>
+    </instance>
+    <instance id="a02026785_d_8" docsrc="a02026785_d">
+      <context> high in mineral content ; having a high <head>proportion</head> of fuel to air ;</context>
+    </instance>
+    <instance id="n04698511_d_10" docsrc="n04698511_d">
+      <context> the artistic_style of ancient Greek art with its emphasis on <head>proportion</head> and harmony ;</context>
+    </instance>
+    <instance id="n05863919_d_7" docsrc="n05863919_d">
+      <context> one of the quantities in a mathematical <head>proportion</head> ;</context>
+    </instance>
+    <instance id="n13815449_ex1_2" docsrc="n13815449_ex1">
+      <context> an inordinate <head>proportion</head> of the book is given over to quotations ;</context>
+    </instance>
+    <instance id="n13815449_ex2_6" docsrc="n13815449_ex2">
+      <context> a dry martini has a large <head>proportion</head> of gin ;</context>
+    </instance>
+    <instance id="n13898509_d_2" docsrc="n13898509_d">
+      <context> lack of <head>proportion</head> ; imbalance among the parts of something ;</context>
+    </instance>
+    <instance id="v00483466_d_2" docsrc="v00483466_d">
+      <context> give pleasant <head>proportions</head> to ;</context>
+    </instance>
+  </lexelt>
+</corpus>

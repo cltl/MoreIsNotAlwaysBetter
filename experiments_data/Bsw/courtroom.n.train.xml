@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="courtroom.n" pos="NN">
+    <instance id="Courtroom-courtroom-1-14-3" docsrc="Courtroom">
+      <context> Appellate <head>courts</head> in the United States are not finders of fact , so they do not use juries or receive evidence into the record ; that is the trial court 's job . Therefore , in an appellate court , there is neither a witness stand nor a jury box , and the bench is much larger to accommodate multiple judges or justices . Multiple courtrooms may be housed in a courthouse .</context>
+    </instance>
+    <instance id="Courtroom-courtroom-1-9-1" docsrc="Courtroom">
+      <context> === <head>United</head> States === Adjacent to the bench are the witness stand and the desks where the court clerk and the court reporter sit . The courtroom is divided into two parts by a barrier known as the bar .</context>
+    </instance>
+    <instance id="Courtroom-courtroom-11-32-3" docsrc="Courtroom">
+      <context> The stand is designed so that any solicitor examining a witness <head>as</head> well as the judge/sheriff may get a good view of the testimony . At the far side of the courtroom directly opposite the jury box and behind the stand are seats for journalists who are attached to the court and the court social worker . Seats for members of the public are the back of the courtroom .</context>
+    </instance>
+    <instance id="Courtroom-courtroom-15-9-3" docsrc="Courtroom">
+      <context> The courtroom is divided into two parts by a barrier known as the bar . <head>The</head> bar may be an actual railing , or an imaginary barrier . The bailiff stands ( or sits ) against one wall and keeps order in the courtroom .</context>
+    </instance>
+    <instance id="Courtroom-courtroom-3-0-1" docsrc="Courtroom">
+      <context> A courtroom is <head>the</head> enclosed space in which courts of law are held in front of a judge . A number of courtrooms , which may also be known as " courts " , may be housed in a courthouse .</context>
+    </instance>
+    <instance id="Courtroom-courtroom-6-31-1" docsrc="Courtroom">
+      <context> Directly below the bench is the <head>clerk</head> 's station which usually has a computer to allow the clerk to get on with Court Disposal work during proceedings . Behind the well of the court is the dock in which the accused will sit during proceedings . Dependent on the style of the courtroom , the jury box will either be on the right or left hand side of the well of the court .</context>
+    </instance>
+    <instance id="Courtroom-courtroom-6-32-2" docsrc="Courtroom">
+      <context> Usually to the right or left <head>of</head> the bench ( again dependent on style and always directly opposite the jury ) slightly raised and facing forward is the stand where any witness who is called will give evidence . The stand is designed so that any solicitor examining a witness as well as the judge/sheriff may get a good view of the testimony . At the far side of the courtroom directly opposite the jury box and behind the stand are seats for journalists who are attached to the court and the court social worker .</context>
+    </instance>
+  </lexelt>
+</corpus>

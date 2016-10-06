@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="developing_country.n" pos="NN">
+    <instance id="n08168831_d_2" docsrc="n08168831_d">
+      <context> underdeveloped and <head>developing_countries</head> of Asia and Africa and Latin_America collectively ;</context>
+    </instance>
+    <instance id="n08195636_d_11" docsrc="n08195636_d">
+      <context> a civilian organization sponsored by the United_States_government ; helps people in <head>developing_countries</head> ;</context>
+    </instance>
+    <instance id="n08299911_d_19" docsrc="n08299911_d">
+      <context> an agency of the United_Nations responsible for programs to aid education and the health of children and mothers in <head>developing_countries</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

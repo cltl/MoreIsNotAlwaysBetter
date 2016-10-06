@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Democrat.n" pos="NN">
+    <instance id="br-a14#w1034_0" docsrc="br-a14">
+      <context> Deane_Beman , the National_Amateur champion , and all the metropolitan district champions , including Bob_Gardner , the amateur title-holder , also will receive awards . The writers ' Gold_Tee_Award will go to John_McAuliffe of Plainfield , N._J. , and Palm_Beach , Fla. , for his sponsorship of charity tournaments . Horton_Smith of Detroit , a former president of the Professional_Golfers_Association , will receive the Ben_Hogan_Trophy for his comeback following a recent illness . The principal speaker will be Senator_Stuart_Symington , <head>Democrat</head> of Missouri . Arnold_Palmer has been a blazing figure in golf over the past twelve months . He won the Masters , the United_States_Open and a record $ 80738 in prize_money . He was heralded as `` Sportsman of the Year '' by Sports_Illustrated , and last night was acclaimed in Rochester as the `` Professional_Athlete_of_the_Year '' , a distinction that earned for him the $ 10000 diamond - studded Hickok_Belt .</context>
+    </instance>
+    <instance id="n08263870_d_11" docsrc="n08263870_d">
+      <context> a former political_party in the United_States ; formed in 1948 by <head>Democrats</head> from southern states in order to oppose to the candidacy of Harry_S_Truman ;</context>
+    </instance>
+  </lexelt>
+</corpus>

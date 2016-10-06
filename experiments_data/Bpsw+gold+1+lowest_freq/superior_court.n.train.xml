@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="superior_court.n" pos="NN">
+    <instance id="n06553631_d_6" docsrc="n06553631_d">
+      <context> a common_law writ issued by a <head>superior_court</head> to one of inferior jurisdiction demanding the record of a particular case ;</context>
+    </instance>
+    <instance id="n08334873_d_17" docsrc="n08334873_d">
+      <context> a court that has power to prosecute for minor offenses and to bind_over for trial in a <head>superior_court</head> anyone accused of serious offenses ;</context>
+    </instance>
+  </lexelt>
+</corpus>

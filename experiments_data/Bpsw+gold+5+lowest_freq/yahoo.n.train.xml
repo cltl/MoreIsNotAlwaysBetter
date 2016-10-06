@@ -1,0 +1,620 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="yahoo.n" pos="n">
+    <instance id="Alibaba_Group-yahoo-12-32-1" docsrc="Alibaba_Group">
+      <context> In December 2001 , Alibaba.com achieved profitability . In December 2004 , <head>Alipay</head> , which started as a service on the Taobao platform , became a separate business . In October 2005 , Alibaba Group took over the operation of China Yahoo !</context>
+    </instance>
+    <instance id="Alibaba_Group-yahoo-2-104-1" docsrc="Alibaba_Group">
+      <context> === Alibaba <head>Cloud</head> Computing === === AliExpress === === China Yahoo ! ===</context>
+    </instance>
+    <instance id="Alibaba_Group-yahoo-7-33-1" docsrc="Alibaba_Group">
+      <context> In December 2004 , Alipay , which <head>started</head> as a service on the Taobao platform , became a separate business . In October 2005 , Alibaba Group took over the operation of China Yahoo ! as part of its strategic partnership with Yahoo ! Inc.</context>
+    </instance>
+    <instance id="My_Yahoo!-yahoo-10-0-5" docsrc="My_Yahoo!">
+      <context> On the 19th of September , 2013 a tablet oriented <head>redesigned</head> version of My Yahoo was launched . On the 31st of January , 2014 , this new version was rolled out to all users . While the appearance , layout and content of the main Yahoo homepage is standard , My Yahoo offers a more customizable experience .</context>
+    </instance>
+    <instance id="My_Yahoo!-yahoo-10-23-1" docsrc="My_Yahoo!">
+      <context> The site features many of the same features , and <head>is</head> generally more custom than My Yahoo . MyYahoo can not mix different feeds into one consolidated feed . A person can add ESPN , Fox Sports , and Yahoo Sports as separate feeds , but can not create a single feed that contains all three .</context>
+    </instance>
+    <instance id="My_Yahoo!-yahoo-14-0-3" docsrc="My_Yahoo!">
+      <context> features , content feeds and information onto a single page . iGoogle is similar <head>to</head> My Yahoo . On the 19th of September , 2013 a tablet oriented redesigned version of My Yahoo was launched .</context>
+    </instance>
+    <instance id="My_Yahoo!-yahoo-16-0-5" docsrc="My_Yahoo!">
+      <context> On the 19th of September , 2013 a tablet oriented redesigned version of My Yahoo was <head>launched</head> . On the 31st of January , 2014 , this new version was rolled out to all users . While the appearance , layout and content of the main Yahoo homepage is standard , My Yahoo offers a more customizable experience .</context>
+    </instance>
+    <instance id="My_Yahoo!-yahoo-16-15-1" docsrc="My_Yahoo!">
+      <context> On October 14 , 2011 , Google announced that with its new focus on Google+ MyYahoo <head>regained</head> a lot of its users back that they previously lost to Google . Another competitor to My Yahoo ! is based in Paris , France . The site features many of the same features , and is generally more custom than My Yahoo .</context>
+    </instance>
+    <instance id="My_Yahoo!-yahoo-36-2-1" docsrc="My_Yahoo!">
+      <context> On the 31st of January , 2014 , this new version was rolled out to all users . While the appearance , layout and content of the main Yahoo homepage is standard , My Yahoo offers <head>a</head> more customizable experience . On it users can for example , apply themes , add their favorite sites as news sources , add widgets ( among others ) to display content like Weather and a glance to the users ' Yahoo !</context>
+    </instance>
+    <instance id="My_Yahoo!-yahoo-4-14-3" docsrc="My_Yahoo!">
+      <context> Google was MyYahoo ’s <head>competitor</head> . On October 14 , 2011 , Google announced that with its new focus on Google+ MyYahoo regained a lot of its users back that they previously lost to Google . Another competitor to My Yahoo ! is based in Paris , France .</context>
+    </instance>
+    <instance id="My_Yahoo!-yahoo-5-0-2" docsrc="My_Yahoo!">
+      <context> My Yahoo ! is a <head>customizable</head> start page or personal web portal which enables users to combine personalized Yahoo ! features , content feeds and information onto a single page . iGoogle is similar to My Yahoo .</context>
+    </instance>
+    <instance id="Yaho-yahoo-0-7-1" docsrc="Yaho">
+      <context> <head>Yaho</head> Station , East Japan Railway Company station in Kunitachi , Tokyo All pages with titles containing Yaho Yahoo !</context>
+    </instance>
+    <instance id="Yaho-yahoo-0-8-1" docsrc="Yaho">
+      <context> <head>All</head> pages with titles containing Yaho Yahoo ! Yahoo ( disambiguation )</context>
+    </instance>
+    <instance id="Yaho-yahoo-0-9-1" docsrc="Yaho">
+      <context> <head>Yahoo</head> ! Yahoo ( disambiguation )</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-104-1" docsrc="Yahoo!">
+      <context> <head>The</head> Wall Street Journal reported that Yahoo plans to mimic this strategy used by rival Facebook Inc. to help drive traffic to its site . === Yahoo Accessibility === Yahoo has invested resources to increase and improve access to the Internet for the disabled community through the Yahoo Accessibility Lab .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-108-1" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> has invested resources to increase and improve access to the Internet for the disabled community through the Yahoo Accessibility Lab . === Yahoo Axis === Yahoo Axis is a desktop web browser extension and mobile browser for iOS devices created and developed by Yahoo .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-113-1" docsrc="Yahoo!">
+      <context> <head>A</head> copy of the private key used to sign official Yahoo browser extensions for Google Chrome was accidentally leaked in the first public release of the Chrome extension . === Yahoo SearchMonkey === Yahoo SearchMonkey ( often misspelled Search Monkey ) was a Yahoo service which allowed developers and site owners to use structured data to make Yahoo Search results more useful and visually appealing , and drive more relevant traffic to their sites .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-114-4" docsrc="Yahoo!">
+      <context> <head>The</head> name SearchMonkey is an homage to Greasemonkey . Officially the product name has no space and two capital letters . Yahoo SearchMonkey was selected as one of the top 10 Semantic Web Products of 2008 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-118-1" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> SearchMonkey was selected as one of the top 10 Semantic Web Products of 2008 . === Defunct services === Yahoo 360° was a blogging/social networking beta service launched in March 2005 by Yahoo and closed on July 13 , 2009 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-122-1" docsrc="Yahoo!">
+      <context> <head>===</head> Defunct services === Yahoo 360° was a blogging/social networking beta service launched in March 2005 by Yahoo and closed on July 13 , 2009 . Yahoo Mash beta was another social service closed after one year of operation prior to leaving beta status .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-122-2" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> 360° was a blogging/social networking beta service launched in March 2005 by Yahoo and closed on July 13 , 2009 . Yahoo Mash beta was another social service closed after one year of operation prior to leaving beta status . Yahoo Photos was shut down on September 20 , 2007 , in favor of integration with Flickr .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-123-1" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> Mash beta was another social service closed after one year of operation prior to leaving beta status . Yahoo Photos was shut down on September 20 , 2007 , in favor of integration with Flickr . Yahoo Tech was a website that provided product information and setup advice to users .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-123-2" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> Photos was shut down on September 20 , 2007 , in favor of integration with Flickr . Yahoo Tech was a website that provided product information and setup advice to users . Yahoo launched the website in May 2006 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-124-1" docsrc="Yahoo!">
+      <context> <head>Other</head> discontinued services include Farechase , My Web , Audio Search , Pets , Live , Kickstart , Briefcase , and Yahoo for Teachers . Hotjobs was acquired by and merged with Monster.com . Yahoo Mail Classic was announced as to be shut down in April 2013 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-126-1" docsrc="Yahoo!">
+      <context> <head>Hotjobs</head> was acquired by and merged with Monster.com . Yahoo Mail Classic was announced as to be shut down in April 2013 . Yahoo made a notice that , starting in June 2013 , Mail Classic and other old versions of Yahoo Mail will be shut down .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-127-1" docsrc="Yahoo!">
+      <context> <head>In</head> addition , April 2013 brought the closure of Upcoming , Yahoo Deals , Yahoo SMS Alerts , Yahoo Kids , Yahoo Mail and Messenger feature phone ( J2ME ) . In early July 2013 Yahoo announced the scheduled closure of the task management service Astrid . Yahoo had acquired the company in May 2013 and was to discontinue the service on August 5 , 2013 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-134-4" docsrc="Yahoo!">
+      <context> <head>Speaking</head> for our team , we were very disappointed by the way that this appeared in the press . " On April 27 , 2011 , Yahoo 's sale of del.icio.us to Avos was announced . Yahoo Buzz was closed down on April 21 , 2011 without an official announcement from Yahoo .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-14-1" docsrc="Yahoo!">
+      <context> <head>"</head> This meaning derives from the Yahoo race of fictional beings from Gulliver 's Travels . === Expansion === Yahoo began using Google for search in 2000 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-146-2" docsrc="Yahoo!">
+      <context> <head>Working</head> with comScore , The New York Times found that Yahoo was able to collect far more data about users than its competitors from its Web sites and advertising network . By one measure , on average Yahoo had the potential in December 2007 to build a profile of 2,500 records per month about each of its visitors . Yahoo retains search requests for a period of 13 months .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-153-2" docsrc="Yahoo!">
+      <context> <head>In</head> 2000 , Yahoo was taken to court in France by parties seeking to prevent French citizens from purchasing memorabilia relating to the Nazi Party . In March 2004 , Yahoo launched a paid inclusion program whereby commercial websites were guaranteed listings on the Yahoo search engine . Yahoo discontinued the program at the end of 2009 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-153-3" docsrc="Yahoo!">
+      <context> <head>In</head> March 2004 , Yahoo launched a paid inclusion program whereby commercial websites were guaranteed listings on the Yahoo search engine . Yahoo discontinued the program at the end of 2009 . Yahoo was criticized for providing ads via the Yahoo ad network to companies who display them through spyware and adware .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-153-4" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> discontinued the program at the end of 2009 . Yahoo was criticized for providing ads via the Yahoo ad network to companies who display them through spyware and adware . Yahoo , as well as other search engines , cooperated with the Chinese government in censoring search results .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-17-1" docsrc="Yahoo!">
+      <context> <head>The</head> company struggled through 2008 , with several large layoffs . In February 2008 Microsoft Corporation made an unsolicited bid to acquire Yahoo for US$ 44.6 billion . Yahoo formally rejected the bid , claiming that it " substantially undervalues " the company and was not in the interest of its shareholders .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-184-2" docsrc="Yahoo!">
+      <context> <head>Former</head> chief operating officer Henrique de Castro departed from the company in January 2014 after Mayer , who initially hired him after her appointment as CEO , dismissed him . de Castro , who previously worked for Google and McKinsey &amp; Company , was employed to revive Yahoo ’s advertising business . Yahoo holds a 34.75 % minority stake in Yahoo Japan , while SoftBank holds 35.45 % , YahooXtra in New Zealand , which Yahoo!7 have 51 % of and 49 % belongs to Telecom New Zealand , and Yahoo!7 in Australia , which is a 50–50 agreement between Yahoo and the Seven Network .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-190-3" docsrc="Yahoo!">
+      <context> <head>Historically</head> , Yahoo entered into joint venture agreements with SoftBank for the major European sites ( UK , France and Germany ) and well as South Korea and Japan . In November 2005 , Yahoo purchased the minority interests that SoftBank owned in Europe and Korea . Yahoo used to hold a 40 % stake in Alibaba , which manages a web portal in China using the Yahoo brand name .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-191-1" docsrc="Yahoo!">
+      <context> <head>In</head> November 2005 , Yahoo purchased the minority interests that SoftBank owned in Europe and Korea . Yahoo used to hold a 40 % stake in Alibaba , which manages a web portal in China using the Yahoo brand name . Yahoo in the USA does not have direct control over Alibaba , which operates as a completely independent company .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-215-1" docsrc="Yahoo!">
+      <context> <head>Mayer</head> then explained at a conference in late September 2013 that the logo change was the result of feedback from both external parties and employees . Official website Yahoo transparency reports</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-216-1" docsrc="Yahoo!">
+      <context> <head>Official</head> website Yahoo transparency reports Yahoo ! at DMOZ</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-218-1" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> transparency reports Yahoo ! at DMOZ</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-31-2" docsrc="Yahoo!">
+      <context> <head>The</head> Wall Street Journal 's Douglas MacMillan reported that Yahoo 's CEO Marissa Mayer is expected to cut 15 % of its workforce . The announcement is expected after the market closes on February 2 , 2016 . Yahoo operates a portal that provides the latest news , entertainment , and sports information .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-39-1" docsrc="Yahoo!">
+      <context> <head>Search</head> , Yahoo Mail , Yahoo Maps , Yahoo Finance , Yahoo Groups and Yahoo Messenger . === Communication === Yahoo Photos was closed on September 20 , 2007 , in favor of Flickr .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-45-1" docsrc="Yahoo!">
+      <context> <head>On</head> October 16 , 2007 , Yahoo announced that it would discontinue Yahoo 360° , including bug repairs ; the company explained that in 2008 it would instead establish a " universal profile " similar to the Yahoo Mash experimental system . === Content === Yahoo partners with numerous content providers in products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-46-1" docsrc="Yahoo!">
+      <context> <head>===</head> Content === Yahoo partners with numerous content providers in products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content . Yahoo provides a personalization service , My Yahoo , which enables users to combine their favorite Yahoo features , content feeds and information onto a single page .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-47-1" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> provides a personalization service , My Yahoo , which enables users to combine their favorite Yahoo features , content feeds and information onto a single page . On March 31 , 2008 , Yahoo launched Shine , a site tailored for women seeking online information and advice between the ages of 25 and 54 . Yahoo developed partnerships with broadband providers such as AT&amp;T Inc. ( via BellSouth &amp; SBC ) , Verizon Communications , Rogers Communications , and British Telecom , offering a range of free and premium Yahoo content and services to subscribers .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-55-1" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> developed partnerships with broadband providers such as AT&amp;T Inc. ( via BellSouth &amp; SBC ) , Verizon Communications , Rogers Communications , and British Telecom , offering a range of free and premium Yahoo content and services to subscribers . === Mobile services === Yahoo Mobile offers services for email , instant messaging , and mobile blogging , as well as information services , searches and alerts .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-56-2" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> Mobile offers services for email , instant messaging , and mobile blogging , as well as information services , searches and alerts . Services for the camera phone include entertainment and ring tones . Yahoo introduced its Internet search system , called OneSearch , for mobile phones on March 20 , 2007 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-63-2" docsrc="Yahoo!">
+      <context> <head>===</head> Commerce === Yahoo offers shopping services such as Yahoo !</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-64-2" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> offers shopping services such as Yahoo ! Shopping , Yahoo Autos , Yahoo Real Estate and Yahoo Travel , which enables users to gather relevant information and make commercial transactions and purchases online . Yahoo Auctions were discontinued in 2007 except for Asia .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-64-3" docsrc="Yahoo!">
+      <context> <head>Shopping</head> , Yahoo Autos , Yahoo Real Estate and Yahoo Travel , which enables users to gather relevant information and make commercial transactions and purchases online . Yahoo Auctions were discontinued in 2007 except for Asia . Yahoo Shopping is a price comparison service which uses the Kelkoo price comparison service it acquired in April 2004 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-67-1" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> Shopping is a price comparison service which uses the Kelkoo price comparison service it acquired in April 2004 . === Small business === Yahoo provides business services such as Yahoo DomainKeys , Yahoo Web Hosting , Yahoo Merchant Solutions , Yahoo Business Email and Yahoo Store to small business owners and professionals allowing them to build their own online stores using Yahoo 's tools .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-71-1" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> provides business services such as Yahoo DomainKeys , Yahoo Web Hosting , Yahoo Merchant Solutions , Yahoo Business Email and Yahoo Store to small business owners and professionals allowing them to build their own online stores using Yahoo 's tools . === Advertising === Yahoo Search Marketing provides services such as Sponsored Search , Local Advertising and Product/Travel/Directory Submit that let different businesses advertise their products and services on the Yahoo network .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-72-1" docsrc="Yahoo!">
+      <context> <head>===</head> Advertising === Yahoo Search Marketing provides services such as Sponsored Search , Local Advertising and Product/Travel/Directory Submit that let different businesses advertise their products and services on the Yahoo network . Yahoo launched its new Internet advertisement sales system on February 5 , 2007 , called Panama .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-79-1" docsrc="Yahoo!">
+      <context> <head>But</head> by 2013 this was found to be underperforming in market share and revenue , as Microsoft simply skimmed off four percent of the search market from Yahoo , without growing their combined share . === GeoPlanet === Yahoo offers cartographic and geographic services via GeoPlanet .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-84-1" docsrc="Yahoo!">
+      <context> <head>Yahoo</head> offers cartographic and geographic services via GeoPlanet . === Yahoo Next === Yahoo Next is an incubation ground for future Yahoo technologies currently undergoing testing .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-89-1" docsrc="Yahoo!">
+      <context> <head>It</head> contains forums for Yahoo users to give feedback to assist in the development of these future Yahoo technologies . === Yahoo BOSS === Yahoo Search BOSS is a service that allows developers to build search applications based on Yahoo 's search technology .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-0-95-1" docsrc="Yahoo!">
+      <context> <head>Early</head> Partners in the program include Hakia , Me.dium , Delver , Daylife and Yebol . === Yahoo Meme === Yahoo Meme is a beta social service , similar to the popular social networking sites Twitter and Jaiku .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-1-101-2" docsrc="Yahoo!">
+      <context> Y!Connect <head>enables</head> individuals to leave comments in online publication boards by using their Yahoo ID , instead of having to register with individual publications . The Wall Street Journal reported that Yahoo plans to mimic this strategy used by rival Facebook Inc. to help drive traffic to its site . === Yahoo Accessibility ===</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-1-105-1" docsrc="Yahoo!">
+      <context> === <head>Yahoo</head> Accessibility === Yahoo has invested resources to increase and improve access to the Internet for the disabled community through the Yahoo Accessibility Lab . === Yahoo Axis ===</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-1-110-3" docsrc="Yahoo!">
+      <context> The <head>browser</head> made its public debut on May 23 , 2012 . A copy of the private key used to sign official Yahoo browser extensions for Google Chrome was accidentally leaked in the first public release of the Chrome extension . === Yahoo SearchMonkey ===</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-1-81-1" docsrc="Yahoo!">
+      <context> === <head>GeoPlanet</head> === Yahoo offers cartographic and geographic services via GeoPlanet . === Yahoo Next ===</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-1-86-2" docsrc="Yahoo!">
+      <context> Yahoo <head>Next</head> is an incubation ground for future Yahoo technologies currently undergoing testing . It contains forums for Yahoo users to give feedback to assist in the development of these future Yahoo technologies . === Yahoo BOSS ===</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-1-91-2" docsrc="Yahoo!">
+      <context> Yahoo <head>Search</head> BOSS is a service that allows developers to build search applications based on Yahoo 's search technology . Early Partners in the program include Hakia , Me.dium , Delver , Daylife and Yebol . === Yahoo Meme ===</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-10-110-2" docsrc="Yahoo!">
+      <context> Yahoo Axis is a desktop web browser extension and mobile <head>browser</head> for iOS devices created and developed by Yahoo . The browser made its public debut on May 23 , 2012 . A copy of the private key used to sign official Yahoo browser extensions for Google Chrome was accidentally leaked in the first public release of the Chrome extension .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-10-113-1" docsrc="Yahoo!">
+      <context> A copy of the private key used to sign official <head>Yahoo</head> browser extensions for Google Chrome was accidentally leaked in the first public release of the Chrome extension . === Yahoo SearchMonkey === Yahoo SearchMonkey ( often misspelled Search Monkey ) was a Yahoo service which allowed developers and site owners to use structured data to make Yahoo Search results more useful and visually appealing , and drive more relevant traffic to their sites .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-10-145-1" docsrc="Yahoo!">
+      <context> The company prompted users to reset their passwords , but <head>did</head> not elaborate on the scope of the possible breach , citing an ongoing federal investigation . === Storing personal information and tracking usage === Working with comScore , The New York Times found that Yahoo was able to collect far more data about users than its competitors from its Web sites and advertising network .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-10-17-4" docsrc="Yahoo!">
+      <context> Three years later Yahoo had a market capitalization of US$ <head>22.24</head> billion . Carol Bartz replaced Yang as CEO in January 2009 . In September 2011 she was removed from her position at Yahoo by the company 's chairman Roy Bostock , and CFO Tim Morse was named as Interim CEO of the company .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-10-194-2" docsrc="Yahoo!">
+      <context> On December 31 , 2012 , Yahoo Korea shut down <head>all</head> its services and left the country , with its previous domain saying in Korean , " Starting from December 31 , 2012 , Yahoo ! Korea has ended . You can go to the original Yahoo ! for more Yahoo 's information . "</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-10-28-2" docsrc="Yahoo!">
+      <context> On November 11 , 2014 , Yahoo announced it would <head>be</head> acquiring video ad company BrightRoll for $ 640 million . Video is one of the company 's key growth areas and the acquisition will make Yahoo 's video ad platform the largest in the U.S. On November 21 , 2014 , it was announced that Yahoo had acquired Cooliris .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-10-45-1" docsrc="Yahoo!">
+      <context> On October 16 , 2007 , Yahoo announced that it <head>would</head> discontinue Yahoo 360° , including bug repairs ; the company explained that in 2008 it would instead establish a " universal profile " similar to the Yahoo Mash experimental system . === Content === Yahoo partners with numerous content providers in products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-10-74-4" docsrc="Yahoo!">
+      <context> The system considers bids , ad quality , clickthrough rates <head>and</head> other factors in ranking ads . Through Panama , Yahoo aims to provide more relevant search results to users , a better overall experience , and to increase monetization . On April 7 , 2008 , Yahoo announced APT from Yahoo , which was originally called AMP from Yahoo , an online advertising management platform .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-11-11-4" docsrc="Yahoo!">
+      <context> The term " oracle " was intended to mean " source <head>of</head> truth and wisdom " , and the term " officious " , rather than being related to the word 's normal meaning , described the many office workers who would use the Yahoo database while surfing from work . However , Filo and Yang insist they mainly selected the name because they liked the slang definition of a " yahoo " ( used by college students in David Filo 's native Louisiana in the late 1980s and early 1990s to refer to an unsophisticated , rural Southerner ) : " rude , unsophisticated , uncouth . " Filo 's college girlfriend often referred to Filo as a " yahoo .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-11-114-1" docsrc="Yahoo!">
+      <context> === Yahoo SearchMonkey === Yahoo SearchMonkey ( often misspelled Search Monkey <head>)</head> was a Yahoo service which allowed developers and site owners to use structured data to make Yahoo Search results more useful and visually appealing , and drive more relevant traffic to their sites . The service was shut down in October 2010 along with other Yahoo services as part of the Microsoft and Yahoo search deal .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-11-126-3" docsrc="Yahoo!">
+      <context> Yahoo made a notice that , starting in June 2013 , <head>Mail</head> Classic and other old versions of Yahoo Mail will be shut down . All users of Mail Classic are expected to switch to the new Yahoo Mail , use IMAP , or switch to another email service . In addition , April 2013 brought the closure of Upcoming , Yahoo Deals , Yahoo SMS Alerts , Yahoo Kids , Yahoo Mail and Messenger feature phone ( J2ME ) .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-11-16-4" docsrc="Yahoo!">
+      <context> In response to Google 's Gmail , Yahoo began to offer <head>unlimited</head> email storage in 2007 . The company struggled through 2008 , with several large layoffs . In February 2008 Microsoft Corporation made an unsolicited bid to acquire Yahoo for US$ 44.6 billion .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-11-191-2" docsrc="Yahoo!">
+      <context> Yahoo used to hold a 40 % stake in Alibaba , <head>which</head> manages a web portal in China using the Yahoo brand name . Yahoo in the USA does not have direct control over Alibaba , which operates as a completely independent company . On September 18 , 2012 , following years of negotiations , Yahoo agreed to sell a 20 % stake back to Alibaba for $ 7.6 billion .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-11-200-5" docsrc="Yahoo!">
+      <context> In some countries , most notably Yahoo!7 ( of Australia ) <head>,</head> the logo remained red until 2014 . On occasion the logo is abbreviated : " Y ! " . On August 7 , 2013 , at around midnight EDT , Yahoo announced that the final version of the new logo would be revealed on September 5 , 2013 at 4:00 a.m.</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-11-36-1" docsrc="Yahoo!">
+      <context> The announcement is expected after the market closes on February 2 <head>,</head> 2016 . Yahoo operates a portal that provides the latest news , entertainment , and sports information . The portal also gives users access to other Yahoo services like Yahoo !</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-11-36-2" docsrc="Yahoo!">
+      <context> Yahoo operates a portal that provides the latest news , entertainment <head>,</head> and sports information . The portal also gives users access to other Yahoo services like Yahoo ! Search , Yahoo Mail , Yahoo Maps , Yahoo Finance , Yahoo Groups and Yahoo Messenger .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-12-126-2" docsrc="Yahoo!">
+      <context> Yahoo Mail Classic was announced as to be shut down in April <head>2013</head> . Yahoo made a notice that , starting in June 2013 , Mail Classic and other old versions of Yahoo Mail will be shut down . All users of Mail Classic are expected to switch to the new Yahoo Mail , use IMAP , or switch to another email service .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-12-130-1" docsrc="Yahoo!">
+      <context> The team at Astrid has supplied its customers with a data export <head>tool</head> and recommended former competitors such as Wunderlist and Sandglaz . ==== Twitter slide leak on upcoming changes to Yahoo ==== The following services were in a column under " Sunset " : Yahoo Picks , AltaVista , MyM , AlltheWeb , Yahoo Bookmarks , Yahoo Buzz , del.icio.us , and MyBlogLog .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-12-132-1" docsrc="Yahoo!">
+      <context> ==== Twitter slide leak on upcoming changes to Yahoo ==== The following <head>services</head> were in a column under " Sunset " : Yahoo Picks , AltaVista , MyM , AlltheWeb , Yahoo Bookmarks , Yahoo Buzz , del.icio.us , and MyBlogLog . Under the " Merge " column were : Upcoming , FoxyTunes , Yahoo Events , Yahoo People Search , Sideline , and FireEagle .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-12-42-1" docsrc="Yahoo!">
+      <context> === Communication === Yahoo Photos was closed on September 20 , 2007 <head>,</head> in favor of Flickr . On October 16 , 2007 , Yahoo announced that it would discontinue Yahoo 360° , including bug repairs ; the company explained that in 2008 it would instead establish a " universal profile " similar to the Yahoo Mash experimental system .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-13-100-1" docsrc="Yahoo!">
+      <context> Yahoo Meme is a beta social service , similar to the popular social <head>networking</head> sites Twitter and Jaiku . === Y!Connect === Y!Connect enables individuals to leave comments in online publication boards by using their Yahoo ID , instead of having to register with individual publications .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-13-118-1" docsrc="Yahoo!">
+      <context> Yahoo SearchMonkey was selected as one of the top 10 Semantic Web Products <head>of</head> 2008 . === Defunct services === Yahoo 360° was a blogging/social networking beta service launched in March 2005 by Yahoo and closed on July 13 , 2009 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-13-154-2" docsrc="Yahoo!">
+      <context> Yahoo , as well as other search engines , cooperated with the Chinese <head>government</head> in censoring search results . In April 2005 , dissident Shi Tao was sentenced to 10 years in prison for " providing state secrets to foreign entities " as a result of being identified by IP address by Yahoo . Human rights organizations and the company 's general counsel disputed the extent of Yahoo 's foreknowledge of Shi 's fate .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-13-45-1" docsrc="Yahoo!">
+      <context> On October 16 , 2007 , Yahoo announced that it would discontinue Yahoo <head>360°</head> , including bug repairs ; the company explained that in 2008 it would instead establish a " universal profile " similar to the Yahoo Mash experimental system . === Content === Yahoo partners with numerous content providers in products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-13-67-1" docsrc="Yahoo!">
+      <context> Yahoo Shopping is a price comparison service which uses the Kelkoo price comparison <head>service</head> it acquired in April 2004 . === Small business === Yahoo provides business services such as Yahoo DomainKeys , Yahoo Web Hosting , Yahoo Merchant Solutions , Yahoo Business Email and Yahoo Store to small business owners and professionals allowing them to build their own online stores using Yahoo 's tools .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-14-126-3" docsrc="Yahoo!">
+      <context> Yahoo made a notice that , starting in June 2013 , Mail Classic and <head>other</head> old versions of Yahoo Mail will be shut down . All users of Mail Classic are expected to switch to the new Yahoo Mail , use IMAP , or switch to another email service . In addition , April 2013 brought the closure of Upcoming , Yahoo Deals , Yahoo SMS Alerts , Yahoo Kids , Yahoo Mail and Messenger feature phone ( J2ME ) .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-14-19-2" docsrc="Yahoo!">
+      <context> On May 13 , 2012 , Yahoo issued a press release stating that Thompson <head>was</head> no longer with the company , and would immediately be replaced on an interim basis by Ross Levinsohn , recently appointed head of Yahoo 's new Media group . Thompson 's total compensation for his 130-day tenure with Yahoo was at least $ 7.3 million . On July 16 , 2012 , Marissa Mayer was appointed President and CEO of Yahoo , effective the following day .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-14-36-2" docsrc="Yahoo!">
+      <context> Yahoo operates a portal that provides the latest news , entertainment , and sports <head>information</head> . The portal also gives users access to other Yahoo services like Yahoo ! Search , Yahoo Mail , Yahoo Maps , Yahoo Finance , Yahoo Groups and Yahoo Messenger .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-15-123-3" docsrc="Yahoo!">
+      <context> Yahoo Tech was a website that provided product information and setup advice to users . <head>Yahoo</head> launched the website in May 2006 . On March 11 , 2010 , Yahoo closed down the service and redirected users to Yahoo 's technology news section .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-15-132-1" docsrc="Yahoo!">
+      <context> ==== Twitter slide leak on upcoming changes to Yahoo ==== The following services were in <head>a</head> column under " Sunset " : Yahoo Picks , AltaVista , MyM , AlltheWeb , Yahoo Bookmarks , Yahoo Buzz , del.icio.us , and MyBlogLog . Under the " Merge " column were : Upcoming , FoxyTunes , Yahoo Events , Yahoo People Search , Sideline , and FireEagle .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-15-134-4" docsrc="Yahoo!">
+      <context> Speaking for our team , we were very disappointed by the way that this appeared <head>in</head> the press . " On April 27 , 2011 , Yahoo 's sale of del.icio.us to Avos was announced . Yahoo Buzz was closed down on April 21 , 2011 without an official announcement from Yahoo .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-15-201-5" docsrc="Yahoo!">
+      <context> The new logo was eventually launched with an accompanying video that showed its digital construction <head>,</head> and Mayer published a personalized description of the design process on her Tumblr page . Mayer explains : On September 19 , 2013 , Yahoo launched a new version of the " My Yahoo " personalized homepage .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-15-28-1" docsrc="Yahoo!">
+      <context> On March 12 , 2014 , Yahoo officially announced its partnership with Yelp , Inc. <head>,</head> which will help Yahoo boost its local search results to better compete with services like Google . On November 11 , 2014 , Yahoo announced it would be acquiring video ad company BrightRoll for $ 640 million . Video is one of the company 's key growth areas and the acquisition will make Yahoo 's video ad platform the largest in the U.S.</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-15-89-1" docsrc="Yahoo!">
+      <context> It contains forums for Yahoo users to give feedback to assist in the development of <head>these</head> future Yahoo technologies . === Yahoo BOSS === Yahoo Search BOSS is a service that allows developers to build search applications based on Yahoo 's search technology .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-16-45-1" docsrc="Yahoo!">
+      <context> On October 16 , 2007 , Yahoo announced that it would discontinue Yahoo 360° , including <head>bug</head> repairs ; the company explained that in 2008 it would instead establish a " universal profile " similar to the Yahoo Mash experimental system . === Content === Yahoo partners with numerous content providers in products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-16-46-1" docsrc="Yahoo!">
+      <context> === Content === Yahoo partners with numerous content providers in products such as Yahoo Sports , <head>Yahoo</head> Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content . Yahoo provides a personalization service , My Yahoo , which enables users to combine their favorite Yahoo features , content feeds and information onto a single page .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-17-140-2" docsrc="Yahoo!">
+      <context> In September 2013 The Indian Express reported that Yahoo received 29 thousand requests for information about users <head>from</head> governments in the first six months of 2013 . Over 12 thousand of the requests came from the United States . In October 2013 , The Washington Post reported that the U.S. National Security Agency intercepted communications between Yahoo 's data centers , as part of a program named MUSCULAR.</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-17-184-1" docsrc="Yahoo!">
+      <context> Timothy Koogle ( 1995–2001 ) Former chief operating officer Henrique de Castro departed from the company in <head>January</head> 2014 after Mayer , who initially hired him after her appointment as CEO , dismissed him . de Castro , who previously worked for Google and McKinsey &amp; Company , was employed to revive Yahoo ’s advertising business .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-17-59-1" docsrc="Yahoo!">
+      <context> The results of a Web search are listed on a single page and are prioritized into categories <head>.</head> As of 2012 , Yahoo used Novarra 's mobile content transcoding service for OneSearch . On October 8 , 2010 , Yahoo announced plans to bring video chat to mobile phones via Yahoo Messenger .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-17-67-1" docsrc="Yahoo!">
+      <context> Yahoo Shopping is a price comparison service which uses the Kelkoo price comparison service it acquired in <head>April</head> 2004 . === Small business === Yahoo provides business services such as Yahoo DomainKeys , Yahoo Web Hosting , Yahoo Merchant Solutions , Yahoo Business Email and Yahoo Store to small business owners and professionals allowing them to build their own online stores using Yahoo 's tools .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-17-86-1" docsrc="Yahoo!">
+      <context> === Yahoo Next === Yahoo Next is an incubation ground for future Yahoo technologies currently undergoing testing <head>.</head> It contains forums for Yahoo users to give feedback to assist in the development of these future Yahoo technologies .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-18-104-1" docsrc="Yahoo!">
+      <context> The Wall Street Journal reported that Yahoo plans to mimic this strategy used by rival Facebook Inc. to <head>help</head> drive traffic to its site . === Yahoo Accessibility === Yahoo has invested resources to increase and improve access to the Internet for the disabled community through the Yahoo Accessibility Lab .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-18-108-1" docsrc="Yahoo!">
+      <context> Yahoo has invested resources to increase and improve access to the Internet for the disabled community through the <head>Yahoo</head> Accessibility Lab . === Yahoo Axis === Yahoo Axis is a desktop web browser extension and mobile browser for iOS devices created and developed by Yahoo .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-18-126-1" docsrc="Yahoo!">
+      <context> Hotjobs was acquired by and merged with Monster.com . Yahoo Mail Classic was announced as to be shut <head>down</head> in April 2013 . Yahoo made a notice that , starting in June 2013 , Mail Classic and other old versions of Yahoo Mail will be shut down .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-18-126-3" docsrc="Yahoo!">
+      <context> Yahoo made a notice that , starting in June 2013 , Mail Classic and other old versions of <head>Yahoo</head> Mail will be shut down . All users of Mail Classic are expected to switch to the new Yahoo Mail , use IMAP , or switch to another email service . In addition , April 2013 brought the closure of Upcoming , Yahoo Deals , Yahoo SMS Alerts , Yahoo Kids , Yahoo Mail and Messenger feature phone ( J2ME ) .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-18-153-1" docsrc="Yahoo!">
+      <context> However , in response to European regulators , Yahoo obfuscates the IP address of users after three months <head>by</head> deleting its last eight bits . In 2000 , Yahoo was taken to court in France by parties seeking to prevent French citizens from purchasing memorabilia relating to the Nazi Party . In March 2004 , Yahoo launched a paid inclusion program whereby commercial websites were guaranteed listings on the Yahoo search engine .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-18-74-4" docsrc="Yahoo!">
+      <context> The system considers bids , ad quality , clickthrough rates and other factors in ranking ads . Through <head>Panama</head> , Yahoo aims to provide more relevant search results to users , a better overall experience , and to increase monetization . On April 7 , 2008 , Yahoo announced APT from Yahoo , which was originally called AMP from Yahoo , an online advertising management platform .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-19-10-2" docsrc="Yahoo!">
+      <context> In January 1994 Yang and Filo were electrical engineering graduate students at Stanford University , when they created a <head>website</head> named " Jerry and David 's guide to the World Wide Web " . The site was a directory of other websites , organized in a hierarchy , as opposed to a searchable index of pages . In March 1994 , " Jerry and David 's Guide to the World Wide Web " was renamed " Yahoo ! "</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-19-114-1" docsrc="Yahoo!">
+      <context> === Yahoo SearchMonkey === Yahoo SearchMonkey ( often misspelled Search Monkey ) was a Yahoo service which allowed developers <head>and</head> site owners to use structured data to make Yahoo Search results more useful and visually appealing , and drive more relevant traffic to their sites . The service was shut down in October 2010 along with other Yahoo services as part of the Microsoft and Yahoo search deal .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-19-26-2" docsrc="Yahoo!">
+      <context> === Recent developments === On March 12 , 2014 , Yahoo officially announced its partnership with Yelp , Inc. <head>,</head> which will help Yahoo boost its local search results to better compete with services like Google .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-19-45-1" docsrc="Yahoo!">
+      <context> On October 16 , 2007 , Yahoo announced that it would discontinue Yahoo 360° , including bug repairs ; <head>the</head> company explained that in 2008 it would instead establish a " universal profile " similar to the Yahoo Mash experimental system . === Content === Yahoo partners with numerous content providers in products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-2-167-1" docsrc="Yahoo!">
+      <context> Max Levchin <head>(</head> 2012 ) Chairman and CEO , HVF , LLC Marissa Mayer ( 2012 ) – CEO , Yahoo ! Inc.</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-2-172-1" docsrc="Yahoo!">
+      <context> Jane E. <head>Shaw</head> ( 2014 ) Retired Chairman of the Board Intel Corporation Maynard Webb ( 2012 ) – Chairman , Yahoo , founder , Webb Investment Network and chairman and former CEO of LiveOps</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-2-190-1" docsrc="Yahoo!">
+      <context> de Castro <head>,</head> who previously worked for Google and McKinsey &amp; Company , was employed to revive Yahoo ’s advertising business . Yahoo holds a 34.75 % minority stake in Yahoo Japan , while SoftBank holds 35.45 % , YahooXtra in New Zealand , which Yahoo!7 have 51 % of and 49 % belongs to Telecom New Zealand , and Yahoo!7 in Australia , which is a 50–50 agreement between Yahoo and the Seven Network . Historically , Yahoo entered into joint venture agreements with SoftBank for the major European sites ( UK , France and Germany ) and well as South Korea and Japan .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-2-36-2" docsrc="Yahoo!">
+      <context> Yahoo operates <head>a</head> portal that provides the latest news , entertainment , and sports information . The portal also gives users access to other Yahoo services like Yahoo ! Search , Yahoo Mail , Yahoo Maps , Yahoo Finance , Yahoo Groups and Yahoo Messenger .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-2-64-1" docsrc="Yahoo!">
+      <context> Commerce === <head>Yahoo</head> offers shopping services such as Yahoo ! Shopping , Yahoo Autos , Yahoo Real Estate and Yahoo Travel , which enables users to gather relevant information and make commercial transactions and purchases online .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-20-11-3" docsrc="Yahoo!">
+      <context> The term " hierarchical " described how the Yahoo database was arranged in layers of subcategories . The term " <head>oracle</head> " was intended to mean " source of truth and wisdom " , and the term " officious " , rather than being related to the word 's normal meaning , described the many office workers who would use the Yahoo database while surfing from work . However , Filo and Yang insist they mainly selected the name because they liked the slang definition of a " yahoo " ( used by college students in David Filo 's native Louisiana in the late 1980s and early 1990s to refer to an unsophisticated , rural Southerner ) : " rude , unsophisticated , uncouth . "</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-20-154-4" docsrc="Yahoo!">
+      <context> Human rights organizations and the company 's general counsel disputed the extent of Yahoo 's foreknowledge of Shi 's fate <head>.</head> Human rights groups also accuse Yahoo of aiding authorities in the arrest of dissidents Li Zhi and Jiang Lijun . After some concerns over censorship of private emails regarding a website affiliated with Occupy Wall Street protests were raised , Yahoo responded with an apology and explained it as an accident .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-20-18-4" docsrc="Yahoo!">
+      <context> On April 4 , 2012 , Yahoo announced a cut of 2,000 jobs or about 14 percent of its 14,100 <head>workers</head> . The cut was expected to save around US$ 375 million annually after the layoffs are completed at end of 2012 . In an email sent to employees in April 2012 , Thompson reiterated his view that customers should come first at Yahoo .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-20-190-3" docsrc="Yahoo!">
+      <context> Historically , Yahoo entered into joint venture agreements with SoftBank for the major European sites ( UK , France and <head>Germany</head> ) and well as South Korea and Japan . In November 2005 , Yahoo purchased the minority interests that SoftBank owned in Europe and Korea . Yahoo used to hold a 40 % stake in Alibaba , which manages a web portal in China using the Yahoo brand name .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-21-123-4" docsrc="Yahoo!">
+      <context> Yahoo launched the website in May 2006 . On March 11 , 2010 , Yahoo closed down the service and redirected <head>users</head> to Yahoo 's technology news section . Other discontinued services include Farechase , My Web , Audio Search , Pets , Live , Kickstart , Briefcase , and Yahoo for Teachers .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-21-126-3" docsrc="Yahoo!">
+      <context> Yahoo made a notice that , starting in June 2013 , Mail Classic and other old versions of Yahoo Mail will <head>be</head> shut down . All users of Mail Classic are expected to switch to the new Yahoo Mail , use IMAP , or switch to another email service . In addition , April 2013 brought the closure of Upcoming , Yahoo Deals , Yahoo SMS Alerts , Yahoo Kids , Yahoo Mail and Messenger feature phone ( J2ME ) .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-21-130-1" docsrc="Yahoo!">
+      <context> The team at Astrid has supplied its customers with a data export tool and recommended former competitors such as Wunderlist and <head>Sandglaz</head> . ==== Twitter slide leak on upcoming changes to Yahoo ==== The following services were in a column under " Sunset " : Yahoo Picks , AltaVista , MyM , AlltheWeb , Yahoo Bookmarks , Yahoo Buzz , del.icio.us , and MyBlogLog .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-21-67-1" docsrc="Yahoo!">
+      <context> Yahoo Shopping is a price comparison service which uses the Kelkoo price comparison service it acquired in April 2004 . === <head>Small</head> business === Yahoo provides business services such as Yahoo DomainKeys , Yahoo Web Hosting , Yahoo Merchant Solutions , Yahoo Business Email and Yahoo Store to small business owners and professionals allowing them to build their own online stores using Yahoo 's tools .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-22-45-1" docsrc="Yahoo!">
+      <context> On October 16 , 2007 , Yahoo announced that it would discontinue Yahoo 360° , including bug repairs ; the company explained <head>that</head> in 2008 it would instead establish a " universal profile " similar to the Yahoo Mash experimental system . === Content === Yahoo partners with numerous content providers in products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-23-205-1" docsrc="Yahoo!">
+      <context> Mayer explains : On September 19 , 2013 , Yahoo launched a new version of the " My Yahoo " personalized homepage . <head>The</head> redesign allows users to tailor a homepage with widgets that access features such as email accounts , calendars , Flickr and other Yahoo content , and Internet content .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-24-113-1" docsrc="Yahoo!">
+      <context> A copy of the private key used to sign official Yahoo browser extensions for Google Chrome was accidentally leaked in the first public release <head>of</head> the Chrome extension . === Yahoo SearchMonkey === Yahoo SearchMonkey ( often misspelled Search Monkey ) was a Yahoo service which allowed developers and site owners to use structured data to make Yahoo Search results more useful and visually appealing , and drive more relevant traffic to their sites .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-24-130-1" docsrc="Yahoo!">
+      <context> The team at Astrid has supplied its customers with a data export tool and recommended former competitors such as Wunderlist and Sandglaz . ==== <head>Twitter</head> slide leak on upcoming changes to Yahoo ==== The following services were in a column under " Sunset " : Yahoo Picks , AltaVista , MyM , AlltheWeb , Yahoo Bookmarks , Yahoo Buzz , del.icio.us , and MyBlogLog .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-25-22-1" docsrc="Yahoo!">
+      <context> On July 16 , 2012 , Marissa Mayer was appointed President and CEO of Yahoo , effective the following day . On August 2 , <head>2013</head> , Yahoo Inc. announced the acquisition of social Web browser concern RockMelt . With the acquisition , the RockMelt team , including the concern 's CEO Eric Vishria and CTO Tim Howes , will be the part of Yahoo team .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-25-45-1" docsrc="Yahoo!">
+      <context> On October 16 , 2007 , Yahoo announced that it would discontinue Yahoo 360° , including bug repairs ; the company explained that in 2008 <head>it</head> would instead establish a " universal profile " similar to the Yahoo Mash experimental system . === Content === Yahoo partners with numerous content providers in products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-26-141-1" docsrc="Yahoo!">
+      <context> Over 12 thousand of the requests came from the United States . In October 2013 , The Washington Post reported that the U.S. National Security Agency <head>intercepted</head> communications between Yahoo 's data centers , as part of a program named MUSCULAR. In late January 2014 , Yahoo announced on its company blog that it had detected a " coordinated effort " to hack into possibly millions of Yahoo Mail accounts .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-26-71-1" docsrc="Yahoo!">
+      <context> Yahoo provides business services such as Yahoo DomainKeys , Yahoo Web Hosting , Yahoo Merchant Solutions , Yahoo Business Email and Yahoo Store to small business <head>owners</head> and professionals allowing them to build their own online stores using Yahoo 's tools . === Advertising === Yahoo Search Marketing provides services such as Sponsored Search , Local Advertising and Product/Travel/Directory Submit that let different businesses advertise their products and services on the Yahoo network .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-27-76-1" docsrc="Yahoo!">
+      <context> The service was launched in September 2008 . In September 2011 , Yahoo formed an ad selling strategic partnership with 2 of its top competitors , AOL <head>and</head> Microsoft . But by 2013 this was found to be underperforming in market share and revenue , as Microsoft simply skimmed off four percent of the search market from Yahoo , without growing their combined share .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-28-45-1" docsrc="Yahoo!">
+      <context> On October 16 , 2007 , Yahoo announced that it would discontinue Yahoo 360° , including bug repairs ; the company explained that in 2008 it would instead <head>establish</head> a " universal profile " similar to the Yahoo Mash experimental system . === Content === Yahoo partners with numerous content providers in products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-3-10-4" docsrc="Yahoo!">
+      <context> In March 1994 <head>,</head> " Jerry and David 's Guide to the World Wide Web " was renamed " Yahoo ! " The " yahoo.com " domain was created on January 18 , 1995 . The word " yahoo " is a backronym for " Yet Another Hierarchically Organized Oracle " or " Yet Another Hierarchical Officious Oracle " .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-3-146-4" docsrc="Yahoo!">
+      <context> Yahoo retains search <head>requests</head> for a period of 13 months . However , in response to European regulators , Yahoo obfuscates the IP address of users after three months by deleting its last eight bits . In 2000 , Yahoo was taken to court in France by parties seeking to prevent French citizens from purchasing memorabilia relating to the Nazi Party .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-3-17-2" docsrc="Yahoo!">
+      <context> In February 2008 <head>Microsoft</head> Corporation made an unsolicited bid to acquire Yahoo for US$ 44.6 billion . Yahoo formally rejected the bid , claiming that it " substantially undervalues " the company and was not in the interest of its shareholders . Three years later Yahoo had a market capitalization of US$ 22.24 billion .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-3-74-3" docsrc="Yahoo!">
+      <context> It allows advertisers <head>to</head> bid for search terms to trigger their ads on search results pages . The system considers bids , ad quality , clickthrough rates and other factors in ranking ads . Through Panama , Yahoo aims to provide more relevant search results to users , a better overall experience , and to increase monetization .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-30-132-2" docsrc="Yahoo!">
+      <context> The following services were in a column under " Sunset " : Yahoo Picks , AltaVista , MyM , AlltheWeb , Yahoo Bookmarks , Yahoo Buzz , del.icio.us , and <head>MyBlogLog</head> . Under the " Merge " column were : Upcoming , FoxyTunes , Yahoo Events , Yahoo People Search , Sideline , and FireEagle . The blog on the del.icio.us website released a post by Chris Yeh after the slide was leaked in which Yeh stated that " Sunset " does n't necessarily mean that Yahoo is closing down the site .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-32-45-1" docsrc="Yahoo!">
+      <context> On October 16 , 2007 , Yahoo announced that it would discontinue Yahoo 360° , including bug repairs ; the company explained that in 2008 it would instead establish a " universal <head>profile</head> " similar to the Yahoo Mash experimental system . === Content === Yahoo partners with numerous content providers in products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-33-154-1" docsrc="Yahoo!">
+      <context> Yahoo was criticized for providing ads via the Yahoo ad network to companies who display them through spyware and adware . Yahoo , as well as other search engines , cooperated with the <head>Chinese</head> government in censoring search results . In April 2005 , dissident Shi Tao was sentenced to 10 years in prison for " providing state secrets to foreign entities " as a result of being identified by IP address by Yahoo .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-34-192-1" docsrc="Yahoo!">
+      <context> On September 18 , 2012 , following years of negotiations , Yahoo agreed to sell a 20 % stake back to Alibaba for $ 7.6 billion . On March 8 , 2011 Yahoo launched <head>its</head> Romania local service after years of delay due to the financial crisis . On December 31 , 2012 , Yahoo Korea shut down all its services and left the country , with its previous domain saying in Korean , " Starting from December 31 , 2012 , Yahoo !</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-34-47-1" docsrc="Yahoo!">
+      <context> Yahoo provides a personalization service , My Yahoo , which enables users to combine their favorite Yahoo features , content feeds and information onto a single page . On March 31 , 2008 , <head>Yahoo</head> launched Shine , a site tailored for women seeking online information and advice between the ages of 25 and 54 . Yahoo developed partnerships with broadband providers such as AT&amp;T Inc. ( via BellSouth &amp; SBC ) , Verizon Communications , Rogers Communications , and British Telecom , offering a range of free and premium Yahoo content and services to subscribers .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-37-42-1" docsrc="Yahoo!">
+      <context> === Communication === Yahoo Photos was closed on September 20 , 2007 , in favor of Flickr . On October 16 , 2007 , Yahoo announced that it would discontinue Yahoo 360° , including bug repairs ; <head>the</head> company explained that in 2008 it would instead establish a " universal profile " similar to the Yahoo Mash experimental system .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-38-18-6" docsrc="Yahoo!">
+      <context> In an email sent to employees in April 2012 , Thompson reiterated his view that customers should come first at Yahoo . He also completely reorganized the company . On May 13 , 2012 , Yahoo issued a <head>press</head> release stating that Thompson was no longer with the company , and would immediately be replaced on an interim basis by Ross Levinsohn , recently appointed head of Yahoo 's new Media group .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-38-67-1" docsrc="Yahoo!">
+      <context> Yahoo Shopping is a price comparison service which uses the Kelkoo price comparison service it acquired in April 2004 . === Small business === Yahoo provides business services such as Yahoo DomainKeys , Yahoo Web Hosting , Yahoo <head>Merchant</head> Solutions , Yahoo Business Email and Yahoo Store to small business owners and professionals allowing them to build their own online stores using Yahoo 's tools .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-4-126-4" docsrc="Yahoo!">
+      <context> All users of Mail <head>Classic</head> are expected to switch to the new Yahoo Mail , use IMAP , or switch to another email service . In addition , April 2013 brought the closure of Upcoming , Yahoo Deals , Yahoo SMS Alerts , Yahoo Kids , Yahoo Mail and Messenger feature phone ( J2ME ) . In early July 2013 Yahoo announced the scheduled closure of the task management service Astrid .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-4-153-1" docsrc="Yahoo!">
+      <context> However , in response <head>to</head> European regulators , Yahoo obfuscates the IP address of users after three months by deleting its last eight bits . In 2000 , Yahoo was taken to court in France by parties seeking to prevent French citizens from purchasing memorabilia relating to the Nazi Party . In March 2004 , Yahoo launched a paid inclusion program whereby commercial websites were guaranteed listings on the Yahoo search engine .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-4-190-2" docsrc="Yahoo!">
+      <context> Yahoo holds a 34.75 <head>%</head> minority stake in Yahoo Japan , while SoftBank holds 35.45 % , YahooXtra in New Zealand , which Yahoo!7 have 51 % of and 49 % belongs to Telecom New Zealand , and Yahoo!7 in Australia , which is a 50–50 agreement between Yahoo and the Seven Network . Historically , Yahoo entered into joint venture agreements with SoftBank for the major European sites ( UK , France and Germany ) and well as South Korea and Japan . In November 2005 , Yahoo purchased the minority interests that SoftBank owned in Europe and Korea .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-4-58-1" docsrc="Yahoo!">
+      <context> A zip code or <head>city</head> name is required for OneSearch to start delivering local search results . The results of a Web search are listed on a single page and are prioritized into categories . As of 2012 , Yahoo used Novarra 's mobile content transcoding service for OneSearch .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-4-75-3" docsrc="Yahoo!">
+      <context> The platform simplifies advertising <head>sales</head> by unifying buyer and seller markets . The service was launched in September 2008 . In September 2011 , Yahoo formed an ad selling strategic partnership with 2 of its top competitors , AOL and Microsoft .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-4-86-1" docsrc="Yahoo!">
+      <context> === Yahoo Next === <head>Yahoo</head> Next is an incubation ground for future Yahoo technologies currently undergoing testing . It contains forums for Yahoo users to give feedback to assist in the development of these future Yahoo technologies .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-44-11-2" docsrc="Yahoo!">
+      <context> The word " yahoo " is a backronym for " Yet Another Hierarchically Organized Oracle " or " Yet Another Hierarchical Officious Oracle " . The term " hierarchical " described how the Yahoo database was arranged in layers of subcategories . The term <head>"</head> oracle " was intended to mean " source of truth and wisdom " , and the term " officious " , rather than being related to the word 's normal meaning , described the many office workers who would use the Yahoo database while surfing from work .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-48-184-2" docsrc="Yahoo!">
+      <context> Former chief operating officer Henrique de Castro departed from the company in January 2014 after Mayer , who initially hired him after her appointment as CEO , dismissed him . de Castro , who previously worked for Google and McKinsey &amp; Company , was employed to revive Yahoo <head>’s</head> advertising business . Yahoo holds a 34.75 % minority stake in Yahoo Japan , while SoftBank holds 35.45 % , YahooXtra in New Zealand , which Yahoo!7 have 51 % of and 49 % belongs to Telecom New Zealand , and Yahoo!7 in Australia , which is a 50–50 agreement between Yahoo and the Seven Network .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-5-135-1" docsrc="Yahoo!">
+      <context> On April 27 , 2011 <head>,</head> Yahoo 's sale of del.icio.us to Avos was announced . Yahoo Buzz was closed down on April 21 , 2011 without an official announcement from Yahoo . MyBlogLog was then discontinued by Yahoo on May 24 , 2011 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-5-141-1" docsrc="Yahoo!">
+      <context> Over 12 thousand of the <head>requests</head> came from the United States . In October 2013 , The Washington Post reported that the U.S. National Security Agency intercepted communications between Yahoo 's data centers , as part of a program named MUSCULAR. In late January 2014 , Yahoo announced on its company blog that it had detected a " coordinated effort " to hack into possibly millions of Yahoo Mail accounts .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-5-154-3" docsrc="Yahoo!">
+      <context> In April 2005 , dissident <head>Shi</head> Tao was sentenced to 10 years in prison for " providing state secrets to foreign entities " as a result of being identified by IP address by Yahoo . Human rights organizations and the company 's general counsel disputed the extent of Yahoo 's foreknowledge of Shi 's fate . Human rights groups also accuse Yahoo of aiding authorities in the arrest of dissidents Li Zhi and Jiang Lijun .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-5-191-3" docsrc="Yahoo!">
+      <context> Yahoo in the USA does <head>not</head> have direct control over Alibaba , which operates as a completely independent company . On September 18 , 2012 , following years of negotiations , Yahoo agreed to sell a 20 % stake back to Alibaba for $ 7.6 billion . On March 8 , 2011 Yahoo launched its Romania local service after years of delay due to the financial crisis .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-5-200-1" docsrc="Yahoo!">
+      <context> On September 2 , 2013 <head>,</head> Yahoo China shut down and is being redirected to taobao.com . The first logo appeared when the company was founded in 1994—it was red with three icons on each side . The logo used on the Yahoo home page formerly consisted of the color red with a black outline and shadow ; however , in May 2009 , together with a theme redesign , the logo was changed to purple without an outline or shadow .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-5-36-2" docsrc="Yahoo!">
+      <context> Yahoo operates a portal that <head>provides</head> the latest news , entertainment , and sports information . The portal also gives users access to other Yahoo services like Yahoo ! Search , Yahoo Mail , Yahoo Maps , Yahoo Finance , Yahoo Groups and Yahoo Messenger .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-5-64-1" docsrc="Yahoo!">
+      <context> Commerce === Yahoo offers shopping <head>services</head> such as Yahoo ! Shopping , Yahoo Autos , Yahoo Real Estate and Yahoo Travel , which enables users to gather relevant information and make commercial transactions and purchases online .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-101-1" docsrc="Yahoo!">
+      <context> === Y!Connect === Y!Connect enables individuals <head>to</head> leave comments in online publication boards by using their Yahoo ID , instead of having to register with individual publications . The Wall Street Journal reported that Yahoo plans to mimic this strategy used by rival Facebook Inc. to help drive traffic to its site .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-11-5" docsrc="Yahoo!">
+      <context> However , Filo and Yang insist <head>they</head> mainly selected the name because they liked the slang definition of a " yahoo " ( used by college students in David Filo 's native Louisiana in the late 1980s and early 1990s to refer to an unsophisticated , rural Southerner ) : " rude , unsophisticated , uncouth . " Filo 's college girlfriend often referred to Filo as a " yahoo . " This meaning derives from the Yahoo race of fictional beings from Gulliver 's Travels .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-123-3" docsrc="Yahoo!">
+      <context> Yahoo Tech was a website that <head>provided</head> product information and setup advice to users . Yahoo launched the website in May 2006 . On March 11 , 2010 , Yahoo closed down the service and redirected users to Yahoo 's technology news section .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-134-3" docsrc="Yahoo!">
+      <context> Yeh further explained that other possibilities—including <head>del.icio.us</head> leaving Yahoo ( through sale or spinoff)—were still being considered : " We can only imagine how upsetting the news coverage over the past 24 hours has been to many of you . Speaking for our team , we were very disappointed by the way that this appeared in the press . " On April 27 , 2011 , Yahoo 's sale of del.icio.us to Avos was announced .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-146-1" docsrc="Yahoo!">
+      <context> === Storing personal information and tracking <head>usage</head> === Working with comScore , The New York Times found that Yahoo was able to collect far more data about users than its competitors from its Web sites and advertising network . By one measure , on average Yahoo had the potential in December 2007 to build a profile of 2,500 records per month about each of its visitors .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-18-2" docsrc="Yahoo!">
+      <context> In early 2012 , after the <head>appointment</head> of Scott Thompson as CEO , rumors began to spread about looming layoffs . Several key executives , such as Chief Product Officer Blake Irving left . On April 4 , 2012 , Yahoo announced a cut of 2,000 jobs or about 14 percent of its 14,100 workers .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-18-6" docsrc="Yahoo!">
+      <context> In an email sent to employees <head>in</head> April 2012 , Thompson reiterated his view that customers should come first at Yahoo . He also completely reorganized the company . On May 13 , 2012 , Yahoo issued a press release stating that Thompson was no longer with the company , and would immediately be replaced on an interim basis by Ross Levinsohn , recently appointed head of Yahoo 's new Media group .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-192-1" docsrc="Yahoo!">
+      <context> On September 18 , 2012 , <head>following</head> years of negotiations , Yahoo agreed to sell a 20 % stake back to Alibaba for $ 7.6 billion . On March 8 , 2011 Yahoo launched its Romania local service after years of delay due to the financial crisis . On December 31 , 2012 , Yahoo Korea shut down all its services and left the country , with its previous domain saying in Korean , " Starting from December 31 , 2012 , Yahoo !</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-194-2" docsrc="Yahoo!">
+      <context> On December 31 , 2012 , <head>Yahoo</head> Korea shut down all its services and left the country , with its previous domain saying in Korean , " Starting from December 31 , 2012 , Yahoo ! Korea has ended . You can go to the original Yahoo ! for more Yahoo 's information . "</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-194-4" docsrc="Yahoo!">
+      <context> You can go to the original <head>Yahoo</head> ! for more Yahoo 's information . " Sooner did that message also disappear , leaving with just an abandoned , empty search bar powered by Bing . On September 2 , 2013 , Yahoo China shut down and is being redirected to taobao.com .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-20-1" docsrc="Yahoo!">
+      <context> Thompson 's total compensation for his <head>130-day</head> tenure with Yahoo was at least $ 7.3 million . On July 16 , 2012 , Marissa Mayer was appointed President and CEO of Yahoo , effective the following day . On August 2 , 2013 , Yahoo Inc. announced the acquisition of social Web browser concern RockMelt .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-201-5" docsrc="Yahoo!">
+      <context> The new logo was eventually launched <head>with</head> an accompanying video that showed its digital construction , and Mayer published a personalized description of the design process on her Tumblr page . Mayer explains : On September 19 , 2013 , Yahoo launched a new version of the " My Yahoo " personalized homepage .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-26-2" docsrc="Yahoo!">
+      <context> === Recent developments === On March <head>12</head> , 2014 , Yahoo officially announced its partnership with Yelp , Inc. , which will help Yahoo boost its local search results to better compete with services like Google .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-27-1" docsrc="Yahoo!">
+      <context> Recent developments === On March 12 <head>,</head> 2014 , Yahoo officially announced its partnership with Yelp , Inc. , which will help Yahoo boost its local search results to better compete with services like Google . On November 11 , 2014 , Yahoo announced it would be acquiring video ad company BrightRoll for $ 640 million .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-42-1" docsrc="Yahoo!">
+      <context> === Communication === Yahoo Photos was <head>closed</head> on September 20 , 2007 , in favor of Flickr . On October 16 , 2007 , Yahoo announced that it would discontinue Yahoo 360° , including bug repairs ; the company explained that in 2008 it would instead establish a " universal profile " similar to the Yahoo Mash experimental system .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-46-2" docsrc="Yahoo!">
+      <context> Yahoo partners with numerous content providers <head>in</head> products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content . Yahoo provides a personalization service , My Yahoo , which enables users to combine their favorite Yahoo features , content feeds and information onto a single page . On March 31 , 2008 , Yahoo launched Shine , a site tailored for women seeking online information and advice between the ages of 25 and 54 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-59-1" docsrc="Yahoo!">
+      <context> The results of a Web search <head>are</head> listed on a single page and are prioritized into categories . As of 2012 , Yahoo used Novarra 's mobile content transcoding service for OneSearch . On October 8 , 2010 , Yahoo announced plans to bring video chat to mobile phones via Yahoo Messenger .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-63-2" docsrc="Yahoo!">
+      <context> === Commerce === Yahoo offers shopping <head>services</head> such as Yahoo !</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-67-1" docsrc="Yahoo!">
+      <context> Yahoo Shopping is a price comparison <head>service</head> which uses the Kelkoo price comparison service it acquired in April 2004 . === Small business === Yahoo provides business services such as Yahoo DomainKeys , Yahoo Web Hosting , Yahoo Merchant Solutions , Yahoo Business Email and Yahoo Store to small business owners and professionals allowing them to build their own online stores using Yahoo 's tools .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-6-74-4" docsrc="Yahoo!">
+      <context> The system considers bids , ad <head>quality</head> , clickthrough rates and other factors in ranking ads . Through Panama , Yahoo aims to provide more relevant search results to users , a better overall experience , and to increase monetization . On April 7 , 2008 , Yahoo announced APT from Yahoo , which was originally called AMP from Yahoo , an online advertising management platform .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-7-16-2" docsrc="Yahoo!">
+      <context> Yahoo began using Google for search in <head>2000</head> . Over the next four years , it developed its own search technologies , which it began using in 2004 . In response to Google 's Gmail , Yahoo began to offer unlimited email storage in 2007 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-7-200-2" docsrc="Yahoo!">
+      <context> The first logo appeared when the company <head>was</head> founded in 1994—it was red with three icons on each side . The logo used on the Yahoo home page formerly consisted of the color red with a black outline and shadow ; however , in May 2009 , together with a theme redesign , the logo was changed to purple without an outline or shadow . This change also applied to several international Yahoo home pages .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-7-46-1" docsrc="Yahoo!">
+      <context> === Content === Yahoo partners with numerous <head>content</head> providers in products such as Yahoo Sports , Yahoo Finance , Yahoo Music , Yahoo Movies , Yahoo Weather , Yahoo News , Yahoo ! Answers and Yahoo Games to provide news and related content . Yahoo provides a personalization service , My Yahoo , which enables users to combine their favorite Yahoo features , content feeds and information onto a single page .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-8-11-1" docsrc="Yahoo!">
+      <context> The " yahoo.com " domain was created on <head>January</head> 18 , 1995 . The word " yahoo " is a backronym for " Yet Another Hierarchically Organized Oracle " or " Yet Another Hierarchical Officious Oracle " . The term " hierarchical " described how the Yahoo database was arranged in layers of subcategories .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-8-127-3" docsrc="Yahoo!">
+      <context> Yahoo had acquired the company in May 2013 <head>and</head> was to discontinue the service on August 5 , 2013 . The team at Astrid has supplied its customers with a data export tool and recommended former competitors such as Wunderlist and Sandglaz . ==== Twitter slide leak on upcoming changes to Yahoo ====</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-8-134-1" docsrc="Yahoo!">
+      <context> Under the " Merge " column were : <head>Upcoming</head> , FoxyTunes , Yahoo Events , Yahoo People Search , Sideline , and FireEagle . The blog on the del.icio.us website released a post by Chris Yeh after the slide was leaked in which Yeh stated that " Sunset " does n't necessarily mean that Yahoo is closing down the site . Yeh further explained that other possibilities—including del.icio.us leaving Yahoo ( through sale or spinoff)—were still being considered : " We can only imagine how upsetting the news coverage over the past 24 hours has been to many of you .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-8-135-2" docsrc="Yahoo!">
+      <context> Yahoo Buzz was closed down on April 21 <head>,</head> 2011 without an official announcement from Yahoo . MyBlogLog was then discontinued by Yahoo on May 24 , 2011 . In September 2013 The Indian Express reported that Yahoo received 29 thousand requests for information about users from governments in the first six months of 2013 .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-8-146-3" docsrc="Yahoo!">
+      <context> By one measure , on average Yahoo had <head>the</head> potential in December 2007 to build a profile of 2,500 records per month about each of its visitors . Yahoo retains search requests for a period of 13 months . However , in response to European regulators , Yahoo obfuscates the IP address of users after three months by deleting its last eight bits .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-8-153-3" docsrc="Yahoo!">
+      <context> In March 2004 , Yahoo launched a paid <head>inclusion</head> program whereby commercial websites were guaranteed listings on the Yahoo search engine . Yahoo discontinued the program at the end of 2009 . Yahoo was criticized for providing ads via the Yahoo ad network to companies who display them through spyware and adware .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-8-184-2" docsrc="Yahoo!">
+      <context> Former chief operating officer Henrique de Castro departed <head>from</head> the company in January 2014 after Mayer , who initially hired him after her appointment as CEO , dismissed him . de Castro , who previously worked for Google and McKinsey &amp; Company , was employed to revive Yahoo ’s advertising business . Yahoo holds a 34.75 % minority stake in Yahoo Japan , while SoftBank holds 35.45 % , YahooXtra in New Zealand , which Yahoo!7 have 51 % of and 49 % belongs to Telecom New Zealand , and Yahoo!7 in Australia , which is a 50–50 agreement between Yahoo and the Seven Network .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-8-36-1" docsrc="Yahoo!">
+      <context> The announcement is expected after the market closes <head>on</head> February 2 , 2016 . Yahoo operates a portal that provides the latest news , entertainment , and sports information . The portal also gives users access to other Yahoo services like Yahoo !</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-8-36-2" docsrc="Yahoo!">
+      <context> Yahoo operates a portal that provides the latest <head>news</head> , entertainment , and sports information . The portal also gives users access to other Yahoo services like Yahoo ! Search , Yahoo Mail , Yahoo Maps , Yahoo Finance , Yahoo Groups and Yahoo Messenger .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-8-84-1" docsrc="Yahoo!">
+      <context> Yahoo offers cartographic and geographic services via GeoPlanet <head>.</head> === Yahoo Next === Yahoo Next is an incubation ground for future Yahoo technologies currently undergoing testing .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-9-19-1" docsrc="Yahoo!">
+      <context> He also completely reorganized the company . On May <head>13</head> , 2012 , Yahoo issued a press release stating that Thompson was no longer with the company , and would immediately be replaced on an interim basis by Ross Levinsohn , recently appointed head of Yahoo 's new Media group . Thompson 's total compensation for his 130-day tenure with Yahoo was at least $ 7.3 million .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-9-29-1" docsrc="Yahoo!">
+      <context> Video is one of the company 's key growth <head>areas</head> and the acquisition will make Yahoo 's video ad platform the largest in the U.S. On November 21 , 2014 , it was announced that Yahoo had acquired Cooliris . The Wall Street Journal 's Douglas MacMillan reported that Yahoo 's CEO Marissa Mayer is expected to cut 15 % of its workforce .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-9-64-1" docsrc="Yahoo!">
+      <context> Commerce === Yahoo offers shopping services such as Yahoo <head>!</head> Shopping , Yahoo Autos , Yahoo Real Estate and Yahoo Travel , which enables users to gather relevant information and make commercial transactions and purchases online .</context>
+    </instance>
+    <instance id="Yahoo!-yahoo-9-67-1" docsrc="Yahoo!">
+      <context> Yahoo Shopping is a price comparison service which uses <head>the</head> Kelkoo price comparison service it acquired in April 2004 . === Small business === Yahoo provides business services such as Yahoo DomainKeys , Yahoo Web Hosting , Yahoo Merchant Solutions , Yahoo Business Email and Yahoo Store to small business owners and professionals allowing them to build their own online stores using Yahoo 's tools .</context>
+    </instance>
+    <instance id="Yahoo_(Gulliver's_Travels)-yahoo-0-2-1" docsrc="Yahoo_(Gulliver's_Travels)">
+      <context> <head>Hence</head> the term " yahoo " has come to mean " a crude , brutish or obscenely coarse person " . American frontiersman Daniel Boone , who often used terms from Gulliver 's Travels , claimed that he killed a hairy giant that he called a Yahoo . Yahoos were referred to in a letter sent by serial killer David Berkowitz to New York City police while committing the " Son of Sam " murders in 1976 .</context>
+    </instance>
+    <instance id="Yahoo_(Gulliver's_Travels)-yahoo-0-3-1" docsrc="Yahoo_(Gulliver's_Travels)">
+      <context> <head>American</head> frontiersman Daniel Boone , who often used terms from Gulliver 's Travels , claimed that he killed a hairy giant that he called a Yahoo . Yahoos were referred to in a letter sent by serial killer David Berkowitz to New York City police while committing the " Son of Sam " murders in 1976 .</context>
+    </instance>
+    <instance id="Yahoo_(Gulliver's_Travels)-yahoo-1-1-1" docsrc="Yahoo_(Gulliver's_Travels)">
+      <context> Yahoos <head>are</head> legendary beings in the novel Gulliver 's Travels ( 1726 ) by Jonathan Swift . Swift describes them as being filthy and with unpleasant habits , resembling human beings far too closely for the liking of protagonist Lemuel Gulliver , who finds the calm and rational society of intelligent horses , the Houyhnhnms , greatly preferable . The Yahoos are primitive creatures obsessed with " pretty stones " they find by digging in mud , thus representing the distasteful materialism and ignorant elitism Swift encountered in Britain .</context>
+    </instance>
+    <instance id="Yahoo_(Gulliver's_Travels)-yahoo-25-1-3" docsrc="Yahoo_(Gulliver's_Travels)">
+      <context> The Yahoos are primitive creatures obsessed with " pretty stones " they find by digging in mud , thus representing the distasteful materialism and ignorant <head>elitism</head> Swift encountered in Britain . Hence the term " yahoo " has come to mean " a crude , brutish or obscenely coarse person " . American frontiersman Daniel Boone , who often used terms from Gulliver 's Travels , claimed that he killed a hairy giant that he called a Yahoo .</context>
+    </instance>
+    <instance id="Yahoo_(Gulliver's_Travels)-yahoo-4-1-2" docsrc="Yahoo_(Gulliver's_Travels)">
+      <context> Swift describes them as <head>being</head> filthy and with unpleasant habits , resembling human beings far too closely for the liking of protagonist Lemuel Gulliver , who finds the calm and rational society of intelligent horses , the Houyhnhnms , greatly preferable . The Yahoos are primitive creatures obsessed with " pretty stones " they find by digging in mud , thus representing the distasteful materialism and ignorant elitism Swift encountered in Britain . Hence the term " yahoo " has come to mean " a crude , brutish or obscenely coarse person " .</context>
+    </instance>
+  </lexelt>
+</corpus>

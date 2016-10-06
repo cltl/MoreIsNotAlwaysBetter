@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="outcome.n" pos="NN">
+    <instance id="Result-outcome-10-9-1" docsrc="Result">
+      <context> in forensics and justice , the proof of guilt or <head>innocence</head> of a suspect after evaluating evidence in a criminal investigation in economics and accounting , the profit or loss at the end of a fiscal period . in democracy , the election of a representative or the outcome of a vote on a subject</context>
+    </instance>
+    <instance id="Result-outcome-4-1-1" docsrc="Result">
+      <context> Reaching no result can <head>mean</head> that actions are inefficient , ineffective , meaningless or flawed . Some types of result are as follows : in general , the outcome of any kind of research , action or phenomenon</context>
+    </instance>
+    <instance id="Result-outcome-4-6-2" docsrc="Result">
+      <context> in computer sciences , <head>the</head> return value of a function , state of a system or list of records matching a query ( e.g. web search ) . The result type is the data type of the data returned by a function . in science , the outcome of an experiment ( e.g. see null hypothesis )</context>
+    </instance>
+    <instance id="Result-outcome-7-0-2" docsrc="Result">
+      <context> A result ( also called upshot ) <head>is</head> the final consequence of a sequence of actions or events expressed qualitatively or quantitatively . Possible results include advantage , disadvantage , gain , injury , loss , value and victory . There may be a range of possible outcomes associated with an event depending on the point of view , historical distance or relevance .</context>
+    </instance>
+    <instance id="a00551416_d_3" docsrc="a00551416_d">
+      <context> inconclusive as to <head>outcome</head> ; close or just even in a race or comparison or competition ;</context>
+    </instance>
+    <instance id="a00684480_d_8" docsrc="a00684480_d">
+      <context> determining or having the power to determine an <head>outcome</head> ;</context>
+    </instance>
+    <instance id="a00930170_d_8" docsrc="a00930170_d">
+      <context> expected or depended_upon as a natural or logical <head>outcome</head> ;</context>
+    </instance>
+    <instance id="a02059381_d_2" docsrc="a02059381_d">
+      <context> of uncertain <head>outcome</head> ; especially fraught with risk ;</context>
+    </instance>
+    <instance id="a02331262_d_8" docsrc="a02331262_d">
+      <context> having succeeded or being marked by a favorable <head>outcome</head> ;</context>
+    </instance>
+    <instance id="a02333453_d_9" docsrc="a02333453_d">
+      <context> not successful ; having failed or having an unfavorable <head>outcome</head> ;</context>
+    </instance>
+    <instance id="br-f23#w1300_0" docsrc="br-f23">
+      <context> The evidence suggests that foreign peoples believe the United_States is weaker than the Soviet_Union , and is bound to fall still further behind in the years ahead . This ignorant estimate , I repeat , is not of any interest in itself ; but it becomes very important if foreign peoples react the way human_beings typically do - namely , by taking steps to end_up on what appears to be the winning side . To the extent , then , that declining U._S. prestige means that other nations will be tempted to place their bets on an ultimate American defeat , and will thus be more vulnerable to Soviet intimidation , there is reason for concern . Still , these guesses about the <head>outcome</head> of the struggle cannot be as important as the actual power relationship between the Soviet_Union and ourselves . Here I do not speak_of military power where our advantage is obvious and overwhelming but of political power - of influence , if you will - about which the relevant questions are : Is Soviet influence throughout the world greater or less than it was ten years ago ? And is Western influence greater or less than it used to be ?</context>
+    </instance>
+    <instance id="br-g11#w832_0" docsrc="br-g11">
+      <context> They are in_general those fears that once seemed to have been amenable to prayer or ritual . They include both individual fears and collective ones . They arise in situations in which one believes that what happens depends not_only on the external world , but also on the precise pattern of behavior of the individual or group . Often it is recognized that all the details of the pattern may not be essential to the <head>outcome</head> but , because the pattern was empirically determined and not developed through theoretical understanding , one is never quite certain which behavior elements are effective , and the whole pattern becomes ritualized . Yet often fear persists because , even with the most rigid ritual , one is never quite free from the uneasy feeling that one might make some mistake or that in every previous execution one had been unaware of the really decisive act . To say that science had reduced many such fears merely reiterates the obvious and frequent statement that science eliminated much of magic and superstition . But a somewhat more detailed analysis of this process may be illuminating .</context>
+    </instance>
+    <instance id="br-j19#w1028_0" docsrc="br-j19">
+      <context> `` Success '' and `` failure '' are just convenient labels for the two categories of outcomes when we talk_about binomial trials in_general . These words are more expressive than labels like `` A '' and `` not - A '' . It is natural from the marksman 's viewpoint to call a bull's-eye a success , but in the mice example it is arbitrary which category corresponds to straight hair in a mouse . The word `` binomial '' means `` of two names '' or `` of two terms '' , and both usages apply in our work : the first to the names of the two <head>outcomes</head> of a binomial trial , and the second to the terms p and * * f that represent the probabilities of `` success '' and `` failure '' . Sometimes when there are many outcomes for a single trial , we group these outcomes into two classes , as in the example of the die , where we have arbitrarily constructed the classes `` ace '' and `` not ace '' . We classify mice as `` straight haired '' or `` wavy haired '' , but a hairless mouse appears . We can escape_from such a difficulty by ruling_out the animal as not constituting a trial , but such a solution is not always satisfactory .</context>
+    </instance>
+    <instance id="br-j19#w1063_0" docsrc="br-j19">
+      <context> These words are more expressive than labels like `` A '' and `` not - A '' . It is natural from the marksman 's viewpoint to call a bull's-eye a success , but in the mice example it is arbitrary which category corresponds to straight hair in a mouse . The word `` binomial '' means `` of two names '' or `` of two terms '' , and both usages apply in our work : the first to the names of the two outcomes of a binomial trial , and the second to the terms p and * * f that represent the probabilities of `` success '' and `` failure '' . Sometimes when there are many <head>outcomes</head> for a single trial , we group these outcomes into two classes , as in the example of the die , where we have arbitrarily constructed the classes `` ace '' and `` not ace '' . We classify mice as `` straight haired '' or `` wavy haired '' , but a hairless mouse appears . We can escape_from such a difficulty by ruling_out the animal as not constituting a trial , but such a solution is not always satisfactory . Each die has probability * * f of producing an ace ; the marksman has some probability p , perhaps 0.1 , of making a bull's-eye .</context>
+    </instance>
+    <instance id="br-j19#w1072_0" docsrc="br-j19">
+      <context> These words are more expressive than labels like `` A '' and `` not - A '' . It is natural from the marksman 's viewpoint to call a bull's-eye a success , but in the mice example it is arbitrary which category corresponds to straight hair in a mouse . The word `` binomial '' means `` of two names '' or `` of two terms '' , and both usages apply in our work : the first to the names of the two outcomes of a binomial trial , and the second to the terms p and * * f that represent the probabilities of `` success '' and `` failure '' . Sometimes when there are many outcomes for a single trial , we group these <head>outcomes</head> into two classes , as in the example of the die , where we have arbitrarily constructed the classes `` ace '' and `` not ace '' . We classify mice as `` straight haired '' or `` wavy haired '' , but a hairless mouse appears . We can escape_from such a difficulty by ruling_out the animal as not constituting a trial , but such a solution is not always satisfactory . Each die has probability * * f of producing an ace ; the marksman has some probability p , perhaps 0.1 , of making a bull's-eye .</context>
+    </instance>
+    <instance id="br-j19#w1225_0" docsrc="br-j19">
+      <context> Each die has probability * * f of producing an ace ; the marksman has some probability p , perhaps 0.1 , of making a bull's-eye . Note that we need not know the value of p , for the experiment to be binomial . During a round of target_practice the sun comes from behind a cloud and dazzles the marksman , lowering his chance of a bull's-eye . Strictly_speaking , this means that the probability for each possible <head>outcome</head> of the experiment can be computed by multiplying together the probabilities of the possible outcomes of the single binomial trials . Thus in the three dice example * * f , * * f , and the independence assumption implies that the probability that the three dice fall ace , not ace , ace in that order is ( 1 6 ) ( 5 6 ) ( 1 6 ) . Experimentally , we expect independence when the trials have nothing to do with one another . A family of five plans to go together either to the beach or to the mountains , and a coin is tossed to decide .</context>
+    </instance>
+    <instance id="br-j19#w1240_0" docsrc="br-j19">
+      <context> Each die has probability * * f of producing an ace ; the marksman has some probability p , perhaps 0.1 , of making a bull's-eye . Note that we need not know the value of p , for the experiment to be binomial . During a round of target_practice the sun comes from behind a cloud and dazzles the marksman , lowering his chance of a bull's-eye . Strictly_speaking , this means that the probability for each possible outcome of the experiment can be computed by multiplying together the probabilities of the possible <head>outcomes</head> of the single binomial trials . Thus in the three dice example * * f , * * f , and the independence assumption implies that the probability that the three dice fall ace , not ace , ace in that order is ( 1 6 ) ( 5 6 ) ( 1 6 ) . Experimentally , we expect independence when the trials have nothing to do with one another . A family of five plans to go together either to the beach or to the mountains , and a coin is tossed to decide .</context>
+    </instance>
+    <instance id="br-j19#w1370_0" docsrc="br-j19">
+      <context> Experimentally , we expect independence when the trials have nothing to do with one another . A family of five plans to go together either to the beach or to the mountains , and a coin is tossed to decide . We want to know the number of people going_to the mountains . When this experiment is viewed_as composed of five binomial trials , one for each member of the family , the <head>outcomes</head> of the trials are obviously not independent . Indeed , the experiment is better viewed_as consisting_of one binomial trial for the entire family . The following is a less extreme example of dependence . Consider couples visiting an art museum .</context>
+    </instance>
+    <instance id="br-j19#w14_0" docsrc="br-j19">
+      <context> Some experiments are composed of repetitions of independent trials , each with two possible <head>outcomes</head> . The binomial probability distribution may describe the variation that occurs from one set of trials of such a binomial experiment to another . We devote a chapter to the binomial_distribution not_only because it is a mathematical model for an enormous variety of real_life phenomena , but also because it has important properties that recur in many other probability models . We begin with a_few examples of binomial experiments .</context>
+    </instance>
+    <instance id="br-j19#w174_0" docsrc="br-j19">
+      <context> In repeated sets of five shots his numbers of bull's-eyes vary . What can we say of the probabilities of the different possible numbers of bull's-eyes ? In litters of eight mice from similar parents , the number of mice with straight instead of wavy hair is an integer from 0 to 8 . What probabilities should be attached to these possible <head>outcomes</head> ? When three dice are tossed repeatedly , what is the probability that the number of aces is 0 ( or 1 , or 2 , or 3 ) ? More generally , suppose that an experiment consists_of a number of independent trials , that each trial results in either a `` success '' or a `` non success '' ( `` failure '' ) , and that the probability of success remains constant from trial to trial . In the examples above , the occurrence of a bull's-eye , a straight haired mouse , or an ace could be called a `` success '' .</context>
+    </instance>
+    <instance id="br-j19#w1883_0" docsrc="br-j19">
+      <context> ( For_instance , see Example 2 of Section 5 - 5 , on red cards in hands of 5 . ) On_the_other_hand , even when the binomial model does not describe well the physical_phenomenon being studied , the binomial model may still be used as a baseline for comparative purposes ; that_is , we may discuss the phenomenon in_terms_of its departures from the binomial model . A binomial experiment consists_of * * f independent binomial trials , all with the same probability * * f of yielding a success . The <head>outcome</head> of the experiment is X successes . The random_variable X takes the values * * f with probabilities * * f or , more briefly * * f . We shall find a formula for the probability of exactly x successes for given values of p and n . When each number of successes x is paired with its probability of occurrence * * f , the set of pairs * * f , is a probability function called a binomial_distribution .</context>
+    </instance>
+    <instance id="br-j19#w284_0" docsrc="br-j19">
+      <context> When three dice are tossed repeatedly , what is the probability that the number of aces is 0 ( or 1 , or 2 , or 3 ) ? More generally , suppose that an experiment consists_of a number of independent trials , that each trial results in either a `` success '' or a `` non success '' ( `` failure '' ) , and that the probability of success remains constant from trial to trial . In the examples above , the occurrence of a bull's-eye , a straight haired mouse , or an ace could be called a `` success '' . In_general , any <head>outcome</head> we choose may be labeled `` success '' . The major question in this chapter is : What is the probability of exactly x successes in n trials ? In Chapters 3 and 4 we answered questions like those in the examples , usually by counting points in a sample space . Fortunately , a general formula of wide applicability solves all problems of this kind .</context>
+    </instance>
+    <instance id="br-j19#w403_0" docsrc="br-j19">
+      <context> Fortunately , a general formula of wide applicability solves all problems of this kind . Before deriving this formula , we explain what we mean by `` problems of this kind '' . Experiments are often composed of several identical trials , and sometimes experiments themselves are repeated . In the marksmanship example , a trial consists_of `` one round shot at a target '' with <head>outcome</head> either one bull's-eye ( success ) or none ( failure ) . Further , an experiment might consist_of five rounds , and several sets of five rounds might be regarded_as a super experiment composed of several repetitions of the five round experiment . If three dice are tossed , a trial is one toss of one die and the experiment is composed of three trials . Or , what amounts to the same thing , if one die is tossed three times , each toss is a trial , and the three tosses form the experiment .</context>
+    </instance>
+    <instance id="br-j19#w663_0" docsrc="br-j19">
+      <context> 0 time ? Note that there are 3 trials of interest . Each trial consists_of choosing a student manager at_random . The 2 possible <head>outcomes</head> on each trial are `` driver '' or `` nondriver '' . Since the choice is by lot each_week , the outcomes of different trials are independent . The managers stay the same , so that * * f is the same for all weeks . We now generalize these ideas for general binomial experiments .</context>
+    </instance>
+    <instance id="br-j19#w685_0" docsrc="br-j19">
+      <context> Note that there are 3 trials of interest . Each trial consists_of choosing a student manager at_random . The 2 possible outcomes on each trial are `` driver '' or `` nondriver '' . Since the choice is by lot each_week , the <head>outcomes</head> of different trials are independent . The managers stay the same , so that * * f is the same for all weeks . We now generalize these ideas for general binomial experiments . For an experiment to qualify as a binomial experiment , it must have four properties : ( 1 ) there must be a fixed number of trials , ( 2 ) each trial must result in a `` success '' or a `` failure '' ( a binomial trial ) , ( 3 ) all trials must have identical probabilities of success , ( 4 ) the trials must be independent of each other .</context>
+    </instance>
+    <instance id="br-j19#w935_0" docsrc="br-j19">
+      <context> Toss a die until an ace appears . Here the number of trials is a random_variable , not a fixed number . Each of the n trials is either a success or a failure . `` Success '' and `` failure '' are just convenient labels for the two categories of <head>outcomes</head> when we talk_about binomial trials in_general . These words are more expressive than labels like `` A '' and `` not - A '' . It is natural from the marksman 's viewpoint to call a bull's-eye a success , but in the mice example it is arbitrary which category corresponds to straight hair in a mouse . The word `` binomial '' means `` of two names '' or `` of two terms '' , and both usages apply in our work : the first to the names of the two outcomes of a binomial trial , and the second to the terms p and * * f that represent the probabilities of `` success '' and `` failure '' .</context>
+    </instance>
+    <instance id="br-j35#w1558_0" docsrc="br-j35">
+      <context> These findings , and_others which will in_time be developed , will affect the method of glottochronological inquiry . If adjectival meanings show relatively low retentiveness of stems , as I am confident will prove to be the case in most languages of the world , why should our basic lists include 15 per_cent of these unstable forms , but only 8 per_cent of animals and plants which replace much more slowly ? Had Hoijer substituted for his 15 adjectival slots 15 good animal and plant items , his rate of stem replacement would have been lower and the age of Athabascan language separation smaller . And irrespective of the <head>outcome</head> in centuries elapsed since splitting , calculations obviously carry more concordant and comparable meaning if they deal with the most stable units than with variously unstable ones . It is evident that Swadesh has not_only had much experience with basic vocabulary in many languages but has acquired great tact and feeling for the expectable behavior of lexical items . Why then this urge to include unstable items in his basic list ? It is the urge to obtain a list as free_of geographical and cultural conditioning as possible .</context>
+    </instance>
+    <instance id="br-k27#w1961_0" docsrc="br-k27">
+      <context> The events of the last quarter of an hour , mysterious to any bird accustomed only to the predictable life of coop and barnyard , had overcome the doctor 's hen and she gave_out a series of cackly wails , perhaps mourning her nest , but briefly enjoyed . The doctor 's wits had not left him , however , for all his sixty-eight years , and the wails were almost immediately lost in the sound of water rushing_out from the showerhead . Alex nodded to the maid as though nothing unusual were taking_place and entered the doctor 's room . Shortly , the doctor himself entered , his hair somewhat wet from the shower , but evidently satisfied with the <head>outcome</head> of their adventures . Without comment he opened the closet and from its shelves constructed a highboard around the egg case which he had placed on the floor inside . Next , the hen was nested and all seemed well . The two men sat for some time , savoring the pleasure of escape from peril and the relief such escape brings , before they got_up and left the hotel , the doctor to go_to the conference_house and Alex to go_to the main post_office .</context>
+    </instance>
+    <instance id="n00456899_d_3" docsrc="n00456899_d">
+      <context> a game whose <head>outcome</head> is not recorded in the season's standing ;</context>
+    </instance>
+    <instance id="n00797878_d_8" docsrc="n00797878_d">
+      <context> any venturesome undertaking especially one with an uncertain <head>outcome</head> ;</context>
+    </instance>
+    <instance id="n01198588_d_4" docsrc="n01198588_d">
+      <context> a representative legal_action whose <head>outcome</head> is likely to become a precedent ;</context>
+    </instance>
+    <instance id="n01245618_d_8" docsrc="n01245618_d">
+      <context> casting an object in order to determine an <head>outcome</head> randomly ;</context>
+    </instance>
+    <instance id="n01288549_d_7" docsrc="n01288549_d">
+      <context> a battle in 1645 that settled the <head>outcome</head> of the first English_Civil_War as the Parliamentarians won a major victory over the Royalists ;</context>
+    </instance>
+    <instance id="n04756635_d_5" docsrc="n04756635_d">
+      <context> the probability of a specified <head>outcome</head> ;</context>
+    </instance>
+    <instance id="n04758776_d_5" docsrc="n04758776_d">
+      <context> the improbability of a specified <head>outcome</head> ;</context>
+    </instance>
+    <instance id="n05091527_d_8" docsrc="n05091527_d">
+      <context> a numerical measure of the uncertainty of an <head>outcome</head> ;</context>
+    </instance>
+    <instance id="n05160796_d_10" docsrc="n05160796_d">
+      <context> the quality of being encouraging or promising of a successful <head>outcome</head> ;</context>
+    </instance>
+    <instance id="n05789089_d_6" docsrc="n05789089_d">
+      <context> something settled or resolved ; the <head>outcome</head> of decision_making ;</context>
+    </instance>
+    <instance id="n05799071_d_4" docsrc="n05799071_d">
+      <context> a preliminary experiment whose <head>outcome</head> can lead to a more extensive experiment ;</context>
+    </instance>
+    <instance id="n05801286_d_20" docsrc="n05801286_d">
+      <context> a poll of voters as they leave the voting place ; usually taken by news_media in order to predict the <head>outcome</head> of an election ;</context>
+    </instance>
+    <instance id="n05918379_d_33" docsrc="n05918379_d">
+      <context> a theorem describing how the conditional_probability of a set of possible causes for a given observed event can be computed from knowledge of the probability of each cause and the conditional_probability of the <head>outcome</head> of each cause ;</context>
+    </instance>
+    <instance id="n05982152_d_2" docsrc="n05982152_d">
+      <context> an anticipated <head>outcome</head> that is intended or that guides your planned actions ;</context>
+    </instance>
+    <instance id="n06203222_d_9" docsrc="n06203222_d">
+      <context> bias introduced by an experimenter whose expectations about the <head>outcome</head> of the experiment can be subtly communicated to the participants in the experiment ;</context>
+    </instance>
+    <instance id="n06522119_d_22" docsrc="n06522119_d">
+      <context> a contract whose performance by one party depends_on the occurrence of an uncertain contingent event ( but if it is contingent_on the <head>outcome</head> of a wager it is not enforceable ) ;</context>
+    </instance>
+    <instance id="n06522941_d_10" docsrc="n06522941_d">
+      <context> a contract whose performance by one party is contingent_on the <head>outcome</head> of a bet ; unenforceable by statute in most jurisdictions ;</context>
+    </instance>
+    <instance id="n06543949_d_9" docsrc="n06543949_d">
+      <context> a brief presented by someone interested in influencing the <head>outcome</head> of a lawsuit but who is not a party to it ;</context>
+    </instance>
+    <instance id="n06596025_d_9" docsrc="n06596025_d">
+      <context> a racing publication giving information on horses and the <head>outcomes</head> of horse_races ;</context>
+    </instance>
+    <instance id="n07293080_d_1" docsrc="n07293080_d">
+      <context> the <head>outcome</head> of a complex sequence of events ;</context>
+    </instance>
+    <instance id="n07293546_d_1" docsrc="n07293546_d">
+      <context> the <head>outcome</head> of a game or contest ;</context>
+    </instance>
+    <instance id="n07294019_d_1" docsrc="n07294019_d">
+      <context> the <head>outcome</head> of an event especially as relative to an individual ;</context>
+    </instance>
+    <instance id="n07294423_d_1" docsrc="n07294423_d">
+      <context> an <head>outcome</head> ( good or bad ) that is well deserved ;</context>
+    </instance>
+    <instance id="n07294907_d_1" docsrc="n07294907_d">
+      <context> an <head>outcome</head> in which virtue triumphs over vice ( often ironically ) ;</context>
+    </instance>
+    <instance id="n07295955_d_3" docsrc="n07295955_d">
+      <context> the least favorable <head>outcome</head> ;</context>
+    </instance>
+    <instance id="n07458099_d_3" docsrc="n07458099_d">
+      <context> a contest whose <head>outcome</head> is uncertain up to the very end ;</context>
+    </instance>
+    <instance id="n07459868_d_11" docsrc="n07459868_d">
+      <context> a race between dogs ; usually an occasion for betting_on the <head>outcome</head> ;</context>
+    </instance>
+    <instance id="n09612291_d_4" docsrc="n09612291_d">
+      <context> someone who contests an <head>outcome</head> ( of a race or an election etc. ) ;</context>
+    </instance>
+    <instance id="n09788237_d_24" docsrc="n09788237_d">
+      <context> an adviser to the court on some matter_of_law who is not a party to the case ; usually someone who wants to influence the <head>outcome</head> of a lawsuit involving matters of wide public interest ;</context>
+    </instance>
+    <instance id="n10118844_d_7" docsrc="n10118844_d">
+      <context> a person who wagers money on the <head>outcome</head> of games or sporting events ;</context>
+    </instance>
+    <instance id="n10370683_d_10" docsrc="n10370683_d">
+      <context> someone who sets the betting_odds based on calculations of the <head>outcome</head> of a contest ( especially a horse_race ) ;</context>
+    </instance>
+    <instance id="n10639469_d_12" docsrc="n10639469_d">
+      <context> someone who leads a merry existence ; especially a gambler on the <head>outcome</head> of sporting events ;</context>
+    </instance>
+    <instance id="n10683927_d_16" docsrc="n10683927_d">
+      <context> a voter who has no allegiance to any political_party and whose unpredictable decisions can swing the <head>outcome</head> of an election one way or the other ;</context>
+    </instance>
+    <instance id="n11418460_d_10" docsrc="n11418460_d">
+      <context> an unknown and unpredictable phenomenon that leads to a favorable <head>outcome</head> ;</context>
+    </instance>
+    <instance id="n11427842_d_2" docsrc="n11427842_d">
+      <context> an unpredictable <head>outcome</head> that is unfortunate ;</context>
+    </instance>
+    <instance id="n13321081_d_7" docsrc="n13321081_d">
+      <context> a fee that is payable only_if the <head>outcome</head> is successful ( as for an attorney's services ) ;</context>
+    </instance>
+    <instance id="n13936783_d_6" docsrc="n13936783_d">
+      <context> a situation in which a favorable <head>outcome</head> is impossible ; you are bound to lose whatever you do ;</context>
+    </instance>
+    <instance id="n14473655_d_6" docsrc="n14473655_d">
+      <context> an auspicious state resulting from favorable <head>outcomes</head> ;</context>
+    </instance>
+    <instance id="n14475405_d_6" docsrc="n14475405_d">
+      <context> an unfortunate state resulting from unfavorable <head>outcomes</head> ;</context>
+    </instance>
+    <instance id="r00010914_d_3" docsrc="r00010914_d">
+      <context> in the final <head>outcome</head> ;</context>
+    </instance>
+    <instance id="v00673571_d_4" docsrc="v00673571_d">
+      <context> estimate the duration or <head>outcome</head> of something ;</context>
+    </instance>
+    <instance id="v00876200_d_5" docsrc="v00876200_d">
+      <context> respond to a query or <head>outcome</head> ;</context>
+    </instance>
+    <instance id="v01155687_d_3" docsrc="v01155687_d">
+      <context> stake on the <head>outcome</head> of an issue ;</context>
+    </instance>
+    <instance id="v02370650_d_15" docsrc="v02370650_d">
+      <context> act or have an effect in a specified way or with a specific effect or <head>outcome</head> ;</context>
+    </instance>
+    <instance id="v02396536_d_14" docsrc="v02396536_d">
+      <context> set_up a committee or legislative_body with one's own supporters so as to influence the <head>outcome</head> ;</context>
+    </instance>
+    <instance id="v02495592_d_10" docsrc="v02495592_d">
+      <context> order a defendant to be placed in custody pending the <head>outcome</head> of a proceedings against him or her ;</context>
+    </instance>
+    <instance id="v02525447_d_4" docsrc="v02525447_d">
+      <context> have an effect or <head>outcome</head> ; often the one desired or expected ;</context>
+    </instance>
+    <instance id="v02544348_d_9" docsrc="v02544348_d">
+      <context> take a risk in the hope of a favorable <head>outcome</head> ;</context>
+    </instance>
+    <instance id="v02573127_d_2" docsrc="v02573127_d">
+      <context> arrange the <head>outcome</head> of by means of deceit ;</context>
+    </instance>
+    <instance id="v02611106_d_16" docsrc="v02611106_d">
+      <context> happen in a certain way , leading to , producing , or resulting in a certain <head>outcome</head> , often well ;</context>
+    </instance>
+  </lexelt>
+</corpus>

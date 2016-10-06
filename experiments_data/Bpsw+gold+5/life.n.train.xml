@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="life.n" pos="NN">
+    <instance id="Biography-life-16-0-2" docsrc="Biography">
+      <context> A biography ( or simply bio ) is a detailed description of a person 's life <head>.</head> It involves more than just the basic facts like education , work , relationships , and death , but also portrays a subject 's experience of these life events . Unlike a profile or curriculum vitae ( résumé ) , a biography presents a subject 's life story , highlighting various aspects of his or her life , including intimate details of experience , and may include an analysis of the subject 's personality .</context>
+    </instance>
+    <instance id="Biography-life-26-0-2" docsrc="Biography">
+      <context> A biography ( or simply bio ) is a detailed description of a person 's life . It involves more than just the basic facts like <head>education</head> , work , relationships , and death , but also portrays a subject 's experience of these life events . Unlike a profile or curriculum vitae ( résumé ) , a biography presents a subject 's life story , highlighting various aspects of his or her life , including intimate details of experience , and may include an analysis of the subject 's personality .</context>
+    </instance>
+    <instance id="Biography-life-27-0-1" docsrc="Biography">
+      <context> A biography ( or simply bio ) is a detailed description of a person 's life . It involves more than just the basic facts like education <head>,</head> work , relationships , and death , but also portrays a subject 's experience of these life events .</context>
+    </instance>
+    <instance id="Life-life-0-12-1" docsrc="Life">
+      <context> <head>===</head> Biology === Since there is no unequivocal definition of life , most current definitions in biology are descriptive . Life is considered a characteristic of something that exhibits all or most of the following traits :</context>
+    </instance>
+    <instance id="Life-life-0-52-1" docsrc="Life">
+      <context> <head>Specifically</head> , he identified the " nonfractionability of components in an organism " as the fundamental difference between living systems and " biological machines . " ==== Life as a property of ecosystems ====</context>
+    </instance>
+    <instance id="Life-life-0-66-1" docsrc="Life">
+      <context> <head>====</head> Operator theory ==== Another systemic definition , called the Operator theory , proposes that ' life is a general term for the presence of the typical closures found in organisms ; the typical closures are a membrane and an autocatalytic set in the cell ' , and also proposes that an organism is ' any system with an organisation that complies with an operator type that is at least as complex as the cell . Life can also be modeled as a network of inferior negative feedbacks of regulatory mechanisms subordinated to a superior positive feedback formed by the potential of expansion and reproduction .</context>
+    </instance>
+    <instance id="Life-life-1-132-6" docsrc="Life">
+      <context> While <head>all</head> organisms are composed of nearly identical molecules , evolution has enabled such microbes to cope with this wide range of physical and chemical conditions . Characterization of the structure and metabolic diversity of microbial communities in such extreme environments is ongoing . Microbial life forms thrive even in the Mariana Trench , the deepest spot on the Earth .</context>
+    </instance>
+    <instance id="Life-life-1-168-4" docsrc="Life">
+      <context> Signaling <head>between</head> cells can occur through direct cell contact using juxtacrine signalling , or indirectly through the exchange of agents as in the endocrine system . In more complex organisms , coordination of activities can occur through a dedicated nervous system . Artificial life is a field of study that examines systems related to life , its processes , and its evolution through simulations using computer models , robotics , and biochemistry .</context>
+    </instance>
+    <instance id="Life-life-1-178-3" docsrc="Life">
+      <context> The <head>study</head> of artificial life imitates traditional biology by recreating some aspects of biological phenomena . Scientists study the logic of living systems by creating artificial environments—seeking to understand the complex information processing that defines such systems . While life is , by definition , alive , artificial life is generally referred to as data confined to a digital environment and existence .</context>
+    </instance>
+    <instance id="Life-life-1-3-1" docsrc="Life">
+      <context> Though <head>only</head> confirmed on Earth , many believe in the existence of extraterrestrial life . Artificial life is a computer simulation of any aspect of life , which is used to examine systems related to life .</context>
+    </instance>
+    <instance id="Life-life-10-178-3" docsrc="Life">
+      <context> The study of artificial life imitates traditional biology by recreating <head>some</head> aspects of biological phenomena . Scientists study the logic of living systems by creating artificial environments—seeking to understand the complex information processing that defines such systems . While life is , by definition , alive , artificial life is generally referred to as data confined to a digital environment and existence .</context>
+    </instance>
+    <instance id="Life-life-10-3-1" docsrc="Life">
+      <context> Though only confirmed on Earth , many believe in the <head>existence</head> of extraterrestrial life . Artificial life is a computer simulation of any aspect of life , which is used to examine systems related to life .</context>
+    </instance>
+    <instance id="Life-life-10-3-5" docsrc="Life">
+      <context> Extinction is the process by which a group of taxa <head>,</head> normally a species , dies out . Fossils are the preserved remains or traces of organisms . It is a challenge for scientists and philosophers to define life .</context>
+    </instance>
+    <instance id="Life-life-10-75-3" docsrc="Life">
+      <context> Like other ancient writers , he was attempting to explain <head>what</head> makes something a living thing . His explanation was that fiery atoms make a soul in exactly the same way atoms and void account for any other thing . He elaborates on fire because of the apparent connection between life and heat , and because fire moves .</context>
+    </instance>
+    <instance id="Life-life-11-132-2" docsrc="Life">
+      <context> To survive , selected microorganisms can assume forms that enable them <head>to</head> withstand freezing , complete desiccation , starvation , high levels of radiation exposure , and other physical or chemical challenges . These microorganisms may survive exposure to such conditions for weeks , months , years , or even centuries . Extremophiles are microbial life forms that thrive outside the ranges where life is commonly found .</context>
+    </instance>
+    <instance id="Life-life-11-34-1" docsrc="Life">
+      <context> ==== Viruses ==== === Biophysics === To reflect the minimum phenomena <head>required</head> , other biological definitions of life have been proposed , with many of these being based upon chemical systems .</context>
+    </instance>
+    <instance id="Life-life-11-7-2" docsrc="Life">
+      <context> It is a challenge for scientists and philosophers to define life <head>.</head> This is partially because life is a process , not a substance . Any definition must be general enough to both encompass all known life and any unknown life that may be different from life on Earth .</context>
+    </instance>
+    <instance id="Life-life-11-74-4" docsrc="Life">
+      <context> All change is explained by the arrangement and rearrangement of these <head>four</head> elements . The various forms of life are caused by an appropriate mixture of elements . Democritus ( 460 BC ) thought that the essential characteristic of life is having a soul ( psyche ) .</context>
+    </instance>
+    <instance id="Life-life-12-168-4" docsrc="Life">
+      <context> Signaling between cells can occur through direct cell contact using juxtacrine signalling <head>,</head> or indirectly through the exchange of agents as in the endocrine system . In more complex organisms , coordination of activities can occur through a dedicated nervous system . Artificial life is a field of study that examines systems related to life , its processes , and its evolution through simulations using computer models , robotics , and biochemistry .</context>
+    </instance>
+    <instance id="Life-life-12-179-3" docsrc="Life">
+      <context> The common goal is the design and construction of new biological functions <head>and</head> systems not found in nature . Synthetic biology includes the broad redefinition and expansion of biotechnology , with the ultimate goals of being able to design and build engineered biological systems that process information , manipulate chemicals , fabricate materials and structures , produce energy , provide food , and maintain and enhance human health and the environment . One of the challenges in defining death is in distinguishing it from life .</context>
+    </instance>
+    <instance id="Life-life-12-65-1" docsrc="Life">
+      <context> ==== Darwinian dynamic ==== ==== Operator theory ==== Another systemic definition , <head>called</head> the Operator theory , proposes that ' life is a general term for the presence of the typical closures found in organisms ; the typical closures are a membrane and an autocatalytic set in the cell ' , and also proposes that an organism is ' any system with an organisation that complies with an operator type that is at least as complex as the cell .</context>
+    </instance>
+    <instance id="Life-life-13-185-2" docsrc="Life">
+      <context> One of the challenges in defining death is in distinguishing it from life <head>.</head> Death would seem to refer to either the moment life ends , or when the state that follows life begins . However , determining when death has occurred requires drawing precise conceptual boundaries between life and death .</context>
+    </instance>
+    <instance id="Life-life-14-126-1" docsrc="Life">
+      <context> Biosphere === === Range of tolerance === The inert components of an ecosystem are <head>the</head> physical and chemical factors necessary for life — energy ( sunlight or chemical energy ) , water , temperature , atmosphere , gravity , nutrients , and ultraviolet solar radiation protection .</context>
+    </instance>
+    <instance id="Life-life-14-48-2" docsrc="Life">
+      <context> ==== Nonfractionability ==== The first attempt at a general living systems theory for explaining <head>the</head> nature of life was in 1978 , by American biologist James Grier Miller .</context>
+    </instance>
+    <instance id="Life-life-15-13-1" docsrc="Life">
+      <context> Life is considered a characteristic of something that exhibits all or most of the following <head>traits</head> : Homeostasis : regulation of the internal environment to maintain a constant state ; for example , sweating to reduce temperature Organization : being structurally composed of one or more cells — the basic units of life</context>
+    </instance>
+    <instance id="Life-life-15-185-3" docsrc="Life">
+      <context> Death would seem to refer to either the moment life ends , or when the <head>state</head> that follows life begins . However , determining when death has occurred requires drawing precise conceptual boundaries between life and death . This is problematic , however , because there is little consensus over how to define life .</context>
+    </instance>
+    <instance id="Life-life-15-45-3" docsrc="Life">
+      <context> In 1785 , he stated that the Earth was a superorganism and that its proper <head>study</head> should be physiology . Hutton is considered the father of geology , but his idea of a living Earth was forgotten in the intense reductionism of the 19th century . The Gaia hypothesis , proposed in the 1960s by scientist James Lovelock , suggests that life on Earth functions as a single organism that defines and maintains environmental conditions necessary for its survival .</context>
+    </instance>
+    <instance id="Life-life-15-7-2" docsrc="Life">
+      <context> It is a challenge for scientists and philosophers to define life . This is partially <head>because</head> life is a process , not a substance . Any definition must be general enough to both encompass all known life and any unknown life that may be different from life on Earth .</context>
+    </instance>
+    <instance id="Life-life-16-107-2" docsrc="Life">
+      <context> One issue with the RNA world hypothesis is that synthesis of RNA from simple inorganic precursors <head>is</head> more difficult than for other organic molecules . One reason for this is that RNA precursors are very stable and react with each other very slowly under ambient conditions , and it has also been proposed that living organisms consisted of other molecules before RNA. However , the successful synthesis of certain RNA molecules under the conditions that existed prior to life on Earth has been achieved by adding alternative precursors in a specified order with the precursor phosphate present throughout the reaction .</context>
+    </instance>
+    <instance id="Life-life-16-218-1" docsrc="Life">
+      <context> The Adjacent Possible : A Talk with Stuart Kauffman Wikispecies – a free directory of life <head>Resources</head> for life in the Solar System and in galaxy , and the potential scope of life in the cosmological future</context>
+    </instance>
+    <instance id="Life-life-17-58-1" docsrc="Life">
+      <context> ==== Complex systems biology ==== Complex systems biology ( CSB ) is a field of science that <head>studies</head> the emergence of complexity in functional organisms from the viewpoint of dynamic systems theory . The latter is often called also systems biology and aims to understand the most fundamental aspects of life .</context>
+    </instance>
+    <instance id="Life-life-18-185-1" docsrc="Life">
+      <context> Synthetic biology includes the broad redefinition and expansion of biotechnology , with the ultimate goals of being able <head>to</head> design and build engineered biological systems that process information , manipulate chemicals , fabricate materials and structures , produce energy , provide food , and maintain and enhance human health and the environment . One of the challenges in defining death is in distinguishing it from life . Death would seem to refer to either the moment life ends , or when the state that follows life begins .</context>
+    </instance>
+    <instance id="Life-life-19-15-1" docsrc="Life">
+      <context> Organization : being structurally composed of one or more cells — the basic units of life Metabolism : transformation <head>of</head> energy by converting chemicals and energy into cellular components ( anabolism ) and decomposing organic matter ( catabolism ) . Living things require energy to maintain internal organization ( homeostasis ) and to produce the other phenomena associated with life .</context>
+    </instance>
+    <instance id="Life-life-19-58-2" docsrc="Life">
+      <context> Complex systems biology ( CSB ) is a field of science that studies the emergence of complexity in functional <head>organisms</head> from the viewpoint of dynamic systems theory . The latter is often called also systems biology and aims to understand the most fundamental aspects of life . A closely related approach to CSB and systems biology , called relational biology , is concerned mainly with understanding life processes in terms of the most important relations , and categories of such relations among the essential functional components of organisms ; for multicellular organisms , this has been defined as " categorical biology " , or a model representation of organisms as a category theory of biological relations , and also an algebraic topology of the functional organization of living organisms in terms of their dynamic , complex networks of metabolic , genetic , epigenetic processes and signaling pathways .</context>
+    </instance>
+    <instance id="Life-life-2-218-1" docsrc="Life">
+      <context> The Adjacent <head>Possible</head> : A Talk with Stuart Kauffman Wikispecies – a free directory of life Resources for life in the Solar System and in galaxy , and the potential scope of life in the cosmological future</context>
+    </instance>
+    <instance id="Life-life-20-3-1" docsrc="Life">
+      <context> Though only confirmed on Earth , many believe in the existence of extraterrestrial life . Artificial life is a computer <head>simulation</head> of any aspect of life , which is used to examine systems related to life .</context>
+    </instance>
+    <instance id="Life-life-20-72-1" docsrc="Life">
+      <context> Life can also be modeled as a network of inferior negative feedbacks of regulatory mechanisms subordinated to a superior positive <head>feedback</head> formed by the potential of expansion and reproduction . === Materialism === Some of the earliest theories of life were materialist , holding that all that exists is matter , and that life is merely a complex form or arrangement of matter .</context>
+    </instance>
+    <instance id="Life-life-21-7-2" docsrc="Life">
+      <context> It is a challenge for scientists and philosophers to define life . This is partially because life is a process , <head>not</head> a substance . Any definition must be general enough to both encompass all known life and any unknown life that may be different from life on Earth .</context>
+    </instance>
+    <instance id="Life-life-22-35-3" docsrc="Life">
+      <context> Biophysicists have commented that living things function on negative entropy . In other words , living processes can be viewed as a <head>delay</head> of the spontaneous diffusion or dispersion of the internal energy of biological molecules towards more potential microstates . In more detail , according to physicists such as John Bernal , Erwin Schrödinger , Eugene Wigner , and John Avery , life is a member of the class of phenomena that are open or continuous systems able to decrease their internal entropy at the expense of substances or free energy taken in from the environment and subsequently rejected in a degraded form .</context>
+    </instance>
+    <instance id="Life-life-22-38-1" docsrc="Life">
+      <context> In more detail , according to physicists such as John Bernal , Erwin Schrödinger , Eugene Wigner , and John Avery , <head>life</head> is a member of the class of phenomena that are open or continuous systems able to decrease their internal entropy at the expense of substances or free energy taken in from the environment and subsequently rejected in a degraded form . === Living systems theories === Some scientists have proposed in the last few decades that a general living systems theory is required to explain the nature of life .</context>
+    </instance>
+    <instance id="Life-life-23-3-2" docsrc="Life">
+      <context> Though only confirmed on Earth , many believe in the existence of extraterrestrial life . Artificial life is a computer simulation of any <head>aspect</head> of life , which is used to examine systems related to life . Death is the permanent termination of all biological functions which sustain an organism , and as such , is the end of its life .</context>
+    </instance>
+    <instance id="Life-life-27-19-1" docsrc="Life">
+      <context> A response is often expressed by motion ; for example , the leaves of a plant turning toward the sun ( phototropism ) , and chemotaxis . <head>Reproduction</head> : the ability to produce new individual organisms , either asexually from a single parent organism , or sexually from two parent organisms . These complex processes , called physiological functions , have underlying physical and chemical bases , as well as signaling and control mechanisms that are essential to maintaining life .</context>
+    </instance>
+    <instance id="Life-life-3-132-2" docsrc="Life">
+      <context> To survive , <head>selected</head> microorganisms can assume forms that enable them to withstand freezing , complete desiccation , starvation , high levels of radiation exposure , and other physical or chemical challenges . These microorganisms may survive exposure to such conditions for weeks , months , years , or even centuries . Extremophiles are microbial life forms that thrive outside the ranges where life is commonly found .</context>
+    </instance>
+    <instance id="Life-life-3-221-1" docsrc="Life">
+      <context> " The Adjacent <head>Possible</head> : A Talk with Stuart Kauffman " Stanford Encyclopedia of Philosophy entry The Kingdoms of Life</context>
+    </instance>
+    <instance id="Life-life-3-222-1" docsrc="Life">
+      <context> Stanford Encyclopedia of <head>Philosophy</head> entry The Kingdoms of Life</context>
+    </instance>
+    <instance id="Life-life-35-133-2" docsrc="Life">
+      <context> Microbial life forms thrive even in the Mariana Trench , the deepest spot on the Earth . Microbes also thrive inside rocks up to 1900 feet below the sea floor under 8500 feet of ocean <head>.</head> Investigation of the tenacity and versatility of life on Earth , as well as an understanding of the molecular systems that some organisms utilize to survive such extremes , is important for the search for life beyond Earth .</context>
+    </instance>
+    <instance id="Life-life-4-104-2" docsrc="Life">
+      <context> Living organisms synthesize proteins <head>,</head> which are polymers of amino acids using instructions encoded by deoxyribonucleic acid ( DNA ) . Protein synthesis entails intermediary ribonucleic acid ( RNA ) polymers . One possibility for how life began is that genes originated first , followed by proteins ; the alternative being that proteins came first and then genes .</context>
+    </instance>
+    <instance id="Life-life-4-178-1" docsrc="Life">
+      <context> In more complex organisms <head>,</head> coordination of activities can occur through a dedicated nervous system . Artificial life is a field of study that examines systems related to life , its processes , and its evolution through simulations using computer models , robotics , and biochemistry . The study of artificial life imitates traditional biology by recreating some aspects of biological phenomena .</context>
+    </instance>
+    <instance id="Life-life-4-7-1" docsrc="Life">
+      <context> Fossils are the preserved <head>remains</head> or traces of organisms . It is a challenge for scientists and philosophers to define life . This is partially because life is a process , not a substance .</context>
+    </instance>
+    <instance id="Life-life-4-74-3" docsrc="Life">
+      <context> Empedocles ( 430 BC <head>)</head> argued that everything in the universe is made up of a combination of four eternal " elements " or " roots of all " : earth , water , air , and fire . All change is explained by the arrangement and rearrangement of these four elements . The various forms of life are caused by an appropriate mixture of elements .</context>
+    </instance>
+    <instance id="Life-life-40-97-1" docsrc="Life">
+      <context> === Vitalism === During the 1850s , Hermann von Helmholtz , anticipated by Julius Robert von Mayer , demonstrated that no energy is lost in muscle movement , suggesting that there were no " vital forces " necessary to move <head>a</head> muscle . These results led to the abandonment of scientific interest in vitalistic theories , although the belief lingered on in pseudoscientific theories such as homeopathy , which interprets diseases and sickness as caused by disturbances in a hypothetical vital force or life force .</context>
+    </instance>
+    <instance id="Life-life-6-212-2" docsrc="Life">
+      <context> Kauffman , Stuart . The Adjacent <head>Possible</head> : A Talk with Stuart Kauffman Wikispecies – a free directory of life</context>
+    </instance>
+    <instance id="Life-life-6-72-1" docsrc="Life">
+      <context> Life can also be modeled as <head>a</head> network of inferior negative feedbacks of regulatory mechanisms subordinated to a superior positive feedback formed by the potential of expansion and reproduction . === Materialism === Some of the earliest theories of life were materialist , holding that all that exists is matter , and that life is merely a complex form or arrangement of matter .</context>
+    </instance>
+    <instance id="Life-life-61-49-3" docsrc="Life">
+      <context> Such a general theory , arising out of the ecological and biological sciences , attempts to map general principles for how all living systems work . Instead of examining phenomena by attempting to break things down into component parts , a general living systems theory explores phenomena in terms of dynamic patterns of the relationships of organisms with their environment . <head>Robert</head> Rosen ( 1991 ) built on this by defining a system component as " a unit of organization ; a part with a function , i.e. , a definite relation between part and whole . " From this and other starting concepts , he developed a " relational theory of systems " that attempts to explain the special properties of life .</context>
+    </instance>
+    <instance id="Life-life-7-10-1" docsrc="Life">
+      <context> Any definition must be general enough to <head>both</head> encompass all known life and any unknown life that may be different from life on Earth . === Biology === Since there is no unequivocal definition of life , most current definitions in biology are descriptive .</context>
+    </instance>
+    <instance id="Life-life-7-133-2" docsrc="Life">
+      <context> Microbial life forms thrive even in the <head>Mariana</head> Trench , the deepest spot on the Earth . Microbes also thrive inside rocks up to 1900 feet below the sea floor under 8500 feet of ocean . Investigation of the tenacity and versatility of life on Earth , as well as an understanding of the molecular systems that some organisms utilize to survive such extremes , is important for the search for life beyond Earth .</context>
+    </instance>
+    <instance id="Life-life-9-185-1" docsrc="Life">
+      <context> Synthetic biology includes the broad redefinition and expansion of <head>biotechnology</head> , with the ultimate goals of being able to design and build engineered biological systems that process information , manipulate chemicals , fabricate materials and structures , produce energy , provide food , and maintain and enhance human health and the environment . One of the challenges in defining death is in distinguishing it from life . Death would seem to refer to either the moment life ends , or when the state that follows life begins .</context>
+    </instance>
+    <instance id="Life-life-9-97-2" docsrc="Life">
+      <context> During the 1850s , Hermann von Helmholtz , anticipated <head>by</head> Julius Robert von Mayer , demonstrated that no energy is lost in muscle movement , suggesting that there were no " vital forces " necessary to move a muscle . These results led to the abandonment of scientific interest in vitalistic theories , although the belief lingered on in pseudoscientific theories such as homeopathy , which interprets diseases and sickness as caused by disturbances in a hypothetical vital force or life force . There is no current scientific consensus as to how life originated .</context>
+    </instance>
+    <instance id="Life_imprisonment-life-0-0-2" docsrc="Life_imprisonment">
+      <context> <head>Life</head> imprisonment ( also known as a life sentence , lifelong incarceration , or life incarceration ) is any sentence of imprisonment for a serious crime under which convicted persons are to remain in prison for the rest of their life or until paroled . Crimes for which a person could receive this sentence include murder , attempted murder , severe child abuse , rape , espionage , high treason , drug dealing , human trafficking , severe cases of fraud , aggravated criminal damage in English law , and aggravated cases of arson , burglary , or robbery which result in death or grievous bodily harm and in certain cases genocide , crimes against humanity , or certain war crimes . Life imprisonment can , in certain cases , also be imposed for transportation offenses causing death , as a maximum term .</context>
+    </instance>
+    <instance id="Life_imprisonment-life-10-2-1" docsrc="Life_imprisonment">
+      <context> Some U.S. states and Canada allow judges to impose life <head>imprisonment</head> for such offenses . This sentence does not exist in all countries . Portugal was the first country in the world to abolish life imprisonment by the prison reforms of Sampaio e Melo in 1884 .</context>
+    </instance>
+    <instance id="Life_imprisonment-life-3-2-2" docsrc="Life_imprisonment">
+      <context> This sentence does <head>not</head> exist in all countries . Portugal was the first country in the world to abolish life imprisonment by the prison reforms of Sampaio e Melo in 1884 . However , where life imprisonment is a possible sentence , there may also be formal mechanisms to request parole after a certain period of imprisonment .</context>
+    </instance>
+    <instance id="Life_imprisonment-life-9-1-1" docsrc="Life_imprisonment">
+      <context> Crimes for which a person could receive this sentence <head>include</head> murder , attempted murder , severe child abuse , rape , espionage , high treason , drug dealing , human trafficking , severe cases of fraud , aggravated criminal damage in English law , and aggravated cases of arson , burglary , or robbery which result in death or grievous bodily harm and in certain cases genocide , crimes against humanity , or certain war crimes . Life imprisonment can , in certain cases , also be imposed for transportation offenses causing death , as a maximum term . Some U.S. states and Canada allow judges to impose life imprisonment for such offenses .</context>
+    </instance>
+    <instance id="br-d01#w1960_0" docsrc="br-d01">
+      <context> Every community , if it is alive has a spirit , and that spirit is the center of its unity and identity . In searching for clues which might lead us to a fresh apprehension of the reality of spirit , the close connection between spirit and community is likely to prove the most fruitful . For it is primarily in community that we know and experience spirit . It is spirit which gives <head>life</head> to a community and causes it to cohere . It is the spirit which is the source of a community 's drawing_power by means of which others are drawn into it from the world outside so_that the community grows and prospers . Yet the spirit which lives in community is not identical with the community . The idea of community and the idea of spirit are two distinct and separable ideas .</context>
+    </instance>
+    <instance id="br-e01#w1088_0" docsrc="br-e01">
+      <context> You 'll know when you 've made the greatest stretch because your shoulder_blades will touch ! As you see , the professor has designed a piece of apparatus that forces the bodybuilder to use a wide grip . He has to ; he just can n't do anything about it at_all ! But as you can also see , it 's not a painful exercise at_all , because Henri_de_Courcy - the `` happy '' bodybuilder - looks as though he were having the time of his <head>life</head> ! The last exercise of Roland_Claude 's prescribed program for Henri is a single exercise , done in individual sets with a_bit longer pause between sets . By this time Henri 's entire chest back - lat shoulder area is pumped-up to almost bursting point , and Claude takes time to do a_bit more pectoral front deltoid shaping work . He has Henri do from four to six sets of the Incline_Bench_Press ( note the high incline ) .</context>
+    </instance>
+    <instance id="br-e21#w1046_0" docsrc="br-e21">
+      <context> If the site is on a reservoir , the level of the water at various seasons as it affects recreation should be studied . Check the quality of the water . A stream which has all_of its watershed within a national forest or other lands under good conservation practices is less likely to be affected by pollution than one passing_through unrestricted logging or past an industrial area . Other factors , such as water temperature , depth of water , the fish <head>life</head> it supports , wave action , flooding , etcetera , will affect its recreation value . Other natural features which can be of high interest are the forests , canyons , mountains , deserts , seacoast , beaches , sand_dunes , waterfalls , springs , etcetera with which the area is blessed . Just_as the national and state parks place emphasis on features which are of national or state significance , counties should seek_out these features which are distinctive of their area . Although the site may not contain the features themselves , there are often opportunities to include them as additional interest to the site .</context>
+    </instance>
+    <instance id="br-e21#w1271_0" docsrc="br-e21">
+      <context> The fish , animals , and birds which may be found at the site are another interest . Fishing interest calls_for a check of the species found , quantity and size , the season they are available , and the stocking program of the fish commission . Animals may be present at the site or provide hunting in nearby areas . The site may be on one of the major flyways of migratory birds or have its own resident bird <head>life</head> . Clams , crabs , and other marine life may add interest at coastal areas . Each area has its own historical interests with which much can be done . Park visitors are always eager to learn more about the area they are in .</context>
+    </instance>
+    <instance id="br-e21#w1280_0" docsrc="br-e21">
+      <context> Fishing interest calls_for a check of the species found , quantity and size , the season they are available , and the stocking program of the fish commission . Animals may be present at the site or provide hunting in nearby areas . The site may be on one of the major flyways of migratory birds or have its own resident bird life . Clams , crabs , and other marine <head>life</head> may add interest at coastal areas . Each area has its own historical interests with which much can be done . Park visitors are always eager to learn more about the area they are in . The historical sign tells its story , but nothing gets interest across as well as some of the original historical items or places themselves which still have the character of the period covered .</context>
+    </instance>
+    <instance id="br-e25#w439_0" docsrc="br-e25">
+      <context> This stain often disrupts the normal cell activity or_else colors only the outside . A completely new insight into living cells and their structure will be possible by use of a new technique which replaces visible_light with ultraviolet_radiation and combines a microscope with a color - TV_system to view the results . Fig. 1 is a simplified block_diagram of the ultraviolet microscopy system developed at the Medical_Electronics_Center of Rockefeller_Institute . By combining the talents of a medical_man , Dr._Aterman , a biophysicist , Mr._Berkely , and an electronics expert , Dr._Zworykin , this novel technique has been developed which promises to open broad avenues to understanding <head>life</head> processes . Three different wavelengths of ultraviolet_radiation are selected by the variable filters placed in_front_of the three mercury xenon lights which serve as the ultraviolet sources . These wavelengths are reflected in sequence through the specimen by the rotating mirror ; the specimen is magnified by the microscope . Instead of the observer 's eye the image_orthicon in the TV_camera does the `` looking '' .</context>
+    </instance>
+    <instance id="br-e26#w283_0" docsrc="br-e26">
+      <context> The mayor of the town taught them English and French . Whatever Hans or Anders learned separately they passed_on to each other ; they read every book that they could borrow in the village . At 12 , Hans was sufficiently mature to help his father in the apothecary shop , which helped stimulate his interest in medicine and science . His earlier love for literature and history remained with him for his entire <head>life</head> . In 1793 the brothers decided to enter the University_of_Copenhagen ( founded in 1479 ) and the following spring found them at the university preparing to matriculate for the autumn session . While Hans devoted himself to the sciences of medicine , physics , and astronomy , his brother studied law . The brothers continued to help each other during their studies , sharing a joint purse , lodging together in the dormitory and dining together at the home of their aunt .</context>
+    </instance>
+    <instance id="br-f03#w324_0" docsrc="br-f03">
+      <context> When a man recognizes a certain experience as the exact pattern of a previous dream , we have an instance of deja_vu , except for the fact that he knows just why the experience seems familiar . Occasionally there are examples of prevision which cannot be pushed_aside without confessing an unscientific attitude . One day Maeterlinck , coming with a friend upon an event which he recognized as the exact pattern of a previous dream , detailed the ensuing occurrences in_advance so accurately that his companion was completely mystified . Rudyard_Kipling 's scorn for the `` jargon '' of psychical research was altered somewhat when he wondered `` how , or why , had I been shown an unreleased roll of my <head>life</head> film '' ? The famous author tells us of the strange incident in Something_About_Myself . One day when he attended a war memorial ceremony in Westminster_Abbey his view was obstructed by a stout man on his left , his attention turned to the irregular pattern of the rough slab flooring and someone , clasping him by the arm , whispered , `` I want a word with you , please '' . At that moment Kipling was overwhelmed with awed amazement , suddenly recalling that these identical details of scene , action and word had occurred to him in a dream six weeks earlier .</context>
+    </instance>
+    <instance id="br-f21#w1589_0" docsrc="br-f21">
+      <context> While accounts of the progress of the tsunami came_in from various points in the Pacific ( Midway reported it was covered with nine feet of water ) , the Hawaiian station made its calculations and notified the military_services and the police that the first big wave would arrive_at Honolulu at 23_:_30 Greenwich_time . It turned_out that the waves were not so high as in 1946 . They hurled a cement barge against a freighter in Honolulu_Harbor , knocked_down telephone_lines , marooned automobiles , flooded lawns , killed six cows . But not a single human <head>life</head> was lost , and property damage in the Hawaiian_Islands did not exceed $ 800000 . There is little doubt that the warning system saved lives and reduced the damage . But it is plain that a warning system , however efficient , is not enough . In the vulnerable areas of the Pacific there should be restrictions against building homes on exposed coasts , or at_least a requirement that they be either raised off the ground or anchored strongly against waves .</context>
+    </instance>
+    <instance id="br-f21#w1614_0" docsrc="br-f21">
+      <context> It turned_out that the waves were not so high as in 1946 . They hurled a cement barge against a freighter in Honolulu_Harbor , knocked_down telephone_lines , marooned automobiles , flooded lawns , killed six cows . But not a single human life was lost , and property damage in the Hawaiian_Islands did not exceed $ 800000 . There is little doubt that the warning system saved <head>lives</head> and reduced the damage . But it is plain that a warning system , however efficient , is not enough . In the vulnerable areas of the Pacific there should be restrictions against building homes on exposed coasts , or at_least a requirement that they be either raised off the ground or anchored strongly against waves . The key to the world of geology is change ; nothing remains the same .</context>
+    </instance>
+    <instance id="br-f24#w1195_0" docsrc="br-f24">
+      <context> Before the airplanes came , he said , travel in Laos was just_about impossible . Alas , so it almost proved for us , too . To go outside the few cities required permits . and getting them seemed a <head>life</head> 's work . Nobody wanted Americans to be hurt or captured , and few soldiers could be spared as escorts . We were told that to the Pathet_Lao , a kidnaped American was worth at_least $ 750 , a fortune in Laos . Everyone had heard of the American contractor who had spurned an escort .</context>
+    </instance>
+    <instance id="br-g14#w288_0" docsrc="br-g14">
+      <context> One looked down on a sea of leaves , a breaking wave of flower . Every path from back door to barn was covered by a grape-arbor , and every yard had its fruit_trees . In the center of any open space remaining our grandfathers had planted syringa and sweet_shrub , snowball , rose-of-Sharon and balm-of-Gilead . From above one could only occasionally catch_a_glimpse of <head>life</head> on the floor of this green sea : a neighbor 's gingham skirt flashing into sight for an instant on the path beneath her grape-arbor , or the movement of hands above a clothesline and the flutter of garments hung there , half-way down the block . That was one epoch : the apple-tree epoch . Another had ended before it began . Time is a queer thing and memory a queerer ; the tricks that time plays_with memory and memory with time are queerest of all .</context>
+    </instance>
+    <instance id="br-g18#w89_0" docsrc="br-g18">
+      <context> Among the recipients of the Nobel_Prize for Literature more_than half are practically unknown to readers of English . Of these there are surely few that would be more rewarding discoveries than Verner_von_Heidenstam , the Swedish poet and novelist who received the award in 1916 and whose centennial was celebrated two years ago . Equally a master of prose and verse , he recreates the glory of Sweden in the past and continues it into the present . In the following sketch we shall present a brief outline of his <head>life</head> and let him as_much_as_possible speak_for himself . Heidenstam was born in 1859 , of a prosperous family . On his father 's side he was of German descent , on his mother 's he came of the old Swedish nobility . The family estate was situated near Vadstena on Lake_Va ^ ttern in south central Sweden .</context>
+    </instance>
+    <instance id="br-g23#w742_0" docsrc="br-g23">
+      <context> Shakespeare gives us a vivid picture of Shylock , but probably he never saw a Jew , unless in some of his travels . The Jews had been banished from England in 1290 and were not permitted to return before 1655 , when Shakespeare had been dead for thirty-nine years . If any had escaped expulsion by hiding , they certainly would not frequent the market-place . Shakespeare did not usually invent the incidents in his plays , but borrowed them from old stories , ballads , and plays , wove them together , and then breathed into them his spark of <head>life</head> . Rather than from a first-hand study of Jewish people , his delineation of Shylock stems from a collection of Italian stories , Il_Pecorone , published in 1558 , although written almost two centuries earlier . He could learn at second_hand from books , but could not thus capture the real Jewish spirit . Harris_J._Griston , in Shaking_The_Dust_From_Shakespeare ( 216 ) , writes : `` There is not a word spoken by Shylock which one would expect from a real Jew '' .</context>
+    </instance>
+    <instance id="br-j05#w3_0" docsrc="br-j05">
+      <context> Polyphosphates gave renewed <head>life</head> to soap products at a time when surfactants were a threat though expensive , and these same polyphosphates spelled the decline of soap usage when the synergism between polyphosphates and synthetic detergent actives was recognized and exploited . The market today for detergent_builders is quite diverse . The best_known field of application for builders is in heavy-duty , spray-dried detergent formulations for household use . These widely advertised products , which are used primarily for washing clothes , are based on high-sudsing , synthetic organic actives ( sodium alkylbenzenesulfonates ) and contain up_to 50 % by weight of sodium_tripolyphosphate or a mixture of sodium_tripolyphosphate and tetrasodium_pyrophosphate .</context>
+    </instance>
+    <instance id="br-j55#w1024_0" docsrc="br-j55">
+      <context> The posse 's retreat encouraged the Mexicans to be overbearing and impudent . During the following week , six tons of hay belonging to one rancher were burned ; some buildings , farm tools , two horses , plows , and hay owned by Bonito_Lavato , a friendly interpreter for the company , and Pedro_Chavez ' hay were stolen or destroyed ; and a store was broken into and robbed . District_Attorney M._W._Mills warned that he would vigorously prosecute persons caught committing these crimes or carrying arms - he just did n't catch anyone . Increasing threats on his <head>life</head> finally convinced Cook that he should leave New_Mexico . His friends advised that it would be only a question of time until either the Mexicans killed him by ambuscade or he would be compelled to kill them in self-defense , perpetuating the troubles . By early summer , he wrote from Laramie that he was suffering from the wound inflicted in the ambush and was in_a_bad_way financially , so Pels sent him a draft for $ 100 , warning that it was still not wise for him to return . Pels also sent a check for $ 100 to Russell 's widow and had a white marble monument erected on his grave .</context>
+    </instance>
+    <instance id="br-j55#w134_0" docsrc="br-j55">
+      <context> Three weeks later following his recovery , armed with a writ issued by the Catskill justice on affidavits prepared by the district_attorney , Cook and Russell rode to arrest Martinez . Arriving at daybreak , they found Julio in his corral and demanded that he surrender . Instead , he whirled and ran to his house for a gun forcing them to kill him , Cook reported . Both Cook 's and Russell 's <head>lives</head> were threatened by the Mexicans following the killing , but the company officers felt that in_the_end , it would serve to quiet them despite their immediate emotion . General_manager Pels even suggested that it might be wise to keep the Mexicans in suspense rather_than accept their offers to sell_out and move away , and try to have a_few punished . On February 17 , Russell and Cook were sent to the Pena_Flor community on the Vermejo to see about renting_out ranches the company had purchased . While talking with Julian_M._Beall , Francisco_Archuleta and Juan_Marcus appeared , both heavily armed , and after watching the house for_a_while , rode_away .</context>
+    </instance>
+    <instance id="br-j60#w1886_0" docsrc="br-j60">
+      <context> If anything may be predicted in the quicksilver world of retailing , it seems likely that the suburban branch will come to dominate children 's clothing ( taking the kid downtown is too_much of a production ) , household gadgetry and the discount_business in big-ticket items . Department_stores were built_on dry_goods , especially ladies ' fashions , and in this area , in_the_long_run , the suburban branches will be hard_put to compete against downtown . If this analysis is correct , the suburban branches will turn_out to be what management 's cost_accountants refuse to acknowledge , marginal operations rather_than major factors . Historically in America the appeal of cities has been their color and <head>life</head> , the variety of experience they offered . `` How ya gonna keep ' em down on the farm '' ? was a question that had to be asked long before they saw Paree . Though Americans usually lived in groups segregated by national origin or religious_belief , they liked to work and shop in the noise and vitality of downtown .</context>
+    </instance>
+    <instance id="br-k02#w421_0" docsrc="br-k02">
+      <context> He did not spill_over with hatred for the enemy . He had n't even seen him yet . Pressing his cigarette out in the earth , Warren walked to the slit and scanned the jagged hills . He saw no <head>life</head> , but still stood there for a time peering at the unlovely hills , his gaze continually returning to Papa-san . He had come here in_order to test himself . While most of his beliefs were still unsettled , he knew that he did not believe_in killing . Yet , he was here .</context>
+    </instance>
+    <instance id="br-k03#w352_0" docsrc="br-k03">
+      <context> You know what I'm talking_about . I'm sure all girls feel this way about men until they live with them . `` But when it comes_to war , the Colonel knows what it is and Jeff does n't . Mr._Christiansen knows that a soldier will get the Distinguished_Service_Medal for conduct that would land him in prison for <head>life</head> or the electric_chair as a civilian . He had a mean , unbroken sheer bastard in his outfit , and someone invented the name Trig for him . That 's to say , he was trigger_happy . He 'd shoot at anything if it was the rear_end of a horse or his own sentry .</context>
+    </instance>
+    <instance id="br-k10#w404_0" docsrc="br-k10">
+      <context> It would be well to show the populace how we deal with adulterers '' . Philibert_Berthelier , the son of the famous patriot , disagreed . `` Do not listen to that Frenchman . He is throttling the liberty my father gave his <head>life</head> to win '' ! John was quietly insistent . `` There can be no compromise when souls are in jeopardy '' . A week later the sentence of the Council was carried_out : Jake_Camaret and the woman were marched naked through the streets past a mocking populace .</context>
+    </instance>
+    <instance id="br-k12#w285_0" docsrc="br-k12">
+      <context> Amy did not laugh - this was work , concentration , achievement . In a_few minutes she was making the ten foot hike unaided ; soon she was parading around the house , flaunting her new skill . Some liar 's logic , a wisp of optimism as fragile as the scent of tropical blossoms that came_through the window ( a euphoria perhaps engendered by the pill Fritzie had given her ) , consoled her for a moment . Amy had_to be safe , had_to come_back to them - if only to reap that share of <head>life</head> 's experiences that were her due , if only to give her parents another chance to do better by her . Through the swathings of terror , she jabbed deceit 's sharp point - Amy would be reborn , a new child , with new parents , living under new circumstances . The comfort was short-lived , yet she found herself returning to the assurance whenever her imagination forced images on her too awful to contemplate without the prop of illusion . Gazing at her husband 's drugged body , his chest rising and falling in mindless rhythms , she saw the grandeur of his fictional world , that lush garden from which he plucked flowers and herbs .</context>
+    </instance>
+    <instance id="br-k15#w380_0" docsrc="br-k15">
+      <context> She had nothing left but her duty to his land and his son . Joel came and sat mutely with her , sharing her pain and anguish , averting his eyes from the ice_packs on her bosom . Juanita and Mrs._Tussle kept Kate in bed a week until her milk dried . When she returned to <head>life</head> in the big house she felt shriveled of all emotion save dedication to duty . She disciplined herself daily to do what must be done . She had even steeled herself to keep Juanita upstairs in the nurse 's room off the empty nursery , although the girl tried to insist on moving_back to the quarters to spare Kate remembrance of the baby 's death . Juanita drooped about the place , wearing a haunted , brooding look , which Kate attributed to the baby 's death , until the day a letter came for her addressed to `` Miss_Juanita_Fitzroy '' , bearing a Grafton postmark .</context>
+    </instance>
+    <instance id="br-k21#w1742_0" docsrc="br-k21">
+      <context> - It do n't matter . Is it far ? How far could it be , Watson thought bleakly , how far can a blind_man crawl ? Another body_length or all the rest of his nighted <head>life</head> ? - Not far . - You talk deep . Not like us fellas .</context>
+    </instance>
+    <instance id="br-k22#w2291_0" docsrc="br-k22">
+      <context> Maple and ash , beech and elm , one_hundred to win on Three in the fourth , fifty to win on Six in the third , one_hundred to win on Two in the eighth . Children walking home from school would scuff through what seemed to be his foliage . Then , getting_back into bed , he thought unashamedly of Mrs._Flannagan , planning where they would next meet and what they would do . There are , he thought , so few true means of forgetfulness in this <head>life</head> that why should he shun the medicine even when the medicine seemed , as it did , a_little crude ?</context>
+    </instance>
+    <instance id="br-k22#w735_0" docsrc="br-k22">
+      <context> Mrs._Trempler was tuberculosis , Mrs._Surcliffe was Mothers ' March_of_Dimes , Mrs._Craven was cancer , and Mrs._Gilkson did the kidney . Mrs._Hewlitt led the birthcontrol league , Mrs._Ryerson was arthritis , and way in the distance could be seen the slate_roof of Ethel_Littleton 's house , a roof that signified gout . Mrs._Pastern undertook the work of going from house to house with the thoughtless resignation of an honest and traditional laborer . It was her destiny ; it was her <head>life</head> . Her mother had done it before her , and even her old grandmother , who had collected money for smallpox and unwed mothers . Mrs._Pastern had telephoned most of her neighbors in_advance , and most of them were ready for her . She experienced none of the suspense of some poor stranger selling encyclopedias .</context>
+    </instance>
+    <instance id="br-k23#w1378_0" docsrc="br-k23">
+      <context> Abel sat and regarded the farm country which , spreading_out from both sides of the road , rolled greenly up to where the silent white houses and long barns and silos nested into the tilled fields . He saw the land with a stranger 's eyes , all the old familiarness gone . And it presented itself to him as it would to any stranger , impervious , complete in itself . There was stability there , too - a color which his <head>life</head> had had once . That is what childhood is , he told himself . Solid , settled , lost . In the stiff neutral lines of the telephone_poles he saw the no-nonsense pen strokes of Aunt_Jessica 's letter .</context>
+    </instance>
+    <instance id="br-k23#w2158_0" docsrc="br-k23">
+      <context> All_of this happening in a time of their lives when their youth and their brotherhood knitted them together as no other time or circumstance could . They seemed then to have had a single mind and body , a mutuality which had been accepted with the fact of their youth , casually . He saw the Starbird as she lay , her slender mast up and gently turning , its point describing constant languid circles against a cumulus sky . Both of them had known the feeling of the small <head>life</head> in her waiting , ready , for the two of them to run_up her sails . The Starbird had been long at the bottom of the bay . They came unexpectedly upon the sea . Meeting it without preparation as they did , robbed of anticipation , a common disappointment seized them .</context>
+    </instance>
+    <instance id="br-k23#w48_0" docsrc="br-k23">
+      <context> It was not as_though she noted clearly that her nephews had not been to see her for ten years , not since their last journey eastward to witness their Uncle_Izaak being lowered into the rocky soil ; that aside from due notification of certain major events in their <head>lives</head> ( two marriages , two births , one divorce ) , Christmas and Easter_cards of the traditional sort had been the only thin link she had with them through the widowed years . Her thoughts were not discrete . But there was a look about her mouth as_though she were tasting lemons . She grasped the chair arms and brought her thin body upright , like a bird alert for flight .</context>
+    </instance>
+    <instance id="br-k26#w1532_0" docsrc="br-k26">
+      <context> `` We 're going_after ice '' , Howard said , `` and thought maybe you 'd go along and keep us company '' . There was really no reason to refuse , and Linda_Kay had never ridden in a Cadillac . Driving along the caliche-topped road to town , Howard talked . Finally he said , `` Tell me about yourself '' , and Linda_Kay told him , because she thought herself that she had had an interesting <head>life</head> . She was such a well-rounded teenager , having been a twirler , Future_Farmers sweetheart , and secretary of Future_Homemakers . In her sophomore year she had started going_steady with Bobby_Joe , who was a football_player , Future_Homemakers sweetheart , and president of Future_Farmers . It was easy to see that they were made_for each other , and they knew what they wanted .</context>
+    </instance>
+    <instance id="br-k26#w1626_0" docsrc="br-k26">
+      <context> In her sophomore year she had started going_steady with Bobby_Joe , who was a football_player , Future_Homemakers sweetheart , and president of Future_Farmers . It was easy to see that they were made_for each other , and they knew what they wanted . Bobby_Joe would be a senior this year , and he planned to graduate . But there was no need for Linda_Kay to go_on , since all she wanted in <head>life</head> was to make a home for Bobby_Joe and ( blushing ) raise his children . Howard sighed . `` You lucky kids '' , he said . `` I 'd give anything if I could have found a girl like you '' .</context>
+    </instance>
+    <instance id="br-m01#w723_0" docsrc="br-m01">
+      <context> He could see in almost total_darkness . Jubal said that his night-sight probably came from the conditions in which he had grown_up , and Mike grokked this was true but grokked that there was more to_it ; his foster_parents had taught him to see . As for the night being warm , he would have been comfortable naked on Mount_Everest but his water_brothers had little tolerance for changes in temperature and pressure ; he was considerate of their weakness , once he learned of_it . But he was looking_forward to snow - seeing for himself that each tiny crystal of the water of <head>life</head> was a unique individual , as he had read - walking barefoot , rolling in it . In_the_meantime he was pleased with the warm night and the still more pleasing company of his water_brother . `` Okay , take the tray . I 'll switch_on the underwater lights .</context>
+    </instance>
+    <instance id="br-r08#w1342_0" docsrc="br-r08">
+      <context> The action centers about a group of outspoken and offbeat students sitting around a table in a cafeteria and their collective and ultimately fruitless search for a cup of hot coffee . They are relentlessly rebuffed on all sides by a waitress , the police , and an intruding government tutor . The innocence that they tried to conceal at the beginning is clearly destroyed forever when one of them , asking for a piece of lemon-meringue_pie , gets a plate of English_muffins instead . Leaving the theatre after the performance , I had a flash of intuition that <head>life</head> , after_all ( as Rilke said ) , is just a search for the nonexistent cup of hot coffee , and that this unpretentious , moving , clever , bitter slice of life was the greatest thing to happen to the American theatre since Brooks_Atkinson retired . Aging but still precocious , French feline enfant_terrible Francoisette_Lagoon has succeeded in shocking jaded old Paris again , this time with a sexy ballet scenario called The_Lascivious_Interlude , the story of a nymphomaniac trip-hammer operator who falls hopelessly in_love with a middle-aged steam_shovel . A biting , pithy parable of the all pervading hollowness of modern life , the piece has been set by Mlle_Lagoon to a sumptuous score ( a single motif played over_and_over by four thousand French_horns ) by existentialist hot-shot Jean-Paul_Sartre . Petite , lovely Yvette_Chadroe plays the nymphomaniac engagingly .</context>
+    </instance>
+    <instance id="br-r08#w1375_0" docsrc="br-r08">
+      <context> The action centers about a group of outspoken and offbeat students sitting around a table in a cafeteria and their collective and ultimately fruitless search for a cup of hot coffee . They are relentlessly rebuffed on all sides by a waitress , the police , and an intruding government tutor . The innocence that they tried to conceal at the beginning is clearly destroyed forever when one of them , asking for a piece of lemon-meringue_pie , gets a plate of English_muffins instead . Leaving the theatre after the performance , I had a flash of intuition that life , after_all ( as Rilke said ) , is just a search for the nonexistent cup of hot coffee , and that this unpretentious , moving , clever , bitter slice of <head>life</head> was the greatest thing to happen to the American theatre since Brooks_Atkinson retired . Aging but still precocious , French feline enfant_terrible Francoisette_Lagoon has succeeded in shocking jaded old Paris again , this time with a sexy ballet scenario called The_Lascivious_Interlude , the story of a nymphomaniac trip-hammer operator who falls hopelessly in_love with a middle-aged steam_shovel . A biting , pithy parable of the all pervading hollowness of modern life , the piece has been set by Mlle_Lagoon to a sumptuous score ( a single motif played over_and_over by four thousand French_horns ) by existentialist hot-shot Jean-Paul_Sartre . Petite , lovely Yvette_Chadroe plays the nymphomaniac engagingly .</context>
+    </instance>
+    <instance id="br-r08#w1623_0" docsrc="br-r08">
+      <context> Ever since Bambi , and , more recently , Born_Free , there have been a_lot of books about animals , but few compare with Max_Fink 's wry , understated , charming , and immensely readable My_Friend_, the Quizzical_Salamander . Done in the modern style of a `` confession '' , Fink tells in exquisite detail how he came to know , and , more important , love his mother 's pet salamander , Alicia . It is not an entirely happy book , as Mrs._Fink soon becomes jealous of Alicia and , in retaliation , refuses to continue to scrape the algae off her glass . Max , in a fit of despair , takes Alicia and runs_off for two marvelous weeks in Burbank ( Fink calls it `` the most wonderful and lovely fourteen days in my whole <head>life</head> '' ) , at the end of which Alicia tragically contracts Parkinson's_disease and dies . This brief resume hardly does the book justice , but I heartily recommend it to all those who are engages with the major problems of our time . Opera in the Grand_Tradition , along with mah-jongg , seems to be staging a well deserved comeback . In this country , the two guiding_lights are , without_doubt , Felix_Fing and Anna_Pulova .</context>
+    </instance>
+    <instance id="n00006269_ex1_5" docsrc="n00006269_ex1">
+      <context> the oceans are teeming with <head>life</head> ;</context>
+    </instance>
+    <instance id="n00093874_d_2" docsrc="n00093874_d">
+      <context> saving the <head>lives</head> of drowning persons ;</context>
+    </instance>
+    <instance id="n03664159_d_3" docsrc="n03664159_d">
+      <context> equipment that makes <head>life</head> possible in otherwise deadly environmental_conditions ;</context>
+    </instance>
+    <instance id="n04632157_ex1_13" docsrc="n04632157_ex1">
+      <context> it was a heavy play and the actors tried in vain to give <head>life</head> to it ;</context>
+    </instance>
+    <instance id="n05810561_ex1_9" docsrc="n05810561_ex1">
+      <context> he could no longer cope with the complexities of <head>life</head> ;</context>
+    </instance>
+    <instance id="n09178727_ex1_3" docsrc="n09178727_ex1">
+      <context> pottery was his <head>life</head> ;</context>
+    </instance>
+    <instance id="n09649554_d_13" docsrc="n09649554_d">
+      <context> a member of one of the tribes of American_Indians who lived a nomadic <head>life</head> following the buffalo in the Great_Plains_of_North_America ;</context>
+    </instance>
+    <instance id="n10260706_ex1_4" docsrc="n10260706_ex1">
+      <context> his heroism saved a <head>life</head> ;</context>
+    </instance>
+    <instance id="n10845926_d_5" docsrc="n10845926_d">
+      <context> United_States artist whose paintings portrayed <head>life</head> in the Midwest and South ;</context>
+    </instance>
+    <instance id="n10909127_d_11" docsrc="n10909127_d">
+      <context> United_States novelist noted for his stories of American_Indians and the frontier <head>life</head> ;</context>
+    </instance>
+    <instance id="n11473291_ex1_3" docsrc="n11473291_ex1">
+      <context> there is no <head>life</head> on the moon ;</context>
+    </instance>
+    <instance id="n11473685_d_0" docsrc="n11473685_d">
+      <context> <head>life</head> sustained in the presence of air or oxygen ;</context>
+    </instance>
+    <instance id="n13961399_ex1_5" docsrc="n13961399_ex1">
+      <context> he hoped for a new <head>life</head> in Australia ;</context>
+    </instance>
+    <instance id="n13961399_ex2_6" docsrc="n13961399_ex2">
+      <context> he wanted to live his own <head>life</head> without interference from others ;</context>
+    </instance>
+    <instance id="n13961642_ex1_3" docsrc="n13961642_ex1">
+      <context> while there 's <head>life</head> there 's hope ;</context>
+    </instance>
+    <instance id="n13961642_ex2_0" docsrc="n13961642_ex2">
+      <context> <head>life</head> depends on many chemical and physical processes ;</context>
+    </instance>
+    <instance id="n13963192_ex1_1" docsrc="n13963192_ex1">
+      <context> social <head>life</head> ;</context>
+    </instance>
+    <instance id="n13963192_ex2_1" docsrc="n13963192_ex2">
+      <context> city <head>life</head> ;</context>
+    </instance>
+    <instance id="n15140405_ex1_5" docsrc="n15140405_ex1">
+      <context> the battery had a short <head>life</head> ;</context>
+    </instance>
+    <instance id="n15140405_ex2_6" docsrc="n15140405_ex2">
+      <context> he lived a long and happy <head>life</head> ;</context>
+    </instance>
+    <instance id="n15140744_ex1_6" docsrc="n15140744_ex1">
+      <context> I have known him all his <head>life</head> ;</context>
+    </instance>
+    <instance id="n15140892_ex1_5" docsrc="n15140892_ex1">
+      <context> he appointed himself emperor for <head>life</head> ;</context>
+    </instance>
+    <instance id="n15225076_ex1_2" docsrc="n15225076_ex1">
+      <context> he got <head>life</head> for killing the guard ;</context>
+    </instance>
+    <instance id="v02614812_d_2" docsrc="v02614812_d">
+      <context> live a <head>life</head> of pleasure , especially with respect to alcoholic consumption ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="coverage.n" pos="NN">
+    <instance id="br-e30#w1392_0" docsrc="br-e30">
+      <context> U._S._Rubber_Company , New_York , passes out a form itemizing the value of benefits . The blue-collar worker thus knows his insurance package , for_example , costs $ 227.72 . Have the insurance_company or your own accounting department break_down the cost of your insurance package periodically . You may find certain <head>coverage</head> costing much more_than is economically feasible , thereby alerting you to desirable revisions . Check to see if some of your benefits - such_as on-the-job disability pay - can be put on a direct payment rather than an insured basis at a savings to you . Use deductable insurance wherever feasible . It can put an end to marginal claims which play havoc with your insurance rates .</context>
+    </instance>
+    <instance id="br-j32#w1951_0" docsrc="br-j32">
+      <context> This leaves the ordering of entries variable . ( Here an entry is a form plus the information that pertains to it . ) Two very useful ways for modifying a form dictionary are the addition to the dictionary of complete paradigms rather than single forms and the application of a single change to more_than one dictionary form . The former is intended to decrease the amount of work necessary to extend dictionary <head>coverage</head> . The latter is useful for modifying information about some or all forms of a word , hence reducing the work required to improve dictionary contents . Applying the techniques developed at Harvard for generating a paradigm from a representative form and its classification , we can add all forms of a word to the dictionary at_once . An extension of the principle would permit entering a grammatic description of each form .</context>
+    </instance>
+  </lexelt>
+</corpus>

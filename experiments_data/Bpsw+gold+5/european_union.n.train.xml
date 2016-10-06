@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="European_Union.n" pos="NN">
+    <instance id="n08025497_d_28" docsrc="n08025497_d">
+      <context> a Turkish terrorist_organization that claimed responsibility for bombing a British consulate and bank in Istanbul ; a violent opponent of Turkey's secular government and its ties to the <head>European_Union</head> and NATO ;</context>
+    </instance>
+    <instance id="n08210042_d_4" docsrc="n08210042_d">
+      <context> police organization for the <head>European_Union</head> ; aims to improve effectiveness and cooperation among European police_forces ;</context>
+    </instance>
+    <instance id="n08350244_d_7" docsrc="n08350244_d">
+      <context> the central_bank of those members of the <head>European_Union</head> who share a common currency ;</context>
+    </instance>
+    <instance id="n08849753_d_9" docsrc="n08849753_d">
+      <context> a monarchy in northwestern Europe ; headquarters for the <head>European_Union</head> and for the North_Atlantic_Treaty_Organization ;</context>
+    </instance>
+    <instance id="n13661820_d_8" docsrc="n13661820_d">
+      <context> the basic monetary_unit of most members of the <head>European_Union</head> ( introduced in 1999 ) ; in 2002 twelve European_nations ( Germany , France , Belgium , Luxembourg , the_Netherlands , Italy , Spain , Portugal , Ireland , Greece , Austria , Finland ) adopted the euro as their basic unit of money and abandoned their traditional currencies ;</context>
+    </instance>
+  </lexelt>
+</corpus>

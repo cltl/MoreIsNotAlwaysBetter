@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="predominance.n" pos="NN">
+    <instance id="br-j37#w448_0" docsrc="br-j37">
+      <context> Since the complicated process of establishing new communes and reviewing the rudimentary plan left by the_French did not even begin until the fall of 1957 , this goal appears somewhat ambitious . From the very beginning the electoral discussions raised fundamental issues in Moroccan politics , precisely the type of questions that were most difficult to resolve in the new government . Until the Charter_of_Liberties was issued in the fall of 1958 , there were no guarantees of the right to assemble or to organize for political purposes . The Istiqlal was still firmly united in 1957 , but the P.D.I. ( Parti_Democratique_de_l'Independance ) , the most important minor party at the time , objected to the Istiqlal 's <head>predominance</head> in the civil_service and influence in Radio_Maroc . There were rumors that the Ministry_of_the_Interior favored an arbitrary , `` non-political '' process , which were indirectly affirmed when the King personally intervened in the planned meetings . The day following his intervention the palace issued a statement reassuring the citizens that `` the possibility of introducing appeals concerning the establishment of electoral lists , lists of candidates and finally the holding of the consultation itself '' would be supported by the King himself . The Ifni crisis in the fall of 1957 postponed further consideration of elections , but French consultants were called_in and notices of further investigation appeared from_time_to_time .</context>
+    </instance>
+  </lexelt>
+</corpus>

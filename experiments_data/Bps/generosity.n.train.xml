@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="generosity.n" pos="NN">
+    <instance id="a00359459_d_4" docsrc="a00359459_d">
+      <context> full of love and <head>generosity</head> ;</context>
+    </instance>
+    <instance id="a00359862_d_3" docsrc="a00359862_d">
+      <context> lacking love and <head>generosity</head> ;</context>
+    </instance>
+    <instance id="a01113807_d_14" docsrc="a01113807_d">
+      <context> ( used of persons or behavior ) characterized by or indicative of lack of <head>generosity</head> ;</context>
+    </instance>
+    <instance id="a01141743_d_8" docsrc="a01141743_d">
+      <context> characterized by charm , good taste , and <head>generosity</head> of spirit ;</context>
+    </instance>
+    <instance id="a01243825_d_9" docsrc="a01243825_d">
+      <context> disposed to treat guests and strangers with cordiality and <head>generosity</head> ;</context>
+    </instance>
+    <instance id="a01372948_d_8" docsrc="a01372948_d">
+      <context> showing or motivated by sympathy and understanding and <head>generosity</head> ;</context>
+    </instance>
+    <instance id="a02533313_d_10" docsrc="a02533313_d">
+      <context> marked by warmth of feeling like kindness and sympathy and <head>generosity</head> ;</context>
+    </instance>
+    <instance id="a02533682_d_3" docsrc="a02533682_d">
+      <context> lacking warmth and <head>generosity</head> of spirit ;</context>
+    </instance>
+    <instance id="br-k20#w2118_0" docsrc="br-k20">
+      <context> Not everyone is bewitched by Byron 's caliphs and harem beauties '' . Mary 's super critical attitude toward Byron had nothing to_do_with his moral disrepute . She was resentful of his easy success as compared with Shelley 's failure . The same month that Alastor was published , Murray sold twenty thousand copies of The_Siege_of_Corinth , a slovenly bit of Byronism that even Shelley 's <head>generosity</head> rebelled at . The lordly poet was at low-water_mark . The careless writing was in keeping with his mood of savage discontent . On all sides doors were being slammed in his face .</context>
+    </instance>
+    <instance id="n04832050_d_0" docsrc="n04832050_d">
+      <context> <head>generosity</head> as manifested by practicing charity ( as for the poor or unfortunate ) ;</context>
+    </instance>
+    <instance id="n04832244_d_0" docsrc="n04832244_d">
+      <context> <head>generosity</head> evidenced by a willingness to give freely ;</context>
+    </instance>
+    <instance id="n04833458_d_3" docsrc="n04833458_d">
+      <context> a lack of <head>generosity</head> ; a general unwillingness to part with money ;</context>
+    </instance>
+    <instance id="n04834073_d_2" docsrc="n04834073_d">
+      <context> lack of <head>generosity</head> in trifling matters ;</context>
+    </instance>
+    <instance id="n04834228_d_3" docsrc="n04834228_d">
+      <context> total lack of <head>generosity</head> with money ;</context>
+    </instance>
+    <instance id="n10110893_d_5" docsrc="n10110893_d">
+      <context> someone who takes_advantage of the <head>generosity</head> of others ;</context>
+    </instance>
+    <instance id="n10557699_d_6" docsrc="n10557699_d">
+      <context> a scrounger who takes_advantage of the <head>generosity</head> of others ;</context>
+    </instance>
+    <instance id="v02270648_d_3" docsrc="v02270648_d">
+      <context> live off somebody's <head>generosity</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

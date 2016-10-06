@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="respondent.n" pos="NN">
+    <instance id="Respondent-respondent-0-1-2" docsrc="Respondent">
+      <context> <head>The</head> term as used in psychology evokes a much faster and less thoughtful reaction . In that field , respondent conditioning is a synonym for classical conditioning/Pavlovian conditioning . Respondent behavior specifically refers to the behavior consistently elicited by a reflexive or classically conditioned stimulus .</context>
+    </instance>
+    <instance id="Respondent-respondent-0-1-3" docsrc="Respondent">
+      <context> <head>In</head> that field , respondent conditioning is a synonym for classical conditioning/Pavlovian conditioning . Respondent behavior specifically refers to the behavior consistently elicited by a reflexive or classically conditioned stimulus .</context>
+    </instance>
+    <instance id="Respondent-respondent-4-1-1" docsrc="Respondent">
+      <context> The term as used <head>in</head> psychology evokes a much faster and less thoughtful reaction . In that field , respondent conditioning is a synonym for classical conditioning/Pavlovian conditioning .</context>
+    </instance>
+  </lexelt>
+</corpus>

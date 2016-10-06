@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="narrow_margin.n" pos="NN">
+    <instance id="n00061014_d_8" docsrc="n00061014_d">
+      <context> something achieved ( or escaped ) by a <head>narrow_margin</head> ;</context>
+    </instance>
+    <instance id="n05121095_ex1_7" docsrc="n05121095_ex1">
+      <context> the president was not humbled by his <head>narrow_margin</head> of victory ;</context>
+    </instance>
+    <instance id="v01109644_d_3" docsrc="v01109644_d">
+      <context> defeat by a <head>narrow_margin</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

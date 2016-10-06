@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="arsenic.n" pos="NN">
+    <instance id="a02641571_d_4" docsrc="a02641571_d">
+      <context> relating to or containing <head>arsenic</head> ;</context>
+    </instance>
+    <instance id="a02641731_d_5" docsrc="a02641731_d">
+      <context> relating to compounds in which <head>arsenic</head> is trivalent ;</context>
+    </instance>
+    <instance id="br-f10#w1531_0" docsrc="br-f10">
+      <context> Mr._A has recovered , but he is , justifiably , a bitter man . `` That 's a lot of hard earned money to lose '' , he says today . `` Neither me nor my wife were helped by that chiropractor 's treatments '' . And there was the case of Tom_Hepker , a machinist , who was referred by a friend to a health machine quack who treated him with a so-called diagnostic machine for what Doctor_Fraud said was a system full of <head>arsenic</head> and strychnine . After his pains got_worse , Tom decided to see a real doctor , from whom he learned he was suffering from cancer of the lung . Yes , Tom caught it in_time to stay alive . But he 's a welfare_case now - a human wreck - thanks to this modern witch_doctor .</context>
+    </instance>
+    <instance id="n14602721_d_5" docsrc="n14602721_d">
+      <context> a pesticide or drug containing <head>arsenic</head> ;</context>
+    </instance>
+    <instance id="n14610443_d_3" docsrc="n14610443_d">
+      <context> a compound of <head>arsenic</head> with a more positive element ;</context>
+    </instance>
+    <instance id="n14629149_d_10" docsrc="n14629149_d">
+      <context> a very poisonous metallic_element that has three allotropic forms ; <head>arsenic</head> and arsenic compounds are used as herbicides and insecticides and various alloys ; found in arsenopyrite and orpiment and realgar ;</context>
+    </instance>
+    <instance id="n14667328_d_6" docsrc="n14667328_d">
+      <context> a silver-white or grey ore of <head>arsenic</head> ;</context>
+    </instance>
+    <instance id="n14674776_d_25" docsrc="n14674776_d">
+      <context> a reddish mineral consisting of hydrated cobalt arsenate in monoclinic crystalline form and used in coloring glass ; usually found in veins bearing cobalt and <head>arsenic</head> ;</context>
+    </instance>
+    <instance id="n14688831_d_12" docsrc="n14688831_d">
+      <context> a yellow mineral occurring in conjunction with realgar ; an ore of <head>arsenic</head> ;</context>
+    </instance>
+    <instance id="n14694910_d_14" docsrc="n14694910_d">
+      <context> a rare soft orange mineral consisting of arsenic sulphide ; an important ore of <head>arsenic</head> ;</context>
+    </instance>
+    <instance id="n14768201_d_6" docsrc="n14768201_d">
+      <context> a white powdered poisonous trioxide of <head>arsenic</head> ; used in manufacturing glass and as a pesticide ( rat poison ) and weed_killer ;</context>
+    </instance>
+    <instance id="n15039703_d_8" docsrc="n15039703_d">
+      <context> an alloy that is 98% lead and 2% <head>arsenic</head> ; used in making small shot ;</context>
+    </instance>
+    <instance id="n15075691_d_9" docsrc="n15075691_d">
+      <context> an alloy of copper and zinc ( and sometimes <head>arsenic</head> ) used to imitate gold in cheap jewelry and for gilding ;</context>
+    </instance>
+  </lexelt>
+</corpus>

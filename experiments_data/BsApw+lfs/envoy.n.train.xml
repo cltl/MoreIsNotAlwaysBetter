@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="envoy.n" pos="NN">
+    <instance id="n06378427_d_8" docsrc="n06378427_d">
+      <context> a poem consisting of 3 stanzas and an <head>envoy</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

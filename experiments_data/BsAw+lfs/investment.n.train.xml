@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="investment.n" pos="NN">
+    <instance id="Investment_fund-investment-0-188-2" docsrc="Investment_fund">
+      <context> <head>===</head> France and Luxembourg === Investment funds</context>
+    </instance>
+    <instance id="Investment_fund-investment-0-242-1" docsrc="Investment_fund">
+      <context> <head>Global</head> assets under management Independent financial adviser Investment management</context>
+    </instance>
+    <instance id="Investment_fund-investment-0-254-1" docsrc="Investment_fund">
+      <context> <head>Specialized</head> investment fund Answers U.S. SEC Investment Companies , Consumer Information Investments UK FSA Consumer Information</context>
+    </instance>
+    <instance id="Investment_fund-investment-0-255-1" docsrc="Investment_fund">
+      <context> <head>Answers</head> U.S. SEC Investment Companies , Consumer Information Investments UK FSA Consumer Information</context>
+    </instance>
+    <instance id="Investment_fund-investment-0-3-1" docsrc="Investment_fund">
+      <context> <head>benefit</head> from economies of scale , i.e. , lower transaction costs ; increase the asset diversification to reduce some unsystematic risk . Investment funds are promoted with a wide range of investment aims either targeting specific geographic regions ( e.g. , emerging markets or Europe ) or specified industry sectors ( e.g. , technology ) .</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-100-1" docsrc="Investment_fund">
+      <context> === <head>Investment</head> aims and benchmarking === Each fund has a defined investment goal to describe the remit of the investment manager and to help investors decide if the fund is right for them . The investment aims will typically fall into the broad categories of Income ( value ) investment or Growth investment .</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-100-3" docsrc="Investment_fund">
+      <context> The <head>investment</head> aims will typically fall into the broad categories of Income ( value ) investment or Growth investment . Income or value based investment tends to select stocks with strong income streams , often more established businesses . Growth investment selects stocks that tend to reinvest their income to generate growth .</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-119-3" docsrc="Investment_fund">
+      <context> This <head>shows</head> the fund 's performance relative to the benchmark and can demonstrate the value added by the fund manager . The higher the ' alpha ' the better the manager . Alpha investment strategies tend to favour stock selection methods to achieve growth .</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-120-2" docsrc="Investment_fund">
+      <context> Beta <head>represents</head> an estimate of how much the fund will move if its benchmark moves by 1 unit . This shows the fund 's sensitivity to changes in the market . Beta investment strategies tend to favour asset allocation models to achieve outperformance .</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-145-3" docsrc="Investment_fund">
+      <context> As <head>single</head> prices vehicle ca n't adjust the difference between the buying and selling price to allow for market conditions another mechanism the dilution levy exists . SICAVs , OEICs and U.S. mutual funds are single priced . Sovereign investment funds</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-16-1" docsrc="Investment_fund">
+      <context> It <head>states</head> in section 235 that a “ collective investment scheme ” means " any arrangements with respect to property of any description , including money , the purpose or effect of which is to enable persons taking part in the arrangements ( whether by becoming owners of the property or any part of it or otherwise ) to participate in or receive profits or income arising from the acquisition , holding , management or disposal of the property or sums paid out of such profits or income . " === Constitution and terminology === Collective investment vehicles may be formed under company law , by legal trust or by statute .</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-204-1" docsrc="Investment_fund">
+      <context> === <head>Ukraine</head> === Instytut spilnogo investuvannya , ISI ( Investment Funds ) Private investment fund ( Payovyi investytsiyny fond )</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-205-1" docsrc="Investment_fund">
+      <context> Instytut <head>spilnogo</head> investuvannya , ISI ( Investment Funds ) Private investment fund ( Payovyi investytsiyny fond ) Public investment fund ( Korporatyvny investytsiyny fund )</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-222-1" docsrc="Investment_fund">
+      <context> Kommanditgesellschaft <head>für</head> Kapitalanlagen ( Limited Partnership ) Société d'investissement à capital fixe|SICAF ( Société d'investissement à capital fixe ) ( Investment company with fixed capital ) Managed Investment Vehicle per s 9 of the Corporations Act ( Cth ) 2001 .</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-243-1" docsrc="Investment_fund">
+      <context> Independent <head>financial</head> adviser Investment management Offshore investment</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-246-1" docsrc="Investment_fund">
+      <context> Offshore <head>investment</head> Separately managed account Specialized investment fund</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-46-1" docsrc="Investment_fund">
+      <context> Gearing <head>was</head> a major contributory factor in the collapse of the split capital investment trust debacle in the UK in 2002 . === Availability and access === Collective investment vehicles vary in availability depending on their intended investor base :</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-70-1" docsrc="Investment_fund">
+      <context> === <head>Diversity</head> and risk === One of the main advantages of collective investment is the reduction in investment risk ( capital risk ) by diversification . An investment in a single equity may do well , but it may collapse for investment or other reasons ( e.g. , Marconi ) .</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-71-1" docsrc="Investment_fund">
+      <context> By <head>investing</head> in a range of equities ( or other securities ) the capital risk is reduced . The more diversified your capital , the lower the capital risk . This investment principle is often referred to as spreading risk .</context>
+    </instance>
+    <instance id="Investment_fund-investment-1-93-2" docsrc="Investment_fund">
+      <context> If <head>the</head> investor holds shares directly , he has the right to attend the company 's annual general meeting and vote on important matters . Investors in a collective investment vehicle often have none of the rights connected with individual investments within the fund . === Investment aims and benchmarking ===</context>
+    </instance>
+    <instance id="Investment_fund-investment-10-110-1" docsrc="Investment_fund">
+      <context> The philosophy used to manage the fund 's investment vary <head>and</head> two opposing views exist . Active management—Active managers seek to outperform the market as a whole , by selectively holding securities according to an investment strategy . Therefore they employ dynamic portfolio strategies , buying and selling investments with changing market conditions , based on their belief that particular individual holdings or sections of the market will perform better than others .</context>
+    </instance>
+    <instance id="Investment_fund-investment-10-5-2" docsrc="Investment_fund">
+      <context> Investment funds are promoted with a wide range of investment <head>aims</head> either targeting specific geographic regions ( e.g. , emerging markets or Europe ) or specified industry sectors ( e.g. , technology ) . Depending on the country there is normally a bias towards the domestic market due to familiarity , and the lack of currency risk . Funds are often selected on the basis of these specified investment aims , their past investment performance , and other factors such as fees .</context>
+    </instance>
+    <instance id="Investment_fund-investment-11-76-1" docsrc="Investment_fund">
+      <context> This investment principle is often referred to as spreading risk . <head>===</head> Reduced dealing costs === If one investor had to buy a large number of direct investments , the amount this person would be able to invest in each holding is likely to be small .</context>
+    </instance>
+    <instance id="Investment_fund-investment-12-122-2" docsrc="Investment_fund">
+      <context> Standard deviation is a measure of volatility of the fund 's performance <head>over</head> a period of time . The higher the figure the greater the variability of the fund 's performance . High historical volatility may indicate high future volatility , and therefore increased investment risk in a fund .</context>
+    </instance>
+    <instance id="Investment_fund-investment-12-125-1" docsrc="Investment_fund">
+      <context> High historical volatility may indicate high future volatility , and therefore increased <head>investment</head> risk in a fund . === Types of risk === Depending on the nature of the investment , the type of ' investment ' risk will vary .</context>
+    </instance>
+    <instance id="Investment_fund-investment-12-69-1" docsrc="Investment_fund">
+      <context> These also include Unit Trusts . === Diversity and risk === One <head>of</head> the main advantages of collective investment is the reduction in investment risk ( capital risk ) by diversification .</context>
+    </instance>
+    <instance id="Investment_fund-investment-13-221-1" docsrc="Investment_fund">
+      <context> SICAV ( Société d'investissement à capital variable ) ( Investment company with variable <head>capital</head> ) Kommanditgesellschaft für Kapitalanlagen ( Limited Partnership ) Société d'investissement à capital fixe|SICAF ( Société d'investissement à capital fixe ) ( Investment company with fixed capital )</context>
+    </instance>
+    <instance id="Investment_fund-investment-13-40-2" docsrc="Investment_fund">
+      <context> === Gearing and leverage === Some collective investment vehicles have the power to <head>borrow</head> money to make further investments ; a process known as gearing or leverage .</context>
+    </instance>
+    <instance id="Investment_fund-investment-13-42-1" docsrc="Investment_fund">
+      <context> If the borrowing costs are more than the growth achieved a net loss <head>is</head> achieved . This can greatly increase the investment risk of the fund by increased volatility and exposure to increased capital risk . Gearing was a major contributory factor in the collapse of the split capital investment trust debacle in the UK in 2002 .</context>
+    </instance>
+    <instance id="Investment_fund-investment-13-58-1" docsrc="Investment_fund">
+      <context> === Unit or share class === Many collective investment vehicles split the fund <head>into</head> multiple classes of shares or units . The underlying assets of each class are effectively pooled for the purposes of investment management , but classes typically differ in the fees and expenses paid out of the fund 's assets .</context>
+    </instance>
+    <instance id="Investment_fund-investment-13-99-1" docsrc="Investment_fund">
+      <context> Investors in a collective investment vehicle often have none of the rights connected <head>with</head> individual investments within the fund . === Investment aims and benchmarking === Each fund has a defined investment goal to describe the remit of the investment manager and to help investors decide if the fund is right for them .</context>
+    </instance>
+    <instance id="Investment_fund-investment-15-100-1" docsrc="Investment_fund">
+      <context> === Investment aims and benchmarking === Each fund has a defined investment goal to describe <head>the</head> remit of the investment manager and to help investors decide if the fund is right for them . The investment aims will typically fall into the broad categories of Income ( value ) investment or Growth investment .</context>
+    </instance>
+    <instance id="Investment_fund-investment-15-5-2" docsrc="Investment_fund">
+      <context> Investment funds are promoted with a wide range of investment aims either targeting specific geographic <head>regions</head> ( e.g. , emerging markets or Europe ) or specified industry sectors ( e.g. , technology ) . Depending on the country there is normally a bias towards the domestic market due to familiarity , and the lack of currency risk . Funds are often selected on the basis of these specified investment aims , their past investment performance , and other factors such as fees .</context>
+    </instance>
+    <instance id="Investment_fund-investment-15-70-1" docsrc="Investment_fund">
+      <context> === Diversity and risk === One of the main advantages of collective investment is the <head>reduction</head> in investment risk ( capital risk ) by diversification . An investment in a single equity may do well , but it may collapse for investment or other reasons ( e.g. , Marconi ) .</context>
+    </instance>
+    <instance id="Investment_fund-investment-15-93-1" docsrc="Investment_fund">
+      <context> === Loss of owner 's rights === If the investor holds shares directly , he <head>has</head> the right to attend the company 's annual general meeting and vote on important matters . Investors in a collective investment vehicle often have none of the rights connected with individual investments within the fund .</context>
+    </instance>
+    <instance id="Investment_fund-investment-18-100-1" docsrc="Investment_fund">
+      <context> === Investment aims and benchmarking === Each fund has a defined investment goal to describe the remit of <head>the</head> investment manager and to help investors decide if the fund is right for them . The investment aims will typically fall into the broad categories of Income ( value ) investment or Growth investment .</context>
+    </instance>
+    <instance id="Investment_fund-investment-18-111-2" docsrc="Investment_fund">
+      <context> Passive management—Passive managers stick to a portfolio strategy determined at outset of the fund and not varied thereafter <head>,</head> aiming to minimize the ongoing costs of maintaining the portfolio . Many passive funds are index funds , which attempt to replicate the performance of a market index by holding securities proportionally to their value in the market as a whole . Another example of passive management is the " buy and hold " method used by many traditional unit investment trusts where the portfolio is fixed from outset .</context>
+    </instance>
+    <instance id="Investment_fund-investment-19-109-2" docsrc="Investment_fund">
+      <context> The aim of most funds is to make money by investing in assets to obtain a real return ( <head>i.e.</head> better than inflation ) . The philosophy used to manage the fund 's investment vary and two opposing views exist . Active management—Active managers seek to outperform the market as a whole , by selectively holding securities according to an investment strategy .</context>
+    </instance>
+    <instance id="Investment_fund-investment-19-28-2" docsrc="Investment_fund">
+      <context> The net asset value or NAV is the value of a vehicle 's assets minus the value of its <head>liabilities</head> . The method for calculating this varies between vehicle types and jurisdiction and can be subject to complex regulation . For listed funds , the added element of market forces tends to amplify the performance of the fund increasing investment risk through increased volatility .</context>
+    </instance>
+    <instance id="Investment_fund-investment-2-0-2" docsrc="Investment_fund">
+      <context> An investment <head>fund</head> is a way of investing money alongside other investors in order to benefit from the inherent advantages of working as part of a group . These advantages include an ability to : hire Professional investment managers , which may potentially be able to offer better returns and more adequate risk management ;</context>
+    </instance>
+    <instance id="Investment_fund-investment-2-114-2" docsrc="Investment_fund">
+      <context> In 1998 <head>Richard</head> Branson ( head of Virgin ) publicly bet Nicola Horlick ( head of SG Asset Management ) that her SG UK Growth fund would not beat the FTSE 100 index , nor his Virgin Index Tracker fund over three years , nor achieve its stated aim to beat the index by 2 % each year . He lost and paid £ 6,000 to charity . When analysing investment performance , statistical measures are often used to compare ' funds ' .</context>
+    </instance>
+    <instance id="Investment_fund-investment-2-195-1" docsrc="Investment_fund">
+      <context> SICAV ( <head>Société</head> d'investissement à capital variable ) ( Investment company with variable capital ) === Netherlands and Belgium === BEVAK ( Investment company with fixed capital )</context>
+    </instance>
+    <instance id="Investment_fund-investment-2-197-1" docsrc="Investment_fund">
+      <context> === Netherlands <head>and</head> Belgium === BEVAK ( Investment company with fixed capital ) BEVEK ( Investment Company with variable capital )</context>
+    </instance>
+    <instance id="Investment_fund-investment-2-40-2" docsrc="Investment_fund">
+      <context> === Gearing <head>and</head> leverage === Some collective investment vehicles have the power to borrow money to make further investments ; a process known as gearing or leverage .</context>
+    </instance>
+    <instance id="Investment_fund-investment-2-57-1" docsrc="Investment_fund">
+      <context> Some vehicles <head>are</head> designed to have a limited term with enforced redemption of shares or units on a specified date . === Unit or share class === Many collective investment vehicles split the fund into multiple classes of shares or units .</context>
+    </instance>
+    <instance id="Investment_fund-investment-21-135-1" docsrc="Investment_fund">
+      <context> Assets that are easily sold are termed liquid therefore this type of risk is termed liquidity risk . === Fee types <head>===</head> The vehicle will charge an annual management charge or AMC to cover the cost of administering the vehicle and remunerating the investment manager .</context>
+    </instance>
+    <instance id="Investment_fund-investment-24-5-3" docsrc="Investment_fund">
+      <context> Depending on the country there is normally a bias towards the domestic market due to familiarity , and the lack of currency risk . <head>Funds</head> are often selected on the basis of these specified investment aims , their past investment performance , and other factors such as fees . The term " collective investment scheme " is a legal concept deriving initially from a set of European Union Directives to regulate mutual fund investment and management .</context>
+    </instance>
+    <instance id="Investment_fund-investment-26-128-2" docsrc="Investment_fund">
+      <context> If the assets you invest in are held in another currency there is a risk that currency movements alone may affect the value . This is <head>referred</head> to as currency risk . Many forms of investment may not be readily salable on the open market ( e.g. commercial property ) or the market has a small capacity and investments may take time to sell .</context>
+    </instance>
+    <instance id="Investment_fund-investment-28-85-2" docsrc="Investment_fund">
+      <context> Often the cost of advice given by a stockbroker or financial adviser is built into the vehicle . Often referred to as commission or load ( in the <head>U.S.</head> ) this charge may be applied at the start of the plan or as an ongoing percentage of the fund value each year . While this cost will diminish your returns it could be argued that it reflects a separate payment for an advice service rather than a detrimental feature of collective investment vehicles .</context>
+    </instance>
+    <instance id="Investment_fund-investment-3-128-2" docsrc="Investment_fund">
+      <context> If the assets <head>you</head> invest in are held in another currency there is a risk that currency movements alone may affect the value . This is referred to as currency risk . Many forms of investment may not be readily salable on the open market ( e.g. commercial property ) or the market has a small capacity and investments may take time to sell .</context>
+    </instance>
+    <instance id="Investment_fund-investment-3-215-2" docsrc="Investment_fund">
+      <context> === Switzerland === <head>Anlagefonds</head> ( unincorporated investment fund or common fund )</context>
+    </instance>
+    <instance id="Investment_fund-investment-3-247-1" docsrc="Investment_fund">
+      <context> Separately managed account <head>Specialized</head> investment fund Answers U.S. SEC Investment Companies , Consumer Information</context>
+    </instance>
+    <instance id="Investment_fund-investment-32-9-3" docsrc="Investment_fund">
+      <context> The Undertakings for Collective Investment in Transferable Securities Directives 85/611/EEC , as amended by 2001/107/EC and 2001/108/EC ( typically known as UCITS for short ) created an EU wide structure , so <head>that</head> funds fulfilling its basic regulations could be marketed in any member state . The basic aim of collective investment scheme regulation is that the financial " products " that are sold to the public are sufficiently transparent , with full disclosure about the nature of the terms . In the United Kingdom , the primary statute is the Financial Services and Markets Act 2000 , where Part XVII , sections 235 to 284 deal with the requirements for a collective investment scheme to operate .</context>
+    </instance>
+    <instance id="Investment_fund-investment-4-100-2" docsrc="Investment_fund">
+      <context> Each fund has a <head>defined</head> investment goal to describe the remit of the investment manager and to help investors decide if the fund is right for them . The investment aims will typically fall into the broad categories of Income ( value ) investment or Growth investment . Income or value based investment tends to select stocks with strong income streams , often more established businesses .</context>
+    </instance>
+    <instance id="Investment_fund-investment-4-18-1" docsrc="Investment_fund">
+      <context> The nature of the <head>vehicle</head> and its limitations are often linked to its constitutional nature and the associated tax rules for the type of structure within a given jurisdiction . Typically there is : A fund manager or investment manager who manages the investment decisions .</context>
+    </instance>
+    <instance id="Investment_fund-investment-4-5-3" docsrc="Investment_fund">
+      <context> Depending on the country <head>there</head> is normally a bias towards the domestic market due to familiarity , and the lack of currency risk . Funds are often selected on the basis of these specified investment aims , their past investment performance , and other factors such as fees . The term " collective investment scheme " is a legal concept deriving initially from a set of European Union Directives to regulate mutual fund investment and management .</context>
+    </instance>
+    <instance id="Investment_fund-investment-4-9-1" docsrc="Investment_fund">
+      <context> Funds are often selected <head>on</head> the basis of these specified investment aims , their past investment performance , and other factors such as fees . The term " collective investment scheme " is a legal concept deriving initially from a set of European Union Directives to regulate mutual fund investment and management . The Undertakings for Collective Investment in Transferable Securities Directives 85/611/EEC , as amended by 2001/107/EC and 2001/108/EC ( typically known as UCITS for short ) created an EU wide structure , so that funds fulfilling its basic regulations could be marketed in any member state .</context>
+    </instance>
+    <instance id="Investment_fund-investment-4-93-1" docsrc="Investment_fund">
+      <context> === Loss of owner <head>'s</head> rights === If the investor holds shares directly , he has the right to attend the company 's annual general meeting and vote on important matters . Investors in a collective investment vehicle often have none of the rights connected with individual investments within the fund .</context>
+    </instance>
+    <instance id="Investment_fund-investment-5-104-1" docsrc="Investment_fund">
+      <context> The largest markets—U.S. , Japan <head>,</head> Europe , UK and Far East are often divided into smaller funds e.g. US large caps , Japanese smaller companies , European Growth , UK mid caps etc . Themed funds—Technology , Healthcare , Socially responsible funds . In most instances whatever the investment aim the fund manager will select an appropriate index or combination of indices to measure its performance against ; e.g. FTSE 100 .</context>
+    </instance>
+    <instance id="Investment_fund-investment-5-126-1" docsrc="Investment_fund">
+      <context> === Types of risk === <head>Depending</head> on the nature of the investment , the type of ' investment ' risk will vary . A common concern with any investment is that you may lose the money you invest—your capital .</context>
+    </instance>
+    <instance id="Investment_fund-investment-5-41-4" docsrc="Investment_fund">
+      <context> However this premise only works <head>if</head> the cost of the borrowing is less than the increased growth achieved . If the borrowing costs are more than the growth achieved a net loss is achieved . This can greatly increase the investment risk of the fund by increased volatility and exposure to increased capital risk .</context>
+    </instance>
+    <instance id="Investment_fund-investment-5-83-1" docsrc="Investment_fund">
+      <context> Dealing costs are normally based <head>on</head> the number and size of each transaction , therefore the overall dealing costs would take a large chunk out of the capital ( affecting future profits ) . === Costs === The fund manager managing the investment decisions on behalf of the investors will of course expect remuneration .</context>
+    </instance>
+    <instance id="Investment_fund-investment-5-9-2" docsrc="Investment_fund">
+      <context> The term " collective investment <head>scheme</head> " is a legal concept deriving initially from a set of European Union Directives to regulate mutual fund investment and management . The Undertakings for Collective Investment in Transferable Securities Directives 85/611/EEC , as amended by 2001/107/EC and 2001/108/EC ( typically known as UCITS for short ) created an EU wide structure , so that funds fulfilling its basic regulations could be marketed in any member state . The basic aim of collective investment scheme regulation is that the financial " products " that are sold to the public are sufficiently transparent , with full disclosure about the nature of the terms .</context>
+    </instance>
+    <instance id="Investment_fund-investment-5-99-1" docsrc="Investment_fund">
+      <context> Investors in a collective investment <head>vehicle</head> often have none of the rights connected with individual investments within the fund . === Investment aims and benchmarking === Each fund has a defined investment goal to describe the remit of the investment manager and to help investors decide if the fund is right for them .</context>
+    </instance>
+    <instance id="Investment_fund-investment-6-125-1" docsrc="Investment_fund">
+      <context> High historical volatility may indicate high <head>future</head> volatility , and therefore increased investment risk in a fund . === Types of risk === Depending on the nature of the investment , the type of ' investment ' risk will vary .</context>
+    </instance>
+    <instance id="Investment_fund-investment-6-202-1" docsrc="Investment_fund">
+      <context> BEVEK ( Investment Company with variable <head>capital</head> ) === Ukraine === Instytut spilnogo investuvannya , ISI ( Investment Funds )</context>
+    </instance>
+    <instance id="Investment_fund-investment-6-84-2" docsrc="Investment_fund">
+      <context> The fund manager managing the investment <head>decisions</head> on behalf of the investors will of course expect remuneration . This is often taken directly from the fund assets as a fixed percentage each year or sometimes a variable ( performance based ) fee . If the investor managed their own investments , this cost would be avoided .</context>
+    </instance>
+    <instance id="Investment_fund-investment-7-62-1" docsrc="Investment_fund">
+      <context> Another class may be sold with no <head>commission</head> ( load ) direct to the public called direct shares . Still a third class might have a high minimum investment limit and only be open to financial institutions , and called institutional shares . In some cases , by aggregating regular investments by many individuals , a retirement plan ( such as a 401(k ) plan ) may qualify to purchase " institutional " shares ( and gain the benefit of their typically lower expense ratios ) even though no members of the plan would qualify individually .</context>
+    </instance>
+    <instance id="Investment_fund-investment-7-69-1" docsrc="Investment_fund">
+      <context> These also include Unit Trusts . === <head>Diversity</head> and risk === One of the main advantages of collective investment is the reduction in investment risk ( capital risk ) by diversification .</context>
+    </instance>
+    <instance id="Investment_fund-investment-8-109-1" docsrc="Investment_fund">
+      <context> === Active or passive management === The aim <head>of</head> most funds is to make money by investing in assets to obtain a real return ( i.e. better than inflation ) . The philosophy used to manage the fund 's investment vary and two opposing views exist .</context>
+    </instance>
+    <instance id="Investment_fund-investment-8-152-1" docsrc="Investment_fund">
+      <context> SICAVs , OEICs and U.S. mutual funds are <head>single</head> priced . Sovereign investment funds ( Click here for US SEC description of investment company types ) .</context>
+    </instance>
+    <instance id="Investment_fund-investment-9-10-1" docsrc="Investment_fund">
+      <context> The basic aim of collective investment scheme regulation is <head>that</head> the financial " products " that are sold to the public are sufficiently transparent , with full disclosure about the nature of the terms . In the United Kingdom , the primary statute is the Financial Services and Markets Act 2000 , where Part XVII , sections 235 to 284 deal with the requirements for a collective investment scheme to operate . It states in section 235 that a “ collective investment scheme ” means " any arrangements with respect to property of any description , including money , the purpose or effect of which is to enable persons taking part in the arrangements ( whether by becoming owners of the property or any part of it or otherwise ) to participate in or receive profits or income arising from the acquisition , holding , management or disposal of the property or sums paid out of such profits or income . "</context>
+    </instance>
+    <instance id="Investment_fund-investment-9-18-1" docsrc="Investment_fund">
+      <context> The nature of the vehicle and its limitations are <head>often</head> linked to its constitutional nature and the associated tax rules for the type of structure within a given jurisdiction . Typically there is : A fund manager or investment manager who manages the investment decisions .</context>
+    </instance>
+    <instance id="Investment_fund-investment-9-189-1" docsrc="Investment_fund">
+      <context> France and Luxembourg === Investment funds FCP ( Fonds <head>commun</head> de placement ) ( unincorporated investment fund or common fund )</context>
+    </instance>
+    <instance id="Investment_fund-investment-9-190-1" docsrc="Investment_fund">
+      <context> Investment funds FCP ( Fonds commun de placement ) <head>(</head> unincorporated investment fund or common fund ) SICAF ( Société d'investissement à capital fixe ) ( Investment company with fixed capital )</context>
+    </instance>
+    <instance id="Investment_fund-investment-9-191-1" docsrc="Investment_fund">
+      <context> FCP ( Fonds commun de placement ) ( unincorporated <head>investment</head> fund or common fund ) SICAF ( Société d'investissement à capital fixe ) ( Investment company with fixed capital ) SICAV ( Société d'investissement à capital variable ) ( Investment company with variable capital )</context>
+    </instance>
+    <instance id="Investment_fund-investment-9-217-1" docsrc="Investment_fund">
+      <context> Switzerland === Anlagefonds ( unincorporated investment fund or common <head>fund</head> ) SICAV ( Société d'investissement à capital variable ) ( Investment company with variable capital )</context>
+    </instance>
+    <instance id="Investment_fund-investment-9-227-1" docsrc="Investment_fund">
+      <context> Société d'investissement à capital fixe|SICAF ( Société d'investissement à <head>capital</head> fixe ) ( Investment company with fixed capital ) Managed Investment Vehicle per s 9 of the Corporations Act ( Cth ) 2001 . Segregated portfolio company a corporate entity for holding various investments under a single legal entity .</context>
+    </instance>
+    <instance id="Investment_fund-investment-9-3-1" docsrc="Investment_fund">
+      <context> benefit from economies of scale , i.e. , lower <head>transaction</head> costs ; increase the asset diversification to reduce some unsystematic risk . Investment funds are promoted with a wide range of investment aims either targeting specific geographic regions ( e.g. , emerging markets or Europe ) or specified industry sectors ( e.g. , technology ) .</context>
+    </instance>
+    <instance id="Investment_fund-investment-9-61-1" docsrc="Investment_fund">
+      <context> These differences are supposed to reflect different costs involved <head>in</head> servicing investors in various classes ; for example : Another class may be sold with no commission ( load ) direct to the public called direct shares . Still a third class might have a high minimum investment limit and only be open to financial institutions , and called institutional shares .</context>
+    </instance>
+    <instance id="br-e28#w1926_0" docsrc="br-e28">
+      <context> `` Hip-pocket '' tactics are going_to be harder to apply . Many food and beverage companies are already on a highly planned basis . They have to be . With greater <head>investments</head> in plant facilities , with automation growing , you can n't switch around , either in volume or in product design , as much as was formerly possible - or at_least not as economically . Are planning and strategy development emphasized sufficiently in your company ? We find too many sales and marketing executives so burdened with detail that they are short-changing planning . Are annual marketing plans reviewed throughout your management group to get the perspective of all individuals and get everyone on the marketing team ?</context>
+    </instance>
+    <instance id="br-f13#w1279_0" docsrc="br-f13">
+      <context> If you have a planting of half an acre or more you may want to buy a small garden tractor ( available for $ 300 to $ 500 with attachments , 1960 prices ) . These tractors are not entirely satisfactory for plowing , particularly on heavier soils , so you may still want to hire someone to do the plowing . Cost of power and machinery is often a serious problem to the small-scale farmer . If you are going_to farm for extra cash income on a part-time basis you must keep in mind the needed machinery <head>investments</head> when you choose among farm enterprises . You can keep your machinery investment down by buying good secondhand machinery , by sharing the cost and upkeep of machinery with a neighbor , and by hiring someone with machinery to do certain jobs . If an expensive and specialized piece of machinery is needed - such_as a spray rig , a combine , or a binder - it is better to pay someone with a machine to do the work . Before you look_for a farm you 'll need_to know ( 1 ) the kind and scale of farming you want_to undertake ; and ( 2 ) whether you want_to buy or rent .</context>
+    </instance>
+    <instance id="br-f13#w1292_0" docsrc="br-f13">
+      <context> These tractors are not entirely satisfactory for plowing , particularly on heavier soils , so you may still want to hire someone to do the plowing . Cost of power and machinery is often a serious problem to the small-scale farmer . If you are going_to farm for extra cash income on a part-time basis you must keep in mind the needed machinery investments when you choose among farm enterprises . You can keep your machinery <head>investment</head> down by buying good secondhand machinery , by sharing the cost and upkeep of machinery with a neighbor , and by hiring someone with machinery to do certain jobs . If an expensive and specialized piece of machinery is needed - such_as a spray rig , a combine , or a binder - it is better to pay someone with a machine to do the work . Before you look_for a farm you 'll need_to know ( 1 ) the kind and scale of farming you want_to undertake ; and ( 2 ) whether you want_to buy or rent . Information on pages 8 to 14 may help you in deciding on the kind and scale of your farming venture .</context>
+    </instance>
+    <instance id="br-f13#w2167_0" docsrc="br-f13">
+      <context> Also count as an expense a charge for the labor to be contributed by the family . It may be hard to decide what this labor is worth , but charge something for it . Otherwise , you may pay too much for the farm and get nothing for your labor . To figure the value of the farm in_terms_of <head>investment</head> income , divide the estimated annual net farm income by the percentage that you could expect to get in interest if the money were invested in some other way .</context>
+    </instance>
+    <instance id="br-g22#w1293_0" docsrc="br-g22">
+      <context> So we are faced with a vast network of amorphous entities perpetuating themselves in whatever manner they can , without regard_to the needs of society , controlling society and forcing upon it a regime representing only the corporation 's needs for survival . The corporation has a limited , specific place in our society . Ideally speaking , it should be allowed to operate only where the public has a great stake in the continuity of supply or services , and where the actions of a single proprietor are secondary to the needs of society . Examples are in public utilities , making military aircraft and accessories , or where the <head>investment</head> and risk for a proprietorship would be too great for a much needed project impossible to achieve by_any_means other_than the corporate form , e._g. constructing major airports or dams . Thus , if corporations are not to run_away with us , they must become quasi governmental institutions , subject_to public control and needs . In all other areas , private initiative of the `` proprietorship '' type should be urged to produce the desired goods and services . Avoiding runaway technology can be done only by assuring a humane society ; and for this human_beings must be firmly in control of the economics on which our society rests .</context>
+    </instance>
+    <instance id="br-g22#w2130_0" docsrc="br-g22">
+      <context> This combined experience , on a foundation of very average , I assure you , intelligence and background , has helped me do things many well-informed people would bet heavily against . Perhaps a list of some of the `` practices '' of my company will help here . The company grew out of efforts by two completely inexperienced men in their late twenties , neither having a formal education applicable to , or experience in , manufacturing or selling our type of articles . From an initial <head>investment</head> of $ 1200 in 1943 , it has grown , with no additional capital investment , to a present value estimated by some as exceeding $ 10000000 ( we do n't disclose financial figures to the public ) . Its growth continues steadily on a par with past growth ; and no limitation is in_evidence . Our pin-curl clips and self-locking nuts achieved dominance in just a_few years time , despite substantial , well established competition .</context>
+    </instance>
+    <instance id="br-g22#w2145_0" docsrc="br-g22">
+      <context> This combined experience , on a foundation of very average , I assure you , intelligence and background , has helped me do things many well-informed people would bet heavily against . Perhaps a list of some of the `` practices '' of my company will help here . The company grew out of efforts by two completely inexperienced men in their late twenties , neither having a formal education applicable to , or experience in , manufacturing or selling our type of articles . From an initial investment of $ 1200 in 1943 , it has grown , with no additional capital <head>investment</head> , to a present value estimated by some as exceeding $ 10000000 ( we do n't disclose financial figures to the public ) . Its growth continues steadily on a par with past growth ; and no limitation is in_evidence . Our pin-curl clips and self-locking nuts achieved dominance in just a_few years time , despite substantial , well established competition .</context>
+    </instance>
+    <instance id="br-h01#w1608_0" docsrc="br-h01">
+      <context> The Farm_Credit_Administration , an independent agency located within the Department_of_Agriculture , supervises and coordinates a cooperative credit_system for agriculture . The system is composed of three credit services , Federal_Land_Banks and National_Farm_Loan_Associations , Federal_Intermediate ( short-term ) Credit_Banks , and Banks_for_Cooperatives . This system provides long - and short-term credit to farmers and their cooperative marketing , purchasing , and business service organizations . As a source of <head>investment</head> capital , the system is beneficial to local communities and encourages the development of industries in rural_areas . The credit provdied by the first two services in the system outlined above is primarily for general agricultural purposes . The third credit service , Banks_for_Cooperatives , exists under authority of the Farm_Credit_Act_of_1933 . The Banks_for_Cooperatives were established to provide a permanent source of credit on a sound basis for farmers ' cooperatives .</context>
+    </instance>
+    <instance id="br-h16#w522_0" docsrc="br-h16">
+      <context> The latter provisions proscribe any contract , combination , or conspiracy in restraint of interstate or foreign trade , and monopolization of , or attempts , combinations , or conspiracies to monopolize , such trade . However , this Court put to one side without consideration the Government 's appeal from the dismissal of its Sherman_Act allegations . It rested its decision solely on 7 , which reads in pertinent part : `` [ N_]_o corporation engaged in commerce shall acquire , directly or indirectly , the whole or any part of the stock or other share capital of another corporation engaged also in commerce , where the effect of such acquisition may be to substantially lessen competition between the corporation whose stock is so acquired and the corporation making the acquisition , or to restrain such commerce in any section or community , or tend to create a monopoly of any line of commerce . This section shall not apply to corporations purchasing such stock solely for <head>investment</head> and not using the same by voting or otherwise to bring_about , or in attempting to bring_about , the substantial lessening of competition `` . The purpose of_this provision was thus explained in the Court 's opinion : `` Section 7 is designed to arrest in its incipiency not_only the substantial lessening of competition from the acquisition by one corporation of the whole or any part of the stock of a competing corporation , but also to arrest in their incipiency restraints or monopolies in a relevant market which , as a reasonable probability , appear at the time of suit likely to result from the acquisition by one corporation of all or any part of the stock of any other corporation . The section is violated whether or not actual restraints or monopolies , or the substantial lessening of competition , have occurred or are intended '' . 353_U._S._,_at_589 .</context>
+    </instance>
+    <instance id="br-j22#w1474_0" docsrc="br-j22">
+      <context> Several related tasks must be carried_out if self-sustaining growth is to be achieved . These countries must formulate a comprehensive , long-term program covering the objectives of both the private and the public sectors of the economy . They must in their planning be able to count_on at_least tentative commitments of foreign capital assistance over periods of several years . Capital imports drawn from a number of sources must be employed and combined skillfully enough to permit domestic <head>investment</head> programming to go_forward . Capital flows must be coordinated with national needs and planning . Finally , a balance must be effected among project finance , utilization of agricultural surpluses , and general balance_of_payments support . Thus , although the agenda of external assistance in the economic sphere are cumulative , and many_of the policies suggested for nations in the earlier stages remain relevant , the basic purpose of American economic_policy during the later stages of development should be to assure that movement into a stage of self-sustaining growth is not prevented by lack of foreign_exchange .</context>
+    </instance>
+    <instance id="br-j56#w604_0" docsrc="br-j56">
+      <context> In the fall of 1878 , the `` Popular_Telegraph_Line '' was established between Manchester and Factory_Point by the owners , Paul_W._Orvis , Henry_Gray , J._N._Hard , and Clark_J._Wait . The line soon lived_up_to its name , as local messages of moderate length could be sent for a dime and the company was quickly able to declare very liberal dividends on its capital_stock . In 1879 the same Clark_Wait , with H._H._Holley of South_Dorset , formed the `` American_Telegraph_Line '' , extending from Manchester_Depot via Factory_Point and South_Dorset to Dorset . Besides being most convenient , the line `` soon proved a good <head>investment</head> for the owners '' . Telegraphers at the Depot at this time were Aaron_C._Burr and Mark_Manley of `` Burr_and_Manley '' , dealers in lumber and dry_goods . Early equipment was very flimsy ; the smallest gusts of wind toppled poles , making communications impossible . But companies continued to spring_up .</context>
+    </instance>
+    <instance id="br-j56#w73_0" docsrc="br-j56">
+      <context> The plant was located west of the Battenkill and south of the location of the former electric_light plant . The Manchester_Depot_Sewer_Company issued 214 shares of stock at $ 10 each for construction of a sewer in that locality , and assessments were made for its maintenance . It has given considerable trouble at_times and empties right into the Battenkill . Fire_District_No._1 discussed its possible purchase in 1945 , but considered it an unwise <head>investment</head> . The sewer on Bonnet_Street was constructed when there were only a_few houses on the street . as new homes were built they were connected so that all residences south of School_Street are served by it . B._J._Connell is the present treasurer and manager .</context>
+    </instance>
+  </lexelt>
+</corpus>

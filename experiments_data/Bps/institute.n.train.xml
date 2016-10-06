@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="institute.n" pos="NN">
+    <instance id="br-e29#w1276_0" docsrc="br-e29">
+      <context> This anomalous status of the educator cannot fail to lower his standing in the eyes of the students . The professor in_turn dares not tolerate the influence in his classes of an organization in the policies and standards of which he has no voice . This seems somewhat shortsighted since if the absolute educational qualifications for membership which the organizations profess are ever enforced , the educator will have the molding of the entire profession in his hands . In one way the <head>Institutes</head> and Societies do a disservice to the schools . That_is in the continuance of the `` grandfather_clauses '' in their membership requirements . When these groups were first formed many prominent and accomplished decorators could not have had the advantage of school training since interior_design courses were rare and undeveloped during their youth . Long hard years of `` on_the_job '' training had brought them to their competence .</context>
+    </instance>
+    <instance id="v00607405_d_12" docsrc="v00607405_d">
+      <context> be a student ; follow a course_of_study ; be enrolled at an <head>institute</head> of learning ;</context>
+    </instance>
+  </lexelt>
+</corpus>

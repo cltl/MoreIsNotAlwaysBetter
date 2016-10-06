@@ -1,0 +1,734 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="bond.n" pos="NN">
+    <instance id="Adhesion-bond-12-16-2" docsrc="Adhesion">
+      <context> Adhesive materials fill the voids or pores of the surfaces and hold <head>surfaces</head> together by interlocking . Other interlocking phenomena are observed on different length scales . Sewing is an example of two materials forming a large scale mechanical bond , velcro forms one on a medium scale , and some textile adhesives ( glue ) form one at a small scale .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-0-5" docsrc="Bond_(finance)">
+      <context> <head>Very</head> often the bond is negotiable , that is , the ownership of the instrument can be transferred in the secondary market . This means that once the transfer agents at the bank medallion stamp the bond , it is highly liquid on the second market . Bonds and stocks are both securities , but the major difference between the two is that ( capital ) stockholders have an equity stake in the company ( i.e. , they are investors ) , whereas bondholders have a creditor stake in the company ( i.e. , they are lenders ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-122-2" docsrc="Bond_(finance)">
+      <context> <head>The</head> relationship between yield and term to maturity ( or alternatively between yield and the weighted mean term allowing for both interest and capital repayment ) for otherwise identical bonds is called a yield curve . The yield curve is a graph plotting this relationship . Bond markets can also differ from stock markets in that , in some markets , investors sometimes do not pay brokerage commissions to dealers with whom they buy or sell bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-124-4" docsrc="Bond_(finance)">
+      <context> <head>price—and</head> the price at which he or she sells the same bond to another investor—the " ask " or " offer " price . The bid/offer spread represents the total transaction cost associated with transferring a bond from one investor to another . Bonds are bought and traded mostly by institutions like central banks , sovereign wealth funds , pension funds , insurance companies , hedge funds , and banks .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-128-5" docsrc="Bond_(finance)">
+      <context> <head>Most</head> individuals who want to own bonds do so through bond funds . Still , in the U.S. , nearly 10 % of all bonds outstanding are held directly by households . Bonds are also subject to various other risks such as call and prepayment risk , credit risk , reinvestment risk , liquidity risk , event risk , exchange rate risk , volatility risk , inflation risk , sovereign risk and yield curve risk .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-132-6" docsrc="Bond_(finance)">
+      <context> <head>One</head> way to quantify the interest rate risk on a bond is in terms of its duration . Efforts to control this risk are called immunization or hedging . Bond prices can become volatile depending on the credit rating of the issuer – for instance if the credit rating agencies like Standard &amp; Poor 's and Moody 's upgrade or downgrade the credit rating of the issuer .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-141-3" docsrc="Bond_(finance)">
+      <context> <head>The</head> most common American benchmarks are the Barclays Capital Aggregate ( ex Lehman Aggregate ) , Citigroup BIG and Merrill Lynch Domestic Master . Most indices are parts of families of broader indices that can be used to measure global bond portfolios , or may be further subdivided by maturity and/or sector for managing specialized portfolios . Bonds links at DMOZ</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-57-3" docsrc="Bond_(finance)">
+      <context> <head>The</head> entire bond issue can be liquidated by the maturity date ; if not , the remainder is called balloon maturity . Issuers may either pay to trustees , which in turn call randomly selected bonds in the issue , or , alternatively , purchase bonds in open market , then return them to trustees . Bonds are often identified by its international securities identification number , or ISIN , which is a 12 digit alphanumeric code that uniquely identifies debt securities .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-8-2" docsrc="Bond_(finance)">
+      <context> <head>In</head> the case of an underwritten bond , the underwriters will charge a fee for underwriting . An alternative process for bond issuance , which is commonly used for smaller issues and avoids this cost , is the private placement bond . Bonds sold directly to buyers may not be tradeable in the bond market .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-135-3" docsrc="Bond_(finance)">
+      <context> As <head>an</head> example , after an accounting scandal and a Chapter 11 bankruptcy at the giant telecommunications company Worldcom , in 2004 its bondholders ended up being paid 35.7 cents on the dollar . In a bankruptcy involving reorganization or recapitalization , as opposed to liquidation , bondholders may end up having the value of their bonds reduced , often through an exchange for a smaller number of newly issued bonds . Some bonds are callable , meaning that even though the company has agreed to make payments plus interest towards the debt for a certain period of time , the company can choose to pay off the bond early .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-136-2" docsrc="Bond_(finance)">
+      <context> Some <head>bonds</head> are callable , meaning that even though the company has agreed to make payments plus interest towards the debt for a certain period of time , the company can choose to pay off the bond early . This creates reinvestment risk , meaning the investor is forced to find a new place for his money , and the investor might not be able to find as good a deal , especially because this usually happens when interest rates are falling . === Bond indices ===</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-20-4" docsrc="Bond_(finance)">
+      <context> The <head>length</head> of time until the maturity date is often referred to as the term or tenor or maturity of a bond . The maturity can be any length of time , although debt securities with a term of less than one year are generally designated money market instruments rather than bonds . Most bonds have a term of up to 30 years .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-20-5" docsrc="Bond_(finance)">
+      <context> The <head>maturity</head> can be any length of time , although debt securities with a term of less than one year are generally designated money market instruments rather than bonds . Most bonds have a term of up to 30 years . Some bonds have been issued with terms of 50 years or more , and historically there have been some issues with no maturity date ( irredeemable ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-50-1" docsrc="Bond_(finance)">
+      <context> Others <head>===</head> Putability — Some bonds give the holder the right to force the issuer to repay the bond before the maturity date on the put dates ; see put option .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-63-1" docsrc="Bond_(finance)">
+      <context> Bonds <head>are</head> often identified by its international securities identification number , or ISIN , which is a 12 digit alphanumeric code that uniquely identifies debt securities . The following descriptions are not mutually exclusive , and more than one of them may apply to a particular bond . Convertible bonds let a bondholder exchange a bond to a number of shares of the issuer 's common stock .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-68-2" docsrc="Bond_(finance)">
+      <context> Convertible <head>bonds</head> let a bondholder exchange a bond to a number of shares of the issuer 's common stock . These are known as hybrid securities , because they combine equity and debt features . Exchangeable bonds allows for exchange to shares of a corporation other than the issuer .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-69-1" docsrc="Bond_(finance)">
+      <context> These <head>are</head> known as hybrid securities , because they combine equity and debt features . Exchangeable bonds allows for exchange to shares of a corporation other than the issuer . Registered bond is a bond whose ownership ( and any subsequent purchaser ) is recorded by the issuer , or by a transfer agent .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-78-3" docsrc="Bond_(finance)">
+      <context> It <head>is</head> the alternative to a Bearer bond . Interest payments , and the principal upon maturity are sent to the registered owner . Municipal bond is a bond issued by a state , U.S. Territory , city , local government , or their agencies .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-81-2" docsrc="Bond_(finance)">
+      <context> Municipal <head>bond</head> is a bond issued by a state , U.S. Territory , city , local government , or their agencies . Interest income received by holders of municipal bonds is often exempt from the federal income tax and from the income tax of the state in which they are issued , although municipal bonds issued for certain purposes may not be tax exempt . Lottery bonds are issued by European and other states .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-84-3" docsrc="Bond_(finance)">
+      <context> Interest <head>is</head> paid as on a traditional fixed rate bond , but the issuer will redeem randomly selected individual bonds within the issue according to a schedule . Some of these redemptions will be for a higher value than the face value of the bond . War bond is a bond issued by a government to fund military operations during war time .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-85-2" docsrc="Bond_(finance)">
+      <context> War <head>bond</head> is a bond issued by a government to fund military operations during war time . This type of bond has low return rate . Serial bond is a bond that matures in installments over a period of time .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-89-1" docsrc="Bond_(finance)">
+      <context> In <head>effect</head> , a $ 100,000 , 5-year serial bond would mature in a $ 20,000 annuity over a 5-year interval . Dual currency bonds Retail bonds are a type of corporate bond mostly designed for ordinary investors .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-95-1" docsrc="Bond_(finance)">
+      <context> === <head>Foreign</head> currencies === Some companies , banks , governments , and other sovereign entities may decide to issue bonds in foreign currencies as it may appear to be more stable and predictable than their domestic currency . Issuing bonds denominated in foreign currencies also gives issuers the ability to access investment capital available in foreign markets .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-95-6" docsrc="Bond_(finance)">
+      <context> Some <head>foreign</head> issuer bonds are called by their nicknames , such as the " samurai bond " . These can be issued by foreign issuers looking to diversify their investor base away from domestic markets . These bond issues are generally governed by the law of the market of issuance , e.g. , a samurai bond , issued by an investor based in Europe , will be governed by Japanese law .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-95-8" docsrc="Bond_(finance)">
+      <context> These <head>bond</head> issues are generally governed by the law of the market of issuance , e.g. , a samurai bond , issued by an investor based in Europe , will be governed by Japanese law . Not all of the following bonds are restricted for purchase by investors in the market of issuance . Baklava bond , a bond denominated in Turkish Lira and issued by a domestic or foreign entity in the Turkish market</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-97-1" docsrc="Bond_(finance)">
+      <context> Not <head>all</head> of the following bonds are restricted for purchase by investors in the market of issuance . Baklava bond , a bond denominated in Turkish Lira and issued by a domestic or foreign entity in the Turkish market Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-10-120-5" docsrc="Bond_(finance)">
+      <context> ( See also Accrual bond . ) The price excluding <head>accrued</head> interest is known as the " flat " or " clean price " . The interest rate divided by the current price of the bond is called the current yield ( this is the nominal yield multiplied by the par value and divided by the price ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-10-128-3" docsrc="Bond_(finance)">
+      <context> Insurance companies and pension funds have liabilities which essentially include <head>fixed</head> amounts payable on predetermined dates . They buy the bonds to match their liabilities , and may be compelled by law to do this . Most individuals who want to own bonds do so through bond funds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-10-132-4" docsrc="Bond_(finance)">
+      <context> This can be damaging for professional investors such as banks <head>,</head> insurance companies , pension funds and asset managers ( irrespective of whether the value is immediately " marked to market " or not ) . If there is any chance a holder of individual bonds may need to sell his bonds and " cash out " , interest rate risk could become a real problem ( conversely , bonds ' market prices would increase if the prevailing interest rate were to drop , as it did from 2001 through 2003 . One way to quantify the interest rate risk on a bond is in terms of its duration .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-10-133-1" docsrc="Bond_(finance)">
+      <context> Efforts to control this risk are called immunization or hedging <head>.</head> Bond prices can become volatile depending on the credit rating of the issuer – for instance if the credit rating agencies like Standard &amp; Poor 's and Moody 's upgrade or downgrade the credit rating of the issuer . An unanticipated downgrade will cause the market price of the bond to fall .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-10-7-2" docsrc="Bond_(finance)">
+      <context> In contrast , government bonds are usually issued in an <head>auction</head> . In some cases , both members of the public and banks may bid for bonds . In other cases , only market makers may bid for bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-119-1" docsrc="Bond_(finance)">
+      <context> At the time of issue of the bond , the interest <head>rate</head> and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer . The market price of a bond is the present value of all expected future interest and principal payments of the bond discounted at the bond 's yield to maturity , or rate of return . That relationship is the definition of the redemption yield on the bond , which is likely to be close to the current market interest rate for other bonds with similar characteristics .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-124-2" docsrc="Bond_(finance)">
+      <context> Bond markets can also differ from stock markets in that , <head>in</head> some markets , investors sometimes do not pay brokerage commissions to dealers with whom they buy or sell bonds . Rather , the dealers earn revenue by means of the spread , or difference , between the price at which the dealer buys a bond from one investor—the " bid " price—and the price at which he or she sells the same bond to another investor—the " ask " or " offer " price .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-128-4" docsrc="Bond_(finance)">
+      <context> They buy the bonds to match their liabilities , and may <head>be</head> compelled by law to do this . Most individuals who want to own bonds do so through bond funds . Still , in the U.S. , nearly 10 % of all bonds outstanding are held directly by households .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-33-2" docsrc="Bond_(finance)">
+      <context> The yield to maturity , or redemption yield , which is <head>a</head> more useful measure of the return of the bond . This takes into account the current market price , and the amount and timing of all remaining coupon payments and of the repayment due on maturity . It is equivalent to the internal rate of return of a bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-50-3" docsrc="Bond_(finance)">
+      <context> Some bonds give the holder the right to force the issuer <head>to</head> repay the bond before the maturity date on the put dates ; see put option . These are referred to as retractable or putable bonds . Call dates and put dates—the dates on which callable and putable bonds can be redeemed early .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-8-2" docsrc="Bond_(finance)">
+      <context> In the case of an underwritten bond , the underwriters will <head>charge</head> a fee for underwriting . An alternative process for bond issuance , which is commonly used for smaller issues and avoids this cost , is the private placement bond . Bonds sold directly to buyers may not be tradeable in the bond market .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-12-124-3" docsrc="Bond_(finance)">
+      <context> Rather , the dealers earn revenue by means of the spread , <head>or</head> difference , between the price at which the dealer buys a bond from one investor—the " bid " price—and the price at which he or she sells the same bond to another investor—the " ask " or " offer " price . The bid/offer spread represents the total transaction cost associated with transferring a bond from one investor to another .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-12-133-2" docsrc="Bond_(finance)">
+      <context> Bond prices can become volatile depending on the credit rating of the <head>issuer</head> – for instance if the credit rating agencies like Standard &amp; Poor 's and Moody 's upgrade or downgrade the credit rating of the issuer . An unanticipated downgrade will cause the market price of the bond to fall . As with interest rate risk , this risk does not affect the bond 's interest payments ( provided the issuer does not actually default ) , but puts at risk the market price , which affects mutual funds holding these bonds , and holders of individual bonds who may have to sell them .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-12-30-1" docsrc="Bond_(finance)">
+      <context> Coupon === === Yield === The yield is the rate of return <head>received</head> from investing in the bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-13-0-4" docsrc="Bond_(finance)">
+      <context> Interest is usually payable at fixed intervals ( semiannual , annual , sometimes <head>monthly</head> ) . Very often the bond is negotiable , that is , the ownership of the instrument can be transferred in the secondary market . This means that once the transfer agents at the bank medallion stamp the bond , it is highly liquid on the second market .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-13-131-2" docsrc="Bond_(finance)">
+      <context> Bonds are also subject to various other risks such as call and prepayment <head>risk</head> , credit risk , reinvestment risk , liquidity risk , event risk , exchange rate risk , volatility risk , inflation risk , sovereign risk and yield curve risk . Again , some of these will only affect certain classes of investors . Price changes in a bond will immediately affect mutual funds that hold these bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-13-57-2" docsrc="Bond_(finance)">
+      <context> Sinking fund provision of the corporate bond indenture requires a certain portion of <head>the</head> issue to be retired periodically . The entire bond issue can be liquidated by the maturity date ; if not , the remainder is called balloon maturity . Issuers may either pay to trustees , which in turn call randomly selected bonds in the issue , or , alternatively , purchase bonds in open market , then return them to trustees .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-14-20-6" docsrc="Bond_(finance)">
+      <context> Most bonds have a term of up to 30 years . Some bonds have <head>been</head> issued with terms of 50 years or more , and historically there have been some issues with no maturity date ( irredeemable ) . In the market for United States Treasury securities , there are three categories of bond maturities :</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-14-50-1" docsrc="Bond_(finance)">
+      <context> Others === Putability — Some bonds give the holder the right to force the <head>issuer</head> to repay the bond before the maturity date on the put dates ; see put option .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-14-7-1" docsrc="Bond_(finance)">
+      <context> An exception is an irredeemable bond , such as a consol , which is <head>a</head> perpetuity , that is , a bond with no maturity . In contrast , government bonds are usually issued in an auction . In some cases , both members of the public and banks may bid for bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-14-8-3" docsrc="Bond_(finance)">
+      <context> An alternative process for bond issuance , which is commonly used for smaller issues <head>and</head> avoids this cost , is the private placement bond . Bonds sold directly to buyers may not be tradeable in the bond market . Historically an alternative practice of issuance was for the borrowing government authority to issue bonds over a period of time , usually at a fixed price , with volumes sold on a particular day dependent on market conditions .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-15-132-3" docsrc="Bond_(finance)">
+      <context> If the value of the bonds in their trading portfolio falls , the value of <head>the</head> portfolio also falls . This can be damaging for professional investors such as banks , insurance companies , pension funds and asset managers ( irrespective of whether the value is immediately " marked to market " or not ) . If there is any chance a holder of individual bonds may need to sell his bonds and " cash out " , interest rate risk could become a real problem ( conversely , bonds ' market prices would increase if the prevailing interest rate were to drop , as it did from 2001 through 2003 .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-15-7-3" docsrc="Bond_(finance)">
+      <context> In some cases , both members of the public and banks may bid for bonds <head>.</head> In other cases , only market makers may bid for bonds . The overall rate of return on the bond depends on both the terms of the bond and the price paid .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-15-94-1" docsrc="Bond_(finance)">
+      <context> Social impact bonds are an agreement for public sector entities to pay back private investors <head>after</head> meeting verified improved social outcome goals that result in public sector savings from innovative social program pilot projects . === Foreign currencies === Some companies , banks , governments , and other sovereign entities may decide to issue bonds in foreign currencies as it may appear to be more stable and predictable than their domestic currency .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-15-95-4" docsrc="Bond_(finance)">
+      <context> The proceeds from the issuance of these bonds can be used by companies to break <head>into</head> foreign markets , or can be converted into the issuing company 's local currency to be used on existing operations through the use of foreign exchange swap hedges . Foreign issuer bonds can also be used to hedge foreign exchange rate risk . Some foreign issuer bonds are called by their nicknames , such as the " samurai bond " .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-16-141-2" docsrc="Bond_(finance)">
+      <context> A number of bond indices exist for the purposes of managing portfolios and measuring performance , <head>similar</head> to the S&amp;P 500 or Russell Indexes for stocks . The most common American benchmarks are the Barclays Capital Aggregate ( ex Lehman Aggregate ) , Citigroup BIG and Merrill Lynch Domestic Master . Most indices are parts of families of broader indices that can be used to measure global bond portfolios , or may be further subdivided by maturity and/or sector for managing specialized portfolios .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-16-84-2" docsrc="Bond_(finance)">
+      <context> Lottery bonds are issued by European and other states . Interest is paid as on a <head>traditional</head> fixed rate bond , but the issuer will redeem randomly selected individual bonds within the issue according to a schedule . Some of these redemptions will be for a higher value than the face value of the bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-17-103-1" docsrc="Bond_(finance)">
+      <context> Baklava bond , a bond denominated in Turkish Lira and issued by a domestic or foreign entity <head>in</head> the Turkish market Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks . At the time of issue of the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-17-2-3" docsrc="Bond_(finance)">
+      <context> Being a creditor , bondholders have priority over stockholders . This means they will be repaid in <head>advance</head> of stockholders , but will rank behind secured creditors in the event of bankruptcy . Another difference is that bonds usually have a defined term , or maturity , after which the bond is redeemed , whereas stocks are typically outstanding indefinitely .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-18-119-3" docsrc="Bond_(finance)">
+      <context> That relationship is the definition of the redemption yield on the bond , which is likely to be <head>close</head> to the current market interest rate for other bonds with similar characteristics . ( Otherwise there would be arbitrage opportunities . ) The yield and price of a bond are inversely related so that when market interest rates rise , bond prices fall and vice versa .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-18-20-1" docsrc="Bond_(finance)">
+      <context> Maturity === The issuer has to repay the nominal amount on the maturity date . As long as <head>all</head> due payments have been made , the issuer has no further obligations to the bond holders after the maturity date .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-19-58-1" docsrc="Bond_(finance)">
+      <context> Issuers may either pay to trustees , which in turn call randomly selected bonds in the issue , or <head>,</head> alternatively , purchase bonds in open market , then return them to trustees . Bonds are often identified by its international securities identification number , or ISIN , which is a 12 digit alphanumeric code that uniquely identifies debt securities . The following descriptions are not mutually exclusive , and more than one of them may apply to a particular bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-19-84-1" docsrc="Bond_(finance)">
+      <context> Interest income received by holders of municipal bonds is often exempt from the federal income tax and from the <head>income</head> tax of the state in which they are issued , although municipal bonds issued for certain purposes may not be tax exempt . Lottery bonds are issued by European and other states . Interest is paid as on a traditional fixed rate bond , but the issuer will redeem randomly selected individual bonds within the issue according to a schedule .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-19-90-1" docsrc="Bond_(finance)">
+      <context> Dual currency bonds Retail bonds are a type of corporate bond mostly designed for ordinary investors . They have <head>become</head> particularly attractive since the London Stock Exchange ( LSE ) launched an order book for retail bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-19-95-6" docsrc="Bond_(finance)">
+      <context> Some foreign issuer bonds are called by their nicknames , such as the " samurai bond " . These <head>can</head> be issued by foreign issuers looking to diversify their investor base away from domestic markets . These bond issues are generally governed by the law of the market of issuance , e.g. , a samurai bond , issued by an investor based in Europe , will be governed by Japanese law .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-120-1" docsrc="Bond_(finance)">
+      <context> The yield <head>and</head> price of a bond are inversely related so that when market interest rates rise , bond prices fall and vice versa . The market price of a bond may be quoted including the accrued interest since the last coupon date . ( Some bond markets include accrued interest in the trading price and others add it on separately when settlement is made . )</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-16-1" docsrc="Bond_(finance)">
+      <context> === Principal <head>===</head> Nominal , principal , par , or face amount is the amount on which the issuer pays interest , and which , most commonly , has to be repaid at the end of the term . Some structured bonds can have a redemption amount which is different from the face amount and can be linked to performance of particular assets .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-57-1" docsrc="Bond_(finance)">
+      <context> This is <head>also</head> known as a " survivor 's option " . Sinking fund provision of the corporate bond indenture requires a certain portion of the issue to be retired periodically . The entire bond issue can be liquidated by the maturity date ; if not , the remainder is called balloon maturity .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-86-2" docsrc="Bond_(finance)">
+      <context> Serial bond <head>is</head> a bond that matures in installments over a period of time . In effect , a $ 100,000 , 5-year serial bond would mature in a $ 20,000 annuity over a 5-year interval . Dual currency bonds</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-90-2" docsrc="Bond_(finance)">
+      <context> Retail bonds <head>are</head> a type of corporate bond mostly designed for ordinary investors . They have become particularly attractive since the London Stock Exchange ( LSE ) launched an order book for retail bonds . Social impact bonds are an agreement for public sector entities to pay back private investors after meeting verified improved social outcome goals that result in public sector savings from innovative social program pilot projects .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-95-3" docsrc="Bond_(finance)">
+      <context> Issuing bonds <head>denominated</head> in foreign currencies also gives issuers the ability to access investment capital available in foreign markets . The proceeds from the issuance of these bonds can be used by companies to break into foreign markets , or can be converted into the issuing company 's local currency to be used on existing operations through the use of foreign exchange swap hedges . Foreign issuer bonds can also be used to hedge foreign exchange rate risk .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-20-117-1" docsrc="Bond_(finance)">
+      <context> Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks . At <head>the</head> time of issue of the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer . The market price of a bond is the present value of all expected future interest and principal payments of the bond discounted at the bond 's yield to maturity , or rate of return .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-20-32-1" docsrc="Bond_(finance)">
+      <context> It usually refers either to The current yield , or running yield , which is simply the annual interest payment <head>divided</head> by the current market price of the bond ( often the clean price ) . The yield to maturity , or redemption yield , which is a more useful measure of the return of the bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-21-2-4" docsrc="Bond_(finance)">
+      <context> This means they will be repaid in advance of stockholders , but will rank behind secured creditors in the event of <head>bankruptcy</head> . Another difference is that bonds usually have a defined term , or maturity , after which the bond is redeemed , whereas stocks are typically outstanding indefinitely . An exception is an irredeemable bond , such as a consol , which is a perpetuity , that is , a bond with no maturity .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-21-20-2" docsrc="Bond_(finance)">
+      <context> The issuer has to repay the nominal amount on the maturity date . As long as all due payments have been <head>made</head> , the issuer has no further obligations to the bond holders after the maturity date . The length of time until the maturity date is often referred to as the term or tenor or maturity of a bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-22-135-2" docsrc="Bond_(finance)">
+      <context> There is no guarantee of how much money will remain to repay bondholders . As an example , after an accounting scandal <head>and</head> a Chapter 11 bankruptcy at the giant telecommunications company Worldcom , in 2004 its bondholders ended up being paid 35.7 cents on the dollar . In a bankruptcy involving reorganization or recapitalization , as opposed to liquidation , bondholders may end up having the value of their bonds reduced , often through an exchange for a smaller number of newly issued bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-23-0-1" docsrc="Bond_(finance)">
+      <context> In finance , a bond is an instrument of indebtedness of the bond issuer to the holders . It is a debt security <head>,</head> under which the issuer owes the holders a debt and , depending on the terms of the bond , is obliged to pay them interest ( the coupon ) and/or to repay the principal at a later date , termed the maturity date .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-23-31-2" docsrc="Bond_(finance)">
+      <context> The yield is the rate of return received from investing in the bond . It usually refers either to The current yield , <head>or</head> running yield , which is simply the annual interest payment divided by the current market price of the bond ( often the clean price ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-23-57-2" docsrc="Bond_(finance)">
+      <context> Sinking fund provision of the corporate bond indenture requires a certain portion of the issue to be retired periodically . The entire bond <head>issue</head> can be liquidated by the maturity date ; if not , the remainder is called balloon maturity . Issuers may either pay to trustees , which in turn call randomly selected bonds in the issue , or , alternatively , purchase bonds in open market , then return them to trustees .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-23-8-1" docsrc="Bond_(finance)">
+      <context> The terms of the bond , such as the coupon , are fixed in advance and the price is determined by the market <head>.</head> In the case of an underwritten bond , the underwriters will charge a fee for underwriting . An alternative process for bond issuance , which is commonly used for smaller issues and avoids this cost , is the private placement bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-24-117-1" docsrc="Bond_(finance)">
+      <context> Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks . At the time of issue <head>of</head> the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer . The market price of a bond is the present value of all expected future interest and principal payments of the bond discounted at the bond 's yield to maturity , or rate of return .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-24-124-1" docsrc="Bond_(finance)">
+      <context> The yield curve is a graph plotting this relationship . Bond markets can also differ from stock markets in that , in some markets <head>,</head> investors sometimes do not pay brokerage commissions to dealers with whom they buy or sell bonds . Rather , the dealers earn revenue by means of the spread , or difference , between the price at which the dealer buys a bond from one investor—the " bid "</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-27-119-1" docsrc="Bond_(finance)">
+      <context> At the time of issue of the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors <head>,</head> such as current market interest rates , the length of the term and the creditworthiness of the issuer . The market price of a bond is the present value of all expected future interest and principal payments of the bond discounted at the bond 's yield to maturity , or rate of return . That relationship is the definition of the redemption yield on the bond , which is likely to be close to the current market interest rate for other bonds with similar characteristics .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-28-20-3" docsrc="Bond_(finance)">
+      <context> As long as all due payments have been made , the issuer has no further obligations to the bond holders after the maturity date . The length of <head>time</head> until the maturity date is often referred to as the term or tenor or maturity of a bond . The maturity can be any length of time , although debt securities with a term of less than one year are generally designated money market instruments rather than bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-28-54-1" docsrc="Bond_(finance)">
+      <context> This is a special case of a Bermudan callable . An American callable can be called at any time until the maturity date . A death put is <head>an</head> optional redemption feature on a debt instrument allowing the beneficiary of the estate of a deceased bondholder to put ( sell ) the bond back to the issuer at face value in the event of the bondholder 's death or legal incapacitation .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-29-121-2" docsrc="Bond_(finance)">
+      <context> The interest rate divided by the current price of the bond is called the current yield ( this is the nominal yield multiplied by the par value and divided <head>by</head> the price ) . There are other yield measures that exist such as the yield to first call , yield to worst , yield to first par call , yield to put , cash flow yield and yield to maturity . The relationship between yield and term to maturity ( or alternatively between yield and the weighted mean term allowing for both interest and capital repayment ) for otherwise identical bonds is called a yield curve .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-0-3" docsrc="Bond_(finance)">
+      <context> It is a <head>debt</head> security , under which the issuer owes the holders a debt and , depending on the terms of the bond , is obliged to pay them interest ( the coupon ) and/or to repay the principal at a later date , termed the maturity date . Interest is usually payable at fixed intervals ( semiannual , annual , sometimes monthly ) . Very often the bond is negotiable , that is , the ownership of the instrument can be transferred in the secondary market .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-128-2" docsrc="Bond_(finance)">
+      <context> Bonds are bought <head>and</head> traded mostly by institutions like central banks , sovereign wealth funds , pension funds , insurance companies , hedge funds , and banks . Insurance companies and pension funds have liabilities which essentially include fixed amounts payable on predetermined dates . They buy the bonds to match their liabilities , and may be compelled by law to do this .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-139-1" docsrc="Bond_(finance)">
+      <context> This creates reinvestment <head>risk</head> , meaning the investor is forced to find a new place for his money , and the investor might not be able to find as good a deal , especially because this usually happens when interest rates are falling . === Bond indices === A number of bond indices exist for the purposes of managing portfolios and measuring performance , similar to the S&amp;P 500 or Russell Indexes for stocks .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-22-1" docsrc="Bond_(finance)">
+      <context> short term ( <head>bills</head> ) : maturities between one to five year ; ( instruments with maturities less than one year are called Money Market Instruments ) medium term ( notes ) : maturities between six to twelve years ; long term ( bonds ) : maturities greater than twelve years .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-85-1" docsrc="Bond_(finance)">
+      <context> Some of these <head>redemptions</head> will be for a higher value than the face value of the bond . War bond is a bond issued by a government to fund military operations during war time . This type of bond has low return rate .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-95-4" docsrc="Bond_(finance)">
+      <context> The proceeds from <head>the</head> issuance of these bonds can be used by companies to break into foreign markets , or can be converted into the issuing company 's local currency to be used on existing operations through the use of foreign exchange swap hedges . Foreign issuer bonds can also be used to hedge foreign exchange rate risk . Some foreign issuer bonds are called by their nicknames , such as the " samurai bond " .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-30-122-2" docsrc="Bond_(finance)">
+      <context> The relationship between yield and term to maturity ( or alternatively between yield and the weighted mean term allowing for both interest and capital repayment ) for otherwise identical bonds <head>is</head> called a yield curve . The yield curve is a graph plotting this relationship . Bond markets can also differ from stock markets in that , in some markets , investors sometimes do not pay brokerage commissions to dealers with whom they buy or sell bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-32-81-1" docsrc="Bond_(finance)">
+      <context> Interest payments , and the principal upon maturity are sent to the registered owner . Municipal bond is a bond issued by a state , U.S. Territory , city , local government <head>,</head> or their agencies . Interest income received by holders of municipal bonds is often exempt from the federal income tax and from the income tax of the state in which they are issued , although municipal bonds issued for certain purposes may not be tax exempt .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-33-132-3" docsrc="Bond_(finance)">
+      <context> If the value of the bonds in their trading portfolio falls , the value of the portfolio also falls . This can be damaging for professional investors such as banks , insurance companies <head>,</head> pension funds and asset managers ( irrespective of whether the value is immediately " marked to market " or not ) . If there is any chance a holder of individual bonds may need to sell his bonds and " cash out " , interest rate risk could become a real problem ( conversely , bonds ' market prices would increase if the prevailing interest rate were to drop , as it did from 2001 through 2003 .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-35-40-1" docsrc="Bond_(finance)">
+      <context> === Credit quality === === Market price === The market price of a tradeable bond will be influenced , amongst other factors , by the amounts , currency and timing of the interest payments and <head>capital</head> repayment due , the quality of the bond , and the available redemption yield of other comparable bonds which can be traded in the markets .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-36-135-2" docsrc="Bond_(finance)">
+      <context> There is no guarantee of how much money will remain to repay bondholders . As an example , after an accounting scandal and a Chapter 11 bankruptcy at the giant telecommunications company Worldcom , in 2004 <head>its</head> bondholders ended up being paid 35.7 cents on the dollar . In a bankruptcy involving reorganization or recapitalization , as opposed to liquidation , bondholders may end up having the value of their bonds reduced , often through an exchange for a smaller number of newly issued bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-36-135-3" docsrc="Bond_(finance)">
+      <context> As an example , after an accounting scandal and a Chapter 11 bankruptcy at the giant telecommunications company Worldcom , in 2004 its bondholders ended up being paid 35.7 cents on the dollar . In a <head>bankruptcy</head> involving reorganization or recapitalization , as opposed to liquidation , bondholders may end up having the value of their bonds reduced , often through an exchange for a smaller number of newly issued bonds . Some bonds are callable , meaning that even though the company has agreed to make payments plus interest towards the debt for a certain period of time , the company can choose to pay off the bond early .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-120-3" docsrc="Bond_(finance)">
+      <context> ( Some bond markets <head>include</head> accrued interest in the trading price and others add it on separately when settlement is made . ) The price including accrued interest is known as the " full " or " dirty price " . ( See also Accrual bond . )</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-131-2" docsrc="Bond_(finance)">
+      <context> Bonds are also subject <head>to</head> various other risks such as call and prepayment risk , credit risk , reinvestment risk , liquidity risk , event risk , exchange rate risk , volatility risk , inflation risk , sovereign risk and yield curve risk . Again , some of these will only affect certain classes of investors . Price changes in a bond will immediately affect mutual funds that hold these bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-153-1" docsrc="Bond_(finance)">
+      <context> Bonds links at DMOZ <head>Estate</head> planner victimized terminally ill , FBI List of World Government Bonds on Investing.com</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-2-3" docsrc="Bond_(finance)">
+      <context> Being a creditor , <head>bondholders</head> have priority over stockholders . This means they will be repaid in advance of stockholders , but will rank behind secured creditors in the event of bankruptcy . Another difference is that bonds usually have a defined term , or maturity , after which the bond is redeemed , whereas stocks are typically outstanding indefinitely .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-2-5" docsrc="Bond_(finance)">
+      <context> Another difference is that <head>bonds</head> usually have a defined term , or maturity , after which the bond is redeemed , whereas stocks are typically outstanding indefinitely . An exception is an irredeemable bond , such as a consol , which is a perpetuity , that is , a bond with no maturity . In contrast , government bonds are usually issued in an auction .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-69-1" docsrc="Bond_(finance)">
+      <context> These are known as <head>hybrid</head> securities , because they combine equity and debt features . Exchangeable bonds allows for exchange to shares of a corporation other than the issuer . Registered bond is a bond whose ownership ( and any subsequent purchaser ) is recorded by the issuer , or by a transfer agent .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-7-4" docsrc="Bond_(finance)">
+      <context> In other cases , <head>only</head> market makers may bid for bonds . The overall rate of return on the bond depends on both the terms of the bond and the price paid . The terms of the bond , such as the coupon , are fixed in advance and the price is determined by the market .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-78-3" docsrc="Bond_(finance)">
+      <context> It is the alternative <head>to</head> a Bearer bond . Interest payments , and the principal upon maturity are sent to the registered owner . Municipal bond is a bond issued by a state , U.S. Territory , city , local government , or their agencies .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-8-1" docsrc="Bond_(finance)">
+      <context> The terms of the <head>bond</head> , such as the coupon , are fixed in advance and the price is determined by the market . In the case of an underwritten bond , the underwriters will charge a fee for underwriting . An alternative process for bond issuance , which is commonly used for smaller issues and avoids this cost , is the private placement bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-84-3" docsrc="Bond_(finance)">
+      <context> Interest is paid as <head>on</head> a traditional fixed rate bond , but the issuer will redeem randomly selected individual bonds within the issue according to a schedule . Some of these redemptions will be for a higher value than the face value of the bond . War bond is a bond issued by a government to fund military operations during war time .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-85-2" docsrc="Bond_(finance)">
+      <context> War bond is a <head>bond</head> issued by a government to fund military operations during war time . This type of bond has low return rate . Serial bond is a bond that matures in installments over a period of time .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-95-8" docsrc="Bond_(finance)">
+      <context> These bond issues are <head>generally</head> governed by the law of the market of issuance , e.g. , a samurai bond , issued by an investor based in Europe , will be governed by Japanese law . Not all of the following bonds are restricted for purchase by investors in the market of issuance . Baklava bond , a bond denominated in Turkish Lira and issued by a domestic or foreign entity in the Turkish market</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-40-133-2" docsrc="Bond_(finance)">
+      <context> Bond prices can become volatile depending on the credit rating of the issuer – for instance if the credit rating agencies like Standard &amp; Poor 's and Moody 's upgrade or downgrade the credit rating of the issuer . An <head>unanticipated</head> downgrade will cause the market price of the bond to fall . As with interest rate risk , this risk does not affect the bond 's interest payments ( provided the issuer does not actually default ) , but puts at risk the market price , which affects mutual funds holding these bonds , and holders of individual bonds who may have to sell them .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-45-40-1" docsrc="Bond_(finance)">
+      <context> === Credit quality === === Market price === The market price of a tradeable bond will be influenced , amongst other factors , by the amounts , currency and timing of the interest payments and capital repayment due , the quality of the bond , <head>and</head> the available redemption yield of other comparable bonds which can be traded in the markets .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-46-133-2" docsrc="Bond_(finance)">
+      <context> Bond prices can become volatile depending on the credit rating of the issuer – for instance if the credit rating agencies like Standard &amp; Poor 's and Moody 's upgrade or downgrade the credit rating of the issuer . An unanticipated downgrade will cause the market <head>price</head> of the bond to fall . As with interest rate risk , this risk does not affect the bond 's interest payments ( provided the issuer does not actually default ) , but puts at risk the market price , which affects mutual funds holding these bonds , and holders of individual bonds who may have to sell them .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-117-1" docsrc="Bond_(finance)">
+      <context> Shibosai Bond , a private <head>placement</head> bond in the Japanese market with distribution limited to institutions and banks . At the time of issue of the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer . The market price of a bond is the present value of all expected future interest and principal payments of the bond discounted at the bond 's yield to maturity , or rate of return .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-119-4" docsrc="Bond_(finance)">
+      <context> ( Otherwise there would be <head>arbitrage</head> opportunities . ) The yield and price of a bond are inversely related so that when market interest rates rise , bond prices fall and vice versa . The market price of a bond may be quoted including the accrued interest since the last coupon date .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-132-1" docsrc="Bond_(finance)">
+      <context> Again , some of these <head>will</head> only affect certain classes of investors . Price changes in a bond will immediately affect mutual funds that hold these bonds . If the value of the bonds in their trading portfolio falls , the value of the portfolio also falls .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-2-4" docsrc="Bond_(finance)">
+      <context> This means they will be <head>repaid</head> in advance of stockholders , but will rank behind secured creditors in the event of bankruptcy . Another difference is that bonds usually have a defined term , or maturity , after which the bond is redeemed , whereas stocks are typically outstanding indefinitely . An exception is an irredeemable bond , such as a consol , which is a perpetuity , that is , a bond with no maturity .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-43-2" docsrc="Bond_(finance)">
+      <context> The issue price at which <head>investors</head> buy the bonds when they are first issued will typically be approximately equal to the nominal amount . The net proceeds that the issuer receives are thus the issue price , less issuance fees . The market price of the bond will vary over its life : it may trade at a premium ( above par , usually because market interest rates have fallen since issue ) , or at a discount ( price below par , if market rates have risen or there is a high probability of default on the bond ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-95-7" docsrc="Bond_(finance)">
+      <context> These can be issued by <head>foreign</head> issuers looking to diversify their investor base away from domestic markets . These bond issues are generally governed by the law of the market of issuance , e.g. , a samurai bond , issued by an investor based in Europe , will be governed by Japanese law . Not all of the following bonds are restricted for purchase by investors in the market of issuance .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-57-43-2" docsrc="Bond_(finance)">
+      <context> The issue price at which investors buy the bonds when they are first issued will typically be approximately equal to the nominal amount . The net proceeds that the issuer receives are thus the issue price , less issuance fees . The market price of the bond will vary over its life : it may trade at <head>a</head> premium ( above par , usually because market interest rates have fallen since issue ) , or at a discount ( price below par , if market rates have risen or there is a high probability of default on the bond ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-119-3" docsrc="Bond_(finance)">
+      <context> That relationship is the definition of <head>the</head> redemption yield on the bond , which is likely to be close to the current market interest rate for other bonds with similar characteristics . ( Otherwise there would be arbitrage opportunities . ) The yield and price of a bond are inversely related so that when market interest rates rise , bond prices fall and vice versa .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-128-3" docsrc="Bond_(finance)">
+      <context> Insurance companies and pension funds have <head>liabilities</head> which essentially include fixed amounts payable on predetermined dates . They buy the bonds to match their liabilities , and may be compelled by law to do this . Most individuals who want to own bonds do so through bond funds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-40-1" docsrc="Bond_(finance)">
+      <context> === Credit quality === === Market <head>price</head> === The market price of a tradeable bond will be influenced , amongst other factors , by the amounts , currency and timing of the interest payments and capital repayment due , the quality of the bond , and the available redemption yield of other comparable bonds which can be traded in the markets .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-55-2" docsrc="Bond_(finance)">
+      <context> A death put is an optional <head>redemption</head> feature on a debt instrument allowing the beneficiary of the estate of a deceased bondholder to put ( sell ) the bond back to the issuer at face value in the event of the bondholder 's death or legal incapacitation . This is also known as a " survivor 's option " . Sinking fund provision of the corporate bond indenture requires a certain portion of the issue to be retired periodically .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-7-5" docsrc="Bond_(finance)">
+      <context> The overall rate of return on <head>the</head> bond depends on both the terms of the bond and the price paid . The terms of the bond , such as the coupon , are fixed in advance and the price is determined by the market . In the case of an underwritten bond , the underwriters will charge a fee for underwriting .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-97-1" docsrc="Bond_(finance)">
+      <context> Not all of the following bonds <head>are</head> restricted for purchase by investors in the market of issuance . Baklava bond , a bond denominated in Turkish Lira and issued by a domestic or foreign entity in the Turkish market Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-103-1" docsrc="Bond_(finance)">
+      <context> Baklava bond , a bond denominated in <head>Turkish</head> Lira and issued by a domestic or foreign entity in the Turkish market Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks . At the time of issue of the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-63-1" docsrc="Bond_(finance)">
+      <context> Bonds are often identified by its international <head>securities</head> identification number , or ISIN , which is a 12 digit alphanumeric code that uniquely identifies debt securities . The following descriptions are not mutually exclusive , and more than one of them may apply to a particular bond . Convertible bonds let a bondholder exchange a bond to a number of shares of the issuer 's common stock .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-7-3" docsrc="Bond_(finance)">
+      <context> In some cases , both members of <head>the</head> public and banks may bid for bonds . In other cases , only market makers may bid for bonds . The overall rate of return on the bond depends on both the terms of the bond and the price paid .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-78-1" docsrc="Bond_(finance)">
+      <context> Exchangeable bonds allows for exchange to shares <head>of</head> a corporation other than the issuer . Registered bond is a bond whose ownership ( and any subsequent purchaser ) is recorded by the issuer , or by a transfer agent . It is the alternative to a Bearer bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-81-1" docsrc="Bond_(finance)">
+      <context> Interest payments , and the principal upon <head>maturity</head> are sent to the registered owner . Municipal bond is a bond issued by a state , U.S. Territory , city , local government , or their agencies . Interest income received by holders of municipal bonds is often exempt from the federal income tax and from the income tax of the state in which they are issued , although municipal bonds issued for certain purposes may not be tax exempt .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-89-1" docsrc="Bond_(finance)">
+      <context> In effect , a $ 100,000 , <head>5-year</head> serial bond would mature in a $ 20,000 annuity over a 5-year interval . Dual currency bonds Retail bonds are a type of corporate bond mostly designed for ordinary investors .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-9-1" docsrc="Bond_(finance)">
+      <context> Bonds sold directly to buyers may not <head>be</head> tradeable in the bond market . Historically an alternative practice of issuance was for the borrowing government authority to issue bonds over a period of time , usually at a fixed price , with volumes sold on a particular day dependent on market conditions . This was called a tap issue or bond tap .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-95-2" docsrc="Bond_(finance)">
+      <context> Some companies , banks , governments , <head>and</head> other sovereign entities may decide to issue bonds in foreign currencies as it may appear to be more stable and predictable than their domestic currency . Issuing bonds denominated in foreign currencies also gives issuers the ability to access investment capital available in foreign markets . The proceeds from the issuance of these bonds can be used by companies to break into foreign markets , or can be converted into the issuing company 's local currency to be used on existing operations through the use of foreign exchange swap hedges .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-8-42-2" docsrc="Bond_(finance)">
+      <context> The price can be quoted as clean or <head>dirty</head> . " Dirty " includes the present value of all future cash flows , including accrued interest , and is most often used in Europe . " Clean " does not include accrued interest , and is most often used in the U.S. The issue price at which investors buy the bonds when they are first issued will typically be approximately equal to the nominal amount .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-8-50-2" docsrc="Bond_(finance)">
+      <context> Putability — Some bonds give the holder the <head>right</head> to force the issuer to repay the bond before the maturity date on the put dates ; see put option . These are referred to as retractable or putable bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-9-132-3" docsrc="Bond_(finance)">
+      <context> If the value of the bonds in their trading <head>portfolio</head> falls , the value of the portfolio also falls . This can be damaging for professional investors such as banks , insurance companies , pension funds and asset managers ( irrespective of whether the value is immediately " marked to market " or not ) . If there is any chance a holder of individual bonds may need to sell his bonds and " cash out " , interest rate risk could become a real problem ( conversely , bonds ' market prices would increase if the prevailing interest rate were to drop , as it did from 2001 through 2003 .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-9-84-1" docsrc="Bond_(finance)">
+      <context> Interest income received by holders of municipal bonds is <head>often</head> exempt from the federal income tax and from the income tax of the state in which they are issued , although municipal bonds issued for certain purposes may not be tax exempt . Lottery bonds are issued by European and other states . Interest is paid as on a traditional fixed rate bond , but the issuer will redeem randomly selected individual bonds within the issue according to a schedule .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-9-86-1" docsrc="Bond_(finance)">
+      <context> This type of bond has low return rate . <head>Serial</head> bond is a bond that matures in installments over a period of time . In effect , a $ 100,000 , 5-year serial bond would mature in a $ 20,000 annuity over a 5-year interval .</context>
+    </instance>
+    <instance id="Bond_market-bond-0-12-1" docsrc="Bond_market">
+      <context> <head>Municipal</head> Funding Bond market participants are similar to participants in most financial markets and are essentially either buyers ( debt issuer ) of funds or sellers ( institution ) of funds and often both .</context>
+    </instance>
+    <instance id="Bond_market-bond-0-46-3" docsrc="Bond_market">
+      <context> <head>But</head> now I would like to come back as the bond market . You can intimidate everybody . Bonds typically trade in $ 1,000 increments and are priced as a percentage of par value ( 100 % ) .</context>
+    </instance>
+    <instance id="Bond_market-bond-0-52-2" docsrc="Bond_market">
+      <context> <head>Because</head> most bonds have predictable income , they are typically purchased as part of a more conservative investment scheme . Nevertheless , investors have the ability to actively trade bonds , especially corporate bonds and municipal bonds with the market and can make or lose money depending on economic , interest rate , and issuer factors . Bond interest is taxed as ordinary income , in contrast to dividend income , which receives favorable taxation rates .</context>
+    </instance>
+    <instance id="Bond_market-bond-1-26-1" docsrc="Bond_market">
+      <context> In <head>the</head> United States , approximately 10 % of the market is held by private individuals . Amounts outstanding on the global bond market increased by 2 % in the twelve months to March 2012 to nearly $ 100 trillion . Domestic bonds accounted for 70 % of the total and international bonds for the remainder .</context>
+    </instance>
+    <instance id="Bond_market-bond-1-3-1" docsrc="Bond_market">
+      <context> This <head>is</head> usually in the form of bonds , but it may include notes , bills , and so on . An important part of the bond market is the government bond market , because of its size and liquidity . Government bonds are often used to compare other bonds to measure credit risk .</context>
+    </instance>
+    <instance id="Bond_market-bond-1-50-1" docsrc="Bond_market">
+      <context> You <head>can</head> intimidate everybody . Bonds typically trade in $ 1,000 increments and are priced as a percentage of par value ( 100 % ) . Many bonds have minimums imposed by the bond or the dealer .</context>
+    </instance>
+    <instance id="Bond_market-bond-10-0-2" docsrc="Bond_market">
+      <context> The bond market ( also debt market or credit market <head>)</head> is a financial market where participants can issue new debt , known as the primary market , or buy and sell debt securities , known as the secondary market . This is usually in the form of bonds , but it may include notes , bills , and so on . An important part of the bond market is the government bond market , because of its size and liquidity .</context>
+    </instance>
+    <instance id="Bond_market-bond-10-39-3" docsrc="Bond_market">
+      <context> When interest rates increase , the value of existing bonds <head>falls</head> , since new issues pay a higher yield . Likewise , when interest rates decrease , the value of existing bonds rises , since new issues pay a lower yield . This is the fundamental concept of bond market volatility—changes in bond prices are inverse to changes in interest rates .</context>
+    </instance>
+    <instance id="Bond_market-bond-10-46-1" docsrc="Bond_market">
+      <context> Fluctuating interest rates are part of a country 's monetary <head>policy</head> and bond market volatility is a response to expected monetary policy and economic changes . I used to think that if there was reincarnation , I wanted to come back as the president or the pope or as a .400 baseball hitter . But now I would like to come back as the bond market .</context>
+    </instance>
+    <instance id="Bond_market-bond-10-59-1" docsrc="Bond_market">
+      <context> However many government and municipal bonds are exempt from one <head>or</head> more types of taxation . A number of bond indices exist for the purposes of managing portfolios and measuring performance , similar to the S&amp;P 500 or Russell Indexes for stocks . The most common American benchmarks are the Barclays Capital Aggregate Bond Index , Citigroup BIG and Merrill Lynch Domestic Master .</context>
+    </instance>
+    <instance id="Bond_market-bond-11-26-1" docsrc="Bond_market">
+      <context> In the United States , approximately 10 % of the market <head>is</head> held by private individuals . Amounts outstanding on the global bond market increased by 2 % in the twelve months to March 2012 to nearly $ 100 trillion . Domestic bonds accounted for 70 % of the total and international bonds for the remainder .</context>
+    </instance>
+    <instance id="Bond_market-bond-11-39-2" docsrc="Bond_market">
+      <context> But participants who buy and sell bonds before maturity are exposed <head>to</head> many risks , most importantly changes in interest rates . When interest rates increase , the value of existing bonds falls , since new issues pay a higher yield . Likewise , when interest rates decrease , the value of existing bonds rises , since new issues pay a lower yield .</context>
+    </instance>
+    <instance id="Bond_market-bond-12-39-4" docsrc="Bond_market">
+      <context> Likewise , when interest rates decrease , the value of existing bonds <head>rises</head> , since new issues pay a lower yield . This is the fundamental concept of bond market volatility—changes in bond prices are inverse to changes in interest rates . Fluctuating interest rates are part of a country 's monetary policy and bond market volatility is a response to expected monetary policy and economic changes .</context>
+    </instance>
+    <instance id="Bond_market-bond-13-3-2" docsrc="Bond_market">
+      <context> An important part of the bond market is the government bond market , <head>because</head> of its size and liquidity . Government bonds are often used to compare other bonds to measure credit risk . Because of the inverse relationship between bond valuation and interest rates , the bond market is often used to indicate changes in interest rates or the shape of the yield curve , the measure of " cost of funding " .</context>
+    </instance>
+    <instance id="Bond_market-bond-13-3-3" docsrc="Bond_market">
+      <context> Government bonds are often used to compare other bonds to measure credit risk <head>.</head> Because of the inverse relationship between bond valuation and interest rates , the bond market is often used to indicate changes in interest rates or the shape of the yield curve , the measure of " cost of funding " . The Securities Industry and Financial Markets Association ( SIFMA ) classifies the broader bond market into five specific bond markets .</context>
+    </instance>
+    <instance id="Bond_market-bond-13-52-1" docsrc="Bond_market">
+      <context> For broker/dealers , however , anything smaller than a $ 100,000 trade is <head>viewed</head> as an " odd lot " . Because most bonds have predictable income , they are typically purchased as part of a more conservative investment scheme . Nevertheless , investors have the ability to actively trade bonds , especially corporate bonds and municipal bonds with the market and can make or lose money depending on economic , interest rate , and issuer factors .</context>
+    </instance>
+    <instance id="Bond_market-bond-16-52-1" docsrc="Bond_market">
+      <context> For broker/dealers , however , anything smaller than a $ 100,000 trade is viewed as an <head>"</head> odd lot " . Because most bonds have predictable income , they are typically purchased as part of a more conservative investment scheme . Nevertheless , investors have the ability to actively trade bonds , especially corporate bonds and municipal bonds with the market and can make or lose money depending on economic , interest rate , and issuer factors .</context>
+    </instance>
+    <instance id="Bond_market-bond-16-59-2" docsrc="Bond_market">
+      <context> A number of bond indices exist for the purposes of managing portfolios and measuring performance , <head>similar</head> to the S&amp;P 500 or Russell Indexes for stocks . The most common American benchmarks are the Barclays Capital Aggregate Bond Index , Citigroup BIG and Merrill Lynch Domestic Master . Most indices are parts of families of broader indices that can be used to measure global bond portfolios , or may be further subdivided by maturity or sector for managing specialized portfolios .</context>
+    </instance>
+    <instance id="Bond_market-bond-16-59-3" docsrc="Bond_market">
+      <context> The most common American benchmarks are the Barclays Capital Aggregate Bond Index , Citigroup BIG and <head>Merrill</head> Lynch Domestic Master . Most indices are parts of families of broader indices that can be used to measure global bond portfolios , or may be further subdivided by maturity or sector for managing specialized portfolios .</context>
+    </instance>
+    <instance id="Bond_market-bond-18-3-3" docsrc="Bond_market">
+      <context> Government bonds are often used to compare other bonds to measure credit risk . Because of the inverse <head>relationship</head> between bond valuation and interest rates , the bond market is often used to indicate changes in interest rates or the shape of the yield curve , the measure of " cost of funding " . The Securities Industry and Financial Markets Association ( SIFMA ) classifies the broader bond market into five specific bond markets .</context>
+    </instance>
+    <instance id="Bond_market-bond-2-27-4" docsrc="Bond_market">
+      <context> The first <head>half</head> of 2012 was off to a strong start with issuance of over $ 800 billion . The United States was the leading center in terms of value outstanding with 24 % of the total followed by the UK 13 % . === U.S. bond market size ===</context>
+    </instance>
+    <instance id="Bond_market-bond-2-50-4" docsrc="Bond_market">
+      <context> Typical sizes <head>offered</head> are increments of $ 10,000 . For broker/dealers , however , anything smaller than a $ 100,000 trade is viewed as an " odd lot " . Because most bonds have predictable income , they are typically purchased as part of a more conservative investment scheme .</context>
+    </instance>
+    <instance id="Bond_market-bond-20-30-1" docsrc="Bond_market">
+      <context> The United States was the leading center in terms of value outstanding with 24 % of the total followed by <head>the</head> UK 13 % . === U.S. bond market size === According to the Securities Industry and Financial Markets Association ( SIFMA ) , as of Q4 2013 , the U.S. bond market size is ( in billions ) :</context>
+    </instance>
+    <instance id="Bond_market-bond-23-21-1" docsrc="Bond_market">
+      <context> Traders Individuals Because of the specificity of individual bond issues , and the lack of liquidity in many smaller issues , the majority <head>of</head> outstanding bonds are held by institutions like pension funds , banks and mutual funds .</context>
+    </instance>
+    <instance id="Bond_market-bond-3-53-2" docsrc="Bond_market">
+      <context> Bond interest is <head>taxed</head> as ordinary income , in contrast to dividend income , which receives favorable taxation rates . However many government and municipal bonds are exempt from one or more types of taxation . A number of bond indices exist for the purposes of managing portfolios and measuring performance , similar to the S&amp;P 500 or Russell Indexes for stocks .</context>
+    </instance>
+    <instance id="Bond_market-bond-5-0-2" docsrc="Bond_market">
+      <context> The bond market ( also <head>debt</head> market or credit market ) is a financial market where participants can issue new debt , known as the primary market , or buy and sell debt securities , known as the secondary market . This is usually in the form of bonds , but it may include notes , bills , and so on . An important part of the bond market is the government bond market , because of its size and liquidity .</context>
+    </instance>
+    <instance id="Bond_market-bond-5-22-2" docsrc="Bond_market">
+      <context> Because of the specificity of <head>individual</head> bond issues , and the lack of liquidity in many smaller issues , the majority of outstanding bonds are held by institutions like pension funds , banks and mutual funds . In the United States , approximately 10 % of the market is held by private individuals . Amounts outstanding on the global bond market increased by 2 % in the twelve months to March 2012 to nearly $ 100 trillion .</context>
+    </instance>
+    <instance id="Bond_market-bond-5-26-6" docsrc="Bond_market">
+      <context> The considerable growth means that <head>in</head> March 2012 it was much larger than the global equity market which had a market capitalisation of around $ 53 trillion . Growth of the market since the start of the economic slowdown was largely a result of an increase in issuance by governments . The outstanding value of international bonds increased by 2 % in 2011 to $ 30 trillion .</context>
+    </instance>
+    <instance id="Bond_market-bond-5-53-1" docsrc="Bond_market">
+      <context> Nevertheless , investors have the <head>ability</head> to actively trade bonds , especially corporate bonds and municipal bonds with the market and can make or lose money depending on economic , interest rate , and issuer factors . Bond interest is taxed as ordinary income , in contrast to dividend income , which receives favorable taxation rates . However many government and municipal bonds are exempt from one or more types of taxation .</context>
+    </instance>
+    <instance id="Bond_market-bond-6-21-1" docsrc="Bond_market">
+      <context> Traders Individuals Because of the specificity <head>of</head> individual bond issues , and the lack of liquidity in many smaller issues , the majority of outstanding bonds are held by institutions like pension funds , banks and mutual funds .</context>
+    </instance>
+    <instance id="Bond_market-bond-6-3-2" docsrc="Bond_market">
+      <context> An important part of the bond <head>market</head> is the government bond market , because of its size and liquidity . Government bonds are often used to compare other bonds to measure credit risk . Because of the inverse relationship between bond valuation and interest rates , the bond market is often used to indicate changes in interest rates or the shape of the yield curve , the measure of " cost of funding " .</context>
+    </instance>
+    <instance id="Bond_market-bond-6-32-1" docsrc="Bond_market">
+      <context> === U.S. bond market size === <head>According</head> to the Securities Industry and Financial Markets Association ( SIFMA ) , as of Q4 2013 , the U.S. bond market size is ( in billions ) : But participants who buy and sell bonds before maturity are exposed to many risks , most importantly changes in interest rates .</context>
+    </instance>
+    <instance id="Bond_market-bond-6-39-3" docsrc="Bond_market">
+      <context> When interest rates increase , the <head>value</head> of existing bonds falls , since new issues pay a higher yield . Likewise , when interest rates decrease , the value of existing bonds rises , since new issues pay a lower yield . This is the fundamental concept of bond market volatility—changes in bond prices are inverse to changes in interest rates .</context>
+    </instance>
+    <instance id="Bond_market-bond-7-0-1" docsrc="Bond_market">
+      <context> The bond market ( also debt market <head>or</head> credit market ) is a financial market where participants can issue new debt , known as the primary market , or buy and sell debt securities , known as the secondary market . This is usually in the form of bonds , but it may include notes , bills , and so on .</context>
+    </instance>
+    <instance id="Bond_market-bond-7-50-1" docsrc="Bond_market">
+      <context> You can intimidate everybody . Bonds typically <head>trade</head> in $ 1,000 increments and are priced as a percentage of par value ( 100 % ) . Many bonds have minimums imposed by the bond or the dealer .</context>
+    </instance>
+    <instance id="Bond_market-bond-8-26-3" docsrc="Bond_market">
+      <context> Domestic bonds accounted for 70 % of the <head>total</head> and international bonds for the remainder . The United States was the largest market with 33 % of the total followed by Japan ( 14 % ) . As a proportion of global GDP , the bond market increased to over 140 % in 2011 from 119 % in 2008 and 80 % a decade earlier .</context>
+    </instance>
+    <instance id="Bond_market-bond-8-3-1" docsrc="Bond_market">
+      <context> This is usually in the form of bonds <head>,</head> but it may include notes , bills , and so on . An important part of the bond market is the government bond market , because of its size and liquidity . Government bonds are often used to compare other bonds to measure credit risk .</context>
+    </instance>
+    <instance id="Bond_market-bond-9-39-1" docsrc="Bond_market">
+      <context> According to the Securities Industry and Financial Markets Association <head>(</head> SIFMA ) , as of Q4 2013 , the U.S. bond market size is ( in billions ) : But participants who buy and sell bonds before maturity are exposed to many risks , most importantly changes in interest rates . When interest rates increase , the value of existing bonds falls , since new issues pay a higher yield .</context>
+    </instance>
+    <instance id="Bond_market-bond-9-52-1" docsrc="Bond_market">
+      <context> For broker/dealers , however , anything smaller than a <head>$</head> 100,000 trade is viewed as an " odd lot " . Because most bonds have predictable income , they are typically purchased as part of a more conservative investment scheme . Nevertheless , investors have the ability to actively trade bonds , especially corporate bonds and municipal bonds with the market and can make or lose money depending on economic , interest rate , and issuer factors .</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-21-6-1" docsrc="James_Bond_(comic_strip)">
+      <context> Starting in 1958 and continuing to 1983 , James Bond , the fictional character created by author Ian Fleming , appeared <head>in</head> a comic strip that consisted of 52 story arcs that were syndicated in British newspapers , seven of which were initially published abroad . === Art by John McLusky === In 1957 , the Daily Express , a newspaper owned by Lord Beaverbrook , approached Ian Fleming about adapting his James Bond stories as comic strips .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-0-2" docsrc="Julian_Bond">
+      <context> <head>Horace</head> Julian Bond ( January 14 , 1940 – August 15 , 2015 ) was an American social activist and leader in the Civil Rights Movement , politician , professor and writer . While a student at Morehouse College in Atlanta , Georgia , during the early 1960s , he helped to establish the Student Nonviolent Coordinating Committee ( SNCC ) . Bond was elected to four terms in the Georgia House of Representatives and later to six terms in the Georgia State Senate , serving a combined twenty years in both legislative chambers .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-1-22-1" docsrc="Samurai_bond">
+      <context> In <head>1998</head> , the Ministry of Finance ’s close regulatory control was annulled . === Advantages === Samurai bonds provide access to a diversified and deep pool of capital .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-1-23-1" docsrc="Samurai_bond">
+      <context> === <head>Advantages</head> === Samurai bonds provide access to a diversified and deep pool of capital . Samurai bonds have relatively lower interest rates .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-1-25-1" docsrc="Samurai_bond">
+      <context> Samurai <head>bonds</head> have relatively lower interest rates . Japanese institutional investors can easily invest in Samurai bonds because they are issued in Japan . Samurai bonds do not have to be left in the custody of securities companies or other institutions .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-1-31-1" docsrc="Samurai_bond">
+      <context> Japanese <head>market</head> is not subject to the same variations and market swings as the U.S. and European markets , giving companies an alternative financing source during economic downturns . === Disadvantages === Samurai bond market has high tax rates and an unclear fiscal environment .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-13-32-1" docsrc="Samurai_bond">
+      <context> === Disadvantages === Samurai bond market has high tax rates and an unclear <head>fiscal</head> environment . Lack of flexibility of issuance terms and conditions that create restrictions to use bonds .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-14-42-1" docsrc="Samurai_bond">
+      <context> Interest Risk Nishi , F. ; Vergus , A. ( n.d . ) . <head>"</head> Asian bond issues in Tokyo : history , structure and prospects . " ( PDF ) .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-14-49-1" docsrc="Samurai_bond">
+      <context> Risk Nishi , F. ; Vergus , A. ( n.d . ) . " <head>Asian</head> bond issues in Tokyo : history , structure and prospects . " ( PDF ) .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-5-34-1" docsrc="Samurai_bond">
+      <context> Samurai bond market has high <head>tax</head> rates and an unclear fiscal environment . Lack of flexibility of issuance terms and conditions that create restrictions to use bonds . Companies that have issued samurai bonds have found high administrative burdens placed upon issuing companies .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-6-12-1" docsrc="Samurai_bond">
+      <context> === Liquidation of rating requirement === <head>===</head> Required standards === The eligibility criteria for issuing Samurai bonds were not loosened until April 1985 .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-6-13-2" docsrc="Samurai_bond">
+      <context> The eligibility criteria for issuing Samurai <head>bonds</head> were not loosened until April 1985 . When examining applications from potential samurai issuers , the Ministry of Finance considered the tendency of the Japanese capital account balance and the liquidity in the country ’s economy . For the actual issuance of Samurai bonds , the Japanese Ministry of Finance set a quota per quarter year , and employed a queue system .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-8-24-1" docsrc="Samurai_bond">
+      <context> Samurai bonds provide access to a diversified and <head>deep</head> pool of capital . Samurai bonds have relatively lower interest rates . Japanese institutional investors can easily invest in Samurai bonds because they are issued in Japan .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-9-35-1" docsrc="Samurai_bond">
+      <context> Lack of flexibility of issuance terms and conditions that <head>create</head> restrictions to use bonds . Companies that have issued samurai bonds have found high administrative burdens placed upon issuing companies . Complicated issuing procedures and high taxes have made Samurai bond market less attractive than European markets , and experience slow growth .</context>
+    </instance>
+    <instance id="a00161684_d_10" docsrc="a00161684_d">
+      <context> capable of being fastened or secured with a rope or <head>bond</head> ;</context>
+    </instance>
+    <instance id="a00252954_d_2" docsrc="a00252954_d">
+      <context> confined by <head>bonds</head> ;</context>
+    </instance>
+    <instance id="a00676855_d_4" docsrc="a00676855_d">
+      <context> having atoms linked by <head>bonds</head> represented in circular or triangular form ;</context>
+    </instance>
+    <instance id="a02478215_d_15" docsrc="a02478215_d">
+      <context> bound together by or as if by a strong rope ; especially as by a <head>bond</head> of affection ;</context>
+    </instance>
+    <instance id="br-a01#w1202_0" docsrc="br-a01">
+      <context> Caldwell 's resignation had been expected for some time . He will be succeeded by Rob_Ledford of Gainesville , who has been an assistant more than three years . When the gubernatorial campaign starts , Caldwell is expected to become a campaign coordinator for Byrd . The Georgia_Legislature will wind_up its 1961 session Monday and head for home - where some of the highway <head>bond</head> money it approved will follow shortly . Before adjournment Monday afternoon , the Senate is expected to approve a study of the number of legislators allotted to rural and urban_areas to determine what adjustments should be made . Gov._Vandiver is expected to make the traditional visit to both chambers as they work toward adjournment . Vandiver likely will mention the $ 100 million highway bond issue approved earlier in the session as his first priority item .</context>
+    </instance>
+    <instance id="br-a01#w1267_0" docsrc="br-a01">
+      <context> The Georgia_Legislature will wind_up its 1961 session Monday and head for home - where some of the highway bond money it approved will follow shortly . Before adjournment Monday afternoon , the Senate is expected to approve a study of the number of legislators allotted to rural and urban_areas to determine what adjustments should be made . Gov._Vandiver is expected to make the traditional visit to both chambers as they work toward adjournment . Vandiver likely will mention the $ 100 million highway <head>bond</head> issue approved earlier in the session as his first priority item . Meanwhile , it was learned the State_Highway_Department is very near being ready to issue the first $ 30 million worth of highway reconstruction bonds . The bond issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work .</context>
+    </instance>
+    <instance id="br-a01#w1303_0" docsrc="br-a01">
+      <context> Before adjournment Monday afternoon , the Senate is expected to approve a study of the number of legislators allotted to rural and urban_areas to determine what adjustments should be made . Gov._Vandiver is expected to make the traditional visit to both chambers as they work toward adjournment . Vandiver likely will mention the $ 100 million highway bond issue approved earlier in the session as his first priority item . Meanwhile , it was learned the State_Highway_Department is very near being ready to issue the first $ 30 million worth of highway reconstruction <head>bonds</head> . The bond issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new bonds would be issued every time a portion of the old ones are paid_off by tax authorities .</context>
+    </instance>
+    <instance id="br-a01#w1306_0" docsrc="br-a01">
+      <context> Gov._Vandiver is expected to make the traditional visit to both chambers as they work toward adjournment . Vandiver likely will mention the $ 100 million highway bond issue approved earlier in the session as his first priority item . Meanwhile , it was learned the State_Highway_Department is very near being ready to issue the first $ 30 million worth of highway reconstruction bonds . The <head>bond</head> issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new bonds would be issued every time a portion of the old ones are paid_off by tax authorities . Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads bonds proposed by then Gov._Marvin_Griffin .</context>
+    </instance>
+    <instance id="br-a01#w1370_0" docsrc="br-a01">
+      <context> Vandiver likely will mention the $ 100 million highway bond issue approved earlier in the session as his first priority item . Meanwhile , it was learned the State_Highway_Department is very near being ready to issue the first $ 30 million worth of highway reconstruction bonds . The bond issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority <head>bonds</head> for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new bonds would be issued every time a portion of the old ones are paid_off by tax authorities . Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads bonds proposed by then Gov._Marvin_Griffin . The Highway_Department source told The_Constitution , however , that Vandiver has not been consulted yet about the plans to issue the new rural roads bonds .</context>
+    </instance>
+    <instance id="br-a01#w1390_0" docsrc="br-a01">
+      <context> Meanwhile , it was learned the State_Highway_Department is very near being ready to issue the first $ 30 million worth of highway reconstruction bonds . The bond issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new <head>bonds</head> would be issued every time a portion of the old ones are paid_off by tax authorities . Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads bonds proposed by then Gov._Marvin_Griffin . The Highway_Department source told The_Constitution , however , that Vandiver has not been consulted yet about the plans to issue the new rural roads bonds . Schley_County_Rep._B._D._Pelham will offer a resolution Monday in the House to rescind the body 's action of Friday in voting itself a $ 10 per day increase in expense allowances .</context>
+    </instance>
+    <instance id="br-a01#w1434_0" docsrc="br-a01">
+      <context> The bond issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new bonds would be issued every time a portion of the old ones are paid_off by tax authorities . Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads <head>bonds</head> proposed by then Gov._Marvin_Griffin . The Highway_Department source told The_Constitution , however , that Vandiver has not been consulted yet about the plans to issue the new rural roads bonds . Schley_County_Rep._B._D._Pelham will offer a resolution Monday in the House to rescind the body 's action of Friday in voting itself a $ 10 per day increase in expense allowances . Pelham said Sunday night there was research being done on whether the `` quickie '' vote on the increase can be repealed outright or whether notice would have to first be given that reconsideration of the action would be sought .</context>
+    </instance>
+    <instance id="br-a01#w1464_0" docsrc="br-a01">
+      <context> A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new bonds would be issued every time a portion of the old ones are paid_off by tax authorities . Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads bonds proposed by then Gov._Marvin_Griffin . The Highway_Department source told The_Constitution , however , that Vandiver has not been consulted yet about the plans to issue the new rural roads <head>bonds</head> . Schley_County_Rep._B._D._Pelham will offer a resolution Monday in the House to rescind the body 's action of Friday in voting itself a $ 10 per day increase in expense allowances . Pelham said Sunday night there was research being done on whether the `` quickie '' vote on the increase can be repealed outright or whether notice would have to first be given that reconsideration of the action would be sought . While emphasizing that technical details were not fully worked_out , Pelham said his resolution would seek to set_aside the privilege resolution which the House voted through 87 - 31 .</context>
+    </instance>
+    <instance id="br-a02#w1369_0" docsrc="br-a02">
+      <context> Most of the fire was directed by Cotten against Dallas and Sen._Parkhouse . The bill would increase from $ 5000000 to $ 15000000 the maximum loan the state could make to a local water_project . Cotten construed this as a veiled effort by Parkhouse to help Dallas and other large cities get money which Cotten felt could better be spent providing water for rural Texas . Statements by other legislators that Dallas is paying for all its water_program by local <head>bonds</head> , and that less populous places would benefit most by the pending bill , did not sway Cotten 's attack . The bill 's defenders were mostly small-town legislators like J._W._Buchanan of Dumas , Eligio_(_Kika_)_de_la_Garza of Mission , Sam_F._Collins of Newton and Joe_Chapman of Sulphur_Springs . `` This is a poor boy 's bill '' , said Chapman . `` Dallas and Fort_Worth can vote bonds .</context>
+    </instance>
+    <instance id="br-a02#w1435_0" docsrc="br-a02">
+      <context> Statements by other legislators that Dallas is paying for all its water_program by local bonds , and that less populous places would benefit most by the pending bill , did not sway Cotten 's attack . The bill 's defenders were mostly small-town legislators like J._W._Buchanan of Dumas , Eligio_(_Kika_)_de_la_Garza of Mission , Sam_F._Collins of Newton and Joe_Chapman of Sulphur_Springs . `` This is a poor boy 's bill '' , said Chapman . `` Dallas and Fort_Worth can vote <head>bonds</head> . This would help the little peanut districts '' . A Houston teacher , now serving in the Legislature , proposed Thursday a law reducing the time spent learning `` educational methods '' . Rep._Henry_C._Grover , who teaches history in the Houston public_schools , would reduce from 24 to 12 semester_hours the so-called `` teaching_methods '' courses required to obtain a junior or senior_high_school teaching_certificate .</context>
+    </instance>
+    <instance id="br-a02#w951_0" docsrc="br-a02">
+      <context> One , by Sen._Louis_Crump of San_Saba , would aid more than 17000 retailers who pay a group of miscellaneous excise_taxes by eliminating the requirement that each return be notarized . Instead , retailers would sign a certificate of correctness , violation of which would carry a penalty of one to five years in prison , plus a $ 1000 fine . It was one of a series of recommendations by the Texas_Research_League . The other bill , by Sen._A._M._Aikin_Jr. of Paris , would relieve real_estate_brokers , who pay their own annual licensing_fee , from the $ 12 annual occupation_license on brokers in such_as stocks and <head>bonds</head> . Natural_gas public_utility companies would be given the right of eminent_domain , under a bill by Sen._Frank_Owen /3 , of El_Paso , to acquire sites for underground storage reservoirs for gas . Marshall_Formby of Plainview , former chairman of the Texas_Highway_Commission , suggested a plan to fill by appointment future vacancies in the Legislature and Congress , eliminating the need for costly special elections . Under Formby 's plan , an appointee would be selected by a board composed of the governor , lieutenant_governor , speaker of the House , attorney_general and chief_justice of the Texas_Supreme_Court .</context>
+    </instance>
+    <instance id="br-g39#w1357_0" docsrc="br-g39">
+      <context> For him Mercer produced the lyric to `` Out_of_Breath_Scared_to_Death_of_You '' , introduced in that most successful of all the Gaieties , by Sterling_Holloway . This 1930 edition also had songs in it by Vernon_Duke and Ira_Gershwin , by E._Y._Harburg and Duke , and by Harry_Myers . Entrance into such stellar song writing company encouraged the burgeoning song_writer to take a wife , Elizabeth_Meehan , a dancer in the Gaieties . The Mercers took_up residence in Brooklyn , and Mercer found a regular job in Wall_Street `` misplacing stocks and <head>bonds</head> '' . When he heard that Paul_Whiteman was looking_for singers to replace the Rhythm_Boys , Mercer applied and got the job , `` not for my voice , I 'm sure , but because I could write songs and material generally '' . While with the Whiteman band Mercer met Jerry_Arlen . He had yet to meet Harold_Arlen , for although they had `` collaborated '' on `` Satan 's Li ' l Lamb '' , Mercer and Harburg had worked from a lead_sheet the composer had furnished them .</context>
+    </instance>
+    <instance id="br-j56#w250_0" docsrc="br-j56">
+      <context> The layout of the sewer_lines was designed by Henry_W._Taylor , who was the engineer for the Manchester_Village disposal_plant . No figures were submitted with the report and no action was taken on it by the town . The 1958 town_meeting directed town authorities to seek federal and state funds with which to conduct a preliminary survey of a proposed sewage plant with its attendant facilities . The final step was a vote for a $ 230000 <head>bond</head> issue for the construction of a sewage_system by the 1959 town_meeting , later confirmed by a two-thirds vote at a special town_meeting June_21 , 1960 . There the matter stands with the prospect that soon Manchester may be removed from the roster of towns contributing raw sewage to its main streams . Manchester 's unusual interest in telegraphy has often been attributed to the fact that the Rev._J._D._Wickham , headmaster of Burr and Burton_Seminary , was a personal friend and correspondent of the inventor , Samuel_F._B._Morse . At_any_rate , Manchester did not lag far behind the first commercial system which was set_up in 1844 between Baltimore and Washington .</context>
+    </instance>
+    <instance id="n00079603_d_2" docsrc="n00079603_d">
+      <context> trading in <head>bonds</head> ( usually by a broker on the floor of an exchange ) ;</context>
+    </instance>
+    <instance id="n01100147_d_4" docsrc="n01100147_d">
+      <context> financing a commercial_enterprise by <head>bond</head> or stock shares ;</context>
+    </instance>
+    <instance id="n01119949_d_11" docsrc="n01119949_d">
+      <context> a sale of a relatively large_number of assets ( stocks or <head>bonds</head> or commodities ) at a low price typically done to dispose of them rather than as normal trade ;</context>
+    </instance>
+    <instance id="n06773006_d_6" docsrc="n06773006_d">
+      <context> formal agreement between the issuer of <head>bonds</head> and the bondholders as to terms of the debt ;</context>
+    </instance>
+    <instance id="n08071756_d_16" docsrc="n08071756_d">
+      <context> a mutual_fund that invests in the stocks that are the basis of a well-known stock or <head>bond</head> index ;</context>
+    </instance>
+    <instance id="n08419774_d_20" docsrc="n08419774_d">
+      <context> an agency ( usually a bank ) that is appointed by a corporation to keep records of its stock and <head>bond</head> owners and to resolve problems about certificates ;</context>
+    </instance>
+    <instance id="n09864761_d_3" docsrc="n09864761_d">
+      <context> a holder of <head>bonds</head> issued by a government or corporation ;</context>
+    </instance>
+    <instance id="n09865279_d_4" docsrc="n09865279_d">
+      <context> someone who signs a <head>bond</head> as surety for someone else ;</context>
+    </instance>
+    <instance id="n10179911_d_12" docsrc="n10179911_d">
+      <context> the person who is in possession of a check or note or <head>bond</head> or document of title that is endorsed to him or to whoever holds it ;</context>
+    </instance>
+    <instance id="n10517137_d_13" docsrc="n10517137_d">
+      <context> a person employed to keep a record of the owners of stocks and <head>bonds</head> issued by the company ;</context>
+    </instance>
+    <instance id="n10520964_d_8" docsrc="n10520964_d">
+      <context> someone whose income is from property rents or <head>bond</head> interest and other investments ;</context>
+    </instance>
+    <instance id="n10657444_d_10" docsrc="n10657444_d">
+      <context> an agent in the buying and selling of stocks and <head>bonds</head> ;</context>
+    </instance>
+    <instance id="n10908534_d_5" docsrc="n10908534_d">
+      <context> United_States financier who marketed Union <head>bonds</head> to finance the American_Civil_War ; the failure of his bank resulted in a financial panic in 1873 ;</context>
+    </instance>
+    <instance id="n13337471_d_0" docsrc="n13337471_d">
+      <context> <head>bonds</head> sold by a corporation or government_agency at a particular time and identifiable by date of maturity ;</context>
+    </instance>
+    <instance id="n13337634_d_1" docsrc="n13337634_d">
+      <context> a <head>bond</head> that can be converted to other securities under certain conditions ;</context>
+    </instance>
+    <instance id="n13337770_d_1" docsrc="n13337770_d">
+      <context> a <head>bond</head> issued by a corporation ; carries no claim to ownership and pays no dividends but payments to bondholders have priority over payments to stockholders ;</context>
+    </instance>
+    <instance id="n13338066_d_1" docsrc="n13338066_d">
+      <context> a <head>bond</head> issued with detachable coupons that must be presented to the issuer for interest payments ;</context>
+    </instance>
+    <instance id="n13338234_d_1" docsrc="n13338234_d">
+      <context> a <head>bond</head> that is an IOU of the United_States_Treasury ; considered the safest security in the investment world ;</context>
+    </instance>
+    <instance id="n13338439_d_4" docsrc="n13338439_d">
+      <context> a ( speculative ) <head>bond</head> with a credit_rating of BB or lower ; issued for leveraged_buyouts and other takeovers by companies with questionable credit ;</context>
+    </instance>
+    <instance id="n13338657_d_1" docsrc="n13338657_d">
+      <context> a <head>bond</head> issued by a state or local_government ;</context>
+    </instance>
+    <instance id="n13338780_d_1" docsrc="n13338780_d">
+      <context> a <head>bond</head> containing a provision that the holder can not redeem the security before a specific date ( usually at maturity ) ;</context>
+    </instance>
+    <instance id="n13338960_d_1" docsrc="n13338960_d">
+      <context> a <head>bond</head> given to protect the recipient against loss in case the terms_of_a_contract are not filled ; a surety company assumes liability for nonperformance ;</context>
+    </instance>
+    <instance id="n13339189_d_1" docsrc="n13339189_d">
+      <context> a <head>bond</head> made by a reversioner to secure a loan ; payable out of his reversion ;</context>
+    </instance>
+    <instance id="n13339325_d_1" docsrc="n13339325_d">
+      <context> a <head>bond</head> whose owner is recorded on the books of the issuer ; can be transferred to another owner only when endorsed by the registered owner ;</context>
+    </instance>
+    <instance id="n13339542_d_1" docsrc="n13339542_d">
+      <context> a <head>bond</head> issued by an agency that is commissioned to finance public_works ; revenue from the public_property is used to pay_off the bond ;</context>
+    </instance>
+    <instance id="n13339542_d_22" docsrc="n13339542_d">
+      <context> a bond issued by an agency that is commissioned to finance public_works ; revenue from the public_property is used to pay_off the <head>bond</head> ;</context>
+    </instance>
+    <instance id="n13339734_d_1" docsrc="n13339734_d">
+      <context> a <head>bond</head> that is back by collateral ;</context>
+    </instance>
+    <instance id="n13340244_d_12" docsrc="n13340244_d">
+      <context> a security created when a group of mortgages are gathered together and <head>bonds</head> are sold to other institutions or the public ; investors receive a portion of the interest payments on the mortgages as_well as the principal payments ; usually guaranteed by the government ;</context>
+    </instance>
+    <instance id="n13340902_d_1" docsrc="n13340902_d">
+      <context> a <head>bond</head> issued to finance the construction of public_utility services ;</context>
+    </instance>
+    <instance id="n13341052_d_1" docsrc="n13341052_d">
+      <context> a <head>bond</head> that is issued at a deep discount from its value at maturity and pays no interest during the life of the bond ; the commonest form of zero_coupon_security ;</context>
+    </instance>
+    <instance id="n13341052_d_23" docsrc="n13341052_d">
+      <context> a bond that is issued at a deep discount from its value at maturity and pays no interest during the life of the <head>bond</head> ; the commonest form of zero_coupon_security ;</context>
+    </instance>
+    <instance id="n13418219_d_13" docsrc="n13418219_d">
+      <context> a type of security issued by a corporation ( usually together with a <head>bond</head> or preferred_stock ) that gives the holder the right to purchase a certain amount of common_stock at a stated price ;</context>
+    </instance>
+    <instance id="n13419325_d_5" docsrc="n13419325_d">
+      <context> a corporate security ( usually <head>bonds</head> or preferred_stock ) that can be exchanged for another form of security ( usually common_stock ) ;</context>
+    </instance>
+    <instance id="n13419535_d_3" docsrc="n13419535_d">
+      <context> a stock or <head>bond</head> that is not registered with the Securities_and_Exchange_Commission and can not be sold in the public market ;</context>
+    </instance>
+    <instance id="n13420722_d_1" docsrc="n13420722_d">
+      <context> a <head>bond</head> that has not been registered with the Securities_and_Exchange_Commission and can not be sold to the general public ;</context>
+    </instance>
+    <instance id="v02218924_d_12" docsrc="v02218924_d">
+      <context> convert into long-term debt that bears fixed interest and is represented by <head>bonds</head> ;</context>
+    </instance>
+    <instance id="v02351925_d_1" docsrc="v02351925_d">
+      <context> issue <head>bonds</head> on ;</context>
+    </instance>
+    <instance id="v02480448_d_15" docsrc="v02480448_d">
+      <context> withdraw from circulation or from the market , as of bills , shares , and <head>bonds</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

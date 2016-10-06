@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="football_player.n" pos="NN">
+    <instance id="br-k26#w1568_0" docsrc="br-k26">
+      <context> Driving along the caliche-topped road to town , Howard talked . Finally he said , `` Tell me about yourself '' , and Linda_Kay told him , because she thought herself that she had had an interesting life . She was such a well-rounded teenager , having been a twirler , Future_Farmers sweetheart , and secretary of Future_Homemakers . In her sophomore year she had started going_steady with Bobby_Joe , who was a <head>football_player</head> , Future_Homemakers sweetheart , and president of Future_Farmers . It was easy to see that they were made_for each other , and they knew what they wanted . Bobby_Joe would be a senior this year , and he planned to graduate . But there was no need for Linda_Kay to go_on , since all she wanted in life was to make a home for Bobby_Joe and ( blushing ) raise his children .</context>
+    </instance>
+  </lexelt>
+</corpus>

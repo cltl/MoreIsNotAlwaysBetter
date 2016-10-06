@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="broadcaster.n" pos="NN">
+    <instance id="n10697420_d_2" docsrc="n10697420_d">
+      <context> a television <head>broadcaster</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

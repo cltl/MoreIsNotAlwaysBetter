@@ -1,0 +1,1083 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="race.n" pos="NN">
+    <instance id="Race_(biology)-race-0-0-3" docsrc="Race_(biology)">
+      <context> <head>It</head> has been used as a higher rank than strain , with several strains making up one race . Various definitions exist . Races may be genetically distinct phenotypic populations of interbreeding individuals within the same species , or they may be defined in other ways , e.g. geographically , or physiologically .</context>
+    </instance>
+    <instance id="Race_(biology)-race-0-0-5" docsrc="Race_(biology)">
+      <context> <head>Races</head> may be genetically distinct phenotypic populations of interbreeding individuals within the same species , or they may be defined in other ways , e.g. geographically , or physiologically . Genetic isolation between races is not complete , but genetic differences may have accumulated that are not ( yet ) sufficient to separate species . Races are defined according to any identifiable characteristic , including gene frequencies .</context>
+    </instance>
+    <instance id="Race_(biology)-race-1-4-1" docsrc="Race_(biology)">
+      <context> Genetic <head>isolation</head> between races is not complete , but genetic differences may have accumulated that are not ( yet ) sufficient to separate species . Races are defined according to any identifiable characteristic , including gene frequencies . " Race differences are relative , not absolute " .</context>
+    </instance>
+    <instance id="Race_(biology)-race-1-4-3" docsrc="Race_(biology)">
+      <context> " <head>Race</head> differences are relative , not absolute " . Adaptive differences that distinguish races can accumulate even with substantial gene flow and clinal ( rather than discrete ) habitat variation . Chromosomal race</context>
+    </instance>
+    <instance id="Race_(biology)-race-1-6-1" docsrc="Race_(biology)">
+      <context> Chromosomal <head>race</head> A population distinguished by having a unique karyotypes , i.e. , different chromosome numbers ( ploidy ) , or different chromosome structure . Geographical race</context>
+    </instance>
+    <instance id="Race_(biology)-race-1-8-1" docsrc="Race_(biology)">
+      <context> Geographical <head>race</head> A distinct population that is isolated in a particular area from other populations of a species , and consistently distinguishable from the others , e.g. morphology ( or even only genetically ) . Geographic races are allopatric .</context>
+    </instance>
+    <instance id="Race_(biology)-race-1-8-2" docsrc="Race_(biology)">
+      <context> A <head>distinct</head> population that is isolated in a particular area from other populations of a species , and consistently distinguishable from the others , e.g. morphology ( or even only genetically ) . Geographic races are allopatric . Physiological race</context>
+    </instance>
+    <instance id="Race_(biology)-race-10-24-1" docsrc="Race_(biology)">
+      <context> Although historically the term has been used inconsistently by plant <head>pathologists</head> , the modern trend is to use race to refer to " groups of host genotypes permitting characterization of virulence " . Commercial Cucumis melo ( cantaloup and muskmelon ) production , for example , has been engaged in a biological " arms race " , since 1925 , against cucurbit powdery mildew , caused by successively arising races of Podosphaera xanthii fungus , with new cultivars of melons being developed for resistance to these pathogens . A 2004 literature review of this issue concluded that " race identification is important for basic research and is especially important for the commercial seed industry " , but was seen as having little utility in horticulture for choosing specific cultivars , because of the rapidity with which the local pathogen population can change geographically , seasonally , and by host plant .</context>
+    </instance>
+    <instance id="Race_(biology)-race-11-17-2" docsrc="Race_(biology)">
+      <context> If the races are sufficiently different or if they have been <head>tested</head> to show little genetic connection regardless of phenotype , two or more groups/races can be identified as subspecies or ( in botany , mycology , and phycology ) another infraspecific rank , and given a name . Ernst Mayr wrote that a subspecies can be " a geographic race that is sufficiently different taxonomically to be worthy of a separate name . "</context>
+    </instance>
+    <instance id="Race_(biology)-race-11-9-1" docsrc="Race_(biology)">
+      <context> Geographic races are allopatric . Physiological race A physiological race is <head>not</head> to be confused with a physiologic race , an obsolete term for cryptic species .</context>
+    </instance>
+    <instance id="Race_(biology)-race-17-0-1" docsrc="Race_(biology)">
+      <context> In biological taxonomy , race ( Latin : prōles , stirps ) is an informal rank in <head>the</head> taxonomic hierarchy , below the level of subspecies ; the term is recognized by some , but is no longer governed by any of the formal codes of biological nomenclature . It has been used as a higher rank than strain , with several strains making up one race .</context>
+    </instance>
+    <instance id="Race_(biology)-race-18-23-2" docsrc="Race_(biology)">
+      <context> Classification of fungal microbes into races is done frequently in mycology , the study of fungi , and <head>especially</head> in phytopathology , the study of plant diseases , which are often fungal . The term " physiologic race " was recommended for use over " biologic form " at the International Botanical Congress of 1935 . Although historically the term has been used inconsistently by plant pathologists , the modern trend is to use race to refer to " groups of host genotypes permitting characterization of virulence " .</context>
+    </instance>
+    <instance id="Race_(biology)-race-19-13-1" docsrc="Race_(biology)">
+      <context> Neither biological form nor forma specialis should be confused with the formal botanical taxonomic rank of forma or form <head>,</head> or a form in zoology , an informal description ( often seasonal ) which is not taxonomic . The term race has also historically been used in relation to domesticated animals , as another term for breed ; this usage survives in combining form , in the term landrace , also applied to domesticated plants . The cognate words for race in many languages ( Spanish : raza ; German : Rasse ; French : race ) may convey meanings the English word does not , and are frequently used in the sense of ' domestic breed ' .</context>
+    </instance>
+    <instance id="Race_(biology)-race-2-11-2" docsrc="Race_(biology)">
+      <context> A physiological <head>race</head> is not to be confused with a physiologic race , an obsolete term for cryptic species . Neither biological form nor forma specialis should be confused with the formal botanical taxonomic rank of forma or form , or a form in zoology , an informal description ( often seasonal ) which is not taxonomic . The term race has also historically been used in relation to domesticated animals , as another term for breed ; this usage survives in combining form , in the term landrace , also applied to domesticated plants .</context>
+    </instance>
+    <instance id="Race_(biology)-race-2-13-2" docsrc="Race_(biology)">
+      <context> The term <head>race</head> has also historically been used in relation to domesticated animals , as another term for breed ; this usage survives in combining form , in the term landrace , also applied to domesticated plants . The cognate words for race in many languages ( Spanish : raza ; German : Rasse ; French : race ) may convey meanings the English word does not , and are frequently used in the sense of ' domestic breed ' . If the races are sufficiently different or if they have been tested to show little genetic connection regardless of phenotype , two or more groups/races can be identified as subspecies or ( in botany , mycology , and phycology )</context>
+    </instance>
+    <instance id="Race_(biology)-race-2-9-1" docsrc="Race_(biology)">
+      <context> Geographic races <head>are</head> allopatric . Physiological race A physiological race is not to be confused with a physiologic race , an obsolete term for cryptic species .</context>
+    </instance>
+    <instance id="Race_(biology)-race-21-23-3" docsrc="Race_(biology)">
+      <context> The term " physiologic race " was recommended for use over " biologic form " at the International Botanical Congress of <head>1935</head> . Although historically the term has been used inconsistently by plant pathologists , the modern trend is to use race to refer to " groups of host genotypes permitting characterization of virulence " . Commercial Cucumis melo ( cantaloup and muskmelon ) production , for example , has been engaged in a biological " arms race " , since 1925 , against cucurbit powdery mildew , caused by successively arising races of Podosphaera xanthii fungus , with new cultivars of melons being developed for resistance to these pathogens .</context>
+    </instance>
+    <instance id="Race_(biology)-race-3-0-4" docsrc="Race_(biology)">
+      <context> Various definitions exist <head>.</head> Races may be genetically distinct phenotypic populations of interbreeding individuals within the same species , or they may be defined in other ways , e.g. geographically , or physiologically . Genetic isolation between races is not complete , but genetic differences may have accumulated that are not ( yet ) sufficient to separate species .</context>
+    </instance>
+    <instance id="Race_(biology)-race-3-25-1" docsrc="Race_(biology)">
+      <context> Commercial Cucumis melo <head>(</head> cantaloup and muskmelon ) production , for example , has been engaged in a biological " arms race " , since 1925 , against cucurbit powdery mildew , caused by successively arising races of Podosphaera xanthii fungus , with new cultivars of melons being developed for resistance to these pathogens . A 2004 literature review of this issue concluded that " race identification is important for basic research and is especially important for the commercial seed industry " , but was seen as having little utility in horticulture for choosing specific cultivars , because of the rapidity with which the local pathogen population can change geographically , seasonally , and by host plant . Classification of fungal races can be difficult because host plants ' responses to particular populations of fungi can be affected by humidity , light , temperature , and other environmental factors ; different host plants may not all respond to particular fungal populations or vice versa ; and identification of genetic differences between populations thought to form distinct fungal races can be elusive .</context>
+    </instance>
+    <instance id="Race_(biology)-race-36-23-3" docsrc="Race_(biology)">
+      <context> The term " physiologic race " was recommended for use over " biologic form " at the International Botanical Congress of 1935 . Although historically the term has been used inconsistently by plant pathologists , the <head>modern</head> trend is to use race to refer to " groups of host genotypes permitting characterization of virulence " . Commercial Cucumis melo ( cantaloup and muskmelon ) production , for example , has been engaged in a biological " arms race " , since 1925 , against cucurbit powdery mildew , caused by successively arising races of Podosphaera xanthii fungus , with new cultivars of melons being developed for resistance to these pathogens .</context>
+    </instance>
+    <instance id="Race_(biology)-race-37-18-1" docsrc="Race_(biology)">
+      <context> Ernst Mayr wrote that a subspecies can be " a geographic race that is sufficiently different taxonomically to be worthy of a separate name . " Study of populations preliminarily labelled races may sometimes lead to classification <head>of</head> a new species . For example , in 2008 , two populations of the brown planthopper ( Nilaparvata lugens ) in the Philippines , one adapted to feeding on rice , and another on Leersia hexandra grass , were reclassified from races into " two distinct , but very closely allied , sympatric species " , based on poor survival rate when given the opposite food source , barriers to hybridization between the populations , uniform preference for mating between members of the same population , differences in mating sounds , oviposition variances , and other distinguishable characteristics .</context>
+    </instance>
+    <instance id="Race_(biology)-race-4-13-1" docsrc="Race_(biology)">
+      <context> Neither biological form nor <head>forma</head> specialis should be confused with the formal botanical taxonomic rank of forma or form , or a form in zoology , an informal description ( often seasonal ) which is not taxonomic . The term race has also historically been used in relation to domesticated animals , as another term for breed ; this usage survives in combining form , in the term landrace , also applied to domesticated plants . The cognate words for race in many languages ( Spanish : raza ; German : Rasse ; French : race ) may convey meanings the English word does not , and are frequently used in the sense of ' domestic breed ' .</context>
+    </instance>
+    <instance id="Race_(biology)-race-4-23-1" docsrc="Race_(biology)">
+      <context> For parasitic organisms governed <head>by</head> the International Code of Nomenclature for algae , fungi , and plants , formae speciales are used . Classification of fungal microbes into races is done frequently in mycology , the study of fungi , and especially in phytopathology , the study of plant diseases , which are often fungal . The term " physiologic race " was recommended for use over " biologic form " at the International Botanical Congress of 1935 .</context>
+    </instance>
+    <instance id="Race_(biology)-race-4-4-2" docsrc="Race_(biology)">
+      <context> Races are defined according <head>to</head> any identifiable characteristic , including gene frequencies . " Race differences are relative , not absolute " . Adaptive differences that distinguish races can accumulate even with substantial gene flow and clinal ( rather than discrete ) habitat variation .</context>
+    </instance>
+    <instance id="Race_(biology)-race-5-17-3" docsrc="Race_(biology)">
+      <context> another infraspecific rank , and <head>given</head> a name . Ernst Mayr wrote that a subspecies can be " a geographic race that is sufficiently different taxonomically to be worthy of a separate name . " Study of populations preliminarily labelled races may sometimes lead to classification of a new species .</context>
+    </instance>
+    <instance id="Race_(biology)-race-5-19-2" docsrc="Race_(biology)">
+      <context> For pathogenic bacteria adapted to <head>particular</head> hosts , races can be formally named as pathovars . For parasitic organisms governed by the International Code of Nomenclature for algae , fungi , and plants , formae speciales are used . Classification of fungal microbes into races is done frequently in mycology , the study of fungi , and especially in phytopathology , the study of plant diseases , which are often fungal .</context>
+    </instance>
+    <instance id="Race_(biology)-race-59-25-1" docsrc="Race_(biology)">
+      <context> Commercial Cucumis melo ( cantaloup and muskmelon ) production , for example , has been engaged in a biological " arms race " , since 1925 , against cucurbit powdery mildew , caused by successively arising races of Podosphaera xanthii fungus , with new cultivars of melons being developed for resistance to these pathogens . A 2004 literature review <head>of</head> this issue concluded that " race identification is important for basic research and is especially important for the commercial seed industry " , but was seen as having little utility in horticulture for choosing specific cultivars , because of the rapidity with which the local pathogen population can change geographically , seasonally , and by host plant . Classification of fungal races can be difficult because host plants ' responses to particular populations of fungi can be affected by humidity , light , temperature , and other environmental factors ; different host plants may not all respond to particular fungal populations or vice versa ; and identification of genetic differences between populations thought to form distinct fungal races can be elusive .</context>
+    </instance>
+    <instance id="Race_(biology)-race-8-18-2" docsrc="Race_(biology)">
+      <context> Study of populations preliminarily labelled races may sometimes <head>lead</head> to classification of a new species . For example , in 2008 , two populations of the brown planthopper ( Nilaparvata lugens ) in the Philippines , one adapted to feeding on rice , and another on Leersia hexandra grass , were reclassified from races into " two distinct , but very closely allied , sympatric species " , based on poor survival rate when given the opposite food source , barriers to hybridization between the populations , uniform preference for mating between members of the same population , differences in mating sounds , oviposition variances , and other distinguishable characteristics . For pathogenic bacteria adapted to particular hosts , races can be formally named as pathovars .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-0-236-1" docsrc="Race_(human_categorization)">
+      <context> <head>Shriver</head> and Kittles remarked : They noted that the general public was increasingly interested in such tests despite their lack of knowledge in some cases of what the results represent . Race science was never just about classification .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-0-267-3" docsrc="Race_(human_categorization)">
+      <context> <head>Journal</head> of Research in Science Teaching 29 ( 3 ) : 301–21 . Bibcode:1992JRScT..29..301L. doi:10.1002/tea.3660290308 . Race : the Power of an Illusion companion website to California Newsreel feature , 2003 , PBS</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-0-280-1" docsrc="Race_(human_categorization)">
+      <context> <head>"</head> Statement on Biological Aspects of Race " , American Association of Physical Anthropologists " Standards for Maintaining , Collecting , and Presenting Federal Data on Race and Ethnicity " , Federal Register , 1997 , Department of Interior RACE : Are we so different ? , a public education program by the American Anthropological Association .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-0-45-2" docsrc="Race_(human_categorization)">
+      <context> <head>In</head> the early 20th century , many anthropologists accepted and taught the belief that biologically distinct races were isomorphic with distinct linguistic , cultural , and social groups , while popularly applying that belief to the field of eugenics , in conjunction with a practice that is now called scientific racism . After the Nazi eugenics program , racial essentialism lost widespread popularity . Race anthropologists were pressured to acknowledge findings coming from studies of culture and population genetics , and to revise their conclusions about the sources of phenotypic variation .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-1-17-3" docsrc="Race_(human_categorization)">
+      <context> These <head>features</head> are the distinguishing features of how the concept of race is used today . In this way the idea of race as we understand it today came about during the historical process of exploration and conquest which brought Europeans into contact with groups from different continents , and of the ideology of classification and typology found in the natural sciences . === Race and colonialism ===</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-1-27-6" docsrc="Race_(human_categorization)">
+      <context> In <head>the</head> United States the racial theories of Thomas Jefferson were influential . He saw Africans as inferior to Whites especially in regards to their intellect , and imbued with unnatural sexual appetites , but described Native Americans as equals to whites . === Race and polygenism ===</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-1-284-1" docsrc="Race_(human_categorization)">
+      <context> RACE <head>:</head> Are we so different ? , a public education program by the American Anthropological Association . === Popular press === " Race ( human ) " , Encyclopædia Britannica Online .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-1-8-3" docsrc="Race_(human_categorization)">
+      <context> In <head>this</head> sense , races are said to be social constructs . These constructs develop within various legal , economic , and sociopolitical contexts , and may be the effect , rather than the cause , of major social situations . While race is understood to be a social construct by many , most scholars agree that race has real material effects in the lives of people through institutionalized practices of preference and discrimination .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-10-7-3" docsrc="Race_(human_categorization)">
+      <context> Nonetheless , some scholars argue that racial categories correlate with <head>biological</head> traits ( e.g. phenotype ) , and that certain genetic markers have varying frequencies among human populations , some of which correspond more or less to traditional racial groupings . For this reason , there is no current consensus about whether racial categories can be considered to have significance for understanding human genetic variation . When people define and talk about a particular conception of race , they create a social reality through which social categorization is achieved .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-11-17-1" docsrc="Race_(human_categorization)">
+      <context> A large body of scholarship has traced the relationships between the <head>historical</head> , social production of race in legal and criminal language , and their effects on the policing and disproportionate incarceration of certain groups . Groups of humans have always identified themselves as distinct from neighboring groups , but such differences have not always been understood to be natural , immutable and global . These features are the distinguishing features of how the concept of race is used today .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-11-8-4" docsrc="Race_(human_categorization)">
+      <context> These constructs develop within various legal , economic , and sociopolitical <head>contexts</head> , and may be the effect , rather than the cause , of major social situations . While race is understood to be a social construct by many , most scholars agree that race has real material effects in the lives of people through institutionalized practices of preference and discrimination . Socioeconomic factors , in combination with early but enduring views of race , have led to considerable suffering within disadvantaged racial groups .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-12-154-1" docsrc="Race_(human_categorization)">
+      <context> The decennial censuses conducted since 1790 in the United States created an <head>incentive</head> to establish racial categories and fit people into these categories . In Poland , the race concept was rejected by 25 percent of anthropologists in 2001 , although : " Unlike the U.S. anthropologists , Polish anthropologists tend to regard race as a term without taxonomic value , often as a substitute for population . " Lieberman et al . in a 2004 study researched the acceptance of race as a concept among anthropologists in the United States , Canada , the Spanish speaking areas , Europe , Russia and China .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-12-175-1" docsrc="Race_(human_categorization)">
+      <context> cultural anthropologists 53 % The figure for physical anthropologists at PhD granting <head>departments</head> was slightly higher , rising from 41 % to 42 % , with 50 % agreeing . Lieberman 's study also showed that more women reject the concept of race than men .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-12-175-2" docsrc="Race_(human_categorization)">
+      <context> The figure for physical anthropologists at PhD granting departments was slightly higher <head>,</head> rising from 41 % to 42 % , with 50 % agreeing . Lieberman 's study also showed that more women reject the concept of race than men . This survey , however , did not specify any particular definition of race ( although it did clearly specify biological race within the species Homo sapiens ) ; it is difficult to say whether those who supported the statement thought of race in taxonomic or population terms .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-12-279-1" docsrc="Race_(human_categorization)">
+      <context> US Census Bureau : Definition of Race " Statement on Biological Aspects <head>of</head> Race " , American Association of Physical Anthropologists " Standards for Maintaining , Collecting , and Presenting Federal Data on Race and Ethnicity " , Federal Register , 1997 , Department of Interior</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-12-80-3" docsrc="Race_(human_categorization)">
+      <context> He further argued that one could use the term race if one <head>distinguished</head> between " race differences " and " the race concept " . The former refers to any distinction in gene frequencies between populations ; the latter is " a matter of judgment " . He further observed that even when there is clinal variation , " Race differences are objectively ascertainable biological phenomena ... but it does not follow that racially distinct populations must be given racial ( or subspecific ) labels . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-12-97-4" docsrc="Race_(human_categorization)">
+      <context> This translates to an estimated 85 % of the variation measured in <head>the</head> overall human population is found within individuals of the same population , and about 15 % of the variation occurs between populations . These estimates imply that any two individuals from different populations are almost as likely to be more similar to each other than either is to a member of their own group . Richard Lewontin , who affirmed these ratios , thus concluded neither " race " nor " subspecies " were appropriate or useful ways to describe human populations .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-13-160-1" docsrc="Race_(human_categorization)">
+      <context> Methods used in the studies reported included questionnaires and content analysis . === <head>United</head> States === One result of debates over the meaning and validity of the concept of race is that the current literature across different disciplines regarding human variation lacks consensus , though within some fields , such as some branches of anthropology , there is strong consensus .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-13-78-2" docsrc="Race_(human_categorization)">
+      <context> ===== Clines ===== In a response to Livingstone , Theodore Dobzhansky argued that <head>when</head> talking about race one must be attentive to how the term is being used : " I agree with Dr. Livingstone that if races have to be ' discrete units ' , then there are no races , and if ' race ' is used as an ' explanation ' of the human variability , rather than vice versa , then the explanation is invalid . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-14-1-2" docsrc="Race_(human_categorization)">
+      <context> Social conceptions and groupings of races vary over time , involving folk taxonomies that <head>define</head> essential types of individuals based on perceived traits . Scientists consider biological essentialism obsolete , and generally discourage racial explanations for collective differentiation in both physical and behavioral traits . Even though there is a broad scientific agreement that essentialist and typological conceptualizations of race are untenable , scientists around the world continue to conceptualize race in widely differing ways , some of which have essentialist implications .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-14-11-2" docsrc="Race_(human_categorization)">
+      <context> Scholars continue to debate the degrees to which racial categories are biologically warranted and <head>socially</head> constructed , as well as the extent to which the realities of race must be acknowledged in order for society to comprehend and address racism adequately . Accordingly , the racial paradigms employed in different disciplines vary in their emphasis on biological reduction as contrasted with societal construction . In the social sciences , theoretical frameworks such as racial formation theory and critical race theory investigate implications of race as social construction by exploring how the images , ideas and assumptions of race are expressed in everyday life .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-14-132-1" docsrc="Race_(human_categorization)">
+      <context> ==== European Union ==== According to European Council : The European Union rejects theories <head>which</head> attempt to determine the existence of separate human races .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-14-45-3" docsrc="Race_(human_categorization)">
+      <context> After the Nazi eugenics program , racial essentialism lost widespread popularity . Race anthropologists <head>were</head> pressured to acknowledge findings coming from studies of culture and population genetics , and to revise their conclusions about the sources of phenotypic variation . A significant number of modern anthropologists and biologists in the West came to view race as an invalid genetic or biological designation .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-14-73-5" docsrc="Race_(human_categorization)">
+      <context> The smooth gradation of human genetic variation in general tends to rule out any <head>idea</head> that human population groups can be considered monophyletic ( cleanly divided ) , as there appears to always have been considerable gene flow between human populations . Rachel Caspari ( 2003 ) have argued that clades are by definition monophyletic groups ( a taxon that includes all descendants of a given ancestor ) and since no groups currently regarded as races are monophyletic , none of those groups can be clades . Robin Andreasen ( 2000 ) proposes that cladistics can be used to categorize human races biologically , and that races can be both biologically real and socially constructed .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-14-74-4" docsrc="Race_(human_categorization)">
+      <context> For example , the large and highly diverse macroethnic groups of East Indians , <head>North</head> Africans , and Europeans are presumptively grouped as Caucasians prior to the analysis of their DNA variation . This is claimed to limit and skew interpretations , obscure other lineage relationships , deemphasize the impact of more immediate clinal environmental factors on genomic diversity , and can cloud our understanding of the true patterns of affinity . They argue that however significant the empirical research , these studies use the term race in conceptually imprecise and careless ways .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-15-80-1" docsrc="Race_(human_categorization)">
+      <context> Clines ===== In a response to Livingstone , Theodore Dobzhansky argued that when talking about <head>race</head> one must be attentive to how the term is being used : " I agree with Dr. Livingstone that if races have to be ' discrete units ' , then there are no races , and if ' race ' is used as an ' explanation ' of the human variability , rather than vice versa , then the explanation is invalid . " He further argued that one could use the term race if one distinguished between " race differences " and " the race concept " .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-16-12-1" docsrc="Race_(human_categorization)">
+      <context> Accordingly , the racial paradigms employed in different disciplines vary in their emphasis on biological reduction <head>as</head> contrasted with societal construction . In the social sciences , theoretical frameworks such as racial formation theory and critical race theory investigate implications of race as social construction by exploring how the images , ideas and assumptions of race are expressed in everyday life . A large body of scholarship has traced the relationships between the historical , social production of race in legal and criminal language , and their effects on the policing and disproportionate incarceration of certain groups .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-16-220-4" docsrc="Race_(human_categorization)">
+      <context> He asked , " If races do n't exist , why are forensic anthropologists so good <head>at</head> identifying them ? " He concluded : [ T]he successful assignment of race to a skeletal specimen is not a vindication of the race concept , but rather a prediction that an individual , while alive was assigned to a particular socially constructed " racial " category .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-16-43-1" docsrc="Race_(human_categorization)">
+      <context> Models of human evolution === === Biological classification === In the early 20th century , many <head>anthropologists</head> accepted and taught the belief that biologically distinct races were isomorphic with distinct linguistic , cultural , and social groups , while popularly applying that belief to the field of eugenics , in conjunction with a practice that is now called scientific racism .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-16-8-3" docsrc="Race_(human_categorization)">
+      <context> In this sense , races are said to be social constructs . These constructs develop within <head>various</head> legal , economic , and sociopolitical contexts , and may be the effect , rather than the cause , of major social situations . While race is understood to be a social construct by many , most scholars agree that race has real material effects in the lives of people through institutionalized practices of preference and discrimination .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-17-116-2" docsrc="Race_(human_categorization)">
+      <context> Stephan Palmié asserted that race " is not a thing but a social relation " ; or <head>,</head> in the words of Katya Gibel Mevorach , " a metonym " , " a human invention whose criteria for differentiation are neither universal nor fixed but have always been used to manage difference . " As such , the use of the term " race " itself must be analyzed . Moreover , they argue that biology will not explain why or how people use the idea of race : History and social relationships will .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-17-220-1" docsrc="Race_(human_categorization)">
+      <context> ==== Forensic anthropology ==== Similarly , forensic anthropologists draw on highly heritable morphological features of human remains <head>(</head> e.g. cranial measurements ) to aid in the identification of the body , including in terms of race . In a 1992 article , anthropologist Norman Sauer noted that anthropologists had generally abandoned the concept of race as a valid representation of human biological diversity , except for forensic anthropologists .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-17-264-5" docsrc="Race_(human_categorization)">
+      <context> doi:10.1038/ng1435 . PMID 15508000 . Smedley , Audrey ( March 14 , 2007 ) . " The <head>History</head> of the Idea of Race ... and Why It Matters " ( PDF ) .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-17-74-7" docsrc="Race_(human_categorization)">
+      <context> They suggest that the authors of these studies find support for racial distinctions only because they began <head>by</head> assuming the validity of race . " For empirical reasons we prefer to place emphasis on clinal variation , which recognizes the existence of adaptive human hereditary variation and simultaneously stresses that such variation is not found in packages that can be labeled races . " These scientists do not dispute the importance of cladistic research , only its retention of the word race , when reference to populations and clinal gradations are more than adequate to describe the results .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-18-210-3" docsrc="Race_(human_categorization)">
+      <context> From the perspective of law enforcement officers , it is generally more important to arrive at a description <head>that</head> will readily suggest the general appearance of an individual than to make a scientifically valid categorization by DNA or other such means . Thus , in addition to assigning a wanted individual to a racial category , such a description will include : height , weight , eye color , scars and other distinguishing characteristics . In many countries , such as France , the state is legally banned from maintaining data based on race , which often makes the police issue wanted notices to the public that include labels like " dark skin complexion " , etc .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-18-52-3" docsrc="Race_(human_categorization)">
+      <context> Generally , when it is used it is effectively a synonym of subspecies . ( For animals , <head>the</head> only taxonomic unit below the species level is usually the subspecies ; there are narrower infraspecific ranks in botany , and race does not correspond directly with any of them . ) Population geneticists have debated whether the concept of population can provide a basis for a new conception of race .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-19-11-2" docsrc="Race_(human_categorization)">
+      <context> Scholars continue to debate the degrees to which racial categories are biologically warranted and socially constructed , as well <head>as</head> the extent to which the realities of race must be acknowledged in order for society to comprehend and address racism adequately . Accordingly , the racial paradigms employed in different disciplines vary in their emphasis on biological reduction as contrasted with societal construction . In the social sciences , theoretical frameworks such as racial formation theory and critical race theory investigate implications of race as social construction by exploring how the images , ideas and assumptions of race are expressed in everyday life .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-19-136-6" docsrc="Race_(human_categorization)">
+      <context> In some states , it is strongly associated with laws promulgated by the Nazi and Fascist governments in Europe <head>during</head> the 1930s and 1940s . Indeed , in 1996 , the European Parliament adopted a resolution stating that " the term should therefore be avoided in all official texts " . The concept of racial origin relies on the notion that human beings can be separated into biologically distinct " races " , an idea generally rejected by the scientific community .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-19-222-2" docsrc="Race_(human_categorization)">
+      <context> [ T]he successful assignment of race to a skeletal specimen is not a vindication of the race concept , <head>but</head> rather a prediction that an individual , while alive was assigned to a particular socially constructed " racial " category . A specimen may display features that point to African ancestry . In this country that person is likely to have been labeled Black regardless of whether or not such a race actually exists in nature .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-19-251-3" docsrc="Race_(human_categorization)">
+      <context> How many genetic markers a commercial service uses likely varies , although new technology has continually allowed increasing numbers <head>to</head> be analyzed . In the end , people usually base their individual identity more on family and personal relationships of community than data . Jorde , LB ; Wooding , SP ( November 2004 ) . " Genetic variation , classification and ' race ' " .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-19-73-5" docsrc="Race_(human_categorization)">
+      <context> The smooth gradation of human genetic variation in general tends to rule out any idea that human population groups <head>can</head> be considered monophyletic ( cleanly divided ) , as there appears to always have been considerable gene flow between human populations . Rachel Caspari ( 2003 ) have argued that clades are by definition monophyletic groups ( a taxon that includes all descendants of a given ancestor ) and since no groups currently regarded as races are monophyletic , none of those groups can be clades . Robin Andreasen ( 2000 ) proposes that cladistics can be used to categorize human races biologically , and that races can be both biologically real and socially constructed .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-2-117-3" docsrc="Race_(human_categorization)">
+      <context> Perry 's <head>work</head> focuses on how race is experienced . Perry tells us that race " is produced by social arrangements and political decision making . " Perry explains race more in stating , " race is something that happens , rather than something that is .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-2-156-1" docsrc="Race_(human_categorization)">
+      <context> In Poland <head>,</head> the race concept was rejected by 25 percent of anthropologists in 2001 , although : " Unlike the U.S. anthropologists , Polish anthropologists tend to regard race as a term without taxonomic value , often as a substitute for population . " Lieberman et al . in a 2004 study researched the acceptance of race as a concept among anthropologists in the United States , Canada , the Spanish speaking areas , Europe , Russia and China . Rejection of race ranged from high to low , with the highest rejection rate in the United States and Canada , a moderate rejection rate in Europe , and the lowest rejection rate in Russia and China .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-2-272-1" docsrc="Race_(human_categorization)">
+      <context> Race : <head>the</head> Power of an Illusion companion website to California Newsreel feature , 2003 , PBS James , Michael ( 2008 ) " Race " , Stanford Encyclopedia of Philosophy . " Understanding Race " , American Anthropological Association 's educational website , with links for primary school educators and researchers</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-2-276-1" docsrc="Race_(human_categorization)">
+      <context> " Understanding <head>Race</head> " , American Anthropological Association 's educational website , with links for primary school educators and researchers === Official statements and standards === " The Race Question " , UNESCO , 1950</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-2-50-1" docsrc="Race_(human_categorization)">
+      <context> the component <head>of</head> human diversity that was not cultural , polymorphic , or clinal – was very small . A consensus consequently developed among anthropologists and geneticists that race as the previous generation had known it – as largely discrete , geographically distinct , gene pools – did not exist . The term race in biology is used with caution because it can be ambiguous .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-20-175-2" docsrc="Race_(human_categorization)">
+      <context> The figure for physical anthropologists at PhD granting departments was slightly higher , rising from 41 % to 42 % <head>,</head> with 50 % agreeing . Lieberman 's study also showed that more women reject the concept of race than men . This survey , however , did not specify any particular definition of race ( although it did clearly specify biological race within the species Homo sapiens ) ; it is difficult to say whether those who supported the statement thought of race in taxonomic or population terms .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-20-67-1" docsrc="Race_(human_categorization)">
+      <context> Isolated populations within previously designated subspecies have been found to exist . The criteria for classification may be arbitrary if <head>they</head> ignore gradual variation in traits . Sesardic argues that when several traits are analyzed at the same time , forensic anthropologists can classify a person 's race with an accuracy of close to 100 % based on only skeletal remains .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-21-0-1" docsrc="Race_(human_categorization)">
+      <context> Race , as a social construct , is a group of people who share similar and distinct physical characteristics , as <head>well</head> as shared cultural practices and affectations . First used to refer to speakers of a common language and then to denote national affiliations , by the 17th century race began to refer to physical ( i.e. phenotypical ) traits .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-21-21-5" docsrc="Race_(human_categorization)">
+      <context> Drawing on Classical sources and upon their own internal interactions—for example , the hostility between the English and Irish powerfully influenced <head>early</head> European thinking about the differences between people—Europeans began to sort themselves and others into groups based on physical appearance , and to attribute to individuals belonging to these groups behaviors and capacities which were claimed to be deeply ingrained . A set of folk beliefs took hold that linked inherited physical differences between groups to inherited intellectual , behavioral , and moral qualities . Similar ideas can be found in other cultures , for example in China , where a concept often translated as " race " was associated with supposed common descent from the Yellow Emperor , and used to stress the unity of ethnic groups in China .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-21-265-2" docsrc="Race_(human_categorization)">
+      <context> Smedley , Audrey ( March 14 , 2007 ) . " The History of the Idea of Race ... and Why <head>It</head> Matters " ( PDF ) . presented at the conference " Race , Human Variation and Disease : Consensus and Frontiers " sponsored by the American Anthropological Association . Lieberman , Leonard ; Hampton , Raymond E. ; Littlefield , Alice ; Hallead , Glen ( 1992 ) . " Race in Biology and Anthropology : A Study of College Texts and Professors " .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-21-80-1" docsrc="Race_(human_categorization)">
+      <context> Clines ===== In a response to Livingstone , Theodore Dobzhansky argued that when talking about race one must be attentive to <head>how</head> the term is being used : " I agree with Dr. Livingstone that if races have to be ' discrete units ' , then there are no races , and if ' race ' is used as an ' explanation ' of the human variability , rather than vice versa , then the explanation is invalid . " He further argued that one could use the term race if one distinguished between " race differences " and " the race concept " .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-21-84-5" docsrc="Race_(human_categorization)">
+      <context> This pattern is referred to as nonconcordant variation . Because the variation of physical traits is clinal and nonconcordant , anthropologists <head>of</head> the late 19th and early 20th centuries discovered that the more traits and the more human groups they measured , the fewer discrete differences they observed among races and the more categories they had to create to classify human beings . The number of races observed expanded to the 1930s and 1950s , and eventually anthropologists concluded that there were no discrete races .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-22-24-1" docsrc="Race_(human_categorization)">
+      <context> Brutal conflicts between ethnic groups have existed throughout history and across the world . === Early taxonomic models === The 1775 treatise <head>"</head> The Natural Varieties of Mankind " , by Johann Friedrich Blumenbach proposed five major divisions : the Caucasoid race , Mongoloid race , Ethiopian race ( later termed Negroid , and not to be confused with the narrower Ethiopid race ) , American Indian race , and Malayan race , but he did not propose any hierarchy among the races .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-22-46-1" docsrc="Race_(human_categorization)">
+      <context> A significant number of modern anthropologists and biologists in the West came to view race as an invalid genetic or biological designation <head>.</head> The first to challenge the concept of race on empirical grounds were the anthropologists Franz Boas , who provided evidence of phenotypic plasticity due to environmental factors , and Ashley Montagu , who relied on evidence from genetics . E. O. Wilson then challenged the concept from the perspective of general animal systematics , and further rejected the claim that " races " were equivalent to " subspecies " .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-22-74-5" docsrc="Race_(human_categorization)">
+      <context> This is claimed to limit and skew interpretations , obscure other lineage relationships , deemphasize the impact of more immediate clinal environmental <head>factors</head> on genomic diversity , and can cloud our understanding of the true patterns of affinity . They argue that however significant the empirical research , these studies use the term race in conceptually imprecise and careless ways . They suggest that the authors of these studies find support for racial distinctions only because they began by assuming the validity of race .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-24-116-3" docsrc="Race_(human_categorization)">
+      <context> As such , the use of the term " race " itself must be analyzed . Moreover , they argue that biology will not <head>explain</head> why or how people use the idea of race : History and social relationships will . Imani Perry , a professor in the Center for African American Studies at Princeton University , has made significant contributions to how we define race in America today .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-24-189-1" docsrc="Race_(human_categorization)">
+      <context> ==== Other fields ==== In the same 1985 survey ( Lieberman et al . 1992 ) , 16 % of the surveyed biologists and <head>36</head> % of the surveyed developmental psychologists disagreed with the proposition : " There are biological races in the species Homo sapiens . " A 1994 examination of 32 English sport/exercise science textbooks found that 7 ( 21.9 % ) claimed that there are biophysical differences due to race that might explain differences in sports performance , 24 ( 75 % ) did not mention nor refute the concept , and 1 ( 3.12 % ) expressed caution with the idea .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-24-80-4" docsrc="Race_(human_categorization)">
+      <context> The former refers to any distinction in gene frequencies between populations ; the latter is " a matter of judgment " . He further <head>observed</head> that even when there is clinal variation , " Race differences are objectively ascertainable biological phenomena ... but it does not follow that racially distinct populations must be given racial ( or subspecific ) labels . " In short , Livingstone and Dobzhansky agree that there are genetic differences among human beings ; they also agree that the use of the race concept to classify people , and how the race concept is used , is a matter of social convention .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-24-98-1" docsrc="Race_(human_categorization)">
+      <context> However , others have noticed that group variation was relatively similar to the variation observed in other mammalian species . Wright himself believed that <head>values</head> &gt;0.25 represent very great genetic variation and that an FST of 0.15–0.25 represented great variation . However , about 5 % of human variation occurs between populations within continents , therefore FST values between continental groups of humans ( or races ) of as low as 0.1 ( or possibly lower ) have been found in some studies , suggesting more moderate levels of genetic variation .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-25-1-2" docsrc="Race_(human_categorization)">
+      <context> Social conceptions and groupings of races vary over time , involving folk taxonomies that define essential types of individuals based on perceived traits . Scientists <head>consider</head> biological essentialism obsolete , and generally discourage racial explanations for collective differentiation in both physical and behavioral traits . Even though there is a broad scientific agreement that essentialist and typological conceptualizations of race are untenable , scientists around the world continue to conceptualize race in widely differing ways , some of which have essentialist implications .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-25-24-1" docsrc="Race_(human_categorization)">
+      <context> Brutal conflicts between ethnic groups have existed throughout history and across the world . === Early taxonomic models === The 1775 treatise " The Natural <head>Varieties</head> of Mankind " , by Johann Friedrich Blumenbach proposed five major divisions : the Caucasoid race , Mongoloid race , Ethiopian race ( later termed Negroid , and not to be confused with the narrower Ethiopid race ) , American Indian race , and Malayan race , but he did not propose any hierarchy among the races .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-26-27-2" docsrc="Race_(human_categorization)">
+      <context> From the 17th through 19th centuries , the merging of folk beliefs about group differences with scientific explanations of those differences produced what one scholar has <head>called</head> an " ideology of race " . According to this ideology , races are primordial , natural , enduring and distinct . It was further argued that some groups may be the result of mixture between formerly distinct populations , but that careful study could distinguish the ancestral races that had combined to produce admixed groups .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-26-52-2" docsrc="Race_(human_categorization)">
+      <context> The term race in biology is used with caution because it can be ambiguous . Generally , when it is used it is effectively a synonym <head>of</head> subspecies . ( For animals , the only taxonomic unit below the species level is usually the subspecies ; there are narrower infraspecific ranks in botany , and race does not correspond directly with any of them . )</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-27-136-2" docsrc="Race_(human_categorization)">
+      <context> The European Union uses the terms racial origin and ethnic origin synonymously in its documents and according to it " the use of the term ' racial <head>origin</head> ' in this directive does not imply an acceptance of such [ racial ] theories " . Haney López warns that using " race " as a category within the law tends to legitimize its existence in the popular imagination . In the diverse geographic context of Europe , ethnicity and ethnic origin are arguably more resonant and are less encumbered by the ideological baggage associated with " race " .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-27-137-2" docsrc="Race_(human_categorization)">
+      <context> The concept of racial origin relies on the notion that human beings can be separated into biologically distinct " races " , an idea generally rejected by <head>the</head> scientific community . Since all human beings belong to the same species , the ECRI ( European Commission against Racism and Intolerance ) rejects theories based on the existence of different " races " . However , in its Recommendation ECRI uses this term in order to ensure that those persons who are generally and erroneously perceived as belonging to " another race " are not excluded from the protection provided for by the legislation .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-27-73-6" docsrc="Race_(human_categorization)">
+      <context> Rachel Caspari ( 2003 ) have argued that clades are by definition monophyletic groups ( a taxon that includes all descendants of a given ancestor ) and <head>since</head> no groups currently regarded as races are monophyletic , none of those groups can be clades . Robin Andreasen ( 2000 ) proposes that cladistics can be used to categorize human races biologically , and that races can be both biologically real and socially constructed . For the anthropologists Lieberman and Jackson ( 1995 ) , however , there are more profound methodological and conceptual problems with using cladistics to support concepts of race .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-27-9-4" docsrc="Race_(human_categorization)">
+      <context> As a result , racial groups possessing relatively little power often find themselves excluded or oppressed , while hegemonic individuals and institutions are charged with holding racist <head>attitudes</head> . Racism has led to many instances of tragedy , including slavery and genocide . Scholars continue to debate the degrees to which racial categories are biologically warranted and socially constructed , as well as the extent to which the realities of race must be acknowledged in order for society to comprehend and address racism adequately .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-28-2-1" docsrc="Race_(human_categorization)">
+      <context> Scientists consider biological essentialism obsolete , and generally discourage racial explanations for collective differentiation in both physical and behavioral traits . Even though there is a broad scientific <head>agreement</head> that essentialist and typological conceptualizations of race are untenable , scientists around the world continue to conceptualize race in widely differing ways , some of which have essentialist implications . While some researchers sometimes use the concept of race to make distinctions among fuzzy sets of traits , others in the scientific community suggest that the idea of race often is used in a naive or simplistic way , and argue that , among humans , race has no taxonomic significance by pointing out that all living humans belong to the same species , Homo sapiens , and subspecies , Homo sapiens sapiens .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-28-24-1" docsrc="Race_(human_categorization)">
+      <context> Brutal conflicts between ethnic groups have existed throughout history and across the world . === Early taxonomic models === The 1775 treatise " The Natural Varieties of Mankind <head>"</head> , by Johann Friedrich Blumenbach proposed five major divisions : the Caucasoid race , Mongoloid race , Ethiopian race ( later termed Negroid , and not to be confused with the narrower Ethiopid race ) , American Indian race , and Malayan race , but he did not propose any hierarchy among the races .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-29-137-1" docsrc="Race_(human_categorization)">
+      <context> Indeed , in 1996 , the European Parliament adopted a resolution stating that " the term should therefore be avoided in all official texts " . The concept of <head>racial</head> origin relies on the notion that human beings can be separated into biologically distinct " races " , an idea generally rejected by the scientific community . Since all human beings belong to the same species , the ECRI ( European Commission against Racism and Intolerance ) rejects theories based on the existence of different " races " .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-29-149-1" docsrc="Race_(human_categorization)">
+      <context> In the United States , views of race that see racial groups as defined genetically are common in the biological sciences although controversial , whereas the social constructionist view <head>is</head> dominant in the social sciences . The decennial censuses conducted since 1790 in the United States created an incentive to establish racial categories and fit people into these categories . In Poland , the race concept was rejected by 25 percent of anthropologists in 2001 , although : " Unlike the U.S. anthropologists , Polish anthropologists tend to regard race as a term without taxonomic value , often as a substitute for population . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-29-208-1" docsrc="Race_(human_categorization)">
+      <context> Biomedicine === === Law enforcement === In an attempt to provide general descriptions that may facilitate the job of law enforcement officers seeking to apprehend suspects , the United <head>States</head> FBI employs the term " race " to summarize the general appearance ( skin color , hair texture , eye shape , and other such easily noticed characteristics ) of individuals whom they are attempting to apprehend .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-3-125-2" docsrc="Race_(human_categorization)">
+      <context> Over a dozen <head>racial</head> categories would be recognized in conformity with all the possible combinations of hair color , hair texture , eye color , and skin color . These types grade into each other like the colors of the spectrum , and not one category stands significantly isolated from the rest . That is , race referred preferentially to appearance , not heredity , and appearance is a poor indication of ancestry , because only a few genes are responsible for someone 's skin color and traits : a person who is considered white may have more African ancestry than a person who is considered black , and the reverse can be also true about European ancestry .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-3-84-5" docsrc="Race_(human_categorization)">
+      <context> This pattern is <head>referred</head> to as nonconcordant variation . Because the variation of physical traits is clinal and nonconcordant , anthropologists of the late 19th and early 20th centuries discovered that the more traits and the more human groups they measured , the fewer discrete differences they observed among races and the more categories they had to create to classify human beings . The number of races observed expanded to the 1930s and 1950s , and eventually anthropologists concluded that there were no discrete races .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-30-167-1" docsrc="Race_(human_categorization)">
+      <context> ==== U.S. anthropology ==== The " Statement on ' Race ' " ( 1998 ) composed by a select committee of anthropologists and issued by the executive board of the <head>American</head> Anthropological Association as a statement they " believe [ ... ] represents generally the contemporary thinking and scholarly positions of a majority of anthropologists " , declares : A survey , taken in 1985 ( Lieberman et al . 1992 ) , asked 1,200 American scientists how many disagree with the following proposition : " There are biological races in the species Homo sapiens . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-30-2-2" docsrc="Race_(human_categorization)">
+      <context> Even though there is a broad scientific agreement that essentialist and typological conceptualizations of race are untenable , scientists around the world continue to conceptualize race in widely differing ways <head>,</head> some of which have essentialist implications . While some researchers sometimes use the concept of race to make distinctions among fuzzy sets of traits , others in the scientific community suggest that the idea of race often is used in a naive or simplistic way , and argue that , among humans , race has no taxonomic significance by pointing out that all living humans belong to the same species , Homo sapiens , and subspecies , Homo sapiens sapiens . Other researchers contend that changes in the ways in which genetics is being practiced and promoted , as well as the " confusion of analytical domains in making assertions about race , " are undermining the validity of the position that race is a social construct .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-31-195-2" docsrc="Race_(human_categorization)">
+      <context> 33 health services researchers from differing geographic regions were interviewed in a 2008 study . The researchers recognized the problems with racial and ethnic variables but the majority still believed these <head>variables</head> were necessary and useful . A 2010 examination of 18 widely used English anatomy textbooks found that they all represented human biological variation in superficial and outdated ways , many of them making use of the race concept in ways that were current in 1950s anthropology .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-31-218-1" docsrc="Race_(human_categorization)">
+      <context> Proponents of DNA profiling in criminal investigations cite cases where leads based on DNA analysis proved useful , but the practice remains controversial among medical ethicists , defense lawyers and some <head>in</head> law enforcement . ==== Forensic anthropology ==== Similarly , forensic anthropologists draw on highly heritable morphological features of human remains ( e.g. cranial measurements ) to aid in the identification of the body , including in terms of race .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-31-26-2" docsrc="Race_(human_categorization)">
+      <context> The 1775 treatise " The Natural Varieties of Mankind " , by Johann Friedrich Blumenbach proposed five major divisions : the Caucasoid race , Mongoloid race , Ethiopian race ( later <head>termed</head> Negroid , and not to be confused with the narrower Ethiopid race ) , American Indian race , and Malayan race , but he did not propose any hierarchy among the races . Blumenbach also noted the graded transition in appearances from one group to adjacent groups and suggested that " one variety of mankind does so sensibly pass into the other , that you can not mark out the limits between them " . From the 17th through 19th centuries , the merging of folk beliefs about group differences with scientific explanations of those differences produced what one scholar has called an " ideology of race " .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-33-11-2" docsrc="Race_(human_categorization)">
+      <context> Scholars continue to debate the degrees to which racial categories are biologically warranted and socially constructed , as well as the extent to which the realities of race must be acknowledged in order <head>for</head> society to comprehend and address racism adequately . Accordingly , the racial paradigms employed in different disciplines vary in their emphasis on biological reduction as contrasted with societal construction . In the social sciences , theoretical frameworks such as racial formation theory and critical race theory investigate implications of race as social construction by exploring how the images , ideas and assumptions of race are expressed in everyday life .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-33-73-4" docsrc="Race_(human_categorization)">
+      <context> This would make a subspecies , evolutionarily speaking , a clade – a group with a common evolutionary ancestor population . The smooth gradation of human genetic variation in general tends to rule <head>out</head> any idea that human population groups can be considered monophyletic ( cleanly divided ) , as there appears to always have been considerable gene flow between human populations . Rachel Caspari ( 2003 ) have argued that clades are by definition monophyletic groups ( a taxon that includes all descendants of a given ancestor ) and since no groups currently regarded as races are monophyletic , none of those groups can be clades .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-33-80-4" docsrc="Race_(human_categorization)">
+      <context> The former refers to any distinction in gene frequencies between populations ; the latter is " a matter of judgment " . He further observed that even when there is clinal variation , <head>"</head> Race differences are objectively ascertainable biological phenomena ... but it does not follow that racially distinct populations must be given racial ( or subspecific ) labels . " In short , Livingstone and Dobzhansky agree that there are genetic differences among human beings ; they also agree that the use of the race concept to classify people , and how the race concept is used , is a matter of social convention .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-34-78-2" docsrc="Race_(human_categorization)">
+      <context> ===== Clines ===== In a response to Livingstone , Theodore Dobzhansky argued that when talking about race one must be attentive to how the term is being used : " I agree with Dr. <head>Livingstone</head> that if races have to be ' discrete units ' , then there are no races , and if ' race ' is used as an ' explanation ' of the human variability , rather than vice versa , then the explanation is invalid . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-35-178-1" docsrc="Race_(human_categorization)">
+      <context> physical anthropologists 69 % cultural anthropologists 80 % However , a line of research conducted by Cartmill ( 1998 ) seemed to limit the scope of Lieberman 's finding that there was " a significant <head>degree</head> of change in the status of the race concept " .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-36-188-1" docsrc="Race_(human_categorization)">
+      <context> He states : ==== Other fields ==== In the same 1985 survey ( Lieberman et al . 1992 ) , 16 % of the surveyed biologists and 36 % of the surveyed developmental psychologists disagreed with <head>the</head> proposition : " There are biological races in the species Homo sapiens . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-37-74-6" docsrc="Race_(human_categorization)">
+      <context> They argue that however significant the empirical research , these studies use the term race in conceptually imprecise and careless ways . They suggest that the authors of these studies find support for racial distinctions only because <head>they</head> began by assuming the validity of race . " For empirical reasons we prefer to place emphasis on clinal variation , which recognizes the existence of adaptive human hereditary variation and simultaneously stresses that such variation is not found in packages that can be labeled races . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-39-98-3" docsrc="Race_(human_categorization)">
+      <context> However , about 5 % of human variation occurs between populations within continents , therefore FST values between continental groups of humans ( or races ) of as low as 0.1 ( or possibly lower ) have been found <head>in</head> some studies , suggesting more moderate levels of genetic variation . Graves ( 1996 ) has countered that FST should not be used as a marker of subspecies status , as the statistic is used to measure the degree of differentiation between populations , although see also Wright ( 1978 ) . In an ongoing debate , some geneticists argue that race is neither a meaningful concept nor a useful heuristic device , and even that genetic differences among groups are biologically meaningless , because more genetic variation exists within such races than among them , and that racial traits overlap without discrete boundaries .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-4-115-2" docsrc="Race_(human_categorization)">
+      <context> Craig Venter and Francis <head>Collins</head> of the National Institute of Health jointly made the announcement of the mapping of the human genome in 2000 . Upon examining the data from the genome mapping , Venter realized that although the genetic variation within the human species is on the order of 1–3 % ( instead of the previously assumed 1 % ) , the types of variations do not support notion of genetically defined races . Venter said , " Race is a social concept .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-4-115-6" docsrc="Race_(human_categorization)">
+      <context> There are no bright <head>lines</head> ( that would stand out ) , if we could compare all the sequenced genomes of everyone on the planet . " " When we try to apply science to try to sort out these social differences , it all falls apart . " Stephan Palmié asserted that race " is not a thing but a social relation " ; or , in the words of Katya Gibel Mevorach , " a metonym " , " a human invention whose criteria for differentiation are neither universal nor fixed but have always been used to manage difference . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-4-117-2" docsrc="Race_(human_categorization)">
+      <context> Imani Perry , a <head>professor</head> in the Center for African American Studies at Princeton University , has made significant contributions to how we define race in America today . Perry 's work focuses on how race is experienced . Perry tells us that race " is produced by social arrangements and political decision making . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-4-149-1" docsrc="Race_(human_categorization)">
+      <context> In the United States <head>,</head> views of race that see racial groups as defined genetically are common in the biological sciences although controversial , whereas the social constructionist view is dominant in the social sciences . The decennial censuses conducted since 1790 in the United States created an incentive to establish racial categories and fit people into these categories . In Poland , the race concept was rejected by 25 percent of anthropologists in 2001 , although : " Unlike the U.S. anthropologists , Polish anthropologists tend to regard race as a term without taxonomic value , often as a substitute for population . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-4-285-1" docsrc="Race_(human_categorization)">
+      <context> === Popular press === <head>"</head> Race ( human ) " , Encyclopædia Britannica Online . " The Myth of Race " , Medicine Magazine , 2007 .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-4-286-1" docsrc="Race_(human_categorization)">
+      <context> " Race ( human <head>)</head> " , Encyclopædia Britannica Online . " The Myth of Race " , Medicine Magazine , 2007 . Richard Dawkins : " Race and creation " , ( extract from The Ancestor 's Tale : A Pilgrimage to the Dawn of Life ) , in Prospect Magazine , October 2004</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-4-288-1" docsrc="Race_(human_categorization)">
+      <context> " The Myth of <head>Race</head> " , Medicine Magazine , 2007 . Richard Dawkins : " Race and creation " , ( extract from The Ancestor 's Tale : A Pilgrimage to the Dawn of Life ) , in Prospect Magazine , October 2004</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-4-8-1" docsrc="Race_(human_categorization)">
+      <context> For this reason , <head>there</head> is no current consensus about whether racial categories can be considered to have significance for understanding human genetic variation . When people define and talk about a particular conception of race , they create a social reality through which social categorization is achieved . In this sense , races are said to be social constructs .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-40-84-4" docsrc="Race_(human_categorization)">
+      <context> Another observation is that traits or alleles that vary from one group to another do not vary at the same rate . This pattern is referred to as nonconcordant variation . Because the variation of physical traits is clinal and <head>nonconcordant</head> , anthropologists of the late 19th and early 20th centuries discovered that the more traits and the more human groups they measured , the fewer discrete differences they observed among races and the more categories they had to create to classify human beings .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-41-175-2" docsrc="Race_(human_categorization)">
+      <context> The figure for physical anthropologists at PhD granting departments was slightly higher , rising from 41 % to 42 % , with 50 % agreeing . Lieberman 's study also showed that more women reject the concept of race than men <head>.</head> This survey , however , did not specify any particular definition of race ( although it did clearly specify biological race within the species Homo sapiens ) ; it is difficult to say whether those who supported the statement thought of race in taxonomic or population terms .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-41-2-2" docsrc="Race_(human_categorization)">
+      <context> Even though there is a broad scientific agreement that essentialist and typological conceptualizations of race are untenable , scientists around the world continue to conceptualize race in widely differing ways , some of which have essentialist implications . While some researchers <head>sometimes</head> use the concept of race to make distinctions among fuzzy sets of traits , others in the scientific community suggest that the idea of race often is used in a naive or simplistic way , and argue that , among humans , race has no taxonomic significance by pointing out that all living humans belong to the same species , Homo sapiens , and subspecies , Homo sapiens sapiens . Other researchers contend that changes in the ways in which genetics is being practiced and promoted , as well as the " confusion of analytical domains in making assertions about race , " are undermining the validity of the position that race is a social construct .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-42-213-3" docsrc="Race_(human_categorization)">
+      <context> There is active debate regarding the cause of a marked correlation between the recorded crimes , punishments meted out , and the country 's populations . Many consider de facto racial profiling an example of institutional racism in law enforcement . The <head>history</head> of misuse of racial categories to impact adversely one or more groups and/or to offer protection and advantage to another has a clear impact on debate of the legitimate use of known phenotypical or genotypical characteristics tied to the presumed race of both victims and perpetrators by the government .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-43-24-1" docsrc="Race_(human_categorization)">
+      <context> Brutal conflicts between ethnic groups have existed throughout history and across the world . === Early taxonomic models === The 1775 treatise " The Natural Varieties of Mankind " , by Johann Friedrich Blumenbach proposed five major divisions : the Caucasoid race , <head>Mongoloid</head> race , Ethiopian race ( later termed Negroid , and not to be confused with the narrower Ethiopid race ) , American Indian race , and Malayan race , but he did not propose any hierarchy among the races .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-46-2-1" docsrc="Race_(human_categorization)">
+      <context> Scientists consider biological essentialism obsolete , and generally discourage racial explanations for collective differentiation in both physical and behavioral traits . Even though there is a broad scientific agreement that essentialist and typological conceptualizations of race are untenable , scientists around the world continue to conceptualize <head>race</head> in widely differing ways , some of which have essentialist implications . While some researchers sometimes use the concept of race to make distinctions among fuzzy sets of traits , others in the scientific community suggest that the idea of race often is used in a naive or simplistic way , and argue that , among humans , race has no taxonomic significance by pointing out that all living humans belong to the same species , Homo sapiens , and subspecies , Homo sapiens sapiens .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-47-78-2" docsrc="Race_(human_categorization)">
+      <context> ===== Clines ===== In a response to Livingstone , Theodore Dobzhansky argued that when talking about race one must be attentive to how the term is being used : " I agree with Dr. Livingstone that if races have to be ' discrete units ' , then <head>there</head> are no races , and if ' race ' is used as an ' explanation ' of the human variability , rather than vice versa , then the explanation is invalid . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-48-115-1" docsrc="Race_(human_categorization)">
+      <context> === Social constructions === Craig Venter and Francis Collins of the National Institute of Health jointly made the announcement of the mapping of the human genome in 2000 . Upon examining the data from the genome mapping , Venter realized that although the genetic variation within the human <head>species</head> is on the order of 1–3 % ( instead of the previously assumed 1 % ) , the types of variations do not support notion of genetically defined races .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-48-24-1" docsrc="Race_(human_categorization)">
+      <context> Brutal conflicts between ethnic groups have existed throughout history and across the world . === Early taxonomic models === The 1775 treatise " The Natural Varieties of Mankind " , by Johann Friedrich Blumenbach proposed five major divisions : the Caucasoid race , Mongoloid race , Ethiopian race <head>(</head> later termed Negroid , and not to be confused with the narrower Ethiopid race ) , American Indian race , and Malayan race , but he did not propose any hierarchy among the races .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-5-0-3" docsrc="Race_(human_categorization)">
+      <context> First used to refer to <head>speakers</head> of a common language and then to denote national affiliations , by the 17th century race began to refer to physical ( i.e. phenotypical ) traits . The term was often used in a general biological taxonomic sense , starting from the 19th century , to denote genetically differentiated human populations defined by phenotype . Social conceptions and groupings of races vary over time , involving folk taxonomies that define essential types of individuals based on perceived traits .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-5-161-1" docsrc="Race_(human_categorization)">
+      <context> === United States === One <head>result</head> of debates over the meaning and validity of the concept of race is that the current literature across different disciplines regarding human variation lacks consensus , though within some fields , such as some branches of anthropology , there is strong consensus . Some studies use the word race in its early essentialist taxonomic sense .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-5-161-3" docsrc="Race_(human_categorization)">
+      <context> Some studies use the word <head>race</head> in its early essentialist taxonomic sense . Many others still use the term race , but use it to mean a population , clade , or haplogroup . Others eschew the concept of race altogether , and use the concept of population as a less problematic unit of analysis .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-5-165-1" docsrc="Race_(human_categorization)">
+      <context> Others eschew the concept of <head>race</head> altogether , and use the concept of population as a less problematic unit of analysis . ==== U.S. anthropology ==== The " Statement on ' Race ' " ( 1998 ) composed by a select committee of anthropologists and issued by the executive board of the American Anthropological Association as a statement they " believe [ ... ] represents generally the contemporary thinking and scholarly positions of a majority of anthropologists " , declares :</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-5-20-1" docsrc="Race_(human_categorization)">
+      <context> In this way the idea <head>of</head> race as we understand it today came about during the historical process of exploration and conquest which brought Europeans into contact with groups from different continents , and of the ideology of classification and typology found in the natural sciences . === Race and colonialism === The European concept of " race " , along with many of the ideas now associated with the term , arose at the time of the scientific revolution , which introduced and privileged the study of natural kinds , and the age of European imperialism and colonization which established political relations between Europeans and peoples with distinct cultural and political traditions .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-5-220-2" docsrc="Race_(human_categorization)">
+      <context> Similarly , forensic anthropologists draw <head>on</head> highly heritable morphological features of human remains ( e.g. cranial measurements ) to aid in the identification of the body , including in terms of race . In a 1992 article , anthropologist Norman Sauer noted that anthropologists had generally abandoned the concept of race as a valid representation of human biological diversity , except for forensic anthropologists . He asked , " If races do n't exist , why are forensic anthropologists so good at identifying them ? "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-5-220-4" docsrc="Race_(human_categorization)">
+      <context> He asked , " If <head>races</head> do n't exist , why are forensic anthropologists so good at identifying them ? " He concluded : [ T]he successful assignment of race to a skeletal specimen is not a vindication of the race concept , but rather a prediction that an individual , while alive was assigned to a particular socially constructed " racial " category .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-5-265-1" docsrc="Race_(human_categorization)">
+      <context> PMID 15508000 . Smedley , <head>Audrey</head> ( March 14 , 2007 ) . " The History of the Idea of Race ... and Why It Matters " ( PDF ) . presented at the conference " Race , Human Variation and Disease : Consensus and Frontiers " sponsored by the American Anthropological Association .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-5-27-1" docsrc="Race_(human_categorization)">
+      <context> Blumenbach also noted the graded <head>transition</head> in appearances from one group to adjacent groups and suggested that " one variety of mankind does so sensibly pass into the other , that you can not mark out the limits between them " . From the 17th through 19th centuries , the merging of folk beliefs about group differences with scientific explanations of those differences produced what one scholar has called an " ideology of race " . According to this ideology , races are primordial , natural , enduring and distinct .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-5-62-1" docsrc="Race_(human_categorization)">
+      <context> However , it is customary <head>to</head> use the term race rather than subspecies for the major subdivisions of the human species as well as for minor ones . On the other hand , in practice subspecies are often defined by easily observable physical appearance , but there is not necessarily any evolutionary significance to these observed differences , so this form of classification has become less acceptable to evolutionary biologists . Likewise this typological approach to race is generally regarded as discredited by biologists and anthropologists .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-5-80-5" docsrc="Race_(human_categorization)">
+      <context> He further observed that even <head>when</head> there is clinal variation , " Race differences are objectively ascertainable biological phenomena ... but it does not follow that racially distinct populations must be given racial ( or subspecific ) labels . " In short , Livingstone and Dobzhansky agree that there are genetic differences among human beings ; they also agree that the use of the race concept to classify people , and how the race concept is used , is a matter of social convention . They differ on whether the race concept remains a meaningful and useful social convention .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-52-24-1" docsrc="Race_(human_categorization)">
+      <context> Brutal conflicts between ethnic groups have existed throughout history and across the world . === Early taxonomic models === The 1775 treatise " The Natural Varieties of Mankind " , by Johann Friedrich Blumenbach proposed five major divisions : the Caucasoid race , Mongoloid race , Ethiopian race ( later termed Negroid <head>,</head> and not to be confused with the narrower Ethiopid race ) , American Indian race , and Malayan race , but he did not propose any hierarchy among the races .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-52-78-2" docsrc="Race_(human_categorization)">
+      <context> ===== Clines ===== In a response to Livingstone , Theodore Dobzhansky argued that when talking about race one must be attentive to how the term is being used : " I agree with Dr. Livingstone that if races have to be ' discrete units ' , then there are no races , <head>and</head> if ' race ' is used as an ' explanation ' of the human variability , rather than vice versa , then the explanation is invalid . "</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-56-179-2" docsrc="Race_(human_categorization)">
+      <context> However , a line of research conducted by Cartmill ( 1998 ) seemed to limit the scope of Lieberman 's finding that there was " a significant degree of change in the status of the race concept " . Goran Štrkalj has argued that this may be because Lieberman and collaborators had looked at all the <head>members</head> of the American Anthropological Association irrespective of their field of research interest , while Cartmill had looked specifically at biological anthropologists interested in human variation . In partial response to Gill 's statement , Professor of Biological Anthropology C. Loring Brace argues that the reason laymen and biological anthropologists can determine the geographic ancestry of an individual can be explained by the fact that biological characteristics are clinally distributed across the planet , and that does not translate into the concept of race .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-6-117-1" docsrc="Race_(human_categorization)">
+      <context> Moreover , they argue that biology <head>will</head> not explain why or how people use the idea of race : History and social relationships will . Imani Perry , a professor in the Center for African American Studies at Princeton University , has made significant contributions to how we define race in America today . Perry 's work focuses on how race is experienced .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-6-136-1" docsrc="Race_(human_categorization)">
+      <context> The European Union rejects theories which <head>attempt</head> to determine the existence of separate human races . The European Union uses the terms racial origin and ethnic origin synonymously in its documents and according to it " the use of the term ' racial origin ' in this directive does not imply an acceptance of such [ racial ] theories " . Haney López warns that using " race " as a category within the law tends to legitimize its existence in the popular imagination .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-6-161-2" docsrc="Race_(human_categorization)">
+      <context> One result of debates over the <head>meaning</head> and validity of the concept of race is that the current literature across different disciplines regarding human variation lacks consensus , though within some fields , such as some branches of anthropology , there is strong consensus . Some studies use the word race in its early essentialist taxonomic sense . Many others still use the term race , but use it to mean a population , clade , or haplogroup .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-6-17-2" docsrc="Race_(human_categorization)">
+      <context> Groups of humans have always identified <head>themselves</head> as distinct from neighboring groups , but such differences have not always been understood to be natural , immutable and global . These features are the distinguishing features of how the concept of race is used today . In this way the idea of race as we understand it today came about during the historical process of exploration and conquest which brought Europeans into contact with groups from different continents , and of the ideology of classification and typology found in the natural sciences .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-6-277-1" docsrc="Race_(human_categorization)">
+      <context> === Official statements and standards === <head>"</head> The Race Question " , UNESCO , 1950 US Census Bureau : Definition of Race</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-6-278-1" docsrc="Race_(human_categorization)">
+      <context> " The Race Question " , <head>UNESCO</head> , 1950 US Census Bureau : Definition of Race " Statement on Biological Aspects of Race " , American Association of Physical Anthropologists</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-63-24-1" docsrc="Race_(human_categorization)">
+      <context> Brutal conflicts between ethnic groups have existed throughout history and across the world . === Early taxonomic models === The 1775 treatise " The Natural Varieties of Mankind " , by Johann Friedrich Blumenbach proposed five major divisions : the Caucasoid race , Mongoloid race , Ethiopian race ( later termed Negroid , and not to be confused with the narrower Ethiopid race <head>)</head> , American Indian race , and Malayan race , but he did not propose any hierarchy among the races .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-7-144-1" docsrc="Race_(human_categorization)">
+      <context> France ==== ==== United States ==== In <head>the</head> United States , views of race that see racial groups as defined genetically are common in the biological sciences although controversial , whereas the social constructionist view is dominant in the social sciences .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-7-271-1" docsrc="Race_(human_categorization)">
+      <context> Bibcode:1992JRScT..29..301L. doi:10.1002/tea.3660290308 . Race : the Power <head>of</head> an Illusion companion website to California Newsreel feature , 2003 , PBS James , Michael ( 2008 ) " Race " , Stanford Encyclopedia of Philosophy .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-7-45-4" docsrc="Race_(human_categorization)">
+      <context> Race anthropologists were pressured to acknowledge findings <head>coming</head> from studies of culture and population genetics , and to revise their conclusions about the sources of phenotypic variation . A significant number of modern anthropologists and biologists in the West came to view race as an invalid genetic or biological designation . The first to challenge the concept of race on empirical grounds were the anthropologists Franz Boas , who provided evidence of phenotypic plasticity due to environmental factors , and Ashley Montagu , who relied on evidence from genetics .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-8-117-3" docsrc="Race_(human_categorization)">
+      <context> Perry 's work focuses on how race is <head>experienced</head> . Perry tells us that race " is produced by social arrangements and political decision making . " Perry explains race more in stating , " race is something that happens , rather than something that is .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-8-136-3" docsrc="Race_(human_categorization)">
+      <context> Haney López warns that using " race " <head>as</head> a category within the law tends to legitimize its existence in the popular imagination . In the diverse geographic context of Europe , ethnicity and ethnic origin are arguably more resonant and are less encumbered by the ideological baggage associated with " race " . In European context , historical resonance of " race " underscores its problematic nature .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-8-2-1" docsrc="Race_(human_categorization)">
+      <context> Scientists consider biological essentialism obsolete , and generally <head>discourage</head> racial explanations for collective differentiation in both physical and behavioral traits . Even though there is a broad scientific agreement that essentialist and typological conceptualizations of race are untenable , scientists around the world continue to conceptualize race in widely differing ways , some of which have essentialist implications . While some researchers sometimes use the concept of race to make distinctions among fuzzy sets of traits , others in the scientific community suggest that the idea of race often is used in a naive or simplistic way , and argue that , among humans , race has no taxonomic significance by pointing out that all living humans belong to the same species , Homo sapiens , and subspecies , Homo sapiens sapiens .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-8-213-4" docsrc="Race_(human_categorization)">
+      <context> Many consider de facto racial profiling an example <head>of</head> institutional racism in law enforcement . The history of misuse of racial categories to impact adversely one or more groups and/or to offer protection and advantage to another has a clear impact on debate of the legitimate use of known phenotypical or genotypical characteristics tied to the presumed race of both victims and perpetrators by the government . Recent work using DNA cluster analysis to determine race background has been used by some criminal investigators to narrow their search for the identity of both suspects and victims .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-9-116-1" docsrc="Race_(human_categorization)">
+      <context> " When we try to apply science to try <head>to</head> sort out these social differences , it all falls apart . " Stephan Palmié asserted that race " is not a thing but a social relation " ; or , in the words of Katya Gibel Mevorach , " a metonym " , " a human invention whose criteria for differentiation are neither universal nor fixed but have always been used to manage difference . " As such , the use of the term " race " itself must be analyzed .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-9-137-3" docsrc="Race_(human_categorization)">
+      <context> Since all human beings belong to the same species <head>,</head> the ECRI ( European Commission against Racism and Intolerance ) rejects theories based on the existence of different " races " . However , in its Recommendation ECRI uses this term in order to ensure that those persons who are generally and erroneously perceived as belonging to " another race " are not excluded from the protection provided for by the legislation . The law claims to reject the existence of " race " , yet penalize situations where someone is treated less favourably on this ground .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-9-226-5" docsrc="Race_(human_categorization)">
+      <context> African , eastern Asian , and European ancestry can <head>be</head> specified with a high degree of accuracy . Africa of course entails " black " , but " black " does not entail African . In association with a NOVA program in 2000 about race , he wrote an essay opposing use of the term .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-9-49-2" docsrc="Race_(human_categorization)">
+      <context> By the 1970s , it had become clear that <head>(</head> 1 ) most human differences were cultural ; ( 2 ) what was not cultural was principally polymorphic – that is to say , found in diverse groups of people at different frequencies ; ( 3 ) what was not cultural or polymorphic was principally clinal – that is to say , gradually variable over geography ; and ( 4 ) what was left – the component of human diversity that was not cultural , polymorphic , or clinal – was very small . A consensus consequently developed among anthropologists and geneticists that race as the previous generation had known it – as largely discrete , geographically distinct , gene pools – did not exist .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-9-61-2" docsrc="Race_(human_categorization)">
+      <context> In 1978 , Sewall Wright suggested that human populations <head>that</head> have long inhabited separated parts of the world should , in general , be considered different subspecies by the usual criterion that most individuals of such populations can be allocated correctly by inspection . Wright argued that it does not require a trained anthropologist to classify an array of Englishmen , West Africans , and Chinese with 100 % accuracy by features , skin color , and type of hair despite so much variability within each of these groups that every individual can easily be distinguished from every other . However , it is customary to use the term race rather than subspecies for the major subdivisions of the human species as well as for minor ones .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-9-80-1" docsrc="Race_(human_categorization)">
+      <context> Clines ===== In a response to Livingstone , Theodore <head>Dobzhansky</head> argued that when talking about race one must be attentive to how the term is being used : " I agree with Dr. Livingstone that if races have to be ' discrete units ' , then there are no races , and if ' race ' is used as an ' explanation ' of the human variability , rather than vice versa , then the explanation is invalid . " He further argued that one could use the term race if one distinguished between " race differences " and " the race concept " .</context>
+    </instance>
+    <instance id="Race_(human_categorization)-race-9-98-3" docsrc="Race_(human_categorization)">
+      <context> However , about 5 % of human variation occurs <head>between</head> populations within continents , therefore FST values between continental groups of humans ( or races ) of as low as 0.1 ( or possibly lower ) have been found in some studies , suggesting more moderate levels of genetic variation . Graves ( 1996 ) has countered that FST should not be used as a marker of subspecies status , as the statistic is used to measure the degree of differentiation between populations , although see also Wright ( 1978 ) . In an ongoing debate , some geneticists argue that race is neither a meaningful concept nor a useful heuristic device , and even that genetic differences among groups are biologically meaningless , because more genetic variation exists within such races than among them , and that racial traits overlap without discrete boundaries .</context>
+    </instance>
+    <instance id="Racing-race-0-7-1" docsrc="Racing">
+      <context> <head>A</head> chariot race is described in Homer 's Iliad . Running a distance is the most basic form of racing , but races may be conducted in vehicles , such as boats , cars , cycles and aircraft ; or with animals such as horses or dogs . Races may also be conducted with other modes of transport such as skis , kicksled , skates or wheelchair ; or other forms of movement such as swimming .</context>
+    </instance>
+    <instance id="Racing-race-1-0-3" docsrc="Racing">
+      <context> The <head>competitors</head> in a race try to complete a given task in the shortest amount of time . Typically this involves traversing some distance , but it can be any other task involving speed to reach a specific goal . A race may be run continuously from start to finish or may be made of several segments called heats , stages or legs .</context>
+    </instance>
+    <instance id="Racing-race-1-27-1" docsrc="Racing">
+      <context> As <head>a</head> couple of examples , see the Dakar Rally or the Athens Marathon . Drag Racing Pace race</context>
+    </instance>
+    <instance id="Racing-race-1-35-1" docsrc="Racing">
+      <context> Nuclear <head>arms</head> race Stock car racing Space Race</context>
+    </instance>
+    <instance id="Racing-race-1-7-3" docsrc="Racing">
+      <context> Races <head>may</head> also be conducted with other modes of transport such as skis , kicksled , skates or wheelchair ; or other forms of movement such as swimming . In a relay race members of a team take turns in racing parts of a circuit or performing a certain racing form . A race can also involve any other type of goal like eating .</context>
+    </instance>
+    <instance id="Racing-race-1-9-2" docsrc="Racing">
+      <context> Racing <head>can</head> also be done in more humoristic and entertaining ways such as the Sausage Race and the Red Bull Trolley Grand Prix . Racing can be entertained from around the world . A race and its name are often associated with the place of origin , the means of transport and the distance of the race .</context>
+    </instance>
+    <instance id="Racing-race-10-8-1" docsrc="Racing">
+      <context> In a relay race members of a team take turns <head>in</head> racing parts of a circuit or performing a certain racing form . A race can also involve any other type of goal like eating . A common race involving eating is a hot dog eating race , where contestants try to eat more hot dogs than the other racers .</context>
+    </instance>
+    <instance id="Racing-race-12-2-2" docsrc="Racing">
+      <context> Early records of races are evident on pottery from ancient Greece , <head>which</head> depicted running men vying for first place . A chariot race is described in Homer 's Iliad . Running a distance is the most basic form of racing , but races may be conducted in vehicles , such as boats , cars , cycles and aircraft ; or with animals such as horses or dogs .</context>
+    </instance>
+    <instance id="Racing-race-15-8-2" docsrc="Racing">
+      <context> A race can also involve any other type of goal like eating . A common <head>race</head> involving eating is a hot dog eating race , where contestants try to eat more hot dogs than the other racers . Racing can also be done in more humoristic and entertaining ways such as the Sausage Race and the Red Bull Trolley Grand Prix .</context>
+    </instance>
+    <instance id="Racing-race-2-2-1" docsrc="Racing">
+      <context> A stage <head>is</head> a shorter section of a much longer course or a time trial . Early records of races are evident on pottery from ancient Greece , which depicted running men vying for first place . A chariot race is described in Homer 's Iliad .</context>
+    </instance>
+    <instance id="Racing-race-2-33-1" docsrc="Racing">
+      <context> Pacemaker Slot <head>car</head> racing Nuclear arms race</context>
+    </instance>
+    <instance id="Racing-race-2-8-1" docsrc="Racing">
+      <context> In a <head>relay</head> race members of a team take turns in racing parts of a circuit or performing a certain racing form . A race can also involve any other type of goal like eating . A common race involving eating is a hot dog eating race , where contestants try to eat more hot dogs than the other racers .</context>
+    </instance>
+    <instance id="Racing-race-23-9-2" docsrc="Racing">
+      <context> Racing can also be done in more humoristic and entertaining ways such as the Sausage Race and the Red Bull Trolley Grand Prix <head>.</head> Racing can be entertained from around the world . A race and its name are often associated with the place of origin , the means of transport and the distance of the race .</context>
+    </instance>
+    <instance id="Racing-race-3-1-3" docsrc="Racing">
+      <context> A heat is <head>usually</head> run over the same course at different times . A stage is a shorter section of a much longer course or a time trial . Early records of races are evident on pottery from ancient Greece , which depicted running men vying for first place .</context>
+    </instance>
+    <instance id="Racing-race-3-7-2" docsrc="Racing">
+      <context> Running a distance <head>is</head> the most basic form of racing , but races may be conducted in vehicles , such as boats , cars , cycles and aircraft ; or with animals such as horses or dogs . Races may also be conducted with other modes of transport such as skis , kicksled , skates or wheelchair ; or other forms of movement such as swimming . In a relay race members of a team take turns in racing parts of a circuit or performing a certain racing form .</context>
+    </instance>
+    <instance id="Racing-race-4-0-1" docsrc="Racing">
+      <context> In sport , racing <head>is</head> a competition of speed , against an objective criterion , usually a clock or to a specific point . The competitors in a race try to complete a given task in the shortest amount of time .</context>
+    </instance>
+    <instance id="Subspecies-race-13-28-3" docsrc="Subspecies">
+      <context> These are separate groups that are clearly distinct from one another and do <head>not</head> generally interbreed ( although there may be a relatively narrow hybridization zone ) , but which may interbreed if given the chance to do so . These subspecies , races , or populations , can be named as subspecies by zoologists , or in more varied ways by botanists and microbiologists . A monotypic species has no distinct population or races , or rather one race comprising the whole species .</context>
+    </instance>
+    <instance id="Subspecies-race-20-23-1" docsrc="Subspecies">
+      <context> Subspecies are defined in relation to species . Cryptic species are morphologically similar , but have differences in DNA or <head>other</head> factors . In biological terms , rather than in relation to nomenclature , a polytypic species has two or more subspecies , races , or more generally speaking , populations that need a separate description .</context>
+    </instance>
+    <instance id="Subspecies-race-3-28-2" docsrc="Subspecies">
+      <context> In biological terms <head>,</head> rather than in relation to nomenclature , a polytypic species has two or more subspecies , races , or more generally speaking , populations that need a separate description . These are separate groups that are clearly distinct from one another and do not generally interbreed ( although there may be a relatively narrow hybridization zone ) , but which may interbreed if given the chance to do so . These subspecies , races , or populations , can be named as subspecies by zoologists , or in more varied ways by botanists and microbiologists .</context>
+    </instance>
+    <instance id="Subspecies-race-8-28-3" docsrc="Subspecies">
+      <context> These are separate groups that are clearly distinct <head>from</head> one another and do not generally interbreed ( although there may be a relatively narrow hybridization zone ) , but which may interbreed if given the chance to do so . These subspecies , races , or populations , can be named as subspecies by zoologists , or in more varied ways by botanists and microbiologists . A monotypic species has no distinct population or races , or rather one race comprising the whole species .</context>
+    </instance>
+    <instance id="a00285905_d_6" docsrc="a00285905_d">
+      <context> discriminatory especially on the basis of <head>race</head> or religion ;</context>
+    </instance>
+    <instance id="a00286470_d_2" docsrc="a00286470_d">
+      <context> unprejudiced about <head>race</head> ;</context>
+    </instance>
+    <instance id="a00551416_d_11" docsrc="a00551416_d">
+      <context> inconclusive as to outcome ; close or just even in a <head>race</head> or comparison or competition ;</context>
+    </instance>
+    <instance id="a01326148_d_8" docsrc="a01326148_d">
+      <context> not segregated ; designated as available to all <head>races</head> or groups ;</context>
+    </instance>
+    <instance id="a01326652_d_5" docsrc="a01326652_d">
+      <context> involving or composed of different <head>races</head> ;</context>
+    </instance>
+    <instance id="a01327371_d_3" docsrc="a01327371_d">
+      <context> separated according to <head>race</head> , sex , class , or religion ;</context>
+    </instance>
+    <instance id="a01524102_d_7" docsrc="a01524102_d">
+      <context> designed or suitable for competing in a <head>race</head> ;</context>
+    </instance>
+    <instance id="a01927654_d_4" docsrc="a01927654_d">
+      <context> of or characteristic of <head>race</head> or races or arising from differences among groups ;</context>
+    </instance>
+    <instance id="a01927654_d_6" docsrc="a01927654_d">
+      <context> of or characteristic of race or <head>races</head> or arising from differences among groups ;</context>
+    </instance>
+    <instance id="a01927904_d_5" docsrc="a01927904_d">
+      <context> consisting of or combining two <head>races</head> ;</context>
+    </instance>
+    <instance id="a01928019_d_1" docsrc="a01928019_d">
+      <context> between <head>races</head> ;</context>
+    </instance>
+    <instance id="a01928114_d_10" docsrc="a01928114_d">
+      <context> made_up of or involving or acting on behalf of various <head>races</head> ;</context>
+    </instance>
+    <instance id="a01928381_d_10" docsrc="a01928381_d">
+      <context> not racial ; having nothing to do with race or <head>races</head> ;</context>
+    </instance>
+    <instance id="a01928381_d_8" docsrc="a01928381_d">
+      <context> not racial ; having nothing to do with <head>race</head> or races ;</context>
+    </instance>
+    <instance id="a02333147_d_14" docsrc="a02333147_d">
+      <context> of a horse that has won the Kentucky_Derby and the Belmont_Stakes and the Preakness <head>races</head> ;</context>
+    </instance>
+    <instance id="a02335602_d_8" docsrc="a02335602_d">
+      <context> not one of the first three in a <head>race</head> or competition ;</context>
+    </instance>
+    <instance id="br-a01#w1030_0" docsrc="br-a01">
+      <context> State_Party_Chairman_James_W._Dorsey added that enthusiasm was picking_up for a state rally to be held Sept. 8 in Savannah at which newly elected Texas Sen._John_Tower will be the featured speaker . In the Blue_Ridge meeting , the audience was warned that entering a candidate for governor would force it to take petitions out into voting_precincts to obtain the signatures of registered voters . Despite the warning , there was a unanimous vote to enter a candidate , according_to Republicans who attended . When the crowd was asked whether it wanted to wait one more term to make the <head>race</head> , it voted no - and there were no dissents . The largest hurdle the Republicans would have to face is a state law which says that before making a first race , one of two alternative courses must be taken : Five per_cent of the voters in each county must sign petitions requesting that the Republicans be allowed to place names of candidates on the general_election ballot , or The Republicans must hold a primary under the county unit system - a system which the party opposes in its platform . Sam_Caldwell , State_Highway_Department public_relations director , resigned Tuesday to work for Lt._Gov._Garland_Byrd 's campaign .</context>
+    </instance>
+    <instance id="br-a01#w1062_0" docsrc="br-a01">
+      <context> In the Blue_Ridge meeting , the audience was warned that entering a candidate for governor would force it to take petitions out into voting_precincts to obtain the signatures of registered voters . Despite the warning , there was a unanimous vote to enter a candidate , according_to Republicans who attended . When the crowd was asked whether it wanted to wait one more term to make the race , it voted no - and there were no dissents . The largest hurdle the Republicans would have to face is a state law which says that before making a first <head>race</head> , one of two alternative courses must be taken : Five per_cent of the voters in each county must sign petitions requesting that the Republicans be allowed to place names of candidates on the general_election ballot , or The Republicans must hold a primary under the county unit system - a system which the party opposes in its platform . Sam_Caldwell , State_Highway_Department public_relations director , resigned Tuesday to work for Lt._Gov._Garland_Byrd 's campaign . Caldwell 's resignation had been expected for some time .</context>
+    </instance>
+    <instance id="br-a01#w1411_0" docsrc="br-a01">
+      <context> The bond issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new bonds would be issued every time a portion of the old ones are paid_off by tax authorities . Vandiver opened his <head>race</head> for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads bonds proposed by then Gov._Marvin_Griffin . The Highway_Department source told The_Constitution , however , that Vandiver has not been consulted yet about the plans to issue the new rural roads bonds . Schley_County_Rep._B._D._Pelham will offer a resolution Monday in the House to rescind the body 's action of Friday in voting itself a $ 10 per day increase in expense allowances . Pelham said Sunday night there was research being done on whether the `` quickie '' vote on the increase can be repealed outright or whether notice would have to first be given that reconsideration of the action would be sought .</context>
+    </instance>
+    <instance id="br-a11#w1606_0" docsrc="br-a11">
+      <context> Ex Oriole Clint_Courtney , now catching for the A 's is all for the American_League 's 1961 expansion to the West_Coast . `` But they shouldda brought_in Tokyo , too '' , added Old_Scrapiron . `` Then we 'd really have someplace to go '' . Gaining her second straight victory , Norman_B._Small_,_Jr. 's Garden_Fresh , a 3 - year old filly , downed promising colts in the $ 4500 St._Patrick's_Day_Purse , featured seventh <head>race</head> here today , and paid $ 7.20 straight . Toying_with her field in the early stages , Garden_Fresh was asked for top speed only in the stretch by Jockey Philip_Grimm and won by a length and a half in 1.24 3 - 5 for the 7 furlongs . Richard_M._Forbes 's Paget , which had what seemed to be a substantial lead in the early stages , tired rapidly nearing the wire and was able to save place money only a head in_front of Glen_T._Hallowell 's Milties_Miss . A bright sun and brisk wind had the track in a fast condition for_the_first_time this week and 8280 St._Patty_Day celebrants bet $ 842617 on the well prepared program .</context>
+    </instance>
+    <instance id="br-a11#w1727_0" docsrc="br-a11">
+      <context> Toying_with her field in the early stages , Garden_Fresh was asked for top speed only in the stretch by Jockey Philip_Grimm and won by a length and a half in 1.24 3 - 5 for the 7 furlongs . Richard_M._Forbes 's Paget , which had what seemed to be a substantial lead in the early stages , tired rapidly nearing the wire and was able to save place money only a head in_front of Glen_T._Hallowell 's Milties_Miss . A bright sun and brisk wind had the track in a fast condition for_the_first_time this week and 8280 St._Patty_Day celebrants bet $ 842617 on the well prepared program . Prior to the featured <head>race</head> , the stewards announced that apprentice James_P._Verrone is suspended ten days for crowding horses and crossing the field sharply in two races on Wednesday . Garden_Fresh , the result of a mating of Better_Self and Rosy_Fingered , seems to improve with each start and appeared to win the St._Patrick's_Day_Purse with some speed in reserve . She was moving_up to the allowance department after winning a $ 10000 claiming event . George_Kerr , the swift striding Jamaican , set a meet record in the 600 - yard run in the Knights_of_Columbus track_meet tonight , beating Purdue 's Dave_Mills in a hot duel in 1.10.1 .</context>
+    </instance>
+    <instance id="br-a11#w1749_0" docsrc="br-a11">
+      <context> Toying_with her field in the early stages , Garden_Fresh was asked for top speed only in the stretch by Jockey Philip_Grimm and won by a length and a half in 1.24 3 - 5 for the 7 furlongs . Richard_M._Forbes 's Paget , which had what seemed to be a substantial lead in the early stages , tired rapidly nearing the wire and was able to save place money only a head in_front of Glen_T._Hallowell 's Milties_Miss . A bright sun and brisk wind had the track in a fast condition for_the_first_time this week and 8280 St._Patty_Day celebrants bet $ 842617 on the well prepared program . Prior to the featured race , the stewards announced that apprentice James_P._Verrone is suspended ten days for crowding horses and crossing the field sharply in two <head>races</head> on Wednesday . Garden_Fresh , the result of a mating of Better_Self and Rosy_Fingered , seems to improve with each start and appeared to win the St._Patrick's_Day_Purse with some speed in reserve . She was moving_up to the allowance department after winning a $ 10000 claiming event . George_Kerr , the swift striding Jamaican , set a meet record in the 600 - yard run in the Knights_of_Columbus track_meet tonight , beating Purdue 's Dave_Mills in a hot duel in 1.10.1 .</context>
+    </instance>
+    <instance id="br-a11#w1892_0" docsrc="br-a11">
+      <context> George_Kerr , the swift striding Jamaican , set a meet record in the 600 - yard run in the Knights_of_Columbus track_meet tonight , beating Purdue 's Dave_Mills in a hot duel in 1.10.1 . Kerr , who set the world_record earlier this month in New_York with a clocking of 1.09.3 , wiped_out Mills 's early pace and beat the young Big_10 quarter-mile king by 5 yards . Both were under the meet mark of 1.10.8 set in 1950 by Mal_Whitfield . Mills shot out in_front and kept the lead through two thirds of the <head>race</head> . Then Kerr , a graduate_student from Illinois , moved past him on a straightaway and held_off Mills 's challenge on the final turn . Mills was timed in 1.10.4 . The crowd at the twenty-first annual K._of_C._Games , final indoor meet of the season , got a thrill a_few minutes earlier when a slender , bespectacled woman broke the one week old world_record in the half-mile run .</context>
+    </instance>
+    <instance id="br-a15#w798_0" docsrc="br-a15">
+      <context> Since 1949 , the St._Louis club has been below .500 on May 1 just four times . The '49 team was off to a so-so 5 - 5 beginning , then fell as low as 12 - 17 on May 23 before finishing with 96 victories . The '52 Cards were 6 - 7 on May 1 but ended with 88 triumphs , the club 's top since 1949 . Then last season the_Birds tumbled as low as 11 - 18 on May 19 before recovering to make a <head>race</head> of it and total 86 victories . Since 1949 , the only National_League club that got_off to a hot start and made a runaway of the race was the '55 Dodger team . Those Dodgers won their first 10 games and owned a 21 - 2 mark and a nine game lead by May 8 . The club that overcame the worst start in a comparable period to win the pennant was New_York 's '51 Giants , who dropped 11 of their first 13 .</context>
+    </instance>
+    <instance id="br-a15#w825_0" docsrc="br-a15">
+      <context> The '49 team was off to a so-so 5 - 5 beginning , then fell as low as 12 - 17 on May 23 before finishing with 96 victories . The '52 Cards were 6 - 7 on May 1 but ended with 88 triumphs , the club 's top since 1949 . Then last season the_Birds tumbled as low as 11 - 18 on May 19 before recovering to make a race of it and total 86 victories . Since 1949 , the only National_League club that got_off to a hot start and made a runaway of the <head>race</head> was the '55 Dodger team . Those Dodgers won their first 10 games and owned a 21 - 2 mark and a nine game lead by May 8 . The club that overcame the worst start in a comparable period to win the pennant was New_York 's '51 Giants , who dropped 11 of their first 13 . They honored the battling Billikens last night .</context>
+    </instance>
+    <instance id="br-g01#w1983_0" docsrc="br-g01">
+      <context> The two main charges levelled against the Bourbons by liberals is that they are racists and social reactionaries . There is much truth in both these charges , and not many Bourbons deny them . Whatever their faults , they are not hypocrites . Most_of them sincerely believe that the Anglo-Saxon is the best <head>race</head> in the world and that it should remain pure . Many Northerners believe this , too , but few of them will say so publicly . The Bourbon economic philosophy , moreover , is not very different from that of Northern conservatives . But those among the Bourbons who remain unreconstructed go much further than this .</context>
+    </instance>
+    <instance id="br-g15#w105_0" docsrc="br-g15">
+      <context> It is worth dwelling in some detail on the crisis of this story , because it brings_together a number of characteristic elements and makes of them a curious , riddling compound obscurely but centrally significant for Mann 's work . The wife , Amra , and her lover are both savagely portrayed , she as incarnate sensuality , `` voluptuous '' and `` indolent '' , possibly `` a mischief maker '' , with `` a kind of luxurious cunning '' to set against her apparent simplicity , her `` bird like brain '' . La^utner , for his part , `` belonged_to the present-day <head>race</head> of small artists , who do not demand the utmost of themselves '' , and the bitter description of the type includes such epithets as `` wretched little poseurs '' , the devastating indictment `` they do not know how to be wretched decently and in_order '' , and the somewhat extreme prophecy , so_far not fulfilled : `` They will be destroyed '' . The trick these two play upon Jacoby reveals their want not simply of decency but of imagination as_well . His appearance as Lizzy evokes not amusement but horror in the audience ; it is a spectacle absolutely painful , an epiphany of the suffering flesh unredeemed by spirit , untouched by any spirit other_than abasement and humiliation . At_the_same_time the multiple transvestitism involved - the fat man as girl and as baby , as coquette pretending to be a baby - touches for a moment horrifyingly upon the secret sources of a life like Jacoby 's , upon the sinister dreams which form the sources of any human life .</context>
+    </instance>
+    <instance id="br-g23#w1349_0" docsrc="br-g23">
+      <context> Is there some magic in it that assures results ? When Peter_B._Kyne ( Pride_of_Palomar , 43 ) informed us in 1921 that we had an instinctive dislike for the Japanese , did the heated debates of the Californians settle the truth or falsity of the proposition ? The Leopard 's_Spots came from the pen of Thomas_Dixon in 1902 , and in_this he announced an `` unchangeable '' law . If a child had a single drop of Negro blood , he would revert to the ancestral line which , except as slaves under a superior <head>race</head> , had not made one step of progress in 3000 years . That doctrine has been accepted by many , but has it produced good results ? In the same vein , a certain short-story plot has been overworked . The son and heir of a prominent family marries a girl who has tell-tale shadows on the half-moons of her finger_nails .</context>
+    </instance>
+    <instance id="br-g43#w1245_0" docsrc="br-g43">
+      <context> Richards ' view of the aesthetic experience might constitute a sixth variety : for him it constitutes , in part , the organization of impulses . A sketch of the emotional value of the study of literature would have_to take_account of all_of these . But there is one in_particular which , it seems to me , deserves special attention . In the wide range of experiences common to our earth-bound <head>race</head> none is more difficult to manage , more troublesome , and more enduring in its effects than the control of love and hate . The study of literature contributes to this control in a curious way . William_Wimsatt and Cleanth_Brooks , it seems to me , have a penetrating insight into the way in_which this control is effected : `` For if we say poetry is to talk of beauty and love ( and yet not aim at exciting erotic emotion or even an emotion of Platonic esteem ) and if it is to talk of anger and murder ( and yet not aim at arousing anger and indignation ) - then it may be that the poetic way of dealing with these emotions will not be any kind of intensification , compounding , or magnification , or any direct assault upon the affections at_all . Something indirect , mixed , reconciling , tensional might well be the stratagem , the devious technique by which a poet indulged in all kinds of talk about love and anger and even in something like '' expressions `` of these emotions , without aiming at their incitement or even uttering anything that essentially involves their incitement '' .</context>
+    </instance>
+    <instance id="br-j10#w119_0" docsrc="br-j10">
+      <context> Occasionally , you may come_across one or two bumblebees in the cold season , when you are turning_over sods in your garden , but you have_to be a really keen observer to see them at_all . They keep their wings and feet pressed tightly against their bodies , and in_spite_of their often colorful attire you may very well mistake them for lumps of dirt . I must add at_once that these animals are what we call `` queens '' , young females that have mated in the previous summer or autumn . It is on them alone that the future of their <head>race</head> depends , for all their relatives ( mothers , husbands , brothers , and unmated sisters ) have perished with the arrival of the cold_weather . Even some of the queens will die before the winter is over , falling prey to enemies or disease . The survivors emerge on some nice , sunny day in March or April , when the temperature is close to 50 ` F and there is not too_much wind . Now the thing for us to do is to find ourselves a_couple_of those wonderful flowering currants such_as the red Ribes_sanguineum of our Pacific_Northwest , or otherwise a good sloe tree , or perhaps some nice pussy_willow in bloom , preferably one with male or staminate catkins .</context>
+    </instance>
+    <instance id="br-k08#w413_0" docsrc="br-k08">
+      <context> Such was the impromptu that Voltaire gave to howls of laughter at Sans_Souci and that was soon circulated in manuscript throughout the literary circles of Europe , to be printed sometime later , but with the name of Timon_of_Athens , the famous misanthrope , substituted for that of Rousseau . How cruel ! But at_the_same_time how understandable . How could the rich , for whom life was made so simple , ever understand the subterfuges , the lies , the frauds , the errors , sins and even crimes to which the poor were driven in their efforts to overcome the great advantages the rich had in the <head>race</head> of life ? How , for_example , could a Voltaire understand the strange predicament in which a Rousseau would find himself when , soon after the furor of his first Discourse , he acquired still another title to fame ? This time as a musician . As a composer .</context>
+    </instance>
+    <instance id="n00420477_d_10" docsrc="n00420477_d">
+      <context> the act of persecuting ( especially on the basis of <head>race</head> or religion ) ;</context>
+    </instance>
+    <instance id="n00507425_d_8" docsrc="n00507425_d">
+      <context> a bet that a horse will finish a <head>race</head> no worse than second ;</context>
+    </instance>
+    <instance id="n00507539_d_12" docsrc="n00507539_d">
+      <context> a bet that you can pick the first four finishers in a <head>race</head> in the right order ;</context>
+    </instance>
+    <instance id="n00849768_d_5" docsrc="n00849768_d">
+      <context> reproduction by parents of different <head>races</head> ( especially by white and non-white persons ) ;</context>
+    </instance>
+    <instance id="n01132709_d_6" docsrc="n01132709_d">
+      <context> the supposed responsibility of the white <head>race</head> to provide care for their non-white subjects ;</context>
+    </instance>
+    <instance id="n01155044_d_8" docsrc="n01155044_d">
+      <context> discriminatory or abusive behavior towards members of another <head>race</head> ;</context>
+    </instance>
+    <instance id="n01170666_d_12" docsrc="n01170666_d">
+      <context> a riot caused by hatred for one another of members of different <head>races</head> in the same community ;</context>
+    </instance>
+    <instance id="n01191364_d_19" docsrc="n01191364_d">
+      <context> a ruling by the Supreme_Court on affirmative_action ; the Court ruled in 1978 that medical_schools are entitled to consider <head>race</head> as a factor in their admission policy ;</context>
+    </instance>
+    <instance id="n02379183_d_11" docsrc="n02379183_d">
+      <context> a small powerful horse originally bred for sprinting in quarter mile <head>races</head> in Virginia ;</context>
+    </instance>
+    <instance id="n02385776_d_8" docsrc="n02385776_d">
+      <context> a horse that fails to run in a <head>race</head> for which it has been entered ;</context>
+    </instance>
+    <instance id="n02475669_d_7" docsrc="n02475669_d">
+      <context> subspecies of Homo_sapiens ; includes all modern <head>races</head> ;</context>
+    </instance>
+    <instance id="n03009269_d_10" docsrc="n03009269_d">
+      <context> a two-wheeled horse-drawn battle vehicle ; used in war and <head>races</head> in ancient Egypt and Greece and Rome ;</context>
+    </instance>
+    <instance id="n03549589_d_10" docsrc="n03549589_d">
+      <context> a light movable_barrier that competitors must leap over in certain <head>races</head> ;</context>
+    </instance>
+    <instance id="n03874487_d_9" docsrc="n03874487_d">
+      <context> pen where racehorses are saddled and paraded before a <head>race</head> ;</context>
+    </instance>
+    <instance id="n04028764_d_11" docsrc="n04028764_d">
+      <context> a tower for guiding pilots or marking the turning_point in a <head>race</head> ;</context>
+    </instance>
+    <instance id="n04037443_d_6" docsrc="n04037443_d">
+      <context> a fast car that competes in <head>races</head> ;</context>
+    </instance>
+    <instance id="n04037625_d_4" docsrc="n04037625_d">
+      <context> a course over which <head>races</head> are run ;</context>
+    </instance>
+    <instance id="n04304557_d_11" docsrc="n04304557_d">
+      <context> block providing bracing for a runner's feet at start of a <head>race</head> ;</context>
+    </instance>
+    <instance id="n04328186_d_15" docsrc="n04328186_d">
+      <context> a timepiece that can be started or stopped for exact timing ( as of a <head>race</head> ) ;</context>
+    </instance>
+    <instance id="n05157143_d_8" docsrc="n05157143_d">
+      <context> an advantage held by a competitor in a <head>race</head> ;</context>
+    </instance>
+    <instance id="n05157406_d_10" docsrc="n05157406_d">
+      <context> the advantage gained by beginning early ( as in a <head>race</head> ) ;</context>
+    </instance>
+    <instance id="n05186766_d_7" docsrc="n05186766_d">
+      <context> immunity from discrimination on the basis of <head>race</head> or sex or nationality or religion or age ; guaranteed by federal laws of the United_States ;</context>
+    </instance>
+    <instance id="n05186998_d_9" docsrc="n05186998_d">
+      <context> the right to equivalent opportunities for employment regardless of <head>race</head> or color or sex or national origin ;</context>
+    </instance>
+    <instance id="n05952829_d_7" docsrc="n05952829_d">
+      <context> the belief that some particular group or <head>race</head> is superior to all others ;</context>
+    </instance>
+    <instance id="n06146880_d_12" docsrc="n06146880_d">
+      <context> the branch of anthropology that deals with the division of humankind into <head>races</head> and with their origins and distribution and distinctive characteristics ;</context>
+    </instance>
+    <instance id="n06203758_d_14" docsrc="n06203758_d">
+      <context> the prejudice that members of one race are intrinsically superior to members of other <head>races</head> ;</context>
+    </instance>
+    <instance id="n06203758_d_6" docsrc="n06203758_d">
+      <context> the prejudice that members of one <head>race</head> are intrinsically superior to members of other races ;</context>
+    </instance>
+    <instance id="n06204126_d_14" docsrc="n06204126_d">
+      <context> the prejudice that members of the white race are superior to members of other <head>races</head> ;</context>
+    </instance>
+    <instance id="n06204126_d_7" docsrc="n06204126_d">
+      <context> the prejudice that members of the white <head>race</head> are superior to members of other races ;</context>
+    </instance>
+    <instance id="n06718862_d_4" docsrc="n06718862_d">
+      <context> a slur on someone's <head>race</head> or language ;</context>
+    </instance>
+    <instance id="n06748841_d_8" docsrc="n06748841_d">
+      <context> a program for a race_meeting ; lists the <head>races</head> and the names of the horses ;</context>
+    </instance>
+    <instance id="n06792188_d_8" docsrc="n06792188_d">
+      <context> a signal to begin ( as in a <head>race</head> ) ;</context>
+    </instance>
+    <instance id="n06886655_d_9" docsrc="n06886655_d">
+      <context> using speech characteristics or dialect to identify a speaker's <head>race</head> or religion or social_class ;</context>
+    </instance>
+    <instance id="n07258109_d_7" docsrc="n07258109_d">
+      <context> a post marking the starting_point of a <head>race</head> ( especially a horse_race ) ;</context>
+    </instance>
+    <instance id="n07329737_d_4" docsrc="n07329737_d">
+      <context> the start of a <head>race</head> ;</context>
+    </instance>
+    <instance id="n07353376_d_9" docsrc="n07353376_d">
+      <context> designated event that concludes a contest ( especially a <head>race</head> ) ;</context>
+    </instance>
+    <instance id="n07354009_d_4" docsrc="n07354009_d">
+      <context> a tie in a <head>race</head> ;</context>
+    </instance>
+    <instance id="n07354243_d_13" docsrc="n07354243_d">
+      <context> in_general , any very close finish ; in_particular , a finish of a <head>race</head> in which the contestants are so close together that the winner must be determined from a photograph taken at the instant of finishing ;</context>
+    </instance>
+    <instance id="n07354504_d_9" docsrc="n07354504_d">
+      <context> a finish in second place ( as in a <head>race</head> ) ;</context>
+    </instance>
+    <instance id="n07354628_d_9" docsrc="n07354628_d">
+      <context> a finish in third place ( as in a <head>race</head> ) ;</context>
+    </instance>
+    <instance id="n07354731_d_6" docsrc="n07354731_d">
+      <context> a victory ( as in a <head>race</head> or other competition ) ;</context>
+    </instance>
+    <instance id="n07354911_d_9" docsrc="n07354911_d">
+      <context> a finish in first place ( as in a <head>race</head> ) ;</context>
+    </instance>
+    <instance id="n07458453_ex1_1" docsrc="n07458453_ex1">
+      <context> the <head>race</head> is to the swift ;</context>
+    </instance>
+    <instance id="n07458892_d_1" docsrc="n07458892_d">
+      <context> a <head>race</head> between ( usually high-performance ) automobiles ;</context>
+    </instance>
+    <instance id="n07459066_d_4" docsrc="n07459066_d">
+      <context> one of several international <head>races</head> ;</context>
+    </instance>
+    <instance id="n07459249_d_1" docsrc="n07459249_d">
+      <context> a <head>race</head> between people riding bicycles ;</context>
+    </instance>
+    <instance id="n07459523_d_1" docsrc="n07459523_d">
+      <context> a <head>race</head> between people rowing or driving boats ;</context>
+    </instance>
+    <instance id="n07459642_d_3" docsrc="n07459642_d">
+      <context> a high-speed motorcycle <head>race</head> on a public road ;</context>
+    </instance>
+    <instance id="n07459778_d_1" docsrc="n07459778_d">
+      <context> a <head>race</head> between ancient chariots ;</context>
+    </instance>
+    <instance id="n07459868_d_1" docsrc="n07459868_d">
+      <context> a <head>race</head> between dogs ; usually an occasion for betting_on the outcome ;</context>
+    </instance>
+    <instance id="n07459992_d_1" docsrc="n07459992_d">
+      <context> a <head>race</head> between crews of people in yachts ;</context>
+    </instance>
+    <instance id="n07460104_d_1" docsrc="n07460104_d">
+      <context> a <head>race</head> run on foot ;</context>
+    </instance>
+    <instance id="n07460651_d_1" docsrc="n07460651_d">
+      <context> a <head>race</head> ( as in swimming ) in which each contestant has a free choice of the style to use ;</context>
+    </instance>
+    <instance id="n07460793_d_2" docsrc="n07460793_d">
+      <context> a long <head>race</head> run over open country ;</context>
+    </instance>
+    <instance id="n07460904_d_3" docsrc="n07460904_d">
+      <context> an important dogsled <head>race</head> run annually on the Iditarod_Trail ;</context>
+    </instance>
+    <instance id="n07461288_d_12" docsrc="n07461288_d">
+      <context> a preliminary race in which the winner advances to a more important <head>race</head> ;</context>
+    </instance>
+    <instance id="n07461288_d_2" docsrc="n07461288_d">
+      <context> a preliminary <head>race</head> in which the winner advances to a more important race ;</context>
+    </instance>
+    <instance id="n07461650_d_22" docsrc="n07461650_d">
+      <context> a horse_race in which each owner declares before the race at what price his horse will be offered for sale after the <head>race</head> ;</context>
+    </instance>
+    <instance id="n07461650_d_9" docsrc="n07461650_d">
+      <context> a horse_race in which each owner declares before the <head>race</head> at what price his horse will be offered for sale after the race ;</context>
+    </instance>
+    <instance id="n07462119_d_2" docsrc="n07462119_d">
+      <context> an annual <head>race</head> for three-year-old_horses ; held at Churchill_Downs in Louisville , Kentucky ;</context>
+    </instance>
+    <instance id="n07462269_d_2" docsrc="n07462269_d">
+      <context> an annual <head>race</head> for three-year-old_horses ; held at Pimlico in Baltimore , Maryland ;</context>
+    </instance>
+    <instance id="n07462405_d_2" docsrc="n07462405_d">
+      <context> an annual <head>race</head> for three-year-old_horses ; held on Long_Island at Elmont , New_York ;</context>
+    </instance>
+    <instance id="n07462547_d_18" docsrc="n07462547_d">
+      <context> a horse_race in which part of the prize is put_up by the owners of the horses in the <head>race</head> ;</context>
+    </instance>
+    <instance id="n07462917_d_1" docsrc="n07462917_d">
+      <context> a <head>race</head> in which competitors must negotiate obstacles ;</context>
+    </instance>
+    <instance id="n07463171_d_1" docsrc="n07463171_d">
+      <context> a <head>race</head> between thoroughbred horses ;</context>
+    </instance>
+    <instance id="n07463323_d_2" docsrc="n07463323_d">
+      <context> a novelty <head>race</head> in which competitors move potatoes from one place to another one_at_a_time ;</context>
+    </instance>
+    <instance id="n07463470_d_2" docsrc="n07463470_d">
+      <context> a novelty <head>race</head> in which competitors jump ahead with their feet confined in a sack ;</context>
+    </instance>
+    <instance id="n07463607_d_1" docsrc="n07463607_d">
+      <context> a <head>race</head> in which all contestants start from_scratch ( on equal terms ) ;</context>
+    </instance>
+    <instance id="n07463733_d_1" docsrc="n07463733_d">
+      <context> a <head>race</head> between people wearing skis ;</context>
+    </instance>
+    <instance id="n07463950_d_2" docsrc="n07463950_d">
+      <context> a downhill <head>race</head> over a winding course defined by upright poles ;</context>
+    </instance>
+    <instance id="n07464083_d_1" docsrc="n07464083_d">
+      <context> a <head>race</head> between teams ; each member runs or swims part of the distance ;</context>
+    </instance>
+    <instance id="n07464234_d_1" docsrc="n07464234_d">
+      <context> a <head>race</head> ( especially in rowing ) in which runners-up in the eliminating heats compete for a place in the final race ;</context>
+    </instance>
+    <instance id="n07464234_d_21" docsrc="n07464234_d">
+      <context> a race ( especially in rowing ) in which runners-up in the eliminating heats compete for a place in the final <head>race</head> ;</context>
+    </instance>
+    <instance id="n07472657_ex1_1" docsrc="n07472657_ex1">
+      <context> the <head>race</head> for the presidency ;</context>
+    </instance>
+    <instance id="n07472929_d_1" docsrc="n07472929_d">
+      <context> a <head>race</head> between candidates for elective office ;</context>
+    </instance>
+    <instance id="n07473207_d_1" docsrc="n07473207_d">
+      <context> a <head>race</head> for election to the governorship ;</context>
+    </instance>
+    <instance id="n07473332_d_1" docsrc="n07473332_d">
+      <context> a <head>race</head> for election to the senate ;</context>
+    </instance>
+    <instance id="n07967382_d_4" docsrc="n07967382_d">
+      <context> people of the same <head>race</head> or nationality who share a distinctive culture ;</context>
+    </instance>
+    <instance id="n07967982_ex1_10" docsrc="n07967982_ex1">
+      <context> some biologists doubt that there are important genetic differences between <head>races</head> of human beings ;</context>
+    </instance>
+    <instance id="n07968354_d_1" docsrc="n07968354_d">
+      <context> a <head>race</head> with skin pigmentation different from the white race ( especially Blacks ) ;</context>
+    </instance>
+    <instance id="n07968354_d_9" docsrc="n07968354_d">
+      <context> a race with skin pigmentation different from the white <head>race</head> ( especially Blacks ) ;</context>
+    </instance>
+    <instance id="n07968550_d_1" docsrc="n07968550_d">
+      <context> a <head>race</head> that considers itself superior to all others and fitted to rule the others ;</context>
+    </instance>
+    <instance id="n07990158_d_6" docsrc="n07990158_d">
+      <context> marriage of two people from different <head>races</head> or different religions or different cultures ;</context>
+    </instance>
+    <instance id="n08379353_d_2" docsrc="n08379353_d">
+      <context> segregation by <head>race</head> ;</context>
+    </instance>
+    <instance id="n08380606_d_11" docsrc="n08380606_d">
+      <context> a social_system in which white_people live separately from members of other <head>races</head> ;</context>
+    </instance>
+    <instance id="n08567877_d_10" docsrc="n08567877_d">
+      <context> the place designated as the end ( as of a <head>race</head> or journey ) ;</context>
+    </instance>
+    <instance id="n08571459_d_10" docsrc="n08571459_d">
+      <context> a line indicating the location of the finish of a <head>race</head> ;</context>
+    </instance>
+    <instance id="n08598696_d_7" docsrc="n08598696_d">
+      <context> an environment in which many ideas and <head>races</head> are socially assimilated ;</context>
+    </instance>
+    <instance id="n08621283_d_8" docsrc="n08621283_d">
+      <context> the most favorable_position at the start of a <head>race</head> ;</context>
+    </instance>
+    <instance id="n08653873_d_10" docsrc="n08653873_d">
+      <context> a line indicating the location of the start of a <head>race</head> or a game ;</context>
+    </instance>
+    <instance id="n09490572_d_3" docsrc="n09490572_d">
+      <context> one of a <head>race</head> of giants having a single eye in the middle of their forehead ;</context>
+    </instance>
+    <instance id="n09499657_d_3" docsrc="n09499657_d">
+      <context> any of the <head>race</head> of dwarfs who possessed a treasure hoard that was stolen by Siegfried ;</context>
+    </instance>
+    <instance id="n09510746_d_0" docsrc="n09510746_d">
+      <context> <head>race</head> of Celtic gods or demigods ; ruled Ireland in the Golden_Age ;</context>
+    </instance>
+    <instance id="n09579070_d_2" docsrc="n09579070_d">
+      <context> the chief <head>race</head> of gods living at Asgard ;</context>
+    </instance>
+    <instance id="n09579345_d_0" docsrc="n09579345_d">
+      <context> <head>race</head> of ancient gods sometimes in conflict with the Aesir ;</context>
+    </instance>
+    <instance id="n09581526_d_3" docsrc="n09581526_d">
+      <context> one of a <head>race</head> of giants often in conflict with the Aesir ;</context>
+    </instance>
+    <instance id="n09612131_d_5" docsrc="n09612131_d">
+      <context> a winner ( of a <head>race</head> or an election etc. ) whose victory is contested ;</context>
+    </instance>
+    <instance id="n09612291_d_8" docsrc="n09612291_d">
+      <context> someone who contests an outcome ( of a <head>race</head> or an election etc. ) ;</context>
+    </instance>
+    <instance id="n09636890_d_2" docsrc="n09636890_d">
+      <context> a dark-skinned <head>race</head> ;</context>
+    </instance>
+    <instance id="n09639237_d_2" docsrc="n09639237_d">
+      <context> a light-skinned <head>race</head> ;</context>
+    </instance>
+    <instance id="n09643078_d_5" docsrc="n09643078_d">
+      <context> a member of an Oriental <head>race</head> ; the term is regarded_as offensive by Asians ( especially by Asian_Americans ) ;</context>
+    </instance>
+    <instance id="n09643421_d_2" docsrc="n09643421_d">
+      <context> an Asian <head>race</head> ;</context>
+    </instance>
+    <instance id="n09645091_d_4" docsrc="n09645091_d">
+      <context> a member of the <head>race</head> of people living in America when Europeans arrived ;</context>
+    </instance>
+    <instance id="n09673916_d_7" docsrc="n09673916_d">
+      <context> a member of one of the aboriginal <head>races</head> of India ( pushed south by Caucasians and now mixed with them ) ;</context>
+    </instance>
+    <instance id="n09676490_d_5" docsrc="n09676490_d">
+      <context> a dark-skinned member of a <head>race</head> of people living in Australia when Europeans arrived ;</context>
+    </instance>
+    <instance id="n09676746_d_1" docsrc="n09676746_d">
+      <context> a <head>race</head> of people speaking a Slavonic_language ;</context>
+    </instance>
+    <instance id="n09881613_d_4" docsrc="n09881613_d">
+      <context> a member of the <head>race</head> of nomadic hunters and gatherers who live in southern Africa ;</context>
+    </instance>
+    <instance id="n10006511_d_9" docsrc="n10006511_d">
+      <context> a person considered as descended from some ancestor or <head>race</head> ;</context>
+    </instance>
+    <instance id="n10157378_d_10" docsrc="n10157378_d">
+      <context> an offensive term for the offspring of parents of different <head>races</head> or cultures ;</context>
+    </instance>
+    <instance id="n10157549_d_10" docsrc="n10157549_d">
+      <context> an offensive term for an offspring of parents of different <head>races</head> ( especially of Caucasian and American_Indian ancestry ) ;</context>
+    </instance>
+    <instance id="n10190231_d_3" docsrc="n10190231_d">
+      <context> one of a <head>race</head> of intelligent horses who ruled the Yahoos in a novel by Jonathan_Swift ;</context>
+    </instance>
+    <instance id="n10292969_d_5" docsrc="n10292969_d">
+      <context> someone who participates in long-distance <head>races</head> ( especially in marathons ) ;</context>
+    </instance>
+    <instance id="n10315561_d_6" docsrc="n10315561_d">
+      <context> a runner in a one mile <head>race</head> ;</context>
+    </instance>
+    <instance id="n10323999_d_9" docsrc="n10323999_d">
+      <context> a person whose ancestors belonged to two or more <head>races</head> ;</context>
+    </instance>
+    <instance id="n10502950_d_8" docsrc="n10502950_d">
+      <context> a person with a prejudiced belief that one <head>race</head> is superior to others ;</context>
+    </instance>
+    <instance id="n10505085_d_6" docsrc="n10505085_d">
+      <context> a fan of racing who watches <head>races</head> from the outer rail of the track ;</context>
+    </instance>
+    <instance id="n10576316_d_4" docsrc="n10576316_d">
+      <context> someone who believes the <head>races</head> should be kept apart ;</context>
+    </instance>
+    <instance id="n10649308_d_8" docsrc="n10649308_d">
+      <context> the official who signals the beginning of a <head>race</head> or competition ;</context>
+    </instance>
+    <instance id="n10678662_d_11" docsrc="n10678662_d">
+      <context> a person who advocates the supremacy of some particular group or <head>race</head> over all others ;</context>
+    </instance>
+    <instance id="n10779238_d_14" docsrc="n10779238_d">
+      <context> someone who advocates a society in which white_people live separately from members of other <head>races</head> ;</context>
+    </instance>
+    <instance id="n10779610_d_7" docsrc="n10779610_d">
+      <context> a person who believes that the white <head>race</head> is or should be supreme ;</context>
+    </instance>
+    <instance id="n10801893_d_3" docsrc="n10801893_d">
+      <context> one of a <head>race</head> of brutes resembling men but subject to the Houyhnhnms in a novel by Jonathan_Swift ;</context>
+    </instance>
+    <instance id="n10850469_d_6" docsrc="n10850469_d">
+      <context> United_States educator who worked to improve <head>race</head> relations and educational opportunities for Black_Americans ;</context>
+    </instance>
+    <instance id="n10864858_d_10" docsrc="n10864858_d">
+      <context> French anthropologist who studied the craniums and brains of different <head>races</head> of people ; remembered for his discovery that articulate speech depends_on an area of the brain now known_as_
+     _area ;</context>
+    </instance>
+    <instance id="n13779804_d_15" docsrc="n13779804_d">
+      <context> the number of inhabitants ( either the total number or the number of a particular <head>race</head> or class ) in a given place ( country or city etc. ) ;</context>
+    </instance>
+    <instance id="n14410918_d_9" docsrc="n14410918_d">
+      <context> a social and political problem caused by conflict between <head>races</head> occupying the same or adjacent regions ;</context>
+    </instance>
+    <instance id="n14528752_d_8" docsrc="n14528752_d">
+      <context> natural_immunity shared by all members of a particular <head>race</head> ;</context>
+    </instance>
+    <instance id="r00130129_d_3" docsrc="r00130129_d">
+      <context> with respect to <head>race</head> ;</context>
+    </instance>
+    <instance id="r00135902_d_1" docsrc="r00135902_d">
+      <context> by <head>race</head> ;</context>
+    </instance>
+    <instance id="r00408632_d_5" docsrc="r00408632_d">
+      <context> even or close in a <head>race</head> or competition or comparison ;</context>
+    </instance>
+    <instance id="v01086103_d_3" docsrc="v01086103_d">
+      <context> compete in a <head>race</head> ;</context>
+    </instance>
+    <instance id="v01101913_d_6" docsrc="v01101913_d">
+      <context> come_out better in a competition , <head>race</head> , or conflict ;</context>
+    </instance>
+    <instance id="v01102839_d_5" docsrc="v01102839_d">
+      <context> remove from a contest or <head>race</head> ;</context>
+    </instance>
+    <instance id="v01429953_d_8" docsrc="v01429953_d">
+      <context> breed animals or plants using parents of different <head>races</head> and varieties ;</context>
+    </instance>
+    <instance id="v01858573_d_6" docsrc="v01858573_d">
+      <context> rein_in to keep from winning a <head>race</head> ;</context>
+    </instance>
+    <instance id="v01999688_d_5" docsrc="v01999688_d">
+      <context> move ahead of in a <head>race</head> ;</context>
+    </instance>
+    <instance id="v02481900_d_5" docsrc="v02481900_d">
+      <context> open to members of all <head>races</head> and ethnic_groups ;</context>
+    </instance>
+    <instance id="v02482139_d_2" docsrc="v02482139_d">
+      <context> separate by <head>race</head> or religion ; practice a policy of racial_segregation ;</context>
+    </instance>
+    <instance id="v02512305_d_8" docsrc="v02512305_d">
+      <context> treat differently on the basis of sex or <head>race</head> ;</context>
+    </instance>
+    <instance id="v02739121_d_8" docsrc="v02739121_d">
+      <context> marry or cohabit with a person of another <head>race</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

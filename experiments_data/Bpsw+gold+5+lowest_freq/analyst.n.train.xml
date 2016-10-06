@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="analyst.n" pos="NN">
+    <instance id="Psychoanalysis-analyst-1-8-1" docsrc="Psychoanalysis">
+      <context> The <head>term</head> also refers to a method of analysing child development . Freudian psychoanalysis refers to a specific type of treatment in which the " analysand " ( analytic patient ) verbally expresses his or her thoughts , including free associations , fantasies , and dreams , from which the analyst infers the unconscious conflicts causing the patient 's symptoms and character problems , and interprets them for the patient to create insight for resolution of the problems . The analyst confronts and clarifies the patient 's pathological defenses , wishes and guilt .</context>
+    </instance>
+    <instance id="Psychoanalysis-analyst-17-8-2" docsrc="Psychoanalysis">
+      <context> Freudian psychoanalysis refers to a specific type of treatment in which the " analysand " ( analytic <head>patient</head> ) verbally expresses his or her thoughts , including free associations , fantasies , and dreams , from which the analyst infers the unconscious conflicts causing the patient 's symptoms and character problems , and interprets them for the patient to create insight for resolution of the problems . The analyst confronts and clarifies the patient 's pathological defenses , wishes and guilt . Through the analysis of conflicts , including those contributing to resistance and those involving transference onto the analyst of distorted reactions , psychoanalytic treatment can hypothesize how patients unconsciously are their own worst enemies : how unconscious , symbolic reactions that have been stimulated by experience are causing symptoms .</context>
+    </instance>
+    <instance id="Psychoanalysis-analyst-38-7-3" docsrc="Psychoanalysis">
+      <context> The various approaches in treatment called " psychoanalysis " vary as much as the theories do . The term also refers to a method of analysing child development . Freudian psychoanalysis refers to a specific type of treatment <head>in</head> which the " analysand " ( analytic patient ) verbally expresses his or her thoughts , including free associations , fantasies , and dreams , from which the analyst infers the unconscious conflicts causing the patient 's symptoms and character problems , and interprets them for the patient to create insight for resolution of the problems .</context>
+    </instance>
+    <instance id="Psychoanalysis-analyst-4-128-1" docsrc="Psychoanalysis">
+      <context> The fact that many <head>of</head> such patients also demonstrate deficits above makes diagnosis and treatment selection difficult . Analytical organizations such as the IPA , APsaA and the European Federation for Psychoanalytic Psychotherapy have established procedures and models for the indication and practice of psychoanalytical therapy for trainees in analysis . The match between the analyst and the patient can be viewed as another contributing factor for the indication and contraindication for psychoanalytic treatment .</context>
+    </instance>
+    <instance id="n06247181_d_30" docsrc="n06247181_d">
+      <context> the process whereby emotions are passed_on or displaced from one person to another ; during psychoanalysis the displacement of feelings toward others ( usually the parents ) is onto the <head>analyst</head> ;</context>
+    </instance>
+    <instance id="n06682152_d_5" docsrc="n06682152_d">
+      <context> a newsletter written by an <head>analyst</head> of the stock_market and sold to subscribers ;</context>
+    </instance>
+    <instance id="n09790666_d_1" docsrc="n09790666_d">
+      <context> an <head>analyst</head> who studies the financial_statements and financial history of applicants for credit in order to evaluate their creditworthiness ;</context>
+    </instance>
+    <instance id="n09791014_d_1" docsrc="n09791014_d">
+      <context> an <head>analyst</head> of conditions affecting a particular industry ;</context>
+    </instance>
+    <instance id="n09791248_d_1" docsrc="n09791248_d">
+      <context> an <head>analyst</head> of conditions affecting a market ( especially the stock_market ) ;</context>
+    </instance>
+  </lexelt>
+</corpus>

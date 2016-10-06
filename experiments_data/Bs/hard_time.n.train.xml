@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="hard_time.n" pos="NN">
+    <instance id="br-e04#w894_0" docsrc="br-e04">
+      <context> The Glazer-Fine_Arts edition ( Concert-Disc ) is a model of lucidity and organization . It is , moreover , a perfectly integrated ensemble effort . But having lived with the disc for some time now , I find the performance less exciting than either Schnabel 's or Fleisher 's ( whose superb performance with the Budapest_Quartet has still to be recorded ) and a good_deal less filled with humor than Curzon 's . Aeschbacher 's work is very_much akin to Schnabel 's , but the sound on his Decca disc is dated , and you will have a <head>hard_time</head> locating a copy of it . The Hephzibah_Menuhin-Amadeus_Quartet ( Angel ) and Victor_Babin-Festival_Quartet ( RCA_Victor ) editions give us superlative string playing ( both in symphonic style ) crippled by unimaginative piano playing . ( Babin has acquired some of Schnabel 's keyboard manner , but his playing is of limited insight . ) Badura-Skoda-Vienna_Konzerthaus ( Westminster ) and Demus-Schubert_Quartet ( Deutsche_Grammophon ) are both warm_toned , pleasantly lyrical , but rather slack and tensionless .</context>
+    </instance>
+  </lexelt>
+</corpus>

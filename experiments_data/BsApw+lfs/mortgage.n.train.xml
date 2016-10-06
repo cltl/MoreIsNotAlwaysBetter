@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="mortgage.n" pos="NN">
+    <instance id="br-f13#w471_0" docsrc="br-f13">
+      <context> The farm may be an additional burden if the main job is lost . This may be true whether the farm is owned or rented . If the farm is rented , the rent must be paid . If it is owned , taxes must be paid , and if the place is not free_of <head>mortgage</head> , there will be interest and payments on the principal to take_care of . A farm provides a wholesome and healthful environment for children . It gives them room to play and plenty of fresh air . The children can do chores adapted to their age and ability .</context>
+    </instance>
+    <instance id="br-j60#w2134_0" docsrc="br-j60">
+      <context> In their book American_Skyline , Christopher_Tunnard and Henry_Hope_Reed argue that Franklin_Roosevelt 's New_Deal was what made the modern suburb a possibility - a fine ironical argument , when you consider how suburbanites tend to vote . The first superhighways - New_York 's Henry_Hudson and Chicago 's Lake_Shore , San_Francisco 's Bay_Bridge and its approaches , a good slice of the Pennsylvania_Turnpike - were built as part of the federal works_program which was going_to cure the depression . At_the_same_time , Roosevelt 's Federal_Housing_Administration , coupled with Henry_Morgenthau 's cheap-money policy , permitted ordinary lower-middle-class families to build their own homes . Bankers who had been reluctant to lend without better security than the house itself got that security from the U._S. government ; householders who had been unable to pick_up the burden of short-term high interest <head>mortgages</head> found they could borrow for twenty-five years at 4 per_cent , under government aegis .</context>
+    </instance>
+    <instance id="br-k04#w1498_0" docsrc="br-k04">
+      <context> But he told Wilson to `` go_ahead and try '' . And Wilson tried . It did seem impossible . The bank which held the <head>mortgage</head> on the old church declared that the interest was considerably in_arrears , and the real_estate people said flatly that the land across the river was being held for an eventual development for white working people who were coming_in , and that none would be sold to colored folk . When it was proposed to rebuild the church , Wilson found that the terms for a new mortgage were very high . He was sure that he could do better if he went_to Atlanta to get the deal financed . But when this proposal was made to his Deacon_Board , he met unanimous opposition .</context>
+    </instance>
+    <instance id="br-k04#w1565_0" docsrc="br-k04">
+      <context> And Wilson tried . It did seem impossible . The bank which held the mortgage on the old church declared that the interest was considerably in_arrears , and the real_estate people said flatly that the land across the river was being held for an eventual development for white working people who were coming_in , and that none would be sold to colored folk . When it was proposed to rebuild the church , Wilson found that the terms for a new <head>mortgage</head> were very high . He was sure that he could do better if he went_to Atlanta to get the deal financed . But when this proposal was made to his Deacon_Board , he met unanimous opposition . The church certainly would not be removed .</context>
+    </instance>
+  </lexelt>
+</corpus>

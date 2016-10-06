@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="speculation.n" pos="NN">
+    <instance id="br-e22#w400_0" docsrc="br-e22">
+      <context> Certainly , America took Prokofieff and his Classical_Symphony seriously , and with a good_deal of pleasure . His life-long friend , Serge_Koussevitzky , gave unreservedly of his praise and brilliant performances in Boston , New_York , and Washington , D._C. , to_which he added broadcastings and recordings for the whole nation . Chicago was also a welcome host : there , in 1921 , Prokofieff conducted the world_premiere of the Love_for_Three_Oranges , and played the first performance of his Third_Piano_Concerto . `` Uncle_Sam '' was , indeed , a rich uncle to Prokofieff , in those opulent , post-war victory years of peace and prosperity , bold <head>speculations</head> and extravaganzas , enjoyment and pleasure : `` The Golden_Twenties '' . We attended the premieres of his concertos , symphonies , and suites ; we studied , taught , and performed his piano_sonatas , chamber_music , gavottes , and marches ; we bought his records and played them in our schools and universities . We unanimously agreed that Prokofieff had won his rights as a world citizen to the first ranks of Twentieth Century Composers . Nevertheless , Prokofieff was much influenced by Paris during the Twenties : the Paris which was the artistic center of the Western World - the social Paris to which Russian aristocracy migrated - the chic Paris which attracted the tourist dollars of rich America - the avant-garde Paris of Diaghileff , Stravinsky , Koussevitzky , Cocteau , Picasso - the laissez-faire Paris of Dadaism and ultramodern art - the Paris sympathique which took young composers to her bosom with such quick and easy enthusiasms .</context>
+    </instance>
+    <instance id="n05891783_ex1_0" docsrc="n05891783_ex1">
+      <context> <head>speculations</head> about the outcome of the election ;</context>
+    </instance>
+    <instance id="n10221162_d_10" docsrc="n10221162_d">
+      <context> someone who builds cheap buildings out of poor materials on <head>speculation</head> for a quick profit ;</context>
+    </instance>
+    <instance id="n10456138_d_8" docsrc="n10456138_d">
+      <context> someone who emphasizes observable facts and excludes metaphysical <head>speculation</head> about origins or ultimate causes ;</context>
+    </instance>
+    <instance id="n10712835_d_7" docsrc="n10712835_d">
+      <context> one who sells advice about gambling or <head>speculation</head> ( especially at the racetrack ) ;</context>
+    </instance>
+    <instance id="n10756641_d_5" docsrc="n10756641_d">
+      <context> a person given to fanciful <head>speculations</head> and enthusiasms with little regard for what is actually possible ;</context>
+    </instance>
+    <instance id="n11213323_d_3" docsrc="n11213323_d">
+      <context> German naturalist whose <head>speculations</head> that plants and animals are made_up of tiny living infusoria led to the cell_theory ;</context>
+    </instance>
+    <instance id="n13342692_ex1_6" docsrc="n13342692_ex1">
+      <context> he knew the stock was a <head>speculation</head> when he bought it ;</context>
+    </instance>
+    <instance id="v00631398_d_2" docsrc="v00631398_d">
+      <context> make theoretical <head>speculations</head> about theology or discuss theological subjects ;</context>
+    </instance>
+    <instance id="v00925110_d_6" docsrc="v00925110_d">
+      <context> place in doubt or express doubtful <head>speculation</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

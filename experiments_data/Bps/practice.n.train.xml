@@ -1,0 +1,696 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="practice.n" pos="NN">
+    <instance id="a00489108_d_13" docsrc="a00489108_d">
+      <context> occurring or encountered or experienced or observed frequently or in accordance with regular <head>practice</head> or procedure ;</context>
+    </instance>
+    <instance id="a00489863_d_4" docsrc="a00489863_d">
+      <context> in accord with regular <head>practice</head> or procedure ;</context>
+    </instance>
+    <instance id="a00611281_d_8" docsrc="a00611281_d">
+      <context> in accord with or being a tradition or <head>practice</head> accepted from the past ;</context>
+    </instance>
+    <instance id="a00611754_d_8" docsrc="a00611754_d">
+      <context> adhering to tradition especially in cultural or religious <head>practices</head> ;</context>
+    </instance>
+    <instance id="a00717417_d_10" docsrc="a00717417_d">
+      <context> not in agreement with or according to democratic doctrine or <head>practice</head> or ideals ;</context>
+    </instance>
+    <instance id="a00862911_d_7" docsrc="a00862911_d">
+      <context> concerned with theory and data rather than <head>practice</head> ; opposed to applied ;</context>
+    </instance>
+    <instance id="a00936427_d_3" docsrc="a00936427_d">
+      <context> skillful after much <head>practice</head> ;</context>
+    </instance>
+    <instance id="a00937616_d_4" docsrc="a00937616_d">
+      <context> not having had extensive <head>practice</head> ;</context>
+    </instance>
+    <instance id="a00956568_d_14" docsrc="a00956568_d">
+      <context> of laws and regulations ; designed to protect trade and commerce from unfair business <head>practices</head> ;</context>
+    </instance>
+    <instance id="a01823574_d_8" docsrc="a01823574_d">
+      <context> not capable of being carried_out or put into <head>practice</head> ;</context>
+    </instance>
+    <instance id="a01834304_d_5" docsrc="a01834304_d">
+      <context> concerned with actual use or <head>practice</head> ;</context>
+    </instance>
+    <instance id="a01912145_d_6" docsrc="a01912145_d">
+      <context> trained in a skill by repetitious <head>practice</head> ;</context>
+    </instance>
+    <instance id="a01958259_d_15" docsrc="a01958259_d">
+      <context> holding appropriate documentation and officially on record as qualified to perform a specified function or <head>practice</head> a specified skill ;</context>
+    </instance>
+    <instance id="a01960656_d_8" docsrc="a01960656_d">
+      <context> contrary to rule or accepted order or general <head>practice</head> ;</context>
+    </instance>
+    <instance id="a02097796_d_3" docsrc="a02097796_d">
+      <context> seducing into corrupt <head>practices</head> ;</context>
+    </instance>
+    <instance id="a02274959_d_8" docsrc="a02274959_d">
+      <context> outside the bounds of legitimate or ethical business <head>practices</head> ;</context>
+    </instance>
+    <instance id="a02436341_d_8" docsrc="a02436341_d">
+      <context> showing respect for the rights or opinions or <head>practices</head> of others ;</context>
+    </instance>
+    <instance id="a02513740_d_5" docsrc="a02513740_d">
+      <context> morally bad in principle or <head>practice</head> ;</context>
+    </instance>
+    <instance id="a02644177_d_9" docsrc="a02644177_d">
+      <context> pertaining to or characteristic of an ascetic or the <head>practice</head> of rigorous self-discipline ;</context>
+    </instance>
+    <instance id="a02681402_d_2" docsrc="a02681402_d">
+      <context> following the <head>practices</head> or characteristic of carpetbaggers ;</context>
+    </instance>
+    <instance id="a02686630_d_9" docsrc="a02686630_d">
+      <context> of or relating to or befitting cenobites or their <head>practices</head> of communal living ;</context>
+    </instance>
+    <instance id="a02686950_d_9" docsrc="a02686950_d">
+      <context> of or relating to or befitting eremites or their <head>practices</head> of hermitic living ;</context>
+    </instance>
+    <instance id="a02738464_d_14" docsrc="a02738464_d">
+      <context> of or relating to the Jewish Hasidim or its members or their beliefs and <head>practices</head> ;</context>
+    </instance>
+    <instance id="a02793273_d_5" docsrc="a02793273_d">
+      <context> of or relating to the <head>practice</head> of science ;</context>
+    </instance>
+    <instance id="a02820153_d_23" docsrc="a02820153_d">
+      <context> of or relating to former 
+     _Christian or that have been received under the jurisdiction of the Church_of_Rome but retain their own rituals and <head>practices</head> and canon_law ;</context>
+    </instance>
+    <instance id="a02861206_d_5" docsrc="a02861206_d">
+      <context> of or relating to the <head>practice</head> of pathology ;</context>
+    </instance>
+    <instance id="a02896017_d_7" docsrc="a02896017_d">
+      <context> of or relating to or involved the <head>practice</head> of aiding the memory ;</context>
+    </instance>
+    <instance id="a02913004_d_9" docsrc="a02913004_d">
+      <context> relating to or used in or engaged in the <head>practice</head> of psychiatry ;</context>
+    </instance>
+    <instance id="a02983739_d_7" docsrc="a02983739_d">
+      <context> of or relating to the theory or <head>practice</head> of macrobiotics ;</context>
+    </instance>
+    <instance id="a03072966_d_5" docsrc="a03072966_d">
+      <context> of or relating to the <head>practice</head> of homeopathy ;</context>
+    </instance>
+    <instance id="a03073110_d_5" docsrc="a03073110_d">
+      <context> of or relating to the <head>practice</head> of allopathy ;</context>
+    </instance>
+    <instance id="br-a01#w202_0" docsrc="br-a01">
+      <context> `` Only a relative handful of such reports was received '' , the jury said , `` considering the widespread interest in the election , the number of voters and the size of_this city '' . The jury said it did find that many_of Georgia 's registration and election laws `` are outmoded or inadequate and often ambiguous '' . It recommended that Fulton legislators act `` to have these laws studied and revised to the end of modernizing and improving them '' . The grand_jury commented on a number of other topics , among them the Atlanta and Fulton_County purchasing_departments which it said `` are well operated and follow generally accepted <head>practices</head> which inure to the best interest of both governments '' . However , the jury said it believes `` these two offices should be combined to achieve greater efficiency and reduce the cost of administration '' . The City_Purchasing_Department , the jury said , `` is lacking in experienced clerical personnel as a result of city personnel policies '' . It urged that the city `` take steps to remedy '' this problem .</context>
+    </instance>
+    <instance id="br-a01#w466_0" docsrc="br-a01">
+      <context> The jurors said they realize `` a proportionate distribution of these funds might disable this program in our less populous counties '' . Nevertheless , `` we feel that in_the_future Fulton_County should receive some portion of these available funds '' , the jurors said . `` Failure to do this will continue to place a disproportionate burden '' on Fulton taxpayers . The jury also commented on the Fulton ordinary 's court which has been under_fire for its <head>practices</head> in the appointment of appraisers , guardians and administrators and the awarding of fees and compensation . The jury said it found the court `` has incorporated into its operating_procedures the recommendations '' of two previous grand_juries , the Atlanta_Bar_Association and an interim citizens_committee . `` These actions should serve to protect in_fact and in_effect the court 's wards from undue costs and its appointed and elected servants from unmeritorious criticisms '' , the jury said . Regarding Atlanta 's new million dollar airport , the jury recommended `` that when the new management takes_charge Jan. 1 the airport be operated in a manner that will eliminate political influences '' .</context>
+    </instance>
+    <instance id="br-a01#w597_0" docsrc="br-a01">
+      <context> The jury said it found the court `` has incorporated into its operating_procedures the recommendations '' of two previous grand_juries , the Atlanta_Bar_Association and an interim citizens_committee . `` These actions should serve to protect in_fact and in_effect the court 's wards from undue costs and its appointed and elected servants from unmeritorious criticisms '' , the jury said . Regarding Atlanta 's new million dollar airport , the jury recommended `` that when the new management takes_charge Jan. 1 the airport be operated in a manner that will eliminate political influences '' . The jury did not elaborate , but it added that `` there should be periodic surveillance of the pricing <head>practices</head> of the concessionaires for the purpose of keeping the prices reasonable '' . On other matters , the jury recommended that : Four additional deputies be employed at the Fulton_County_Jail and `` a doctor , medical_intern or extern be employed for night and weekend duty at the jail '' . Fulton legislators `` work with city officials to pass enabling_legislation that will permit the establishment of a fair and equitable '' pension plan for city employes .</context>
+    </instance>
+    <instance id="br-a12#w567_0" docsrc="br-a12">
+      <context> Place_kicking is largely a matter of timing , Moritz declared . `` Once you get the feel of it , there 's not much to it . I 've tried to teach some of the other boys to kick and some of them can't seem to get the feel . <head>Practice</head> helps you to get your timing down . `` It 's kind_of like golf - if you do n't swing a club very often , your timing gets off '' . Moritz , however , kicks only about 10 or 12 extra_points during each practice_session . `` If you kick too_much , your leg gets kinda dead '' , he explained .</context>
+    </instance>
+    <instance id="br-a15#w412_0" docsrc="br-a15">
+      <context> `` I have to stay with Nieman for_a_while '' , Hemus said . `` Bill_White ( sore ankles ) should be ready . With a lefthander going for Pittsburgh , I may use Don_Taussig in center '' . `` Lindy_McDaniel threw batting <head>practice</head> about 25 minutes , and he looked good '' , Hemus said . `` He should be getting_back in_the_groove before_long . Our pitching is much better than it has shown '' . The statistics hardly indicated that the Pirates needed extra batting practice , but Murtaugh also turned his men loose at Busch_Stadium yesterday .</context>
+    </instance>
+    <instance id="br-a15#w455_0" docsrc="br-a15">
+      <context> `` Lindy_McDaniel threw batting practice about 25 minutes , and he looked good '' , Hemus said . `` He should be getting_back in_the_groove before_long . Our pitching is much better than it has shown '' . The statistics hardly indicated that the Pirates needed extra batting <head>practice</head> , but Murtaugh also turned his men loose at Busch_Stadium yesterday . Until the Bucs ' bats quieted_down a_bit in Cincinnati over the weekend , the champions had eight men hitting over .300 . Despite the recession , Pittsburgh came into town with this imposing list of averages : Smoky_Burgess .455 , Gino_Cimoli .389 , Bill_Virdon .340 , Bob_Clemente and Dick_Groat , each .323 , Dick_Stuart .306 , Don_Hoak .280 and Bob_Skinner .267 . Bill_Mazeroski with .179 and Hal_Smith with .143 were the only Pirates dragging_their_feet .</context>
+    </instance>
+    <instance id="br-e02#w1166_0" docsrc="br-e02">
+      <context> Try pegging_down each separate branch to the earth , using a bobby_pin to hold it there . Pick the flowers , keep the soil dampened , and each of the pegged-down branches will take root and become a little plant and go_on blooming for the rest of the season . As_soon_as an experimental tug assures you that roots have taken_over , cut it off from the mother plant . A second and also good <head>practice</head> is to shear off the tops , leaving an inch high stub with just a leaf or two on each branch . These cut-down plants will bud and blossom in record time and will behave just as they did in early spring . I like to shear half my plants at_a_time , leaving one half of them to blossom while the second_half is getting_started on its new round of blooming . Probably no one needs to tell you that the way to stop all bloom is to let the blossoms go to seed .</context>
+    </instance>
+    <instance id="br-e04#w1544_0" docsrc="br-e04">
+      <context> Yet it is the accumulation of distortion , the fitting together of fractional bits until the total reaches the threshold of our awareness , that makes records sound like records . The sound may be good ; but if you know The Real_Thing , you know that what you are hearing is only a clever imitation . Command 's new Brahms Second is a major effort to make a record that sounds like a real orchestra rather than a copy of one . Like the recent Scheherazade from London ( High_Fidelity , Sept. 1961 ) , it is successful because emphasis has been placed on good musical and engineering <head>practices</head> rather_than on creating sensational effects . Because of this , only those with truly fine equipment will be able to appreciate the exact degree of the engineers ' triumph . The easiest way to describe this release is to say that it reproduces an interesting and effective Steinberg performance with minimal alteration of its musical values . The engineering as_such never obtrudes_upon your consciousness .</context>
+    </instance>
+    <instance id="br-e21#w1012_0" docsrc="br-e21">
+      <context> The quantity of water flow may be critical ; a stream or pond which is attractive in the springtime may become stagnant or dry in late summer . If the site is on a reservoir , the level of the water at various seasons as it affects recreation should be studied . Check the quality of the water . A stream which has all_of its watershed within a national forest or other lands under good conservation <head>practices</head> is less likely to be affected by pollution than one passing_through unrestricted logging or past an industrial area . Other factors , such as water temperature , depth of water , the fish life it supports , wave action , flooding , etcetera , will affect its recreation value . Other natural features which can be of high interest are the forests , canyons , mountains , deserts , seacoast , beaches , sand_dunes , waterfalls , springs , etcetera with which the area is blessed . Just_as the national and state parks place emphasis on features which are of national or state significance , counties should seek_out these features which are distinctive of their area .</context>
+    </instance>
+    <instance id="br-e21#w1577_0" docsrc="br-e21">
+      <context> The size of the area alone can be a determining_factor . An area may be too small for the needs of the project . Areas should be large enough to include the attractions , have ample space for the use of facilities needed , and have room around the edges to protect the values of the area from encroachment by private developments . Acreage in_excess_of the minimum is good <head>practice</head> as recreation areas are never too large for the future and it is often more economical to operate one large area than several small ones . Shape of the area is also related_to the use attractions and needs of the development . A large picnic_area or camping development is most efficient in shape as a square or rectangle several hundred feet in_width in_preference_to a long narrow area less_than one_hundred feet wide . This is true because of savings in utility lines and the fact that your buildings have a useful radius equal in all directions .</context>
+    </instance>
+    <instance id="br-e24#w1982_0" docsrc="br-e24">
+      <context> After it has been seen , have the child start on a mat on hands and knees ( a thin , inexpensive mat is quite sufficient for anything that does not require falling ) . He places the hands on either side of the head , keeping the chin down on the chest . He then pushes his seat into the air and the teacher guides it over . One or two <head>practice</head> runs should be sufficient for solo . If , however , the child is weak , overweight , or afraid , more help will be needed . When the child raises his seat into the air , the teacher takes_hold under both sides of the pelvis ; then no_matter_what_happens , the child 's performance will be controlled . By lifting the seat upwards a_little , the weight is taken_off the neck and the back is kept rounded .</context>
+    </instance>
+    <instance id="br-e26#w1792_0" docsrc="br-e26">
+      <context> An attempt should be made to see if electricity , in its most latent stage , has any action on the magnet as_such '' . His plan and intent were clearly charted . Oersted returned in 1814 and resumed an active part in university and political discussions . In one debate he supported the freedom of judgment as_opposed_to dogma , in another he held that the <head>practice</head> of science was in_fact an act of religious worship . He continued as a popular lecturer . He devised a detonating_fuse in which a short wire was caused to glow by an electric_current . In 1819 under royal command he undertook a very successful geological expedition to Bornholm , one of the Danish islands , being one of three scientists in the expedition .</context>
+    </instance>
+    <instance id="br-e26#w578_0" docsrc="br-e26">
+      <context> He openly proclaimed his pleasure in lecturing and writing_about science . In_this third year at the university , Hans , in 1797 , was awarded the first important token of recognition , a gold medal for his essay on `` Limits_of_Poetry_and_Prose '' . He completed his training in pharmacy also , taking his degree with high honors in 1797 , and in 1799 was awarded the degree of Doctor_of_Philosophy along with a prize for an essay in medicine . He proposed a fresh theory of alkalis which later was accepted in chemical <head>practices</head> . Han 's student days were at_a time when Europe was in a new intellectual ferment following the revolutions in America and in France , Germany and Italy were rising from divisive nationalisms and a strong wave of intellectual awareness was sweeping the Continent . The new century opened with Oersted beginning his professional career in_charge of an apothecary shop in Copenhagen and as lecturer at the university . He was stirred by the announcement of Volta 's discovery of chemical electricity and he immediately applied the voltaic_pile to experiments with acids and alkalis .</context>
+    </instance>
+    <instance id="br-e31#w183_0" docsrc="br-e31">
+      <context> Just as modern transportation has outmoded the early Studebaker covered_wagon , the demand of today 's sportsmen and women has necessitated changes in their equipment . The American firearms and ammunition manufacturers through diligent research and technical development have replaced the muzzle_loader and slow firing single shot arms with modern fast firing autoloaders , extremely accurate bolt , lever , and slide_action firearms . And millions of rounds of entirely new and modern small-arms ammunition , designed for today 's hunting and target shooting . And due_to modern resource use and game management <head>practices</head> , there is still game to shoot , even with the ever expanding encroachment on land and water . Present conservation practices regard wildlife , not as an expendable natural_resource , but as an annual harvest to be sown and also reaped . Unlimited game bags are possible and legal in more_than 40 states , on shooting_preserves ( one of the newer phases of modern game management ) for five and six months each_year . Close to two million game_birds were harvested on 1500 commercial and private shooting_preserves , and on State_Game_Commission controlled upland game areas during the 1960 - 61 season .</context>
+    </instance>
+    <instance id="br-e31#w205_0" docsrc="br-e31">
+      <context> The American firearms and ammunition manufacturers through diligent research and technical development have replaced the muzzle_loader and slow firing single shot arms with modern fast firing autoloaders , extremely accurate bolt , lever , and slide_action firearms . And millions of rounds of entirely new and modern small-arms ammunition , designed for today 's hunting and target shooting . And due_to modern resource use and game management practices , there is still game to shoot , even with the ever expanding encroachment on land and water . Present conservation <head>practices</head> regard wildlife , not as an expendable natural_resource , but as an annual harvest to be sown and also reaped . Unlimited game bags are possible and legal in more_than 40 states , on shooting_preserves ( one of the newer phases of modern game management ) for five and six months each_year . Close to two million game_birds were harvested on 1500 commercial and private shooting_preserves , and on State_Game_Commission controlled upland game areas during the 1960 - 61 season . The shooting development program of the Sporting_Arms_and_Ammunition_Manufacturers_'_Institute has successfully published these facts in all major outdoor magazines , many national weeklies and the trade papers .</context>
+    </instance>
+    <instance id="br-f10#w1937_0" docsrc="br-f10">
+      <context> Moreover , her husband and child contracted T.B. from her . ( Small wonder a Spokane jury awarded the husband $ 35823 for his wife 's death . ) In California , a_few years ago , a ghoul by the name of H._F._Bell sold electric blankets as a cure for cancer . He did this by the charming <head>practice</head> of buying_up used electric blankets for $ 5 to $ 10 from survivors of patients who had died , reconditioning them , and selling them at $ 185 each . When authorities convicted him of practicing medicine without a license ( he got_off with a suspended sentence of three years because of his advanced age of 77 ) , one of his victims was not around to testify : He was dead of cancer . By_no_means are these isolated cases . `` Unfortunately '' , says Chief_Postal_Inspector_David_H._Stephens , who has prosecuted many device quacks , `` the ghouls who trade on the hopes of the desperately ill often cannot be successfully prosecuted because the patients who are the chief witnesses die before the case is called_up in court '' .</context>
+    </instance>
+    <instance id="br-f15#w1816_0" docsrc="br-f15">
+      <context> In_general , the means ( excluding abortion ) that prove most effective are considered the most ethical . This development is reflected in the action taken in February , 1961 , by the general board of the National_Council_of_Churches , the largest Protestant organization in the US . The board approved and commended the use of birth-control devices as a part of Christian responsibility in family_planning . It called_for opposition to laws and institutional <head>practices</head> restricting the information or availability of contraceptives . The general board declared : `` Most_of the Protestant churches hold contraception and periodic continence to be morally right when the motives are right . The general Protestant conviction is that motives , rather than methods , form the primary moral issue , provided the methods are limited to the prevention of conception '' . An action once universally condemned by all Christian_churches and forbidden by the civil_law is now not_only approved by the overwhelming majority of Protestant_denominations , but also deemed , at certain times , to be a positive religious duty .</context>
+    </instance>
+    <instance id="br-f15#w1949_0" docsrc="br-f15">
+      <context> The general Protestant conviction is that motives , rather than methods , form the primary moral issue , provided the methods are limited to the prevention of conception '' . An action once universally condemned by all Christian_churches and forbidden by the civil_law is now not_only approved by the overwhelming majority of Protestant_denominations , but also deemed , at certain times , to be a positive religious duty . This viewpoint has now been translated into action by the majority of people in this country . Repeated polls have disclosed that most married_couples are now using contraceptives in the <head>practice</head> of birth_control . For all concerned with social-welfare legislation , the significance of this radical and revolutionary change in the thought and habits of the vast majority of the American people is clear , profound and far reaching . To try to oppose the general religious and moral conviction of such a majority by a legislative fiat would be to invite the same breakdown of law and order that was occasioned by the ill-starred Prohibition experiment . This brings us to the fact that the realities we are dealing with lie not in the field of civil legislation , but in the realm of conscience and religion : They are moral judgments and matters of theological belief .</context>
+    </instance>
+    <instance id="br-f17#w1805_0" docsrc="br-f17">
+      <context> Its people , including Pierre_Bottineau and other American_Fur_Company employees and the refugees from Fort_Garry , were joined by the remaining Scots and Swiss from Fort_Snelling when Major_Joseph_Plympton expelled them from the reservation in May 1840 . The resultant town , platted in 1847 and named for the patron of Father_Galtier 's mission , St._Paul , was to become an important center of the fur trade and was to take_on a new interest for those Selkirkers who remained at Red_River . While population at Fort_Garry increased rapidly , from 2417 in 1831 to 4369 in 1840 , economic opportunities did not increase at a similar rate . Accordingly , though the <head>practice</head> violated the no trading provision of the Selkirk charter which reserved all such activity in merchandise and furs to the Hudson's_Bay_Company , some settlers went into trade . The Company maintained a store at which products of England could be purchased and brought_in goods for the new merchants on the understanding that they refrain_from trading in furs . Despite this prohibiton , by 1844 some of the Fort_Garry merchants were trading with the Indians for furs . In June 1845 , the Governor and Council of Assiniboia imposed a 20 per_cent duty on imports via Hudson's_Bay which were viewed_as aimed at the `` very vitals of the Company 's trade and power '' .</context>
+    </instance>
+    <instance id="br-f18#w881_0" docsrc="br-f18">
+      <context> Save for brief periods in garrison or winter quarters , soldiers rarely enjoyed the luxury of a writing_desk or table . Most_of the letters were written in the hubbub of camp , on stumps , pieces of bark , drum_heads , or the knee . In the South , after the first year of the war , paper and ink were very poor . Scarcity of paper caused many Southerners to adopt the <head>practice</head> of cross writing , i._e. , after writing from left to right of the page in the usual manner , they gave the sheet a half turn and wrote from end to end across the lines previously written . Sometimes soldiers wrote letters while bullets were whizzing about their heads . A Yank writing from Vicksburg , May 28 , 1863 , stated `` Not less_than 50 balls have passed_over me since I commenced writing . I could tell you of plenty narrow_escapes , but we take no notice of them now '' .</context>
+    </instance>
+    <instance id="br-f20#w1905_0" docsrc="br-f20">
+      <context> He says he do n't want no trouble '' . But Torrio and Capone had graver cause to hate and distrust the Irishman . For three years , since the liquor territorial conference , Torrio had , with his elastic patience , and because he knew that retaliation could cause only violent warfare and disaster to business , tolerated O_'_Banion 's impudent double-crossing . They had suffered , in sulky silence , the sight of his sharp <head>practice</head> in Cicero . When , as a diplomatic gesture of amity and in payment for the loan of gunmen in the April election , Torrio had given O_'_Banion a slice of Cicero , the profits from that district had been $ 20000 a month . In six months O_'_Banion had boosted the profits to $ 100000 a month - mainly by bringing pressure to bear on fifty Chicago speak-easy proprietors to shift out to the suburb . These booze customers had until then been buying their supplies from the Sheldon , Saltis-McErlane , and Druggan-Lake gangs , and now they were competing for trade with the Torrio-Capone saloons ; once_again O_'_Banion 's brash recklessness had caused a proliferation of ill_will .</context>
+    </instance>
+    <instance id="br-f21#w1382_0" docsrc="br-f21">
+      <context> Its staff makes a preliminary determination of the epicenter of the quake and alerts tide stations near the epicenter for a tsunami . By means of charts showing wave travel times and depths in the ocean at various locations , it is possible to estimate the rate of approach and probable time_of_arrival at Hawaii of a tsunami getting under_way at any spot in the Pacific . The civil and military authorities are then advised of the danger , and they issue warnings and take all necessary protective steps . All_of these activities are geared to a top priority communication_system , and <head>practice</head> tests have been held to assure that everything will work smoothly . Since the 1946 disaster there have been 15 tsunami in the Pacific , but only one was of any consequence . On November 4 , 1952 , an earthquake occurred under the sea off the Kamchatka_Peninsula . At 17_:_07 that afternoon ( Greenwich_time ) the shock was recorded by the seismograph alarm in Honolulu .</context>
+    </instance>
+    <instance id="br-g20#w1848_0" docsrc="br-g20">
+      <context> Of types of message listed in Table 1 , commands and statements are the only ones sent through the vertical network shown in Figure 3 . A further regulation is that commands always go_down , unaccompanied by statements , and statements always go_up , unaccompanied by commands . Questions and , particularly , exclamations are usually channeled along informal , horizontal lines not indicated in Figure 3 and seldom are carried beyond the nearest neighbor . It will readily be seen that in this suggested network ( not materially different from some of the networks in_vogue today ) greater emphasis on monitoring is implied than is usually put into <head>practice</head> . Furthermore , the network in Figure 3 is only the basic net through which other networks pertaining to logistics and the_like are interlaced . Not discussed here are some military problems of modern_times such_as undersea warfare , where the surveillance , sending , transmitting , and receiving are all so inadequate that networks and decision_making are not the bottlenecks . Such problems are of extreme interest as well as importance and are so much like fighting in a rain_forest or guerrilla warfare at night in tall grass that we might have to re-examine primitive conflicts for what they could teach .</context>
+    </instance>
+    <instance id="br-g20#w94_0" docsrc="br-g20">
+      <context> It will be shown that the objectives of the cooperative people in an organization determine the type of network required , because the type of network functions according to the characteristics of the messages enumerated in Table 1 . Great stress is placed on the role that the monitoring of information sending plays in maintaining the effectiveness of the network . By monitoring , we mean some system of control over the types of information sent from the various centers . As a word of caution , we should be aware that in actual <head>practice</head> no message is purely one of the four types , question , command , statement , or exclamation . For_example , suppose a man wearing a $ 200 watch , driving a 1959 Rolls_Royce , stops to ask a man on the sidewalk , `` What time is it '' ? This sentence would have most_of the characteristics of a question , but it has some of the characteristics of a statement because the questioner has conveyed the fact that he has no faith in his own timepiece or the one attached to his car . If the man on the sidewalk is surprised at this question , it has served as an exclamation .</context>
+    </instance>
+    <instance id="br-g22#w2082_0" docsrc="br-g22">
+      <context> Also , I am convinced that if my company were a sole proprietorship instead of a partnership , I would have been even abler to solve long-range problems for myself and my fellow employees . Any abilities I may have were achieved in their present shape from experience in sharing_in the growth and control of my business , coupled with raising my family . This combined experience , on a foundation of very average , I assure you , intelligence and background , has helped me do things many well-informed people would bet heavily against . Perhaps a list of some of the `` <head>practices</head> '' of my company will help here . The company grew out of efforts by two completely inexperienced men in their late twenties , neither having a formal education applicable to , or experience in , manufacturing or selling our type of articles . From an initial investment of $ 1200 in 1943 , it has grown , with no additional capital investment , to a present value estimated by some as exceeding $ 10000000 ( we do n't disclose financial figures to the public ) . Its growth continues steadily on a par with past growth ; and no limitation is in_evidence .</context>
+    </instance>
+    <instance id="br-g44#w1651_0" docsrc="br-g44">
+      <context> It is obvious that the historian who seeks to recapture the ideas that have motivated human behavior throughout a given period will find the art and literature of that age one of his central and major concerns , by_no_means a mere supplement or adjunct of significant historical research . The student of ideas and their place in history will always be concerned with the patterns of transition , which are at_the_same_time patterns of transformation , whereby ideas pass from one area of activity to another . Let us survey for a moment the development of modern thought - turning our attention from the Reformation toward the revolutionary and romantic movements that follow and dwelling finally on more recent decades . We may thus trace the notion of individual autonomy from its manifestation in religious <head>practice</head> and theological reflection through practical politics and political theory into literature and the arts . Finally we may note that the idea appears in educational theory where its influence is at_present widespread . No one will deny that such broad developments and transitions are of great intrinsic interest and the study of ideas in literature would be woefully incomplete without frequent reference to them . Still , we must remember that we cannot construct and justify generalizations of this sort unless we are ready to consider many special instances of influence moving between such areas as theology , philosophy , political thought , and literature .</context>
+    </instance>
+    <instance id="br-j22#w1686_0" docsrc="br-j22">
+      <context> Technical assistance in training middle - and upper-level management_personnel is still needed in many cases . There are also more basic problems . This is the stage at which democratic developments must take_place if the society is to become an open community of creative people . Nevertheless , impulses still exist among the ruling elite to rationalize and thus to perpetuate the need for centralized and authoritarian <head>practices</head> . Another great danger is that the emerging middle_class will feel itself increasingly alienated from the political_leaders who still justify their dominance by reference to the struggle for independence or the early phase of nationalism . The capacity of intellectuals and members of the new professional classes to contribute creatively to national development is likely to be destroyed by a constraining sense of inferiority toward both their own political class and their colleagues and professional counterparts in the West . Particularly when based upon a single dominant party , governments may respond to such a situation by claiming a monopoly of understanding about the national interest .</context>
+    </instance>
+    <instance id="br-j23#w1658_0" docsrc="br-j23">
+      <context> The common codes , for religious action as_such and in their ethical aspects for everyday moral behavior , bind the devotees together . These are ways of jointly participating in significantly symbolized , standardized , and ordered religiously sanctified behavior . The codes are mechanism for training in , and directing and enforcing , uniform social interaction , and for continually and publicly reasserting the solidarity of the group . Durkheim noted long_ago that religion as `` a unified system of beliefs and <head>practices</head> relative to sacred things - unite [ s ] into one single moral community - all those who adhere to them '' . His view is that every religion pertains to a community , and , conversely , every community is in one aspect a religious unit . This is brought_out in the common religious ethos that prevails even in the denominationally diverse audiences at many secular semi-public and public occasions in the United_States ; and it is evidenced in the prayers offered , in the frequent religious allusions , and in the confirmation of points on religious grounds . The unifying effect of religion is also brought_out in the fact that historically peoples have clung together as more_or_less cohesive cultural units , with religion as the dominant bond , even though spatially dispersed and not politically organized .</context>
+    </instance>
+    <instance id="br-j23#w1904_0" docsrc="br-j23">
+      <context> it might be pointed_out that the integrating function of religion , for good or ill , has often supported or been identified with other groupings - political , nationality , language , class , racial , sociability , even economic . Religion usually exercises a stabilizing conserving function . As_such it acts_as an anchor for the people . There is a marked tendency for religions , once firmly established , to resist change , not_only in their own doctrines and policies and <head>practices</head> , but also in secular affairs having religious relevance . It has thus been a significant factor in the conservation of social values , though also in some measure , an obstacle to the creation or diffusion of new ones . It tends to support the longstanding precious sentiments , the traditional ways of thinking , and the customary ways of living . As Yinger has pointed_out , the `` reliance on symbols , on tradition , on sacred_writings , on the cultivation of emotional feelings of identity and harmony with sacred values , turns one to the past far more than to the future '' .</context>
+    </instance>
+    <instance id="br-j34#w548_0" docsrc="br-j34">
+      <context> If , as I suspect , the problem is largely of the second sort , then development of a theory better able to handle tone will result automatically in better theory for all phonologic subsystems . One issue that must be faced is the relative difficulty of analysis of different phonologic subsystems . Since tone_systems typically comprise fewer units than either consonant or vowel_systems , we might expect that they would be the easiest part of a phonologic analysis . Actual <head>practice</head> does not often work_out this way . Tone_systems are certainly more complex than the number of units would suggest , and often analytically more difficult than much larger consonantal_systems . Welmers has suggested one explanation . Tone_languages use for linguistic contrasts speech parameters which also function heavily in nonlinguistic use .</context>
+    </instance>
+    <instance id="br-k08#w758_0" docsrc="br-k08">
+      <context> That after all his years of effort to become a composer , he should now , now when he was still stoutly replying to the critics of his Discourse_on_the_Arts_and_Sciences , be so close to a success in music and have_to reject it . Or at_least appear to reject it ! But what else could he do ? You could n't on_the_one_hand decry the arts and at_the_same_time <head>practice</head> them , could you ? Well , yes , perhaps in literature , since you could argue that you could n't keep silent about your feelings against literature and so were involved in spite of yourself . But now music too ? No .</context>
+    </instance>
+    <instance id="br-r09#w1500_0" docsrc="br-r09">
+      <context> After a while , we became aware that the money was disappearing as fast as we replenished it . Our suspicions eventually centered , by the process of elimination , on a grocer 's boy , a thoroughly bad_hat , who delivered cartons to the people overhead . The more I probed into this young_man 's activities and character , the less savory I found him . I learned , for_example , that he made a <head>practice</head> of yapping at dogs he encountered and , in winter , of sprinkling salt on the icy pavement to scarify their feet . His energy was prodigious ; sometimes he would be up before dawn , clad as a garbage_collector and hurling pails into areaways to exasperate us , and thereafter would hurry to the Bronx_Zoo to grimace at the lions and press cigar_butts against their paws . Evenings , he was frequently to be seen at restaurants like Enrico + Paglieri's or Peter's_Backyard drunkenly donning ladies ' hats and singing `` O_Sole_Mio '' . In_short , and to borrow an arboreal phrase , slash_timber .</context>
+    </instance>
+    <instance id="n00098939_d_1" docsrc="n00098939_d">
+      <context> the <head>practice</head> of serving yourself ( as in a grocery or cafeteria ) ;</context>
+    </instance>
+    <instance id="n00160922_d_1" docsrc="n00160922_d">
+      <context> the <head>practice</head> of making cuckolds ; sexual_conquests of married_women ;</context>
+    </instance>
+    <instance id="n00176052_d_1" docsrc="n00176052_d">
+      <context> the <head>practice</head> of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares at a premium in order to stay in business ;</context>
+    </instance>
+    <instance id="n00195415_d_4" docsrc="n00195415_d">
+      <context> act of changing in <head>practice</head> or custom ;</context>
+    </instance>
+    <instance id="n00228283_d_7" docsrc="n00228283_d">
+      <context> the act of abolishing a system or <head>practice</head> or institution ( especially abolishing slavery ) ;</context>
+    </instance>
+    <instance id="n00239910_d_8" docsrc="n00239910_d">
+      <context> the act of starting a new operation or <head>practice</head> ;</context>
+    </instance>
+    <instance id="n00263353_d_1" docsrc="n00263353_d">
+      <context> the <head>practice</head> of making a design on the skin by pricking and staining ;</context>
+    </instance>
+    <instance id="n00389763_d_2" docsrc="n00389763_d">
+      <context> a cooperative <head>practice</head> of pairing two or more people together for mutual assistance or safety ( especially in recreational swimming ) ;</context>
+    </instance>
+    <instance id="n00410247_ex1_3" docsrc="n00410247_ex1">
+      <context> it is their <head>practice</head> to give annual raises ;</context>
+    </instance>
+    <instance id="n00411048_ex1_6" docsrc="n00411048_ex1">
+      <context> a hard theory to put into <head>practice</head> ;</context>
+    </instance>
+    <instance id="n00411384_d_1" docsrc="n00411384_d">
+      <context> the <head>practice</head> of cooperating ;</context>
+    </instance>
+    <instance id="n00411553_d_1" docsrc="n00411553_d">
+      <context> the <head>practice</head> ( usually by a labor_union ) of requiring an employer to hire more workers than are required ;</context>
+    </instance>
+    <instance id="n00411717_d_1" docsrc="n00411717_d">
+      <context> the <head>practice</head> of scrupulous adherence to prescribed or external forms ;</context>
+    </instance>
+    <instance id="n00411859_d_1" docsrc="n00411859_d">
+      <context> the <head>practice</head> of eating fungi ( especially mushrooms collected in the wild ) ;</context>
+    </instance>
+    <instance id="n00412006_d_1" docsrc="n00412006_d">
+      <context> the <head>practice</head> of keeping one jump ahead of a friend or competitor ;</context>
+    </instance>
+    <instance id="n00412130_d_1" docsrc="n00412130_d">
+      <context> the <head>practice</head> of one person holding more than one benefice at a time ;</context>
+    </instance>
+    <instance id="n00412271_d_1" docsrc="n00412271_d">
+      <context> the <head>practice</head> of investing things with symbolic meaning ;</context>
+    </instance>
+    <instance id="n00412449_d_0" docsrc="n00412449_d">
+      <context> <head>practices</head> typical of contemporary life or thought ;</context>
+    </instance>
+    <instance id="n00412572_d_1" docsrc="n00412572_d">
+      <context> supernatural <head>practices</head> and techniques ;</context>
+    </instance>
+    <instance id="n00412727_d_1" docsrc="n00412727_d">
+      <context> the <head>practice</head> of ornamental display ;</context>
+    </instance>
+    <instance id="n00412839_d_1" docsrc="n00412839_d">
+      <context> the <head>practice</head> of eating the flesh of your own kind ;</context>
+    </instance>
+    <instance id="n00413086_d_1" docsrc="n00413086_d">
+      <context> the <head>practice</head> of advancing your career at the expense of your personal integrity ;</context>
+    </instance>
+    <instance id="n00413239_d_3" docsrc="n00413239_d">
+      <context> accepted or habitual <head>practice</head> ;</context>
+    </instance>
+    <instance id="n00415226_d_3" docsrc="n00415226_d">
+      <context> characteristic or habitual <head>practice</head> ;</context>
+    </instance>
+    <instance id="n00415333_d_1" docsrc="n00415333_d">
+      <context> the <head>practice</head> of lobbying ; the activities of a lobbyist ;</context>
+    </instance>
+    <instance id="n00415442_d_1" docsrc="n00415442_d">
+      <context> the <head>practice</head> of owning slaves ;</context>
+    </instance>
+    <instance id="n00415540_d_1" docsrc="n00415540_d">
+      <context> the <head>practice</head> of making a debtor work for his creditor until the debt is discharged ;</context>
+    </instance>
+    <instance id="n00416409_d_14" docsrc="n00416409_d">
+      <context> the way_of_life prescribed as normative for Muslims on the basis of the teachings and <head>practices</head> of Muhammad and interpretations of the Koran ;</context>
+    </instance>
+    <instance id="n00417005_d_1" docsrc="n00417005_d">
+      <context> the <head>practice</head> of punishing people by hanging without due_process_of_law ;</context>
+    </instance>
+    <instance id="n00418025_d_1" docsrc="n00418025_d">
+      <context> the <head>practice</head> of treating ( someone or something ) badly ;</context>
+    </instance>
+    <instance id="n00418305_d_1" docsrc="n00418305_d">
+      <context> the <head>practice</head> of nonconformity ;</context>
+    </instance>
+    <instance id="n00580565_d_11" docsrc="n00580565_d">
+      <context> the act of reforming by the removal of unwanted personnel or <head>practices</head> or conditions ;</context>
+    </instance>
+    <instance id="n00606370_d_2" docsrc="n00606370_d">
+      <context> the skilled <head>practice</head> of a practical occupation ;</context>
+    </instance>
+    <instance id="n00627664_d_1" docsrc="n00627664_d">
+      <context> the <head>practice</head> of calisthenic exercises ;</context>
+    </instance>
+    <instance id="n00631378_ex1_1" docsrc="n00631378_ex1">
+      <context> the <head>practice</head> of the law ;</context>
+    </instance>
+    <instance id="n00631378_ex2_4" docsrc="n00631378_ex2">
+      <context> I took over his <head>practice</head> when he retired ;</context>
+    </instance>
+    <instance id="n00631712_d_1" docsrc="n00631712_d">
+      <context> the <head>practice</head> of giving expert advice within a particular field ;</context>
+    </instance>
+    <instance id="n00631887_d_1" docsrc="n00631887_d">
+      <context> the <head>practice</head> of beautifying the face and hair and skin ;</context>
+    </instance>
+    <instance id="n00632017_d_1" docsrc="n00632017_d">
+      <context> the <head>practice</head> of dentistry ;</context>
+    </instance>
+    <instance id="n00632716_d_1" docsrc="n00632716_d">
+      <context> the <head>practice</head> of an optometrist ;</context>
+    </instance>
+    <instance id="n00655540_d_10" docsrc="n00655540_d">
+      <context> motherly care ; behavior characteristic of a mother ; the <head>practice</head> of acting_as a mother does toward her children ;</context>
+    </instance>
+    <instance id="n00746866_d_8" docsrc="n00746866_d">
+      <context> a corrupt or depraved or degenerate act or <head>practice</head> ;</context>
+    </instance>
+    <instance id="n00758795_d_5" docsrc="n00758795_d">
+      <context> apathy and inactivity in the <head>practice</head> of virtue ( personified as one of the deadly_sins ) ;</context>
+    </instance>
+    <instance id="n00776262_d_1" docsrc="n00776262_d">
+      <context> the <head>practice</head> of offering something ( usually money ) in order to gain an illicit advantage ;</context>
+    </instance>
+    <instance id="n00779809_d_3" docsrc="n00779809_d">
+      <context> a fraudulent business <head>practice</head> involving some form of pyramid_scheme e.g. , the chain of distribution is artificially expanded by an excessive number of distributors selling to other distributors at progressively higher wholesale prices until retail prices are unnecessarily inflated ;</context>
+    </instance>
+    <instance id="n00893498_d_3" docsrc="n00893498_d">
+      <context> the course of <head>practice</head> and exercise and diet undertaken by an athlete ;</context>
+    </instance>
+    <instance id="n00894552_ex1_0" docsrc="n00894552_ex1">
+      <context> <head>practice</head> makes perfect ;</context>
+    </instance>
+    <instance id="n00896832_d_3" docsrc="n00896832_d">
+      <context> a form of <head>practice</head> ; repetition of information ( silently or aloud ) in order to keep it in short-term_memory ;</context>
+    </instance>
+    <instance id="n00897811_d_0" docsrc="n00897811_d">
+      <context> <head>practice</head> intended to polish performance or refresh the memory ;</context>
+    </instance>
+    <instance id="n00898127_d_0" docsrc="n00898127_d">
+      <context> <head>practice</head> play between a football_team's squads ;</context>
+    </instance>
+    <instance id="n00898425_d_0" docsrc="n00898425_d">
+      <context> <head>practice</head> in shooting at targets ;</context>
+    </instance>
+    <instance id="n00916464_d_1" docsrc="n00916464_d">
+      <context> the <head>practice</head> of cultivating the land or raising stock ;</context>
+    </instance>
+    <instance id="n00936296_d_3" docsrc="n00936296_d">
+      <context> the art and <head>practice</head> of choosing and preparing and eating good food ;</context>
+    </instance>
+    <instance id="n00966294_d_1" docsrc="n00966294_d">
+      <context> the <head>practice</head> of plundering in gangs ;</context>
+    </instance>
+    <instance id="n01005579_d_1" docsrc="n01005579_d">
+      <context> the <head>practice</head> of measuring angles and distances on the ground so that they can be accurately plotted on a map ;</context>
+    </instance>
+    <instance id="n01013770_d_0" docsrc="n01013770_d">
+      <context> <head>practice</head> of classifying plants and animals according to their presumed natural relationships ;</context>
+    </instance>
+    <instance id="n01027859_d_4" docsrc="n01027859_d">
+      <context> any customary observance or <head>practice</head> ;</context>
+    </instance>
+    <instance id="n01030488_d_4" docsrc="n01030488_d">
+      <context> offensive terms for the <head>practices</head> and rituals of the Roman_Catholic_Church ;</context>
+    </instance>
+    <instance id="n01030642_d_1" docsrc="n01030642_d">
+      <context> the <head>practice</head> of quoting from books or plays etc. ;</context>
+    </instance>
+    <instance id="n01031563_d_6" docsrc="n01031563_d">
+      <context> going without clothes as a social <head>practice</head> ;</context>
+    </instance>
+    <instance id="n01031705_d_2" docsrc="n01031705_d">
+      <context> the habitual <head>practice</head> of systematization and classification ;</context>
+    </instance>
+    <instance id="n01031858_d_1" docsrc="n01031858_d">
+      <context> the <head>practice</head> of adopting the clothes or the manner or the sexual role of the opposite sex ;</context>
+    </instance>
+    <instance id="n01066061_d_1" docsrc="n01066061_d">
+      <context> the <head>practice</head> of taking holidays in a caravan ;</context>
+    </instance>
+    <instance id="n01068773_d_2" docsrc="n01068773_d">
+      <context> act or <head>practice</head> of refraining from indulging an appetite ;</context>
+    </instance>
+    <instance id="n01081346_d_1" docsrc="n01081346_d">
+      <context> the <head>practice</head> of communal living and common ownership ;</context>
+    </instance>
+    <instance id="n01160170_d_6" docsrc="n01160170_d">
+      <context> the imposition of taxes ; the <head>practice</head> of the government in levying taxes on the subjects of a state ;</context>
+    </instance>
+    <instance id="n01170047_d_7" docsrc="n01170047_d">
+      <context> resistance by potential customers to aggressive selling <head>practices</head> ;</context>
+    </instance>
+    <instance id="n01204419_d_6" docsrc="n01204419_d">
+      <context> conformity with law or custom or <head>practice</head> etc. ;</context>
+    </instance>
+    <instance id="n01204711_d_9" docsrc="n01204711_d">
+      <context> a lack of conformity with law or custom or <head>practice</head> etc. ;</context>
+    </instance>
+    <instance id="n01206774_d_10" docsrc="n01206774_d">
+      <context> devotion to the doctrine or a cult or to the <head>practices</head> of a cult ;</context>
+    </instance>
+    <instance id="n01267808_d_3" docsrc="n01267808_d">
+      <context> the actions or <head>practices</head> of a vampire ;</context>
+    </instance>
+    <instance id="n01268183_d_3" docsrc="n01268183_d">
+      <context> the use or <head>practice</head> of witchcraft ;</context>
+    </instance>
+    <instance id="n02811059_d_11" docsrc="n02811059_d">
+      <context> a movable screen placed behind home_base to catch balls during batting <head>practice</head> ;</context>
+    </instance>
+    <instance id="n03657511_d_36" docsrc="n03657511_d">
+      <context> a tight-fitting garment of stretchy material that covers the body from the shoulders to the thighs ( and may have long_sleeves or legs reaching down to the ankles ) ; worn by ballet_dancers and acrobats for <head>practice</head> or performance ;</context>
+    </instance>
+    <instance id="n03990025_d_13" docsrc="n03990025_d">
+      <context> genre of art and literature and especially architecture in reaction against principles and <head>practices</head> of established modernism ;</context>
+    </instance>
+    <instance id="n04201845_d_9" docsrc="n04201845_d">
+      <context> an enclosed firing_range with targets for rifle or handgun <head>practice</head> ;</context>
+    </instance>
+    <instance id="n04344246_d_5" docsrc="n04344246_d">
+      <context> workplace for the teaching or <head>practice</head> of an art ;</context>
+    </instance>
+    <instance id="n04451818_d_5" docsrc="n04451818_d">
+      <context> an implement used in the <head>practice</head> of a vocation ;</context>
+    </instance>
+    <instance id="n04804947_d_8" docsrc="n04804947_d">
+      <context> a lack of strict accuracy ; laxity of <head>practice</head> ;</context>
+    </instance>
+    <instance id="n04852088_d_9" docsrc="n04852088_d">
+      <context> the quality of being morally wrong in principle or <head>practice</head> ;</context>
+    </instance>
+    <instance id="n04854389_d_1" docsrc="n04854389_d">
+      <context> the <head>practice</head> of being unjust or unfair ;</context>
+    </instance>
+    <instance id="n04943704_d_14" docsrc="n04943704_d">
+      <context> a disposition toward schism and secession from a larger group ; the principles and <head>practices</head> of separatists ;</context>
+    </instance>
+    <instance id="n05027276_d_19" docsrc="n05027276_d">
+      <context> a person's body_weight ( as an athlete's ) at the beginning of the season ( when first reporting for <head>practice</head> ) ;</context>
+    </instance>
+    <instance id="n05081957_d_10" docsrc="n05081957_d">
+      <context> a posture or manner of sitting ( as in the <head>practice</head> of yoga ) ;</context>
+    </instance>
+    <instance id="n05638987_d_9" docsrc="n05638987_d">
+      <context> a superior_skill that you can learn by study and <head>practice</head> and observation ;</context>
+    </instance>
+    <instance id="n05643190_d_8" docsrc="n05643190_d">
+      <context> skillfulness in the command of fundamentals deriving from <head>practice</head> and familiarity ;</context>
+    </instance>
+    <instance id="n05648756_d_11" docsrc="n05648756_d">
+      <context> ineptitude or awkwardness as a consequence of age or lack of <head>practice</head> ;</context>
+    </instance>
+    <instance id="n05662876_d_7" docsrc="n05662876_d">
+      <context> a system_of_rules of conduct or method of <head>practice</head> ;</context>
+    </instance>
+    <instance id="n05667196_ex1_5" docsrc="n05667196_ex1">
+      <context> it is not the local <head>practice</head> to wear shorts to dinner ;</context>
+    </instance>
+    <instance id="n05667404_d_2" docsrc="n05667404_d">
+      <context> a specific <head>practice</head> of long standing ;</context>
+    </instance>
+    <instance id="n05669797_d_0" docsrc="n05669797_d">
+      <context> <head>practices</head> that are handed_down from the past by tradition ;</context>
+    </instance>
+    <instance id="n05913842_d_3" docsrc="n05913842_d">
+      <context> a fundamental_principle or <head>practice</head> ;</context>
+    </instance>
+    <instance id="n05948716_d_10" docsrc="n05948716_d">
+      <context> religion appropriate to a church and to ecclesiastical principles and <head>practices</head> ;</context>
+    </instance>
+    <instance id="n05955593_d_6" docsrc="n05955593_d">
+      <context> a principle that governs current accounting <head>practice</head> and that is used as a reference to determine the appropriate treatment of complex transactions ;</context>
+    </instance>
+    <instance id="n06047096_d_12" docsrc="n06047096_d">
+      <context> the branch of medical_science that applies biological and physiological principles to clinical <head>practice</head> ;</context>
+    </instance>
+    <instance id="n06096913_d_3" docsrc="n06096913_d">
+      <context> the theory and <head>practice</head> of navigation through air or space ;</context>
+    </instance>
+    <instance id="n06149344_d_2" docsrc="n06149344_d">
+      <context> theory and <head>practice</head> of homemaking ;</context>
+    </instance>
+    <instance id="n06170892_d_6" docsrc="n06170892_d">
+      <context> the study of the principles and <head>practices</head> of library administration ;</context>
+    </instance>
+    <instance id="n06185138_d_4" docsrc="n06185138_d">
+      <context> the theology or the <head>practices</head> of the Jesuits ( often considered to be casuistic ) ;</context>
+    </instance>
+    <instance id="n06204406_d_8" docsrc="n06204406_d">
+      <context> willingness to recognize and respect the beliefs or <head>practices</head> of others ;</context>
+    </instance>
+    <instance id="n06222336_d_6" docsrc="n06222336_d">
+      <context> an attitude toward religion or religious <head>practices</head> ;</context>
+    </instance>
+    <instance id="n06226057_d_6" docsrc="n06226057_d">
+      <context> a monotheistic system of beliefs and <head>practices</head> based on the Old_Testament and the teachings of Jesus as embodied in the New_Testament and emphasizing the role of Jesus as savior ;</context>
+    </instance>
+    <instance id="n06227263_d_3" docsrc="n06227263_d">
+      <context> the beliefs and <head>practices</head> of a Catholic_Church ;</context>
+    </instance>
+    <instance id="n06227562_d_3" docsrc="n06227562_d">
+      <context> the beliefs and <head>practices</head> of the Catholic_Church based in Rome ;</context>
+    </instance>
+    <instance id="n06228346_d_3" docsrc="n06228346_d">
+      <context> the beliefs and <head>practices</head> of any of the eastern_Catholic_Churches based in Constantinople or Antioch or Alexandria or Moscow or Jerusalem ;</context>
+    </instance>
+    <instance id="n06229106_d_5" docsrc="n06229106_d">
+      <context> the faith and doctrine and <head>practice</head> of the Anglican_Church ;</context>
+    </instance>
+    <instance id="n06229240_d_3" docsrc="n06229240_d">
+      <context> a doctrine and <head>practice</head> within the Church_of_England emphasizing the Catholic tradition ;</context>
+    </instance>
+    <instance id="n06230809_d_4" docsrc="n06230809_d">
+      <context> system of beliefs and <head>practices</head> including belief in scriptural authority ; plain dress ; adult baptism ; foot washing ; restriction of marriage to members of the group ;</context>
+    </instance>
+    <instance id="n06231494_d_3" docsrc="n06231494_d">
+      <context> the religious_beliefs and <head>practices</head> of Methodists characterized by concern with social_welfare and public morals ;</context>
+    </instance>
+    <instance id="n06232166_d_3" docsrc="n06232166_d">
+      <context> the doctrines and <head>practices</head> of the Mormon_Church based on the Book_of_Mormon ;</context>
+    </instance>
+    <instance id="n06232298_d_3" docsrc="n06232298_d">
+      <context> the principles and <head>practices</head> of Pentecostal religious groups ; characterized by religious excitement and talking_in_tongues ;</context>
+    </instance>
+    <instance id="n06232499_d_3" docsrc="n06232499_d">
+      <context> the doctrines and <head>practices</head> of the Presbyterian_Church : based in Calvinism ;</context>
+    </instance>
+    <instance id="n06232635_d_3" docsrc="n06232635_d">
+      <context> the beliefs and <head>practices</head> characteristic of Puritans ( most of whom were Calvinists who wished to purify the Church_of_England of its Catholic aspects ) ;</context>
+    </instance>
+    <instance id="n06234104_d_2" docsrc="n06234104_d">
+      <context> beliefs and <head>practices</head> of a Judaic sect that strictly observes Mosaic_law ;</context>
+    </instance>
+    <instance id="n06234257_d_2" docsrc="n06234257_d">
+      <context> beliefs and <head>practices</head> of a sect of Orthodox_Jews ;</context>
+    </instance>
+    <instance id="n06234415_d_17" docsrc="n06234415_d">
+      <context> a form of Hasidism practiced by Lithuanian and Russian Jews under communist rule ; the beliefs and <head>practices</head> of the Lubavitch_movement ;</context>
+    </instance>
+    <instance id="n06234619_d_2" docsrc="n06234619_d">
+      <context> beliefs and <head>practices</head> of Conservative_Jews ;</context>
+    </instance>
+    <instance id="n06234728_d_2" docsrc="n06234728_d">
+      <context> beliefs and <head>practices</head> of Reform_Jews ;</context>
+    </instance>
+    <instance id="n06236802_d_9" docsrc="n06236802_d">
+      <context> a body of religious and philosophical beliefs and cultural <head>practices</head> native to India and based on a caste_system ; it is characterized by a belief in reincarnation , by a belief in a supreme being of many forms and natures , by the view that opposing theories are aspects of one eternal truth , and by a desire for liberation from earthly evils ;</context>
+    </instance>
+    <instance id="n06243096_d_18" docsrc="n06243096_d">
+      <context> popular Chinese philosophical_system based in teachings of Lao-tzu but characterized by a pantheism of many gods and the <head>practices</head> of alchemy and divination and magic ;</context>
+    </instance>
+    <instance id="n06253518_d_8" docsrc="n06253518_d">
+      <context> the spreading of something ( a belief or <head>practice</head> ) into new regions ;</context>
+    </instance>
+    <instance id="n06421844_d_13" docsrc="n06421844_d">
+      <context> a manual describing the customs of a particular group ( especially the ceremonial <head>practices</head> of a monastic_order ) ;</context>
+    </instance>
+    <instance id="n06472607_d_18" docsrc="n06472607_d">
+      <context> the document drawn_up in 1555 to defend the catholicity of Lutheran doctrine and to justify innovations in Lutheran <head>practice</head> ; is still in_effect today ;</context>
+    </instance>
+    <instance id="n06540284_d_23" docsrc="n06540284_d">
+      <context> an agreement between two parties that is sanctioned by the court ; for example , a company might agree to stop certain questionable <head>practices</head> without admitting guilt ;</context>
+    </instance>
+    <instance id="n06749468_d_1" docsrc="n06749468_d">
+      <context> the <head>practice</head> of predicting people's futures ( usually for payment ) ;</context>
+    </instance>
+    <instance id="n06766812_d_1" docsrc="n06766812_d">
+      <context> the <head>practice</head> of casually mentioning important people in order to impress your listener ;</context>
+    </instance>
+    <instance id="n07059821_d_8" docsrc="n07059821_d">
+      <context> popular dance of Brazil ; derived from the <head>practices</head> of the macumba religious_cult ;</context>
+    </instance>
+    <instance id="n07093489_d_3" docsrc="n07093489_d">
+      <context> the art or <head>practice</head> of writing verse ;</context>
+    </instance>
+    <instance id="n07246382_d_1" docsrc="n07246382_d">
+      <context> the <head>practice</head> of proselytizing ;</context>
+    </instance>
+    <instance id="n07259772_d_9" docsrc="n07259772_d">
+      <context> a rule describing ( or prescribing ) a linguistic <head>practice</head> ;</context>
+    </instance>
+    <instance id="n07471708_d_1" docsrc="n07471708_d">
+      <context> a <head>practice</head> or exhibition boxing_match ;</context>
+    </instance>
+    <instance id="n07571324_d_1" docsrc="n07571324_d">
+      <context> the <head>practice</head> or manner of preparing food or the food so prepared ;</context>
+    </instance>
+    <instance id="n08094013_d_3" docsrc="n08094013_d">
+      <context> Jews collectively who <head>practice</head> a religion based on the Torah and the Talmud ;</context>
+    </instance>
+    <instance id="n08097766_d_40" docsrc="n08097766_d">
+      <context> a religious_sect founded in the United_States in 1966 ; based on Vedic scriptures ; groups engage in joyful chanting of Hare_Krishna and other mantras based on the name of the Hindu god Krishna ; devotees usually wear saffron robes and <head>practice</head> vegetarianism and celibacy ;</context>
+    </instance>
+    <instance id="n08151490_d_8" docsrc="n08151490_d">
+      <context> followers of an exclusive system of religious_beliefs and <head>practices</head> ;</context>
+    </instance>
+    <instance id="n08261958_d_13" docsrc="n08261958_d">
+      <context> a former political_party in the United_States ; formed in 1839 to oppose the <head>practice</head> of slavery ; merged with the Free_Soil_Party in 1848 ;</context>
+    </instance>
+    <instance id="n08455037_d_12" docsrc="n08455037_d">
+      <context> the body of rules applied to commercial transactions ; derived from the <head>practices</head> of traders rather than from jurisprudence ;</context>
+    </instance>
+    <instance id="n08472120_d_24" docsrc="n08472120_d">
+      <context> a spiritual movement that began in China in the latter half of the 20th century and is based on Buddhist and Taoist teachings and <head>practices</head> ;</context>
+    </instance>
+    <instance id="n08476425_d_6" docsrc="n08476425_d">
+      <context> a multiethnic alliance in Afghanistan who <head>practice</head> a moderate form of Islam and are united in their opposition to the Taliban ;</context>
+    </instance>
+    <instance id="n08662570_d_13" docsrc="n08662570_d">
+      <context> a region resembling a laboratory inasmuch as it offers opportunities for observation and <head>practice</head> and experimentation ;</context>
+    </instance>
+    <instance id="n09677830_d_6" docsrc="n09677830_d">
+      <context> an adherent of Baptistic_doctrines ( who <head>practice</head> baptism by immersion ) ;</context>
+    </instance>
+    <instance id="n09781921_d_6" docsrc="n09781921_d">
+      <context> one who was versed in the <head>practice</head> of alchemy and who sought an elixir_of_life and a panacea and an alkahest and the philosopher's_stone ;</context>
+    </instance>
+    <instance id="n09796809_d_12" docsrc="n09796809_d">
+      <context> a person who is opposed ( to an action or policy or <head>practice</head> etc. ) ;</context>
+    </instance>
+    <instance id="n09822955_d_9" docsrc="n09822955_d">
+      <context> a qualified accountant who inspects the accounting records and <head>practices</head> of a business or other organization ;</context>
+    </instance>
+    <instance id="n10111779_d_8" docsrc="n10111779_d">
+      <context> a person who follows the basic theories or <head>practices</head> of Sigmund_Freud ;</context>
+    </instance>
+    <instance id="n10140929_d_9" docsrc="n10140929_d">
+      <context> someone who has completed the course_of_study ( including hospital <head>practice</head> ) at a nurses training_school ;</context>
+    </instance>
+    <instance id="n10289338_d_6" docsrc="n10289338_d">
+      <context> adviser to business about efficient management <head>practices</head> ;</context>
+    </instance>
+    <instance id="n10414239_d_7" docsrc="n10414239_d">
+      <context> a person who studies the theory and <head>practice</head> of prison management ;</context>
+    </instance>
+    <instance id="n10769607_d_8" docsrc="n10769607_d">
+      <context> a guardian or defender against theft or illegal <head>practices</head> or waste ;</context>
+    </instance>
+    <instance id="n10824541_d_6" docsrc="n10824541_d">
+      <context> king of Persia who sanctioned the <head>practice</head> of Judaism in Jerusalem ;</context>
+    </instance>
+    <instance id="n11313507_d_9" docsrc="n11313507_d">
+      <context> United_States suffragist and feminist ; called_for reform of the <head>practices</head> that perpetuated sexual inequality ;</context>
+    </instance>
+    <instance id="n13506119_d_19" docsrc="n13506119_d">
+      <context> a method that prepares a mother for natural_childbirth ; the pregnant woman ( in classes and at home ) <head>practices</head> ( usually with the help of a coach ) and learns about the physiology of childbirth and techniques of relaxation , concentration , and breathing ;</context>
+    </instance>
+    <instance id="n13560911_d_13" docsrc="n13560911_d">
+      <context> social_process of adopting ( or being forced to adopt ) the policies and <head>practices</head> of Joseph_Stalin ;</context>
+    </instance>
+    <instance id="n13574582_d_16" docsrc="n13574582_d">
+      <context> assimilation of Western_culture ; the social_process of becoming familiar with or converting to the customs and <head>practices</head> of Western_civilization ;</context>
+    </instance>
+    <instance id="n13994806_d_9" docsrc="n13994806_d">
+      <context> freedom to deviate deliberately from normally applicable rules or <head>practices</head> ( especially in behavior or speech ) ;</context>
+    </instance>
+    <instance id="n13997778_d_1" docsrc="n13997778_d">
+      <context> a <head>practice</head> in which employers give high-interest loans to workers whose entire families then labor at low wages to pay_off the debt ; the practice is illegal in the United_States ;</context>
+    </instance>
+    <instance id="n14005549_d_13" docsrc="n14005549_d">
+      <context> motion that continues indefinitely without any external source of energy ; impossible in <head>practice</head> because of friction ;</context>
+    </instance>
+    <instance id="n14424087_d_16" docsrc="n14424087_d">
+      <context> improvement ( or an intended improvement ) in the existing form or condition of institutions or <head>practices</head> etc. ; intended to make a striking change for the better in social or political or religious affairs ;</context>
+    </instance>
+    <instance id="n14427991_d_14" docsrc="n14427991_d">
+      <context> the state of being debarred ( excluded from enjoying certain possessions or rights or <head>practices</head> ) ;</context>
+    </instance>
+    <instance id="n14428404_d_11" docsrc="n14428404_d">
+      <context> the level of safety from exposure to infectious_agents ; depends_on work <head>practices</head> and safety equipment and facilities ;</context>
+    </instance>
+    <instance id="n14495080_d_4" docsrc="n14495080_d">
+      <context> a condition promoting sanitary <head>practices</head> ;</context>
+    </instance>
+    <instance id="r00210935_d_5" docsrc="r00210935_d">
+      <context> according to routine or established <head>practice</head> ;</context>
+    </instance>
+    <instance id="r00211061_d_6" docsrc="r00211061_d">
+      <context> by custom ; according to common <head>practice</head> ;</context>
+    </instance>
+    <instance id="v00601822_d_6" docsrc="v00601822_d">
+      <context> take_up the cause , ideology , <head>practice</head> , method , of someone and use it as one's own ;</context>
+    </instance>
+    <instance id="v02553697_d_5" docsrc="v02553697_d">
+      <context> develop behavior by instruction and <head>practice</head> ; especially to teach self-control ;</context>
+    </instance>
+    <instance id="v02578872_d_4" docsrc="v02578872_d">
+      <context> conform one's action or <head>practice</head> ;</context>
+    </instance>
+    <instance id="v02600779_d_8" docsrc="v02600779_d">
+      <context> develop a habit ; apply oneself to a <head>practice</head> or occupation ;</context>
+    </instance>
+  </lexelt>
+</corpus>

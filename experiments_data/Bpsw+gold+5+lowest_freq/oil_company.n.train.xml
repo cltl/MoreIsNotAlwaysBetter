@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="oil_company.n" pos="NN">
+    <instance id="n07306680_d_18" docsrc="n07306680_d">
+      <context> a government scandal involving a former United_States_Navy oil reserve in Wyoming that was secretly leased to a private <head>oil_company</head> in 1921 ; became symbolic of the scandals of the Harding administration ;</context>
+    </instance>
+  </lexelt>
+</corpus>

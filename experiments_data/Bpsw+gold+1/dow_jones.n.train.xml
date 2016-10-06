@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Dow_Jones.n" pos="NN">
+    <instance id="n06640533_ex1_1" docsrc="n06640533_ex1">
+      <context> the <head>Dow_Jones</head> Industrial Average is the most widely cited indicator of how the stock market is doing ;</context>
+    </instance>
+  </lexelt>
+</corpus>

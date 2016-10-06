@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="invasion.n" pos="NN">
+    <instance id="a01624267_d_6" docsrc="a01624267_d">
+      <context> seized and controlled as by military <head>invasion</head> ;</context>
+    </instance>
+    <instance id="a01629681_d_1" docsrc="a01629681_d">
+      <context> involving <head>invasion</head> or aggressive attack ;</context>
+    </instance>
+    <instance id="br-f15#w173_0" docsrc="br-f15">
+      <context> In New_York_City in 1958 , the city 's Commissioner of Hospitals refused to permit a physician to provide a Protestant mother with a contraceptive_device . He thereby precipitated a bitter controversy involving Protestants , Jews and Roman_Catholics that continued for two months , until the city 's Board of Hospitals lifted the ban on birth-control therapy . A year later in Albany , N._Y. , a Roman_Catholic hospital barred an orthopedic surgeon because of his connection with the Planned_Parenthood_Association . Immediately , the religious groups of the city were embroiled in an angry dispute over the alleged <head>invasion</head> of a man 's right to freedom of religious_belief and conscience . These incidents , typical of many others , dramatize the distressing fact that no controversy during the last several decades has caused more tension , rancor and strife among religious groups in this country than the birth-control issue . It has flared_up periodically on the front pages of newspapers in communities divided over birth prevention regulations in municipal hospitals and health and family welfare agencies . It has erupted on the national level in the matter of including birth-control information and material in foreign aid to underdeveloped countries .</context>
+    </instance>
+    <instance id="n00057748_d_13" docsrc="n00057748_d">
+      <context> a military_action of coordinated land , sea , and air_forces organized for an <head>invasion</head> ;</context>
+    </instance>
+    <instance id="n00861046_d_6" docsrc="n00861046_d">
+      <context> an immune_response ( chiefly against bacterial <head>invasion</head> ) that is mediated by B_cells ;</context>
+    </instance>
+    <instance id="n00861199_d_8" docsrc="n00861199_d">
+      <context> an immune_response ( chiefly against viral or fungal <head>invasions</head> or transplanted tissue ) that involves T_cells ;</context>
+    </instance>
+    <instance id="n00977132_d_1" docsrc="n00977132_d">
+      <context> an <head>invasion</head> or hostile attack ;</context>
+    </instance>
+    <instance id="n01306736_d_1" docsrc="n01306736_d">
+      <context> the <head>invasion</head> and settlement of England by the Normans following the battle_of_Hastings ;</context>
+    </instance>
+    <instance id="n07332313_ex1_2" docsrc="n07332313_ex1">
+      <context> the tumor's <head>invasion</head> of surrounding structures ;</context>
+    </instance>
+    <instance id="n07429976_ex1_1" docsrc="n07429976_ex1">
+      <context> an <head>invasion</head> of tourists ;</context>
+    </instance>
+    <instance id="n07429976_ex2_1" docsrc="n07429976_ex2">
+      <context> an <head>invasion</head> of locusts ;</context>
+    </instance>
+    <instance id="n10914779_d_8" docsrc="n10914779_d">
+      <context> a chief of the Sioux who resisted the <head>invasion</head> of the Black_Hills and joined Sitting_Bull in the defeat of General_Custer at Little_Bighorn ;</context>
+    </instance>
+    <instance id="n13498404_d_1" docsrc="n13498404_d">
+      <context> the <head>invasion</head> of the body by pathogenic microorganisms and their multiplication which can lead to tissue damage and disease ;</context>
+    </instance>
+    <instance id="n13974620_d_6" docsrc="n13974620_d">
+      <context> lowering the body's normal immune_response to <head>invasion</head> by foreign substances ; can be deliberate ( as in lowering the immune_response to prevent rejection of a transplanted organ ) or incidental ( as a side_effect of radiotherapy or chemotherapy for cancer ) ;</context>
+    </instance>
+    <instance id="n14277833_d_16" docsrc="n14277833_d">
+      <context> any of several diseases of pines caused by rust_fungi of the genus_Cronartium and marked by destructive <head>invasion</head> of bark and sapwood and producing blisters externally ;</context>
+    </instance>
+  </lexelt>
+</corpus>

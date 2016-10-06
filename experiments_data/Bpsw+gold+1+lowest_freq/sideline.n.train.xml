@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="sideline.n" pos="NN">
+    <instance id="n00561376_d_11" docsrc="n00561376_d">
+      <context> a short forward_pass to a back who is running toward the <head>sidelines</head> ;</context>
+    </instance>
+    <instance id="n08654029_d_3" docsrc="n08654029_d">
+      <context> either of the <head>sidelines</head> in soccer or rugby ;</context>
+    </instance>
+    <instance id="n10764907_d_2" docsrc="n10764907_d">
+      <context> remains on <head>sidelines</head> at social_event ;</context>
+    </instance>
+  </lexelt>
+</corpus>

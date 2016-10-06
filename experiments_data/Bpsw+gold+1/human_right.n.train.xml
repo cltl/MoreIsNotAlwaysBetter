@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="human_right.n" pos="NN">
+    <instance id="n08297284_d_12" docsrc="n08297284_d">
+      <context> the commission of the Economic_and_Social_Council of the United_Nations that is concerned with <head>human_rights</head> ;</context>
+    </instance>
+    <instance id="n11270380_d_8" docsrc="n11270380_d">
+      <context> wife of Franklin_Roosevelt and a strong advocate of <head>human_rights</head> ;</context>
+    </instance>
+    <instance id="n11278498_d_18" docsrc="n11278498_d">
+      <context> Soviet physicist and dissident ; helped develop the first Russian hydrogen_bomb ; advocated nuclear disarmament and campaigned for <head>human_rights</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

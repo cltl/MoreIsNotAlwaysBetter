@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="shackle.n" pos="NN">
+    <instance id="Shackle-shackle-1-20-2" docsrc="Shackle">
+      <context> A <head>pin</head> shackle is closed with an anchor bolt and cotter pin , in a manner similar to a clevis . It is for this reason they are often referred to , in industrial jargon , as clevises . Pin shackles can be inconvenient to work with , at times , as the bolt will need to be secured to the shackle body to avoid its loss , usually with a split pin or seizing wire .</context>
+    </instance>
+    <instance id="Shackle-shackle-1-20-4" docsrc="Shackle">
+      <context> Pin <head>shackles</head> can be inconvenient to work with , at times , as the bolt will need to be secured to the shackle body to avoid its loss , usually with a split pin or seizing wire . A more secure version used in crane rigging features the combination of a securing nut ( hardware ) located alongside the cotter pin . Pin shackles are practical in many rigging applications where the anchor bolt is expected to experience some rotation .</context>
+    </instance>
+    <instance id="Shackle-shackle-11-25-1" docsrc="Shackle">
+      <context> === Snap shackle === As the name implies , a snap <head>shackle</head> is a fast action fastener which can be implemented single handedly . It uses a spring activated locking mechanism to close a hinged shackle , and can be unfastened under load .</context>
+    </instance>
+    <instance id="Shackle-shackle-12-25-3" docsrc="Shackle">
+      <context> It uses a spring activated locking mechanism to close a hinged shackle <head>,</head> and can be unfastened under load . This is a potential safety hazard , but can also be extremely useful at times . The snap shackle is not as secure as any other form of shackle , but can come in handy for temporary uses or in situations which must be moved or replaced often , such as a sailor 's harness tether or to attach spinnaker sheets .</context>
+    </instance>
+    <instance id="Shackle-shackle-12-7-2" docsrc="Shackle">
+      <context> === Bow shackle === With a larger " O " shape to <head>the</head> loop , this shackle can take loads from many directions without developing as much side load .</context>
+    </instance>
+    <instance id="Shackle-shackle-13-30-1" docsrc="Shackle">
+      <context> === Threaded shackle === The pin is threaded and one leg of the <head>shackle</head> is tapped . The pin may be captive , which means it is mated to the shackle , usually with a wire .</context>
+    </instance>
+    <instance id="Shackle-shackle-2-19-2" docsrc="Shackle">
+      <context> === Pin <head>shackle</head> === A pin shackle is closed with an anchor bolt and cotter pin , in a manner similar to a clevis .</context>
+    </instance>
+    <instance id="Shackle-shackle-2-25-3" docsrc="Shackle">
+      <context> It uses <head>a</head> spring activated locking mechanism to close a hinged shackle , and can be unfastened under load . This is a potential safety hazard , but can also be extremely useful at times . The snap shackle is not as secure as any other form of shackle , but can come in handy for temporary uses or in situations which must be moved or replaced often , such as a sailor 's harness tether or to attach spinnaker sheets .</context>
+    </instance>
+    <instance id="Shackle-shackle-2-34-1" docsrc="Shackle">
+      <context> A shackle <head>key</head> or metal marlinspike are useful tools for loosening a tight nut . === Twist shackle === A twist shackle is usually somewhat longer than the average , and features a 90° twist so the top of the loop is perpendicular to the pin .</context>
+    </instance>
+    <instance id="Shackle-shackle-2-35-2" docsrc="Shackle">
+      <context> A twist <head>shackle</head> is usually somewhat longer than the average , and features a 90° twist so the top of the loop is perpendicular to the pin . One of the uses for this shackle include attaching the jib halyard block to the mast , or the jib halyard to the sail , to reduce twist on the luff and allow the sail to set better . Simply Circus Shackles Page</context>
+    </instance>
+    <instance id="Shackle-shackle-2-42-1" docsrc="Shackle">
+      <context> One of <head>the</head> uses for this shackle include attaching the jib halyard block to the mast , or the jib halyard to the sail , to reduce twist on the luff and allow the sail to set better . Simply Circus Shackles Page</context>
+    </instance>
+    <instance id="Shackle-shackle-22-20-2" docsrc="Shackle">
+      <context> A pin shackle is closed with an anchor bolt and cotter pin , in a manner similar to a clevis . It <head>is</head> for this reason they are often referred to , in industrial jargon , as clevises . Pin shackles can be inconvenient to work with , at times , as the bolt will need to be secured to the shackle body to avoid its loss , usually with a split pin or seizing wire .</context>
+    </instance>
+    <instance id="Shackle-shackle-6-25-4" docsrc="Shackle">
+      <context> This is a potential safety hazard <head>,</head> but can also be extremely useful at times . The snap shackle is not as secure as any other form of shackle , but can come in handy for temporary uses or in situations which must be moved or replaced often , such as a sailor 's harness tether or to attach spinnaker sheets . Note : When this type of shackle is used to release a significant load , it will work rather poorly ( hard to release ) and is likely to have the pin assembly or the split ring fail .</context>
+    </instance>
+    <instance id="Shackle-shackle-6-35-1" docsrc="Shackle">
+      <context> === Twist shackle === A twist <head>shackle</head> is usually somewhat longer than the average , and features a 90° twist so the top of the loop is perpendicular to the pin . One of the uses for this shackle include attaching the jib halyard block to the mast , or the jib halyard to the sail , to reduce twist on the luff and allow the sail to set better .</context>
+    </instance>
+    <instance id="Shackle-shackle-6-8-2" docsrc="Shackle">
+      <context> With a larger " O " <head>shape</head> to the loop , this shackle can take loads from many directions without developing as much side load . However , the larger shape to the loop does reduce its overall strength . Also referred to as an anchor shackle .</context>
+    </instance>
+    <instance id="Shackle-shackle-7-23-1" docsrc="Shackle">
+      <context> Pin shackles are practical in many rigging <head>applications</head> where the anchor bolt is expected to experience some rotation . === Snap shackle === As the name implies , a snap shackle is a fast action fastener which can be implemented single handedly .</context>
+    </instance>
+    <instance id="Shackle-shackle-9-28-1" docsrc="Shackle">
+      <context> Note : When this type of shackle is used <head>to</head> release a significant load , it will work rather poorly ( hard to release ) and is likely to have the pin assembly or the split ring fail . === Threaded shackle === The pin is threaded and one leg of the shackle is tapped .</context>
+    </instance>
+    <instance id="br-p07#w1987_0" docsrc="br-p07">
+      <context> There was good_fortune and there was bad and Philip_Spencer , in handcuffs and ankle irons , knew it to be a truth . He expected nothing for himself but that which naturally follows those marked for misfortune . The red haired captain , towering above the prisoner as a symbol of decency and authority , was shocked to find himself looking with_sympathy upon Philip_Spencer . This tragic lad had forged his own <head>shackles</head> . But he could not have done so , could not have found the way , had fortune favored him . And because fortune had favored neither the prisoner nor the red haired captain , they would be each other 's undoing . `` Spencer , if there is guilt , if you do not deny your own , how is it possible for Cromwell to be innocent ?</context>
+    </instance>
+    <instance id="br-p07#w2274_0" docsrc="br-p07">
+      <context> The boatswain was as guilty as any . No action of his could be interpreted in his favor and four midshipmen , prior to their knowing the significance of the Greek paper , had seen it in Cromwell 's hands while Spencer whispered explanations . `` I thought '' , Midshipman_Rogers had told Alexander , `` that Spencer was teaching him geometry '' . It was fantastic to turn from the seven men in <head>shackles</head> to the wardroom , where a class of apprentices awaited him . This was a training_ship and the training would continue , but there was an element of frightful absurdity here which Alexander recognized . Some of these apprentices were , in physical strength , already men and doubtless a percentage of them were Spencer 's followers .</context>
+    </instance>
+  </lexelt>
+</corpus>

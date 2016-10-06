@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="swing.n" pos="NN">
+    <instance id="br-p01#w949_0" docsrc="br-p01">
+      <context> Sameness for the Old_Man was framed_in by a wall of ginkgo trees which divided these quarters from the city . Sameness lined the streets with two story houses the color of ash . It slashed the sloping manure scented lawns with concrete steps which climbed upward to white wooden porches . It swayed with the wicker <head>swings</head> and screeched with the rusted hinges of screen_doors . Even the stable garage , which housed nothing now but the scent of rot , had a lawn before it . And the coffee_shop on Drexel_Street , where the men spent their evenings and Sundays playing cards , had a rose hedge beneath its window . The hedge reeked of coffee dregs thrown against it .</context>
+    </instance>
+    <instance id="n00136230_d_6" docsrc="n00136230_d">
+      <context> a hook delivered with an exaggerated <head>swing</head> ;</context>
+    </instance>
+    <instance id="n00571956_d_1" docsrc="n00571956_d">
+      <context> a <head>swing</head> downward of a golf_club ;</context>
+    </instance>
+    <instance id="n01173660_ex1_4" docsrc="n01173660_ex1">
+      <context> he took a wild <head>swing</head> at my head ;</context>
+    </instance>
+    <instance id="n01264795_d_8" docsrc="n01264795_d">
+      <context> a fast shot made with a short powerful <head>swing</head> of the hockey_stick ;</context>
+    </instance>
+    <instance id="n03386544_d_16" docsrc="n03386544_d">
+      <context> pendulum with a long wire ; can swing in any direction ; the change in the <head>swing</head> plane demonstrates the earth's rotation ;</context>
+    </instance>
+    <instance id="n03482252_d_16" docsrc="n03482252_d">
+      <context> a hanging bed of canvas or rope netting ( usually suspended between two trees ) ; <head>swings</head> easily ;</context>
+    </instance>
+    <instance id="n04475411_d_1" docsrc="n04475411_d">
+      <context> a <head>swing</head> used by circus_acrobats ;</context>
+    </instance>
+    <instance id="n11007332_d_23" docsrc="n11007332_d">
+      <context> United_States clarinetist who in 1934 formed a big_band ( including black as_well as white musicians ) and introduced a kind of jazz known_as <head>swing</head> ;</context>
+    </instance>
+    <instance id="n11296429_d_6" docsrc="n11296429_d">
+      <context> United_States clarinetist and leader of a <head>swing</head> band ;</context>
+    </instance>
+    <instance id="n11306760_d_9" docsrc="n11306760_d">
+      <context> United_States golfer known for the graceful arc of his <head>swing</head> ;</context>
+    </instance>
+    <instance id="n13778907_d_5" docsrc="n13778907_d">
+      <context> the space created by the <head>swing</head> of a scythe or the cut of a mowing machine ;</context>
+    </instance>
+    <instance id="n14009946_ex1_5" docsrc="n14009946_ex1">
+      <context> the party went with a <head>swing</head> ;</context>
+    </instance>
+    <instance id="n14009946_ex2_7" docsrc="n14009946_ex2">
+      <context> it took time to get into the <head>swing</head> of things ;</context>
+    </instance>
+    <instance id="r00445374_d_5" docsrc="r00445374_d">
+      <context> with an outward or horizontal <head>swing</head> of the arm ;</context>
+    </instance>
+    <instance id="v01407059_d_13" docsrc="v01407059_d">
+      <context> hit in the direction that the player is facing when carrying through the <head>swing</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="asset.n" pos="NN">
+    <instance id="br-j38#w1062_0" docsrc="br-j38">
+      <context> A prospective industry also may be interested in the long-run advantages of training_programs in the area to supply future skilled_workers and provide supplementary extension courses for its employees . The existence of a public_school vocational training_program in trade and industry provides a base from which such needs can be filled . Additional courses can readily be added and special cooperative programs worked_out with any new industry if the basic facilities , staff and program are in being . Thus , besides the training provided to youth in school , the existence of the school program can have supplementary benefits to industry which make it an <head>asset</head> to industrial development efforts . Few states make effective use of their existing vocational education programs or funds for the purpose of attracting new industry . The opportunity exists for states to reserve some of their vocational education funds to apply on an ad_hoc flexible basis to subsidize any local preemployment_training_programs that my be quickly set_up in a community to aid a new industrial plant . The major weakness of vocational training_programs in labor surplus areas is their focus on serving solely local job demands .</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,606 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="judge.n" pos="NN">
+    <instance id="Judge-judge-0-112-2" docsrc="Judge">
+      <context> <head>=====</head> England and Wales ===== Judges of the High Court and Court of Appeal are addressed ( when sitting in those courts ) as " My Lord " or " My Lady " and referred to as " Your Lordship " or " Your Ladyship " .</context>
+    </instance>
+    <instance id="Judge-judge-0-114-1" docsrc="Judge">
+      <context> <head>England</head> and Wales ===== Judges of the High Court and Court of Appeal are addressed ( when sitting in those courts ) as " My Lord " or " My Lady " and referred to as " Your Lordship " or " Your Ladyship " . Judges of the Court of Appeal , also called Lords Justice of Appeal , are referred to as " Lord Justice N " or " Lady Justice N. "</context>
+    </instance>
+    <instance id="Judge-judge-0-146-1" docsrc="Judge">
+      <context> <head>However</head> , the highest court in New York is called the New York Court of Appeals , whose members are called " judges " . New York judges who deal with guardianships , trusts and estates are uniquely known as " surrogates . " Judges of courts of specialized jurisdiction ( such as bankruptcy courts or juvenile courts ) were sometimes known officially as " referees , " but the use of this title is in decline .</context>
+    </instance>
+    <instance id="Judge-judge-0-149-1" docsrc="Judge">
+      <context> <head>New</head> York judges who deal with guardianships , trusts and estates are uniquely known as " surrogates . " Judges of courts of specialized jurisdiction ( such as bankruptcy courts or juvenile courts ) were sometimes known officially as " referees , " but the use of this title is in decline . Judges sitting in courts of equity in common law systems ( such as judges in the equity courts of Delaware ) are called " chancellors . "</context>
+    </instance>
+    <instance id="Judge-judge-0-150-3" docsrc="Judge">
+      <context> <head>They</head> were previously known as hearing examiners . They commonly make initial determinations regarding matters such as workers ' compensation , eligibility for government benefits , regulatory matters , and immigration determinations . Judges who derive their authority from a contractual agreement of the parties to a dispute , rather than a governmental body are called arbitrators .</context>
+    </instance>
+    <instance id="Judge-judge-0-160-2" docsrc="Judge">
+      <context> <head>The</head> title for most puisne judges is " Justice " , which is abbreviated in law reports to a postnominal " J " , in the form " Surname J " . Chief Justices of the High Court and of state Supreme Courts are titled " Chief Justice " , which is abbreviated in law reports to a postnomial " CJ " . Judges in State Supreme Courts with a separate Court of Appeal division ( New South Wales , Victoria , Queensland and Western Australia ) are referred to as Justices/Judges of the Appeal ( abbreviated " Surname JA " ) , while the President of the Court of Appeal is referred to as " President " ( abbreviated " Surname P " ) .</context>
+    </instance>
+    <instance id="Judge-judge-0-164-1" docsrc="Judge">
+      <context> <head>====</head> New Zealand ==== In New Zealand , judges of the High Court and above are referred to as " His/Her Honour Justice Surname " in speech , and " Surname J " in writing . Judges of the District Court and the other statutory courts are referred to as " His/Her Honour Judge Surname " in speech , and " Surname DCJ " or " Judge Surname " in writing .</context>
+    </instance>
+    <instance id="Judge-judge-0-171-1" docsrc="Judge">
+      <context> <head>Brazil</head> ==== In Brazil , judges are simply called " Juiz " or " Juíza " ( male and female forms of " judge " ) and traditionally addressed to as " Vossa Excelência " ( lit . " Your Excellency " , translated as " Your Honor " ) or " Meritíssimo " ( lit . " Honorable " , but it is used as a pronoun also translated as " Your Honor " ) . Judges that are part of a panel in a State Court , or Federal Court are called " desembargadores " .</context>
+    </instance>
+    <instance id="Judge-judge-0-171-2" docsrc="Judge">
+      <context> <head>In</head> Brazil , judges are simply called " Juiz " or " Juíza " ( male and female forms of " judge " ) and traditionally addressed to as " Vossa Excelência " ( lit . " Your Excellency " , translated as " Your Honor " ) or " Meritíssimo " ( lit . " Honorable " , but it is used as a pronoun also translated as " Your Honor " ) . Judges that are part of a panel in a State Court , or Federal Court are called " desembargadores " . Judges sitting in the higher courts ( Supremo Tribunal Federal , Superior Tribunal de Justiça , Tribunal Superior do Trabalho , Superior Tribunal Militar and Tribunal Superior Eleitoral ) are called " ministro " or " ministra " ( male and female forms of " minister " ) and also referred to as " Vossa Excelência " .</context>
+    </instance>
+    <instance id="Judge-judge-0-176-1" docsrc="Judge">
+      <context> <head>===</head> International courts === At the International Court of Justice , judges may be addressed by the titles they received in their countries of origin . Judges of the International Criminal Court are referred to as " judge . "</context>
+    </instance>
+    <instance id="Judge-judge-0-21-1" docsrc="Judge">
+      <context> <head>====</head> Hong Kong ==== In Hong Kong , court proceedings are conducted in either English or Cantonese Chinese . Judges of Hong Kong retain many of the English traditions such as wearing wigs and robes in trials .</context>
+    </instance>
+    <instance id="Judge-judge-0-44-1" docsrc="Judge">
+      <context> <head>Malaysia</head> ==== In Malaysia , judges of the subordinate courts are addressed as Tuan or Puan ( " Sir " or " Madam " ) , or Your Honour . Judges of the superior courts are addressed as Yang Arif ( lit . "</context>
+    </instance>
+    <instance id="Judge-judge-0-52-1" docsrc="Judge">
+      <context> <head>====</head> Sri Lanka ==== In Sri Lanka , judges of most courts are addressed as Your Honour , however the Chief Justice is addressed as Your Lordship . Judges of the Supreme Court and the Appeal Court receives the title The Honourable .</context>
+    </instance>
+    <instance id="Judge-judge-0-74-2" docsrc="Judge">
+      <context> <head>====</head> Ireland ==== Judges of the Supreme Court or High Court are officially titled The Honourable Mr , The Honourable Mrs , The Honourable Ms , or The Honourable Miss Justice ; referred to for short as Mr Justice , Mrs Justice , Ms Justice , or Miss Justice ; and addressed in court by their respective titles or styles , as The Court , or simply Judge .</context>
+    </instance>
+    <instance id="Judge-judge-0-75-3" docsrc="Judge">
+      <context> <head>Some</head> barristers continue occasionally to use the traditional mode of style , My Lord , but this has been discouraged since 2006 . In law reports , the Chief Justice of Ireland has the postnominal CJ , the President of the High Court the postnominal P , and all other judges J , e.g. Smith J. Judges of the Circuit Court are titled His Honour Judge or Her Honour Judge and are addressed in Court as Judge .</context>
+    </instance>
+    <instance id="Judge-judge-0-76-3" docsrc="Judge">
+      <context> <head>Before</head> 2006 , they were addressed as My Lord . In law reports , Judge . Judges of the District Court are titled Judge and addressed in Court as Judge .</context>
+    </instance>
+    <instance id="Judge-judge-1-0-2" docsrc="Judge">
+      <context> A <head>judge</head> presides over court proceedings , either alone or as a part of a panel of judges . The powers , functions , method of appointment , discipline , and training of judges vary widely across different jurisdictions . The judge is supposed to conduct the trial impartially and in an open court .</context>
+    </instance>
+    <instance id="Judge-judge-1-0-3" docsrc="Judge">
+      <context> The <head>powers</head> , functions , method of appointment , discipline , and training of judges vary widely across different jurisdictions . The judge is supposed to conduct the trial impartially and in an open court . The judge hears all the witnesses and any other evidence presented by the barristers of the case , assesses the credibility and arguments of the parties , and then issues a ruling on the matter at hand based on his or her interpretation of the law and his or her own personal judgment .</context>
+    </instance>
+    <instance id="Judge-judge-1-115-2" docsrc="Judge">
+      <context> Judges <head>of</head> the Court of Appeal , also called Lords Justice of Appeal , are referred to as " Lord Justice N " or " Lady Justice N. " In legal writing , Lords Justices of Appeal are afforded the post nominal letters " LJ : " for example , Smith LJ. Circuit Judges and Recorders are addressed as " Your Honour " .</context>
+    </instance>
+    <instance id="Judge-judge-1-117-1" docsrc="Judge">
+      <context> In <head>legal</head> writing , Lords Justices of Appeal are afforded the post nominal letters " LJ : " for example , Smith LJ. Circuit Judges and Recorders are addressed as " Your Honour " . Circuit judges are referred to as " His/Her Honour Judge N. "</context>
+    </instance>
+    <instance id="Judge-judge-1-117-3" docsrc="Judge">
+      <context> Circuit <head>judges</head> are referred to as " His/Her Honour Judge N. " In writing , this title is occasionally abbreviated as " HHJ " or " HH Judge N " , but not in legal writing . district judges and tribunal judges are addressed as " Sir/Madam " .</context>
+    </instance>
+    <instance id="Judge-judge-1-143-3" docsrc="Judge">
+      <context> Notably <head>,</head> the Superior Court of Los Angeles County , the largest unified trial court in the United States , has a rule that the judge shall be addressed only as " Your Honor , " and never as " Judge , " " Judge ( name ) , " " ma'am , " or " sir . " This is somewhat unusual as " Judge " and " Judge ( name ) " or similar forms of address are considered appropriate and respectful in other courts . The judges of the Supreme Court of the United States , and the judges of the supreme courts of several US states and other countries are called " justices " .</context>
+    </instance>
+    <instance id="Judge-judge-1-6-1" docsrc="Judge">
+      <context> A <head>variety</head> of traditions have become associated with the rank or occupation . In many parts of the world , judges wear long robes ( often in black or red ) and sit on an elevated platform during trials ( known as the bench ) . American judges frequently wear black robes .</context>
+    </instance>
+    <instance id="Judge-judge-1-8-1" docsrc="Judge">
+      <context> In <head>many</head> parts of the world , judges wear long robes ( often in black or red ) and sit on an elevated platform during trials ( known as the bench ) . American judges frequently wear black robes . American judges have ceremonial gavels , although American judges have court deputies or bailiffs and contempt of court power as their main devices to maintain decorum in the courtroom .</context>
+    </instance>
+    <instance id="Judge-judge-11-101-2" docsrc="Judge">
+      <context> ==== Spain ==== In Spain , magistrates of the Supreme Court <head>,</head> magistrates and judges are addressed to as " Your Lordship " ( Su Señoría ) ; however , in formal occasions , magistrates of the Supreme Court are addressed to as " Your Right Honorable Lordship " ( Vuestra Señoría Excellentísima or Excellentísimo Señor/Excellentísima Señora ) ; in those solemn occasions , magistrates of lower Courts are addressed as " Your Honorable Lordship " ( Vuestra Señoría Ilustrísima or Ilustrísimo Señor/Ilustrísima Señora ) ; simple judges are always called " Your Lordship " .</context>
+    </instance>
+    <instance id="Judge-judge-11-136-3" docsrc="Judge">
+      <context> Less formally , judges of a Superior Court are referred to <head>as</head> " Justice ' Surname ' " , not as " Judge ' Surname . ' " When referred to in a decision of a court , judges ' titles are often abbreviated to the suffix " J. " , so that Justice Smith will be referred to as Smith J. Judges in some superior courts are addressed as " My Lord " or " My Lady " . In Ontario , judges are never referred to as " My Lord " or " My Lady , " but only as " Your Honour " at the Ontario Superior Court of Justice . Generally , it is only appropriate to use the term " judge " when speaking of an anonymous or general position , such as " the trial judge , " or when referring to a member of an inferior or provincial court such as the Ontario Court of Justice .</context>
+    </instance>
+    <instance id="Judge-judge-11-143-2" docsrc="Judge">
+      <context> In many states throughout the United States , a judge is <head>addressed</head> as " Your Honor " or " Judge " when presiding over the court . " Judge " may be more commonly used by attorneys and staff , while either may be common with the plaintiff or the defendant . Notably , the Superior Court of Los Angeles County , the largest unified trial court in the United States , has a rule that the judge shall be addressed only as " Your Honor , " and never as " Judge , " " Judge ( name ) , " " ma'am , " or " sir . " This is somewhat unusual as " Judge " and " Judge ( name ) " or similar forms of address are considered appropriate and respectful in other courts .</context>
+    </instance>
+    <instance id="Judge-judge-11-159-2" docsrc="Judge">
+      <context> In Australia judges , and since 2007 , magistrates , of <head>all</head> jurisdictions including the High Court of Australia are now addressed as " Your Honour " . In legal contexts , they are referred to as " His/Her Honour " and " the Honourable Justice Surname " ( for judges of superior courts ) or " his/her Honour Judge Surname " ( for inferior courts ) . Outside legal contexts , the formal terms of address are " Judge " ( for puisne justices ) or " Chief Justice " ( for chief justices ) .</context>
+    </instance>
+    <instance id="Judge-judge-11-176-1" docsrc="Judge">
+      <context> === International courts === At the International Court of Justice , <head>judges</head> may be addressed by the titles they received in their countries of origin . Judges of the International Criminal Court are referred to as " judge . "</context>
+    </instance>
+    <instance id="Judge-judge-12-137-1" docsrc="Judge">
+      <context> In Ontario , judges are never referred to as " My Lord <head>"</head> or " My Lady , " but only as " Your Honour " at the Ontario Superior Court of Justice . Generally , it is only appropriate to use the term " judge " when speaking of an anonymous or general position , such as " the trial judge , " or when referring to a member of an inferior or provincial court such as the Ontario Court of Justice . The exception is Citizenship Judges who are referred to only as " Judge ' Surname . ' " in accordance with their appointment as independent decision makers of the Citizenship Commission .</context>
+    </instance>
+    <instance id="Judge-judge-12-98-1" docsrc="Judge">
+      <context> Russia ==== In Russia as Your Honor ( " Ваша Честь " <head>trans</head> . " Vasha Chest " ) for criminal cases only with the one judge presiding . For civil , commercial cases and criminal cases with the panel of judges presiding the right version is Respect the Court .</context>
+    </instance>
+    <instance id="Judge-judge-13-143-3" docsrc="Judge">
+      <context> Notably , the Superior Court of Los Angeles County , the largest unified <head>trial</head> court in the United States , has a rule that the judge shall be addressed only as " Your Honor , " and never as " Judge , " " Judge ( name ) , " " ma'am , " or " sir . " This is somewhat unusual as " Judge " and " Judge ( name ) " or similar forms of address are considered appropriate and respectful in other courts . The judges of the Supreme Court of the United States , and the judges of the supreme courts of several US states and other countries are called " justices " .</context>
+    </instance>
+    <instance id="Judge-judge-13-144-2" docsrc="Judge">
+      <context> The judges of the Supreme Court of the United States , and the <head>judges</head> of the supreme courts of several US states and other countries are called " justices " . Justices of the Supreme Court of the United States and Justices of other courts are addressed as " Justice ( name ) . " The Chief Justice of the United States is formally addressed as " Mr. Chief Justice " but also may be identified and addressed as " Chief Justice ( name ) " . The justices of the supreme courts usually hold higher offices than any other judges in a jurisdiction , including a justice of the peace , a judge who holds police court in some jurisdictions and who may also try small claims and misdemeanors .</context>
+    </instance>
+    <instance id="Judge-judge-13-149-1" docsrc="Judge">
+      <context> New York judges who deal with guardianships , trusts and estates are uniquely <head>known</head> as " surrogates . " Judges of courts of specialized jurisdiction ( such as bankruptcy courts or juvenile courts ) were sometimes known officially as " referees , " but the use of this title is in decline . Judges sitting in courts of equity in common law systems ( such as judges in the equity courts of Delaware ) are called " chancellors . "</context>
+    </instance>
+    <instance id="Judge-judge-13-181-1" docsrc="Judge">
+      <context> Judges of the International Criminal Court are referred to as " judge . <head>"</head> The Biblical Book of Judges revolves around a succession of leaders who were known as " judges " ( Hebrew shoftim שופטים ) but who – aside from their judicial function – were also tribal war leaders . The same word is , however , used in contemporary Israel to denote judges whose function and authority is similar to that in other modern countries .</context>
+    </instance>
+    <instance id="Judge-judge-13-31-6" docsrc="Judge">
+      <context> Explaining the rationale behind the move , the Bar Council had held that <head>the</head> words such as My Lord and Your Lordship were " relics of the colonial past " . The resolution has since been circulated to all state councils and the Supreme Court for adoption but over five years now , the resolution largely remained on paper . However , in an unprecedented move in October 2009 , one of the judges of Madras HC , Justice K Chandru had banned lawyers from addressing his court as My Lord and Your Lordship .</context>
+    </instance>
+    <instance id="Judge-judge-13-75-3" docsrc="Judge">
+      <context> Some barristers continue occasionally to use the traditional mode of style , My <head>Lord</head> , but this has been discouraged since 2006 . In law reports , the Chief Justice of Ireland has the postnominal CJ , the President of the High Court the postnominal P , and all other judges J , e.g. Smith J. Judges of the Circuit Court are titled His Honour Judge or Her Honour Judge and are addressed in Court as Judge .</context>
+    </instance>
+    <instance id="Judge-judge-13-76-3" docsrc="Judge">
+      <context> Before 2006 , they were addressed as My Lord . In law reports <head>,</head> Judge . Judges of the District Court are titled Judge and addressed in Court as Judge .</context>
+    </instance>
+    <instance id="Judge-judge-13-8-2" docsrc="Judge">
+      <context> American judges frequently wear black robes . American judges have ceremonial gavels , <head>although</head> American judges have court deputies or bailiffs and contempt of court power as their main devices to maintain decorum in the courtroom . However , in some of the Western United States , like California , judges did not always wear robes and instead wore everyday clothing .</context>
+    </instance>
+    <instance id="Judge-judge-14-0-1" docsrc="Judge">
+      <context> A judge presides over court proceedings , either alone or as a part of <head>a</head> panel of judges . The powers , functions , method of appointment , discipline , and training of judges vary widely across different jurisdictions .</context>
+    </instance>
+    <instance id="Judge-judge-14-127-2" docsrc="Judge">
+      <context> The judicial system of Northern Ireland is very similar to that of England and <head>Wales</head> , and superior court judges are addressed the same way as those in England and Wales . However , there are a few differences at the lower levels . In Northern Ireland , the equivalent to a Circuit Judge is a County Court Judge , and they are addressed and titled the same way as a Circuit Judge is in England and Wales .</context>
+    </instance>
+    <instance id="Judge-judge-14-145-3" docsrc="Judge">
+      <context> However , the state of New York inverts this usual order . The initial <head>trial</head> court in this state is called the Supreme Court of New York , and its judges are called " justices " . The next highest appellate court is the Supreme Court , Appellate Division , whose judges are also called " justices " .</context>
+    </instance>
+    <instance id="Judge-judge-15-117-2" docsrc="Judge">
+      <context> Circuit Judges and Recorders are addressed as " Your Honour " . Circuit judges are <head>referred</head> to as " His/Her Honour Judge N. " In writing , this title is occasionally abbreviated as " HHJ " or " HH Judge N " , but not in legal writing .</context>
+    </instance>
+    <instance id="Judge-judge-15-21-2" docsrc="Judge">
+      <context> In Hong Kong , court proceedings are conducted in either English or Cantonese Chinese . <head>Judges</head> of Hong Kong retain many of the English traditions such as wearing wigs and robes in trials . In the lower courts , magistrates are addressed as Your worship , and district court judges as Your Honour .</context>
+    </instance>
+    <instance id="Judge-judge-16-177-1" docsrc="Judge">
+      <context> At the International Court of Justice , judges may be addressed by the titles they received <head>in</head> their countries of origin . Judges of the International Criminal Court are referred to as " judge . " The Biblical Book of Judges revolves around a succession of leaders who were known as " judges " ( Hebrew shoftim שופטים ) but who – aside from their judicial function – were also tribal war leaders .</context>
+    </instance>
+    <instance id="Judge-judge-17-164-1" docsrc="Judge">
+      <context> ==== New Zealand ==== In New Zealand , judges of the High Court and above are referred <head>to</head> as " His/Her Honour Justice Surname " in speech , and " Surname J " in writing . Judges of the District Court and the other statutory courts are referred to as " His/Her Honour Judge Surname " in speech , and " Surname DCJ " or " Judge Surname " in writing .</context>
+    </instance>
+    <instance id="Judge-judge-17-36-1" docsrc="Judge">
+      <context> Israel ==== In Israel , Judge is named Shofet , the judges of all courts are addressed <head>as</head> Sir or Madam ( אדוני/גבירתי ) or Your Honor ( כבודו/כבודה ) . Much of the time after every naming you will hear " HaShofet " , meaning " the judge " after the respective address .</context>
+    </instance>
+    <instance id="Judge-judge-18-145-2" docsrc="Judge">
+      <context> The justices of the supreme courts usually hold higher offices than any other judges in a jurisdiction , <head>including</head> a justice of the peace , a judge who holds police court in some jurisdictions and who may also try small claims and misdemeanors . However , the state of New York inverts this usual order . The initial trial court in this state is called the Supreme Court of New York , and its judges are called " justices " .</context>
+    </instance>
+    <instance id="Judge-judge-19-126-1" docsrc="Judge">
+      <context> Justices of the Peace in Justice of the Peace Courts are addressed and referred to as " Your Honour <head>"</head> . ===== Northern Ireland ===== The judicial system of Northern Ireland is very similar to that of England and Wales , and superior court judges are addressed the same way as those in England and Wales .</context>
+    </instance>
+    <instance id="Judge-judge-19-141-1" docsrc="Judge">
+      <context> Like other members of the Commonwealth , a justice of the peace is addressed as " Your Worship , <head>"</head> and a Master of a Superior Court is both addressed and referred to as " Master . " ==== United States ==== In many states throughout the United States , a judge is addressed as " Your Honor " or " Judge " when presiding over the court . " Judge " may be more commonly used by attorneys and staff , while either may be common with the plaintiff or the defendant .</context>
+    </instance>
+    <instance id="Judge-judge-2-128-2" docsrc="Judge">
+      <context> In Northern <head>Ireland</head> , the equivalent to a Circuit Judge is a County Court Judge , and they are addressed and titled the same way as a Circuit Judge is in England and Wales . The senior County Court Judges assigned to the County Court Divisions of Belfast and Derry have the titles of Recorder of Belfast and Recorder of Londonderry respectively , but are addressed the same as other County Court Judges . A district judge sitting in the County Court is addressed as " Your Honour " .</context>
+    </instance>
+    <instance id="Judge-judge-2-128-3" docsrc="Judge">
+      <context> The senior <head>County</head> Court Judges assigned to the County Court Divisions of Belfast and Derry have the titles of Recorder of Belfast and Recorder of Londonderry respectively , but are addressed the same as other County Court Judges . A district judge sitting in the County Court is addressed as " Your Honour " . A District Judge ( Magistrates ' Court ) is addressed as " Your Worship " .</context>
+    </instance>
+    <instance id="Judge-judge-2-145-5" docsrc="Judge">
+      <context> The next <head>highest</head> appellate court is the Supreme Court , Appellate Division , whose judges are also called " justices " . However , the highest court in New York is called the New York Court of Appeals , whose members are called " judges " . New York judges who deal with guardianships , trusts and estates are uniquely known as " surrogates . "</context>
+    </instance>
+    <instance id="Judge-judge-2-158-2" docsrc="Judge">
+      <context> ==== Australia <head>====</head> In Australia judges , and since 2007 , magistrates , of all jurisdictions including the High Court of Australia are now addressed as " Your Honour " .</context>
+    </instance>
+    <instance id="Judge-judge-2-70-2" docsrc="Judge">
+      <context> ==== Germany <head>====</head> In Germany judges are addressed as Herr Vorsitzender or Frau Vorsitzende , which translate as " Mister Chairman " and " Madam Chairwoman " , or as " Hohes Gericht " .</context>
+    </instance>
+    <instance id="Judge-judge-20-75-3" docsrc="Judge">
+      <context> Some barristers continue occasionally to use the traditional mode of style , My Lord , but this has been discouraged <head>since</head> 2006 . In law reports , the Chief Justice of Ireland has the postnominal CJ , the President of the High Court the postnominal P , and all other judges J , e.g. Smith J. Judges of the Circuit Court are titled His Honour Judge or Her Honour Judge and are addressed in Court as Judge .</context>
+    </instance>
+    <instance id="Judge-judge-21-151-1" docsrc="Judge">
+      <context> They commonly make initial determinations regarding matters such as workers ' compensation , eligibility for government benefits , regulatory matters , <head>and</head> immigration determinations . Judges who derive their authority from a contractual agreement of the parties to a dispute , rather than a governmental body are called arbitrators . They typically do not receive the honorific forms of address nor do they bear the symbolic trappings of a publicly appointed judge .</context>
+    </instance>
+    <instance id="Judge-judge-21-170-2" docsrc="Judge">
+      <context> ==== Brazil ==== In Brazil , judges are simply called " Juiz " or " Juíza " ( male and female <head>forms</head> of " judge " ) and traditionally addressed to as " Vossa Excelência " ( lit . " Your Excellency " , translated as " Your Honor " ) or " Meritíssimo " ( lit . " Honorable " , but it is used as a pronoun also translated as " Your Honor " ) .</context>
+    </instance>
+    <instance id="Judge-judge-22-136-1" docsrc="Judge">
+      <context> Canada ==== In general , Canadian judges may be addressed directly , depending on the province , as " My Lord " <head>,</head> " My Lady " , " Your Honour " or " Justice " and are formally referred to in the third person as " The Honourable Mr. ( or Madam ) Justice ' Forename Surname ' " . Less formally , judges of a Superior Court are referred to as " Justice ' Surname ' " , not as " Judge ' Surname . ' " When referred to in a decision of a court , judges ' titles are often abbreviated to the suffix " J. " , so that Justice Smith will be referred to as Smith J. Judges in some superior courts are addressed as " My Lord " or " My Lady " .</context>
+    </instance>
+    <instance id="Judge-judge-22-145-4" docsrc="Judge">
+      <context> The initial trial court in this state is called the Supreme Court of New York , and its judges are called " <head>justices</head> " . The next highest appellate court is the Supreme Court , Appellate Division , whose judges are also called " justices " . However , the highest court in New York is called the New York Court of Appeals , whose members are called " judges " .</context>
+    </instance>
+    <instance id="Judge-judge-22-159-1" docsrc="Judge">
+      <context> Australia ==== In Australia judges , and since 2007 , magistrates , of all jurisdictions including the High Court of Australia are <head>now</head> addressed as " Your Honour " . In legal contexts , they are referred to as " His/Her Honour " and " the Honourable Justice Surname " ( for judges of superior courts ) or " his/her Honour Judge Surname " ( for inferior courts ) .</context>
+    </instance>
+    <instance id="Judge-judge-22-66-2" docsrc="Judge">
+      <context> ==== France ==== In France , the presiding judge of a court is addressed as Monsieur le président or Madame le président <head>,</head> whilst associated judges are addressed as Monsieur l'Assesseur or Madame l'Assesseur .</context>
+    </instance>
+    <instance id="Judge-judge-23-62-2" docsrc="Judge">
+      <context> ==== Finland ==== The male presiding judge of a court is addressed as herra puheenjohtaja , which means " Mister Chairman " and <head>a</head> female presiding judge is usually addressed as arvoisa puheenjohtaja , which means " esteemed chair " ; which can be used also when addressing a male presiding judge ( this Finnish word " puheenjohtaja " does not refer to gender ) .</context>
+    </instance>
+    <instance id="Judge-judge-24-25-1" docsrc="Judge">
+      <context> In the superior courts of record , namely the Court of Final Appeal and the High Court ( which consists of the Court of <head>Appeal</head> and the Court of First Instance ) , judges are addressed as My Lord or My Lady and referred to as Your Lordship or Your Ladyship , following the English tradition . Masters of the High Court are addressed as Master . When trials are conducted in Chinese , judges were addressed , in Cantonese , as Fat Goon Dai Yan ( 法官大人 , literally " Judge , Your Lordship " ) before the transfer of sovereignty from the United Kingdom to China , and as Fat Goon Gok Ha ( 法官閣下 , " Judge , Your Honour " ) since 1997 .</context>
+    </instance>
+    <instance id="Judge-judge-24-85-2" docsrc="Judge">
+      <context> ==== Netherlands ==== In the Netherlands , presiding judges of either sex are , in writing only , addressed edelachtbare ( " Your Honor <head>"</head> ) for judges in the Court of First Instance , edelgrootachtbare ( " Your Great Honor " ) for justices in the Court of Appeal and edelhoogachtbare ( " Your High Honor " ) for justices in the High Council of the Netherlands ( Supreme Court ) .</context>
+    </instance>
+    <instance id="Judge-judge-24-97-2" docsrc="Judge">
+      <context> ==== Russia ==== In Russia as Your Honor ( " Ваша Честь " trans . " Vasha Chest " ) for criminal cases only <head>with</head> the one judge presiding .</context>
+    </instance>
+    <instance id="Judge-judge-25-143-1" docsrc="Judge">
+      <context> ==== United States ==== In many states throughout the United States , a judge is addressed as " Your Honor " or " Judge " <head>when</head> presiding over the court . " Judge " may be more commonly used by attorneys and staff , while either may be common with the plaintiff or the defendant . Notably , the Superior Court of Los Angeles County , the largest unified trial court in the United States , has a rule that the judge shall be addressed only as " Your Honor , " and never as " Judge , " " Judge ( name ) , " " ma'am , " or " sir .</context>
+    </instance>
+    <instance id="Judge-judge-26-144-2" docsrc="Judge">
+      <context> The judges of the Supreme Court of the United States , and the judges of the supreme courts of several US states and other countries are <head>called</head> " justices " . Justices of the Supreme Court of the United States and Justices of other courts are addressed as " Justice ( name ) . " The Chief Justice of the United States is formally addressed as " Mr. Chief Justice " but also may be identified and addressed as " Chief Justice ( name ) " . The justices of the supreme courts usually hold higher offices than any other judges in a jurisdiction , including a justice of the peace , a judge who holds police court in some jurisdictions and who may also try small claims and misdemeanors .</context>
+    </instance>
+    <instance id="Judge-judge-26-39-2" docsrc="Judge">
+      <context> ==== Japan ==== In Japan , judges are addressed simply as Saibancho ( 裁判長 , literally " the Chief Justice " ) or Saibankan ( 裁判官 <head>,</head> literally " Judge " ) .</context>
+    </instance>
+    <instance id="Judge-judge-26-93-2" docsrc="Judge">
+      <context> ==== Portugal ==== In Portugal , presiding judges during trial are addressed as Meretíssimo Juiz when a man or Meretíssima Juíza when a woman ( meaning <head>"</head> Most Worthy Judge " ) or as Vossa Excelência ( " Your Excellency " ) when not specifying gender .</context>
+    </instance>
+    <instance id="Judge-judge-27-136-3" docsrc="Judge">
+      <context> Less formally , judges of a Superior Court are referred to as " Justice ' Surname ' " , not as " Judge ' Surname . ' <head>"</head> When referred to in a decision of a court , judges ' titles are often abbreviated to the suffix " J. " , so that Justice Smith will be referred to as Smith J. Judges in some superior courts are addressed as " My Lord " or " My Lady " . In Ontario , judges are never referred to as " My Lord " or " My Lady , " but only as " Your Honour " at the Ontario Superior Court of Justice . Generally , it is only appropriate to use the term " judge " when speaking of an anonymous or general position , such as " the trial judge , " or when referring to a member of an inferior or provincial court such as the Ontario Court of Justice .</context>
+    </instance>
+    <instance id="Judge-judge-27-149-2" docsrc="Judge">
+      <context> Judges of courts of specialized jurisdiction ( such as bankruptcy courts or juvenile courts ) were sometimes known officially as " referees , " but the use <head>of</head> this title is in decline . Judges sitting in courts of equity in common law systems ( such as judges in the equity courts of Delaware ) are called " chancellors . " Individuals with judicial responsibilities who report to an executive branch official , rather than being a part of the judiciary , are often called " administrative law judges " in US practice .</context>
+    </instance>
+    <instance id="Judge-judge-27-151-2" docsrc="Judge">
+      <context> Judges who derive their authority from a contractual agreement of the parties to a dispute , rather than a governmental body are called arbitrators . They typically <head>do</head> not receive the honorific forms of address nor do they bear the symbolic trappings of a publicly appointed judge . However , it is now common for many retired judges to serve as arbitrators , and they will often write their names as if they were still judges , with the parenthetical " ( Ret . ) " for " Retired . "</context>
+    </instance>
+    <instance id="Judge-judge-27-75-2" docsrc="Judge">
+      <context> Judges of the Supreme Court or High Court are officially titled The Honourable Mr , The Honourable Mrs , The Honourable Ms , or The Honourable Miss <head>Justice</head> ; referred to for short as Mr Justice , Mrs Justice , Ms Justice , or Miss Justice ; and addressed in court by their respective titles or styles , as The Court , or simply Judge . Some barristers continue occasionally to use the traditional mode of style , My Lord , but this has been discouraged since 2006 . In law reports , the Chief Justice of Ireland has the postnominal CJ , the President of the High Court the postnominal P , and all other judges J , e.g. Smith J.</context>
+    </instance>
+    <instance id="Judge-judge-28-127-2" docsrc="Judge">
+      <context> The judicial system of Northern Ireland is very similar to that of England and Wales , and superior court judges are addressed the same way as those in <head>England</head> and Wales . However , there are a few differences at the lower levels . In Northern Ireland , the equivalent to a Circuit Judge is a County Court Judge , and they are addressed and titled the same way as a Circuit Judge is in England and Wales .</context>
+    </instance>
+    <instance id="Judge-judge-28-141-1" docsrc="Judge">
+      <context> Like other members of the Commonwealth , a justice of the peace is addressed as " Your Worship , " and a Master of a Superior Court is <head>both</head> addressed and referred to as " Master . " ==== United States ==== In many states throughout the United States , a judge is addressed as " Your Honor " or " Judge " when presiding over the court . " Judge " may be more commonly used by attorneys and staff , while either may be common with the plaintiff or the defendant .</context>
+    </instance>
+    <instance id="Judge-judge-3-136-1" docsrc="Judge">
+      <context> Canada ==== In <head>general</head> , Canadian judges may be addressed directly , depending on the province , as " My Lord " , " My Lady " , " Your Honour " or " Justice " and are formally referred to in the third person as " The Honourable Mr. ( or Madam ) Justice ' Forename Surname ' " . Less formally , judges of a Superior Court are referred to as " Justice ' Surname ' " , not as " Judge ' Surname . ' " When referred to in a decision of a court , judges ' titles are often abbreviated to the suffix " J. " , so that Justice Smith will be referred to as Smith J. Judges in some superior courts are addressed as " My Lord " or " My Lady " .</context>
+    </instance>
+    <instance id="Judge-judge-3-136-2" docsrc="Judge">
+      <context> In general , <head>Canadian</head> judges may be addressed directly , depending on the province , as " My Lord " , " My Lady " , " Your Honour " or " Justice " and are formally referred to in the third person as " The Honourable Mr. ( or Madam ) Justice ' Forename Surname ' " . Less formally , judges of a Superior Court are referred to as " Justice ' Surname ' " , not as " Judge ' Surname . ' " When referred to in a decision of a court , judges ' titles are often abbreviated to the suffix " J. " , so that Justice Smith will be referred to as Smith J. Judges in some superior courts are addressed as " My Lord " or " My Lady " . In Ontario , judges are never referred to as " My Lord " or " My Lady , " but only as " Your Honour " at the Ontario Superior Court of Justice .</context>
+    </instance>
+    <instance id="Judge-judge-3-170-2" docsrc="Judge">
+      <context> ==== Brazil ==== <head>In</head> Brazil , judges are simply called " Juiz " or " Juíza " ( male and female forms of " judge " ) and traditionally addressed to as " Vossa Excelência " ( lit . " Your Excellency " , translated as " Your Honor " ) or " Meritíssimo " ( lit . " Honorable " , but it is used as a pronoun also translated as " Your Honor " ) .</context>
+    </instance>
+    <instance id="Judge-judge-3-29-2" docsrc="Judge">
+      <context> ==== India ==== <head>In</head> India , judges of the Supreme Court and the High Courts were addressed as Your Lordship or My Lord and Your Ladyship or My Lady , a tradition directly attributable to England .</context>
+    </instance>
+    <instance id="Judge-judge-3-35-2" docsrc="Judge">
+      <context> ==== Israel ==== <head>In</head> Israel , Judge is named Shofet , the judges of all courts are addressed as Sir or Madam ( אדוני/גבירתי ) or Your Honor ( כבודו/כבודה ) .</context>
+    </instance>
+    <instance id="Judge-judge-3-39-2" docsrc="Judge">
+      <context> ==== Japan ==== <head>In</head> Japan , judges are addressed simply as Saibancho ( 裁判長 , literally " the Chief Justice " ) or Saibankan ( 裁判官 , literally " Judge " ) .</context>
+    </instance>
+    <instance id="Judge-judge-3-43-2" docsrc="Judge">
+      <context> ==== Malaysia ==== <head>In</head> Malaysia , judges of the subordinate courts are addressed as Tuan or Puan ( " Sir " or " Madam " ) , or Your Honour .</context>
+    </instance>
+    <instance id="Judge-judge-3-47-2" docsrc="Judge">
+      <context> ==== Pakistan ==== <head>In</head> Pakistan , judges of the Supreme Court and the high courts are addressed as Your Lordship or My Lord and Your Ladyship or My Lady , a tradition directly attributable to England .</context>
+    </instance>
+    <instance id="Judge-judge-3-62-2" docsrc="Judge">
+      <context> ==== Finland ==== <head>The</head> male presiding judge of a court is addressed as herra puheenjohtaja , which means " Mister Chairman " and a female presiding judge is usually addressed as arvoisa puheenjohtaja , which means " esteemed chair " ; which can be used also when addressing a male presiding judge ( this Finnish word " puheenjohtaja " does not refer to gender ) .</context>
+    </instance>
+    <instance id="Judge-judge-3-77-1" docsrc="Judge">
+      <context> In law reports <head>,</head> Judge . Judges of the District Court are titled Judge and addressed in Court as Judge . Before 1991 these judges were known as district justices and addressed as Your Worship .</context>
+    </instance>
+    <instance id="Judge-judge-30-164-1" docsrc="Judge">
+      <context> ==== New Zealand ==== In New Zealand , judges of the High Court and above are referred to as " His/Her Honour Justice Surname " in speech , and " <head>Surname</head> J " in writing . Judges of the District Court and the other statutory courts are referred to as " His/Her Honour Judge Surname " in speech , and " Surname DCJ " or " Judge Surname " in writing .</context>
+    </instance>
+    <instance id="Judge-judge-31-159-1" docsrc="Judge">
+      <context> Australia ==== In Australia judges , and since 2007 , magistrates , of all jurisdictions including the High Court of Australia are now addressed as " Your Honour " . In <head>legal</head> contexts , they are referred to as " His/Her Honour " and " the Honourable Justice Surname " ( for judges of superior courts ) or " his/her Honour Judge Surname " ( for inferior courts ) .</context>
+    </instance>
+    <instance id="Judge-judge-33-22-1" docsrc="Judge">
+      <context> Judges of Hong Kong retain many of the English traditions such as wearing wigs and robes in trials . In the lower courts , magistrates are addressed as Your worship , and district <head>court</head> judges as Your Honour . In the superior courts of record , namely the Court of Final Appeal and the High Court ( which consists of the Court of Appeal and the Court of First Instance ) , judges are addressed as My Lord or My Lady and referred to as Your Lordship or Your Ladyship , following the English tradition .</context>
+    </instance>
+    <instance id="Judge-judge-37-128-1" docsrc="Judge">
+      <context> However , there are a few differences at the lower levels . In Northern Ireland , the equivalent to a Circuit Judge is a County Court Judge , and they are addressed and titled the same way <head>as</head> a Circuit Judge is in England and Wales . The senior County Court Judges assigned to the County Court Divisions of Belfast and Derry have the titles of Recorder of Belfast and Recorder of Londonderry respectively , but are addressed the same as other County Court Judges .</context>
+    </instance>
+    <instance id="Judge-judge-38-136-1" docsrc="Judge">
+      <context> Canada ==== In general , Canadian judges may be addressed directly , depending on the province , as " My Lord " , " My Lady " , " Your Honour " or " Justice " and are <head>formally</head> referred to in the third person as " The Honourable Mr. ( or Madam ) Justice ' Forename Surname ' " . Less formally , judges of a Superior Court are referred to as " Justice ' Surname ' " , not as " Judge ' Surname . ' " When referred to in a decision of a court , judges ' titles are often abbreviated to the suffix " J. " , so that Justice Smith will be referred to as Smith J. Judges in some superior courts are addressed as " My Lord " or " My Lady " .</context>
+    </instance>
+    <instance id="Judge-judge-4-105-2" docsrc="Judge">
+      <context> ==== Sweden ==== In <head>Sweden</head> the presiding judge of a court is normally addressed as Herr Ordförande or Fru Ordförande .</context>
+    </instance>
+    <instance id="Judge-judge-4-117-3" docsrc="Judge">
+      <context> Circuit judges are referred <head>to</head> as " His/Her Honour Judge N. " In writing , this title is occasionally abbreviated as " HHJ " or " HH Judge N " , but not in legal writing . district judges and tribunal judges are addressed as " Sir/Madam " .</context>
+    </instance>
+    <instance id="Judge-judge-4-128-1" docsrc="Judge">
+      <context> However , there are <head>a</head> few differences at the lower levels . In Northern Ireland , the equivalent to a Circuit Judge is a County Court Judge , and they are addressed and titled the same way as a Circuit Judge is in England and Wales . The senior County Court Judges assigned to the County Court Divisions of Belfast and Derry have the titles of Recorder of Belfast and Recorder of Londonderry respectively , but are addressed the same as other County Court Judges .</context>
+    </instance>
+    <instance id="Judge-judge-4-135-2" docsrc="Judge">
+      <context> ==== Canada ==== In <head>general</head> , Canadian judges may be addressed directly , depending on the province , as " My Lord " , " My Lady " , " Your Honour " or " Justice " and are formally referred to in the third person as " The Honourable Mr. ( or Madam ) Justice ' Forename Surname ' " .</context>
+    </instance>
+    <instance id="Judge-judge-4-137-1" docsrc="Judge">
+      <context> In Ontario , judges <head>are</head> never referred to as " My Lord " or " My Lady , " but only as " Your Honour " at the Ontario Superior Court of Justice . Generally , it is only appropriate to use the term " judge " when speaking of an anonymous or general position , such as " the trial judge , " or when referring to a member of an inferior or provincial court such as the Ontario Court of Justice . The exception is Citizenship Judges who are referred to only as " Judge ' Surname . ' " in accordance with their appointment as independent decision makers of the Citizenship Commission .</context>
+    </instance>
+    <instance id="Judge-judge-4-163-1" docsrc="Judge">
+      <context> Judges in State Supreme <head>Courts</head> with a separate Court of Appeal division ( New South Wales , Victoria , Queensland and Western Australia ) are referred to as Justices/Judges of the Appeal ( abbreviated " Surname JA " ) , while the President of the Court of Appeal is referred to as " President " ( abbreviated " Surname P " ) . ==== New Zealand ==== In New Zealand , judges of the High Court and above are referred to as " His/Her Honour Justice Surname " in speech , and " Surname J " in writing .</context>
+    </instance>
+    <instance id="Judge-judge-4-164-3" docsrc="Judge">
+      <context> Judges of the District <head>Court</head> and the other statutory courts are referred to as " His/Her Honour Judge Surname " in speech , and " Surname DCJ " or " Judge Surname " in writing . The " Mr " of the title " Mr Justice " was dropped on the appointment of Cartwright J to the High Court . In Court , all judges are addressed as " Your Honour " , or " Sir/Madam " .</context>
+    </instance>
+    <instance id="Judge-judge-4-177-1" docsrc="Judge">
+      <context> At the International Court <head>of</head> Justice , judges may be addressed by the titles they received in their countries of origin . Judges of the International Criminal Court are referred to as " judge . " The Biblical Book of Judges revolves around a succession of leaders who were known as " judges " ( Hebrew shoftim שופטים ) but who – aside from their judicial function – were also tribal war leaders .</context>
+    </instance>
+    <instance id="Judge-judge-4-48-2" docsrc="Judge">
+      <context> In Pakistan , judges <head>of</head> the Supreme Court and the high courts are addressed as Your Lordship or My Lord and Your Ladyship or My Lady , a tradition directly attributable to England . There is some resistance to this on religious grounds but more or less continues till this day . In lower courts , judges are addressed as sir , madam or the Urdu equivalent Janab .</context>
+    </instance>
+    <instance id="Judge-judge-4-51-1" docsrc="Judge">
+      <context> In lower courts , <head>judges</head> are addressed as sir , madam or the Urdu equivalent Janab . ==== Sri Lanka ==== In Sri Lanka , judges of most courts are addressed as Your Honour , however the Chief Justice is addressed as Your Lordship .</context>
+    </instance>
+    <instance id="Judge-judge-4-76-2" docsrc="Judge">
+      <context> Judges of the Circuit <head>Court</head> are titled His Honour Judge or Her Honour Judge and are addressed in Court as Judge . Before 2006 , they were addressed as My Lord . In law reports , Judge .</context>
+    </instance>
+    <instance id="Judge-judge-4-80-2" docsrc="Judge">
+      <context> ==== Italy ==== In <head>Italy</head> the presiding judge of a court is addressed as Signor presidente della corte .</context>
+    </instance>
+    <instance id="Judge-judge-4-89-2" docsrc="Judge">
+      <context> ==== Poland ==== In <head>Poland</head> , presiding judges of either sex during trial are addressed Wysoki Sądzie ( " High Court " ) .</context>
+    </instance>
+    <instance id="Judge-judge-4-9-1" docsrc="Judge">
+      <context> Today , some members <head>of</head> state supreme courts , such as the Maryland Court of Appeals wear distinct dress . In Italy and Portugal both judges and lawyers wear particular black robes . In Oman , the judge wears a long stripe ( red , green white ) , while the attorneys wear the black gown .</context>
+    </instance>
+    <instance id="Judge-judge-4-93-2" docsrc="Judge">
+      <context> ==== Portugal ==== In <head>Portugal</head> , presiding judges during trial are addressed as Meretíssimo Juiz when a man or Meretíssima Juíza when a woman ( meaning " Most Worthy Judge " ) or as Vossa Excelência ( " Your Excellency " ) when not specifying gender .</context>
+    </instance>
+    <instance id="Judge-judge-40-143-1" docsrc="Judge">
+      <context> ==== United States ==== In many states throughout the United States , a judge is addressed as " Your Honor " or " Judge " when presiding over the court . " Judge " may be more commonly used by <head>attorneys</head> and staff , while either may be common with the plaintiff or the defendant . Notably , the Superior Court of Los Angeles County , the largest unified trial court in the United States , has a rule that the judge shall be addressed only as " Your Honor , " and never as " Judge , " " Judge ( name ) , " " ma'am , " or " sir .</context>
+    </instance>
+    <instance id="Judge-judge-44-143-1" docsrc="Judge">
+      <context> ==== United States ==== In many states throughout the United States , a judge is addressed as " Your Honor " or " Judge " when presiding over the court . " Judge " may be more commonly used by attorneys and staff , <head>while</head> either may be common with the plaintiff or the defendant . Notably , the Superior Court of Los Angeles County , the largest unified trial court in the United States , has a rule that the judge shall be addressed only as " Your Honor , " and never as " Judge , " " Judge ( name ) , " " ma'am , " or " sir .</context>
+    </instance>
+    <instance id="Judge-judge-48-62-2" docsrc="Judge">
+      <context> ==== Finland ==== The male presiding judge of a court is addressed as herra puheenjohtaja , which means " Mister Chairman " and a female presiding judge is usually addressed as arvoisa puheenjohtaja , which means " esteemed chair " ; which can be used also when addressing <head>a</head> male presiding judge ( this Finnish word " puheenjohtaja " does not refer to gender ) .</context>
+    </instance>
+    <instance id="Judge-judge-5-0-4" docsrc="Judge">
+      <context> The judge is supposed to <head>conduct</head> the trial impartially and in an open court . The judge hears all the witnesses and any other evidence presented by the barristers of the case , assesses the credibility and arguments of the parties , and then issues a ruling on the matter at hand based on his or her interpretation of the law and his or her own personal judgment . In some jurisdictions , the judge 's powers may be shared with a jury .</context>
+    </instance>
+    <instance id="Judge-judge-5-121-2" docsrc="Judge">
+      <context> ===== Scotland ===== In the <head>Courts</head> of Scotland judges in the Court of Session , High Court of Justiciary and Sheriff Courts are all addressed as " My Lord " or " My Lady " and referred to as " Your Lordship " or " Your Ladyship " .</context>
+    </instance>
+    <instance id="Judge-judge-5-159-3" docsrc="Judge">
+      <context> In legal contexts , they <head>are</head> referred to as " His/Her Honour " and " the Honourable Justice Surname " ( for judges of superior courts ) or " his/her Honour Judge Surname " ( for inferior courts ) . Outside legal contexts , the formal terms of address are " Judge " ( for puisne justices ) or " Chief Justice " ( for chief justices ) . The title for most puisne judges is " Justice " , which is abbreviated in law reports to a postnominal " J " , in the form " Surname J " .</context>
+    </instance>
+    <instance id="Judge-judge-5-192-1" docsrc="Judge">
+      <context> State of California Commission of <head>Judicial</head> Performance CEPEJ European commission for the efficiency of justice . CCJE European consultative council of judges .</context>
+    </instance>
+    <instance id="Judge-judge-5-36-2" docsrc="Judge">
+      <context> In Israel , Judge is <head>named</head> Shofet , the judges of all courts are addressed as Sir or Madam ( אדוני/גבירתי ) or Your Honor ( כבודו/כבודה ) . Much of the time after every naming you will hear " HaShofet " , meaning " the judge " after the respective address . Example : Your Honor the Judge ( כבוד השופט )</context>
+    </instance>
+    <instance id="Judge-judge-5-66-2" docsrc="Judge">
+      <context> ==== France ==== In France <head>,</head> the presiding judge of a court is addressed as Monsieur le président or Madame le président , whilst associated judges are addressed as Monsieur l'Assesseur or Madame l'Assesseur .</context>
+    </instance>
+    <instance id="Judge-judge-5-67-1" docsrc="Judge">
+      <context> France ==== In France , <head>the</head> presiding judge of a court is addressed as Monsieur le président or Madame le président , whilst associated judges are addressed as Monsieur l'Assesseur or Madame l'Assesseur . Out of the court room judges are referred to as Monsieur le juge or Madame le juge .</context>
+    </instance>
+    <instance id="Judge-judge-5-8-4" docsrc="Judge">
+      <context> However , in some of <head>the</head> Western United States , like California , judges did not always wear robes and instead wore everyday clothing . Today , some members of state supreme courts , such as the Maryland Court of Appeals wear distinct dress . In Italy and Portugal both judges and lawyers wear particular black robes .</context>
+    </instance>
+    <instance id="Judge-judge-5-85-2" docsrc="Judge">
+      <context> ==== Netherlands ==== In the <head>Netherlands</head> , presiding judges of either sex are , in writing only , addressed edelachtbare ( " Your Honor " ) for judges in the Court of First Instance , edelgrootachtbare ( " Your Great Honor " ) for justices in the Court of Appeal and edelhoogachtbare ( " Your High Honor " ) for justices in the High Council of the Netherlands ( Supreme Court ) .</context>
+    </instance>
+    <instance id="Judge-judge-52-25-1" docsrc="Judge">
+      <context> In the superior courts of record , namely the Court of Final Appeal and the High Court ( which consists of the Court of Appeal and the Court of First Instance ) , judges are addressed as My Lord or My Lady and referred to as Your Lordship or Your Ladyship , <head>following</head> the English tradition . Masters of the High Court are addressed as Master . When trials are conducted in Chinese , judges were addressed , in Cantonese , as Fat Goon Dai Yan ( 法官大人 , literally " Judge , Your Lordship " ) before the transfer of sovereignty from the United Kingdom to China , and as Fat Goon Gok Ha ( 法官閣下 , " Judge , Your Honour " ) since 1997 .</context>
+    </instance>
+    <instance id="Judge-judge-62-136-1" docsrc="Judge">
+      <context> Canada ==== In general , Canadian judges may be addressed directly , depending on the province , as " My Lord " , " My Lady " , " Your Honour " or " Justice " and are formally referred to in the third person as " The Honourable Mr. ( or Madam ) Justice ' Forename Surname ' " . Less <head>formally</head> , judges of a Superior Court are referred to as " Justice ' Surname ' " , not as " Judge ' Surname . ' " When referred to in a decision of a court , judges ' titles are often abbreviated to the suffix " J. " , so that Justice Smith will be referred to as Smith J. Judges in some superior courts are addressed as " My Lord " or " My Lady " .</context>
+    </instance>
+    <instance id="Judge-judge-64-74-2" docsrc="Judge">
+      <context> ==== Ireland ==== Judges of the Supreme Court or High Court are officially titled The Honourable Mr , The Honourable Mrs , The Honourable Ms , or The Honourable Miss Justice ; referred to for short as Mr Justice , Mrs Justice , Ms Justice , or Miss Justice ; and addressed in court by their respective titles or styles , as The Court <head>,</head> or simply Judge .</context>
+    </instance>
+    <instance id="Judge-judge-7-143-2" docsrc="Judge">
+      <context> In many states throughout the United States <head>,</head> a judge is addressed as " Your Honor " or " Judge " when presiding over the court . " Judge " may be more commonly used by attorneys and staff , while either may be common with the plaintiff or the defendant . Notably , the Superior Court of Los Angeles County , the largest unified trial court in the United States , has a rule that the judge shall be addressed only as " Your Honor , " and never as " Judge , " " Judge ( name ) , " " ma'am , " or " sir . " This is somewhat unusual as " Judge " and " Judge ( name ) " or similar forms of address are considered appropriate and respectful in other courts .</context>
+    </instance>
+    <instance id="Judge-judge-7-174-1" docsrc="Judge">
+      <context> Judges sitting in the higher courts ( <head>Supremo</head> Tribunal Federal , Superior Tribunal de Justiça , Tribunal Superior do Trabalho , Superior Tribunal Militar and Tribunal Superior Eleitoral ) are called " ministro " or " ministra " ( male and female forms of " minister " ) and also referred to as " Vossa Excelência " . === International courts === At the International Court of Justice , judges may be addressed by the titles they received in their countries of origin .</context>
+    </instance>
+    <instance id="Judge-judge-7-193-1" docsrc="Judge">
+      <context> CEPEJ European commission for the efficiency of <head>justice</head> . CCJE European consultative council of judges . How sentencing works : You be the Judge</context>
+    </instance>
+    <instance id="Judge-judge-7-194-1" docsrc="Judge">
+      <context> CCJE European consultative council of judges . <head>How</head> sentencing works : You be the Judge</context>
+    </instance>
+    <instance id="Judge-judge-7-25-1" docsrc="Judge">
+      <context> In the superior courts of record , <head>namely</head> the Court of Final Appeal and the High Court ( which consists of the Court of Appeal and the Court of First Instance ) , judges are addressed as My Lord or My Lady and referred to as Your Lordship or Your Ladyship , following the English tradition . Masters of the High Court are addressed as Master . When trials are conducted in Chinese , judges were addressed , in Cantonese , as Fat Goon Dai Yan ( 法官大人 , literally " Judge , Your Lordship " ) before the transfer of sovereignty from the United Kingdom to China , and as Fat Goon Gok Ha ( 法官閣下 , " Judge , Your Honour " ) since 1997 .</context>
+    </instance>
+    <instance id="Judge-judge-7-5-1" docsrc="Judge">
+      <context> In inquisitorial systems of criminal investigation , <head>a</head> judge might also be an examining magistrate . A variety of traditions have become associated with the rank or occupation . In many parts of the world , judges wear long robes ( often in black or red ) and sit on an elevated platform during trials ( known as the bench ) .</context>
+    </instance>
+    <instance id="Judge-judge-7-76-3" docsrc="Judge">
+      <context> Before 2006 , they were addressed as <head>My</head> Lord . In law reports , Judge . Judges of the District Court are titled Judge and addressed in Court as Judge .</context>
+    </instance>
+    <instance id="Judge-judge-8-0-5" docsrc="Judge">
+      <context> The judge hears all the witnesses and any <head>other</head> evidence presented by the barristers of the case , assesses the credibility and arguments of the parties , and then issues a ruling on the matter at hand based on his or her interpretation of the law and his or her own personal judgment . In some jurisdictions , the judge 's powers may be shared with a jury . In inquisitorial systems of criminal investigation , a judge might also be an examining magistrate .</context>
+    </instance>
+    <instance id="Judge-judge-8-58-2" docsrc="Judge">
+      <context> ==== Bulgaria ==== In Bulgaria before 1989 during <head>the</head> communist regime judges were addressed as другарю ( " comrade " ) .</context>
+    </instance>
+    <instance id="Judge-judge-8-8-1" docsrc="Judge">
+      <context> In many parts of the world , judges <head>wear</head> long robes ( often in black or red ) and sit on an elevated platform during trials ( known as the bench ) . American judges frequently wear black robes . American judges have ceremonial gavels , although American judges have court deputies or bailiffs and contempt of court power as their main devices to maintain decorum in the courtroom .</context>
+    </instance>
+    <instance id="Judge-judge-84-101-2" docsrc="Judge">
+      <context> ==== Spain ==== In Spain , magistrates of the Supreme Court , magistrates and judges are addressed to as " Your Lordship " ( Su Señoría ) ; however , in formal occasions , magistrates of the Supreme Court are addressed to as " Your Right Honorable Lordship " ( Vuestra Señoría Excellentísima or Excellentísimo Señor/Excellentísima Señora ) ; in those solemn occasions , magistrates of lower Courts are addressed as " Your Honorable Lordship " ( Vuestra Señoría Ilustrísima or Ilustrísimo Señor/Ilustrísima Señora <head>)</head> ; simple judges are always called " Your Lordship " .</context>
+    </instance>
+    <instance id="Judge-judge-9-117-1" docsrc="Judge">
+      <context> In legal writing , Lords Justices of Appeal are <head>afforded</head> the post nominal letters " LJ : " for example , Smith LJ. Circuit Judges and Recorders are addressed as " Your Honour " . Circuit judges are referred to as " His/Her Honour Judge N. "</context>
+    </instance>
+    <instance id="Judge-judge-9-127-2" docsrc="Judge">
+      <context> The judicial system of Northern Ireland is very similar <head>to</head> that of England and Wales , and superior court judges are addressed the same way as those in England and Wales . However , there are a few differences at the lower levels . In Northern Ireland , the equivalent to a Circuit Judge is a County Court Judge , and they are addressed and titled the same way as a Circuit Judge is in England and Wales .</context>
+    </instance>
+    <instance id="Judge-judge-9-141-1" docsrc="Judge">
+      <context> Like other members of the Commonwealth , a justice <head>of</head> the peace is addressed as " Your Worship , " and a Master of a Superior Court is both addressed and referred to as " Master . " ==== United States ==== In many states throughout the United States , a judge is addressed as " Your Honor " or " Judge " when presiding over the court . " Judge " may be more commonly used by attorneys and staff , while either may be common with the plaintiff or the defendant .</context>
+    </instance>
+    <instance id="Judge-judge-9-151-2" docsrc="Judge">
+      <context> Judges who derive their authority from a contractual agreement <head>of</head> the parties to a dispute , rather than a governmental body are called arbitrators . They typically do not receive the honorific forms of address nor do they bear the symbolic trappings of a publicly appointed judge . However , it is now common for many retired judges to serve as arbitrators , and they will often write their names as if they were still judges , with the parenthetical " ( Ret . ) " for " Retired . "</context>
+    </instance>
+    <instance id="Judge-judge-9-35-2" docsrc="Judge">
+      <context> ==== Israel ==== In Israel , Judge is named <head>Shofet</head> , the judges of all courts are addressed as Sir or Madam ( אדוני/גבירתי ) or Your Honor ( כבודו/כבודה ) .</context>
+    </instance>
+    <instance id="Judge-judge-9-75-3" docsrc="Judge">
+      <context> Some barristers continue occasionally to use the traditional mode <head>of</head> style , My Lord , but this has been discouraged since 2006 . In law reports , the Chief Justice of Ireland has the postnominal CJ , the President of the High Court the postnominal P , and all other judges J , e.g. Smith J. Judges of the Circuit Court are titled His Honour Judge or Her Honour Judge and are addressed in Court as Judge .</context>
+    </instance>
+    <instance id="a01401734_d_2" docsrc="a01401734_d">
+      <context> before a <head>judge</head> or court_of_law ; awaiting judicial determination ;</context>
+    </instance>
+    <instance id="a01402343_d_13" docsrc="a01402343_d">
+      <context> of a crime or misdemeanor ; punishable by a fine set by a <head>judge</head> ;</context>
+    </instance>
+    <instance id="a02752987_d_11" docsrc="a02752987_d">
+      <context> relating to the administration of justice or the function of a <head>judge</head> ;</context>
+    </instance>
+    <instance id="a02753205_d_8" docsrc="a02753205_d">
+      <context> belonging or appropriate to the office of a <head>judge</head> ;</context>
+    </instance>
+    <instance id="a03041739_d_22" docsrc="a03041739_d">
+      <context> specifically indicating a form of prosecution in which one is publicly accused of and tried for a crime and in which the <head>judge</head> is not also the prosecutor ;</context>
+    </instance>
+    <instance id="a03042005_d_23" docsrc="a03042005_d">
+      <context> especially indicating a form of prosecution in which proceedings are secret and the accused is questioned by a prosecutor who acts also the <head>judge</head> ;</context>
+    </instance>
+    <instance id="br-e01#w1299_0" docsrc="br-e01">
+      <context> So with four complete Push-Pull_Super-Sets No. 1 , four of No. 2 , four of No. 3 and four to six sets of the Incline_Bench_Press , you can see that Henri_de_Courcy has had a terrific mass building , muscle shaping , torso defining workout that cannot be improved upon . Physique contests are rarely won on muscle size alone . Rarer still is a Mr._America or Mr._Universe of true Herculean build . The aspects of physical development that catch the <head>judges</head> ' eyes and which rightfully influence their decisions are symmetry and that hallmark of the true champion - superior definition of the muscles . Now good definition is one thing that all_of us can acquire with occasional high-set , high-rep , light weight workouts . But contest definition - that dramatic muscular separation of every muscle group that seems as though it must have been carved by a sculptor 's chisel - is something quite different . This comes not alone from high-set , high-rep training , but from certain definition specialization exercises which the champion selects for himself with the knowledge of exactly what works best for him .</context>
+    </instance>
+    <instance id="br-e21#w338_0" docsrc="br-e21">
+      <context> These are a great aid for planning use back at the office . For site planning work , it is best to have a qualified and experienced park planner to carry_through the study . However , there is also much to be gained by making use of the abilities of the local people who are available and interested in recreation . County <head>judges</head> , commissioners , engineers , assessors , and_others who have lived in the area for a long_time may have valuable knowledge regarding the site or opinions to offer from their varied professional experiences . A visit to the site by a group of several persons can usually bring_out new ideas or verify opinions most helpful to the planning study of any recreation area . How much study is required ? This , of_course , depends_on the character of the site itself , the previous experience of the investigator , and the number of factors needed to arrive_at a good decision .</context>
+    </instance>
+    <instance id="br-g17#w436_0" docsrc="br-g17">
+      <context> But people can n't be made to integrate , socialize ( the two are inseparable by Southern standards ) by law . I was having lunch not_long ago ( apologies to N._V._Peale ) with three distinguished historians ( one specializing in the European Middle_Ages , one in American history , and one in the Far_East ) , and I asked them if they could name instances where the general mores had been radically changed with `` deliberate speed , majestic instancy '' ( Francis_Thompson 's words for the Hound_of_Heaven 's pursuit ) by judicial fiat . They did n't seem to be able to think_of any . A Virginia <head>judge</head> a while back cited a Roman jurist to the effect that ten years might be a reasonable length of time for such a change . But I suspect that the old Roman was referring to change made under military occupation - the sort of change which Tacitus was talking_about when he said , `` They make a desert , and call it peace '' ( `` Solitudinem faciunt , pacem appellant '' . ) . Moreover , the law of the land is not irrevocable ; it can be changed ; it has been , many times .</context>
+    </instance>
+    <instance id="br-g19#w2089_0" docsrc="br-g19">
+      <context> The first of two possible variations on this theme is symbolized by Mickey_Spillane 's Mike_Hammer . At_first_glance , this hero seems to be more rather than less of an individualist than any of his predecessors . For Hammer , nothing is forbidden . He kills when he pleases , takes his women where he finds them and always acts_as <head>judge</head> , jury and executioner rolled_into_one .</context>
+    </instance>
+    <instance id="br-j42#w1773_0" docsrc="br-j42">
+      <context> It was merely a rationalization and ordering of new institutions of popular government . It was not opposed to either justice or morality ; it merely wished to minimize subjective views of officials who wielded public authority . Particularly was this true as laissez-faire capitalism became the dominant credo of Western society . To free the factors of production was a major objective of the rising bourgeoisie , and this objective required that governmental authority - administrative_officials and <head>judges</head> - be limited as precisely and explicitly as possible ; that old customs which inhibited trade be abrogated ; that business be free from governmental supervision and notions of morality which might clog the automatic adjustments of the free market ; that obligations of status that were inconsistent with the new politics and the new economics be done away with . Contract - conceived as the free bargain of formal equals - replaced the implied obligations of a more static and status conscious society . Indeed , contract was the dominant legal theme of the century , the touchstone of the free society . Government itself was based upon contract ; business_organization - the corporation - was analyzed in contractual terms ; trade was based on freedom of contract , and money was lent and borrowed on contractual terms ; even marriage and the family was seen as a contractual arrangement .</context>
+    </instance>
+    <instance id="br-j55#w1211_0" docsrc="br-j55">
+      <context> Cattle stealing and killing , again serious during the spring of 1891 , placed the land_grant company officers in a perplexing position . They were reluctant to appoint sheriffs to protect the property , thus running_the_risk of creating disturbances such_as that on the Vermejo , and yet the cowboys protested that they got no salary for arresting cattle_thieves and running_the_risk of being shot . And the law virtually ignored the situation . The <head>judge</head> became ill just as the Colfax_District_Court convened , no substitute was brought_in , no criminal cases heard , only 5 out of 122 cases docketed were tried , and court adjourned sine_die after sitting a_few days instead_of the usual three weeks . Pels complained : `` Litigants and witnesses were put to the expense and inconvenience of going long distances to transact business ; public money spent ; justice delayed ; nothing accomplished , and the whole distribution of justice in this county seems to be an absolute farce '' . Word reached the company that the man behind these depredations was Manuel_Gonzales , a man with many followers , including a number who were kept in line through fear of him .</context>
+    </instance>
+    <instance id="br-n11#w1777_0" docsrc="br-n11">
+      <context> Houses of settlers who 'd treated the company herds as a natural_resource , free for the taking , were sitting empty , with weeds growing high in their yards . The small half-heartedly tended fields of men who 'd spent more time rustling cattle than farming were lying fallow . No cow thief could count_on a jury of his sympathetic peers to free him any_longer . Jury , <head>judge</head> and executioner were riding the range in the form of a single unknown figure that could materialize anywhere , at any time , to dispense an ancient brand of justice the men of the new West had believed long outdated . For three straight years , Tom_Horn patrolled the southern Wyoming pastures , and how_many men he killed after Lewis and Powell ( if he killed Lewis and Powell ) will never be known . It is possible , although highly doubtful , that he killed none at_all but merely let his reputation work for him by privately claiming every unsolved murder in the state . It is also possible , but equally doubtful , that he actually shot down the hundreds of men with which his legend credits him .</context>
+    </instance>
+    <instance id="n00593944_d_3" docsrc="n00593944_d">
+      <context> the position of <head>judge</head> ;</context>
+    </instance>
+    <instance id="n00774506_d_15" docsrc="n00774506_d">
+      <context> minor crimes committed by Muslims ; crimes that are not mentioned in the Koran so <head>judges</head> are free to punish the offender in any appropriate way ;</context>
+    </instance>
+    <instance id="n00776466_d_4" docsrc="n00776466_d">
+      <context> the crime of a <head>judge</head> whose judgment is influenced by bribery ;</context>
+    </instance>
+    <instance id="n01026020_d_5" docsrc="n01026020_d">
+      <context> an objection grounded on the <head>judge's</head> relationship to one of the parties ;</context>
+    </instance>
+    <instance id="n01071213_d_9" docsrc="n01071213_d">
+      <context> lightening a penalty or excusing from a chore by <head>judges</head> or parents or teachers ;</context>
+    </instance>
+    <instance id="n01080062_d_15" docsrc="n01080062_d">
+      <context> the disqualification of a judge or jury by reason of prejudice or conflict_of_interest ; a <head>judge</head> can be recused by objections of either party or judges can disqualify themselves ;</context>
+    </instance>
+    <instance id="n01080062_d_25" docsrc="n01080062_d">
+      <context> the disqualification of a judge or jury by reason of prejudice or conflict_of_interest ; a judge can be recused by objections of either party or <head>judges</head> can disqualify themselves ;</context>
+    </instance>
+    <instance id="n01080062_d_4" docsrc="n01080062_d">
+      <context> the disqualification of a <head>judge</head> or jury by reason of prejudice or conflict_of_interest ; a judge can be recused by objections of either party or judges can disqualify themselves ;</context>
+    </instance>
+    <instance id="n02669723_d_6" docsrc="n02669723_d">
+      <context> a gown worn by academics or <head>judges</head> ;</context>
+    </instance>
+    <instance id="n02789770_d_11" docsrc="n02789770_d">
+      <context> a railing that encloses the part of the courtroom where the <head>judges</head> and lawyers sit and the case is tried ;</context>
+    </instance>
+    <instance id="n02829116_d_3" docsrc="n02829116_d">
+      <context> the seat for <head>judges</head> in a courtroom ;</context>
+    </instance>
+    <instance id="n03004146_d_4" docsrc="n03004146_d">
+      <context> a room where a <head>judge</head> transacts business ;</context>
+    </instance>
+    <instance id="n03430313_d_9" docsrc="n03430313_d">
+      <context> a small mallet used by a presiding_officer or a <head>judge</head> ;</context>
+    </instance>
+    <instance id="n06342781_d_17" docsrc="n06342781_d">
+      <context> a title used to address any British peer except a duke and extended_to a bishop or a <head>judge</head> ;</context>
+    </instance>
+    <instance id="n06434165_d_15" docsrc="n06434165_d">
+      <context> a book of the Old_Testament that tells the history of Israel under the leaders known_as <head>judges</head> ;</context>
+    </instance>
+    <instance id="n06539770_d_19" docsrc="n06539770_d">
+      <context> a legally binding command or decision entered on the court record ( as if issued by a court or <head>judge</head> ) ;</context>
+    </instance>
+    <instance id="n06552116_d_18" docsrc="n06552116_d">
+      <context> an opinion that agrees with the court's disposition of the case but is written to express a particular <head>judge's</head> reasoning ;</context>
+    </instance>
+    <instance id="n06554373_d_10" docsrc="n06554373_d">
+      <context> a writ ordering a prisoner to be brought before a <head>judge</head> ;</context>
+    </instance>
+    <instance id="n06731510_d_8" docsrc="n06731510_d">
+      <context> a contention presented by a lawyer to a <head>judge</head> or jury as part of the case he is arguing ;</context>
+    </instance>
+    <instance id="n06765887_d_5" docsrc="n06765887_d">
+      <context> an opinion voiced by a <head>judge</head> on a point of law not directly bearing_on the case in_question and therefore not binding ;</context>
+    </instance>
+    <instance id="n06784470_d_10" docsrc="n06784470_d">
+      <context> a disputed legal contention that is generally left for a <head>judge</head> to decide ;</context>
+    </instance>
+    <instance id="n07143450_d_8" docsrc="n07143450_d">
+      <context> a courtroom conference between the lawyers and the <head>judge</head> that is held out of the jury's hearing ;</context>
+    </instance>
+    <instance id="n07169743_d_9" docsrc="n07169743_d">
+      <context> an incorrect charge to a jury given by a <head>judge</head> ;</context>
+    </instance>
+    <instance id="n07209305_d_4" docsrc="n07209305_d">
+      <context> the difference of one <head>judge's</head> opinion from that of the majority ;</context>
+    </instance>
+    <instance id="n07293903_d_6" docsrc="n07293903_d">
+      <context> a boxing decision in which the <head>judges</head> are not unanimous ;</context>
+    </instance>
+    <instance id="n07322550_d_5" docsrc="n07322550_d">
+      <context> the reappearance of Jesus as <head>judge</head> for the Last_Judgment ;</context>
+    </instance>
+    <instance id="n08328700_d_3" docsrc="n08328700_d">
+      <context> the magistrate or <head>judge</head> or judges sitting in court in judicial capacity to compose the court collectively ;</context>
+    </instance>
+    <instance id="n08328700_d_5" docsrc="n08328700_d">
+      <context> the magistrate or judge or <head>judges</head> sitting in court in judicial capacity to compose the court collectively ;</context>
+    </instance>
+    <instance id="n08329453_d_7" docsrc="n08329453_d">
+      <context> an assembly ( including one or more <head>judges</head> ) to conduct judicial business ;</context>
+    </instance>
+    <instance id="n08330514_d_13" docsrc="n08330514_d">
+      <context> a judicial division of a state or the United_States ( so-called because originally <head>judges</head> traveled and held court in different locations ) ; one of the twelve groups of states in the United_States that is covered by a particular circuit_court_of_appeals ;</context>
+    </instance>
+    <instance id="n09512913_d_6" docsrc="n09512913_d">
+      <context> Egyptian god of the underworld and <head>judge</head> of the dead ; husband and brother of Isis ; father of Horus ;</context>
+    </instance>
+    <instance id="n09564680_d_23" docsrc="n09564680_d">
+      <context> son of Zeus and Europa ; king of ancient Crete ; ordered Daedalus to build the labyrinth ; after death Minos became a <head>judge</head> in the underworld ;</context>
+    </instance>
+    <instance id="n09570957_d_1" docsrc="n09570957_d">
+      <context> a <head>judge</head> of the dead in the underworld ;</context>
+    </instance>
+    <instance id="n09783130_d_9" docsrc="n09783130_d">
+      <context> a fugitive remaining in the United_States after an immigration <head>judge</head> has ordered them deported ;</context>
+    </instance>
+    <instance id="n09916788_d_1" docsrc="n09916788_d">
+      <context> the <head>judge</head> who presides over a supreme_court ;</context>
+    </instance>
+    <instance id="n09991285_d_4" docsrc="n09991285_d">
+      <context> a wise and upright <head>judge</head> ;</context>
+    </instance>
+    <instance id="n10140783_d_1" docsrc="n10140783_d">
+      <context> a <head>judge</head> who assigns grades to something ;</context>
+    </instance>
+    <instance id="n10156726_d_6" docsrc="n10156726_d">
+      <context> a Muslim ruler or governor or <head>judge</head> ;</context>
+    </instance>
+    <instance id="n10382380_d_1" docsrc="n10382380_d">
+      <context> a <head>judge</head> of a probate_court ;</context>
+    </instance>
+    <instance id="n10497135_d_2" docsrc="n10497135_d">
+      <context> an Islamic <head>judge</head> ;</context>
+    </instance>
+    <instance id="n10511960_d_8" docsrc="n10511960_d">
+      <context> a barrister or solicitor who serves as part-time <head>judge</head> in towns or boroughs ;</context>
+    </instance>
+    <instance id="n10728523_d_1" docsrc="n10728523_d">
+      <context> a <head>judge</head> in a trial_court ;</context>
+    </instance>
+    <instance id="n10729175_d_4" docsrc="n10729175_d">
+      <context> one ( as a <head>judge</head> ) who examines and settles a case ;</context>
+    </instance>
+    <instance id="n11054173_d_16" docsrc="n11054173_d">
+      <context> United_States_
+     _leader who was president of the Teamsters_Union ; he was jailed for trying to bribe a <head>judge</head> and later disappeared and is assumed to have been murdered ;</context>
+    </instance>
+    <instance id="n11279648_d_1" docsrc="n11279648_d">
+      <context> a <head>judge</head> of Israel who performed herculean feats of strength against the Philistines until he was betrayed to them by his mistress Delilah ;</context>
+    </instance>
+    <instance id="n11279874_d_3" docsrc="n11279874_d">
+      <context> Hebrew prophet and <head>judge</head> who anointed Saul as king ;</context>
+    </instance>
+    <instance id="v00686249_d_5" docsrc="v00686249_d">
+      <context> challenge or except to a <head>judge</head> as being incompetent or interested , in canon and civil_law ;</context>
+    </instance>
+    <instance id="v02102002_d_19" docsrc="v02102002_d">
+      <context> travel from place to place , as for the purpose of finding work , preaching , or acting_as a <head>judge</head> ;</context>
+    </instance>
+    <instance id="v02501278_d_10" docsrc="v02501278_d">
+      <context> put on_trial or hear a case and sit as the <head>judge</head> at the trial of ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="rival.n" pos="NN">
+    <instance id="br-j60#w1361_0" docsrc="br-j60">
+      <context> The suburban branch is thereby credited with a sale which would have been made even if its glass doors had never opened . Accounting procedures which continue to charge a disproportionate overhead and warehouse expense to the main store make the branches seem more profitable than they are . In many cases that statement `` We break_even on our downtown operation and make money on our branches '' would be turned_around if the cost_analysis were recalculated on terms less prejudicial to the old store . Fear of the competition - always a great motivating force in the American economy - makes retailers who do not have suburban operations exaggerate both the volume and the profitability of their <head>rival</head> 's shiny new branches . The fact seems to be that very many large branch stores are uneconomical , that the choice of location in the suburbs is as important as it was downtown , and that even highly suburbanized cities will support only so many big branches . Moreover , the cost of operations is always high in any new store , as the conservative bankers who act_as controllers for retail giants are beginning to discover . When all has been said , however , the big branch store remains a major break with history in the development of American retailing .</context>
+    </instance>
+  </lexelt>
+</corpus>

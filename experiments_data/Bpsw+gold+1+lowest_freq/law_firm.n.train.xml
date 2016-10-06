@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="law_firm.n" pos="NN">
+    <instance id="a01863442_d_4" docsrc="a01863442_d">
+      <context> denoting a company or <head>law_firm</head> owned and run by members of the WASP elite who are generally conservative ;</context>
+    </instance>
+  </lexelt>
+</corpus>

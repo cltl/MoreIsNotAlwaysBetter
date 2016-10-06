@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="unemployment.n" pos="NN">
+    <instance id="br-j38#w1851_0" docsrc="br-j38">
+      <context> State_governments have been taking the lead in establishing area vocational_schools , but their focus is still on area job opportunities . Only the Federal_government is likely to be able to take a long-run and nation-wide view and to pay for training to meet national skilled manpower needs . If only state funds were used to pay for the vocational education , it could be argued that the state should not have_to bear the cost of vocational training which would benefit employers in other states . However , if Federal funds are used , it would be entirely appropriate to train workers for jobs which could be obtained elsewhere as_well_as for jobs in the area of chronic <head>unemployment</head> . Such training would increase the tendency of workers to leave the area and find jobs in other localities . A further possibility is suggested by the example of the G._I. bills and also by some recent trends in attitudes toward improving college education : that_is to provide financial assistance to individuals for vocational training when local facilities are inadequate . This probably would require some support for subsistence as_well_as for tuition , but the total would be no greater than for the proposals of unemployment_compensation or a Youth_Conservation_Corps .</context>
+    </instance>
+    <instance id="br-j41#w1620_0" docsrc="br-j41">
+      <context> As we have noted , however , we are abstracting from changes in all determinants of this level except for changes in the wage rate . The level of average_cost ( equal to marginal_cost ) is thus strictly a function of the wage rate . The single union which faces the industry does not restrict its membership , and there is an adequate supply of labor available to the firms of the industry at the going wage rate . The union does not regard <head>unemployment</head> of its own members as a matter of concern when setting its own wage policy - its concern with employment makes itself felt in pressure upon the government to maintain full employment . The union vigorously demands wage increases from productivity increases , and wage increases to offset cost-of-living increases , but we abstract from these forces here . For our present purposes we assume that the sole subject of bargaining is the basic wage rate ( not including productivity improvement factors or cost-of-living adjustments ) , and it is this basic wage rate which determines the level of costs . Productivity is something of an amorphous concept and the amount of productivity increase in a given time_period is not even well_known to the industry , much_less to the union or to the public .</context>
+    </instance>
+    <instance id="br-p12#w1904_0" docsrc="br-p12">
+      <context> Watching her , he felt like a spectator at a tennis game , with the ball being bounced back_and_forth . Signora_Ferraro , bobbing her head encouragingly , asked Sam about Canada , having a special interest . Carla translated . The old_woman had a nephew from North_Italy , a poor boy from a lumber mill who had got tired_of the seasonal <head>unemployment</head> , and who had migrated to Canada to work_on the railway . For a year the boy had lived in the bush in a boxcar . Did many_of Sam 's countrymen live in boxcars in the bush ? Had Sam ever lived in a boxcar ?</context>
+    </instance>
+    <instance id="n01087939_d_12" docsrc="n01087939_d">
+      <context> social_welfare program in the U.S. ; includes old_age and survivors_insurance and some <head>unemployment</head> insurance and old age assistance ;</context>
+    </instance>
+    <instance id="n03599964_d_14" docsrc="n03599964_d">
+      <context> a government_office in a town where information about available jobs is displayed and where <head>unemployment</head> benefits are administered ;</context>
+    </instance>
+    <instance id="n05995898_d_6" docsrc="n05995898_d">
+      <context> an economic_theory holding that variations in <head>unemployment</head> and the rate_of_inflation are usually caused by changes in the supply of money ;</context>
+    </instance>
+    <instance id="n10275676_d_16" docsrc="n10275676_d">
+      <context> one of the 19th century English workmen who destroyed laborsaving machinery that they thought would cause <head>unemployment</head> ;</context>
+    </instance>
+    <instance id="n13560738_d_7" docsrc="n13560738_d">
+      <context> a period of slow economic_growth and high <head>unemployment</head> ( stagnation ) while prices rise ( inflation ) ;</context>
+    </instance>
+    <instance id="n13968308_ex1_0" docsrc="n13968308_ex1">
+      <context> <head>unemployment</head> is a serious social evil ;</context>
+    </instance>
+    <instance id="n13968308_ex2_3" docsrc="n13968308_ex2">
+      <context> the rate of <head>unemployment</head> is an indicator of the health of an economy ;</context>
+    </instance>
+    <instance id="n14489113_d_6" docsrc="n14489113_d">
+      <context> a long-term economic state characterized by <head>unemployment</head> and low prices and low levels of trade and investment ;</context>
+    </instance>
+    <instance id="n15294211_d_14" docsrc="n15294211_d">
+      <context> a period during the 1930s when there was a worldwide economic depression and mass <head>unemployment</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

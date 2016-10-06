@@ -1,0 +1,1139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="card.n" pos="NN">
+    <instance id="Batting_order_(cricket)-card-13-46-1" docsrc="Batting_order_(cricket)">
+      <context> The world 's most prolific and best recognised batsmen are generally found in <head>the</head> top order . The last batsman in the order is sometimes referred to as Last man Jack , a term that has passed into everyday parlance . This is because if the batting order were arranged as a pack of cards numbers 9 and 10 would be followed by Jack .</context>
+    </instance>
+    <instance id="Identity_document-card-0-32-1" docsrc="Identity_document">
+      <context> <head>Arguments</head> against national identity documents : Arguments against overuse or abuse of identity documents : Cards reliant on a centralized database can be used to track anyone 's physical movements and private life , thus infringing on personal freedom and privacy .</context>
+    </instance>
+    <instance id="Identity_document-card-0-493-1" docsrc="Identity_document">
+      <context> <head>Turkey</head> ===== The Turkish national ID card ( Turkish : Nüfus Cüzdanı ) is compulsory for all Turkish citizens from birth . Cards for males and females have a different colour .</context>
+    </instance>
+    <instance id="Identity_document-card-1-116-1" docsrc="Identity_document">
+      <context> China <head>====</head> The People 's Republic of China requires each of its citizens aged 16 and over to carry an identity card . The card is the only acceptable legal document to obtain employment , a residence permit , driving licence or passport and to open bank accounts or apply for entry to tertiary education and technical colleges .</context>
+    </instance>
+    <instance id="Identity_document-card-1-148-1" docsrc="Identity_document">
+      <context> Israel <head>====</head> Israeli law requires every permanent resident above the age of 16 , whether a citizen or not , to carry an identification card called te'udat zehut ( Hebrew : תעודת זהות‎‎ ) in Hebrew or biţāqat huwīya ( بطاقة هوية ) in Arabic . The card is designed in a bilingual form , printed in Hebrew and Arabic , however , the personal data is presented in Hebrew by default and may be presented in Arabic as well if the owner decides so .</context>
+    </instance>
+    <instance id="Identity_document-card-1-149-1" docsrc="Identity_document">
+      <context> Israeli <head>law</head> requires every permanent resident above the age of 16 , whether a citizen or not , to carry an identification card called te'udat zehut ( Hebrew : תעודת זהות‎‎ ) in Hebrew or biţāqat huwīya ( بطاقة هوية ) in Arabic . The card is designed in a bilingual form , printed in Hebrew and Arabic , however , the personal data is presented in Hebrew by default and may be presented in Arabic as well if the owner decides so . The card must be presented to an official on duty ( e.g. , a policeman ) upon request , but if the resident is unable to do this , one may contact the relevant authority within five days to avoid a penalty .</context>
+    </instance>
+    <instance id="Identity_document-card-1-189-3" docsrc="Identity_document">
+      <context> A <head>small</head> fine can be charged if one does n't carry it . It has had several changes in its history , the most recent form is a plastic card meeting the ISO 7810 standard . The card has the holder 's photo and a 15 digit ID number calculated from the holder 's birthday and birthplace .</context>
+    </instance>
+    <instance id="Identity_document-card-1-189-5" docsrc="Identity_document">
+      <context> The <head>card</head> has the holder 's photo and a 15 digit ID number calculated from the holder 's birthday and birthplace . A hologram technology is applied for the purpose of hampering forgery . This card has no additional features used to identify the holder except comparing the photo and a holder 's face .</context>
+    </instance>
+    <instance id="Identity_document-card-1-266-2" docsrc="Identity_document">
+      <context> ===== <head>Estonia</head> ===== The card 's chip stores a key pair , allowing users to cryptographically sign digital documents based on principles of public key cryptography using DigiDoc .</context>
+    </instance>
+    <instance id="Identity_document-card-1-295-5" docsrc="Identity_document">
+      <context> Beginning <head>in</head> November 2010 , German ID cards are issued in the ID-1 format and can also contain an integrated digital signature , if so desired . Until October 2010 , German ID cards were issued in ISO/IEC 7810 ID-2 format . The cards have a photograph and a chip with biometric data , including , optionally , fingerprints .</context>
+    </instance>
+    <instance id="Identity_document-card-1-319-1" docsrc="Identity_document">
+      <context> Hungary <head>=====</head> The plastic card shows the owners full name , maiden name if applicable , birth date and place , mother 's maiden name , the cardholder 's gender , the ID 's validity period and the local state authority which issued the card . The card has a 6 digit number + 2 letter unique ID and a separate machine readable zone on the back for identity document scanning devices .</context>
+    </instance>
+    <instance id="Identity_document-card-1-320-2" docsrc="Identity_document">
+      <context> Other <head>valid</head> documents are the passport ( blue colored or red colored with RFID chip ) and the driver 's license ; an individual is required to have at least one of them on hand all the time . The Personal Identity Card is mandatory to vote in state elections or open a bank account in the country . ID cards are issued to permanent residents of Hungary ; if a foreign citizen , the card has a different color .</context>
+    </instance>
+    <instance id="Identity_document-card-1-329-2" docsrc="Identity_document">
+      <context> Passport <head>booklets</head> , passport cards , driver 's licenses , GNIB Registration Certificates and other forms of identity cards can be used for identification . Ireland has issued optional passport cards since October 2015 . The cards are the size of a credit card and have all the information from the biographical page of an Irish passport booklet and can be explicitly used for travel in the EEA.</context>
+    </instance>
+    <instance id="Identity_document-card-1-405-4" docsrc="Identity_document">
+      <context> It <head>is</head> required to open a bank account , to sign a contract , to have state insurance and to register at a university and should be shown when being fined by a police officer . It is one of the official documents required to vote at any election , although any other form of official ID such as a driving licence or passport may be used . The card also constitutes a valid travel document within the European Union .</context>
+    </instance>
+    <instance id="Identity_document-card-1-42-1" docsrc="Identity_document">
+      <context> The <head>United</head> Kingdom 's scheme was scrapped in January 2011 and the database was destroyed . In the United States , states issue optional identity cards for people who do not hold a driver 's license as an alternate means of identification . These cards are issued by the same organization responsible for driver 's licenses , usually called the Department of Motor Vehicles .</context>
+    </instance>
+    <instance id="Identity_document-card-1-508-1" docsrc="Identity_document">
+      <context> ==== <head>Costa</head> Rica ==== Every Costa Rican citizen must carry an identity card immediately after turning 18 . The card is named Cédula de Identidad and it is issued by the local registrar 's office ( Registro Civil ) , an office belonging to the local elections committee ( Tribunal Supremo de Elecciones ) , which in Costa Rica has the same rank as the Supreme Court .</context>
+    </instance>
+    <instance id="Identity_document-card-1-508-2" docsrc="Identity_document">
+      <context> Every <head>Costa</head> Rican citizen must carry an identity card immediately after turning 18 . The card is named Cédula de Identidad and it is issued by the local registrar 's office ( Registro Civil ) , an office belonging to the local elections committee ( Tribunal Supremo de Elecciones ) , which in Costa Rica has the same rank as the Supreme Court . Each card has a unique number composed of nine numerical digits , the first of them being the province where the citizen was born ( with other significance in special cases such as granted citizenship to foreigners , adopted persons or in rare cases with old people where no birth certificate was processed at birth ) ; after this digit , two blocks of four digits follow ; the combination corresponds to the unique identifier of the citizen .</context>
+    </instance>
+    <instance id="Identity_document-card-1-588-2" docsrc="Identity_document">
+      <context> Every <head>resident</head> of Colombia over the age of 14 must bear an identity card ( Tarjeta de Identidad ) . Upon turning 18 every resident must obtain a Cédula de Ciudadanía , which is the only document that proves the identity of a person for legal purposes . ID cards must be carried at all times and must be presented to the police or military upon request .</context>
+    </instance>
+    <instance id="Identity_document-card-1-588-4" docsrc="Identity_document">
+      <context> ID <head>cards</head> must be carried at all times and must be presented to the police or military upon request . If the individual fails to present the ID card upon request by the police or the military , he/she is most likely going to be detained for 24 hours at police station even if he/she is not a suspect of any wrongdoing . ID cards are needed to obtain employment , open bank accounts , obtain a passport , driver 's license , military card , to enroll in educational institutions , vote or enter public buildings including airports and courthouses .</context>
+    </instance>
+    <instance id="Identity_document-card-1-605-2" docsrc="Identity_document">
+      <context> ==== <head>Uruguay</head> ==== Identity Card ( Renewal )</context>
+    </instance>
+    <instance id="Identity_document-card-1-608-3" docsrc="Identity_document">
+      <context> It <head>is</head> mandatory and essential for several steps at either governmental or private . The document is mandatory for all inhabitants of the Eastern Republic of Uruguay , are native citizens , legal citizens or resident aliens in the country , even for children from 45 days old . Identity cards are demanded widespread in all formal transactions , from credit card purchases to any identity validation , proof of age , and so on .</context>
+    </instance>
+    <instance id="Identity_document-card-1-632-1" docsrc="Identity_document">
+      <context> GlobalPlatform <head>standard</head> Home Return Permit ID card printer</context>
+    </instance>
+    <instance id="Identity_document-card-1-639-1" docsrc="Identity_document">
+      <context> Physical <head>security</head> Police certificate Proximity card</context>
+    </instance>
+    <instance id="Identity_document-card-1-640-1" docsrc="Identity_document">
+      <context> Police <head>certificate</head> Proximity card Warrant card</context>
+    </instance>
+    <instance id="Identity_document-card-1-656-1" docsrc="Identity_document">
+      <context> Telegraph <head>story</head> : the case for and against identity cards Scotsman story : ID Cards will lead to " massive fraud " ID Card –</context>
+    </instance>
+    <instance id="Identity_document-card-10-192-1" docsrc="Identity_document">
+      <context> Other than this card , the South Korean Government accepts <head>a</head> driver 's license card , a passport and a public officer ID card as an official ID card . ==== Sri Lanka ==== Sri Lanka is in the process of developing a Smart Card based RFID NIC card which will replace the obsolete ' laminated type ' cards by storing the holders information on a chip that can be read by banks , offices , etc . , thereby reducing the need to have documentation of these data physically by storing in the cloud .</context>
+    </instance>
+    <instance id="Identity_document-card-10-232-1" docsrc="Identity_document">
+      <context> Belgium ===== In Belgium , everyone above the age of <head>12</head> is issued an identity card ( carte d'identité in French , identiteitskaart in Dutch and Personalausweis in German ) , and from the age of 15 carrying this card at all times is mandatory . For foreigners residing in Belgium similar cards ( foreigner 's cards , vreemdelingenkaart in Dutch , carte pour étrangers in French ) are issued , although they may also carry a passport , a work permit or a ( temporary ) residence permit .</context>
+    </instance>
+    <instance id="Identity_document-card-10-260-6" docsrc="Identity_document">
+      <context> Both certificates retrieve their information from the Civil Registration System <head>.</head> However , the personnummerbevis is still issued today and has been since September 1968 . Danish driver 's licenses and passports are the only identity cards issued by the government containing both the personal identification number and a photo .</context>
+    </instance>
+    <instance id="Identity_document-card-10-306-2" docsrc="Identity_document">
+      <context> ===== Greece ===== A compulsory , universal ID system based <head>on</head> personal ID cards has been in place in Greece since World War II. ID cards are issued by the police on behalf of the Headquarters of the Police ( previously issued by the Ministry of Public Order , now incorporated in the Ministry of Internal Affairs ) and display the holder 's signature , standardized face photograph , name and surname , father 's name and surname , mother 's name and maiden surname , date and place of birth , height , municipality , and the issuing police precinct .</context>
+    </instance>
+    <instance id="Identity_document-card-10-369-1" docsrc="Identity_document">
+      <context> The new Citizen 's Card is technologically more advanced than <head>the</head> former Identity Card and has the following characteristics : From the physical point of view the Citizen 's Card will have a ' smart card ' format and will replace the existing Identity Card , taxpayer card , Social Security card , voter 's card and National Health Service user 's card . From the visual point of view the front of the card will display the holder 's photograph and basic personal details .</context>
+    </instance>
+    <instance id="Identity_document-card-10-433-1" docsrc="Identity_document">
+      <context> Albania ===== From January 12 , 2009 the Government of <head>Albania</head> is issuing a compulsory electronic and biometric ID Card ( Letërnjoftim ) for its citizens . Every citizen at age 16 must apply for Biometric ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-10-458-1" docsrc="Identity_document">
+      <context> Moldova ===== The Moldovan Identity card may be obtained by <head>a</head> child from his/her date of birth . State company " Registru " is responsible for issuing Identity cards and for storing data of all Moldovan citizens .</context>
+    </instance>
+    <instance id="Identity_document-card-10-473-1" docsrc="Identity_document">
+      <context> But there are rules requiring it for services like banking <head>,</head> air travel and voting ( where personal recognition or other identification methods have not been possible ) . The following documents are generally considered valid ( varying a little , since no law lists them ) : Nordic driving licence , passport ( often only from EU and EFTA ) , national id card from EU , Norwegian ID card from banks and some more . There is no ID card for anyone except bank ID card ( normally printed on the reverse of a credit card ) .</context>
+    </instance>
+    <instance id="Identity_document-card-10-473-3" docsrc="Identity_document">
+      <context> There is no ID card for anyone except bank ID <head>card</head> ( normally printed on the reverse of a credit card ) . To get a bank ID card either a Nordic passport or another passport together with Norwegian residence and work permit is needed . There is an ongoing plan to introduce a national ID card accrediting Norwegian citizenship , usable for travel within the EU , and for general identification .</context>
+    </instance>
+    <instance id="Identity_document-card-10-480-2" docsrc="Identity_document">
+      <context> The internal passport is commonly considered the only acceptable ID <head>document</head> in governmental offices , banks , while traveling by train or plane , getting a subscription service , etc . If the person does not have an internal passport ( i.e. , foreign nationals or Russian citizens who live abroad ) , an international passport can be accepted instead , theoretically in all cases . Another exception is army conscripts , who produce the Identity Card of the Russian Armed Forces .</context>
+    </instance>
+    <instance id="Identity_document-card-10-481-1" docsrc="Identity_document">
+      <context> Another exception is army conscripts , who produce the Identity <head>Card</head> of the Russian Armed Forces . Internal passports can also be used to travel to Belarus , Kazakhstan , Tajikistan , Kyrgyzstan , Abkhazia and South Ossetia . Other documents , such as driver 's licenses or student cards , can sometimes be accepted as ID , subject to regulations .</context>
+    </instance>
+    <instance id="Identity_document-card-10-542-2" docsrc="Identity_document">
+      <context> For most people , driver 's licenses issued by the <head>respective</head> state and territorial governments have become the de facto identity cards , and are used for many identification purposes , such as when purchasing alcohol and tobacco , opening bank accounts , and boarding planes , along with confirming a voter 's identity in states with voter photo identification initiatives . Individuals who do not drive are able to obtain an identification card with the same functionality from the same state agency that issues driver 's licenses . In addition , many schools issue student and teacher ID cards .</context>
+    </instance>
+    <instance id="Identity_document-card-10-559-2" docsrc="Identity_document">
+      <context> Australia does not have an identity card . There have <head>been</head> two proposals to introduce ID cards for tax and social security access in Australia : The Australia Card in 1985 by the Hawke Labor Government and the Health and Social Services Access Card in 2006 by the Howard Liberal Government . Although neither card would have been an official compulsory ID card , they were both criticised as leading to de facto ID cards .</context>
+    </instance>
+    <instance id="Identity_document-card-10-563-1" docsrc="Identity_document">
+      <context> It is the de facto identity card in Australia . <head>For</head> people who do not drive , the road authorities will issue a " Photo Card " , also called " Proof of Age Card " . In some states , like New South Wales , Photo Card can be only issued to people who do not have a driver licence , but in some states , like Queensland , it can be issued to people who have a driver licence as another type of identity .</context>
+    </instance>
+    <instance id="Identity_document-card-11-100-2" docsrc="Identity_document">
+      <context> Zimbabweans are required to apply for National Registration at the age <head>of</head> sixteen . Zimbabwean citizens are issued with a plastic card which contains a photograph and their particulars onto it . Before the introduction of the plastic card , the Zimbabwean ID card used to be printed on anodised aluminium .</context>
+    </instance>
+    <instance id="Identity_document-card-11-179-1" docsrc="Identity_document">
+      <context> CNIC serves as an identification document to authenticate an individual 's <head>identity</head> as the citizen of Pakistan . Earlier on , National Identity Cards ( NICs ) were issued to citizens of Pakistan . Now government has shifted all its existing records of National Identity Cards ( NIC ) to the central computerized database managed by NADRA. New CNIC 's are machine readable and have security features such as facial and finger print information .</context>
+    </instance>
+    <instance id="Identity_document-card-11-244-1" docsrc="Identity_document">
+      <context> Croatia ===== All Croatian citizens may request an Identity Card , <head>called</head> Osobna iskaznica ( literally Personal card ) . All persons over the age of 16 must have an Identity Card and carry it at all times .</context>
+    </instance>
+    <instance id="Identity_document-card-11-259-1" docsrc="Identity_document">
+      <context> Denmark ===== Denmark is one of few EU countries that currently <head>do</head> not issue national identity cards ( not counting driving licences and passports issued for other purposes ) . Danish citizens are not required by law to carry an identity card .</context>
+    </instance>
+    <instance id="Identity_document-card-11-276-1" docsrc="Identity_document">
+      <context> It is available as an electronic ID card ( sähköinen henkilökortti/elektroniskt <head>identitetskort</head> ) , which enables logging into certain government services on the Internet . Driving licenses and KELA ( social security ) cards with a photo are also widely used for general identification purposes even though they are not officially recognized as such . However , KELA has ended the practice of issuing social security cards with the photograph of the bearer , while it has become possible to embed the social security information onto the national ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-11-362-2" docsrc="Identity_document">
+      <context> ===== Portugal ===== All Portuguese citizens are required by law to <head>obtain</head> an Identity Card as they turn 6 years of age .</context>
+    </instance>
+    <instance id="Identity_document-card-11-371-1" docsrc="Identity_document">
+      <context> The back will also contain an optical reader and the chip <head>.</head> From the electronic point of view the card will have a contact chip , with digital certificates ( for electronic authentication and signature purposes ) . The chip may also hold the same information as the physical card itself , together with other data such as the holder 's address .</context>
+    </instance>
+    <instance id="Identity_document-card-11-44-1" docsrc="Identity_document">
+      <context> These cards are issued by the same organization responsible for driver <head>'s</head> licenses , usually called the Department of Motor Vehicles . Companies and government departments may issue ID cards for security purposes or proof of a qualification . For example , all taxicab drivers in the UK carry ID cards .</context>
+    </instance>
+    <instance id="Identity_document-card-11-452-2" docsrc="Identity_document">
+      <context> The Macedonian identity card ( Macedonian : Лична карта , Lična <head>karta</head> ) is a compulsory identity document issued in the Republic of Macedonia . The document is issued by the police on behalf of the Ministry of Interior . Every person over 18 can get and must get an identity card .</context>
+    </instance>
+    <instance id="Identity_document-card-11-532-1" docsrc="Identity_document">
+      <context> Also , minors must produce their CURP when applying for a <head>passport</head> or being registered at Public Health services by their parents . Most adults need the CURP code too , since it is required for almost all governmental paperwork like tax filings and passport applications . Most companies ask for a prospective employee 's CURP , voting card , or passport rather than birth certificates .</context>
+    </instance>
+    <instance id="Identity_document-card-11-542-1" docsrc="Identity_document">
+      <context> ==== United States ==== For most people , driver 's licenses <head>issued</head> by the respective state and territorial governments have become the de facto identity cards , and are used for many identification purposes , such as when purchasing alcohol and tobacco , opening bank accounts , and boarding planes , along with confirming a voter 's identity in states with voter photo identification initiatives . Individuals who do not drive are able to obtain an identification card with the same functionality from the same state agency that issues driver 's licenses .</context>
+    </instance>
+    <instance id="Identity_document-card-11-545-1" docsrc="Identity_document">
+      <context> The most recent of these , dubbed PASS ID , would <head>eliminate</head> many of the more burdensome technological requirements but still require states to meet federal standards in order to have their ID cards accepted by federal agencies . The US passport verifies both personal identity and citizenship , but is not mandatory for citizens to possess within the country and is issued by the US State Department on a discretionary basis . U.S. Citizenship and Immigration Services has indicated that the U.S. Passport Card may be used in the Employment Eligibility Verification Form I-9 ( form ) process .</context>
+    </instance>
+    <instance id="Identity_document-card-11-65-2" docsrc="Identity_document">
+      <context> ==== Tunisia ==== Every citizen of Tunisia is expected to apply <head>for</head> an ID card by the age of 18 ; however , with the approval of a parent , a Tunisian citizen may apply for , and receive , an ID card prior to their eighteenth birthday .</context>
+    </instance>
+    <instance id="Identity_document-card-12-15-5" docsrc="Identity_document">
+      <context> None of the countries listed above mandate possession of identity documents , <head>but</head> they have de facto equivalents since these countries still require proof of identity in many situations . For example , all vehicle drivers must have a driving licence , and young people may need to use specially issued proof of age cards when purchasing alcohol . In addition , and uniquely amongst native English speaking countries without ID cards , the USA require all its male residents between the ages of 18 and 25 , including foreigners , to register for military conscription .</context>
+    </instance>
+    <instance id="Identity_document-card-12-416-2" docsrc="Identity_document">
+      <context> In the past there have been certain groups that have experienced problems <head>obtaining</head> valid identification documents . This was due to the initial process that was required to validate one 's identity , unregulated security requirements by the commercial companies which issued them . Since July 2009 , the tax office has begun to issue identity cards and this has simplified the identity validation process for foreign passport holders .</context>
+    </instance>
+    <instance id="Identity_document-card-12-474-2" docsrc="Identity_document">
+      <context> There is an ongoing plan to introduce a national ID card accrediting <head>Norwegian</head> citizenship , usable for travel within the EU , and for general identification . The plan started in 2007 and has been delayed several times and is now scheduled for 2016 . Banks are campaigning to be freed from the task of issuing ID cards , stating that it should be the responsibility of state authorities .</context>
+    </instance>
+    <instance id="Identity_document-card-12-503-1" docsrc="Identity_document">
+      <context> The bearer is required by law to keep the address up to <head>date</head> . A few provinces , such as Québec and Ontario , issue provincial health care cards which contain identification information , such as a photo of the bearer , their home address , and their date of birth . British Columbia and Ontario are among the provinces that produce photo identification cards for individuals who do not possess a driving licence , with the cards containing the bearer 's photo , home address , and date of birth .</context>
+    </instance>
+    <instance id="Identity_document-card-12-608-3" docsrc="Identity_document">
+      <context> It is mandatory and essential for several steps at either governmental or <head>private</head> . The document is mandatory for all inhabitants of the Eastern Republic of Uruguay , are native citizens , legal citizens or resident aliens in the country , even for children from 45 days old . Identity cards are demanded widespread in all formal transactions , from credit card purchases to any identity validation , proof of age , and so on .</context>
+    </instance>
+    <instance id="Identity_document-card-13-106-2" docsrc="Identity_document">
+      <context> ==== Bahrain ==== Bahraini citizens must have both an ID card , called <head>a</head> " smart card " , that is recognized as an official document and can be used within the Gulf Cooperation Council and a passport , that is recognized worldwide .</context>
+    </instance>
+    <instance id="Identity_document-card-13-176-2" docsrc="Identity_document">
+      <context> ==== Pakistan ==== In Pakistan , all adult citizens must register for the <head>Computerized</head> National Identity Card ( CNIC ) , with a unique number , at age 18 .</context>
+    </instance>
+    <instance id="Identity_document-card-13-187-1" docsrc="Identity_document">
+      <context> Singapore ==== ==== South Korea ==== Every citizen of South Korea over the <head>age</head> 17 is issued an ID card called Jumindeungrokjeung ( 주민등록증 ) and required to carry it always .</context>
+    </instance>
+    <instance id="Identity_document-card-13-230-2" docsrc="Identity_document">
+      <context> ===== Belgium ===== In Belgium , everyone above the age of 12 is <head>issued</head> an identity card ( carte d'identité in French , identiteitskaart in Dutch and Personalausweis in German ) , and from the age of 15 carrying this card at all times is mandatory .</context>
+    </instance>
+    <instance id="Identity_document-card-13-261-4" docsrc="Identity_document">
+      <context> Foreign driving licenses and passports are accepted with limitations . A foreigner living <head>in</head> Denmark will have a residence permit with their personal identification number and a photo . In Denmark , since 2004 , counties have issued a " photo identity card " ( Danish : billedlegitimationskort ) , which can be used as age verification , but it is limited for identification purposes because of limited security for issuing , and it is not valid for EU travel .</context>
+    </instance>
+    <instance id="Identity_document-card-13-263-1" docsrc="Identity_document">
+      <context> In Denmark , since 2004 , counties have issued a " photo identity <head>card</head> " ( Danish : billedlegitimationskort ) , which can be used as age verification , but it is limited for identification purposes because of limited security for issuing , and it is not valid for EU travel . Until 2004 , the national debit card Dankort contained a photo of the holder and was widely accepted as an identity card . The Danish banks lobbied successfully to have pictures removed from the national debit cards and so since 2004 the Dankort has no longer contained a photo .</context>
+    </instance>
+    <instance id="Identity_document-card-13-276-2" docsrc="Identity_document">
+      <context> Driving licenses and KELA ( social security ) cards with a photo are <head>also</head> widely used for general identification purposes even though they are not officially recognized as such . However , KELA has ended the practice of issuing social security cards with the photograph of the bearer , while it has become possible to embed the social security information onto the national ID card . For most purposes when identification is required , only valid documents are ID card , passport or driving license .</context>
+    </instance>
+    <instance id="Identity_document-card-13-29-3" docsrc="Identity_document">
+      <context> Figures from GBP30 ( USD45 ) to GBP90 or even higher were suggested <head>for</head> the abandoned UK ID card . In countries like Chile the identity card is personally paid for by each person up to GBP6 ; in other countries , such as Venezuela , the ID card is free . This , however , does not disclose the true cost of issuing ID cards as some additional portion may be borne by taxpayers in general(See also Parable of the broken window . )</context>
+    </instance>
+    <instance id="Identity_document-card-13-319-3" docsrc="Identity_document">
+      <context> The card has a 6 digit number + 2 letter unique ID and <head>a</head> separate machine readable zone on the back for identity document scanning devices . It does not have any information about the owner 's residential address , nor their personal identity number – this sensitive information is contained on a separate card , called a Residency Card ( Lakcímkártya ) .</context>
+    </instance>
+    <instance id="Identity_document-card-13-367-1" docsrc="Identity_document">
+      <context> The old format of the cards ( yellow laminated paper document ) featured <head>a</head> portrait of the bearer , their fingerprint , and the name of parents , among other information . They are currently being replaced by grey plastic cards with a chip , called Cartão de Cidadão ( Citizen 's Card ) , which now incorporate NIF ( Tax Number ) , Cartão de Utente ( Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued . The new Citizen 's Card is technologically more advanced than the former Identity Card and has the following characteristics :</context>
+    </instance>
+    <instance id="Identity_document-card-13-443-1" docsrc="Identity_document">
+      <context> Bosnia and Herzegovina ===== Bosnia and Herzegovina allows every person over the age <head>of</head> 15 to apply for an ID card , and all citizens over the age of 18 must have the national ID card with them at all times . A penalty is issued if the citizen does not have the acquired ID card on them or if the citizen refuses to show proof of identification .</context>
+    </instance>
+    <instance id="Identity_document-card-13-586-2" docsrc="Identity_document">
+      <context> ==== Colombia ==== Every resident of Colombia over the age of 14 must <head>bear</head> an identity card ( Tarjeta de Identidad ) .</context>
+    </instance>
+    <instance id="Identity_document-card-14-1-4" docsrc="Identity_document">
+      <context> Most countries accept passports as a form of identification . Some countries require all <head>people</head> to have an identity document available at any time . Many countries require all foreigners to have a passport or occasionally a national identity card from their country available at any time if they do not have a residence permit in the country .</context>
+    </instance>
+    <instance id="Identity_document-card-14-15-2" docsrc="Identity_document">
+      <context> There is debate in these countries about whether such cards and their centralised database <head>would</head> constitute an infringement of privacy and civil liberties . Most criticism is directed towards the enhanced possibilities of extensive abuse of centralised and comprehensive databases storing sensitive data . A 2006 survey of UK Open University students concluded that the planned compulsory identity card under the Identity Cards Act 2006 coupled with a central government database generated the most negative attitudinal response among several alternative configurations .</context>
+    </instance>
+    <instance id="Identity_document-card-14-189-6" docsrc="Identity_document">
+      <context> A hologram technology is applied for the purpose of hampering forgery . This card <head>has</head> no additional features used to identify the holder except comparing the photo and a holder 's face . Other than this card , the South Korean Government accepts a driver 's license card , a passport and a public officer ID card as an official ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-14-192-1" docsrc="Identity_document">
+      <context> Other than this card , the South Korean Government accepts a driver 's license <head>card</head> , a passport and a public officer ID card as an official ID card . ==== Sri Lanka ==== Sri Lanka is in the process of developing a Smart Card based RFID NIC card which will replace the obsolete ' laminated type ' cards by storing the holders information on a chip that can be read by banks , offices , etc . , thereby reducing the need to have documentation of these data physically by storing in the cloud .</context>
+    </instance>
+    <instance id="Identity_document-card-14-214-1" docsrc="Identity_document">
+      <context> ==== United Arab Emirates ==== Emirates Identity Authority is responsible for the processing of <head>residents</head> and nationals for the mandatory identity card and population register in the United Arab Emirates . All individuals residing in the United Arab Emirates are required to possess an ID card , i.e. UAE nationals , GCC nationals , expats , and residents .</context>
+    </instance>
+    <instance id="Identity_document-card-14-258-2" docsrc="Identity_document">
+      <context> ===== Denmark ===== Denmark is one of few EU countries that currently do not <head>issue</head> national identity cards ( not counting driving licences and passports issued for other purposes ) .</context>
+    </instance>
+    <instance id="Identity_document-card-14-44-3" docsrc="Identity_document">
+      <context> For example , all taxicab drivers in the UK carry ID cards . Managers <head>,</head> supervisors , and operatives in construction in the UK have a photographic ID card , the CSCS ( Construction Skills Certification Scheme ) card , indicating training and skills including safety training . Those working on UK railway lands near working lines must carry a photographic ID card to indicate training in track safety ( PTS and other cards ) possession of which is dependent on periodic and random alcohol and drug screening .</context>
+    </instance>
+    <instance id="Identity_document-card-14-502-3" docsrc="Identity_document">
+      <context> A photograph of the bearer is usually present , as well as additional information <head>,</head> such as restrictions to the bearer 's driving licence . The bearer is required by law to keep the address up to date . A few provinces , such as Québec and Ontario , issue provincial health care cards which contain identification information , such as a photo of the bearer , their home address , and their date of birth .</context>
+    </instance>
+    <instance id="Identity_document-card-14-512-1" docsrc="Identity_document">
+      <context> The matrix code is not currently being used nor inspected by any kind of <head>scanner</head> . Besides this identification card , every vehicle driver must carry a driving licence , an additional card that uses the same identification number as the ID card ( Cédula de Identidad ) for the driving license number . A passport is also issued with the same identification number used in the ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-15-135-2" docsrc="Identity_document">
+      <context> Every citizen of Iran has an Identification document called Shenasnameh ( Persian:شناسنامه ) which is <head>a</head> booklet based on their birth certificate , in the Shenasnameh National ID number , Birth date , Birthplace , Father and Mother names birth dates and National ID numbers would be registered . Also in other pages of the Shenasnameh Marriage status , Spouse(s ) name(s ) , Children names , Date of every vote they give and also their death would be registered . Every Iranian permanent resident above the age of 15 must hold a valid National Identity Card ( Persian:کارت ملی ) or at least obtain their unique National Number from any of the local Vital Records branches of the Iranian Ministry of Interior .</context>
+    </instance>
+    <instance id="Identity_document-card-15-217-2" docsrc="Identity_document">
+      <context> ==== Vietnam ==== In Vietnam , all citizens above 14 years old must possess a <head>People</head> 's Identity Card provided by the local authority .</context>
+    </instance>
+    <instance id="Identity_document-card-15-242-2" docsrc="Identity_document">
+      <context> ===== Croatia ===== All Croatian citizens may request an Identity Card , called Osobna iskaznica <head>(</head> literally Personal card ) .</context>
+    </instance>
+    <instance id="Identity_document-card-15-310-2" docsrc="Identity_document">
+      <context> Since 2000 , name fields have been filled in both Greek and Latin characters . <head>According</head> to the Signpost Service of the European Commission [ reply to Enquiry 36581 ] , old type Greek ID cards " are as valid as the new type according to Greek law and thus they constitute valid travel documents that all other EU Member States are obliged to accept . " In addition to being equivalent to passports within the European Economic Area , Greek ID cards are the principal means of identification of voters during elections .</context>
+    </instance>
+    <instance id="Identity_document-card-15-368-1" docsrc="Identity_document">
+      <context> They are currently being replaced by grey plastic cards with a chip , called Cartão <head>de</head> Cidadão ( Citizen 's Card ) , which now incorporate NIF ( Tax Number ) , Cartão de Utente ( Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued . The new Citizen 's Card is technologically more advanced than the former Identity Card and has the following characteristics : From the physical point of view the Citizen 's Card will have a ' smart card ' format and will replace the existing Identity Card , taxpayer card , Social Security card , voter 's card and National Health Service user 's card .</context>
+    </instance>
+    <instance id="Identity_document-card-15-44-2" docsrc="Identity_document">
+      <context> Companies and government departments may issue ID cards for security purposes or proof of a <head>qualification</head> . For example , all taxicab drivers in the UK carry ID cards . Managers , supervisors , and operatives in construction in the UK have a photographic ID card , the CSCS ( Construction Skills Certification Scheme ) card , indicating training and skills including safety training .</context>
+    </instance>
+    <instance id="Identity_document-card-15-493-5" docsrc="Identity_document">
+      <context> The back shows marital status , religious affiliation , the region of the country of <head>origin</head> , and the date of issue of the card . On February 2 , 2010 the European Court of Human Rights ruled in a 6 to 1 vote that the religious affiliation section of the Turkish identity card violated articles 6 , 9 , and 12 of the European Convention of Human Rights , to which Turkey is a signatory . The ruling should coerce the Turkish government to completely omit religious affiliation on future identity cards .</context>
+    </instance>
+    <instance id="Identity_document-card-15-562-1" docsrc="Identity_document">
+      <context> It can commonly be used for personal identification for various purposes such as obtaining various <head>government</head> permits and documentation ( for example , passport or tax file number ) as well as for opening bank accounts or applying for credit cards . It is the de facto identity card in Australia . For people who do not drive , the road authorities will issue a " Photo Card " , also called " Proof of Age Card " .</context>
+    </instance>
+    <instance id="Identity_document-card-16-189-2" docsrc="Identity_document">
+      <context> Every citizen of South Korea over the age 17 is issued an ID card called Jumindeungrokjeung <head>(</head> 주민등록증 ) and required to carry it always . A small fine can be charged if one does n't carry it . It has had several changes in its history , the most recent form is a plastic card meeting the ISO 7810 standard .</context>
+    </instance>
+    <instance id="Identity_document-card-16-213-1" docsrc="Identity_document">
+      <context> The purpose of the card is to prove and identify the holder 's identity , for <head>receiving</head> government services and other entitlements . ==== United Arab Emirates ==== Emirates Identity Authority is responsible for the processing of residents and nationals for the mandatory identity card and population register in the United Arab Emirates .</context>
+    </instance>
+    <instance id="Identity_document-card-16-320-2" docsrc="Identity_document">
+      <context> Other valid documents are the passport ( blue colored or red colored with RFID chip ) <head>and</head> the driver 's license ; an individual is required to have at least one of them on hand all the time . The Personal Identity Card is mandatory to vote in state elections or open a bank account in the country . ID cards are issued to permanent residents of Hungary ; if a foreign citizen , the card has a different color .</context>
+    </instance>
+    <instance id="Identity_document-card-16-354-1" docsrc="Identity_document">
+      <context> Passports/national ID cards of members of other E.E.A. countries For the purpose of identification in public <head>(</head> but not for other purposes ) , also a Dutch driving license often may serve as an identity document . In the Caribbean Netherlands , the Dutch Identity Card is not valid ; and the Identity card BES is an obligatory document for all residents .</context>
+    </instance>
+    <instance id="Identity_document-card-16-441-2" docsrc="Identity_document">
+      <context> ===== Bosnia and Herzegovina ===== Bosnia and Herzegovina allows every person over the age of 15 <head>to</head> apply for an ID card , and all citizens over the age of 18 must have the national ID card with them at all times .</context>
+    </instance>
+    <instance id="Identity_document-card-16-501-3" docsrc="Identity_document">
+      <context> The Canadian passport is issued by the federal ( national ) government , and the provinces <head>and</head> territories issue various documents which can be used for identification purposes . The most commonly used forms of identification within Canada are the driver 's licence and health care cards issued by provincial and territorial governments . The widespread usage of these two documents for identification purposes has made them de facto identity cards .</context>
+    </instance>
+    <instance id="Identity_document-card-16-511-1" docsrc="Identity_document">
+      <context> Each card has a unique number composed of nine numerical digits , the first of them <head>being</head> the province where the citizen was born ( with other significance in special cases such as granted citizenship to foreigners , adopted persons or in rare cases with old people where no birth certificate was processed at birth ) ; after this digit , two blocks of four digits follow ; the combination corresponds to the unique identifier of the citizen . The matrix code is not currently being used nor inspected by any kind of scanner . Besides this identification card , every vehicle driver must carry a driving licence , an additional card that uses the same identification number as the ID card ( Cédula de Identidad ) for the driving license number .</context>
+    </instance>
+    <instance id="Identity_document-card-16-62-1" docsrc="Identity_document">
+      <context> Registering as a taxpayer Egyptian ID cards consist of 14 digits , the national identity number <head>,</head> and expire after 7 years from the date of issue . Some feel that Egyptian ID cards are problematic , due to the general poor quality of card holders ' photographs and the compulsory requirements for ID card holders to identify their religion and for married women to use their husband 's surname .</context>
+    </instance>
+    <instance id="Identity_document-card-16-69-2" docsrc="Identity_document">
+      <context> ==== Gambia , The ==== All Gambian citizens over 18 years of age are required to <head>hold</head> a Gambian National Identity Card .</context>
+    </instance>
+    <instance id="Identity_document-card-16-81-1" docsrc="Identity_document">
+      <context> Nigeria ==== ==== South Africa ==== South African citizens aged 15 years and 6 months or <head>older</head> are eligible for an ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-17-244-3" docsrc="Identity_document">
+      <context> All persons over the age of 16 must have an Identity Card and carry it at all <head>times</head> . Refusal to carry or produce an Identity Card to a police officer can lead to a fine of 100 kuna or more and detention until the individual 's identity can be verified by fingerprints . The 2013 design of the Croatian ID card is prepared for future installation of an Electronic identity card chip , which is set for implementation in 2014 .</context>
+    </instance>
+    <instance id="Identity_document-card-17-357-2" docsrc="Identity_document">
+      <context> ===== Poland ===== Every Polish citizen 18 years of age or older residing permanently in Poland must <head>have</head> an Identity Card ( Dowód osobisty ) issued by the local Office of Civic Affairs .</context>
+    </instance>
+    <instance id="Identity_document-card-17-370-1" docsrc="Identity_document">
+      <context> From the physical point of view the Citizen 's Card will have a ' smart card ' <head>format</head> and will replace the existing Identity Card , taxpayer card , Social Security card , voter 's card and National Health Service user 's card . From the visual point of view the front of the card will display the holder 's photograph and basic personal details . The back will list the numbers under which the holder is registered with the different bodies whose cards the Citizen 's Card combines and replaces .</context>
+    </instance>
+    <instance id="Identity_document-card-17-431-2" docsrc="Identity_document">
+      <context> ===== Albania ===== From January 12 , 2009 the Government of Albania is issuing a compulsory electronic <head>and</head> biometric ID Card ( Letërnjoftim ) for its citizens .</context>
+    </instance>
+    <instance id="Identity_document-card-17-501-2" docsrc="Identity_document">
+      <context> In Canada , different forms of identification documentation are used , but there is no de jure <head>national</head> identity card . The Canadian passport is issued by the federal ( national ) government , and the provinces and territories issue various documents which can be used for identification purposes . The most commonly used forms of identification within Canada are the driver 's licence and health care cards issued by provincial and territorial governments .</context>
+    </instance>
+    <instance id="Identity_document-card-17-569-2" docsrc="Identity_document">
+      <context> Legal forms of identification are used mainly for buying alcohol and cigarettes where the purchaser looks younger <head>than</head> 25 and entry to nightclubs . They can also be required for the purchase of spray paint and glues , and for some bank transactions . Forms of legal identification are New Zealand and overseas passports , New Zealand Driving Licences and 18+ cards from the Hospitality Association of New Zealand .</context>
+    </instance>
+    <instance id="Identity_document-card-17-73-2" docsrc="Identity_document">
+      <context> ==== Mauritius ==== Mauritius requires all citizens who have reached the age of 18 to apply for <head>a</head> National Identity Card .</context>
+    </instance>
+    <instance id="Identity_document-card-18-0-1" docsrc="Identity_document">
+      <context> An identity document ( also called a piece of identification or ID , or colloquially as papers ) <head>is</head> any document which may be used to identify a person or verify aspects of a person 's personal identity . If issued in a small , standard credit card size form , it is usually called an identity card ( IC or ID card ) .</context>
+    </instance>
+    <instance id="Identity_document-card-18-15-2" docsrc="Identity_document">
+      <context> There is debate in these countries about whether such cards and their centralised database would constitute an infringement <head>of</head> privacy and civil liberties . Most criticism is directed towards the enhanced possibilities of extensive abuse of centralised and comprehensive databases storing sensitive data . A 2006 survey of UK Open University students concluded that the planned compulsory identity card under the Identity Cards Act 2006 coupled with a central government database generated the most negative attitudinal response among several alternative configurations .</context>
+    </instance>
+    <instance id="Identity_document-card-18-29-1" docsrc="Identity_document">
+      <context> Arguments against identity documents as such : The development and administration costs of an identity card system can <head>be</head> very high . Figures from GBP30 ( USD45 ) to GBP90 or even higher were suggested for the abandoned UK ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-18-293-2" docsrc="Identity_document">
+      <context> ===== Germany ===== It is compulsory for all German citizens aged 16 or older to possess either a <head>Personalausweis</head> ( identity card ) or a passport but not to carry one .</context>
+    </instance>
+    <instance id="Identity_document-card-18-327-1" docsrc="Identity_document">
+      <context> Except for a brief period during the second world war when the Irish Department of External Affairs issued <head>ID</head> Cards to those wishing to travel to the UK , , Ireland has never issued national identity cards as such . Identity documentation is optional for Irish and British citizens . Passport booklets , passport cards , driver 's licenses , GNIB Registration Certificates and other forms of identity cards can be used for identification .</context>
+    </instance>
+    <instance id="Identity_document-card-18-378-1" docsrc="Identity_document">
+      <context> Its validity extends for up to 1 year . Other forms of officially accepted identification include the driver <head>'s</head> license and the birth certificate . However , these are accepted only in limited circumstances and can not take the place of the ID Card in most cases .</context>
+    </instance>
+    <instance id="Identity_document-card-18-592-2" docsrc="Identity_document">
+      <context> ==== Chile ==== Every resident of Chile over the age of 18 must have and carry at all <head>times</head> their ID Card called Cédula de Identidad issued by the Civil Registry and Identification Service .</context>
+    </instance>
+    <instance id="Identity_document-card-19-114-2" docsrc="Identity_document">
+      <context> ==== China ==== The People 's Republic of China requires each of its citizens aged 16 and over to <head>carry</head> an identity card .</context>
+    </instance>
+    <instance id="Identity_document-card-19-23-1" docsrc="Identity_document">
+      <context> Arguments for national identity documents : If using only private alternatives , such as id cards issued by banks <head>,</head> the inherent lack of consistency regarding issuance policies can lead to downstream problems . For example , in Sweden private companies such as banks ( citing security reasons ) refused to issue ID cards to individuals without a Swedish card .</context>
+    </instance>
+    <instance id="Identity_document-card-19-326-1" docsrc="Identity_document">
+      <context> Ireland ===== Ireland does not issue national identity cards as such . Except for a brief period during the <head>second</head> world war when the Irish Department of External Affairs issued ID Cards to those wishing to travel to the UK , , Ireland has never issued national identity cards as such .</context>
+    </instance>
+    <instance id="Identity_document-card-19-500-2" docsrc="Identity_document">
+      <context> ==== Canada ==== In Canada , different forms of identification documentation are used , but there is no de <head>jure</head> national identity card .</context>
+    </instance>
+    <instance id="Identity_document-card-19-512-2" docsrc="Identity_document">
+      <context> Besides this identification card , every vehicle driver must carry a driving licence , an additional card that uses <head>the</head> same identification number as the ID card ( Cédula de Identidad ) for the driving license number . A passport is also issued with the same identification number used in the ID card . The same situation occurs with the Social Security number ; it is the same number used for the ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-19-534-1" docsrc="Identity_document">
+      <context> Most companies ask for a prospective employee 's CURP , voting card , or passport rather than birth certificates <head>.</head> On February 13 , 2009 the Mexican government designated the state of Tamaulipas to start procedures for issuing a pilot program of the national Mexican ID card . Although the CURP is the de jure official identification document in Mexico , the Instituto Nacional Electoral 's voting card is the de facto official identification and proof of legal age for citizens of ages 18 and older .</context>
+    </instance>
+    <instance id="Identity_document-card-19-564-1" docsrc="Identity_document">
+      <context> In some states , like New South Wales , Photo Card can be only issued to people who do <head>not</head> have a driver licence , but in some states , like Queensland , it can be issued to people who have a driver licence as another type of identity . Identification indicating age is commonly required to purchase alcohol and tobacco and to enter nightclubs and gambling venues . For those persons over 18 who do not have a driver licence or passport , State governments provide 18+ Cards as proof of age .</context>
+    </instance>
+    <instance id="Identity_document-card-2-202-1" docsrc="Identity_document">
+      <context> Taiwan ==== <head>The</head> " National Identification Card " ( Chinese : 國民身分證 ) is issued to all nationals of the Republic of China ( Official name of Taiwan ) aged 14 and older who have household registration in the Taiwan area . The Identification Card is used for virtually all activities that require identity verification within Taiwan such as opening bank accounts , renting apartments , employment applications and voting .</context>
+    </instance>
+    <instance id="Identity_document-card-2-202-2" docsrc="Identity_document">
+      <context> The " <head>National</head> Identification Card " ( Chinese : 國民身分證 ) is issued to all nationals of the Republic of China ( Official name of Taiwan ) aged 14 and older who have household registration in the Taiwan area . The Identification Card is used for virtually all activities that require identity verification within Taiwan such as opening bank accounts , renting apartments , employment applications and voting . The Identification Card contains the holder 's photo , ID number , Chinese name , and ( Minguo calendar ) date of birth .</context>
+    </instance>
+    <instance id="Identity_document-card-2-253-1" docsrc="Identity_document">
+      <context> On 29 <head>January</head> 2015 , it was announced that all future IDs to be issued will be biometric . ===== Czech Republic ===== An identity card with a photo is issued to all citizens of the Czech Republic at the age of 15 .</context>
+    </instance>
+    <instance id="Identity_document-card-2-316-2" docsrc="Identity_document">
+      <context> ===== Hungary <head>=====</head> The plastic card shows the owners full name , maiden name if applicable , birth date and place , mother 's maiden name , the cardholder 's gender , the ID 's validity period and the local state authority which issued the card .</context>
+    </instance>
+    <instance id="Identity_document-card-2-349-1" docsrc="Identity_document">
+      <context> Official identity <head>documents</head> for residents in the Netherlands are : Dutch passport Dutch identity card</context>
+    </instance>
+    <instance id="Identity_document-card-2-352-1" docsrc="Identity_document">
+      <context> Alien 's <head>Residence</head> permit Geprivilegieerdenkaart ( amongst others for the corps diplomatique and their family members ) Passports/national ID cards of members of other E.E.A. countries</context>
+    </instance>
+    <instance id="Identity_document-card-2-376-4" docsrc="Identity_document">
+      <context> It has <head>to</head> be renewed every 10 years . It can be used instead of a passport for travel inside the European Union and several other countries outside the EU. Another ID Card is the Provisional ID Card ( Cartea de Identitate Provizorie ) issued temporarily when an individual can not get a normal ID Card .</context>
+    </instance>
+    <instance id="Identity_document-card-2-378-2" docsrc="Identity_document">
+      <context> Other forms <head>of</head> officially accepted identification include the driver 's license and the birth certificate . However , these are accepted only in limited circumstances and can not take the place of the ID Card in most cases . The ID Card is mandatory for dealing with government institutions , banks or currency exchange shops .</context>
+    </instance>
+    <instance id="Identity_document-card-2-461-2" docsrc="Identity_document">
+      <context> ===== Monaco <head>=====</head> Monégasque identity cards are issued to Monégasque citizens and can be used for travel within the Schengen Area .</context>
+    </instance>
+    <instance id="Identity_document-card-2-547-1" docsrc="Identity_document">
+      <context> The US <head>passport</head> verifies both personal identity and citizenship , but is not mandatory for citizens to possess within the country and is issued by the US State Department on a discretionary basis . U.S. Citizenship and Immigration Services has indicated that the U.S. Passport Card may be used in the Employment Eligibility Verification Form I-9 ( form ) process . The passport card is considered a “ List A ” document that may be presented by newly hired employees during the employment eligibility verification process to show work authorized status .</context>
+    </instance>
+    <instance id="Identity_document-card-2-547-3" docsrc="Identity_document">
+      <context> The passport <head>card</head> is considered a “ List A ” document that may be presented by newly hired employees during the employment eligibility verification process to show work authorized status . “ List A ” documents are those used by employees to prove both identity and work authorization when completing the Form I-9 . The passport card can be used as a valid proof of citizenship and proof of identity both inside and outside the United States .</context>
+    </instance>
+    <instance id="Identity_document-card-2-559-2" docsrc="Identity_document">
+      <context> Australia does <head>not</head> have an identity card . There have been two proposals to introduce ID cards for tax and social security access in Australia : The Australia Card in 1985 by the Hawke Labor Government and the Health and Social Services Access Card in 2006 by the Howard Liberal Government . Although neither card would have been an official compulsory ID card , they were both criticised as leading to de facto ID cards .</context>
+    </instance>
+    <instance id="Identity_document-card-2-60-1" docsrc="Identity_document">
+      <context> Registering to <head>vote</head> , and voting in elections Registering as a taxpayer Egyptian ID cards consist of 14 digits , the national identity number , and expire after 7 years from the date of issue .</context>
+    </instance>
+    <instance id="Identity_document-card-2-633-1" docsrc="Identity_document">
+      <context> Home Return <head>Permit</head> ID card printer Magnetic stripe card</context>
+    </instance>
+    <instance id="Identity_document-card-20-121-1" docsrc="Identity_document">
+      <context> ==== Hong Kong ==== The Hong Kong Identity Card ( or HKID ) is an official identity document issued by <head>the</head> Immigration Department of Hong Kong to all people who hold the right of abode , right to land or other forms of limited stay longer than 180 days in Hong Kong . According to Basic Law of Hong Kong , all permanent residents are eligible to obtain the Hong Kong Permanent Identity Card which states that the holder has the right of abode in Hong Kong .</context>
+    </instance>
+    <instance id="Identity_document-card-20-310-1" docsrc="Identity_document">
+      <context> Fields included in previous ID card formats , such as vocation or profession , religious denomination , domiciliary address , <head>name</head> and surname of spouse , fingerprint , eye and hair color , citizenship and ethnicity were removed permanently as being intrusive of personal data and/or superfluous for the sole purpose of personal identification . Since 2000 , name fields have been filled in both Greek and Latin characters . According to the Signpost Service of the European Commission [ reply to Enquiry 36581 ] , old type Greek ID cards " are as valid as the new type according to Greek law and thus they constitute valid travel documents that all other EU Member States are obliged to accept . "</context>
+    </instance>
+    <instance id="Identity_document-card-20-365-1" docsrc="Identity_document">
+      <context> They are not required to carry with them always but are obligated to present them to the lawful authorities if <head>requested</head> . The old format of the cards ( yellow laminated paper document ) featured a portrait of the bearer , their fingerprint , and the name of parents , among other information . They are currently being replaced by grey plastic cards with a chip , called Cartão de Cidadão ( Citizen 's Card ) , which now incorporate NIF ( Tax Number ) , Cartão de Utente ( Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued .</context>
+    </instance>
+    <instance id="Identity_document-card-20-473-1" docsrc="Identity_document">
+      <context> But there are rules requiring it for services like banking , air travel and voting ( where personal recognition or <head>other</head> identification methods have not been possible ) . The following documents are generally considered valid ( varying a little , since no law lists them ) : Nordic driving licence , passport ( often only from EU and EFTA ) , national id card from EU , Norwegian ID card from banks and some more . There is no ID card for anyone except bank ID card ( normally printed on the reverse of a credit card ) .</context>
+    </instance>
+    <instance id="Identity_document-card-20-559-1" docsrc="Identity_document">
+      <context> Australia ==== Australia does not have an identity card . There have been two proposals to introduce ID cards for <head>tax</head> and social security access in Australia : The Australia Card in 1985 by the Hawke Labor Government and the Health and Social Services Access Card in 2006 by the Howard Liberal Government .</context>
+    </instance>
+    <instance id="Identity_document-card-21-111-2" docsrc="Identity_document">
+      <context> Biometric identification has existed in Bangladesh since 2008 . All Bangladeshis who are 18 years of age and older are included <head>in</head> a central Biometric Database , which is used by the Bangladesh Election Commission to oversee the electoral procedure in Bangladesh . All Bangladeshis are issued with an NID Card which can be used to obtain a passport , Driving Licence , credit card , and to register land ownership .</context>
+    </instance>
+    <instance id="Identity_document-card-21-262-1" docsrc="Identity_document">
+      <context> A foreigner living in Denmark will have a residence permit with their personal identification number and a photo . In Denmark <head>,</head> since 2004 , counties have issued a " photo identity card " ( Danish : billedlegitimationskort ) , which can be used as age verification , but it is limited for identification purposes because of limited security for issuing , and it is not valid for EU travel . Until 2004 , the national debit card Dankort contained a photo of the holder and was widely accepted as an identity card .</context>
+    </instance>
+    <instance id="Identity_document-card-21-370-1" docsrc="Identity_document">
+      <context> From the physical point of view the Citizen 's Card will have a ' smart card ' format and will replace <head>the</head> existing Identity Card , taxpayer card , Social Security card , voter 's card and National Health Service user 's card . From the visual point of view the front of the card will display the holder 's photograph and basic personal details . The back will list the numbers under which the holder is registered with the different bodies whose cards the Citizen 's Card combines and replaces .</context>
+    </instance>
+    <instance id="Identity_document-card-21-381-2" docsrc="Identity_document">
+      <context> The information on the ID Card is required to be kept updated by the owner ; current address of domicile in <head>particular</head> . Doing otherwise can expose the citizen to certain fines or be denied service by those institutions that require a valid , up to date Card . In spite of this , it is common for people to let the information lapse or go around with expired ID Cards .</context>
+    </instance>
+    <instance id="Identity_document-card-21-44-4" docsrc="Identity_document">
+      <context> Managers , supervisors , and operatives in construction in the UK have a photographic ID card , the CSCS ( Construction <head>Skills</head> Certification Scheme ) card , indicating training and skills including safety training . Those working on UK railway lands near working lines must carry a photographic ID card to indicate training in track safety ( PTS and other cards ) possession of which is dependent on periodic and random alcohol and drug screening . In Queensland and Western Australia , anyone working with children has to take a background check and get issued a Blue Card or Working with Children Card , respectively .</context>
+    </instance>
+    <instance id="Identity_document-card-21-474-3" docsrc="Identity_document">
+      <context> The plan started in 2007 and has been delayed several times and is now scheduled for 2016 . Banks are campaigning <head>to</head> be freed from the task of issuing ID cards , stating that it should be the responsibility of state authorities . Some banks have already ceased issuing ID cards , so people need to bring their passport for such things as credit card purchases or buying prescribed medication if not in possession of a driving licence .</context>
+    </instance>
+    <instance id="Identity_document-card-21-539-1" docsrc="Identity_document">
+      <context> On July 28 , 2009 Mexican President Felipe Calderón , facing the Mexican House of Representatives , announced the launch of <head>the</head> Mexican national Identity card project , which will see the first card issued before the end of 2009 . ==== United States ==== For most people , driver 's licenses issued by the respective state and territorial governments have become the de facto identity cards , and are used for many identification purposes , such as when purchasing alcohol and tobacco , opening bank accounts , and boarding planes , along with confirming a voter 's identity in states with voter photo identification initiatives .</context>
+    </instance>
+    <instance id="Identity_document-card-21-588-4" docsrc="Identity_document">
+      <context> ID cards must be carried at all times and must be presented to the police or military upon request . If <head>the</head> individual fails to present the ID card upon request by the police or the military , he/she is most likely going to be detained for 24 hours at police station even if he/she is not a suspect of any wrongdoing . ID cards are needed to obtain employment , open bank accounts , obtain a passport , driver 's license , military card , to enroll in educational institutions , vote or enter public buildings including airports and courthouses .</context>
+    </instance>
+    <instance id="Identity_document-card-22-146-2" docsrc="Identity_document">
+      <context> ==== Israel ==== Israeli law requires every permanent resident above the age of 16 , whether a citizen or not , to <head>carry</head> an identification card called te'udat zehut ( Hebrew : תעודת זהות‎‎ ) in Hebrew or biţāqat huwīya ( بطاقة هوية ) in Arabic .</context>
+    </instance>
+    <instance id="Identity_document-card-22-306-2" docsrc="Identity_document">
+      <context> ===== Greece ===== A compulsory , universal ID system based on personal ID cards has been in place in Greece since World <head>War</head> II. ID cards are issued by the police on behalf of the Headquarters of the Police ( previously issued by the Ministry of Public Order , now incorporated in the Ministry of Internal Affairs ) and display the holder 's signature , standardized face photograph , name and surname , father 's name and surname , mother 's name and maiden surname , date and place of birth , height , municipality , and the issuing police precinct .</context>
+    </instance>
+    <instance id="Identity_document-card-22-559-2" docsrc="Identity_document">
+      <context> Australia does not have an identity card . There have been two proposals to introduce ID cards for tax and social security <head>access</head> in Australia : The Australia Card in 1985 by the Hawke Labor Government and the Health and Social Services Access Card in 2006 by the Howard Liberal Government . Although neither card would have been an official compulsory ID card , they were both criticised as leading to de facto ID cards .</context>
+    </instance>
+    <instance id="Identity_document-card-23-0-1" docsrc="Identity_document">
+      <context> An identity document ( also called a piece of identification or ID , or colloquially as papers ) is any document which may <head>be</head> used to identify a person or verify aspects of a person 's personal identity . If issued in a small , standard credit card size form , it is usually called an identity card ( IC or ID card ) .</context>
+    </instance>
+    <instance id="Identity_document-card-23-189-6" docsrc="Identity_document">
+      <context> A hologram technology is applied for the purpose of hampering forgery . This card has no additional features used to identify the holder <head>except</head> comparing the photo and a holder 's face . Other than this card , the South Korean Government accepts a driver 's license card , a passport and a public officer ID card as an official ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-23-312-3" docsrc="Identity_document">
+      <context> For instance , it is required to perform banking transactions if the teller personnel is unfamiliar with the apparent account holder , to <head>interact</head> with the Citizen Service Bureaus ( KEP ) , receive parcels or registered mail etc . Citizens are also required to produce their ID card at the request of law enforcement personnel . All the above functions can be fulfilled also with a valid Greek passport ( e.g. , for people who have lost their ID card and have not yet applied for a new one , people who happen to carry their passport instead of their ID card or Greeks who reside abroad and do not have an identity card , which can be issued only in Greece in contrast to passports also issued by consular authorities abroad ) .</context>
+    </instance>
+    <instance id="Identity_document-card-23-550-4" docsrc="Identity_document">
+      <context> SSNs do not establish citizenship because they can also be issued to permanent residents as well as citizens . They typically can only <head>be</head> part of the establishment of a person 's identity ; a photo ID that verifies date of birth is also usually requested . The Selective Service System has in the past , in times of a military draft , issued something close to an National ID Card , only for men that were eligible for the draft .</context>
+    </instance>
+    <instance id="Identity_document-card-24-15-4" docsrc="Identity_document">
+      <context> A 2006 survey of UK Open University students concluded that the planned compulsory identity card under the Identity Cards Act 2006 coupled with a <head>central</head> government database generated the most negative attitudinal response among several alternative configurations . None of the countries listed above mandate possession of identity documents , but they have de facto equivalents since these countries still require proof of identity in many situations . For example , all vehicle drivers must have a driving licence , and young people may need to use specially issued proof of age cards when purchasing alcohol .</context>
+    </instance>
+    <instance id="Identity_document-card-24-192-1" docsrc="Identity_document">
+      <context> Other than this card , the South Korean Government accepts a driver 's license card , a passport and a public officer ID card <head>as</head> an official ID card . ==== Sri Lanka ==== Sri Lanka is in the process of developing a Smart Card based RFID NIC card which will replace the obsolete ' laminated type ' cards by storing the holders information on a chip that can be read by banks , offices , etc . , thereby reducing the need to have documentation of these data physically by storing in the cloud .</context>
+    </instance>
+    <instance id="Identity_document-card-24-205-1" docsrc="Identity_document">
+      <context> The back of the card also contains the person 's registered address where official correspondence is sent , place of birth , and the <head>names</head> of parents and spouse . ROC nationals with household registration in Taiwan are known as " registered nationals " . ROC nationals who do not have household registration in Taiwan ( known as " unregistered nationals " ) do not qualify for the Identification Card and its associated privileges ( e.g. , the right to vote and the right of abode in Taiwan ) , but qualify for the Republic of China passport , which unlike the Identification Card , is not indicative of residency rights in Taiwan .</context>
+    </instance>
+    <instance id="Identity_document-card-24-368-1" docsrc="Identity_document">
+      <context> They are currently being replaced by grey plastic cards with a chip , called Cartão de Cidadão ( Citizen 's Card ) , which <head>now</head> incorporate NIF ( Tax Number ) , Cartão de Utente ( Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued . The new Citizen 's Card is technologically more advanced than the former Identity Card and has the following characteristics : From the physical point of view the Citizen 's Card will have a ' smart card ' format and will replace the existing Identity Card , taxpayer card , Social Security card , voter 's card and National Health Service user 's card .</context>
+    </instance>
+    <instance id="Identity_document-card-24-381-1" docsrc="Identity_document">
+      <context> Presenting the ID Card is preferred but not mandatory when asked by police officers ; however , in such cases people are expected to <head>provide</head> a CNP or alternate means of identification which can be checked on the spot ( via radio if needed ) . The information on the ID Card is required to be kept updated by the owner ; current address of domicile in particular . Doing otherwise can expose the citizen to certain fines or be denied service by those institutions that require a valid , up to date Card .</context>
+    </instance>
+    <instance id="Identity_document-card-24-493-3" docsrc="Identity_document">
+      <context> Cards for males and females have a different colour . The front shows the first and last name of the holder , first names <head>of</head> both parents , birth date and place , and an 11 digit ID number . The back shows marital status , religious affiliation , the region of the country of origin , and the date of issue of the card .</context>
+    </instance>
+    <instance id="Identity_document-card-24-562-1" docsrc="Identity_document">
+      <context> It can commonly be used for personal identification for various purposes such as obtaining various government permits and documentation ( for example , passport <head>or</head> tax file number ) as well as for opening bank accounts or applying for credit cards . It is the de facto identity card in Australia . For people who do not drive , the road authorities will issue a " Photo Card " , also called " Proof of Age Card " .</context>
+    </instance>
+    <instance id="Identity_document-card-24-577-1" docsrc="Identity_document">
+      <context> Argentina ==== Documento Nacional de Identidad or DNI(which means National Identity Document ) is the main identity document for Argentine citizens . It is <head>issued</head> at a person 's birth , and updated at 8 and 14 years of age simultaneously in one format : a card ( DNI tarjeta ) ; it is valid if identification is required , and is required for voting .</context>
+    </instance>
+    <instance id="Identity_document-card-25-23-1" docsrc="Identity_document">
+      <context> Arguments for national identity documents : If using only private alternatives , such as id cards issued by banks , the inherent lack of consistency <head>regarding</head> issuance policies can lead to downstream problems . For example , in Sweden private companies such as banks ( citing security reasons ) refused to issue ID cards to individuals without a Swedish card .</context>
+    </instance>
+    <instance id="Identity_document-card-25-376-4" docsrc="Identity_document">
+      <context> It has to be renewed every 10 years . It can be used instead of a passport for travel inside the European Union and several <head>other</head> countries outside the EU. Another ID Card is the Provisional ID Card ( Cartea de Identitate Provizorie ) issued temporarily when an individual can not get a normal ID Card .</context>
+    </instance>
+    <instance id="Identity_document-card-25-44-2" docsrc="Identity_document">
+      <context> Companies and government departments may issue ID cards for security purposes or proof of a qualification . For example , all taxicab drivers in the <head>UK</head> carry ID cards . Managers , supervisors , and operatives in construction in the UK have a photographic ID card , the CSCS ( Construction Skills Certification Scheme ) card , indicating training and skills including safety training .</context>
+    </instance>
+    <instance id="Identity_document-card-25-44-3" docsrc="Identity_document">
+      <context> For example , all taxicab drivers in the UK carry ID cards . Managers , supervisors , and operatives in construction in the UK have <head>a</head> photographic ID card , the CSCS ( Construction Skills Certification Scheme ) card , indicating training and skills including safety training . Those working on UK railway lands near working lines must carry a photographic ID card to indicate training in track safety ( PTS and other cards ) possession of which is dependent on periodic and random alcohol and drug screening .</context>
+    </instance>
+    <instance id="Identity_document-card-25-503-1" docsrc="Identity_document">
+      <context> The bearer is required by law to keep the address up to date . A few provinces , such as Québec and Ontario , issue <head>provincial</head> health care cards which contain identification information , such as a photo of the bearer , their home address , and their date of birth . British Columbia and Ontario are among the provinces that produce photo identification cards for individuals who do not possess a driving licence , with the cards containing the bearer 's photo , home address , and date of birth .</context>
+    </instance>
+    <instance id="Identity_document-card-25-535-1" docsrc="Identity_document">
+      <context> On February 13 , 2009 the Mexican government designated the state of Tamaulipas to start procedures for issuing a pilot program of the national Mexican <head>ID</head> card . Although the CURP is the de jure official identification document in Mexico , the Instituto Nacional Electoral 's voting card is the de facto official identification and proof of legal age for citizens of ages 18 and older . On July 28 , 2009 Mexican President Felipe Calderón , facing the Mexican House of Representatives , announced the launch of the Mexican national Identity card project , which will see the first card issued before the end of 2009 .</context>
+    </instance>
+    <instance id="Identity_document-card-25-74-2" docsrc="Identity_document">
+      <context> Mauritius requires all citizens who have reached the age of 18 to apply for a National Identity Card . The National Identity Card is one <head>of</head> the few accepted forms of identification , along with passports . A National Identity Card is needed to apply for a passport for all adults , and all minors must take with them the National Identity Card of a parent when applying for a passport .</context>
+    </instance>
+    <instance id="Identity_document-card-26-310-3" docsrc="Identity_document">
+      <context> According to the Signpost Service of the European Commission [ reply to Enquiry 36581 ] , old type Greek ID cards " are as valid as <head>the</head> new type according to Greek law and thus they constitute valid travel documents that all other EU Member States are obliged to accept . " In addition to being equivalent to passports within the European Economic Area , Greek ID cards are the principal means of identification of voters during elections . Since 2005 , the procedure to issue an ID card has been automated and now all citizens over 12 years of age must have an ID card , which is issued within one work day .</context>
+    </instance>
+    <instance id="Identity_document-card-26-44-4" docsrc="Identity_document">
+      <context> Managers , supervisors , and operatives in construction in the UK have a photographic ID card , the CSCS ( Construction Skills Certification Scheme ) card <head>,</head> indicating training and skills including safety training . Those working on UK railway lands near working lines must carry a photographic ID card to indicate training in track safety ( PTS and other cards ) possession of which is dependent on periodic and random alcohol and drug screening . In Queensland and Western Australia , anyone working with children has to take a background check and get issued a Blue Card or Working with Children Card , respectively .</context>
+    </instance>
+    <instance id="Identity_document-card-26-511-1" docsrc="Identity_document">
+      <context> Each card has a unique number composed of nine numerical digits , the first of them being the province where the citizen was born ( with <head>other</head> significance in special cases such as granted citizenship to foreigners , adopted persons or in rare cases with old people where no birth certificate was processed at birth ) ; after this digit , two blocks of four digits follow ; the combination corresponds to the unique identifier of the citizen . The matrix code is not currently being used nor inspected by any kind of scanner . Besides this identification card , every vehicle driver must carry a driving licence , an additional card that uses the same identification number as the ID card ( Cédula de Identidad ) for the driving license number .</context>
+    </instance>
+    <instance id="Identity_document-card-26-532-2" docsrc="Identity_document">
+      <context> Most adults need the CURP code too , since it is required for almost all governmental paperwork like tax filings and passport applications . Most companies <head>ask</head> for a prospective employee 's CURP , voting card , or passport rather than birth certificates . On February 13 , 2009 the Mexican government designated the state of Tamaulipas to start procedures for issuing a pilot program of the national Mexican ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-26-62-1" docsrc="Identity_document">
+      <context> Registering as a taxpayer Egyptian ID cards consist of 14 digits , the national identity number , and expire after 7 years from the date of <head>issue</head> . Some feel that Egyptian ID cards are problematic , due to the general poor quality of card holders ' photographs and the compulsory requirements for ID card holders to identify their religion and for married women to use their husband 's surname .</context>
+    </instance>
+    <instance id="Identity_document-card-27-368-1" docsrc="Identity_document">
+      <context> They are currently being replaced by grey plastic cards with a chip , called Cartão de Cidadão ( Citizen 's Card ) , which now incorporate NIF <head>(</head> Tax Number ) , Cartão de Utente ( Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued . The new Citizen 's Card is technologically more advanced than the former Identity Card and has the following characteristics : From the physical point of view the Citizen 's Card will have a ' smart card ' format and will replace the existing Identity Card , taxpayer card , Social Security card , voter 's card and National Health Service user 's card .</context>
+    </instance>
+    <instance id="Identity_document-card-27-493-4" docsrc="Identity_document">
+      <context> The front shows the first and last name of the holder , first names of both parents , birth date and place , and an 11 digit <head>ID</head> number . The back shows marital status , religious affiliation , the region of the country of origin , and the date of issue of the card . On February 2 , 2010 the European Court of Human Rights ruled in a 6 to 1 vote that the religious affiliation section of the Turkish identity card violated articles 6 , 9 , and 12 of the European Convention of Human Rights , to which Turkey is a signatory .</context>
+    </instance>
+    <instance id="Identity_document-card-28-189-6" docsrc="Identity_document">
+      <context> A hologram technology is applied for the purpose of hampering forgery . This card has no additional features used to identify the holder except comparing the photo and <head>a</head> holder 's face . Other than this card , the South Korean Government accepts a driver 's license card , a passport and a public officer ID card as an official ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-28-29-2" docsrc="Identity_document">
+      <context> The development and administration costs of an identity card system can be very high . Figures from GBP30 ( USD45 ) to GBP90 or even higher were suggested <head>for</head> the abandoned UK ID card . In countries like Chile the identity card is personally paid for by each person up to GBP6 ; in other countries , such as Venezuela , the ID card is free .</context>
+    </instance>
+    <instance id="Identity_document-card-28-466-2" docsrc="Identity_document">
+      <context> ===== Montenegro ===== In Montenegro every resident citizen over the age of 14 can have their Lična karta issued , and all persons over the age of 18 <head>must</head> have ID cards and carry them at all times when they are in public places .</context>
+    </instance>
+    <instance id="Identity_document-card-28-485-2" docsrc="Identity_document">
+      <context> ===== Serbia ===== In Serbia every resident citizen over the age of 10 can have their Lična karta issued , and all persons over the age of 16 <head>must</head> have ID cards and carry them at all times when they are in public places .</context>
+    </instance>
+    <instance id="Identity_document-card-3-189-6" docsrc="Identity_document">
+      <context> A hologram technology <head>is</head> applied for the purpose of hampering forgery . This card has no additional features used to identify the holder except comparing the photo and a holder 's face . Other than this card , the South Korean Government accepts a driver 's license card , a passport and a public officer ID card as an official ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-3-320-1" docsrc="Identity_document">
+      <context> They are no <head>longer</head> used as a personal identification number , but as a statistical signature . Other valid documents are the passport ( blue colored or red colored with RFID chip ) and the driver 's license ; an individual is required to have at least one of them on hand all the time . The Personal Identity Card is mandatory to vote in state elections or open a bank account in the country .</context>
+    </instance>
+    <instance id="Identity_document-card-3-336-1" docsrc="Identity_document">
+      <context> Italy ===== A <head>classic</head> Italian identity card ( now in the process of being replaced by a newer template ) has four pages , containing : Issuing municipality , card number and owner 's name and surname ;</context>
+    </instance>
+    <instance id="Identity_document-card-3-339-1" docsrc="Identity_document">
+      <context> Owner 's name <head>,</head> surname , birth date and place , citizenship , city of residence , address , civil status ( optional ) and profession ; in addition , physical features such as height , hair and eye color , and any other particular feature not visible from the photo ( e.g. , having a twin or being an amputee ) can be noted ; Photo and signature of the owner , date of issue and stamp of the issuing municipality . Expiration date and card number .</context>
+    </instance>
+    <instance id="Identity_document-card-3-378-4" docsrc="Identity_document">
+      <context> The ID Card <head>is</head> mandatory for dealing with government institutions , banks or currency exchange shops . A valid passport may also be accepted , but usually only for foreigners . Presenting the ID Card is preferred but not mandatory when asked by police officers ; however , in such cases people are expected to provide a CNP or alternate means of identification which can be checked on the spot ( via radio if needed ) .</context>
+    </instance>
+    <instance id="Identity_document-card-3-384-2" docsrc="Identity_document">
+      <context> ===== Slovakia ===== <head>The</head> Slovak ID card ( Slovak : Občiansky preukaz ) is a picture ID in Slovakia .</context>
+    </instance>
+    <instance id="Identity_document-card-3-386-2" docsrc="Identity_document">
+      <context> The Slovak ID <head>card</head> ( Slovak : Občiansky preukaz ) is a picture ID in Slovakia . It is issued to citizens of the Slovak Republic who are 15 or older . A Slovak ID card is officially recognised by all member states of the European Economic Area and Switzerland for travel .</context>
+    </instance>
+    <instance id="Identity_document-card-3-450-2" docsrc="Identity_document">
+      <context> ===== Macedonia ===== <head>The</head> Macedonian identity card ( Macedonian : Лична карта , Lična karta ) is a compulsory identity document issued in the Republic of Macedonia .</context>
+    </instance>
+    <instance id="Identity_document-card-3-455-2" docsrc="Identity_document">
+      <context> ===== Moldova ===== <head>The</head> Moldovan Identity card may be obtained by a child from his/her date of birth .</context>
+    </instance>
+    <instance id="Identity_document-card-3-511-1" docsrc="Identity_document">
+      <context> Each card has <head>a</head> unique number composed of nine numerical digits , the first of them being the province where the citizen was born ( with other significance in special cases such as granted citizenship to foreigners , adopted persons or in rare cases with old people where no birth certificate was processed at birth ) ; after this digit , two blocks of four digits follow ; the combination corresponds to the unique identifier of the citizen . The matrix code is not currently being used nor inspected by any kind of scanner . Besides this identification card , every vehicle driver must carry a driving licence , an additional card that uses the same identification number as the ID card ( Cédula de Identidad ) for the driving license number .</context>
+    </instance>
+    <instance id="Identity_document-card-3-619-2" docsrc="Identity_document">
+      <context> ==== Venezuela ==== <head>List</head> of identity card policies by country</context>
+    </instance>
+    <instance id="Identity_document-card-3-74-1" docsrc="Identity_document">
+      <context> Mauritius ==== Mauritius <head>requires</head> all citizens who have reached the age of 18 to apply for a National Identity Card . The National Identity Card is one of the few accepted forms of identification , along with passports .</context>
+    </instance>
+    <instance id="Identity_document-card-3-74-2" docsrc="Identity_document">
+      <context> Mauritius requires all <head>citizens</head> who have reached the age of 18 to apply for a National Identity Card . The National Identity Card is one of the few accepted forms of identification , along with passports . A National Identity Card is needed to apply for a passport for all adults , and all minors must take with them the National Identity Card of a parent when applying for a passport .</context>
+    </instance>
+    <instance id="Identity_document-card-31-368-1" docsrc="Identity_document">
+      <context> They are currently being replaced by grey plastic cards with a chip , called Cartão de Cidadão ( Citizen 's Card ) , which now incorporate NIF ( Tax Number ) <head>,</head> Cartão de Utente ( Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued . The new Citizen 's Card is technologically more advanced than the former Identity Card and has the following characteristics : From the physical point of view the Citizen 's Card will have a ' smart card ' format and will replace the existing Identity Card , taxpayer card , Social Security card , voter 's card and National Health Service user 's card .</context>
+    </instance>
+    <instance id="Identity_document-card-31-441-2" docsrc="Identity_document">
+      <context> ===== Bosnia and Herzegovina ===== Bosnia and Herzegovina allows every person over the age of 15 to apply for an ID card , and all citizens over the age of 18 <head>must</head> have the national ID card with them at all times .</context>
+    </instance>
+    <instance id="Identity_document-card-31-543-2" docsrc="Identity_document">
+      <context> The United States passed a bill entitled the REAL ID Act on May 11 , 2005 . The bill compels states to begin redesigning their driver 's licenses to comply with <head>federal</head> security standards by December 2009 . Federal agencies would reject licenses or identity cards that do not comply , which would force Americans accessing everything from airplanes to national parks and courthouses to have the federally mandated cards .</context>
+    </instance>
+    <instance id="Identity_document-card-33-535-1" docsrc="Identity_document">
+      <context> On February 13 , 2009 the Mexican government designated the state of Tamaulipas to start procedures for issuing a pilot program of the national Mexican ID card . Although the CURP is the <head>de</head> jure official identification document in Mexico , the Instituto Nacional Electoral 's voting card is the de facto official identification and proof of legal age for citizens of ages 18 and older . On July 28 , 2009 Mexican President Felipe Calderón , facing the Mexican House of Representatives , announced the launch of the Mexican national Identity card project , which will see the first card issued before the end of 2009 .</context>
+    </instance>
+    <instance id="Identity_document-card-33-543-5" docsrc="Identity_document">
+      <context> At airports , those not having compliant licenses or cards would simply be redirected to a secondary screening location . The REAL ID Act is highly controversial , and with 25 states have <head>approved</head> either resolutions or binding legislation not to participate in the program , and with President Obama 's selection of Janet Napolitano ( a prominent critic of the program ) to head the Department of Homeland Security , the future of the law remains uncertain , and bills have been introduced into Congress to amend or repeal it . The most recent of these , dubbed PASS ID , would eliminate many of the more burdensome technological requirements but still require states to meet federal standards in order to have their ID cards accepted by federal agencies .</context>
+    </instance>
+    <instance id="Identity_document-card-34-276-1" docsrc="Identity_document">
+      <context> It is available as an electronic ID card ( sähköinen henkilökortti/elektroniskt identitetskort ) , which enables logging into certain government services on the Internet . Driving licenses and KELA ( social security ) cards <head>with</head> a photo are also widely used for general identification purposes even though they are not officially recognized as such . However , KELA has ended the practice of issuing social security cards with the photograph of the bearer , while it has become possible to embed the social security information onto the national ID card .</context>
+    </instance>
+    <instance id="Identity_document-card-35-368-1" docsrc="Identity_document">
+      <context> They are currently being replaced by grey plastic cards with a chip , called Cartão de Cidadão ( Citizen 's Card ) , which now incorporate NIF ( Tax Number ) , Cartão de Utente <head>(</head> Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued . The new Citizen 's Card is technologically more advanced than the former Identity Card and has the following characteristics : From the physical point of view the Citizen 's Card will have a ' smart card ' format and will replace the existing Identity Card , taxpayer card , Social Security card , voter 's card and National Health Service user 's card .</context>
+    </instance>
+    <instance id="Identity_document-card-35-472-2" docsrc="Identity_document">
+      <context> In Norway there is no law penalising non possession of an identity document . But there are rules requiring it for services like banking , air travel and voting ( where personal recognition or other <head>identification</head> methods have not been possible ) . The following documents are generally considered valid ( varying a little , since no law lists them ) : Nordic driving licence , passport ( often only from EU and EFTA ) , national id card from EU , Norwegian ID card from banks and some more .</context>
+    </instance>
+    <instance id="Identity_document-card-35-559-1" docsrc="Identity_document">
+      <context> Australia ==== Australia does not have an identity card . There have been two proposals to introduce ID cards for tax and social security access in Australia : The Australia Card in 1985 by the <head>Hawke</head> Labor Government and the Health and Social Services Access Card in 2006 by the Howard Liberal Government .</context>
+    </instance>
+    <instance id="Identity_document-card-36-326-1" docsrc="Identity_document">
+      <context> Ireland ===== Ireland does not issue national identity cards as such . Except for a brief period during the second world war when the Irish Department of External Affairs issued ID Cards to those wishing to <head>travel</head> to the UK , , Ireland has never issued national identity cards as such .</context>
+    </instance>
+    <instance id="Identity_document-card-37-230-2" docsrc="Identity_document">
+      <context> ===== Belgium ===== In Belgium , everyone above the age of 12 is issued an identity card ( carte d'identité in French , identiteitskaart in Dutch and Personalausweis in German ) , and from the age of <head>15</head> carrying this card at all times is mandatory .</context>
+    </instance>
+    <instance id="Identity_document-card-37-302-2" docsrc="Identity_document">
+      <context> In 1993 the cardboard ID card was replaced with a laminated version . However , although valid as a travel document to the UK , they were not accepted by Spain . A new version in an <head>EU</head> compliant format was issued and is valid for use around the EU although as very few are seen there are sometimes problems in its use , even in the UK. ID cards are needed for some financial transactions , but apart from that and to cross the frontier with Spain , they are not in common use .</context>
+    </instance>
+    <instance id="Identity_document-card-37-365-1" docsrc="Identity_document">
+      <context> They are not required to carry with them always but are obligated to present them to the lawful authorities if requested . The old format of the cards ( yellow laminated paper document ) featured a portrait <head>of</head> the bearer , their fingerprint , and the name of parents , among other information . They are currently being replaced by grey plastic cards with a chip , called Cartão de Cidadão ( Citizen 's Card ) , which now incorporate NIF ( Tax Number ) , Cartão de Utente ( Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued .</context>
+    </instance>
+    <instance id="Identity_document-card-37-580-2" docsrc="Identity_document">
+      <context> ==== Brazil ==== There are plans in course to replace the current RG system with a new Registro de Identidade Civil ( Civilian Identity Registry ) , which will be national in scope , and to change <head>the</head> current ID card with a new smartcard .</context>
+    </instance>
+    <instance id="Identity_document-card-38-2-2" docsrc="Identity_document">
+      <context> The identity document is used to connect a person to information about the person , often in a database . The photo and the possession of it is used to connect the person with the document . The <head>connection</head> between the identity document and information database is based on personal information present on the document , such as the bearer 's full name , age , birth date , address , an identification number , card number , gender , citizenship and more .</context>
+    </instance>
+    <instance id="Identity_document-card-39-260-1" docsrc="Identity_document">
+      <context> Denmark is one of few EU countries that currently do not issue national identity cards ( not counting driving licences and passports issued for other purposes ) . Danish citizens are not required by law to carry an identity <head>card</head> . A traditional identity document ( without photo ) , the personal identification number certificate ( Danish:Personnummerbevis ) is of little use in Danish society , as it has been largely replaced by the much more versatile National Health Insurance Card ( Danish:Sundhedskortet ) which contains the same information and more .</context>
+    </instance>
+    <instance id="Identity_document-card-39-41-1" docsrc="Identity_document">
+      <context> Other identity documents such as passports or driver 's licenses are then used as identity documents when needed . A number of countries have voluntary identity card schemes . These include Austria , Finland , France ( see France <head>section</head> ) , Hungary ( however , all citizens of Hungary must have at least one of : valid passport , photocard driving licence , or the National ID card ) , Iceland , Sweden and Switzerland .</context>
+    </instance>
+    <instance id="Identity_document-card-39-65-2" docsrc="Identity_document">
+      <context> ==== Tunisia ==== Every citizen of Tunisia is expected to apply for an ID card by the age of 18 ; however , with the approval of a parent , a Tunisian citizen may apply for , and receive <head>,</head> an ID card prior to their eighteenth birthday .</context>
+    </instance>
+    <instance id="Identity_document-card-4-119-1" docsrc="Identity_document">
+      <context> The card is the <head>only</head> acceptable legal document to obtain employment , a residence permit , driving licence or passport and to open bank accounts or apply for entry to tertiary education and technical colleges . ==== Hong Kong ==== The Hong Kong Identity Card ( or HKID ) is an official identity document issued by the Immigration Department of Hong Kong to all people who hold the right of abode , right to land or other forms of limited stay longer than 180 days in Hong Kong .</context>
+    </instance>
+    <instance id="Identity_document-card-4-200-2" docsrc="Identity_document">
+      <context> ==== Taiwan ==== The <head>"</head> National Identification Card " ( Chinese : 國民身分證 ) is issued to all nationals of the Republic of China ( Official name of Taiwan ) aged 14 and older who have household registration in the Taiwan area .</context>
+    </instance>
+    <instance id="Identity_document-card-4-203-1" docsrc="Identity_document">
+      <context> The Identification Card is <head>used</head> for virtually all activities that require identity verification within Taiwan such as opening bank accounts , renting apartments , employment applications and voting . The Identification Card contains the holder 's photo , ID number , Chinese name , and ( Minguo calendar ) date of birth . The back of the card also contains the person 's registered address where official correspondence is sent , place of birth , and the names of parents and spouse .</context>
+    </instance>
+    <instance id="Identity_document-card-4-210-1" docsrc="Identity_document">
+      <context> Thailand ==== In Thailand <head>,</head> The Thai National ID Card ( Thai : บัตรประจำตัวประชาชน ; RTGS : bat pracham tua pracha chon ) is an official identity document , issued only to Thai Nationals . The purpose of the card is to prove and identify the holder 's identity , for receiving government services and other entitlements .</context>
+    </instance>
+    <instance id="Identity_document-card-4-260-2" docsrc="Identity_document">
+      <context> Danish citizens are not <head>required</head> by law to carry an identity card . A traditional identity document ( without photo ) , the personal identification number certificate ( Danish:Personnummerbevis ) is of little use in Danish society , as it has been largely replaced by the much more versatile National Health Insurance Card ( Danish:Sundhedskortet ) which contains the same information and more . The National Health Insurance Card is issued to all citizens age 12 and above .</context>
+    </instance>
+    <instance id="Identity_document-card-4-327-1" docsrc="Identity_document">
+      <context> Except for a brief <head>period</head> during the second world war when the Irish Department of External Affairs issued ID Cards to those wishing to travel to the UK , , Ireland has never issued national identity cards as such . Identity documentation is optional for Irish and British citizens . Passport booklets , passport cards , driver 's licenses , GNIB Registration Certificates and other forms of identity cards can be used for identification .</context>
+    </instance>
+    <instance id="Identity_document-card-4-33-1" docsrc="Identity_document">
+      <context> Arguments against overuse or <head>abuse</head> of identity documents : Cards reliant on a centralized database can be used to track anyone 's physical movements and private life , thus infringing on personal freedom and privacy . The proposed British ID card ( see next section ) proposes a series of linked databases managed by private sector firms .</context>
+    </instance>
+    <instance id="Identity_document-card-4-332-2" docsrc="Identity_document">
+      <context> ===== Italy ===== A <head>classic</head> Italian identity card ( now in the process of being replaced by a newer template ) has four pages , containing :</context>
+    </instance>
+    <instance id="Identity_document-card-4-367-1" docsrc="Identity_document">
+      <context> The old format of <head>the</head> cards ( yellow laminated paper document ) featured a portrait of the bearer , their fingerprint , and the name of parents , among other information . They are currently being replaced by grey plastic cards with a chip , called Cartão de Cidadão ( Citizen 's Card ) , which now incorporate NIF ( Tax Number ) , Cartão de Utente ( Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued . The new Citizen 's Card is technologically more advanced than the former Identity Card and has the following characteristics :</context>
+    </instance>
+    <instance id="Identity_document-card-4-389-2" docsrc="Identity_document">
+      <context> ===== Slovenia ===== In <head>Slovenia</head> the ID cards importance is equaled only by the Slovenian passport , but a due to size a lot more practical .</context>
+    </instance>
+    <instance id="Identity_document-card-4-473-1" docsrc="Identity_document">
+      <context> But there are rules <head>requiring</head> it for services like banking , air travel and voting ( where personal recognition or other identification methods have not been possible ) . The following documents are generally considered valid ( varying a little , since no law lists them ) : Nordic driving licence , passport ( often only from EU and EFTA ) , national id card from EU , Norwegian ID card from banks and some more . There is no ID card for anyone except bank ID card ( normally printed on the reverse of a credit card ) .</context>
+    </instance>
+    <instance id="Identity_document-card-4-491-2" docsrc="Identity_document">
+      <context> ===== Turkey ===== The <head>Turkish</head> national ID card ( Turkish : Nüfus Cüzdanı ) is compulsory for all Turkish citizens from birth .</context>
+    </instance>
+    <instance id="Identity_document-card-4-549-4" docsrc="Identity_document">
+      <context> A child born in <head>the</head> US is in nearly all cases ( except for children of foreign diplomats ) automatically a US citizen . A child born overseas to US citizens must have the birth registered with the corresponding US embassy/consulate to obtain citizenship at birth , or they will need to apply for recognition of their citizenship at a later date . Social Security numbers and cards are issued by the US Social Security Administration for tracking of Social Security taxes and benefits .</context>
+    </instance>
+    <instance id="Identity_document-card-4-655-1" docsrc="Identity_document">
+      <context> [ 11 ] . <head>Telegraph</head> story : the case for and against identity cards Scotsman story : ID Cards will lead to " massive fraud "</context>
+    </instance>
+    <instance id="Identity_document-card-4-70-2" docsrc="Identity_document">
+      <context> All Gambian citizens over <head>18</head> years of age are required to hold a Gambian National Identity Card . In July 2009 , a new biometric Identity card was introduced . The biometric National Identity card is one of the acceptable documents required to apply for a Gambian Driving Licence .</context>
+    </instance>
+    <instance id="Identity_document-card-40-561-2" docsrc="Identity_document">
+      <context> Currently , driver licences are issued by the states and territories and are the most widely used personal identification document . Driver licences list a person 's full name , date of birth , current address and contains a photograph <head>.</head> It can commonly be used for personal identification for various purposes such as obtaining various government permits and documentation ( for example , passport or tax file number ) as well as for opening bank accounts or applying for credit cards .</context>
+    </instance>
+    <instance id="Identity_document-card-41-472-2" docsrc="Identity_document">
+      <context> In Norway there is no law penalising non possession of an identity document . But there are rules requiring it for services like banking , air travel and voting ( where personal recognition or other identification methods have not been possible <head>)</head> . The following documents are generally considered valid ( varying a little , since no law lists them ) : Nordic driving licence , passport ( often only from EU and EFTA ) , national id card from EU , Norwegian ID card from banks and some more .</context>
+    </instance>
+    <instance id="Identity_document-card-42-316-2" docsrc="Identity_document">
+      <context> ===== Hungary ===== The plastic card shows the owners full name , maiden name if applicable , birth date and place , mother 's maiden name , the cardholder 's gender , the ID 's validity period and the local state authority <head>which</head> issued the card .</context>
+    </instance>
+    <instance id="Identity_document-card-42-368-1" docsrc="Identity_document">
+      <context> They are currently being replaced by grey plastic cards with a chip , called Cartão de Cidadão ( Citizen 's Card ) , which now incorporate NIF ( Tax Number ) , Cartão de Utente ( Health Card ) and Social Security <head>,</head> all of which are protected by a PIN obtained when the card is issued . The new Citizen 's Card is technologically more advanced than the former Identity Card and has the following characteristics : From the physical point of view the Citizen 's Card will have a ' smart card ' format and will replace the existing Identity Card , taxpayer card , Social Security card , voter 's card and National Health Service user 's card .</context>
+    </instance>
+    <instance id="Identity_document-card-45-312-3" docsrc="Identity_document">
+      <context> For instance , it is required to perform banking transactions if the teller personnel is unfamiliar with the apparent account holder , to interact with the Citizen Service Bureaus ( KEP ) , receive parcels or registered mail etc . Citizens are also required to <head>produce</head> their ID card at the request of law enforcement personnel . All the above functions can be fulfilled also with a valid Greek passport ( e.g. , for people who have lost their ID card and have not yet applied for a new one , people who happen to carry their passport instead of their ID card or Greeks who reside abroad and do not have an identity card , which can be issued only in Greece in contrast to passports also issued by consular authorities abroad ) .</context>
+    </instance>
+    <instance id="Identity_document-card-5-153-1" docsrc="Identity_document">
+      <context> The card must be presented <head>to</head> an official on duty ( e.g. , a policeman ) upon request , but if the resident is unable to do this , one may contact the relevant authority within five days to avoid a penalty . ===== Palestinian Authority ===== The Palestinian Authority Issues Identification card following agreements with Israel since 1995 in accordance to the Oslo Accords , the data is forwarded to Israeli database and confirmed .</context>
+    </instance>
+    <instance id="Identity_document-card-5-178-2" docsrc="Identity_document">
+      <context> In Pakistan , all adult <head>citizens</head> must register for the Computerized National Identity Card ( CNIC ) , with a unique number , at age 18 . CNIC serves as an identification document to authenticate an individual 's identity as the citizen of Pakistan . Earlier on , National Identity Cards ( NICs ) were issued to citizens of Pakistan .</context>
+    </instance>
+    <instance id="Identity_document-card-5-286-1" docsrc="Identity_document">
+      <context> alinea 4 : until 20 <head>km</head> from French borders and in ports , airports and railway stations open to international traffic ( contrôle aux frontières ) ; alinea 3 : whatever the person 's behaviour , to prevent a breach of public order and in particular an offence against the safety of persons or property ( contrôle administratif ) . For financial transactions , ID cards and passports are almost always accepted as proof of identity .</context>
+    </instance>
+    <instance id="Identity_document-card-5-298-2" docsrc="Identity_document">
+      <context> ===== Gibraltar ===== Gibraltar has <head>operated</head> an identity card system since 1943 .</context>
+    </instance>
+    <instance id="Identity_document-card-5-300-1" docsrc="Identity_document">
+      <context> Gibraltar ===== Gibraltar has operated <head>an</head> identity card system since 1943 . In 1993 the cardboard ID card was replaced with a laminated version .</context>
+    </instance>
+    <instance id="Identity_document-card-5-308-2" docsrc="Identity_document">
+      <context> A compulsory , universal ID <head>system</head> based on personal ID cards has been in place in Greece since World War II. ID cards are issued by the police on behalf of the Headquarters of the Police ( previously issued by the Ministry of Public Order , now incorporated in the Ministry of Internal Affairs ) and display the holder 's signature , standardized face photograph , name and surname , father 's name and surname , mother 's name and maiden surname , date and place of birth , height , municipality , and the issuing police precinct . There are also two optional fields designed to facilitate emergency medical care : ABO and Rhesus factor blood typing . Fields included in previous ID card formats , such as vocation or profession , religious denomination , domiciliary address , name and surname of spouse , fingerprint , eye and hair color , citizenship and ethnicity were removed permanently as being intrusive of personal data and/or superfluous for the sole purpose of personal identification .</context>
+    </instance>
+    <instance id="Identity_document-card-5-311-2" docsrc="Identity_document">
+      <context> Since 2005 , the procedure <head>to</head> issue an ID card has been automated and now all citizens over 12 years of age must have an ID card , which is issued within one work day . Prior to that date , the age of compulsory issue was at 14 and the whole procedure could last several months . In Greece , an ID card is a citizen 's most important state document .</context>
+    </instance>
+    <instance id="Identity_document-card-5-329-1" docsrc="Identity_document">
+      <context> Identity documentation is optional for <head>Irish</head> and British citizens . Passport booklets , passport cards , driver 's licenses , GNIB Registration Certificates and other forms of identity cards can be used for identification . Ireland has issued optional passport cards since October 2015 .</context>
+    </instance>
+    <instance id="Identity_document-card-5-364-2" docsrc="Identity_document">
+      <context> All Portuguese citizens are required <head>by</head> law to obtain an Identity Card as they turn 6 years of age . They are not required to carry with them always but are obligated to present them to the lawful authorities if requested . The old format of the cards ( yellow laminated paper document ) featured a portrait of the bearer , their fingerprint , and the name of parents , among other information .</context>
+    </instance>
+    <instance id="Identity_document-card-5-380-1" docsrc="Identity_document">
+      <context> A valid passport may also <head>be</head> accepted , but usually only for foreigners . Presenting the ID Card is preferred but not mandatory when asked by police officers ; however , in such cases people are expected to provide a CNP or alternate means of identification which can be checked on the spot ( via radio if needed ) . The information on the ID Card is required to be kept updated by the owner ; current address of domicile in particular .</context>
+    </instance>
+    <instance id="Identity_document-card-5-473-2" docsrc="Identity_document">
+      <context> The following documents are generally <head>considered</head> valid ( varying a little , since no law lists them ) : Nordic driving licence , passport ( often only from EU and EFTA ) , national id card from EU , Norwegian ID card from banks and some more . There is no ID card for anyone except bank ID card ( normally printed on the reverse of a credit card ) . To get a bank ID card either a Nordic passport or another passport together with Norwegian residence and work permit is needed .</context>
+    </instance>
+    <instance id="Identity_document-card-5-607-1" docsrc="Identity_document">
+      <context> Uruguay ==== Identity Card ( <head>Renewal</head> ) In Uruguay , the identity card is issued by the Ministry of Interior and the National Civil Identification ( DNIC ) .</context>
+    </instance>
+    <instance id="Identity_document-card-5-62-1" docsrc="Identity_document">
+      <context> Registering as a taxpayer Egyptian <head>ID</head> cards consist of 14 digits , the national identity number , and expire after 7 years from the date of issue . Some feel that Egyptian ID cards are problematic , due to the general poor quality of card holders ' photographs and the compulsory requirements for ID card holders to identify their religion and for married women to use their husband 's surname .</context>
+    </instance>
+    <instance id="Identity_document-card-54-365-1" docsrc="Identity_document">
+      <context> They are not required to carry with them always but are obligated to present them to the lawful authorities if requested . The old format of the cards ( yellow laminated paper document ) featured a portrait of the bearer , their fingerprint , and the name of parents , among other information . <head>They</head> are currently being replaced by grey plastic cards with a chip , called Cartão de Cidadão ( Citizen 's Card ) , which now incorporate NIF ( Tax Number ) , Cartão de Utente ( Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued .</context>
+    </instance>
+    <instance id="Identity_document-card-57-312-3" docsrc="Identity_document">
+      <context> For instance , it is required to perform banking transactions if the teller personnel is unfamiliar with the apparent account holder , to interact with the Citizen Service Bureaus ( KEP ) , receive parcels or registered mail etc . Citizens are also required to produce their ID card at the request of law enforcement personnel . <head>All</head> the above functions can be fulfilled also with a valid Greek passport ( e.g. , for people who have lost their ID card and have not yet applied for a new one , people who happen to carry their passport instead of their ID card or Greeks who reside abroad and do not have an identity card , which can be issued only in Greece in contrast to passports also issued by consular authorities abroad ) .</context>
+    </instance>
+    <instance id="Identity_document-card-58-205-1" docsrc="Identity_document">
+      <context> The back of the card also contains the person 's registered address where official correspondence is sent , place of birth , and the names of parents and spouse . ROC nationals with household registration in Taiwan are known as " registered nationals " . ROC nationals who do not have household registration in Taiwan ( known as <head>"</head> unregistered nationals " ) do not qualify for the Identification Card and its associated privileges ( e.g. , the right to vote and the right of abode in Taiwan ) , but qualify for the Republic of China passport , which unlike the Identification Card , is not indicative of residency rights in Taiwan .</context>
+    </instance>
+    <instance id="Identity_document-card-6-100-2" docsrc="Identity_document">
+      <context> Zimbabweans are required to apply for <head>National</head> Registration at the age of sixteen . Zimbabwean citizens are issued with a plastic card which contains a photograph and their particulars onto it . Before the introduction of the plastic card , the Zimbabwean ID card used to be printed on anodised aluminium .</context>
+    </instance>
+    <instance id="Identity_document-card-6-224-1" docsrc="Identity_document">
+      <context> Europe === ==== European Union ==== <head>Within</head> the European Union , identity cards meeting jointly agreed standards may also be used by a European citizen as a travel document in place of a passport .</context>
+    </instance>
+    <instance id="Identity_document-card-6-232-1" docsrc="Identity_document">
+      <context> Belgium ===== In Belgium , everyone <head>above</head> the age of 12 is issued an identity card ( carte d'identité in French , identiteitskaart in Dutch and Personalausweis in German ) , and from the age of 15 carrying this card at all times is mandatory . For foreigners residing in Belgium similar cards ( foreigner 's cards , vreemdelingenkaart in Dutch , carte pour étrangers in French ) are issued , although they may also carry a passport , a work permit or a ( temporary ) residence permit .</context>
+    </instance>
+    <instance id="Identity_document-card-6-262-1" docsrc="Identity_document">
+      <context> A foreigner living in Denmark will <head>have</head> a residence permit with their personal identification number and a photo . In Denmark , since 2004 , counties have issued a " photo identity card " ( Danish : billedlegitimationskort ) , which can be used as age verification , but it is limited for identification purposes because of limited security for issuing , and it is not valid for EU travel . Until 2004 , the national debit card Dankort contained a photo of the holder and was widely accepted as an identity card .</context>
+    </instance>
+    <instance id="Identity_document-card-6-29-2" docsrc="Identity_document">
+      <context> The development and administration costs of <head>an</head> identity card system can be very high . Figures from GBP30 ( USD45 ) to GBP90 or even higher were suggested for the abandoned UK ID card . In countries like Chile the identity card is personally paid for by each person up to GBP6 ; in other countries , such as Venezuela , the ID card is free .</context>
+    </instance>
+    <instance id="Identity_document-card-6-295-4" docsrc="Identity_document">
+      <context> But as driver 's licences , <head>although</head> in practice widely accepted , are not legally accepted forms of identification in Germany , people usually choose to carry their Personalausweis with them . Beginning in November 2010 , German ID cards are issued in the ID-1 format and can also contain an integrated digital signature , if so desired . Until October 2010 , German ID cards were issued in ISO/IEC 7810 ID-2 format .</context>
+    </instance>
+    <instance id="Identity_document-card-6-324-2" docsrc="Identity_document">
+      <context> ===== Ireland ===== Ireland does not <head>issue</head> national identity cards as such .</context>
+    </instance>
+    <instance id="Identity_document-card-6-558-2" docsrc="Identity_document">
+      <context> ==== Australia ==== Australia does not <head>have</head> an identity card .</context>
+    </instance>
+    <instance id="Identity_document-card-6-561-3" docsrc="Identity_document">
+      <context> Driver licences list a person 's <head>full</head> name , date of birth , current address and contains a photograph . It can commonly be used for personal identification for various purposes such as obtaining various government permits and documentation ( for example , passport or tax file number ) as well as for opening bank accounts or applying for credit cards . It is the de facto identity card in Australia .</context>
+    </instance>
+    <instance id="Identity_document-card-6-615-1" docsrc="Identity_document">
+      <context> Check Digit Calculation ' They take <head>the</head> 7 card numbers and multiply each by 2987634 one by one ( the first number by 2 , the second by 9 and so on , when each result exceeds one digit , the unit takes only ) . Another simple way to look at it as a scalar product of vectors in module 10 . The first 7 digits of the card can be viewed as a vector of length 7 .</context>
+    </instance>
+    <instance id="Identity_document-card-6-649-1" docsrc="Identity_document">
+      <context> [ 10 ] . Kruger , <head>Stephen</head> , “ Police Demands for Hong Kong Identity Cards ”</context>
+    </instance>
+    <instance id="Identity_document-card-7-100-1" docsrc="Identity_document">
+      <context> Zimbabwe ==== Zimbabweans are required to apply <head>for</head> National Registration at the age of sixteen . Zimbabwean citizens are issued with a plastic card which contains a photograph and their particulars onto it .</context>
+    </instance>
+    <instance id="Identity_document-card-7-106-2" docsrc="Identity_document">
+      <context> ==== Bahrain ==== Bahraini citizens must have <head>both</head> an ID card , called a " smart card " , that is recognized as an official document and can be used within the Gulf Cooperation Council and a passport , that is recognized worldwide .</context>
+    </instance>
+    <instance id="Identity_document-card-7-111-2" docsrc="Identity_document">
+      <context> Biometric identification has existed in Bangladesh since <head>2008</head> . All Bangladeshis who are 18 years of age and older are included in a central Biometric Database , which is used by the Bangladesh Election Commission to oversee the electoral procedure in Bangladesh . All Bangladeshis are issued with an NID Card which can be used to obtain a passport , Driving Licence , credit card , and to register land ownership .</context>
+    </instance>
+    <instance id="Identity_document-card-7-136-1" docsrc="Identity_document">
+      <context> Also in other pages of the Shenasnameh <head>Marriage</head> status , Spouse(s ) name(s ) , Children names , Date of every vote they give and also their death would be registered . Every Iranian permanent resident above the age of 15 must hold a valid National Identity Card ( Persian:کارت ملی ) or at least obtain their unique National Number from any of the local Vital Records branches of the Iranian Ministry of Interior . In order to apply for an NID card , the applicant must be at least 15 years old and have a photograph attached to their Birth Certificate , which is undertaken by the Vital Records branch .</context>
+    </instance>
+    <instance id="Identity_document-card-7-137-1" docsrc="Identity_document">
+      <context> Every Iranian permanent resident above the age <head>of</head> 15 must hold a valid National Identity Card ( Persian:کارت ملی ) or at least obtain their unique National Number from any of the local Vital Records branches of the Iranian Ministry of Interior . In order to apply for an NID card , the applicant must be at least 15 years old and have a photograph attached to their Birth Certificate , which is undertaken by the Vital Records branch . Since June 21 , 2008 , NID cards have been compulsory for many things in Iran and Iranian Missions abroad ( e.g. , obtaining a passport , driver 's license , any banking procedure,etc . )</context>
+    </instance>
+    <instance id="Identity_document-card-7-208-2" docsrc="Identity_document">
+      <context> ==== Thailand ==== In Thailand , The <head>Thai</head> National ID Card ( Thai : บัตรประจำตัวประชาชน ; RTGS : bat pracham tua pracha chon ) is an official identity document , issued only to Thai Nationals .</context>
+    </instance>
+    <instance id="Identity_document-card-7-232-2" docsrc="Identity_document">
+      <context> In Belgium , everyone above the age <head>of</head> 12 is issued an identity card ( carte d'identité in French , identiteitskaart in Dutch and Personalausweis in German ) , and from the age of 15 carrying this card at all times is mandatory . For foreigners residing in Belgium similar cards ( foreigner 's cards , vreemdelingenkaart in Dutch , carte pour étrangers in French ) are issued , although they may also carry a passport , a work permit or a ( temporary ) residence permit . Belgian consulates still issue old style ID cards ( 105 x 75 mm ) to Belgian citizens who are permanently residing in their jurisdiction and who choose to be registered at the consulate ( which is strongly advised ) .</context>
+    </instance>
+    <instance id="Identity_document-card-7-242-2" docsrc="Identity_document">
+      <context> ===== Croatia ===== All Croatian citizens may <head>request</head> an Identity Card , called Osobna iskaznica ( literally Personal card ) .</context>
+    </instance>
+    <instance id="Identity_document-card-7-244-2" docsrc="Identity_document">
+      <context> All Croatian citizens may request an Identity <head>Card</head> , called Osobna iskaznica ( literally Personal card ) . All persons over the age of 16 must have an Identity Card and carry it at all times . Refusal to carry or produce an Identity Card to a police officer can lead to a fine of 100 kuna or more and detention until the individual 's identity can be verified by fingerprints .</context>
+    </instance>
+    <instance id="Identity_document-card-7-244-3" docsrc="Identity_document">
+      <context> All persons over the age of 16 <head>must</head> have an Identity Card and carry it at all times . Refusal to carry or produce an Identity Card to a police officer can lead to a fine of 100 kuna or more and detention until the individual 's identity can be verified by fingerprints . The 2013 design of the Croatian ID card is prepared for future installation of an Electronic identity card chip , which is set for implementation in 2014 .</context>
+    </instance>
+    <instance id="Identity_document-card-7-275-2" docsrc="Identity_document">
+      <context> In Finland , any citizen can get <head>an</head> identification card ( henkilökortti/identitetskort ) . This , along with the passport , is one of two official identity documents . It is available as an electronic ID card ( sähköinen henkilökortti/elektroniskt identitetskort ) , which enables logging into certain government services on the Internet .</context>
+    </instance>
+    <instance id="Identity_document-card-7-295-3" docsrc="Identity_document">
+      <context> Police officers and other officials have a <head>right</head> to demand to see one of those documents ( obligation of identification ) ; however the law does not state that one is obliged to submit the document at that very moment . But as driver 's licences , although in practice widely accepted , are not legally accepted forms of identification in Germany , people usually choose to carry their Personalausweis with them . Beginning in November 2010 , German ID cards are issued in the ID-1 format and can also contain an integrated digital signature , if so desired .</context>
+    </instance>
+    <instance id="Identity_document-card-7-370-3" docsrc="Identity_document">
+      <context> The back will list the numbers under <head>which</head> the holder is registered with the different bodies whose cards the Citizen 's Card combines and replaces . The back will also contain an optical reader and the chip . From the electronic point of view the card will have a contact chip , with digital certificates ( for electronic authentication and signature purposes ) .</context>
+    </instance>
+    <instance id="Identity_document-card-7-376-4" docsrc="Identity_document">
+      <context> It has to be renewed every 10 <head>years</head> . It can be used instead of a passport for travel inside the European Union and several other countries outside the EU. Another ID Card is the Provisional ID Card ( Cartea de Identitate Provizorie ) issued temporarily when an individual can not get a normal ID Card .</context>
+    </instance>
+    <instance id="Identity_document-card-7-40-3" docsrc="Identity_document">
+      <context> These include Andorra , Australia , Canada <head>,</head> Denmark , India ( see below ) , Ireland , Japan , New Zealand , Norway , the Republic of San Marino , the United Kingdom and the United States . Other identity documents such as passports or driver 's licenses are then used as identity documents when needed . A number of countries have voluntary identity card schemes .</context>
+    </instance>
+    <instance id="Identity_document-card-7-42-2" docsrc="Identity_document">
+      <context> In the United States , states issue <head>optional</head> identity cards for people who do not hold a driver 's license as an alternate means of identification . These cards are issued by the same organization responsible for driver 's licenses , usually called the Department of Motor Vehicles . Companies and government departments may issue ID cards for security purposes or proof of a qualification .</context>
+    </instance>
+    <instance id="Identity_document-card-7-474-3" docsrc="Identity_document">
+      <context> The plan started in 2007 and has <head>been</head> delayed several times and is now scheduled for 2016 . Banks are campaigning to be freed from the task of issuing ID cards , stating that it should be the responsibility of state authorities . Some banks have already ceased issuing ID cards , so people need to bring their passport for such things as credit card purchases or buying prescribed medication if not in possession of a driving licence .</context>
+    </instance>
+    <instance id="Identity_document-card-7-543-2" docsrc="Identity_document">
+      <context> The United States passed a bill entitled <head>the</head> REAL ID Act on May 11 , 2005 . The bill compels states to begin redesigning their driver 's licenses to comply with federal security standards by December 2009 . Federal agencies would reject licenses or identity cards that do not comply , which would force Americans accessing everything from airplanes to national parks and courthouses to have the federally mandated cards .</context>
+    </instance>
+    <instance id="Identity_document-card-8-0-1" docsrc="Identity_document">
+      <context> An identity document ( also called a piece <head>of</head> identification or ID , or colloquially as papers ) is any document which may be used to identify a person or verify aspects of a person 's personal identity . If issued in a small , standard credit card size form , it is usually called an identity card ( IC or ID card ) .</context>
+    </instance>
+    <instance id="Identity_document-card-8-100-3" docsrc="Identity_document">
+      <context> Zimbabwean citizens are issued with a plastic card <head>which</head> contains a photograph and their particulars onto it . Before the introduction of the plastic card , the Zimbabwean ID card used to be printed on anodised aluminium . Along with Driving Licences , the National Registration Card ( including the old metal type ) is universally accepted as proof of identity in Zimbabwe .</context>
+    </instance>
+    <instance id="Identity_document-card-8-143-1" docsrc="Identity_document">
+      <context> Iraq ==== Every Iraqi citizen must have a <head>Nationality</head> Certificate ( شهادة الجنسية ) and a civil Identification Document ( هوية الأحوال المدنية ) . In 2016 both documents were replaced with National Card ( البطاقة الوطنية ) .</context>
+    </instance>
+    <instance id="Identity_document-card-8-23-2" docsrc="Identity_document">
+      <context> If using only private alternatives , such as <head>id</head> cards issued by banks , the inherent lack of consistency regarding issuance policies can lead to downstream problems . For example , in Sweden private companies such as banks ( citing security reasons ) refused to issue ID cards to individuals without a Swedish card . This forced the government to start issuing national cards .</context>
+    </instance>
+    <instance id="Identity_document-card-8-249-2" docsrc="Identity_document">
+      <context> ===== Cyprus ===== The acquisition and possession of <head>a</head> Civil Identity Card is compulsory for any eligible person who has reached twelve years of age .</context>
+    </instance>
+    <instance id="Identity_document-card-8-260-3" docsrc="Identity_document">
+      <context> A traditional identity document ( without photo ) <head>,</head> the personal identification number certificate ( Danish:Personnummerbevis ) is of little use in Danish society , as it has been largely replaced by the much more versatile National Health Insurance Card ( Danish:Sundhedskortet ) which contains the same information and more . The National Health Insurance Card is issued to all citizens age 12 and above . It is commonly referred to as an identity card despite the fact it has no photo of the holder .</context>
+    </instance>
+    <instance id="Identity_document-card-8-275-3" docsrc="Identity_document">
+      <context> This , along with the passport , is <head>one</head> of two official identity documents . It is available as an electronic ID card ( sähköinen henkilökortti/elektroniskt identitetskort ) , which enables logging into certain government services on the Internet . Driving licenses and KELA ( social security ) cards with a photo are also widely used for general identification purposes even though they are not officially recognized as such .</context>
+    </instance>
+    <instance id="Identity_document-card-8-28-1" docsrc="Identity_document">
+      <context> === Arguments against === Arguments against identity documents <head>as</head> such : The development and administration costs of an identity card system can be very high .</context>
+    </instance>
+    <instance id="Identity_document-card-8-312-2" docsrc="Identity_document">
+      <context> In Greece , an ID card is a <head>citizen</head> 's most important state document . For instance , it is required to perform banking transactions if the teller personnel is unfamiliar with the apparent account holder , to interact with the Citizen Service Bureaus ( KEP ) , receive parcels or registered mail etc . Citizens are also required to produce their ID card at the request of law enforcement personnel .</context>
+    </instance>
+    <instance id="Identity_document-card-8-319-3" docsrc="Identity_document">
+      <context> The card has a 6 digit number + <head>2</head> letter unique ID and a separate machine readable zone on the back for identity document scanning devices . It does not have any information about the owner 's residential address , nor their personal identity number – this sensitive information is contained on a separate card , called a Residency Card ( Lakcímkártya ) .</context>
+    </instance>
+    <instance id="Identity_document-card-8-329-2" docsrc="Identity_document">
+      <context> Passport booklets , passport cards , driver 's <head>licenses</head> , GNIB Registration Certificates and other forms of identity cards can be used for identification . Ireland has issued optional passport cards since October 2015 . The cards are the size of a credit card and have all the information from the biographical page of an Irish passport booklet and can be explicitly used for travel in the EEA.</context>
+    </instance>
+    <instance id="Identity_document-card-8-354-1" docsrc="Identity_document">
+      <context> Passports/national ID cards of members of other E.E.A. <head>countries</head> For the purpose of identification in public ( but not for other purposes ) , also a Dutch driving license often may serve as an identity document . In the Caribbean Netherlands , the Dutch Identity Card is not valid ; and the Identity card BES is an obligatory document for all residents .</context>
+    </instance>
+    <instance id="Identity_document-card-8-365-1" docsrc="Identity_document">
+      <context> They are not required to carry with them <head>always</head> but are obligated to present them to the lawful authorities if requested . The old format of the cards ( yellow laminated paper document ) featured a portrait of the bearer , their fingerprint , and the name of parents , among other information . They are currently being replaced by grey plastic cards with a chip , called Cartão de Cidadão ( Citizen 's Card ) , which now incorporate NIF ( Tax Number ) , Cartão de Utente ( Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued .</context>
+    </instance>
+    <instance id="Identity_document-card-8-507-1" docsrc="Identity_document">
+      <context> These programmes have not yet gained widespread acceptance <head>,</head> and the Canadian passport remains the most useful and widely accepted international travel document . ==== Costa Rica ==== Every Costa Rican citizen must carry an identity card immediately after turning 18 .</context>
+    </instance>
+    <instance id="Identity_document-card-8-559-1" docsrc="Identity_document">
+      <context> Australia ==== Australia does not have an identity <head>card</head> . There have been two proposals to introduce ID cards for tax and social security access in Australia : The Australia Card in 1985 by the Hawke Labor Government and the Health and Social Services Access Card in 2006 by the Howard Liberal Government .</context>
+    </instance>
+    <instance id="Identity_document-card-8-588-3" docsrc="Identity_document">
+      <context> Upon turning 18 every resident must obtain a <head>Cédula</head> de Ciudadanía , which is the only document that proves the identity of a person for legal purposes . ID cards must be carried at all times and must be presented to the police or military upon request . If the individual fails to present the ID card upon request by the police or the military , he/she is most likely going to be detained for 24 hours at police station even if he/she is not a suspect of any wrongdoing .</context>
+    </instance>
+    <instance id="Identity_document-card-8-611-1" docsrc="Identity_document">
+      <context> Identity cards are demanded widespread in all formal <head>transactions</head> , from credit card purchases to any identity validation , proof of age , and so on . Not to be confused with the civic badge , which is used exclusively for voting in elections ( elections and plebiscites ) . Check Digit Calculation ' They take the 7 card numbers and multiply each by 2987634 one by one ( the first number by 2 , the second by 9 and so on , when each result exceeds one digit , the unit takes only ) .</context>
+    </instance>
+    <instance id="Identity_document-card-8-70-1" docsrc="Identity_document">
+      <context> Gambia , The ==== All Gambian citizens over <head>18</head> years of age are required to hold a Gambian National Identity Card . In July 2009 , a new biometric Identity card was introduced .</context>
+    </instance>
+    <instance id="Identity_document-card-9-179-2" docsrc="Identity_document">
+      <context> Earlier on , National Identity Cards ( NICs ) <head>were</head> issued to citizens of Pakistan . Now government has shifted all its existing records of National Identity Cards ( NIC ) to the central computerized database managed by NADRA. New CNIC 's are machine readable and have security features such as facial and finger print information . At the end of 2013 , Smart national identity cards , SNICs , were also made available .</context>
+    </instance>
+    <instance id="Identity_document-card-9-22-1" docsrc="Identity_document">
+      <context> In order to avoid mismatching people , and to <head>fight</head> fraud , there should be a way , as securely as possible , to prove a person 's identity . Arguments for national identity documents : If using only private alternatives , such as id cards issued by banks , the inherent lack of consistency regarding issuance policies can lead to downstream problems .</context>
+    </instance>
+    <instance id="Identity_document-card-9-273-2" docsrc="Identity_document">
+      <context> ===== Finland ===== In Finland , any citizen can <head>get</head> an identification card ( henkilökortti/identitetskort ) .</context>
+    </instance>
+    <instance id="Identity_document-card-9-310-3" docsrc="Identity_document">
+      <context> According to the Signpost Service of the European Commission <head>[</head> reply to Enquiry 36581 ] , old type Greek ID cards " are as valid as the new type according to Greek law and thus they constitute valid travel documents that all other EU Member States are obliged to accept . " In addition to being equivalent to passports within the European Economic Area , Greek ID cards are the principal means of identification of voters during elections . Since 2005 , the procedure to issue an ID card has been automated and now all citizens over 12 years of age must have an ID card , which is issued within one work day .</context>
+    </instance>
+    <instance id="Identity_document-card-9-34-1" docsrc="Identity_document">
+      <context> The management of disparate linked systems across a range <head>of</head> institutions and any number of personnel is alleged to be a security disaster in the making . If religion or ethnicity is registered on mandatory ID documents , this data can enable racial profiling . A number of countries do not have national identity cards .</context>
+    </instance>
+    <instance id="Identity_document-card-9-368-1" docsrc="Identity_document">
+      <context> They are currently being replaced by grey plastic cards <head>with</head> a chip , called Cartão de Cidadão ( Citizen 's Card ) , which now incorporate NIF ( Tax Number ) , Cartão de Utente ( Health Card ) and Social Security , all of which are protected by a PIN obtained when the card is issued . The new Citizen 's Card is technologically more advanced than the former Identity Card and has the following characteristics : From the physical point of view the Citizen 's Card will have a ' smart card ' format and will replace the existing Identity Card , taxpayer card , Social Security card , voter 's card and National Health Service user 's card .</context>
+    </instance>
+    <instance id="Identity_document-card-9-374-2" docsrc="Identity_document">
+      <context> ===== Romania ===== Every citizen of Romania must register <head>for</head> an ID card ( Carte de identitate , abbreviated CI ) at the age of 14 .</context>
+    </instance>
+    <instance id="Identity_document-card-9-404-2" docsrc="Identity_document">
+      <context> This number is the same for tax , social <head>security</head> and all legal purposes . Without this number ( or a foreign equivalent such as a passport number ) a contract may not be enforceable . In Spain the formal identity number on an ID card is the most important piece of identification .</context>
+    </instance>
+    <instance id="Identity_document-card-9-41-3" docsrc="Identity_document">
+      <context> These include Austria , Finland , France ( see <head>France</head> section ) , Hungary ( however , all citizens of Hungary must have at least one of : valid passport , photocard driving licence , or the National ID card ) , Iceland , Sweden and Switzerland . The United Kingdom 's scheme was scrapped in January 2011 and the database was destroyed . In the United States , states issue optional identity cards for people who do not hold a driver 's license as an alternate means of identification .</context>
+    </instance>
+    <instance id="Identity_document-card-9-543-3" docsrc="Identity_document">
+      <context> The bill compels states to begin redesigning their driver <head>'s</head> licenses to comply with federal security standards by December 2009 . Federal agencies would reject licenses or identity cards that do not comply , which would force Americans accessing everything from airplanes to national parks and courthouses to have the federally mandated cards . At airports , those not having compliant licenses or cards would simply be redirected to a secondary screening location .</context>
+    </instance>
+    <instance id="Identity_document-card-9-649-4" docsrc="Identity_document">
+      <context> ( 2012 ) . [ 11 ] . Telegraph <head>story</head> : the case for and against identity cards</context>
+    </instance>
+    <instance id="Identity_document-card-9-7-1" docsrc="Identity_document">
+      <context> A version of the passport considered to be the <head>earliest</head> identity document inscribed into law was introduced by King Henry V of England with the Safe Conducts Act 1414 . For the next 500 years and before World War I , most people did not have or need an identity document . There is debate in these countries about whether such cards and their centralised database would constitute an infringement of privacy and civil liberties .</context>
+    </instance>
+    <instance id="Printed_circuit_board-card-0-12-1" docsrc="Printed_circuit_board">
+      <context> <head>Modern</head> PCBs are designed with dedicated layout software , generally in the following steps : Schematic capture through an electronic design automation ( EDA ) tool . Card dimensions and template are decided based on required circuitry and case of the PCB.</context>
+    </instance>
+    <instance id="Printed_circuit_board-card-9-4-3" docsrc="Printed_circuit_board">
+      <context> However , the term printed wiring board has fallen <head>into</head> disuse . A PCB populated with electronic components is called a printed circuit assembly ( PCA ) , printed circuit board assembly or PCB assembly ( PCBA ) . The IPC preferred term for assembled boards is circuit card assembly ( CCA ) , and for assembled backplanes it is backplane assemblies .</context>
+    </instance>
+    <instance id="Visiting_card-card-1-0-2" docsrc="Visiting_card">
+      <context> A <head>visiting</head> card , also known as a calling card , is a small paper card with one 's name printed on it , and often bearing an artistic design . In 18th century Europe , the footmen of aristocrats and royalty would deliver these first European visiting cards to the servants of their prospective hosts solemnly introducing the arrival of their owners . Visiting cards became an indispensable tool of etiquette , with sophisticated rules governing their use .</context>
+    </instance>
+    <instance id="Visiting_card-card-1-11-3" docsrc="Visiting_card">
+      <context> However <head>,</head> the standard form visiting card in the 19th century in the United Kingdom was a plain card with nothing more than the bearer 's name on it . Sometimes the name of a gentlemen 's club might be added , but addresses were not otherwise included . Visiting cards were kept in highly decorated card cases .</context>
+    </instance>
+    <instance id="Visiting_card-card-1-12-3" docsrc="Visiting_card">
+      <context> Much <head>more</head> common is the business card , in which contact details , including address and telephone number , are essential . This has led to the inclusion of such details even on modern domestic visiting cards , a practice endorsed by modern books of etiquette , such as Debrett 's New Etiquette . Business card</context>
+    </instance>
+    <instance id="Visiting_card-card-1-6-1" docsrc="Visiting_card">
+      <context> On <head>the</head> other hand , if no card was forthcoming , or if a card was sent in an envelope , a personal visit was thereby discouraged . As an adoption from French , they were called une carte d'adresse from 1615 to 1800 , and then became carte de visite or visiteur with the advent of photography in the mid 19th century . Visiting cards became common amongst the aristocracy of Europe , and also in the United States .</context>
+    </instance>
+    <instance id="Visiting_card-card-13-6-3" docsrc="Visiting_card">
+      <context> Visiting cards became common amongst the aristocracy of Europe , and also in <head>the</head> United States . The whole procedure depended upon there being servants to open the door and receive the cards and it was , therefore , confined to the social classes which employed servants . If a card was left with a turned corner it indicated that the card had been left in person rather than by a servant .</context>
+    </instance>
+    <instance id="Visiting_card-card-14-12-2" docsrc="Visiting_card">
+      <context> The visiting card is no longer the universal feature of upper middle class and <head>upper</head> class life that it once was in Europe and North America . Much more common is the business card , in which contact details , including address and telephone number , are essential . This has led to the inclusion of such details even on modern domestic visiting cards , a practice endorsed by modern books of etiquette , such as Debrett 's New Etiquette .</context>
+    </instance>
+    <instance id="Visiting_card-card-14-5-4" docsrc="Visiting_card">
+      <context> Upon leaving the card , he would not expect to be admitted at first <head>,</head> but might receive a card at his own home in response . This would serve as a signal that a personal visit and meeting at home would be welcome . On the other hand , if no card was forthcoming , or if a card was sent in an envelope , a personal visit was thereby discouraged .</context>
+    </instance>
+    <instance id="Visiting_card-card-15-6-2" docsrc="Visiting_card">
+      <context> As an adoption from French , they were called une carte d'adresse from 1615 to <head>1800</head> , and then became carte de visite or visiteur with the advent of photography in the mid 19th century . Visiting cards became common amongst the aristocracy of Europe , and also in the United States . The whole procedure depended upon there being servants to open the door and receive the cards and it was , therefore , confined to the social classes which employed servants .</context>
+    </instance>
+    <instance id="Visiting_card-card-17-0-1" docsrc="Visiting_card">
+      <context> A visiting card , also known as a calling card , is a small paper card with <head>one</head> 's name printed on it , and often bearing an artistic design . In 18th century Europe , the footmen of aristocrats and royalty would deliver these first European visiting cards to the servants of their prospective hosts solemnly introducing the arrival of their owners .</context>
+    </instance>
+    <instance id="Visiting_card-card-18-11-1" docsrc="Visiting_card">
+      <context> He left his card , the corner turned up . Some visiting cards included refined engraved ornaments , <head>embossed</head> lettering , and fantastic coats of arms . However , the standard form visiting card in the 19th century in the United Kingdom was a plain card with nothing more than the bearer 's name on it .</context>
+    </instance>
+    <instance id="Visiting_card-card-19-5-2" docsrc="Visiting_card">
+      <context> Visiting cards became an indispensable tool of etiquette , with sophisticated rules governing their use . The essential convention <head>was</head> that one person would not expect to see another person in his own home ( unless invited or introduced ) without first leaving his visiting card for the person at his home . Upon leaving the card , he would not expect to be admitted at first , but might receive a card at his own home in response .</context>
+    </instance>
+    <instance id="Visiting_card-card-2-11-4" docsrc="Visiting_card">
+      <context> Sometimes the <head>name</head> of a gentlemen 's club might be added , but addresses were not otherwise included . Visiting cards were kept in highly decorated card cases . The visiting card is no longer the universal feature of upper middle class and upper class life that it once was in Europe and North America .</context>
+    </instance>
+    <instance id="Visiting_card-card-2-6-3" docsrc="Visiting_card">
+      <context> Visiting cards <head>became</head> common amongst the aristocracy of Europe , and also in the United States . The whole procedure depended upon there being servants to open the door and receive the cards and it was , therefore , confined to the social classes which employed servants . If a card was left with a turned corner it indicated that the card had been left in person rather than by a servant .</context>
+    </instance>
+    <instance id="Visiting_card-card-2-9-3" docsrc="Visiting_card">
+      <context> Paul went <head>to</head> Hertford to call on Stubbs , but found him out . He left his card , the corner turned up . Some visiting cards included refined engraved ornaments , embossed lettering , and fantastic coats of arms .</context>
+    </instance>
+    <instance id="Visiting_card-card-29-5-1" docsrc="Visiting_card">
+      <context> In 18th century Europe , the footmen of aristocrats and royalty would deliver these first European visiting cards to the servants of their prospective hosts solemnly introducing the arrival <head>of</head> their owners . Visiting cards became an indispensable tool of etiquette , with sophisticated rules governing their use . The essential convention was that one person would not expect to see another person in his own home ( unless invited or introduced ) without first leaving his visiting card for the person at his home .</context>
+    </instance>
+    <instance id="Visiting_card-card-3-29-1" docsrc="Visiting_card">
+      <context> Social Calls in <head>the</head> Edwardian era The Etiquette of Using Calling Cards Collection of calling cards received by Mrs. John Beckwith , Chicago at the Newberry Library</context>
+    </instance>
+    <instance id="Visiting_card-card-3-30-1" docsrc="Visiting_card">
+      <context> The Etiquette of <head>Using</head> Calling Cards Collection of calling cards received by Mrs. John Beckwith , Chicago at the Newberry Library</context>
+    </instance>
+    <instance id="Visiting_card-card-3-5-2" docsrc="Visiting_card">
+      <context> Visiting cards became <head>an</head> indispensable tool of etiquette , with sophisticated rules governing their use . The essential convention was that one person would not expect to see another person in his own home ( unless invited or introduced ) without first leaving his visiting card for the person at his home . Upon leaving the card , he would not expect to be admitted at first , but might receive a card at his own home in response .</context>
+    </instance>
+    <instance id="Visiting_card-card-3-9-2" docsrc="Visiting_card">
+      <context> Next day Paul <head>found</head> Stubbs ' card on his table , the corner turned up . Paul went to Hertford to call on Stubbs , but found him out . He left his card , the corner turned up .</context>
+    </instance>
+    <instance id="Visiting_card-card-5-28-1" docsrc="Visiting_card">
+      <context> Compliments slip Social Calls in <head>the</head> Edwardian era The Etiquette of Using Calling Cards</context>
+    </instance>
+    <instance id="Visiting_card-card-6-11-1" docsrc="Visiting_card">
+      <context> He left his card , the <head>corner</head> turned up . Some visiting cards included refined engraved ornaments , embossed lettering , and fantastic coats of arms . However , the standard form visiting card in the 19th century in the United Kingdom was a plain card with nothing more than the bearer 's name on it .</context>
+    </instance>
+    <instance id="Visiting_card-card-6-12-1" docsrc="Visiting_card">
+      <context> Visiting cards were kept in highly <head>decorated</head> card cases . The visiting card is no longer the universal feature of upper middle class and upper class life that it once was in Europe and North America . Much more common is the business card , in which contact details , including address and telephone number , are essential .</context>
+    </instance>
+    <instance id="Visiting_card-card-6-7-1" docsrc="Visiting_card">
+      <context> The whole procedure depended upon there <head>being</head> servants to open the door and receive the cards and it was , therefore , confined to the social classes which employed servants . If a card was left with a turned corner it indicated that the card had been left in person rather than by a servant . Next day Paul found Stubbs ' card on his table , the corner turned up .</context>
+    </instance>
+    <instance id="Visiting_card-card-7-11-3" docsrc="Visiting_card">
+      <context> However , the standard form visiting card <head>in</head> the 19th century in the United Kingdom was a plain card with nothing more than the bearer 's name on it . Sometimes the name of a gentlemen 's club might be added , but addresses were not otherwise included . Visiting cards were kept in highly decorated card cases .</context>
+    </instance>
+    <instance id="Visiting_card-card-7-5-4" docsrc="Visiting_card">
+      <context> Upon leaving the card , he would <head>not</head> expect to be admitted at first , but might receive a card at his own home in response . This would serve as a signal that a personal visit and meeting at home would be welcome . On the other hand , if no card was forthcoming , or if a card was sent in an envelope , a personal visit was thereby discouraged .</context>
+    </instance>
+    <instance id="br-f08#w808_0" docsrc="br-f08">
+      <context> This woman repeatedly complained she was `` too tired '' for marital relations . To please her , her husband assumed some of the domestic chores . Finally , he was cooking , washing dishes , bathing the children , and even ironing - and still his wife refused to have relations as often as he desired them . One wife , described by a New_York psychologist , so dominated her husband that she actually placed their sexual_relationship on a schedule , writing it down right between the weekly PTA meetings and the Thursday night neighborhood <head>card</head> parties . Another put sex on a dollars and cents basis . After every money argument , she rebuffed her husband 's overtures until the matter was settled in her favor . Experts say the partners in marriages like these can almost be typed .</context>
+    </instance>
+    <instance id="br-f23#w429_0" docsrc="br-f23">
+      <context> But dominant in the sense that every other objective , no_matter how worthy intrinsically , must defer to it . Peace is a worthy objective ; but if we must choose between peace and keeping the Communists out of Berlin , then we must fight . Freedom , in the sense of self-determination , is a worthy objective ; but if granting self-determination to the Algerian rebels entails sweeping that area into the Sino-Soviet orbit , then Algerian freedom must be postponed . Justice is a worthy objective ; but if justice for Bantus entails driving the government of the Union_of_South_Africa away from the West , then the Bantus must be prepared to carry their identification <head>cards</head> yet a while longer . Prosperity is a worthy objective ; but if providing higher standards_of_living gets in the way of producing sufficient guns to resist Communist aggression , then material sacrifices and denials will have to be made . It may be , of_course , that such objectives can be pursued consisently with a policy designed to overthrow Communism ; my point is that where conflicts arise they must always be resolved in_favor_of achieving the indispensable condition for a tolerant world - the absence of Soviet Communist power . This much having been said , the question remains whether we have the resources for the job we have to do - defeat Communism - and , if so , how those resources ought to be used .</context>
+    </instance>
+    <instance id="br-j19#w1806_0" docsrc="br-j19">
+      <context> Thus we do not score the number of bull's-eyes , and the random_variable is not the number of successes . The constancy of p and the independence are the conditions most likely to give trouble in_practice . Obviously , very slight changes in p do not change the probabilities much , and a slight lack of independence may not make an appreciable difference . ( For_instance , see Example 2 of Section 5 - 5 , on red <head>cards</head> in hands of 5 . ) On_the_other_hand , even when the binomial model does not describe well the physical_phenomenon being studied , the binomial model may still be used as a baseline for comparative purposes ; that_is , we may discuss the phenomenon in_terms_of its departures from the binomial model . A binomial experiment consists_of * * f independent binomial trials , all with the same probability * * f of yielding a success . The outcome of the experiment is X successes .</context>
+    </instance>
+    <instance id="br-k15#w652_0" docsrc="br-k15">
+      <context> She loved him and missed his company . Uncle_Randolph had been riding out every evening on some secret business of his own . What it was Kate could not fathom . He claimed to be visiting the waterfront saloon at the crossroads to play <head>cards</head> and drink with his cronies , but Kate had not smelled brandy on him since Mrs._Lattimer 's funeral . Joel knew what he was_about , however . `` You 're gonna get caught '' , she heard Joel say to Uncle_Randolph by the pump one morning . `` Not this old fox '' , chuckled Uncle_Randolph .</context>
+    </instance>
+    <instance id="br-l12#w740_0" docsrc="br-l12">
+      <context> Under the heading of_it 's an ill wind , et_cetera '' . Backstage was tomb like by contrast . Andy 's co-workers kept their distance , awed by the tragedy . But in his dressing_room was a large bouquet and a <head>card</head> that read , `` We 're with you all_the_way '' . It was signed by everyone in the troupe . Andy could n't help but be touched . He instructed Shirl_Winter to compose a note of thanks to be posted on the call_board .</context>
+    </instance>
+    <instance id="br-l17#w64_0" docsrc="br-l17">
+      <context> The safe at Ingleside_District_Station stands next to the gum machine in a narrow passageway that leads to Captain_Harris 's office ( to the left ) , the lieutenant 's office ( farther along and to the left ) and the janitor 's supply_closet ( straight ahead ) . The safe is a repository for three dead flashlight_batteries , a_hundred and fifty unused left-hand fingerprint <head>cards</head> , a stack of unsold Policemen's_Ball tickets from last year , and thirty-seven cents in coins and stamps . Gun set the captain 's fifth of Hiram_Walker inside the safe before he reported to Lt._Killpath , though he knew that Killpath 's ulcer prevented him from making any untoward incursion on Herman_Wolff 's gift . It was more a matter of tact , and also it was none of Killpath 's goddam business . He walked up_to the lieutenant 's office , leaned wearily against the gun rack that housed four rifles and a gas_gun nobody remembered having used and a submachine_gun that was occasionally tried_out on the Academy_Range .</context>
+    </instance>
+    <instance id="br-n09#w1929_0" docsrc="br-n09">
+      <context> `` Huh-uh . Now , Mis-ter_McBride '' , said Lord , and he laid a firmly restraining hand on the field boss 's arm . It was strictly the deputy 's game , but McBride had gone too far to throw_in . Now , he could only play the last <head>card</head> in what was probably the world 's coldest deck . He flung off Lord 's hand and attempted to push past him , inadvertently shoving him into a storefront . It was practically the last move that McBride made of his own volition . Lord slugged him in the stomach , so hard that the organ almost pressed against his spine .</context>
+    </instance>
+    <instance id="br-p01#w995_0" docsrc="br-p01">
+      <context> It slashed the sloping manure scented lawns with concrete steps which climbed upward to white wooden porches . It swayed with the wicker swings and screeched with the rusted hinges of screen_doors . Even the stable garage , which housed nothing now but the scent of rot , had a lawn before it . And the coffee_shop on Drexel_Street , where the men spent their evenings and Sundays playing <head>cards</head> , had a rose hedge beneath its window . The hedge reeked of coffee dregs thrown against it . Only one house on the street had no lawn before it . It squatted low and square upon the sidewalk with a heavy iron grating supporting a glass facade .</context>
+    </instance>
+    <instance id="n02977058_d_15" docsrc="n02977058_d">
+      <context> an unattended machine ( outside some banks ) that dispenses money when a personal coded <head>card</head> is used ;</context>
+    </instance>
+    <instance id="n03080731_d_6" docsrc="n03080731_d">
+      <context> compass in the form of a <head>card</head> that rotates so that 0 degrees or North points to magnetic_north ;</context>
+    </instance>
+    <instance id="n04004210_d_16" docsrc="n04004210_d">
+      <context> computer_circuit consisting of an electronic sub-assembly ; copper conductors are laminated on an insulating board or <head>card</head> and circuit components are inserted into holes and dip_soldered ;</context>
+    </instance>
+    <instance id="n04249705_d_5" docsrc="n04249705_d">
+      <context> display consisting of a printed <head>card</head> with letters and numbers in lines of decreasing size ; used to test visual_acuity ;</context>
+    </instance>
+    <instance id="n04437131_d_1" docsrc="n04437131_d">
+      <context> a <head>card</head> used with a time_clock to record an employee's starting and quitting times each day ;</context>
+    </instance>
+    <instance id="n06425404_d_1" docsrc="n06425404_d">
+      <context> a <head>card</head> on which are printed the person's name and business affiliation ;</context>
+    </instance>
+    <instance id="n06477371_d_1" docsrc="n06477371_d">
+      <context> a <head>card</head> certifying the identity of the bearer ;</context>
+    </instance>
+    <instance id="n06477371_ex1_5" docsrc="n06477371_ex1">
+      <context> he had to show his <head>card</head> to get in ;</context>
+    </instance>
+    <instance id="n06477645_d_1" docsrc="n06477645_d">
+      <context> a <head>card</head> that you carry on your person and that authorizes the use of your organs for transplantation after your death ;</context>
+    </instance>
+    <instance id="n06477818_d_2" docsrc="n06477818_d">
+      <context> a plastic <head>card</head> that has a magnetically coded strip that is scanned in order to operate a mechanism ;</context>
+    </instance>
+    <instance id="n06477970_d_1" docsrc="n06477970_d">
+      <context> a <head>card</head> certifying membership in an organization ;</context>
+    </instance>
+    <instance id="n06478097_d_1" docsrc="n06478097_d">
+      <context> a <head>card</head> certifying membership in a labor_union ;</context>
+    </instance>
+    <instance id="n06478199_d_1" docsrc="n06478199_d">
+      <context> a <head>card</head> certifying the bearer's right to use the library ;</context>
+    </instance>
+    <instance id="n06478331_d_1" docsrc="n06478331_d">
+      <context> a <head>card</head> certifying the bearer's right to purchase rationed goods ;</context>
+    </instance>
+    <instance id="n06486161_ex1_4" docsrc="n06486161_ex1">
+      <context> the managers presented their <head>cards</head> to the umpire at home plate ;</context>
+    </instance>
+    <instance id="n06488473_d_12" docsrc="n06488473_d">
+      <context> a library_catalog in which each publication is described on a separate file <head>card</head> ;</context>
+    </instance>
+    <instance id="n06504838_d_1" docsrc="n06504838_d">
+      <context> a <head>card</head> recording an employee's starting and quitting times each work_day ;</context>
+    </instance>
+    <instance id="n06507941_ex1_6" docsrc="n06507941_ex1">
+      <context> you have to turn in your <head>card</head> to get a handicap ;</context>
+    </instance>
+    <instance id="n06627006_ex1_4" docsrc="n06627006_ex1">
+      <context> they sent us a <head>card</head> from Miami ;</context>
+    </instance>
+    <instance id="n06627260_d_1" docsrc="n06627260_d">
+      <context> a <head>card</head> expressing a birthday greeting ;</context>
+    </instance>
+    <instance id="n06627357_d_1" docsrc="n06627357_d">
+      <context> a <head>card</head> expressing get_well wishes ;</context>
+    </instance>
+    <instance id="n06627450_d_1" docsrc="n06627450_d">
+      <context> a <head>card</head> sent to express personal greetings ;</context>
+    </instance>
+    <instance id="n06627623_d_1" docsrc="n06627623_d">
+      <context> a <head>card</head> expressing a Christmas greeting ;</context>
+    </instance>
+    <instance id="n06627722_d_1" docsrc="n06627722_d">
+      <context> a <head>card</head> expressing an Easter greeting ;</context>
+    </instance>
+    <instance id="n06627816_d_1" docsrc="n06627816_d">
+      <context> a <head>card</head> sent or given ( as to a sweetheart ) on Saint_Valentine's_Day ;</context>
+    </instance>
+    <instance id="n06627938_d_1" docsrc="n06627938_d">
+      <context> a <head>card</head> for sending messages by post without an envelope ;</context>
+    </instance>
+    <instance id="n06628328_d_1" docsrc="n06628328_d">
+      <context> a <head>card</head> expressing sympathy ;</context>
+    </instance>
+    <instance id="n06628450_d_1" docsrc="n06628450_d">
+      <context> a <head>card</head> sent to a bereaved family that says the sender has arranged for a Mass to be said in memory of the deceased ;</context>
+    </instance>
+    <instance id="n06628663_d_1" docsrc="n06628663_d">
+      <context> a <head>card</head> indicating that the sender will perform certain devotional acts on behalf of another ;</context>
+    </instance>
+    <instance id="n06793959_d_1" docsrc="n06793959_d">
+      <context> a <head>card</head> with words or numbers or pictures that is flashed to a class by the teacher ;</context>
+    </instance>
+    <instance id="n06887055_d_1" docsrc="n06887055_d">
+      <context> a <head>card</head> that identifies the bearer as an alien with permanent resident status in the United_States ;</context>
+    </instance>
+    <instance id="n06887278_d_1" docsrc="n06887278_d">
+      <context> a <head>card</head> or badge used to identify the bearer ;</context>
+    </instance>
+    <instance id="n10531694_d_5" docsrc="n10531694_d">
+      <context> a young_woman who holds up <head>cards</head> indicating the number of the next round at prize_fights ;</context>
+    </instance>
+    <instance id="n13376012_d_1" docsrc="n13376012_d">
+      <context> a <head>card</head> ( usually plastic ) that assures a seller that the person using it has a satisfactory credit_rating and that the issuer will see_to_it that the seller receives payment for the merchandise delivered ;</context>
+    </instance>
+    <instance id="n13376512_d_1" docsrc="n13376512_d">
+      <context> a <head>card</head> that is used instead of cash to make telephone_calls ;</context>
+    </instance>
+    <instance id="n13376764_d_1" docsrc="n13376764_d">
+      <context> a <head>card</head> ( usually plastic ) that enables the holder to withdraw money or to have the cost of purchases charged directly to the holder's bank_account ;</context>
+    </instance>
+    <instance id="n13377003_d_2" docsrc="n13377003_d">
+      <context> a plastic <head>card</head> containing a microprocessor that enables the holder to perform operations requiring data that is stored in the microprocessor ; typically used to perform financial transactions ;</context>
+    </instance>
+    <instance id="n13472341_d_9" docsrc="n13472341_d">
+      <context> automatic_data_processing by electronic means without the use of tabulating <head>cards</head> or punched tapes ;</context>
+    </instance>
+    <instance id="n13830305_d_8" docsrc="n13830305_d">
+      <context> any of 32 horizontal directions indicated on the <head>card</head> of a compass ;</context>
+    </instance>
+    <instance id="n14805676_d_16" docsrc="n14805676_d">
+      <context> a small piece_of_paper that is supposed to be removed when a hole is punched in a <head>card</head> or paper_tape ;</context>
+    </instance>
+  </lexelt>
+</corpus>

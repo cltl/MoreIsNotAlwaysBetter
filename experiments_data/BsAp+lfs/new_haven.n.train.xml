@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="new_haven.n" pos="NN">
+    <instance id="br-e23#w2116_0" docsrc="br-e23">
+      <context> When I looked_up the actual date of his birth and found it to be March 15_th , I realized that Roy was_born under the right zodiacal sign for a watercolorist : the water sign of Pisces ( February 18 - March 20 ) . And how very often a water plane is featured in his landscapes , and how appropriate that he should appear in American_Artist again , in his natal month of March ! Over the years , beginning in 1929 , Mason has been awarded seventeen major prizes including two gold medals ; two Ranger_Fund_purchase_awards ; the Joseph_Pennell_Memorial_Medal ; two American_Watercolor_Society_prizes ; the Blair_Purchase_Prize for watercolor , Art_Institute of Chicago ; and_others in Buffalo , New_York , Chautauqua , <head>New_Haven</head> , Rochester , Rockport , and most_recently , the $ 300 prize for a watercolor at the Laguna_Beach_Art_Association , He was elected to the National_Academy_of_Design as an Associate in the oil class in 1931 ( after receiving his first Ranger_Fund_Purchase_Prize at the Academy in 1930 ) , and elevated to Academicianship in 1940 . Other memberships include the American_Watercolor_Society , Philadelphia_Water_Color_Club , Allied_Artists_of_America , Audubon_Artists , Baltimore_Watercolor_Society .</context>
+    </instance>
+  </lexelt>
+</corpus>

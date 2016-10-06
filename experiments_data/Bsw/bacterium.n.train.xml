@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="bacterium.n" pos="NN">
+    <instance id="Bacteria-bacterium-38-97-2" docsrc="Bacteria">
+      <context> Bacteriophages are viruses that infect bacteria . Many types of bacteriophage exist , some simply infect and lyse their host bacteria , while others insert into the bacterial chromosome . A bacteriophage can contain genes that contribute to <head>its</head> host 's phenotype : for example , in the evolution of Escherichia coli O157:H7 and Clostridium botulinum , the toxin genes in an integrated phage converted a harmless ancestral bacterium into a lethal pathogen .</context>
+    </instance>
+    <instance id="Bacteria-bacterium-4-91-1" docsrc="Bacteria">
+      <context> The third method of <head>gene</head> transfer is conjugation , whereby DNA is transferred through direct cell contact . Transformation , unlike transduction or conjugation , depends on numerous bacterial gene products that specifically interact to perform this complex process , and thus transformation is clearly a bacterial adaptation for DNA transfer . In order for a bacterium to bind , take up and recombine donor DNA into its own chromosome , it must first enter a special physiological state termed competence ( see Natural competence ) .</context>
+    </instance>
+  </lexelt>
+</corpus>

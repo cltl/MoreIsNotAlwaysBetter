@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="language.n" pos="NN">
+    <instance id="Nomenclature-language-14-0-2" docsrc="Nomenclature">
+      <context> Nomenclature is a system of names or terms , or the rules for forming <head>these</head> terms in a particular field of arts or sciences . The principles of naming vary from the relatively informal conventions of everyday speech to the internationally agreed principles , rules and recommendations that govern the formation and use of the specialist terms used in scientific and other disciplines . Naming " things " is a part of general human communication using words and language : it is an aspect of everyday taxonomy as people distinguish the objects of their experience , together with their similarities and differences , which observers identify , name and classify .</context>
+    </instance>
+    <instance id="Nomenclature-language-15-1-1" docsrc="Nomenclature">
+      <context> The principles of naming vary from the relatively informal conventions of everyday speech to the <head>internationally</head> agreed principles , rules and recommendations that govern the formation and use of the specialist terms used in scientific and other disciplines . Naming " things " is a part of general human communication using words and language : it is an aspect of everyday taxonomy as people distinguish the objects of their experience , together with their similarities and differences , which observers identify , name and classify . The use of names , as the many different kinds of nouns embedded in different languages , connects nomenclature to theoretical linguistics , while the way humans mentally structure the world in relation to word meanings and experience relates to the philosophy of language .</context>
+    </instance>
+    <instance id="Nomenclature-language-2-32-1" docsrc="Nomenclature">
+      <context> === Folk <head>taxonomy</head> === these groups are arranged into more inclusive groups or ethnobiological categories in all languages there are about five or six ethnobiological categories of graded inclusiveness</context>
+    </instance>
+    <instance id="Nomenclature-language-33-22-1" docsrc="Nomenclature">
+      <context> === Names , words , language and meaning === Elucidating the connections between language ( especially names and nouns ) , meaning and the way we perceive the world has provided a rich <head>field</head> of study for philosophers and linguists . Relevant areas of study include : the distinction between proper names and proper nouns ; and the relationship between names , their referents , meanings ( semantics ) , and the structure of language .</context>
+    </instance>
+    <instance id="Nomenclature-language-4-20-1" docsrc="Nomenclature">
+      <context> Names provide us with <head>a</head> way of structuring and mapping the world in our minds so , in some way , they mirror or represent the objects of our experience . === Names , words , language and meaning === Elucidating the connections between language ( especially names and nouns ) , meaning and the way we perceive the world has provided a rich field of study for philosophers and linguists .</context>
+    </instance>
+    <instance id="Nomenclature-language-43-1-1" docsrc="Nomenclature">
+      <context> The principles of naming vary from the relatively informal conventions of everyday speech to the internationally agreed principles , rules and recommendations that govern the formation and use of the specialist terms used in scientific and other disciplines . Naming " things " <head>is</head> a part of general human communication using words and language : it is an aspect of everyday taxonomy as people distinguish the objects of their experience , together with their similarities and differences , which observers identify , name and classify . The use of names , as the many different kinds of nouns embedded in different languages , connects nomenclature to theoretical linguistics , while the way humans mentally structure the world in relation to word meanings and experience relates to the philosophy of language .</context>
+    </instance>
+    <instance id="Nomenclature-language-5-17-1" docsrc="Nomenclature">
+      <context> Probably the best known of <head>these</head> nomenclatural systems are the five codes of biological nomenclature that govern the Latinized scientific names of organisms . Names provide us with a way of structuring and mapping the world in our minds so , in some way , they mirror or represent the objects of our experience . === Names , words , language and meaning ===</context>
+    </instance>
+    <instance id="Nomenclature-language-6-60-1" docsrc="Nomenclature">
+      <context> === Personal names === === Common <head>names</head> and proper names === The capitalization of nouns varies with language and even the particular context : journals often have their own house styles for common names .</context>
+    </instance>
+    <instance id="Terminology-language-16-7-1" docsrc="Terminology">
+      <context> analyzing the concepts and concept structures used in a field or domain of activity identifying the <head>terms</head> assigned to the concepts in the case of bilingual or multilingual terminology , establishing correspondences between terms in the various languages</context>
+    </instance>
+    <instance id="Terminology-language-4-47-1" docsrc="Terminology">
+      <context> ISO Technical Committee 37 <head>"</head> Terminology and other language and content resources " ( ISO/TC 37 ) Faoterm from the FAO Terminology website The Online Dictionary of Language Terminology</context>
+    </instance>
+    <instance id="Terminology-language-8-1-2" docsrc="Terminology">
+      <context> Terminology is a discipline that systematically studies the <head>"</head> labelling or designating of concepts " particular to one or more subject fields or domains of human activity . It does this through the research and analysis of terms in context for the purpose of documenting and promoting consistent usage . Terminology can be limited to one or more languages ( for example , " multilingual terminology " and " bilingual terminology " ) , or may have an interdisciplinarity focus on the use of terms in different fields .</context>
+    </instance>
+    <instance id="Terminology-language-8-43-1" docsrc="Terminology">
+      <context> Wright , S.E. ; Budin , G. : <head>(</head> 1997 ) : Handbook of Terminology Management , Volume 1 , Basic Aspects of Terminology Management , Amsterdam , Philadelphia , John Benjamins 370 pp . Terminology from the OTTIAQ website ISO Technical Committee 37 " Terminology and other language and content resources " ( ISO/TC 37 )</context>
+    </instance>
+    <instance id="a00111604_d_5" docsrc="a00111604_d">
+      <context> relating to or being a <head>language</head> in which each word typically expresses a distinct idea and part_of_speech and syntactical relations are determined almost exclusively by word_order and particles ;</context>
+    </instance>
+    <instance id="a00150202_d_8" docsrc="a00150202_d">
+      <context> expressing yourself easily or characterized by clear expressive <head>language</head> ;</context>
+    </instance>
+    <instance id="n00751779_d_7" docsrc="n00751779_d">
+      <context> falsification by means of vague or ambiguous <head>language</head> ;</context>
+    </instance>
+    <instance id="n00926277_d_4" docsrc="n00926277_d">
+      <context> deliberately ambiguous and contradictory <head>language</head> use to mislead and manipulate the public ;</context>
+    </instance>
+    <instance id="n05650820_ex1_0" docsrc="n05650820_ex1">
+      <context> <head>language</head> sets homo sapiens apart from all other animals ;</context>
+    </instance>
+    <instance id="n06304059_ex3_1" docsrc="n06304059_ex3">
+      <context> the <head>language</head> of sociology ;</context>
+    </instance>
+    <instance id="n06900156_d_1" docsrc="n06900156_d">
+      <context> a <head>language</head> that can be used to describe languages ;</context>
+    </instance>
+    <instance id="n06901333_d_1" docsrc="n06901333_d">
+      <context> a <head>language</head> that can not be used as its own metalanguage ;</context>
+    </instance>
+    <instance id="n06902611_d_3" docsrc="n06902611_d">
+      <context> common business oriented <head>language</head> ;</context>
+    </instance>
+    <instance id="n06990371_d_2" docsrc="n06990371_d">
+      <context> the liturgical <head>language</head> of the Coptic_Church used in Egypt and Ethiopia ; written in the Greek_alphabet ;</context>
+    </instance>
+    <instance id="n07051975_ex3_4" docsrc="n07051975_ex3">
+      <context> the song uses colloquial <head>language</head> ;</context>
+    </instance>
+    <instance id="n07069074_d_3" docsrc="n07069074_d">
+      <context> using the technical <head>language</head> of ecology to make the user seem ecologically aware ;</context>
+    </instance>
+    <instance id="n07072587_d_1" docsrc="n07072587_d">
+      <context> using <head>language</head> loaded with psychological terminology ;</context>
+    </instance>
+    <instance id="n09798244_d_10" docsrc="n09798244_d">
+      <context> someone affected by aphasia or inability to use or understand <head>language</head> ;</context>
+    </instance>
+    <instance id="v00961947_d_8" docsrc="v00961947_d">
+      <context> express , as in simple and less technical <head>language</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

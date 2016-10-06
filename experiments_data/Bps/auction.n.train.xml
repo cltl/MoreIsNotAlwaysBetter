@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="auction.n" pos="NN">
+    <instance id="n07461831_d_11" docsrc="n07461831_d">
+      <context> a horse_race in which the winning horse must be put_up for <head>auction</head> ;</context>
+    </instance>
+    <instance id="n08076946_d_4" docsrc="n08076946_d">
+      <context> a firm that conducts <head>auctions</head> ;</context>
+    </instance>
+    <instance id="n09608377_d_5" docsrc="n09608377_d">
+      <context> an agent who conducts an <head>auction</head> ;</context>
+    </instance>
+    <instance id="n13394907_d_20" docsrc="n13394907_d">
+      <context> securities with maturities of 1 to 10 years ; sold for cash or in exchange for maturing issues or at <head>auction</head> ;</context>
+    </instance>
+    <instance id="v02244773_d_3" docsrc="v02244773_d">
+      <context> sell at an <head>auction</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

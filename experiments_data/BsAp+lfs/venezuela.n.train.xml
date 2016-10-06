@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Venezuela.n" pos="NN">
+    <instance id="br-f23#w1965_0" docsrc="br-f23">
+      <context> Today it is up_for_grabs . One Latin_American country , Cuba , has become a Soviet bridgehead ninety miles off our coast . In some countries the trend has gone further than others : Mexico , Panama , and <head>Venezuela</head> are displaying open sympathy for Castroism , and there is no country - save the Dominican_Republic whose funeral services we recently arranged - where Castroism and anti Americanism does not prevent the government from unqualifiedly espousing the American cause . Only in Europe have our lines remained_firm - and there only on the surface . The strains of neutralism are running strong , notably in England , and even in Germany . What have we to show by_way_of counter successes ?</context>
+    </instance>
+  </lexelt>
+</corpus>

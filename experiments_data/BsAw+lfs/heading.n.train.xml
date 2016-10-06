@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="heading.n" pos="NN">
+    <instance id="Bearing_(navigation)-heading-15-42-4" docsrc="Bearing_(navigation)">
+      <context> If the reference direction is north ( either true north , magnetic north , or <head>grid</head> north ) , the bearing is termed an absolute bearing . In a contemporary land navigation context , true , magnetic , and grid bearings are always measured in this way , with true north , magnetic north , or grid north being 0° in a 360-degree system . In aircraft navigation , an angle is normally measured from the aircraft 's track or heading , in a clockwise direction .</context>
+    </instance>
+    <instance id="br-l12#w701_0" docsrc="br-l12">
+      <context> They had come not to admire but to observe . `` It 's worse inside '' , Thornburg informed Andy . `` Skolman 's jammed in every table he could find . Under the <head>heading</head> of_it 's an ill wind , et_cetera '' . Backstage was tomb like by contrast . Andy 's co-workers kept their distance , awed by the tragedy . But in his dressing_room was a large bouquet and a card that read , `` We 're with you all_the_way '' .</context>
+    </instance>
+  </lexelt>
+</corpus>

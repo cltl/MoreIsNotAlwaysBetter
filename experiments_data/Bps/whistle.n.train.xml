@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="whistle.n" pos="NN">
+    <instance id="a01921868_d_6" docsrc="a01921868_d">
+      <context> resembling a sustained sh or soft <head>whistle</head> ;</context>
+    </instance>
+    <instance id="n01623425_d_14" docsrc="n01623425_d">
+      <context> small North_American owl having hornlike tufts of feathers whose call sounds like a quavering <head>whistle</head> ;</context>
+    </instance>
+    <instance id="n02859829_d_1" docsrc="n02859829_d">
+      <context> a <head>whistle</head> on a boat that is sounded as a warning ;</context>
+    </instance>
+    <instance id="n03316988_d_1" docsrc="n03316988_d">
+      <context> a <head>whistle</head> at a factory that is sounded to announce times for starting or stopping work ;</context>
+    </instance>
+    <instance id="n04310721_d_1" docsrc="n04310721_d">
+      <context> a <head>whistle</head> in which the sound is produced by steam ; usually attached to a steam_boiler ;</context>
+    </instance>
+    <instance id="n06806098_ex1_1" docsrc="n06806098_ex1">
+      <context> the <head>whistle</head> signalled the end of the game ;</context>
+    </instance>
+  </lexelt>
+</corpus>

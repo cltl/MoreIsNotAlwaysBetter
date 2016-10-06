@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="heading.n" pos="NN">
+    <instance id="a01184706_d_2" docsrc="a01184706_d">
+      <context> having a <head>heading</head> or caption ;</context>
+    </instance>
+    <instance id="a01184825_d_3" docsrc="a01184825_d">
+      <context> not having a <head>heading</head> or caption ;</context>
+    </instance>
+    <instance id="a01683221_d_2" docsrc="a01683221_d">
+      <context> having a <head>heading</head> or course in a certain direction ;</context>
+    </instance>
+    <instance id="br-l12#w701_0" docsrc="br-l12">
+      <context> They had come not to admire but to observe . `` It 's worse inside '' , Thornburg informed Andy . `` Skolman 's jammed in every table he could find . Under the <head>heading</head> of_it 's an ill wind , et_cetera '' . Backstage was tomb like by contrast . Andy 's co-workers kept their distance , awed by the tragedy . But in his dressing_room was a large bouquet and a card that read , `` We 're with you all_the_way '' .</context>
+    </instance>
+    <instance id="n04158457_d_18" docsrc="n04158457_d">
+      <context> restraint consisting of a canvas covered frame that floats behind a vessel ; prevents drifting or maintains the <head>heading</head> into a wind ;</context>
+    </instance>
+    <instance id="n06030906_d_10" docsrc="n06030906_d">
+      <context> a two-way tabulation of the relations between correlates ; row <head>headings</head> are the scores on one variable and column headings are the scores on the second variables and a cell shows how many times the score on that row was associated with the score in that column ;</context>
+    </instance>
+    <instance id="n06030906_d_19" docsrc="n06030906_d">
+      <context> a two-way tabulation of the relations between correlates ; row headings are the scores on one variable and column <head>headings</head> are the scores on the second variables and a cell shows how many times the score on that row was associated with the score in that column ;</context>
+    </instance>
+    <instance id="n06343971_ex1_1" docsrc="n06343971_ex1">
+      <context> the <head>heading</head> seemed to have little to do with the text ;</context>
+    </instance>
+    <instance id="n06344329_d_1" docsrc="n06344329_d">
+      <context> a <head>heading</head> of a subsection printed within the body of the text ;</context>
+    </instance>
+    <instance id="n06344461_d_1" docsrc="n06344461_d">
+      <context> the <head>heading</head> or caption of a newspaper_article ;</context>
+    </instance>
+    <instance id="n06344998_d_3" docsrc="n06344998_d">
+      <context> a title or <head>heading</head> that is printed in red or in a special type ;</context>
+    </instance>
+    <instance id="n06345131_d_1" docsrc="n06345131_d">
+      <context> a <head>heading</head> printed at the top of every page ( or every other page ) of a book ;</context>
+    </instance>
+    <instance id="n06345320_d_1" docsrc="n06345320_d">
+      <context> a <head>heading</head> of a subdivision of a text ;</context>
+    </instance>
+    <instance id="n06345993_d_1" docsrc="n06345993_d">
+      <context> a <head>heading</head> that names a statute or legislative bill ; may give a brief summary of the matters it deals with ;</context>
+    </instance>
+    <instance id="n06346461_d_4" docsrc="n06346461_d">
+      <context> a general or descriptive <head>heading</head> for a section of a written work ;</context>
+    </instance>
+    <instance id="n07259610_d_9" docsrc="n07259610_d">
+      <context> a fixed line on a ship's compass indicating its <head>heading</head> ;</context>
+    </instance>
+    <instance id="n08681084_d_1" docsrc="n08681084_d">
+      <context> the <head>heading</head> or position of a vessel relative to the trim of its sails ;</context>
+    </instance>
+    <instance id="n13755342_d_17" docsrc="n13755342_d">
+      <context> the usable capacity of a disk_drive ; the amount of space that is left after the sector <head>headings</head> and boundary definitions and timing information have been added by formatting the disk ;</context>
+    </instance>
+  </lexelt>
+</corpus>

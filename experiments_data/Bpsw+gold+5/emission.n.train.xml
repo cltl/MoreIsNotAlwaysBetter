@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="emission.n" pos="NN">
+    <instance id="n01251923_d_11" docsrc="n01251923_d">
+      <context> the introduction of electromagnetic energy into enemy systems that imitates enemy <head>emissions</head> ;</context>
+    </instance>
+    <instance id="n03509843_d_15" docsrc="n03509843_d">
+      <context> a missile with a guidance_system that directs it toward targets emitting infrared_radiation ( as the <head>emissions</head> of a jet_engine ) ;</context>
+    </instance>
+    <instance id="n03643253_d_7" docsrc="n03643253_d">
+      <context> an acronym for light amplification by stimulated <head>emission</head> of radiation ; an optical_device that produces an intense monochromatic beam of coherent light ;</context>
+    </instance>
+    <instance id="n03724176_d_7" docsrc="n03724176_d">
+      <context> an acronym for microwave amplification by stimulated <head>emission</head> of radiation ; an amplifier that works on the same principle as a laser and emits coherent microwave radiation ;</context>
+    </instance>
+    <instance id="n04167489_d_13" docsrc="n04167489_d">
+      <context> a missile equipped with a device that is attracted toward some kind of <head>emission</head> ( heat or light or sound or radio_waves ) ;</context>
+    </instance>
+    <instance id="n05769156_d_14" docsrc="n05769156_d">
+      <context> an erotic dream ( usually at night ) accompanied by the ( nocturnal ) <head>emission</head> of semen ;</context>
+    </instance>
+    <instance id="n06099269_d_8" docsrc="n06099269_d">
+      <context> the branch of physics that deals with the <head>emission</head> and effects of electrons and with the use of electronic_devices ;</context>
+    </instance>
+    <instance id="n07359377_d_18" docsrc="n07359377_d">
+      <context> an abrupt transition of an electron or atom or molecule from one quantum state to another with the <head>emission</head> or absorption of a quantum ;</context>
+    </instance>
+    <instance id="n07428797_d_10" docsrc="n07428797_d">
+      <context> a sudden disturbance of the earth's magnetic_field ; caused by <head>emission</head> of particles from the sun ;</context>
+    </instance>
+    <instance id="n11238906_d_12" docsrc="n11238906_d">
+      <context> German physicist whose explanation of blackbody_radiation in the context of quantized energy <head>emissions</head> initiated quantum_theory ;</context>
+    </instance>
+    <instance id="n11410172_d_1" docsrc="n11410172_d">
+      <context> an <head>emission</head> of photoelectrons ( especially from a metallic surface ) ;</context>
+    </instance>
+    <instance id="n11420831_d_8" docsrc="n11420831_d">
+      <context> an ordered array of the components of an <head>emission</head> or wave ;</context>
+    </instance>
+    <instance id="n11421822_d_15" docsrc="n11421822_d">
+      <context> the energy that an atomic system must acquire before a process ( such as an <head>emission</head> or reaction ) can occur ;</context>
+    </instance>
+    <instance id="n11467786_d_4" docsrc="n11467786_d">
+      <context> the phenomenon of light <head>emission</head> by a body as its temperature is raised ;</context>
+    </instance>
+    <instance id="n11474774_d_3" docsrc="n11474774_d">
+      <context> an acronym for <head>emissions</head> of light and very low frequency perturbations due to electromagnetic pulse sources ; extremely bright extremely short ( less than a msec ) electrical flashes forming a huge ring ( up to 400 km diameter ) in the ionosphere ;</context>
+    </instance>
+    <instance id="n11475279_d_14" docsrc="n11475279_d">
+      <context> abrupt electric_discharge from cloud to cloud or from cloud to earth accompanied by the <head>emission</head> of light ;</context>
+    </instance>
+    <instance id="n13569774_d_1" docsrc="n13569774_d">
+      <context> the <head>emission</head> of water_vapor from the leaves of plants ;</context>
+    </instance>
+    <instance id="n14517629_d_11" docsrc="n14517629_d">
+      <context> rain containing acids that form in the atmosphere when industrial gas <head>emissions</head> ( especially sulfur_dioxide and nitrogen_oxides ) combine with water ;</context>
+    </instance>
+    <instance id="n14839439_d_17" docsrc="n14839439_d">
+      <context> a small discrete mass of solid or liquid matter that remains individually dispersed in gas or liquid <head>emissions</head> ( usually considered to be an atmospheric pollutant ) ;</context>
+    </instance>
+    <instance id="n15064053_d_21" docsrc="n15064053_d">
+      <context> a colorless toxic gas that occurs in the gases from volcanoes ; used in many manufacturing processes and present in industrial <head>emissions</head> ; causes acid_rain ;</context>
+    </instance>
+  </lexelt>
+</corpus>

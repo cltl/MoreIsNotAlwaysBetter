@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="compatibility.n" pos="NN">
+    <instance id="a00562469_d_4" docsrc="a00562469_d">
+      <context> lacking in harmony or <head>compatibility</head> or appropriateness ;</context>
+    </instance>
+    <instance id="n04712978_d_0" docsrc="n04712978_d">
+      <context> <head>compatibility</head> between persons ;</context>
+    </instance>
+    <instance id="n04713118_d_0" docsrc="n04713118_d">
+      <context> <head>compatibility</head> in opinion and action ;</context>
+    </instance>
+    <instance id="n04713332_d_1" docsrc="n04713332_d">
+      <context> sympathetic <head>compatibility</head> ;</context>
+    </instance>
+    <instance id="n04713428_d_0" docsrc="n04713428_d">
+      <context> <head>compatibility</head> of observations ;</context>
+    </instance>
+    <instance id="r00287749_d_1" docsrc="r00287749_d">
+      <context> with <head>compatibility</head> ;</context>
+    </instance>
+    <instance id="r00287842_d_1" docsrc="r00287842_d">
+      <context> without <head>compatibility</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

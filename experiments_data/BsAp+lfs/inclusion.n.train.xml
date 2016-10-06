@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="inclusion.n" pos="NN">
+    <instance id="n09310806_ex1_1" docsrc="n09310806_ex1">
+      <context> an <head>inclusion</head> in the cytoplasm of the cell ;</context>
+    </instance>
+    <instance id="n13793504_d_3" docsrc="n13793504_d">
+      <context> a connection of <head>inclusion</head> or containment ;</context>
+    </instance>
+    <instance id="n13794034_ex1_3" docsrc="n13794034_ex1">
+      <context> he admired the <head>inclusion</head> of so many ideas in such a short work ;</context>
+    </instance>
+  </lexelt>
+</corpus>

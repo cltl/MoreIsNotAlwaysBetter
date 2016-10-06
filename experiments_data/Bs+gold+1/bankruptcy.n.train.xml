@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="bankruptcy.n" pos="NN">
+    <instance id="br-g23#w1898_0" docsrc="br-g23">
+      <context> Our presidential campaigns provide much debate and argument . But is the result new barnsful of tested knowledge on the basis of which we can with_confidence solve our domestic and international problems ? Man , we are told , is endowed with reason and is capable of distinguishing good from bad . But what a super Herculean task it is to winnow anything of value from the mud_beplastered arguments used so freely , particularly since such common use is made of cliches and stereotypes , in themselves declarations of intellectual <head>bankruptcy</head> . We are reminded , however , that freedom_of_thought and discussion , the unfettered exchange of ideas , is basic under our form_of_government . Assuredly in our political_campaigns there is freedom to think , to examine any and all issues , and to speak without restraint . No_holds_are_barred .</context>
+    </instance>
+    <instance id="br-n11#w2105_0" docsrc="br-n11">
+      <context> `` My reputation 's my stock in trade '' , Tom mentioned more_than once . He evidently could n't foresee that it might be his downfall in_the_end . He had made himself the personification of the_Devil to the homesteaders . But to the cattlemen who had been facing <head>bankruptcy</head> from rustling losses and to the cowboys who had been faced with lay-offs a_few years earlier , he was becoming a vastly different type of legendary figure . Such ranchers as Coble and Clay and the Bosler brothers carried him on their books as a cowhand even while he was receiving a much larger salary from parties unknown . He made their spreads his headquarters , and he helped_out in their roundups . In the cow camps , Tom_Horn was regarded_as a hero , as the same kind of champion he was when he entered and invariably won the local rodeos .</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="CEO.n" pos="NN">
+    <instance id="n07418963_ex1_8" docsrc="n07418963_ex1">
+      <context> this program is intended as a reality_check for <head>CEOs</head> ;</context>
+    </instance>
+    <instance id="n13321722_ex1_13" docsrc="n13321722_ex1">
+      <context> the agency got a finder's_fee when their candidate was hired as the new <head>CEO</head> ;</context>
+    </instance>
+    <instance id="r00046167_ex1_5" docsrc="r00046167_ex1">
+      <context> he serves additionally as the <head>CEO</head> ;</context>
+    </instance>
+    <instance id="r00119357_ex1_1" docsrc="r00119357_ex1">
+      <context> the <head>CEO</head> resigned on_the_coattails of the scandal ;</context>
+    </instance>
+    <instance id="v02405390_ex1_4" docsrc="v02405390_ex1">
+      <context> Smith replaced Miller as <head>CEO</head> after Miller left ;</context>
+    </instance>
+  </lexelt>
+</corpus>

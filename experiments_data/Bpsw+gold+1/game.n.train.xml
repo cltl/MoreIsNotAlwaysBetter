@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="game.n" pos="NN">
+    <instance id="a02332421_d_2" docsrc="a02332421_d">
+      <context> of a <head>game</head> ( or the pitching ) in which a pitcher allows the opponent no hits ;</context>
+    </instance>
+    <instance id="a03152015_d_2" docsrc="a03152015_d">
+      <context> ( of <head>games</head> ) engaged in ;</context>
+    </instance>
+    <instance id="n00041188_d_6" docsrc="n00041188_d">
+      <context> the action of taking_part in a <head>game</head> or sport or other recreation ;</context>
+    </instance>
+    <instance id="n00041740_d_4" docsrc="n00041740_d">
+      <context> the playing of a <head>game</head> of tenpins or duckpins etc ;</context>
+    </instance>
+    <instance id="n00145024_d_16" docsrc="n00145024_d">
+      <context> the act of touching a player in a game ( which changes their status in the <head>game</head> ) ;</context>
+    </instance>
+    <instance id="n00145024_d_8" docsrc="n00145024_d">
+      <context> the act of touching a player in a <head>game</head> ( which changes their status in the game ) ;</context>
+    </instance>
+    <instance id="n00167950_d_5" docsrc="n00167950_d">
+      <context> a chess_move early in the <head>game</head> in which the player sacrifices minor pieces in order to obtain an advantageous position ;</context>
+    </instance>
+    <instance id="n00172490_d_4" docsrc="n00172490_d">
+      <context> a maneuver in a <head>game</head> or conversation ;</context>
+    </instance>
+    <instance id="n00186634_d_6" docsrc="n00186634_d">
+      <context> the act of scoring in a <head>game</head> or sport ;</context>
+    </instance>
+    <instance id="n00190579_d_11" docsrc="n00190579_d">
+      <context> three consecutive scores by one player or three scores in one <head>game</head> ( as in cricket or ice_hockey etc. ) ;</context>
+    </instance>
+    <instance id="n00241699_d_9" docsrc="n00241699_d">
+      <context> a turn to be a starter ( in a <head>game</head> at the beginning ) ;</context>
+    </instance>
+    <instance id="n00452734_d_7" docsrc="n00452734_d">
+      <context> a hunt in which beaters force the <head>game</head> to flee in the direction of the hunter ;</context>
+    </instance>
+    <instance id="n00456199_ex1_1" docsrc="n00456199_ex1">
+      <context> the <head>game</head> lasted two hours ;</context>
+    </instance>
+    <instance id="n00456465_d_1" docsrc="n00456465_d">
+      <context> a <head>game</head> played in daylight ;</context>
+    </instance>
+    <instance id="n00456563_d_1" docsrc="n00456563_d">
+      <context> a <head>game</head> played under artificial illumination at night ;</context>
+    </instance>
+    <instance id="n00456690_d_1" docsrc="n00456690_d">
+      <context> a <head>game</head> played away from home ;</context>
+    </instance>
+    <instance id="n00456804_d_1" docsrc="n00456804_d">
+      <context> a <head>game</head> played at_home ;</context>
+    </instance>
+    <instance id="n00456899_d_1" docsrc="n00456899_d">
+      <context> a <head>game</head> whose outcome is not recorded in the season's standing ;</context>
+    </instance>
+    <instance id="n00457723_d_7" docsrc="n00457723_d">
+      <context> an offensive move in a sport or <head>game</head> ;</context>
+    </instance>
+    <instance id="n00457890_d_10" docsrc="n00457890_d">
+      <context> a recognized sequence of moves at the beginning of a <head>game</head> of chess ;</context>
+    </instance>
+    <instance id="n00460844_d_2" docsrc="n00460844_d">
+      <context> the final <head>game</head> of a double_header ;</context>
+    </instance>
+    <instance id="n00460951_d_1" docsrc="n00460951_d">
+      <context> two <head>games</head> instead of one ( especially in baseball when the same two teams play two games on the same day ) ;</context>
+    </instance>
+    <instance id="n00460951_d_16" docsrc="n00460951_d">
+      <context> two games instead of one ( especially in baseball when the same two teams play two <head>games</head> on the same day ) ;</context>
+    </instance>
+    <instance id="n00461162_d_1" docsrc="n00461162_d">
+      <context> one <head>game</head> in the series of games constituting a playoff ;</context>
+    </instance>
+    <instance id="n00461162_d_6" docsrc="n00461162_d">
+      <context> one game in the series of <head>games</head> constituting a playoff ;</context>
+    </instance>
+    <instance id="n00461294_d_2" docsrc="n00461294_d">
+      <context> an eliminating <head>game</head> between teams in a cup competition ;</context>
+    </instance>
+    <instance id="n00474881_d_1" docsrc="n00474881_d">
+      <context> a <head>game</head> in which a pitcher does not allow any opposing player to reach base ;</context>
+    </instance>
+    <instance id="n00475014_d_1" docsrc="n00475014_d">
+      <context> a <head>game</head> in which a pitcher allows the opposing team no hits ;</context>
+    </instance>
+    <instance id="n00475142_d_1" docsrc="n00475142_d">
+      <context> a <head>game</head> in which a pitcher allows the opposing team only one hit ;</context>
+    </instance>
+    <instance id="n00475273_d_1" docsrc="n00475273_d">
+      <context> a <head>game</head> in which a pitcher allows the opposing team only 2 hits ;</context>
+    </instance>
+    <instance id="n00475403_d_1" docsrc="n00475403_d">
+      <context> a <head>game</head> in which a pitcher allows the opposing team only 3 hits ;</context>
+    </instance>
+    <instance id="n00475535_d_1" docsrc="n00475535_d">
+      <context> a <head>game</head> in which a pitcher allows the opposing team 4 hits ;</context>
+    </instance>
+    <instance id="n00475661_d_1" docsrc="n00475661_d">
+      <context> a <head>game</head> in which a pitcher allows the opposing team 5 hits ;</context>
+    </instance>
+    <instance id="n00489730_d_15" docsrc="n00489730_d">
+      <context> card_games in which points are won for taking the high or low or jack or <head>game</head> ;</context>
+    </instance>
+    <instance id="n00491161_d_16" docsrc="n00491161_d">
+      <context> a variety of bridge in which tricks made in excess of the contract are scored toward <head>game</head> ; now generally superseded by contract_bridge ;</context>
+    </instance>
+    <instance id="n00491366_d_11" docsrc="n00491366_d">
+      <context> a variety of bridge in which the bidder receives points toward <head>game</head> only for the number of tricks he bid ;</context>
+    </instance>
+    <instance id="n00493858_d_28" docsrc="n00493858_d">
+      <context> a card_game using a pack_of_cards from which one queen has been removed ; players match cards and the player holding the unmatched queen at the end of the <head>game</head> is the loser ( or old maid ) ;</context>
+    </instance>
+    <instance id="n00498700_d_12" docsrc="n00498700_d">
+      <context> a form of all_fours in which a total of seven points is <head>game</head> ;</context>
+    </instance>
+    <instance id="n00502161_d_29" docsrc="n00502161_d">
+      <context> a board_game in which words are formed from letters in patterns similar to a crossword_puzzle ; each letter has a value and those values are used to score the <head>game</head> ;</context>
+    </instance>
+    <instance id="n00583089_ex1_5" docsrc="n00583089_ex1">
+      <context> he 's in the plumbing <head>game</head> ;</context>
+    </instance>
+    <instance id="n00725506_d_16" docsrc="n00725506_d">
+      <context> a position on a basketball_team of the player who participates in the jump that starts the <head>game</head> ;</context>
+    </instance>
+    <instance id="n00728464_d_18" docsrc="n00728464_d">
+      <context> the position on a hockey_team of the player who participates in the face_off at the beginning of the <head>game</head> ;</context>
+    </instance>
+    <instance id="n01799679_d_19" docsrc="n01799679_d">
+      <context> large crested arboreal game_bird of warm parts of the Americas having long legs and tails ; highly esteemed as <head>game</head> and food ;</context>
+    </instance>
+    <instance id="n01799876_d_11" docsrc="n01799876_d">
+      <context> a genus of guans ( turkey like arboreal birds valued as <head>game</head> and food birds ) ;</context>
+    </instance>
+    <instance id="n02839477_d_8" docsrc="n02839477_d">
+      <context> a device for keeping the score in a <head>game</head> of billiards ;</context>
+    </instance>
+    <instance id="n02917964_d_11" docsrc="n02917964_d">
+      <context> a place on a baseball_field where relief_pitchers can warm_up during a <head>game</head> ;</context>
+    </instance>
+    <instance id="n03035089_d_7" docsrc="n03035089_d">
+      <context> an open-air stadium for chariot_races and gladiatorial <head>games</head> ;</context>
+    </instance>
+    <instance id="n03120491_d_8" docsrc="n03120491_d">
+      <context> a specially marked horizontal area within which a <head>game</head> is played ;</context>
+    </instance>
+    <instance id="n03131791_d_20" docsrc="n03131791_d">
+      <context> a board with pegs and regularly spaced holes for holding the pegs ; used for keeping the score in a <head>game</head> of cribbage ;</context>
+    </instance>
+    <instance id="n03254189_d_19" docsrc="n03254189_d">
+      <context> either of two low shelters on either side of a baseball_diamond where the players and coaches sit during the <head>game</head> ;</context>
+    </instance>
+    <instance id="n03267113_d_17" docsrc="n03267113_d">
+      <context> a black pool_ball bearing the number 8 ; should be the last to go in certain pool <head>games</head> ;</context>
+    </instance>
+    <instance id="n03413828_d_9" docsrc="n03413828_d">
+      <context> the game_equipment needed in order to play a particular <head>game</head> ;</context>
+    </instance>
+    <instance id="n03413828_ex1_4" docsrc="n03413828_ex1">
+      <context> the child received several <head>games</head> for his birthday ;</context>
+    </instance>
+    <instance id="n03414162_d_7" docsrc="n03414162_d">
+      <context> equipment or apparatus used in playing a <head>game</head> ;</context>
+    </instance>
+    <instance id="n03442756_d_10" docsrc="n03442756_d">
+      <context> game_equipment consisting of the place toward which players of a <head>game</head> try to advance a ball or puck in order to score points ;</context>
+    </instance>
+    <instance id="n03537085_d_7" docsrc="n03537085_d">
+      <context> a noisemaker ( as at parties or <head>games</head> ) that makes a loud noise when you blow through it ;</context>
+    </instance>
+    <instance id="n03589313_d_19" docsrc="n03589313_d">
+      <context> game_equipment consisting of one of several small six-pointed metal pieces that are picked_up while bouncing a ball in the <head>game</head> of jacks ;</context>
+    </instance>
+    <instance id="n03591465_d_9" docsrc="n03591465_d">
+      <context> a thin strip of wood used in playing the <head>game</head> of jackstraws ;</context>
+    </instance>
+    <instance id="n04300741_d_20" docsrc="n04300741_d">
+      <context> tiered_seats consisting of a structure ( often made of wood ) where people can sit to watch an event ( <head>game</head> or parade ) ;</context>
+    </instance>
+    <instance id="n05907682_ex2_5" docsrc="n05907682_ex2">
+      <context> I saw through his little <head>game</head> from the start ;</context>
+    </instance>
+    <instance id="n07293546_d_4" docsrc="n07293546_d">
+      <context> the outcome of a <head>game</head> or contest ;</context>
+    </instance>
+    <instance id="n07343195_d_4" docsrc="n07343195_d">
+      <context> something ( especially a <head>game</head> ) that is played again ;</context>
+    </instance>
+    <instance id="n07464725_d_10" docsrc="n07464725_d">
+      <context> a sporting competition in which contestants play a series of <head>games</head> to decide the winner ;</context>
+    </instance>
+    <instance id="n07465657_d_4" docsrc="n07465657_d">
+      <context> a series of successive <head>games</head> played at a team's field or court ;</context>
+    </instance>
+    <instance id="n07475242_d_2" docsrc="n07475242_d">
+      <context> a tennis <head>game</head> won on the opponent's service ;</context>
+    </instance>
+    <instance id="n07476282_d_5" docsrc="n07476282_d">
+      <context> a decisive defeat in a <head>game</head> ( especially in cribbage ) ;</context>
+    </instance>
+    <instance id="n07476495_d_4" docsrc="n07476495_d">
+      <context> a defeat in a <head>game</head> where one side fails to score ;</context>
+    </instance>
+    <instance id="n07957327_d_5" docsrc="n07957327_d">
+      <context> the cards held in a <head>game</head> of bridge ;</context>
+    </instance>
+    <instance id="n08358492_d_9" docsrc="n08358492_d">
+      <context> a rally ( especially of students ) before a <head>game</head> ;</context>
+    </instance>
+    <instance id="n08480135_d_12" docsrc="n08480135_d">
+      <context> a company of people assembled at a table for a meal or <head>game</head> ;</context>
+    </instance>
+    <instance id="n08570758_d_6" docsrc="n08570758_d">
+      <context> a piece_of_land prepared for playing a <head>game</head> ;</context>
+    </instance>
+    <instance id="n08653873_d_13" docsrc="n08653873_d">
+      <context> a line indicating the location of the start of a race or a <head>game</head> ;</context>
+    </instance>
+    <instance id="n10118844_d_9" docsrc="n10118844_d">
+      <context> a person who wagers money on the outcome of <head>games</head> or sporting events ;</context>
+    </instance>
+    <instance id="n10649438_d_9" docsrc="n10649438_d">
+      <context> a contestant in a team_sport who is in the <head>game</head> at the beginning ;</context>
+    </instance>
+    <instance id="n13596235_ex1_1" docsrc="n13596235_ex1">
+      <context> the <head>game</head> is 6 all ;</context>
+    </instance>
+    <instance id="n15240733_d_5" docsrc="n15240733_d">
+      <context> the time before the regular <head>games</head> begin when football or baseball_teams play practice_games ;</context>
+    </instance>
+    <instance id="v00675592_d_3" docsrc="v00675592_d">
+      <context> select for a <head>game</head> ;</context>
+    </instance>
+    <instance id="v00841394_d_5" docsrc="v00841394_d">
+      <context> downplay one's ability in a <head>game</head> in order to deceive , as in gambling ;</context>
+    </instance>
+    <instance id="v00949841_d_5" docsrc="v00949841_d">
+      <context> keep score , as in <head>games</head> ;</context>
+    </instance>
+    <instance id="v01081001_d_2" docsrc="v01081001_d">
+      <context> repeat a <head>game</head> against the same opponent ;</context>
+    </instance>
+    <instance id="v01084048_d_2" docsrc="v01084048_d">
+      <context> start a <head>game</head> by a face-off ;</context>
+    </instance>
+    <instance id="v01111816_d_4" docsrc="v01111816_d">
+      <context> gain points in a <head>game</head> ;</context>
+    </instance>
+    <instance id="v01114475_d_17" docsrc="v01114475_d">
+      <context> place an opponent's king under an attack from which it can not escape and thus ending the <head>game</head> ;</context>
+    </instance>
+    <instance id="v01115190_d_2" docsrc="v01115190_d">
+      <context> finish a <head>game</head> with an equal number of points , goals , etc. ;</context>
+    </instance>
+    <instance id="v01148580_d_8" docsrc="v01148580_d">
+      <context> be responsible for guarding an opponent in a <head>game</head> ;</context>
+    </instance>
+    <instance id="v01149470_d_5" docsrc="v01149470_d">
+      <context> put into play during a <head>game</head> , or act strategically as if in a card_game ;</context>
+    </instance>
+    <instance id="v01154957_d_5" docsrc="v01154957_d">
+      <context> excel or defeat in a <head>game</head> ;</context>
+    </instance>
+    <instance id="v02246456_d_7" docsrc="v02246456_d">
+      <context> distribute cards to the players in a <head>game</head> ;</context>
+    </instance>
+    <instance id="v02405120_d_5" docsrc="v02405120_d">
+      <context> take a player of a <head>game</head> in order to exchange for another player ;</context>
+    </instance>
+    <instance id="v02418029_d_4" docsrc="v02418029_d">
+      <context> be out of the <head>game</head> ;</context>
+    </instance>
+    <instance id="v02482889_d_3" docsrc="v02482889_d">
+      <context> take_out of a <head>game</head> ; of players ;</context>
+    </instance>
+  </lexelt>
+</corpus>

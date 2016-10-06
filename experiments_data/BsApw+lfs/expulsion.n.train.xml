@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="expulsion.n" pos="NN">
+    <instance id="br-g23#w695_0" docsrc="br-g23">
+      <context> What of his treatment of the Jew in The_Merchant_of_Venice ? Shakespeare gives us a vivid picture of Shylock , but probably he never saw a Jew , unless in some of his travels . The Jews had been banished from England in 1290 and were not permitted to return before 1655 , when Shakespeare had been dead for thirty-nine years . If any had escaped <head>expulsion</head> by hiding , they certainly would not frequent the market-place . Shakespeare did not usually invent the incidents in his plays , but borrowed them from old stories , ballads , and plays , wove them together , and then breathed into them his spark of life . Rather than from a first-hand study of Jewish people , his delineation of Shylock stems from a collection of Italian stories , Il_Pecorone , published in 1558 , although written almost two centuries earlier . He could learn at second_hand from books , but could not thus capture the real Jewish spirit .</context>
+    </instance>
+    <instance id="n00117810_d_2" docsrc="n00117810_d">
+      <context> the forceful <head>expulsion</head> of something from inside ;</context>
+    </instance>
+    <instance id="n00230997_d_4" docsrc="n00230997_d">
+      <context> termination of pregnancy without <head>expulsion</head> of all of the products of conception ;</context>
+    </instance>
+    <instance id="n00358702_ex2_1" docsrc="n00358702_ex2">
+      <context> the <head>expulsion</head> of pus from the pimple ;</context>
+    </instance>
+    <instance id="n13530237_d_1" docsrc="n13530237_d">
+      <context> the <head>expulsion</head> of an ovum from the ovary ( usually midway in the menstrual_cycle ) ;</context>
+    </instance>
+    <instance id="n14314850_d_6" docsrc="n14314850_d">
+      <context> a symptom consisting of the involuntary <head>expulsion</head> of air from the nose ;</context>
+    </instance>
+    <instance id="n14359174_d_3" docsrc="n14359174_d">
+      <context> a sudden noisy <head>expulsion</head> of air from the lungs that clears the air_passages ; a common symptom of upper_respiratory_infection or bronchitis or pneumonia or tuberculosis ;</context>
+    </instance>
+  </lexelt>
+</corpus>

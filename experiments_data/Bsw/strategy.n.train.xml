@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="strategy.n" pos="NN">
+    <instance id="Strategy-strategy-0-0-4" docsrc="Strategy">
+      <context> <head>,</head> the term came into use in the 6th century C.E. in East Roman terminology , and was translated into Western vernacular languages only in the 18th century . From then until the 20th century , the word " strategy " came to denote " a comprehensive way to try to pursue political ends , including the threat or actual use of force , in a dialectic of wills " in a military conflict , in which both adversaries interact . Strategy is important because the resources available to achieve these goals are usually limited .</context>
+    </instance>
+    <instance id="Strategy-strategy-0-1-1" docsrc="Strategy">
+      <context> <head>From</head> then until the 20th century , the word " strategy " came to denote " a comprehensive way to try to pursue political ends , including the threat or actual use of force , in a dialectic of wills " in a military conflict , in which both adversaries interact . Strategy is important because the resources available to achieve these goals are usually limited . Strategy generally involves setting goals , determining actions to achieve the goals , and mobilizing resources to execute the actions .</context>
+    </instance>
+    <instance id="Strategy-strategy-0-1-4" docsrc="Strategy">
+      <context> <head>A</head> strategy describes how the ends ( goals ) will be achieved by the means ( resources ) . This is generally tasked with determining strategy . Strategy can be intended or can emerge as a pattern of activity as the organization adapts to its environment or competes .</context>
+    </instance>
+    <instance id="Strategy-strategy-0-28-1" docsrc="Strategy">
+      <context> <head>Eastern</head> military philosophy dates back much further , with examples such as The Art of War by Sun Tzu dated around 500 B.C. Henry Mintzberg described five definitions of strategy in 1998 : Strategy as plan – a directed course of action to achieve an intended set of goals ;</context>
+    </instance>
+    <instance id="Strategy-strategy-0-29-2" docsrc="Strategy">
+      <context> <head>Strategy</head> as plan – a directed course of action to achieve an intended set of goals ; similar to the strategic planning concept ; Strategy as pattern – a consistent pattern of past behavior , with a strategy realized over time rather than planned or intended .</context>
+    </instance>
+    <instance id="Strategy-strategy-0-30-2" docsrc="Strategy">
+      <context> <head>Strategy</head> as pattern – a consistent pattern of past behavior , with a strategy realized over time rather than planned or intended . Where the realized pattern was different from the intent , he referred to the strategy as emergent ; Strategy as position – locating brands , products , or companies within the market , based on the conceptual framework of consumers or other stakeholders ; a strategy determined primarily by factors outside the firm ;</context>
+    </instance>
+    <instance id="Strategy-strategy-0-31-1" docsrc="Strategy">
+      <context> <head>Where</head> the realized pattern was different from the intent , he referred to the strategy as emergent ; Strategy as position – locating brands , products , or companies within the market , based on the conceptual framework of consumers or other stakeholders ; a strategy determined primarily by factors outside the firm ; Strategy as ploy – a specific maneuver intended to outwit a competitor ; and</context>
+    </instance>
+    <instance id="Strategy-strategy-0-32-1" docsrc="Strategy">
+      <context> <head>Strategy</head> as position – locating brands , products , or companies within the market , based on the conceptual framework of consumers or other stakeholders ; a strategy determined primarily by factors outside the firm ; Strategy as ploy – a specific maneuver intended to outwit a competitor ; and Strategy as perspective – executing strategy based on a " theory of the business " or natural extension of the mindset or ideological perspective of the organization .</context>
+    </instance>
+    <instance id="Strategy-strategy-0-39-2" docsrc="Strategy">
+      <context> <head>A</head> strategy may recursively look ahead and consider what actions can happen in each contingent state of the game—e.g . if the player takes action 1 , then that presents the opponent with a certain situation , which might be good or bad , whereas if the player takes action 2 then the opponents will be presented with a different situation , and in each case the choices they make will determine their own future situation . Strategies in game theory may be random ( mixed ) or deterministic ( pure ) .</context>
+    </instance>
+    <instance id="Strategy-strategy-0-40-2" docsrc="Strategy">
+      <context> <head>Strategies</head> in game theory may be random ( mixed ) or deterministic ( pure ) . Pure strategies can be thought of as a special case of mixed strategies , in which only probabilities 0 or 1 are assigned to actions . Strategy based games generally require a player to think through a sequence of solutions to determine the best way to defeat the opponent .</context>
+    </instance>
+    <instance id="Strategy-strategy-0-46-1" docsrc="Strategy">
+      <context> <head>Concept</head> Driven Strategy Odds algorithm ( odds strategy ) Strategy game</context>
+    </instance>
+    <instance id="Strategy-strategy-0-47-1" docsrc="Strategy">
+      <context> <head>Odds</head> algorithm ( odds strategy ) Strategy game Strategy pattern</context>
+    </instance>
+    <instance id="Strategy-strategy-0-59-1" docsrc="Strategy">
+      <context> <head>Strategist</head> Freedman , Lawrence . Strategy : A History ( 2013 ) excerpt</context>
+    </instance>
+    <instance id="Strategy-strategy-0-61-1" docsrc="Strategy">
+      <context> <head>The</head> Evolution of Strategy ( 2010 ) [ 1 ] Kvint , Vladimir . Strategy for the Global Market : Theory and Practical Applications ( 2016 ) Excerpt from Google Books</context>
+    </instance>
+    <instance id="Strategy-strategy-0-61-2" docsrc="Strategy">
+      <context> <head>Kvint</head> , Vladimir . Strategy for the Global Market : Theory and Practical Applications ( 2016 ) Excerpt from Google Books</context>
+    </instance>
+    <instance id="Strategy-strategy-0-9-2" docsrc="Strategy">
+      <context> <head>Action</head> Plans : First among seven numbered steps was the following : " To halt this offensive buildup a strict quarantine on all offensive military equipment under shipment to Cuba is being initiated . All ships of any kind bound for Cuba from whatever nation or port will , if found to contain cargoes of offensive weapons , be turned back . " Strategy typically involves two major processes : formulation and implementation .</context>
+    </instance>
+    <instance id="Strategy-strategy-1-1-2" docsrc="Strategy">
+      <context> Strategy <head>is</head> important because the resources available to achieve these goals are usually limited . Strategy generally involves setting goals , determining actions to achieve the goals , and mobilizing resources to execute the actions . A strategy describes how the ends ( goals ) will be achieved by the means ( resources ) .</context>
+    </instance>
+    <instance id="Strategy-strategy-1-33-1" docsrc="Strategy">
+      <context> Strategy <head>as</head> ploy – a specific maneuver intended to outwit a competitor ; and Strategy as perspective – executing strategy based on a " theory of the business " or natural extension of the mindset or ideological perspective of the organization . A strategy may recursively look ahead and consider what actions can happen in each contingent state of the game—e.g .</context>
+    </instance>
+    <instance id="Strategy-strategy-1-40-1" docsrc="Strategy">
+      <context> if <head>the</head> player takes action 1 , then that presents the opponent with a certain situation , which might be good or bad , whereas if the player takes action 2 then the opponents will be presented with a different situation , and in each case the choices they make will determine their own future situation . Strategies in game theory may be random ( mixed ) or deterministic ( pure ) . Pure strategies can be thought of as a special case of mixed strategies , in which only probabilities 0 or 1 are assigned to actions .</context>
+    </instance>
+    <instance id="Strategy-strategy-10-0-3" docsrc="Strategy">
+      <context> In the sense of the " art of the general <head>"</head> , which included several subsets of skills including " tactics " , siegecraft , logistics etc . , the term came into use in the 6th century C.E. in East Roman terminology , and was translated into Western vernacular languages only in the 18th century . From then until the 20th century , the word " strategy " came to denote " a comprehensive way to try to pursue political ends , including the threat or actual use of force , in a dialectic of wills " in a military conflict , in which both adversaries interact .</context>
+    </instance>
+    <instance id="Strategy-strategy-12-40-1" docsrc="Strategy">
+      <context> if the player takes action 1 , then that presents the opponent <head>with</head> a certain situation , which might be good or bad , whereas if the player takes action 2 then the opponents will be presented with a different situation , and in each case the choices they make will determine their own future situation . Strategies in game theory may be random ( mixed ) or deterministic ( pure ) . Pure strategies can be thought of as a special case of mixed strategies , in which only probabilities 0 or 1 are assigned to actions .</context>
+    </instance>
+    <instance id="Strategy-strategy-13-29-2" docsrc="Strategy">
+      <context> Strategy as plan – a directed course of action to achieve an intended <head>set</head> of goals ; similar to the strategic planning concept ; Strategy as pattern – a consistent pattern of past behavior , with a strategy realized over time rather than planned or intended .</context>
+    </instance>
+    <instance id="Strategy-strategy-14-30-1" docsrc="Strategy">
+      <context> similar to the strategic planning concept ; Strategy as pattern – a consistent pattern <head>of</head> past behavior , with a strategy realized over time rather than planned or intended . Where the realized pattern was different from the intent , he referred to the strategy as emergent ;</context>
+    </instance>
+    <instance id="Strategy-strategy-2-41-1" docsrc="Strategy">
+      <context> Pure strategies <head>can</head> be thought of as a special case of mixed strategies , in which only probabilities 0 or 1 are assigned to actions . Strategy based games generally require a player to think through a sequence of solutions to determine the best way to defeat the opponent . Concept Driven Strategy</context>
+    </instance>
+    <instance id="Strategy-strategy-27-30-2" docsrc="Strategy">
+      <context> Strategy as pattern – a consistent pattern of past behavior , with a strategy realized over time rather than planned or intended . Where the realized pattern <head>was</head> different from the intent , he referred to the strategy as emergent ; Strategy as position – locating brands , products , or companies within the market , based on the conceptual framework of consumers or other stakeholders ; a strategy determined primarily by factors outside the firm ;</context>
+    </instance>
+    <instance id="Strategy-strategy-3-15-2" docsrc="Strategy">
+      <context> Bruce Henderson wrote <head>in</head> 1981 that : " Strategy depends upon the ability to foresee future consequences of present initiatives . " He wrote that the basic requirements for strategy development include , among other factors : 1 ) extensive knowledge about the environment , market and competitors ; 2 ) ability to examine this knowledge as an interactive dynamic system ; and 3 ) the imagination and logic to choose between specific alternatives . Henderson wrote that strategy was valuable because of : " finite resources , uncertainty about an adversary 's capability and intentions ; the irreversible commitment of resources ; necessity of coordinating action over time and distance ; uncertainty about control of the initiative ; and the nature of adversaries ' mutual perceptions of each other . "</context>
+    </instance>
+    <instance id="Strategy-strategy-3-60-1" docsrc="Strategy">
+      <context> Strategy : A <head>History</head> ( 2013 ) excerpt Heuser , Beatrice . The Evolution of Strategy ( 2010 ) [ 1 ]</context>
+    </instance>
+    <instance id="Strategy-strategy-4-45-1" docsrc="Strategy">
+      <context> Strategy based games generally <head>require</head> a player to think through a sequence of solutions to determine the best way to defeat the opponent . Concept Driven Strategy Odds algorithm ( odds strategy )</context>
+    </instance>
+    <instance id="Strategy-strategy-4-6-1" docsrc="Strategy">
+      <context> It involves activities such <head>as</head> strategic planning and strategic thinking . Professor Richard P. Rumelt described strategy as a type of problem solving in 2011 . He wrote that good strategy has an underlying structure he called a kernel .</context>
+    </instance>
+    <instance id="Strategy-strategy-5-1-6" docsrc="Strategy">
+      <context> Strategy can be intended or <head>can</head> emerge as a pattern of activity as the organization adapts to its environment or competes . It involves activities such as strategic planning and strategic thinking . Professor Richard P. Rumelt described strategy as a type of problem solving in 2011 .</context>
+    </instance>
+    <instance id="Strategy-strategy-5-32-1" docsrc="Strategy">
+      <context> Strategy as position – locating <head>brands</head> , products , or companies within the market , based on the conceptual framework of consumers or other stakeholders ; a strategy determined primarily by factors outside the firm ; Strategy as ploy – a specific maneuver intended to outwit a competitor ; and Strategy as perspective – executing strategy based on a " theory of the business " or natural extension of the mindset or ideological perspective of the organization .</context>
+    </instance>
+    <instance id="Strategy-strategy-6-1-3" docsrc="Strategy">
+      <context> Strategy generally involves setting goals , <head>determining</head> actions to achieve the goals , and mobilizing resources to execute the actions . A strategy describes how the ends ( goals ) will be achieved by the means ( resources ) . This is generally tasked with determining strategy .</context>
+    </instance>
+    <instance id="Strategy-strategy-6-22-1" docsrc="Strategy">
+      <context> Henderson wrote that strategy was valuable <head>because</head> of : " finite resources , uncertainty about an adversary 's capability and intentions ; the irreversible commitment of resources ; necessity of coordinating action over time and distance ; uncertainty about control of the initiative ; and the nature of adversaries ' mutual perceptions of each other . " Eastern military philosophy dates back much further , with examples such as The Art of War by Sun Tzu dated around 500 B.C. Henry Mintzberg described five definitions of strategy in 1998 :</context>
+    </instance>
+    <instance id="Strategy-strategy-7-15-1" docsrc="Strategy">
+      <context> Implementation refers to the action plans taken <head>to</head> achieve the goals established by the guiding policy . Bruce Henderson wrote in 1981 that : " Strategy depends upon the ability to foresee future consequences of present initiatives . " He wrote that the basic requirements for strategy development include , among other factors : 1 ) extensive knowledge about the environment , market and competitors ; 2 ) ability to examine this knowledge as an interactive dynamic system ; and 3 ) the imagination and logic to choose between specific alternatives .</context>
+    </instance>
+    <instance id="Strategy-strategy-7-6-3" docsrc="Strategy">
+      <context> He wrote that good strategy has an <head>underlying</head> structure he called a kernel . The kernel has three parts : 1 ) A diagnosis that defines or explains the nature of the challenge ; 2 ) A guiding policy for dealing with the challenge ; and 3 ) Coherent actions designed to carry out the guiding policy . President Kennedy illustrated these three elements of strategy in his Cuban Missile Crisis Address to the Nation of 22 October 1962 :</context>
+    </instance>
+    <instance id="Strategy-strategy-8-14-4" docsrc="Strategy">
+      <context> It includes such activities as strategic planning and <head>strategic</head> thinking . Implementation refers to the action plans taken to achieve the goals established by the guiding policy . Bruce Henderson wrote in 1981 that : " Strategy depends upon the ability to foresee future consequences of present initiatives . "</context>
+    </instance>
+    <instance id="br-e28#w1965_0" docsrc="br-e28">
+      <context> Many food and beverage companies are already on a highly planned basis . They have to be . With greater investments in plant facilities , with automation growing , you can n't switch around , either in volume or in product design , as much as was formerly possible - or at_least not as economically . Are planning and <head>strategy</head> development emphasized sufficiently in your company ? We find too many sales and marketing executives so burdened with detail that they are short-changing planning . Are annual marketing plans reviewed throughout your management group to get the perspective of all individuals and get everyone on the marketing team ? Do you have a long-term ( 5 - or 10 - yr . ) marketing program ?</context>
+    </instance>
+    <instance id="br-e28#w218_0" docsrc="br-e28">
+      <context> There has been an intensification of price consciousness in recent years ; there is every indication it will continue . Frequently , wittingly or unwittingly , price consciousness has been fostered by manufacturers , distributors , and dealers . Despite generally good levels of income , we see greater price pressures than ever before - traveling back along the chain from consumer to distributor to manufacturer . Here are some key areas to examine to make sure your pricing <head>strategy</head> will be on target : Has the probable price situation in your field been forecast as a basis for future planning ? Have cost studies been made of every phase of your operation to determine what might be done if things get worse ? Have you actually checked_out ( not just mentally tested ) different selling approaches designed to counter the price competition problem ?</context>
+    </instance>
+    <instance id="br-e28#w597_0" docsrc="br-e28">
+      <context> To the manufacturer of the more convenient type product - the purchase of which can be switched , delayed , or put_off entirely - the implications are important . Your competition is now proportionately greater - you are competing not_only against manufacturers in the same field but also against a vast array of manufacturers of other appealing consumer products . Many industry trade associations are developing campaigns to protect or enhance the share of the consumer 's dollar being spent on their particular products . Has your company thought through its <head>strategy</head> in this whole `` discretionary buying '' area ? The trends have been in_evidence for many years - population_shifts to the Southwest and Far_West , and from city to suburbs . These shifts will continue in the next 10 yr. . Have you considered the implications of continuing geographic shifts in_terms_of sales_force allocation , strength of distributor organizations , and even plant location ?</context>
+    </instance>
+    <instance id="br-e28#w752_0" docsrc="br-e28">
+      <context> We have already witnessed great changes through mergers and acquisitions in the food industry - at both the manufacturing and retail ends . Instead of relatively small sales to many accounts , there are now larger sales to or through fewer accounts . The change may require different products , pricing , packaging , warehousing , salesmanship , advertising and executive attention - practically every link in the marketing network may have to be adjusted . Have you examined these trends , forecast the effects , and planned your marketing <head>strategy</head> to compete effectively under changing circumstances ? In the area of private label competition , it is logical to expect a continuation of trends which have been under_way during the first decade . As mass dealer and distributor organizations grow in size , there is every reason to expect them to try to share_in the manufacturer 's as_well as the distributor 's profits - which is , in_effect , what the sale of private brands tends to do . Average manufacturer frequently has helped build private brand business , delivering largely the same qualities and styles in private brand merchandise as in branded .</context>
+    </instance>
+    <instance id="br-g17#w188_0" docsrc="br-g17">
+      <context> For over a_hundred years Southerners have felt that the North was picking on them . It 's infuriating , this feeling that one is being picked on , continually , constantly . By what right of superior virtue , Southerners ask , do the people of the North do this ? The traditional <head>strategy</head> of the South has been to expose the vices of the North , to demonstrate that the North possessed no superior virtue , to `` show the world that '' ( as James 's Christopher_Newman said to his adversaries ) `` however bad I may be , you 're not quite the people to say it '' . In the pre Civil_War years , the South argued that the slave was not less humanely treated than the factory_worker of the North . At the present_time , the counter-attack takes the line that there 's no more of the true spirit of `` integration '' in the North than in the South . The line is a pretty good one .</context>
+    </instance>
+    <instance id="br-h13#w1677_0" docsrc="br-h13">
+      <context> On April 25 , the White_House reported that a total embargo of remaining U._S. trade with Cuba was being considered . Its aim : To undermine further Cuba 's economy . weaken Castro . Another <head>strategy</head> - bolder and tougher - was also attracting notice in Washington : a naval and air blockade to cut Cuba off from the world , destroy Castro . Blockade , in the view of military and civilian experts , could restore teeth to the Monroe_Doctrine . It could halt a flood of Communist arms and strategic supplies now reaching Castro . It could stop Cuban re export of guns and propaganda materials to South_America .</context>
+    </instance>
+    <instance id="br-h13#w1776_0" docsrc="br-h13">
+      <context> It could halt a flood of Communist arms and strategic supplies now reaching Castro . It could stop Cuban re export of guns and propaganda materials to South_America . It would be the most severe reprisal , short_of declared war , that the United_States could invoke against Castro . It is the <head>strategy</head> of blockade , therefore , that is suddenly at the center of attention of administration officials , Members of Congress , officers in the Pentagon . As a possible course of action , it also is the center of debate and is raising many questions . Among these questions : Military experts say a tight naval_blockade off Cuban ports and at the approaches to Cuban waters would require two naval task_forces , each built around an aircraft_carrier with a complement of about 100 planes and several destroyers .</context>
+    </instance>
+    <instance id="br-h13#w2088_0" docsrc="br-h13">
+      <context> They could be sent to U._S. ports for rulings whether cargo should be confiscated . Plenty , say the experts . In a broad sense , it would reaffirm the Monroe_Doctrine by opposing Communist interference in the Western_Hemisphere . It could , by avoiding direct intervention , provide a short-of war <head>strategy</head> to meet short-of war infiltration . Primary target would be shipments of tanks , guns , aviation gasoline and ammunition coming from Russia and Czechoslovakia . Shipments of arms from Western countries could similarly be seized as contraband . In a total blockade , action could also be taken against ships bringing_in chemicals , oils , textiles , and even foodstuffs .</context>
+    </instance>
+    <instance id="br-h21#w0_0" docsrc="br-h21">
+      <context> <head>Strategy</head> and tactics of the U._S. military_forces are now undergoing one of the greatest transitions in history . The change of emphasis from conventional type to missile type warfare must be made with care , mindful that the one type of warfare cannot be safely neglected in favor of the other . Our military_forces must be capable of contending successfully with any contingency which may be forced upon us , from limited emergencies to all-out nuclear general war . - This budget will provide in the fiscal_year 1961 for the continued support of our forces at approximately the present level - a year-end strength of 2489000 men and women in the active forces .</context>
+    </instance>
+    <instance id="br-k19#w1991_0" docsrc="br-k19">
+      <context> He went_on to explain what he had_in_mind . Johnson nodded . He said he could do it . Rector was warming_to his over-all <head>strategy</head> by the time he got_back to the residential hall . It was rather a childish game , all_in_all , but everybody seemed to be getting_into the spirit of the thing and he could not remember when he had enjoyed planning anything quite so much . He was not sure what effect it would have , but that was really beside the point when you got right down to_it . He was not going_to lose the mission by default , and whatever reason Kayabashi had for bringing his little sight-seeing group to the mission , he was going_to be in_for a surprise .</context>
+    </instance>
+    <instance id="br-p07#w602_0" docsrc="br-p07">
+      <context> And it was clear that Adrien was not mistaken , for both Small and Cromwell took no step toward aiding in the sending up of the new topgallant_mast till Philip_Spencer had given the signal to obey . Then , with disappointment evident upon their faces , they moved to the work . Alexander guessed that they had planned confusion and turmoil , thinking it the ideal climate in which to begin battle and bloodshed . Their <head>strategy</head> was sound enough and , he reasoned , had been defeated only by Philip_Spencer 's unwillingness to sanction an idea he had not originated . When the mast was raised , Alexander gave the order for Small and Cromwell to be placed under arrest , and now three figures in irons sprawled upon the open deck and terror stalked the Somers . Spencer 's potential followers were openly sullen and morose , missing muster without excuse , expressing in ominous tones their displeasure at the prisoners being kept in irons , communicating with the three by glance and signal . One of the missing handspikes came_out of its hiding_place after Midshipman_Tillotson had been insolently disobeyed by Seaman_Wilson .</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="heading.n" pos="NN">
+    <instance id="a01683221_d_2" docsrc="a01683221_d">
+      <context> having a <head>heading</head> or course in a certain direction ;</context>
+    </instance>
+    <instance id="br-l12#w701_0" docsrc="br-l12">
+      <context> They had come not to admire but to observe . `` It 's worse inside '' , Thornburg informed Andy . `` Skolman 's jammed in every table he could find . Under the <head>heading</head> of_it 's an ill wind , et_cetera '' . Backstage was tomb like by contrast . Andy 's co-workers kept their distance , awed by the tragedy . But in his dressing_room was a large bouquet and a card that read , `` We 're with you all_the_way '' .</context>
+    </instance>
+    <instance id="n04158457_d_18" docsrc="n04158457_d">
+      <context> restraint consisting of a canvas covered frame that floats behind a vessel ; prevents drifting or maintains the <head>heading</head> into a wind ;</context>
+    </instance>
+    <instance id="n06030906_d_10" docsrc="n06030906_d">
+      <context> a two-way tabulation of the relations between correlates ; row <head>headings</head> are the scores on one variable and column headings are the scores on the second variables and a cell shows how many times the score on that row was associated with the score in that column ;</context>
+    </instance>
+    <instance id="n06030906_d_19" docsrc="n06030906_d">
+      <context> a two-way tabulation of the relations between correlates ; row headings are the scores on one variable and column <head>headings</head> are the scores on the second variables and a cell shows how many times the score on that row was associated with the score in that column ;</context>
+    </instance>
+    <instance id="n07259610_d_9" docsrc="n07259610_d">
+      <context> a fixed line on a ship's compass indicating its <head>heading</head> ;</context>
+    </instance>
+    <instance id="n08681084_d_1" docsrc="n08681084_d">
+      <context> the <head>heading</head> or position of a vessel relative to the trim of its sails ;</context>
+    </instance>
+  </lexelt>
+</corpus>

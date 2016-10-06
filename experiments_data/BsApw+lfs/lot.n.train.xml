@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Lot.n" pos="NN">
+    <instance id="Land_lot-lot-0-17-1" docsrc="Land_lot">
+      <context> <head>The</head> blocks between streets and the individual lots in each block are given an identifier , usually a number or letter . Land originally granted by the government was commonly done by documents called land patents . Lots of land can be sold/bought by the owners or conveyed in other ways .</context>
+    </instance>
+    <instance id="Land_lot-lot-0-9-6" docsrc="Land_lot">
+      <context> <head>When</head> alleys are present , garages are often located in back of a lot with access from the alley . Also when there are alleys , garbage collection may take place from the alley . Lots at the corners of a block have two sides of frontage and are called corner lots .</context>
+    </instance>
+    <instance id="Land_lot-lot-1-0-1" docsrc="Land_lot">
+      <context> In <head>real</head> estate , a lot or plot is a tract or parcel of land owned or meant to be owned by some owner(s ) . A lot is essentially considered a parcel of real property in some countries or immovable property ( meaning practically the same thing ) in other countries .</context>
+    </instance>
+    <instance id="Land_lot-lot-1-0-4" docsrc="Land_lot">
+      <context> Possible <head>owner(s</head> ) of a lot can be one or more person(s ) or another legal entity , such as a company/corporation , organization , government , or trust . A common form of ownership of a lot is called fee simple in some countries . A lot may also be defined as a small area of land that is empty except for pavement or similar improvement .</context>
+    </instance>
+    <instance id="Land_lot-lot-1-15-3" docsrc="Land_lot">
+      <context> Structures <head>such</head> as buildings , driveways , sidewalks , patios or other pavement , wells , septic systems , signs , and similar improvements which are considered permanently attached to the land in the lot are considered to be real property , usually part of the lot but often parts of a building , such as condominiums , are owned separately . Such structures owned by the lot owner(s ) , as well as easements which help the lot owners or users , can be considered appurtenances to the lot . A lot without such structures can be called a vacant lot , urban prairie , spare ground , an empty lot , or an unimproved or undeveloped lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-1-2-3" docsrc="Land_lot">
+      <context> These <head>real</head> estate taxes are based on the assessed value of the real property ; additional taxes usually apply to transfer of ownership and property sales . Other fees by government are possible for improvements such as curbs and sidewalks or an impact fee for building a house on a vacant lot . A lot has defined boundaries ( or borders ) which are documented somewhere , but the boundaries need not be shown on the land itself .</context>
+    </instance>
+    <instance id="Land_lot-lot-1-6-1" docsrc="Land_lot">
+      <context> Other <head>fees</head> by government are possible for improvements such as curbs and sidewalks or an impact fee for building a house on a vacant lot . A lot has defined boundaries ( or borders ) which are documented somewhere , but the boundaries need not be shown on the land itself . Most lots are small enough to be mapped as if they are flat , in spite of the curvature of the earth .</context>
+    </instance>
+    <instance id="Land_lot-lot-1-9-7" docsrc="Land_lot">
+      <context> Also <head>when</head> there are alleys , garbage collection may take place from the alley . Lots at the corners of a block have two sides of frontage and are called corner lots . Corner lots may have the advantage that a garage can be built with street access from the side , but have the disadvantage that there is more parkway lawn to mow and more sidewalk to shovel snow from .</context>
+    </instance>
+    <instance id="Land_lot-lot-10-13-3" docsrc="Land_lot">
+      <context> For example , certain areas are zoned for residential buildings <head>such</head> as houses . Other areas can be commercially , agriculturally , or industrially zoned . Sometimes zoning laws establish other restrictions such as a minimum lot area and/or frontage length for building a house or other building , maximum building size , or minimum setbacks from a lot boundary for building a structure .</context>
+    </instance>
+    <instance id="Land_lot-lot-10-15-3" docsrc="Land_lot">
+      <context> Structures such as buildings , driveways , sidewalks , patios <head>or</head> other pavement , wells , septic systems , signs , and similar improvements which are considered permanently attached to the land in the lot are considered to be real property , usually part of the lot but often parts of a building , such as condominiums , are owned separately . Such structures owned by the lot owner(s ) , as well as easements which help the lot owners or users , can be considered appurtenances to the lot . A lot without such structures can be called a vacant lot , urban prairie , spare ground , an empty lot , or an unimproved or undeveloped lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-10-8-3" docsrc="Land_lot">
+      <context> Formal surveys are done by qualified surveyors , who can <head>make</head> a diagram or map of the lot showing boundaries , dimensions , locations of any structures such as buildings , etc . Such surveys are also used to determine if there are any encroachments to the lot . Surveyors can sometimes place posts at the metes of a lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-11-6-5" docsrc="Land_lot">
+      <context> The area is typically determined as if the land is flat <head>and</head> level , although the terrain of the lot may not be flat , i. e , the lot may be hilly . The contour surface area of the land is changeable and may be too complicated for determining a lot 's area . When the boundaries of a lot are not indicated on the lot , a survey of the lot can be made to determine where the boundaries are according to the lot descriptions or plat diagrams .</context>
+    </instance>
+    <instance id="Land_lot-lot-12-13-9" docsrc="Land_lot">
+      <context> There may also be restrictions based on covenants established by private parties <head>such</head> as the real estate developer . There may be easements for utilities to run water , sewage , electric power , or telephone lines through a lot . Something which is meant to improve the value or usefulness of a lot can be called an appurtenance to the lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-12-9-1" docsrc="Land_lot">
+      <context> Surveyors can sometimes place posts at the metes of a lot . <head>The</head> part of the boundary of the lot next to a street or road is the frontage . Developers try to provide at least one side of frontage for every lot , so owners can have transportation access to their lots .</context>
+    </instance>
+    <instance id="Land_lot-lot-12-9-2" docsrc="Land_lot">
+      <context> The part of the boundary of the lot next to a street <head>or</head> road is the frontage . Developers try to provide at least one side of frontage for every lot , so owners can have transportation access to their lots . As the name implies , street frontage determines which side of the lot is the front , with the opposite side being the back .</context>
+    </instance>
+    <instance id="Land_lot-lot-13-9-4" docsrc="Land_lot">
+      <context> As the name implies , street frontage determines which side of the lot <head>is</head> the front , with the opposite side being the back . Sometimes minor , usually unnamed driveways called alleys , usually publicly owned , also provide access to the back of a lot . When alleys are present , garages are often located in back of a lot with access from the alley .</context>
+    </instance>
+    <instance id="Land_lot-lot-14-8-2" docsrc="Land_lot">
+      <context> When the boundaries of a lot are not indicated on the lot , a <head>survey</head> of the lot can be made to determine where the boundaries are according to the lot descriptions or plat diagrams . Formal surveys are done by qualified surveyors , who can make a diagram or map of the lot showing boundaries , dimensions , locations of any structures such as buildings , etc . Such surveys are also used to determine if there are any encroachments to the lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-15-9-11" docsrc="Land_lot">
+      <context> In this situation , the lot will usually include a long driveway to provide transportation <head>access</head> . Because the shape is reminiscent of a flag ( the home ) on a flag pole ( the driveway ) , these lots are called flag lots . Local governments often pass zoning laws which control what buildings can be built on a lot and what they can be used for .</context>
+    </instance>
+    <instance id="Land_lot-lot-16-15-2" docsrc="Land_lot">
+      <context> Something which is meant to improve the value or usefulness of a lot can be called <head>an</head> appurtenance to the lot . Structures such as buildings , driveways , sidewalks , patios or other pavement , wells , septic systems , signs , and similar improvements which are considered permanently attached to the land in the lot are considered to be real property , usually part of the lot but often parts of a building , such as condominiums , are owned separately . Such structures owned by the lot owner(s ) , as well as easements which help the lot owners or users , can be considered appurtenances to the lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-16-9-6" docsrc="Land_lot">
+      <context> When alleys are present , garages are often located in back of a lot with access <head>from</head> the alley . Also when there are alleys , garbage collection may take place from the alley . Lots at the corners of a block have two sides of frontage and are called corner lots .</context>
+    </instance>
+    <instance id="Land_lot-lot-17-6-4" docsrc="Land_lot">
+      <context> A characteristic of the size of a lot is its area . The area is typically determined <head>as</head> if the land is flat and level , although the terrain of the lot may not be flat , i. e , the lot may be hilly . The contour surface area of the land is changeable and may be too complicated for determining a lot 's area .</context>
+    </instance>
+    <instance id="Land_lot-lot-17-6-5" docsrc="Land_lot">
+      <context> The area is typically determined as if the land is flat and level , although the terrain <head>of</head> the lot may not be flat , i. e , the lot may be hilly . The contour surface area of the land is changeable and may be too complicated for determining a lot 's area . When the boundaries of a lot are not indicated on the lot , a survey of the lot can be made to determine where the boundaries are according to the lot descriptions or plat diagrams .</context>
+    </instance>
+    <instance id="Land_lot-lot-17-8-1" docsrc="Land_lot">
+      <context> The contour surface area of the land is changeable and may be too complicated for determining a <head>lot</head> 's area . When the boundaries of a lot are not indicated on the lot , a survey of the lot can be made to determine where the boundaries are according to the lot descriptions or plat diagrams . Formal surveys are done by qualified surveyors , who can make a diagram or map of the lot showing boundaries , dimensions , locations of any structures such as buildings , etc .</context>
+    </instance>
+    <instance id="Land_lot-lot-19-6-3" docsrc="Land_lot">
+      <context> Most lots are small enough to be mapped as if they are flat , in spite of the curvature <head>of</head> the earth . A characteristic of the size of a lot is its area . The area is typically determined as if the land is flat and level , although the terrain of the lot may not be flat , i. e , the lot may be hilly .</context>
+    </instance>
+    <instance id="Land_lot-lot-2-13-5" docsrc="Land_lot">
+      <context> Sometimes zoning <head>laws</head> establish other restrictions such as a minimum lot area and/or frontage length for building a house or other building , maximum building size , or minimum setbacks from a lot boundary for building a structure . This is in addition to building codes which must be met . Also minimum lot sizes and separations must be met when wells and septic systems are used .</context>
+    </instance>
+    <instance id="Land_lot-lot-20-13-8" docsrc="Land_lot">
+      <context> In urban areas , sewers and water lines often provide service to households . There may also be restrictions based <head>on</head> covenants established by private parties such as the real estate developer . There may be easements for utilities to run water , sewage , electric power , or telephone lines through a lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-20-13-9" docsrc="Land_lot">
+      <context> There may also be restrictions based on covenants established by private parties such as the real estate developer . There <head>may</head> be easements for utilities to run water , sewage , electric power , or telephone lines through a lot . Something which is meant to improve the value or usefulness of a lot can be called an appurtenance to the lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-20-15-3" docsrc="Land_lot">
+      <context> Structures such as buildings , driveways , sidewalks , patios or other pavement , wells , septic systems , signs <head>,</head> and similar improvements which are considered permanently attached to the land in the lot are considered to be real property , usually part of the lot but often parts of a building , such as condominiums , are owned separately . Such structures owned by the lot owner(s ) , as well as easements which help the lot owners or users , can be considered appurtenances to the lot . A lot without such structures can be called a vacant lot , urban prairie , spare ground , an empty lot , or an unimproved or undeveloped lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-21-9-3" docsrc="Land_lot">
+      <context> Developers try to provide at least one side of frontage for every lot , so owners can have transportation access to <head>their</head> lots . As the name implies , street frontage determines which side of the lot is the front , with the opposite side being the back . Sometimes minor , usually unnamed driveways called alleys , usually publicly owned , also provide access to the back of a lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-22-9-1" docsrc="Land_lot">
+      <context> Surveyors can sometimes place posts at the metes of a lot . The part of the boundary of the lot next to <head>a</head> street or road is the frontage . Developers try to provide at least one side of frontage for every lot , so owners can have transportation access to their lots .</context>
+    </instance>
+    <instance id="Land_lot-lot-22-9-10" docsrc="Land_lot">
+      <context> In areas with large blocks , homes are sometimes built in the center of the block . In this situation , the <head>lot</head> will usually include a long driveway to provide transportation access . Because the shape is reminiscent of a flag ( the home ) on a flag pole ( the driveway ) , these lots are called flag lots .</context>
+    </instance>
+    <instance id="Land_lot-lot-24-2-2" docsrc="Land_lot">
+      <context> Like most other types of real estate , lots owned by private parties are subject to a periodic real estate tax payable by the <head>owners</head> to local governments such as a county or municipality . These real estate taxes are based on the assessed value of the real property ; additional taxes usually apply to transfer of ownership and property sales . Other fees by government are possible for improvements such as curbs and sidewalks or an impact fee for building a house on a vacant lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-26-16-1" docsrc="Land_lot">
+      <context> A lot without such structures can be called a vacant lot , urban prairie , spare ground , an empty lot , or an unimproved or <head>undeveloped</head> lot . Many developers divide a large tract of land into lots as a subdivision . Certain areas of the land are dedicated ( given to local government for permanent upkeep ) as streets and sometimes alleys for transportation and access to lots .</context>
+    </instance>
+    <instance id="Land_lot-lot-26-9-10" docsrc="Land_lot">
+      <context> In areas with large blocks , homes are sometimes built in the center of the block . In this situation , the lot will usually include <head>a</head> long driveway to provide transportation access . Because the shape is reminiscent of a flag ( the home ) on a flag pole ( the driveway ) , these lots are called flag lots .</context>
+    </instance>
+    <instance id="Land_lot-lot-27-15-2" docsrc="Land_lot">
+      <context> Something which is meant to improve the value or usefulness of a lot can be called an appurtenance to the lot . Structures such as buildings , <head>driveways</head> , sidewalks , patios or other pavement , wells , septic systems , signs , and similar improvements which are considered permanently attached to the land in the lot are considered to be real property , usually part of the lot but often parts of a building , such as condominiums , are owned separately . Such structures owned by the lot owner(s ) , as well as easements which help the lot owners or users , can be considered appurtenances to the lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-27-15-3" docsrc="Land_lot">
+      <context> Structures such as buildings , driveways , sidewalks , patios or other pavement , wells , septic systems , signs , and similar improvements which are considered <head>permanently</head> attached to the land in the lot are considered to be real property , usually part of the lot but often parts of a building , such as condominiums , are owned separately . Such structures owned by the lot owner(s ) , as well as easements which help the lot owners or users , can be considered appurtenances to the lot . A lot without such structures can be called a vacant lot , urban prairie , spare ground , an empty lot , or an unimproved or undeveloped lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-27-17-3" docsrc="Land_lot">
+      <context> Lots of land can be sold/bought by the owners or conveyed in other ways . Such conveyances are made by documents called deeds which should be recorded <head>by</head> the government , typically the county recorder 's office . Deeds specify the lot by including a description such as one determined by the " metes and bounds " or quadrant methods , or referring to a lot number and block number in a recorded plat diagram .</context>
+    </instance>
+    <instance id="Land_lot-lot-29-6-3" docsrc="Land_lot">
+      <context> Most lots are small enough to be mapped as if they are flat , in spite of the curvature of the earth . A characteristic of the size of <head>a</head> lot is its area . The area is typically determined as if the land is flat and level , although the terrain of the lot may not be flat , i. e , the lot may be hilly .</context>
+    </instance>
+    <instance id="Land_lot-lot-3-1-2" docsrc="Land_lot">
+      <context> A lot may <head>also</head> be defined as a small area of land that is empty except for pavement or similar improvement . An example would be a parking lot . This article covers lots as parcels of land meant to be owned as units by an owner(s ) .</context>
+    </instance>
+    <instance id="Land_lot-lot-3-17-3" docsrc="Land_lot">
+      <context> Lots of land <head>can</head> be sold/bought by the owners or conveyed in other ways . Such conveyances are made by documents called deeds which should be recorded by the government , typically the county recorder 's office . Deeds specify the lot by including a description such as one determined by the " metes and bounds " or quadrant methods , or referring to a lot number and block number in a recorded plat diagram .</context>
+    </instance>
+    <instance id="Land_lot-lot-30-6-5" docsrc="Land_lot">
+      <context> The area is typically determined as if the land is flat and level , although the terrain of the lot may not be flat , i. e , the lot <head>may</head> be hilly . The contour surface area of the land is changeable and may be too complicated for determining a lot 's area . When the boundaries of a lot are not indicated on the lot , a survey of the lot can be made to determine where the boundaries are according to the lot descriptions or plat diagrams .</context>
+    </instance>
+    <instance id="Land_lot-lot-32-13-3" docsrc="Land_lot">
+      <context> For example , certain areas are zoned for residential buildings such as houses . Other areas can be commercially , agriculturally , or industrially zoned . Sometimes zoning laws establish other restrictions <head>such</head> as a minimum lot area and/or frontage length for building a house or other building , maximum building size , or minimum setbacks from a lot boundary for building a structure .</context>
+    </instance>
+    <instance id="Land_lot-lot-34-15-1" docsrc="Land_lot">
+      <context> There may be easements for utilities to run water , sewage , electric power , or telephone lines through a lot . Something which is meant to improve the value or usefulness of a <head>lot</head> can be called an appurtenance to the lot . Structures such as buildings , driveways , sidewalks , patios or other pavement , wells , septic systems , signs , and similar improvements which are considered permanently attached to the land in the lot are considered to be real property , usually part of the lot but often parts of a building , such as condominiums , are owned separately .</context>
+    </instance>
+    <instance id="Land_lot-lot-4-16-3" docsrc="Land_lot">
+      <context> Certain areas of the <head>land</head> are dedicated ( given to local government for permanent upkeep ) as streets and sometimes alleys for transportation and access to lots . Areas between the streets are divided up into lots to be sold to future owners . The layout of the lots is mapped on a plat diagram , which is recorded with the government , typically the county recorder 's office .</context>
+    </instance>
+    <instance id="Land_lot-lot-4-17-5" docsrc="Land_lot">
+      <context> Deeds specify the lot <head>by</head> including a description such as one determined by the " metes and bounds " or quadrant methods , or referring to a lot number and block number in a recorded plat diagram . Deeds often mention that appurtenances to the lot are included in order to convey any structures and other improvements also . In front of many lots in urban areas , there are sidewalks , usually publicly owned .</context>
+    </instance>
+    <instance id="Land_lot-lot-46-15-1" docsrc="Land_lot">
+      <context> There may be easements for utilities to run water , sewage , electric power , or telephone lines through a lot . Something which is meant to improve the value or usefulness of a lot can be called an appurtenance to the lot . Structures such <head>as</head> buildings , driveways , sidewalks , patios or other pavement , wells , septic systems , signs , and similar improvements which are considered permanently attached to the land in the lot are considered to be real property , usually part of the lot but often parts of a building , such as condominiums , are owned separately .</context>
+    </instance>
+    <instance id="Land_lot-lot-5-0-2" docsrc="Land_lot">
+      <context> In real estate , a <head>lot</head> or plot is a tract or parcel of land owned or meant to be owned by some owner(s ) . A lot is essentially considered a parcel of real property in some countries or immovable property ( meaning practically the same thing ) in other countries . Possible owner(s ) of a lot can be one or more person(s ) or another legal entity , such as a company/corporation , organization , government , or trust .</context>
+    </instance>
+    <instance id="Land_lot-lot-5-15-2" docsrc="Land_lot">
+      <context> Something which is meant to <head>improve</head> the value or usefulness of a lot can be called an appurtenance to the lot . Structures such as buildings , driveways , sidewalks , patios or other pavement , wells , septic systems , signs , and similar improvements which are considered permanently attached to the land in the lot are considered to be real property , usually part of the lot but often parts of a building , such as condominiums , are owned separately . Such structures owned by the lot owner(s ) , as well as easements which help the lot owners or users , can be considered appurtenances to the lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-5-6-5" docsrc="Land_lot">
+      <context> The area is typically determined <head>as</head> if the land is flat and level , although the terrain of the lot may not be flat , i. e , the lot may be hilly . The contour surface area of the land is changeable and may be too complicated for determining a lot 's area . When the boundaries of a lot are not indicated on the lot , a survey of the lot can be made to determine where the boundaries are according to the lot descriptions or plat diagrams .</context>
+    </instance>
+    <instance id="Land_lot-lot-5-9-9" docsrc="Land_lot">
+      <context> Corner lots may have the <head>advantage</head> that a garage can be built with street access from the side , but have the disadvantage that there is more parkway lawn to mow and more sidewalk to shovel snow from . In areas with large blocks , homes are sometimes built in the center of the block . In this situation , the lot will usually include a long driveway to provide transportation access .</context>
+    </instance>
+    <instance id="Land_lot-lot-6-1-1" docsrc="Land_lot">
+      <context> A common form of ownership of <head>a</head> lot is called fee simple in some countries . A lot may also be defined as a small area of land that is empty except for pavement or similar improvement . An example would be a parking lot .</context>
+    </instance>
+    <instance id="Land_lot-lot-7-0-3" docsrc="Land_lot">
+      <context> A lot is essentially considered a parcel <head>of</head> real property in some countries or immovable property ( meaning practically the same thing ) in other countries . Possible owner(s ) of a lot can be one or more person(s ) or another legal entity , such as a company/corporation , organization , government , or trust . A common form of ownership of a lot is called fee simple in some countries .</context>
+    </instance>
+    <instance id="Land_lot-lot-7-16-4" docsrc="Land_lot">
+      <context> Areas between the streets are divided up <head>into</head> lots to be sold to future owners . The layout of the lots is mapped on a plat diagram , which is recorded with the government , typically the county recorder 's office . The blocks between streets and the individual lots in each block are given an identifier , usually a number or letter .</context>
+    </instance>
+    <instance id="Land_lot-lot-7-17-4" docsrc="Land_lot">
+      <context> Such conveyances are made by documents called <head>deeds</head> which should be recorded by the government , typically the county recorder 's office . Deeds specify the lot by including a description such as one determined by the " metes and bounds " or quadrant methods , or referring to a lot number and block number in a recorded plat diagram . Deeds often mention that appurtenances to the lot are included in order to convey any structures and other improvements also .</context>
+    </instance>
+    <instance id="Land_lot-lot-7-6-2" docsrc="Land_lot">
+      <context> A lot has defined boundaries ( or <head>borders</head> ) which are documented somewhere , but the boundaries need not be shown on the land itself . Most lots are small enough to be mapped as if they are flat , in spite of the curvature of the earth . A characteristic of the size of a lot is its area .</context>
+    </instance>
+    <instance id="Land_lot-lot-7-8-4" docsrc="Land_lot">
+      <context> Such surveys are also used to determine <head>if</head> there are any encroachments to the lot . Surveyors can sometimes place posts at the metes of a lot . The part of the boundary of the lot next to a street or road is the frontage .</context>
+    </instance>
+    <instance id="Land_lot-lot-8-1-3" docsrc="Land_lot">
+      <context> An example would be a parking lot . <head>This</head> article covers lots as parcels of land meant to be owned as units by an owner(s ) . Like most other types of real estate , lots owned by private parties are subject to a periodic real estate tax payable by the owners to local governments such as a county or municipality .</context>
+    </instance>
+    <instance id="Land_lot-lot-8-16-2" docsrc="Land_lot">
+      <context> Many developers divide a large tract of land <head>into</head> lots as a subdivision . Certain areas of the land are dedicated ( given to local government for permanent upkeep ) as streets and sometimes alleys for transportation and access to lots . Areas between the streets are divided up into lots to be sold to future owners .</context>
+    </instance>
+    <instance id="Land_lot-lot-9-15-4" docsrc="Land_lot">
+      <context> Such structures owned by the lot owner(s ) , <head>as</head> well as easements which help the lot owners or users , can be considered appurtenances to the lot . A lot without such structures can be called a vacant lot , urban prairie , spare ground , an empty lot , or an unimproved or undeveloped lot . Many developers divide a large tract of land into lots as a subdivision .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-0-16-3" docsrc="Lot_(biblical_person)">
+      <context> <head>They</head> traveled back through the Negev to the hills of Bethel.[v.1,3 ] With their sizeable numbers of livestock and always on the move , both families occupying the same pastures became problematic for the herdsmen who were assigned to each family 's herd.[v.6,7 ] The conflicts between herdsmen had become so troublesome that Abram recommended to Lot that they should part ways , lest there be conflict amongst " brethren".[v.8,9 ] Lot had encamped on the green Jordan plain among the cities of the plain and initially pitched his tent toward Sodom .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-0-25-1" docsrc="Lot_(biblical_person)">
+      <context> <head>===</head> Lot flees Sodom === After supper that night before bedtime , the men of the city , young and old , gathered around Lot 's house demanding he bring his two guests out that they might " know " them . Lot went out and closed the door behind him and prayed that they not do such wicked things , and offered them his virgin daughters , that had not " known " man , that they might know them instead , and do with as they pleased .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-0-33-1" docsrc="Lot_(biblical_person)">
+      <context> <head>Instead</head> of both brimstone and fire , Josephus has only lightning as the cause of the fire that destroyed Sodom : " God then cast a thunderbolt upon the city , and set it on fire , with its inhabitants ; and laid waste the country with the like burning , as I formerly said when I wrote the Jewish War . " === Lot and his daughters ===</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-0-6-1" docsrc="Lot_(biblical_person)">
+      <context> <head>Notable</head> episodes in his life include his travels with his uncle Abram ( Abraham ) , his flight from the destruction of Sodom and Gomorrah , during which Lot 's wife became a pillar of salt , and the seduction by his daughters so that they could bear children . === Lot 's background === Lot and his father Haran were born and raised in Ur of the Chaldees ( Genesis 11:28,31 ) in the region of Sumeria on the Euphrates River of lower Mesopotamia , roughly four thousand years ago .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-1-0-2" docsrc="Lot_(biblical_person)">
+      <context> Lot <head>(</head> /lɒt/ ; Hebrew : לוֹט , Modern Lot , Tiberian Lôṭ ; " veil " or " covering " ) was a patriarch in the biblical Book of Genesis chapters 11–14 and 19 . Notable episodes in his life include his travels with his uncle Abram ( Abraham ) , his flight from the destruction of Sodom and Gomorrah , during which Lot 's wife became a pillar of salt , and the seduction by his daughters so that they could bear children . === Lot 's background ===</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-1-19-5" docsrc="Lot_(biblical_person)">
+      <context> Abram <head>brought</head> back " his brother Lot " and all the people and their goods . ( v.15–24 ) === Lot flees Sodom ===</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-1-83-4" docsrc="Lot_(biblical_person)">
+      <context> The <head>New</head> Student 's Reference Work . Chicago : F. E. Compton and Co. " Lot " .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-1-9-4" docsrc="Lot_(biblical_person)">
+      <context> He <head>was</head> 205 years old when he died . ( Genesis 11:32 ) === Lot in the plain of Jordan ===</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-10-56-2" docsrc="Lot_(biblical_person)">
+      <context> In the Bereshith of the Torah , Lot is first <head>mentioned</head> at the end of the weekly reading portion , Parashat Noach . The weekly reading portions that follow , concerning all of the accounts of Lot 's life , are read in the Parashat Lekh Lekha and Parashat Vayera . In the Midrash , a number of additional stories concerning Lot are present , not found in the Tanakh , as follows :</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-11-18-3" docsrc="Lot_(biblical_person)">
+      <context> About eight years before he moved there , the kings of <head>the</head> five cities had become vassal states of an eastern alliance of four kingdoms under the leadership of Chedorlaomer king of Elam , whom they served for twelve years , but " the thirteenth year they rebelled . " ( Genesis 14:1–4 ) The following year the four armies with Chedorlaomer returned and at the Battle of the Vale of Siddim , the kings of Sodom and Gomorrah fell in defeat.[v.5–10 ] Chedorlaomer spoiled the cities and took captives as he departed , including Lot , who by then " dwelt " in Sodom.[v.11,12 ] When Abram heard what had happened to his " brother " Lot , he armed a rescue force of three hundred and eighteen of his trained servants and pursued and caught up to the armies of the four kings in the area of Dan.[v.13,14 ]</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-11-78-6" docsrc="Lot_(biblical_person)">
+      <context> LCC BS440.C3 . Retrieved July 9 , 2012 . Our People <head>:</head> A History of the Jews – Abram and Lot at chabad.org</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-13-56-1" docsrc="Lot_(biblical_person)">
+      <context> === Jewish view === In the Bereshith of the Torah , Lot is <head>first</head> mentioned at the end of the weekly reading portion , Parashat Noach . The weekly reading portions that follow , concerning all of the accounts of Lot 's life , are read in the Parashat Lekh Lekha and Parashat Vayera .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-14-25-3" docsrc="Lot_(biblical_person)">
+      <context> Lot went out and closed the door behind him and prayed that they not <head>do</head> such wicked things , and offered them his virgin daughters , that had not " known " man , that they might know them instead , and do with as they pleased . His response infuriated the men of Sodom who accused him of being judgmental and they threatened to do worse to him than they would have done to the men.[Gen.19:4–9 ] Before they could harm Lot and break into the house , the men pulled Lot back in and struck the intruders with blindness , and revealed to Lot that they were angels sent to destroy the place .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-16-61-1" docsrc="Lot_(biblical_person)">
+      <context> While in Egypt , the midrash gives Lot much credit because , despite his desire for <head>wealth</head> , he did not inform Pharaoh of Sarah 's secret , that she was Abraham 's wife . === Islamic view === Lut ( Arabic : لوط‎‎ ) in the Quran is considered to be the same as Lot in the Hebrew Bible .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-19-22-1" docsrc="Lot_(biblical_person)">
+      <context> ( v.15–24 ) === Lot flees Sodom === After supper that night before bedtime , the men of the <head>city</head> , young and old , gathered around Lot 's house demanding he bring his two guests out that they might " know " them .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-24-42-2" docsrc="Lot_(biblical_person)">
+      <context> The presumptive incest between Lot and his daughters has raised many questions , debates , and theories as to what the real motives were <head>,</head> who really was at fault , and the level of bias the author of Genesis Chapter 19 had . However , such biblical scholars as Jacob Milgrom , Victor P. Hamilton , and Calum Carmichael postulate that the Levitical laws could not have been developed the way they were , without controversial issues surrounding the patriarchs of Israel , especially regarding incest . Carmichael even attributes the entire formulation of the Levitical laws to the lives of the founding fathers of the nation , including the righteous Lot ( together with Abraham , Jacob , Judah , Moses , and David ) , who were outstanding figures in Israelite tradition .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-28-0-1" docsrc="Lot_(biblical_person)">
+      <context> Lot ( /lɒt/ ; Hebrew : לוֹט , Modern Lot , Tiberian Lôṭ ; " veil " or " covering " ) was a patriarch in the biblical <head>Book</head> of Genesis chapters 11–14 and 19 . Notable episodes in his life include his travels with his uncle Abram ( Abraham ) , his flight from the destruction of Sodom and Gomorrah , during which Lot 's wife became a pillar of salt , and the seduction by his daughters so that they could bear children .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-30-26-3" docsrc="Lot_(biblical_person)">
+      <context> This allowed a window of opportunity for Lot to make preparations for him and his family to leave . When he went out to his sons in law that married <head>his</head> daughters , to warn them to flee , they treated him as one that mocked.[Gen.19:10–14 ] As the day began to dawn , the angels urged him to hasten and leave , and when he yet lingered , the angels took hold of the hands of Lot , his wife and two daughters and transported them beyond the city and set them down , and the angel told Lot : " Escape for thy life ; look not behind thee , neither stay thou in all the plain ; escape to the mountain , lest thou be consumed."[Gen.19:15–17 ] Lot argued that if he went to the mountain some evil would cause his death , and he requested to be allowed to flee instead to the " little " city which was closer .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-4-25-3" docsrc="Lot_(biblical_person)">
+      <context> Lot went out and <head>closed</head> the door behind him and prayed that they not do such wicked things , and offered them his virgin daughters , that had not " known " man , that they might know them instead , and do with as they pleased . His response infuriated the men of Sodom who accused him of being judgmental and they threatened to do worse to him than they would have done to the men.[Gen.19:4–9 ] Before they could harm Lot and break into the house , the men pulled Lot back in and struck the intruders with blindness , and revealed to Lot that they were angels sent to destroy the place .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-4-38-1" docsrc="Lot_(biblical_person)">
+      <context> Lot and his daughters <head>===</head> The story , usually called Lot and his daughters , has been the subject of many paintings over the centuries , and became one of the subjects in the Power of Women group of subjects , warning men against the dangers of succumbing to the temptations of women , while also providing an opportunity for an erotic depiction . The scene generally shows Lot and his daughters eating and drinking in their mountain refuge .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-4-41-1" docsrc="Lot_(biblical_person)">
+      <context> Usually the background contains <head>a</head> small figure of Lot 's wife , and in the distance the city or cities burn . ==== Scholarly appraisal ==== The presumptive incest between Lot and his daughters has raised many questions , debates , and theories as to what the real motives were , who really was at fault , and the level of bias the author of Genesis Chapter 19 had .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-4-44-3" docsrc="Lot_(biblical_person)">
+      <context> The Levitical laws were <head>needed</head> for a developing nation who needed to be seen as different from the world , cleansed and blameless : The first step starting with circumcision.[Gen.17:1,10;Ch.17 ] So nothing could be held against the patriarchs for incestuous behavior because this was part of progressive development , from the ways of the world ( coming out of Chaldea ) to becoming blameless before their God.[Gen.17:1 ] Some have argued that Lot 's behavior in offering of his daughters to the men of Sodom in Genesis 19:8 constitutes sexual abuse of his daughters , which created a confusion of kinship roles that was ultimately played out through the incestuous acts in Genesis 19:30–38 .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-4-56-3" docsrc="Lot_(biblical_person)">
+      <context> The weekly reading portions <head>that</head> follow , concerning all of the accounts of Lot 's life , are read in the Parashat Lekh Lekha and Parashat Vayera . In the Midrash , a number of additional stories concerning Lot are present , not found in the Tanakh , as follows : Abraham took care of Lot after Haran was burned in a gigantic fire in which Nimrod , King of Babylon , tried to kill Abraham .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-41-18-2" docsrc="Lot_(biblical_person)">
+      <context> Lot had encamped on the green Jordan plain among the cities of the plain and initially pitched his tent toward Sodom . About eight years before he moved there , the kings of the five cities had become vassal states of <head>an</head> eastern alliance of four kingdoms under the leadership of Chedorlaomer king of Elam , whom they served for twelve years , but " the thirteenth year they rebelled . " ( Genesis 14:1–4 ) The following year the four armies with Chedorlaomer returned and at the Battle of the Vale of Siddim , the kings of Sodom and Gomorrah fell in defeat.[v.5–10 ] Chedorlaomer spoiled the cities and took captives as he departed , including Lot , who by then " dwelt " in Sodom.[v.11,12 ]</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-44-16-2" docsrc="Lot_(biblical_person)">
+      <context> Genesis 13 discusses Abram and Lot 's return to Canaan after the famine had passed and the lands became fertile again . They traveled back through the Negev to the hills of Bethel.[v.1,3 ] With their sizeable numbers of livestock and always on the <head>move</head> , both families occupying the same pastures became problematic for the herdsmen who were assigned to each family 's herd.[v.6,7 ] The conflicts between herdsmen had become so troublesome that Abram recommended to Lot that they should part ways , lest there be conflict amongst " brethren".[v.8,9 ]</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-5-14-1" docsrc="Lot_(biblical_person)">
+      <context> ( Genesis 11:32 ) === <head>Lot</head> in the plain of Jordan === Genesis 13 discusses Abram and Lot 's return to Canaan after the famine had passed and the lands became fertile again .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-5-33-2" docsrc="Lot_(biblical_person)">
+      <context> === Lot and his daughters <head>===</head> The story , usually called Lot and his daughters , has been the subject of many paintings over the centuries , and became one of the subjects in the Power of Women group of subjects , warning men against the dangers of succumbing to the temptations of women , while also providing an opportunity for an erotic depiction .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-5-83-1" docsrc="Lot_(biblical_person)">
+      <context> Our People : A History <head>of</head> the Jews – Abram and Lot at chabad.org Beach , Chandler B. , ed . ( 1914 ) . " Lot " .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-52-26-3" docsrc="Lot_(biblical_person)">
+      <context> This allowed a window of opportunity for Lot to make preparations for him and his family to leave . When he went out to his sons in law that married his daughters , to warn them to flee , they treated him as one that mocked.[Gen.19:10–14 ] As the day began to <head>dawn</head> , the angels urged him to hasten and leave , and when he yet lingered , the angels took hold of the hands of Lot , his wife and two daughters and transported them beyond the city and set them down , and the angel told Lot : " Escape for thy life ; look not behind thee , neither stay thou in all the plain ; escape to the mountain , lest thou be consumed."[Gen.19:15–17 ] Lot argued that if he went to the mountain some evil would cause his death , and he requested to be allowed to flee instead to the " little " city which was closer .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-6-19-3" docsrc="Lot_(biblical_person)">
+      <context> He divided his forces and attacked <head>at</head> night from more than one direction , and the kings fled northeast . The pursuit continued and the " slaughter of Chedorlaomer " , and the other kings was completed at Hobah north of Damascus . Abram brought back " his brother Lot " and all the people and their goods .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-7-26-1" docsrc="Lot_(biblical_person)">
+      <context> His response infuriated the men of Sodom <head>who</head> accused him of being judgmental and they threatened to do worse to him than they would have done to the men.[Gen.19:4–9 ] Before they could harm Lot and break into the house , the men pulled Lot back in and struck the intruders with blindness , and revealed to Lot that they were angels sent to destroy the place . This allowed a window of opportunity for Lot to make preparations for him and his family to leave .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-7-46-1" docsrc="Lot_(biblical_person)">
+      <context> Some have argued that Lot 's behavior <head>in</head> offering of his daughters to the men of Sodom in Genesis 19:8 constitutes sexual abuse of his daughters , which created a confusion of kinship roles that was ultimately played out through the incestuous acts in Genesis 19:30–38 . A number of commentators describe the actions of Lot 's daughters as rape . Esther Fuchs suggests that the text presents Lot 's daughters as the " initiators and perpetrators of the incestuous ' rape ' . "</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-7-55-1" docsrc="Lot_(biblical_person)">
+      <context> === Family tree === === Jewish view <head>===</head> In the Bereshith of the Torah , Lot is first mentioned at the end of the weekly reading portion , Parashat Noach .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-7-57-1" docsrc="Lot_(biblical_person)">
+      <context> In the Midrash , a number of <head>additional</head> stories concerning Lot are present , not found in the Tanakh , as follows : Abraham took care of Lot after Haran was burned in a gigantic fire in which Nimrod , King of Babylon , tried to kill Abraham . While in Egypt , the midrash gives Lot much credit because , despite his desire for wealth , he did not inform Pharaoh of Sarah 's secret , that she was Abraham 's wife .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-8-38-2" docsrc="Lot_(biblical_person)">
+      <context> The story , usually called Lot and his <head>daughters</head> , has been the subject of many paintings over the centuries , and became one of the subjects in the Power of Women group of subjects , warning men against the dangers of succumbing to the temptations of women , while also providing an opportunity for an erotic depiction . The scene generally shows Lot and his daughters eating and drinking in their mountain refuge . Usually the background contains a small figure of Lot 's wife , and in the distance the city or cities burn .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-8-45-1" docsrc="Lot_(biblical_person)">
+      <context> So nothing could be held against the patriarchs <head>for</head> incestuous behavior because this was part of progressive development , from the ways of the world ( coming out of Chaldea ) to becoming blameless before their God.[Gen.17:1 ] Some have argued that Lot 's behavior in offering of his daughters to the men of Sodom in Genesis 19:8 constitutes sexual abuse of his daughters , which created a confusion of kinship roles that was ultimately played out through the incestuous acts in Genesis 19:30–38 . A number of commentators describe the actions of Lot 's daughters as rape .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-8-9-1" docsrc="Lot_(biblical_person)">
+      <context> ( Genesis 11:28 ) En route to Canaan <head>,</head> the family stopped in the Paddan Aram region , about halfway along the Fertile Crescent between Mesopotamia and the Mediterranean . They settled at the site called Haran where Lot 's grandfather , Terah , lived the rest of his days .</context>
+    </instance>
+    <instance id="Lot_(biblical_person)-lot-83-26-3" docsrc="Lot_(biblical_person)">
+      <context> This allowed a window of opportunity for Lot to make preparations for him and his family to leave . When he went out to his sons in law that married his daughters , to warn them to flee , they treated him as one that mocked.[Gen.19:10–14 ] As the day began to dawn , the angels urged him to hasten and leave , and when he yet lingered , the angels took hold of the hands of Lot , his wife and two <head>daughters</head> and transported them beyond the city and set them down , and the angel told Lot : " Escape for thy life ; look not behind thee , neither stay thou in all the plain ; escape to the mountain , lest thou be consumed."[Gen.19:15–17 ] Lot argued that if he went to the mountain some evil would cause his death , and he requested to be allowed to flee instead to the " little " city which was closer .</context>
+    </instance>
+    <instance id="Luck-lot-5-99-1" docsrc="Luck">
+      <context> In Thailand , Buddhists may <head>wear</head> verses ( takrut ) or lucky amulets which have been blessed by monks for protection against harm . === Christianity and Judaism === Proverbs 16:33 states " the lot is cast into the lap , but the whole disposing thereof is of the Lord " .</context>
+    </instance>
+    <instance id="br-c01#w1440_0" docsrc="br-c01">
+      <context> Also , perhaps , table-tennis and other indoor sports to keep them fit and contented . It 's a wonder , really , to how much mendacious trouble Larkin puts himself to sell the Jerebohms that preposterous manse . He does n't really need the immense sum_of_money ( probably converted from American gold on the London_Exchange ) he makes them pay . For Larkin is already wonderfully contented with his <head>lot</head> . He has a glorious wife and many children . When he needs money to buy something like , say , the Rolls-Royce he keeps near his vegetable_patch , he takes_a_flyer in the sale of surplus army supplies . One of those capital-gains ventures , in_fact , has saddled him with Gore_Court .</context>
+    </instance>
+    <instance id="br-e02#w655_0" docsrc="br-e02">
+      <context> That encourages rooting , and the better developed the roots , the larger and more plentiful the flowers . Pansies are gluttons . I doubt if it is possible to overfeed them . I spade <head>lots</head> of compost into their bed ; lacking that , decayed manure spread_over the bed is fine . One year I simply set the plants in the remains of a compost pile , to which a_little sand had been added , and I had the most beautiful pansies in my , or any of my neighbors ' experience . In_addition to the rich soil they benefit by feedings of manure water every_other week , diluted to the color of weak tea . As a substitute for this , organic fertilizer dissolved in water to half the strength in the directions , may be used .</context>
+    </instance>
+    <instance id="br-f10#w1464_0" docsrc="br-f10">
+      <context> She suffered a nervous_breakdown and had to be institutionalized . Mr._A. , her fellow townsman , also experienced a nervous_breakdown just as_soon_as he discovered that he had been bilked of his life savings by the limited practitioner who had been treating his wife - a woman suffering from an incurable disease , multiple_sclerosis - and himself . Mr._A has recovered , but he is , justifiably , a bitter man . `` That 's a <head>lot</head> of hard earned money to lose '' , he says today . `` Neither me nor my wife were helped by that chiropractor 's treatments '' . And there was the case of Tom_Hepker , a machinist , who was referred by a friend to a health machine quack who treated him with a so-called diagnostic machine for what Doctor_Fraud said was a system full of arsenic and strychnine . After his pains got_worse , Tom decided to see a real doctor , from whom he learned he was suffering from cancer of the lung .</context>
+    </instance>
+    <instance id="br-f17#w1491_0" docsrc="br-f17">
+      <context> `` I have done everything '' , he wrote , `` to break_up the whole of that unfortunate establishment '' . Despite Company threats , duly carried_through , to cut_off supplies of powder , ball , and thread for fishing_nets , about 350 persons stayed in the village . They would attempt to bring supplies from St._Louis or Prairie_du_Chien at `` great expense as well as danger '' . At Fort_Garry some of the_Swiss also decided to cast their <head>lot</head> with the United_States , and in 1823 several families paid guides to take them to Fort_Snelling . The disasters of 1825 - 1826 caused more to leave . After heavy rains and an onslaught of mice , snow fell on October 15 , 1825 , and remained on the ground through a winter so cold that the ice on the Red was five feet thick . In April came a rapid thaw that produced high waters which did not recede until mid-June .</context>
+    </instance>
+    <instance id="br-f22#w2009_0" docsrc="br-f22">
+      <context> The battle of the Naktong_River is just one example of how the battle_cry and the spirit of The Fighting_Seventh have paid_off . For nearly a century the cry has never failed to rally the fighting men of the regiment . Take the case of Major_Marcus_A._Reno , who survived the Battle_of_The_Little_Big_Horn in 1876 . From the enlisted_men he pistol-whipped to the subordinate officer whose wife he tried to rape , a <head>lot</head> of men had plenty of reason heartily to dislike Marcus_Reno . Many_of his fellow officers refused to speak_to him . But when a board of inquiry was called to look_into the charges of cowardice made against him , the men who had seen Reno leave the battlefield and the officer who had heard Reno suggest that the wounded be left to be tortured by the Sioux , refused to say a harsh word against him . He was a member of The Fighting_Seventh .</context>
+    </instance>
+    <instance id="br-g23#w1561_0" docsrc="br-g23">
+      <context> For several generations much fiction has appeared dealing with the steprelationship . The stepmother , almost without exception , has been presented as a cruel ogress . Children , conditioned by this mistaken notion , have feared stepmothers , while adults , by their antagonistic attitudes , have made the role of the substitute parents a difficult one . Debate is not likely to resolve the tensions and make the <head>lot</head> of the stepchild a happier one . Research , on_the_other_hand , has shown many stepmothers to be eminently successful , some far better than the real mothers . Helen_Deutsch informed us ( The_Psychology_of_Women , Vol. 2 , , 434 ) that in all cultures `` the term ' stepmother ' automatically evokes deprecatory implications '' , a conclusion accepted by many . Will mere debate on that proposition , even_though it be free and untrammeled , remove the dross and leave a residue of refined gold ?</context>
+    </instance>
+    <instance id="br-j19#w592_0" docsrc="br-j19">
+      <context> Mathematically , we shall not distinguish the experiment of three dice tossed once from that of one die tossed three times . These examples are illustrative of the use of the words `` trial '' and `` experiment '' as they are used in this chapter , but they are quite flexible words and it is well not to restrict them too narrowly . Ten students act_as managers for a high-school football_team , and of these managers a proportion p are licensed drivers . Each Friday one manager is chosen by <head>lot</head> to stay late and load the equipment on a truck . On three Fridays the coach has needed a driver . Considering only these Fridays , what is the probability that the coach had drivers all 3 times ? Exactly 2 times ?</context>
+    </instance>
+    <instance id="br-j19#w681_0" docsrc="br-j19">
+      <context> Note that there are 3 trials of interest . Each trial consists_of choosing a student manager at_random . The 2 possible outcomes on each trial are `` driver '' or `` nondriver '' . Since the choice is by <head>lot</head> each_week , the outcomes of different trials are independent . The managers stay the same , so that * * f is the same for all weeks . We now generalize these ideas for general binomial experiments . For an experiment to qualify as a binomial experiment , it must have four properties : ( 1 ) there must be a fixed number of trials , ( 2 ) each trial must result in a `` success '' or a `` failure '' ( a binomial trial ) , ( 3 ) all trials must have identical probabilities of success , ( 4 ) the trials must be independent of each other .</context>
+    </instance>
+    <instance id="br-j52#w1763_0" docsrc="br-j52">
+      <context> whether there is such fitness or not , we all assume that there is , and if we do , we express in moral judgments more than the subjectivists say we do . Let me illustrate . In his novel The_House_of_the_Dead , Dostoevsky tells of his experiences in a Siberian prison_camp . Whatever the unhappy inmates of such camps are like today , Dostoevsky 's companions were about as grim a <head>lot</head> as can be imagined . `` I have heard stories '' , he writes , `` of the most terrible , the most unnatural actions , of the most monstrous murders , told with the most spontaneous , childishly merry laughter '' . Most of us would say that in this delight at the killing of others or the causing of suffering there is something very unfitting . If we were asked why we thought so , we should say that these things involve great evil and are wrong , and that to take delight in what is evil or wrong is plainly unfitting .</context>
+    </instance>
+    <instance id="br-j60#w1609_0" docsrc="br-j60">
+      <context> Just as the suburban factory may be more convenient than the downtown plant to the worker with a car , the trip to the shopping_center may seem far easier than to the downtown department_store , though both are the same distance from home . Indeed , there are some cities where the suburban shopping pulls customers who are geographically much nearer to downtown . Raymond_Vernon reports that residents of East_St._Louis have been driving across the Mississippi , through the heart of downtown St._Louis and out to the western suburbs for major shopping , simply because parking is easier at the big branches than it is in the heart of town . To the extent that the problem is merely parking , an aggressive downtown management , like that of Lazarus_Brothers in Columbus , Ohio , can fight_back successfully by building a garage on the <head>lot</head> next_door . If the distant patron of the suburban branch has been frightened_away from downtown by traffic problems , however , the city store can only pressure the politicians to do something about the highways or await the completion of the federal highway program . And if the affection for the suburban branch reflects a desire to shop with `` nice people '' , rather than with the indiscriminate urban mass which supports the downtown department_store , the central location may be in serious trouble . Today , according_to land economist Homer_Hoyt , shopping_centers and their associated parking_lots cover some 46000 acres of land , which is almost exactly the total land_area in all the nation 's Central Business_Districts put together .</context>
+    </instance>
+    <instance id="br-k06#w2075_0" docsrc="br-k06">
+      <context> The great spire shone as if the lightning had polished it . He jumped . The pointed shadow had nearly touched him . He trailed Ludie to the baseball_game in the <head>lot</head> on Kingston_Street near the Dutch_Reformed . `` Go_on home '' ! Ludie screeched at him . `` Someone 'll tell Papa '' !</context>
+    </instance>
+    <instance id="br-l08#w2282_0" docsrc="br-l08">
+      <context> He seemed to remember reading somewhere that Abyssinians had large litters , and suffered a dismaying vision of the apartment overrun with a dozen kittens . `` Y_que_sigue_despues ? - what then '' ? he asked her severely . `` A <head>lot</head> of people are so peculiar that they do n't like cats , it 's not the easiest thing in the world to find good homes for kittens - and , damn_it , you know very_well if I have them around long , impossible to give them away ! And I suppose now that you 've finally grown_up , if a_little late , you 'd go_on producing kittens every six months or_so . Yes , well , it 's a pity to spoil your girlish figure - which all those kittens would do anyway - but I think when you 've raised these we 'll just have the vet fix it so there won n't be any more . I wonder if the Carters would take one .</context>
+    </instance>
+    <instance id="br-l17#w1878_0" docsrc="br-l17">
+      <context> If the acting captain wanted his acting lieutenant to sit on his ass around the station all night , Killpath would just have to go_out and drag Gun back by the heels once an hour ; because he 'd be damned if he was going_to be a mid-watch pencil-pusher just to please his ulcerated pro-tem captain . At the doorway he squinted up at the gray morning overcast and patted his jacket pockets for the cigarettes , remembering then that he 'd left them at the Doughnuttery . He could pick_up another pack on his way home , if he were going_home . But even before he started across the oiled road to his Plymouth , parked in the <head>lot</head> under the cypress_trees across from the station , he knew that he was n't going_home . Not_yet . It was nine o_'_clock in the morning : the hour which , like a spade turning clods of earth , exposed to the day a myriad of busy creatures that had lain_dormant in the quiet night . Mission_Street at this hour was populated by a whole community that Gun could not have seen on his tour of duty - the neighborhood that had known Urbano_Quintana by day .</context>
+    </instance>
+    <instance id="br-m01#w1640_0" docsrc="br-m01">
+      <context> The President_of_the_United_States proclaimed the first Sunday in November as `` National_Grandmothers_'_Day '' and urged America to say it with flowers . A funeral_parlor chain was indicted for price-cutting . Fosterite bishops , after secret conclave , announced the Church 's second Major_Miracle : Supreme_Bishop_Digby had been translated bodily to Heaven and spot-promoted to Archangel , ranking with-but-after Archangel_Foster . The glorious news had been held_up pending Heavenly confirmation of the elevation of a new Supreme_Bishop , Huey_Short - a candidate accepted by the Boone faction after <head>lots</head> had been cast repeatedly . L'Unita and Hoy published identical denunciations of Short 's elevation , l'Osservatore_Romano and the Christian_Science_Monitor ignored it , Times_of_India snickered at it , and the Manchester_Guardian simply reported it - the Fosterites in England were few but extremely militant . Digby was not pleased with his promotion . The Man_from_Mars had interrupted him with his work half finished - and that stupid jackass Short was certain to louse_it_up .</context>
+    </instance>
+    <instance id="br-n09#w1422_0" docsrc="br-n09">
+      <context> Tom had been laying for Aaron_McBride for a long_time , just waiting to catch him out of line . McBride gave him his opportunity when he showed_up in town with a pistol on his hip . He had a legitimate reason for wearing it . It was payday for Highlands , and he was packing a <head>lot</head> of money back into the oil_fields . Moreover , as_long_as the weapon was carried openly , the sheriff 's office had made no previous issue of_it . `` So what 's this all about '' ? he demanded , when Lord confronted him . I 'm not the only man in town with a gun , or the only one without a permit `` .</context>
+    </instance>
+    <instance id="br-n09#w1827_0" docsrc="br-n09">
+      <context> Not immediately , as the deputy demanded . Not without a face-saving respite of at_least a_few minutes . To do so would make his job well-nigh impossible . Oil-field workers were a rough tough <head>lot</head> . How could he exert authority over them - make them toe_the_line , as he had to - if he knuckled_under to this small-town clown ? `` I 'll get_around_to it a_little later '' , he mumbled desperately . `` Just as_soon_as I go to the bank , and '' -</context>
+    </instance>
+    <instance id="br-n11#w1475_0" docsrc="br-n11">
+      <context> `` Sportin '' ' ! The tall sunburnt rustler hunter stared in amazement . `` Sportin '' ' ! he echoed again in soft wonder . `` I seen a <head>lot</head> o ' things in my time . I found a trooper once the Apache had spread-eagled on an ant_hill , and another time we ran_across some teamsters they 'd caught , tied upside_down on their own wagon_wheels over little fires until their brains was exploded right out o ' their skulls . I heard o ' Texas cattlemen wrappin ' a cow thief up in green hides and lettin ' the sun shrink ' em and squeeze him to death . But there 's one thing I never seen or heard of , one thing I just do n't think there is , and that 's a sportin ' way o ' killin ' a man '' !</context>
+    </instance>
+    <instance id="br-p07#w230_0" docsrc="br-p07">
+      <context> `` More arrests , I fear '' . In your opinion , who is this E._Andrews on the ' certain ' list `` ? `` Cromwell , of_course . He is the oldest and most experienced of the <head>lot</head> . He saw the dangers , not the glories of being identified as a mutineer . Somehow he talked Spencer into letting him use another name '' . There was a tap at the door and Oliver entered with the word that Heiser wished to see the Captain .</context>
+    </instance>
+    <instance id="br-r09#w532_0" docsrc="br-r09">
+      <context> You then descended one story , glommed a television_set from the music room - the only constructive feature of your visit , by_the_way - and , returning to the ground_floor , entered the master_bedroom . From the curio cabinet on its south wall and the bureaus beneath , you abstracted seventeen ivory , metal , wood , and stone sculptures of Oriental and African origin , two snuffboxes , and a jade handled magnifying_glass . Rummaging through a stack of drawers nearby , you unearthed an antique French chess_set in ivory and sandalwood , which , along with two box_Kodaks , you added to your haul . Then , having wrapped the <head>lot</head> in an afghan my dog customarily slept on , you lammed out the front_door , considerately leaving it open for neighbors to discover . So_much_for the tiresome facts , as familiar to you , I'm sure , as to the constables and state troopers who followed in your wake . The foregoing , aided by several clues I 'll withhold to keep you on_your_toes , will pursue you with a tenacity worthy of Inspector_Javert , but before they close_in , gird yourselves , I repeat , for a vengeance infinitely more pitiless . Fourteen of the sculptures you took posses properties of a most curious and terrifying nature , as you will observe when your limbs begin to wither and your hair falls_out in patches .</context>
+    </instance>
+    <instance id="n10273906_d_7" docsrc="n10273906_d">
+      <context> when God destroyed Sodom and Gomorrah , <head>Lot</head> and his family were told to flee without looking_back ; Lot's wife was disobedient and was immediately changed into a pillar of salt ;</context>
+    </instance>
+  </lexelt>
+</corpus>

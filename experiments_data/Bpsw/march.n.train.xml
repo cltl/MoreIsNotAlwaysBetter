@@ -1,0 +1,956 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="March.n" pos="NN">
+    <instance id="March-march-0-237-1" docsrc="March">
+      <context> <head>Sunday</head> of St. Gregory Palamas March 27 === Fixed observances === March 1</context>
+    </instance>
+    <instance id="March-march-0-253-1" docsrc="March">
+      <context> <head>Samiljeol</head> ( South Korea ) World Civil Defence Day March 2</context>
+    </instance>
+    <instance id="March-march-0-261-1" docsrc="March">
+      <context> <head>Texas</head> Independence Day ( Texas , United States ) Victory at Adwa Day ( Ethiopia ) March 3</context>
+    </instance>
+    <instance id="March-march-0-270-1" docsrc="March">
+      <context> <head>Sportsmen</head> 's Day ( Egypt ) World Wildlife Day March 4</context>
+    </instance>
+    <instance id="March-march-0-273-1" docsrc="March">
+      <context> <head>March</head> 4 St Casimir 's Day ( Poland and Lithuania ) March 5</context>
+    </instance>
+    <instance id="March-march-0-280-1" docsrc="March">
+      <context> <head>National</head> Cheese Doodle Day ( United States ) St Piran 's Day ( Cornwall ) March 6</context>
+    </instance>
+    <instance id="March-march-0-285-1" docsrc="March">
+      <context> <head>Foundation</head> Day ( Norfolk Island ) Independence Day ( Ghana ) March 7</context>
+    </instance>
+    <instance id="March-march-0-290-1" docsrc="March">
+      <context> <head>National</head> Crown Roast of Pork Day ( United States ) Teacher 's Day ( Albania ) March 8</context>
+    </instance>
+    <instance id="March-march-0-295-1" docsrc="March">
+      <context> <head>Mother</head> 's Day ( primarily Eastern Europe , Russia , and the former Soviet bloc ) National Peanut Cluster Day ( United States ) March 9</context>
+    </instance>
+    <instance id="March-march-0-300-1" docsrc="March">
+      <context> <head>National</head> Crabmeat Day ( United States ) National Meatball Day ( United States ) March 10</context>
+    </instance>
+    <instance id="March-march-0-307-1" docsrc="March">
+      <context> <head>National</head> Women and Girls HIV/AIDS Awareness Day ( United States ) Tibetan Uprising Day ( Tibetan independence movement ) March 11</context>
+    </instance>
+    <instance id="March-march-0-312-1" docsrc="March">
+      <context> <head>Johnny</head> Appleseed Day ( United States ) Moshoeshoe Day ( Lesotho ) March 12</context>
+    </instance>
+    <instance id="March-march-0-322-1" docsrc="March">
+      <context> <head>World</head> Day Against Cyber Censorship Youth Day ( Zambia ) March 13</context>
+    </instance>
+    <instance id="March-march-0-327-1" docsrc="March">
+      <context> <head>Kasuga</head> Matsuri ( Kasuga Grand Shrine , Nara , Japan ) L. Ron Hubbard 's birthday ( Scientology ) March 14</context>
+    </instance>
+    <instance id="March-march-0-335-1" docsrc="March">
+      <context> <head>Pi</head> Day White Day ( Asia ) March 15</context>
+    </instance>
+    <instance id="March-march-0-346-1" docsrc="March">
+      <context> <head>Youth</head> Day ( Palau ) World Contact Day March 16</context>
+    </instance>
+    <instance id="March-march-0-352-1" docsrc="March">
+      <context> <head>Latvian</head> Legion Day ( Latvia ) Saint Urho 's Day ( Finnish Americans and Finnish Canadians ) March 17</context>
+    </instance>
+    <instance id="March-march-0-362-1" docsrc="March">
+      <context> <head>Evacuation</head> Day ( Massachusetts ) ( Suffolk County , Massachusetts ) Saint Patrick 's Day ( Ireland , Irish diaspora ) March 18</context>
+    </instance>
+    <instance id="March-march-0-369-1" docsrc="March">
+      <context> <head>Men</head> 's and Soldiers ' Day ( Mongolia ) Teacher 's Day ( Syria ) March 19</context>
+    </instance>
+    <instance id="March-march-0-378-1" docsrc="March">
+      <context> <head>(</head> Valencia ) " Return of the Swallow " , annual observance of the swallows ' return to Mission San Juan Capistrano in California . March 20</context>
+    </instance>
+    <instance id="March-march-0-391-1" docsrc="March">
+      <context> <head>National</head> Native HIV/AIDS Awareness Day ( United States ) World Sparrow Day March 21</context>
+    </instance>
+    <instance id="March-march-0-408-1" docsrc="March">
+      <context> <head>World</head> Puppetry Day ( International observance ) Youth Day ( Tunisia ) March 22</context>
+    </instance>
+    <instance id="March-march-0-412-1" docsrc="March">
+      <context> <head>Emancipation</head> Day ( Puerto Rico ) World Water Day March 23</context>
+    </instance>
+    <instance id="March-march-0-421-1" docsrc="March">
+      <context> <head>Tubilustrium</head> ( Ancient Rome ) World Meteorological Day March 24</context>
+    </instance>
+    <instance id="March-march-0-427-1" docsrc="March">
+      <context> <head>Student</head> Day ( Scientology ) World Tuberculosis Day ( International ) March 25</context>
+    </instance>
+    <instance id="March-march-0-446-1" docsrc="March">
+      <context> <head>Struggle</head> for Human Rights Day ( Slovakia ) Tolkien Reading Day ( Tolkien fandom ) March 26</context>
+    </instance>
+    <instance id="March-march-0-453-1" docsrc="March">
+      <context> <head>Purple</head> Day ( Canada and United States ) Synaxis of the Archangel Gabriel ( Eastern Christianity ) March 27</context>
+    </instance>
+    <instance id="March-march-0-458-1" docsrc="March">
+      <context> <head>International</head> whisk(e)y day World Theatre Day ( International ) March 28</context>
+    </instance>
+    <instance id="March-march-0-463-1" docsrc="March">
+      <context> <head>Serfs</head> Emancipation Day ( Tibet ) Teachers ' Day ( Czech Republic and Slovakia ) March 29</context>
+    </instance>
+    <instance id="March-march-0-469-1" docsrc="March">
+      <context> <head>Day</head> of the Young Combatant ( Chile ) Youth Day ( Taiwan ) March 30</context>
+    </instance>
+    <instance id="March-march-0-474-1" docsrc="March">
+      <context> <head>National</head> Doctors ' Day ( United States ) Spiritual Baptist/Shouter Liberation Day ( Trinidad and Tobago ) March 31</context>
+    </instance>
+    <instance id="March-march-0-5-5" docsrc="March">
+      <context> <head>Martius</head> remained the first month of the Roman calendar year perhaps as late as 153 BC , and several religious observances in the first half of the month were originally new year 's celebrations . Even in late antiquity , Roman mosaics picturing the months sometimes still placed March first . March 1 began the numbered year in Russia until the end of the 15th century .</context>
+    </instance>
+    <instance id="March-march-0-6-3" docsrc="March">
+      <context> <head>Great</head> Britain and its colonies continued to use March 25 until 1752 , when they finally adopted the Gregorian calendar ( the fiscal year in the UK continues to begin on the 6th April , initially identical to 25 March in the former Julian calendar ) . Many other cultures and religions still celebrate the beginning of the New Year in March . March is the first month of spring in the Northern Hemisphere ( North America , Europe , Asia and part of Africa ) and the first month of fall or autumn in the Southern Hemisphere ( South America , part of Africa , and Oceania ) .</context>
+    </instance>
+    <instance id="March-march-0-7-1" docsrc="March">
+      <context> <head>Many</head> other cultures and religions still celebrate the beginning of the New Year in March . March is the first month of spring in the Northern Hemisphere ( North America , Europe , Asia and part of Africa ) and the first month of fall or autumn in the Southern Hemisphere ( South America , part of Africa , and Oceania ) . March 's birthstones are aquamarine and bloodstone .</context>
+    </instance>
+    <instance id="March-march-1-0-3" docsrc="March">
+      <context> It <head>is</head> one of seven months that are 31 days long . In the Northern Hemisphere , the meteorological beginning of spring occurs on the first day of March . The March equinox on the 20th or 21st marks the astronomical beginning of spring in the Northern Hemisphere and the beginning of autumn in the Southern Hemisphere , where September is the seasonal equivalent of the Northern Hemisphere 's March .</context>
+    </instance>
+    <instance id="March-march-1-223-1" docsrc="March">
+      <context> Saturday <head>of</head> Souls March 5 Sunday of Last Judgement ( Meat Fare Sunday ) March 6 Maslenitsa March 6–14</context>
+    </instance>
+    <instance id="March-march-1-224-1" docsrc="March">
+      <context> Sunday <head>of</head> Last Judgement ( Meat Fare Sunday ) March 6 Maslenitsa March 6–14 Quinquagesima March 13</context>
+    </instance>
+    <instance id="March-march-1-373-1" docsrc="March">
+      <context> Kashubian <head>Unity</head> Day ( Poland ) Minna Canth 's Birthday ( Finland ) Quinquatria March 19–23 ( Ancient Rome )</context>
+    </instance>
+    <instance id="March-march-12-17-1" docsrc="March">
+      <context> These stones symbolize courage . Its birth flower is the daffodil . <head>The</head> zodiac signs for the month of March are Pisces ( until March 20 ) and Aries ( March 21 onwards ) .</context>
+    </instance>
+    <instance id="March-march-13-5-4" docsrc="March">
+      <context> His month Martius was the beginning of the season for both farming and <head>warfare</head> , and the festivals held in his honor during the month were mirrored by others in October , when the season for these activities came to a close . Martius remained the first month of the Roman calendar year perhaps as late as 153 BC , and several religious observances in the first half of the month were originally new year 's celebrations . Even in late antiquity , Roman mosaics picturing the months sometimes still placed March first .</context>
+    </instance>
+    <instance id="March-march-14-6-2" docsrc="March">
+      <context> March 1 began the numbered year in Russia until the end of the 15th <head>century</head> . Great Britain and its colonies continued to use March 25 until 1752 , when they finally adopted the Gregorian calendar ( the fiscal year in the UK continues to begin on the 6th April , initially identical to 25 March in the former Julian calendar ) . Many other cultures and religions still celebrate the beginning of the New Year in March .</context>
+    </instance>
+    <instance id="March-march-16-0-2" docsrc="March">
+      <context> March is the third month of the year in both the Julian and Gregorian calendars . <head>It</head> is one of seven months that are 31 days long . In the Northern Hemisphere , the meteorological beginning of spring occurs on the first day of March .</context>
+    </instance>
+    <instance id="March-march-18-17-1" docsrc="March">
+      <context> These stones symbolize courage . Its birth flower is the daffodil . The zodiac signs for the month <head>of</head> March are Pisces ( until March 20 ) and Aries ( March 21 onwards ) .</context>
+    </instance>
+    <instance id="March-march-2-225-1" docsrc="March">
+      <context> Maslenitsa March <head>6–14</head> Quinquagesima March 13 Great Lent March 14</context>
+    </instance>
+    <instance id="March-march-2-229-1" docsrc="March">
+      <context> Great Lent <head>March</head> 14 Clean Monday Theodore Saturday March 19</context>
+    </instance>
+    <instance id="March-march-3-0-4" docsrc="March">
+      <context> In the Northern <head>Hemisphere</head> , the meteorological beginning of spring occurs on the first day of March . The March equinox on the 20th or 21st marks the astronomical beginning of spring in the Northern Hemisphere and the beginning of autumn in the Southern Hemisphere , where September is the seasonal equivalent of the Northern Hemisphere 's March . The name of March comes from Latin Martius , the first month of the earliest Roman calendar .</context>
+    </instance>
+    <instance id="March-march-3-115-1" docsrc="March">
+      <context> Casimir Pulaski Day <head>(</head> United States ) Grandmother 's Day ( France ) ==== Week of March 8 : March 6–12 ====</context>
+    </instance>
+    <instance id="March-march-3-221-1" docsrc="March">
+      <context> ==== Movable Eastern <head>Christian</head> Observances , 2016 dates ==== Meatfare Week February 28-March 6 Saturday of Souls March 5</context>
+    </instance>
+    <instance id="March-march-3-231-1" docsrc="March">
+      <context> Clean Monday Theodore <head>Saturday</head> March 19 Feast of Orthodoxy March 20</context>
+    </instance>
+    <instance id="March-march-3-232-1" docsrc="March">
+      <context> Theodore Saturday March <head>19</head> Feast of Orthodoxy March 20 Saturday of Souls March 26</context>
+    </instance>
+    <instance id="March-march-39-0-3" docsrc="March">
+      <context> It is one of seven months that are 31 days long . In the Northern Hemisphere , the meteorological beginning of spring occurs on the first day of March . The March equinox on the 20th or 21st marks <head>the</head> astronomical beginning of spring in the Northern Hemisphere and the beginning of autumn in the Southern Hemisphere , where September is the seasonal equivalent of the Northern Hemisphere 's March .</context>
+    </instance>
+    <instance id="March-march-39-6-1" docsrc="March">
+      <context> Even in late antiquity , Roman mosaics picturing the months sometimes still placed March first . March 1 began the numbered year in Russia until the end of the 15th century . Great Britain and its colonies continued to <head>use</head> March 25 until 1752 , when they finally adopted the Gregorian calendar ( the fiscal year in the UK continues to begin on the 6th April , initially identical to 25 March in the former Julian calendar ) .</context>
+    </instance>
+    <instance id="March-march-4-332-1" docsrc="March">
+      <context> Equirria ( Ancient Rome <head>)</head> Mamuralia ( Ancient Rome ) , either March 14 or 15 Multiple Sclerosis Awareness Week March 14 to March 20 ( United States )</context>
+    </instance>
+    <instance id="March-march-5-196-1" docsrc="March">
+      <context> Seward 's Day ( Alaska <head>,</head> United States ) ===== Holy Week ===== Palm Sunday 2016 date : March 20</context>
+    </instance>
+    <instance id="March-march-5-198-1" docsrc="March">
+      <context> Palm Sunday 2016 date : <head>March</head> 20 World Youth Day ( Roman Catholic ) , celebrated on Palm Sunday Holy Monday 2016 date : March 21</context>
+    </instance>
+    <instance id="March-march-5-200-1" docsrc="March">
+      <context> World Youth Day ( Roman <head>Catholic</head> ) , celebrated on Palm Sunday Holy Monday 2016 date : March 21 Holy Tuesday 2016 date : March 22</context>
+    </instance>
+    <instance id="March-march-5-201-1" docsrc="March">
+      <context> Holy Monday 2016 date : <head>March</head> 21 Holy Tuesday 2016 date : March 22 Holy Wednesday 2016 date : March 23</context>
+    </instance>
+    <instance id="March-march-5-202-1" docsrc="March">
+      <context> Holy Tuesday 2016 date : <head>March</head> 22 Holy Wednesday 2016 date : March 23 Maundy Thursday 2016 date : March 24</context>
+    </instance>
+    <instance id="March-march-5-204-1" docsrc="March">
+      <context> Maundy Thursday 2016 date : <head>March</head> 24 Good Friday/Friday of Sorrows 2016 date : March 25 Holy Saturday 2016 date : March 26</context>
+    </instance>
+    <instance id="March-march-5-209-1" docsrc="March">
+      <context> Święconka , Polish regional variant <head>of</head> Holy Saturday ===== Easter Week ===== Easter , 2016 date : March 27</context>
+    </instance>
+    <instance id="March-march-5-233-1" docsrc="March">
+      <context> Feast of Orthodoxy March 20 <head>Saturday</head> of Souls March 26 Sunday of St. Gregory Palamas March 27</context>
+    </instance>
+    <instance id="March-march-5-492-1" docsrc="March">
+      <context> Transfer Day ( US Virgin <head>Islands</head> ) Chisholm , Hugh , ed . ( 1911 ) . " March ( month ) " .</context>
+    </instance>
+    <instance id="March-march-5-61-1" docsrc="March">
+      <context> Youth Art Month Elaphebolia ( <head>Attic</head> calendar , Hellenism ) March 15 Amalaka Ekadashi ( Hinduism ) March 19</context>
+    </instance>
+    <instance id="March-march-5-62-1" docsrc="March">
+      <context> Elaphebolia ( Attic calendar , <head>Hellenism</head> ) March 15 Amalaka Ekadashi ( Hinduism ) March 19 Bhumchu ( Tibetan calendar ) March 19–20</context>
+    </instance>
+    <instance id="March-march-6-115-1" docsrc="March">
+      <context> Casimir Pulaski Day ( United States <head>)</head> Grandmother 's Day ( France ) ==== Week of March 8 : March 6–12 ====</context>
+    </instance>
+    <instance id="March-march-6-211-1" docsrc="March">
+      <context> Easter , 2016 date : March <head>27</head> Aberri Eguna ( Basque ) Easter Monday , 2016 date : March 28</context>
+    </instance>
+    <instance id="March-march-6-214-1" docsrc="March">
+      <context> Easter Monday , 2016 date : <head>March</head> 28 Family Day ( South Africa ) Easter Tuesday , 2016 date : March 29 .</context>
+    </instance>
+    <instance id="March-march-7-17-1" docsrc="March">
+      <context> These stones symbolize courage . Its birth <head>flower</head> is the daffodil . The zodiac signs for the month of March are Pisces ( until March 20 ) and Aries ( March 21 onwards ) .</context>
+    </instance>
+    <instance id="March-march-7-203-1" docsrc="March">
+      <context> Holy Wednesday 2016 date : March 23 <head>Maundy</head> Thursday 2016 date : March 24 Good Friday/Friday of Sorrows 2016 date : March 25</context>
+    </instance>
+    <instance id="March-march-7-331-1" docsrc="March">
+      <context> Agonium Martiale ( Ancient Rome ) Equirria <head>(</head> Ancient Rome ) Mamuralia ( Ancient Rome ) , either March 14 or 15</context>
+    </instance>
+    <instance id="March-march-7-332-1" docsrc="March">
+      <context> Equirria ( Ancient Rome ) Mamuralia ( <head>Ancient</head> Rome ) , either March 14 or 15 Multiple Sclerosis Awareness Week March 14 to March 20 ( United States )</context>
+    </instance>
+    <instance id="March-march-7-340-1" docsrc="March">
+      <context> International Day Against Police Brutality J. J. <head>Roberts</head> ' Birthday ( Liberia ) Mamuralia ( Ancient Rome ) , either March 14 or 15</context>
+    </instance>
+    <instance id="March-march-7-45-1" docsrc="March">
+      <context> National Reading Awareness Month Youth Art Month <head>Elaphebolia</head> ( Attic calendar , Hellenism ) March 15</context>
+    </instance>
+    <instance id="March-march-8-6-1" docsrc="March">
+      <context> Even in late antiquity , Roman mosaics picturing <head>the</head> months sometimes still placed March first . March 1 began the numbered year in Russia until the end of the 15th century . Great Britain and its colonies continued to use March 25 until 1752 , when they finally adopted the Gregorian calendar ( the fiscal year in the UK continues to begin on the 6th April , initially identical to 25 March in the former Julian calendar ) .</context>
+    </instance>
+    <instance id="March-march-8-63-1" docsrc="March">
+      <context> Amalaka Ekadashi ( Hinduism ) March 19 Bhumchu <head>(</head> Tibetan calendar ) March 19–20 City Dionysia ( Attic calendar , Hellenism ) March 19–26 .</context>
+    </instance>
+    <instance id="March-march-8-70-1" docsrc="March">
+      <context> Nowruz ( various calendars ) Nevruz Day ( <head>Albania</head> ) Holi ( Indian national calendar , Hinduism ) March 23</context>
+    </instance>
+    <instance id="March-march-9-222-1" docsrc="March">
+      <context> Meatfare Week February 28-March 6 Saturday of Souls March <head>5</head> Sunday of Last Judgement ( Meat Fare Sunday ) March 6</context>
+    </instance>
+    <instance id="March-march-9-376-1" docsrc="March">
+      <context> Saint Joseph 's Day ( Roman Catholicism and Anglican <head>Communion</head> ) related observances : Father 's Day ( Spain , Portugal , Belgium , Italy , Honduras , and Bolivia ) Las Fallas , celebrated on the week leading to March 19 .</context>
+    </instance>
+    <instance id="March_(music)-march-0-0-3" docsrc="March_(music)">
+      <context> <head>In</head> mood , marches range from the moving death march in Wagner 's Götterdämmerung to the brisk military marches of John Philip Sousa and the martial hymns of the late 19th century . Examples of the varied use of the march can be found in Beethoven 's Eroica Symphony , in the Marches Militaires of Franz Schubert , in the Marche funèbre in Chopin 's Sonata in B flat minor , and in the Dead March in Handel 's Saul . Marches can be written in any time signature , but the most common time signatures are 44 , 22 ( alla breve , although this may refer to 2 time of Johannes Brahms , or cut time ) , or 68 .</context>
+    </instance>
+    <instance id="March_(music)-march-0-12-8" docsrc="March_(music)">
+      <context> <head>Portugal</head> used the French tempo exclusively—the standard Sousa learned during his musical education . A military band playing or marching at the traditional British march tempo would seem unusually slow in the United States . March music originates from the military , and marches are usually played by a marching band .</context>
+    </instance>
+    <instance id="March_(music)-march-0-13-2" docsrc="March_(music)">
+      <context> <head>March</head> music originates from the military , and marches are usually played by a marching band . The most important instruments are various drums ( especially snare drum ) , horns , fife or woodwind instruments and brass instruments . Marches and marching bands have even today a strong connection to military , both to drill and parades .</context>
+    </instance>
+    <instance id="March_(music)-march-0-13-3" docsrc="March_(music)">
+      <context> <head>The</head> most important instruments are various drums ( especially snare drum ) , horns , fife or woodwind instruments and brass instruments . Marches and marching bands have even today a strong connection to military , both to drill and parades . Marches , which are played at paces with multiples of normal heartbeat , can have a hypnotic effect on the marching soldiers , rendering them into a trance , This effect was widely known already in the 16th century , and was employed to lead the soldiers in closed ranks against the enemy fire in the 16th and 17th century wars .</context>
+    </instance>
+    <instance id="March_(music)-march-0-13-4" docsrc="March_(music)">
+      <context> <head>Marches</head> and marching bands have even today a strong connection to military , both to drill and parades . Marches , which are played at paces with multiples of normal heartbeat , can have a hypnotic effect on the marching soldiers , rendering them into a trance , This effect was widely known already in the 16th century , and was employed to lead the soldiers in closed ranks against the enemy fire in the 16th and 17th century wars . March music is often important for ceremonial occasions .</context>
+    </instance>
+    <instance id="March_(music)-march-0-37-4" docsrc="March_(music)">
+      <context> <head>Frequently</head> , the low brass has one or more strains ( usually the second strain ) in which they are showcased with both speed and bombast . Stylistically , many circus marches employ a lyrical final strain which ( in the last time through the strain ) starts out maestoso ( majestically , slower and more stately ) and then , in the second half of the strain , speeds up to end the march faster than the original tempo . Marches continued to be commissioned throughout the 20th century to commemorate important American events .</context>
+    </instance>
+    <instance id="March_(music)-march-0-7-1" docsrc="March_(music)">
+      <context> <head>Most</head> importantly , a march consists of a strong and steady percussive beat reminiscent of military field drums . A military music event where various marching bands and units perform is called tattoo . Marches were n't notated until the late 16th century ; until then , time was generally kept by percussion alone , often with improvised fife embellishment .</context>
+    </instance>
+    <instance id="March_(music)-march-0-82-3" docsrc="March_(music)">
+      <context> <head>It</head> is more famous for being played in slow time in military parades and ceremonies . Also famous is the official double march of the National Armed Forces of Venezuela 's special forces and airborne units , " Carabobo Reveille " , and the " Slope Arms " March , played in ceremonies featuring the Flag of Venezuela and the first march in the beginning of parades . Marches like these ( including the anthem of the 114th Armored Battalion " Apure Braves " , " Fatherland Beloved " ) show British , American and Prussian influence .</context>
+    </instance>
+    <instance id="March_(music)-march-0-84-2" docsrc="March_(music)">
+      <context> <head>Cuban</head> military marches are inspired by both American , Spanish and Soviet military music . Other Latin American marches are inspired by both European and Native American influences , such as the Peruvian marches " Los peruanos Pasan " and " Sesquicentenario " and the Ecuadorian military march " Paquisha " . Marches from Chile are a mix of European march music especially the German march tradition .</context>
+    </instance>
+    <instance id="March_(music)-march-1-11-4" docsrc="March_(music)">
+      <context> Composers <head>such</head> as Wolfgang Amadeus Mozart , Ludwig van Beethoven , and Gustav Mahler wrote marches , often incorporating them into their operas , sonatas , or symphonies . The later popularity of John Philip Sousa 's band marches was unmatched . The march tempo of 120 beats or steps per minute was adapted by Napoleon Bonaparte so that his army could move faster .</context>
+    </instance>
+    <instance id="March_(music)-march-1-23-3" docsrc="March_(music)">
+      <context> Many <head>popular</head> marches are traditional and of unknown origin . Notable examples include Scotland the Brave , Highland Laddie , Bonnie Dundee and Cock of the North . Retreat marches are set in 3/4 time , such as The Green Hills of Tyrol and When the Battle 's O'er .</context>
+    </instance>
+    <instance id="March_(music)-march-1-29-1" docsrc="March_(music)">
+      <context> These <head>are</head> set in 6/8 time and are usually played at around 60 beats per minute . The most characteristic Spanish march form is the pasodoble . Spanish marches often have fanfares at the beginning or end of strains that are reminiscent of traditional and popular music .</context>
+    </instance>
+    <instance id="March_(music)-march-1-29-2" docsrc="March_(music)">
+      <context> The <head>most</head> characteristic Spanish march form is the pasodoble . Spanish marches often have fanfares at the beginning or end of strains that are reminiscent of traditional and popular music . These marches often move back and forth between major and ( relative ) minor keys , and often show a great variation in tempo during the course of the march reminiscent of a prolonged Viennese rubato .</context>
+    </instance>
+    <instance id="March_(music)-march-1-36-1" docsrc="March_(music)">
+      <context> === <head>American</head> march music === The true march music era existed from 1855 to the 1940s when it was overshadowed by jazz , which the march form influenced ( especially in ragtime ) . American march music can not be discussed without mentioning " The March King " , John Philip Sousa , who revolutionized the march during the late 19th and early 20th centuries .</context>
+    </instance>
+    <instance id="March_(music)-march-1-37-1" docsrc="March_(music)">
+      <context> The <head>key</head> may change back before the song is over , especially if the Trio ends well before the last few measures of the march . A specialized form of the typical American march music is the circus march , or screamer , typified by the marches of Henry Fillmore and Karl King . These marches are performed at a significantly faster tempo ( 140 to 200 beats per minute ) and generally have an abundance of runs , fanfares , and other showy features .</context>
+    </instance>
+    <instance id="March_(music)-march-1-54-1" docsrc="March_(music)">
+      <context> Among <head>the</head> most popular Japanese marches are the following : Army Review March ( 陸軍分列行進曲 ) Hinomaru March ( 日の丸行進曲 )</context>
+    </instance>
+    <instance id="March_(music)-march-1-56-1" docsrc="March_(music)">
+      <context> Army <head>Review</head> March ( 陸軍分列行進曲 ) Hinomaru March ( 日の丸行進曲 ) Patriotic March ( 愛国行進曲 )</context>
+    </instance>
+    <instance id="March_(music)-march-1-61-2" docsrc="March_(music)">
+      <context> The <head>Philippine</head> march tradition is a mix of European and American traditions plus local musical styles . Several famous Philippine composers composed marches , and even Julián Felipe composed the march that would become Lupang Hinirang , the national anthem . Several marches are adaptations of local folk music , others have a patriotic feeling .</context>
+    </instance>
+    <instance id="March_(music)-march-1-79-1" docsrc="March_(music)">
+      <context> === <head>Latin</head> American march music === Although inspired by German , Spanish and French military music , marches of South and Central America are unique in melody and instrumentation . Argentine marches are inspired by its military history and the influx of European immigration in the 19th and 20th centuries .</context>
+    </instance>
+    <instance id="March_(music)-march-1-82-4" docsrc="March_(music)">
+      <context> Also <head>famous</head> is the official double march of the National Armed Forces of Venezuela 's special forces and airborne units , " Carabobo Reveille " , and the " Slope Arms " March , played in ceremonies featuring the Flag of Venezuela and the first march in the beginning of parades . Marches like these ( including the anthem of the 114th Armored Battalion " Apure Braves " , " Fatherland Beloved " ) show British , American and Prussian influence . Mexican marches , like the " March of the Heroic Military College " , " Airborne Fusiliers March " , " National Defense March " and the " Viva Mexico March " , are all inspired by American , Spanish , and French military music but have a faster beat .</context>
+    </instance>
+    <instance id="March_(music)-march-1-85-3" docsrc="March_(music)">
+      <context> " <head>Old</head> Banners " , the official march of the Chilean Army , is one such example . Several German , British and French marches ( and even the US march Semper Fidelis ) are also used by military and civil bands in parades and ceremonies most especially during national holidays . Authorized marches of the Canadian Forces</context>
+    </instance>
+    <instance id="March_(music)-march-10-12-7" docsrc="March_(music)">
+      <context> Second , the composer of the greatest American marches , <head>John</head> Philip Sousa , was of Portuguese and German descent . Portugal used the French tempo exclusively—the standard Sousa learned during his musical education . A military band playing or marching at the traditional British march tempo would seem unusually slow in the United States .</context>
+    </instance>
+    <instance id="March_(music)-march-10-14-1" docsrc="March_(music)">
+      <context> Marches , which are played at paces with multiples of <head>normal</head> heartbeat , can have a hypnotic effect on the marching soldiers , rendering them into a trance , This effect was widely known already in the 16th century , and was employed to lead the soldiers in closed ranks against the enemy fire in the 16th and 17th century wars . March music is often important for ceremonial occasions . Processional or coronation marches , such as the popular coronation march from Le prophète by Giacomo Meyerbeer and the many examples of coronation marches written for British monarchs by English composers , such as Edward Elgar , Edward German , and William Walton , are all in traditional British tempos .</context>
+    </instance>
+    <instance id="March_(music)-march-10-80-2" docsrc="March_(music)">
+      <context> Argentine marches are inspired by its military history and the <head>influx</head> of European immigration in the 19th and 20th centuries . Cayetano Alberto Silva 's " San Lorenzo march " is an example that combines German and French military musical influences . Other examples include the " Avenue of the Camelias " March and the March of the Malvinas , used during the Falklands War and in military parades and ceremonies .</context>
+    </instance>
+    <instance id="March_(music)-march-11-36-1" docsrc="March_(music)">
+      <context> === American march music === The true march music era existed <head>from</head> 1855 to the 1940s when it was overshadowed by jazz , which the march form influenced ( especially in ragtime ) . American march music can not be discussed without mentioning " The March King " , John Philip Sousa , who revolutionized the march during the late 19th and early 20th centuries .</context>
+    </instance>
+    <instance id="March_(music)-march-11-42-2" docsrc="March_(music)">
+      <context> Modern Turkey 's national anthem is the march , " İstiklâl <head>Marşı</head> " , which has an aggressive tune . Generally , old Turkish marches from the Ottoman Empire have aggressive lyrics , for instance in " Mehter Marşı " . It is notable that Mozart and Beethoven also wrote popular Turkish marches .</context>
+    </instance>
+    <instance id="March_(music)-march-11-78-1" docsrc="March_(music)">
+      <context> ==== South Korea ==== === Latin American march music === Although <head>inspired</head> by German , Spanish and French military music , marches of South and Central America are unique in melody and instrumentation .</context>
+    </instance>
+    <instance id="March_(music)-march-12-12-2" docsrc="March_(music)">
+      <context> The march tempo of 120 beats or steps per minute was adapted <head>by</head> Napoleon Bonaparte so that his army could move faster . Since he planned to occupy the territory he conquered , instead of his soldiers carrying all of their provisions with them , they would live off the land and march faster . The French march tempo is faster than the traditional tempo of British marches ; the British call marches in the French tempo quick marches .</context>
+    </instance>
+    <instance id="March_(music)-march-12-36-6" docsrc="March_(music)">
+      <context> Typically , an American march consists of a key change , quite <head>often</head> happening in coordination with the Trio . The key may change back before the song is over , especially if the Trio ends well before the last few measures of the march . A specialized form of the typical American march music is the circus march , or screamer , typified by the marches of Henry Fillmore and Karl King .</context>
+    </instance>
+    <instance id="March_(music)-march-13-101-2" docsrc="March_(music)">
+      <context> Halman , Johannes and Robert Rojer ( 2008 ) . Jan Gerard Palm <head>(</head> 1831–1906 ) Music Scores : Waltzes , Mazurkas , Danzas , Tumbas , Polkas , Marches , Fantasies , Serenades , a Galop and Music Composed for Services in the Synagogue and the Lodge .</context>
+    </instance>
+    <instance id="March_(music)-march-13-48-2" docsrc="March_(music)">
+      <context> ==== Japan ==== One of the earliest and most enduring of Japanese marches <head>is</head> the Review March ( 分列行進曲 ) composed in 1886 by Charles Leroux , an officer with the French Army serving as an advisor to the Imperial Japanese Army .</context>
+    </instance>
+    <instance id="March_(music)-march-13-50-3" docsrc="March_(music)">
+      <context> Originally two separate marches based on Japanese melodies—Fusouka ( 扶桑歌 ) and Battotai <head>(</head> 抜刀隊 ) , inspired by the Satsuma Rebellion and reportedly a favorite song of the Emperor Meiji—they were later combined in the march currently recognized today . It soon became a very popular band standard , with the Imperial Japanese Army adopting it as their signature march . After World War II the JGSDF and the Japanese police would adopt the march , where it continues to be a core part of their repertoire .</context>
+    </instance>
+    <instance id="March_(music)-march-13-61-1" docsrc="March_(music)">
+      <context> Philippines ==== The Philippine march tradition is a mix of European and American <head>traditions</head> plus local musical styles . Several famous Philippine composers composed marches , and even Julián Felipe composed the march that would become Lupang Hinirang , the national anthem .</context>
+    </instance>
+    <instance id="March_(music)-march-13-80-2" docsrc="March_(music)">
+      <context> Argentine marches are inspired by its military history and the influx of European <head>immigration</head> in the 19th and 20th centuries . Cayetano Alberto Silva 's " San Lorenzo march " is an example that combines German and French military musical influences . Other examples include the " Avenue of the Camelias " March and the March of the Malvinas , used during the Falklands War and in military parades and ceremonies .</context>
+    </instance>
+    <instance id="March_(music)-march-13-84-2" docsrc="March_(music)">
+      <context> Cuban military marches are inspired by both American , Spanish and Soviet military <head>music</head> . Other Latin American marches are inspired by both European and Native American influences , such as the Peruvian marches " Los peruanos Pasan " and " Sesquicentenario " and the Ecuadorian military march " Paquisha " . Marches from Chile are a mix of European march music especially the German march tradition .</context>
+    </instance>
+    <instance id="March_(music)-march-14-11-1" docsrc="March_(music)">
+      <context> A military music event where various marching bands and units perform is called tattoo <head>.</head> Marches were n't notated until the late 16th century ; until then , time was generally kept by percussion alone , often with improvised fife embellishment . With the extensive development of brass instruments , especially in the 19th century , marches became widely popular and were often elaborately orchestrated .</context>
+    </instance>
+    <instance id="March_(music)-march-14-12-4" docsrc="March_(music)">
+      <context> The French march tempo is faster than the traditional tempo of British marches ; <head>the</head> British call marches in the French tempo quick marches . Traditional American marches use the French or quick march tempo . There are two reason for this : First , U.S. military bands adopted the march tempos of France and other continental European nations that aided the U.S. during its early wars with Great Britain .</context>
+    </instance>
+    <instance id="March_(music)-march-15-11-2" docsrc="March_(music)">
+      <context> Marches were n't notated until the late 16th century ; until then , time was <head>generally</head> kept by percussion alone , often with improvised fife embellishment . With the extensive development of brass instruments , especially in the 19th century , marches became widely popular and were often elaborately orchestrated . Composers such as Wolfgang Amadeus Mozart , Ludwig van Beethoven , and Gustav Mahler wrote marches , often incorporating them into their operas , sonatas , or symphonies .</context>
+    </instance>
+    <instance id="March_(music)-march-15-4-2" docsrc="March_(music)">
+      <context> Marches can be written in any time signature , but the most common time signatures <head>are</head> 44 , 22 ( alla breve , although this may refer to 2 time of Johannes Brahms , or cut time ) , or 68 . However , some modern marches are being written in 12 or 24 time . The modern march tempo hovers around 120 beats per minute ; however , many funeral marches conform to the Roman standard of 60 beats per minute .</context>
+    </instance>
+    <instance id="March_(music)-march-17-12-2" docsrc="March_(music)">
+      <context> The march tempo of 120 beats or steps per minute was adapted by Napoleon Bonaparte so that <head>his</head> army could move faster . Since he planned to occupy the territory he conquered , instead of his soldiers carrying all of their provisions with them , they would live off the land and march faster . The French march tempo is faster than the traditional tempo of British marches ; the British call marches in the French tempo quick marches .</context>
+    </instance>
+    <instance id="March_(music)-march-17-80-3" docsrc="March_(music)">
+      <context> Cayetano Alberto Silva 's " San Lorenzo march " is an example that combines German and French <head>military</head> musical influences . Other examples include the " Avenue of the Camelias " March and the March of the Malvinas , used during the Falklands War and in military parades and ceremonies . Colombian military march music , like " The National Army of Colombia Hymn " , " Commandos March " and " Hymn of the Colombian Navy " is an adaptation of the European and the American march styles .</context>
+    </instance>
+    <instance id="March_(music)-march-17-82-4" docsrc="March_(music)">
+      <context> Also famous is the official double march of the National Armed Forces of Venezuela 's special forces <head>and</head> airborne units , " Carabobo Reveille " , and the " Slope Arms " March , played in ceremonies featuring the Flag of Venezuela and the first march in the beginning of parades . Marches like these ( including the anthem of the 114th Armored Battalion " Apure Braves " , " Fatherland Beloved " ) show British , American and Prussian influence . Mexican marches , like the " March of the Heroic Military College " , " Airborne Fusiliers March " , " National Defense March " and the " Viva Mexico March " , are all inspired by American , Spanish , and French military music but have a faster beat .</context>
+    </instance>
+    <instance id="March_(music)-march-18-0-1" docsrc="March_(music)">
+      <context> A march , as a musical genre , is a piece of music with a strong regular rhythm <head>which</head> in origin was expressly written for marching to and most frequently performed by a military band . In mood , marches range from the moving death march in Wagner 's Götterdämmerung to the brisk military marches of John Philip Sousa and the martial hymns of the late 19th century .</context>
+    </instance>
+    <instance id="March_(music)-march-18-84-1" docsrc="March_(music)">
+      <context> Mexican marches , like the " March of the Heroic Military College " , " Airborne Fusiliers March <head>"</head> , " National Defense March " and the " Viva Mexico March " , are all inspired by American , Spanish , and French military music but have a faster beat . Cuban military marches are inspired by both American , Spanish and Soviet military music . Other Latin American marches are inspired by both European and Native American influences , such as the Peruvian marches " Los peruanos Pasan " and " Sesquicentenario " and the Ecuadorian military march " Paquisha " .</context>
+    </instance>
+    <instance id="March_(music)-march-19-0-2" docsrc="March_(music)">
+      <context> A march , as a musical genre , is a piece of music with a strong regular rhythm which <head>in</head> origin was expressly written for marching to and most frequently performed by a military band . In mood , marches range from the moving death march in Wagner 's Götterdämmerung to the brisk military marches of John Philip Sousa and the martial hymns of the late 19th century . Examples of the varied use of the march can be found in Beethoven 's Eroica Symphony , in the Marches Militaires of Franz Schubert , in the Marche funèbre in Chopin 's Sonata in B flat minor , and in the Dead March in Handel 's Saul .</context>
+    </instance>
+    <instance id="March_(music)-march-19-50-2" docsrc="March_(music)">
+      <context> One of the earliest and most enduring of Japanese marches is the Review March ( 分列行進曲 ) composed in <head>1886</head> by Charles Leroux , an officer with the French Army serving as an advisor to the Imperial Japanese Army . Originally two separate marches based on Japanese melodies—Fusouka ( 扶桑歌 ) and Battotai ( 抜刀隊 ) , inspired by the Satsuma Rebellion and reportedly a favorite song of the Emperor Meiji—they were later combined in the march currently recognized today . It soon became a very popular band standard , with the Imperial Japanese Army adopting it as their signature march .</context>
+    </instance>
+    <instance id="March_(music)-march-2-12-2" docsrc="March_(music)">
+      <context> The march <head>tempo</head> of 120 beats or steps per minute was adapted by Napoleon Bonaparte so that his army could move faster . Since he planned to occupy the territory he conquered , instead of his soldiers carrying all of their provisions with them , they would live off the land and march faster . The French march tempo is faster than the traditional tempo of British marches ; the British call marches in the French tempo quick marches .</context>
+    </instance>
+    <instance id="March_(music)-march-2-12-3" docsrc="March_(music)">
+      <context> Since he <head>planned</head> to occupy the territory he conquered , instead of his soldiers carrying all of their provisions with them , they would live off the land and march faster . The French march tempo is faster than the traditional tempo of British marches ; the British call marches in the French tempo quick marches . Traditional American marches use the French or quick march tempo .</context>
+    </instance>
+    <instance id="March_(music)-march-2-14-2" docsrc="March_(music)">
+      <context> March music <head>is</head> often important for ceremonial occasions . Processional or coronation marches , such as the popular coronation march from Le prophète by Giacomo Meyerbeer and the many examples of coronation marches written for British monarchs by English composers , such as Edward Elgar , Edward German , and William Walton , are all in traditional British tempos . === European march music ===</context>
+    </instance>
+    <instance id="March_(music)-march-2-23-1" docsrc="March_(music)">
+      <context> Many European <head>countries</head> and cultures developed characteristic styles of marches . Scottish bagpipe music makes extensive use of marches played at a pace of approximately 90 beats per minute . Many popular marches are traditional and of unknown origin .</context>
+    </instance>
+    <instance id="March_(music)-march-2-29-3" docsrc="March_(music)">
+      <context> Spanish marches <head>often</head> have fanfares at the beginning or end of strains that are reminiscent of traditional and popular music . These marches often move back and forth between major and ( relative ) minor keys , and often show a great variation in tempo during the course of the march reminiscent of a prolonged Viennese rubato . Typical Spanish marches are " Amparito Roca " by Jaime Teixidor , " Los Voluntarios " by Gerónimo Giménez , and " El Turuta " by Roman de San Jose .</context>
+    </instance>
+    <instance id="March_(music)-march-2-30-1" docsrc="March_(music)">
+      <context> Typical Spanish <head>marches</head> are " Amparito Roca " by Jaime Teixidor , " Los Voluntarios " by Gerónimo Giménez , and " El Turuta " by Roman de San Jose . Notable Czech ( Bohemian ) march composers include František Kmoch and Julius Fučík , who wrote " Entrance of the Gladiators " . === American march music ===</context>
+    </instance>
+    <instance id="March_(music)-march-2-34-1" docsrc="March_(music)">
+      <context> Notable Czech <head>(</head> Bohemian ) march composers include František Kmoch and Julius Fučík , who wrote " Entrance of the Gladiators " . === American march music === The true march music era existed from 1855 to the 1940s when it was overshadowed by jazz , which the march form influenced ( especially in ragtime ) .</context>
+    </instance>
+    <instance id="March_(music)-march-2-36-3" docsrc="March_(music)">
+      <context> American march <head>music</head> can not be discussed without mentioning " The March King " , John Philip Sousa , who revolutionized the march during the late 19th and early 20th centuries . Some of his most famous marches are " Semper Fidelis " , " The Washington Post " , " The Liberty Bell " , and " The Stars and Stripes Forever " . Sousa 's marches are typically marked by a subdued trio , as in " The Stars and Stripes Forever " in which the rest of the band becomes subordinated to arguably the most famous piccolo solo in all of music .</context>
+    </instance>
+    <instance id="March_(music)-march-2-38-2" docsrc="March_(music)">
+      <context> Marches continued <head>to</head> be commissioned throughout the 20th century to commemorate important American events . In the 1960s , Anthony A. Mitchell , director of the United States Navy Band , was commissioned to write " The National Cultural Center March " for the center that would later become known as the Kennedy Center for the Performing Arts . === Turkish march music ===</context>
+    </instance>
+    <instance id="March_(music)-march-2-4-2" docsrc="March_(music)">
+      <context> Marches can <head>be</head> written in any time signature , but the most common time signatures are 44 , 22 ( alla breve , although this may refer to 2 time of Johannes Brahms , or cut time ) , or 68 . However , some modern marches are being written in 12 or 24 time . The modern march tempo hovers around 120 beats per minute ; however , many funeral marches conform to the Roman standard of 60 beats per minute .</context>
+    </instance>
+    <instance id="March_(music)-march-2-42-3" docsrc="March_(music)">
+      <context> Generally , <head>old</head> Turkish marches from the Ottoman Empire have aggressive lyrics , for instance in " Mehter Marşı " . It is notable that Mozart and Beethoven also wrote popular Turkish marches . === Asian march music ===</context>
+    </instance>
+    <instance id="March_(music)-march-2-53-1" docsrc="March_(music)">
+      <context> Others , <head>like</head> Nakayama 's 1928 Tokyo March ( 東京行進曲 ) , were meant for popular consumption and wholly unrelated to military music . Among the most popular Japanese marches are the following : Army Review March ( 陸軍分列行進曲 )</context>
+    </instance>
+    <instance id="March_(music)-march-2-60-2" docsrc="March_(music)">
+      <context> ==== Philippines <head>====</head> The Philippine march tradition is a mix of European and American traditions plus local musical styles .</context>
+    </instance>
+    <instance id="March_(music)-march-2-61-3" docsrc="March_(music)">
+      <context> Several famous <head>Philippine</head> composers composed marches , and even Julián Felipe composed the march that would become Lupang Hinirang , the national anthem . Several marches are adaptations of local folk music , others have a patriotic feeling . The Philippine march music tradition began in the 19th century , during the Philippine Revolution , as an offshoot of the Spanish march tradition .</context>
+    </instance>
+    <instance id="March_(music)-march-2-63-1" docsrc="March_(music)">
+      <context> This style <head>of</head> music was also popular during the Philippine–American War and during the Second World War . During the late 1960s at the time of Marcos era , this form of music begun to be widely used as a part of military drills , Parades and exercises of the Armed Forces , National Police and Coast Guard . Some famous marches are :</context>
+    </instance>
+    <instance id="March_(music)-march-2-70-1" docsrc="March_(music)">
+      <context> It reflects <head>the</head> use of German and British military band influences in Thai military music . ==== North Korea ==== North Korean marches are heavily influenced by Soviet propaganda music .</context>
+    </instance>
+    <instance id="March_(music)-march-2-80-3" docsrc="March_(music)">
+      <context> Cayetano Alberto <head>Silva</head> 's " San Lorenzo march " is an example that combines German and French military musical influences . Other examples include the " Avenue of the Camelias " March and the March of the Malvinas , used during the Falklands War and in military parades and ceremonies . Colombian military march music , like " The National Army of Colombia Hymn " , " Commandos March " and " Hymn of the Colombian Navy " is an adaptation of the European and the American march styles .</context>
+    </instance>
+    <instance id="March_(music)-march-2-83-1" docsrc="March_(music)">
+      <context> Marches like <head>these</head> ( including the anthem of the 114th Armored Battalion " Apure Braves " , " Fatherland Beloved " ) show British , American and Prussian influence . Mexican marches , like the " March of the Heroic Military College " , " Airborne Fusiliers March " , " National Defense March " and the " Viva Mexico March " , are all inspired by American , Spanish , and French military music but have a faster beat . Cuban military marches are inspired by both American , Spanish and Soviet military music .</context>
+    </instance>
+    <instance id="March_(music)-march-20-34-1" docsrc="March_(music)">
+      <context> Notable Czech ( Bohemian ) march composers include František Kmoch and Julius Fučík , who wrote " Entrance of the <head>Gladiators</head> " . === American march music === The true march music era existed from 1855 to the 1940s when it was overshadowed by jazz , which the march form influenced ( especially in ragtime ) .</context>
+    </instance>
+    <instance id="March_(music)-march-20-36-6" docsrc="March_(music)">
+      <context> Typically , an American march consists of a key change , quite often happening in coordination with the Trio . <head>The</head> key may change back before the song is over , especially if the Trio ends well before the last few measures of the march . A specialized form of the typical American march music is the circus march , or screamer , typified by the marches of Henry Fillmore and Karl King .</context>
+    </instance>
+    <instance id="March_(music)-march-22-36-1" docsrc="March_(music)">
+      <context> === American march music === The true march music era existed from 1855 to the 1940s when it was overshadowed by jazz <head>,</head> which the march form influenced ( especially in ragtime ) . American march music can not be discussed without mentioning " The March King " , John Philip Sousa , who revolutionized the march during the late 19th and early 20th centuries .</context>
+    </instance>
+    <instance id="March_(music)-march-22-61-3" docsrc="March_(music)">
+      <context> Several famous Philippine composers composed marches , and even Julián Felipe composed the march that would become Lupang Hinirang , the national <head>anthem</head> . Several marches are adaptations of local folk music , others have a patriotic feeling . The Philippine march music tradition began in the 19th century , during the Philippine Revolution , as an offshoot of the Spanish march tradition .</context>
+    </instance>
+    <instance id="March_(music)-march-23-12-2" docsrc="March_(music)">
+      <context> The march tempo of 120 beats or steps per minute was adapted by Napoleon Bonaparte so that his army could move faster . <head>Since</head> he planned to occupy the territory he conquered , instead of his soldiers carrying all of their provisions with them , they would live off the land and march faster . The French march tempo is faster than the traditional tempo of British marches ; the British call marches in the French tempo quick marches .</context>
+    </instance>
+    <instance id="March_(music)-march-23-14-1" docsrc="March_(music)">
+      <context> Marches , which are played at paces with multiples of normal heartbeat , can have a hypnotic effect on the marching soldiers , <head>rendering</head> them into a trance , This effect was widely known already in the 16th century , and was employed to lead the soldiers in closed ranks against the enemy fire in the 16th and 17th century wars . March music is often important for ceremonial occasions . Processional or coronation marches , such as the popular coronation march from Le prophète by Giacomo Meyerbeer and the many examples of coronation marches written for British monarchs by English composers , such as Edward Elgar , Edward German , and William Walton , are all in traditional British tempos .</context>
+    </instance>
+    <instance id="March_(music)-march-23-82-4" docsrc="March_(music)">
+      <context> Also famous is the official double march of the National Armed Forces of Venezuela 's special forces and airborne units , " Carabobo <head>Reveille</head> " , and the " Slope Arms " March , played in ceremonies featuring the Flag of Venezuela and the first march in the beginning of parades . Marches like these ( including the anthem of the 114th Armored Battalion " Apure Braves " , " Fatherland Beloved " ) show British , American and Prussian influence . Mexican marches , like the " March of the Heroic Military College " , " Airborne Fusiliers March " , " National Defense March " and the " Viva Mexico March " , are all inspired by American , Spanish , and French military music but have a faster beat .</context>
+    </instance>
+    <instance id="March_(music)-march-24-36-5" docsrc="March_(music)">
+      <context> Sousa 's marches are typically marked by a subdued trio , as in " The Stars and Stripes Forever " in which the rest <head>of</head> the band becomes subordinated to arguably the most famous piccolo solo in all of music . Typically , an American march consists of a key change , quite often happening in coordination with the Trio . The key may change back before the song is over , especially if the Trio ends well before the last few measures of the march .</context>
+    </instance>
+    <instance id="March_(music)-march-25-38-1" docsrc="March_(music)">
+      <context> Stylistically , many circus marches employ a lyrical final strain which ( in the last time through the strain ) starts out maestoso ( majestically <head>,</head> slower and more stately ) and then , in the second half of the strain , speeds up to end the march faster than the original tempo . Marches continued to be commissioned throughout the 20th century to commemorate important American events . In the 1960s , Anthony A. Mitchell , director of the United States Navy Band , was commissioned to write " The National Cultural Center March " for the center that would later become known as the Kennedy Center for the Performing Arts .</context>
+    </instance>
+    <instance id="March_(music)-march-29-12-1" docsrc="March_(music)">
+      <context> The later popularity of John Philip Sousa 's band marches was unmatched . The march tempo of 120 beats or steps per minute was adapted by Napoleon Bonaparte so <head>that</head> his army could move faster . Since he planned to occupy the territory he conquered , instead of his soldiers carrying all of their provisions with them , they would live off the land and march faster .</context>
+    </instance>
+    <instance id="March_(music)-march-29-29-2" docsrc="March_(music)">
+      <context> The most characteristic Spanish march form is the pasodoble . Spanish marches often have fanfares at the beginning or end of strains that are reminiscent of traditional and popular <head>music</head> . These marches often move back and forth between major and ( relative ) minor keys , and often show a great variation in tempo during the course of the march reminiscent of a prolonged Viennese rubato .</context>
+    </instance>
+    <instance id="March_(music)-march-3-0-1" docsrc="March_(music)">
+      <context> A march , <head>as</head> a musical genre , is a piece of music with a strong regular rhythm which in origin was expressly written for marching to and most frequently performed by a military band . In mood , marches range from the moving death march in Wagner 's Götterdämmerung to the brisk military marches of John Philip Sousa and the martial hymns of the late 19th century .</context>
+    </instance>
+    <instance id="March_(music)-march-3-14-1" docsrc="March_(music)">
+      <context> Marches , which <head>are</head> played at paces with multiples of normal heartbeat , can have a hypnotic effect on the marching soldiers , rendering them into a trance , This effect was widely known already in the 16th century , and was employed to lead the soldiers in closed ranks against the enemy fire in the 16th and 17th century wars . March music is often important for ceremonial occasions . Processional or coronation marches , such as the popular coronation march from Le prophète by Giacomo Meyerbeer and the many examples of coronation marches written for British monarchs by English composers , such as Edward Elgar , Edward German , and William Walton , are all in traditional British tempos .</context>
+    </instance>
+    <instance id="March_(music)-march-3-50-1" docsrc="March_(music)">
+      <context> Japan ==== One <head>of</head> the earliest and most enduring of Japanese marches is the Review March ( 分列行進曲 ) composed in 1886 by Charles Leroux , an officer with the French Army serving as an advisor to the Imperial Japanese Army . Originally two separate marches based on Japanese melodies—Fusouka ( 扶桑歌 ) and Battotai ( 抜刀隊 ) , inspired by the Satsuma Rebellion and reportedly a favorite song of the Emperor Meiji—they were later combined in the march currently recognized today .</context>
+    </instance>
+    <instance id="March_(music)-march-3-67-1" docsrc="March_(music)">
+      <context> Thailand ==== Thailand <head>'s</head> king , Bhumibol Adulyadej , is a march composer . His most famous march piece , " Royal Guards March " , is played by military bands during the Thai Royal Guards parade at the Royal Plaza at Bangkok every 2nd of December yearly .</context>
+    </instance>
+    <instance id="March_(music)-march-3-71-1" docsrc="March_(music)">
+      <context> ==== North Korea <head>====</head> North Korean marches are heavily influenced by Soviet propaganda music . Most of the marches are dedicated to the party and to their revolution .</context>
+    </instance>
+    <instance id="March_(music)-march-3-74-1" docsrc="March_(music)">
+      <context> Use of a <head>grandiose</head> brass sound is almost always present in the music . ==== South Korea ==== === Latin American march music ===</context>
+    </instance>
+    <instance id="March_(music)-march-3-84-1" docsrc="March_(music)">
+      <context> Mexican marches , <head>like</head> the " March of the Heroic Military College " , " Airborne Fusiliers March " , " National Defense March " and the " Viva Mexico March " , are all inspired by American , Spanish , and French military music but have a faster beat . Cuban military marches are inspired by both American , Spanish and Soviet military music . Other Latin American marches are inspired by both European and Native American influences , such as the Peruvian marches " Los peruanos Pasan " and " Sesquicentenario " and the Ecuadorian military march " Paquisha " .</context>
+    </instance>
+    <instance id="March_(music)-march-3-90-1" docsrc="March_(music)">
+      <context> Authorized marches of <head>the</head> Canadian Forces Drum cadence Heritage of the March</context>
+    </instance>
+    <instance id="March_(music)-march-30-82-4" docsrc="March_(music)">
+      <context> Also famous is the official double march of the National Armed Forces of Venezuela 's special forces and airborne units , " Carabobo Reveille " , and the " Slope <head>Arms</head> " March , played in ceremonies featuring the Flag of Venezuela and the first march in the beginning of parades . Marches like these ( including the anthem of the 114th Armored Battalion " Apure Braves " , " Fatherland Beloved " ) show British , American and Prussian influence . Mexican marches , like the " March of the Heroic Military College " , " Airborne Fusiliers March " , " National Defense March " and the " Viva Mexico March " , are all inspired by American , Spanish , and French military music but have a faster beat .</context>
+    </instance>
+    <instance id="March_(music)-march-32-82-2" docsrc="March_(music)">
+      <context> Venezuela 's " The Indio and the Conquistador " is the official marchpast of the Military Academy of Venezuela . It is more famous for being played in slow time in military <head>parades</head> and ceremonies . Also famous is the official double march of the National Armed Forces of Venezuela 's special forces and airborne units , " Carabobo Reveille " , and the " Slope Arms " March , played in ceremonies featuring the Flag of Venezuela and the first march in the beginning of parades .</context>
+    </instance>
+    <instance id="March_(music)-march-32-84-1" docsrc="March_(music)">
+      <context> Mexican marches , like the " March of the Heroic Military College " , " Airborne Fusiliers March " , " National Defense March " and the " Viva Mexico March " <head>,</head> are all inspired by American , Spanish , and French military music but have a faster beat . Cuban military marches are inspired by both American , Spanish and Soviet military music . Other Latin American marches are inspired by both European and Native American influences , such as the Peruvian marches " Los peruanos Pasan " and " Sesquicentenario " and the Ecuadorian military march " Paquisha " .</context>
+    </instance>
+    <instance id="March_(music)-march-36-50-1" docsrc="March_(music)">
+      <context> Japan ==== One of the earliest and most enduring of Japanese marches is the Review March ( 分列行進曲 ) composed in 1886 by Charles Leroux , an officer with the French Army serving as an advisor <head>to</head> the Imperial Japanese Army . Originally two separate marches based on Japanese melodies—Fusouka ( 扶桑歌 ) and Battotai ( 抜刀隊 ) , inspired by the Satsuma Rebellion and reportedly a favorite song of the Emperor Meiji—they were later combined in the march currently recognized today .</context>
+    </instance>
+    <instance id="March_(music)-march-36-80-3" docsrc="March_(music)">
+      <context> Cayetano Alberto Silva 's " San Lorenzo march " is an example that combines German and French military musical influences . Other examples include the " Avenue of the Camelias " March and the March of <head>the</head> Malvinas , used during the Falklands War and in military parades and ceremonies . Colombian military march music , like " The National Army of Colombia Hymn " , " Commandos March " and " Hymn of the Colombian Navy " is an adaptation of the European and the American march styles .</context>
+    </instance>
+    <instance id="March_(music)-march-4-23-6" docsrc="March_(music)">
+      <context> The bagpipe also make <head>use</head> of slow marches such as the Skye Boat Song and the Cradle Song . These are set in 6/8 time and are usually played at around 60 beats per minute . The most characteristic Spanish march form is the pasodoble .</context>
+    </instance>
+    <instance id="March_(music)-march-4-36-4" docsrc="March_(music)">
+      <context> Some of his most <head>famous</head> marches are " Semper Fidelis " , " The Washington Post " , " The Liberty Bell " , and " The Stars and Stripes Forever " . Sousa 's marches are typically marked by a subdued trio , as in " The Stars and Stripes Forever " in which the rest of the band becomes subordinated to arguably the most famous piccolo solo in all of music . Typically , an American march consists of a key change , quite often happening in coordination with the Trio .</context>
+    </instance>
+    <instance id="March_(music)-march-4-37-3" docsrc="March_(music)">
+      <context> These marches are performed <head>at</head> a significantly faster tempo ( 140 to 200 beats per minute ) and generally have an abundance of runs , fanfares , and other showy features . Frequently , the low brass has one or more strains ( usually the second strain ) in which they are showcased with both speed and bombast . Stylistically , many circus marches employ a lyrical final strain which ( in the last time through the strain ) starts out maestoso ( majestically , slower and more stately ) and then , in the second half of the strain , speeds up to end the march faster than the original tempo .</context>
+    </instance>
+    <instance id="March_(music)-march-4-4-1" docsrc="March_(music)">
+      <context> Examples of the varied <head>use</head> of the march can be found in Beethoven 's Eroica Symphony , in the Marches Militaires of Franz Schubert , in the Marche funèbre in Chopin 's Sonata in B flat minor , and in the Dead March in Handel 's Saul . Marches can be written in any time signature , but the most common time signatures are 44 , 22 ( alla breve , although this may refer to 2 time of Johannes Brahms , or cut time ) , or 68 . However , some modern marches are being written in 12 or 24 time .</context>
+    </instance>
+    <instance id="March_(music)-march-4-4-5" docsrc="March_(music)">
+      <context> The tempo is meant <head>to</head> match the pace of soldiers walking and remaining in step . Both tempos match the standard rate of 120 steps per minute . The form of a march typically consists of 16 to 32 measures in length with multiple repeats until a new section .</context>
+    </instance>
+    <instance id="March_(music)-march-4-42-1" docsrc="March_(music)">
+      <context> === Turkish march music <head>===</head> Modern Turkey 's national anthem is the march , " İstiklâl Marşı " , which has an aggressive tune . Generally , old Turkish marches from the Ottoman Empire have aggressive lyrics , for instance in " Mehter Marşı " .</context>
+    </instance>
+    <instance id="March_(music)-march-4-5-1" docsrc="March_(music)">
+      <context> Both tempos match the <head>standard</head> rate of 120 steps per minute . The form of a march typically consists of 16 to 32 measures in length with multiple repeats until a new section . Most importantly , a march consists of a strong and steady percussive beat reminiscent of military field drums .</context>
+    </instance>
+    <instance id="March_(music)-march-42-0-2" docsrc="March_(music)">
+      <context> A march , as a musical genre , is a piece of music with a strong regular rhythm which in origin was expressly written for marching to and most frequently performed by a military band . In mood , marches range from <head>the</head> moving death march in Wagner 's Götterdämmerung to the brisk military marches of John Philip Sousa and the martial hymns of the late 19th century . Examples of the varied use of the march can be found in Beethoven 's Eroica Symphony , in the Marches Militaires of Franz Schubert , in the Marche funèbre in Chopin 's Sonata in B flat minor , and in the Dead March in Handel 's Saul .</context>
+    </instance>
+    <instance id="March_(music)-march-45-82-2" docsrc="March_(music)">
+      <context> Venezuela 's " The Indio and the Conquistador " is the official marchpast of the Military Academy of Venezuela . It is more famous for being played in slow time in military parades and ceremonies . Also famous is the official double march of the <head>National</head> Armed Forces of Venezuela 's special forces and airborne units , " Carabobo Reveille " , and the " Slope Arms " March , played in ceremonies featuring the Flag of Venezuela and the first march in the beginning of parades .</context>
+    </instance>
+    <instance id="March_(music)-march-47-37-3" docsrc="March_(music)">
+      <context> These marches are performed at a significantly faster tempo ( 140 to 200 beats per minute ) and generally have an abundance of runs , fanfares , and other showy features . Frequently , the low brass has one or more strains ( usually the second strain <head>)</head> in which they are showcased with both speed and bombast . Stylistically , many circus marches employ a lyrical final strain which ( in the last time through the strain ) starts out maestoso ( majestically , slower and more stately ) and then , in the second half of the strain , speeds up to end the march faster than the original tempo .</context>
+    </instance>
+    <instance id="March_(music)-march-5-29-4" docsrc="March_(music)">
+      <context> These marches often move back <head>and</head> forth between major and ( relative ) minor keys , and often show a great variation in tempo during the course of the march reminiscent of a prolonged Viennese rubato . Typical Spanish marches are " Amparito Roca " by Jaime Teixidor , " Los Voluntarios " by Gerónimo Giménez , and " El Turuta " by Roman de San Jose . Notable Czech ( Bohemian ) march composers include František Kmoch and Julius Fučík , who wrote " Entrance of the Gladiators " .</context>
+    </instance>
+    <instance id="March_(music)-march-5-36-2" docsrc="March_(music)">
+      <context> The true march music era <head>existed</head> from 1855 to the 1940s when it was overshadowed by jazz , which the march form influenced ( especially in ragtime ) . American march music can not be discussed without mentioning " The March King " , John Philip Sousa , who revolutionized the march during the late 19th and early 20th centuries . Some of his most famous marches are " Semper Fidelis " , " The Washington Post " , " The Liberty Bell " , and " The Stars and Stripes Forever " .</context>
+    </instance>
+    <instance id="March_(music)-march-5-52-3" docsrc="March_(music)">
+      <context> Some were military and nationalist <head>in</head> tone . Others , like Nakayama 's 1928 Tokyo March ( 東京行進曲 ) , were meant for popular consumption and wholly unrelated to military music . Among the most popular Japanese marches are the following :</context>
+    </instance>
+    <instance id="March_(music)-march-5-61-1" docsrc="March_(music)">
+      <context> Philippines ==== The Philippine march <head>tradition</head> is a mix of European and American traditions plus local musical styles . Several famous Philippine composers composed marches , and even Julián Felipe composed the march that would become Lupang Hinirang , the national anthem .</context>
+    </instance>
+    <instance id="March_(music)-march-6-82-2" docsrc="March_(music)">
+      <context> Venezuela 's " The Indio and <head>the</head> Conquistador " is the official marchpast of the Military Academy of Venezuela . It is more famous for being played in slow time in military parades and ceremonies . Also famous is the official double march of the National Armed Forces of Venezuela 's special forces and airborne units , " Carabobo Reveille " , and the " Slope Arms " March , played in ceremonies featuring the Flag of Venezuela and the first march in the beginning of parades .</context>
+    </instance>
+    <instance id="March_(music)-march-6-82-4" docsrc="March_(music)">
+      <context> Also famous is the official double <head>march</head> of the National Armed Forces of Venezuela 's special forces and airborne units , " Carabobo Reveille " , and the " Slope Arms " March , played in ceremonies featuring the Flag of Venezuela and the first march in the beginning of parades . Marches like these ( including the anthem of the 114th Armored Battalion " Apure Braves " , " Fatherland Beloved " ) show British , American and Prussian influence . Mexican marches , like the " March of the Heroic Military College " , " Airborne Fusiliers March " , " National Defense March " and the " Viva Mexico March " , are all inspired by American , Spanish , and French military music but have a faster beat .</context>
+    </instance>
+    <instance id="March_(music)-march-6-85-2" docsrc="March_(music)">
+      <context> Marches from Chile are a mix <head>of</head> European march music especially the German march tradition . " Old Banners " , the official march of the Chilean Army , is one such example . Several German , British and French marches ( and even the US march Semper Fidelis ) are also used by military and civil bands in parades and ceremonies most especially during national holidays .</context>
+    </instance>
+    <instance id="March_(music)-march-7-0-2" docsrc="March_(music)">
+      <context> A march , as a musical genre <head>,</head> is a piece of music with a strong regular rhythm which in origin was expressly written for marching to and most frequently performed by a military band . In mood , marches range from the moving death march in Wagner 's Götterdämmerung to the brisk military marches of John Philip Sousa and the martial hymns of the late 19th century . Examples of the varied use of the march can be found in Beethoven 's Eroica Symphony , in the Marches Militaires of Franz Schubert , in the Marche funèbre in Chopin 's Sonata in B flat minor , and in the Dead March in Handel 's Saul .</context>
+    </instance>
+    <instance id="March_(music)-march-7-21-1" docsrc="March_(music)">
+      <context> === European march music === Many European <head>countries</head> and cultures developed characteristic styles of marches . Scottish bagpipe music makes extensive use of marches played at a pace of approximately 90 beats per minute .</context>
+    </instance>
+    <instance id="March_(music)-march-7-23-4" docsrc="March_(music)">
+      <context> Notable examples include Scotland the Brave , <head>Highland</head> Laddie , Bonnie Dundee and Cock of the North . Retreat marches are set in 3/4 time , such as The Green Hills of Tyrol and When the Battle 's O'er . The bagpipe also make use of slow marches such as the Skye Boat Song and the Cradle Song .</context>
+    </instance>
+    <instance id="March_(music)-march-7-36-6" docsrc="March_(music)">
+      <context> Typically , an American march consists of <head>a</head> key change , quite often happening in coordination with the Trio . The key may change back before the song is over , especially if the Trio ends well before the last few measures of the march . A specialized form of the typical American march music is the circus march , or screamer , typified by the marches of Henry Fillmore and Karl King .</context>
+    </instance>
+    <instance id="March_(music)-march-7-41-1" docsrc="March_(music)">
+      <context> In the 1960s , Anthony A. Mitchell <head>,</head> director of the United States Navy Band , was commissioned to write " The National Cultural Center March " for the center that would later become known as the Kennedy Center for the Performing Arts . === Turkish march music === Modern Turkey 's national anthem is the march , " İstiklâl Marşı " , which has an aggressive tune .</context>
+    </instance>
+    <instance id="March_(music)-march-7-52-2" docsrc="March_(music)">
+      <context> In the years before 1945 , many <head>distinguished</head> composers such as Yamada Kōsaku , Nakayama Shimpei , Hashimoto Kunihiko , Setoguchi Tōkichi , and Eguchi Yōrushi all contributed to the genre . Some were military and nationalist in tone . Others , like Nakayama 's 1928 Tokyo March ( 東京行進曲 ) , were meant for popular consumption and wholly unrelated to military music .</context>
+    </instance>
+    <instance id="March_(music)-march-7-80-1" docsrc="March_(music)">
+      <context> Although inspired by German , Spanish and <head>French</head> military music , marches of South and Central America are unique in melody and instrumentation . Argentine marches are inspired by its military history and the influx of European immigration in the 19th and 20th centuries . Cayetano Alberto Silva 's " San Lorenzo march " is an example that combines German and French military musical influences .</context>
+    </instance>
+    <instance id="March_(music)-march-7-85-1" docsrc="March_(music)">
+      <context> Other Latin American marches are inspired by <head>both</head> European and Native American influences , such as the Peruvian marches " Los peruanos Pasan " and " Sesquicentenario " and the Ecuadorian military march " Paquisha " . Marches from Chile are a mix of European march music especially the German march tradition . " Old Banners " , the official march of the Chilean Army , is one such example .</context>
+    </instance>
+    <instance id="March_(music)-march-8-12-3" docsrc="March_(music)">
+      <context> Since he planned to occupy the territory he <head>conquered</head> , instead of his soldiers carrying all of their provisions with them , they would live off the land and march faster . The French march tempo is faster than the traditional tempo of British marches ; the British call marches in the French tempo quick marches . Traditional American marches use the French or quick march tempo .</context>
+    </instance>
+    <instance id="March_(music)-march-8-12-5" docsrc="March_(music)">
+      <context> Traditional American marches use the French or quick <head>march</head> tempo . There are two reason for this : First , U.S. military bands adopted the march tempos of France and other continental European nations that aided the U.S. during its early wars with Great Britain . Second , the composer of the greatest American marches , John Philip Sousa , was of Portuguese and German descent .</context>
+    </instance>
+    <instance id="March_(music)-march-8-12-8" docsrc="March_(music)">
+      <context> Portugal used the French tempo exclusively—the standard Sousa <head>learned</head> during his musical education . A military band playing or marching at the traditional British march tempo would seem unusually slow in the United States . March music originates from the military , and marches are usually played by a marching band .</context>
+    </instance>
+    <instance id="March_(music)-march-8-84-2" docsrc="March_(music)">
+      <context> Cuban military marches are inspired by both American <head>,</head> Spanish and Soviet military music . Other Latin American marches are inspired by both European and Native American influences , such as the Peruvian marches " Los peruanos Pasan " and " Sesquicentenario " and the Ecuadorian military march " Paquisha " . Marches from Chile are a mix of European march music especially the German march tradition .</context>
+    </instance>
+    <instance id="March_(music)-march-9-0-1" docsrc="March_(music)">
+      <context> A march , as a musical genre , is <head>a</head> piece of music with a strong regular rhythm which in origin was expressly written for marching to and most frequently performed by a military band . In mood , marches range from the moving death march in Wagner 's Götterdämmerung to the brisk military marches of John Philip Sousa and the martial hymns of the late 19th century .</context>
+    </instance>
+    <instance id="March_(music)-march-9-101-4" docsrc="March_(music)">
+      <context> Music Scores : Waltzes , Mazurkas , Danzas , <head>Tumbas</head> , Polkas , Marches , Fantasies , Serenades , a Galop and Music Composed for Services in the Synagogue and the Lodge . Amsterdam : Broekmans and Van Poppel . * Dr. Stephen Rhodes , podcast on history of the march</context>
+    </instance>
+    <instance id="March_(music)-march-9-105-1" docsrc="March_(music)">
+      <context> Amsterdam : Broekmans and Van Poppel . * Dr. <head>Stephen</head> Rhodes , podcast on history of the march</context>
+    </instance>
+    <instance id="March_(music)-march-9-11-3" docsrc="March_(music)">
+      <context> With the extensive development of brass instruments , especially <head>in</head> the 19th century , marches became widely popular and were often elaborately orchestrated . Composers such as Wolfgang Amadeus Mozart , Ludwig van Beethoven , and Gustav Mahler wrote marches , often incorporating them into their operas , sonatas , or symphonies . The later popularity of John Philip Sousa 's band marches was unmatched .</context>
+    </instance>
+    <instance id="March_(music)-march-9-20-1" docsrc="March_(music)">
+      <context> Processional or coronation marches , such as the popular <head>coronation</head> march from Le prophète by Giacomo Meyerbeer and the many examples of coronation marches written for British monarchs by English composers , such as Edward Elgar , Edward German , and William Walton , are all in traditional British tempos . === European march music === Many European countries and cultures developed characteristic styles of marches .</context>
+    </instance>
+    <instance id="March_(music)-march-9-48-2" docsrc="March_(music)">
+      <context> ==== Japan ==== One of the earliest and most <head>enduring</head> of Japanese marches is the Review March ( 分列行進曲 ) composed in 1886 by Charles Leroux , an officer with the French Army serving as an advisor to the Imperial Japanese Army .</context>
+    </instance>
+    <instance id="March_(music)-march-9-66-2" docsrc="March_(music)">
+      <context> ==== Thailand ==== Thailand 's king , Bhumibol Adulyadej <head>,</head> is a march composer .</context>
+    </instance>
+    <instance id="March_(music)-march-9-67-1" docsrc="March_(music)">
+      <context> Thailand ==== Thailand 's king , Bhumibol Adulyadej , <head>is</head> a march composer . His most famous march piece , " Royal Guards March " , is played by military bands during the Thai Royal Guards parade at the Royal Plaza at Bangkok every 2nd of December yearly .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-0-33-1" docsrc="March_(territorial_entity)">
+      <context> <head>See</head> County of Marche . Several communes of France are named similarly : Marches , Drôme in the Drôme département</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-0-39-1" docsrc="March_(territorial_entity)">
+      <context> <head>===</head> Germany and Austria === The Germanic tribes that Romans called Marcomanni , who battled the Romans in the 1st and 2nd centuries , were simply the " men of the borderlands " . Marches were territorial organisations created as borderlands in the Carolingian Empire and had a long career as purely conventional designations under the Holy Roman Empire .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-0-60-1" docsrc="March_(territorial_entity)">
+      <context> <head>the</head> March of the Billungs on the Baltic coast , stretching approximately from Stettin ( Szczecin ) to Schleswig ; Marca Geronis ( march of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ; March of Austria ( marcha Orientalis , the " Eastern March " or " Bavarian Eastern March " ( German : Ostmark ) in modern lower Austria ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-1-40-2" docsrc="March_(territorial_entity)">
+      <context> Marches <head>were</head> territorial organisations created as borderlands in the Carolingian Empire and had a long career as purely conventional designations under the Holy Roman Empire . In modern German , " Mark " denotes a piece of land that historically was a borderland , as in the following names : ==== Marches set up by Charlemagne ====</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-1-46-1" docsrc="March_(territorial_entity)">
+      <context> the <head>Saxon</head> or Nordalbingen march between the Eider and Elbe rivers in modern Holstein , against the Obotrites ; the Thuringian or Sorbian march on the Saale river , against the Sorbs dwelling behind the limes sorabicus ; the March of Lusatia , March of Meissen , March of Merseburg and March of Zeitz ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-1-52-1" docsrc="March_(territorial_entity)">
+      <context> the <head>Carantanian</head> march ; Steiermark ( Styria ) , the margraviate ( " border county " ) of Styria was established under Charlemagne from a part of Carantania ( Carinthia ) , erected as a border territory against the Avars and Slavs . the March of Friuli .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-1-58-2" docsrc="March_(territorial_entity)">
+      <context> Nordmark <head>,</head> the " Northern March " , the Ottonian empire 's territorial organisation on the conquered areas of the Wends . In 1134 , in the wake of a German crusade against the Wends , the German magnate Albert the Bear was granted the Northern March by the Holy Roman Emperor Lothar II. the March of the Billungs on the Baltic coast , stretching approximately from Stettin ( Szczecin ) to Schleswig ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-1-65-1" docsrc="March_(territorial_entity)">
+      <context> the <head>Sann</head> March ( Cilli ) ; the Krain or March of Carniola , also Windic march and White Carniola ( White March ) , in modern Slovenia . three marches were created in the Low Countries : Antwerp , Valenciennes , Ename .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-10-60-1" docsrc="March_(territorial_entity)">
+      <context> the March of the Billungs on the Baltic coast , <head>stretching</head> approximately from Stettin ( Szczecin ) to Schleswig ; Marca Geronis ( march of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ; March of Austria ( marcha Orientalis , the " Eastern March " or " Bavarian Eastern March " ( German : Ostmark ) in modern lower Austria ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-11-158-2" docsrc="March_(territorial_entity)">
+      <context> By guarding the border , rather than conquering/colonizing Ezo , the <head>Matsumae</head> , in essence , made the majority of the island an Ainu reservation . This also meant that Ezo , and the Kurile Islands beyond , were left essentially open to Russian colonization . However , the Russians never did colonize Hokkaidō/Ezo , and the marches were officially eliminated during the Meiji Restoration in the late 19th century , when the Ainu came under Japanese control , and Ezo was renamed Hokkaidō , and annexed to Japan .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-12-77-1" docsrc="March_(territorial_entity)">
+      <context> The name is still in use for the region as well as <head>for</head> a Brandenburgian district . Ostmark ( " Eastern March " ) is a modern rendition of the term marchia orientalis used in Carolingian documents referring to the area of Lower Austria that was later a markgraftum ( margraviate or " county of the mark " ) . Ostmark has been variously used to denote Austria , the Saxon Eastern March , or , as Ostmarkenverein , the territories Prussia gained in the partitions of Poland .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-13-105-1" docsrc="March_(territorial_entity)">
+      <context> Denmark means " the march of the Danes " . Markland was the <head>Norse</head> name of an area in North America discovered by Norwegian Vikings . The forests surrounding Norwegian cities are called " Marka "   – the marches .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-13-46-1" docsrc="March_(territorial_entity)">
+      <context> the Saxon or Nordalbingen march between the Eider and Elbe rivers in modern <head>Holstein</head> , against the Obotrites ; the Thuringian or Sorbian march on the Saale river , against the Sorbs dwelling behind the limes sorabicus ; the March of Lusatia , March of Meissen , March of Merseburg and March of Zeitz ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-13-93-1" docsrc="March_(territorial_entity)">
+      <context> For one thing , the gyepű was not controlled by a Marquess . <head>The</head> Gyepű was a strip of land that was specially fortified or made impassable , while gyepűelve was the mostly uninhabited or sparsely inhabited land beyond it . The gyepűelve is much more comparable to modern buffer zones than traditional European marches .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-13-94-3" docsrc="March_(territorial_entity)">
+      <context> These ethnic groups merged into the Hungarian ethnicity and identity , taking up <head>the</head> Hungarian language at different times ranging from before the tenth century ( the Szeklers ) to as late as the seventeenth century ( some Cumans ) . The Hungarian gyepű originates from the Turkish yapi meaning palisade . In addition to the Carolingian Marca Hispanica , Iberia was home to several marches set up by the native states .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-14-59-1" docsrc="March_(territorial_entity)">
+      <context> In 1134 , in the wake of a German crusade against the Wends , <head>the</head> German magnate Albert the Bear was granted the Northern March by the Holy Roman Emperor Lothar II. the March of the Billungs on the Baltic coast , stretching approximately from Stettin ( Szczecin ) to Schleswig ; Marca Geronis ( march of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-15-43-1" docsrc="March_(territorial_entity)">
+      <context> In modern German , " Mark " denotes a piece of land that historically was <head>a</head> borderland , as in the following names : ==== Marches set up by Charlemagne ==== The Danish March ( sometimes regarded as just a series of forts rather than a march ) between the Eider and Schlei rivers , against the Danes ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-15-64-1" docsrc="March_(territorial_entity)">
+      <context> the Drau March ( Marburg and Pettau ) ; the Sann March ( Cilli ) <head>;</head> the Krain or March of Carniola , also Windic march and White Carniola ( White March ) , in modern Slovenia .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-16-60-1" docsrc="March_(territorial_entity)">
+      <context> the March of the Billungs on the Baltic coast , stretching approximately from Stettin ( Szczecin <head>)</head> to Schleswig ; Marca Geronis ( march of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ; March of Austria ( marcha Orientalis , the " Eastern March " or " Bavarian Eastern March " ( German : Ostmark ) in modern lower Austria ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-17-119-1" docsrc="March_(territorial_entity)">
+      <context> Markku , an island in the archipelago of Finland See Welsh Marches and Scottish Marches . The <head>title</head> Earl of March is at least two distinct feudal titles : one in the northern marches , as an alternative title for the Earl of Dunbar ( c. 1290 in the Peerage of Scotland ) ; and one , that was held by the family of Mortimer ( 1328 in the Peerage of England ) , in the west Welsh Marches .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-17-151-2" docsrc="March_(territorial_entity)">
+      <context> === China === In their initial development during the later Zhou dynasty , the commanderies ( jùn <head>)</head> functioned as marches , ranking below the dukes ' and kings ' original fiefs and below the more secure and populous counties ( xiàn ) .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-18-20-5" docsrc="March_(territorial_entity)">
+      <context> It had its own outlying territories , each ruled by a lesser miles with armed retainers , who <head>theoretically</head> owed allegiance through the Count to the Emperor or , with less fealty , to his Carolingian and Ottonian successors . Such territory had a catlá ( " castellan " or lord of the castle ) in an area largely defined by a day 's ride , and the region became known , like Castile at a later date , as " Catalunya . " Counties in the Pyrenees that appeared in the 9th century as appanages of the counts of Barcelona included Cerdanya , Girona and Urgell . Certain of the Counts aspired to the characteristically Frankish ( Germanic ) title " Margrave of the Hispanic March , a " margrave " being a graf ( " count " ) of the march .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-2-115-1" docsrc="March_(territorial_entity)">
+      <context> Söörmarkku ( <head>Swedish</head> : Södermark ) , is a village in Noormarkku , Finland Markku , an island in the archipelago of Finland See Welsh Marches and Scottish Marches .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-2-169-1" docsrc="March_(territorial_entity)">
+      <context> See Limes <head>Romanus</head> === Ukraine === List of marches</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-2-43-1" docsrc="March_(territorial_entity)">
+      <context> In modern <head>German</head> , " Mark " denotes a piece of land that historically was a borderland , as in the following names : ==== Marches set up by Charlemagne ==== The Danish March ( sometimes regarded as just a series of forts rather than a march ) between the Eider and Schlei rivers , against the Danes ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-2-47-1" docsrc="March_(territorial_entity)">
+      <context> the Thuringian <head>or</head> Sorbian march on the Saale river , against the Sorbs dwelling behind the limes sorabicus ; the March of Lusatia , March of Meissen , March of Merseburg and March of Zeitz ; the Franconian march in modern Upper Franconia , against the Czechs ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-2-48-1" docsrc="March_(territorial_entity)">
+      <context> the March <head>of</head> Lusatia , March of Meissen , March of Merseburg and March of Zeitz ; the Franconian march in modern Upper Franconia , against the Czechs ; the Avar march between Enns river and Wienerwald ( the later marcha Orientalis ) , against the Avars ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-2-49-1" docsrc="March_(territorial_entity)">
+      <context> the Franconian <head>march</head> in modern Upper Franconia , against the Czechs ; the Avar march between Enns river and Wienerwald ( the later marcha Orientalis ) , against the Avars ; the Pannonian march east of Vienna ( divided into Upper and Lower ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-2-50-1" docsrc="March_(territorial_entity)">
+      <context> the Avar <head>march</head> between Enns river and Wienerwald ( the later marcha Orientalis ) , against the Avars ; the Pannonian march east of Vienna ( divided into Upper and Lower ) ; the Carantanian march ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-2-61-1" docsrc="March_(territorial_entity)">
+      <context> Marca Geronis <head>(</head> march of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ; March of Austria ( marcha Orientalis , the " Eastern March " or " Bavarian Eastern March " ( German : Ostmark ) in modern lower Austria ) ; the Carantania march or March of Styria ( Steiermark ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-2-62-1" docsrc="March_(territorial_entity)">
+      <context> March of <head>Austria</head> ( marcha Orientalis , the " Eastern March " or " Bavarian Eastern March " ( German : Ostmark ) in modern lower Austria ) ; the Carantania march or March of Styria ( Steiermark ) ; the Drau March ( Marburg and Pettau ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-2-63-1" docsrc="March_(territorial_entity)">
+      <context> the Carantania <head>march</head> or March of Styria ( Steiermark ) ; the Drau March ( Marburg and Pettau ) ; the Sann March ( Cilli ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-20-59-1" docsrc="March_(territorial_entity)">
+      <context> In 1134 , in the wake of a German crusade against the Wends , the German magnate Albert the Bear <head>was</head> granted the Northern March by the Holy Roman Emperor Lothar II. the March of the Billungs on the Baltic coast , stretching approximately from Stettin ( Szczecin ) to Schleswig ; Marca Geronis ( march of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-20-86-2" docsrc="March_(territorial_entity)">
+      <context> From the Carolingian period onwards the name marca begins to appear in Italy , first the Marca Fermana for the <head>mountainous</head> part of Picenum , the Marca Camerinese for the district farther north , including a part of Umbria , and the Marca Anconitana for the former Pentapolis ( Ancona ) . In 1080 , the marca Anconitana was given in investiture to Robert Guiscard by Pope Gregory VII , to whom the Countess Matilda ceded the marches of Camerino and Fermo . In medieval Hungary the system of gyepű and gyepűelve , effective until the mid-13th century , can be considered as marches even though in its organisation it shows major differences from Western European feudal marches .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-24-58-1" docsrc="March_(territorial_entity)">
+      <context> ==== Later medieval marches ==== Nordmark , the " Northern March " , the Ottonian empire 's territorial organisation on the conquered areas of <head>the</head> Wends . In 1134 , in the wake of a German crusade against the Wends , the German magnate Albert the Bear was granted the Northern March by the Holy Roman Emperor Lothar II.</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-24-59-1" docsrc="March_(territorial_entity)">
+      <context> In 1134 , in the wake of a German crusade against the Wends , the German magnate Albert the Bear was granted the Northern <head>March</head> by the Holy Roman Emperor Lothar II. the March of the Billungs on the Baltic coast , stretching approximately from Stettin ( Szczecin ) to Schleswig ; Marca Geronis ( march of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-25-86-1" docsrc="March_(territorial_entity)">
+      <context> For the modern Italian region , see Marche . From the Carolingian period onwards the name marca begins to appear in Italy , first the <head>Marca</head> Fermana for the mountainous part of Picenum , the Marca Camerinese for the district farther north , including a part of Umbria , and the Marca Anconitana for the former Pentapolis ( Ancona ) . In 1080 , the marca Anconitana was given in investiture to Robert Guiscard by Pope Gregory VII , to whom the Countess Matilda ceded the marches of Camerino and Fermo .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-26-23-1" docsrc="March_(territorial_entity)">
+      <context> Such territory had a catlá ( " castellan " or lord of the castle ) in an area largely defined by a day 's ride , <head>and</head> the region became known , like Castile at a later date , as " Catalunya . " Counties in the Pyrenees that appeared in the 9th century as appanages of the counts of Barcelona included Cerdanya , Girona and Urgell . Certain of the Counts aspired to the characteristically Frankish ( Germanic ) title " Margrave of the Hispanic March , a " margrave " being a graf ( " count " ) of the march . The early History of Andorra provides a fairly typical career of another such buffer state , the only modern survivor in the Pyrenees of the Hispanic Marches .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-28-122-1" docsrc="March_(territorial_entity)">
+      <context> See Welsh Marches and Scottish Marches . The title Earl of March is at least two distinct feudal titles : one in the northern marches , as an <head>alternative</head> title for the Earl of Dunbar ( c. 1290 in the Peerage of Scotland ) ; and one , that was held by the family of Mortimer ( 1328 in the Peerage of England ) , in the west Welsh Marches . Patrick Dunbar , 8th Earl of Dunbar , a descendant of the Earls of Northumbria was recognized in the end of the 13th century to use the name March as his earldom in Scotland , otherwise known as Dunbar , Lothian , and Northumbrian border .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-3-53-1" docsrc="March_(territorial_entity)">
+      <context> Steiermark ( Styria <head>)</head> , the margraviate ( " border county " ) of Styria was established under Charlemagne from a part of Carantania ( Carinthia ) , erected as a border territory against the Avars and Slavs . the March of Friuli . ==== Later medieval marches ====</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-3-59-1" docsrc="March_(territorial_entity)">
+      <context> In 1134 , <head>in</head> the wake of a German crusade against the Wends , the German magnate Albert the Bear was granted the Northern March by the Holy Roman Emperor Lothar II. the March of the Billungs on the Baltic coast , stretching approximately from Stettin ( Szczecin ) to Schleswig ; Marca Geronis ( march of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-3-64-1" docsrc="March_(territorial_entity)">
+      <context> the Drau March <head>(</head> Marburg and Pettau ) ; the Sann March ( Cilli ) ; the Krain or March of Carniola , also Windic march and White Carniola ( White March ) , in modern Slovenia .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-34-20-5" docsrc="March_(territorial_entity)">
+      <context> It had its own outlying territories , each ruled by a lesser miles with armed retainers , who theoretically owed allegiance through the Count to the Emperor or , with less fealty , to <head>his</head> Carolingian and Ottonian successors . Such territory had a catlá ( " castellan " or lord of the castle ) in an area largely defined by a day 's ride , and the region became known , like Castile at a later date , as " Catalunya . " Counties in the Pyrenees that appeared in the 9th century as appanages of the counts of Barcelona included Cerdanya , Girona and Urgell . Certain of the Counts aspired to the characteristically Frankish ( Germanic ) title " Margrave of the Hispanic March , a " margrave " being a graf ( " count " ) of the march .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-34-86-2" docsrc="March_(territorial_entity)">
+      <context> From the Carolingian period onwards the name marca begins to appear in Italy , first the Marca Fermana for the mountainous part of Picenum , the Marca Camerinese for the district farther north , <head>including</head> a part of Umbria , and the Marca Anconitana for the former Pentapolis ( Ancona ) . In 1080 , the marca Anconitana was given in investiture to Robert Guiscard by Pope Gregory VII , to whom the Countess Matilda ceded the marches of Camerino and Fermo . In medieval Hungary the system of gyepű and gyepűelve , effective until the mid-13th century , can be considered as marches even though in its organisation it shows major differences from Western European feudal marches .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-37-59-1" docsrc="March_(territorial_entity)">
+      <context> In 1134 , in the wake of a German crusade against the Wends , the German magnate Albert the Bear was granted the Northern March by the Holy Roman Emperor Lothar II. the March of the Billungs <head>on</head> the Baltic coast , stretching approximately from Stettin ( Szczecin ) to Schleswig ; Marca Geronis ( march of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-4-119-1" docsrc="March_(territorial_entity)">
+      <context> Markku , an island <head>in</head> the archipelago of Finland See Welsh Marches and Scottish Marches . The title Earl of March is at least two distinct feudal titles : one in the northern marches , as an alternative title for the Earl of Dunbar ( c. 1290 in the Peerage of Scotland ) ; and one , that was held by the family of Mortimer ( 1328 in the Peerage of England ) , in the west Welsh Marches .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-4-156-2" docsrc="March_(territorial_entity)">
+      <context> === Japan === The <head>European</head> concept of marches applies just as well to the fief of Matsumae clan on the southern tip of Hokkaidō which was at Japan 's northern border with the Ainu people of Hokkaidō , known as Ezo at the time .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-4-20-2" docsrc="March_(territorial_entity)">
+      <context> After some early setbacks <head>,</head> Charlemagne 's son Louis ventured beyond the province of Septimania and took Barcelona from the Moorish emir in 801 . Thus he established a foothold in the borderland between the Franks and the Moors . The Carolingian " Hispanic Marches " ( Marca Hispánica ) became a buffer zone ruled by the Count of Barcelona .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-4-44-1" docsrc="March_(territorial_entity)">
+      <context> ==== Marches set up <head>by</head> Charlemagne ==== The Danish March ( sometimes regarded as just a series of forts rather than a march ) between the Eider and Schlei rivers , against the Danes ; the Saxon or Nordalbingen march between the Eider and Elbe rivers in modern Holstein , against the Obotrites ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-4-45-1" docsrc="March_(territorial_entity)">
+      <context> The Danish March ( <head>sometimes</head> regarded as just a series of forts rather than a march ) between the Eider and Schlei rivers , against the Danes ; the Saxon or Nordalbingen march between the Eider and Elbe rivers in modern Holstein , against the Obotrites ; the Thuringian or Sorbian march on the Saale river , against the Sorbs dwelling behind the limes sorabicus ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-4-61-1" docsrc="March_(territorial_entity)">
+      <context> Marca Geronis ( march <head>of</head> Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ; March of Austria ( marcha Orientalis , the " Eastern March " or " Bavarian Eastern March " ( German : Ostmark ) in modern lower Austria ) ; the Carantania march or March of Styria ( Steiermark ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-4-70-1" docsrc="March_(territorial_entity)">
+      <context> Other ==== The Margraviate <head>of</head> Brandenburg , was further divided into regions also designated " Mark " : Altmark ( " Old March " ) , the western region of the former margraviate , between Hamburg and Magdeburg .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-4-71-1" docsrc="March_(territorial_entity)">
+      <context> The Margraviate of Brandenburg <head>,</head> was further divided into regions also designated " Mark " : Altmark ( " Old March " ) , the western region of the former margraviate , between Hamburg and Magdeburg . Mittelmark ( " Central March " ) , the area surrounding Berlin .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-4-72-2" docsrc="March_(territorial_entity)">
+      <context> Mittelmark ( " Central <head>March</head> " ) , the area surrounding Berlin . Today , this region makes up for the bulk of the German federal state of Brandenburg , and thus in modern usage is referred to as Mark Brandenburg . Neumark ( " New March " ) since the 1250s was Brandenburg 's eastern extremity between Pomerania and Greater Poland .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-4-74-2" docsrc="March_(territorial_entity)">
+      <context> Uckermark , the Brandenburg–Pomeranian <head>borderland</head> . The name is still in use for the region as well as for a Brandenburgian district . Ostmark ( " Eastern March " ) is a modern rendition of the term marchia orientalis used in Carolingian documents referring to the area of Lower Austria that was later a markgraftum ( margraviate or " county of the mark " ) .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-4-98-2" docsrc="March_(territorial_entity)">
+      <context> In addition to the <head>Carolingian</head> Marca Hispanica , Iberia was home to several marches set up by the native states . The future kingdoms of Portugal and Castile were founded as marcher counties intended to protect the Kingdom of Asturias from the Cordoban Emirate to the south and east respectively . Denmark means " the march of the Danes " .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-41-59-1" docsrc="March_(territorial_entity)">
+      <context> In 1134 , in the wake of a German crusade against the Wends , the German magnate Albert the Bear was granted the Northern March by the Holy Roman Emperor Lothar II. the March of the Billungs on the Baltic coast <head>,</head> stretching approximately from Stettin ( Szczecin ) to Schleswig ; Marca Geronis ( march of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-5-115-1" docsrc="March_(territorial_entity)">
+      <context> Söörmarkku ( Swedish : Södermark <head>)</head> , is a village in Noormarkku , Finland Markku , an island in the archipelago of Finland See Welsh Marches and Scottish Marches .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-5-198-1" docsrc="March_(territorial_entity)">
+      <context> A. Thomas , Les États <head>provinciaux</head> de la France centrale ( 1879 ) . Chisholm , Hugh , ed . ( 1911 ) . " March " .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-5-46-1" docsrc="March_(territorial_entity)">
+      <context> the Saxon or Nordalbingen march <head>between</head> the Eider and Elbe rivers in modern Holstein , against the Obotrites ; the Thuringian or Sorbian march on the Saale river , against the Sorbs dwelling behind the limes sorabicus ; the March of Lusatia , March of Meissen , March of Merseburg and March of Zeitz ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-5-57-1" docsrc="March_(territorial_entity)">
+      <context> the March of Friuli . <head>====</head> Later medieval marches ==== Nordmark , the " Northern March " , the Ottonian empire 's territorial organisation on the conquered areas of the Wends .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-51-59-1" docsrc="March_(territorial_entity)">
+      <context> In 1134 , in the wake of a German crusade against the Wends , the German magnate Albert the Bear was granted the Northern March by the Holy Roman Emperor Lothar II. the March of the Billungs on the Baltic coast , stretching approximately from Stettin ( Szczecin ) to Schleswig <head>;</head> Marca Geronis ( march of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-55-59-1" docsrc="March_(territorial_entity)">
+      <context> In 1134 , in the wake of a German crusade against the Wends , the German magnate Albert the Bear was granted the Northern March by the Holy Roman Emperor Lothar II. the March of the Billungs on the Baltic coast , stretching approximately from Stettin ( Szczecin ) to Schleswig ; Marca Geronis ( <head>march</head> of Gero ) , a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-59-59-1" docsrc="March_(territorial_entity)">
+      <context> In 1134 , in the wake of a German crusade against the Wends , the German magnate Albert the Bear was granted the Northern March by the Holy Roman Emperor Lothar II. the March of the Billungs on the Baltic coast , stretching approximately from Stettin ( Szczecin ) to Schleswig ; Marca Geronis ( march of Gero ) <head>,</head> a precursor of the Saxon Eastern March , later divided into smaller marches ( the Northern March , which later was reestablished as Margraviate of Brandenburg ; the Lusatian March and the Meißen March in modern Free state of Saxony ; the Zeitz March ; the Merseburg March ; the Milzener March around Bautzen ) ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-6-124-1" docsrc="March_(territorial_entity)">
+      <context> The title Earl of March is <head>at</head> least two distinct feudal titles : one in the northern marches , as an alternative title for the Earl of Dunbar ( c. 1290 in the Peerage of Scotland ) ; and one , that was held by the family of Mortimer ( 1328 in the Peerage of England ) , in the west Welsh Marches . Patrick Dunbar , 8th Earl of Dunbar , a descendant of the Earls of Northumbria was recognized in the end of the 13th century to use the name March as his earldom in Scotland , otherwise known as Dunbar , Lothian , and Northumbrian border . Roger Mortimer , 1st Earl of March , Regent of England together with Isabella of France during the minority of her son , Edward III , was a usurper who had deposed , and allegedly arranged the murder of , King Edward II.</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-62-119-1" docsrc="March_(territorial_entity)">
+      <context> Markku , an island in the archipelago of Finland See Welsh Marches and Scottish Marches . The title Earl of March is at least two distinct feudal titles : one in the northern marches , as an alternative title for the Earl of Dunbar ( c. 1290 in the Peerage of Scotland ) ; and one , that was held by the <head>family</head> of Mortimer ( 1328 in the Peerage of England ) , in the west Welsh Marches .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-7-106-2" docsrc="March_(territorial_entity)">
+      <context> The forests surrounding Norwegian cities are called <head>"</head> Marka "   – the marches . For example , the forests surrounding Oslo are called Nordmarka , Østmarka and Vestmarka – i.e. the northern , eastern and western marches .</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-9-46-1" docsrc="March_(territorial_entity)">
+      <context> the Saxon or Nordalbingen march between the Eider and <head>Elbe</head> rivers in modern Holstein , against the Obotrites ; the Thuringian or Sorbian march on the Saale river , against the Sorbs dwelling behind the limes sorabicus ; the March of Lusatia , March of Meissen , March of Merseburg and March of Zeitz ;</context>
+    </instance>
+    <instance id="March_(territorial_entity)-march-9-64-1" docsrc="March_(territorial_entity)">
+      <context> the Drau March ( Marburg and Pettau ) ; <head>the</head> Sann March ( Cilli ) ; the Krain or March of Carniola , also Windic march and White Carniola ( White March ) , in modern Slovenia .</context>
+    </instance>
+    <instance id="Marching-march-0-31-1" docsrc="Marching">
+      <context> <head>Lockstep</head> marching Majorettes March ( music )</context>
+    </instance>
+    <instance id="Marching-march-1-13-3" docsrc="Marching">
+      <context> One <head>step</head> occurs on each beat . A pace is the length of one step ( assumed to be 75 cm or 30 " ) ; do not confuse this use of " pace " with the ancient Roman unit of length ( 2 steps or 5 Roman feet = 148 cm or 58 " ) . Quick March : The basic mobility . 120 beats/min .</context>
+    </instance>
+    <instance id="Marching-march-1-14-2" docsrc="Marching">
+      <context> Quick <head>March</head> : The basic mobility . 120 beats/min . In the USA this is called " quick time " . Double March : The basic run . 180 beats/min .</context>
+    </instance>
+    <instance id="Marching-march-1-15-2" docsrc="Marching">
+      <context> Double <head>March</head> : The basic run . 180 beats/min . In the USA this is called " double time " . Slow March : Ceremonial pace , 60 beats/min .</context>
+    </instance>
+    <instance id="Marching-march-1-18-1" docsrc="Marching">
+      <context> In <head>the</head> USA this is called " double time " . Slow March : Ceremonial pace , 60 beats/min . Parade March : Usually seen combined with music , 120 beats/min .</context>
+    </instance>
+    <instance id="Marching-march-1-21-1" docsrc="Marching">
+      <context> French <head>Foreign</head> Legion Pace : 88 beats/min Paso Legionario : Specific march used by the Spanish Legion , 144 beats/min , embodiment of their " espíritu de marcha " .</context>
+    </instance>
+    <instance id="Marching-march-16-23-4" docsrc="Marching">
+      <context> US Marines swing the arm six inches to the front and three inches to the rear <head>while</head> US Army Soldiers swing the arm nine inches to the front and six inches to the rear . Some European armies bend the arm during the swing . Most foot drill instructors believe these differing practices are efficient i.e. maintain rhythm for long route marches .</context>
+    </instance>
+    <instance id="Marching-march-2-8-1" docsrc="Marching">
+      <context> distance — <head>space</head> between the person in front . In Northern Ireland , for some people , marching is a major provocative ritual . Hundreds of marches occur annually .</context>
+    </instance>
+    <instance id="Marching-march-8-8-5" docsrc="Marching">
+      <context> Music is provided by marching bands including silver <head>bands</head> , flute bands and others . Marching is often seen as a symbol of control over a particular area , and marching is often seen as a sectarian activity . The Royal Marines refer to a long distance march carrying full kit as a Yomp .</context>
+    </instance>
+    <instance id="br-a01#w1959_0" docsrc="br-a01">
+      <context> I did n't smell a drop of liquor , and we did n't have a_bit of trouble '' . The campaign leading to the election was not so quiet , however . It was marked by controversy , anonymous midnight phone_calls and veiled threats of violence . The former county school_superintendent , George_P._Callan , shot himself to death <head>March</head> 18 , four days after he resigned his post in a dispute with the county school_board . During the election campaign , both candidates , Davis and Bush , reportedly received anonymous telephone_calls . Ordinary Williams said he , too , was subjected to anonymous calls soon after he scheduled the election . Many local citizens feared that there would be irregularities at the polls , and Williams got himself a permit to carry a gun and promised an orderly election .</context>
+    </instance>
+    <instance id="br-a02#w1157_0" docsrc="br-a02">
+      <context> An adverse vote of 81 to 65 kept in the State_Affairs_Committee a bill which would order the referendum on the April 4 ballot , when Texas votes on a U.S. senator . Rep._Wesley_Roberts of Seminole , sponsor of the poll idea , said that further delay in the committee can kill the bill . The West_Texan reported that he had finally gotten Chairman_Bill_Hollowell of the committee to set it for public hearing on Feb. 22 . The proposal would have to receive final legislative approval , by two-thirds majorities , before <head>March</head> 1 to be printed on the April 4 ballot , Roberts said . Opponents generally argued that the ballot could n't give enough information about tax proposals for the voters to make an intelligent choice . All Dallas members voted with Roberts , except Rep._Bill_Jones , who was absent . Paradise lost to the alleged water needs of Texas ' big cities Thursday .</context>
+    </instance>
+    <instance id="br-a12#w494_0" docsrc="br-a12">
+      <context> Moritz came to Texas in 1954 but his freshman football efforts were hampered by a knee injury . He missed the 1955 season because of an operation on the ailing knee , then played 77 minutes in 1956 . His statistical record that year , when Texas won only one game and lost nine , was far from impressive : he carried the ball three times for a net gain of 10 yards , punted once for 39 yards and caught one pass for 13 yards . He went_into the Army in <head>March</head> , 1957 , and returned two years later . But he was scholastically ineligible in 1959 and merely present last season . Place_kicking is largely a matter of timing , Moritz declared . `` Once you get the feel of it , there 's not much to it .</context>
+    </instance>
+    <instance id="br-e23#w2009_0" docsrc="br-e23">
+      <context> By dealing with common landscape in an uncommon way , Roy_Mason has found a particular niche in American landscape art . Living with his watercolors is a vicarious experience of seeing nature distilled through the eyes of a sensitive interpretor , a breath and breadth of the outdoor world to help man honor the Creator of it all . The artist was_born in Gilbert_Mills , New_York , in 1886 , and until two years ago when he and his wife moved to California , he lived in western New_York , in Batavia . When I looked_up the actual date of his birth and found it to be <head>March</head> 15_th , I realized that Roy was_born under the right zodiacal sign for a watercolorist : the water sign of Pisces ( February 18 - March 20 ) . And how very often a water plane is featured in his landscapes , and how appropriate that he should appear in American_Artist again , in his natal month of March ! Over the years , beginning in 1929 , Mason has been awarded seventeen major prizes including two gold medals ; two Ranger_Fund_purchase_awards ; the Joseph_Pennell_Memorial_Medal ; two American_Watercolor_Society_prizes ; the Blair_Purchase_Prize for watercolor , Art_Institute of Chicago ; and_others in Buffalo , New_York , Chautauqua , New_Haven , Rochester , Rockport , and most_recently , the $ 300 prize for a watercolor at the Laguna_Beach_Art_Association ,</context>
+    </instance>
+    <instance id="br-e23#w2035_0" docsrc="br-e23">
+      <context> Living with his watercolors is a vicarious experience of seeing nature distilled through the eyes of a sensitive interpretor , a breath and breadth of the outdoor world to help man honor the Creator of it all . The artist was_born in Gilbert_Mills , New_York , in 1886 , and until two years ago when he and his wife moved to California , he lived in western New_York , in Batavia . When I looked_up the actual date of his birth and found it to be March 15_th , I realized that Roy was_born under the right zodiacal sign for a watercolorist : the water sign of Pisces ( February 18 - <head>March</head> 20 ) . And how very often a water plane is featured in his landscapes , and how appropriate that he should appear in American_Artist again , in his natal month of March ! Over the years , beginning in 1929 , Mason has been awarded seventeen major prizes including two gold medals ; two Ranger_Fund_purchase_awards ; the Joseph_Pennell_Memorial_Medal ; two American_Watercolor_Society_prizes ; the Blair_Purchase_Prize for watercolor , Art_Institute of Chicago ; and_others in Buffalo , New_York , Chautauqua , New_Haven , Rochester , Rockport , and most_recently , the $ 300 prize for a watercolor at the Laguna_Beach_Art_Association , He was elected to the National_Academy_of_Design as an Associate in the oil class in 1931 ( after receiving his first Ranger_Fund_Purchase_Prize at the Academy in 1930 ) , and elevated to Academicianship in 1940 .</context>
+    </instance>
+    <instance id="br-e23#w2068_0" docsrc="br-e23">
+      <context> The artist was_born in Gilbert_Mills , New_York , in 1886 , and until two years ago when he and his wife moved to California , he lived in western New_York , in Batavia . When I looked_up the actual date of his birth and found it to be March 15_th , I realized that Roy was_born under the right zodiacal sign for a watercolorist : the water sign of Pisces ( February 18 - March 20 ) . And how very often a water plane is featured in his landscapes , and how appropriate that he should appear in American_Artist again , in his natal month of <head>March</head> ! Over the years , beginning in 1929 , Mason has been awarded seventeen major prizes including two gold medals ; two Ranger_Fund_purchase_awards ; the Joseph_Pennell_Memorial_Medal ; two American_Watercolor_Society_prizes ; the Blair_Purchase_Prize for watercolor , Art_Institute of Chicago ; and_others in Buffalo , New_York , Chautauqua , New_Haven , Rochester , Rockport , and most_recently , the $ 300 prize for a watercolor at the Laguna_Beach_Art_Association , He was elected to the National_Academy_of_Design as an Associate in the oil class in 1931 ( after receiving his first Ranger_Fund_Purchase_Prize at the Academy in 1930 ) , and elevated to Academicianship in 1940 . Other memberships include the American_Watercolor_Society , Philadelphia_Water_Color_Club , Allied_Artists_of_America , Audubon_Artists , Baltimore_Watercolor_Society .</context>
+    </instance>
+    <instance id="br-f15#w1612_0" docsrc="br-f15">
+      <context> In 1930 , the Lambeth_Conference again affirmed the primary purpose of marriage to be the procreation of children , but conceded that , in certain limited circumstances , contraception might be morally legitimate . In 1958 , the Conference endorsed birth_control as the responsibility laid by God on parents everywhere . Many other Protestant_denominations preceded the Anglicans in such action . In <head>March</head> , 1931 , 22 out of 28 members of a committee of the Federal_Council_of_Churches ratified artificial methods of birth_control . `` As_to the necessity '' , the committee declared , `` for some form of effective control of the size of the family and the spacing of children , and consequently of control of conception , there can be no question . There is general_agreement also that sex union between husbands and wives as an expression of mutual_affection without relation_to procreation is right '' . Since then , many Protestant_denominations have made separate pronouncements , in which they not_only approved birth_control , but declared it at_times to be a religious duty .</context>
+    </instance>
+    <instance id="br-f24#w502_0" docsrc="br-f24">
+      <context> Mortars had demolished the defense ministry and set fire to the American Embassy next_door . What had been the ambassador 's suite was now jagged walls of blackened brick . This damage had been done in the battle of Vientiane , fought less_than three months earlier when four successive governments had ruled here in three days ( December 9 - 11 , 1960 ) . And now , in <head>March</head> , all Laos suffered a state of siege . The Pathet_Lao forces held two northern provinces and openly took the offensive in three more . Throughout the land their hit-and-run terrorists spread fear of ambush and death . `` And it 's all the more tragic because it 's so little deserved '' , said Mr._J._J._A._Frans , a Belgian official of the United_Nations Educational_,_Scientific_,_and_Cultural_Organization .</context>
+    </instance>
+    <instance id="br-g16#w234_0" docsrc="br-g16">
+      <context> The image of the world tends to reflect the hostility and indifference of man or_else to dissolve into empty spaces and overwhelming mystery . The image of God has simply disappeared . All such imitations of negative quality have given_rise to a compensatory response in the form of a heroic and highly individualistic humanism : if man can neither know nor love reality as it is , he can at_least invent an artistic `` reality '' which is its own world and which can speak_to man of purely personal and subjective qualities capable of being known and worthy of being loved . The person of the artist becomes a final bastion of meaning in a world rendered meaningless by the <head>march</head> of events and the decay of classical religious and philosophical systems . Whatever pole of this contrast one emphasizes and whatever the tension between these two approaches to understanding the artistic imagination , it will be readily seen that they are not mutually_exclusive , that they belong together . Without the decay of a sense of objective reference ( except as the imitation of mystery ) , the stress on subjective invention would never have been stimulated into being . And although these insights into the nature of art may be in themselves insufficient for a thoroughgoing philosophy of art , their peculiar authenticity in this day and age requires that they be taken seriously and gives promise that from their very substance , new and valid chapters in the philosophy of art may be written .</context>
+    </instance>
+    <instance id="br-g20#w1342_0" docsrc="br-g20">
+      <context> All orders originate with the officer of highest rank and terminate with action of the men in the ranks . Even the officer in_charge , be it a captain ( for small display ) or a general , is restrained by monitoring . This is done for simplicity of commands and to bring the hidden redundancy up to where misunderstanding has almost zero possibility . The commands are specified by the military regulations ; are few in number , briefly worded , all different in sound ; and are combinable into sequences which permit any <head>marching</head> maneuver that could be desired on a parade_ground . This monitoring is necessary because , on a parade_ground , everyone can hear too_much , and without monitoring a confused social_event would develop . With troops dispersed on fields_of_battle rather than on the parade_ground , it may seem that a certain amount of monitoring is automatically enforced by the lines of communication . Years ago this was true , but with the replacement of wires or runners by radio and radar ( and perhaps television ) , these restrictions have disappeared and now again too_much is heard .</context>
+    </instance>
+    <instance id="br-h11#w1584_0" docsrc="br-h11">
+      <context> A significant effect discovered during the study is the existence of Prandtl numbers reaching values of more_than unity in the nitrogen dissociation region . Another effect discovered is the large coefficient of thermal diffusion tending to separate nitrogen from the oxygen when temperature differences straddling the nitrogen dissociation region are present . The results of the study , based on collision integrals computed from the latest critically evaluated data on intermolecular forces in air , will be reported in the form of a table of viscosity , thermal conductivity , thermal diffusion , and diffusion coefficients at temperatures of 1000 to 10000 * * f and of logarithm of pressure in atmospheres from * * f to * * f times normal density . In <head>March</head> , 1961 , representatives of the national laboratories of Australia , Canada , The_Netherlands , United_Kingdom , U._S._S._R. , United_States , and West_Germany , met at the NBS to devise means for reaching international agreement on a temperature scale between 10 and 90 * * f . As a first_step toward this goal , arrangements were worked_out for comparing the scales now in_use through circulation of a group of standard platinum resistance_thermometers for calibration by each national laboratory . Such a group of thermometers was obtained and calibrated at the NBS . These thermometers have now been sent to the United_Kingdom for calibration at the National_Physical_Laboratory .</context>
+    </instance>
+    <instance id="br-h11#w1697_0" docsrc="br-h11">
+      <context> As a first_step toward this goal , arrangements were worked_out for comparing the scales now in_use through circulation of a group of standard platinum resistance_thermometers for calibration by each national laboratory . Such a group of thermometers was obtained and calibrated at the NBS . These thermometers have now been sent to the United_Kingdom for calibration at the National_Physical_Laboratory . During the last week of <head>march</head> 1961 , Columbus , Ohio was the site of the Fourth_Symposium_on_Temperature , Its_Measurement_and_Control_in_Science_and_Industry . The Symposium , which was jointly sponsored by the American_Institute_of_Physics , the Instrument_Society_of_America , and the National_Bureau_of_Standards , attracted nearly one_thousand registrants , including many from abroad . The Bureau contributed to the planning and success of the Symposium through the efforts of Mr._W._A._Wildhack , General_Chairman , and Dr._C._M._Herzfeld , Program_Chairman . Dr._A._V._Astin , NBS_Director , opened the 5 - day session with introductory remarks , following which a total of twenty-six papers were given throughout the week by NBS scientists , from both the Washington and Boulder_Laboratories .</context>
+    </instance>
+    <instance id="br-h17#w1147_0" docsrc="br-h17">
+      <context> He was again reclassified 1_,_-_A by the local board . There followed a customary Department_of_Justice hearing , at which petitioner appeared . In his report to the Attorney_General , the hearing_officer suggested that the petitioner be exempt only from combatant training and service . On <head>March</head> 21 , 1957 , however , the Department recommended approval of the 1_,_-_A classification . Its ground for this recommendation was that , while petitioner claimed before the local board August 17 , 1956 ( as evidenced by its memorandum in his file of that date ) , that he was devoting 100 hours per month to actual preaching , the headquarters of the Jehovah's_Witnesses reported that he was no_longer doing so and , on_the_contrary , had relinquished both his Pioneer_and_Bible_Student_Servant positions . It reported that he now devoted only some 6 - 1_2 hours per month to public preaching and from 20 to 25 hours per month to church activities . His claim was therefore `` so highly exaggerated '' , the Department concluded , that it `` cast doubt upon his veracity and , consequently , upon his sincerity and good_faith '' .</context>
+    </instance>
+    <instance id="br-h17#w842_0" docsrc="br-h17">
+      <context> We granted certiorari in view of the importance of the questions in the administration of the Act . 361_U._S._899 . We have concluded that petitioner 's claims are controlled by the rationale of gonzales_v._United_States , 348_U._S._407_(_1955_) , and United_States_v._Nugent , 346_U._S .1_(_1953 ) , and therefore affirm the judgment . Petitioner registered with Local_Board_No._9 , Boulder_,_Colorado , on <head>March</head> 17 , 1952 . His answers to the classification questionnaire reflected that he was a minister of Jehovah's_Witnesses , employed at night by a sugar producer . He claimed 4_,_-_D classification as a minister of religion , devoting a minimum of 100 hours a month to preaching . On November 13 , 1952 , he was classified in Class 1 , -_A .</context>
+    </instance>
+    <instance id="br-j10#w176_0" docsrc="br-j10">
+      <context> I must add at_once that these animals are what we call `` queens '' , young females that have mated in the previous summer or autumn . It is on them alone that the future of their race depends , for all their relatives ( mothers , husbands , brothers , and unmated sisters ) have perished with the arrival of the cold_weather . Even some of the queens will die before the winter is over , falling prey to enemies or disease . The survivors emerge on some nice , sunny day in <head>March</head> or April , when the temperature is close to 50 ` F and there is not too_much wind . Now the thing for us to do is to find ourselves a_couple_of those wonderful flowering currants such_as the red Ribes_sanguineum of our Pacific_Northwest , or otherwise a good sloe tree , or perhaps some nice pussy_willow in bloom , preferably one with male or staminate catkins . The blooms of Ribes and of the willow and sloe are the places where large_numbers of our early insects will assemble : honeybees , bumblebees , and other wild bees , and also various kinds of flies . It is a happy , buzzing crowd .</context>
+    </instance>
+    <instance id="br-j11#w2046_0" docsrc="br-j11">
+      <context> However , as so many of the records are not certainly based on newborn snakes , these data must be taken tentatively ; final conclusions will have_to await the measurements of broods from definite localities . Alphonse_R_._Hoge 's measurements of several very young specimens from Brazil suggest that at_birth the female is slightly larger than the male . I have surprisingly little information on the size and age at maturity . Carl_Kauffeld has written to me of sexual_activity in February 1943 of young born in <head>March</head> 1940 . One female , collected on an island off the coast of Nicaragua , was gravid and measured 4 feet 8 inches from snout to vent ( her tail should be between 6 and 7 inches long ) . The female from Central_America which gave_birth to four was only 3 feet 11 inches long . What data there are on growth indicate considerable variation in rate ; unfortunately , no_one has kept complete records of one individual , whereas many have been made for a very short period_of_time .</context>
+    </instance>
+    <instance id="br-j15#w751_0" docsrc="br-j15">
+      <context> Serial serum potassium levels remained normal ; the serum glutamic_oxaloacetic_transaminase was 10 units per ml. per min. . The clinical impression at this time was either muscular_dystrophy or polymyositis . On Feb. 12 , 1959 , purified corticotropin ( ACTH_Gel ) , 20 units daily intramuscularly , was started but had_to be discontinued 3 weeks later because of excessive fluid retention . From <head>March</head> 3 to May 1 , 1949 , the patient was maintained on dexamethasone , 3 to 6 mg. daily . In May 1959 , prednisone , 30 mg. daily , replaced the dexamethasone . Muscle weakness did not improve , and the patient needed first a cane , then crutches . In_spite of normal thyroid function tests , a trial of propylthiouracil , 400 mg. daily for one week , was given but served only to intensify muscle weakness .</context>
+    </instance>
+    <instance id="br-j35#w1881_0" docsrc="br-j35">
+      <context> In proportion as meanings are concrete , we can better rely_on their being insulated and distinctive . An elephant or a fox or a swan or a cocopalm or a banana possess in unusually high degree this quality of obvious , common-sense , indubitable identity , as do an eye or tooth or nail . They isolate out easily , naturally , and unambiguously from the continuum of nature and existence ; and they should be given priority in the basic list as long as they continue to show these qualities . With the universal list as his weapon , Swadesh has extended his <head>march</head> of conquest farther and farther into the past , eight , ten , twelve millennia back . And he has proclaimed greater or less affiliation between all Western_hemisphere languages . Some of_this may prove to be true , or even considerable of_it , whether by genetic ramification or by diffusion and coalescence . But the farther out he moves , the thinner will be his hold on conclusive evidence , and the larger the speculative component in his inferences .</context>
+    </instance>
+    <instance id="br-k15#w1292_0" docsrc="br-k15">
+      <context> Jonathan wrote grimly of the destruction of Harpers_Ferry before they abandoned it ; of their first engagement at Falling_Waters after Old_Jack 's First_Brigade had destroyed all the rolling_stock of the B_+_O_Railroad . The men were restive , he wrote , ready to take the battle to the enemy as Jackson wished . The peddler came bawling his wares and told them of the convention in Wheeling , Which had formed a new state_government by declaring the government at Richmond in the east illegal because they were traitors . Dangling his gaudy trinkets before them , he told of the Rebel losses in the mountains , at Cheat and Rich mountains both , and the Federal <head>march</head> on Beverly . `` Cleaned all them Rebs out'n the hills , they did ! They won't never git over inter loyal western Virginia , them traitors ! The Federals is making everybody take the oath of loyalty around these parts too '' , he crowed .</context>
+    </instance>
+    <instance id="br-r06#w337_0" docsrc="br-r06">
+      <context> It has identified itself with the very tension and terror it once did so much to alleviate . We now have not_only what has been called over here the comedy of menace but we also have horror jokes , magazines known as Horror_Comics , and sick comedians . There are even publications called Sick and Mad . The Zeitgeist is not crazy as a loon or mad as a <head>March</head> hare ; it is manic as a man '' . `` I woke_up this morning '' , Moreland said , `` paraphrasing Lewis_Carroll . Do you want to hear the paraphrase '' ? `` Can I bear it '' ?</context>
+    </instance>
+    <instance id="n01271669_d_17" docsrc="n01271669_d">
+      <context> a naval_battle in World_War_II ; Allied land based bombers destroyed a Japanese convoy in the Bismarck_Sea in <head>March</head> 1943 ;</context>
+    </instance>
+    <instance id="n01307754_d_21" docsrc="n01307754_d">
+      <context> the revolution against the czarist government which led to the abdication of Nicholas_II and the creation of a provisional government in <head>March</head> 1917 ;</context>
+    </instance>
+    <instance id="n07887634_d_19" docsrc="n07887634_d">
+      <context> a general term for beer made with bottom_fermenting_yeast ( usually by decoction_mashing ) ; originally it was brewed in <head>March</head> or April and matured until September ;</context>
+    </instance>
+    <instance id="n08686129_d_19" docsrc="n08686129_d">
+      <context> the first sign_of_the_zodiac which the sun enters at the vernal_equinox ; the sun is in this sign from about <head>March</head> 21 to April 19 ;</context>
+    </instance>
+    <instance id="n08688076_d_15" docsrc="n08688076_d">
+      <context> the twelfth sign_of_the_zodiac ; the sun is in this sign from about February 19 to <head>March</head> 20 ;</context>
+    </instance>
+    <instance id="n15173974_d_7" docsrc="n15173974_d">
+      <context> in the Roman_calendar : the 15th of <head>March</head> or May or July or October or the 13th of any other month ;</context>
+    </instance>
+    <instance id="n15176785_d_8" docsrc="n15176785_d">
+      <context> sixth month of the Revolutionary_calendar ( February and <head>March</head> ) ; the windy month ;</context>
+    </instance>
+    <instance id="n15176937_d_6" docsrc="n15176937_d">
+      <context> seventh month of the Revolutionary_calendar ( <head>March</head> and April ) ; the month of buds ;</context>
+    </instance>
+    <instance id="n15188359_d_4" docsrc="n15188359_d">
+      <context> the day ( in <head>March</head> or April ) on which the festival of Easter is celebrated ;</context>
+    </instance>
+    <instance id="n15210486_d_6" docsrc="n15210486_d">
+      <context> the month following January and preceding <head>March</head> ;</context>
+    </instance>
+    <instance id="n15211090_d_4" docsrc="n15211090_d">
+      <context> the middle part of <head>March</head> ;</context>
+    </instance>
+    <instance id="n15211189_d_3" docsrc="n15211189_d">
+      <context> the month following <head>March</head> and preceding May ;</context>
+    </instance>
+    <instance id="n15215480_d_21" docsrc="n15215480_d">
+      <context> the sixth month of the civil_year ; the twelfth month of the ecclesiastic year in the Jewish_calendar ( in February and <head>March</head> ) ;</context>
+    </instance>
+    <instance id="n15215816_d_16" docsrc="n15215816_d">
+      <context> the seventh month of the civil_year ; the first month of the ecclesiastic year ( in <head>March</head> and April ) ;</context>
+    </instance>
+    <instance id="n15219694_d_6" docsrc="n15219694_d">
+      <context> the first Hindu_calendar_month ( corresponding to <head>March</head> in the Gregorian_calendar ) ;</context>
+    </instance>
+    <instance id="n15223574_d_0" docsrc="n15223574_d">
+      <context> <head>March</head> 21 ;</context>
+    </instance>
+  </lexelt>
+</corpus>

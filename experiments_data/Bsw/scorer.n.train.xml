@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="scorer.n" pos="n">
+    <instance id="Scoring_(cricket)-scorer-1-26-6" docsrc="Scoring_(cricket)">
+      <context> In <head>a</head> similar situation if team A scored 250/1 , but team B scored 240 ( all out ) , then team A would win because it scored more runs . Part way through a limited over match , in order to judge the likely final scores , it is important to know , in addition to runs already scored and wickets already lost , how many overs each side has remaining , so this is always quoted . Cricket scorers keep track of many other facts of the game .</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-10-5-1" docsrc="Scoring_(cricket)">
+      <context> The official scorers occasionally make mistakes , but unlike umpires <head>'</head> mistakes these may be corrected after the event . Some cricket statisticians who keep score unofficially for the printed and broadcast media have become quite famous , for instance Bill Frindall who scored for the BBC radio commentary team from 1966 to 2008 and Jo King . The ECB 's Association of Cricket Officials provides training for scorers .</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-13-1-2" docsrc="Scoring_(cricket)">
+      <context> The scorers have no say in whether runs or extras are scored , <head>wickets</head> taken or overs bowled . This is the job of the umpires on the field of play , who signal to the scorers in cases of ambiguity such as when runs are to be given as extras rather than credited to the batsmen , or when the batsman is to be awarded a boundary 4 or 6 . So that the umpire knows that they have seen each signal , the scorers are required to immediately acknowledge it .</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-16-14-3" docsrc="Scoring_(cricket)">
+      <context> Additional functions include being able to draw a line denoting where the ball went from the <head>batting</head> crease and where the ball pitched . This gives additional charts tracking bowling placement and shot selection which can then be used at the coaching level . This additional information , however , does not form part of the critical role of a scorer , which is to keep track of the score of the game .</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-17-1-1" docsrc="Scoring_(cricket)">
+      <context> The scorers have no say in whether runs or extras are scored , wickets taken or overs <head>bowled</head> . This is the job of the umpires on the field of play , who signal to the scorers in cases of ambiguity such as when runs are to be given as extras rather than credited to the batsmen , or when the batsman is to be awarded a boundary 4 or 6 .</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-17-12-5" docsrc="Scoring_(cricket)">
+      <context> Each section helps track the number of balls bowled in an over , any extras ( such <head>as</head> Wide Balls and No Balls ) and also any wickets ( or dismissals ) . At the end of each over , the scorer may fill out an over analysis with the score at the end of the over , the number of wickets that have fallen , any penalties incurred and the number of the bowler in the analysis . Most software used for cricket scoring uses a form at the front end with buttons for the scorer to press to record ball by ball events .</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-2-1-3" docsrc="Scoring_(cricket)">
+      <context> This is <head>the</head> job of the umpires on the field of play , who signal to the scorers in cases of ambiguity such as when runs are to be given as extras rather than credited to the batsmen , or when the batsman is to be awarded a boundary 4 or 6 . So that the umpire knows that they have seen each signal , the scorers are required to immediately acknowledge it . The official scorers occasionally make mistakes , but unlike umpires ' mistakes these may be corrected after the event .</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-23-46-2" docsrc="Scoring_(cricket)">
+      <context> Traditionally , the score book might record each ball bowled by a bowler and each ball faced by a batsman , but not <head>necessarily</head> which batsman faced which ball . Linear scoring systems were developed from the late 19th century and early 20th century by John Atkinson Pendlington , Bill Ferguson and Bill Frindall , to keep track of the balls faced by a batsman off each bowler . Another early method of recording the number of balls faced and runs scored by each batsman off each bowler was devised by Australian scorer J.G. Jackschon in the 1890s , using a separate memorandum alongside the main scoresheet .</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-4-34-1" docsrc="Scoring_(cricket)">
+      <context> Part way through a <head>limited</head> over match , in order to judge the likely final scores , it is important to know , in addition to runs already scored and wickets already lost , how many overs each side has remaining , so this is always quoted . Cricket scorers keep track of many other facts of the game . As a minimum a scorer would note :</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-5-12-2" docsrc="Scoring_(cricket)">
+      <context> The manual method uses a <head>scorecard</head> and a pen . The scorecard is colloquially known as The Book . Using the book , the scorer fills out two main sections per ball , the bowling analysis and the batting analysis .</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-5-14-4" docsrc="Scoring_(cricket)">
+      <context> This gives additional charts tracking <head>bowling</head> placement and shot selection which can then be used at the coaching level . This additional information , however , does not form part of the critical role of a scorer , which is to keep track of the score of the game . It has been known for scorers to use both methods in conjunction with one another , in case the computer goes down or runs out of battery .</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-6-6-1" docsrc="Scoring_(cricket)">
+      <context> Some cricket statisticians who keep score <head>unofficially</head> for the printed and broadcast media have become quite famous , for instance Bill Frindall who scored for the BBC radio commentary team from 1966 to 2008 and Jo King . The ECB 's Association of Cricket Officials provides training for scorers . There are predominantly two methods that scorers use to record a game : manually and computerized .</context>
+    </instance>
+    <instance id="Scoring_(cricket)-scorer-8-12-4" docsrc="Scoring_(cricket)">
+      <context> Using the book , the scorer fills out <head>two</head> main sections per ball , the bowling analysis and the batting analysis . Each section helps track the number of balls bowled in an over , any extras ( such as Wide Balls and No Balls ) and also any wickets ( or dismissals ) . At the end of each over , the scorer may fill out an over analysis with the score at the end of the over , the number of wickets that have fallen , any penalties incurred and the number of the bowler in the analysis .</context>
+    </instance>
+  </lexelt>
+</corpus>

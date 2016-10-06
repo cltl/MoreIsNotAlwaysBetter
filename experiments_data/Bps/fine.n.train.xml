@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="fine.n" pos="NN">
+    <instance id="a01322621_d_3" docsrc="a01322621_d">
+      <context> liable to a <head>fine</head> ;</context>
+    </instance>
+    <instance id="a01402343_d_9" docsrc="a01402343_d">
+      <context> of a crime or misdemeanor ; punishable by a <head>fine</head> set by a judge ;</context>
+    </instance>
+    <instance id="n13301500_d_0" docsrc="n13301500_d">
+      <context> <head>fine</head> imposed by a library on books that overdue when returned ;</context>
+    </instance>
+    <instance id="v02307412_d_2" docsrc="v02307412_d">
+      <context> impose a <head>fine</head> on ;</context>
+    </instance>
+    <instance id="v02308552_d_11" docsrc="v02308552_d">
+      <context> charge with a payment , such as a tax or a <head>fine</head> ;</context>
+    </instance>
+    <instance id="v02498716_d_5" docsrc="v02498716_d">
+      <context> issue a ticket or a <head>fine</head> to as a penalty ;</context>
+    </instance>
+    <instance id="v02498987_d_3" docsrc="v02498987_d">
+      <context> punish by a <head>fine</head> imposed arbitrarily by the discretion of the court ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="spite.n" pos="NN">
+    <instance id="Spite_(sentiment)-spite-17-0-3" docsrc="Spite_(sentiment)">
+      <context> Spiteful words or actions are delivered in such a way that it is clear that the person <head>is</head> delivering them just to annoy , hurt , or upset . When the intent to annoy , hurt , or upset is shown subtly , behavior is considered catty . The Underground Man , in Fyodor Dostoevsky 's novella Notes from Underground , is an example of spite .</context>
+    </instance>
+    <instance id="a00225099_d_11" docsrc="a00225099_d">
+      <context> showing malicious ill_will and a desire to hurt ; motivated by <head>spite</head> ;</context>
+    </instance>
+    <instance id="br-k16#w1701_0" docsrc="br-k16">
+      <context> From the saddlebags , hung_on a Hitchcock_chair , David took_out a good English razor , a present from John_Hunter . He found tepid water in a pitcher and a last bit of soap , and he lathered his face and stood stropping the razor on his broad leather belt , its buckle held firm by a knob of the bedpost . He hoped he was free_of self-deception . Here he was , suddenly caught_up in the delirium of a war , in the <head>spite</head> and calumny of Whigs and Tories . There would be great need soon for his skill as surgeon , but somehow he had not planned to use his knowledge merely for war . David_Cortlandt had certain psychic intuitions that this rebellion was not wholly what it appeared on the surface . He knew that many were using it for their own ends .</context>
+    </instance>
+  </lexelt>
+</corpus>

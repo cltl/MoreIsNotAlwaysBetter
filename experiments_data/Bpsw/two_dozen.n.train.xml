@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="two_dozen.n" pos="NN">
+    <instance id="n09666622_d_6" docsrc="n09666622_d">
+      <context> a member of any of about <head>two_dozen_
+     _American</head> peoples called Pueblos by the Spanish because they live in pueblos ( villages built of adobe and rock ) ;</context>
+    </instance>
+  </lexelt>
+</corpus>

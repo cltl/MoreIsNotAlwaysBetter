@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="championship.n" pos="NN">
+    <instance id="Champion-championship-13-10-1" docsrc="Champion">
+      <context> A " King 's Champion " is appointed for ceremonial purposes at the <head>coronation</head> of an English Monarch , to defeat any challenger to the monarch 's right to be crowned . Champion warfare refers to a type of battle , most commonly found in the epic poetry and myth of ancient history , in which the outcome of the conflict is determined by single combat , an individual duel between the best soldiers ( " champions " ) from each opposing army . World Champion is a title used to denote a winner of a World championship in a particular sport , discipline or game .</context>
+    </instance>
+    <instance id="Champion-championship-23-0-1" docsrc="Champion">
+      <context> A champion ( from the late Latin campio ) is the victor in a challenge , contest or competition . There can be <head>a</head> territorial pyramid of championships , e.g. local , regional / provincial , state , national , continental and world championships , and even further ( artificial ) divisions at one or more of these levels , as in soccer .</context>
+    </instance>
+    <instance id="Champion-championship-7-0-1" docsrc="Champion">
+      <context> A champion ( from the late Latin <head>campio</head> ) is the victor in a challenge , contest or competition . There can be a territorial pyramid of championships , e.g. local , regional / provincial , state , national , continental and world championships , and even further ( artificial ) divisions at one or more of these levels , as in soccer .</context>
+    </instance>
+    <instance id="Championship-championship-0-16-1" docsrc="Championship">
+      <context> <head>The</head> term championships ( in the plural ) is often used to refer to tournament competitions , either using a knockout format , such as at Wimbledon and other championships in tennis , or a mixed format with a group stage followed by knockout rounds , such as used in the European Football Championships . === League system === Championships in various sports , including rugby union and soccer use a league system in which all competitors in the league play each other , either once or a number of times .</context>
+    </instance>
+    <instance id="Championship-championship-0-20-1" docsrc="Championship">
+      <context> <head>Championships</head> in various sports , including rugby union and soccer use a league system in which all competitors in the league play each other , either once or a number of times . === Playoff system === Championship ( dog )</context>
+    </instance>
+    <instance id="Championship-championship-1-33-1" docsrc="Championship">
+      <context> === <head>Playoff</head> system === Championship ( dog ) The championship may refer to :</context>
+    </instance>
+    <instance id="Championship-championship-1-37-1" docsrc="Championship">
+      <context> Championship <head>(</head> dog ) The championship may refer to : The Championship , an alternate name for the Football League Championship</context>
+    </instance>
+    <instance id="Championship-championship-1-38-1" docsrc="Championship">
+      <context> The <head>championship</head> may refer to : The Championship , an alternate name for the Football League Championship The Championship ( TV series ) , a Football League highlights programme in the UK</context>
+    </instance>
+    <instance id="Championship-championship-1-43-1" docsrc="Championship">
+      <context> The <head>Rugby</head> Football League Championships , an alternative name for the English Kingston Press Championship and Kingston Press League 1 . The RFU Championship , the second tier of English rugby union , below the Aviva Premiership The Championships , Wimbledon , the oldest and most prestigious tennis tournament in the world</context>
+    </instance>
+    <instance id="Championship-championship-1-44-1" docsrc="Championship">
+      <context> The <head>RFU</head> Championship , the second tier of English rugby union , below the Aviva Premiership The Championships , Wimbledon , the oldest and most prestigious tennis tournament in the world The Championship Course , the Oxford and Cambridge Boat Race Thames course</context>
+    </instance>
+    <instance id="Championship-championship-1-45-1" docsrc="Championship">
+      <context> The <head>Championships</head> , Wimbledon , the oldest and most prestigious tennis tournament in the world The Championship Course , the Oxford and Cambridge Boat Race Thames course The Championships at the Palisades , an event in the Outback Champions Series for senior tennis players</context>
+    </instance>
+    <instance id="Championship-championship-1-46-1" docsrc="Championship">
+      <context> The <head>Championship</head> Course , the Oxford and Cambridge Boat Race Thames course The Championships at the Palisades , an event in the Outback Champions Series for senior tennis players</context>
+    </instance>
+    <instance id="Championship-championship-10-37-1" docsrc="Championship">
+      <context> Championship ( dog ) The championship may refer to : <head>The</head> Championship , an alternate name for the Football League Championship</context>
+    </instance>
+    <instance id="Championship-championship-11-0-1" docsrc="Championship">
+      <context> In sport , a championship is a competition in which the <head>aim</head> is to decide which individual or team is the champion . Various forms of competition can be referred to by the term championship .</context>
+    </instance>
+    <instance id="Championship-championship-14-40-1" docsrc="Championship">
+      <context> The Championship ( TV series ) , a Football League highlights programme in the <head>UK</head> The Rugby Championship , the name for the Southern Hemisphere rugby union competition known as the Tri Nations before Argentina 's entry in 2012 The Rugby Football League Championships , an alternative name for the English Kingston Press Championship and Kingston Press League 1 .</context>
+    </instance>
+    <instance id="Championship-championship-15-7-1" docsrc="Championship">
+      <context> Various forms of competition can be referred to by the term championship . === Title <head>match</head> system === In this system , a competitor has to challenge the current champion to win the championship .</context>
+    </instance>
+    <instance id="Championship-championship-2-11-1" docsrc="Championship">
+      <context> This form <head>of</head> championship is used in wrestling , boxing , mixed martial arts and other combat sports . === Tournament system === The term championships ( in the plural ) is often used to refer to tournament competitions , either using a knockout format , such as at Wimbledon and other championships in tennis , or a mixed format with a group stage followed by knockout rounds , such as used in the European Football Championships .</context>
+    </instance>
+    <instance id="Championship-championship-2-39-1" docsrc="Championship">
+      <context> The Championship <head>,</head> an alternate name for the Football League Championship The Championship ( TV series ) , a Football League highlights programme in the UK The Rugby Championship , the name for the Southern Hemisphere rugby union competition known as the Tri Nations before Argentina 's entry in 2012</context>
+    </instance>
+    <instance id="Championship-championship-2-42-1" docsrc="Championship">
+      <context> The Rugby <head>Championship</head> , the name for the Southern Hemisphere rugby union competition known as the Tri Nations before Argentina 's entry in 2012 The Rugby Football League Championships , an alternative name for the English Kingston Press Championship and Kingston Press League 1 . The RFU Championship , the second tier of English rugby union , below the Aviva Premiership</context>
+    </instance>
+    <instance id="Championship-championship-29-11-1" docsrc="Championship">
+      <context> This form of championship is used in wrestling , boxing , mixed martial arts and other combat sports . === Tournament system === The term championships ( in the <head>plural</head> ) is often used to refer to tournament competitions , either using a knockout format , such as at Wimbledon and other championships in tennis , or a mixed format with a group stage followed by knockout rounds , such as used in the European Football Championships .</context>
+    </instance>
+    <instance id="Championship-championship-3-8-2" docsrc="Championship">
+      <context> In this system <head>,</head> a competitor has to challenge the current champion to win the championship . A competitor can challenge the current champion after defeating other challengers . This form of championship is used in wrestling , boxing , mixed martial arts and other combat sports .</context>
+    </instance>
+    <instance id="Championship-championship-4-40-1" docsrc="Championship">
+      <context> The Championship ( TV <head>series</head> ) , a Football League highlights programme in the UK The Rugby Championship , the name for the Southern Hemisphere rugby union competition known as the Tri Nations before Argentina 's entry in 2012 The Rugby Football League Championships , an alternative name for the English Kingston Press Championship and Kingston Press League 1 .</context>
+    </instance>
+    <instance id="Championship-championship-53-11-1" docsrc="Championship">
+      <context> This form of championship is used in wrestling , boxing , mixed martial arts and other combat sports . === Tournament system === The term championships ( in the plural ) is often used to refer to tournament competitions , either using a knockout format , such as at Wimbledon and other championships <head>in</head> tennis , or a mixed format with a group stage followed by knockout rounds , such as used in the European Football Championships .</context>
+    </instance>
+    <instance id="Patronage-championship-12-60-1" docsrc="Patronage">
+      <context> Thus Khurasan and Transoxania were effectively bypassed in this transfer of learning <head>from</head> India to Islam , even though , undeniably the Barmakis cultural outlook owed something to their land of origin , northern Afghanistan , and Yahya al Barmaki 's interest in medicine may have derived from no longer identifiable family tradition . In the same manner as commercial patronage , those who attend a sporting event may be referred to as patrons , though the usage in much of the world is now considered archaic—with some notable exceptions . Those who attend the Masters Tournament , one of the four major championship of professional golf , are still traditionally referred to as " patrons , " largely at the insistence of the Augusta National Golf Club .</context>
+    </instance>
+    <instance id="br-a14#w343_0" docsrc="br-a14">
+      <context> Four years later he resigned to take a similar job with the Green_Bay_Packers . The Eagles signed him for Shaw 's staff in 1959 . Skorich began his new job auspiciously today . At a ceremony in the reception_room of Mayor_Richardson_Dilworth , the Eagles were honored for winning the <head>championship</head> . Shaw and Skorich headed a group of players , coaches and team officials who received an engrossed copy of an official city citation and a pair of silver cufflinks shaped like a football . With the announcement of a `` special achievement award '' to William_A._Bill_Shea , the awards list was completed yesterday for Sunday night 's thirty-eighth annual dinner and show of the New_York Chapter , Baseball_Writers_Association_of_America , at the Waldorf-Astoria_Hotel . Shea , the chairman of Mayor_Wagner_'s_Baseball_Committee , will be joined on the dais by Warren_Spahn , the southpaw pitching ace of the Milwaukee_Braves ; Frank_Graham , the Journal-American sports columnist ; Bill_Mazeroski , the World_Series hero of the Pittsburgh_Pirates , and Casey_Stengel , the former manager of the Yankees .</context>
+    </instance>
+    <instance id="br-e01#w1603_0" docsrc="br-e01">
+      <context> The exercise I shall discuss in this - the first of a new series of articles on muscle definition specialization of a particular body_part - is the One_Leg_Lunge . Why it was ever forgotten for even a moment I cannot say because it works perfectly for everyone , no_matter whether he has short or long thigh-bone lengths ! It is the one exercise that drastically influences the definition of the thighs at the hipline - that mark of the champion that sets him apart from all other bodybuilders - a criterion of muscle `` drama '' that_is unforgettable to judges and audiences alike - the facet of muscular development that wins prizes . Definition of the thighs at the uppermost part is quite commonly seen in most <head>championship</head> Olympic lifters which is easily understandable . The One_Leg_Lunge is a split and all lifters practice this in their regular workouts . But for purely definition purposes - used in conjunction with your regular Squatting , Leg_Curling , Leg_Extensor programs - a heavy weight is not needed . Indeed , a lighter weight works much better because a greater , more extensive split can be_performed .</context>
+    </instance>
+  </lexelt>
+</corpus>

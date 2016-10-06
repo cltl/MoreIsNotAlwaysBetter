@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="emission.n" pos="NN">
+    <instance id="Emission_spectrum-emission-0-115-1" docsrc="Emission_spectrum">
+      <context> <head>An</head> emission coefficient is also given for ballistic secondary electron emission . Luminous coefficient Emission spectra of atmospheric gases</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-0-125-1" docsrc="Emission_spectrum">
+      <context> <head>Color</head> Simulation of Element Emission Spectrum Based on NIST data Hydrogen emission spectrum Emissions Spectrum Java Applet</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-0-70-8" docsrc="Emission_spectrum">
+      <context> <head>Not</head> all emitted lights are perceptible to the naked eye , as the spectrum also includes ultraviolet rays and infrared lighting . An emission is formed when an excited gas is viewed directly through a spectroscope . Emission spectroscopy is a spectroscopic technique which examines the wavelengths of photons emitted by atoms or molecules during their transition from an excited state to a lower energy state .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-0-72-2" docsrc="Emission_spectrum">
+      <context> <head>Emission</head> spectroscopy is a spectroscopic technique which examines the wavelengths of photons emitted by atoms or molecules during their transition from an excited state to a lower energy state . Each element emits a characteristic set of discrete wavelengths according to its electronic structure , and by observing these wavelengths the elemental composition of the sample can be determined . Emission spectroscopy developed in the late 19th century and efforts in theoretical explanation of atomic emission spectra eventually led to quantum mechanics .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-0-74-2" docsrc="Emission_spectrum">
+      <context> <head>Although</head> the emission lines are caused by a transition between quantized energy states and may at first look very sharp , they do have a finite width , i.e. they are composed of more than one wavelength of light . This spectral line broadening has many different causes . Emission spectroscopy is often referred to as optical emission spectroscopy , due to the light nature of what is being emitted .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-0-75-1" docsrc="Emission_spectrum">
+      <context> <head>This</head> spectral line broadening has many different causes . Emission spectroscopy is often referred to as optical emission spectroscopy , due to the light nature of what is being emitted . Emission lines from hot gases were first discovered by Ångström , and the technique was further developed by David Alter , Gustav Kirchhoff and Robert Bunsen .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-0-85-4" docsrc="Emission_spectrum">
+      <context> <head>For</head> example , sodium salts placed in the flame will glow yellow from sodium ions , while strontium ( used in road flares ) ions color it red . Copper wire will create a blue colored flame , however in the presence of chloride gives green ( molecular contribution by CuCl ) . Emission coefficient is a coefficient in the power output per unit time of an electromagnetic source , a calculated value in physics .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-1-113-1" docsrc="Emission_spectrum">
+      <context> The <head>Diode</head> equation includes the emission coefficient Plasma physics An emission coefficient is also given for ballistic secondary electron emission .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-1-124-1" docsrc="Emission_spectrum">
+      <context> NIST <head>Physical</head> Reference Data—Atomic Spectroscopy Data Color Simulation of Element Emission Spectrum Based on NIST data Hydrogen emission spectrum</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-1-69-9" docsrc="Emission_spectrum">
+      <context> The <head>production</head> of line spectra by the atoms of an element indicate that an atom can radiate only a certain amount of energy . This leads to the conclusion that bound electrons can not have just any amount of energy but only a certain amount of energy . The emission spectrum can be used to determine the composition of a material , since it is different for each element of the periodic table .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-1-70-2" docsrc="Emission_spectrum">
+      <context> The <head>emission</head> spectrum can be used to determine the composition of a material , since it is different for each element of the periodic table . One example is astronomical spectroscopy : identifying the composition of stars by analysing the received light . The emission spectrum characteristics of some elements are plainly visible to the naked eye when these elements are heated .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-1-70-7" docsrc="Emission_spectrum">
+      <context> These <head>definite</head> characteristics allow elements to be identified by their atomic emission spectrum . Not all emitted lights are perceptible to the naked eye , as the spectrum also includes ultraviolet rays and infrared lighting . An emission is formed when an excited gas is viewed directly through a spectroscope .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-1-89-1" docsrc="Emission_spectrum">
+      <context> Copper <head>wire</head> will create a blue colored flame , however in the presence of chloride gives green ( molecular contribution by CuCl ) . Emission coefficient is a coefficient in the power output per unit time of an electromagnetic source , a calculated value in physics . The emission coefficient of a gas varies with the wavelength of the light .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-10-113-1" docsrc="Emission_spectrum">
+      <context> The Diode equation includes the emission coefficient Plasma physics An <head>emission</head> coefficient is also given for ballistic secondary electron emission .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-10-93-1" docsrc="Emission_spectrum">
+      <context> === Scattering of light === In Thomson scattering a charged <head>particle</head> emits radiation under incident light . The particle may be an ordinary atomic electron , so emission coefficients have practical applications .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-11-70-5" docsrc="Emission_spectrum">
+      <context> For example , when platinum wire is dipped into a strontium <head>nitrate</head> solution and then inserted into a flame , the strontium atoms emit a red color . Similarly , when copper is inserted into a flame , the flame becomes green . These definite characteristics allow elements to be identified by their atomic emission spectrum .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-12-5-3" docsrc="Emission_spectrum">
+      <context> This may be related to other properties of the object through the <head>Stefan–Boltzmann</head> law . For most substances , the amount of emission varies with the temperature and the spectroscopic composition of the object , leading to the appearance of color temperature and emission lines . Precise measurements at many wavelengths allow the identification of a substance via emission spectroscopy .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-12-5-4" docsrc="Emission_spectrum">
+      <context> For most substances , the amount of emission varies with the temperature <head>and</head> the spectroscopic composition of the object , leading to the appearance of color temperature and emission lines . Precise measurements at many wavelengths allow the identification of a substance via emission spectroscopy . The fact that only certain colors appear in an element 's atomic emission spectrum means that only certain frequencies of light are emitted .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-15-0-3" docsrc="Emission_spectrum">
+      <context> The photon energy of the emitted photon is equal to the energy difference between the <head>two</head> states . There are many possible electron transitions for each atom , and each transition has a specific energy difference . This collection of different transitions , leading to different radiated wavelengths , make up an emission spectrum .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-15-72-2" docsrc="Emission_spectrum">
+      <context> Emission spectroscopy is a spectroscopic technique which examines the wavelengths of photons emitted by atoms <head>or</head> molecules during their transition from an excited state to a lower energy state . Each element emits a characteristic set of discrete wavelengths according to its electronic structure , and by observing these wavelengths the elemental composition of the sample can be determined . Emission spectroscopy developed in the late 19th century and efforts in theoretical explanation of atomic emission spectra eventually led to quantum mechanics .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-2-72-3" docsrc="Emission_spectrum">
+      <context> Each element <head>emits</head> a characteristic set of discrete wavelengths according to its electronic structure , and by observing these wavelengths the elemental composition of the sample can be determined . Emission spectroscopy developed in the late 19th century and efforts in theoretical explanation of atomic emission spectra eventually led to quantum mechanics . Although the emission lines are caused by a transition between quantized energy states and may at first look very sharp , they do have a finite width , i.e. they are composed of more than one wavelength of light .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-2-95-1" docsrc="Emission_spectrum">
+      <context> If X <head>dV</head> dΩ dλ is the energy scattered by a volume element dV into solid angle dΩ between wavelengths λ and λ+dλ per unit time then the Emission coefficient is X. The values of X in Thomson scattering can be predicted from incident flux , the density of the charged particles and their Thomson differential cross section ( area/solid angle ) . === Spontaneous emission ===</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-2-99-2" docsrc="Emission_spectrum">
+      <context> A warm <head>body</head> emitting photons has a monochromatic emission coefficient relating to its temperature and total power radiation . This is sometimes called the second " Einstein coefficient " , and can be deduced from quantum mechanical theory . Table of emission spectra of gas discharge lamps</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-22-89-3" docsrc="Emission_spectrum">
+      <context> The emission coefficient of a gas varies with the wavelength of the light . It has units of ms−3sr−1 . It is <head>also</head> used as a measure of environmental emissions ( by mass ) per MWh of electricity generated , see : Emission factor .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-26-0-7" docsrc="Emission_spectrum">
+      <context> Therefore , spectroscopy can be used to identify the elements in matter of unknown composition . Similarly , the emission spectra of molecules can be used <head>in</head> chemical analysis of substances . In physics , emission is the process by which a higher energy quantum mechanical state of a particle becomes converted to a lower one through the emission of a photon , resulting in the production of light .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-28-5-2" docsrc="Emission_spectrum">
+      <context> The emittance of an object quantifies how much light is emitted by it . This may be related to other properties of the object through the Stefan–Boltzmann law <head>.</head> For most substances , the amount of emission varies with the temperature and the spectroscopic composition of the object , leading to the appearance of color temperature and emission lines .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-28-93-2" docsrc="Emission_spectrum">
+      <context> In Thomson scattering a charged particle emits radiation under incident light . The particle may be an ordinary atomic electron , so emission coefficients have practical applications . <head>If</head> X dV dΩ dλ is the energy scattered by a volume element dV into solid angle dΩ between wavelengths λ and λ+dλ per unit time then the Emission coefficient is X.</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-3-0-4" docsrc="Emission_spectrum">
+      <context> There are many <head>possible</head> electron transitions for each atom , and each transition has a specific energy difference . This collection of different transitions , leading to different radiated wavelengths , make up an emission spectrum . Each element 's emission spectrum is unique .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-3-0-6" docsrc="Emission_spectrum">
+      <context> Each element 's <head>emission</head> spectrum is unique . Therefore , spectroscopy can be used to identify the elements in matter of unknown composition . Similarly , the emission spectra of molecules can be used in chemical analysis of substances .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-3-0-7" docsrc="Emission_spectrum">
+      <context> Therefore , spectroscopy <head>can</head> be used to identify the elements in matter of unknown composition . Similarly , the emission spectra of molecules can be used in chemical analysis of substances . In physics , emission is the process by which a higher energy quantum mechanical state of a particle becomes converted to a lower one through the emission of a photon , resulting in the production of light .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-4-123-1" docsrc="Emission_spectrum">
+      <context> Emission spectra of atmospheric <head>gases</head> NIST Physical Reference Data—Atomic Spectroscopy Data Color Simulation of Element Emission Spectrum Based on NIST data</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-4-61-2" docsrc="Emission_spectrum">
+      <context> The above picture shows <head>the</head> visible light emission spectrum for hydrogen . If only a single atom of hydrogen were present , then only a single wavelength would be observed at a given instant . Several of the possible emissions are observed because the sample contains many hydrogen atoms that are in different initial energy states and reach different final energy states .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-5-111-1" docsrc="Emission_spectrum">
+      <context> Electromagnetic spectroscopy Absorption spectroscopy The <head>Diode</head> equation includes the emission coefficient</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-5-126-1" docsrc="Emission_spectrum">
+      <context> Hydrogen emission spectrum Emissions Spectrum <head>Java</head> Applet Astrophysics lecture slides on the emission coefficient from University of Chicago .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-5-127-1" docsrc="Emission_spectrum">
+      <context> Emissions Spectrum Java Applet Astrophysics <head>lecture</head> slides on the emission coefficient from University of Chicago .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-5-58-2" docsrc="Emission_spectrum">
+      <context>    is Planck 's constant <head>.</head> This concludes that only photons with specific energies are emitted by the atom . The principle of the atomic emission spectrum explains the varied colors in neon signs , as well as chemical flame test results ( described below ) .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-6-61-3" docsrc="Emission_spectrum">
+      <context> If only a single atom of <head>hydrogen</head> were present , then only a single wavelength would be observed at a given instant . Several of the possible emissions are observed because the sample contains many hydrogen atoms that are in different initial energy states and reach different final energy states . These different combinations lead to simultaneous emissions at different wavelengths .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-6-84-4" docsrc="Emission_spectrum">
+      <context> Here electrons are excited as described <head>above</head> . It is common for a monochromator to be used to allow for easy detection . On a simple level , flame emission spectroscopy can be observed using just a flame and samples of metal salts .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-7-5-2" docsrc="Emission_spectrum">
+      <context> The emittance of an object quantifies how <head>much</head> light is emitted by it . This may be related to other properties of the object through the Stefan–Boltzmann law . For most substances , the amount of emission varies with the temperature and the spectroscopic composition of the object , leading to the appearance of color temperature and emission lines .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-7-59-3" docsrc="Emission_spectrum">
+      <context> When excited , an electron moves to <head>a</head> higher energy level or orbital . When the electron falls back to its ground level the light is emitted . The above picture shows the visible light emission spectrum for hydrogen .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-8-74-2" docsrc="Emission_spectrum">
+      <context> Although the emission lines are caused by a <head>transition</head> between quantized energy states and may at first look very sharp , they do have a finite width , i.e. they are composed of more than one wavelength of light . This spectral line broadening has many different causes . Emission spectroscopy is often referred to as optical emission spectroscopy , due to the light nature of what is being emitted .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-8-98-1" docsrc="Emission_spectrum">
+      <context> The values of X in Thomson scattering can <head>be</head> predicted from incident flux , the density of the charged particles and their Thomson differential cross section ( area/solid angle ) . === Spontaneous emission === A warm body emitting photons has a monochromatic emission coefficient relating to its temperature and total power radiation .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-9-4-3" docsrc="Emission_spectrum">
+      <context> The frequency of light emitted is a function of <head>the</head> energy of the transition . Since energy must be conserved , the energy difference between the two states equals the energy carried off by the photon . The energy states of the transitions can lead to emissions over a very large range of frequencies .</context>
+    </instance>
+    <instance id="Emission_spectrum-emission-9-89-3" docsrc="Emission_spectrum">
+      <context> The emission coefficient of a gas varies with the <head>wavelength</head> of the light . It has units of ms−3sr−1 . It is also used as a measure of environmental emissions ( by mass ) per MWh of electricity generated , see : Emission factor .</context>
+    </instance>
+    <instance id="br-j01#w1100_0" docsrc="br-j01">
+      <context> Measurements of polarization are presently limited by apparatus sensitivity and will remain difficult because of the low intensity of the planetary radiation at the earth . There have been few measurements specifically for the determination of the polarization of planetary radiation . The measurements made with the NRL 50 - foot reflector , which is altitude azimuth mounted , would have shown a systematic change with local hour_angle in the measured intensities of Venus and Jupiter if a substantial part of the radiation had been linearly polarized . Recent interferometer measurements ( Radhakrishnan and Roberts , 1960 ) have shown the 960 - Mc <head>emission</head> of Jupiter to be partially polarized and to originate_in a region of larger diameter than the visible disk . Other_than this very significant result , most_of the information now available about the radio_emission of the planets is restricted to the intensity of the radiation . The concept of apparent black-body temperature is used to describe the radiation received from the moon and the planets . The received radiation is compared with the radiation from a hypothetical black-body which subtends the same solid_angle as the visible disk of the planet .</context>
+    </instance>
+    <instance id="br-j01#w1648_0" docsrc="br-j01">
+      <context> Mare_Imbrium seems to be an exception and remains cooler than the regions which surround it . These contour diagrams also suggest a rather rapid falloff in the radio_brightness with latitude . Very recently , observations have been made at 8 - mm wave_length with a reflector 22 meters in diameter with a resultant beam width of only about 2 ' ( Amenitskii , Noskova , and Salomonovich , 1960 ) . The constant temperature contours are much smoother than those observed at 4.3 mm by Coates ( 1959 a ) , and apparently the <head>emission</head> at 8 mm is not nearly so sensitive to differences in surface features . Such high-resolution observations as these are needed at several wave_lengths in_order_that the radio_emission of the moon can be properly interpreted . The observations of Mayer , McCullough , and Sloanaker at 3.15 cm and of Sloanaker at 10.3 cm have not previously been published and will be briefly described . Measurements at 3.15 cm were obtained on 11 days spread over the interval May 3 to June 19 , 1956 , using the 50 - foot reflector at the U.S._Naval_Research_Laboratory in Washington .</context>
+    </instance>
+    <instance id="br-j01#w1986_0" docsrc="br-j01">
+      <context> The measured brightness temperature is a good approximation to the brightness temperature at the center of the lunar disk because of the narrow antenna beam and because the temperature distribution over the central portion of the moon 's disk is nearly uniform . The result of the observations is ( in ` K ) **f where the phase angle , |qt , is measured in degrees from new_moon and the probable errors include absolute as_well_as relative errors . This result is plotted along with the 8.6 - mm observations of Gibson ( 1958 ) in figure 1 , a . The variation in the 3 - cm <head>emission</head> of the moon during a lunation is very_much less_than the variation in the 8.6 - mm emission , as would be expected from the explanation of Piddington and Minnett ( 1949 ) . In the discussion which follows , the time average of the radio_emission will be referred to as the constant component , and the superimposed periodic variation will be called the variable component . The 10.3 - cm observation of Sloanaker was made on May 20 , 1958 , using the 84 - foot reflector at the Maryland_Point_Observatory of the U.S._Naval_Research_Laboratory . The age of the moon was about 2 days .</context>
+    </instance>
+    <instance id="br-j01#w2003_0" docsrc="br-j01">
+      <context> The measured brightness temperature is a good approximation to the brightness temperature at the center of the lunar disk because of the narrow antenna beam and because the temperature distribution over the central portion of the moon 's disk is nearly uniform . The result of the observations is ( in ` K ) **f where the phase angle , |qt , is measured in degrees from new_moon and the probable errors include absolute as_well_as relative errors . This result is plotted along with the 8.6 - mm observations of Gibson ( 1958 ) in figure 1 , a . The variation in the 3 - cm emission of the moon during a lunation is very_much less_than the variation in the 8.6 - mm <head>emission</head> , as would be expected from the explanation of Piddington and Minnett ( 1949 ) . In the discussion which follows , the time average of the radio_emission will be referred to as the constant component , and the superimposed periodic variation will be called the variable component . The 10.3 - cm observation of Sloanaker was made on May 20 , 1958 , using the 84 - foot reflector at the Maryland_Point_Observatory of the U.S._Naval_Research_Laboratory . The age of the moon was about 2 days .</context>
+    </instance>
+    <instance id="br-j01#w516_0" docsrc="br-j01">
+      <context> No attempts to measure the radio_emission of the remaining planets have been reported , and , because of their distances , small diameters , or low_temperatures , the thermal radiation at radio wave_lengths reaching the earth from these sources is expected to be of very low intensity . In_spite of this , the very large radio_reflectors and improved amplifying techniques which are now becoming available should make it possible to observe the radio_emission of most of the planets in a_few years . The study of the radio_emission of the moon and planets began with the detection of the thermal radiation of the moon at 1.25 - cm wave_length by Dicke and Beringer ( 1946 ) . This was followed by a comprehensive series of observations of the 1.25 - cm <head>emission</head> of the moon over three lunar cycles by Piddington and Minnett ( 1949 ) . They deduced from their measurements that the radio_emission from the whole disk of the moon varied during a lunation in a roughly sinusoidal fashion ; that the amplitude of the variation was considerably less_than the amplitude of the variation in the infrared_emission as measured by Pettit and Nicholson ( 1930 ) and Pettit ( 1935 ) ; and that the maximum of the radio_emission came about 3 - 1 2 days after Full_Moon , which is again in contrast to the infrared_emission , which reaches its maximum at Full_Moon . Piddington and Minnett explained their observations by pointing_out that rocklike materials which are likely to make_up the surface of the moon would be partially transparent to radio_waves , although opaque to infrared_radiation . The infrared_emission could then be assumed to originate at the surface of the moon , while the radio_emission originates at some depth beneath the surface , where the temperature variation due_to solar_radiation is reduced in amplitude and shifted in phase .</context>
+    </instance>
+    <instance id="br-j01#w772_0" docsrc="br-j01">
+      <context> Piddington and Minnett explained their observations by pointing_out that rocklike materials which are likely to make_up the surface of the moon would be partially transparent to radio_waves , although opaque to infrared_radiation . The infrared_emission could then be assumed to originate at the surface of the moon , while the radio_emission originates at some depth beneath the surface , where the temperature variation due_to solar_radiation is reduced in amplitude and shifted in phase . Since the absorption of radio_waves in rocklike material varies with wave_length , it should be possible to sample the temperature variation at different depths beneath the surface and possibly detect changes in the structure or composition of the lunar surface material . The radio_emission of a planet was first detected in 1955 , when Burke and Franklin ( 1955 ) identified the origin of interference like radio_noise on their records at about 15 meters wave_length as <head>emission</head> from Jupiter . This sporadic type of planetary radiation is discussed by Burke ( chap. 13 ) and Gallet ( chap. 14 ) . Steady radiation which was presumably of thermal origin was observed from Venus at 3.15 and 9.4 cm , and from Mars and Jupiter at 3.15 cm in 1956 ( Mayer , McCullough , and Sloanaker , 1958 a , b , c ) , and from Saturn at 3.75 cm in 1957 ( Drake and Ewen , 1958 ) . In the relatively short time since these early observations , Venus has been observed at additional wave_lengths in the range from 0.8 to 10.2 cm , and Jupiter has been observed over the wave-length range from 3.03 to 68 cm .</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,866 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="circle.n" pos="NN">
+    <instance id="Auditorium-circle-11-11-2" docsrc="Auditorium">
+      <context> Balconies or galleries : one or more raised seating platforms towards <head>the</head> rear of the auditorium . In larger theatres , multiple levels are stacked vertically above or behind the stalls . The first level is usually called the dress circle or grand circle .</context>
+    </instance>
+    <instance id="Auditorium-circle-6-11-3" docsrc="Auditorium">
+      <context> In larger theatres , multiple levels <head>are</head> stacked vertically above or behind the stalls . The first level is usually called the dress circle or grand circle . The highest platform , or upper circle is sometimes known as the gods , especially in large opera houses , where the seats can be very high and a long distance from the stage .</context>
+    </instance>
+    <instance id="Auditorium-circle-8-11-2" docsrc="Auditorium">
+      <context> Balconies or galleries : one or more raised <head>seating</head> platforms towards the rear of the auditorium . In larger theatres , multiple levels are stacked vertically above or behind the stalls . The first level is usually called the dress circle or grand circle .</context>
+    </instance>
+    <instance id="Circle-circle-0-1274-1" docsrc="Circle">
+      <context> <head>Dover</head> . " Circle " in The MacTutor History of Mathematics archive Circle ( PlanetMath.org website )</context>
+    </instance>
+    <instance id="Circle-circle-1-0-3" docsrc="Circle">
+      <context> It <head>is</head> the set of all points in a plane that are at a given distance from a given point , the centre ; equivalently it is the curve traced out by a point that moves so that its distance from a given point is constant . The distance between any of the points and the centre is called the radius . A circle is a simple closed curve which divides the plane into two regions : an interior and an exterior .</context>
+    </instance>
+    <instance id="Circle-circle-1-1-2" docsrc="Circle">
+      <context> A <head>circle</head> is a simple closed curve which divides the plane into two regions : an interior and an exterior . In everyday use , the term " circle " may be used interchangeably to refer to either the boundary of the figure , or to the whole figure including its interior ; in strict technical usage , the circle is only the boundary and the whole figure is called a disk . A circle is a plane figure bounded by one line , and such that all right lines drawn from a certain point within it to the bounding line , are equal .</context>
+    </instance>
+    <instance id="Circle-circle-1-1068-1" docsrc="Circle">
+      <context> Construct <head>the</head> circle with centre M passing through one of the points P , Q or R ( it will also pass through the other two points ) . Apollonius of Perga showed that a circle may also be defined as the set of points in a plane having a constant ratio ( other than 1 ) of distances to two fixed foci , A and B. ( The set of points where the distances are equal is the perpendicular bisector of A and B , a line . ) That circle is sometimes said to be drawn about two points .</context>
+    </instance>
+    <instance id="Circle-circle-1-1208-1" docsrc="Circle">
+      <context> A <head>tangential</head> polygon , such as a tangential quadrilateral , is any convex polygon within which a circle can be inscribed that is tangent to each side of the polygon . A hypocycloid is a curve that is inscribed in a given circle by tracing a fixed point on a smaller circle that rolls within and tangent to the given circle . The circle can be viewed as a limiting case of each of various other figures :</context>
+    </instance>
+    <instance id="Circle-circle-1-1213-2" docsrc="Circle">
+      <context> A <head>Cartesian</head> oval is a set of points such that a weighted sum of the distances from any of its points to two fixed points ( foci ) is a constant . An ellipse is the case in which the weights are equal . A circle is an ellipse with an eccentricity of zero , meaning that the two foci coincide with each other as the centre of the circle .</context>
+    </instance>
+    <instance id="Circle-circle-1-1213-3" docsrc="Circle">
+      <context> An <head>ellipse</head> is the case in which the weights are equal . A circle is an ellipse with an eccentricity of zero , meaning that the two foci coincide with each other as the centre of the circle . A circle is also a different special case of a Cartesian oval in which one of the weights is zero .</context>
+    </instance>
+    <instance id="Circle-circle-1-1256-1" docsrc="Circle">
+      <context>     <head>{</head> \displaystyle \left|{\frac { x}{a}}\right|^{n}\!+\left|{\frac { y}{b}}\right|^{n}\!=1 }    for positive a , b , and n. A supercircle has b = a. A circle is the special case of a supercircle in which n = 2 .</context>
+    </instance>
+    <instance id="Circle-circle-1-1258-1" docsrc="Circle">
+      <context> When <head>the</head> two fixed points coincide , a circle results . A curve of constant width is a figure whose width , defined as the perpendicular distance between two distinct parallel lines each intersecting its boundary in a single point , is the same regardless of the direction of those two parallel lines . The circle is the simplest example of this type of figure .</context>
+    </instance>
+    <instance id="Circle-circle-1-1273-3" docsrc="Circle">
+      <context> Geometry <head>:</head> a comprehensive course . Dover . " Circle " in The MacTutor History of Mathematics archive</context>
+    </instance>
+    <instance id="Circle-circle-1-135-1" docsrc="Circle">
+      <context>   <head>that</head> is , approximately 79 percent of the circumscribing square ( whose side is of length d ) . The circle is the plane curve enclosing the maximum area for a given arc length .</context>
+    </instance>
+    <instance id="Circle-circle-1-27-2" docsrc="Circle">
+      <context> The <head>word</head> circle derives from the Greek κίρκος/κύκλος ( kirkos/kuklos ) , itself a metathesis of the Homeric Greek κρίκος ( krikos ) , meaning " hoop " or " ring " . The origins of the words circus and circuit are closely related . The circle has been known since before the beginning of recorded history .</context>
+    </instance>
+    <instance id="Circle-circle-1-29-1" docsrc="Circle">
+      <context> The <head>origins</head> of the words circus and circuit are closely related . The circle has been known since before the beginning of recorded history . Natural circles would have been observed , such as the Moon , Sun , and a short plant stalk blowing in the wind on sand , which forms a circle shape in the sand .</context>
+    </instance>
+    <instance id="Circle-circle-1-29-2" docsrc="Circle">
+      <context> The <head>circle</head> has been known since before the beginning of recorded history . Natural circles would have been observed , such as the Moon , Sun , and a short plant stalk blowing in the wind on sand , which forms a circle shape in the sand . The circle is the basis for the wheel , which , with related inventions such as gears , makes much of modern machinery possible .</context>
+    </instance>
+    <instance id="Circle-circle-1-949-1" docsrc="Circle">
+      <context>     <head>{</head> \displaystyle { \frac { dy}{dx}}=-{\frac { x_{1}}{y_{1}}}. }   The circle is the shape with the largest area for a given length of perimeter .</context>
+    </instance>
+    <instance id="Circle-circle-1-953-2" docsrc="Circle">
+      <context> The <head>circle</head> is the shape with the largest area for a given length of perimeter . ( See Isoperimetric inequality . ) The circle is a highly symmetric shape : every line through the centre forms a line of reflection symmetry and it has rotational symmetry around the centre for every angle .</context>
+    </instance>
+    <instance id="Circle-circle-1-954-3" docsrc="Circle">
+      <context> Its <head>symmetry</head> group is the orthogonal group O(2,R ) . The group of rotations alone is the circle group T. All circles are similar .</context>
+    </instance>
+    <instance id="Circle-circle-1-955-1" docsrc="Circle">
+      <context> The <head>group</head> of rotations alone is the circle group T. All circles are similar . A circle 's circumference and radius are proportional .</context>
+    </instance>
+    <instance id="Circle-circle-1-958-1" docsrc="Circle">
+      <context> The <head>area</head> enclosed and the square of its radius are proportional . The constants of proportionality are 2π and π , respectively . The circle which is centred at the origin with radius 1 is called the unit circle .</context>
+    </instance>
+    <instance id="Circle-circle-10-10-1" docsrc="Circle">
+      <context> Arc : any connected part of the circle . Centre <head>:</head> the point equidistant from the points on the circle . Chord : a line segment whose endpoints lie on the circle .</context>
+    </instance>
+    <instance id="Circle-circle-10-12-1" docsrc="Circle">
+      <context> Chord : a line segment whose endpoints lie on the <head>circle</head> . Circumference : the length of one circuit along the circle , or the distance around the circle . Diameter : a line segment whose endpoints lie on the circle and which passes through the centre ; or the length of such a line segment , which is the largest distance between any two points on the circle .</context>
+    </instance>
+    <instance id="Circle-circle-10-13-2" docsrc="Circle">
+      <context> Diameter : a line segment whose endpoints lie on the <head>circle</head> and which passes through the centre ; or the length of such a line segment , which is the largest distance between any two points on the circle . It is a special case of a chord , namely the longest chord , and it is twice the radius . Disk : the region of the plane bounded by a circle</context>
+    </instance>
+    <instance id="Circle-circle-10-16-1" docsrc="Circle">
+      <context> Lens : the intersection of two disks Passant : a <head>coplanar</head> straight line that does not touch the circle . Radius : a line segment joining the centre of the circle to any point on the circle itself ; or the length of such a segment , which is half a diameter .</context>
+    </instance>
+    <instance id="Circle-circle-10-372-1" docsrc="Circle">
+      <context>     { \displaystyle x^{2}+y^{2}-2axz-2byz+cz^{2}=0.\ , }   It can be <head>proven</head> that a conic section is a circle exactly when it contains ( when extended to the complex projective plane ) the points I(1 : i : 0 ) and J(1 : −i : 0 ) .</context>
+    </instance>
+    <instance id="Circle-circle-10-65-1" docsrc="Circle">
+      <context>   === Area enclosed === As proved by Archimedes , <head>in</head> his Measurement of a Circle , the area enclosed by a circle is equal to that of a triangle whose base has the length of the circle 's circumference and whose height equals the circle 's radius , which comes to π multiplied by the radius squared :</context>
+    </instance>
+    <instance id="Circle-circle-10-705-1" docsrc="Circle">
+      <context>       . Not all generalised circles are actually circles <head>:</head> a generalised circle is either a ( true ) circle or a line .</context>
+    </instance>
+    <instance id="Circle-circle-10-710-1" docsrc="Circle">
+      <context> === Tangent lines === The tangent line through a point <head>P</head> on the circle is perpendicular to the diameter passing through P. If P = ( x1 , y1 ) and the circle has centre ( a , b ) and radius r , then the tangent line is perpendicular to the line from ( a , b ) to ( x1 , y1 ) , so it has the form ( x1 − a)x + ( y1 – b)y = c. Evaluating at ( x1 , y1 ) determines the value of c and the result is that the equation of the tangent is</context>
+    </instance>
+    <instance id="Circle-circle-10-9-1" docsrc="Circle">
+      <context> The bounding line is called its circumference and the point <head>,</head> its centre . Arc : any connected part of the circle . Centre : the point equidistant from the points on the circle .</context>
+    </instance>
+    <instance id="Circle-circle-10-970-1" docsrc="Circle">
+      <context> A perpendicular line from the centre of a circle bisects <head>the</head> chord . The line segment through the centre bisecting a chord is perpendicular to the chord . If a central angle and an inscribed angle of a circle are subtended by the same chord and on the same side of the chord , then the central angle is twice the inscribed angle .</context>
+    </instance>
+    <instance id="Circle-circle-11-1206-1" docsrc="Circle">
+      <context> About every triangle a unique circle , called the circumcircle , <head>can</head> be circumscribed such that it goes through each of the triangle 's three vertices . A tangential polygon , such as a tangential quadrilateral , is any convex polygon within which a circle can be inscribed that is tangent to each side of the polygon . A hypocycloid is a curve that is inscribed in a given circle by tracing a fixed point on a smaller circle that rolls within and tangent to the given circle .</context>
+    </instance>
+    <instance id="Circle-circle-11-1280-1" docsrc="Circle">
+      <context> Circle ( PlanetMath.org website ) Weisstein , Eric W. , " <head>Circle</head> " , MathWorld . Interactive Java applets for the properties of and elementary constructions involving circles .</context>
+    </instance>
+    <instance id="Circle-circle-11-15-1" docsrc="Circle">
+      <context> Disk : the region of the plane bounded by a circle <head>Lens</head> : the intersection of two disks Passant : a coplanar straight line that does not touch the circle .</context>
+    </instance>
+    <instance id="Circle-circle-11-328-1" docsrc="Circle">
+      <context>     { \displaystyle y=b+r{\frac { 2t}{1+t^{2}}}\ , }   In homogeneous <head>coordinates</head> each conic section with the equation of a circle has the form</context>
+    </instance>
+    <instance id="Circle-circle-11-437-1" docsrc="Circle">
+      <context>         { \displaystyle ( r,\theta ) }    is the <head>polar</head> coordinate of a generic point on the circle , and</context>
+    </instance>
+    <instance id="Circle-circle-12-1104-3" docsrc="Circle">
+      <context> Since the interior and exterior angles sum to 180 degrees , the <head>angle</head> CPD is exactly 90 degrees , i.e. , a right angle . The set of points P such that angle CPD is a right angle forms a circle , of which CD is a diameter . Second , see for a proof that every point on the indicated circle satisfies the given ratio .</context>
+    </instance>
+    <instance id="Circle-circle-12-19-1" docsrc="Circle">
+      <context> Sector : a region bounded by two radii and an arc lying <head>between</head> the radii . Segment : a region , not containing the centre , bounded by a chord and an arc lying between the chord 's endpoints . Secant : an extended chord , a coplanar straight line cutting the circle at two points .</context>
+    </instance>
+    <instance id="Circle-circle-12-967-1" docsrc="Circle">
+      <context> Chord === Chords are equidistant from the centre of a circle if <head>and</head> only if they are equal in length . The perpendicular bisector of a chord passes through the centre of a circle ; equivalent statements stemming from the uniqueness of the perpendicular bisector are :</context>
+    </instance>
+    <instance id="Circle-circle-13-1045-5" docsrc="Circle">
+      <context> Using the fact that one part of one chord times the other part <head>is</head> equal to the same product taken along a chord intersecting the first chord , we find that ( 2r − x)x = ( y / 2)2 . Solving for r , we find the required result . The simplest and most basic is the construction given the centre of the circle and a point on the circle .</context>
+    </instance>
+    <instance id="Circle-circle-14-32-3" docsrc="Circle">
+      <context> The Rhind papyrus gives a method to find the area of a circular field <head>.</head> The result corresponds to 256/81 ( 3.16049 ... ) as an approximate value of π. 300 BCE – Book 3 of Euclid 's Elements deals with the properties of circles .</context>
+    </instance>
+    <instance id="Circle-circle-14-34-1" docsrc="Circle">
+      <context> The result corresponds to 256/81 ( 3.16049 ... ) as an approximate value of <head>π.</head> 300 BCE – Book 3 of Euclid 's Elements deals with the properties of circles . In Plato 's Seventh Letter there is a detailed definition and explanation of the circle .</context>
+    </instance>
+    <instance id="Circle-circle-14-607-1" docsrc="Circle">
+      <context>         { \displaystyle pz{\overline { z}}+gz+{\overline { gz}}=q }    for real p <head>,</head> q and complex g is sometimes called a generalised circle .</context>
+    </instance>
+    <instance id="Circle-circle-14-986-1" docsrc="Circle">
+      <context> Tangent === A line drawn perpendicular to a radius through the end point of <head>the</head> radius lying on the circle is a tangent to the circle . A line drawn perpendicular to a tangent through the point of contact with a circle passes through the centre of the circle .</context>
+    </instance>
+    <instance id="Circle-circle-14-987-1" docsrc="Circle">
+      <context> A line drawn perpendicular to a radius through the end point of the radius <head>lying</head> on the circle is a tangent to the circle . A line drawn perpendicular to a tangent through the point of contact with a circle passes through the centre of the circle . Two tangents can always be drawn to a circle from any point outside the circle , and these tangents are equal in length .</context>
+    </instance>
+    <instance id="Circle-circle-15-1104-2" docsrc="Circle">
+      <context> Analogously , a line segment PD through some point D on AB extended bisects the <head>corresponding</head> exterior angle BPQ where Q is on AP extended . Since the interior and exterior angles sum to 180 degrees , the angle CPD is exactly 90 degrees , i.e. , a right angle . The set of points P such that angle CPD is a right angle forms a circle , of which CD is a diameter .</context>
+    </instance>
+    <instance id="Circle-circle-15-958-1" docsrc="Circle">
+      <context> The area enclosed and the square of its radius are proportional . The constants of <head>proportionality</head> are 2π and π , respectively . The circle which is centred at the origin with radius 1 is called the unit circle .</context>
+    </instance>
+    <instance id="Circle-circle-15-960-1" docsrc="Circle">
+      <context> The constants of proportionality are 2π and π , respectively . The circle which is <head>centred</head> at the origin with radius 1 is called the unit circle . Thought of as a great circle of the unit sphere , it becomes the Riemannian circle .</context>
+    </instance>
+    <instance id="Circle-circle-16-11-1" docsrc="Circle">
+      <context> Centre : the point equidistant from the points on the circle . Chord : a line <head>segment</head> whose endpoints lie on the circle . Circumference : the length of one circuit along the circle , or the distance around the circle .</context>
+    </instance>
+    <instance id="Circle-circle-16-16-1" docsrc="Circle">
+      <context> Lens : the intersection of two disks Passant : a coplanar straight line that does not <head>touch</head> the circle . Radius : a line segment joining the centre of the circle to any point on the circle itself ; or the length of such a segment , which is half a diameter .</context>
+    </instance>
+    <instance id="Circle-circle-16-961-1" docsrc="Circle">
+      <context> The circle which is centred at the origin with radius 1 is called the unit circle <head>.</head> Thought of as a great circle of the unit sphere , it becomes the Riemannian circle . Through any three points , not all on the same line , there lies a unique circle .</context>
+    </instance>
+    <instance id="Circle-circle-17-1205-1" docsrc="Circle">
+      <context> In every triangle a unique circle , called the incircle , can be inscribed such that it <head>is</head> tangent to each of the three sides of the triangle . About every triangle a unique circle , called the circumcircle , can be circumscribed such that it goes through each of the triangle 's three vertices . A tangential polygon , such as a tangential quadrilateral , is any convex polygon within which a circle can be inscribed that is tangent to each side of the polygon .</context>
+    </instance>
+    <instance id="Circle-circle-17-534-1" docsrc="Circle">
+      <context>     { \displaystyle r=r_{0}\cos(\theta -\phi )\pm { \sqrt { a^{2}-r_{0}^{2}\sin ^{2}(\theta -\phi ) } } , } <head> </head> Note that without the ± sign , the equation would in some cases describe only half a circle .</context>
+    </instance>
+    <instance id="Circle-circle-17-65-1" docsrc="Circle">
+      <context>   === Area enclosed === As proved by Archimedes , in his Measurement of a Circle , <head>the</head> area enclosed by a circle is equal to that of a triangle whose base has the length of the circle 's circumference and whose height equals the circle 's radius , which comes to π multiplied by the radius squared :</context>
+    </instance>
+    <instance id="Circle-circle-17-705-1" docsrc="Circle">
+      <context>       . Not all generalised circles are actually circles : a generalised circle is either a <head>(</head> true ) circle or a line .</context>
+    </instance>
+    <instance id="Circle-circle-17-981-1" docsrc="Circle">
+      <context> If the intersection of any two perpendicular chords divides one chord into lengths a and b and <head>divides</head> the other chord into lengths c and d , then a2 + b2 + c2 + d2 equals the square of the diameter . The sum of the squared lengths of any two chords intersecting at right angles at a given point is the same as that of any other two perpendicular chords intersecting at the same point , and is given by 8r 2 – 4p 2 ( where r is the circle 's radius and p is the distance from the centre point to the point of intersection ) . The distance from a point on the circle to a given chord times the diameter of the circle equals the product of the distances from the point to the ends of the chord .</context>
+    </instance>
+    <instance id="Circle-circle-17-985-2" docsrc="Circle">
+      <context> === Tangent === A line drawn perpendicular to a radius through the end point of the radius <head>lying</head> on the circle is a tangent to the circle .</context>
+    </instance>
+    <instance id="Circle-circle-17-989-1" docsrc="Circle">
+      <context> Two tangents can always be drawn to a circle from any point outside the circle , and <head>these</head> tangents are equal in length . If a tangent at A and a tangent at B intersect at the exterior point P , then denoting the centre as O , the angles ∠BOA and ∠BPA are supplementary . If AD is tangent to the circle at A and if AQ is a chord of the circle , then ∠DAQ = 1/2arc(AQ ) .</context>
+    </instance>
+    <instance id="Circle-circle-19-1045-5" docsrc="Circle">
+      <context> Using the fact that one part of one chord times the other part is equal to the same product <head>taken</head> along a chord intersecting the first chord , we find that ( 2r − x)x = ( y / 2)2 . Solving for r , we find the required result . The simplest and most basic is the construction given the centre of the circle and a point on the circle .</context>
+    </instance>
+    <instance id="Circle-circle-19-963-1" docsrc="Circle">
+      <context> Thought of as a great circle of the unit sphere , it becomes the Riemannian circle . Through any <head>three</head> points , not all on the same line , there lies a unique circle . In Cartesian coordinates , it is possible to give explicit formulae for the coordinates of the centre of the circle and the radius in terms of the coordinates of the three given points .</context>
+    </instance>
+    <instance id="Circle-circle-2-1054-1" docsrc="Circle">
+      <context> === Construct <head>a</head> circle with a given diameter === Construct the midpoint M of the diameter . Construct the circle with centre M passing through one of the endpoints of the diameter ( it will also pass through the other endpoint ) .</context>
+    </instance>
+    <instance id="Circle-circle-2-1062-1" docsrc="Circle">
+      <context> Construct the <head>perpendicular</head> bisector of the segment PR. Label the point of intersection of these two perpendicular bisectors M. ( They meet because the points are not collinear ) . Construct the circle with centre M passing through one of the points P , Q or R ( it will also pass through the other two points ) .</context>
+    </instance>
+    <instance id="Circle-circle-2-1135-1" docsrc="Circle">
+      <context>     { <head>\displaystyle</head> |[A,B;C,P]|=1.\ }   === Generalised circles ===</context>
+    </instance>
+    <instance id="Circle-circle-2-1258-2" docsrc="Circle">
+      <context> A curve <head>of</head> constant width is a figure whose width , defined as the perpendicular distance between two distinct parallel lines each intersecting its boundary in a single point , is the same regardless of the direction of those two parallel lines . The circle is the simplest example of this type of figure . Squaring the circle is the problem , proposed by ancient geometers , of constructing a square with the same area as a given circle by using only a finite number of steps with compass and straightedge .</context>
+    </instance>
+    <instance id="Circle-circle-2-22-1" docsrc="Circle">
+      <context> Secant : <head>an</head> extended chord , a coplanar straight line cutting the circle at two points . Tangent : a coplanar straight line that touches the circle at a single point . The word circle derives from the Greek κίρκος/κύκλος ( kirkos/kuklos ) , itself a metathesis of the Homeric Greek κρίκος ( krikos ) , meaning " hoop " or " ring " .</context>
+    </instance>
+    <instance id="Circle-circle-20-1050-1" docsrc="Circle">
+      <context> Solving for r , we find the required result . The simplest and most basic is the construction given the <head>centre</head> of the circle and a point on the circle . Place the fixed leg of the compass on the centre point , the movable leg on the point on the circle and rotate the compass .</context>
+    </instance>
+    <instance id="Circle-circle-20-1206-1" docsrc="Circle">
+      <context> About every triangle a unique circle , called the circumcircle , can be circumscribed such that it goes through each <head>of</head> the triangle 's three vertices . A tangential polygon , such as a tangential quadrilateral , is any convex polygon within which a circle can be inscribed that is tangent to each side of the polygon . A hypocycloid is a curve that is inscribed in a given circle by tracing a fixed point on a smaller circle that rolls within and tangent to the given circle .</context>
+    </instance>
+    <instance id="Circle-circle-20-995-1" docsrc="Circle">
+      <context> === Theorems === The chord theorem states that if two chords , CD and EB , intersect at A , <head>then</head> CA × DA = EA × BA. The angle between a tangent and chord is equal to one half the angle subtended at the center of the circle , on the opposite side of the chord ( Tangent Chord Angle ) .</context>
+    </instance>
+    <instance id="Circle-circle-21-986-1" docsrc="Circle">
+      <context> Tangent === A line drawn perpendicular to a radius through the end point of the radius lying on the circle is <head>a</head> tangent to the circle . A line drawn perpendicular to a tangent through the point of contact with a circle passes through the centre of the circle .</context>
+    </instance>
+    <instance id="Circle-circle-23-1258-2" docsrc="Circle">
+      <context> A curve of constant width is a figure whose width , defined as the perpendicular distance between two distinct parallel lines each intersecting <head>its</head> boundary in a single point , is the same regardless of the direction of those two parallel lines . The circle is the simplest example of this type of figure . Squaring the circle is the problem , proposed by ancient geometers , of constructing a square with the same area as a given circle by using only a finite number of steps with compass and straightedge .</context>
+    </instance>
+    <instance id="Circle-circle-23-985-2" docsrc="Circle">
+      <context> === Tangent === A line drawn perpendicular to a radius through the end point of the radius lying on the circle is a <head>tangent</head> to the circle .</context>
+    </instance>
+    <instance id="Circle-circle-25-1213-2" docsrc="Circle">
+      <context> A Cartesian oval is a set of points such that a weighted sum of the distances from any of its points to two fixed points <head>(</head> foci ) is a constant . An ellipse is the case in which the weights are equal . A circle is an ellipse with an eccentricity of zero , meaning that the two foci coincide with each other as the centre of the circle .</context>
+    </instance>
+    <instance id="Circle-circle-29-1010-1" docsrc="Circle">
+      <context> Sagitta === The sagitta ( also known as the versine ) is a line segment drawn perpendicular to a chord , between the midpoint of that chord and the <head>arc</head> of the circle . Given the length y of a chord , and the length x of the sagitta , the Pythagorean theorem can be used to calculate the radius of the unique circle which will fit around the two lines :</context>
+    </instance>
+    <instance id="Circle-circle-29-1206-1" docsrc="Circle">
+      <context> About every triangle a unique circle , called the circumcircle , can be circumscribed such that it goes through each of the triangle 's three vertices . A tangential <head>polygon</head> , such as a tangential quadrilateral , is any convex polygon within which a circle can be inscribed that is tangent to each side of the polygon . A hypocycloid is a curve that is inscribed in a given circle by tracing a fixed point on a smaller circle that rolls within and tangent to the given circle .</context>
+    </instance>
+    <instance id="Circle-circle-29-29-1" docsrc="Circle">
+      <context> The origins of the words circus and circuit are closely related . The circle has been known since before the beginning of recorded history . Natural circles would have <head>been</head> observed , such as the Moon , Sun , and a short plant stalk blowing in the wind on sand , which forms a circle shape in the sand .</context>
+    </instance>
+    <instance id="Circle-circle-3-1050-2" docsrc="Circle">
+      <context> The simplest and <head>most</head> basic is the construction given the centre of the circle and a point on the circle . Place the fixed leg of the compass on the centre point , the movable leg on the point on the circle and rotate the compass . === Construct a circle with a given diameter ===</context>
+    </instance>
+    <instance id="Circle-circle-3-1055-1" docsrc="Circle">
+      <context> Construct the midpoint <head>M</head> of the diameter . Construct the circle with centre M passing through one of the endpoints of the diameter ( it will also pass through the other endpoint ) . === Construct a circle through 3 noncollinear points ===</context>
+    </instance>
+    <instance id="Circle-circle-3-1198-1" docsrc="Circle">
+      <context>     { \displaystyle <head>{</head> \frac { |AP|}{|BP|}}={\frac { |AC|}{|BC| } } }    is not a circle , but rather a line .</context>
+    </instance>
+    <instance id="Circle-circle-3-136-1" docsrc="Circle">
+      <context> that is , <head>approximately</head> 79 percent of the circumscribing square ( whose side is of length d ) . The circle is the plane curve enclosing the maximum area for a given arc length . This relates the circle to a problem in the calculus of variations , namely the isoperimetric inequality .</context>
+    </instance>
+    <instance id="Circle-circle-3-705-1" docsrc="Circle">
+      <context>       . <head>Not</head> all generalised circles are actually circles : a generalised circle is either a ( true ) circle or a line .</context>
+    </instance>
+    <instance id="Circle-circle-30-1008-2" docsrc="Circle">
+      <context> === Sagitta === The sagitta ( also known as the versine ) is a line segment drawn perpendicular to a chord , between the midpoint of that chord and the <head>arc</head> of the circle .</context>
+    </instance>
+    <instance id="Circle-circle-32-1069-1" docsrc="Circle">
+      <context> That circle is sometimes said to be drawn about two points . The proof is in two parts . First , one must prove that , given two foci A and B <head>and</head> a ratio of distances , any point P satisfying the ratio of distances must fall on a particular circle .</context>
+    </instance>
+    <instance id="Circle-circle-32-1199-1" docsrc="Circle">
+      <context>    is not a circle , but rather a line . Thus , if A , B , and C are given distinct points in the plane , then the locus of <head>points</head> P satisfying the above equation is called a " generalised circle . " It may either be a true circle or a line .</context>
+    </instance>
+    <instance id="Circle-circle-32-65-1" docsrc="Circle">
+      <context>   === Area enclosed === As proved by Archimedes , in his Measurement of a Circle , the area enclosed by a circle is equal to that of a triangle whose base <head>has</head> the length of the circle 's circumference and whose height equals the circle 's radius , which comes to π multiplied by the radius squared :</context>
+    </instance>
+    <instance id="Circle-circle-33-1045-1" docsrc="Circle">
+      <context>   Another proof of this result which relies only on two chord properties given above is as follows . Given a chord of length y and with sagitta of length x , since <head>the</head> sagitta intersects the midpoint of the chord , we know it is part of a diameter of the circle .</context>
+    </instance>
+    <instance id="Circle-circle-34-998-1" docsrc="Circle">
+      <context> The chord theorem states that if two chords , CD and EB , intersect at A , then CA × DA = EA × BA. The angle between a tangent and chord is equal <head>to</head> one half the angle subtended at the center of the circle , on the opposite side of the chord ( Tangent Chord Angle ) . If the angle subtended by the chord at the centre is 90 degrees then l = r √2 , where l is the length of the chord and r is the radius of the circle .</context>
+    </instance>
+    <instance id="Circle-circle-38-1-1" docsrc="Circle">
+      <context> The distance between any of the points and the centre is called the radius . A circle is a simple closed curve which divides the plane into two regions : an interior and an exterior . In everyday <head>use</head> , the term " circle " may be used interchangeably to refer to either the boundary of the figure , or to the whole figure including its interior ; in strict technical usage , the circle is only the boundary and the whole figure is called a disk .</context>
+    </instance>
+    <instance id="Circle-circle-38-12-1" docsrc="Circle">
+      <context> Chord : a line segment whose endpoints lie on the circle . Circumference : the length of one circuit along the circle , or the distance around the circle . Diameter : a line segment whose endpoints lie <head>on</head> the circle and which passes through the centre ; or the length of such a line segment , which is the largest distance between any two points on the circle .</context>
+    </instance>
+    <instance id="Circle-circle-4-35-1" docsrc="Circle">
+      <context> 300 BCE – Book <head>3</head> of Euclid 's Elements deals with the properties of circles . In Plato 's Seventh Letter there is a detailed definition and explanation of the circle . Plato explains the perfect circle , and how it is different from any drawing , words , definition or explanation .</context>
+    </instance>
+    <instance id="Circle-circle-4-42-1" docsrc="Circle">
+      <context> Plato explains the perfect <head>circle</head> , and how it is different from any drawing , words , definition or explanation . === Length of circumference === The ratio of a circle 's circumference to its diameter is π ( pi ) , an irrational constant approximately equal to 3.141592654 .</context>
+    </instance>
+    <instance id="Circle-circle-40-29-4" docsrc="Circle">
+      <context> The circle is the basis for the wheel , which , with related inventions such as gears , makes much of modern machinery possible . In mathematics , the study of the circle has helped inspire the development of geometry <head>,</head> astronomy , and calculus . Early science , particularly geometry and astrology and astronomy , was connected to the divine for most medieval scholars , and many believed that there was something intrinsically " divine " or " perfect " that could be found in circles .</context>
+    </instance>
+    <instance id="Circle-circle-40-65-1" docsrc="Circle">
+      <context>   === Area enclosed === As proved by Archimedes , in his Measurement of a Circle , the area enclosed by a circle is equal to that of a triangle whose base has the length of the circle 's circumference <head>and</head> whose height equals the circle 's radius , which comes to π multiplied by the radius squared :</context>
+    </instance>
+    <instance id="Circle-circle-41-1199-1" docsrc="Circle">
+      <context>    is not a circle , but rather a line . Thus , if A , B , and C are given distinct points in the plane , then the locus of points P satisfying the above equation is called a <head>"</head> generalised circle . " It may either be a true circle or a line .</context>
+    </instance>
+    <instance id="Circle-circle-49-980-1" docsrc="Circle">
+      <context> If the intersection of any two chords divides one chord into lengths a and b and divides the other chord into lengths c and d , then ab = cd . If the intersection of any two perpendicular chords divides one chord into lengths a and b and divides <head>the</head> other chord into lengths c and d , then a2 + b2 + c2 + d2 equals the square of the diameter . The sum of the squared lengths of any two chords intersecting at right angles at a given point is the same as that of any other two perpendicular chords intersecting at the same point , and is given by 8r 2 – 4p 2 ( where r is the circle 's radius and p is the distance from the centre point to the point of intersection ) .</context>
+    </instance>
+    <instance id="Circle-circle-5-1200-2" docsrc="Circle">
+      <context> Thus , if A , <head>B</head> , and C are given distinct points in the plane , then the locus of points P satisfying the above equation is called a " generalised circle . " It may either be a true circle or a line . In this sense a line is a generalised circle of infinite radius . In every triangle a unique circle , called the incircle , can be inscribed such that it is tangent to each of the three sides of the triangle .</context>
+    </instance>
+    <instance id="Circle-circle-5-1204-1" docsrc="Circle">
+      <context> In this sense a line <head>is</head> a generalised circle of infinite radius . In every triangle a unique circle , called the incircle , can be inscribed such that it is tangent to each of the three sides of the triangle . About every triangle a unique circle , called the circumcircle , can be circumscribed such that it goes through each of the triangle 's three vertices .</context>
+    </instance>
+    <instance id="Circle-circle-5-1281-1" docsrc="Circle">
+      <context> Weisstein , Eric W. , <head>"</head> Circle " , MathWorld . Interactive Java applets for the properties of and elementary constructions involving circles . Interactive Standard Form Equation of Circle Click and drag points to see standard form equation in action</context>
+    </instance>
+    <instance id="Circle-circle-5-1282-1" docsrc="Circle">
+      <context> Interactive Java applets for the <head>properties</head> of and elementary constructions involving circles . Interactive Standard Form Equation of Circle Click and drag points to see standard form equation in action</context>
+    </instance>
+    <instance id="Circle-circle-5-255-1" docsrc="Circle">
+      <context>     { \displaystyle y=b+r\,\sin t\ <head>,</head> }   An alternative parametrisation of the circle is :</context>
+    </instance>
+    <instance id="Circle-circle-5-875-1" docsrc="Circle">
+      <context>   This can also be <head>found</head> using implicit differentiation . When the centre of the circle is at the origin then the equation of the tangent line becomes</context>
+    </instance>
+    <instance id="Circle-circle-5-960-1" docsrc="Circle">
+      <context> The constants of proportionality are <head>2π</head> and π , respectively . The circle which is centred at the origin with radius 1 is called the unit circle . Thought of as a great circle of the unit sphere , it becomes the Riemannian circle .</context>
+    </instance>
+    <instance id="Circle-circle-6-1063-1" docsrc="Circle">
+      <context> Label the point of intersection of <head>these</head> two perpendicular bisectors M. ( They meet because the points are not collinear ) . Construct the circle with centre M passing through one of the points P , Q or R ( it will also pass through the other two points ) . Apollonius of Perga showed that a circle may also be defined as the set of points in a plane having a constant ratio ( other than 1 ) of distances to two fixed foci , A and B. ( The set of points where the distances are equal is the perpendicular bisector of A and B , a line . )</context>
+    </instance>
+    <instance id="Circle-circle-6-1279-1" docsrc="Circle">
+      <context> " Circle " in The MacTutor <head>History</head> of Mathematics archive Circle ( PlanetMath.org website ) Weisstein , Eric W. , " Circle " , MathWorld .</context>
+    </instance>
+    <instance id="Circle-circle-6-538-1" docsrc="Circle">
+      <context> Note that without the ± sign <head>,</head> the equation would in some cases describe only half a circle . ==== Complex plane ==== In the complex plane , a circle with a centre at c and radius ( r ) has the equation</context>
+    </instance>
+    <instance id="Circle-circle-6-705-1" docsrc="Circle">
+      <context>       . Not all generalised <head>circles</head> are actually circles : a generalised circle is either a ( true ) circle or a line .</context>
+    </instance>
+    <instance id="Circle-circle-6-989-1" docsrc="Circle">
+      <context> Two tangents can always be drawn <head>to</head> a circle from any point outside the circle , and these tangents are equal in length . If a tangent at A and a tangent at B intersect at the exterior point P , then denoting the centre as O , the angles ∠BOA and ∠BPA are supplementary . If AD is tangent to the circle at A and if AQ is a chord of the circle , then ∠DAQ = 1/2arc(AQ ) .</context>
+    </instance>
+    <instance id="Circle-circle-7-1-1" docsrc="Circle">
+      <context> The distance between any of the points <head>and</head> the centre is called the radius . A circle is a simple closed curve which divides the plane into two regions : an interior and an exterior . In everyday use , the term " circle " may be used interchangeably to refer to either the boundary of the figure , or to the whole figure including its interior ; in strict technical usage , the circle is only the boundary and the whole figure is called a disk .</context>
+    </instance>
+    <instance id="Circle-circle-7-29-3" docsrc="Circle">
+      <context> Natural circles would have been observed , <head>such</head> as the Moon , Sun , and a short plant stalk blowing in the wind on sand , which forms a circle shape in the sand . The circle is the basis for the wheel , which , with related inventions such as gears , makes much of modern machinery possible . In mathematics , the study of the circle has helped inspire the development of geometry , astronomy , and calculus .</context>
+    </instance>
+    <instance id="Circle-circle-7-30-1" docsrc="Circle">
+      <context> In mathematics , the study of the <head>circle</head> has helped inspire the development of geometry , astronomy , and calculus . Early science , particularly geometry and astrology and astronomy , was connected to the divine for most medieval scholars , and many believed that there was something intrinsically " divine " or " perfect " that could be found in circles . Some highlights in the history of the circle are :</context>
+    </instance>
+    <instance id="Circle-circle-7-376-1" docsrc="Circle">
+      <context> These points are called the circular points <head>at</head> infinity . ==== Polar coordinates ==== In polar coordinates the equation of a circle is :</context>
+    </instance>
+    <instance id="Circle-circle-7-4-2" docsrc="Circle">
+      <context> A circle is a plane figure bounded <head>by</head> one line , and such that all right lines drawn from a certain point within it to the bounding line , are equal . The bounding line is called its circumference and the point , its centre . Arc : any connected part of the circle .</context>
+    </instance>
+    <instance id="Circle-circle-7-425-1" docsrc="Circle">
+      <context>     { \displaystyle r^{2}-2rr_{0}\cos(\theta -\phi )+r_{0}^{2}=a^{2}\ , <head>}</head>   where a is the radius of the circle ,</context>
+    </instance>
+    <instance id="Circle-circle-7-608-1" docsrc="Circle">
+      <context>     { \displaystyle pz{\overline { z}}+gz+{\overline { <head>gz}}=q</head> }    for real p , q and complex g is sometimes called a generalised circle . This becomes the above equation for a circle with</context>
+    </instance>
+    <instance id="Circle-circle-7-954-2" docsrc="Circle">
+      <context> The circle is a highly symmetric shape <head>:</head> every line through the centre forms a line of reflection symmetry and it has rotational symmetry around the centre for every angle . Its symmetry group is the orthogonal group O(2,R ) . The group of rotations alone is the circle group T.</context>
+    </instance>
+    <instance id="Circle-circle-7-981-1" docsrc="Circle">
+      <context> If the intersection of any two perpendicular <head>chords</head> divides one chord into lengths a and b and divides the other chord into lengths c and d , then a2 + b2 + c2 + d2 equals the square of the diameter . The sum of the squared lengths of any two chords intersecting at right angles at a given point is the same as that of any other two perpendicular chords intersecting at the same point , and is given by 8r 2 – 4p 2 ( where r is the circle 's radius and p is the distance from the centre point to the point of intersection ) . The distance from a point on the circle to a given chord times the diameter of the circle equals the product of the distances from the point to the ends of the chord .</context>
+    </instance>
+    <instance id="Circle-circle-8-1200-1" docsrc="Circle">
+      <context> is not a circle , but rather a <head>line</head> . Thus , if A , B , and C are given distinct points in the plane , then the locus of points P satisfying the above equation is called a " generalised circle . " It may either be a true circle or a line . In this sense a line is a generalised circle of infinite radius .</context>
+    </instance>
+    <instance id="Circle-circle-8-1257-1" docsrc="Circle">
+      <context> A circle is the special case of a <head>supercircle</head> in which n = 2 . A Cassini oval is a set of points such that the product of the distances from any of its points to two fixed points is a constant . When the two fixed points coincide , a circle results .</context>
+    </instance>
+    <instance id="Circle-circle-8-142-1" docsrc="Circle">
+      <context> === Equations === ==== Cartesian coordinates ==== In <head>an</head> x–y Cartesian coordinate system , the circle with centre coordinates ( a , b ) and radius r is the set of all points ( x , y ) such that</context>
+    </instance>
+    <instance id="Circle-circle-8-966-2" docsrc="Circle">
+      <context> === Chord === Chords are equidistant from the <head>centre</head> of a circle if and only if they are equal in length .</context>
+    </instance>
+    <instance id="Circle-circle-8-968-1" docsrc="Circle">
+      <context> Chords are equidistant from the centre of a <head>circle</head> if and only if they are equal in length . The perpendicular bisector of a chord passes through the centre of a circle ; equivalent statements stemming from the uniqueness of the perpendicular bisector are : A perpendicular line from the centre of a circle bisects the chord .</context>
+    </instance>
+    <instance id="Circle-circle-8-977-1" docsrc="Circle">
+      <context> For a cyclic quadrilateral , the exterior angle <head>is</head> equal to the interior opposite angle . An inscribed angle subtended by a diameter is a right angle ( see Thales ' theorem ) . The diameter is the longest chord of the circle .</context>
+    </instance>
+    <instance id="Circle-circle-8-987-1" docsrc="Circle">
+      <context> A line drawn perpendicular to a radius through <head>the</head> end point of the radius lying on the circle is a tangent to the circle . A line drawn perpendicular to a tangent through the point of contact with a circle passes through the centre of the circle . Two tangents can always be drawn to a circle from any point outside the circle , and these tangents are equal in length .</context>
+    </instance>
+    <instance id="Circle-circle-9-11-1" docsrc="Circle">
+      <context> Centre : the point equidistant from the points on <head>the</head> circle . Chord : a line segment whose endpoints lie on the circle . Circumference : the length of one circuit along the circle , or the distance around the circle .</context>
+    </instance>
+    <instance id="Circle-circle-9-20-1" docsrc="Circle">
+      <context> Segment : a region , not containing the centre <head>,</head> bounded by a chord and an arc lying between the chord 's endpoints . Secant : an extended chord , a coplanar straight line cutting the circle at two points . Tangent : a coplanar straight line that touches the circle at a single point .</context>
+    </instance>
+    <instance id="Circle-circle-9-708-1" docsrc="Circle">
+      <context> Not all generalised circles are actually circles : a <head>generalised</head> circle is either a ( true ) circle or a line . === Tangent lines === The tangent line through a point P on the circle is perpendicular to the diameter passing through P.</context>
+    </instance>
+    <instance id="Roundabout-circle-1-208-1" docsrc="Roundabout">
+      <context> It <head>is</head> known as the Hovenring . === Traffic circles === Traffic circles are typically larger , operate at higher speeds and often give priority to entering traffic .</context>
+    </instance>
+    <instance id="Roundabout-circle-1-218-1" docsrc="Roundabout">
+      <context> Roundabout <head>dog</head> Rotary Traffic circle</context>
+    </instance>
+    <instance id="Roundabout-circle-11-25-1" docsrc="Roundabout">
+      <context> === Terminology === The word roundabout dates from early 20th century <head>Britain</head> . In U.S. dictionaries the terms roundabout , traffic circle , road circle and rotary are synonyms .</context>
+    </instance>
+    <instance id="Roundabout-circle-12-27-1" docsrc="Roundabout">
+      <context> In U.S. dictionaries the terms roundabout , traffic circle , road circle <head>and</head> rotary are synonyms . The U.S. Department of Transportation adopted the term modern roundabout to distinguish those that require entering drivers to give way to others . This article follows that convention and refers to other types as traffic circles or rotaries .</context>
+    </instance>
+    <instance id="Roundabout-circle-14-182-1" docsrc="Roundabout">
+      <context> At the Brook Hill roundabout near Sheffield University , the tramway passes underneath the <head>roundabout</head> in a subway , while at Park Square in the city centre it travels above the roundabout on bridges and viaducts with a junction in the central island . In Salt Lake City , Utah a light rail line on the south side of the University of Utah crosses a roundabout where Guardsman Way meets South Campus Drive . Like virtually all rail crossings in the United States , both crossings in the circle are equipped with boom barriers .</context>
+    </instance>
+    <instance id="Roundabout-circle-15-210-3" docsrc="Roundabout">
+      <context> They may control entering traffic by stop signs or traffic lights . Many older traffic <head>circles</head> allow entry at higher speeds without deflection , or require a stop and a 90-degree turn to enter . Many traffic circles have been converted to modern roundabouts , including the former Kingston traffic circle in New York and several in New Jersey .</context>
+    </instance>
+    <instance id="Roundabout-circle-15-63-1" docsrc="Roundabout">
+      <context> ==== Pedestrian ==== === Pedestrian crossing === Crosswalks at each entry/exit may be located at <head>least</head> one full car length outside the circle .</context>
+    </instance>
+    <instance id="Roundabout-circle-18-46-2" docsrc="Roundabout">
+      <context> The central island may be surrounded by an apron that is high enough to discourage drivers from crossing <head>over</head> it , but low enough to allow unusually wide/long vehicles to navigate the intersection . The island may provide a visual barrier across the intersection to the drivers entering it . The barrier assists entering drivers into focusing only on the traffic approaching them in the path of the circle .</context>
+    </instance>
+    <instance id="Roundabout-circle-2-205-2" docsrc="Roundabout">
+      <context> An elevated <head>roundabout</head> is located in Eindhoven , serving pedestrian and bicycle traffic only , above the main conventional roadway intersection . It is known as the Hovenring . === Traffic circles ===</context>
+    </instance>
+    <instance id="Roundabout-circle-2-210-3" docsrc="Roundabout">
+      <context> They may <head>control</head> entering traffic by stop signs or traffic lights . Many older traffic circles allow entry at higher speeds without deflection , or require a stop and a 90-degree turn to enter . Many traffic circles have been converted to modern roundabouts , including the former Kingston traffic circle in New York and several in New Jersey .</context>
+    </instance>
+    <instance id="Roundabout-circle-20-97-3" docsrc="Roundabout">
+      <context> The next most common crash type involves motorists leaving the roundabout colliding with cyclists who are continuing farther around the <head>perimeter</head> . Designs that have marked perimeter cycle lanes were found to be even less safe , suggesting that in roundabouts , cyclists should occupy a vehicle lane rather than a special lane . The researchers advised that drivers be forbidden from overtaking cyclists ( as well as other vehicles ) while in the circle .</context>
+    </instance>
+    <instance id="Roundabout-circle-23-121-1" docsrc="Roundabout">
+      <context> === Gyratory system === After developing the offside priority rule , Frank Blackmore , of the UK 's Transport Research Laboratory , turned <head>his</head> attention to the possibility of a roundabout that could be built at sites lacking room for a conventional roundabout . In the UK – and also in other highway jurisdictions – the maximum size for a mini roundabout is 28m ICD ( inscribed circle diameter ) .</context>
+    </instance>
+    <instance id="Roundabout-circle-24-188-1" docsrc="Roundabout">
+      <context> Pedestrian access is via subway and street level crossings at the lights . === Railways === Two roundabouts in the Melbourne metropolitan area , <head>Highett</head> , Victoria and Brighton , have heavy rail crossing the roundabout and through the inner circle .</context>
+    </instance>
+    <instance id="Roundabout-circle-3-210-2" docsrc="Roundabout">
+      <context> Traffic circles are <head>typically</head> larger , operate at higher speeds and often give priority to entering traffic . They may control entering traffic by stop signs or traffic lights . Many older traffic circles allow entry at higher speeds without deflection , or require a stop and a 90-degree turn to enter .</context>
+    </instance>
+    <instance id="Roundabout-circle-3-27-2" docsrc="Roundabout">
+      <context> The U.S. Department <head>of</head> Transportation adopted the term modern roundabout to distinguish those that require entering drivers to give way to others . This article follows that convention and refers to other types as traffic circles or rotaries . Many old traffic circles remain in the northeastern US.</context>
+    </instance>
+    <instance id="Roundabout-circle-3-28-2" docsrc="Roundabout">
+      <context> New York state <head>terms</head> its modern roundabouts traffic circles . In Massachusetts older circular intersections are called rotaries and the state enforces that restriction . The term traffic circle is not used in the United Kingdom , where most circular junctions meet the technical criteria for modern roundabouts .</context>
+    </instance>
+    <instance id="Roundabout-circle-3-9-7" docsrc="Roundabout">
+      <context> It was featured <head>in</head> the film The World 's End . In the early 20th century , numerous traffic circles were constructed in the United States , particularly in the northeast . Examples include a circle in Atherton , California .</context>
+    </instance>
+    <instance id="Roundabout-circle-42-4-2" docsrc="Roundabout">
+      <context> Modern roundabouts are commonplace throughout the world . Half of the world 's roundabouts are in France ( more than 30,000 as of 2008 ) , although the United Kingdom has more as a proportion of the road than any other country <head>.</head> Circular junctions existed before roundabouts , including the Circus in the English city of Bath , Somerset , a world heritage site completed in 1768 ; the 1907 Place de l'Étoile around the Arc de Triomphe in Paris ; the 1904 Columbus Circle in Manhattan ; and several circles within Washington , D.C.</context>
+    </instance>
+    <instance id="Roundabout-circle-48-4-2" docsrc="Roundabout">
+      <context> Modern roundabouts are commonplace throughout the world . Half of the world 's roundabouts are in France ( more than 30,000 as of 2008 ) , although the United Kingdom has more as a proportion of the road than any other country . Circular junctions existed before roundabouts <head>,</head> including the Circus in the English city of Bath , Somerset , a world heritage site completed in 1768 ; the 1907 Place de l'Étoile around the Arc de Triomphe in Paris ; the 1904 Columbus Circle in Manhattan ; and several circles within Washington , D.C.</context>
+    </instance>
+    <instance id="Roundabout-circle-5-149-4" docsrc="Roundabout">
+      <context> Near Eindhoven ( the Leenderheide <head>junction</head> ) , the junction for the A2 uses a roundabout . An overpass was built for the A67 from Antwerp to Germany . Rotary interchanges operate with traffic circles rather than roundabouts .</context>
+    </instance>
+    <instance id="Roundabout-circle-53-19-2" docsrc="Roundabout">
+      <context> A " modern roundabout " is a type of looping junction in which road traffic travels in one direction around a central island and priority is given to the circulating flow . Signs usually direct traffic entering the circle to slow and to give way to traffic already on it . Because low <head>speeds</head> are required for traffic entering roundabouts , they are physically designed to slow traffic entering the junction to improve safety , so that the roads typically approach the junction radially ; whereas rotaries are frequently designed to try to increase speeds , and thus have roads that enter the traffic circle tangentially .</context>
+    </instance>
+    <instance id="Roundabout-circle-6-19-1" docsrc="Roundabout">
+      <context> A 2007 survey found public support <head>ranging</head> from 22 % to 44 % prior to construction , and several years after construction was 57 % to 87 % . A " modern roundabout " is a type of looping junction in which road traffic travels in one direction around a central island and priority is given to the circulating flow . Signs usually direct traffic entering the circle to slow and to give way to traffic already on it .</context>
+    </instance>
+    <instance id="Roundabout-circle-6-46-3" docsrc="Roundabout">
+      <context> The island may provide a visual <head>barrier</head> across the intersection to the drivers entering it . The barrier assists entering drivers into focusing only on the traffic approaching them in the path of the circle . Otherwise , vehicles anywhere in the circle cause entering drivers to stop outside the roundabout , waiting for the vehicles ( even on the opposite side ) to pass by them .</context>
+    </instance>
+    <instance id="Roundabout-circle-7-9-1" docsrc="Roundabout">
+      <context> Half of the world 's roundabouts are <head>in</head> France ( more than 30,000 as of 2008 ) , although the United Kingdom has more as a proportion of the road than any other country . Circular junctions existed before roundabouts , including the Circus in the English city of Bath , Somerset , a world heritage site completed in 1768 ; the 1907 Place de l'Étoile around the Arc de Triomphe in Paris ; the 1904 Columbus Circle in Manhattan ; and several circles within Washington , D.C. The operating and entry characteristics of these circles differ considerably from modern roundabouts .</context>
+    </instance>
+    <instance id="Roundabout-circle-8-25-1" docsrc="Roundabout">
+      <context> === Terminology === The word roundabout dates from <head>early</head> 20th century Britain . In U.S. dictionaries the terms roundabout , traffic circle , road circle and rotary are synonyms .</context>
+    </instance>
+    <instance id="Roundabout-circle-8-27-4" docsrc="Roundabout">
+      <context> Many old traffic circles remain in the northeastern <head>US.</head> Some modern roundabouts are elongated to encompass additional streets , but traffic always flows in a loop . New York state terms its modern roundabouts traffic circles .</context>
+    </instance>
+    <instance id="Roundabout-circle-8-9-6" docsrc="Roundabout">
+      <context> Its centre originally was intended partly as a <head>traffic</head> island for pedestrians . It was featured in the film The World 's End . In the early 20th century , numerous traffic circles were constructed in the United States , particularly in the northeast .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-1-29-1" docsrc="Traffic_circle">
+      <context> === <head>United</head> States === ==== Rotaries in parts of New England ==== Traffic circles are referred to as " rotaries " in Massachusetts as well as parts of Connecticut , New Hampshire &amp; Vermont .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-1-39-1" docsrc="Traffic_circle">
+      <context> Indianapolis <head>,</head> Indiana : Monument Circle , surrounding the Soldiers ' and Sailors ' Monument in the downtown area . New Orleans , Louisiana : Lee Circle . Columbus Circle , Frederick Douglass Circle , and Duke Ellington Circle in Manhattan , New York City</context>
+    </instance>
+    <instance id="Traffic_circle-circle-1-44-1" docsrc="Traffic_circle">
+      <context> MacArthur <head>Drive</head> Traffic Circle in Alexandria , Louisiana U.S. Bypass Highway 1 at U.S. Highway 4/New Hampshire Route 16 , and interstate 95 in Portsmouth , New Hampshire ( Referred to locally as the Portsmouth Traffic Circle ) Weatherford Circle , U.S. Highway 377 at Texas State Highway 183 in Benbrook , Texas ( Referred to locally as a Traffic Circle )</context>
+    </instance>
+    <instance id="Traffic_circle-circle-1-64-2" docsrc="Traffic_circle">
+      <context> === <head>Elsewhere</head> === Remedios Circle , Malate , Manila</context>
+    </instance>
+    <instance id="Traffic_circle-circle-10-39-1" docsrc="Traffic_circle">
+      <context> Indianapolis , Indiana : Monument Circle , surrounding the Soldiers <head>'</head> and Sailors ' Monument in the downtown area . New Orleans , Louisiana : Lee Circle . Columbus Circle , Frederick Douglass Circle , and Duke Ellington Circle in Manhattan , New York City</context>
+    </instance>
+    <instance id="Traffic_circle-circle-11-34-1" docsrc="Traffic_circle">
+      <context> Traffic circles are referred to as " rotaries " in Massachusetts <head>as</head> well as parts of Connecticut , New Hampshire &amp; Vermont . ==== Traffic circles in other parts of the US ==== Washington , D.C. : numerous traffic circles ; see List of circles in Washington , D.C.</context>
+    </instance>
+    <instance id="Traffic_circle-circle-14-35-1" docsrc="Traffic_circle">
+      <context> ==== Traffic circles in other parts of the US ==== Washington , D.C. : <head>numerous</head> traffic circles ; see List of circles in Washington , D.C. New Jersey : multiple current and former traffic circles ; see List of traffic circles in New Jersey .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-14-42-1" docsrc="Traffic_circle">
+      <context> Columbus Circle , Frederick Douglass Circle , and Duke Ellington Circle in Manhattan , <head>New</head> York City Maryland has numerous traffic circles , especially at state highway junctions . Notable ones include : State Circle and Church Circle in Annapolis , Washington Monument Circle on Charles Street in Baltimore , and Millenium Park Circle in Towson .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-19-36-1" docsrc="Traffic_circle">
+      <context> Washington , D.C. : numerous traffic circles ; see List of circles in Washington , D.C. New Jersey : <head>multiple</head> current and former traffic circles ; see List of traffic circles in New Jersey . Berkeley , California : traffic circles ( usually paired with stop signs ) throughout the city ; Marin Fountain Circle , one of few named circles , is the intersection of six streets ( 37.890202°N 122.272428°W﻿ / 37.890202 ; -122.272428﻿ ( Berkeley , CA ) ) .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-2-31-1" docsrc="Traffic_circle">
+      <context> ==== Rotaries <head>in</head> parts of New England ==== Traffic circles are referred to as " rotaries " in Massachusetts as well as parts of Connecticut , New Hampshire &amp; Vermont . ==== Traffic circles in other parts of the US ====</context>
+    </instance>
+    <instance id="Traffic_circle-circle-2-48-1" docsrc="Traffic_circle">
+      <context> Union Square <head>(</head> aka " the Oval " ) , Milford , New Hampshire Benjamin Franklin Parkway in Philadelphia Mecom Fountain Circle , in the Houston Museum District , intersection of Main Street , Montrose Boulevard , and Herman Park Drive , in Houston , Texas .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-2-49-1" docsrc="Traffic_circle">
+      <context> Benjamin Franklin <head>Parkway</head> in Philadelphia Mecom Fountain Circle , in the Houston Museum District , intersection of Main Street , Montrose Boulevard , and Herman Park Drive , in Houston , Texas . Los Alamitos Circle in Long Beach , California</context>
+    </instance>
+    <instance id="Traffic_circle-circle-2-65-1" docsrc="Traffic_circle">
+      <context> Elsewhere === <head>Remedios</head> Circle , Malate , Manila Philippines–Thailand Friendship Circle , Santa Ana , Manila</context>
+    </instance>
+    <instance id="Traffic_circle-circle-20-53-1" docsrc="Traffic_circle">
+      <context> U.S. Highway 1 and Maine Highway 236 in Kittery , Maine U.S. Highway 302 and U.S. Highway 202 in Windham <head>,</head> Maine U.S. Highway 202 , U.S. Highway 201 , and Maine state highway 17 in Augusta , Maine , called Cony Circle</context>
+    </instance>
+    <instance id="Traffic_circle-circle-20-54-1" docsrc="Traffic_circle">
+      <context> U.S. Highway 302 and U.S. Highway 202 in Windham , Maine U.S. Highway 202 , U.S. Highway 201 , and <head>Maine</head> state highway 17 in Augusta , Maine , called Cony Circle U.S. Highway 202 , Maine state highway 104 and Maine state highway 27 in Augusta , Maine , called Memorial Circle</context>
+    </instance>
+    <instance id="Traffic_circle-circle-22-44-1" docsrc="Traffic_circle">
+      <context> MacArthur Drive Traffic Circle in Alexandria , Louisiana U.S. Bypass Highway 1 at U.S. Highway 4/New Hampshire Route 16 , and interstate <head>95</head> in Portsmouth , New Hampshire ( Referred to locally as the Portsmouth Traffic Circle ) Weatherford Circle , U.S. Highway 377 at Texas State Highway 183 in Benbrook , Texas ( Referred to locally as a Traffic Circle )</context>
+    </instance>
+    <instance id="Traffic_circle-circle-24-42-1" docsrc="Traffic_circle">
+      <context> Columbus Circle , Frederick Douglass Circle , and Duke Ellington Circle in Manhattan , New York City Maryland has numerous traffic circles , especially <head>at</head> state highway junctions . Notable ones include : State Circle and Church Circle in Annapolis , Washington Monument Circle on Charles Street in Baltimore , and Millenium Park Circle in Towson .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-25-36-1" docsrc="Traffic_circle">
+      <context> Washington , D.C. : numerous traffic circles ; see List of circles in Washington , D.C. New Jersey : multiple current and former traffic circles <head>;</head> see List of traffic circles in New Jersey . Berkeley , California : traffic circles ( usually paired with stop signs ) throughout the city ; Marin Fountain Circle , one of few named circles , is the intersection of six streets ( 37.890202°N 122.272428°W﻿ / 37.890202 ; -122.272428﻿ ( Berkeley , CA ) ) .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-28-43-1" docsrc="Traffic_circle">
+      <context> Notable ones include : State Circle and Church Circle in Annapolis , Washington Monument Circle on Charles Street in Baltimore , and Millenium Park Circle in Towson . <head>MacArthur</head> Drive Traffic Circle in Alexandria , Louisiana U.S. Bypass Highway 1 at U.S. Highway 4/New Hampshire Route 16 , and interstate 95 in Portsmouth , New Hampshire ( Referred to locally as the Portsmouth Traffic Circle )</context>
+    </instance>
+    <instance id="Traffic_circle-circle-3-42-2" docsrc="Traffic_circle">
+      <context> Maryland has numerous <head>traffic</head> circles , especially at state highway junctions . Notable ones include : State Circle and Church Circle in Annapolis , Washington Monument Circle on Charles Street in Baltimore , and Millenium Park Circle in Towson . MacArthur Drive Traffic Circle in Alexandria , Louisiana</context>
+    </instance>
+    <instance id="Traffic_circle-circle-4-19-2" docsrc="Traffic_circle">
+      <context> Giving priority to entering <head>traffic</head> means that more vehicles can enter the circulatory roadway than it can handle . The result is congestion within the circle which could not clear without police intervention . The experience with traffic circles and rotaries in the US was almost entirely negative , characterized by high accident rates and congestion problems .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-4-20-2" docsrc="Traffic_circle">
+      <context> The experience with traffic <head>circles</head> and rotaries in the US was almost entirely negative , characterized by high accident rates and congestion problems . By the mid 1950s , construction of traffic circles and rotaries had ceased entirely . The experience with traffic circles in other countries was not much better until the development of the modern roundabout in the United Kingdom during the 1960s .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-4-40-1" docsrc="Traffic_circle">
+      <context> New Orleans , Louisiana <head>:</head> Lee Circle . Columbus Circle , Frederick Douglass Circle , and Duke Ellington Circle in Manhattan , New York City Maryland has numerous traffic circles , especially at state highway junctions .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-5-36-1" docsrc="Traffic_circle">
+      <context> Washington , D.C. : numerous <head>traffic</head> circles ; see List of circles in Washington , D.C. New Jersey : multiple current and former traffic circles ; see List of traffic circles in New Jersey . Berkeley , California : traffic circles ( usually paired with stop signs ) throughout the city ; Marin Fountain Circle , one of few named circles , is the intersection of six streets ( 37.890202°N 122.272428°W﻿ / 37.890202 ; -122.272428﻿ ( Berkeley , CA ) ) .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-5-37-1" docsrc="Traffic_circle">
+      <context> New Jersey : multiple current <head>and</head> former traffic circles ; see List of traffic circles in New Jersey . Berkeley , California : traffic circles ( usually paired with stop signs ) throughout the city ; Marin Fountain Circle , one of few named circles , is the intersection of six streets ( 37.890202°N 122.272428°W﻿ / 37.890202 ; -122.272428﻿ ( Berkeley , CA ) ) . Indianapolis , Indiana : Monument Circle , surrounding the Soldiers ' and Sailors ' Monument in the downtown area .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-5-39-1" docsrc="Traffic_circle">
+      <context> Indianapolis , Indiana : Monument <head>Circle</head> , surrounding the Soldiers ' and Sailors ' Monument in the downtown area . New Orleans , Louisiana : Lee Circle . Columbus Circle , Frederick Douglass Circle , and Duke Ellington Circle in Manhattan , New York City</context>
+    </instance>
+    <instance id="Traffic_circle-circle-5-42-1" docsrc="Traffic_circle">
+      <context> Columbus Circle , Frederick Douglass <head>Circle</head> , and Duke Ellington Circle in Manhattan , New York City Maryland has numerous traffic circles , especially at state highway junctions . Notable ones include : State Circle and Church Circle in Annapolis , Washington Monument Circle on Charles Street in Baltimore , and Millenium Park Circle in Towson .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-6-19-1" docsrc="Traffic_circle">
+      <context> Island function—Parking , parks , fountains <head>,</head> etc . Giving priority to entering traffic means that more vehicles can enter the circulatory roadway than it can handle . The result is congestion within the circle which could not clear without police intervention .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-6-34-1" docsrc="Traffic_circle">
+      <context> Traffic circles are referred to as <head>"</head> rotaries " in Massachusetts as well as parts of Connecticut , New Hampshire &amp; Vermont . ==== Traffic circles in other parts of the US ==== Washington , D.C. : numerous traffic circles ; see List of circles in Washington , D.C.</context>
+    </instance>
+    <instance id="Traffic_circle-circle-6-38-1" docsrc="Traffic_circle">
+      <context> Berkeley , California : traffic circles <head>(</head> usually paired with stop signs ) throughout the city ; Marin Fountain Circle , one of few named circles , is the intersection of six streets ( 37.890202°N 122.272428°W﻿ / 37.890202 ; -122.272428﻿ ( Berkeley , CA ) ) . Indianapolis , Indiana : Monument Circle , surrounding the Soldiers ' and Sailors ' Monument in the downtown area . New Orleans , Louisiana : Lee Circle .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-6-58-2" docsrc="Traffic_circle">
+      <context> Illinois Route 58 known as Golf <head>Road</head> , in Des Plaines , Illinois . Two streets leading to U.S. Highway 14 ( Northwest Highway ) . A small , apparently unnamed traffic circle at the intersection of Rancho California Road and Anza Road , just east of Temecula , California .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-8-11-1" docsrc="Traffic_circle">
+      <context> Traffic speed—High entry speeds ( over 30 mph <head>/</head> 50 km/h ) require circulating vehicles to yield , often stopping , which lowers capacity and increases crash rates compared to modern roundabouts . Lane changes— Allowed or not Diameter—The greater the traffic , the larger the circle .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-8-20-1" docsrc="Traffic_circle">
+      <context> The result is congestion within the circle which <head>could</head> not clear without police intervention . The experience with traffic circles and rotaries in the US was almost entirely negative , characterized by high accident rates and congestion problems . By the mid 1950s , construction of traffic circles and rotaries had ceased entirely .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-8-35-1" docsrc="Traffic_circle">
+      <context> ==== Traffic circles in other parts of the <head>US</head> ==== Washington , D.C. : numerous traffic circles ; see List of circles in Washington , D.C. New Jersey : multiple current and former traffic circles ; see List of traffic circles in New Jersey .</context>
+    </instance>
+    <instance id="Traffic_circle-circle-8-42-1" docsrc="Traffic_circle">
+      <context> Columbus Circle , Frederick Douglass Circle , and <head>Duke</head> Ellington Circle in Manhattan , New York City Maryland has numerous traffic circles , especially at state highway junctions . Notable ones include : State Circle and Church Circle in Annapolis , Washington Monument Circle on Charles Street in Baltimore , and Millenium Park Circle in Towson .</context>
+    </instance>
+    <instance id="Truck_apron-circle-13-4-1" docsrc="Truck_apron">
+      <context> These allow large vehicles—trucks , buses , and recreational vehicles—to navigate the roundabout <head>or</head> turn without striking fixed objects or other road users . According to Alberta Transportation , “ truck aprons are designed to support the weight of large trucks and help long vehicles turn safely through roundabouts . Truck aprons are between the road portion of the roundabout and the inner circle of the roundabout .</context>
+    </instance>
+    <instance id="a01435507_d_5" docsrc="a01435507_d">
+      <context> deviating from a square or <head>circle</head> or sphere by being elongated in one direction ;</context>
+    </instance>
+    <instance id="a02045620_d_2" docsrc="a02045620_d">
+      <context> resembling a <head>circle</head> ;</context>
+    </instance>
+    <instance id="a02316718_d_4" docsrc="a02316718_d">
+      <context> curved into a half <head>circle</head> ;</context>
+    </instance>
+    <instance id="a02468110_d_3" docsrc="a02468110_d">
+      <context> turned in a <head>circle</head> around an axis ;</context>
+    </instance>
+    <instance id="br-b13#w1702_0" docsrc="br-b13">
+      <context> People who take us for suckers are like the Westerner who had on exhibit his superior marksmanship in the form of a number of bull's-eye achievements . The promoter who wanted to sign him up for the circus asked him how he was able to do it . His answer was simple but honest . He just shot at the board and_then drew <head>circles</head> around the holes to form a bull's-eye . One of the obstacles to the easy control of a 2 - year old child is a lack of verbal communication . The child understands no . He senses his mother 's disapproval .</context>
+    </instance>
+    <instance id="br-d04#w207_0" docsrc="br-d04">
+      <context> His history is his alone , yet each man must recognize his own history in it . His death is his alone , yet each man can see his own death in the crucifixion of Jesus . Each man can identify himself with the history and the death of Jesus_Christ because Jesus_Christ has identified himself with human history and human_death , coming as the head of a new humanity . Not a <head>circle</head> , then , nor a straight_line , but a spiral represents the shape of death as Irenaeus sees it ; for a spiral has motion as_well_as recurrence . As represented by a spiral , history may , in_some_sense , be said to repeat itself ; yet each historical event remains unique . Christ is both unique and universal . The first turn of the spiral is the primeval history of humanity in Adam .</context>
+    </instance>
+    <instance id="br-d04#w22_0" docsrc="br-d04">
+      <context> The death of a man is unique , and yet it is universal . The straight_line would symbolize its uniqueness , the <head>circle</head> its universality . But how can one figure symbolize both ? Christianity declares that in the life and death of Jesus_Christ the unique and the universal concur . Perhaps no church_father saw this concurrence of the unique and the universal as clearly , or formulated it as precisely , as Irenaeus .</context>
+    </instance>
+    <instance id="br-e24#w1261_0" docsrc="br-e24">
+      <context> After this has become easy , use slower and slower rhythms , kicking higher and higher . Follow this by crossing from one corner of the room to the other on_all_fours , kicking as high as possible . Push-ups are essential , but few have the strength for them at_first . Start on the knees in a large <head>circle</head> . Fall slowly forward onto the hands and let the body down to rest_on the floor . Push back up and repeat . Do this exercise six times each class period .</context>
+    </instance>
+    <instance id="br-e24#w1440_0" docsrc="br-e24">
+      <context> Five of these done daily for about a week will develop the strength for one push-up . Handstands come after arms , chest and shoulders have developed at_least a minimum of strength . Of_course those who have developed more will find them easier . Start with the class standing in a <head>circle</head> , with weight on the right foot and the left extended a_little way into the circle . At_first each child should do a kick_up by himself so that the teacher can determine those ready to work alone , and those who need help . Drop both hands to the floor and at_the_same_time kick the right foot up in back . The left will follow at_once .</context>
+    </instance>
+    <instance id="br-e24#w1456_0" docsrc="br-e24">
+      <context> Five of these done daily for about a week will develop the strength for one push-up . Handstands come after arms , chest and shoulders have developed at_least a minimum of strength . Of_course those who have developed more will find them easier . Start with the class standing in a circle , with weight on the right foot and the left extended a_little way into the <head>circle</head> . At_first each child should do a kick_up by himself so that the teacher can determine those ready to work alone , and those who need help . Drop both hands to the floor and at_the_same_time kick the right foot up in back . The left will follow at_once .</context>
+    </instance>
+    <instance id="br-e26#w172_0" docsrc="br-e26">
+      <context> His father Soeren was the village apothecary whose slender income made it difficult to feed his family , let_alone educate them in a town without even a school . The two older boys , Hans and Anders , his junior by a year , therefore went daily to the home of a warm and friendly wigmaker nearby for instruction in German ; his wife taught the two boys to read and write Danish . Other brothers later joined them for instruction with Oldenburg , the wigmaker , and also arithmetic was added to Bible reading , German , and Danish in the informal curriculum . Oldenburg 's contributions were soon exhausted and the boys had to turn_to a wider <head>circle</head> of the town 's learned , such_as the pastor , to supplement the simple teaching . From the town surveyor , Hans learned drawing and mathematics and , from a university_student , some academic subjects . The mayor of the town taught them English and French . Whatever Hans or Anders learned separately they passed_on to each other ; they read every book that they could borrow in the village .</context>
+    </instance>
+    <instance id="br-f44#w611_0" docsrc="br-f44">
+      <context> The vulnerability of Protestantism to social differences stems from the peculiar role of the new religious style in middle-class life , where the congregation is a vehicle of social and economic group identity and must conform , therefore , to the principle of economic integration . This fact is evident in the recruitment of new members . The rule of economic integration in congregational life can be seen in the missionary outreach of the major denominations . There is much talk in theological <head>circles</head> about the `` Church as Mission '' and the `` Church 's Mission '' ; theologians have been stressing the fact that the Church does not exist for its own sake but as a testimony in the world for the healing of the world . A crucial question , therefore , is what evangelism and mission actually mean in metropolitan Protestantism . If economic integration really shapes congregational life , then evangelism should be a process of extending economic integration . The task of a congregation would be defined , according to economic integration , as the work of co-opting individuals and families of similar social and economic position to replenish the nuclear core of the congregation .</context>
+    </instance>
+    <instance id="br-g01#w727_0" docsrc="br-g01">
+      <context> This , for the liberals I know , would be an understatement . Theirs is no mere lack of sympathy , but something closer to the passionate hatred that was directed against Fascism . I do not think that my experience would be typical for Southerners living in the North . In business <head>circles</head> , usually conservative , this sort of atmosphere would hardly be found . But in our case - and neither my wife nor I have extreme views on integration , nor are we given to emotional outbursts - the situation has ruined one or two valued friendships and come_close to wrecking several more . In_fact it has caused us to give serious thought to moving our residence south , because it is not easy for the most objective Southerner to sit calmly by when his host is telling a roomful of people that the only way to deal with Southerners who oppose integration is to send in troops and shoot the bastards down . Accounts have been published of Northern liberals in the South up_against segregationist prejudice , especially in state-supported universities where pressure may be strong to uphold the majority view .</context>
+    </instance>
+    <instance id="br-g01#w911_0" docsrc="br-g01">
+      <context> In_fact it has caused us to give serious thought to moving our residence south , because it is not easy for the most objective Southerner to sit calmly by when his host is telling a roomful of people that the only way to deal with Southerners who oppose integration is to send in troops and shoot the bastards down . Accounts have been published of Northern liberals in the South up_against segregationist prejudice , especially in state-supported universities where pressure may be strong to uphold the majority view . But these accounts do not show that Northerners have been subjected to embarrassment or provocation by Yankee hatred displayed in social gatherings . From my wife 's experience and other sources , this seems to be rarely encountered in educated <head>circles</head> . The strong feeling is certainly there ; but there is a leavening of liberalism among college graduates throughout the South , especially among those who studied in the North . And social_relations arising out of business ties impose courtesy , if not sympathy , toward resident and visiting Northerners . Also , among the latter a large percentage soon acquire the prevalent Southern attitude on most social problems .</context>
+    </instance>
+    <instance id="br-g11#w1648_0" docsrc="br-g11">
+      <context> We are forced , in our behavior towards others , to adopt empirically successful patterns in_toto because we have such a minimal understanding of their essential elements . Our collective policies , group and national , are similarly based on voodoo , but here we often lack even the empirically successful rituals and are still engaged in determining them . We use terms from our personal experience with individuals such_as `` trust '' , `` cheat '' , and `` get_tough '' . We talk_about national character in the same way that Copernicus talked of the compulsions of celestial_bodies to move in <head>circles</head> . We perform elaborate international exhortations and ceremonies with virtually no understanding of social cause and effect . Small wonder , then , that we fear . The achievements which dispelled our fears of the cosmos took_place three centuries ago .</context>
+    </instance>
+    <instance id="br-g14#w36_0" docsrc="br-g14">
+      <context> There were fences in the old days when we were children . Across the front of a yard and down the side , they were iron , either spiked along the top or arched in half <head>circles</head> . Alley fences were made of solid boards higher than one 's head , but not so high as the golden_glow in a corner or the hollyhocks that grew in a line against them . Side fences were hidden beneath lilacs and hundred_leaf roses ; front fences were covered with Virginia_creeper or trumpet_vines or honeysuckle . Square corner - and gate_posts were an open-work pattern of cast-iron foliage ; they were topped by steeples complete in every detail : high_pitched roof , pinnacle , and narrow gable .</context>
+    </instance>
+    <instance id="br-g31#w2160_0" docsrc="br-g31">
+      <context> The Szolds , like the Marches , enjoyed and loved living together , even in troubled times ; and , as in the March home , any young_man who called on the Szolds found himself confronted with a phalanx of femininity which made it rather difficult to direct his particular attention to any one of them . This included Mamma , jolly , generous , and pretty , with whom they all fell_in_love , just as Papa had first fallen_in_love with her Mamma before he chose her ; and when a young_man like Morris_Jastrow had enjoyed the Szold hospitality , he felt obliged to send his respects and his gifts not merely to Henrietta , in whom he was really interested , but to all the Szold girls and Mamma . And just as `` Laurie '' Lawrence was first attracted to bright Jo_March , who found him immature by her high standards , and_then had to content himself with her younger sister Amy , so Joe_Jastrow , who had also been writing Henrietta before he came to Johns_Hopkins , had_to content himself with her younger sister , pretty Rachel . And like Jo_March , who saw her sisters Meg and Amy involved in `` lovering '' before herself , Henrietta saw her sisters Rachel and Sadie drawn outside their family <head>circle</head> by the attraction of suitors , Rachel by Joe_Jastrow , and Sadie by Max_Lobl , a young businessman who would write her romantic descriptions of his trips by steamboat down the Mississippi .</context>
+    </instance>
+    <instance id="br-j20#w18_0" docsrc="br-j20">
+      <context> Consider a simple , closed , plane curve C which is a real analytic image of the unit <head>circle</head> , and which is given by **f . These are real analytic periodic functions with period T . In the following paper it is shown that in a certain definite sense , exactly an odd number of squares can be inscribed in every such curve which does not contain an infinite number of inscribed squares . This theorem is similar to the theorem of Kakutani that there exists a circumscribing cube around any closed , bounded convex set in **f .</context>
+    </instance>
+    <instance id="br-j34#w1801_0" docsrc="br-j34">
+      <context> His orthographic recommendations are no simplistic acceptance of phonemics on_the_one_hand or of superficiality on the other . Rather he weighs each phonologic fact in the light of its orthographic usefulness . He concludes that some changes can made in the current orthography which will appreciably improve its usefulness , but hesitates to suggest precise graphic devices to effect these changes . I hope his suggestions are given the consideration they deserve in Kikuyu <head>circles</head> . This , however , will not exhaust their practical usefulness , as they rather clearly indicate what thorough phonologic investigation can contribute to orthography design . We need many_more studies of this sort if the design of written_languages is to be put on a sound basis . One other paper deals with a phonologic problem :</context>
+    </instance>
+    <instance id="br-j42#w614_0" docsrc="br-j42">
+      <context> Of_course it had always been of European origin in_fact , but it had maintained a universal outlook under the natural_law theory . Now , with virtually every writer , not_only was the European origin of public_law acknowledged as a historical phenomenon , but the rules thus established by the advanced civilizations of Europe were to be imposed on others . The European customs on which international_law was based were to become , by force and fiat , the customs that others were to accept as law if they were to join this community as sovereign states . Hall , for_example , was quite explicit on this point when he said `` states outside European civilization must formally enter into the <head>circle</head> of law governed countries . They must do something with the acquiescence of the latter , or some of them , which amounts to an acceptance of the law in its entirety beyond all possibility of misconstruction '' . During the nineteenth century these views were protested by virtually all the Latin_American writers , though ineffectively , just as the new nations of Africa and Asia protest them , with more effect , today . A number of other nineteenth century developments contributed to the transmutation of the law_of_nations into international_law ; that_is , from aspects of a universal system of Justice into particular rules governing the relations of sovereign states .</context>
+    </instance>
+    <instance id="br-k08#w1680_0" docsrc="br-k08">
+      <context> - he had_to play a role of self-effacement . Back_and_forth Duclos had_to go , between M._de_Cury and Jean_Jacques and between the Duke_d'Aumont and Jean_Jacques again , as his little operetta , The_Village_Soothsayer , though still unperformed , took_on ever more importance . And of_course the news of who the composer was did finally begin to get_around among his closest friends . But they , naturally , kept his secret well , and the public at_large knew only of a great excitement in musical and court <head>circles</head> . How titillating it was to go among people who did not know him as the composer , but who talked in the most glowing terms of the promise of the piece after having heard the first rehearsals . The furor was such_that people who could not possibly have squirmed their way into the rehearsals were pretending that they were intimate with the whole affair and that it would be sensational . And listening to such a conversation one morning while taking a cup of chocolate in a cafe , Rousseau found himself bathed in perspiration , trembling lest his authorship become known , and at_the_same_time dreaming of the startling effect he would make if he should proclaim himself suddenly as the composer .</context>
+    </instance>
+    <instance id="br-k08#w328_0" docsrc="br-k08">
+      <context> Immediately after dinner , however , Rousseau asks for still another favor . Could he have pen and paper , please ? He is in a hurry to write another essay against culture . Such was the impromptu that Voltaire gave to howls of laughter at Sans_Souci and that was soon circulated in manuscript throughout the literary <head>circles</head> of Europe , to be printed sometime later , but with the name of Timon_of_Athens , the famous misanthrope , substituted for that of Rousseau . How cruel ! But at_the_same_time how understandable . How could the rich , for whom life was made so simple , ever understand the subterfuges , the lies , the frauds , the errors , sins and even crimes to which the poor were driven in their efforts to overcome the great advantages the rich had in the race of life ?</context>
+    </instance>
+    <instance id="br-k21#w1246_0" docsrc="br-k21">
+      <context> Watson watched two of them flounder into the shallow water and listened to their voices beg shrilly . In a confused , soaked and stumbling shift of bodies and lifting arms , the two men were dragged into the same skiff . The third crawling man forced himself erect . He swayed like a drunkard , his arms milling in slow <head>circles</head> . He paced forward unsteadily , leaning too far back , his head tilted oddly . His steps were short and stiff , and , with his head thrown_back , his progress was a supercilious strut . He appeared to be peering haughtily down_his_nose at the crowded and unclean vessel that would carry him to freedom .</context>
+    </instance>
+    <instance id="br-k23#w2142_0" docsrc="br-k23">
+      <context> The two of them had developed into a remarkable sailing team . All_of this happening in a time of their lives when their youth and their brotherhood knitted them together as no other time or circumstance could . They seemed then to have had a single mind and body , a mutuality which had been accepted with the fact of their youth , casually . He saw the Starbird as she lay , her slender mast up and gently turning , its point describing constant languid <head>circles</head> against a cumulus sky . Both of them had known the feeling of the small life in her waiting , ready , for the two of them to run_up her sails . The Starbird had been long at the bottom of the bay . They came unexpectedly upon the sea .</context>
+    </instance>
+    <instance id="br-l09#w2003_0" docsrc="br-l09">
+      <context> He turned_to George and Lolotte . `` Take your cobbler 's shop somewhere else . I want to talk to Sarah '' . Everything in the office , the spreading <head>circle</head> of lamplight , the patch of leather in Lolotte 's hands . George poised with the tack_hammer , the homely , everyday atmosphere , all denied an attempt at murder . A rush of panic caught Sarah . `` No .</context>
+    </instance>
+    <instance id="br-l14#w1386_0" docsrc="br-l14">
+      <context> But - it happened , almost always , among the primitive and , usually , among the very young . ( Call it mentally young ; call it retarded . ) There was nothing to indicate that Lauren_Payne was primitive . She did not move in primitive <head>circles</head> . She was young , but not that young . It occurred to Bill_Weigand that he was , on a hunch basis , eliminating a good many . He reminded himself that all eliminations were tentative .</context>
+    </instance>
+    <instance id="br-n15#w1674_0" docsrc="br-n15">
+      <context> Even as he said it , Greg knew they had found the enemy . The shapes were unmistakable and the Rising Suns were showing_up , slightly brighter pinpoints in the gray gloom . Greg slapped his hand across the switches that turned_on the guns and gun camera and gun sight . The <head>circle</head> with the dot in the center showed_up yellow on the reflector glass in_front of him . His hands shook . `` Arm your guns , Sweeneys '' . `` They 're Japs .</context>
+    </instance>
+    <instance id="br-p10#w1364_0" docsrc="br-p10">
+      <context> `` No , I take classes with different people '' , he said . `` I do n't think I 've reached the point , yet , where I can say I know everything I ought to know about the craft . Besides , it 's important to the way a painter thinks that he should move in a certain atmosphere , an atmosphere in which he may absorb the ideas of other masters , as Durer went_to Italy to meet Bellini and Mantegna '' . He made a <head>circle</head> with his thumb and fingers . `` Painting is n't this big , you know . It does n't embrace only the artist , alone before his easel . It is as large as all_of art , interdependent , varied , multitudinous '' .</context>
+    </instance>
+    <instance id="br-r07#w1050_0" docsrc="br-r07">
+      <context> He never could keep still , even when he did n't move his feet . Then , they had to get_up and be General_Burnside . Or his horse . All they could think_of was to run_around in <head>circles</head> , kicking their legs out . It was n't very funny . Then , they said General_Burnside was going_to jump over his horse 's head ; and they did some somersaults . But that was n't very funny , either .</context>
+    </instance>
+    <instance id="br-r07#w865_0" docsrc="br-r07">
+      <context> `` This time '' , Arlene said , and she even kept_on wiggling a little bit while she was just talking , `` you 're going_to tell me what I am and what I'm doing . It all has something to do with General_Burnside and his horse '' . This time , it was so grand ; they could tell exactly what it was . It was General_Burnside 's horse running in a <head>circle</head> . His legs shook , and the shaking went right on up his body through his hips to his shoulders . `` That 's the General 's horse '' , one of them cried_out . The other remarked , in a happy laughter , `` That 's a funny old horse '' .</context>
+    </instance>
+    <instance id="n00169811_d_7" docsrc="n00169811_d">
+      <context> a flight_maneuver ; aircraft flies a complete <head>circle</head> in the vertical plane ;</context>
+    </instance>
+    <instance id="n00342755_d_6" docsrc="n00342755_d">
+      <context> the act of rotating in a <head>circle</head> or spiral ;</context>
+    </instance>
+    <instance id="n00435182_d_19" docsrc="n00435182_d">
+      <context> a gymnastic_exercise performed on the pommel_horse when the gymnast ( with legs together ) swings his legs in a <head>circle</head> while alternating hands on the pommels ;</context>
+    </instance>
+    <instance id="n00460344_d_11" docsrc="n00460344_d">
+      <context> a children's game in which the players dance around in a <head>circle</head> and at a given signal all squat ;</context>
+    </instance>
+    <instance id="n00484532_d_10" docsrc="n00484532_d">
+      <context> a game for children in which the players form a <head>circle</head> and join hands ; they raise their hands to let a player inside the circle or lower their hands to bar a second player who is chasing the first ;</context>
+    </instance>
+    <instance id="n00484532_d_25" docsrc="n00484532_d">
+      <context> a game for children in which the players form a circle and join hands ; they raise their hands to let a player inside the <head>circle</head> or lower their hands to bar a second player who is chasing the first ;</context>
+    </instance>
+    <instance id="n00506207_d_10" docsrc="n00506207_d">
+      <context> a game in which two players alternately put crosses and <head>circles</head> in one of the compartments of a square grid of nine spaces ; the object is to get a row of three crosses or three circles before the opponent does ;</context>
+    </instance>
+    <instance id="n00506207_d_36" docsrc="n00506207_d">
+      <context> a game in which two players alternately put crosses and circles in one of the compartments of a square grid of nine spaces ; the object is to get a row of three crosses or three <head>circles</head> before the opponent does ;</context>
+    </instance>
+    <instance id="n00539827_d_6" docsrc="n00539827_d">
+      <context> a folk_dance ; dancers form a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n00540895_d_9" docsrc="n00540895_d">
+      <context> a square_dance figure ; couples march counterclockwise in a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n00573106_d_16" docsrc="n00573106_d">
+      <context> a form of golf in which you putt from positions arranged on the circumference of a <head>circle</head> around the hole ;</context>
+    </instance>
+    <instance id="n02713992_d_7" docsrc="n02713992_d">
+      <context> a charge in the shape of a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n03032453_d_10" docsrc="n03032453_d">
+      <context> an ornamental carving consisting of five arcs arranged in a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n03032811_ex1_5" docsrc="n03032811_ex1">
+      <context> the machine punched out metal <head>circles</head> ;</context>
+    </instance>
+    <instance id="n03080633_d_4" docsrc="n03080633_d">
+      <context> drafting_instrument used for drawing <head>circles</head> ;</context>
+    </instance>
+    <instance id="n03866721_d_14" docsrc="n03866721_d">
+      <context> a convex molding having a cross_section in the form of a quarter of a <head>circle</head> or of an ellipse ;</context>
+    </instance>
+    <instance id="n03884232_d_18" docsrc="n03884232_d">
+      <context> gunsight ( a telescopic device for an artillery piece ) that can be rotated horizontally in a full <head>circle</head> ;</context>
+    </instance>
+    <instance id="n04036155_d_8" docsrc="n04036155_d">
+      <context> game_equipment consisting of a ring of iron or <head>circle</head> of rope used in playing the game of quoits ;</context>
+    </instance>
+    <instance id="n04093223_d_8" docsrc="n04093223_d">
+      <context> gymnastic_apparatus consisting of a pair of heavy metal <head>circles</head> ( usually covered with leather ) suspended by ropes ; used for gymnastic_exercises ;</context>
+    </instance>
+    <instance id="n04318384_d_12" docsrc="n04318384_d">
+      <context> drawing of a human or animal that represents the head by a <head>circle</head> and the rest of the body by straight_lines ;</context>
+    </instance>
+    <instance id="n04427216_d_8" docsrc="n04427216_d">
+      <context> a round_arch whose inner curve is drawn with <head>circles</head> having three centers ;</context>
+    </instance>
+    <instance id="n04478257_d_11" docsrc="n04478257_d">
+      <context> an architectural_ornament in the form of three arcs arranged in a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n04525821_d_35" docsrc="n04525821_d">
+      <context> a diagram that uses circles to represent mathematical or logical sets pictorially inside a rectangle ( the universal_set ) ; elements that are common to more than one set are represented by intersections of the <head>circles</head> ;</context>
+    </instance>
+    <instance id="n04525821_d_4" docsrc="n04525821_d">
+      <context> a diagram that uses <head>circles</head> to represent mathematical or logical sets pictorially inside a rectangle ( the universal_set ) ; elements that are common to more than one set are represented by intersections of the circles ;</context>
+    </instance>
+    <instance id="n05073723_d_9" docsrc="n05073723_d">
+      <context> the quality of having the same center ( as <head>circles</head> inside one another ) ;</context>
+    </instance>
+    <instance id="n05101675_d_7" docsrc="n05101675_d">
+      <context> the length of the closed_curve of a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n05101815_d_11" docsrc="n05101815_d">
+      <context> the length of a straight_line passing through the center of a <head>circle</head> and connecting two points on the circumference ;</context>
+    </instance>
+    <instance id="n05102101_d_13" docsrc="n05102101_d">
+      <context> the length of a line segment between the center and circumference of a <head>circle</head> or sphere ;</context>
+    </instance>
+    <instance id="n05102889_d_1" docsrc="n05102889_d">
+      <context> the <head>circle</head> that touches a curve ( on the concave side ) and whose radius is the radius_of_curvature ;</context>
+    </instance>
+    <instance id="n07001547_d_17" docsrc="n07001547_d">
+      <context> a chart in which complementary_colors ( or their names ) are arranged on opposite sides of a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n08240633_d_2" docsrc="n08240633_d">
+      <context> an exclusive <head>circle</head> of people with a common purpose ;</context>
+    </instance>
+    <instance id="n08627554_d_9" docsrc="n08627554_d">
+      <context> the area enclosed by two perpendicular radii of a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n08627805_d_7" docsrc="n08627805_d">
+      <context> a quarter of the circumference of a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n11440691_d_3" docsrc="n11440691_d">
+      <context> one or more <head>circles</head> of light seen around a luminous object ;</context>
+    </instance>
+    <instance id="n11487424_d_1" docsrc="n11487424_d">
+      <context> a <head>circle</head> of light around the sun or moon ;</context>
+    </instance>
+    <instance id="n13161998_d_7" docsrc="n13161998_d">
+      <context> a cluster of leaves growing in crowded <head>circles</head> from a common center or crown ( usually at or close to the ground ) ;</context>
+    </instance>
+    <instance id="n13612042_d_18" docsrc="n13612042_d">
+      <context> the unit of plane_angle adopted under the Systeme_International_d'Unites ; equal to the angle at the center of a <head>circle</head> subtended by an arc equal in length to the radius ;</context>
+    </instance>
+    <instance id="n13754008_d_10" docsrc="n13754008_d">
+      <context> the ratio of the circumference to the diameter of a <head>circle</head> ; approximately equal to 3.14159265358979323846 ... ;</context>
+    </instance>
+    <instance id="n13868248_d_6" docsrc="n13868248_d">
+      <context> a curve ( such as a <head>circle</head> ) having no endpoints ;</context>
+    </instance>
+    <instance id="n13871538_d_10" docsrc="n13871538_d">
+      <context> a straight_line from the center to the perimeter of a <head>circle</head> ( or from the center to the surface of a sphere ) ;</context>
+    </instance>
+    <instance id="n13871717_d_7" docsrc="n13871717_d">
+      <context> a straight_line connecting the center of a <head>circle</head> with two points on its perimeter ( or the center of a sphere with two points on its surface ) ;</context>
+    </instance>
+    <instance id="n13872592_d_6" docsrc="n13872592_d">
+      <context> a shape whose base is a <head>circle</head> and whose sides taper up to a point ;</context>
+    </instance>
+    <instance id="n13873361_d_8" docsrc="n13873361_d">
+      <context> a plane_figure that deviates from a square or <head>circle</head> due to elongation ;</context>
+    </instance>
+    <instance id="n13873502_ex1_6" docsrc="n13873502_ex1">
+      <context> he calculated the circumference of the <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13873849_d_2" docsrc="n13873849_d">
+      <context> a small <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13873917_d_6" docsrc="n13873917_d">
+      <context> something approximating the shape of a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13873917_ex1_6" docsrc="n13873917_ex1">
+      <context> the chairs were arranged in a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13874073_d_1" docsrc="n13874073_d">
+      <context> a <head>circle</head> dividing a sphere or other surface into two usually equal and symmetrical parts ;</context>
+    </instance>
+    <instance id="n13874251_d_8" docsrc="n13874251_d">
+      <context> a plane_figure with the shape of half a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13874384_d_5" docsrc="n13874384_d">
+      <context> a continuous portion of a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13875027_d_12" docsrc="n13875027_d">
+      <context> a plane_figure bounded by two radii and the included arc of a <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13875970_d_8" docsrc="n13875970_d">
+      <context> a round_shape formed by a series of concentric <head>circles</head> ( as formed by leaves or flower_petals ) ;</context>
+    </instance>
+    <instance id="n13897198_d_8" docsrc="n13897198_d">
+      <context> a surface whose plane_sections are all ellipses or <head>circles</head> ;</context>
+    </instance>
+    <instance id="n13900088_d_15" docsrc="n13900088_d">
+      <context> a ring-shaped surface generated by rotating a circle_around an axis that does not intersect the <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13908777_d_8" docsrc="n13908777_d">
+      <context> a line generated by a point on a <head>circle</head> rolling along a straight_line ;</context>
+    </instance>
+    <instance id="n13908954_d_9" docsrc="n13908954_d">
+      <context> a cycloid generated by a point inside the rolling <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13909071_d_9" docsrc="n13909071_d">
+      <context> a cycloid generated by a point outside the rolling <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13909296_d_1" docsrc="n13909296_d">
+      <context> a <head>circle</head> that rolls around ( inside or outside ) another circle ; generates an epicycloid or hypocycloid ;</context>
+    </instance>
+    <instance id="n13909296_d_11" docsrc="n13909296_d">
+      <context> a circle that rolls around ( inside or outside ) another <head>circle</head> ; generates an epicycloid or hypocycloid ;</context>
+    </instance>
+    <instance id="n13909488_d_12" docsrc="n13909488_d">
+      <context> a line generated by a point on a circle rolling around another <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13909488_d_8" docsrc="n13909488_d">
+      <context> a line generated by a point on a <head>circle</head> rolling around another circle ;</context>
+    </instance>
+    <instance id="n13909632_d_10" docsrc="n13909632_d">
+      <context> an epicycloid in which the rolling circle equals the fixed <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13909632_d_6" docsrc="n13909632_d">
+      <context> an epicycloid in which the rolling <head>circle</head> equals the fixed circle ;</context>
+    </instance>
+    <instance id="n13909752_d_14" docsrc="n13909752_d">
+      <context> a line generated by a point on a circle that rolls around inside another <head>circle</head> ;</context>
+    </instance>
+    <instance id="n13909752_d_8" docsrc="n13909752_d">
+      <context> a line generated by a point on a <head>circle</head> that rolls around inside another circle ;</context>
+    </instance>
+    <instance id="r00071741_d_2" docsrc="r00071741_d">
+      <context> in a <head>circle</head> or circular motion ;</context>
+    </instance>
+    <instance id="v01522716_d_2" docsrc="v01522716_d">
+      <context> form a <head>circle</head> around ;</context>
+    </instance>
+    <instance id="v02044278_d_2" docsrc="v02044278_d">
+      <context> move in <head>circles</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

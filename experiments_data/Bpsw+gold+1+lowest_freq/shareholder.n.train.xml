@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="shareholder.n" pos="NN">
+    <instance id="Shareholder-shareholder-0-0-1" docsrc="Shareholder">
+      <context> <head>A</head> shareholder or stockholder is an individual or institution ( including a corporation ) that legally owns a share of stock in a public or private corporation . Shareholders may be referred to as members of a corporation .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-0-0-3" docsrc="Shareholder">
+      <context> <head>Shareholders</head> may be referred to as members of a corporation . Legally , a person is not a shareholder in a corporation until his or her name and other details are entered in the corporation 's register of members . Shareholders of a corporation are legally separate from the corporation itself .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-0-1-4" docsrc="Shareholder">
+      <context> <head>The</head> assets of the corporation are not assets of the shareholders . The only entitlement of shareholders is to a dividend declared and paid in accordance with the applicable laws and rules of the corporation , and to a share of the capital of the corporation on winding up . Shareholders are granted special privileges depending on the class of stock .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-0-12-1" docsrc="Shareholder">
+      <context> <head>The</head> right to purchase new shares issued by the company . The right to what assets remain after a liquidation . Shareholders are considered by some to be a subset of stakeholders , which may include anyone who has a direct or indirect interest in the business entity .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-0-13-2" docsrc="Shareholder">
+      <context> <head>Shareholders</head> are considered by some to be a subset of stakeholders , which may include anyone who has a direct or indirect interest in the business entity . For example , employees , suppliers , customers , the community , etc . , are typically considered stakeholders because they contribute value and/or are impacted by the corporation . Shareholders in the primary market who buy IPOs provide capital to corporations .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-0-24-1" docsrc="Shareholder">
+      <context> <head>Investor</head> Real party in interest Shareholder value</context>
+    </instance>
+    <instance id="Shareholder-shareholder-0-25-1" docsrc="Shareholder">
+      <context> <head>Real</head> party in interest Shareholder value</context>
+    </instance>
+    <instance id="Shareholder-shareholder-10-1-2" docsrc="Shareholder">
+      <context> Shareholders of a corporation are legally separate from the corporation <head>itself</head> . They are generally not liable for the debts of the corporation ; and the shareholders ' liability for company debts are said to be limited to the unpaid share price , unless if a shareholder has offered guarantees . The assets of the corporation are not assets of the shareholders .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-14-1-1" docsrc="Shareholder">
+      <context> Legally , a person is not a shareholder in a corporation until his or <head>her</head> name and other details are entered in the corporation 's register of members . Shareholders of a corporation are legally separate from the corporation itself . They are generally not liable for the debts of the corporation ; and the shareholders ' liability for company debts are said to be limited to the unpaid share price , unless if a shareholder has offered guarantees .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-14-5-2" docsrc="Shareholder">
+      <context> Shareholders are granted special privileges depending on the class of stock . The board <head>of</head> directors of a corporation generally governs a corporation for the benefit of shareholders . Subject to the applicable laws and rules of the corporation , other rights of shareholders may include :</context>
+    </instance>
+    <instance id="Shareholder-shareholder-15-5-1" docsrc="Shareholder">
+      <context> The only entitlement of shareholders is to a dividend declared and paid in accordance with <head>the</head> applicable laws and rules of the corporation , and to a share of the capital of the corporation on winding up . Shareholders are granted special privileges depending on the class of stock . The board of directors of a corporation generally governs a corporation for the benefit of shareholders .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-20-8-1" docsrc="Shareholder">
+      <context> The right to sell their shares . The right to vote on the directors nominated by the board of directors <head>.</head> The right to nominate directors ( although this is very difficult in practice because of minority protections ) and propose shareholder resolutions .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-34-1-1" docsrc="Shareholder">
+      <context> Legally , a person is not a shareholder in a corporation until his or her name and other details are entered in the corporation 's register of members . Shareholders of a corporation are <head>legally</head> separate from the corporation itself . They are generally not liable for the debts of the corporation ; and the shareholders ' liability for company debts are said to be limited to the unpaid share price , unless if a shareholder has offered guarantees .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-4-1-3" docsrc="Shareholder">
+      <context> They are generally not <head>liable</head> for the debts of the corporation ; and the shareholders ' liability for company debts are said to be limited to the unpaid share price , unless if a shareholder has offered guarantees . The assets of the corporation are not assets of the shareholders . The only entitlement of shareholders is to a dividend declared and paid in accordance with the applicable laws and rules of the corporation , and to a share of the capital of the corporation on winding up .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-6-14-1" docsrc="Shareholder">
+      <context> For example , employees , suppliers <head>,</head> customers , the community , etc . , are typically considered stakeholders because they contribute value and/or are impacted by the corporation . Shareholders in the primary market who buy IPOs provide capital to corporations . However , the vast majority of shareholders are in the secondary market and provide no capital directly to the corporation .</context>
+    </instance>
+    <instance id="Shareholder-shareholder-7-0-2" docsrc="Shareholder">
+      <context> A shareholder or stockholder is an individual <head>or</head> institution ( including a corporation ) that legally owns a share of stock in a public or private corporation . Shareholders may be referred to as members of a corporation . Legally , a person is not a shareholder in a corporation until his or her name and other details are entered in the corporation 's register of members .</context>
+    </instance>
+    <instance id="a00360442_d_5" docsrc="a00360442_d">
+      <context> owned by a relatively few <head>shareholders</head> ;</context>
+    </instance>
+    <instance id="n00174782_d_15" docsrc="n00174782_d">
+      <context> a takeover_bid so attractive that the directors of the target_company must approve it or risk <head>shareholder</head> protest ;</context>
+    </instance>
+    <instance id="n00174950_d_18" docsrc="n00174950_d">
+      <context> a measure used by an acquirer to gain control of a takeover_target ; acquirer tries to persuade other <head>shareholders</head> that the management of the target should be replaced ;</context>
+    </instance>
+    <instance id="n00439043_d_14" docsrc="n00439043_d">
+      <context> an increase in the number of outstanding shares of a corporation without changing the <head>shareholders'</head> equity ;</context>
+    </instance>
+    <instance id="n00439284_d_14" docsrc="n00439284_d">
+      <context> a decrease in the number of outstanding shares of a corporation without changing the <head>shareholders'</head> equity ;</context>
+    </instance>
+    <instance id="n05188367_d_9" docsrc="n05188367_d">
+      <context> the 
+     _to_vote ; especially the right of a common <head>shareholder</head> to in person or by proxy on the affairs of a company ;</context>
+    </instance>
+    <instance id="n06531141_d_5" docsrc="n06531141_d">
+      <context> a power_of_attorney document given by <head>shareholders</head> of a corporation authorizing a specific vote on their behalf at a corporate meeting ;</context>
+    </instance>
+    <instance id="n07166432_d_6" docsrc="n07166432_d">
+      <context> an offering of common_stock to existing <head>shareholders</head> who hold subscription_rights or pre-emptive_rights that entitle them to buy newly issued shares at a discount from the price at which they will be offered to the public later ;</context>
+    </instance>
+    <instance id="n08383417_d_25" docsrc="n08383417_d">
+      <context> a company ( usually unincorporated ) which has the capital of its members pooled in a common fund ; transferable shares represent ownership interest ; <head>shareholders</head> are legally liable for all debts of the company ;</context>
+    </instance>
+    <instance id="n08384041_d_11" docsrc="n08384041_d">
+      <context> stock is publicly traded but most is held by a few <head>shareholders</head> who have no plans to sell ;</context>
+    </instance>
+    <instance id="n13241182_d_22" docsrc="n13241182_d">
+      <context> the right granting to shareholders the first opportunity to buy a new issue of stock ; provides protection against dilution of the <head>shareholder's</head> ownership interest ;</context>
+    </instance>
+    <instance id="n13241182_d_4" docsrc="n13241182_d">
+      <context> the right granting to <head>shareholders</head> the first opportunity to buy a new issue of stock ; provides protection against dilution of the shareholder's ownership interest ;</context>
+    </instance>
+    <instance id="n13241407_d_4" docsrc="n13241407_d">
+      <context> the right of a <head>shareholder</head> in a company to subscribe to shares of a new issue of common_stock before it is offered to the public ;</context>
+    </instance>
+    <instance id="n13333420_d_4" docsrc="n13333420_d">
+      <context> the ownership interest of <head>shareholders</head> in a corporation ;</context>
+    </instance>
+    <instance id="n13335172_d_23" docsrc="n13335172_d">
+      <context> stock other than preferred_stock ; entitles the owner to a share of the corporation's profits and a share of the voting power in <head>shareholder</head> elections ;</context>
+    </instance>
+    <instance id="n13336650_d_3" docsrc="n13336650_d">
+      <context> shares owned by <head>shareholders</head> who have a controlling_interest ;</context>
+    </instance>
+    <instance id="n13380667_d_10" docsrc="n13380667_d">
+      <context> an order_of_payment ( such as a check payable to a <head>shareholder</head> ) in which a dividend is paid ;</context>
+    </instance>
+    <instance id="n13408023_d_13" docsrc="n13408023_d">
+      <context> that part of the earnings of a corporation that is distributed to its <head>shareholders</head> ; usually paid quarterly ;</context>
+    </instance>
+    <instance id="n13408473_d_5" docsrc="n13408473_d">
+      <context> a dividend paid to compensate <head>shareholders</head> for losses resulting from a change in the dividend schedule ;</context>
+    </instance>
+    <instance id="n13417071_d_4" docsrc="n13417071_d">
+      <context> a certificate documenting the <head>shareholder's</head> ownership in the corporation ;</context>
+    </instance>
+    <instance id="n13420221_d_7" docsrc="n13420221_d">
+      <context> shares in a corporation that entitle the <head>shareholder</head> to voting and proxy ;</context>
+    </instance>
+  </lexelt>
+</corpus>

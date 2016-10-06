@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="hegemony.n" pos="NN">
+    <instance id="n08361924_ex1_1" docsrc="n08361924_ex1">
+      <context> the <head>hegemony</head> of a single member state is not incompatible with a genuine confederation ;</context>
+    </instance>
+    <instance id="n08361924_ex2_12" docsrc="n08361924_ex2">
+      <context> to say they have priority is not to say they have complete <head>hegemony</head> ;</context>
+    </instance>
+    <instance id="n08361924_ex3_6" docsrc="n08361924_ex3">
+      <context> the consolidation of the United States' <head>hegemony</head> over a new international economic system ;</context>
+    </instance>
+    <instance id="n08488833_d_14" docsrc="n08488833_d">
+      <context> the small group of Quechua living in the Cuzco Valley in Peru who established <head>hegemony</head> over their neighbors in order to create an empire that lasted from about 1100 until the Spanish conquest in the early 1530s ;</context>
+    </instance>
+  </lexelt>
+</corpus>

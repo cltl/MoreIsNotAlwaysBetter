@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="proximity.n" pos="NN">
+    <instance id="n08642632_d_2" docsrc="n08642632_d">
+      <context> the immediate <head>proximity</head> of someone or something ;</context>
+    </instance>
+    <instance id="n14419510_d_11" docsrc="n14419510_d">
+      <context> the state or condition of touching or of being in immediate <head>proximity</head> ;</context>
+    </instance>
+    <instance id="v01500214_d_5" docsrc="v01500214_d">
+      <context> place side_by_side or in close <head>proximity</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

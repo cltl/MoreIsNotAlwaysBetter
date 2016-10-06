@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="hard_line.n" pos="NN">
+    <instance id="n06196442_ex1_4" docsrc="n06196442_ex1">
+      <context> the governor took a <head>hard_line</head> on drugs ;</context>
+    </instance>
+  </lexelt>
+</corpus>

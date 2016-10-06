@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="shackle.n" pos="NN">
+    <instance id="Shackle-shackle-1-20-2" docsrc="Shackle">
+      <context> A <head>pin</head> shackle is closed with an anchor bolt and cotter pin , in a manner similar to a clevis . It is for this reason they are often referred to , in industrial jargon , as clevises . Pin shackles can be inconvenient to work with , at times , as the bolt will need to be secured to the shackle body to avoid its loss , usually with a split pin or seizing wire .</context>
+    </instance>
+    <instance id="Shackle-shackle-12-7-2" docsrc="Shackle">
+      <context> === Bow shackle === With a larger " O " shape to <head>the</head> loop , this shackle can take loads from many directions without developing as much side load .</context>
+    </instance>
+    <instance id="Shackle-shackle-2-19-2" docsrc="Shackle">
+      <context> === Pin <head>shackle</head> === A pin shackle is closed with an anchor bolt and cotter pin , in a manner similar to a clevis .</context>
+    </instance>
+    <instance id="Shackle-shackle-6-8-2" docsrc="Shackle">
+      <context> With a larger " O " <head>shape</head> to the loop , this shackle can take loads from many directions without developing as much side load . However , the larger shape to the loop does reduce its overall strength . Also referred to as an anchor shackle .</context>
+    </instance>
+    <instance id="a00254296_d_3" docsrc="a00254296_d">
+      <context> not bound by <head>shackles</head> and chains ;</context>
+    </instance>
+    <instance id="br-p07#w1987_0" docsrc="br-p07">
+      <context> There was good_fortune and there was bad and Philip_Spencer , in handcuffs and ankle irons , knew it to be a truth . He expected nothing for himself but that which naturally follows those marked for misfortune . The red haired captain , towering above the prisoner as a symbol of decency and authority , was shocked to find himself looking with_sympathy upon Philip_Spencer . This tragic lad had forged his own <head>shackles</head> . But he could not have done so , could not have found the way , had fortune favored him . And because fortune had favored neither the prisoner nor the red haired captain , they would be each other 's undoing . `` Spencer , if there is guilt , if you do not deny your own , how is it possible for Cromwell to be innocent ?</context>
+    </instance>
+    <instance id="br-p07#w2274_0" docsrc="br-p07">
+      <context> The boatswain was as guilty as any . No action of his could be interpreted in his favor and four midshipmen , prior to their knowing the significance of the Greek paper , had seen it in Cromwell 's hands while Spencer whispered explanations . `` I thought '' , Midshipman_Rogers had told Alexander , `` that Spencer was teaching him geometry '' . It was fantastic to turn from the seven men in <head>shackles</head> to the wardroom , where a class of apprentices awaited him . This was a training_ship and the training would continue , but there was an element of frightful absurdity here which Alexander recognized . Some of these apprentices were , in physical strength , already men and doubtless a percentage of them were Spencer 's followers .</context>
+    </instance>
+    <instance id="n03330947_d_1" docsrc="n03330947_d">
+      <context> a <head>shackle</head> for the ankles or feet ;</context>
+    </instance>
+    <instance id="n03484576_d_0" docsrc="n03484576_d">
+      <context> <head>shackle</head> that consists of a metal loop that can be locked around the wrist ; usually used in pairs ;</context>
+    </instance>
+    <instance id="n03585438_d_1" docsrc="n03585438_d">
+      <context> metal <head>shackles</head> ; for hands or legs ;</context>
+    </instance>
+    <instance id="n03874599_d_7" docsrc="n03874599_d">
+      <context> a detachable lock ; has a hinged <head>shackle</head> that can be passed_through the staple of a hasp or the links in a chain and_then snapped shut ;</context>
+    </instance>
+  </lexelt>
+</corpus>

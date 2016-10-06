@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="weekend.n" pos="NN">
+    <instance id="Workweek_and_weekend-weekend-1-119-2" docsrc="Workweek_and_weekend">
+      <context> The <head>working</head> week is Monday to Friday ; 8 hours per day , 40 hours in total per week . Shops are open on Saturday and Sunday . The weekend begins on Friday , and ends on Monday .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-1-270-1" docsrc="Workweek_and_weekend">
+      <context> Feria <head>Labour</head> and employment law Long weekend</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-10-111-2" docsrc="Workweek_and_weekend">
+      <context> The working week is Monday to Friday ; 8 hours <head>per</head> day , 40 hours in total per week . Large malls are open on Saturday and Sunday ; many small shops are closed on Sunday . But make sure you check if they work during the weekend .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-12-147-1" docsrc="Workweek_and_weekend">
+      <context> In general , the working week begins on Monday and ends on <head>Saturday</head> , while Saturday is usually a half day , and Sunday is a rest day . Most shops , museums , and cinemas are open on Saturday and Sunday . Commercial establishments including and consumer telecommunication branches are generally open throughout the weekend and on most public holidays .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-13-128-1" docsrc="Workweek_and_weekend">
+      <context> Sweden ==== Shops are almost always open on Saturdays and often on Sundays <head>,</head> supermarkets and shopping centres , so that employees there have to work . Traditionally , restaurants were closed on Mondays if they were opened during the weekend , but this has in recent years largely fallen out of practice .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-15-144-1" docsrc="Workweek_and_weekend">
+      <context> NB It is not yet clear how Brexit will affect these rules and regulations .... <head>===</head> Hong Kong === In Hong Kong , there is no any official distinction between the working week and weekend .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-18-199-2" docsrc="Workweek_and_weekend">
+      <context> Lebanon The working week is Monday to Friday ; 8 hours per day , 40 hours in total <head>per</head> week . Large malls are open on Saturday and Sunday ; many small shops close on Sunday . Malaysia ( except the states of Johor , Kelantan , Terengganu and Kedah , which have a Friday–Saturday weekend )</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-2-159-1" docsrc="Workweek_and_weekend">
+      <context> Overall India <head>works</head> longer hours in most areas than most of the world and offers more flexibility of time for visitors . === Muslim countries === ==== Thursday–Friday weekend ====</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-2-163-3" docsrc="Workweek_and_weekend">
+      <context> Most of <head>the</head> Middle Eastern countries and some other predominantly Muslim countries used to consider Thursday and Friday as their weekend . However , this weekend arrangement is no longer observed ( see below ) . ==== Friday weekend ( One day weekend ) ====</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-2-169-3" docsrc="Workweek_and_weekend">
+      <context> Government buildings <head>closed</head> around 11:30 ( local time ) . This no longer holds . ==== Friday–Saturday weekend ====</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-2-193-1" docsrc="Workweek_and_weekend">
+      <context> United Arab <head>Emirates</head> ( 2006 ) Yemen ( 2013 ) ==== Saturday–Sunday weekend ====</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-20-163-1" docsrc="Workweek_and_weekend">
+      <context> ==== Thursday–Friday weekend ==== Friday is the Muslim holiday when Jumu'ah prayers take place . Most of the Middle Eastern <head>countries</head> and some other predominantly Muslim countries used to consider Thursday and Friday as their weekend .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-20-173-1" docsrc="Workweek_and_weekend">
+      <context> This no longer holds . ==== Friday–Saturday weekend ==== Following reforms in a number of Arab States of the Persian <head>Gulf</head> in the 2000s and 2010s , the Thursday–Friday weekend was replaced by the Friday–Saturday weekend .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-26-173-1" docsrc="Workweek_and_weekend">
+      <context> This no longer holds . ==== Friday–Saturday weekend ==== Following reforms in a number of Arab States of the Persian Gulf in the 2000s and 2010s <head>,</head> the Thursday–Friday weekend was replaced by the Friday–Saturday weekend .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-3-163-2" docsrc="Workweek_and_weekend">
+      <context> Friday is the <head>Muslim</head> holiday when Jumu'ah prayers take place . Most of the Middle Eastern countries and some other predominantly Muslim countries used to consider Thursday and Friday as their weekend . However , this weekend arrangement is no longer observed ( see below ) .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-3-277-1" docsrc="Workweek_and_weekend">
+      <context> Saint Monday ( <head>precursor</head> of modern weekend ) TGIF Waiting for the Weekend</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-5-107-1" docsrc="Workweek_and_weekend">
+      <context> Latvia ==== Latvia has a <head>Monday</head> to Friday working week capped at forty hours . Shops are mostly open on weekends , many large retail chains having full working hours even on Sunday .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-5-198-2" docsrc="Workweek_and_weekend">
+      <context> Indonesia In Friday , due <head>to</head> prayer time for Muslim , the lunch break is extended up to 2 hours or more . Shopping malls always open and very crowded in Saturday and Sunday . Thus , some banks serve weekend banking , especially for branches located in or near shopping malls .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-6-163-3" docsrc="Workweek_and_weekend">
+      <context> Most of the Middle Eastern countries <head>and</head> some other predominantly Muslim countries used to consider Thursday and Friday as their weekend . However , this weekend arrangement is no longer observed ( see below ) . ==== Friday weekend ( One day weekend ) ====</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-6-226-1" docsrc="Workweek_and_weekend">
+      <context> Mongolia === Mongolia has a Monday <head>to</head> Friday working week , with a normal maximum time of 40 hours . Most shops are also open on weekends , many large retail chains having full opening hours even on Sunday .</context>
+    </instance>
+    <instance id="Workweek_and_weekend-weekend-6-275-1" docsrc="Workweek_and_weekend">
+      <context> Days of the week Shopping hours <head>Saint</head> Monday ( precursor of modern weekend )</context>
+    </instance>
+    <instance id="br-a01#w641_0" docsrc="br-a01">
+      <context> Regarding Atlanta 's new million dollar airport , the jury recommended `` that when the new management takes_charge Jan. 1 the airport be operated in a manner that will eliminate political influences '' . The jury did not elaborate , but it added that `` there should be periodic surveillance of the pricing practices of the concessionaires for the purpose of keeping the prices reasonable '' . On other matters , the jury recommended that : Four additional deputies be employed at the Fulton_County_Jail and `` a doctor , medical_intern or extern be employed for night and <head>weekend</head> duty at the jail '' . Fulton legislators `` work with city officials to pass enabling_legislation that will permit the establishment of a fair and equitable '' pension plan for city employes . The jury praised the administration and operation of the Atlanta Police_Department , the Fulton_Tax_Commissioner_'s_Office , the Bellwood and Alpharetta prison_farms , Grady_Hospital and the Fulton_Health_Department . Mayor_William_B._Hartsfield filed suit for divorce from his wife , Pearl_Williams_Hartsfield , in Fulton_Superior_Court Friday .</context>
+    </instance>
+    <instance id="br-a11#w1157_0" docsrc="br-a11">
+      <context> `` I feel good physically '' , Hansen added , `` but I think I 'll move better carrying a_little less weight than I'm carrying now '' . The rangy , Albany ( Cal. ) native , a surprise slugging sensation for the Flock last year as_well as a defensive whiz , set `` improved fielding '' as his 1961 goal . `` I think I can do a better job with the glove , now that I know the hitters around the league a_little better '' , he said . Hansen will engage in his first workout at Miami_Stadium prior to the opening tomorrow night of a two game <head>weekend</head> series with the New_York Yankees . Skinny_Brown and Hoyt_Wilhelm , the Flock 's veteran knuckleball specialists , are slated to oppose the American_League champions in tomorrow 's 8 P.M. contest . Ryne_Duren and Roland_Sheldon , a rookie righthander who posted a 15 - 1 record last year for the Yanks ' Auburn ( N.Y. ) farm_club of the Class - D New_York-Pennsylvania_League , are the probable rival pitchers . Twenty-one year old Milt_Pappas and Jerry_Walker , 22 , are scheduled to share the Oriole mound chores against the Bombers ' Art_Ditmar in Sunday 's 2 P.M. encounter .</context>
+    </instance>
+    <instance id="br-a11#w1286_0" docsrc="br-a11">
+      <context> Skinny_Brown and Hoyt_Wilhelm , the Flock 's veteran knuckleball specialists , are slated to oppose the American_League champions in tomorrow 's 8 P.M. contest . Ryne_Duren and Roland_Sheldon , a rookie righthander who posted a 15 - 1 record last year for the Yanks ' Auburn ( N.Y. ) farm_club of the Class - D New_York-Pennsylvania_League , are the probable rival pitchers . Twenty-one year old Milt_Pappas and Jerry_Walker , 22 , are scheduled to share the Oriole mound chores against the Bombers ' Art_Ditmar in Sunday 's 2 P.M. encounter . Ralph_Houk , successor to Casey_Stengel at the Yankee helm , plans to bring the entire New_York squad here from St._Petersburg , including Joe_Dimaggio and large crowds are anticipated for both <head>weekend</head> games . The famed Yankee_Clipper , now retired , has been assisting as a batting_coach . Pitcher Steve_Barber joined the club one week ago after completing his hitch under the Army 's accelerated wintertime military course , also at Fort_Knox , Ky. . The 22 - year old southpaw enlisted earlier last fall than did Hansen .</context>
+    </instance>
+    <instance id="br-a13#w1147_0" docsrc="br-a13">
+      <context> I can't throw . Suddenly my reflexes are gone . Just when it seems baseball might be losing its grip on the masses up pops heroics to start millions of tongues to wagging . And so it was over the <head>weekend</head> what with 40 - year old Warren_Spahn pitching his no-hit masterpiece against the Giants and the Giants ' Willie_Mays retaliating with a record tying 4 - homer spree Sunday . Both , of_course , were remarkable feats and further embossed the fact that baseball rightfully is the national pastime . Of the two cherished achievements the elderly Spahn 's hitless pitching probably reached the most hearts . It was a real stimulant to a_lot of guys I know who have moved past the 2 - score year milestone .</context>
+    </instance>
+    <instance id="br-a15#w479_0" docsrc="br-a15">
+      <context> `` He should be getting_back in_the_groove before_long . Our pitching is much better than it has shown '' . The statistics hardly indicated that the Pirates needed extra batting practice , but Murtaugh also turned his men loose at Busch_Stadium yesterday . Until the Bucs ' bats quieted_down a_bit in Cincinnati over the <head>weekend</head> , the champions had eight men hitting over .300 . Despite the recession , Pittsburgh came into town with this imposing list of averages : Smoky_Burgess .455 , Gino_Cimoli .389 , Bill_Virdon .340 , Bob_Clemente and Dick_Groat , each .323 , Dick_Stuart .306 , Don_Hoak .280 and Bob_Skinner .267 . Bill_Mazeroski with .179 and Hal_Smith with .143 were the only Pirates dragging_their_feet . Perhaps the Pirate who will be the unhappiest over the news that Musial probably will sit_out most of the series is Bob_Friend , who was beaten by The_Man twice last season on dramatic home_runs .</context>
+    </instance>
+    <instance id="br-e23#w356_0" docsrc="br-e23">
+      <context> But it did teach Roy the basic techniques of commercial_art , and later , for twelve years , he and his sister Nina conducted an advertising art studio in Philadelphia . On the death of their father , they returned to their home in Batavia , New_York . After more years of concentrated effort , Roy and his brother Max finally established a thriving family_business at the old stand . During all this time Roy continued to paint , first only on <head>weekends</head> , and_then , as the family_business permitted , for longer periods . Gradually he withdrew from the shop altogether , and for the past thirty years , he has worked independently as a painter , except for his continued hunting and fishing expeditions . But even on these , the palette often takes_over while the shotgun cools_off ! Except for a rich friendship with the painter , Chauncey_Ryder who gave him the only professional instruction he ever had - and this was limited to a_few lessons , though the two artists often went on painting trips together - Roy developed his art by himself .</context>
+    </instance>
+    <instance id="br-e31#w1480_0" docsrc="br-e31">
+      <context> Seven million families would total 30 million Americans or more . Consider the equipment needed to protect this many from the weather , to make their cooking easy and their sleeping comfortable . Harassed state park officials often have more campers than they know what to do with . They are struggling to meet the demand for camping space , but families are being turned_away , especially on holiday <head>weekends</head> . The National_Parks , always popular camping places , are facing the same pressure . The National_Park_Service hopes by 1966 to have 30000 campsites available for 100000 campers a day - almost twice what there are at_present . The U._S._Forest_Service cares for hundreds of thousands of campers in its 149 National Forests and is increasing its facilities steadily .</context>
+    </instance>
+    <instance id="br-e31#w1880_0" docsrc="br-e31">
+      <context> Because they prepare their own meals they also keep in their pockets a good portion of that $ 10.50 food bill along with most_of the tip money . The automobile expenses are about the only vacationing cost they can n't either eliminate or pare_down drastically by camping along the way . Where Americans used_to think_of a single vacation each summer , they now think_about how many vacations they can have . Long <head>weekends</head> enable many to get_away from home for three or four days several times a year . And even if they stay in resorts part of the time , they might , if the right salesman gets them in tow , develop a yearning to spice the usual vacation fare with a camping trip into the wide open spaces . It would be a mistake to sell those thousands of beginning campers on the idea they 're buying the comforts of home . They 're not .</context>
+    </instance>
+    <instance id="br-f22#w1915_0" docsrc="br-f22">
+      <context> Though Bob_Carroll seemed to have had his head practically blown_off by the exploding grenade , he lived . Today he is a major - in the Regular_Army . So filled was Mel_Chandler with the spirit of Garryowen that after Korea was over , he took_on the job of writing the complete history of the regiment . After years of digging , nights and <head>weekends</head> , he put_together the big , profusely illustrated book , Of_Garryowen_and_Glory , which is probably the most complete history of any military_unit . The battle of the Naktong_River is just one example of how the battle_cry and the spirit of The Fighting_Seventh have paid_off . For nearly a century the cry has never failed to rally the fighting men of the regiment . Take the case of Major_Marcus_A._Reno , who survived the Battle_of_The_Little_Big_Horn in 1876 .</context>
+    </instance>
+    <instance id="br-h15#w1908_0" docsrc="br-h15">
+      <context> Warm clothing and bedding , of_course , are essential . Open flame heating or cooking should be avoided . A flame would use_up air . Some families already have held <head>weekend</head> rehearsals in their home shelters to learn the problems and to determine for themselves what supplies they would need . Few areas , if any , are as_good_as prepared shelters but they are worth knowing about . A family dwelling without a basement provides some natural shielding from fallout radiation . On the ground_floor the radiation would be about half what it is outside .</context>
+    </instance>
+    <instance id="br-k03#w688_0" docsrc="br-k03">
+      <context> Jane nodded with a pleasant smile . `` All_right . There was a sniper 's nest in a mountain cave , and it was picking_off our men with devilish accuracy . The Colonel ordered that it be wiped_out , and I suggested , ' You ask for volunteers , and promise each man on the patrol a quart of whisky , ten dollars and a <head>week-end</head> pass to Davao ' . Trig was one of the five volunteers . The patrol snaked around in back of the cave , approached it from above and dropped in suddenly with wild howls . You could hear them from our outpost .</context>
+    </instance>
+    <instance id="br-k08#w930_0" docsrc="br-k08">
+      <context> But no . He could n't appear as a composer now . That glory , craved for so long , was now forbidden to him . Still , just for the ladies , and just for this once , for this one <head>weekend</head> in the country , he would make a little piece out of his melodies . The ladies were delighted and Jean_Jacques was applauded . And everyone went to work to learn the parts which he wrote . But then , after the little operetta had been given its feeble amateur rendering , everyone insisted that it was too good to be lost forever , and that the Royal_Academy_of_Music must now have the manuscript in_order to give it the really first-rate performance it merited .</context>
+    </instance>
+    <instance id="br-l11#w1179_0" docsrc="br-l11">
+      <context> For Felix it was a_bit of a stretch to make even that measurement . The man was just this side of being a freak . We waited till he had finished laughing , and that gave us a_few moments for taking_stock of him . He was dressed in a manner Esquire might suggest for the outdoor_man 's country <head>weekend</head> . Dark gray sports_jacket , lighter gray slacks , pink flannel shirt , black silk necktie . His eyes were clear . He was freshly shaved , and if there had been any alcohol in him we could never have missed detecting some scent of_it on the massive gusts of his laughter .</context>
+    </instance>
+  </lexelt>
+</corpus>

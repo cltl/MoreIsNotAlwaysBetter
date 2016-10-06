@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="congestion.n" pos="NN">
+    <instance id="br-l17#w596_0" docsrc="br-l17">
+      <context> `` No , sir '' . `` Running in , running out . Ca n't have it . Makes_for confusion and <head>congestion</head> '' . He rocked back in the chair , knee locked against stomach , his beady eyes fixed on Matson . He was silent again , possibly listening to the sounds in the squadroom . Roll was being called .</context>
+    </instance>
+    <instance id="n03199142_d_15" docsrc="n03199142_d">
+      <context> trade_name for a drug containing an antihistamine and a decongestant ; used to relieve nasal <head>congestion</head> and to treat rhinitis ;</context>
+    </instance>
+    <instance id="n03245075_d_10" docsrc="n03245075_d">
+      <context> the trade_name for a drug used to treat upper respiratory <head>congestion</head> ; it contains an antihistamine and a bronchodilator and a vasoconstrictor ;</context>
+    </instance>
+    <instance id="n03571280_d_15" docsrc="n03571280_d">
+      <context> a dispenser that produces a chemical vapor to be inhaled in order to relieve nasal <head>congestion</head> ;</context>
+    </instance>
+    <instance id="n08543776_d_3" docsrc="n08543776_d">
+      <context> a point of <head>congestion</head> or blockage ;</context>
+    </instance>
+    <instance id="n13944747_ex1_1" docsrc="n13944747_ex1">
+      <context> traffic <head>congestion</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

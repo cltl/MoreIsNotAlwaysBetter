@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="regulator.n" pos="NN">
+    <instance id="Governor_(device)-regulator-0-62-2" docsrc="Governor_(device)">
+      <context> <head>The</head> Linux kernel has a number of CPU frequency governors , which are a sort of policies that set the CPU frequency based on the selected governor and usage patterns . For example , when the " performance " governor is active , the CPU frequency will be set to its maximum value , the " powersave " governor sets the CPU to its lowest frequency , the " ondemand " governor sets the CPU frequency depending on the current usage , etc . Regulator</context>
+    </instance>
+    <instance id="br-j02#w1264_0" docsrc="br-j02">
+      <context> To reduce heat transfer from the hot gas to this anode holder outside the region of the arc , a carbon shield was attached to the surface providing an air gap of 1/16 inch between the plate and the surface of the anode holder . In_addition , the inner surface of the carbon shield was covered with aluminum_foil to reduce radiation . Temperatures of the shield and of the surface of the water_cooled anode holder were measured by thermocouples to account_for heat received by the coolant but not originating from the anode plug . The argon flow from commercial bottles was regulated by a pressure <head>regulator</head> and measured with a gas flow rator . The power source was a commercial D.C. rectifier . At 100 Amp the 360 cycle ripple was less_than 0.5 V ( peak to peak ) with a resistive load . The current was regulated by_means_of a variable_resistor and measured with a 50 mV shunt and millivoltmeter .</context>
+    </instance>
+    <instance id="n03230914_d_1" docsrc="n03230914_d">
+      <context> a <head>regulator</head> for controlling the flow_of_air in a fireplace ;</context>
+    </instance>
+    <instance id="n03325088_d_1" docsrc="n03325088_d">
+      <context> a <head>regulator</head> for controlling the flow of a liquid from a reservoir ;</context>
+    </instance>
+    <instance id="n03374649_d_0" docsrc="n03374649_d">
+      <context> <head>regulator</head> consisting of a heavy wheel that stores kinetic_energy and smooths the operation of a reciprocating_engine ;</context>
+    </instance>
+    <instance id="n03905947_d_0" docsrc="n03905947_d">
+      <context> <head>regulator</head> that can be turned to regulate the pitch of the strings of a stringed_instrument ;</context>
+    </instance>
+    <instance id="n03919808_d_0" docsrc="n03919808_d">
+      <context> <head>regulator</head> consisting of a small cock or faucet or valve for letting out air or releasing compression or draining ;</context>
+    </instance>
+    <instance id="n04071536_d_1" docsrc="n04071536_d">
+      <context> a <head>regulator</head> ( as a sliding plate ) for regulating the flow_of_air into a furnace or other heating device ;</context>
+    </instance>
+    <instance id="n04244615_d_0" docsrc="n04244615_d">
+      <context> <head>regulator</head> consisting of a valve or gate that controls the rate of water flow through a sluice ;</context>
+    </instance>
+    <instance id="n04422875_d_1" docsrc="n04422875_d">
+      <context> a <head>regulator</head> for automatically regulating temperature by starting or stopping the supply of heat ;</context>
+    </instance>
+    <instance id="n04438507_d_1" docsrc="n04438507_d">
+      <context> a <head>regulator</head> that activates or deactivates a mechanism at set times ;</context>
+    </instance>
+  </lexelt>
+</corpus>

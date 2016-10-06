@@ -1,0 +1,575 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="auction.n" pos="NN">
+    <instance id="Auction-auction-0-234-1" docsrc="Auction">
+      <context> <head>French</head> auction Other topics : Auction chant</context>
+    </instance>
+    <instance id="Auction-auction-0-235-1" docsrc="Auction">
+      <context> <head>Other</head> topics : Auction chant Auction Network</context>
+    </instance>
+    <instance id="Auction-auction-0-236-1" docsrc="Auction">
+      <context> <head>Auction</head> chant Auction Network Auction school</context>
+    </instance>
+    <instance id="Auction-auction-0-237-1" docsrc="Auction">
+      <context> <head>Auction</head> Network Auction school Auction theory</context>
+    </instance>
+    <instance id="Auction-auction-0-253-1" docsrc="Auction">
+      <context> <head>Tendering</head> Klemperer , P. 1999 . Auction theory : A guide to the literature .</context>
+    </instance>
+    <instance id="Auction-auction-0-38-2" docsrc="Auction">
+      <context> <head>Multiunit</head> auctions sell more than one identical item at the same time , rather than having separate auctions for each . This type can be further classified as either a uniform price auction or a discriminatory price auction . Auction by the candle .</context>
+    </instance>
+    <instance id="Auction-auction-0-78-5" docsrc="Auction">
+      <context> <head>Where</head> there are few bidders and each bidder is allowed only one bid , time is saved , but the winning bid may not reflect the true market value with any degree of accuracy . Of special interest and importance during the actual auction is the time elapsed from the moment that the first bid is revealed to the moment that the final ( winning ) bid has become a binding agreement . Auctions can differ in the number of participants :</context>
+    </instance>
+    <instance id="Auction-auction-0-86-1" docsrc="Auction">
+      <context> <head>In</head> a double auction n buyers bid to buy goods from m sellers Prices are bid by buyers and asked ( or offered ) by sellers . Auctions may also differ by the procedure for bidding ( or asking , as the case may be ) :</context>
+    </instance>
+    <instance id="Auction-auction-0-88-1" docsrc="Auction">
+      <context> <head>In</head> an open auction participants may repeatedly bid and are aware of each other 's previous bids . In a closed auction buyers and/or sellers submit sealed bids Auctions may differ as to the price at which the item is sold , whether the first ( best ) price , the second price , the first unique price or some other .</context>
+    </instance>
+    <instance id="Auction-auction-0-89-1" docsrc="Auction">
+      <context> <head>In</head> a closed auction buyers and/or sellers submit sealed bids Auctions may differ as to the price at which the item is sold , whether the first ( best ) price , the second price , the first unique price or some other . Auctions may set a reservation price which is the least/maximum acceptable price for which a good may be sold/bought .</context>
+    </instance>
+    <instance id="Auction-auction-0-90-1" docsrc="Auction">
+      <context> <head>Auctions</head> may set a reservation price which is the least/maximum acceptable price for which a good may be sold/bought . Without modification , auction generally refers to an open , demand auction , with or without a reservation price ( or reserve ) , with the item sold to the highest bidder . Auctions are publicly and privately seen in several contexts and almost anything can be sold at auction .</context>
+    </instance>
+    <instance id="Auction-auction-1-0-5" docsrc="Auction">
+      <context> An <head>auctioneer</head> may announce prices , bidders may call out their bids themselves ( or have a proxy call out a bid on their behalf ) , or bids may be submitted electronically with the highest current bid publicly displayed . In a Dutch auction , the auctioneer begins with a high asking price for some quantity of like items ; the price is lowered until a participant is willing to accept the auctioneer 's price for some quantity of the goods in the lot or until the seller 's reserve price is met . While auctions are most associated in the public imagination with the sale of antiques , paintings , rare collectibles and expensive wines , auctions are also used for commodities , livestock , radio spectrum and used cars .</context>
+    </instance>
+    <instance id="Auction-auction-1-111-1" docsrc="Auction">
+      <context> Examples <head>of</head> this type of auction include : Sales of businesses Spectrum auctions , in which companies purchase licenses to use portions of the electromagnetic spectrum for communications ( e.g. , mobile phone networks )</context>
+    </instance>
+    <instance id="Auction-auction-1-112-1" docsrc="Auction">
+      <context> Sales <head>of</head> businesses Spectrum auctions , in which companies purchase licenses to use portions of the electromagnetic spectrum for communications ( e.g. , mobile phone networks ) Timber auctions , in which companies purchase licenses to log on government land</context>
+    </instance>
+    <instance id="Auction-auction-1-115-1" docsrc="Auction">
+      <context> Timber <head>auctions</head> , in which companies purchase licenses to log on government land Timber allocation auctions , in which companies purchase timber directly from the government Forest Auctions Environmental auctions , in which companies bid for licenses to avoid being required to decrease their environmental impact .</context>
+    </instance>
+    <instance id="Auction-auction-1-117-2" docsrc="Auction">
+      <context> Environmental <head>auctions</head> , in which companies bid for licenses to avoid being required to decrease their environmental impact . These include auctions in emissions trading schemes . Auto auctions , in which car dealers purchase used vehicles to retail to the public .</context>
+    </instance>
+    <instance id="Auction-auction-1-119-1" docsrc="Auction">
+      <context> These <head>include</head> auctions in emissions trading schemes . Auto auctions , in which car dealers purchase used vehicles to retail to the public . Produce auctions , in which produce growers have a link to localized wholesale buyers ( buyers who are interested in acquiring large quantities of locally grown produce ) .</context>
+    </instance>
+    <instance id="Auction-auction-1-143-1" docsrc="Auction">
+      <context> If <head>the</head> reserve is not reached this should be clearly declared . In South Africa auctioneers can use their staff or any bidder to raise the price as long as its disclosed before the auction sale . The Auction Alliance controversy focused on vendor bidding and it was proven to be legal and acceptable in terms of the South African consumer laws .</context>
+    </instance>
+    <instance id="Auction-auction-1-18-1" docsrc="Auction">
+      <context> Other <head>early</head> auction houses that are still in operation include Dorotheum ( 1707 ) , Mallams ( 1788 ) , Bonhams ( 1793 ) , Phillips de Pury &amp; Company ( 1796 ) , Freeman 's ( 1805 ) and Lyon &amp; Turnbull ( 1826 ) . By the end of the 18th century , auctions of art works were commonly held in taverns and coffeehouses . These auctions were held daily , and auction catalogs were printed to announce available items .</context>
+    </instance>
+    <instance id="Auction-auction-1-225-1" docsrc="Auction">
+      <context> Types <head>of</head> auction : Art sale Auto auction</context>
+    </instance>
+    <instance id="Auction-auction-1-228-1" docsrc="Auction">
+      <context> Bidding <head>fee</head> auction Car dealer auctions Chinese auction</context>
+    </instance>
+    <instance id="Auction-auction-1-229-1" docsrc="Auction">
+      <context> Car <head>dealer</head> auctions Chinese auction Dutch auction</context>
+    </instance>
+    <instance id="Auction-auction-1-231-1" docsrc="Auction">
+      <context> Dutch <head>auction</head> Estate sale French auction</context>
+    </instance>
+    <instance id="Auction-auction-1-238-1" docsrc="Auction">
+      <context> Auction <head>school</head> Auction theory Dollar auction</context>
+    </instance>
+    <instance id="Auction-auction-1-242-1" docsrc="Auction">
+      <context> Game <head>theory</head> Monopoly ( game ) , a game in which auction is sometimes used Online auction business model</context>
+    </instance>
+    <instance id="Auction-auction-1-243-1" docsrc="Auction">
+      <context> Monopoly <head>(</head> game ) , a game in which auction is sometimes used Online auction business model Online auction tools</context>
+    </instance>
+    <instance id="Auction-auction-1-29-1" docsrc="Auction">
+      <context> === <head>Primary</head> === There are traditionally four types of auction that are used for the allocation of a single item : English auction , also known as an open ascending price auction .</context>
+    </instance>
+    <instance id="Auction-auction-1-30-10" docsrc="Auction">
+      <context> The <head>most</head> significant distinguishing factor of this auction type is that the current highest bid is always available to potential bidders . The English auction is commonly used for selling goods , most prominently antiques and artwork , but also secondhand goods and real estate . Dutch auction also known as an open descending price auction .</context>
+    </instance>
+    <instance id="Auction-auction-1-30-5" docsrc="Auction">
+      <context> An <head>auctioneer</head> may announce prices , bidders may call out their bids themselves ( or have a proxy call out a bid on their behalf ) , or bids may be submitted electronically with the highest current bid publicly displayed . In some cases a maximum bid might be left with the auctioneer , who may bid on behalf of the bidder according to the bidder 's instructions . The auction ends when no participant is willing to bid further , at which point the highest bidder pays their bid .</context>
+    </instance>
+    <instance id="Auction-auction-1-36-2" docsrc="Auction">
+      <context> === <head>Secondary</head> === Most auction theory revolves around these four " standard " auction types .</context>
+    </instance>
+    <instance id="Auction-auction-1-37-2" docsrc="Auction">
+      <context> Most <head>auction</head> theory revolves around these four " standard " auction types . However , many other types of auctions exist , generally sharing many , including : Multiunit auctions sell more than one identical item at the same time , rather than having separate auctions for each .</context>
+    </instance>
+    <instance id="Auction-auction-1-46-1" docsrc="Auction">
+      <context> Unique <head>bid</head> auctions Many homogenous item auctions , e.g. , spectrum auctions Japanese auction is a variation of the English auction .</context>
+    </instance>
+    <instance id="Auction-auction-1-48-1" docsrc="Auction">
+      <context> It <head>has</head> similarities to the ante in Poker . Lloyd 's syndicate auction . Silent auction is a variant of the English auction in which bids are written on a sheet of paper .</context>
+    </instance>
+    <instance id="Auction-auction-1-54-2" docsrc="Auction">
+      <context> Silent <head>auction</head> is a variant of the English auction in which bids are written on a sheet of paper . At the predetermined end of the auction , the highest listed bidder wins the item . This auction is often used in charity events , with many items auctioned simultaneously and " closed " at a common finish time .</context>
+    </instance>
+    <instance id="Auction-auction-1-54-3" docsrc="Auction">
+      <context> At <head>the</head> predetermined end of the auction , the highest listed bidder wins the item . This auction is often used in charity events , with many items auctioned simultaneously and " closed " at a common finish time . The auction is " silent " in that there is no auctioneer selling individual items , the bidders writing their bids on a bidding sheet often left on a table near the item .</context>
+    </instance>
+    <instance id="Auction-auction-1-54-7" docsrc="Auction">
+      <context> Other <head>variations</head> of this type of auction may include sealed bids . The highest bidder pays the price he or she submitted . Walrasian auction or Walrasian tâtonnement is an auction in which the auctioneer takes bids from both buyers and sellers in a market of multiple goods .</context>
+    </instance>
+    <instance id="Auction-auction-1-56-3" docsrc="Auction">
+      <context> The <head>auctioneer</head> progressively either raises or drops the current proposed price depending on the bids of both buyers and sellers , the auction concluding when supply and demand exactly balance . As a high price tends to dampen demand while a low price tends to increase demand , in theory there is a particular price somewhere in the middle where supply and demand will match . Amsterdam auctions , a type of premium auction which begins as an English auction .</context>
+    </instance>
+    <instance id="Auction-auction-1-6-2" docsrc="Auction">
+      <context> Nonetheless <head>,</head> auctions have a long history , having been recorded as early as 500 B.C. According to Herodotus , in Babylon auctions of women for marriage were held annually . The auctions began with the woman the auctioneer considered to be the most beautiful and progressed to the least .</context>
+    </instance>
+    <instance id="Auction-auction-1-64-5" docsrc="Auction">
+      <context> Also <head>in</head> this group you will find auctions ordered by executors who are entering the assets of individuals who have perhaps died in testate ( those who have died without leaving a will ) , or in debt . One of the most interesting bodies to look out for at auction is HM Customs &amp; Excise who may be entering at auction various items seized from smugglers , fraudsters and racketeers . Police Auctions Police auctions are generally held at general auctions although some forces use online sites including eBay to dispose of lost and found and seized goods .</context>
+    </instance>
+    <instance id="Auction-auction-1-68-1" docsrc="Auction">
+      <context> Land <head>&amp;</head> Property Auctions Here you can buy anything from an ancient castle to a brand new commercial premises . Antiques and Collectibles Auctions Auctions of antiques and collectibles are fascinating places and hold the opportunity for viewing a huge array of items . Internet Auctions With a potential audience of millions the Internet is the most exciting part of the auction world at the moment .</context>
+    </instance>
+    <instance id="Auction-auction-10-172-2" docsrc="Auction">
+      <context> Clearance rate – The percentage of items that sell over <head>the</head> course of the auction . Commission – a fee paid by a consignor/seller to the auction house ; it is typically calculated as a percentage of the winning bid and deducted from the gross proceeds due to the consignor/seller .</context>
+    </instance>
+    <instance id="Auction-auction-10-200-1" docsrc="Auction">
+      <context> The opening bid must be at least the minimum bid <head>,</head> but may be higher ( e.g. , a bidder may shout out a considerably larger bid than minimum , to discourage other bidders from bidding ) . Proxy bid ( a/k/a " absentee bid " ) – a bid placed by an authorized representative of a bidder who is not physically present at the auction . If the proxy is outbid on an item during the auction , the proxy ( depending on the instructions of the bidder ) may either increase the bid ( up to a set amount established by the bidder ) or be required to drop out of the bidding for that item .</context>
+    </instance>
+    <instance id="Auction-auction-10-29-1" docsrc="Auction">
+      <context> === Primary === There are traditionally four types of auction <head>that</head> are used for the allocation of a single item : English auction , also known as an open ascending price auction .</context>
+    </instance>
+    <instance id="Auction-auction-10-36-2" docsrc="Auction">
+      <context> === Secondary === Most auction theory revolves around these four <head>"</head> standard " auction types .</context>
+    </instance>
+    <instance id="Auction-auction-11-172-1" docsrc="Auction">
+      <context> The other two baskets may then be reauctioned . Clearance rate <head>–</head> The percentage of items that sell over the course of the auction .</context>
+    </instance>
+    <instance id="Auction-auction-11-206-1" docsrc="Auction">
+      <context> If the proxy is outbid on an item during the auction <head>,</head> the proxy ( depending on the instructions of the bidder ) may either increase the bid ( up to a set amount established by the bidder ) or be required to drop out of the bidding for that item . Reserve price – A minimum acceptable price established by the seller prior to the auction , which may or may not be disclosed to the bidders .</context>
+    </instance>
+    <instance id="Auction-auction-11-214-2" docsrc="Auction">
+      <context> Example : An auction has five bath fragrance gift baskets where <head>bidding</head> is " times the money " , and the hammer price is USD $ 5 . The winner must pay $ 25 ( five baskets @ $ 5 each ) and must take all five baskets . The Journal of Economic Literature ( JEL ) classification code for auctions is D44 .</context>
+    </instance>
+    <instance id="Auction-auction-11-30-1" docsrc="Auction">
+      <context> There are traditionally four types of auction that are used for <head>the</head> allocation of a single item : English auction , also known as an open ascending price auction . This type of auction is arguably the most common form of auction in use today .</context>
+    </instance>
+    <instance id="Auction-auction-11-31-7" docsrc="Auction">
+      <context> The Dutch auction is named for its best known example , <head>the</head> Dutch tulip auctions . ( " Dutch auction " is also sometimes used to describe online auctions where several identical goods are sold simultaneously to an equal number of high bidders . ) In addition to cut flower sales in the Netherlands , Dutch auctions have also been used for perishable commodities such as fish and tobacco .</context>
+    </instance>
+    <instance id="Auction-auction-11-38-1" docsrc="Auction">
+      <context> However , many other types of auctions exist , generally sharing <head>many</head> , including : Multiunit auctions sell more than one identical item at the same time , rather than having separate auctions for each . This type can be further classified as either a uniform price auction or a discriminatory price auction .</context>
+    </instance>
+    <instance id="Auction-auction-11-61-1" docsrc="Auction">
+      <context> Both finalists receive a premium : a proportion of the excess <head>of</head> the second price over the third price ( at which English auction ended ) . === Genres === Here 's a short description of the most common types of auction .</context>
+    </instance>
+    <instance id="Auction-auction-11-64-4" docsrc="Auction">
+      <context> Here you find a vast range of materials that have to <head>be</head> sold by various government bodies , for example : HM Customs &amp; Excise , the Official Receiver , the Ministry of Defence , local councils and authorities , liquidators , as well as material put up for auction by companies and members of the public . Also in this group you will find auctions ordered by executors who are entering the assets of individuals who have perhaps died in testate ( those who have died without leaving a will ) , or in debt . One of the most interesting bodies to look out for at auction is HM Customs &amp; Excise who may be entering at auction various items seized from smugglers , fraudsters and racketeers .</context>
+    </instance>
+    <instance id="Auction-auction-11-8-7" docsrc="Auction">
+      <context> Didius Julianus outbid everyone else for the price of 6,250 drachmas <head>per</head> guard , an act that initiated a brief civil war . Didius was then beheaded two months later when Septimius Severus conquered Rome . From the end of the Roman Empire to the eighteenth century auctions lost favor in Europe , while they had never been widespread in Asia .</context>
+    </instance>
+    <instance id="Auction-auction-11-89-2" docsrc="Auction">
+      <context> Auctions may differ as to the price at which the item <head>is</head> sold , whether the first ( best ) price , the second price , the first unique price or some other . Auctions may set a reservation price which is the least/maximum acceptable price for which a good may be sold/bought . Without modification , auction generally refers to an open , demand auction , with or without a reservation price ( or reserve ) , with the item sold to the highest bidder .</context>
+    </instance>
+    <instance id="Auction-auction-12-0-1" docsrc="Auction">
+      <context> An auction is a process of buying and selling goods or services <head>by</head> offering them up for bid , taking bids , and then selling the item to the highest bidder . The open ascending price auction is arguably the most common form of auction in use today .</context>
+    </instance>
+    <instance id="Auction-auction-12-109-2" docsrc="Auction">
+      <context> Self storage units . In certain jurisdictions , if a storage facility <head>'s</head> tenant fails to pay his/her rent , the contents of his/her locker(s ) may be sold at a public auction . Several television shows focus on such auctions , including Storage Wars and Auction Hunters .</context>
+    </instance>
+    <instance id="Auction-auction-12-138-6" docsrc="Auction">
+      <context> This form of a ring was used as a central plot device <head>in</head> the opening episode of the 1979 British television series The House of Caradus , ' For Love or Money ' , uncovered by Helena Caradus on her return from Paris . A ring can also be used to increase the price of an auction lot , in which the owner of the object being auctioned may increase competition by taking part in the bidding him or herself , but drop out of the bidding just before the final bid .</context>
+    </instance>
+    <instance id="Auction-auction-12-162-1" docsrc="Auction">
+      <context> Auctioneers are frequently regulated by governmental entities , and in those jurisdictions <head>must</head> meet certain criteria to be licensed ( be of a certain age , have no disqualifying criminal record , attend auction school , pass an examination , and pay a licensing fee ) . Auctioneers may or may not ( depending on the laws of the jurisdiction and/or the policies of the auction house ) bid for their own account , or if they do must disclose this to bidders at the auction ; similar rules may apply for employees of the auctioneer or the auction house . Buyer 's premium – a fee paid by the buyer to the auction house ; it is typically calculated as a percentage of the winning bid and added on it .</context>
+    </instance>
+    <instance id="Auction-auction-12-18-3" docsrc="Auction">
+      <context> These auctions were held daily , and auction catalogs were printed to <head>announce</head> available items . In some cases these catalogs were elaborate works of art themselves , containing considerable detail about the items being auctioned . At this time , Christie 's established a reputation as a leading auction house , taking advantage of London 's status as the major centre of the international art trade after the French Revolution .</context>
+    </instance>
+    <instance id="Auction-auction-12-18-4" docsrc="Auction">
+      <context> In some cases these catalogs were elaborate works of art themselves , <head>containing</head> considerable detail about the items being auctioned . At this time , Christie 's established a reputation as a leading auction house , taking advantage of London 's status as the major centre of the international art trade after the French Revolution . During the American civil war goods seized by armies were sold at auction by the Colonel of the division .</context>
+    </instance>
+    <instance id="Auction-auction-12-194-1" docsrc="Auction">
+      <context> If no one bids at the initial minimum bid , the auctioneer <head>may</head> lower the minimum bid so as to create interest in the item . The minimum bid differs from a reserve price ( see definition ) , in that the auctioneer sets the minimum bid , while the seller sets the reserve price ( if desired ) . No reserve auction ( a/k/a " absolute auction " ) – an auction in which there is no minimum acceptable price ; so long as the winning bid is at least the minimum bid , the seller must honor the sale .</context>
+    </instance>
+    <instance id="Auction-auction-12-31-6" docsrc="Auction">
+      <context> In a modification , all of the winning participants pay only the <head>last</head> announced price for the items that they bid on . The Dutch auction is named for its best known example , the Dutch tulip auctions . ( " Dutch auction " is also sometimes used to describe online auctions where several identical goods are sold simultaneously to an equal number of high bidders . )</context>
+    </instance>
+    <instance id="Auction-auction-12-69-1" docsrc="Auction">
+      <context> Antiques and Collectibles Auctions Auctions of antiques and collectibles are fascinating places <head>and</head> hold the opportunity for viewing a huge array of items . Internet Auctions With a potential audience of millions the Internet is the most exciting part of the auction world at the moment . Led by sites in the United States but closely followed by UK auction houses , specialist Internet auctions are springing up all over the place , selling everything from antiques and collectibles to holidays , air travel , brand new computers , and household equipment .</context>
+    </instance>
+    <instance id="Auction-auction-13-109-3" docsrc="Auction">
+      <context> In certain jurisdictions , if a storage facility 's tenant fails to pay <head>his/her</head> rent , the contents of his/her locker(s ) may be sold at a public auction . Several television shows focus on such auctions , including Storage Wars and Auction Hunters . Although less publicly visible , the most economically important auctions are the commodities auctions in which the bidders are businesses even up to corporation level .</context>
+    </instance>
+    <instance id="Auction-auction-13-166-1" docsrc="Auction">
+      <context> Depending on the jurisdiction the buyer 's premium , in addition to the <head>sales</head> price , may be subject to VAT or sales tax . Buyout price – A price that , if accepted by a bidder , immediately ends the auction and awards the item to him/her ( an example is eBay 's BuyItNow feature ) .</context>
+    </instance>
+    <instance id="Auction-auction-13-56-3" docsrc="Auction">
+      <context> The auctioneer progressively either raises or drops the current proposed price depending on <head>the</head> bids of both buyers and sellers , the auction concluding when supply and demand exactly balance . As a high price tends to dampen demand while a low price tends to increase demand , in theory there is a particular price somewhere in the middle where supply and demand will match . Amsterdam auctions , a type of premium auction which begins as an English auction .</context>
+    </instance>
+    <instance id="Auction-auction-14-114-1" docsrc="Auction">
+      <context> Spectrum auctions , in which companies purchase licenses to use portions of the electromagnetic <head>spectrum</head> for communications ( e.g. , mobile phone networks ) Timber auctions , in which companies purchase licenses to log on government land Timber allocation auctions , in which companies purchase timber directly from the government Forest Auctions</context>
+    </instance>
+    <instance id="Auction-auction-14-20-1" docsrc="Auction">
+      <context> Thus , some of today 's auctioneers in the U.S. carry the unofficial title <head>of</head> " colonel " . The development of the internet , however , has led to a significant rise in the use of auctions as auctioneers can solicit bids via the internet from a wide range of buyers in a much wider range of commodities than was previously practical . In 2008 , the National Auctioneers Association reported that the gross revenue of the auction industry for that year was approximately $ 268.4 billion , with the fastest growing sectors being agricultural , machinery , and equipment auctions and residential real estate auctions .</context>
+    </instance>
+    <instance id="Auction-auction-14-31-5" docsrc="Auction">
+      <context> Items are allocated based on bid order ; the highest bidder selects their item(s <head>)</head> first followed by the second highest bidder , etc ... In a modification , all of the winning participants pay only the last announced price for the items that they bid on . The Dutch auction is named for its best known example , the Dutch tulip auctions .</context>
+    </instance>
+    <instance id="Auction-auction-14-6-3" docsrc="Auction">
+      <context> According to Herodotus , in Babylon auctions of women for marriage were held annually <head>.</head> The auctions began with the woman the auctioneer considered to be the most beautiful and progressed to the least . It was considered illegal to allow a daughter to be sold outside of the auction method .</context>
+    </instance>
+    <instance id="Auction-auction-15-208-1" docsrc="Auction">
+      <context> If the winning bid is below the reserve price , the seller has the right <head>to</head> reject the bid and withdraw the item(s ) being auctioned . The reserve price differs from a minimum bid ( see definition ) , in that the seller sets the reserve price ( if desired ) , while the auctioneer sets the minimum bid . Sniping – the act of placing a bid just before the end of a timed auction , thus giving other bidders no time to enter new bids .</context>
+    </instance>
+    <instance id="Auction-auction-15-63-1" docsrc="Auction">
+      <context> === Genres === Here 's a short description of the most common types of auction <head>.</head> Government , Bankruptcy and General Auctions Government and General Auctions are amongst the most common auctions to be found today .</context>
+    </instance>
+    <instance id="Auction-auction-16-191-2" docsrc="Auction">
+      <context> Minimum bid – The smallest opening bid that will be accepted . A minimum bid can <head>be</head> as little as USD$0.01 ( one cent ) depending on the auction .</context>
+    </instance>
+    <instance id="Auction-auction-16-38-1" docsrc="Auction">
+      <context> However , many other types of auctions exist , generally sharing many , including : Multiunit <head>auctions</head> sell more than one identical item at the same time , rather than having separate auctions for each . This type can be further classified as either a uniform price auction or a discriminatory price auction .</context>
+    </instance>
+    <instance id="Auction-auction-16-90-1" docsrc="Auction">
+      <context> Auctions may set a reservation price which is the least/maximum acceptable price for which a good <head>may</head> be sold/bought . Without modification , auction generally refers to an open , demand auction , with or without a reservation price ( or reserve ) , with the item sold to the highest bidder . Auctions are publicly and privately seen in several contexts and almost anything can be sold at auction .</context>
+    </instance>
+    <instance id="Auction-auction-17-147-5" docsrc="Auction">
+      <context> Once there is an opening bid , there will quickly be several other , higher bids submitted <head>.</head> Experienced auctioneers will often select an SOB that is about 45 percent of the ( lowest ) estimate . Thus there is a certain margin of safety to ensure that there will indeed be a lively auction with many bids submitted .</context>
+    </instance>
+    <instance id="Auction-auction-17-37-2" docsrc="Auction">
+      <context> Most auction theory revolves around these four " standard " auction types . However , many other <head>types</head> of auctions exist , generally sharing many , including : Multiunit auctions sell more than one identical item at the same time , rather than having separate auctions for each .</context>
+    </instance>
+    <instance id="Auction-auction-17-68-1" docsrc="Auction">
+      <context> Land &amp; Property Auctions Here you can buy anything from an ancient castle to a brand new <head>commercial</head> premises . Antiques and Collectibles Auctions Auctions of antiques and collectibles are fascinating places and hold the opportunity for viewing a huge array of items . Internet Auctions With a potential audience of millions the Internet is the most exciting part of the auction world at the moment .</context>
+    </instance>
+    <instance id="Auction-auction-17-69-1" docsrc="Auction">
+      <context> Antiques and Collectibles Auctions Auctions of antiques and collectibles are fascinating places and hold the opportunity for <head>viewing</head> a huge array of items . Internet Auctions With a potential audience of millions the Internet is the most exciting part of the auction world at the moment . Led by sites in the United States but closely followed by UK auction houses , specialist Internet auctions are springing up all over the place , selling everything from antiques and collectibles to holidays , air travel , brand new computers , and household equipment .</context>
+    </instance>
+    <instance id="Auction-auction-18-154-1" docsrc="Auction">
+      <context> Instead of asking $ 100 , hoping to entice wide interest ( for who would n't want a <head>$</head> 1,000 car for $ 100 ? ) , the auctioneer may suggest an opening bid of $ 1,000 ; although the first bidder may begin bidding at a mere $ 100 , the final bid may more likely approach $ 1,000 . Appraisal – an estimate of an item 's worth , usually performed by an expert in that particular field . The auctioneer may operate his/her own auction house ( and thus perform the duties of both auctioneer and auction house ) , and/or work for another house .</context>
+    </instance>
+    <instance id="Auction-auction-18-161-1" docsrc="Auction">
+      <context> The auctioneer may operate his/her own auction house ( and thus perform the duties of both auctioneer and <head>auction</head> house ) , and/or work for another house . Auctioneers are frequently regulated by governmental entities , and in those jurisdictions must meet certain criteria to be licensed ( be of a certain age , have no disqualifying criminal record , attend auction school , pass an examination , and pay a licensing fee ) . Auctioneers may or may not ( depending on the laws of the jurisdiction and/or the policies of the auction house ) bid for their own account , or if they do must disclose this to bidders at the auction ; similar rules may apply for employees of the auctioneer or the auction house .</context>
+    </instance>
+    <instance id="Auction-auction-18-173-1" docsrc="Auction">
+      <context> The percentage of items that sell over the course of the auction . Commission – a fee paid <head>by</head> a consignor/seller to the auction house ; it is typically calculated as a percentage of the winning bid and deducted from the gross proceeds due to the consignor/seller . eBidding – electronic bidding , whereby a person may make a bid without being physically present at an auction ( or where the entire auction is taking place on the Internet ) .</context>
+    </instance>
+    <instance id="Auction-auction-18-19-2" docsrc="Auction">
+      <context> During the American civil war goods seized by armies were sold at auction by the Colonel of the <head>division</head> . Thus , some of today 's auctioneers in the U.S. carry the unofficial title of " colonel " . The development of the internet , however , has led to a significant rise in the use of auctions as auctioneers can solicit bids via the internet from a wide range of buyers in a much wider range of commodities than was previously practical .</context>
+    </instance>
+    <instance id="Auction-auction-18-69-2" docsrc="Auction">
+      <context> Internet Auctions With a potential audience of millions the Internet is the most exciting part of the auction <head>world</head> at the moment . Led by sites in the United States but closely followed by UK auction houses , specialist Internet auctions are springing up all over the place , selling everything from antiques and collectibles to holidays , air travel , brand new computers , and household equipment . Titles If you fancy being the Lord of the Manor then you can buy a hereditary title at auction .</context>
+    </instance>
+    <instance id="Auction-auction-2-0-7" docsrc="Auction">
+      <context> While auctions <head>are</head> most associated in the public imagination with the sale of antiques , paintings , rare collectibles and expensive wines , auctions are also used for commodities , livestock , radio spectrum and used cars . In economic theory , an auction may refer to any mechanism or set of trading rules for exchange . Nonetheless , auctions have a long history , having been recorded as early as 500 B.C.</context>
+    </instance>
+    <instance id="Auction-auction-2-101-1" docsrc="Auction">
+      <context> In the <head>sale</head> of all types of real property including residential and commercial real estate , farms , vacant lots and land . Sale of industrial machinery , both surplus or through insolvency . In commodities auctions , like the fish wholesale auctions</context>
+    </instance>
+    <instance id="Auction-auction-2-102-1" docsrc="Auction">
+      <context> Sale of <head>industrial</head> machinery , both surplus or through insolvency . In commodities auctions , like the fish wholesale auctions In livestock auctions where sheep , cattle , pigs and other livestock are sold .</context>
+    </instance>
+    <instance id="Auction-auction-2-103-2" docsrc="Auction">
+      <context> In livestock <head>auctions</head> where sheep , cattle , pigs and other livestock are sold . Sometimes very large numbers of stock are auctioned , such as the regular sales of 50,000 or more sheep during a day in New South Wales . In wool auctions where international agents purchase lots of wool</context>
+    </instance>
+    <instance id="Auction-auction-2-108-3" docsrc="Auction">
+      <context> A variety <head>of</head> holidays are available for sale online particularly via eBay . Vacation rentals appear to be most common . Many holiday auction websites have launched but failed .</context>
+    </instance>
+    <instance id="Auction-auction-2-114-1" docsrc="Auction">
+      <context> Spectrum auctions <head>,</head> in which companies purchase licenses to use portions of the electromagnetic spectrum for communications ( e.g. , mobile phone networks ) Timber auctions , in which companies purchase licenses to log on government land Timber allocation auctions , in which companies purchase timber directly from the government Forest Auctions</context>
+    </instance>
+    <instance id="Auction-auction-2-117-1" docsrc="Auction">
+      <context> Timber allocation <head>auctions</head> , in which companies purchase timber directly from the government Forest Auctions Environmental auctions , in which companies bid for licenses to avoid being required to decrease their environmental impact . These include auctions in emissions trading schemes .</context>
+    </instance>
+    <instance id="Auction-auction-2-12-1" docsrc="Auction">
+      <context> From the <head>end</head> of the Roman Empire to the eighteenth century auctions lost favor in Europe , while they had never been widespread in Asia . === Modern revival === Other early auction houses that are still in operation include Dorotheum ( 1707 ) , Mallams ( 1788 ) , Bonhams ( 1793 ) , Phillips de Pury &amp; Company ( 1796 ) , Freeman 's ( 1805 ) and Lyon &amp; Turnbull ( 1826 ) .</context>
+    </instance>
+    <instance id="Auction-auction-2-194-1" docsrc="Auction">
+      <context> If no <head>one</head> bids at the initial minimum bid , the auctioneer may lower the minimum bid so as to create interest in the item . The minimum bid differs from a reserve price ( see definition ) , in that the auctioneer sets the minimum bid , while the seller sets the reserve price ( if desired ) . No reserve auction ( a/k/a " absolute auction " ) – an auction in which there is no minimum acceptable price ; so long as the winning bid is at least the minimum bid , the seller must honor the sale .</context>
+    </instance>
+    <instance id="Auction-auction-2-220-1" docsrc="Auction">
+      <context> The winner <head>must</head> pay $ 25 ( five baskets @ $ 5 each ) and must take all five baskets . The Journal of Economic Literature ( JEL ) classification code for auctions is D44 . Types of auction :</context>
+    </instance>
+    <instance id="Auction-auction-2-226-1" docsrc="Auction">
+      <context> Art sale <head>Auto</head> auction Bidding fee auction</context>
+    </instance>
+    <instance id="Auction-auction-2-227-1" docsrc="Auction">
+      <context> Auto auction <head>Bidding</head> fee auction Car dealer auctions</context>
+    </instance>
+    <instance id="Auction-auction-2-244-1" docsrc="Auction">
+      <context> Online auction <head>business</head> model Online auction tools Online travel auction</context>
+    </instance>
+    <instance id="Auction-auction-2-30-9" docsrc="Auction">
+      <context> Sometimes the <head>auctioneer</head> sets a minimum amount by which the next bid must exceed the current highest bid . The most significant distinguishing factor of this auction type is that the current highest bid is always available to potential bidders . The English auction is commonly used for selling goods , most prominently antiques and artwork , but also secondhand goods and real estate .</context>
+    </instance>
+    <instance id="Auction-auction-2-31-5" docsrc="Auction">
+      <context> Items are <head>allocated</head> based on bid order ; the highest bidder selects their item(s ) first followed by the second highest bidder , etc ... In a modification , all of the winning participants pay only the last announced price for the items that they bid on . The Dutch auction is named for its best known example , the Dutch tulip auctions .</context>
+    </instance>
+    <instance id="Auction-auction-2-31-8" docsrc="Auction">
+      <context> ( " <head>Dutch</head> auction " is also sometimes used to describe online auctions where several identical goods are sold simultaneously to an equal number of high bidders . ) In addition to cut flower sales in the Netherlands , Dutch auctions have also been used for perishable commodities such as fish and tobacco . The Dutch auction is not widely used .</context>
+    </instance>
+    <instance id="Auction-auction-2-40-2" docsrc="Auction">
+      <context> Auction by <head>the</head> candle . A type of auction , used in England for selling ships , in which the highest bid laid on the table by the time a burning candle goes out wins . Unique bid auctions</context>
+    </instance>
+    <instance id="Auction-auction-2-54-4" docsrc="Auction">
+      <context> This auction <head>is</head> often used in charity events , with many items auctioned simultaneously and " closed " at a common finish time . The auction is " silent " in that there is no auctioneer selling individual items , the bidders writing their bids on a bidding sheet often left on a table near the item . At charity auctions , bid sheets usually have a fixed starting amount , predetermined bid increments , and a " guaranteed bid " amount which works the same as a " buy now " amount .</context>
+    </instance>
+    <instance id="Auction-auction-2-64-1" docsrc="Auction">
+      <context> Here 's <head>a</head> short description of the most common types of auction . Government , Bankruptcy and General Auctions Government and General Auctions are amongst the most common auctions to be found today . A government auction is simply an auction held on behalf of a government body generally at a general sale .</context>
+    </instance>
+    <instance id="Auction-auction-2-94-1" docsrc="Auction">
+      <context> Without modification <head>,</head> auction generally refers to an open , demand auction , with or without a reservation price ( or reserve ) , with the item sold to the highest bidder . Auctions are publicly and privately seen in several contexts and almost anything can be sold at auction . Some typical auction arenas include the following :</context>
+    </instance>
+    <instance id="Auction-auction-2-97-1" docsrc="Auction">
+      <context> The antique <head>business</head> , where besides being an opportunity for trade they also serve as social occasions and entertainment In the sale of collectibles such as stamps , coins , vintage toys &amp; trains , classic cars , fine art and luxury real estate The wine auction business , where serious collectors can gain access to rare bottles and mature vintages , not typically available through retail channels</context>
+    </instance>
+    <instance id="Auction-auction-20-70-2" docsrc="Auction">
+      <context> Titles If you fancy being the Lord of the Manor then you can buy a hereditary title at auction . <head>Every</head> year several of these specialist auctions take place and quite apart from the value to someone who wants to be addressed as Baron or M'Lord , they are enormously entertaining for anyone interested in people watching . A bidder could find themselves bidding for items which are still plugged in , and the great advantage of these auctions taking place on the premises is that they have the opportunity to view the goods as they were being used , and may be able to try them out .</context>
+    </instance>
+    <instance id="Auction-auction-20-73-2" docsrc="Auction">
+      <context> A bidder could find themselves bidding for items which are still plugged in , and the great advantage of these <head>auctions</head> taking place on the premises is that they have the opportunity to view the goods as they were being used , and may be able to try them out . Bidders can also avoid the possibility of goods being damaged whilst they are being removed as they can do it or at least supervise the activity . Each type of auction has its specific qualities such as pricing accuracy and time required for preparing and conducting the auction .</context>
+    </instance>
+    <instance id="Auction-auction-21-139-4" docsrc="Auction">
+      <context> This form of a ring was used as a central plot device in an episode of the British television series Lovejoy <head>(</head> series 4 , episode 3 ) , in which the price of a watercolour by the ( fictional ) Jessie Webb is inflated so that others by the same artist could be sold for more than their purchase price . In Sweden and many other countries there are no legal restrictions , but it will severely hurt the reputation of an auction house that knowingly permits any other bids except genuine bids .</context>
+    </instance>
+    <instance id="Auction-auction-22-142-2" docsrc="Auction">
+      <context> In Sweden and many other countries there are no legal restrictions , but it will severely hurt the reputation of an auction <head>house</head> that knowingly permits any other bids except genuine bids . If the reserve is not reached this should be clearly declared . In South Africa auctioneers can use their staff or any bidder to raise the price as long as its disclosed before the auction sale .</context>
+    </instance>
+    <instance id="Auction-auction-22-56-1" docsrc="Auction">
+      <context> The highest bidder pays the price he or she submitted . Walrasian auction or Walrasian tâtonnement is an auction in which the <head>auctioneer</head> takes bids from both buyers and sellers in a market of multiple goods . The auctioneer progressively either raises or drops the current proposed price depending on the bids of both buyers and sellers , the auction concluding when supply and demand exactly balance .</context>
+    </instance>
+    <instance id="Auction-auction-22-64-4" docsrc="Auction">
+      <context> Here you find a vast range of materials that have to be sold by various government bodies , for example : HM <head>Customs</head> &amp; Excise , the Official Receiver , the Ministry of Defence , local councils and authorities , liquidators , as well as material put up for auction by companies and members of the public . Also in this group you will find auctions ordered by executors who are entering the assets of individuals who have perhaps died in testate ( those who have died without leaving a will ) , or in debt . One of the most interesting bodies to look out for at auction is HM Customs &amp; Excise who may be entering at auction various items seized from smugglers , fraudsters and racketeers .</context>
+    </instance>
+    <instance id="Auction-auction-22-8-2" docsrc="Auction">
+      <context> The Romans also used auctions to liquidate the assets of debtors whose property had been confiscated . For example , Marcus Aurelius <head>sold</head> household furniture to pay off debts , the sales lasting for months . One of the most significant historical auctions occurred in the year 193 A.D. when the entire Roman Empire was put on the auction block by the Praetorian Guard .</context>
+    </instance>
+    <instance id="Auction-auction-23-0-5" docsrc="Auction">
+      <context> An auctioneer may announce prices , bidders may call out their bids themselves ( or have a proxy call out a bid on <head>their</head> behalf ) , or bids may be submitted electronically with the highest current bid publicly displayed . In a Dutch auction , the auctioneer begins with a high asking price for some quantity of like items ; the price is lowered until a participant is willing to accept the auctioneer 's price for some quantity of the goods in the lot or until the seller 's reserve price is met . While auctions are most associated in the public imagination with the sale of antiques , paintings , rare collectibles and expensive wines , auctions are also used for commodities , livestock , radio spectrum and used cars .</context>
+    </instance>
+    <instance id="Auction-auction-23-57-3" docsrc="Auction">
+      <context> Once only two bidders remain , each submits a sealed bid . The higher bidder wins , paying either the first or second <head>price</head> . Both finalists receive a premium : a proportion of the excess of the second price over the third price ( at which English auction ended ) .</context>
+    </instance>
+    <instance id="Auction-auction-24-173-1" docsrc="Auction">
+      <context> The percentage of items that sell over the course of the auction . Commission – a fee paid by a consignor/seller to the auction <head>house</head> ; it is typically calculated as a percentage of the winning bid and deducted from the gross proceeds due to the consignor/seller . eBidding – electronic bidding , whereby a person may make a bid without being physically present at an auction ( or where the entire auction is taking place on the Internet ) .</context>
+    </instance>
+    <instance id="Auction-auction-27-199-2" docsrc="Auction">
+      <context> Opening bid – the first bid placed on a particular lot . The opening bid must be at least the minimum bid , but may be higher <head>(</head> e.g. , a bidder may shout out a considerably larger bid than minimum , to discourage other bidders from bidding ) . Proxy bid ( a/k/a " absentee bid " ) – a bid placed by an authorized representative of a bidder who is not physically present at the auction .</context>
+    </instance>
+    <instance id="Auction-auction-28-109-1" docsrc="Auction">
+      <context> Many holiday auction websites have launched but failed . Self storage units . In certain jurisdictions , if a storage facility 's tenant fails to pay his/her rent <head>,</head> the contents of his/her locker(s ) may be sold at a public auction .</context>
+    </instance>
+    <instance id="Auction-auction-3-0-4" docsrc="Auction">
+      <context> Participants bid openly <head>against</head> one another , with each subsequent bid required to be higher than the previous bid . An auctioneer may announce prices , bidders may call out their bids themselves ( or have a proxy call out a bid on their behalf ) , or bids may be submitted electronically with the highest current bid publicly displayed . In a Dutch auction , the auctioneer begins with a high asking price for some quantity of like items ; the price is lowered until a participant is willing to accept the auctioneer 's price for some quantity of the goods in the lot or until the seller 's reserve price is met .</context>
+    </instance>
+    <instance id="Auction-auction-3-169-1" docsrc="Auction">
+      <context> If the bidder <head>takes</head> more than one item , the price paid is " times the money " ( see below ) . Items not selected by the winning bidder may then be reauctioned to other bidders . Example : An auction has five bath fragrance gift baskets where bidding is " choice " , and the hammer price is USD $ 5 .</context>
+    </instance>
+    <instance id="Auction-auction-3-188-1" docsrc="Auction">
+      <context> If the lot <head>is</head> for a group of items , the price paid is for the entire lot and the winning bidder must take all the items sold . Variants on a group lot bid include " choice " and " times the money " ( see definitions for each ) . Example : An auction has five bath fragrance gift baskets where bidding is " lot " , and the hammer price is USD $ 5 .</context>
+    </instance>
+    <instance id="Auction-auction-3-213-1" docsrc="Auction">
+      <context> Sniping – the <head>act</head> of placing a bid just before the end of a timed auction , thus giving other bidders no time to enter new bids . " Times the money " differs from " lot " in that the price is per item , not one price for all of the items as a group . Example : An auction has five bath fragrance gift baskets where bidding is " times the money " , and the hammer price is USD $ 5 .</context>
+    </instance>
+    <instance id="Auction-auction-3-30-1" docsrc="Auction">
+      <context> There are traditionally <head>four</head> types of auction that are used for the allocation of a single item : English auction , also known as an open ascending price auction . This type of auction is arguably the most common form of auction in use today .</context>
+    </instance>
+    <instance id="Auction-auction-3-31-6" docsrc="Auction">
+      <context> In a modification <head>,</head> all of the winning participants pay only the last announced price for the items that they bid on . The Dutch auction is named for its best known example , the Dutch tulip auctions . ( " Dutch auction " is also sometimes used to describe online auctions where several identical goods are sold simultaneously to an equal number of high bidders . )</context>
+    </instance>
+    <instance id="Auction-auction-3-40-1" docsrc="Auction">
+      <context> This type can <head>be</head> further classified as either a uniform price auction or a discriminatory price auction . Auction by the candle . A type of auction , used in England for selling ships , in which the highest bid laid on the table by the time a burning candle goes out wins .</context>
+    </instance>
+    <instance id="Auction-auction-3-45-1" docsrc="Auction">
+      <context> A type of <head>auction</head> , used in England for selling ships , in which the highest bid laid on the table by the time a burning candle goes out wins . Unique bid auctions Many homogenous item auctions , e.g. , spectrum auctions</context>
+    </instance>
+    <instance id="Auction-auction-3-47-3" docsrc="Auction">
+      <context> When the bidding <head>starts</head> no new bidders can join , and each bidder must continue to bid each round or drop out . It has similarities to the ante in Poker . Lloyd 's syndicate auction .</context>
+    </instance>
+    <instance id="Auction-auction-3-64-5" docsrc="Auction">
+      <context> Also in this <head>group</head> you will find auctions ordered by executors who are entering the assets of individuals who have perhaps died in testate ( those who have died without leaving a will ) , or in debt . One of the most interesting bodies to look out for at auction is HM Customs &amp; Excise who may be entering at auction various items seized from smugglers , fraudsters and racketeers . Police Auctions Police auctions are generally held at general auctions although some forces use online sites including eBay to dispose of lost and found and seized goods .</context>
+    </instance>
+    <instance id="Auction-auction-3-66-1" docsrc="Auction">
+      <context> One of the <head>most</head> interesting bodies to look out for at auction is HM Customs &amp; Excise who may be entering at auction various items seized from smugglers , fraudsters and racketeers . Police Auctions Police auctions are generally held at general auctions although some forces use online sites including eBay to dispose of lost and found and seized goods . Land &amp; Property Auctions Here you can buy anything from an ancient castle to a brand new commercial premises .</context>
+    </instance>
+    <instance id="Auction-auction-3-67-1" docsrc="Auction">
+      <context> Police Auctions Police <head>auctions</head> are generally held at general auctions although some forces use online sites including eBay to dispose of lost and found and seized goods . Land &amp; Property Auctions Here you can buy anything from an ancient castle to a brand new commercial premises . Antiques and Collectibles Auctions Auctions of antiques and collectibles are fascinating places and hold the opportunity for viewing a huge array of items .</context>
+    </instance>
+    <instance id="Auction-auction-3-73-2" docsrc="Auction">
+      <context> A bidder could <head>find</head> themselves bidding for items which are still plugged in , and the great advantage of these auctions taking place on the premises is that they have the opportunity to view the goods as they were being used , and may be able to try them out . Bidders can also avoid the possibility of goods being damaged whilst they are being removed as they can do it or at least supervise the activity . Each type of auction has its specific qualities such as pricing accuracy and time required for preparing and conducting the auction .</context>
+    </instance>
+    <instance id="Auction-auction-3-83-1" docsrc="Auction">
+      <context> Auctions can differ <head>in</head> the number of participants : In a supply ( or reverse ) auction , m sellers offer a good that a buyer requests In a demand auction , n buyers bid for a good being sold</context>
+    </instance>
+    <instance id="Auction-auction-3-84-1" docsrc="Auction">
+      <context> In a supply <head>(</head> or reverse ) auction , m sellers offer a good that a buyer requests In a demand auction , n buyers bid for a good being sold In a double auction n buyers bid to buy goods from m sellers</context>
+    </instance>
+    <instance id="Auction-auction-3-86-2" docsrc="Auction">
+      <context> Prices are bid <head>by</head> buyers and asked ( or offered ) by sellers . Auctions may also differ by the procedure for bidding ( or asking , as the case may be ) : In an open auction participants may repeatedly bid and are aware of each other 's previous bids .</context>
+    </instance>
+    <instance id="Auction-auction-3-87-1" docsrc="Auction">
+      <context> Auctions may also <head>differ</head> by the procedure for bidding ( or asking , as the case may be ) : In an open auction participants may repeatedly bid and are aware of each other 's previous bids . In a closed auction buyers and/or sellers submit sealed bids</context>
+    </instance>
+    <instance id="Auction-auction-3-89-2" docsrc="Auction">
+      <context> Auctions may differ <head>as</head> to the price at which the item is sold , whether the first ( best ) price , the second price , the first unique price or some other . Auctions may set a reservation price which is the least/maximum acceptable price for which a good may be sold/bought . Without modification , auction generally refers to an open , demand auction , with or without a reservation price ( or reserve ) , with the item sold to the highest bidder .</context>
+    </instance>
+    <instance id="Auction-auction-30-137-1" docsrc="Auction">
+      <context> === Chandelier or rafter bidding === === Collusion === Whenever bidders at an auction are aware of the identity of the other bidders there is a risk that they will <head>form</head> a " ring " and thus manipulate the auction result , a practice known as collusion .</context>
+    </instance>
+    <instance id="Auction-auction-33-160-1" docsrc="Auction">
+      <context> Appraisal – an estimate of an item 's worth , usually performed by an expert in that particular field . The auctioneer may operate his/her own auction house ( and thus perform the <head>duties</head> of both auctioneer and auction house ) , and/or work for another house . Auctioneers are frequently regulated by governmental entities , and in those jurisdictions must meet certain criteria to be licensed ( be of a certain age , have no disqualifying criminal record , attend auction school , pass an examination , and pay a licensing fee ) .</context>
+    </instance>
+    <instance id="Auction-auction-35-177-1" docsrc="Auction">
+      <context> Commission – a fee paid by a consignor/seller to the auction house ; it is typically calculated as a percentage of the winning bid and deducted from the gross proceeds due to the consignor/seller . <head>eBidding</head> – electronic bidding , whereby a person may make a bid without being physically present at an auction ( or where the entire auction is taking place on the Internet ) . Earnest money deposit ( a/k/a " caution money deposit " or " registration deposit " ) – a payment that must be made by prospective bidders ahead of time in order to participate in an auction .</context>
+    </instance>
+    <instance id="Auction-auction-37-20-1" docsrc="Auction">
+      <context> Thus , some of today 's auctioneers in the U.S. carry the unofficial title of " colonel " . The development of the internet , however , has led to a significant rise in the use of <head>auctions</head> as auctioneers can solicit bids via the internet from a wide range of buyers in a much wider range of commodities than was previously practical . In 2008 , the National Auctioneers Association reported that the gross revenue of the auction industry for that year was approximately $ 268.4 billion , with the fastest growing sectors being agricultural , machinery , and equipment auctions and residential real estate auctions .</context>
+    </instance>
+    <instance id="Auction-auction-38-161-1" docsrc="Auction">
+      <context> The auctioneer may operate his/her own auction house ( and thus perform the duties of both auctioneer and auction house ) , and/or work for another house . Auctioneers are frequently regulated by governmental entities , and in <head>those</head> jurisdictions must meet certain criteria to be licensed ( be of a certain age , have no disqualifying criminal record , attend auction school , pass an examination , and pay a licensing fee ) . Auctioneers may or may not ( depending on the laws of the jurisdiction and/or the policies of the auction house ) bid for their own account , or if they do must disclose this to bidders at the auction ; similar rules may apply for employees of the auctioneer or the auction house .</context>
+    </instance>
+    <instance id="Auction-auction-4-0-1" docsrc="Auction">
+      <context> An auction is a <head>process</head> of buying and selling goods or services by offering them up for bid , taking bids , and then selling the item to the highest bidder . The open ascending price auction is arguably the most common form of auction in use today .</context>
+    </instance>
+    <instance id="Auction-auction-4-137-1" docsrc="Auction">
+      <context> === Chandelier or rafter <head>bidding</head> === === Collusion === Whenever bidders at an auction are aware of the identity of the other bidders there is a risk that they will form a " ring " and thus manipulate the auction result , a practice known as collusion .</context>
+    </instance>
+    <instance id="Auction-auction-4-147-1" docsrc="Auction">
+      <context> === Suggested opening bid <head>(</head> SOB ) === There will usually be an estimate of what price the lot will fetch . In an ascending open auction it is considered important to get at least a 50-percent increase in the bids from start to finish .</context>
+    </instance>
+    <instance id="Auction-auction-4-31-1" docsrc="Auction">
+      <context> The English auction is <head>commonly</head> used for selling goods , most prominently antiques and artwork , but also secondhand goods and real estate . Dutch auction also known as an open descending price auction . In the traditional Dutch auction the auctioneer begins with a high asking price for some quantity of like items ; the price is lowered until a participant is willing to accept the auctioneer 's price for some quantity of the goods in the lot or until the seller 's reserve price is met .</context>
+    </instance>
+    <instance id="Auction-auction-4-67-1" docsrc="Auction">
+      <context> Police Auctions Police auctions <head>are</head> generally held at general auctions although some forces use online sites including eBay to dispose of lost and found and seized goods . Land &amp; Property Auctions Here you can buy anything from an ancient castle to a brand new commercial premises . Antiques and Collectibles Auctions Auctions of antiques and collectibles are fascinating places and hold the opportunity for viewing a huge array of items .</context>
+    </instance>
+    <instance id="Auction-auction-4-7-2" docsrc="Auction">
+      <context> During the Roman Empire <head>,</head> following military victory , Roman soldiers would often drive a spear into the ground around which the spoils of war were left , to be auctioned off . Later slaves , often captured as the " spoils of war " , were auctioned in the forum under the sign of the spear , with the proceeds of sale going towards the war effort . The Romans also used auctions to liquidate the assets of debtors whose property had been confiscated .</context>
+    </instance>
+    <instance id="Auction-auction-42-20-1" docsrc="Auction">
+      <context> Thus , some of today 's auctioneers in the U.S. carry the unofficial title of " colonel " . The development of the internet , however , has led to a significant rise in the use of auctions as auctioneers can solicit <head>bids</head> via the internet from a wide range of buyers in a much wider range of commodities than was previously practical . In 2008 , the National Auctioneers Association reported that the gross revenue of the auction industry for that year was approximately $ 268.4 billion , with the fastest growing sectors being agricultural , machinery , and equipment auctions and residential real estate auctions .</context>
+    </instance>
+    <instance id="Auction-auction-49-64-2" docsrc="Auction">
+      <context> Government , Bankruptcy and General Auctions Government and General Auctions are amongst the most common auctions to be found today . A government auction is simply an auction held on behalf of a government body generally at a general sale . Here you find a vast range of materials <head>that</head> have to be sold by various government bodies , for example : HM Customs &amp; Excise , the Official Receiver , the Ministry of Defence , local councils and authorities , liquidators , as well as material put up for auction by companies and members of the public .</context>
+    </instance>
+    <instance id="Auction-auction-5-0-6" docsrc="Auction">
+      <context> In a Dutch auction , <head>the</head> auctioneer begins with a high asking price for some quantity of like items ; the price is lowered until a participant is willing to accept the auctioneer 's price for some quantity of the goods in the lot or until the seller 's reserve price is met . While auctions are most associated in the public imagination with the sale of antiques , paintings , rare collectibles and expensive wines , auctions are also used for commodities , livestock , radio spectrum and used cars . In economic theory , an auction may refer to any mechanism or set of trading rules for exchange .</context>
+    </instance>
+    <instance id="Auction-auction-5-110-1" docsrc="Auction">
+      <context> Several television shows focus on <head>such</head> auctions , including Storage Wars and Auction Hunters . Although less publicly visible , the most economically important auctions are the commodities auctions in which the bidders are businesses even up to corporation level . Examples of this type of auction include :</context>
+    </instance>
+    <instance id="Auction-auction-5-63-1" docsrc="Auction">
+      <context> === Genres === Here 's <head>a</head> short description of the most common types of auction . Government , Bankruptcy and General Auctions Government and General Auctions are amongst the most common auctions to be found today .</context>
+    </instance>
+    <instance id="Auction-auction-51-161-1" docsrc="Auction">
+      <context> The auctioneer may operate his/her own auction house ( and thus perform the duties of both auctioneer and auction house ) , and/or work for another house . Auctioneers are frequently regulated by governmental entities , and in those jurisdictions must meet certain criteria to be licensed ( be of a <head>certain</head> age , have no disqualifying criminal record , attend auction school , pass an examination , and pay a licensing fee ) . Auctioneers may or may not ( depending on the laws of the jurisdiction and/or the policies of the auction house ) bid for their own account , or if they do must disclose this to bidders at the auction ; similar rules may apply for employees of the auctioneer or the auction house .</context>
+    </instance>
+    <instance id="Auction-auction-6-109-2" docsrc="Auction">
+      <context> Self storage units . In certain <head>jurisdictions</head> , if a storage facility 's tenant fails to pay his/her rent , the contents of his/her locker(s ) may be sold at a public auction . Several television shows focus on such auctions , including Storage Wars and Auction Hunters .</context>
+    </instance>
+    <instance id="Auction-auction-6-129-1" docsrc="Auction">
+      <context> === Bid shading === Bid shading <head>is</head> placing a bid which is below the bidder 's actual value for the item . Such a strategy risks losing the auction , but has the possibility of winning at a low price .</context>
+    </instance>
+    <instance id="Auction-auction-6-138-2" docsrc="Auction">
+      <context> Whenever bidders at an auction are <head>aware</head> of the identity of the other bidders there is a risk that they will form a " ring " and thus manipulate the auction result , a practice known as collusion . By agreeing to bid only against outsiders , never against members of the " ring " , competition becomes weaker , which may dramatically affect the final price level . After the end of the official auction an unofficial auction may take place among the " ring " members .</context>
+    </instance>
+    <instance id="Auction-auction-6-154-1" docsrc="Auction">
+      <context> Instead of asking $ 100 , <head>hoping</head> to entice wide interest ( for who would n't want a $ 1,000 car for $ 100 ? ) , the auctioneer may suggest an opening bid of $ 1,000 ; although the first bidder may begin bidding at a mere $ 100 , the final bid may more likely approach $ 1,000 . Appraisal – an estimate of an item 's worth , usually performed by an expert in that particular field . The auctioneer may operate his/her own auction house ( and thus perform the duties of both auctioneer and auction house ) , and/or work for another house .</context>
+    </instance>
+    <instance id="Auction-auction-6-27-1" docsrc="Auction">
+      <context> In 2008 , the National Auctioneers <head>Association</head> reported that the gross revenue of the auction industry for that year was approximately $ 268.4 billion , with the fastest growing sectors being agricultural , machinery , and equipment auctions and residential real estate auctions . === Primary === There are traditionally four types of auction that are used for the allocation of a single item :</context>
+    </instance>
+    <instance id="Auction-auction-6-37-1" docsrc="Auction">
+      <context> Secondary === Most auction theory revolves <head>around</head> these four " standard " auction types . However , many other types of auctions exist , generally sharing many , including :</context>
+    </instance>
+    <instance id="Auction-auction-6-54-1" docsrc="Auction">
+      <context> Lloyd 's syndicate auction . Silent <head>auction</head> is a variant of the English auction in which bids are written on a sheet of paper . At the predetermined end of the auction , the highest listed bidder wins the item .</context>
+    </instance>
+    <instance id="Auction-auction-6-54-5" docsrc="Auction">
+      <context> The auction is " silent " <head>in</head> that there is no auctioneer selling individual items , the bidders writing their bids on a bidding sheet often left on a table near the item . At charity auctions , bid sheets usually have a fixed starting amount , predetermined bid increments , and a " guaranteed bid " amount which works the same as a " buy now " amount . Other variations of this type of auction may include sealed bids .</context>
+    </instance>
+    <instance id="Auction-auction-6-6-1" docsrc="Auction">
+      <context> In economic theory , an auction <head>may</head> refer to any mechanism or set of trading rules for exchange . Nonetheless , auctions have a long history , having been recorded as early as 500 B.C. According to Herodotus , in Babylon auctions of women for marriage were held annually .</context>
+    </instance>
+    <instance id="Auction-auction-6-64-1" docsrc="Auction">
+      <context> Here 's a short description of <head>the</head> most common types of auction . Government , Bankruptcy and General Auctions Government and General Auctions are amongst the most common auctions to be found today . A government auction is simply an auction held on behalf of a government body generally at a general sale .</context>
+    </instance>
+    <instance id="Auction-auction-6-70-1" docsrc="Auction">
+      <context> Led by sites in the United <head>States</head> but closely followed by UK auction houses , specialist Internet auctions are springing up all over the place , selling everything from antiques and collectibles to holidays , air travel , brand new computers , and household equipment . Titles If you fancy being the Lord of the Manor then you can buy a hereditary title at auction . Every year several of these specialist auctions take place and quite apart from the value to someone who wants to be addressed as Baron or M'Lord , they are enormously entertaining for anyone interested in people watching .</context>
+    </instance>
+    <instance id="Auction-auction-6-8-2" docsrc="Auction">
+      <context> The Romans also used auctions to <head>liquidate</head> the assets of debtors whose property had been confiscated . For example , Marcus Aurelius sold household furniture to pay off debts , the sales lasting for months . One of the most significant historical auctions occurred in the year 193 A.D. when the entire Roman Empire was put on the auction block by the Praetorian Guard .</context>
+    </instance>
+    <instance id="Auction-auction-7-138-3" docsrc="Auction">
+      <context> By agreeing to bid only against outsiders <head>,</head> never against members of the " ring " , competition becomes weaker , which may dramatically affect the final price level . After the end of the official auction an unofficial auction may take place among the " ring " members . The difference in price between the two auctions could then be split among the members .</context>
+    </instance>
+    <instance id="Auction-auction-7-18-1" docsrc="Auction">
+      <context> Other early auction houses that are still <head>in</head> operation include Dorotheum ( 1707 ) , Mallams ( 1788 ) , Bonhams ( 1793 ) , Phillips de Pury &amp; Company ( 1796 ) , Freeman 's ( 1805 ) and Lyon &amp; Turnbull ( 1826 ) . By the end of the 18th century , auctions of art works were commonly held in taverns and coffeehouses . These auctions were held daily , and auction catalogs were printed to announce available items .</context>
+    </instance>
+    <instance id="Auction-auction-7-194-1" docsrc="Auction">
+      <context> If no one bids at the initial <head>minimum</head> bid , the auctioneer may lower the minimum bid so as to create interest in the item . The minimum bid differs from a reserve price ( see definition ) , in that the auctioneer sets the minimum bid , while the seller sets the reserve price ( if desired ) . No reserve auction ( a/k/a " absolute auction " ) – an auction in which there is no minimum acceptable price ; so long as the winning bid is at least the minimum bid , the seller must honor the sale .</context>
+    </instance>
+    <instance id="Auction-auction-7-30-8" docsrc="Auction">
+      <context> Alternatively , if the seller has set <head>a</head> minimum sale price in advance ( the ' reserve ' price ) and the final bid does not reach that price the item remains unsold . Sometimes the auctioneer sets a minimum amount by which the next bid must exceed the current highest bid . The most significant distinguishing factor of this auction type is that the current highest bid is always available to potential bidders .</context>
+    </instance>
+    <instance id="Auction-auction-7-54-7" docsrc="Auction">
+      <context> Other variations of this type of auction <head>may</head> include sealed bids . The highest bidder pays the price he or she submitted . Walrasian auction or Walrasian tâtonnement is an auction in which the auctioneer takes bids from both buyers and sellers in a market of multiple goods .</context>
+    </instance>
+    <instance id="Auction-auction-7-56-3" docsrc="Auction">
+      <context> The auctioneer progressively either raises or drops <head>the</head> current proposed price depending on the bids of both buyers and sellers , the auction concluding when supply and demand exactly balance . As a high price tends to dampen demand while a low price tends to increase demand , in theory there is a particular price somewhere in the middle where supply and demand will match . Amsterdam auctions , a type of premium auction which begins as an English auction .</context>
+    </instance>
+    <instance id="Auction-auction-7-64-3" docsrc="Auction">
+      <context> A government auction is simply an auction <head>held</head> on behalf of a government body generally at a general sale . Here you find a vast range of materials that have to be sold by various government bodies , for example : HM Customs &amp; Excise , the Official Receiver , the Ministry of Defence , local councils and authorities , liquidators , as well as material put up for auction by companies and members of the public . Also in this group you will find auctions ordered by executors who are entering the assets of individuals who have perhaps died in testate ( those who have died without leaving a will ) , or in debt .</context>
+    </instance>
+    <instance id="Auction-auction-7-82-1" docsrc="Auction">
+      <context> Of special interest and importance during the <head>actual</head> auction is the time elapsed from the moment that the first bid is revealed to the moment that the final ( winning ) bid has become a binding agreement . Auctions can differ in the number of participants : In a supply ( or reverse ) auction , m sellers offer a good that a buyer requests</context>
+    </instance>
+    <instance id="Auction-auction-8-101-1" docsrc="Auction">
+      <context> In the sale of all types of real <head>property</head> including residential and commercial real estate , farms , vacant lots and land . Sale of industrial machinery , both surplus or through insolvency . In commodities auctions , like the fish wholesale auctions</context>
+    </instance>
+    <instance id="Auction-auction-8-17-1" docsrc="Auction">
+      <context> === Modern revival === Other early auction houses <head>that</head> are still in operation include Dorotheum ( 1707 ) , Mallams ( 1788 ) , Bonhams ( 1793 ) , Phillips de Pury &amp; Company ( 1796 ) , Freeman 's ( 1805 ) and Lyon &amp; Turnbull ( 1826 ) . By the end of the 18th century , auctions of art works were commonly held in taverns and coffeehouses .</context>
+    </instance>
+    <instance id="Auction-auction-8-45-1" docsrc="Auction">
+      <context> A type of auction , used in England <head>for</head> selling ships , in which the highest bid laid on the table by the time a burning candle goes out wins . Unique bid auctions Many homogenous item auctions , e.g. , spectrum auctions</context>
+    </instance>
+    <instance id="Auction-auction-8-46-1" docsrc="Auction">
+      <context> Unique bid auctions Many homogenous item auctions , <head>e.g.</head> , spectrum auctions Japanese auction is a variation of the English auction .</context>
+    </instance>
+    <instance id="Auction-auction-8-48-1" docsrc="Auction">
+      <context> It has similarities to the ante in Poker <head>.</head> Lloyd 's syndicate auction . Silent auction is a variant of the English auction in which bids are written on a sheet of paper .</context>
+    </instance>
+    <instance id="Auction-auction-8-78-4" docsrc="Auction">
+      <context> Open bidding during an extended period of time <head>with</head> many bidders will result in a final bid that is very close to the true market value . Where there are few bidders and each bidder is allowed only one bid , time is saved , but the winning bid may not reflect the true market value with any degree of accuracy . Of special interest and importance during the actual auction is the time elapsed from the moment that the first bid is revealed to the moment that the final ( winning ) bid has become a binding agreement .</context>
+    </instance>
+    <instance id="Auction-auction-9-109-3" docsrc="Auction">
+      <context> In certain jurisdictions , if a storage facility 's <head>tenant</head> fails to pay his/her rent , the contents of his/her locker(s ) may be sold at a public auction . Several television shows focus on such auctions , including Storage Wars and Auction Hunters . Although less publicly visible , the most economically important auctions are the commodities auctions in which the bidders are businesses even up to corporation level .</context>
+    </instance>
+    <instance id="Auction-auction-9-138-2" docsrc="Auction">
+      <context> Whenever bidders at an auction are aware of the <head>identity</head> of the other bidders there is a risk that they will form a " ring " and thus manipulate the auction result , a practice known as collusion . By agreeing to bid only against outsiders , never against members of the " ring " , competition becomes weaker , which may dramatically affect the final price level . After the end of the official auction an unofficial auction may take place among the " ring " members .</context>
+    </instance>
+    <instance id="Auction-auction-9-147-2" docsrc="Auction">
+      <context> There will usually be an estimate of what price <head>the</head> lot will fetch . In an ascending open auction it is considered important to get at least a 50-percent increase in the bids from start to finish . To accomplish this , the auctioneer must start the auction by announcing a suggested opening bid ( SOB ) that is low enough to be immediately accepted by one of the bidders .</context>
+    </instance>
+    <instance id="Auction-auction-9-241-1" docsrc="Auction">
+      <context> Foreclosure Game theory Monopoly ( game ) , a <head>game</head> in which auction is sometimes used</context>
+    </instance>
+    <instance id="Auction-auction-9-30-10" docsrc="Auction">
+      <context> The most significant distinguishing factor of this auction type <head>is</head> that the current highest bid is always available to potential bidders . The English auction is commonly used for selling goods , most prominently antiques and artwork , but also secondhand goods and real estate . Dutch auction also known as an open descending price auction .</context>
+    </instance>
+    <instance id="Auction-auction-9-63-1" docsrc="Auction">
+      <context> === Genres === Here 's a short description of <head>the</head> most common types of auction . Government , Bankruptcy and General Auctions Government and General Auctions are amongst the most common auctions to be found today .</context>
+    </instance>
+    <instance id="Auction-auction-9-64-5" docsrc="Auction">
+      <context> Also in this group you will find auctions ordered <head>by</head> executors who are entering the assets of individuals who have perhaps died in testate ( those who have died without leaving a will ) , or in debt . One of the most interesting bodies to look out for at auction is HM Customs &amp; Excise who may be entering at auction various items seized from smugglers , fraudsters and racketeers . Police Auctions Police auctions are generally held at general auctions although some forces use online sites including eBay to dispose of lost and found and seized goods .</context>
+    </instance>
+    <instance id="Auction_bridge-auction-0-9-1" docsrc="Auction_bridge">
+      <context> <head>Because</head> of this , accurate bidding becomes much more important in contract bridge : partners have to use the bidding to tell each other what their suits and strengths are , so a judgement can be made as to what the chances are of making a game . The bidding , play and laws are the same as contract bridge . Auction bridge is scored according to the following rules .</context>
+    </instance>
+    <instance id="Auction_bridge-auction-12-0-2" docsrc="Auction_bridge">
+      <context> The card game auction bridge , the third step in the evolution <head>of</head> the general game of bridge , was developed from straight bridge ( i.e. bridge whist ) in 1904 . The precursor to contract bridge , its predecessors were whist and bridge whist . The main difference between auction bridge and contract bridge is that in auction bridge a game is scored whenever the required number of tricks ( nine in Notrump , ten in Hearts or Spades , eleven in Clubs or Diamonds ) is scored , and in contract bridge the number of points from tricks taken past the bid do not count towards making a game .</context>
+    </instance>
+    <instance id="Auction_bridge-auction-3-40-1" docsrc="Auction_bridge">
+      <context> Russian whist Rules <head>of</head> Card Games : Bridge THE LAWS OF AUCTION BRIDGE ( 1908 )</context>
+    </instance>
+    <instance id="Auction_bridge-auction-3-41-1" docsrc="Auction_bridge">
+      <context> Rules of Card <head>Games</head> : Bridge THE LAWS OF AUCTION BRIDGE ( 1908 )</context>
+    </instance>
+    <instance id="Auction_bridge-auction-4-0-2" docsrc="Auction_bridge">
+      <context> The card game auction <head>bridge</head> , the third step in the evolution of the general game of bridge , was developed from straight bridge ( i.e. bridge whist ) in 1904 . The precursor to contract bridge , its predecessors were whist and bridge whist . The main difference between auction bridge and contract bridge is that in auction bridge a game is scored whenever the required number of tricks ( nine in Notrump , ten in Hearts or Spades , eleven in Clubs or Diamonds ) is scored , and in contract bridge the number of points from tricks taken past the bid do not count towards making a game .</context>
+    </instance>
+  </lexelt>
+</corpus>

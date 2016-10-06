@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="reason.n" pos="NN">
+    <instance id="a00096072_d_5" docsrc="a00096072_d">
+      <context> murdered by surprise_attack for political <head>reasons</head> ;</context>
+    </instance>
+    <instance id="a00583990_d_9" docsrc="a00583990_d">
+      <context> likely to change frequently often without apparent or cogent <head>reason</head> ; variable ;</context>
+    </instance>
+    <instance id="a00719442_d_12" docsrc="a00719442_d">
+      <context> determined by chance or impulse or whim rather than by necessity or <head>reason</head> ;</context>
+    </instance>
+    <instance id="a01889256_d_16" docsrc="a01889256_d">
+      <context> feeling self-respect or pleasure in something by which you measure your self-worth ; or being a <head>reason</head> for pride ;</context>
+    </instance>
+    <instance id="a01943406_d_1" docsrc="a01943406_d">
+      <context> showing <head>reason</head> or sound_judgment ;</context>
+    </instance>
+    <instance id="n01191158_d_1" docsrc="n01191158_d">
+      <context> the <head>reason</head> for a court's judgment ( as opposed to the decision itself ) ;</context>
+    </instance>
+    <instance id="n06740402_ex2_3" docsrc="n06740402_ex2">
+      <context> they had good <head>reason</head> to rejoice ;</context>
+    </instance>
+    <instance id="n09179264_d_0" docsrc="n09179264_d">
+      <context> <head>reason</head> ;</context>
+    </instance>
+    <instance id="r00043003_d_4" docsrc="r00043003_d">
+      <context> from that fact or <head>reason</head> or as a result ;</context>
+    </instance>
+    <instance id="r00063483_d_11" docsrc="r00063483_d">
+      <context> with greater reason ; for a still stronger , more certain <head>reason</head> ;</context>
+    </instance>
+    <instance id="r00063483_d_2" docsrc="r00063483_d">
+      <context> with greater <head>reason</head> ; for a still stronger , more certain reason ;</context>
+    </instance>
+    <instance id="r00238674_d_2" docsrc="r00238674_d">
+      <context> with good <head>reason</head> ;</context>
+    </instance>
+    <instance id="r00505450_d_1" docsrc="r00505450_d">
+      <context> with <head>reason</head> or justice ;</context>
+    </instance>
+    <instance id="v00893435_d_3" docsrc="v00893435_d">
+      <context> serve as a <head>reason</head> or cause or justification of ;</context>
+    </instance>
+  </lexelt>
+</corpus>

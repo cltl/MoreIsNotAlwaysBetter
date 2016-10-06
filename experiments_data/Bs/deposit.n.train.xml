@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="deposit.n" pos="NN">
+    <instance id="br-e21#w1359_0" docsrc="br-e21">
+      <context> Each area has its own historical interests with which much can be done . Park visitors are always eager to learn more about the area they are in . The historical sign tells its story , but nothing gets interest across as well as some of the original historical items or places themselves which still have the character of the period covered . Notice should be taken_of unusual rock formations , <head>deposits</head> , or shapes of the earth 's crust in your region . Those which tell a story of the earth 's formation in each area can add geological interest to the recreation sites . An old shipwreck , a high dam , an old covered bridge , a place to find agates or other semi-precious stones or a place to pan gold , etcetera may be of interest . Some areas may provide archeological values such as ancient Indian village sites or hunting areas , caves , artifacts , etcetera .</context>
+    </instance>
+    <instance id="br-j10#w2163_0" docsrc="br-j10">
+      <context> The thing is that these bees love a fine-grained soil that is moist ; yet the water in the ground should not be stagnant either . They dislike dense vegetation . Where does one find such conditions ? The best chance , of_course , is offered by gently sloping terrain where the water remains close to the surface and where the air is dry , so that a high evaporation leaves salty <head>deposits</head> which permit only sparse plant growth .</context>
+    </instance>
+  </lexelt>
+</corpus>

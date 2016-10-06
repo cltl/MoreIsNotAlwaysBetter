@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="net.n" pos="NN">
+    <instance id="Profit_(accounting)-net-3-147-2" docsrc="Profit_(accounting)">
+      <context> Net sales = <head>Gross</head> sales – ( Customer Discounts , Returns , Allowances ) Gross profit = Net sales –</context>
+    </instance>
+    <instance id="Profit_(accounting)-net-3-150-1" docsrc="Profit_(accounting)">
+      <context> Operating Profit = <head>Gross</head> Profit – Total operating expenses Net profit = Operating Profit – taxes – interest Net profit = Net sales –</context>
+    </instance>
+    <instance id="Profit_(accounting)-net-6-138-1" docsrc="Profit_(accounting)">
+      <context> It is also known as Operating <head>Profit</head> Before Interest and Taxes ( OPBIT ) or simply Profit Before Interest and Taxes ( PBIT ) . Earnings After Tax/ Net Profit After Tax equal sales revenue after deducting all expenses , including taxes ( unless some distinction about the treatment of extraordinary expenses is made ) . In the US , the term Net Income is commonly used .</context>
+    </instance>
+    <instance id="br-g20#w1178_0" docsrc="br-g20">
+      <context> Alexander_the_Great , who used runners as message carriers , did not have to worry about having every officer in his command hear what he said and having hundreds of them comment at_once . As time has passed and science has progressed , the speed of military_vehicles has increased , the range of missiles has been extended , the use of target-hunting noses on the projectiles has been adopted , and the range and breadth of message sending has increased . Next to the old problem of the slowness of decision_making , network structure seems to be paramount , and without monitoring no network has value . On the parade_ground the <head>net</head> may be similar to that shown in Figure 3 . The monitoring is the highest and most restrictive of any organization in existence . No questions , statements , or explanations are permitted - only commands . Commands go only from an officer to the man of nearest lower_rank .</context>
+    </instance>
+    <instance id="br-g20#w1861_0" docsrc="br-g20">
+      <context> A further regulation is that commands always go_down , unaccompanied by statements , and statements always go_up , unaccompanied by commands . Questions and , particularly , exclamations are usually channeled along informal , horizontal lines not indicated in Figure 3 and seldom are carried beyond the nearest neighbor . It will readily be seen that in this suggested network ( not materially different from some of the networks in_vogue today ) greater emphasis on monitoring is implied than is usually put into practice . Furthermore , the network in Figure 3 is only the basic <head>net</head> through which other networks pertaining to logistics and the_like are interlaced . Not discussed here are some military problems of modern_times such_as undersea warfare , where the surveillance , sending , transmitting , and receiving are all so inadequate that networks and decision_making are not the bottlenecks . Such problems are of extreme interest as well as importance and are so much like fighting in a rain_forest or guerrilla warfare at night in tall grass that we might have to re-examine primitive conflicts for what they could teach . This is an unsolved problem which probably has never been seriously investigated , although one frequently hears the comment that we have insufficient specialists of the kind who can compete with the Germans or Swiss , for_example , in precision machinery and mathematics , or the Finns in geochemistry .</context>
+    </instance>
+    <instance id="br-g20#w393_0" docsrc="br-g20">
+      <context> Presumably a cocktail_party is expected to fulfill the host 's desire to get_together a number of people who are inadequately acquainted and thereby arrange for bringing the level of acquaintance up to adequacy for future cooperative endeavors . The party is usually in a room small enough so that all guests are within sight and hearing of one another . The information is furnished by each of the guests , is sent by oral broadcasting over the air_waves , and is received by the ears . Since the air is a continuum , the network of communication remains intact regardless of the positions or motions of the points ( the people ) in the <head>net</head> . As shown in Figure 1 , there is a connection for communication between every pair of points . This , and other qualifications , make the cocktail_party the most complete and most chaotic communication_system ever dreamed_up . All four types of message listed in Table 1 are permitted , although decorum and cocktail tradition require holding the commands to a minimum , while exclamations having complimentary intonations are more_than customarily encouraged .</context>
+    </instance>
+    <instance id="n00467995_d_26" docsrc="n00467995_d">
+      <context> a game resembling ice_hockey that is played on an open field ; two opposing teams use curved sticks try to drive a ball into the opponents' <head>net</head> ;</context>
+    </instance>
+    <instance id="n00480211_d_13" docsrc="n00480211_d">
+      <context> a game in which two teams hit an inflated ball over a high <head>net</head> using their hands ;</context>
+    </instance>
+    <instance id="n00480508_d_17" docsrc="n00480508_d">
+      <context> a game played on a court with light long-handled rackets used to volley a shuttlecock over a <head>net</head> ;</context>
+    </instance>
+    <instance id="n00481938_d_12" docsrc="n00481938_d">
+      <context> game played mainly on_board_
+     _liners ; players toss a ring back_and_forth over a <head>net</head> that is stretched across a small court ;</context>
+    </instance>
+    <instance id="n00909386_d_1" docsrc="n00909386_d">
+      <context> creating <head>nets</head> ;</context>
+    </instance>
+    <instance id="n01264933_d_8" docsrc="n01264933_d">
+      <context> an attempt to put the soccer_ball into the <head>net</head> by using the head ;</context>
+    </instance>
+    <instance id="n01319685_d_7" docsrc="n01319685_d">
+      <context> unwanted marine_creatures that are caught in the <head>nets</head> while fishing for another species ;</context>
+    </instance>
+    <instance id="n02794972_d_9" docsrc="n02794972_d">
+      <context> an elongated tethered balloon or blimp with cables or <head>net</head> suspended from it to deter enemy planes that are flying low ;</context>
+    </instance>
+    <instance id="n02802215_d_6" docsrc="n02802215_d">
+      <context> horizontal circular metal hoop supporting a <head>net</head> through which players try to throw the basketball ;</context>
+    </instance>
+    <instance id="n02889332_d_2" docsrc="n02889332_d">
+      <context> a small <head>net</head> used to draw fish into a boat ;</context>
+    </instance>
+    <instance id="n02936921_d_1" docsrc="n02936921_d">
+      <context> the <head>net</head> that is the goal in ice_hockey ;</context>
+    </instance>
+    <instance id="n03352628_d_1" docsrc="n03352628_d">
+      <context> a <head>net</head> that will enclose fish when it is pulled in ;</context>
+    </instance>
+  </lexelt>
+</corpus>

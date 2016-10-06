@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="breach.n" pos="NN">
+    <instance id="br-r05#w549_0" docsrc="br-r05">
+      <context> `` Good '' ! replied the Senator . `` It took me five hours to write it that way '' . The misplaced modifier is another species more honored in the observance of obscurity than in the <head>breach</head> . This creates an amusing effect because its position in a sentence seems to make it apply to the wrong word . A verse familiar to all grammarians is the quatrain : `` I saw a man once beat his wife When on a drunken spree .</context>
+    </instance>
+    <instance id="n00069173_d_1" docsrc="n00069173_d">
+      <context> a <head>breach</head> of a legal_duty ; failure to do something that is required in a contract ;</context>
+    </instance>
+    <instance id="n00069604_d_1" docsrc="n00069604_d">
+      <context> a <head>breach</head> of due_care ;</context>
+    </instance>
+    <instance id="n00070215_d_1" docsrc="n00070215_d">
+      <context> a <head>breach</head> that occurs when an item is deficient according to the terms of a warranty ;</context>
+    </instance>
+    <instance id="n00070462_d_1" docsrc="n00070462_d">
+      <context> a <head>breach</head> serious enough to destroy the value of the contract and to give a basis for an action for breach_of_contract ;</context>
+    </instance>
+    <instance id="n00070807_d_1" docsrc="n00070807_d">
+      <context> a <head>breach</head> that does not destroy the value of the contract but can give_rise to a claim for damages ;</context>
+    </instance>
+    <instance id="n00740609_d_0" docsrc="n00740609_d">
+      <context> <head>breach</head> of a duty ;</context>
+    </instance>
+    <instance id="n00777806_d_8" docsrc="n00777806_d">
+      <context> comprises all acts or omissions or concealments involving <head>breach</head> of equitable or legal_duty or trust or confidence ;</context>
+    </instance>
+    <instance id="n06524552_d_9" docsrc="n06524552_d">
+      <context> a contract which , in the event of a <head>breach</head> by one of the parties , can be considered as several independent agreements expressed in a single instrument ;</context>
+    </instance>
+    <instance id="n08331525_d_13" docsrc="n08331525_d">
+      <context> a military_court to try members of the armed_services who are accused of serious <head>breaches</head> of martial_law ;</context>
+    </instance>
+    <instance id="v00775692_d_2" docsrc="v00775692_d">
+      <context> have a <head>breach</head> in relations ;</context>
+    </instance>
+  </lexelt>
+</corpus>

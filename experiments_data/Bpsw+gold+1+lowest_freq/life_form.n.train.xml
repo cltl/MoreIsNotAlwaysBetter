@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="life_form.n" pos="NN">
+    <instance id="n01347583_d_2" docsrc="n01347583_d">
+      <context> considered ancient <head>life_forms</head> that evolved separately from bacteria and blue-green_algae ;</context>
+    </instance>
+    <instance id="n01384491_d_2" docsrc="n01384491_d">
+      <context> a minute <head>life_form</head> ( especially a disease causing bacterium ) ; the term is not in technical use ;</context>
+    </instance>
+    <instance id="n01415626_d_7" docsrc="n01415626_d">
+      <context> an organism with cells characteristic of all <head>life_forms</head> except primitive microorganisms such as bacteria ; i.e. an organism with good or membrane bound nuclei in its cells ;</context>
+    </instance>
+  </lexelt>
+</corpus>

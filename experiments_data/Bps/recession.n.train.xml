@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="recession.n" pos="NN">
+    <instance id="a03109141_d_5" docsrc="a03109141_d">
+      <context> of or pertaining to a <head>recession</head> ;</context>
+    </instance>
+    <instance id="br-a15#w492_0" docsrc="br-a15">
+      <context> Our pitching is much better than it has shown '' . The statistics hardly indicated that the Pirates needed extra batting practice , but Murtaugh also turned his men loose at Busch_Stadium yesterday . Until the Bucs ' bats quieted_down a_bit in Cincinnati over the weekend , the champions had eight men hitting over .300 . Despite the <head>recession</head> , Pittsburgh came into town with this imposing list of averages : Smoky_Burgess .455 , Gino_Cimoli .389 , Bill_Virdon .340 , Bob_Clemente and Dick_Groat , each .323 , Dick_Stuart .306 , Don_Hoak .280 and Bob_Skinner .267 . Bill_Mazeroski with .179 and Hal_Smith with .143 were the only Pirates dragging_their_feet . Perhaps the Pirate who will be the unhappiest over the news that Musial probably will sit_out most of the series is Bob_Friend , who was beaten by The_Man twice last season on dramatic home_runs . Friend is off to a great start with a 4 - 0 record but is n't likely to see action here this week .</context>
+    </instance>
+    <instance id="n05879204_d_6" docsrc="n05879204_d">
+      <context> the generalization that the speed of <head>recession</head> of distant galaxies ( the red_shift ) is proportional to their distance from the observer ;</context>
+    </instance>
+    <instance id="n07444100_d_7" docsrc="n07444100_d">
+      <context> recurring fluctuations in economic activity consisting of <head>recession</head> and recovery and growth and decline ;</context>
+    </instance>
+    <instance id="n13429300_d_7" docsrc="n13429300_d">
+      <context> gradual formation of new land , by <head>recession</head> of the sea or deposit of sediment ;</context>
+    </instance>
+    <instance id="n13590598_d_6" docsrc="n13590598_d">
+      <context> the ratio of the speed of <head>recession</head> of a galaxy ( due to the expansion of the universe ) to its distance from the observer ; the Hubble_constant is not actually a constant , but is regarded as measuring the expansion rate today ;</context>
+    </instance>
+    <instance id="n14081297_d_0" docsrc="n14081297_d">
+      <context> <head>recession</head> of the gums ;</context>
+    </instance>
+  </lexelt>
+</corpus>

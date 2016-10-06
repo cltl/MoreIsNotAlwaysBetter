@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="delegate.n" pos="NN">
+    <instance id="br-h18#w632_0" docsrc="br-h18">
+      <context> Further , I would hope that we could pay_attention to little things . While observing the operations of our Government in various parts of the world , I have felt that in many situations where our policies were good we have tended to ignore minor problems which spoiled our main effort . To cite only a_few examples : The wrong man in the wrong position , perhaps even in a junior position abroad , can be a source of great harm to our policy ; the attitudes of a U.N. <head>delegate</head> who experiences difficulty in finding adequate housing in New_York_City , or of a foreign diplomat in similar circumstances in our Capital , can be easily be directed against the United_States and all that it stands_for . Dozens of seemingly small matters go_wrong all_over the world . Sometimes those who know about them are too far down the line to be able to do anything about them . I would hope that we could create the recognition in the Department and overseas that those who come_across little things going_wrong have the responsibility for bringing these to the attention of those who can do something about them .</context>
+    </instance>
+    <instance id="n00165178_d_4" docsrc="n00165178_d">
+      <context> the appointment of a <head>delegate</head> ;</context>
+    </instance>
+    <instance id="n00182571_d_4" docsrc="n00182571_d">
+      <context> a preliminary election where <head>delegates</head> or nominees are chosen ;</context>
+    </instance>
+    <instance id="n00183995_d_12" docsrc="n00183995_d">
+      <context> a vote proportional in magnitude to the number of people that a <head>delegate</head> represents ;</context>
+    </instance>
+    <instance id="n05187711_d_6" docsrc="n05187711_d">
+      <context> the right of being represented by <head>delegates</head> who have a voice in some legislative_body ;</context>
+    </instance>
+    <instance id="n08318423_d_4" docsrc="n08318423_d">
+      <context> the legislative_assembly composed of <head>delegates</head> from the rebel colonies who met during and after the American_Revolution ; they issued the Declaration_of_Independence and framed Articles_of_Confederation ;</context>
+    </instance>
+    <instance id="n08402442_d_5" docsrc="n08402442_d">
+      <context> a group of representatives or <head>delegates</head> ;</context>
+    </instance>
+    <instance id="n14000403_d_9" docsrc="n14000403_d">
+      <context> the state of serving as an official and authorized <head>delegate</head> or agent ;</context>
+    </instance>
+    <instance id="v02541509_d_2" docsrc="v02541509_d">
+      <context> be a <head>delegate</head> or spokesperson for ; represent somebody's interest or be a proxy or substitute for , as of politicians and office_holders representing their constituents , or of a tenant representing other tenants in a housing dispute ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="misconduct.n" pos="NN">
+    <instance id="Fouls_and_misconduct_(association_football)-misconduct-0-1-5" docsrc="Fouls_and_misconduct_(association_football)">
+      <context> <head>Additionally</head> , a foul can only be committed by a player ( not a substitute ) and on the field of play , while the ball is in play . Where applicable , fouls are limited to acts committed against an opponent ( for example , a player striking the referee or a teammate is not a foul , but is misconduct ) . Misconduct will result in the player either receiving a caution ( indicated by a yellow card ) or being dismissed ( " sent off " ) from the field ( indicated by a red card ) .</context>
+    </instance>
+    <instance id="Fouls_and_misconduct_(association_football)-misconduct-10-49-2" docsrc="Fouls_and_misconduct_(association_football)">
+      <context> === Other offences === The referee may consider serious and/or <head>persistent</head> offences to be misconduct worthy of an official caution or dismissal from the game .</context>
+    </instance>
+    <instance id="Fouls_and_misconduct_(association_football)-misconduct-12-76-4" docsrc="Fouls_and_misconduct_(association_football)">
+      <context> Only players , substitutes and substituted players may receive a red card <head>.</head> If a team 's goalkeeper receives a red card another player is required to assume goalkeeping duties ( teams usually substitute an outfield player for another goalkeeper if this option is available ) . Law 12 of the Laws of the Game lists the categories of misconduct for which a player may be sent off .</context>
+    </instance>
+    <instance id="Fouls_and_misconduct_(association_football)-misconduct-15-100-2" docsrc="Fouls_and_misconduct_(association_football)">
+      <context> FIFA 's guidance on the interpretation of the Laws for referees outlines the considerations a <head>referee</head> must make when deciding whether to play advantage ; these include the severity of the offence and the potential for attacking opportunity . Referees are instructed to make such decisions " within a few seconds " of the offence . In rare situations , advantage can also be applied if the foul was also a misconduct .</context>
+    </instance>
+    <instance id="Fouls_and_misconduct_(association_football)-misconduct-2-0-2" docsrc="Fouls_and_misconduct_(association_football)">
+      <context> Fouls and <head>misconduct</head> in football/soccer are acts committed by players which are deemed by the referee to be unfair and are subsequently penalized . An offence may be a foul , misconduct or both depending on the nature of the offence and the circumstances in which it occurs . Fouls and misconduct are addressed in Law 12 of the Laws of the Game .</context>
+    </instance>
+    <instance id="Fouls_and_misconduct_(association_football)-misconduct-20-105-1" docsrc="Fouls_and_misconduct_(association_football)">
+      <context> Play is allowed to continue , but at the next stoppage in play the caution or dismissal must be issued <head>and</head> the appropriate card displayed . If the ball is out of play when an infraction of the Laws of the Game occurs , play is restarted according to the reason the ball became out of play before the infraction . ( Any infraction of the Laws of the Game that occurs while the ball is out of play can be misconduct , but is not a foul . )</context>
+    </instance>
+    <instance id="Fouls_and_misconduct_(association_football)-misconduct-29-60-3" docsrc="Fouls_and_misconduct_(association_football)">
+      <context> The player 's details are then recorded by the referee in a small notebook ; hence a caution is also known as a " booking " . A player <head>who</head> has been cautioned may continue playing in the game ; however , a player who receives a second caution in a match is sent off ( shown the yellow card again , and then a red card ) . Law 12 of the Laws of the Game ( which are set by the International Football Association Board and used by FIFA ) lists the types of offences and misconduct that may result in a caution .</context>
+    </instance>
+    <instance id="Fouls_and_misconduct_(association_football)-misconduct-31-1-4" docsrc="Fouls_and_misconduct_(association_football)">
+      <context> A list of specific offences that can be fouls are detailed in Law 12 of the Laws of the Game ( other infractions , such as technical infractions at restarts , <head>are</head> not deemed to be fouls ) , these mostly concern unnecessarily aggressive physical play and the offence of handling the ball . Additionally , a foul can only be committed by a player ( not a substitute ) and on the field of play , while the ball is in play . Where applicable , fouls are limited to acts committed against an opponent ( for example , a player striking the referee or a teammate is not a foul , but is misconduct ) .</context>
+    </instance>
+    <instance id="Fouls_and_misconduct_(association_football)-misconduct-7-0-1" docsrc="Fouls_and_misconduct_(association_football)">
+      <context> Fouls and misconduct in football/soccer are acts <head>committed</head> by players which are deemed by the referee to be unfair and are subsequently penalized . An offence may be a foul , misconduct or both depending on the nature of the offence and the circumstances in which it occurs .</context>
+    </instance>
+    <instance id="Fouls_and_misconduct_(association_football)-misconduct-8-107-1" docsrc="Fouls_and_misconduct_(association_football)">
+      <context> ( Any infraction of the Laws of the <head>Game</head> that occurs while the ball is out of play can be misconduct , but is not a foul . ) If play is stopped to administer a caution or dismissal : If a foul has occurred as well as misconduct , play is restarted according to the nature of the foul ( either an indirect free kick , direct free kick or penalty kick to the opposing team )</context>
+    </instance>
+    <instance id="n00735832_d_0" docsrc="n00735832_d">
+      <context> <head>misconduct</head> in public_office ;</context>
+    </instance>
+    <instance id="n06794980_d_6" docsrc="n06794980_d">
+      <context> a mark against a person for <head>misconduct</head> or failure ; usually given in school or armed_forces ;</context>
+    </instance>
+    <instance id="n07235790_d_8" docsrc="n07235790_d">
+      <context> a formal document charging a public official with <head>misconduct</head> in office ;</context>
+    </instance>
+    <instance id="n13291831_d_17" docsrc="n13291831_d">
+      <context> compensation in excess of actual_damages ( a form of punishment awarded in cases of malicious or willful <head>misconduct</head> ) ;</context>
+    </instance>
+    <instance id="v00934744_d_3" docsrc="v00934744_d">
+      <context> explore and expose <head>misconduct</head> and scandals concerning public_figures ;</context>
+    </instance>
+  </lexelt>
+</corpus>

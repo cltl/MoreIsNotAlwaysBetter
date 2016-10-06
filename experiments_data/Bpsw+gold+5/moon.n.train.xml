@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Moon.n" pos="NN">
+    <instance id="Lunar_month-moon-18-9-1" docsrc="Lunar_month">
+      <context> For other definitions , including a description of a month in the calendars of different cultures around the <head>world</head> , see : month . There are several types of lunar month . Usually the term lunar month refers to the synodic month , because it is the cycle of visible moon phases .</context>
+    </instance>
+    <instance id="Lunar_month-moon-4-12-1" docsrc="Lunar_month">
+      <context> Most of the following <head>types</head> of months ( but not the distinction between sidereal and tropical months ) were first recognized in Babylonian lunar astronomy . === Sidereal month === The period of the Moon 's orbit as defined with respect to the celestial sphere ( of the fixed stars , nowadays the International Celestial Reference Frame ( ICRF ) ) is known as a sidereal month because it is the time it takes the Moon to return to a similar position among the stars ( Latin : sidera ) : 7001273216610000000♠27.321661 days ( 27 d 7 h 43 min 11.5 s ) .</context>
+    </instance>
+    <instance id="Lunar_month-moon-45-12-1" docsrc="Lunar_month">
+      <context> Most of the following types of months ( but not the distinction between sidereal and tropical months ) were first recognized in Babylonian lunar astronomy . === Sidereal month === The period of the Moon 's orbit as defined with respect to the celestial sphere <head>(</head> of the fixed stars , nowadays the International Celestial Reference Frame ( ICRF ) ) is known as a sidereal month because it is the time it takes the Moon to return to a similar position among the stars ( Latin : sidera ) : 7001273216610000000♠27.321661 days ( 27 d 7 h 43 min 11.5 s ) .</context>
+    </instance>
+    <instance id="Lunar_month-moon-7-16-1" docsrc="Lunar_month">
+      <context> This type of month has been observed <head>among</head> cultures in the Middle East , India , and China in the following way : they divided the sky into 27 or 28 lunar mansions , one for each day of the month , identified by the prominent star(s ) in them . === Synodic month === This is the average period of the Moon 's revolution with respect to the line joining the Sun and Earth .</context>
+    </instance>
+    <instance id="Lunar_month-moon-8-17-1" docsrc="Lunar_month">
+      <context> === Synodic month === This is the average <head>period</head> of the Moon 's revolution with respect to the line joining the Sun and Earth . The synodic month is the period of the Moon 's phases , because the Moon 's appearance depends on the position of the Moon with respect to the Sun as seen from the Earth .</context>
+    </instance>
+    <instance id="Moon-moon-1-3-1" docsrc="Moon">
+      <context> The <head>Moon</head> 's gravitational influence produces the ocean tides , body tides , and the slight lengthening of the day . The Moon 's current orbital distance is about thirty times the diameter of Earth , with its apparent size in the sky almost the same as that of the Sun , resulting in the Moon covering the Sun nearly precisely in total solar eclipse .</context>
+    </instance>
+    <instance id="Moon-moon-1-3-3" docsrc="Moon">
+      <context> The <head>Moon</head> 's current orbital distance is about thirty times the diameter of Earth , with its apparent size in the sky almost the same as that of the Sun , resulting in the Moon covering the Sun nearly precisely in total solar eclipse . This matching of apparent visual size will not continue in the far future . The Moon 's linear distance from Earth is currently increasing at a rate of 3.82 ± 0.07 centimetres ( 1.504 ± 0.028 in ) per year , but this rate is not constant .</context>
+    </instance>
+    <instance id="Moon-moon-12-3-4" docsrc="Moon">
+      <context> This matching of apparent visual size will not continue in the far <head>future</head> . The Moon 's linear distance from Earth is currently increasing at a rate of 3.82 ± 0.07 centimetres ( 1.504 ± 0.028 in ) per year , but this rate is not constant . The Soviet Union 's Luna programme was the first to reach the Moon with unmanned spacecraft in 1959 ; the United States ' NASA Apollo program achieved the only manned missions to date , beginning with the first manned lunar orbiting mission by Apollo 8 in 1968 , and six manned lunar landings between 1969 and 1972 , with the first being Apollo 11 .</context>
+    </instance>
+    <instance id="Moon-moon-25-4-1" docsrc="Moon">
+      <context> The Moon 's linear distance from Earth is currently increasing at a rate of 3.82 ± 0.07 centimetres ( 1.504 ± 0.028 in ) per <head>year</head> , but this rate is not constant . The Soviet Union 's Luna programme was the first to reach the Moon with unmanned spacecraft in 1959 ; the United States ' NASA Apollo program achieved the only manned missions to date , beginning with the first manned lunar orbiting mission by Apollo 8 in 1968 , and six manned lunar landings between 1969 and 1972 , with the first being Apollo 11 . These missions returned over 380 kg ( 840 lb ) of lunar rocks , which have been used to develop a geological understanding of the Moon 's origin , the formation of its internal structure , and its subsequent history .</context>
+    </instance>
+    <instance id="Moon-moon-34-3-1" docsrc="Moon">
+      <context> The Moon 's gravitational influence produces the ocean tides , body tides , and the slight lengthening of the day . The Moon 's current orbital distance is about thirty times the diameter of <head>Earth</head> , with its apparent size in the sky almost the same as that of the Sun , resulting in the Moon covering the Sun nearly precisely in total solar eclipse .</context>
+    </instance>
+    <instance id="Moonlight-moon-10-9-1" docsrc="Moonlight">
+      <context> The full Moon is about 1,000,000 times fainter than the <head>Sun</head> . In folklore , moonlight sometimes has a harmful influence . For example , sleeping in the light of a full Moon on certain nights was said to transform a person into a werewolf .</context>
+    </instance>
+    <instance id="Moonlight-moon-15-0-1" docsrc="Moonlight">
+      <context> Moonlight is the light that reaches Earth from the Moon , consisting mostly of sunlight <head>,</head> with some starlight and earthlight reflected from those portions of its surface which the Sun 's light strikes . The intensity of moonlight varies greatly depending on the lunar cycle but even the full Moon typically provides only about 0.1 lux illumination .</context>
+    </instance>
+    <instance id="Moonlight-moon-2-4-1" docsrc="Moonlight">
+      <context> Moonlight is <head>the</head> light that reaches Earth from the Moon , consisting mostly of sunlight , with some starlight and earthlight reflected from those portions of its surface which the Sun 's light strikes . The intensity of moonlight varies greatly depending on the lunar cycle but even the full Moon typically provides only about 0.1 lux illumination . When the Moon is viewed at high altitude at tropical latitudes , the illuminance can reach 0.26 lux .</context>
+    </instance>
+    <instance id="Moonlight-moon-2-4-2" docsrc="Moonlight">
+      <context> The intensity <head>of</head> moonlight varies greatly depending on the lunar cycle but even the full Moon typically provides only about 0.1 lux illumination . When the Moon is viewed at high altitude at tropical latitudes , the illuminance can reach 0.26 lux . The full Moon is about 1,000,000 times fainter than the Sun .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-0-83-2" docsrc="Natural_satellite">
+      <context> <head>===</head> All moons === Moons of the Solar System ( The Planetary Society , as of March 2009 )</context>
+    </instance>
+    <instance id="Natural_satellite-moon-1-62-5" docsrc="Natural_satellite">
+      <context> Some <head>authors</head> consider the Pluto–Charon system to be a double ( dwarf ) planet . The most common dividing line on what is considered a moon rests upon whether the barycentre is below the surface of the larger body , though this is somewhat arbitrary , as it relies on distance as well as relative mass . === Moons of planets ===</context>
+    </instance>
+    <instance id="Natural_satellite-moon-1-71-1" docsrc="Natural_satellite">
+      <context> The <head>most</head> common dividing line on what is considered a moon rests upon whether the barycentre is below the surface of the larger body , though this is somewhat arbitrary , as it relies on distance as well as relative mass . === Moons of planets === === Moons of dwarf planets and small Solar System bodies ===</context>
+    </instance>
+    <instance id="Natural_satellite-moon-1-83-1" docsrc="Natural_satellite">
+      <context> === <head>Moons</head> of dwarf planets and small Solar System bodies === === All moons ===</context>
+    </instance>
+    <instance id="Natural_satellite-moon-10-62-4" docsrc="Natural_satellite">
+      <context> Asteroids such as 90 Antiope are considered double asteroids , <head>but</head> they have not forced a clear definition of what constitutes a moon . Some authors consider the Pluto–Charon system to be a double ( dwarf ) planet . The most common dividing line on what is considered a moon rests upon whether the barycentre is below the surface of the larger body , though this is somewhat arbitrary , as it relies on distance as well as relative mass .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-11-53-2" docsrc="Natural_satellite">
+      <context> The first to use of the term satellite to describe orbiting <head>bodies</head> was the German astronomer Johannes Kepler in his pamphlet Narratio de Observatis a se quatuor Iouis satellitibus erronibus ( " Narration About Four Satellites of Jupiter Observed " ) in 1610 . He derived the term from the Latin word satelles , meaning " guard " , " attendant " , or " companion " , because the satellites accompanied their primary planet in their journey through the heavens . As additional natural satellites of Saturn were discovered the term " moon " was abandoned .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-12-56-2" docsrc="Natural_satellite">
+      <context> Because of this shift in meaning , the term moon , which <head>had</head> continued to be used in a generic sense in works of popular science and in fiction , has regained respectability and is now used interchangeably with natural satellite , even in scientific articles . When it is necessary to avoid both the ambiguity of confusion with Earth 's natural satellite the Moon and the natural satellites of the other planets on the one hand , and artificial satellites on the other , the term natural satellite ( using " natural " in a sense opposed to " artificial " ) is used . To further avoid ambiguity , the convention is to capitalize the word Moon when referring to Earth 's natural satellite , but not when referring to other natural satellites .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-13-59-1" docsrc="Natural_satellite">
+      <context> To further avoid ambiguity , the convention is to capitalize the word Moon <head>when</head> referring to Earth 's natural satellite , but not when referring to other natural satellites . === The definition of a moon === There is not an established lower limit on what is considered a " moon " , as natural satellites will be referred to in this section .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-15-51-3" docsrc="Natural_satellite">
+      <context> Until the discovery of the Galilean satellites in 1610 , however , there was no <head>opportunity</head> for referring to such objects as a class . Galileo chose to refer to his discoveries as Planetæ ( " planets " ) , but later discoverers chose other terms to distinguish them from the objects they orbited . Christiaan Huygens , the discoverer of Titan , was the first to use the term moon for such objects , calling Titan Luna Saturni or Luna Saturnia – " Saturn 's moon " or " The Saturnian moon " , because it stood in the same relation to Saturn as the Moon did to Earth .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-16-20-2" docsrc="Natural_satellite">
+      <context> No " moons of moons " ( natural satellites that orbit a natural satellite of a <head>planet</head> ) are currently known as of 2016 . In most cases , the tidal effects of the planet would make such a system unstable . However , calculations performed after the recent detection of a possible ring system around Saturn 's moon Rhea indicate that satellites orbiting Rhea could have stable orbits .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-17-21-1" docsrc="Natural_satellite">
+      <context> In most cases , the tidal effects of the planet would make such a system unstable . <head>However</head> , calculations performed after the recent detection of a possible ring system around Saturn 's moon Rhea indicate that satellites orbiting Rhea could have stable orbits . Furthermore , the suspected rings are thought to be narrow , a phenomenon normally associated with shepherd moons .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-17-56-1" docsrc="Natural_satellite">
+      <context> Giovanni Domenico Cassini sometimes referred to his discoveries as planètes in French , but more often as <head>satellites</head> . Because of this shift in meaning , the term moon , which had continued to be used in a generic sense in works of popular science and in fiction , has regained respectability and is now used interchangeably with natural satellite , even in scientific articles . When it is necessary to avoid both the ambiguity of confusion with Earth 's natural satellite the Moon and the natural satellites of the other planets on the one hand , and artificial satellites on the other , the term natural satellite ( using " natural " in a sense opposed to " artificial " ) is used .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-2-0-2" docsrc="Natural_satellite">
+      <context> A natural <head>satellite</head> or moon is a celestial body that orbits another celestial body of greater mass ( e.g. a planet , star , or dwarf planet ) , called its primary . For example , the Moon is a natural satellite of Earth , and Earth is a natural satellite of the Sun . Most regular moons ( natural satellites following relatively close and prograde orbits with small orbital inclination and eccentricity ) in the Solar System are tidally locked to their respective primaries , meaning that the same side of the natural satellite always faces its planet .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-2-15-2" docsrc="Natural_satellite">
+      <context> In contrast <head>,</head> the outer natural satellites of the giants planet ( irregular satellites ) are too far away to have become locked . For example , Jupiter 's Himalia , Saturn 's Phoebe , and Neptune 's Nereid have rotation periods in the range of ten hours , whereas their orbital periods are hundreds of days . No " moons of moons " ( natural satellites that orbit a natural satellite of a planet ) are currently known as of 2016 .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-2-26-2" docsrc="Natural_satellite">
+      <context> Two natural <head>satellites</head> are known to have small companions at their L4 and L5 Lagrangian points , sixty degrees ahead and behind the body in its orbit . These companions are called trojan moons , as their orbits are analogous to the Trojan asteroids of Jupiter . The trojan moons are Telesto and Calypso , which are the leading and following companions , respectively , of Tethys ; and Helene and Polydeuces , the leading and following companions of Dione .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-2-61-2" docsrc="Natural_satellite">
+      <context> There is <head>not</head> an established lower limit on what is considered a " moon " , as natural satellites will be referred to in this section . Every natural celestial body with an identified orbit around a planet of the Solar System , some as small as a kilometer across , has been identified as a moon , though objects a tenth that size within Saturn 's rings , which have not been directly observed , have been called moonlets . Small asteroid moons ( natural satellites of asteroids ) , such as Dactyl , have also been called moonlets .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-22-62-2" docsrc="Natural_satellite">
+      <context> The upper limit is also vague . Two orbiting bodies are sometimes described as a double body rather than primary and satellite <head>.</head> Asteroids such as 90 Antiope are considered double asteroids , but they have not forced a clear definition of what constitutes a moon .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-29-61-1" docsrc="Natural_satellite">
+      <context> === The definition of a moon === There is not an established lower limit on what is considered a " moon " , as natural satellites will be referred <head>to</head> in this section . Every natural celestial body with an identified orbit around a planet of the Solar System , some as small as a kilometer across , has been identified as a moon , though objects a tenth that size within Saturn 's rings , which have not been directly observed , have been called moonlets .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-3-100-1" docsrc="Natural_satellite">
+      <context> Jupiter 's new <head>moons</head> ( discovered in 2003 ) === Saturn 's moons === Saturn 's new moons ( discovered in 2000 )</context>
+    </instance>
+    <instance id="Natural_satellite-moon-3-101-1" docsrc="Natural_satellite">
+      <context> === Saturn 's <head>moons</head> === Saturn 's new moons ( discovered in 2000 ) Saturn 's new moon ( discovered in 2003 )</context>
+    </instance>
+    <instance id="Natural_satellite-moon-3-102-1" docsrc="Natural_satellite">
+      <context> Saturn 's new <head>moons</head> ( discovered in 2000 ) Saturn 's new moon ( discovered in 2003 )</context>
+    </instance>
+    <instance id="Natural_satellite-moon-3-91-1" docsrc="Natural_satellite">
+      <context> Images of planets <head>and</head> major moons ( not to scale ) The Planetary Society – Moon Montage(s ) === Jupiter 's moons ===</context>
+    </instance>
+    <instance id="Natural_satellite-moon-3-95-1" docsrc="Natural_satellite">
+      <context> === Jupiter 's <head>moons</head> === Scott Sheppard 's page Jupiter 's new moons ( discovered in 2002 )</context>
+    </instance>
+    <instance id="Natural_satellite-moon-3-96-1" docsrc="Natural_satellite">
+      <context> Scott Sheppard 's <head>page</head> Jupiter 's new moons ( discovered in 2002 ) Jupiter 's new moons ( discovered in 2003 )</context>
+    </instance>
+    <instance id="Natural_satellite-moon-3-97-1" docsrc="Natural_satellite">
+      <context> Jupiter 's new <head>moons</head> ( discovered in 2002 ) Jupiter 's new moons ( discovered in 2003 ) === Saturn 's moons ===</context>
+    </instance>
+    <instance id="Natural_satellite-moon-31-51-3" docsrc="Natural_satellite">
+      <context> Until the discovery of the Galilean satellites in 1610 , however , there was no opportunity for referring to such objects as a class . Galileo chose to refer to his <head>discoveries</head> as Planetæ ( " planets " ) , but later discoverers chose other terms to distinguish them from the objects they orbited . Christiaan Huygens , the discoverer of Titan , was the first to use the term moon for such objects , calling Titan Luna Saturni or Luna Saturnia – " Saturn 's moon " or " The Saturnian moon " , because it stood in the same relation to Saturn as the Moon did to Earth .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-37-51-3" docsrc="Natural_satellite">
+      <context> Until the discovery of the Galilean satellites in 1610 , however , there was no opportunity for referring to such objects as a class . Galileo chose to refer to his discoveries as Planetæ ( " planets <head>"</head> ) , but later discoverers chose other terms to distinguish them from the objects they orbited . Christiaan Huygens , the discoverer of Titan , was the first to use the term moon for such objects , calling Titan Luna Saturni or Luna Saturnia – " Saturn 's moon " or " The Saturnian moon " , because it stood in the same relation to Saturn as the Moon did to Earth .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-4-0-1" docsrc="Natural_satellite">
+      <context> A natural satellite or <head>moon</head> is a celestial body that orbits another celestial body of greater mass ( e.g. a planet , star , or dwarf planet ) , called its primary . For example , the Moon is a natural satellite of Earth , and Earth is a natural satellite of the Sun .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-4-15-2" docsrc="Natural_satellite">
+      <context> In contrast , the <head>outer</head> natural satellites of the giants planet ( irregular satellites ) are too far away to have become locked . For example , Jupiter 's Himalia , Saturn 's Phoebe , and Neptune 's Nereid have rotation periods in the range of ten hours , whereas their orbital periods are hundreds of days . No " moons of moons " ( natural satellites that orbit a natural satellite of a planet ) are currently known as of 2016 .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-4-86-1" docsrc="Natural_satellite">
+      <context> Moons of the Solar <head>System</head> ( The Planetary Society , as of March 2009 ) JPL 's Solar System Dynamics page USGS list of named moons</context>
+    </instance>
+    <instance id="Natural_satellite-moon-4-87-1" docsrc="Natural_satellite">
+      <context> JPL 's Solar System <head>Dynamics</head> page USGS list of named moons Upper size limit for moons explained</context>
+    </instance>
+    <instance id="Natural_satellite-moon-4-90-1" docsrc="Natural_satellite">
+      <context> Asteroids with Satellites Images <head>of</head> planets and major moons ( not to scale ) The Planetary Society – Moon Montage(s )</context>
+    </instance>
+    <instance id="Natural_satellite-moon-5-26-1" docsrc="Natural_satellite">
+      <context> It has also been proposed <head>that</head> Saturn 's moon Iapetus possessed a satellite in the past ; this is one of several hypotheses that have been put forward to account for its equatorial ridge . Two natural satellites are known to have small companions at their L4 and L5 Lagrangian points , sixty degrees ahead and behind the body in its orbit . These companions are called trojan moons , as their orbits are analogous to the Trojan asteroids of Jupiter .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-5-56-3" docsrc="Natural_satellite">
+      <context> When it is necessary to <head>avoid</head> both the ambiguity of confusion with Earth 's natural satellite the Moon and the natural satellites of the other planets on the one hand , and artificial satellites on the other , the term natural satellite ( using " natural " in a sense opposed to " artificial " ) is used . To further avoid ambiguity , the convention is to capitalize the word Moon when referring to Earth 's natural satellite , but not when referring to other natural satellites . === The definition of a moon ===</context>
+    </instance>
+    <instance id="Natural_satellite-moon-5-89-1" docsrc="Natural_satellite">
+      <context> Upper size limit for moons <head>explained</head> Asteroids with Satellites Images of planets and major moons ( not to scale )</context>
+    </instance>
+    <instance id="Natural_satellite-moon-51-51-3" docsrc="Natural_satellite">
+      <context> Until the discovery of the Galilean satellites in 1610 , however , there was no opportunity for referring to such objects as a class . Galileo chose to refer to his discoveries as Planetæ ( " planets " ) , but later discoverers chose other terms to distinguish them from the <head>objects</head> they orbited . Christiaan Huygens , the discoverer of Titan , was the first to use the term moon for such objects , calling Titan Luna Saturni or Luna Saturnia – " Saturn 's moon " or " The Saturnian moon " , because it stood in the same relation to Saturn as the Moon did to Earth .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-7-31-2" docsrc="Natural_satellite">
+      <context> The discovery of 243 Ida 's natural <head>satellite</head> Dactyl in the early 1990s confirmed that some asteroids have natural satellites ; indeed , 87 Sylvia has two . Some , such as 90 Antiope , are double asteroids with two comparably sized components . The first known natural satellite was the Moon , but it was considered a " planet " until Copernicus ' introduction of heliocentrism in 1543 .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-8-21-3" docsrc="Natural_satellite">
+      <context> Furthermore , the suspected rings are thought to <head>be</head> narrow , a phenomenon normally associated with shepherd moons . However , targeted images taken by the Cassini spacecraft failed to detect rings around Rhea . It has also been proposed that Saturn 's moon Iapetus possessed a satellite in the past ; this is one of several hypotheses that have been put forward to account for its equatorial ridge .</context>
+    </instance>
+    <instance id="Natural_satellite-moon-9-54-2" docsrc="Natural_satellite">
+      <context> As additional natural satellites of Saturn were discovered the <head>term</head> " moon " was abandoned . Giovanni Domenico Cassini sometimes referred to his discoveries as planètes in French , but more often as satellites . Because of this shift in meaning , the term moon , which had continued to be used in a generic sense in works of popular science and in fiction , has regained respectability and is now used interchangeably with natural satellite , even in scientific articles .</context>
+    </instance>
+    <instance id="Sun_Myung_Moon-moon-0-29-1" docsrc="Sun_Myung_Moon">
+      <context> <head>===</head> Marriage to Hak Ja Han === === Blessing ceremonies === Moon was renowned for presiding over mass " blessing ceremonies " , the most famous ritual of the Unification Church .</context>
+    </instance>
+    <instance id="Sun_Myung_Moon-moon-0-33-3" docsrc="Sun_Myung_Moon">
+      <context> <head>The</head> ceremonies continued to grow in scale ; over 2,000 couples participated in the 1982 one at New York 's Madison Square Garden , the first outside South Korea . In 1997 , about 30,000 couples took part in a ceremony in Washington , DC. Moon matched couples from differing races and nationalities as part of his belief that all of humanity should be united : " International and intercultural marriages are the quickest way to bring about an ideal world of peace .</context>
+    </instance>
+    <instance id="Sun_Myung_Moon-moon-13-32-3" docsrc="Sun_Myung_Moon">
+      <context> However , in most cases the Blessing ceremony is not a legal wedding <head>ceremony</head> . Some couples are already married and those that are engaged are later legally married according to the laws of their own countries . Meant to highlight the church 's emphasis on traditional morality , they brought Moon both fame and notoriety .</context>
+    </instance>
+    <instance id="Sun_Myung_Moon-moon-3-34-2" docsrc="Sun_Myung_Moon">
+      <context> Moon matched couples <head>from</head> differing races and nationalities as part of his belief that all of humanity should be united : " International and intercultural marriages are the quickest way to bring about an ideal world of peace . People should marry across national and cultural boundaries with people from countries they consider to be their enemies so that the world of peace can come that much more quickly . " In 1971 , Moon moved to the United States , which he had first visited in 1965 .</context>
+    </instance>
+    <instance id="Sun_Myung_Moon-moon-3-39-2" docsrc="Sun_Myung_Moon">
+      <context> In 1971 , <head>Moon</head> moved to the United States , which he had first visited in 1965 . He remained a citizen of the Republic of Korea and maintained a residence in South Korea . In 1972 , Moon founded the International Conference on the Unity of the Sciences , a series of scientific conferences .</context>
+    </instance>
+    <instance id="br-e01#w675_0" docsrc="br-e01">
+      <context> And at_once Claude saw what the trouble was and he knew just how to correct it . In his gym the professor has some of the most `` knocked_out '' equipment since Vic_Tanny . Mr._Claude is a specialist in torso development and he has long favored the now famous Weider_Push-Pull_Super-Set technique in which one exercise of the Super-Set is a pressing or `` pushing '' movement which accents one sector of a muscle group in a specific way , followed by a `` pulling '' exercise which works the opposing sector of the same muscle group . So right_away Claude introduced Henri to his famous `` <head>moon</head> '' bench and proceeded to teach him his first Push-Pull_Super-Set consisting_of the wide grip Straight-Arm_Pullover ( the `` pull '' part of the Push-Pull_Super-Set ) which dramatically widens the rib_cage and strongly affects the muscles of the upper back and chest , and the collar-to-collar Bench_Press which specifically works_on the chest to build those wide , Reeves-type `` gladiator '' pecs , while stimulating the upper lats and frontal deltoids . As you can see , in this Push-Pull_Super_Set the entire chest back shoulder area is vigorously exercised in alternate sectors by alternate exercises , so the complete torso remains pumped-up all_the_time ! Now when Henri has completed four complete Push-Pull_Super-Sets No. 1 , the professor allows him about a five minute rest period before starting him on four complete Push-Pull_Super-Sets No. 2 . Super-Set No. 2 is made_up of similar exercises , but this time done with dumbbells , and using both `` moon '' and flat_benches .</context>
+    </instance>
+    <instance id="br-j01#w11_0" docsrc="br-j01">
+      <context> It has recently become practical to use the radio_emission of the <head>moon</head> and planets as a new source of information about these bodies and their atmospheres . The results of present observations of the thermal radio_emission of the moon are consistent with the very low thermal conductivity of the surface layer which was derived from the variation in the infrared_emission during eclipses ( e.g. , Garstung , 1958 ) . When sufficiently accurate and complete measurements are available , it will be possible to set limits on the thermal and electrical characteristics of the surface and subsurface materials of the moon . Observations of the radio_emission of a planet which has an extensive atmosphere will probe the atmosphere to_a_greater_extent than those using shorter wave_lengths and should in some cases give otherwise unobtainable information about the characteristics of the solid surface .</context>
+    </instance>
+    <instance id="br-k16#w155_0" docsrc="br-k16">
+      <context> Anita put_out the remaining candles with a long snuffer , and in the smell of scented candlewick , the comforting awareness of each other 's bodies , the retained pattern of dancers and guests remembered , their minds grew numb and then empty_of images . They slept - Mynheer with a marvelously high-pitched snoring , the damn seahorse ivory teeth watching him from a bedside table . In the ballroom below , the dark had given_way to moonlight coming_in through the bank of French_windows . It was a delayed <head>moon</head> , but now the sky had cleared of scudding black and the stars sugared the silver-gray sky . Martha_Schuyler , old , slow , careful of foot , came_down the great staircase , dressed in her best lace-drawn black silk , her jeweled shoe buckles held forward . `` Well , I'm here at_last '' , she said , addressing the old portraits on the walls . `` I do n't hear the music .</context>
+    </instance>
+    <instance id="br-k16#w661_0" docsrc="br-k16">
+      <context> He would send_on by trusted messenger the dispatches with their electrifying news . And he would sleep , sleep , and never think_of roads and horses ' sore haunches , of colonial wars . Strange how everything here fitted back into his life , even if he had been away so long . Mynheer , Sir_Francis , the valley society , the very smell of the river on his right purling along to the bay past fish weirs and rocks , and ahead the sleepy ribbon of <head>moon</head> drenched road . A mist was walking on the water , white as cotton , but with a blending and merging grace . Ahead there was a stirring of sudden movement at a crossroads . David reached for the pair of pistols in the saddlebags at his feet .</context>
+    </instance>
+    <instance id="br-k23#w2265_0" docsrc="br-k23">
+      <context> They came unexpectedly upon the sea . Meeting it without preparation as they did , robbed of anticipation , a common disappointment seized them . They were climbing the hill in the night when the headlights abruptly probed solid blackness , became two parallel luminous tubes which broadened out into a faint mist of light and ended . Mark stopped the car and switched_off the lights and they sat looking_at the water , which , there being no <head>moon</head> out , at_first could be distinguished from the sky only by an absence of stars .</context>
+    </instance>
+    <instance id="n09358358_ex1_5" docsrc="n09358358_ex1">
+      <context> the average distance to the <head>Moon</head> is 384,400 kilometers ;</context>
+    </instance>
+    <instance id="n11484975_ex2_1" docsrc="n11484975_ex2">
+      <context> the <head>Moon</head> was bright enough to read by ;</context>
+    </instance>
+  </lexelt>
+</corpus>

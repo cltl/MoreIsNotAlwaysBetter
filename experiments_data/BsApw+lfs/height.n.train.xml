@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="height.n" pos="NN">
+    <instance id="Altitude-height-0-12-3" docsrc="Altitude">
+      <context> <head>It</head> can be measured using a radar altimeter ( or " absolute altimeter " ) . Also referred to as " radar height " or feet/metres above ground level ( AGL ) . Height is the elevation above a ground reference point , commonly the terrain elevation .</context>
+    </instance>
+    <instance id="Altitude-height-0-20-1" docsrc="Altitude">
+      <context> <head>Absolute</head> altitude – altitude in terms of the distance above the ground directly below True altitude – altitude in terms of elevation above sea level Height – altitude in terms of the distance above a certain point</context>
+    </instance>
+    <instance id="Altitude-height-10-0-3" docsrc="Altitude">
+      <context> As a general definition , altitude is a distance measurement <head>,</head> usually in the vertical or " up " direction , between a reference datum and a point or object . The reference datum also often varies according to the context . Although the term altitude is commonly used to mean the height above sea level of a location , in geography the term elevation is often preferred for this usage .</context>
+    </instance>
+    <instance id="Altitude-height-37-14-1" docsrc="Altitude">
+      <context> Also referred to as " radar height " or feet/metres above ground level ( AGL ) . Height is the elevation above a ground reference point , commonly the terrain elevation . In UK aviation radiotelephony usage <head>,</head> the vertical distance of a level , a point or an object considered as a point , measured from a specified datum ; this is referred to over the radio as height , where the specified datum is the airfield elevation ( see QFE )</context>
+    </instance>
+    <instance id="Altitude-height-4-11-2" docsrc="Altitude">
+      <context> Indicated altitude is the <head>reading</head> on the altimeter when it is set to the local barometric pressure at mean sea level . In UK aviation radiotelephony usage , the vertical distance of a level , a point or an object considered as a point , measured from mean sea level ; this is referred to over the radio as altitude.(see QNH ) Absolute altitude is the height of the aircraft above the terrain over which it is flying .</context>
+    </instance>
+    <instance id="Altitude-height-46-44-3" docsrc="Altitude">
+      <context> Sunlight in the visible spectrum hits the ground and heats it . The ground then heats the air at the surface . If radiation were the only way to transfer heat from the ground to space , the greenhouse effect of gases in the atmosphere would <head>keep</head> the ground at roughly 333 K ( 60 °C ; 140 °F ) , and the temperature would decay exponentially with height .</context>
+    </instance>
+    <instance id="Altitude-height-6-12-2" docsrc="Altitude">
+      <context> Absolute altitude is the height of <head>the</head> aircraft above the terrain over which it is flying . It can be measured using a radar altimeter ( or " absolute altimeter " ) . Also referred to as " radar height " or feet/metres above ground level ( AGL ) .</context>
+    </instance>
+    <instance id="Altitude-height-7-30-1" docsrc="Altitude">
+      <context> Atmospheric regions === The Earth 's atmosphere <head>is</head> divided into several altitude regions . These regions start and finish at varying heights depending on season and distance from the poles .</context>
+    </instance>
+    <instance id="Geopotential_height-height-1-104-2" docsrc="Geopotential_height">
+      <context> A <head>plot</head> of geopotential height for a single pressure level shows the troughs and ridges , Highs and Lows , which are typically seen on upper air charts . The geopotential thickness between pressure levels — difference of the 850 hPa and 1000 hPa geopotential heights for example — is proportional to mean virtual temperature in that layer . Geopotential height contours can be used to calculate the geostrophic wind , which is faster where the contours are more closely spaced and tangential to the geopotential height contours .</context>
+    </instance>
+    <instance id="Geopotential_height-height-11-107-1" docsrc="Geopotential_height">
+      <context> The National Weather Service defines geopotential height as : " ... <head>roughly</head> the height above sea level of a pressure level . For example , if a station reports that the 500 mb height at its location is 5600 m , it means that the level of the atmosphere over that station at which the atmospheric pressure is 500 mb is 5600 meters above sea level .</context>
+    </instance>
+    <instance id="Geopotential_height-height-16-104-1" docsrc="Geopotential_height">
+      <context> Using the former eliminates air density from the equations . A plot of geopotential height for <head>a</head> single pressure level shows the troughs and ridges , Highs and Lows , which are typically seen on upper air charts . The geopotential thickness between pressure levels — difference of the 850 hPa and 1000 hPa geopotential heights for example — is proportional to mean virtual temperature in that layer .</context>
+    </instance>
+    <instance id="Geopotential_height-height-19-99-1" docsrc="Geopotential_height">
+      <context>   which normalizes the geopotential to g0 , the standard gravity at mean sea level . Geophysical scientists often <head>use</head> geopotential height as a function of pressure rather than pressure as a function of geometric height , because doing so in many cases makes analytical calculations more convenient .</context>
+    </instance>
+    <instance id="Geopotential_height-height-2-59-2" docsrc="Geopotential_height">
+      <context>    is <head>latitude</head> , and z is the geometric elevation . Thus geopotential is the gravitational potential energy per unit mass at that elevation h. The geopotential height is :</context>
+    </instance>
+    <instance id="Geopotential_height-height-21-103-1" docsrc="Geopotential_height">
+      <context> which normalizes the geopotential to g0 , the standard gravity at mean sea level . Geophysical scientists often use geopotential height <head>as</head> a function of pressure rather than pressure as a function of geometric height , because doing so in many cases makes analytical calculations more convenient . For example , the primitive equations which weather forecast models solve are more easily expressed in terms of geopotential than geometric height .</context>
+    </instance>
+    <instance id="Geopotential_height-height-27-104-2" docsrc="Geopotential_height">
+      <context> A plot of geopotential height for a single pressure level shows the troughs and ridges , Highs and Lows , which are typically seen on upper air <head>charts</head> . The geopotential thickness between pressure levels — difference of the 850 hPa and 1000 hPa geopotential heights for example — is proportional to mean virtual temperature in that layer . Geopotential height contours can be used to calculate the geostrophic wind , which is faster where the contours are more closely spaced and tangential to the geopotential height contours .</context>
+    </instance>
+    <instance id="Geopotential_height-height-4-103-3" docsrc="Geopotential_height">
+      <context> For example , the <head>primitive</head> equations which weather forecast models solve are more easily expressed in terms of geopotential than geometric height . Using the former eliminates air density from the equations . A plot of geopotential height for a single pressure level shows the troughs and ridges , Highs and Lows , which are typically seen on upper air charts .</context>
+    </instance>
+    <instance id="Geopotential_height-height-4-105-1" docsrc="Geopotential_height">
+      <context> Geopotential height contours can <head>be</head> used to calculate the geostrophic wind , which is faster where the contours are more closely spaced and tangential to the geopotential height contours . The National Weather Service defines geopotential height as : " ... roughly the height above sea level of a pressure level .</context>
+    </instance>
+    <instance id="Geopotential_height-height-4-107-2" docsrc="Geopotential_height">
+      <context> " ... roughly the <head>height</head> above sea level of a pressure level . For example , if a station reports that the 500 mb height at its location is 5600 m , it means that the level of the atmosphere over that station at which the atmospheric pressure is 500 mb is 5600 meters above sea level . This is an estimated height based on temperature and pressure data . "</context>
+    </instance>
+    <instance id="Geopotential_height-height-5-99-1" docsrc="Geopotential_height">
+      <context>   which normalizes the geopotential <head>to</head> g0 , the standard gravity at mean sea level . Geophysical scientists often use geopotential height as a function of pressure rather than pressure as a function of geometric height , because doing so in many cases makes analytical calculations more convenient .</context>
+    </instance>
+    <instance id="Geopotential_height-height-6-104-3" docsrc="Geopotential_height">
+      <context> The geopotential thickness between pressure levels <head>—</head> difference of the 850 hPa and 1000 hPa geopotential heights for example — is proportional to mean virtual temperature in that layer . Geopotential height contours can be used to calculate the geostrophic wind , which is faster where the contours are more closely spaced and tangential to the geopotential height contours . The National Weather Service defines geopotential height as :</context>
+    </instance>
+    <instance id="Human_height-height-0-10-2" docsrc="Human_height">
+      <context> <head>For</head> example , a typical measurement error of plus or minus 0.5 cm may completely nullify 0.5 cm of actual growth resulting in either a " negative " 0.5 cm growth ( due to overestimation in the previous visit combined with underestimation in the latter ) , up to a 1.5 cm growth ( the first visit underestimating and the second visit overestimating ) in the same elapsed time period between measurements . Note there is a discontinuity in the growth curves at age 2 , which reflects the difference in recumbent length ( with the child on his or her back ) , used in measuring infants and toddlers and standing height typically measured from age 2 onwards . Height , like other phenotypic traits , is determined by a combination of genetics and environmental factors .</context>
+    </instance>
+    <instance id="Human_height-height-0-43-1" docsrc="Human_height">
+      <context> <head>This</head> treatment involves the injection of pure growth hormone into thick tissue to promote growth . === Height and healthEdit ===</context>
+    </instance>
+    <instance id="Human_height-height-0-53-1" docsrc="Human_height">
+      <context> <head>Many</head> live to advanced ages and some become centenarians . === Height and occupational successEdit ===</context>
+    </instance>
+    <instance id="Human_height-height-0-8-5" docsrc="Human_height">
+      <context> <head>This</head> has been seen in North Korea , parts of Africa , certain historical Europe , and other populations . Developing countries such as Guatemala have rates of stunting in children under 5 living as high as 82.2 % in Totonicapán , and 49.8 % nationwide . Height measurements are by nature subject to statistical sampling errors even for a single individual .</context>
+    </instance>
+    <instance id="Human_height-height-1-1-1" docsrc="Human_height">
+      <context> It <head>is</head> measured using a stadiometer , usually in centimetres when using the metric system , or feet and inches when using the imperial system . When populations share genetic background and environmental factors , average height is frequently characteristic within the group . Exceptional height variation ( around 20 % deviation from average ) within such a population is sometimes due to gigantism or dwarfism , which are medical conditions caused by specific genes or endocrine abnormalities .</context>
+    </instance>
+    <instance id="Human_height-height-1-113-4" docsrc="Human_height">
+      <context> Rev. <head>Anthropol</head> . 31:211–232 . Average height of young Spaniards ( in Spanish )</context>
+    </instance>
+    <instance id="Human_height-height-1-116-5" docsrc="Human_height">
+      <context> PMC <head>2709415</head> . PMID 19603086 . Body height of mummified pharaohs supports historical suggestions of sibling marriages , AJPA DOI : 10.1002/ajpa.22728 [ 1 ]</context>
+    </instance>
+    <instance id="Human_height-height-1-123-1" docsrc="Human_height">
+      <context> CDC <head>National</head> Center for Health Statistics : Growth Charts of American Percentiles fao.org , Body Weights and Heights by Countries ( given in percentiles ) The Height Gap , Article discussing differences in height around the world</context>
+    </instance>
+    <instance id="Human_height-height-1-125-1" docsrc="Human_height">
+      <context> The <head>Height</head> Gap , Article discussing differences in height around the world Tallest in the World : Native Americans of the Great Plains in the Nineteenth Century European Heights in the Early eighteenth Century</context>
+    </instance>
+    <instance id="Human_height-height-1-66-3" docsrc="Human_height">
+      <context> The <head>estimated</head> mean height of English , German , and Scottish soldiers was 163.6 cm – 165.9 cm ( 5 ft 4.4 in – 5 ft 5.3 in ) for the period as a whole , while that of Irish was 167.9 cm ( 5 ft 6.1 in ) . The average height of male slaves and convicts in North America was 171 cm ( 5 ft 7 in ) . Average height of Americans and Europeans decreased during periods of rapid industrialization , possibly due to rapid population growth and increased economic inequality .</context>
+    </instance>
+    <instance id="Human_height-height-1-7-4" docsrc="Human_height">
+      <context> For <head>individuals</head> , as indicators of health problems , growth trends are tracked for significant deviations and growth is also monitored for significant deficiency from genetic expectations . Genetics is a major factor in determining the height of individuals , though it is far less influential in regard to differences among populations . Average height is relevant to the measurement of the health and wellness ( standard of living and quality of life ) of populations .</context>
+    </instance>
+    <instance id="Human_height-height-1-72-4" docsrc="Human_height">
+      <context> The <head>tallest</head> woman in medical history was Zeng Jinlian of Hunan , China , who stood 248 cm ( 8 ft 1 1⁄2 in ) when she died at the age of 17 . The shortest adult human on record was Chandra Bahadur Dangi of Nepal at 54.6 cm ( 1 ft 9 1⁄2 in ) . Adult height between populations often differs significantly .</context>
+    </instance>
+    <instance id="Human_height-height-1-84-1" docsrc="Human_height">
+      <context> As <head>this</head> case shows , data taken from a particular social group may not represent a total population in some countries . A relatively small sample of the population may have been measured , which makes it uncertain whether this sample accurately represents the entire population . The height of persons can vary over the course of a day , due to factors such as a height increase from exercise done directly before measurement ( normally inversely correlated ) , or a height increase since lying down for a significant period of time ( normally inversely correlated ) .</context>
+    </instance>
+    <instance id="Human_height-height-10-0-2" docsrc="Human_height">
+      <context> Human height or stature is the distance from the bottom <head>of</head> the feet to the top of the head in a human body , standing erect . It is measured using a stadiometer , usually in centimetres when using the metric system , or feet and inches when using the imperial system . When populations share genetic background and environmental factors , average height is frequently characteristic within the group .</context>
+    </instance>
+    <instance id="Human_height-height-10-101-1" docsrc="Human_height">
+      <context> Fitting the Task to the Man , 1987 ( for <head>heights</head> in U.S. and Japan ) Eurostats Statistical Yearbook 2004 ( for heights in Germany ) Netherlands Central Bureau for Statistics , 1996 ( for average heights )</context>
+    </instance>
+    <instance id="Human_height-height-10-22-6" docsrc="Human_height">
+      <context> As the study points out , Nilotic people " may <head>attain</head> greater height if priviledged with favourable environmental conditions during early childhood and adolescence , allowing full expression of the genetic material . " Before fleeing , these refugees were subject to privation as a consequence of the succession of civil wars in their country from 1955 to the present . In Tibet , the khampas are known for their great height .</context>
+    </instance>
+    <instance id="Human_height-height-10-68-1" docsrc="Human_height">
+      <context> The average height of male slaves and convicts in North <head>America</head> was 171 cm ( 5 ft 7 in ) . Average height of Americans and Europeans decreased during periods of rapid industrialization , possibly due to rapid population growth and increased economic inequality . In early 19th century England , the difference between average height of English upper class youth ( students of Sandhurst Military Academy ) and English lower class youth ( Marine Society boys ) reached 22 cm ( 8.7 in ) , the highest that has been observed .</context>
+    </instance>
+    <instance id="Human_height-height-10-7-5" docsrc="Human_height">
+      <context> Genetics is a major factor in determining the height of <head>individuals</head> , though it is far less influential in regard to differences among populations . Average height is relevant to the measurement of the health and wellness ( standard of living and quality of life ) of populations . Attributed as a significant reason for the trend of increasing height in parts of Europe are the egalitarian populations where proper medical care and adequate nutrition are relatively equally distributed .</context>
+    </instance>
+    <instance id="Human_height-height-10-93-1" docsrc="Human_height">
+      <context> Human variability Pygmy peoples Fitting the Task to the Man <head>,</head> 1987 ( for heights in U.S. and Japan )</context>
+    </instance>
+    <instance id="Human_height-height-12-129-1" docsrc="Human_height">
+      <context> The Biological Standard of Living in Europe During the Last Two Millennia <head>HEALTH</head> AND NUTRITION IN THE PREINDUSTRIAL ERA : INSIGHTS FROM A MILLENNIUM OF AVERAGE HEIGHTS IN NORTHERN EUROPE Our World In Data – Human Height – Visualizations of how human height around the world has changed historically ( by Max Roser ) .</context>
+    </instance>
+    <instance id="Human_height-height-12-22-4" docsrc="Human_height">
+      <context> The Nilotic people are characterized as having long legs , narrow bodies <head>and</head> short trunks , an adaptation to hot weather . However , male Dinka and Shilluk refugees measured in 1995 in Southwestern Ethiopia were on average only 1.764 m and 1.726 m tall , respectively . As the study points out , Nilotic people " may attain greater height if priviledged with favourable environmental conditions during early childhood and adolescence , allowing full expression of the genetic material . "</context>
+    </instance>
+    <instance id="Human_height-height-12-50-5" docsrc="Human_height">
+      <context> They all support the conclusion that smaller individuals live longer in healthy <head>environments</head> and with good nutrition . However , the difference in longevity is modest . Several human studies have found a loss of 0.5 year/centimeter of increased height ( 1.2 yr/inch ) .</context>
+    </instance>
+    <instance id="Human_height-height-13-68-2" docsrc="Human_height">
+      <context> Average height of Americans and Europeans decreased during periods of rapid industrialization , <head>possibly</head> due to rapid population growth and increased economic inequality . In early 19th century England , the difference between average height of English upper class youth ( students of Sandhurst Military Academy ) and English lower class youth ( Marine Society boys ) reached 22 cm ( 8.7 in ) , the highest that has been observed . According to a study by J.W. Drukker and Vincent Tassenaar , the average height of Dutch decreased from 1830 to 1857 , even while Dutch real GNP per capita was growing at an average rate of more than 0.5 percent per year .</context>
+    </instance>
+    <instance id="Human_height-height-13-70-1" docsrc="Human_height">
+      <context> In early 19th century England , the difference between average height of English <head>upper</head> class youth ( students of Sandhurst Military Academy ) and English lower class youth ( Marine Society boys ) reached 22 cm ( 8.7 in ) , the highest that has been observed . According to a study by J.W. Drukker and Vincent Tassenaar , the average height of Dutch decreased from 1830 to 1857 , even while Dutch real GNP per capita was growing at an average rate of more than 0.5 percent per year . The worst decline were in urban areas that in 1847 , the urban height penalty was 2.5 cm ( 1 in ) .</context>
+    </instance>
+    <instance id="Human_height-height-14-114-1" docsrc="Human_height">
+      <context> 31:211–232 . Average height of young Spaniards ( in Spanish ) Case A , <head>Paxson</head> C ( 2008 ) . " Stature and status : Height , ability , and labor market outcomes " .</context>
+    </instance>
+    <instance id="Human_height-height-14-128-1" docsrc="Human_height">
+      <context> European Heights in the Early eighteenth Century The Biological Standard of Living in Europe <head>During</head> the Last Two Millennia HEALTH AND NUTRITION IN THE PREINDUSTRIAL ERA : INSIGHTS FROM A MILLENNIUM OF AVERAGE HEIGHTS IN NORTHERN EUROPE</context>
+    </instance>
+    <instance id="Human_height-height-16-12-2" docsrc="Human_height">
+      <context> Height , like other phenotypic traits , is determined by a combination of genetics and environmental <head>factors</head> . A child 's height based on parental heights is subject to regression toward the mean , therefore extremely tall or short parents will likely have correspondingly taller or shorter offspring , but their offspring will also likely be closer to average height than the parents themselves . Genetic potential and a number of hormones , minus illness , is a basic determinant for height .</context>
+    </instance>
+    <instance id="Human_height-height-16-47-1" docsrc="Human_height">
+      <context> Late in his life , although he died at age 22 , he had to wear <head>braces</head> on his legs and walk with a cane ; and he died after developing an infection in his legs because he was unable to feel the irritation and cutting caused by his leg braces . Sources are in disagreement about the overall relationship between height and longevity . Samaras and Elrick , in the Western Journal of Medicine , demonstrate an inverse correlation between height and longevity in several mammals including humans .</context>
+    </instance>
+    <instance id="Human_height-height-17-48-1" docsrc="Human_height">
+      <context> Samaras and Elrick , in the Western Journal of Medicine , demonstrate an inverse correlation between height <head>and</head> longevity in several mammals including humans . Women whose height is under 150 cm ( 4 ft 11 in ) may have a small pelvis , resulting in such complications during childbirth as shoulder dystocia . A study done in Sweden in 2005 has shown that there is a strong inverse correlation between height and suicide among Swedish men .</context>
+    </instance>
+    <instance id="Human_height-height-18-85-1" docsrc="Human_height">
+      <context> A relatively small sample of the population may have been measured , which makes it uncertain whether this <head>sample</head> accurately represents the entire population . The height of persons can vary over the course of a day , due to factors such as a height increase from exercise done directly before measurement ( normally inversely correlated ) , or a height increase since lying down for a significant period of time ( normally inversely correlated ) . For example , one study revealed a mean decrease of 1.54 centimetres ( 0.61 in ) in the heights of 100 children from getting out of bed in the morning to between 4 and 5 p.m. that same day .</context>
+    </instance>
+    <instance id="Human_height-height-19-107-1" docsrc="Human_height">
+      <context> A copy is available here.www.psych.ualberta.ca/~phurd/karube/ ( an English translation of this Japanese page would make it easier to evaluate <head>the</head> quality of the data ... ) cdc.gov Aminorroaya A , Amini M , Naghdi H , Zadeh AH ( 2003 ) . " Growth charts of heights and weights of male children and adolescents of Isfahan , Iran " .</context>
+    </instance>
+    <instance id="Human_height-height-19-46-1" docsrc="Human_height">
+      <context> Cancer risk has also been found to grow with height . At the extreme end , being excessively tall <head>can</head> cause various medical problems , including cardiovascular problems , because of the increased load on the heart to supply the body with blood , and problems resulting from the increased time it takes the brain to communicate with the extremities . For example , Robert Wadlow , the tallest man known to verifiable history , developed trouble walking as his height increased throughout his life .</context>
+    </instance>
+    <instance id="Human_height-height-19-84-1" docsrc="Human_height">
+      <context> As this case shows , data taken from a particular social group may not represent a total population in <head>some</head> countries . A relatively small sample of the population may have been measured , which makes it uncertain whether this sample accurately represents the entire population . The height of persons can vary over the course of a day , due to factors such as a height increase from exercise done directly before measurement ( normally inversely correlated ) , or a height increase since lying down for a significant period of time ( normally inversely correlated ) .</context>
+    </instance>
+    <instance id="Human_height-height-2-47-2" docsrc="Human_height">
+      <context> Sources are <head>in</head> disagreement about the overall relationship between height and longevity . Samaras and Elrick , in the Western Journal of Medicine , demonstrate an inverse correlation between height and longevity in several mammals including humans . Women whose height is under 150 cm ( 4 ft 11 in ) may have a small pelvis , resulting in such complications during childbirth as shoulder dystocia .</context>
+    </instance>
+    <instance id="Human_height-height-2-66-2" docsrc="Human_height">
+      <context> According to <head>a</head> study by economist John Komlos and Francesco Cinnirella , in the first half of the 18th century , the average height of an English male was 165 cm ( 5 ft 5 in ) , and the average height of an Irish male was 168 cm ( 5 ft 6 in ) . The estimated mean height of English , German , and Scottish soldiers was 163.6 cm – 165.9 cm ( 5 ft 4.4 in – 5 ft 5.3 in ) for the period as a whole , while that of Irish was 167.9 cm ( 5 ft 6.1 in ) . The average height of male slaves and convicts in North America was 171 cm ( 5 ft 7 in ) .</context>
+    </instance>
+    <instance id="Human_height-height-23-65-1" docsrc="Human_height">
+      <context> The original indigenous population of Plains Native Americans was also among the tallest populations of the world at the time . In the <head>late</head> nineteenth century , the Netherlands was a land renowned for its short population , but today its population is among the world 's tallest with young men averaging 183.8 cm ( 6 ft 0.4 in ) tall . According to a study by economist John Komlos and Francesco Cinnirella , in the first half of the 18th century , the average height of an English male was 165 cm ( 5 ft 5 in ) , and the average height of an Irish male was 168 cm ( 5 ft 6 in ) .</context>
+    </instance>
+    <instance id="Human_height-height-26-23-2" docsrc="Human_height">
+      <context> In Tibet , the khampas are known for their great height . Khampa males are on average 180 cm tall ( 5 ft 11 in ) <head>.</head> The people of the Dinaric Alps ( mainly South Slavs ) are on record as being the tallest in the world , with a male average height of 185.6 cm ( 6 ft 1.1 in ) and female average height of 170.9 cm ( 5 ft 7.3 in ) .</context>
+    </instance>
+    <instance id="Human_height-height-28-21-1" docsrc="Human_height">
+      <context> Nature versus nurtureEdit === The effect of environment on height is illustrated by studies performed by anthropologist Barry Bogin and coworkers of Guatemala Mayan children living in the <head>United</head> States . In the early 1970s , when Bogin first visited Guatemala , he observed that Mayan Indian men averaged only 157.5 centimetres ( 5 ft 2 in ) in height and the women averaged 142.2 centimetres ( 4 ft 8 in ) .</context>
+    </instance>
+    <instance id="Human_height-height-29-21-5" docsrc="Human_height">
+      <context> He discovered that Maya refugees , who ranged from six to twelve years old , were significantly taller than their Guatemalan counterparts . By 2000 , the American Maya <head>were</head> 10.24 cm ( 4.03 in ) taller than the Guatemalan Maya of the same age , largely due to better nutrition and health care . Bogin also noted that American Maya children had relatively longer legs , averaging 7.02 cm ( 2.76 in ) longer than the Guatemalan Maya ( a significantly lower sitting height ratio ) .</context>
+    </instance>
+    <instance id="Human_height-height-3-12-1" docsrc="Human_height">
+      <context> Note there is <head>a</head> discontinuity in the growth curves at age 2 , which reflects the difference in recumbent length ( with the child on his or her back ) , used in measuring infants and toddlers and standing height typically measured from age 2 onwards . Height , like other phenotypic traits , is determined by a combination of genetics and environmental factors . A child 's height based on parental heights is subject to regression toward the mean , therefore extremely tall or short parents will likely have correspondingly taller or shorter offspring , but their offspring will also likely be closer to average height than the parents themselves .</context>
+    </instance>
+    <instance id="Human_height-height-3-2-1" docsrc="Human_height">
+      <context> Exceptional height variation <head>(</head> around 20 % deviation from average ) within such a population is sometimes due to gigantism or dwarfism , which are medical conditions caused by specific genes or endocrine abnormalities . In regions of poverty or warfare , environmental factors like chronic malnutrition during childhood or adolescence may result in delayed growth and/or marked reductions in adult stature even without the presence of any of these medical conditions . The study of height is known as auxology .</context>
+    </instance>
+    <instance id="Human_height-height-3-55-1" docsrc="Human_height">
+      <context> Height and occupational <head>successEdit</head> === There is a large body of research in psychology , economics , and human biology that has assessed the relationship between several seemingly innocuous physical features ( e.g. , body height ) and occupational success . The correlation between height and success was explored decades ago .</context>
+    </instance>
+    <instance id="Human_height-height-3-66-1" docsrc="Human_height">
+      <context> In the late <head>nineteenth</head> century , the Netherlands was a land renowned for its short population , but today its population is among the world 's tallest with young men averaging 183.8 cm ( 6 ft 0.4 in ) tall . According to a study by economist John Komlos and Francesco Cinnirella , in the first half of the 18th century , the average height of an English male was 165 cm ( 5 ft 5 in ) , and the average height of an Irish male was 168 cm ( 5 ft 6 in ) . The estimated mean height of English , German , and Scottish soldiers was 163.6 cm – 165.9 cm ( 5 ft 4.4 in – 5 ft 5.3 in ) for the period as a whole , while that of Irish was 167.9 cm ( 5 ft 6.1 in ) .</context>
+    </instance>
+    <instance id="Human_height-height-30-53-2" docsrc="Human_height">
+      <context> === Height and occupational successEdit === There is a large body of research in psychology , economics , and human biology that has assessed the relationship between several seemingly innocuous <head>physical</head> features ( e.g. , body height ) and occupational success .</context>
+    </instance>
+    <instance id="Human_height-height-35-84-1" docsrc="Human_height">
+      <context> As this case shows , data taken from a particular social group may not represent a total population in some countries . A relatively small sample of the population may have been measured , which <head>makes</head> it uncertain whether this sample accurately represents the entire population . The height of persons can vary over the course of a day , due to factors such as a height increase from exercise done directly before measurement ( normally inversely correlated ) , or a height increase since lying down for a significant period of time ( normally inversely correlated ) .</context>
+    </instance>
+    <instance id="Human_height-height-39-10-1" docsrc="Human_height">
+      <context> In reality , a single individual 's growth curve shows large upward and downward spikes , partly due to actual differences in growth velocity , and partly due to small measurement errors . For example , a typical measurement <head>error</head> of plus or minus 0.5 cm may completely nullify 0.5 cm of actual growth resulting in either a " negative " 0.5 cm growth ( due to overestimation in the previous visit combined with underestimation in the latter ) , up to a 1.5 cm growth ( the first visit underestimating and the second visit overestimating ) in the same elapsed time period between measurements . Note there is a discontinuity in the growth curves at age 2 , which reflects the difference in recumbent length ( with the child on his or her back ) , used in measuring infants and toddlers and standing height typically measured from age 2 onwards .</context>
+    </instance>
+    <instance id="Human_height-height-39-23-2" docsrc="Human_height">
+      <context> In Tibet , the khampas are known for their great height . Khampa males are on average 180 cm tall ( 5 ft 11 in ) . The people of the Dinaric Alps ( mainly South Slavs ) are <head>on</head> record as being the tallest in the world , with a male average height of 185.6 cm ( 6 ft 1.1 in ) and female average height of 170.9 cm ( 5 ft 7.3 in ) .</context>
+    </instance>
+    <instance id="Human_height-height-4-102-1" docsrc="Human_height">
+      <context> Eurostats Statistical Yearbook 2004 <head>(</head> for heights in Germany ) Netherlands Central Bureau for Statistics , 1996 ( for average heights ) Mean Body Weight , Height , and body mass index , United States 1960–2002</context>
+    </instance>
+    <instance id="Human_height-height-4-24-1" docsrc="Human_height">
+      <context> Khampa males are on <head>average</head> 180 cm tall ( 5 ft 11 in ) . The people of the Dinaric Alps ( mainly South Slavs ) are on record as being the tallest in the world , with a male average height of 185.6 cm ( 6 ft 1.1 in ) and female average height of 170.9 cm ( 5 ft 7.3 in ) . Most notably , extreme height may be pathological , such as gigantism resulting from childhood hyperpituitarism , and dwarfism which has various causes .</context>
+    </instance>
+    <instance id="Human_height-height-41-12-1" docsrc="Human_height">
+      <context> Note there is a discontinuity in the growth curves at age 2 , which reflects the difference in recumbent length ( with the child on his or her back ) , used in measuring infants and toddlers and standing height typically <head>measured</head> from age 2 onwards . Height , like other phenotypic traits , is determined by a combination of genetics and environmental factors . A child 's height based on parental heights is subject to regression toward the mean , therefore extremely tall or short parents will likely have correspondingly taller or shorter offspring , but their offspring will also likely be closer to average height than the parents themselves .</context>
+    </instance>
+    <instance id="Human_height-height-41-65-1" docsrc="Human_height">
+      <context> The original indigenous population of Plains Native Americans was also among the tallest populations of the world at the time . In the late nineteenth century , the Netherlands was a land renowned for its short population , but today its <head>population</head> is among the world 's tallest with young men averaging 183.8 cm ( 6 ft 0.4 in ) tall . According to a study by economist John Komlos and Francesco Cinnirella , in the first half of the 18th century , the average height of an English male was 165 cm ( 5 ft 5 in ) , and the average height of an Irish male was 168 cm ( 5 ft 6 in ) .</context>
+    </instance>
+    <instance id="Human_height-height-5-104-1" docsrc="Human_height">
+      <context> Mean Body Weight , Height <head>,</head> and body mass index , United States 1960–2002 UK Department of Health – Health Survey for England Burkhard Bilger . " The Height Gap . " The New Yorker</context>
+    </instance>
+    <instance id="Human_height-height-5-122-1" docsrc="Human_height">
+      <context> Body height of mummified pharaohs <head>supports</head> historical suggestions of sibling marriages , AJPA DOI : 10.1002/ajpa.22728 [ 1 ] CDC National Center for Health Statistics : Growth Charts of American Percentiles fao.org , Body Weights and Heights by Countries ( given in percentiles )</context>
+    </instance>
+    <instance id="Human_height-height-5-19-2" docsrc="Human_height">
+      <context> === Nature versus nurtureEdit === <head>The</head> effect of environment on height is illustrated by studies performed by anthropologist Barry Bogin and coworkers of Guatemala Mayan children living in the United States .</context>
+    </instance>
+    <instance id="Human_height-height-5-43-2" docsrc="Human_height">
+      <context> === Height and healthEdit === <head>Certain</head> studies have shown that height is a factor in overall health while some suggest tallness is associated with better cardiovascular health and shortness with longevity .</context>
+    </instance>
+    <instance id="Human_height-height-5-73-1" docsrc="Human_height">
+      <context> The shortest adult human on <head>record</head> was Chandra Bahadur Dangi of Nepal at 54.6 cm ( 1 ft 9 1⁄2 in ) . Adult height between populations often differs significantly . For example , the average height of women from the Czech Republic is greater than that of men from Malawi .</context>
+    </instance>
+    <instance id="Human_height-height-5-81-1" docsrc="Human_height">
+      <context> As with any statistical data <head>,</head> the accuracy of such data may be questionable for various reasons : Test subjects may have been invited instead of chosen at random , resulting in sampling bias . Some countries may have significant height gaps between different regions .</context>
+    </instance>
+    <instance id="Human_height-height-5-9-1" docsrc="Human_height">
+      <context> Developing countries such as Guatemala <head>have</head> rates of stunting in children under 5 living as high as 82.2 % in Totonicapán , and 49.8 % nationwide . Height measurements are by nature subject to statistical sampling errors even for a single individual . In a clinical situation , height measurements are seldom taken more often than once per office visit , which may mean sampling taking place a week to several months apart .</context>
+    </instance>
+    <instance id="Human_height-height-6-100-1" docsrc="Human_height">
+      <context> Pygmy peoples Fitting the Task to <head>the</head> Man , 1987 ( for heights in U.S. and Japan ) Eurostats Statistical Yearbook 2004 ( for heights in Germany )</context>
+    </instance>
+    <instance id="Human_height-height-6-105-1" docsrc="Human_height">
+      <context> UK Department of Health – Health <head>Survey</head> for England Burkhard Bilger . " The Height Gap . " The New Yorker A collection of data on human height , referred to here as " karube " but originally collected from other sources , was originally available here ( www.kurabe.net/average_height/ ) but is no longer .</context>
+    </instance>
+    <instance id="Human_height-height-6-129-1" docsrc="Human_height">
+      <context> The Biological Standard of Living in <head>Europe</head> During the Last Two Millennia HEALTH AND NUTRITION IN THE PREINDUSTRIAL ERA : INSIGHTS FROM A MILLENNIUM OF AVERAGE HEIGHTS IN NORTHERN EUROPE Our World In Data – Human Height – Visualizations of how human height around the world has changed historically ( by Max Roser ) .</context>
+    </instance>
+    <instance id="Human_height-height-6-55-3" docsrc="Human_height">
+      <context> The correlation between height and success <head>was</head> explored decades ago . Shorter people are considered to have an advantage in certain sports ( e.g. , gymnastics , race car driving , etc . ) , whereas in many other sports taller people have a major advantage . In most occupational fields , body height is not relevant to how well people are able to perform , but nonetheless has been found to correlate with their success in several studies , although there may be other factors such as gender or socioeonomic status that explain this .</context>
+    </instance>
+    <instance id="Human_height-height-6-82-2" docsrc="Human_height">
+      <context> Some countries may have significant height <head>gaps</head> between different regions . For instance , one survey shows there is 10.8 cm ( 4 1⁄2 in ) gap between the tallest state and the shortest state in Germany . Under such circumstances , the mean height may not represent the total population unless sample subjects are appropriately taken from all regions with using weighted average of the different regional groups .</context>
+    </instance>
+    <instance id="Human_height-height-7-12-1" docsrc="Human_height">
+      <context> Note there is a discontinuity in the <head>growth</head> curves at age 2 , which reflects the difference in recumbent length ( with the child on his or her back ) , used in measuring infants and toddlers and standing height typically measured from age 2 onwards . Height , like other phenotypic traits , is determined by a combination of genetics and environmental factors . A child 's height based on parental heights is subject to regression toward the mean , therefore extremely tall or short parents will likely have correspondingly taller or shorter offspring , but their offspring will also likely be closer to average height than the parents themselves .</context>
+    </instance>
+    <instance id="Human_height-height-7-82-3" docsrc="Human_height">
+      <context> For instance , one survey shows there <head>is</head> 10.8 cm ( 4 1⁄2 in ) gap between the tallest state and the shortest state in Germany . Under such circumstances , the mean height may not represent the total population unless sample subjects are appropriately taken from all regions with using weighted average of the different regional groups . Different social groups can show different mean height .</context>
+    </instance>
+    <instance id="Human_height-height-8-123-1" docsrc="Human_height">
+      <context> CDC National Center for Health Statistics : Growth <head>Charts</head> of American Percentiles fao.org , Body Weights and Heights by Countries ( given in percentiles ) The Height Gap , Article discussing differences in height around the world</context>
+    </instance>
+    <instance id="Human_height-height-8-7-3" docsrc="Human_height">
+      <context> Growth has long been recognized as a measure <head>of</head> the health of individuals , hence part of the reasoning for the use of growth charts . For individuals , as indicators of health problems , growth trends are tracked for significant deviations and growth is also monitored for significant deficiency from genetic expectations . Genetics is a major factor in determining the height of individuals , though it is far less influential in regard to differences among populations .</context>
+    </instance>
+    <instance id="Human_height-height-9-36-1" docsrc="Human_height">
+      <context> The people of the Dinaric Alps ( mainly South <head>Slavs</head> ) are on record as being the tallest in the world , with a male average height of 185.6 cm ( 6 ft 1.1 in ) and female average height of 170.9 cm ( 5 ft 7.3 in ) . Most notably , extreme height may be pathological , such as gigantism resulting from childhood hyperpituitarism , and dwarfism which has various causes . Rarely , no cause can be found for extreme height ; very short persons may be termed as having idiopathic short stature .</context>
+    </instance>
+    <instance id="Human_height-height-9-44-1" docsrc="Human_height">
+      <context> Height and healthEdit === Certain studies have shown that <head>height</head> is a factor in overall health while some suggest tallness is associated with better cardiovascular health and shortness with longevity . Cancer risk has also been found to grow with height .</context>
+    </instance>
+    <instance id="Human_height-height-9-46-4" docsrc="Human_height">
+      <context> In many of the pictures of the later portion <head>of</head> his life , Wadlow can be seen gripping something for support . Late in his life , although he died at age 22 , he had to wear braces on his legs and walk with a cane ; and he died after developing an infection in his legs because he was unable to feel the irritation and cutting caused by his leg braces . Sources are in disagreement about the overall relationship between height and longevity .</context>
+    </instance>
+    <instance id="Summit-height-21-0-3" docsrc="Summit">
+      <context> Mathematically , a summit is a local maximum in elevation . The topographic terms " acme " , " apex " <head>,</head> " peak " , and " zenith " are synonyms . The term " summit " is generally used only for a mountain peak with some significant amount of topographic prominence ( height above the lowest point en route to the nearest higher peak ) or topographic isolation ( distance from the nearest point of higher elevation ) ; for example , a boulder next to the main summit of a mountain is not considered a summit .</context>
+    </instance>
+    <instance id="a00251529_d_7" docsrc="a00251529_d">
+      <context> revealing excessive self-confidence ; reaching for the <head>heights</head> ;</context>
+    </instance>
+    <instance id="a01205232_d_3" docsrc="a01205232_d">
+      <context> used of a <head>height</head> or viewpoint ;</context>
+    </instance>
+    <instance id="a01489085_d_5" docsrc="a01489085_d">
+      <context> fully ripe ; at the <head>height</head> of bloom ;</context>
+    </instance>
+    <instance id="a02385726_d_3" docsrc="a02385726_d">
+      <context> having a specified <head>height</head> ;</context>
+    </instance>
+    <instance id="a02386125_d_3" docsrc="a02386125_d">
+      <context> of relatively great <head>height</head> ;</context>
+    </instance>
+    <instance id="a02387790_d_3" docsrc="a02387790_d">
+      <context> well below average <head>height</head> ;</context>
+    </instance>
+    <instance id="a02485319_d_7" docsrc="a02485319_d">
+      <context> moving upward or along at a considerable <head>height</head> ;</context>
+    </instance>
+    <instance id="br-a15#w1728_0" docsrc="br-a15">
+      <context> If it 's true that contented cows give more milk , why should n't happy ball players produce more base_hits ? The two top talents of the time , Mickey_Mantle and Willie_Mays , have hit the ball harder and more successfully so_far this early season than at any period in careers which , to be frank about it , never have quite reached expectations . And that 's meant as a boost , not a knock . Mays and Mantle , both 10 - year men at 30 , have so much ability that , baseball men agree , they 've never hit the <head>heights</head> . Their heights , that_is . Mantle , the bull-necked blond switch-hitter , had one sensational triple-crown_season , 1959 , when he batted .365 and also led the American_League in home_runs , 52 , and RBIs , 130 . Like the Yankees ' slugger , Mays , the terror of the Giants , has had seasons that would be considered the ultimate by most players , but not by - or for - Willie .</context>
+    </instance>
+    <instance id="br-a15#w1731_0" docsrc="br-a15">
+      <context> The two top talents of the time , Mickey_Mantle and Willie_Mays , have hit the ball harder and more successfully so_far this early season than at any period in careers which , to be frank about it , never have quite reached expectations . And that 's meant as a boost , not a knock . Mays and Mantle , both 10 - year men at 30 , have so much ability that , baseball men agree , they 've never hit the heights . Their <head>heights</head> , that_is . Mantle , the bull-necked blond switch-hitter , had one sensational triple-crown_season , 1959 , when he batted .365 and also led the American_League in home_runs , 52 , and RBIs , 130 . Like the Yankees ' slugger , Mays , the terror of the Giants , has had seasons that would be considered the ultimate by most players , but not by - or for - Willie . His best years were 1954 when he hit .345 with 41 homers and '55 when he belted 51 home_runs , drove_in 127 and stole 24 bases .</context>
+    </instance>
+    <instance id="br-e01#w1850_0" docsrc="br-e01">
+      <context> It increases flexibility of the legs . It speeds muscle growth and power development even for the advanced bodybuilder because each hip and leg is exercised separately , thus enabling a massive , concentrated effort to be focused_on each . You 'll need your Weider_Power_Stands for this fine exercise and here 's the way it 's done : Place your Power_Stands in position and adjust their <head>height</head> so_that this will correspond to the height of your shoulders when you are in a deep leg split as for a heavy Clean . Place a suitably loaded barbell across them ; grasp the bar ( which will rest against the back of your neck ) ; extend your feet forward and backward until you are in a deep leg split . Now raise the weight by straightening your front leg , without moving your feet . When the front knee is straight and locked , allow it to bend again until you feel the bar come lightly into contact with the sides of the Power_Stands .</context>
+    </instance>
+    <instance id="br-e01#w1857_0" docsrc="br-e01">
+      <context> It increases flexibility of the legs . It speeds muscle growth and power development even for the advanced bodybuilder because each hip and leg is exercised separately , thus enabling a massive , concentrated effort to be focused_on each . You 'll need your Weider_Power_Stands for this fine exercise and here 's the way it 's done : Place your Power_Stands in position and adjust their height so_that this will correspond to the <head>height</head> of your shoulders when you are in a deep leg split as for a heavy Clean . Place a suitably loaded barbell across them ; grasp the bar ( which will rest against the back of your neck ) ; extend your feet forward and backward until you are in a deep leg split . Now raise the weight by straightening your front leg , without moving your feet . When the front knee is straight and locked , allow it to bend again until you feel the bar come lightly into contact with the sides of the Power_Stands .</context>
+    </instance>
+    <instance id="br-f14#w81_0" docsrc="br-f14">
+      <context> Everyone with a personal or group tragedy to relate had_to be given his day in court as in some vast collective dirge . For almost two months , the defendant and the world heard from individuals escaped from the grave about fathers and mothers , graybeards , adolescents , babies , starved , beaten to death , strangled , machine-gunned , gassed , burned . One who had been a boy in Auschwitz had_to tell how children had been selected by <head>height</head> for the gas_chambers . The gruesome humor of the Nazis was not forgotten - the gas_chamber with a sign on it with the name of a Jewish foundation and bearing a copper Star_of_David - nor the gratuitous sadism of SS officers . Public_relations strategists everywhere , watching the reaction of the German press , the liberal press , the lunatic fringe press , listening to their neighbors , studying interviews with men and women on the street , cried_out : Too_much , too_much - the mind of the audience is becoming dulled , the horrors are losing their effect . And still another witness , one who had crawled out from under a heap of corpses , had_to tell how the victims had been forced to lay themselves head to foot one on top of the other before being shot .</context>
+    </instance>
+    <instance id="br-f21#w494_0" docsrc="br-f21">
+      <context> In the deep waters of the Pacific these waves reach a speed of 500 miles_per_hour . Tsunami are so shallow in comparison with their length that in the open ocean they are hardly detectable . Their amplitude sometimes is as little as two feet from trough to crest . Usually it is only_when they approach shallow water on the shore that they build_up to their terrifying <head>heights</head> . On the fateful day in 1896 when the great waves approached Japan , fishermen at_sea noticed no unusual swells . Not until they sailed home at the end of the day , through a sea strewn with bodies and the wreckage of houses , were they aware of what had happened . The seemingly quiet ocean had crashed a wall of water from 10 to 100 feet high upon beaches crowded with bathers , drowning thousands of them and flattening villages along the shore .</context>
+    </instance>
+    <instance id="br-g23#w138_0" docsrc="br-g23">
+      <context> Attorney_General Palmer made a series of raids that sent more_than 4000 so-called radicals to the jails , in direct violation of their constitutional rights . Then , not many years later , the Un-American_Activities_Committee , under the leadership of Martin_Dies , pilloried hundreds of decent , patriotic citizens . Anyone who tried to remedy some of the most glaring defects in our form of democracy was denounced as a traitorous red whose real purpose was the destruction of our government . This hysteria reached its <head>height</head> under the leadership of Senator_Joseph_McCarthy . Demagogues of this sort found communist bogeys lurking behind any new idea that would run counter to stereotyped notions . New ideas were dangerous and must be repressed , no_matter_how . Those who would suppress dangerous thoughts , credit ideas with high potency .</context>
+    </instance>
+    <instance id="br-j03#w1010_0" docsrc="br-j03">
+      <context> Although the * * f calculation is obvious by_analogy_with that for gravitational_field and osmotic_pressure , it is interesting to confirm it by a method which can be generalized to include related effects . Consider a shear field with a height of H and a cross-sectional area of A opposed by a manometer with a height of h ( referred to the same base as H ) and a cross-sectional area of a . If * * f is the change per unit volume in Gibbs function caused by the shear field at constant P and T , and |r is the density of the fluid , then the total potential_energy of the system above the reference height is * * f . * * f is the work necessary to fill the manometer column from the reference <head>height</head> to h . The total volume of the system above the reference height is * * f , and h can be eliminated to obtain an equation for the total potential_energy of the system in_terms_of H . The minimum total potential_energy is found by taking the derivative with_respect_to H and equating to zero . This gives * * f , which is the pressure .</context>
+    </instance>
+    <instance id="br-j03#w1023_0" docsrc="br-j03">
+      <context> Consider a shear field with a height of H and a cross-sectional area of A opposed by a manometer with a height of h ( referred to the same base as H ) and a cross-sectional area of a . If * * f is the change per unit volume in Gibbs function caused by the shear field at constant P and T , and |r is the density of the fluid , then the total potential_energy of the system above the reference height is * * f . * * f is the work necessary to fill the manometer column from the reference height to h . The total volume of the system above the reference <head>height</head> is * * f , and h can be eliminated to obtain an equation for the total potential_energy of the system in_terms_of H . The minimum total potential_energy is found by taking the derivative with_respect_to H and equating to zero . This gives * * f , which is the pressure . This is interesting for it combines both the thermodynamic concept of a minimum Gibbs function for equilibrium and minimum mechanical potential_energy for equilibrium .</context>
+    </instance>
+    <instance id="br-j03#w912_0" docsrc="br-j03">
+      <context> The actual change * * f caused by a shear field is calculated by multiplying the pressure differential times the volume , just_as_it_is for any gravitational or osmotic_pressure head . If the volume is the molal volume , then * * f is obtained on a molal basis which is the customary terminology of the chemists . Although the * * f calculation is obvious by_analogy_with that for gravitational_field and osmotic_pressure , it is interesting to confirm it by a method which can be generalized to include related effects . Consider a shear field with a <head>height</head> of H and a cross-sectional area of A opposed by a manometer with a height of h ( referred to the same base as H ) and a cross-sectional area of a . If * * f is the change per unit volume in Gibbs function caused by the shear field at constant P and T , and |r is the density of the fluid , then the total potential_energy of the system above the reference height is * * f . * * f is the work necessary to fill the manometer column from the reference height to h . The total volume of the system above the reference height is * * f , and h can be eliminated to obtain an equation for the total potential_energy of the system in_terms_of H .</context>
+    </instance>
+    <instance id="br-j03#w927_0" docsrc="br-j03">
+      <context> The actual change * * f caused by a shear field is calculated by multiplying the pressure differential times the volume , just_as_it_is for any gravitational or osmotic_pressure head . If the volume is the molal volume , then * * f is obtained on a molal basis which is the customary terminology of the chemists . Although the * * f calculation is obvious by_analogy_with that for gravitational_field and osmotic_pressure , it is interesting to confirm it by a method which can be generalized to include related effects . Consider a shear field with a height of H and a cross-sectional area of A opposed by a manometer with a <head>height</head> of h ( referred to the same base as H ) and a cross-sectional area of a . If * * f is the change per unit volume in Gibbs function caused by the shear field at constant P and T , and |r is the density of the fluid , then the total potential_energy of the system above the reference height is * * f . * * f is the work necessary to fill the manometer column from the reference height to h . The total volume of the system above the reference height is * * f , and h can be eliminated to obtain an equation for the total potential_energy of the system in_terms_of H .</context>
+    </instance>
+    <instance id="br-j03#w989_0" docsrc="br-j03">
+      <context> If the volume is the molal volume , then * * f is obtained on a molal basis which is the customary terminology of the chemists . Although the * * f calculation is obvious by_analogy_with that for gravitational_field and osmotic_pressure , it is interesting to confirm it by a method which can be generalized to include related effects . Consider a shear field with a height of H and a cross-sectional area of A opposed by a manometer with a height of h ( referred to the same base as H ) and a cross-sectional area of a . If * * f is the change per unit volume in Gibbs function caused by the shear field at constant P and T , and |r is the density of the fluid , then the total potential_energy of the system above the reference <head>height</head> is * * f . * * f is the work necessary to fill the manometer column from the reference height to h . The total volume of the system above the reference height is * * f , and h can be eliminated to obtain an equation for the total potential_energy of the system in_terms_of H . The minimum total potential_energy is found by taking the derivative with_respect_to H and equating to zero .</context>
+    </instance>
+    <instance id="br-j04#w2167_0" docsrc="br-j04">
+      <context> The data reported here are either from spectra from which the adsorbed water resonance could easily be eliminated or from spectra of samples evacuated and sealed_off at 375 ` C which contain no adsorbed water . The measured powder density of the **f used here was about **f , approximately one-third that of the crystal density ( **f ) . Such a density corresponds to a paramagnetic ion density of about **f . Spectra were obtained from a powdered sample having the shape of a right circular cylinder with a <head>height</head> to diameter ratio of 4 : 1 . The top of the sample was nearly flat and the bottom hemispherical . Spectra were also obtained from a sample in a spherical container which was made by blowing a bubble on the end of a capillary glass tube . The bubble was filled to the top and special precautions were taken to prevent any sample from remaining in the capillary .</context>
+    </instance>
+    <instance id="br-j14#w1547_0" docsrc="br-j14">
+      <context> Similar results might be expected from the influence of drugs or pathological conditions that limit iodide trapping , or organification , or accelerate thyroglobulin proteolysis . The name thyroid-stimulating_hormone ( TSH ) has been given to a substance found in the anterior pituitary_gland of all species of animal so_far tested for its presence . The hormone has also been called thyrotrophin or thyrotrophic_hormone . At the present_time we do not know by what biochemical_mechanism TSH acts_on the thyroid , but for bio-assay of the hormone there are a number of properties by which its activity may be estimated , including release of iodine from the thyroid , increase in thyroid weight , increase in mean <head>height</head> of the follicular cells and increase in the thyroidal uptake of * * f . Here we shall restrict discussion to those methods that appear sufficiently sensitive and precise for determining the concentration of TSH in blood . Brown ( 1959 ) has reviewed generally the various methods of assaying TSH , and the reader is referred to her paper for further information on the subject . As long_ago as 1851 it was pointed_out by Niepce ( 1851 ) that there is a connection between the pituitary and the thyroid .</context>
+    </instance>
+    <instance id="br-k01#w351_0" docsrc="br-k01">
+      <context> `` The blueberry_pie is good , Scotty . I recommend it '' . He looked at his son , his face worried . Scotty murmured , `` No , thanks '' , so softly his father had_to bend his gaunt <head>height</head> across the table and turn a round brown ear to him . Scotty regarded the ear and the grizzled hair around it with a moment of interest . He said more loudly , `` I'm full , old Pop '' . He had eaten almost nothing on the crested , three sectioned plate and had drunk about half the milk in its paper container .</context>
+    </instance>
+    <instance id="br-k08#w1416_0" docsrc="br-k08">
+      <context> Afraid at one_and_the_same time that his work might be turned_down - which would be a blow to his pride even_though no_one knew he was the author - and that the work would be accepted , and then that his violent feelings in the matter would certainly betray how deeply concerned he was in_spite_of himself . And how anxious this lover of obscurity was for applause ! And thus torn between his desire to be known as the composer of a successful opera and the necessity of remaining true to his proclaimed desire for anonymity , Rousseau suffered through several painful weeks . All these emotions were screwed_up to new <head>heights</head> when , after acceptance and the first rehearsals , there ensued such a buzz of excitement among Parisian music_lovers that Duclos had_to come running to Rousseau to inform him that the news had reached the superintendent of the King 's amusements , and that he was now demanding that the work be offered first at the royal summer palace of Fontainebleau . Imagine the honor of_it ! `` What was your answer '' ? Jean_Jacques asked , striving to appear unimpressed .</context>
+    </instance>
+    <instance id="br-l11#w1963_0" docsrc="br-l11">
+      <context> The killer , if in our present group , would certainly be interested in knowing that much , and even_though with the fingerprint evidence what it was I could see no way he could use this bit of information to improve on his situation , there might always be some way . If you can possibly avoid it , you do n't hand_out any extra chances . Felix took us into his studio . It was that oddly shaped space at the very top of the house , where ceiling <head>heights</head> had to accommodate themselves to the varying angles of roof slope . At each angle of its pitch a big skylight had been fitted into the roof and all these skylights were fitted with systems of multiple screens and shades . When Felix first opened the door on_it , all these shades were tightly drawn and the whole studio was as dark as night . He quickly fixed that , rolling back the shades on some of the skylights and adjusting screens on the others .</context>
+    </instance>
+    <instance id="n01527917_d_11" docsrc="n01527917_d">
+      <context> brown-speckled European lark noted for singing while hovering at a great <head>height</head> ;</context>
+    </instance>
+    <instance id="n02700258_d_5" docsrc="n02700258_d">
+      <context> an instrument that measures the <head>height</head> above ground ; used in navigation ;</context>
+    </instance>
+    <instance id="n03400389_d_23" docsrc="n03400389_d">
+      <context> a device consisting of a container of fuel and two explosive_charges ; the first charge bursts open the fuel container at a predetermined <head>height</head> and spreads the fuel in a cloud that mixes with atmospheric oxygen ; the second charge detonates the cloud which creates an enormous blast_wave and incinerates whatever is below ;</context>
+    </instance>
+    <instance id="n03491032_d_16" docsrc="n03491032_d">
+      <context> a glider resembling a large kite ; the rider hangs from it while descending from a <head>height</head> ;</context>
+    </instance>
+    <instance id="n03941231_d_14" docsrc="n03941231_d">
+      <context> plaything consisting of a container filled with toys and candy ; suspended from a <head>height</head> for blindfolded children to break with sticks ;</context>
+    </instance>
+    <instance id="n04365751_d_20" docsrc="n04365751_d">
+      <context> surveying_instrument consisting basically of a small telescope with an attached spirit_level rotating around a vertical axis ; for measuring relative <head>heights</head> of land ;</context>
+    </instance>
+    <instance id="n04748654_d_8" docsrc="n04748654_d">
+      <context> equality of measure ( e.g. , equality of <head>height</head> above sea_level or equality of loudness etc. ) ;</context>
+    </instance>
+    <instance id="n05086903_d_1" docsrc="n05086903_d">
+      <context> the <head>height</head> of a dancer's leap or jump ;</context>
+    </instance>
+    <instance id="n05096972_d_7" docsrc="n05096972_d">
+      <context> a garment size for persons of average <head>height</head> and weight ;</context>
+    </instance>
+    <instance id="n05131902_d_0" docsrc="n05131902_d">
+      <context> <head>height</head> above ground ;</context>
+    </instance>
+    <instance id="n05132045_d_1" docsrc="n05132045_d">
+      <context> the <head>height</head> of the ground on which something stands ;</context>
+    </instance>
+    <instance id="n06801580_d_10" docsrc="n06801580_d">
+      <context> a line drawn on a map connecting points of equal <head>height</head> ;</context>
+    </instance>
+    <instance id="n07405652_d_15" docsrc="n07405652_d">
+      <context> a volcanic_eruption in which a stream of gas and ash is violently ejected to a <head>height</head> of several miles ;</context>
+    </instance>
+    <instance id="n07434320_d_10" docsrc="n07434320_d">
+      <context> the act of casting down or falling headlong from a <head>height</head> ;</context>
+    </instance>
+    <instance id="n08701719_d_13" docsrc="n08701719_d">
+      <context> an ancient region of northern Asia_Minor on the Black_Sea ; it reached its <head>height</head> under Mithridates_VI but was later incorporated into the Roman_Empire ;</context>
+    </instance>
+    <instance id="n08917881_d_32" docsrc="n08917881_d">
+      <context> an ancient region of Mesopotamia lying between the Euphrates delta and the Persian_Gulf and the Arabian_Desert ; settled in 1000 BC and destroyed by the Persians in 539 BC ; reached the <head>height</head> of its power under Nebuchadnezzar_II ;</context>
+    </instance>
+    <instance id="n10496489_d_8" docsrc="n10496489_d">
+      <context> any member of various peoples having an average <head>height</head> of less than five feet ;</context>
+    </instance>
+    <instance id="n10539015_d_10" docsrc="n10539015_d">
+      <context> an acrobat who performs on a rope stretched at some <head>height</head> above the ground ;</context>
+    </instance>
+    <instance id="n11071960_d_20" docsrc="n11071960_d">
+      <context> Italian pope from 1198 to 1216 who instituted the Fourth_Crusade and under whom papal intervention in European politics reached its <head>height</head> ;</context>
+    </instance>
+    <instance id="n11091545_d_10" docsrc="n11091545_d">
+      <context> United_States singer who died of a drug overdose at the <head>height</head> of her popularity ;</context>
+    </instance>
+    <instance id="n11423028_d_15" docsrc="n11423028_d">
+      <context> a local region of low pressure or descending air that causes a plane to lose <head>height</head> suddenly ;</context>
+    </instance>
+    <instance id="n11475992_d_20" docsrc="n11475992_d">
+      <context> atmospheric_electricity ( lasting 10 msec ) appearing as globular flashes of red ( pink to blood-red ) light rising to <head>heights</head> of 60 miles ( sometimes seen together with elves ) ;</context>
+    </instance>
+    <instance id="n13940456_ex3_2" docsrc="n13940456_ex3">
+      <context> at the <head>height</head> of her career ;</context>
+    </instance>
+    <instance id="r00498610_d_4" docsrc="r00498610_d">
+      <context> at or to great <head>height</head> ; high_up in or into the air ;</context>
+    </instance>
+    <instance id="v02702368_d_5" docsrc="v02702368_d">
+      <context> be tall ; have a <head>height</head> of ; copula ;</context>
+    </instance>
+  </lexelt>
+</corpus>

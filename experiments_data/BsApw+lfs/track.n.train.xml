@@ -1,0 +1,650 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="track.n" pos="NN">
+    <instance id="Continuous_track-track-0-91-3" docsrc="Continuous_track">
+      <context> <head>They</head> smooth out the bumps , glide over small obstacles and are capable of crossing trenches or breaks in the terrain . Riding in a fast tracked vehicle feels like riding in a boat over heavy swells . Tracks are tougher than tyres since they can not be punctured or torn .</context>
+    </instance>
+    <instance id="Continuous_track-track-0-91-4" docsrc="Continuous_track">
+      <context> <head>Riding</head> in a fast tracked vehicle feels like riding in a boat over heavy swells . Tracks are tougher than tyres since they can not be punctured or torn . Tracks are much less likely to get stuck in soft ground , mud , or snow since they distribute the weight of the vehicle over a larger contact area , decreasing its ground pressure .</context>
+    </instance>
+    <instance id="Continuous_track-track-0-91-7" docsrc="Continuous_track">
+      <context> <head>In</head> addition , the larger contact area , coupled with the cleats , or grousers , on the track shoes , allows vastly superior traction that results in a much better ability to push or pull large loads where wheeled vehicles would dig in . Bulldozers , which are most often tracked , use this attribute to rescue other vehicles , ( such as wheel loaders ) which have become stuck in , or sunk into , the ground . Tracks can also give higher maneuverability , as tracked vehicles can turn in place without forward or backward movement by driving the tracks in opposite directions .</context>
+    </instance>
+    <instance id="Continuous_track-track-1-0-2" docsrc="Continuous_track">
+      <context> Continuous <head>track</head> , also called tank tread or caterpillar track , is a system of vehicle propulsion in which a continuous band of treads or track plates is driven by two or more wheels . This band is typically made of modular steel plates in the case of military vehicles and heavy equipment , or synthetic rubber reinforced with steel wires in the case of lighter agricultural or construction vehicles . Continuous tracks can be traced back as far as 1770 and today are commonly used on a variety of vehicles including bulldozers , excavators , tanks , and tractors , but can be found on any vehicle used in an application that can benefit from the added traction , low ground pressure and durability inherent in continuous track propulsion systems .</context>
+    </instance>
+    <instance id="Continuous_track-track-1-76-1" docsrc="Continuous_track">
+      <context> Once <head>steel</head> cleats became unpopular on paved roads , in 1938 a limited experiment began to bridge the gap between truck and tractor , a " convertible vehicle " patented by Phillip Sloan , the C5 Catruk , suffered design flaws and limited production before it was finally abandoned . === Construction and operation === Modern tracks are built from modular chain links which together compose a closed chain .</context>
+    </instance>
+    <instance id="Continuous_track-track-1-79-3" docsrc="Continuous_track">
+      <context> Military <head>vehicles</head> use a track shoe that is integral to the structure of the chain in order to reduce track weight . Reduced weight allows the vehicle to move faster and decreases overall vehicle weight to ease transportation . Since track weight is completely unsprung , reducing it improves suspension performance at speeds where the track 's momentum is significant .</context>
+    </instance>
+    <instance id="Continuous_track-track-10-79-4" docsrc="Continuous_track">
+      <context> Reduced weight allows the vehicle to move faster and decreases <head>overall</head> vehicle weight to ease transportation . Since track weight is completely unsprung , reducing it improves suspension performance at speeds where the track 's momentum is significant . In contrast , agricultural and construction vehicles opt for a track with shoes that attach to the chain with bolts and do not form part of the chain 's structure .</context>
+    </instance>
+    <instance id="Continuous_track-track-11-42-1" docsrc="Continuous_track">
+      <context> Caterpillar Tractor Company began in 1925 from a merger of the <head>Holt</head> Manufacturing Company and the C. L. Best Tractor Company ; an early successful manufacturer of crawler tractors . A long line of patents disputes who was the " originator " of continuous tracks . There were a number of designs that attempted to achieve a track laying mechanism , although these designs do not generally resemble modern tracked vehicles .</context>
+    </instance>
+    <instance id="Continuous_track-track-11-78-1" docsrc="Continuous_track">
+      <context> === Construction and operation === Modern tracks are built from modular <head>chain</head> links which together compose a closed chain . The links are jointed by a hinge , which allows the track to be flexible and wrap around a set of wheels to make an endless loop .</context>
+    </instance>
+    <instance id="Continuous_track-track-14-37-1" docsrc="Continuous_track">
+      <context> The soldiers immediately christened the 70bhp No.2 machine the " caterpillar " ' . <head>'</head> Caterpillar Tractor Company began in 1925 from a merger of the Holt Manufacturing Company and the C. L. Best Tractor Company ; an early successful manufacturer of crawler tractors . A long line of patents disputes who was the " originator " of continuous tracks .</context>
+    </instance>
+    <instance id="Continuous_track-track-14-95-1" docsrc="Continuous_track">
+      <context> In addition , should a track be broken , assuming the correct tools are <head>available</head> , it can be repaired without the need for special facilities ; something which is crucial in a combat situation . === Disadvantages === Prolonged use places enormous strain on the drive transmission and the mechanics of the tracks , which must be overhauled or replaced regularly .</context>
+    </instance>
+    <instance id="Continuous_track-track-15-58-2" docsrc="Continuous_track">
+      <context> === Hornsby/Holt/Phoenix === After Lombard began operations , Hornsby in England manufactured at least two <head>full</head> length " track steer " machines , and their patent was later purchased by Holt in 1913 , allowing Holt to claim to be the " inventor " of the crawler tractor .</context>
+    </instance>
+    <instance id="Continuous_track-track-16-79-3" docsrc="Continuous_track">
+      <context> Military vehicles use a track shoe that is integral to the structure of the chain in <head>order</head> to reduce track weight . Reduced weight allows the vehicle to move faster and decreases overall vehicle weight to ease transportation . Since track weight is completely unsprung , reducing it improves suspension performance at speeds where the track 's momentum is significant .</context>
+    </instance>
+    <instance id="Continuous_track-track-18-91-5" docsrc="Continuous_track">
+      <context> Tracks are tougher than tyres since they can not be punctured or torn . Tracks are much less <head>likely</head> to get stuck in soft ground , mud , or snow since they distribute the weight of the vehicle over a larger contact area , decreasing its ground pressure . In addition , the larger contact area , coupled with the cleats , or grousers , on the track shoes , allows vastly superior traction that results in a much better ability to push or pull large loads where wheeled vehicles would dig in .</context>
+    </instance>
+    <instance id="Continuous_track-track-19-79-1" docsrc="Continuous_track">
+      <context> The chain links are often broad , and can be made of manganese alloy steel for high strength , <head>hardness</head> , and abrasion resistance . Track construction and assembly is dictated by the application . Military vehicles use a track shoe that is integral to the structure of the chain in order to reduce track weight .</context>
+    </instance>
+    <instance id="Continuous_track-track-2-79-5" docsrc="Continuous_track">
+      <context> Since track <head>weight</head> is completely unsprung , reducing it improves suspension performance at speeds where the track 's momentum is significant . In contrast , agricultural and construction vehicles opt for a track with shoes that attach to the chain with bolts and do not form part of the chain 's structure . This allows track shoes to break without compromising the ability of the vehicle to move and decrease productivity but increases the overall weight of the track and vehicle .</context>
+    </instance>
+    <instance id="Continuous_track-track-22-91-7" docsrc="Continuous_track">
+      <context> In addition , the larger contact area , coupled with the cleats , or grousers , on the track shoes , allows <head>vastly</head> superior traction that results in a much better ability to push or pull large loads where wheeled vehicles would dig in . Bulldozers , which are most often tracked , use this attribute to rescue other vehicles , ( such as wheel loaders ) which have become stuck in , or sunk into , the ground . Tracks can also give higher maneuverability , as tracked vehicles can turn in place without forward or backward movement by driving the tracks in opposite directions .</context>
+    </instance>
+    <instance id="Continuous_track-track-23-50-2" docsrc="Continuous_track">
+      <context> === Dinsmoor === According to Scientific American , it was Charles Dinsmoor of Warren , Pennsylvania that invented a " vehicle " that <head>was</head> of endless tracks .</context>
+    </instance>
+    <instance id="Continuous_track-track-25-79-5" docsrc="Continuous_track">
+      <context> Since track weight is completely unsprung , reducing it improves suspension performance at speeds where the track 's momentum is significant . In contrast , <head>agricultural</head> and construction vehicles opt for a track with shoes that attach to the chain with bolts and do not form part of the chain 's structure . This allows track shoes to break without compromising the ability of the vehicle to move and decrease productivity but increases the overall weight of the track and vehicle .</context>
+    </instance>
+    <instance id="Continuous_track-track-26-113-1" docsrc="Continuous_track">
+      <context> Co. and Struck Corporation . Navicula diatoms are known for their ability to creep about on each other and on hard surfaces such as microscope slides <head>.</head> It is thought that around the outside of the navicula 's shell is a girdle of protoplasm that can flow and thus act as a tank track .</context>
+    </instance>
+    <instance id="Continuous_track-track-26-113-2" docsrc="Continuous_track">
+      <context> Navicula diatoms are known for their ability to creep about on each other and on hard surfaces such as microscope slides . It is thought that <head>around</head> the outside of the navicula 's shell is a girdle of protoplasm that can flow and thus act as a tank track .</context>
+    </instance>
+    <instance id="Continuous_track-track-33-9-1" docsrc="Continuous_track">
+      <context> Continuous tracks can be traced back as far as 1770 and today are commonly used on a variety of vehicles including bulldozers , excavators , tanks , and tractors , but can be <head>found</head> on any vehicle used in an application that can benefit from the added traction , low ground pressure and durability inherent in continuous track propulsion systems . === Dreadnaught wheel === In short , whilst the development of the continuous track engaged the attention of a number of inventors in the 18th and 19th centuries , the general use and exploitation of the continuous track belonged to the 20th Century .</context>
+    </instance>
+    <instance id="Continuous_track-track-4-79-1" docsrc="Continuous_track">
+      <context> The chain links are <head>often</head> broad , and can be made of manganese alloy steel for high strength , hardness , and abrasion resistance . Track construction and assembly is dictated by the application . Military vehicles use a track shoe that is integral to the structure of the chain in order to reduce track weight .</context>
+    </instance>
+    <instance id="Continuous_track-track-5-91-8" docsrc="Continuous_track">
+      <context> Bulldozers , which are most <head>often</head> tracked , use this attribute to rescue other vehicles , ( such as wheel loaders ) which have become stuck in , or sunk into , the ground . Tracks can also give higher maneuverability , as tracked vehicles can turn in place without forward or backward movement by driving the tracks in opposite directions . In addition , should a track be broken , assuming the correct tools are available , it can be repaired without the need for special facilities ; something which is crucial in a combat situation .</context>
+    </instance>
+    <instance id="Continuous_track-track-57-0-2" docsrc="Continuous_track">
+      <context> Continuous track , also called tank tread or caterpillar track , is a system of vehicle propulsion in which a continuous band of treads or track plates is driven by two or more wheels . This band is typically made of modular steel plates in the case of military vehicles and heavy equipment , or synthetic rubber <head>reinforced</head> with steel wires in the case of lighter agricultural or construction vehicles . Continuous tracks can be traced back as far as 1770 and today are commonly used on a variety of vehicles including bulldozers , excavators , tanks , and tractors , but can be found on any vehicle used in an application that can benefit from the added traction , low ground pressure and durability inherent in continuous track propulsion systems .</context>
+    </instance>
+    <instance id="Continuous_track-track-8-100-2" docsrc="Continuous_track">
+      <context> Prolonged use places enormous strain on the drive <head>transmission</head> and the mechanics of the tracks , which must be overhauled or replaced regularly . It is common to see tracked vehicles such as bulldozers or tanks transported long distances by a wheeled carrier such as a tank transporter or train , though technological advances have made this practice less common among tracked military vehicles than it once was . === " Live " and " Dead " track ===</context>
+    </instance>
+    <instance id="Continuous_track-track-9-51-1" docsrc="Continuous_track">
+      <context> Dinsmoor === According to Scientific American , it was <head>Charles</head> Dinsmoor of Warren , Pennsylvania that invented a " vehicle " that was of endless tracks . The article gives a detailed description of the endless tracks and the illustration looks much like today 's tracked vehicles .</context>
+    </instance>
+    <instance id="Continuous_track-track-9-9-1" docsrc="Continuous_track">
+      <context> Continuous tracks can be traced back as far as <head>1770</head> and today are commonly used on a variety of vehicles including bulldozers , excavators , tanks , and tractors , but can be found on any vehicle used in an application that can benefit from the added traction , low ground pressure and durability inherent in continuous track propulsion systems . === Dreadnaught wheel === In short , whilst the development of the continuous track engaged the attention of a number of inventors in the 18th and 19th centuries , the general use and exploitation of the continuous track belonged to the 20th Century .</context>
+    </instance>
+    <instance id="Race_track-track-0-29-1" docsrc="Race_track">
+      <context> <head>cycling</head> speed skating track and field</context>
+    </instance>
+    <instance id="Race_track-track-0-35-1" docsrc="Race_track">
+      <context> <head>auto</head> racing motorcycle racing track racing ( motorcycles )</context>
+    </instance>
+    <instance id="Race_track-track-1-1-2" docsrc="Race_track">
+      <context> A <head>racetrack</head> is a permanent facility or building . Racecourse is an alternate term for a horse racing track , found in countries such as the United Kingdom , India , Australia , Hong Kong , and the United Arab Emirates . Race tracks built for bicycles are known as velodromes .</context>
+    </instance>
+    <instance id="Race_track-track-10-82-1" docsrc="Race_track">
+      <context> Animal locomotion Auto racing List of auto racing tracks ( <head>UK</head> : motor racing tracks )</context>
+    </instance>
+    <instance id="Race_track-track-11-93-1" docsrc="Race_track">
+      <context> Worldwide Motor Racing track wiki racingcircuits.net Worldwide Motor Racing track database <head>[</head> 1 ] When the going gets rough – tyres and track surfaces</context>
+    </instance>
+    <instance id="Race_track-track-13-52-1" docsrc="Race_track">
+      <context> Ice ( Ice racing – when on dirt tracks , Bobsleigh , speed <head>skating</head> , ice motor racing ) Carpet ( electric radio controlled racing ) Some racetracks offer little in the way of permanent infrastructure other than the track ; others incorporate spectator facilities such as grandstands , hospitality or facilities for competitors , such as pit lanes and garages , paddocks and stables .</context>
+    </instance>
+    <instance id="Race_track-track-15-10-2" docsrc="Race_track">
+      <context> Beginning in the early 1900s , motorcycle races were run on high , banked , <head>wooden</head> race tracks called board tracks . During the 1920s , many of the races on the AAA Champttrhghionship circuit were run on such board tracks . Modern racetracks are designed with spectator safety being paramount , following incidents of spectator and track marshals fatalities .</context>
+    </instance>
+    <instance id="Race_track-track-16-1-3" docsrc="Race_track">
+      <context> Racecourse is an alternate term for a horse racing track , found in countries such as <head>the</head> United Kingdom , India , Australia , Hong Kong , and the United Arab Emirates . Race tracks built for bicycles are known as velodromes . Circuit is a common alternate term for racetrack , given the circuit configuration of most race tracks , allowing races to occur over several laps .</context>
+    </instance>
+    <instance id="Race_track-track-17-9-4" docsrc="Race_track">
+      <context> Racing automobiles in such facilities began in September 1896 , at Narragansett Park in Cranston , Rhode <head>Island</head> . The Indianapolis Motor Speedway was opened in August 1909 . Beginning in the early 1900s , motorcycle races were run on high , banked , wooden race tracks called board tracks .</context>
+    </instance>
+    <instance id="Race_track-track-18-10-1" docsrc="Race_track">
+      <context> The Indianapolis Motor Speedway was opened in August 1909 . Beginning in the early 1900s , motorcycle races <head>were</head> run on high , banked , wooden race tracks called board tracks . During the 1920s , many of the races on the AAA Champttrhghionship circuit were run on such board tracks .</context>
+    </instance>
+    <instance id="Race_track-track-2-0-1" docsrc="Race_track">
+      <context> A race <head>track</head> ( or ' racetrack ' , ' racing track ' or ' racing circuit ' ) is a facility built for racing of vehicles , athletes , or animals ( e.g. horse racing or greyhound racing ) . A race track also may feature grandstands or concourses .</context>
+    </instance>
+    <instance id="Race_track-track-2-0-3" docsrc="Race_track">
+      <context> A race <head>track</head> also may feature grandstands or concourses . Racetracks are also used in the study of animal locomotion . Some motorsport tracks are called speedways .</context>
+    </instance>
+    <instance id="Race_track-track-2-9-1" docsrc="Race_track">
+      <context> The stadium <head>of</head> the Circus Maximus in Ancient Rome , could hold 200,000 spectators . With the advent of the automobile in the late nineteenth/early twentieth century , racetracks were designed to suit the nature of powered machines . The earliest tracks were modified horse racing courses .</context>
+    </instance>
+    <instance id="Race_track-track-2-95-2" docsrc="Race_track">
+      <context> AudioTrackGuides.co.uk Audio <head>walkthroughs</head> of motor racing circuits , for use with games . Trackreviewers.com Motorsport Track Reviews and Information</context>
+    </instance>
+    <instance id="Race_track-track-2-96-1" docsrc="Race_track">
+      <context> Audio walkthroughs <head>of</head> motor racing circuits , for use with games . Trackreviewers.com Motorsport Track Reviews and Information</context>
+    </instance>
+    <instance id="Race_track-track-20-9-4" docsrc="Race_track">
+      <context> Racing automobiles in such facilities began in September 1896 , at Narragansett Park in Cranston , Rhode Island . The <head>Indianapolis</head> Motor Speedway was opened in August 1909 . Beginning in the early 1900s , motorcycle races were run on high , banked , wooden race tracks called board tracks .</context>
+    </instance>
+    <instance id="Race_track-track-3-92-1" docsrc="Race_track">
+      <context> List of horse <head>racing</head> venues trackpedia.com Worldwide Motor Racing track wiki</context>
+    </instance>
+    <instance id="Race_track-track-4-58-3" docsrc="Race_track">
+      <context> Several racetracks are incorporated <head>into</head> larger venues or complexes , incorporating golf courses , museums , hotels , and conference centres . Some racetracks are small enough to be contained indoors , for sports such as motocross , cycling , and athletics . Many horse and motorsport tracks are configurable , allowing different routes or sections .</context>
+    </instance>
+    <instance id="Race_track-track-4-60-1" docsrc="Race_track">
+      <context> Some racetracks are small <head>enough</head> to be contained indoors , for sports such as motocross , cycling , and athletics . Many horse and motorsport tracks are configurable , allowing different routes or sections . Some venues contain smaller tracks inside larger ones , with access tunnels and bridges for spectators .</context>
+    </instance>
+    <instance id="Race_track-track-4-82-1" docsrc="Race_track">
+      <context> Animal locomotion Auto racing <head>List</head> of auto racing tracks ( UK : motor racing tracks )</context>
+    </instance>
+    <instance id="Race_track-track-4-83-1" docsrc="Race_track">
+      <context> Auto racing List of <head>auto</head> racing tracks ( UK : motor racing tracks ) List of auto racing tracks in the United States</context>
+    </instance>
+    <instance id="Race_track-track-4-92-2" docsrc="Race_track">
+      <context> trackpedia.com Worldwide Motor Racing <head>track</head> wiki racingcircuits.net Worldwide Motor Racing track database</context>
+    </instance>
+    <instance id="Race_track-track-6-49-1" docsrc="Race_track">
+      <context> Grass ( horses , amateur motorsport <head>,</head> cross country running ) Sand ( horse , camel , greyhound , rally raid ) Wood ( cycling ) ( board track racing –</context>
+    </instance>
+    <instance id="Race_track-track-8-50-2" docsrc="Race_track">
+      <context> Wood ( cycling ) ( board track racing <head>–</head> now defunct ) Ice ( Ice racing – when on dirt tracks , Bobsleigh , speed skating , ice motor racing )</context>
+    </instance>
+    <instance id="Race_track-track-9-1-1" docsrc="Race_track">
+      <context> Some motorsport tracks are called speedways . A racetrack <head>is</head> a permanent facility or building . Racecourse is an alternate term for a horse racing track , found in countries such as the United Kingdom , India , Australia , Hong Kong , and the United Arab Emirates .</context>
+    </instance>
+    <instance id="Track_(CD)-track-8-4-1" docsrc="Track_(CD)">
+      <context> Audio tracks are defined in the Red Book <head>specification</head> for CD Digital Audio ( which was the first CD specification ) . One song or movement usually comprises one audio track , containing audio in the form of raw PCM samples in 16 bit/44.1 kHz resolution in 2 channels , and a subcode multiplexed with the audio data .</context>
+    </instance>
+    <instance id="Track_(disk_drive)-track-0-0-1" docsrc="Track_(disk_drive)">
+      <context> <head>A</head> disk drive track is a circular path on the surface of a disk or diskette on which information is magnetically recorded and from which recorded information is read . Tracks are subdivided into blocks ( or sectors , pages ) ( see : Storage block and Virtual page ) .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-0-0-3" docsrc="Track_(rail_transport)">
+      <context> <head>It</head> enables trains to move by providing a dependable surface for their wheels to roll . For clarity it is often referred to as railway track ( British English and UIC terminology ) or railroad track ( predominantly in the United States ) . Tracks where electric trains or electric trams run are equipped with an electrification system such as an overhead electrical power line or an additional electrified rail .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-0-152-1" docsrc="Track_(rail_transport)">
+      <context> <head>ThyssenKrupp</head> handbook , Vignoles rail ThyssenKrupp handbook , Light Vignoles rail Track Details in photographs</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-1-11-4" docsrc="Track_(rail_transport)">
+      <context> The <head>joints</head> also needed to be lubricated , and wear at the fishplate ( joint bar ) mating surfaces needed to be rectified by shimming . For this reason jointed track is not financially appropriate for heavily operated railroads . The track ballast is customarily crushed stone , and the purpose of this is to support the sleepers and allow some adjustment of their position , while allowing free drainage .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-1-59-1" docsrc="Track_(rail_transport)">
+      <context> === <head>Rail</head> classification ( weight ) === === Jointed track === Jointed track is made using lengths of rail , usually around 20 m ( 66 ft ) long ( in the UK ) and 39 or 78 ft ( 12 or 24 m ) long ( in North America ) , bolted together using perforated steel plates known as fishplates ( UK ) or joint bars ( North America ) .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-1-96-2" docsrc="Track_(rail_transport)">
+      <context> Sometimes <head>rail</head> tracks are designed to be portable and moved from one place to another as required . During construction of the Panama Canal , tracks were moved around excavation works . These tracks were 5 ft ( 1,524 mm ) and the rolling stock full size .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-1-96-3" docsrc="Track_(rail_transport)">
+      <context> During <head>construction</head> of the Panama Canal , tracks were moved around excavation works . These tracks were 5 ft ( 1,524 mm ) and the rolling stock full size . Portable tracks have often been used in open pit mines .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-1-97-1" docsrc="Track_(rail_transport)">
+      <context> Portable <head>tracks</head> have often been used in open pit mines . Cane railways often had permanent tracks for the main lines , with portable tracks serving the canefields themselves . These tracks were narrow gauge ( for example , 2 ft ( 610 mm ) ) and the portable track came in straights , curves , and turnouts , rather like on a model railway .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-10-67-2" docsrc="Track_(rail_transport)">
+      <context> ==== Insulated joints ==== As an alternative to the insulated <head>joint</head> , audio frequency track circuits can be employed using a tuned loop formed in approximately 20 m ( 66 ft ) of the rail as part of the blocking circuit .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-11-105-1" docsrc="Track_(rail_transport)">
+      <context> The permanent way is so called because temporary way tracks were <head>often</head> used in the construction of that permanent way . Horizontal layout is the track layout on the horizontal plane . This involves the layout of three main track types : tangent track ( straight line ) , curved track , and track transition curve ( also called transition spiral or spiral ) which connects between a tangent and a curved track .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-11-77-5" docsrc="Track_(rail_transport)">
+      <context> Anchors are more common for wooden sleepers , whereas most concrete <head>or</head> steel sleepers are fastened to the rail by special clips that resist longitudinal movement of the rail . There is no theoretical limit to how long a welded rail can be . However , if longitudinal and lateral restraint are insufficient , the track could become distorted in hot weather and cause a derailment .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-12-77-7" docsrc="Track_(rail_transport)">
+      <context> However , if longitudinal and lateral restraint are insufficient , the track <head>could</head> become distorted in hot weather and cause a derailment . Distortion due to heat expansion is known in North America as sun kink , and elsewhere as buckling . In extreme hot weather special inspections are required to monitor sections of track known to be problematic .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-13-120-1" docsrc="Track_(rail_transport)">
+      <context> The surface of the head of each of the two rails can be <head>maintained</head> by using a railgrinder . Common maintenance jobs include changing sleepers , lubricating and adjusting switches , tightening loose track components , and surfacing and lining track to keep straight sections straight and curves within maintenance limits . The process of sleeper and rail replacement can be automated by using a track renewal train .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-13-69-2" docsrc="Track_(rail_transport)">
+      <context> As an alternative to the insulated joint , audio frequency track circuits can <head>be</head> employed using a tuned loop formed in approximately 20 m ( 66 ft ) of the rail as part of the blocking circuit . Some insulated joints are unavoidable within turnouts . Another alternative is the axle counter , which can reduce the number of track circuits and thus the number of insulated rail joints required .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-13-96-4" docsrc="Track_(rail_transport)">
+      <context> These tracks were 5 ft ( 1,524 mm ) and the rolling stock <head>full</head> size . Portable tracks have often been used in open pit mines . Cane railways often had permanent tracks for the main lines , with portable tracks serving the canefields themselves .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-14-119-1" docsrc="Track_(rail_transport)">
+      <context> For example , U.S. federal safety standards allow standard gauge to vary from 4 <head>ft</head> 8 in ( 1,420 mm ) to 4 ft 9 1⁄2 in ( 1,460 mm ) for operation up to 60 mph ( 96.6 km/h ) . The surface of the head of each of the two rails can be maintained by using a railgrinder . Common maintenance jobs include changing sleepers , lubricating and adjusting switches , tightening loose track components , and surfacing and lining track to keep straight sections straight and curves within maintenance limits .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-16-86-1" docsrc="Track_(rail_transport)">
+      <context> In extreme cases , such as at the end of long bridges , a breather switch <head>(</head> referred to in North America and Britain as an expansion joint ) gives a smooth path for the wheels while allowing the end of one rail to expand relative to the next rail . A sleeper is a rectangular object on which the rails are supported and fixed . The sleeper has two main roles : to transfer the loads from the rails to the track ballast and the ground underneath , and to hold the rails to the correct width apart ( to maintain the rail gauge ) .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-18-105-1" docsrc="Track_(rail_transport)">
+      <context> The permanent way is so called because temporary way tracks were often used in the construction of that <head>permanent</head> way . Horizontal layout is the track layout on the horizontal plane . This involves the layout of three main track types : tangent track ( straight line ) , curved track , and track transition curve ( also called transition spiral or spiral ) which connects between a tangent and a curved track .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-19-0-2" docsrc="Track_(rail_transport)">
+      <context> The track on a railway or railroad , also known as the permanent way , is the structure consisting <head>of</head> the rails , fasteners , railroad ties ( sleepers , British English ) and ballast ( or slab track ) , plus the underlying subgrade . It enables trains to move by providing a dependable surface for their wheels to roll . For clarity it is often referred to as railway track ( British English and UIC terminology ) or railroad track ( predominantly in the United States ) .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-19-97-1" docsrc="Track_(rail_transport)">
+      <context> Portable tracks have often been used in open pit mines . Cane railways often had permanent tracks for the <head>main</head> lines , with portable tracks serving the canefields themselves . These tracks were narrow gauge ( for example , 2 ft ( 610 mm ) ) and the portable track came in straights , curves , and turnouts , rather like on a model railway .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-2-1-1" docsrc="Track_(rail_transport)">
+      <context> Tracks where <head>electric</head> trains or electric trams run are equipped with an electrification system such as an overhead electrical power line or an additional electrified rail . The term permanent way also refers to the track in addition to lineside structures such as fences etc . === Traditional track structure ===</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-2-13-1" docsrc="Track_(rail_transport)">
+      <context> For this <head>reason</head> jointed track is not financially appropriate for heavily operated railroads . The track ballast is customarily crushed stone , and the purpose of this is to support the sleepers and allow some adjustment of their position , while allowing free drainage . === Ballastless track ===</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-2-18-4" docsrc="Track_(rail_transport)">
+      <context> This can <head>be</head> overcome by using ballastless track . In its simplest form this consists of a continuous slab of concrete ( like a highway structure ) with the rails supported directly on its upper surface ( using a resilient pad ) . === Ladder track ===</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-2-50-1" docsrc="Track_(rail_transport)">
+      <context> Longitudinal sleepers <head>such</head> as Brunel 's baulk road are topped with iron or steel rails that are lighter than they then might otherwise be because of the support of the sleepers . === Rail classification ( weight ) === === Jointed track ===</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-2-91-2" docsrc="Track_(rail_transport)">
+      <context> Various methods <head>exist</head> for fixing the rail to the sleeper . Historically spikes gave way to cast iron chairs fixed to the sleeper , more recently springs ( such as Pandrol clips ) are used to fix the rail to the sleeper chair . Sometimes rail tracks are designed to be portable and moved from one place to another as required .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-20-64-1" docsrc="Track_(rail_transport)">
+      <context> Jointed track is made using lengths of rail , usually around 20 m ( 66 ft ) long ( in <head>the</head> UK ) and 39 or 78 ft ( 12 or 24 m ) long ( in North America ) , bolted together using perforated steel plates known as fishplates ( UK ) or joint bars ( North America ) . A major problem of jointed track is cracking around the bolt holes , which can lead to breaking of the rail head ( the running surface ) . This was the cause of the Hither Green rail crash which caused British Railways to begin converting much of its track to Continuous Welded Rail .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-21-119-1" docsrc="Track_(rail_transport)">
+      <context> For example , U.S. federal safety standards allow standard gauge to vary from 4 ft 8 in ( 1,420 mm ) <head>to</head> 4 ft 9 1⁄2 in ( 1,460 mm ) for operation up to 60 mph ( 96.6 km/h ) . The surface of the head of each of the two rails can be maintained by using a railgrinder . Common maintenance jobs include changing sleepers , lubricating and adjusting switches , tightening loose track components , and surfacing and lining track to keep straight sections straight and curves within maintenance limits .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-24-16-1" docsrc="Track_(rail_transport)">
+      <context> The track ballast is customarily crushed stone , and the purpose of this is to support the sleepers and allow some adjustment of their <head>position</head> , while allowing free drainage . === Ballastless track === A disadvantage of traditional track structures is the heavy demand for maintenance , particularly surfacing ( tamping ) and lining to restore the desired track geometry and smoothness of vehicle running .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-3-111-3" docsrc="Track_(rail_transport)">
+      <context> Today , 54.8 <head>%</head> of the world 's railways use a gauge of 1,435 mm ( 4 ft 8 1⁄2 in ) , known as standard or international gauge . Gauges wider than standard gauge are called broad gauge ; narrower , narrow gauge . Some stretches of track are dual gauge , with three ( or sometimes four ) parallel rails in place of the usual two , to allow trains of two different gauges to use the same track .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-3-75-4" docsrc="Track_(rail_transport)">
+      <context> Because there are <head>few</head> joints , this form of track is very strong , gives a smooth ride , and needs less maintenance ; trains can travel on it at higher speeds and with less friction . Welded rails are more expensive to lay than jointed tracks , but have much lower maintenance costs . The first welded track was used in Germany in 1924 and the US in 1930 and has become common on main lines since the 1950s .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-35-111-3" docsrc="Track_(rail_transport)">
+      <context> Today , 54.8 % of the world 's railways use a gauge of 1,435 mm ( 4 ft 8 1⁄2 in ) , known as standard or international gauge . Gauges wider than standard gauge <head>are</head> called broad gauge ; narrower , narrow gauge . Some stretches of track are dual gauge , with three ( or sometimes four ) parallel rails in place of the usual two , to allow trains of two different gauges to use the same track .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-4-105-2" docsrc="Track_(rail_transport)">
+      <context> Horizontal layout is the <head>track</head> layout on the horizontal plane . This involves the layout of three main track types : tangent track ( straight line ) , curved track , and track transition curve ( also called transition spiral or spiral ) which connects between a tangent and a curved track . Vertical layout is the track layout on the vertical plane including the concepts such as crosslevel , ca nt and gradient .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-4-11-3" docsrc="Track_(rail_transport)">
+      <context> However , the intrinsic <head>weakness</head> in resisting vertical loading results in the ballast becoming depressed and a heavy maintenance workload is imposed to prevent unacceptable geometrical defects at the joints . The joints also needed to be lubricated , and wear at the fishplate ( joint bar ) mating surfaces needed to be rectified by shimming . For this reason jointed track is not financially appropriate for heavily operated railroads .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-4-153-1" docsrc="Track_(rail_transport)">
+      <context> ThyssenKrupp handbook , Light <head>Vignoles</head> rail Track Details in photographs " Drawing of England Track Laying in Sections at 200 yards an hour " Popular Mechanics , December 1930</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-4-16-1" docsrc="Track_(rail_transport)">
+      <context> The track ballast is <head>customarily</head> crushed stone , and the purpose of this is to support the sleepers and allow some adjustment of their position , while allowing free drainage . === Ballastless track === A disadvantage of traditional track structures is the heavy demand for maintenance , particularly surfacing ( tamping ) and lining to restore the desired track geometry and smoothness of vehicle running .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-4-23-1" docsrc="Track_(rail_transport)">
+      <context> In its simplest form <head>this</head> consists of a continuous slab of concrete ( like a highway structure ) with the rails supported directly on its upper surface ( using a resilient pad ) . === Ladder track === === Continuous longitudinally supported track ===</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-4-29-3" docsrc="Track_(rail_transport)">
+      <context> Continuous bearing designs were <head>also</head> promoted by other engineers . The system was trialled on the Baltimore and Ohio railway in the 1840s , but was found to be more expensive to maintain than rail with cross sleepers . The technology of rail tracks developed over a long period , starting with primitive timber rails in mines in the 17th century .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-4-75-1" docsrc="Track_(rail_transport)">
+      <context> === Continuous welded rail <head>===</head> Most modern railways use continuous welded rail ( CWR ) , sometimes referred to as ribbon rails . In this form of track , the rails are welded together by utilising flash butt welding to form one continuous rail that may be several kilometres long .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-4-99-1" docsrc="Track_(rail_transport)">
+      <context> Decauville was a source <head>of</head> many portable light rail tracks , also used for military purposes . The permanent way is so called because temporary way tracks were often used in the construction of that permanent way . Horizontal layout is the track layout on the horizontal plane .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-40-105-1" docsrc="Track_(rail_transport)">
+      <context> The permanent way is so called because temporary way tracks were often used in the construction of that permanent way . Horizontal layout is the track layout on the horizontal plane . This involves the layout of three main track <head>types</head> : tangent track ( straight line ) , curved track , and track transition curve ( also called transition spiral or spiral ) which connects between a tangent and a curved track .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-5-124-2" docsrc="Track_(rail_transport)">
+      <context> Rails must be replaced before <head>the</head> railhead profile wears to a degree that may trigger a derailment . Worn mainline rails usually have sufficient life remaining to be used on a branch line , siding or stub afterwards and are " cascaded " to those applications . The environmental conditions along railroad track create a unique railway ecosystem .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-5-61-1" docsrc="Track_(rail_transport)">
+      <context> === Jointed track === Jointed <head>track</head> is made using lengths of rail , usually around 20 m ( 66 ft ) long ( in the UK ) and 39 or 78 ft ( 12 or 24 m ) long ( in North America ) , bolted together using perforated steel plates known as fishplates ( UK ) or joint bars ( North America ) . A major problem of jointed track is cracking around the bolt holes , which can lead to breaking of the rail head ( the running surface ) .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-5-96-4" docsrc="Track_(rail_transport)">
+      <context> These tracks were 5 ft <head>(</head> 1,524 mm ) and the rolling stock full size . Portable tracks have often been used in open pit mines . Cane railways often had permanent tracks for the main lines , with portable tracks serving the canefields themselves .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-6-125-3" docsrc="Track_(rail_transport)">
+      <context> This is particularly so in the <head>United</head> Kingdom where steam locomotives are only used on special services and vegetation has not been trimmed back so thoroughly . This creates a fire risk in prolonged dry weather . Additional measures are required where the track is laid over permafrost , such as on the Qingzang Railway in Tibet .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-7-105-1" docsrc="Track_(rail_transport)">
+      <context> The permanent way is so called because <head>temporary</head> way tracks were often used in the construction of that permanent way . Horizontal layout is the track layout on the horizontal plane . This involves the layout of three main track types : tangent track ( straight line ) , curved track , and track transition curve ( also called transition spiral or spiral ) which connects between a tangent and a curved track .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-7-122-1" docsrc="Track_(rail_transport)">
+      <context> Spraying ballast with herbicide to prevent weeds <head>growing</head> through and redistributing the ballast is typically done with a special weed killing train . Over time , ballast is crushed or moved by the weight of trains passing over it , periodically requiring relevelling ( " tamping " ) and eventually to be cleaned or replaced . If this is not done , the tracks may become uneven causing swaying , rough riding and possibly derailments .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-7-18-2" docsrc="Track_(rail_transport)">
+      <context> A disadvantage of traditional track structures is <head>the</head> heavy demand for maintenance , particularly surfacing ( tamping ) and lining to restore the desired track geometry and smoothness of vehicle running . Weakness of the subgrade and drainage deficiencies also lead to heavy maintenance costs . This can be overcome by using ballastless track .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-7-96-1" docsrc="Track_(rail_transport)">
+      <context> Historically spikes gave way to cast iron <head>chairs</head> fixed to the sleeper , more recently springs ( such as Pandrol clips ) are used to fix the rail to the sleeper chair . Sometimes rail tracks are designed to be portable and moved from one place to another as required . During construction of the Panama Canal , tracks were moved around excavation works .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-8-0-4" docsrc="Track_(rail_transport)">
+      <context> For clarity it is often referred to as <head>railway</head> track ( British English and UIC terminology ) or railroad track ( predominantly in the United States ) . Tracks where electric trains or electric trams run are equipped with an electrification system such as an overhead electrical power line or an additional electrified rail . The term permanent way also refers to the track in addition to lineside structures such as fences etc .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-9-0-2" docsrc="Track_(rail_transport)">
+      <context> The track on a railway or railroad , also <head>known</head> as the permanent way , is the structure consisting of the rails , fasteners , railroad ties ( sleepers , British English ) and ballast ( or slab track ) , plus the underlying subgrade . It enables trains to move by providing a dependable surface for their wheels to roll . For clarity it is often referred to as railway track ( British English and UIC terminology ) or railroad track ( predominantly in the United States ) .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-9-75-2" docsrc="Track_(rail_transport)">
+      <context> Most modern railways use continuous welded rail ( CWR <head>)</head> , sometimes referred to as ribbon rails . In this form of track , the rails are welded together by utilising flash butt welding to form one continuous rail that may be several kilometres long . Because there are few joints , this form of track is very strong , gives a smooth ride , and needs less maintenance ; trains can travel on it at higher speeds and with less friction .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-9-75-3" docsrc="Track_(rail_transport)">
+      <context> In this form of track , the rails are <head>welded</head> together by utilising flash butt welding to form one continuous rail that may be several kilometres long . Because there are few joints , this form of track is very strong , gives a smooth ride , and needs less maintenance ; trains can travel on it at higher speeds and with less friction . Welded rails are more expensive to lay than jointed tracks , but have much lower maintenance costs .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-9-97-2" docsrc="Track_(rail_transport)">
+      <context> Cane railways often had permanent tracks for the main <head>lines</head> , with portable tracks serving the canefields themselves . These tracks were narrow gauge ( for example , 2 ft ( 610 mm ) ) and the portable track came in straights , curves , and turnouts , rather like on a model railway . Decauville was a source of many portable light rail tracks , also used for military purposes .</context>
+    </instance>
+    <instance id="Track_(rail_transport)-track-9-98-1" docsrc="Track_(rail_transport)">
+      <context> These tracks were narrow gauge ( for example , <head>2</head> ft ( 610 mm ) ) and the portable track came in straights , curves , and turnouts , rather like on a model railway . Decauville was a source of many portable light rail tracks , also used for military purposes . The permanent way is so called because temporary way tracks were often used in the construction of that permanent way .</context>
+    </instance>
+    <instance id="Track_and_field-track-0-0-2" docsrc="Track_and_field">
+      <context> <head>Track</head> and field is a sport which includes athletic contests established on the skills of running , jumping , and throwing . The name is derived from the sport 's typical venue : a stadium with an oval running track enclosing a grass field where the throwing and jumping events take place . Track and field is categorised under the umbrella sport of athletics , which also includes road running , cross country running , and race walking .</context>
+    </instance>
+    <instance id="Track_and_field-track-0-101-2" docsrc="Track_and_field">
+      <context> <head>===</head> Throwing === Track and field contains some of the foremost kinds of throwing sports , and the four major disciplines are the only pure throwing events to feature at the Olympic Games .</context>
+    </instance>
+    <instance id="Track_and_field-track-0-16-5" docsrc="Track_and_field">
+      <context> <head>The</head> Olympic athletics programme greatly expanded over the next decades , and track and field contests remained among the Games ' most prominent . The Olympics was the elite competition for track and field , and only amateur sportsmen could compete . Track and field continued to be a largely amateur sport , as this rule was strictly enforced : Jim Thorpe was stripped of his track and field medals from the 1912 Olympics after it was revealed that he had played baseball professionally .</context>
+    </instance>
+    <instance id="Track_and_field-track-0-17-3" docsrc="Track_and_field">
+      <context> <head>The</head> National Collegiate Athletic Association held their first Men 's Outdoor Track and Field Championship in 1921 , making it one of the most prestigious competitions for students , and this was soon followed by the introduction of track and field at the inaugural World Student Games in 1923 . The first continental track and field competition was the 1919 South American Championships , which was followed by the European Athletics Championships in 1934 . Track and field events are divided into three broad categories : track events , field events , and combined events .</context>
+    </instance>
+    <instance id="Track_and_field-track-0-199-1" docsrc="Track_and_field">
+      <context> <head>===</head> Olympics , Paralympics and world championships === The major global track and field competitions are both held under the scope of athletics . Track and field contests make up the majority of events on the Olympic and Paralympic athletics programmes , which occur every four years .</context>
+    </instance>
+    <instance id="Track_and_field-track-0-199-2" docsrc="Track_and_field">
+      <context> <head>The</head> major global track and field competitions are both held under the scope of athletics . Track and field contests make up the majority of events on the Olympic and Paralympic athletics programmes , which occur every four years . Track and field events have held a prominent position at the Summer Olympics since its inception in 1896 , and the events are typically held in the main stadium of the Olympic and Paralympic Games .</context>
+    </instance>
+    <instance id="Track_and_field-track-0-253-1" docsrc="Track_and_field">
+      <context> <head>International</head> Association of Athletics Federations website USA Track &amp; Field website Track and field at About.com</context>
+    </instance>
+    <instance id="Track_and_field-track-0-27-2" docsrc="Track_and_field">
+      <context> <head>Track</head> and field events are divided into three broad categories : track events , field events , and combined events . The majority of athletes tend to specialise in just one event ( or event type ) with the aim of perfecting their performances , although the aim of combined events athletes is to become proficient in a number of disciplines . Track events involve running on a track over a specified distances and—in the case of the hurdling and steeplechase events—obstacles may be placed on the track .</context>
+    </instance>
+    <instance id="Track_and_field-track-1-149-1" docsrc="Track_and_field">
+      <context> The <head>throwing</head> area is similar to the outdoor event , but the landing sector is a rectangular section surrounded by netting or a stop barrier . In addition to hosting the World Indoor Championships , the IAAF has hosted the IAAF World Indoor Tour since 2016 . === Track rules ===</context>
+    </instance>
+    <instance id="Track_and_field-track-1-252-1" docsrc="Track_and_field">
+      <context> Media <head>related</head> to Athletics at Wikimedia Commons International Association of Athletics Federations website USA Track &amp; Field website</context>
+    </instance>
+    <instance id="Track_and_field-track-10-141-1" docsrc="Track_and_field">
+      <context> The high jump is a stripped down version of this <head>,</head> with an open area of track or field that leads to a crossbar with a square area of landing mats behind it . The four throwing events generally all begin on one side of the stadium . The javelin throw typically takes place on a piece of track that is central and parallel to the straights of the main running track .</context>
+    </instance>
+    <instance id="Track_and_field-track-10-60-6" docsrc="Track_and_field">
+      <context> Teams may be disqualified if they fail to complete the <head>change</head> within the area , or if the baton is dropped during the race . A team may also be disqualified if its runners are deemed to have wilfully impeded other competitors . The IAAF keeps world records for five different types of track relays .</context>
+    </instance>
+    <instance id="Track_and_field-track-10-97-6" docsrc="Track_and_field">
+      <context> Bamboo poles were introduced in the 20th century and a <head>metal</head> box in the runway for planting the pole became standard . Landing mattresses were introduced in the mid-20th century to protect the athletes who were clearing increasingly greater heights . The modern event sees athletes run down a strip of track , plant the pole in the metal box , and vault over the horizontal bar before letting go of the pole and falling backwards onto the landing mattress .</context>
+    </instance>
+    <instance id="Track_and_field-track-11-16-2" docsrc="Track_and_field">
+      <context> The establishment of the modern Olympic Games at the end of <head>the</head> 19th century marked a new high for track and field . The Olympic athletics programme , comprising track and field events plus a marathon race , contained many of the foremost sporting competitions of the 1896 Summer Olympics . The Olympics also consolidated the use of metric measurements in international track and field events , both for race distances and for measuring jumps and throws .</context>
+    </instance>
+    <instance id="Track_and_field-track-11-17-1" docsrc="Track_and_field">
+      <context> Track and field continued to be a largely amateur sport , <head>as</head> this rule was strictly enforced : Jim Thorpe was stripped of his track and field medals from the 1912 Olympics after it was revealed that he had played baseball professionally . That same year , the International Amateur Athletic Federation ( IAAF ) was established , becoming the international governing body for track and field , and it enshrined amateurism as one of its founding principles for the sport . The National Collegiate Athletic Association held their first Men 's Outdoor Track and Field Championship in 1921 , making it one of the most prestigious competitions for students , and this was soon followed by the introduction of track and field at the inaugural World Student Games in 1923 .</context>
+    </instance>
+    <instance id="Track_and_field-track-11-17-3" docsrc="Track_and_field">
+      <context> The National Collegiate Athletic Association held their first Men 's Outdoor <head>Track</head> and Field Championship in 1921 , making it one of the most prestigious competitions for students , and this was soon followed by the introduction of track and field at the inaugural World Student Games in 1923 . The first continental track and field competition was the 1919 South American Championships , which was followed by the European Athletics Championships in 1934 . Track and field events are divided into three broad categories : track events , field events , and combined events .</context>
+    </instance>
+    <instance id="Track_and_field-track-12-148-1" docsrc="Track_and_field">
+      <context> Examples of this configuration include the Millrose Games at Madison Square Garden <head>,</head> and the Sunkist Invitational formerly held in the Los Angeles Sports Arena . All four of the common jumping events are held at indoor venues . The long and triple jump areas run alongside the central 60 m track and are mostly identical in form to their outdoor counterparts .</context>
+    </instance>
+    <instance id="Track_and_field-track-12-16-3" docsrc="Track_and_field">
+      <context> The Olympic athletics programme , comprising track and field events plus a <head>marathon</head> race , contained many of the foremost sporting competitions of the 1896 Summer Olympics . The Olympics also consolidated the use of metric measurements in international track and field events , both for race distances and for measuring jumps and throws . The Olympic athletics programme greatly expanded over the next decades , and track and field contests remained among the Games ' most prominent .</context>
+    </instance>
+    <instance id="Track_and_field-track-12-69-4" docsrc="Track_and_field">
+      <context> Women 's initially competed in the 80 metres hurdles event , which <head>entered</head> the Olympic programme in 1932 . This was extended to the 100 m hurdles at the 1972 Olympics , but it was not until 1984 that a women 's 400 m hurdles event took place at the Olympics ( having been introduced at the 1983 World Championships in Athletics the previous year ) . Outside of the hurdles events , the steeplechase race is the other track and field event with obstacles .</context>
+    </instance>
+    <instance id="Track_and_field-track-13-13-6" docsrc="Track_and_field">
+      <context> The AAA Championships , the de facto British national championships despite being for <head>England</head> only , have been held annually since 3 July 1880 with breaks only during two world wars and 2006–2008 . The AAA was effectively a global governing body in the early years of the sport , codifying its rules for the first time . Meanwhile , the United States began holding an annual national competition—the USA Outdoor Track and Field Championships—first held in 1876 by the New York Athletic Club .</context>
+    </instance>
+    <instance id="Track_and_field-track-13-148-2" docsrc="Track_and_field">
+      <context> All four of the common jumping events are held at indoor venues . <head>The</head> long and triple jump areas run alongside the central 60 m track and are mostly identical in form to their outdoor counterparts . The pole vault track and landing area are also alongside the central running track .</context>
+    </instance>
+    <instance id="Track_and_field-track-13-29-1" docsrc="Track_and_field">
+      <context> There are also relay races in which teams of athletes run and pass <head>on</head> a baton to their team member at the end of a certain distance . The throwing events involve hurling an implement ( such as a heavy weight , javelin or discus ) from a set point , with athletes being judged on the distance that the object is thrown . Combined events involve the same group of athletes contesting a number of different track and field events .</context>
+    </instance>
+    <instance id="Track_and_field-track-14-140-1" docsrc="Track_and_field">
+      <context> === Outdoor === The field of the stadium combines a number of elements for <head>use</head> in the jumping and throwing events . The long jump and triple jump areas comprise a straight , narrow 40-metre running track with a sandpit at one or both ends .</context>
+    </instance>
+    <instance id="Track_and_field-track-15-227-2" docsrc="Track_and_field">
+      <context> The next most important record type are those achieved at a specific competition . For <head>example</head> , the Olympic records represent the best performances by athletes at the Summer Olympics . All major championships and games have their relevant competition records and a large number of track and field meetings keep a note of their meet records .</context>
+    </instance>
+    <instance id="Track_and_field-track-16-140-4" docsrc="Track_and_field">
+      <context> Jumps are measured from a take off board—typically a small strip of wood with a plasticine <head>marker</head> attached—which ensures athletes jump from behind the measurement line . The pole vault area is also a 40-metre running track and has an indentation in the ground ( the box ) where vaulters plant their poles to propel themselves over a crossbar before falling onto cushioned landing mats . The high jump is a stripped down version of this , with an open area of track or field that leads to a crossbar with a square area of landing mats behind it .</context>
+    </instance>
+    <instance id="Track_and_field-track-17-0-1" docsrc="Track_and_field">
+      <context> Track and field is a sport which includes athletic contests established on the skills of running , <head>jumping</head> , and throwing . The name is derived from the sport 's typical venue : a stadium with an oval running track enclosing a grass field where the throwing and jumping events take place .</context>
+    </instance>
+    <instance id="Track_and_field-track-19-14-2" docsrc="Track_and_field">
+      <context> Meanwhile , the United States began holding an annual national competition—the USA Outdoor Track and Field Championships—first held in <head>1876</head> by the New York Athletic Club . The establishment of general sports governing bodies for the United States ( the Amateur Athletic Union in 1888 ) and France ( the Union des sociétés françaises de sports athlétiques in 1889 ) put the sport on a formal footing and meant that international competitions became possible . The establishment of the modern Olympic Games at the end of the 19th century marked a new high for track and field .</context>
+    </instance>
+    <instance id="Track_and_field-track-2-239-1" docsrc="Track_and_field">
+      <context> Cash bonuses <head>are</head> usually offered to athletes if they break significant records , as doing so can generate greater interest and public attendance in track and field competitions . Varieties of strength athletics , such as the World 's Strongest Man and highland games , often incorporate forms of footracing carrying heavy objects as well as throwing events such as the caber toss and keg toss , which bear similarities to track and field throwing events . List of track and field stadiums by capacity</context>
+    </instance>
+    <instance id="Track_and_field-track-21-16-6" docsrc="Track_and_field">
+      <context> The Olympics was the elite competition for track and field , and only amateur sportsmen could compete . Track and field <head>continued</head> to be a largely amateur sport , as this rule was strictly enforced : Jim Thorpe was stripped of his track and field medals from the 1912 Olympics after it was revealed that he had played baseball professionally . That same year , the International Amateur Athletic Federation ( IAAF ) was established , becoming the international governing body for track and field , and it enshrined amateurism as one of its founding principles for the sport .</context>
+    </instance>
+    <instance id="Track_and_field-track-21-183-14" docsrc="Track_and_field">
+      <context> Steel tapes are easily bent and damaged , so are not used to measure everyday competitions . For major competitions , <head>each</head> competitor gets three tries . The top competitors ( usually 8 or 9 depending on that competition 's rules or the number of lanes on the track ) gets three more tries .</context>
+    </instance>
+    <instance id="Track_and_field-track-23-141-1" docsrc="Track_and_field">
+      <context> The high jump is a stripped down version of this , with an open area of track or field that leads to a <head>crossbar</head> with a square area of landing mats behind it . The four throwing events generally all begin on one side of the stadium . The javelin throw typically takes place on a piece of track that is central and parallel to the straights of the main running track .</context>
+    </instance>
+    <instance id="Track_and_field-track-24-16-5" docsrc="Track_and_field">
+      <context> The Olympic athletics programme greatly expanded over the next decades , and track and field contests remained among the Games ' most prominent . <head>The</head> Olympics was the elite competition for track and field , and only amateur sportsmen could compete . Track and field continued to be a largely amateur sport , as this rule was strictly enforced : Jim Thorpe was stripped of his track and field medals from the 1912 Olympics after it was revealed that he had played baseball professionally .</context>
+    </instance>
+    <instance id="Track_and_field-track-24-227-4" docsrc="Track_and_field">
+      <context> All major championships and games have their relevant competition records and a large number of track and field meetings keep a note of their <head>meet</head> records . Other record types include : stadium records , records by age range , records by disability , and records by institution or organisation . Cash bonuses are usually offered to athletes if they break significant records , as doing so can generate greater interest and public attendance in track and field competitions .</context>
+    </instance>
+    <instance id="Track_and_field-track-25-27-2" docsrc="Track_and_field">
+      <context> Track and field events are divided into three broad categories : track events , field events , and combined events . The majority of athletes <head>tend</head> to specialise in just one event ( or event type ) with the aim of perfecting their performances , although the aim of combined events athletes is to become proficient in a number of disciplines . Track events involve running on a track over a specified distances and—in the case of the hurdling and steeplechase events—obstacles may be placed on the track .</context>
+    </instance>
+    <instance id="Track_and_field-track-3-148-2" docsrc="Track_and_field">
+      <context> All four of <head>the</head> common jumping events are held at indoor venues . The long and triple jump areas run alongside the central 60 m track and are mostly identical in form to their outdoor counterparts . The pole vault track and landing area are also alongside the central running track .</context>
+    </instance>
+    <instance id="Track_and_field-track-3-155-1" docsrc="Track_and_field">
+      <context> In addition to <head>hosting</head> the World Indoor Championships , the IAAF has hosted the IAAF World Indoor Tour since 2016 . === Track rules === The rules of track athletics or of track events in athletics as observed in most international athletics competitions are set by the Competition Rules of the International Association of Athletics Federations ( IAAF ) .</context>
+    </instance>
+    <instance id="Track_and_field-track-3-156-2" docsrc="Track_and_field">
+      <context> The rules of <head>track</head> athletics or of track events in athletics as observed in most international athletics competitions are set by the Competition Rules of the International Association of Athletics Federations ( IAAF ) . The most recent complete set of rules is the 2009 rules that relate only to competitions in 2009 . Key rules of track events are those regarding starting , running and finishing .</context>
+    </instance>
+    <instance id="Track_and_field-track-3-17-2" docsrc="Track_and_field">
+      <context> That same year <head>,</head> the International Amateur Athletic Federation ( IAAF ) was established , becoming the international governing body for track and field , and it enshrined amateurism as one of its founding principles for the sport . The National Collegiate Athletic Association held their first Men 's Outdoor Track and Field Championship in 1921 , making it one of the most prestigious competitions for students , and this was soon followed by the introduction of track and field at the inaugural World Student Games in 1923 . The first continental track and field competition was the 1919 South American Championships , which was followed by the European Athletics Championships in 1934 .</context>
+    </instance>
+    <instance id="Track_and_field-track-3-197-1" docsrc="Track_and_field">
+      <context> For the intermediate <head>hurdles</head> ( 400 meter hurdles ) , the men 's hurdle height is 36 inches compared to 30 inches for women . === Olympics , Paralympics and world championships === The major global track and field competitions are both held under the scope of athletics .</context>
+    </instance>
+    <instance id="Track_and_field-track-3-200-2" docsrc="Track_and_field">
+      <context> The other two <head>major</head> international competition for track and field are organised by the IAAF. The IAAF had selected the Olympic competition as its world championship event in 1913 , but a separate world championships for athletics alone was first held in 1983 – the IAAF World Championships in Athletics . The championships comprised track and field competitions plus the marathon and racewalking competitions .</context>
+    </instance>
+    <instance id="Track_and_field-track-32-68-5" docsrc="Track_and_field">
+      <context> French organisers adapted the race into metric ( adding 28 cm ) and the basics of this race , the men 's 110 metres hurdles , has remained largely unchanged . The <head>origin</head> of the 400 metres hurdles also lies in Oxford , where ( around 1860 ) a competition was held over 440 yards and twelve 1.06 m high wooden barriers were placed along the course . The modern regulations stem from the 1900 Summer Olympics : the distance was fixed to 400 m while ten 3-foot ( 91.44 cm ) hurdles were placed 35 m apart on the track , with the first and final hurdles being 45 m and 40 m away from the start and finish , respectively .</context>
+    </instance>
+    <instance id="Track_and_field-track-34-200-4" docsrc="Track_and_field">
+      <context> The championships comprised track and field competitions plus the marathon and racewalking competitions . Initially , this worked on a quadrennial basis but , after 1991 , it changed to a biennial format . <head>In</head> terms of indoor track and field , the IAAF World Indoor Championships in Athletics has been held every two years since 1985 and this is the only world championships that consists of solely track and field events .</context>
+    </instance>
+    <instance id="Track_and_field-track-38-17-1" docsrc="Track_and_field">
+      <context> Track and field continued to be a largely amateur sport , as this rule was strictly enforced : Jim Thorpe was stripped of his track and field medals from the 1912 Olympics after it was revealed that he <head>had</head> played baseball professionally . That same year , the International Amateur Athletic Federation ( IAAF ) was established , becoming the international governing body for track and field , and it enshrined amateurism as one of its founding principles for the sport . The National Collegiate Athletic Association held their first Men 's Outdoor Track and Field Championship in 1921 , making it one of the most prestigious competitions for students , and this was soon followed by the introduction of track and field at the inaugural World Student Games in 1923 .</context>
+    </instance>
+    <instance id="Track_and_field-track-4-200-4" docsrc="Track_and_field">
+      <context> The championships comprised track <head>and</head> field competitions plus the marathon and racewalking competitions . Initially , this worked on a quadrennial basis but , after 1991 , it changed to a biennial format . In terms of indoor track and field , the IAAF World Indoor Championships in Athletics has been held every two years since 1985 and this is the only world championships that consists of solely track and field events .</context>
+    </instance>
+    <instance id="Track_and_field-track-5-58-1" docsrc="Track_and_field">
+      <context> The 3000 m was historically <head>used</head> as a women 's long distance event , entering the World Championship programme in 1983 and Olympic programme in 1984 , but this was abandoned in favour of a women 's 5000 m event in 1995 . ==== Relay races ==== Relay races are the only track and field event in which a team of runners directly compete against other teams .</context>
+    </instance>
+    <instance id="Track_and_field-track-6-144-2" docsrc="Track_and_field">
+      <context> === Indoor === Another common adaptation <head>is</head> a 160-yard track ( 11 laps to a mile ) that fits into a common basketball court sized arena .</context>
+    </instance>
+    <instance id="Track_and_field-track-6-16-1" docsrc="Track_and_field">
+      <context> The establishment of general sports governing <head>bodies</head> for the United States ( the Amateur Athletic Union in 1888 ) and France ( the Union des sociétés françaises de sports athlétiques in 1889 ) put the sport on a formal footing and meant that international competitions became possible . The establishment of the modern Olympic Games at the end of the 19th century marked a new high for track and field . The Olympic athletics programme , comprising track and field events plus a marathon race , contained many of the foremost sporting competitions of the 1896 Summer Olympics .</context>
+    </instance>
+    <instance id="Track_and_field-track-6-27-2" docsrc="Track_and_field">
+      <context> Track and field events are divided <head>into</head> three broad categories : track events , field events , and combined events . The majority of athletes tend to specialise in just one event ( or event type ) with the aim of perfecting their performances , although the aim of combined events athletes is to become proficient in a number of disciplines . Track events involve running on a track over a specified distances and—in the case of the hurdling and steeplechase events—obstacles may be placed on the track .</context>
+    </instance>
+    <instance id="Track_and_field-track-6-79-4" docsrc="Track_and_field">
+      <context> Small weights ( Halteres ) were <head>held</head> in each hand during the jump then swung back and dropped near the end to gain extra momentum and distance . The modern long jump , standardised in England and the United States around 1860 , bears resemblance to the ancient event although no weights are used . Athletes sprint along a length of track that leads to a jumping board and a sandpit .</context>
+    </instance>
+    <instance id="Track_and_field-track-7-155-1" docsrc="Track_and_field">
+      <context> In addition to hosting the World Indoor <head>Championships</head> , the IAAF has hosted the IAAF World Indoor Tour since 2016 . === Track rules === The rules of track athletics or of track events in athletics as observed in most international athletics competitions are set by the Competition Rules of the International Association of Athletics Federations ( IAAF ) .</context>
+    </instance>
+    <instance id="Track_and_field-track-7-16-4" docsrc="Track_and_field">
+      <context> The Olympics also consolidated the use of <head>metric</head> measurements in international track and field events , both for race distances and for measuring jumps and throws . The Olympic athletics programme greatly expanded over the next decades , and track and field contests remained among the Games ' most prominent . The Olympics was the elite competition for track and field , and only amateur sportsmen could compete .</context>
+    </instance>
+    <instance id="Track_and_field-track-7-199-4" docsrc="Track_and_field">
+      <context> Track and field events have held a <head>prominent</head> position at the Summer Olympics since its inception in 1896 , and the events are typically held in the main stadium of the Olympic and Paralympic Games . Events such as the 100 metres receive some of the highest levels of media coverage of any Olympic or Paralympic sporting event . The other two major international competition for track and field are organised by the IAAF.</context>
+    </instance>
+    <instance id="Track_and_field-track-7-71-3" docsrc="Track_and_field">
+      <context> Just as the hurdling events , the <head>steeplechase</head> finds its origin in student competition in Oxford , England . However , this event was born as a human variation on the original steeplechase competition found in horse racing . A steeplechase event was held on a track for the 1879 English championships and the 1900 Summer Olympics featured men 's 2500 m and 4000 m steeplechase races .</context>
+    </instance>
+    <instance id="Track_and_field-track-8-77-1" docsrc="Track_and_field">
+      <context> === Jumping === ==== Long jump ==== The <head>long</head> jump is one of the oldest track and field events , having its roots as one of the events within the ancient Greek pentathlon contest .</context>
+    </instance>
+    <instance id="Track_and_field-track-9-140-3" docsrc="Track_and_field">
+      <context> The long jump and triple jump areas comprise a <head>straight</head> , narrow 40-metre running track with a sandpit at one or both ends . Jumps are measured from a take off board—typically a small strip of wood with a plasticine marker attached—which ensures athletes jump from behind the measurement line . The pole vault area is also a 40-metre running track and has an indentation in the ground ( the box ) where vaulters plant their poles to propel themselves over a crossbar before falling onto cushioned landing mats .</context>
+    </instance>
+    <instance id="Track_and_field-track-9-171-2" docsrc="Track_and_field">
+      <context> For sprinting events ( bar the 4 × 400 <head>m</head> relay and the indoor 400 metres ) , each athlete must run the race within their allocated lane from start to finish . If an athlete leaves their lane or steps on the line demarking each lane the athlete will be disqualified . Lane rules also apply for initial periods of other track races , for example , the beginning of the 800 m. Similar rules apply for longer distance races when a large field of athletes is present and separate starting points are designated , with the field merging into one group shortly after the starting phase .</context>
+    </instance>
+    <instance id="Track_and_field-track-9-2-2" docsrc="Track_and_field">
+      <context> It is one of the oldest sports . In <head>ancient</head> times , it was an event held in conjunction with festivals and sports meets such as the Ancient Olympic Games in Greece . In modern times , the two most prestigious international track and field competitions are athletics competition at the Olympic Games and the IAAF World Championships in Athletics .</context>
+    </instance>
+    <instance id="Track_and_field-track-9-215-1" docsrc="Track_and_field">
+      <context> The Asian Athletics Championships and African Championships in Athletics <head>were</head> created in the 1970s and Oceania started its championships in 1990 . === Meetings === Athletes performances are timed or measured at virtually all track and field competitions .</context>
+    </instance>
+    <instance id="Track_and_field-track-9-51-1" docsrc="Track_and_field">
+      <context> Beyond the short distances of sprinting events , factors <head>such</head> as an athlete 's reactions and top speed becomes less important , while qualities such as pace , race tactics and endurance become more so . ==== Long distance ==== There are three common long distance running events in track and field competitions : 3000 metres , 5000 metres and 10,000 metres .</context>
+    </instance>
+    <instance id="Track_and_field-track-9-71-6" docsrc="Track_and_field">
+      <context> The event was held over various distances until the <head>1920</head> Summer Olympics marked the rise of the 3000 metres steeplechase as the standard event . The IAAF set the standards of the event in 1954 , and the event is held on a 400 m circuit that includes a water jump on each lap . Despite the long history of men 's steeplechase in track and field , the women 's steeplechase only gained World Championship status in 2005 , with its first Olympic appearance coming in 2008 .</context>
+    </instance>
+    <instance id="Trail-track-40-5-1" docsrc="Trail">
+      <context> In the US historically , the term was used for a route into or through wild territory used by emigrants ( e.g. the Oregon Trail ) . In Australia , the term track can be used interchangeably with trail , <head>and</head> can refer to anything from a dirt road to an unpaved pedestrian path . The term trail gained popularity during World War II , when many servicemen from the United States were stationed in Australia , which probably influenced its being adopted by elements of the Australian media at the time ( see Kokoda Track ) .</context>
+    </instance>
+    <instance id="Trail-track-5-1-3" docsrc="Trail">
+      <context> In some places , like <head>the</head> Alps , trails are used for moving cattle and other livestock ( see transhumance ) . In the US historically , the term was used for a route into or through wild territory used by emigrants ( e.g. the Oregon Trail ) . In Australia , the term track can be used interchangeably with trail , and can refer to anything from a dirt road to an unpaved pedestrian path .</context>
+    </instance>
+    <instance id="a02453616_d_1" docsrc="a02453616_d">
+      <context> having <head>tracks</head> ;</context>
+    </instance>
+    <instance id="a02454081_d_2" docsrc="a02454081_d">
+      <context> having no <head>tracks</head> ;</context>
+    </instance>
+    <instance id="br-a11#w1702_0" docsrc="br-a11">
+      <context> Gaining her second straight victory , Norman_B._Small_,_Jr. 's Garden_Fresh , a 3 - year old filly , downed promising colts in the $ 4500 St._Patrick's_Day_Purse , featured seventh race here today , and paid $ 7.20 straight . Toying_with her field in the early stages , Garden_Fresh was asked for top speed only in the stretch by Jockey Philip_Grimm and won by a length and a half in 1.24 3 - 5 for the 7 furlongs . Richard_M._Forbes 's Paget , which had what seemed to be a substantial lead in the early stages , tired rapidly nearing the wire and was able to save place money only a head in_front of Glen_T._Hallowell 's Milties_Miss . A bright sun and brisk wind had the <head>track</head> in a fast condition for_the_first_time this week and 8280 St._Patty_Day celebrants bet $ 842617 on the well prepared program . Prior to the featured race , the stewards announced that apprentice James_P._Verrone is suspended ten days for crowding horses and crossing the field sharply in two races on Wednesday . Garden_Fresh , the result of a mating of Better_Self and Rosy_Fingered , seems to improve with each start and appeared to win the St._Patrick's_Day_Purse with some speed in reserve . She was moving_up to the allowance department after winning a $ 10000 claiming event .</context>
+    </instance>
+    <instance id="br-j10#w555_0" docsrc="br-j10">
+      <context> As we have already seen in the first chapter , bumblebees are bigger , hairier , and much more colorful than honeybees , exhibiting various combinations of black , yellow , white and orange . Let us not try to key them out at this stage of the game , and let us just call them Bombus ; there must be several dozen species in the United_States alone . If you really insist on knowing their names , an excellent book on the North_American species is Bumblebees and Their Ways by O._E._Plath . If we manage to keep <head>track</head> of a Bombus queen after she has left her feeding place , we may discover the snug little hideout which she has fixed_up for herself when she woke_up from her winter sleep . As befits a queen , a bumblebee female is rather choosy and may spend considerable time searching for a suitable nesting_place . Most species seem to prefer a ready-made hollow such_as a deserted mouse_nest , a bird_house , or the hole made by a woodpecker ; some show a definite liking for making their nest in moss . Once she has made_up_her_mind , the queen starts_out by constructing , in her chosen abode , a small `` floor '' of dried grass or some woolly material .</context>
+    </instance>
+    <instance id="br-k06#w2282_0" docsrc="br-k06">
+      <context> Stevie yearned for a dog . He wondered whether God had a dog in the sky . He meandered down Pike_Street , past the First_National_Bank with its green window_shades . He crossed the <head>tracks</head> to Delaware_House , where ladies in gay dresses and men in straw boaters and waxed mustaches crowded the verandah . A tall lady , with a ruffled collar very low on her bosom , turned insolent green eyes upon him . She was taller than Aggie . She was so beautiful with her rosy mouth and haughty air that she had to be wicked .</context>
+    </instance>
+    <instance id="br-k22#w2175_0" docsrc="br-k22">
+      <context> His money was tied_up in a Nassau hotel , an Ohio pottery works , and a detergent for window-washing , and luck had been running against him . His worries harried him up out of bed , and he lighted a cigarette and went to the window . In the starlight he could see the trees stripped of their leaves . During the summer he had tried to repair some of his losses at the <head>track</head> , and the bare trees reminded him that his pari-mutuel tickets would still be lying , like leaves , in the gutters near Belmont and Saratoga . Maple and ash , beech and elm , one_hundred to win on Three in the fourth , fifty to win on Six in the third , one_hundred to win on Two in the eighth . Children walking home from school would scuff through what seemed to be his foliage . Then , getting_back into bed , he thought unashamedly of Mrs._Flannagan , planning where they would next meet and what they would do .</context>
+    </instance>
+    <instance id="br-n05#w2246_0" docsrc="br-n05">
+      <context> But there was water . There was an artificial_lake just out_of_sight in the first stand of trees , fed by a half dozen springs that popped_out of the ground above the hillside orchard . Yes , there was plenty of water , too_much , and that was probably the trouble . There were <head>tracks</head> of cattle all_over his six hundred and forty acres . The first part of the road was steep , but it leveled_off after the second bend and curled gradually into the valley . It was hotter once they reached the flat , and drier , but the grass was better . A warm breeze played across it , moving it like waves .</context>
+    </instance>
+    <instance id="br-n11#w1172_0" docsrc="br-n11">
+      <context> He heaved the dead man onto the buckboard , yelled and lashed at the team and got_out of there fast . But he brought back the sheriff and several deputies , and to the lawmen the entire affair seemed a repetition of the Lewis killing . A detailed scouring of the entire area revealed nothing beyond a ledge of rocks that might have been the rifleman 's hiding_place . There were no <head>tracks</head> of either hoofs or boots . Not even an empty cartridge case could be found . Once_again , Tom_Horn was the first and most likely suspect , and he was brought_in for questioning immediately . Once_again , he shook his head , kept his face expressionless and his voice very calm , and had a strongly supported alibi ready .</context>
+    </instance>
+    <instance id="br-n11#w155_0" docsrc="br-n11">
+      <context> A split_second later , the distant crack of a rifle had sounded . He 'd mounted_up immediately and raced with a revolver ready toward the spot from which he 'd estimated the shot had come . But he had found all_of the thickets and points of cover deserted . There had been no sign of a rifleman and no <head>track</head> or trace to show that anyone had been near . Lewis was a man who had made a full-time job of cow stealing . He had n't even pretended to be farming his spread . His land had never been plowed .</context>
+    </instance>
+    <instance id="br-n14#w620_0" docsrc="br-n14">
+      <context> His eyes widened . While five minutes ago the place had presented a scene of easy revelry , with Gyp_Carmer a prominent figure , it was now as somnolent and dull as the day before payday . Carmer himself was nowhere to be seen . A man knocked the roulette_ball about idly in its <head>track</head> , and another dozed at one of the card_tables . Two men murmured with their heads together at the end of the bar , while the sleek headed bartender absently polished a glass . Looking the setup over , Stevens started coolly for the rear of the place . `` Where yuh goin '' ' ?</context>
+    </instance>
+    <instance id="n00439826_d_8" docsrc="n00439826_d">
+      <context> participating in athletic sports performed on a running <head>track</head> or on the field associated with it ;</context>
+    </instance>
+    <instance id="n00440039_d_11" docsrc="n00440039_d">
+      <context> the act of participating in an athletic_competition involving running on a <head>track</head> ;</context>
+    </instance>
+    <instance id="n00951233_d_13" docsrc="n00951233_d">
+      <context> high-speed rail_technology ; train is suspended on a magnetic cushion above a magnetized <head>track</head> and so travels free of friction ;</context>
+    </instance>
+    <instance id="n03328201_d_13" docsrc="n03328201_d">
+      <context> an inclined metal frame at the front of a locomotive to clear the <head>track</head> ;</context>
+    </instance>
+    <instance id="n03415868_d_27" docsrc="n03415868_d">
+      <context> the convergence of two parallel railroad_tracks in a narrow place ; the inner rails cross and run parallel and_then diverge so a train remains on its own <head>tracks</head> at all times ;</context>
+    </instance>
+    <instance id="n03416094_d_21" docsrc="n03416094_d">
+      <context> a framework of steel bars raised on side supports to bridge_over or around something ; can display railway signals above several <head>tracks</head> or can support a traveling crane etc. ;</context>
+    </instance>
+    <instance id="n03478491_d_1" docsrc="n03478491_d">
+      <context> a <head>track</head> that goes around only rear wheels ;</context>
+    </instance>
+    <instance id="n03684823_d_15" docsrc="n03684823_d">
+      <context> a wheeled_vehicle consisting of a self-propelled engine that is used to draw trains along railway <head>tracks</head> ;</context>
+    </instance>
+    <instance id="n03784053_d_5" docsrc="n03784053_d">
+      <context> a railway having a single <head>track</head> ;</context>
+    </instance>
+    <instance id="n03939565_d_9" docsrc="n03939565_d">
+      <context> a locomotive that precedes a train to check the <head>track</head> ;</context>
+    </instance>
+    <instance id="n03985588_d_1" docsrc="n03985588_d">
+      <context> overland <head>track</head> between navigable waterways ;</context>
+    </instance>
+    <instance id="n04047291_d_5" docsrc="n04047291_d">
+      <context> the end of the completed <head>track</head> on an unfinished railway ;</context>
+    </instance>
+    <instance id="n04048075_d_3" docsrc="n04048075_d">
+      <context> a line of <head>track</head> providing a runway for wheels ;</context>
+    </instance>
+    <instance id="n04228844_d_10" docsrc="n04228844_d">
+      <context> one of a pair of planks used to make a <head>track</head> for rolling or sliding objects ;</context>
+    </instance>
+    <instance id="n04372756_d_16" docsrc="n04372756_d">
+      <context> railroad_track having two movable rails and necessary connections ; used to turn a train from one <head>track</head> to another or to store rolling_stock ;</context>
+    </instance>
+    <instance id="n04433585_d_12" docsrc="n04433585_d">
+      <context> one of the cross braces that support the rails on a railway <head>track</head> ;</context>
+    </instance>
+    <instance id="n04464852_d_5" docsrc="n04464852_d">
+      <context> a self-propelled_vehicle that moves on <head>tracks</head> ;</context>
+    </instance>
+    <instance id="n04465358_d_10" docsrc="n04465358_d">
+      <context> steam-powered locomotive for drawing heavy loads along surfaces other than <head>tracks</head> ;</context>
+    </instance>
+    <instance id="n04466613_d_3" docsrc="n04466613_d">
+      <context> a path or <head>track</head> roughly blazed through wild or hilly country ;</context>
+    </instance>
+    <instance id="n04468707_d_10" docsrc="n04468707_d">
+      <context> a toy consisting of small models of railroad_trains and the <head>track</head> for them to run on ;</context>
+    </instance>
+    <instance id="n04468847_d_6" docsrc="n04468847_d">
+      <context> a four-wheeled wagon that runs on <head>tracks</head> in a mine ;</context>
+    </instance>
+    <instance id="n04469003_d_1" docsrc="n04469003_d">
+      <context> the <head>track</head> on which trams or streetcars run ;</context>
+    </instance>
+    <instance id="n04501713_d_5" docsrc="n04501713_d">
+      <context> a rotatable platform with a <head>track</head> ; used to turn locomotives and cars ;</context>
+    </instance>
+    <instance id="n04524833_d_3" docsrc="n04524833_d">
+      <context> a banked oval <head>track</head> for bicycle or motorcycle racing ;</context>
+    </instance>
+    <instance id="n04611154_d_7" docsrc="n04611154_d">
+      <context> an area having a network of railway <head>tracks</head> and sidings for storage and maintenance of cars and engines ;</context>
+    </instance>
+    <instance id="n06612865_ex2_2" docsrc="n06612865_ex2">
+      <context> the title <head>track</head> of the album ;</context>
+    </instance>
+    <instance id="n07302267_d_9" docsrc="n07302267_d">
+      <context> an accident in which a train runs off its <head>track</head> ;</context>
+    </instance>
+    <instance id="n07463029_d_9" docsrc="n07463029_d">
+      <context> a footrace of usually 3000 meters over a closed <head>track</head> with hurdles and a water_jump ;</context>
+    </instance>
+    <instance id="n07466557_d_12" docsrc="n07466557_d">
+      <context> a competition that takes_place on a field rather than on a running <head>track</head> ;</context>
+    </instance>
+    <instance id="n07468244_d_14" docsrc="n07468244_d">
+      <context> a regular occasion on which a number of horse_races are held on the same <head>track</head> ;</context>
+    </instance>
+    <instance id="n07468861_d_5" docsrc="n07468861_d">
+      <context> a footrace performed on a <head>track</head> ( indoor or outdoor ) ;</context>
+    </instance>
+    <instance id="n09213828_d_9" docsrc="n09213828_d">
+      <context> a slope in the turn of a road or <head>track</head> ; the outside is higher than the inside in order to reduce the effects of centrifugal_force ;</context>
+    </instance>
+    <instance id="n10505085_d_13" docsrc="n10505085_d">
+      <context> a fan of racing who watches races from the outer rail of the <head>track</head> ;</context>
+    </instance>
+    <instance id="n13626240_d_2" docsrc="n13626240_d">
+      <context> the minimum <head>track</head> length that can be assigned to store information ; unless otherwise specified a sector of data consists of 512 bytes ;</context>
+    </instance>
+    <instance id="v02012227_d_3" docsrc="v02012227_d">
+      <context> transfer to another <head>track</head> , of trains ;</context>
+    </instance>
+  </lexelt>
+</corpus>

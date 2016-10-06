@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="instability.n" pos="NN">
+    <instance id="Instability-instability-0-45-3" docsrc="Instability">
+      <context> <head>Such</head> instabilities usually require that the motions of stars be highly correlated , so that the perturbation is not " smeared out " by random motions . After the instability has run its course , the system is typically " hotter " ( the motions are more random ) or rounder than before . Instabilities in stellar systems include :</context>
+    </instance>
+    <instance id="Instability-instability-0-55-5" docsrc="Instability">
+      <context> <head>Injuries</head> cause proprioceptive deficits and impaired postural control in the joint . Individuals with muscular weakness , occult instability , and decreased postural control are more susceptible to injury than those with better postural control . Instability leads to an increase in postural sway , the measurement of the time and distance a subject spends away from an ideal center of pressure .</context>
+    </instance>
+    <instance id="Instability-instability-1-1-4" docsrc="Instability">
+      <context> This <head>can</head> take the form of buckling or crippling . The general field of study is called structural stability . Atmospheric instability is a major component of all weather systems on Earth .</context>
+    </instance>
+    <instance id="Instability-instability-1-12-1" docsrc="Instability">
+      <context> The <head>equivalent</head> condition in discrete time is that at least one of the eigenvalues is greater than 1 in absolute value , or that two or more eigenvalues are equal and of unit absolute value . Buckling Elastic instability</context>
+    </instance>
+    <instance id="Instability-instability-1-14-1" docsrc="Instability">
+      <context> Elastic <head>instability</head> Drucker stability of a nonlinear constitutive model Biot instability ( surface wrinkling in elastomers )</context>
+    </instance>
+    <instance id="Instability-instability-1-15-1" docsrc="Instability">
+      <context> Drucker <head>stability</head> of a nonlinear constitutive model Biot instability ( surface wrinkling in elastomers ) Baroclinic instability</context>
+    </instance>
+    <instance id="Instability-instability-1-16-1" docsrc="Instability">
+      <context> Biot <head>instability</head> ( surface wrinkling in elastomers ) Baroclinic instability Fluid instabilities occur in liquids , gases and plasmas , and are often characterized by the shape that form ; they are studied in fluid dynamics and magnetohydrodynamics .</context>
+    </instance>
+    <instance id="Instability-instability-1-21-1" docsrc="Instability">
+      <context> Baroclinic <head>instability</head> Fluid instabilities occur in liquids , gases and plasmas , and are often characterized by the shape that form ; they are studied in fluid dynamics and magnetohydrodynamics . Fluid instabilities include :</context>
+    </instance>
+    <instance id="Instability-instability-1-22-1" docsrc="Instability">
+      <context> Fluid <head>instabilities</head> include : Ballooning mode instability ( some analogy to the Rayleigh–Taylor instability ) ; found in the magnetosphere Atmospheric instability</context>
+    </instance>
+    <instance id="Instability-instability-1-23-1" docsrc="Instability">
+      <context> Ballooning <head>mode</head> instability ( some analogy to the Rayleigh–Taylor instability ) ; found in the magnetosphere Atmospheric instability Hydrodynamic instability or dynamic instability ( atmospheric dynamics )</context>
+    </instance>
+    <instance id="Instability-instability-1-24-1" docsrc="Instability">
+      <context> Atmospheric <head>instability</head> Hydrodynamic instability or dynamic instability ( atmospheric dynamics ) Inertial instability ; baroclinic instability ; symmetric instability , conditional symmetric or convective symmetric instability ; barotropic instability ; Helmholtz or shearing instability ; rotational instability</context>
+    </instance>
+    <instance id="Instability-instability-1-25-1" docsrc="Instability">
+      <context> Hydrodynamic <head>instability</head> or dynamic instability ( atmospheric dynamics ) Inertial instability ; baroclinic instability ; symmetric instability , conditional symmetric or convective symmetric instability ; barotropic instability ; Helmholtz or shearing instability ; rotational instability Hydrostatic instability or static instability/vertical instability ( parcel instability ) , thermodynamic instability ( atmospheric thermodynamics )</context>
+    </instance>
+    <instance id="Instability-instability-1-27-1" docsrc="Instability">
+      <context> Inertial <head>instability</head> ; baroclinic instability ; symmetric instability , conditional symmetric or convective symmetric instability ; barotropic instability ; Helmholtz or shearing instability ; rotational instability Hydrostatic instability or static instability/vertical instability ( parcel instability ) , thermodynamic instability ( atmospheric thermodynamics ) Bénard instability</context>
+    </instance>
+    <instance id="Instability-instability-1-31-1" docsrc="Instability">
+      <context> Bénard <head>instability</head> Drift mirror instability Kelvin–Helmholtz instability ( similar , but different from the diocotron instability in plasmas )</context>
+    </instance>
+    <instance id="Instability-instability-1-32-1" docsrc="Instability">
+      <context> Drift <head>mirror</head> instability Kelvin–Helmholtz instability ( similar , but different from the diocotron instability in plasmas ) Rayleigh–Taylor instability</context>
+    </instance>
+    <instance id="Instability-instability-1-36-1" docsrc="Instability">
+      <context> Rayleigh–Taylor <head>instability</head> Shock Wave Instability Plasma instabilities can be divided into two general groups ( 1 ) hydrodynamic instabilities ( 2 ) kinetic instabilities .</context>
+    </instance>
+    <instance id="Instability-instability-1-41-1" docsrc="Instability">
+      <context> Shock <head>Wave</head> Instability Plasma instabilities can be divided into two general groups ( 1 ) hydrodynamic instabilities ( 2 ) kinetic instabilities . Plasma instabilities are also categorised into different modes – see this paragraph in plasma stability .</context>
+    </instance>
+    <instance id="Instability-instability-1-45-1" docsrc="Instability">
+      <context> Plasma <head>instabilities</head> are also categorised into different modes – see this paragraph in plasma stability . Galaxies and star clusters can be unstable , if small perturbations in the gravitational potential cause changes in the density that reinforce the original perturbation . Such instabilities usually require that the motions of stars be highly correlated , so that the perturbation is not " smeared out " by random motions .</context>
+    </instance>
+    <instance id="Instability-instability-1-45-4" docsrc="Instability">
+      <context> After <head>the</head> instability has run its course , the system is typically " hotter " ( the motions are more random ) or rounder than before . Instabilities in stellar systems include : Bar instability of rapidly rotating disks</context>
+    </instance>
+    <instance id="Instability-instability-1-46-1" docsrc="Instability">
+      <context> Instabilities <head>in</head> stellar systems include : Bar instability of rapidly rotating disks Jeans instability</context>
+    </instance>
+    <instance id="Instability-instability-1-47-1" docsrc="Instability">
+      <context> Bar <head>instability</head> of rapidly rotating disks Jeans instability Firehose instability</context>
+    </instance>
+    <instance id="Instability-instability-1-48-1" docsrc="Instability">
+      <context> Jeans <head>instability</head> Firehose instability Gravothermal instability</context>
+    </instance>
+    <instance id="Instability-instability-1-49-1" docsrc="Instability">
+      <context> Firehose <head>instability</head> Gravothermal instability Various instabilities in cold rotating disks</context>
+    </instance>
+    <instance id="Instability-instability-1-55-1" docsrc="Instability">
+      <context> Various <head>instabilities</head> in cold rotating disks The most common residual disability after any sprain in the body is instability . Mechanical instability includes insufficient stabilizing structures and mobility that exceed the physiological limits .</context>
+    </instance>
+    <instance id="Instability-instability-1-55-2" docsrc="Instability">
+      <context> The <head>most</head> common residual disability after any sprain in the body is instability . Mechanical instability includes insufficient stabilizing structures and mobility that exceed the physiological limits . Functional instability involves recurrent sprains or a feeling of giving way of the injured joint .</context>
+    </instance>
+    <instance id="Instability-instability-10-31-1" docsrc="Instability">
+      <context> Bénard instability Drift mirror instability Kelvin–Helmholtz instability ( similar , <head>but</head> different from the diocotron instability in plasmas )</context>
+    </instance>
+    <instance id="Instability-instability-12-25-1" docsrc="Instability">
+      <context> Hydrodynamic instability or dynamic instability ( atmospheric dynamics ) Inertial instability ; <head>baroclinic</head> instability ; symmetric instability , conditional symmetric or convective symmetric instability ; barotropic instability ; Helmholtz or shearing instability ; rotational instability Hydrostatic instability or static instability/vertical instability ( parcel instability ) , thermodynamic instability ( atmospheric thermodynamics )</context>
+    </instance>
+    <instance id="Instability-instability-12-51-1" docsrc="Instability">
+      <context> Gravothermal instability Various instabilities in cold rotating disks The most common residual <head>disability</head> after any sprain in the body is instability .</context>
+    </instance>
+    <instance id="Instability-instability-13-36-1" docsrc="Instability">
+      <context> Rayleigh–Taylor instability Shock Wave Instability Plasma instabilities can be divided into two general <head>groups</head> ( 1 ) hydrodynamic instabilities ( 2 ) kinetic instabilities .</context>
+    </instance>
+    <instance id="Instability-instability-14-24-1" docsrc="Instability">
+      <context> Atmospheric instability Hydrodynamic instability or dynamic instability ( atmospheric dynamics ) Inertial instability ; <head>baroclinic</head> instability ; symmetric instability , conditional symmetric or convective symmetric instability ; barotropic instability ; Helmholtz or shearing instability ; rotational instability</context>
+    </instance>
+    <instance id="Instability-instability-17-24-1" docsrc="Instability">
+      <context> Atmospheric instability Hydrodynamic instability or dynamic instability ( atmospheric dynamics ) Inertial instability ; baroclinic instability ; <head>symmetric</head> instability , conditional symmetric or convective symmetric instability ; barotropic instability ; Helmholtz or shearing instability ; rotational instability</context>
+    </instance>
+    <instance id="Instability-instability-18-36-1" docsrc="Instability">
+      <context> Rayleigh–Taylor instability Shock Wave Instability Plasma instabilities can be divided into two general groups ( 1 ) hydrodynamic <head>instabilities</head> ( 2 ) kinetic instabilities .</context>
+    </instance>
+    <instance id="Instability-instability-2-21-2" docsrc="Instability">
+      <context> Fluid instabilities <head>occur</head> in liquids , gases and plasmas , and are often characterized by the shape that form ; they are studied in fluid dynamics and magnetohydrodynamics . Fluid instabilities include : Ballooning mode instability ( some analogy to the Rayleigh–Taylor instability ) ; found in the magnetosphere</context>
+    </instance>
+    <instance id="Instability-instability-2-30-1" docsrc="Instability">
+      <context> Hydrostatic instability <head>or</head> static instability/vertical instability ( parcel instability ) , thermodynamic instability ( atmospheric thermodynamics ) Bénard instability Drift mirror instability</context>
+    </instance>
+    <instance id="Instability-instability-2-33-1" docsrc="Instability">
+      <context> Kelvin–Helmholtz instability <head>(</head> similar , but different from the diocotron instability in plasmas ) Rayleigh–Taylor instability Shock Wave Instability</context>
+    </instance>
+    <instance id="Instability-instability-2-45-2" docsrc="Instability">
+      <context> Galaxies and <head>star</head> clusters can be unstable , if small perturbations in the gravitational potential cause changes in the density that reinforce the original perturbation . Such instabilities usually require that the motions of stars be highly correlated , so that the perturbation is not " smeared out " by random motions . After the instability has run its course , the system is typically " hotter " ( the motions are more random ) or rounder than before .</context>
+    </instance>
+    <instance id="Instability-instability-20-55-7" docsrc="Instability">
+      <context> Instability leads to an increase in postural sway , the measurement of the time and distance a subject spends away <head>from</head> an ideal center of pressure . The measurement of a subject ’s postural sway can be calculated through testing center of pressure ( CoP ) , which is defined as the vertical projection of center of mass on the ground . Investigators have theorized that if injuries to joints cause deafferentation , the interruption of sensory nerve fibers , and functional instability , then a subject ’s postural sway should be altered .</context>
+    </instance>
+    <instance id="Instability-instability-22-24-1" docsrc="Instability">
+      <context> Atmospheric instability Hydrodynamic instability or dynamic instability ( atmospheric dynamics ) Inertial instability ; baroclinic instability ; symmetric instability , conditional symmetric <head>or</head> convective symmetric instability ; barotropic instability ; Helmholtz or shearing instability ; rotational instability</context>
+    </instance>
+    <instance id="Instability-instability-25-24-1" docsrc="Instability">
+      <context> Atmospheric instability Hydrodynamic instability or dynamic instability ( atmospheric dynamics ) Inertial instability ; baroclinic instability ; symmetric instability , conditional symmetric or convective symmetric <head>instability</head> ; barotropic instability ; Helmholtz or shearing instability ; rotational instability</context>
+    </instance>
+    <instance id="Instability-instability-4-23-1" docsrc="Instability">
+      <context> Ballooning mode instability ( <head>some</head> analogy to the Rayleigh–Taylor instability ) ; found in the magnetosphere Atmospheric instability Hydrodynamic instability or dynamic instability ( atmospheric dynamics )</context>
+    </instance>
+    <instance id="Instability-instability-4-24-1" docsrc="Instability">
+      <context> Atmospheric instability Hydrodynamic instability <head>or</head> dynamic instability ( atmospheric dynamics ) Inertial instability ; baroclinic instability ; symmetric instability , conditional symmetric or convective symmetric instability ; barotropic instability ; Helmholtz or shearing instability ; rotational instability</context>
+    </instance>
+    <instance id="Instability-instability-5-25-1" docsrc="Instability">
+      <context> Hydrodynamic instability or dynamic instability <head>(</head> atmospheric dynamics ) Inertial instability ; baroclinic instability ; symmetric instability , conditional symmetric or convective symmetric instability ; barotropic instability ; Helmholtz or shearing instability ; rotational instability Hydrostatic instability or static instability/vertical instability ( parcel instability ) , thermodynamic instability ( atmospheric thermodynamics )</context>
+    </instance>
+    <instance id="Instability-instability-6-55-4" docsrc="Instability">
+      <context> Functional instability involves recurrent sprains or <head>a</head> feeling of giving way of the injured joint . Injuries cause proprioceptive deficits and impaired postural control in the joint . Individuals with muscular weakness , occult instability , and decreased postural control are more susceptible to injury than those with better postural control .</context>
+    </instance>
+    <instance id="Instability-instability-7-24-1" docsrc="Instability">
+      <context> Atmospheric instability Hydrodynamic instability or dynamic instability <head>(</head> atmospheric dynamics ) Inertial instability ; baroclinic instability ; symmetric instability , conditional symmetric or convective symmetric instability ; barotropic instability ; Helmholtz or shearing instability ; rotational instability</context>
+    </instance>
+    <instance id="Instability-instability-8-25-1" docsrc="Instability">
+      <context> Hydrodynamic instability or dynamic instability ( atmospheric dynamics <head>)</head> Inertial instability ; baroclinic instability ; symmetric instability , conditional symmetric or convective symmetric instability ; barotropic instability ; Helmholtz or shearing instability ; rotational instability Hydrostatic instability or static instability/vertical instability ( parcel instability ) , thermodynamic instability ( atmospheric thermodynamics )</context>
+    </instance>
+    <instance id="Instability-instability-9-21-2" docsrc="Instability">
+      <context> Fluid instabilities occur in liquids , gases and plasmas <head>,</head> and are often characterized by the shape that form ; they are studied in fluid dynamics and magnetohydrodynamics . Fluid instabilities include : Ballooning mode instability ( some analogy to the Rayleigh–Taylor instability ) ; found in the magnetosphere</context>
+    </instance>
+    <instance id="br-b20#w1369_0" docsrc="br-b20">
+      <context> Who , then , is of sufficient stature to lodge with Lenin ? Who but Nikita himself ? Since he has just shown who is top_dog , he may not be ready to receive this highest honor in the gift of the Soviet people . Besides , he can hardly avoid musing on the <head>instability</head> of death which , what with exhumations and rehabilitations , seems to match that of life . Suppose he did lie beside Lenin , would it be permanent ? If some future Khrushchev decided to rake_up the misdeeds of his revered predecessor , would not the factory_workers pass the same resolutions applauding his dispossession ? When a man is laid_to_rest , he is entitled to stay_put .</context>
+    </instance>
+    <instance id="br-e22#w1322_0" docsrc="br-e22">
+      <context> His counterpoint is pertinent , skillful , and rarely thick . Also , it should be noted that the polytonal freedom of his melodies and harmonic modulations , the brilliant orchestrations , the adroitness for evading the heaviness of figured_bass , the skill in florid counterpoint were not lost in his mature output , even in the spectacular historical dramas of the stage and cinema , where a large , dramatic canvas of sound was required . That Prokofieff 's harmonies and forms sometimes seem professionally routine to our ears , may or may not indicate that he was less of an `` original '' than we prefer to believe . Need for novelty may be a symptom of cultural fatigue and <head>instability</head> . Prokofieff might well emerge as a cultural hero , who , by the force of his creative life , helped preserve the main stream of tradition , to which the surviving idioms of current experimentalism may be eventually added and integrated . At this date , it seems probable that the name of Serge_Prokofieff will appear in the archives of History , as an effective Traditionalist , who was fully aware of the lure and danger of experimentation , and used it as it served his purpose ; yet was never caught_up in it - never a slave to its academic dialectics . Certainly , it is the traditional clarity of his music which has endeared him to the Western World - not his experimentations .</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="activist.n" pos="NN">
+    <instance id="n08018189_d_7" docsrc="n08018189_d">
+      <context> a terrorist_organization organized in 1959 by student <head>activists</head> who were dissatisfied with the moderate nationalism of the traditional Basque party ; want to create an independent homeland in Spain's western Pyrenees ;</context>
+    </instance>
+    <instance id="n10944013_d_3" docsrc="n10944013_d">
+      <context> United_States_
+     _rights_leader and political <head>activist</head> who campaigned for equality for Black_Americans ;</context>
+    </instance>
+  </lexelt>
+</corpus>

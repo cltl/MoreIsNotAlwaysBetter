@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="greenhouse_gas.n" pos="NN">
+    <instance id="n14979132_d_2" docsrc="n14979132_d">
+      <context> a powerful <head>greenhouse_gas</head> emitted during the production of aluminum ;</context>
+    </instance>
+    <instance id="n15064327_d_13" docsrc="n15064327_d">
+      <context> a colorless gas that is soluble in alcohol and ether ; a powerful <head>greenhouse_gas</head> widely used in the electrical utility industry ;</context>
+    </instance>
+  </lexelt>
+</corpus>

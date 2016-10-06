@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="misconduct.n" pos="NN">
+    <instance id="n00735832_d_0" docsrc="n00735832_d">
+      <context> <head>misconduct</head> in public_office ;</context>
+    </instance>
+    <instance id="n06794980_d_6" docsrc="n06794980_d">
+      <context> a mark against a person for <head>misconduct</head> or failure ; usually given in school or armed_forces ;</context>
+    </instance>
+    <instance id="n07235790_d_8" docsrc="n07235790_d">
+      <context> a formal document charging a public official with <head>misconduct</head> in office ;</context>
+    </instance>
+    <instance id="n13291831_d_17" docsrc="n13291831_d">
+      <context> compensation in excess of actual_damages ( a form of punishment awarded in cases of malicious or willful <head>misconduct</head> ) ;</context>
+    </instance>
+    <instance id="v00934744_d_3" docsrc="v00934744_d">
+      <context> explore and expose <head>misconduct</head> and scandals concerning public_figures ;</context>
+    </instance>
+  </lexelt>
+</corpus>

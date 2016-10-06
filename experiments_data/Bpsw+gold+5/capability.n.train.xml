@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="capability.n" pos="NN">
+    <instance id="a01388928_d_7" docsrc="a01388928_d">
+      <context> very large in scale or scope or <head>capability</head> ;</context>
+    </instance>
+    <instance id="a01393976_d_7" docsrc="a01393976_d">
+      <context> extremely small in scale or scope or <head>capability</head> ;</context>
+    </instance>
+    <instance id="a01430111_d_5" docsrc="a01430111_d">
+      <context> capable of or reflecting the <head>capability</head> for correct and valid reasoning ;</context>
+    </instance>
+    <instance id="n00820845_d_5" docsrc="n00820845_d">
+      <context> intelligence on the identity and <head>capability</head> and intentions of hostile individuals or organizations that may be engaged in espionage or sabotage or subversion or terrorism ;</context>
+    </instance>
+    <instance id="n01251724_d_7" docsrc="n01251724_d">
+      <context> actions to represent friendly notional or actual <head>capabilities</head> to mislead hostile forces ;</context>
+    </instance>
+    <instance id="n02671421_d_5" docsrc="n02671421_d">
+      <context> a supplementary component that improves <head>capability</head> ;</context>
+    </instance>
+    <instance id="n04688058_d_1" docsrc="n04688058_d">
+      <context> the <head>capability</head> of being easily associated or joined or connected in thought ;</context>
+    </instance>
+    <instance id="n04748187_d_0" docsrc="n04748187_d">
+      <context> <head>capability</head> of being equated ;</context>
+    </instance>
+    <instance id="n04755466_d_0" docsrc="n04755466_d">
+      <context> <head>capability</head> of being demonstrated or logically proved ;</context>
+    </instance>
+    <instance id="n04856721_d_0" docsrc="n04856721_d">
+      <context> <head>capability</head> of being cured or healed ;</context>
+    </instance>
+    <instance id="n05155650_d_9" docsrc="n05155650_d">
+      <context> a resource provided by the mind or one's personal <head>capabilities</head> ;</context>
+    </instance>
+    <instance id="n05623444_d_1" docsrc="n05623444_d">
+      <context> the <head>capability</head> of becoming perfect ;</context>
+    </instance>
+    <instance id="n05623628_d_3" docsrc="n05623628_d">
+      <context> the limit of <head>capability</head> ;</context>
+    </instance>
+    <instance id="n05648011_d_1" docsrc="n05648011_d">
+      <context> the <head>capability</head> of becoming imperfect ;</context>
+    </instance>
+    <instance id="n14417993_d_1" docsrc="n14417993_d">
+      <context> the <head>capability</head> of being separated ;</context>
+    </instance>
+    <instance id="n14530836_ex1_1" docsrc="n14530836_ex1">
+      <context> the <head>capability</head> of a metal to be fused ;</context>
+    </instance>
+  </lexelt>
+</corpus>

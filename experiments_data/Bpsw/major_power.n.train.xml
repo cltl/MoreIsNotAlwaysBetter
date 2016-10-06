@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="major_power.n" pos="NN">
+    <instance id="n01302449_d_18" docsrc="n01302449_d">
+      <context> tension between Arabs and Israeli erupted into a brief war in June 1967 ; Israel emerged as a <head>major_power</head> in the Middle_East ;</context>
+    </instance>
+    <instance id="n13981763_d_5" docsrc="n13981763_d">
+      <context> a war instigated by a <head>major_power</head> that does not itself participate ;</context>
+    </instance>
+  </lexelt>
+</corpus>

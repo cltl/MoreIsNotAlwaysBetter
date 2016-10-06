@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="striker.n" pos="NN">
+    <instance id="n03037228_d_1" docsrc="n03037228_d">
+      <context> metal <head>striker</head> that hangs inside a bell and makes a sound by hitting the side ;</context>
+    </instance>
+    <instance id="n03349020_d_0" docsrc="n03349020_d">
+      <context> <head>striker</head> that ignites the charge by striking the primer ;</context>
+    </instance>
+    <instance id="n03481674_d_1" docsrc="n03481674_d">
+      <context> a <head>striker</head> that is covered in felt and that causes the piano strings to vibrate ;</context>
+    </instance>
+    <instance id="n10178216_ex2_2" docsrc="n10178216_ex2">
+      <context> a fine <head>striker</head> of the ball ;</context>
+    </instance>
+    <instance id="n13280896_d_3" docsrc="n13280896_d">
+      <context> money paid to <head>strikers</head> from union funds ;</context>
+    </instance>
+  </lexelt>
+</corpus>

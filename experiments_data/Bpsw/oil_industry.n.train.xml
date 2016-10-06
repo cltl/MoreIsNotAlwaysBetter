@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="oil_industry.n" pos="NN">
+    <instance id="n08069487_d_7" docsrc="n08069487_d">
+      <context> a company that operates oil_pipelines for the <head>oil_industry</head> ;</context>
+    </instance>
+    <instance id="n09791151_d_4" docsrc="n09791151_d">
+      <context> an analyst of the <head>oil_industry</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

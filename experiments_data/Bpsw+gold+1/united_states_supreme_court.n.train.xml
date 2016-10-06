@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="United_States_Supreme_Court.n" pos="NN">
+    <instance id="n10872287_d_6" docsrc="n10872287_d">
+      <context> United_States jurist appointed chief_justice of the <head>United_States_Supreme_Court</head> by Richard_Nixon ;</context>
+    </instance>
+    <instance id="n10893606_d_10" docsrc="n10893606_d">
+      <context> United_States politician and jurist who served as chief_justice of the <head>United_States_Supreme_Court</head> ;</context>
+    </instance>
+    <instance id="n10958381_d_8" docsrc="n10958381_d">
+      <context> United_States jurist and the third chief_justice of the <head>United_States_Supreme_Court</head> ;</context>
+    </instance>
+    <instance id="n10985653_d_6" docsrc="n10985653_d">
+      <context> United_States jurist and chief_justice of the <head>United_States_Supreme_Court</head> ;</context>
+    </instance>
+    <instance id="n11064662_d_8" docsrc="n11064662_d">
+      <context> United_States jurist who served as chief_justice of the <head>United_States_Supreme_Court</head> ;</context>
+    </instance>
+    <instance id="n11081111_d_17" docsrc="n11081111_d">
+      <context> United_States diplomat and jurist who negotiated peace_treaties with Britain and served as the first chief_justice of the <head>United_States_Supreme_Court</head> ;</context>
+    </instance>
+    <instance id="n11256765_d_10" docsrc="n11256765_d">
+      <context> United_States jurist who served as an associate justice on the <head>United_States_Supreme_Court</head> from 1972 until 1986 , when he was appointed chief_justice ;</context>
+    </instance>
+    <instance id="n11276676_d_7" docsrc="n11276676_d">
+      <context> United_States jurist and second chief_justice of the <head>United_States_Supreme_Court</head> ; he was appointed by George_Washington and briefly served as chief_justice but was ultimately rejected by the United_States_Senate ;</context>
+    </instance>
+    <instance id="n11319244_d_6" docsrc="n11319244_d">
+      <context> United_States jurist who served on the <head>United_States_Supreme_Court</head> as chief_justice ;</context>
+    </instance>
+    <instance id="n11319810_d_8" docsrc="n11319810_d">
+      <context> United_States jurist who was named chief_justice of the <head>United_States_Supreme_Court</head> in 1941 by Franklin_D._Roosevelt ;</context>
+    </instance>
+    <instance id="n11328714_d_7" docsrc="n11328714_d">
+      <context> 27th President_of_the_United_States and later chief_justice of the <head>United_States_Supreme_Court</head> ;</context>
+    </instance>
+    <instance id="n11330692_d_8" docsrc="n11330692_d">
+      <context> United_States jurist who served as chief_justice of the <head>United_States_Supreme_Court</head> ; remembered for his ruling that slaves and their descendants have no rights as citizens ;</context>
+    </instance>
+    <instance id="n11370314_d_8" docsrc="n11370314_d">
+      <context> United_States jurist who was appointed chief_justice of the <head>United_States_Supreme_Court</head> in 1874 by President_Grant ;</context>
+    </instance>
+    <instance id="n11384291_d_6" docsrc="n11384291_d">
+      <context> United_States jurist appointed chief_justice of the <head>United_States_Supreme_Court</head> in 1910 by President_Taft ; noted for his work on antitrust_legislation ;</context>
+    </instance>
+  </lexelt>
+</corpus>

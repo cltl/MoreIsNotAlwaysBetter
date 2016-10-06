@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="microbiology.n" pos="NN">
+    <instance id="Microbiology-microbiology-0-108-1" docsrc="Microbiology">
+      <context> <head>In</head> Our Time at the BBC. ( listen now ) Online lectures in microbiology University of South Carolina Microbiology Online</context>
+    </instance>
+    <instance id="Microbiology-microbiology-0-111-1" docsrc="Microbiology">
+      <context> <head>Online</head> Microbiology textbook Online Medical Microbiology textbook Microbiology Video Lectures and Learning Resources</context>
+    </instance>
+    <instance id="Microbiology-microbiology-0-7-1" docsrc="Microbiology">
+      <context> <head>Otherwise</head> , microbiology , virology , and immunology as basic sciences have greatly exceeded the medical variants , applied sciences . The branches of microbiology can be classified into pure and applied sciences . Microbiology can be also classified based on taxonomy , in the cases of bacteriology , mycology , protozoology , and phycology .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-0-90-2" docsrc="Microbiology">
+      <context> <head>===</head> Modern === Microbiology on</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-109-1" docsrc="Microbiology">
+      <context> Online <head>lectures</head> in microbiology University of South Carolina Microbiology Online Online Microbiology textbook</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-25-2" docsrc="Microbiology">
+      <context> Microbial <head>genetics</head> : The study of how genes are organized and regulated in microbes in relation to their cellular functions . Closely related to the field of molecular biology . Cellular microbiology : A discipline bridging microbiology and cell biology .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-26-1" docsrc="Microbiology">
+      <context> Closely <head>related</head> to the field of molecular biology . Cellular microbiology : A discipline bridging microbiology and cell biology . Evolutionary microbiology : The study of the evolution of microbes .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-29-1" docsrc="Microbiology">
+      <context> Microbial <head>taxonomy</head> : The naming and classification of microorganisms . Microbial systematic : The study of the diversity and genetic relationship of microorganisms . Generation microbiology : The study of those microorganisms that have the same characters as their parents .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-31-1" docsrc="Microbiology">
+      <context> Microbial <head>systematic</head> : The study of the diversity and genetic relationship of microorganisms . Generation microbiology : The study of those microorganisms that have the same characters as their parents . Systems microbiology : A discipline bridging systems biology and microbiology .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-32-1" docsrc="Microbiology">
+      <context> Generation <head>microbiology</head> : The study of those microorganisms that have the same characters as their parents . Systems microbiology : A discipline bridging systems biology and microbiology . Molecular microbiology : The study of the molecular principles of the physiological processes in microorganisms .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-36-2" docsrc="Microbiology">
+      <context> ==== <head>Other</head> ==== Nano microbiology : The study of those organisms on nano level .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-37-1" docsrc="Microbiology">
+      <context> Other <head>====</head> Nano microbiology : The study of those organisms on nano level . Exo microbiology ( or Astro microbiology ) : The study of microorganisms in outer space ( see : List of microorganisms tested in outer space )</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-39-1" docsrc="Microbiology">
+      <context> Exo <head>microbiology</head> ( or Astro microbiology ) : The study of microorganisms in outer space ( see : List of microorganisms tested in outer space ) Biological agent : The study of those microorganisms which are being used in weapon industries . Predictive microbiology : The quantification of relations between controlling factors in foods and responses of pathogenic and spoilage microorganisms using mathematical modelling</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-43-1" docsrc="Microbiology">
+      <context> Predictive <head>microbiology</head> : The quantification of relations between controlling factors in foods and responses of pathogenic and spoilage microorganisms using mathematical modelling === Applied microbiology === Medical microbiology : The study of the pathogenic microbes and the role of microbes in human illness .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-44-3" docsrc="Microbiology">
+      <context> Includes <head>the</head> study of microbial pathogenesis and epidemiology and is related to the study of disease pathology and immunology . This area of microbiology also covers the study of human microbiota , cancer , and the tumor microenvironment . Pharmaceutical microbiology : The study of microorganisms that are related to the production of antibiotics , enzymes , vitamins,vaccines , and other pharmaceutical products and that cause pharmaceutical contamination and spoil .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-45-1" docsrc="Microbiology">
+      <context> This <head>area</head> of microbiology also covers the study of human microbiota , cancer , and the tumor microenvironment . Pharmaceutical microbiology : The study of microorganisms that are related to the production of antibiotics , enzymes , vitamins,vaccines , and other pharmaceutical products and that cause pharmaceutical contamination and spoil . Industrial microbiology : The exploitation of microbes for use in industrial processes .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-47-1" docsrc="Microbiology">
+      <context> This <head>field</head> also includes brewing , an important application of microbiology . Microbial biotechnology : The manipulation of microorganisms at the genetic and molecular level to generate useful products . Food microbiology : The study of microorganisms causing food spoilage and foodborne illness .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-49-2" docsrc="Microbiology">
+      <context> Food <head>microbiology</head> : The study of microorganisms causing food spoilage and foodborne illness . Using microorganisms to produce foods , for example by fermentation . Agricultural microbiology : The study of agriculturally relevant microorganisms .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-50-2" docsrc="Microbiology">
+      <context> Agricultural <head>microbiology</head> : The study of agriculturally relevant microorganisms . This field can be further classified into the following : Plant microbiology and Plant pathology : The study of the interactions between microorganisms and plants and plant pathogens .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-51-1" docsrc="Microbiology">
+      <context> This <head>field</head> can be further classified into the following : Plant microbiology and Plant pathology : The study of the interactions between microorganisms and plants and plant pathogens . Soil microbiology : The study of those microorganisms that are found in soil .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-52-1" docsrc="Microbiology">
+      <context> Plant <head>microbiology</head> and Plant pathology : The study of the interactions between microorganisms and plants and plant pathogens . Soil microbiology : The study of those microorganisms that are found in soil . Veterinary microbiology : The study of the role of microbes in veterinary medicine or animal taxonomy .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-54-1" docsrc="Microbiology">
+      <context> Soil <head>microbiology</head> : The study of those microorganisms that are found in soil . Veterinary microbiology : The study of the role of microbes in veterinary medicine or animal taxonomy . Environmental microbiology : The study of the function and diversity of microbes in their natural environments .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-1-60-1" docsrc="Microbiology">
+      <context> Microbial <head>diversity</head> Bioremediation Water microbiology ( or Aquatic microbiology ) : The study of those microorganisms that are found in water .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-10-46-3" docsrc="Microbiology">
+      <context> Examples include industrial fermentation and wastewater treatment . Closely linked <head>to</head> the biotechnology industry . This field also includes brewing , an important application of microbiology .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-17-2-2" docsrc="Microbiology">
+      <context> Viruses have been variably classified as organisms , as they have been considered either as very simple <head>microorganisms</head> or very complex molecules . Prions , never considered microorganisms , have been investigated by virologists , however , as the clinical effects traced to them were originally presumed due to chronic viral infections , and virologists took search—discovering " infectious proteins " . As an application of microbiology , medical microbiology is often introduced with medical principles of immunology as microbiology and immunology .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-2-110-1" docsrc="Microbiology">
+      <context> Microbiology Online <head>Online</head> Microbiology textbook Online Medical Microbiology textbook</context>
+    </instance>
+    <instance id="Microbiology-microbiology-2-112-1" docsrc="Microbiology">
+      <context> Online Medical <head>Microbiology</head> textbook Microbiology Video Lectures and Learning Resources Institute of Microbiology of the Swiss Federal Institute of Technology</context>
+    </instance>
+    <instance id="Microbiology-microbiology-2-3-1" docsrc="Microbiology">
+      <context> Prions , <head>never</head> considered microorganisms , have been investigated by virologists , however , as the clinical effects traced to them were originally presumed due to chronic viral infections , and virologists took search—discovering " infectious proteins " . As an application of microbiology , medical microbiology is often introduced with medical principles of immunology as microbiology and immunology . Otherwise , microbiology , virology , and immunology as basic sciences have greatly exceeded the medical variants , applied sciences .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-2-40-1" docsrc="Microbiology">
+      <context> Biological agent <head>:</head> The study of those microorganisms which are being used in weapon industries . Predictive microbiology : The quantification of relations between controlling factors in foods and responses of pathogenic and spoilage microorganisms using mathematical modelling === Applied microbiology ===</context>
+    </instance>
+    <instance id="Microbiology-microbiology-2-7-3" docsrc="Microbiology">
+      <context> Microbiology can <head>be</head> also classified based on taxonomy , in the cases of bacteriology , mycology , protozoology , and phycology . There is considerable overlap between the specific branches of microbiology with each other and with other disciplines , and certain aspects of these branches can extend beyond the traditional scope of microbiology . === Pure microbiology ===</context>
+    </instance>
+    <instance id="Microbiology-microbiology-3-107-2" docsrc="Microbiology">
+      <context> Microbiology on In <head>Our</head> Time at the BBC. ( listen now ) Online lectures in microbiology University of South Carolina</context>
+    </instance>
+    <instance id="Microbiology-microbiology-3-113-1" docsrc="Microbiology">
+      <context> Microbiology Video Lectures <head>and</head> Learning Resources Institute of Microbiology of the Swiss Federal Institute of Technology Annual Review of Microbiology</context>
+    </instance>
+    <instance id="Microbiology-microbiology-3-114-1" docsrc="Microbiology">
+      <context> Institute of Microbiology <head>of</head> the Swiss Federal Institute of Technology Annual Review of Microbiology</context>
+    </instance>
+    <instance id="Microbiology-microbiology-3-3-2" docsrc="Microbiology">
+      <context> As an application <head>of</head> microbiology , medical microbiology is often introduced with medical principles of immunology as microbiology and immunology . Otherwise , microbiology , virology , and immunology as basic sciences have greatly exceeded the medical variants , applied sciences . The branches of microbiology can be classified into pure and applied sciences .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-3-44-2" docsrc="Microbiology">
+      <context> Medical microbiology : <head>The</head> study of the pathogenic microbes and the role of microbes in human illness . Includes the study of microbial pathogenesis and epidemiology and is related to the study of disease pathology and immunology . This area of microbiology also covers the study of human microbiota , cancer , and the tumor microenvironment .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-31-7-2" docsrc="Microbiology">
+      <context> The branches of microbiology can be classified into pure and applied sciences . Microbiology can be also classified based on taxonomy , in the cases of bacteriology , mycology , protozoology <head>,</head> and phycology . There is considerable overlap between the specific branches of microbiology with each other and with other disciplines , and certain aspects of these branches can extend beyond the traditional scope of microbiology .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-4-2-2" docsrc="Microbiology">
+      <context> Viruses have been variably <head>classified</head> as organisms , as they have been considered either as very simple microorganisms or very complex molecules . Prions , never considered microorganisms , have been investigated by virologists , however , as the clinical effects traced to them were originally presumed due to chronic viral infections , and virologists took search—discovering " infectious proteins " . As an application of microbiology , medical microbiology is often introduced with medical principles of immunology as microbiology and immunology .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-4-62-1" docsrc="Microbiology">
+      <context> Bioremediation Water microbiology ( <head>or</head> Aquatic microbiology ) : The study of those microorganisms that are found in water . Aeromicrobiology ( or Air microbiology ) : The study of airborne microorganisms .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-5-37-1" docsrc="Microbiology">
+      <context> Other ==== Nano microbiology : <head>The</head> study of those organisms on nano level . Exo microbiology ( or Astro microbiology ) : The study of microorganisms in outer space ( see : List of microorganisms tested in outer space )</context>
+    </instance>
+    <instance id="Microbiology-microbiology-5-60-1" docsrc="Microbiology">
+      <context> Microbial diversity Bioremediation Water microbiology <head>(</head> or Aquatic microbiology ) : The study of those microorganisms that are found in water .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-6-25-2" docsrc="Microbiology">
+      <context> Microbial genetics : The study of <head>how</head> genes are organized and regulated in microbes in relation to their cellular functions . Closely related to the field of molecular biology . Cellular microbiology : A discipline bridging microbiology and cell biology .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-6-55-2" docsrc="Microbiology">
+      <context> Environmental microbiology : The study of <head>the</head> function and diversity of microbes in their natural environments . This involves the characterization of key bacterial habitats such as the rhizosphere and phyllosphere , soil and groundwater ecosystems , open oceans or extreme environments ( extremophiles ) . This field includes other branches of microbiology such as :</context>
+    </instance>
+    <instance id="Microbiology-microbiology-7-2-2" docsrc="Microbiology">
+      <context> Viruses have been variably classified as organisms <head>,</head> as they have been considered either as very simple microorganisms or very complex molecules . Prions , never considered microorganisms , have been investigated by virologists , however , as the clinical effects traced to them were originally presumed due to chronic viral infections , and virologists took search—discovering " infectious proteins " . As an application of microbiology , medical microbiology is often introduced with medical principles of immunology as microbiology and immunology .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-9-31-1" docsrc="Microbiology">
+      <context> Microbial systematic : The study of the diversity and <head>genetic</head> relationship of microorganisms . Generation microbiology : The study of those microorganisms that have the same characters as their parents . Systems microbiology : A discipline bridging systems biology and microbiology .</context>
+    </instance>
+    <instance id="Microbiology-microbiology-9-7-2" docsrc="Microbiology">
+      <context> The branches of microbiology can be classified into pure <head>and</head> applied sciences . Microbiology can be also classified based on taxonomy , in the cases of bacteriology , mycology , protozoology , and phycology . There is considerable overlap between the specific branches of microbiology with each other and with other disciplines , and certain aspects of these branches can extend beyond the traditional scope of microbiology .</context>
+    </instance>
+    <instance id="n10313580_d_3" docsrc="n10313580_d">
+      <context> a specialist in <head>microbiology</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

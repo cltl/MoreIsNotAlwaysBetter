@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="television_show.n" pos="NN">
+    <instance id="n03647291_d_10" docsrc="n03647291_d">
+      <context> prerecorded laughter added to the soundtrack of a radio or <head>television_show</head> ;</context>
+    </instance>
+    <instance id="n04344544_d_10" docsrc="n04344544_d">
+      <context> workplace consisting of a room or building where movies or <head>television_shows</head> or radio programs are produced and recorded ;</context>
+    </instance>
+    <instance id="n06397645_d_9" docsrc="n06397645_d">
+      <context> an attention-getting opening presented at the start of a <head>television_show</head> ;</context>
+    </instance>
+    <instance id="n06619428_d_3" docsrc="n06619428_d">
+      <context> a radio or <head>television_show</head> ;</context>
+    </instance>
+    <instance id="n10147488_d_10" docsrc="n10147488_d">
+      <context> worker who moves the camera around while a film or <head>television_show</head> is being made ;</context>
+    </instance>
+    <instance id="n10698550_d_4" docsrc="n10698550_d">
+      <context> a star in a <head>television_show</head> ;</context>
+    </instance>
+    <instance id="n10878375_d_5" docsrc="n10878375_d">
+      <context> United_States comedian who pioneered comedy <head>television_shows</head> ;</context>
+    </instance>
+    <instance id="n10903413_d_6" docsrc="n10903413_d">
+      <context> United_States comedienne who starred in early <head>television_shows</head> with Sid_Caesar ;</context>
+    </instance>
+    <instance id="n13292989_d_14" docsrc="n13292989_d">
+      <context> a payment that is made to a performer or writer or director of a <head>television_show</head> or commercial that is paid for every repeat showing ;</context>
+    </instance>
+    <instance id="n15295884_d_10" docsrc="n15295884_d">
+      <context> the point_in_time at which an entertainment ( a movie or <head>television_show</head> etc. ) is scheduled to begin ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="speculation.n" pos="NN">
+    <instance id="n05891783_ex1_0" docsrc="n05891783_ex1">
+      <context> <head>speculations</head> about the outcome of the election ;</context>
+    </instance>
+    <instance id="n10221162_d_10" docsrc="n10221162_d">
+      <context> someone who builds cheap buildings out of poor materials on <head>speculation</head> for a quick profit ;</context>
+    </instance>
+    <instance id="n10456138_d_8" docsrc="n10456138_d">
+      <context> someone who emphasizes observable facts and excludes metaphysical <head>speculation</head> about origins or ultimate causes ;</context>
+    </instance>
+    <instance id="n10756641_d_5" docsrc="n10756641_d">
+      <context> a person given to fanciful <head>speculations</head> and enthusiasms with little regard for what is actually possible ;</context>
+    </instance>
+    <instance id="n11213323_d_3" docsrc="n11213323_d">
+      <context> German naturalist whose <head>speculations</head> that plants and animals are made_up of tiny living infusoria led to the cell_theory ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="emission.n" pos="NN">
+    <instance id="br-j01#w1100_0" docsrc="br-j01">
+      <context> Measurements of polarization are presently limited by apparatus sensitivity and will remain difficult because of the low intensity of the planetary radiation at the earth . There have been few measurements specifically for the determination of the polarization of planetary radiation . The measurements made with the NRL 50 - foot reflector , which is altitude azimuth mounted , would have shown a systematic change with local hour_angle in the measured intensities of Venus and Jupiter if a substantial part of the radiation had been linearly polarized . Recent interferometer measurements ( Radhakrishnan and Roberts , 1960 ) have shown the 960 - Mc <head>emission</head> of Jupiter to be partially polarized and to originate_in a region of larger diameter than the visible disk . Other_than this very significant result , most_of the information now available about the radio_emission of the planets is restricted to the intensity of the radiation . The concept of apparent black-body temperature is used to describe the radiation received from the moon and the planets . The received radiation is compared with the radiation from a hypothetical black-body which subtends the same solid_angle as the visible disk of the planet .</context>
+    </instance>
+    <instance id="br-j01#w1648_0" docsrc="br-j01">
+      <context> Mare_Imbrium seems to be an exception and remains cooler than the regions which surround it . These contour diagrams also suggest a rather rapid falloff in the radio_brightness with latitude . Very recently , observations have been made at 8 - mm wave_length with a reflector 22 meters in diameter with a resultant beam width of only about 2 ' ( Amenitskii , Noskova , and Salomonovich , 1960 ) . The constant temperature contours are much smoother than those observed at 4.3 mm by Coates ( 1959 a ) , and apparently the <head>emission</head> at 8 mm is not nearly so sensitive to differences in surface features . Such high-resolution observations as these are needed at several wave_lengths in_order_that the radio_emission of the moon can be properly interpreted . The observations of Mayer , McCullough , and Sloanaker at 3.15 cm and of Sloanaker at 10.3 cm have not previously been published and will be briefly described . Measurements at 3.15 cm were obtained on 11 days spread over the interval May 3 to June 19 , 1956 , using the 50 - foot reflector at the U.S._Naval_Research_Laboratory in Washington .</context>
+    </instance>
+    <instance id="br-j01#w1986_0" docsrc="br-j01">
+      <context> The measured brightness temperature is a good approximation to the brightness temperature at the center of the lunar disk because of the narrow antenna beam and because the temperature distribution over the central portion of the moon 's disk is nearly uniform . The result of the observations is ( in ` K ) **f where the phase angle , |qt , is measured in degrees from new_moon and the probable errors include absolute as_well_as relative errors . This result is plotted along with the 8.6 - mm observations of Gibson ( 1958 ) in figure 1 , a . The variation in the 3 - cm <head>emission</head> of the moon during a lunation is very_much less_than the variation in the 8.6 - mm emission , as would be expected from the explanation of Piddington and Minnett ( 1949 ) . In the discussion which follows , the time average of the radio_emission will be referred to as the constant component , and the superimposed periodic variation will be called the variable component . The 10.3 - cm observation of Sloanaker was made on May 20 , 1958 , using the 84 - foot reflector at the Maryland_Point_Observatory of the U.S._Naval_Research_Laboratory . The age of the moon was about 2 days .</context>
+    </instance>
+    <instance id="br-j01#w2003_0" docsrc="br-j01">
+      <context> The measured brightness temperature is a good approximation to the brightness temperature at the center of the lunar disk because of the narrow antenna beam and because the temperature distribution over the central portion of the moon 's disk is nearly uniform . The result of the observations is ( in ` K ) **f where the phase angle , |qt , is measured in degrees from new_moon and the probable errors include absolute as_well_as relative errors . This result is plotted along with the 8.6 - mm observations of Gibson ( 1958 ) in figure 1 , a . The variation in the 3 - cm emission of the moon during a lunation is very_much less_than the variation in the 8.6 - mm <head>emission</head> , as would be expected from the explanation of Piddington and Minnett ( 1949 ) . In the discussion which follows , the time average of the radio_emission will be referred to as the constant component , and the superimposed periodic variation will be called the variable component . The 10.3 - cm observation of Sloanaker was made on May 20 , 1958 , using the 84 - foot reflector at the Maryland_Point_Observatory of the U.S._Naval_Research_Laboratory . The age of the moon was about 2 days .</context>
+    </instance>
+    <instance id="br-j01#w516_0" docsrc="br-j01">
+      <context> No attempts to measure the radio_emission of the remaining planets have been reported , and , because of their distances , small diameters , or low_temperatures , the thermal radiation at radio wave_lengths reaching the earth from these sources is expected to be of very low intensity . In_spite of this , the very large radio_reflectors and improved amplifying techniques which are now becoming available should make it possible to observe the radio_emission of most of the planets in a_few years . The study of the radio_emission of the moon and planets began with the detection of the thermal radiation of the moon at 1.25 - cm wave_length by Dicke and Beringer ( 1946 ) . This was followed by a comprehensive series of observations of the 1.25 - cm <head>emission</head> of the moon over three lunar cycles by Piddington and Minnett ( 1949 ) . They deduced from their measurements that the radio_emission from the whole disk of the moon varied during a lunation in a roughly sinusoidal fashion ; that the amplitude of the variation was considerably less_than the amplitude of the variation in the infrared_emission as measured by Pettit and Nicholson ( 1930 ) and Pettit ( 1935 ) ; and that the maximum of the radio_emission came about 3 - 1 2 days after Full_Moon , which is again in contrast to the infrared_emission , which reaches its maximum at Full_Moon . Piddington and Minnett explained their observations by pointing_out that rocklike materials which are likely to make_up the surface of the moon would be partially transparent to radio_waves , although opaque to infrared_radiation . The infrared_emission could then be assumed to originate at the surface of the moon , while the radio_emission originates at some depth beneath the surface , where the temperature variation due_to solar_radiation is reduced in amplitude and shifted in phase .</context>
+    </instance>
+    <instance id="br-j01#w772_0" docsrc="br-j01">
+      <context> Piddington and Minnett explained their observations by pointing_out that rocklike materials which are likely to make_up the surface of the moon would be partially transparent to radio_waves , although opaque to infrared_radiation . The infrared_emission could then be assumed to originate at the surface of the moon , while the radio_emission originates at some depth beneath the surface , where the temperature variation due_to solar_radiation is reduced in amplitude and shifted in phase . Since the absorption of radio_waves in rocklike material varies with wave_length , it should be possible to sample the temperature variation at different depths beneath the surface and possibly detect changes in the structure or composition of the lunar surface material . The radio_emission of a planet was first detected in 1955 , when Burke and Franklin ( 1955 ) identified the origin of interference like radio_noise on their records at about 15 meters wave_length as <head>emission</head> from Jupiter . This sporadic type of planetary radiation is discussed by Burke ( chap. 13 ) and Gallet ( chap. 14 ) . Steady radiation which was presumably of thermal origin was observed from Venus at 3.15 and 9.4 cm , and from Mars and Jupiter at 3.15 cm in 1956 ( Mayer , McCullough , and Sloanaker , 1958 a , b , c ) , and from Saturn at 3.75 cm in 1957 ( Drake and Ewen , 1958 ) . In the relatively short time since these early observations , Venus has been observed at additional wave_lengths in the range from 0.8 to 10.2 cm , and Jupiter has been observed over the wave-length range from 3.03 to 68 cm .</context>
+    </instance>
+    <instance id="n01251923_d_11" docsrc="n01251923_d">
+      <context> the introduction of electromagnetic energy into enemy systems that imitates enemy <head>emissions</head> ;</context>
+    </instance>
+    <instance id="n03509843_d_15" docsrc="n03509843_d">
+      <context> a missile with a guidance_system that directs it toward targets emitting infrared_radiation ( as the <head>emissions</head> of a jet_engine ) ;</context>
+    </instance>
+    <instance id="n04167489_d_13" docsrc="n04167489_d">
+      <context> a missile equipped with a device that is attracted toward some kind of <head>emission</head> ( heat or light or sound or radio_waves ) ;</context>
+    </instance>
+    <instance id="n05769156_d_14" docsrc="n05769156_d">
+      <context> an erotic dream ( usually at night ) accompanied by the ( nocturnal ) <head>emission</head> of semen ;</context>
+    </instance>
+    <instance id="n06099269_d_8" docsrc="n06099269_d">
+      <context> the branch of physics that deals with the <head>emission</head> and effects of electrons and with the use of electronic_devices ;</context>
+    </instance>
+    <instance id="n07359377_d_18" docsrc="n07359377_d">
+      <context> an abrupt transition of an electron or atom or molecule from one quantum state to another with the <head>emission</head> or absorption of a quantum ;</context>
+    </instance>
+    <instance id="n11238906_d_12" docsrc="n11238906_d">
+      <context> German physicist whose explanation of blackbody_radiation in the context of quantized energy <head>emissions</head> initiated quantum_theory ;</context>
+    </instance>
+    <instance id="n11410172_d_1" docsrc="n11410172_d">
+      <context> an <head>emission</head> of photoelectrons ( especially from a metallic surface ) ;</context>
+    </instance>
+    <instance id="n11420831_d_8" docsrc="n11420831_d">
+      <context> an ordered array of the components of an <head>emission</head> or wave ;</context>
+    </instance>
+    <instance id="n11421822_d_15" docsrc="n11421822_d">
+      <context> the energy that an atomic system must acquire before a process ( such as an <head>emission</head> or reaction ) can occur ;</context>
+    </instance>
+    <instance id="n11467786_d_4" docsrc="n11467786_d">
+      <context> the phenomenon of light <head>emission</head> by a body as its temperature is raised ;</context>
+    </instance>
+    <instance id="n13429432_d_10" docsrc="n13429432_d">
+      <context> radioactive_decay of an atomic nucleus that is accompanied by the <head>emission</head> of an alpha_particle ;</context>
+    </instance>
+    <instance id="n13438521_d_10" docsrc="n13438521_d">
+      <context> radioactive_decay of an atomic nucleus that is accompanied by the <head>emission</head> of a beta_particle ;</context>
+    </instance>
+    <instance id="n13480394_d_1" docsrc="n13480394_d">
+      <context> the <head>emission</head> of electrons that are stripped from parent atoms by a high electric_field ;</context>
+    </instance>
+    <instance id="n13545184_d_2" docsrc="n13545184_d">
+      <context> the spontaneous <head>emission</head> of a stream of particles or electromagnetic rays in nuclear decay ;</context>
+    </instance>
+    <instance id="n13553758_d_1" docsrc="n13553758_d">
+      <context> the <head>emission</head> of electrons from a surface that is bombarded by higher_energy primary electrons ;</context>
+    </instance>
+    <instance id="n13566928_d_1" docsrc="n13566928_d">
+      <context> the <head>emission</head> of electrons from very hot substances ;</context>
+    </instance>
+    <instance id="n13569774_d_1" docsrc="n13569774_d">
+      <context> the <head>emission</head> of water_vapor from the leaves of plants ;</context>
+    </instance>
+    <instance id="n14517629_d_11" docsrc="n14517629_d">
+      <context> rain containing acids that form in the atmosphere when industrial gas <head>emissions</head> ( especially sulfur_dioxide and nitrogen_oxides ) combine with water ;</context>
+    </instance>
+    <instance id="n14839439_d_17" docsrc="n14839439_d">
+      <context> a small discrete mass of solid or liquid matter that remains individually dispersed in gas or liquid <head>emissions</head> ( usually considered to be an atmospheric pollutant ) ;</context>
+    </instance>
+    <instance id="n15064053_d_21" docsrc="n15064053_d">
+      <context> a colorless toxic gas that occurs in the gases from volcanoes ; used in many manufacturing processes and present in industrial <head>emissions</head> ; causes acid_rain ;</context>
+    </instance>
+  </lexelt>
+</corpus>

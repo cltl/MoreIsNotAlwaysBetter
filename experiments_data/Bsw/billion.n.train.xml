@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="billion.n" pos="NN">
+    <instance id="Billion_(disambiguation)-billion-0-12-1" docsrc="Billion_(disambiguation)">
+      <context> <head>Long</head> and short scales Names of large numbers Billion laughs , an XML parser vulnerability</context>
+    </instance>
+    <instance id="Billion_(disambiguation)-billion-0-2-1" docsrc="Billion_(disambiguation)">
+      <context> <head>1,000,000,000</head> ( 109 , one thousand million ) , the short scale definition now normal in both British and American English 1,000,000,000,000 ( 1012 , one million million ) , the long scale definition used formerly in Britain and currently in certain other languages Billion may also refer to :</context>
+    </instance>
+    <instance id="Billion_(disambiguation)-billion-0-3-1" docsrc="Billion_(disambiguation)">
+      <context> <head>1,000,000,000,000</head> ( 1012 , one million million ) , the long scale definition used formerly in Britain and currently in certain other languages Billion may also refer to : Billions ( TV series ) , a Showtime series</context>
+    </instance>
+    <instance id="Billion_(disambiguation)-billion-0-4-1" docsrc="Billion_(disambiguation)">
+      <context> <head>Billion</head> may also refer to : Billions ( TV series ) , a Showtime series Billions ( film ) , a 1920 silent comedy</context>
+    </instance>
+    <instance id="Billion_(disambiguation)-billion-0-5-1" docsrc="Billion_(disambiguation)">
+      <context> <head>Billions</head> ( TV series ) , a Showtime series Billions ( film ) , a 1920 silent comedy Billion ( company ) , a Taiwanese modem manufacturer</context>
+    </instance>
+    <instance id="Billion_(disambiguation)-billion-1-14-1" docsrc="Billion_(disambiguation)">
+      <context> Billion <head>laughs</head> , an XML parser vulnerability Golden billion , a Russian term for the wealthy people of the developed world Mr. Billion , a 1977 film by Jonathan Kaplan</context>
+    </instance>
+    <instance id="Billion_(disambiguation)-billion-1-6-1" docsrc="Billion_(disambiguation)">
+      <context> Billions <head>(</head> film ) , a 1920 silent comedy Billion ( company ) , a Taiwanese modem manufacturer Jack Billion ( born 1939 ) , the 2006 Democratic Party candidate for governor of South Dakota</context>
+    </instance>
+    <instance id="Indefinite_and_fictitious_numbers-billion-31-35-1" docsrc="Indefinite_and_fictitious_numbers">
+      <context> In 2003 , it was estimated to be 70 sextillion ( 7 × 1022 ) . In 2010 , it was estimated to be 300 sextillion ( 3 × 1023 ) <head>.</head> Sagan 's number is to be distinguished from the sagan unit or the humorous use of the term " sagan " to denote any large quantity—specifically , any number in the billions , due to Sagan 's association with the phrase " billions and billions " .</context>
+    </instance>
+    <instance id="Indefinite_and_fictitious_numbers-billion-42-35-1" docsrc="Indefinite_and_fictitious_numbers">
+      <context> In 2003 , it was estimated to be 70 sextillion ( 7 × 1022 ) . In 2010 , it was estimated to be 300 sextillion ( 3 × 1023 ) . Sagan 's number is to be distinguished from the sagan <head>unit</head> or the humorous use of the term " sagan " to denote any large quantity—specifically , any number in the billions , due to Sagan 's association with the phrase " billions and billions " .</context>
+    </instance>
+    <instance id="Indefinite_and_fictitious_numbers-billion-44-35-1" docsrc="Indefinite_and_fictitious_numbers">
+      <context> In 2003 , it was estimated to be 70 sextillion ( 7 × 1022 ) . In 2010 , it was estimated to be 300 sextillion ( 3 × 1023 ) . Sagan 's number is to be distinguished from the sagan unit or <head>the</head> humorous use of the term " sagan " to denote any large quantity—specifically , any number in the billions , due to Sagan 's association with the phrase " billions and billions " .</context>
+    </instance>
+    <instance id="br-h21#w416_0" docsrc="br-h21">
+      <context> I again proposed a reduction in the Army National_Guard and Army_Reserve - from their present strengths of 400000 and 300000 , respectively , to 360000 and 270000 by the end of the fiscal_year 1961 . These strengths are considered adequate to meet the essential roles and missions of the reserves in support of our national security objectives . - About 30 % of the expenditures for the Department_of_Defense in 1961 are for military_personnel costs , including pay for active , reserve , and retired military_personnel . These expenditures are estimated to be $ 12.1 <head>billion</head> , an increase of $ 187 million over 1960 , reflecting additional longevity pay of career personnel , more dependents , an increased number of men drawing proficiency pay , and social_security tax increases ( effective for the full year in 1961 compared with only 6 months in 1960 ) . Retired pay costs are increased by $ 94 million in 1961 over 1960 , partly because of a substantial increase in the number of retired personnel . These increased costs are partially offset by a decrease of $ 56 million in expenditures for the reserve forces , largely because of the planned reduction in strength of the Army_Reserve components during 1961 . Traditionally , rates_of_pay for retired military_personnel have been proportionate to current rates_of_pay for active personnel .</context>
+    </instance>
+  </lexelt>
+</corpus>

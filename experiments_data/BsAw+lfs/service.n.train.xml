@@ -1,0 +1,971 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="service.n" pos="NN">
+    <instance id="Military_branch-service-10-7-1" docsrc="Military_branch">
+      <context> In China the Rocket Force and the Strategic Support Force <head>In</head> France the National Gendarmerie In Germany the Joint Medical Service and the Joint Support Service</context>
+    </instance>
+    <instance id="Military_branch-service-14-24-2" docsrc="Military_branch">
+      <context> The military branches came into being in line with military technical progress and have <head>been</head> developed permanently . With that background , the air force was established early in the 20th century as one of the latest armed service . The army is traditionally the oldest – and in many countries the biggest armed service .</context>
+    </instance>
+    <instance id="Military_branch-service-14-25-1" docsrc="Military_branch">
+      <context> With that background , the air force was established early in the 20th century <head>as</head> one of the latest armed service . The army is traditionally the oldest – and in many countries the biggest armed service .</context>
+    </instance>
+    <instance id="Military_branch-service-20-24-1" docsrc="Military_branch">
+      <context> Emblems of some countries The military branches came into being in line with military technical progress and have been developed <head>permanently</head> . With that background , the air force was established early in the 20th century as one of the latest armed service .</context>
+    </instance>
+    <instance id="Military_branch-service-5-7-1" docsrc="Military_branch">
+      <context> In China the Rocket Force <head>and</head> the Strategic Support Force In France the National Gendarmerie In Germany the Joint Medical Service and the Joint Support Service</context>
+    </instance>
+    <instance id="Military_service-service-0-241-3" docsrc="Military_service">
+      <context> <head>Before</head> that , Serbia had compulsory national service for all men aged between 19 and 35 . In practice , men over 27 were seldom called up . Service was usually performed after university studies had been completed .</context>
+    </instance>
+    <instance id="Military_service-service-0-453-1" docsrc="Military_service">
+      <context> <head>Drawing</head> a red card results in conscription in the branch of service at the induction date designated in the card . Those who volunteer for military service are free to choose from the three branches of the armed forces ( Royal Thai Army , Royal Thai Navy and Royal Thai Air Force ) . Service obligation also varies by educational qualification .</context>
+    </instance>
+    <instance id="Military_service-service-1-118-2" docsrc="Military_service">
+      <context> As <head>of</head> 1998 , the legal basis of conscription was stated to be the 1984 Military Service Law , which describes military service as a duty for " all citizens without distinction of race ( ... ) and religious creed " . This law has not been amended since it came into effect . Military service is normally performed in the regular armed forces but the 1984 law does allow for conscription into the reserve forces in times of national emergency .</context>
+    </instance>
+    <instance id="Military_service-service-1-304-1" docsrc="Military_service">
+      <context> Azerbaijan <head>===</head> Azerbaijan has mandatory military service for all fit men , who are at least at the age of 18 . Military service lasts for eighteen months for those without higher education , and for twelve months for those with higher education .</context>
+    </instance>
+    <instance id="Military_service-service-1-339-1" docsrc="Military_service">
+      <context> Finland <head>===</head> Finland has mandatory military service for men of a minimum duration of five and half months ( 165 days ) ; depending on the assigned position : those trained as officers or NCOs serve for eleven and half months ( 347 days ) , specialist troops serve for eight and half ( 255 days ) or eleven and half months , while rank and file serve for the minimum period . Unarmed service is also possible , and lasts eight and half months ( 270 days ) or eleven and half ( 347 days ) .</context>
+    </instance>
+    <instance id="Military_service-service-1-450-2" docsrc="Military_service">
+      <context> === <head>Thailand</head> === Military service selection is done at a designated date and time at a local school or assembly hall .</context>
+    </instance>
+    <instance id="Military_service-service-1-474-1" docsrc="Military_service">
+      <context> Conscription <head>Volunteer</head> military National service</context>
+    </instance>
+    <instance id="Military_service-service-1-488-2" docsrc="Military_service">
+      <context> McAllister <head>,</head> Ian . " Schools , Enlistment , and Military Values : The Australian Services Cadet Scheme . " Armed Forces &amp; Society , Oct 1995 ; vol . 22 : pp . 83–102 . Military Service and Recruitment : Types of Military Recruitment , Conscience and Peace Tax International ( retrieved 15 December 2009 ) .</context>
+    </instance>
+    <instance id="Military_service-service-1-490-1" docsrc="Military_service">
+      <context> 83–102 <head>.</head> Military Service and Recruitment : Types of Military Recruitment , Conscience and Peace Tax International ( retrieved 15 December 2009 ) .</context>
+    </instance>
+    <instance id="Military_service-service-10-163-2" docsrc="Military_service">
+      <context> Italy had mandatory military service , for men only , <head>until</head> 31 December 2004 . The right to conscientious objection was legally recognized in 1972 so that a " non armed military service " , or a community service , could be authorised as an alternative to those who required it . The Italian Parliament approved the suspension of the mandatory military service in August 2004 , with effect starting from 1 January 2005 , and the Italian armed forces will now be entirely composed of professional volunteer troops , both male and female , except in case of war or serious international military crisis , when conscription can be implemented .</context>
+    </instance>
+    <instance id="Military_service-service-10-283-1" docsrc="Military_service">
+      <context> It largely failed during the American Civil War . Conscription <head>was</head> next used after the United States entered World War I in 1917 . The first peacetime conscription came with the Selective Training and Service Act of 1940 .</context>
+    </instance>
+    <instance id="Military_service-service-10-339-3" docsrc="Military_service">
+      <context> Unarmed service is also possible , and lasts eight and <head>half</head> months ( 270 days ) or eleven and half ( 347 days ) . All males are required to participate in the drafting event ( Finnish : kutsunnat ) in their municipality of domicile in the year that they turn 18 . The fitness for service and the actual induction to the service then takes place at the time and place decided individually for each conscript during the drafting event .</context>
+    </instance>
+    <instance id="Military_service-service-10-444-1" docsrc="Military_service">
+      <context> Taiwan ( ROC ) === ROC nationals with Overseas Chinese <head>status</head> are exempt from service . Draftees may also request alternative service , usually in community service areas , although the required service period would be longer than military service .</context>
+    </instance>
+    <instance id="Military_service-service-11-192-2" docsrc="Military_service">
+      <context> === Mauritius === Mauritius does not have a standing army but <head>operates</head> a paramilitary service manned by volunteering Police officers known as the Special Mobile Force .</context>
+    </instance>
+    <instance id="Military_service-service-11-248-2" docsrc="Military_service">
+      <context> === Slovenia === Slovenia 's Government of Prime Minister Anton Rop <head>abolished</head> mandatory military service on 9 September 2003 .</context>
+    </instance>
+    <instance id="Military_service-service-11-311-2" docsrc="Military_service">
+      <context> === Brazil === Males in Brazil are required to serve 12 <head>months</head> of military service upon their 18th birthday .</context>
+    </instance>
+    <instance id="Military_service-service-11-339-7" docsrc="Military_service">
+      <context> The delayed induction is permissible for serious personal reasons , such <head>as</head> studies , but induction can not be delayed beyond 29 . The military strives to accommodate the wishes of the future conscript when determining the time of induction and the duty location , but these are ultimately determined by the needs of service . Since 1995 , women have been able to volunteer for military service .</context>
+    </instance>
+    <instance id="Military_service-service-11-357-1" docsrc="Military_service">
+      <context> Greece === ==== Conscientious objection to military service in Greece ==== <head>The</head> length of alternative civilian service for conscientious objectors to military service is 15 months .</context>
+    </instance>
+    <instance id="Military_service-service-11-38-1" docsrc="Military_service">
+      <context> === Military service limited to 1 year or less === === <head>Military</head> service limited to 18 months === The following 8 countries have been identified to having compulsory military service limited to 18 months or less :</context>
+    </instance>
+    <instance id="Military_service-service-11-452-7" docsrc="Military_service">
+      <context> The box contains 2 types of card : the red cards <head>and</head> the black cards . Drawing a black card results in exemption from military service . Drawing a red card results in conscription in the branch of service at the induction date designated in the card .</context>
+    </instance>
+    <instance id="Military_service-service-11-469-1" docsrc="Military_service">
+      <context> === United Arab Emirates === The United Arab Emirates started its <head>national</head> service requirement in September 2014 . This is the first time the UAE has required mandatory national service .</context>
+    </instance>
+    <instance id="Military_service-service-12-110-2" docsrc="Military_service">
+      <context> === Chile === All Chilean men between 17 and 24 years are <head>eligible</head> for military service .</context>
+    </instance>
+    <instance id="Military_service-service-12-127-2" docsrc="Military_service">
+      <context> On 3 October 2007 , the government proposed to the parliament of <head>the</head> Republic of Croatia a decision to suspend all compulsory military service . This was supported by President Stjepan Mesić , and after a vote in the parliament on 5 October 2007 , the decision became official . As of 1 January 2008 , obligatory military ( or civil ) service is replaced with voluntary military service .</context>
+    </instance>
+    <instance id="Military_service-service-12-252-1" docsrc="Military_service">
+      <context> Slovenia 's Government of Prime Minister Anton Rop abolished mandatory military service <head>on</head> 9 September 2003 . === South Africa === South Africa under the apartheid system had two years of compulsory military service for white men , followed by camps at intervals .</context>
+    </instance>
+    <instance id="Military_service-service-12-325-2" docsrc="Military_service">
+      <context> === Denmark === Even if a person is deemed fit , or <head>partially</head> fit for service , he may avoid having to serve if he draws a high enough number randomly .</context>
+    </instance>
+    <instance id="Military_service-service-12-421-3" docsrc="Military_service">
+      <context> As of 2008 , the Russian Federation has a mandatory 12 months <head>draft</head> . Some examples of how people avoid being drafted are : Getting a medical certificate that shows that a person is unfit for service .</context>
+    </instance>
+    <instance id="Military_service-service-12-452-3" docsrc="Military_service">
+      <context> Each selection station will have a quota for recruitment . The process <head>begins</head> with a call for volunteers . Those who volunteer will have the right to choose the branch of service and the date in which they are to report for induction .</context>
+    </instance>
+    <instance id="Military_service-service-12-469-4" docsrc="Military_service">
+      <context> It is compulsory for all male citizens over 18 and under 30 <head>years</head> of age to report for military service , though it is not known if male residents have to serve . It is optional for females to register for military service . Males who hold a high school diploma must complete 12-months of military service , whilst male high school dropouts must complete two years .</context>
+    </instance>
+    <instance id="Military_service-service-12-65-1" docsrc="Military_service">
+      <context> Eritrea Compulsory military service has declined considerably since 1970 . A 2016 <head>study</head> finds " that the probability of a shorter military service time is positively associated with smaller country populations , smaller lagged army sizes , increases in primary schooling among young males , and having common law legal origins . "</context>
+    </instance>
+    <instance id="Military_service-service-13-0-1" docsrc="Military_service">
+      <context> Military service is service by an individual or group in an army or <head>other</head> militia , whether as a chosen job or as a result of an involuntary draft ( conscription ) . Some nations ( e.g. , Mexico ) require a specific amount of military service from every citizen ( except for special cases , such as physical or mental disorders or religious beliefs , and most countries that have conscription only conscript men ) .</context>
+    </instance>
+    <instance id="Military_service-service-13-0-2" docsrc="Military_service">
+      <context> Military service is service by an individual or group in an army or <head>other</head> militia , whether as a chosen job or as a result of an involuntary draft ( conscription ) . Some nations ( e.g. , Mexico ) require a specific amount of military service from every citizen ( except for special cases , such as physical or mental disorders or religious beliefs , and most countries that have conscription only conscript men ) . A nation with a fully volunteer military does not normally require mandatory military service from its citizens , unless it is faced with a recruitment crisis during a time of war .</context>
+    </instance>
+    <instance id="Military_service-service-13-241-6" docsrc="Military_service">
+      <context> The length of service was 12 months , then reduced to 9 months <head>but</head> was reduced to 6 months in 2006 . There was also an alternative for conscientious objectors which lasted 9 months . Serbian nationals living outside of the country were still expected to complete national service ; however , they could defer it if it would have seriously affected their career in the country where they then resided .</context>
+    </instance>
+    <instance id="Military_service-service-13-295-3" docsrc="Military_service">
+      <context> Since 2006 , the period of service has been six months . Conscientious <head>objectors</head> can join the civilian service ( called Zivildienst ) for nine months . A 12-month participation in the Austrian Holocaust Memorial Service , the Austrian Social Service or the Austrian Peace Service is regarded as an equivalent to the civilian service .</context>
+    </instance>
+    <instance id="Military_service-service-13-371-1" docsrc="Military_service">
+      <context> Homosexuals and transsexuals Prisoners may be excused of their sentence to serve in <head>the</head> military at a time of war or to complete military service in exchange for a reduced sentence dependent on the nature of the crime committed . Men reaching 19 years old who are not granted exemption from the military service are not able to apply for a driving license , passport , or leave the country without special permission .</context>
+    </instance>
+    <instance id="Military_service-service-13-72-2" docsrc="Military_service">
+      <context> === Argentina === Argentina suspended military conscription in 1995 and replaced it with <head>a</head> voluntary military service , yet those already in service had to finish their time in service .</context>
+    </instance>
+    <instance id="Military_service-service-14-312-1" docsrc="Military_service">
+      <context> Brazil === Males in Brazil are required to serve 12 months of military service <head>upon</head> their 18th birthday . While de jure all males are required to serve , numerous exceptions mean military service is de facto limited mostly to volunteers , with an average of between 5 and 10 % of those reporting for duty actually being inducted .</context>
+    </instance>
+    <instance id="Military_service-service-14-366-1" docsrc="Military_service">
+      <context> Sole Son ; Men who are the only male in their family and his <head>father</head> is over 70 years old . Men who are the sole carers of a disabled or mentally problematic parent , sibling , or 2nd line family members . Doctors , firefighters and other emergency workers who their uptake for military duty or service jeopardizes local health and emergency services .</context>
+    </instance>
+    <instance id="Military_service-service-14-414-2" docsrc="Military_service">
+      <context> The remaining months are supposed to be served in annual exercises , but very <head>few</head> conscripts do this because of lack of funding for the Norwegian Armed Forces . As a result of this decreased funding and greater reliance on high technology , the Armed Forces are aiming towards drafting only 10,000 conscripts a year . As of 2011 , an average of 27 % of conscripts actually complete military service each year .</context>
+    </instance>
+    <instance id="Military_service-service-14-469-7" docsrc="Military_service">
+      <context> All males must register for compulsory military service after graduating high school . Males <head>who</head> obtain a high school graduation grade over 90 % are able to postpone their military service until after graduation from a college . Males whose high school graduation grade is under 90 % must register for military service and can not go to college until it has been completed .</context>
+    </instance>
+    <instance id="Military_service-service-15-284-1" docsrc="Military_service">
+      <context> Active conscription ( " the draft " ) ended in 1973 . In 1979 , <head>President</head> Jimmy Carter , a Democrat , brought back draft registration . All males up to the age of 26 are required to register with the Selective Service System , whose mission is " to provide manpower to the armed forces in an emergency " including a " Health Care Personnel Delivery System " and " to run an Alternative Service Program for men classified as conscientious objectors during a draft . "</context>
+    </instance>
+    <instance id="Military_service-service-15-400-6" docsrc="Military_service">
+      <context> In 2002 Yoo Seung Jun , a Korean pop singer , became a naturalized American <head>citizen</head> to avoid his military duty in Korea . For this reason , Korea has banned Yoo from the country and actually deported him . Another recent example is MC Mong , a popular singer/rapper accused of avoiding his military service by having his molar teeth removed .</context>
+    </instance>
+    <instance id="Military_service-service-15-486-3" docsrc="Military_service">
+      <context> 32 : pp . 353–366 . McAllister , Ian . " Schools , Enlistment , <head>and</head> Military Values : The Australian Services Cadet Scheme . " Armed Forces &amp; Society , Oct 1995 ; vol . 22 : pp .</context>
+    </instance>
+    <instance id="Military_service-service-15-73-1" docsrc="Military_service">
+      <context> Argentina === Argentina suspended military conscription in 1995 and replaced it with a voluntary military <head>service</head> , yet those already in service had to finish their time in service . It should be noted that military conscription has not been abolished ; the Mandatory Military Service Law is still in the books and might be enforced in times of war , crisis or national emergency .</context>
+    </instance>
+    <instance id="Military_service-service-16-117-2" docsrc="Military_service">
+      <context> Conscription is enshrined in Article 55 of the Constitution , which states : " It is <head>a</head> sacred duty of every citizen of the People 's Republic of China to defend his or her motherland and resist invasion . It is an honored Obligation of the citizens of the People 's Republic of China to perform military service and to join the militia forces " . As of 1998 , the legal basis of conscription was stated to be the 1984 Military Service Law , which describes military service as a duty for " all citizens without distinction of race ( ... ) and religious creed " .</context>
+    </instance>
+    <instance id="Military_service-service-16-18-2" docsrc="Military_service">
+      <context> === Both compulsory and voluntary military service === The following ten countries and colonies have been <head>identified</head> as having both compulsory and voluntary military service :</context>
+    </instance>
+    <instance id="Military_service-service-16-236-1" docsrc="Military_service">
+      <context> Romania === Romania suspended compulsory military service on 23 October 2006 . This came about due <head>to</head> a 2003 constitutional amendment which allowed the parliament to make military service optional .</context>
+    </instance>
+    <instance id="Military_service-service-16-444-1" docsrc="Military_service">
+      <context> Taiwan ( ROC ) === ROC nationals with Overseas Chinese status are exempt from service . <head>Draftees</head> may also request alternative service , usually in community service areas , although the required service period would be longer than military service .</context>
+    </instance>
+    <instance id="Military_service-service-17-134-2" docsrc="Military_service">
+      <context> === France === France suspended peacetime military conscription in 1996 , while those born before 1979 had <head>to</head> complete their service ; since the Algerian War ( 1954–62 ) , conscripts had not been deployed abroad or in war zones , except those volunteering for such deployments .</context>
+    </instance>
+    <instance id="Military_service-service-17-163-1" docsrc="Military_service">
+      <context> Italy === Italy had mandatory military service , for men only , until 31 December 2004 . <head>The</head> right to conscientious objection was legally recognized in 1972 so that a " non armed military service " , or a community service , could be authorised as an alternative to those who required it .</context>
+    </instance>
+    <instance id="Military_service-service-17-362-5" docsrc="Military_service">
+      <context> There are exceptions for those who can not serve because of physical or mental health problems or <head>disabilities</head> . Students are exempt as long as they are attending school . The higher the education of a man , the higher his rank will be in the military service .</context>
+    </instance>
+    <instance id="Military_service-service-17-384-2" docsrc="Military_service">
+      <context> After a year their period of regular army service , men are liable for up to 30 <head>days</head> ( much less on average ) per year of reserve duty ( " miluim " ) until they are in their early forties . Women in certain positions of responsibility are liable for reserve duty under the same terms as men , but are exempt once they are pregnant or with children . Women can also choose under special conditions ( e.g. religion ) , to do 2–3 years of service and volunteer work instead of military service .</context>
+    </instance>
+    <instance id="Military_service-service-17-453-2" docsrc="Military_service">
+      <context> Those who volunteer for military service are free to choose from the three branches of the armed <head>forces</head> ( Royal Thai Army , Royal Thai Navy and Royal Thai Air Force ) . Service obligation also varies by educational qualification . Those with a high school diploma or the equivalent and those who have one year of Military Service education are required to serve for two years if they draw the red card , but if these same individuals volunteer , the service obligation would be reduced in half , i.e. , reduced to only one year .</context>
+    </instance>
+    <instance id="Military_service-service-17-469-6" docsrc="Military_service">
+      <context> Males who hold a high school diploma must complete 12-months of military service , whilst male high <head>school</head> dropouts must complete two years . All males must register for compulsory military service after graduating high school . Males who obtain a high school graduation grade over 90 % are able to postpone their military service until after graduation from a college .</context>
+    </instance>
+    <instance id="Military_service-service-18-117-1" docsrc="Military_service">
+      <context> Every Chinese citizen , both male and female , who attend further education are required to attend a <head>military</head> training period of around 20 days as a part of a military education . Conscription is enshrined in Article 55 of the Constitution , which states : " It is a sacred duty of every citizen of the People 's Republic of China to defend his or her motherland and resist invasion . It is an honored Obligation of the citizens of the People 's Republic of China to perform military service and to join the militia forces " .</context>
+    </instance>
+    <instance id="Military_service-service-18-127-2" docsrc="Military_service">
+      <context> On 3 October 2007 , the government proposed to the parliament of the Republic of Croatia a decision <head>to</head> suspend all compulsory military service . This was supported by President Stjepan Mesić , and after a vote in the parliament on 5 October 2007 , the decision became official . As of 1 January 2008 , obligatory military ( or civil ) service is replaced with voluntary military service .</context>
+    </instance>
+    <instance id="Military_service-service-18-284-3" docsrc="Military_service">
+      <context> All males up to the age of 26 are required to register with the Selective Service System , <head>whose</head> mission is " to provide manpower to the armed forces in an emergency " including a " Health Care Personnel Delivery System " and " to run an Alternative Service Program for men classified as conscientious objectors during a draft . " No one has been prosecuted for violating the conscription law in the USA since 1986 , but registration is required for certain benefits such as federal college aid , or in certain states , state college aid , or even driver 's license . Women do not register for Selective Service in the United States , but they can enlist for voluntary service .</context>
+    </instance>
+    <instance id="Military_service-service-18-295-3" docsrc="Military_service">
+      <context> Since 2006 , the period of service has been six months . Conscientious objectors can join the civilian <head>service</head> ( called Zivildienst ) for nine months . A 12-month participation in the Austrian Holocaust Memorial Service , the Austrian Social Service or the Austrian Peace Service is regarded as an equivalent to the civilian service .</context>
+    </instance>
+    <instance id="Military_service-service-19-400-3" docsrc="Military_service">
+      <context> Some celebrities are given exemptions to their mandatory military service , even though they clearly have no physical disabilities <head>.</head> The government has begun implementing tougher sanctions to those who attempt to avoid their military duty . It is considered shameful , undutiful , and treasonous for a man to take measures to avoid his military service when he is healthy and capable of fulfilling his 21-month requirement .</context>
+    </instance>
+    <instance id="Military_service-service-19-424-1" docsrc="Military_service">
+      <context> Getting a medical certificate that shows that a person is unfit for service . Having more than two children <head>.</head> According to the Russian federal law , the Armed Forces , the MVD Internal Troops , the Federal Protective Service ( FSO ) , the Foreign Intelligence Service ( SVR ) , Federal Drug Control Service ( FSKN ) and civil defence of the Ministry of Emergency Situations ( EMERCOM ) are considered as military service .</context>
+    </instance>
+    <instance id="Military_service-service-19-469-2" docsrc="Military_service">
+      <context> The United Arab Emirates started its national service requirement in September 2014 . This is the first time the <head>UAE</head> has required mandatory national service . It is compulsory for all male citizens over 18 and under 30 years of age to report for military service , though it is not known if male residents have to serve .</context>
+    </instance>
+    <instance id="Military_service-service-19-72-2" docsrc="Military_service">
+      <context> === Argentina === Argentina suspended military conscription in 1995 and replaced it with a voluntary military service , yet <head>those</head> already in service had to finish their time in service .</context>
+    </instance>
+    <instance id="Military_service-service-2-185-1" docsrc="Military_service">
+      <context> Luxembourg === <head>Luxembourg</head> has a military ground force ( army ) composed of career officers and volunteers . Compulsory military service ( conscription ) existed between 1944 and 1967 .</context>
+    </instance>
+    <instance id="Military_service-service-2-228-1" docsrc="Military_service">
+      <context> Poland === <head>Poland</head> suspended compulsory military service on 5 December 2008 by the order of the Minister of Defence . Compulsory military service was formally abolished when the Polish parliament amended the conscription law on 9 January 2009 ; the law came into effect on 11 February 2009 .</context>
+    </instance>
+    <instance id="Military_service-service-2-25-1" docsrc="Military_service">
+      <context> === Selective <head>conscription</head> === The following 13 countries have been identified as having selective conscription : === Military service limited to 1 year or less ===</context>
+    </instance>
+    <instance id="Military_service-service-2-33-1" docsrc="Military_service">
+      <context> The following <head>13</head> countries have been identified as having selective conscription : === Military service limited to 1 year or less === === Military service limited to 18 months ===</context>
+    </instance>
+    <instance id="Military_service-service-2-40-1" docsrc="Military_service">
+      <context> === Military <head>service</head> limited to 18 months === The following 8 countries have been identified to having compulsory military service limited to 18 months or less : === Military service longer than 18 months ===</context>
+    </instance>
+    <instance id="Military_service-service-2-55-1" docsrc="Military_service">
+      <context> Georgia === <head>Compulsory</head> military service for women ===</context>
+    </instance>
+    <instance id="Military_service-service-2-61-1" docsrc="Military_service">
+      <context> Tunisia Eritrea <head>Compulsory</head> military service has declined considerably since 1970 .</context>
+    </instance>
+    <instance id="Military_service-service-20-328-1" docsrc="Military_service">
+      <context> Denmark === Even if a person is deemed fit , or partially fit for service , he may avoid having <head>to</head> serve if he draws a high enough number randomly . Persons who are deemed partly fit for service will however be placed lower than those who are deemed fit for service , and therefore have a very low chance of being drafted .</context>
+    </instance>
+    <instance id="Military_service-service-20-366-1" docsrc="Military_service">
+      <context> Sole Son ; Men who are the only male in their family and his father is over 70 years old <head>.</head> Men who are the sole carers of a disabled or mentally problematic parent , sibling , or 2nd line family members . Doctors , firefighters and other emergency workers who their uptake for military duty or service jeopardizes local health and emergency services .</context>
+    </instance>
+    <instance id="Military_service-service-20-414-3" docsrc="Military_service">
+      <context> As a result of this decreased funding and greater reliance on high technology , the Armed Forces are aiming towards <head>drafting</head> only 10,000 conscripts a year . As of 2011 , an average of 27 % of conscripts actually complete military service each year . The remainder , for the most part , either are formally dismissed after medical tests or obtain deferral from the service because of studies or stays abroad .</context>
+    </instance>
+    <instance id="Military_service-service-21-370-1" docsrc="Military_service">
+      <context> Workers of businesses that serve the military , e.g. military equipment factories ( exempt at time of war ) . Homosexuals <head>and</head> transsexuals Prisoners may be excused of their sentence to serve in the military at a time of war or to complete military service in exchange for a reduced sentence dependent on the nature of the crime committed .</context>
+    </instance>
+    <instance id="Military_service-service-22-117-2" docsrc="Military_service">
+      <context> Conscription is enshrined in Article 55 of the Constitution , which states : " It is a sacred duty of every citizen <head>of</head> the People 's Republic of China to defend his or her motherland and resist invasion . It is an honored Obligation of the citizens of the People 's Republic of China to perform military service and to join the militia forces " . As of 1998 , the legal basis of conscription was stated to be the 1984 Military Service Law , which describes military service as a duty for " all citizens without distinction of race ( ... ) and religious creed " .</context>
+    </instance>
+    <instance id="Military_service-service-23-126-2" docsrc="Military_service">
+      <context> === Croatia === On 3 October 2007 , the government proposed to the parliament of the Republic of Croatia a decision to suspend <head>all</head> compulsory military service .</context>
+    </instance>
+    <instance id="Military_service-service-23-163-1" docsrc="Military_service">
+      <context> Italy === Italy had mandatory military service , for men only , until 31 December 2004 . The right to conscientious objection was <head>legally</head> recognized in 1972 so that a " non armed military service " , or a community service , could be authorised as an alternative to those who required it .</context>
+    </instance>
+    <instance id="Military_service-service-23-444-1" docsrc="Military_service">
+      <context> Taiwan ( ROC ) === ROC nationals with Overseas Chinese status are exempt from service . Draftees may also request alternative service , <head>usually</head> in community service areas , although the required service period would be longer than military service .</context>
+    </instance>
+    <instance id="Military_service-service-24-384-2" docsrc="Military_service">
+      <context> After a year their period of regular army service , men are liable for up to 30 days ( much less on average ) <head>per</head> year of reserve duty ( " miluim " ) until they are in their early forties . Women in certain positions of responsibility are liable for reserve duty under the same terms as men , but are exempt once they are pregnant or with children . Women can also choose under special conditions ( e.g. religion ) , to do 2–3 years of service and volunteer work instead of military service .</context>
+    </instance>
+    <instance id="Military_service-service-25-258-1" docsrc="Military_service">
+      <context> Spain === Spain abolished compulsory military service in 2001 . Military and alternative service was nine months long and in recent years the majority of <head>conscripts</head> chose to perform alternative , rather than military , service .</context>
+    </instance>
+    <instance id="Military_service-service-25-391-1" docsrc="Military_service">
+      <context> North Korea in 1993 had a mandatory military service , for all men , of 120 months as normal troops and 156 months as special <head>forces</head> . === South Korea === South Korea has mandatory military service of 21 ( army , auxiliary police ) , 23(navy ) and 24 ( air force , special civil service ) months .</context>
+    </instance>
+    <instance id="Military_service-service-25-453-5" docsrc="Military_service">
+      <context> Likewise , those with an associate degree ( or equivalent ) or higher would be required to serve for one year if drafted , but <head>the</head> requirement would be reduced to only six months if they volunteered . University students can defer their service as long as they maintain the student status until reaching the age of 27 or obtaining a master 's degree or the equivalent , whichever comes first . Undergraduate and graduate students who decide to volunteer are allowed by their institution to put their studies on suspension until the end of term of service .</context>
+    </instance>
+    <instance id="Military_service-service-26-444-2" docsrc="Military_service">
+      <context> ROC nationals with Overseas Chinese status are exempt from service . Draftees may also request alternative service , usually in community service areas , although the <head>required</head> service period would be longer than military service . Qualified draftees with graduate degrees in the sciences or engineering who pass officer candidate exams may also apply to fulfil their obligations in a national defense service option which involves three months of military training , followed by an officer commission in the reserves and four years working in technical jobs in the defense industry or government research institutions .</context>
+    </instance>
+    <instance id="Military_service-service-26-72-2" docsrc="Military_service">
+      <context> === Argentina === Argentina suspended military conscription in 1995 and replaced it with a voluntary military service , yet those already in service had to finish <head>their</head> time in service .</context>
+    </instance>
+    <instance id="Military_service-service-27-295-3" docsrc="Military_service">
+      <context> Since 2006 , the period of service has been six months . Conscientious objectors can join the civilian service ( called Zivildienst ) for nine months . <head>A</head> 12-month participation in the Austrian Holocaust Memorial Service , the Austrian Social Service or the Austrian Peace Service is regarded as an equivalent to the civilian service .</context>
+    </instance>
+    <instance id="Military_service-service-27-424-1" docsrc="Military_service">
+      <context> Getting a medical certificate that shows that a person is unfit for service . Having more than two children . According to the Russian federal law , <head>the</head> Armed Forces , the MVD Internal Troops , the Federal Protective Service ( FSO ) , the Foreign Intelligence Service ( SVR ) , Federal Drug Control Service ( FSKN ) and civil defence of the Ministry of Emergency Situations ( EMERCOM ) are considered as military service .</context>
+    </instance>
+    <instance id="Military_service-service-28-400-7" docsrc="Military_service">
+      <context> For this reason , Korea has banned Yoo from the country and actually deported him . Another recent example is MC Mong , a popular singer/rapper accused of <head>avoiding</head> his military service by having his molar teeth removed . On 11 April 2011 , MC Mong was sentenced to a suspended jail term of 6 months , probation for one year , and 120 hours of community service .</context>
+    </instance>
+    <instance id="Military_service-service-3-241-4" docsrc="Military_service">
+      <context> In practice , <head>men</head> over 27 were seldom called up . Service was usually performed after university studies had been completed . The length of service was 12 months , then reduced to 9 months but was reduced to 6 months in 2006 .</context>
+    </instance>
+    <instance id="Military_service-service-3-258-1" docsrc="Military_service">
+      <context> Spain === Spain <head>abolished</head> compulsory military service in 2001 . Military and alternative service was nine months long and in recent years the majority of conscripts chose to perform alternative , rather than military , service .</context>
+    </instance>
+    <instance id="Military_service-service-3-339-3" docsrc="Military_service">
+      <context> Unarmed service is <head>also</head> possible , and lasts eight and half months ( 270 days ) or eleven and half ( 347 days ) . All males are required to participate in the drafting event ( Finnish : kutsunnat ) in their municipality of domicile in the year that they turn 18 . The fitness for service and the actual induction to the service then takes place at the time and place decided individually for each conscript during the drafting event .</context>
+    </instance>
+    <instance id="Military_service-service-3-340-3" docsrc="Military_service">
+      <context> During the first <head>45</head> days , women have an option to quit at will . Having served for 45 days , they fall under the same obligation to serve as men except for medical reasons . A pregnancy during service would interrupt the service but not automatically cause a medical discharge .</context>
+    </instance>
+    <instance id="Military_service-service-3-362-1" docsrc="Military_service">
+      <context> Iran === Iran <head>has</head> a mandatory military service for men which starts at the age of 18 . Duration of military service is normally 24 months but it can be also varying according to some conditions and circumstances .</context>
+    </instance>
+    <instance id="Military_service-service-3-393-3" docsrc="Military_service">
+      <context> There are no <head>alternatives</head> for conscientious objectors except imprisonment . In general , with very few exceptions , most South Korean males serve in the military . The duration of service varies from branch to branch of the military .</context>
+    </instance>
+    <instance id="Military_service-service-31-339-6" docsrc="Military_service">
+      <context> The induction takes place usually at the age of 19 but the allowed age range is 18–29 . The delayed induction is permissible for serious personal reasons , such as studies <head>,</head> but induction can not be delayed beyond 29 . The military strives to accommodate the wishes of the future conscript when determining the time of induction and the duty location , but these are ultimately determined by the needs of service .</context>
+    </instance>
+    <instance id="Military_service-service-34-358-1" docsrc="Military_service">
+      <context> ==== Conscientious objection to military service in Greece ==== The length of alternative civilian service for conscientious objectors to military service is 15 months . Amnesty International was also concerned that the determination of <head>conscientious</head> objector status fell under the jurisdiction of the Ministry of Defense , which breaches international standards that stipulate that the entire institution of alternative service should have a civilian character .</context>
+    </instance>
+    <instance id="Military_service-service-35-424-1" docsrc="Military_service">
+      <context> Getting a medical certificate that shows that a person is unfit for service . Having more than two children . According to the Russian federal law , the Armed Forces , the MVD Internal Troops <head>,</head> the Federal Protective Service ( FSO ) , the Foreign Intelligence Service ( SVR ) , Federal Drug Control Service ( FSKN ) and civil defence of the Ministry of Emergency Situations ( EMERCOM ) are considered as military service .</context>
+    </instance>
+    <instance id="Military_service-service-36-216-1" docsrc="Military_service">
+      <context> Pakistan === Like India , Pakistan has always maintained a purely volunteer military . However , in the immediate aftermath of independence , and he 1948 war ; at a time when the army was just <head>reorganising</head> from a colonial force to a new national army ; militias raised for service from , the Frontier , Punjab and Kashmir were often raised from locals tribe ; each tribe was given a quota and many of the individuals sent did not " volunteer " in the strictest sense ( though many did ) .</context>
+    </instance>
+    <instance id="Military_service-service-4-100-2" docsrc="Military_service">
+      <context> === Bulgaria === Bulgaria <head>abolished</head> compulsory military service .</context>
+    </instance>
+    <instance id="Military_service-service-4-161-2" docsrc="Military_service">
+      <context> === Italy === Italy <head>had</head> mandatory military service , for men only , until 31 December 2004 .</context>
+    </instance>
+    <instance id="Military_service-service-4-167-2" docsrc="Military_service">
+      <context> === Jamaica === In <head>Jamaica</head> the military service is voluntary from 18 years of age up .</context>
+    </instance>
+    <instance id="Military_service-service-4-175-2" docsrc="Military_service">
+      <context> === Latvia === Latvia <head>abolished</head> compulsory military service on 1 January 2007 .</context>
+    </instance>
+    <instance id="Military_service-service-4-201-2" docsrc="Military_service">
+      <context> === Morocco === Morocco <head>eliminated</head> compulsory military service as of 31 August 2006 .</context>
+    </instance>
+    <instance id="Military_service-service-4-227-2" docsrc="Military_service">
+      <context> === Poland === Poland <head>suspended</head> compulsory military service on 5 December 2008 by the order of the Minister of Defence .</context>
+    </instance>
+    <instance id="Military_service-service-4-231-2" docsrc="Military_service">
+      <context> === Portugal === Portugal <head>abolished</head> compulsory military service on 19 November 2004 .</context>
+    </instance>
+    <instance id="Military_service-service-4-235-2" docsrc="Military_service">
+      <context> === Romania === Romania <head>suspended</head> compulsory military service on 23 October 2006 .</context>
+    </instance>
+    <instance id="Military_service-service-4-239-2" docsrc="Military_service">
+      <context> === Serbia === Serbia <head>abolished</head> compulsory military service on 1 January 2011 .</context>
+    </instance>
+    <instance id="Military_service-service-4-244-2" docsrc="Military_service">
+      <context> === Slovakia === Slovakia <head>abolished</head> compulsory military service on 1 January 2006 .</context>
+    </instance>
+    <instance id="Military_service-service-4-256-2" docsrc="Military_service">
+      <context> === Spain === Spain <head>abolished</head> compulsory military service in 2001 .</context>
+    </instance>
+    <instance id="Military_service-service-4-290-2" docsrc="Military_service">
+      <context> === Armenia === Armenia <head>has</head> compulsory military service for two years for males from 18 to 27 years old .</context>
+    </instance>
+    <instance id="Military_service-service-4-294-2" docsrc="Military_service">
+      <context> === Austria === Austria <head>has</head> mandatory military service for all able bodied male citizens up to 35 years of age .</context>
+    </instance>
+    <instance id="Military_service-service-4-303-2" docsrc="Military_service">
+      <context> === Azerbaijan === Azerbaijan <head>has</head> mandatory military service for all fit men , who are at least at the age of 18 .</context>
+    </instance>
+    <instance id="Military_service-service-4-312-2" docsrc="Military_service">
+      <context> Males in Brazil are <head>required</head> to serve 12 months of military service upon their 18th birthday . While de jure all males are required to serve , numerous exceptions mean military service is de facto limited mostly to volunteers , with an average of between 5 and 10 % of those reporting for duty actually being inducted . Most often , the service is performed in military bases as close as possible to the person 's home .</context>
+    </instance>
+    <instance id="Military_service-service-4-337-2" docsrc="Military_service">
+      <context> === Finland === Finland <head>has</head> mandatory military service for men of a minimum duration of five and half months ( 165 days ) ; depending on the assigned position : those trained as officers or NCOs serve for eleven and half months ( 347 days ) , specialist troops serve for eight and half ( 255 days ) or eleven and half months , while rank and file serve for the minimum period .</context>
+    </instance>
+    <instance id="Military_service-service-4-341-1" docsrc="Military_service">
+      <context> A pregnancy during service <head>would</head> interrupt the service but not automatically cause a medical discharge . Belonging in a sexual minority does not result in an exemption . Transsexuals usually get their service postponed until they have undergone sex reassignment surgery .</context>
+    </instance>
+    <instance id="Military_service-service-4-393-4" docsrc="Military_service">
+      <context> In general , with <head>very</head> few exceptions , most South Korean males serve in the military . The duration of service varies from branch to branch of the military . Grade 4 : special service ; given to individuals that fulfil their military duties as a civil worker amongst civilians .</context>
+    </instance>
+    <instance id="Military_service-service-4-412-2" docsrc="Military_service">
+      <context> === Norway === Norway <head>has</head> mandatory military service of nineteen months for men and women between the ages of 19 ( 18 in war time ) and 44 ( 55 in case of officers and NCOs ) .</context>
+    </instance>
+    <instance id="Military_service-service-4-460-1" docsrc="Military_service">
+      <context> Turkey === Although women <head>in</head> principle are not obliged to serve in the military , they are allowed to become military officers . Conscientious objection of military service is illegal in Turkey and punishable with imprisonment by law .</context>
+    </instance>
+    <instance id="Military_service-service-4-68-2" docsrc="Military_service">
+      <context> === Albania === Albania <head>had</head> compulsory military service .</context>
+    </instance>
+    <instance id="Military_service-service-41-453-2" docsrc="Military_service">
+      <context> Those who volunteer for military service are free to choose from the three branches of the armed forces ( Royal Thai Army , Royal Thai Navy and Royal Thai Air Force ) . Service obligation also varies by educational qualification . <head>Those</head> with a high school diploma or the equivalent and those who have one year of Military Service education are required to serve for two years if they draw the red card , but if these same individuals volunteer , the service obligation would be reduced in half , i.e. , reduced to only one year .</context>
+    </instance>
+    <instance id="Military_service-service-43-415-1" docsrc="Military_service">
+      <context> The remainder , for the most part , either are formally dismissed after medical tests or obtain deferral from the service because of studies or stays abroad . Some , such as those who choose vocational course paths during high school ( for <head>example</head> , carpenters and electricians ) opt to complete their required apprenticeships within the military . While some Norwegians consider it unfair that they have to complete the compulsory military duty when so many others are dismissed , others see it as a privilege and there is normally high competition to be allowed to join some branches of the service .</context>
+    </instance>
+    <instance id="Military_service-service-43-76-1" docsrc="Military_service">
+      <context> It should be noted that military conscription has not been abolished ; the Mandatory Military Service Law is still in the books and might be enforced in times of war , crisis or national emergency . Conscription was known in Argentina as la <head>colimba</head> . The word colimba is a composite word made from the initial syllables of the verbs correr ( to run ) , limpiar ( to clean ) and barrer ( to sweep ) , as it was perceived that all a conscript did during service was running , cleaning and sweeping .</context>
+    </instance>
+    <instance id="Military_service-service-48-284-1" docsrc="Military_service">
+      <context> Active conscription ( " the draft " ) ended in 1973 . In 1979 , President Jimmy Carter , a Democrat , brought back draft registration . All males up to the age of 26 are required to register with the Selective Service System , whose mission is <head>"</head> to provide manpower to the armed forces in an emergency " including a " Health Care Personnel Delivery System " and " to run an Alternative Service Program for men classified as conscientious objectors during a draft . "</context>
+    </instance>
+    <instance id="Military_service-service-5-111-1" docsrc="Military_service">
+      <context> Chile === All Chilean men <head>between</head> 17 and 24 years are eligible for military service . At first instance , military service is voluntary and then mandatory if quotas necessary for the armed forces are not completed .</context>
+    </instance>
+    <instance id="Military_service-service-5-18-1" docsrc="Military_service">
+      <context> The following 105 countries have <head>been</head> identified as having no enforced conscription : === Both compulsory and voluntary military service ===</context>
+    </instance>
+    <instance id="Military_service-service-5-352-2" docsrc="Military_service">
+      <context> === Greece === ==== Conscientious <head>objection</head> to military service in Greece ====</context>
+    </instance>
+    <instance id="Military_service-service-5-357-1" docsrc="Military_service">
+      <context> Greece === ==== Conscientious objection <head>to</head> military service in Greece ==== The length of alternative civilian service for conscientious objectors to military service is 15 months .</context>
+    </instance>
+    <instance id="Military_service-service-5-361-2" docsrc="Military_service">
+      <context> === Iran === Iran has <head>a</head> mandatory military service for men which starts at the age of 18 .</context>
+    </instance>
+    <instance id="Military_service-service-5-362-2" docsrc="Military_service">
+      <context> Iran has a mandatory military <head>service</head> for men which starts at the age of 18 . Duration of military service is normally 24 months but it can be also varying according to some conditions and circumstances . There is a 24-month military service for general , 22 months for destitute areas and 20 months for boundary areas ; there is two months for military education .</context>
+    </instance>
+    <instance id="Military_service-service-5-362-8" docsrc="Military_service">
+      <context> Since 2008 and the commence <head>of</head> Iran 's National Elites Foundation ( Bonyade Mellie Nokhbegan ) , students or university graduates who are accepted as members of this organization ( because of their special achievements , e.g. , recognized researchers with proven accomplishments , national and international olympiad medalists and winners of invention competitions ) can have a " scientific research " substitution instead of mandatory military service , and the research grant is given to these members from military universities , otherwise , formally these members are regarded as " soldiers " who are spending the mandatory military service program , and in any publication related to that research , their citations have to be that of the military university giving the research grant . The 45-day mandatory military training is applicable even for those who are members of Iran 's National Elites Foundation . Exemptions from the Iranian military service , but also military duty in case of war include :</context>
+    </instance>
+    <instance id="Military_service-service-5-391-1" docsrc="Military_service">
+      <context> North Korea in 1993 had <head>a</head> mandatory military service , for all men , of 120 months as normal troops and 156 months as special forces . === South Korea === South Korea has mandatory military service of 21 ( army , auxiliary police ) , 23(navy ) and 24 ( air force , special civil service ) months .</context>
+    </instance>
+    <instance id="Military_service-service-5-444-1" docsrc="Military_service">
+      <context> Taiwan ( ROC ) === <head>ROC</head> nationals with Overseas Chinese status are exempt from service . Draftees may also request alternative service , usually in community service areas , although the required service period would be longer than military service .</context>
+    </instance>
+    <instance id="Military_service-service-5-452-8" docsrc="Military_service">
+      <context> Drawing a black card results <head>in</head> exemption from military service . Drawing a red card results in conscription in the branch of service at the induction date designated in the card . Those who volunteer for military service are free to choose from the three branches of the armed forces ( Royal Thai Army , Royal Thai Navy and Royal Thai Air Force ) .</context>
+    </instance>
+    <instance id="Military_service-service-5-453-4" docsrc="Military_service">
+      <context> Those with a high school <head>diploma</head> or the equivalent and those who have one year of Military Service education are required to serve for two years if they draw the red card , but if these same individuals volunteer , the service obligation would be reduced in half , i.e. , reduced to only one year . Likewise , those with an associate degree ( or equivalent ) or higher would be required to serve for one year if drafted , but the requirement would be reduced to only six months if they volunteered . University students can defer their service as long as they maintain the student status until reaching the age of 27 or obtaining a master 's degree or the equivalent , whichever comes first .</context>
+    </instance>
+    <instance id="Military_service-service-55-424-1" docsrc="Military_service">
+      <context> Getting a medical certificate that shows that a person is unfit for service . Having more than two children . According to the Russian federal law , the Armed Forces , the MVD Internal Troops , the Federal Protective Service ( FSO ) , the Foreign Intelligence Service ( SVR ) , Federal Drug Control <head>Service</head> ( FSKN ) and civil defence of the Ministry of Emergency Situations ( EMERCOM ) are considered as military service .</context>
+    </instance>
+    <instance id="Military_service-service-6-130-1" docsrc="Military_service">
+      <context> As of 1 January 2008 , <head>obligatory</head> military ( or civil ) service is replaced with voluntary military service . === Czech Republic === The Czech Republic abolished compulsory military service on 31 December 2004 .</context>
+    </instance>
+    <instance id="Military_service-service-6-188-1" docsrc="Military_service">
+      <context> Compulsory military service ( conscription ) <head>existed</head> between 1944 and 1967 . === Republic of Macedonia === Republic of Macedonia abolished compulsory military service as of October 2006 .</context>
+    </instance>
+    <instance id="Military_service-service-6-284-3" docsrc="Military_service">
+      <context> All males up to the age <head>of</head> 26 are required to register with the Selective Service System , whose mission is " to provide manpower to the armed forces in an emergency " including a " Health Care Personnel Delivery System " and " to run an Alternative Service Program for men classified as conscientious objectors during a draft . " No one has been prosecuted for violating the conscription law in the USA since 1986 , but registration is required for certain benefits such as federal college aid , or in certain states , state college aid , or even driver 's license . Women do not register for Selective Service in the United States , but they can enlist for voluntary service .</context>
+    </instance>
+    <instance id="Military_service-service-6-295-1" docsrc="Military_service">
+      <context> Austria === Austria has mandatory military <head>service</head> for all able bodied male citizens up to 35 years of age . Since 2006 , the period of service has been six months .</context>
+    </instance>
+    <instance id="Military_service-service-6-295-2" docsrc="Military_service">
+      <context> Austria has mandatory military service for <head>all</head> able bodied male citizens up to 35 years of age . Since 2006 , the period of service has been six months . Conscientious objectors can join the civilian service ( called Zivildienst ) for nine months .</context>
+    </instance>
+    <instance id="Military_service-service-6-377-2" docsrc="Military_service">
+      <context> Israel drafts both men and women <head>.</head> All Israeli citizens are conscripted at age 18 , with the following exceptions : Torah students are presently exempted from service should they so choose .</context>
+    </instance>
+    <instance id="Military_service-service-6-378-2" docsrc="Military_service">
+      <context> Torah students are presently exempted from <head>service</head> should they so choose . This is a contentious issue in Israel . See also : Exemption from military service in Israel</context>
+    </instance>
+    <instance id="Military_service-service-6-397-1" docsrc="Military_service">
+      <context> Grade 4 : special service ; <head>given</head> to individuals that fulfil their military duties as a civil worker amongst civilians . Grade 5 : civil defence during peace time . Grade 6 : exemption from military service in both situation .</context>
+    </instance>
+    <instance id="Military_service-service-6-96-2" docsrc="Military_service">
+      <context> === Bosnia and Herzegovina === Bosnia <head>and</head> Herzegovina abolished compulsory military service as of 1 January 2007 .</context>
+    </instance>
+    <instance id="Military_service-service-67-362-6" docsrc="Military_service">
+      <context> Students are exempt as long as they are attending school . The higher the education of a man , the higher his rank will be in the military service . Since 2008 and the commence of Iran 's National Elites Foundation ( Bonyade Mellie Nokhbegan ) , students or university graduates who are accepted as members of this organization ( because of their special achievements , e.g. <head>,</head> recognized researchers with proven accomplishments , national and international olympiad medalists and winners of invention competitions ) can have a " scientific research " substitution instead of mandatory military service , and the research grant is given to these members from military universities , otherwise , formally these members are regarded as " soldiers " who are spending the mandatory military service program , and in any publication related to that research , their citations have to be that of the military university giving the research grant .</context>
+    </instance>
+    <instance id="Military_service-service-7-241-1" docsrc="Military_service">
+      <context> Serbia === Serbia abolished compulsory military service <head>on</head> 1 January 2011 . Before that , Serbia had compulsory national service for all men aged between 19 and 35 .</context>
+    </instance>
+    <instance id="Military_service-service-7-261-1" docsrc="Military_service">
+      <context> Military and alternative service was nine months <head>long</head> and in recent years the majority of conscripts chose to perform alternative , rather than military , service . === Sri Lanka === Sri Lanka has never had mandatory military service , either under British rule or since independence in 1948 .</context>
+    </instance>
+    <instance id="Military_service-service-7-328-1" docsrc="Military_service">
+      <context> Denmark === Even if a person is <head>deemed</head> fit , or partially fit for service , he may avoid having to serve if he draws a high enough number randomly . Persons who are deemed partly fit for service will however be placed lower than those who are deemed fit for service , and therefore have a very low chance of being drafted .</context>
+    </instance>
+    <instance id="Military_service-service-7-340-3" docsrc="Military_service">
+      <context> During the first 45 days , women <head>have</head> an option to quit at will . Having served for 45 days , they fall under the same obligation to serve as men except for medical reasons . A pregnancy during service would interrupt the service but not automatically cause a medical discharge .</context>
+    </instance>
+    <instance id="Military_service-service-7-468-1" docsrc="Military_service">
+      <context> === Ukraine === === United Arab Emirates <head>===</head> The United Arab Emirates started its national service requirement in September 2014 .</context>
+    </instance>
+    <instance id="Military_service-service-7-469-5" docsrc="Military_service">
+      <context> It is optional for females to register <head>for</head> military service . Males who hold a high school diploma must complete 12-months of military service , whilst male high school dropouts must complete two years . All males must register for compulsory military service after graduating high school .</context>
+    </instance>
+    <instance id="Military_service-service-74-407-2" docsrc="Military_service">
+      <context> === Mexico === A " liberated " military ID is a requirement to join the Mexican local , state , and federal police forces , also to apply for some government jobs , Draft dodging was an uncommon occurrence in Mexico until 2002 , since a " liberated " military ID card was needed for a Mexican male to obtain a passport , but since this requirement was dropped by the Mexican government , <head>absenteeism</head> from military service has become more common .</context>
+    </instance>
+    <instance id="Military_service-service-8-295-3" docsrc="Military_service">
+      <context> Since 2006 , the period of service has <head>been</head> six months . Conscientious objectors can join the civilian service ( called Zivildienst ) for nine months . A 12-month participation in the Austrian Holocaust Memorial Service , the Austrian Social Service or the Austrian Peace Service is regarded as an equivalent to the civilian service .</context>
+    </instance>
+    <instance id="Military_service-service-8-328-2" docsrc="Military_service">
+      <context> Even if a person is deemed fit , <head>or</head> partially fit for service , he may avoid having to serve if he draws a high enough number randomly . Persons who are deemed partly fit for service will however be placed lower than those who are deemed fit for service , and therefore have a very low chance of being drafted . Men deemed fit can be called upon for service until their 50th birthday in case of national crisis , regardless of whether normal conscription has been served .</context>
+    </instance>
+    <instance id="Military_service-service-8-383-3" docsrc="Military_service">
+      <context> Some of these conscientious objectors may be assigned <head>to</head> serve elsewhere , or are sentenced to brief prison terms lasting a few months to a year and may subsequently receive dishonourable discharges . See also : Refusal to serve in the Israeli military . After a year their period of regular army service , men are liable for up to 30 days ( much less on average ) per year of reserve duty ( " miluim " ) until they are in their early forties .</context>
+    </instance>
+    <instance id="Military_service-service-8-387-1" docsrc="Military_service">
+      <context> Women can also choose under special conditions ( <head>e.g.</head> religion ) , to do 2–3 years of service and volunteer work instead of military service . === North Korea === North Korea in 1993 had a mandatory military service , for all men , of 120 months as normal troops and 156 months as special forces .</context>
+    </instance>
+    <instance id="Military_service-service-8-413-2" docsrc="Military_service">
+      <context> Norway has mandatory military service of nineteen months <head>for</head> men and women between the ages of 19 ( 18 in war time ) and 44 ( 55 in case of officers and NCOs ) . The actual draft time is six months for the home guard , and twelve months for the regular army , air force and navy . In October 2014 , Norway extended compulsory military service to women .</context>
+    </instance>
+    <instance id="Military_service-service-8-433-1" docsrc="Military_service">
+      <context> All capable conscripts will undergo further vocational trainings <head>to</head> their trained roles and appointments for them to gain experience to move up the NS ranks . In practice , conscripts can not pick and choose their desired or preferred vocations due to manpower constraints and quotas . Since 2004 , Singapore cut its mandatory military service period of 30 months to between 22 to 24 months , depending on medical health and physical fitness .</context>
+    </instance>
+    <instance id="Military_service-service-9-400-1" docsrc="Military_service">
+      <context> Grade 6 : exemption from military service in both <head>situation</head> . There are some controversies portrayed in Korean media concerning special treatment given to celebrities . Some celebrities are given exemptions to their mandatory military service , even though they clearly have no physical disabilities .</context>
+    </instance>
+    <instance id="Military_service-service-9-433-2" docsrc="Military_service">
+      <context> In practice , conscripts can not pick and choose <head>their</head> desired or preferred vocations due to manpower constraints and quotas . Since 2004 , Singapore cut its mandatory military service period of 30 months to between 22 to 24 months , depending on medical health and physical fitness . In 2013 , the country cuts its mandatory military service period further to 20 months .</context>
+    </instance>
+    <instance id="Military_service-service-9-441-2" docsrc="Military_service">
+      <context> === Taiwan ( ROC ) === ROC nationals with <head>Overseas</head> Chinese status are exempt from service .</context>
+    </instance>
+    <instance id="Military_service-service-9-452-6" docsrc="Military_service">
+      <context> If the number of volunteers is less than the <head>quota</head> for the selection station , the remaining men will be asked to draw a card from an opaque box . The box contains 2 types of card : the red cards and the black cards . Drawing a black card results in exemption from military service .</context>
+    </instance>
+    <instance id="Military_service-service-9-469-3" docsrc="Military_service">
+      <context> This is the first time the UAE has required <head>mandatory</head> national service . It is compulsory for all male citizens over 18 and under 30 years of age to report for military service , though it is not known if male residents have to serve . It is optional for females to register for military service .</context>
+    </instance>
+    <instance id="Military_service-service-99-362-6" docsrc="Military_service">
+      <context> Students are exempt as long as they are attending school . The higher the education of a man , the higher his rank will be in the military service . Since 2008 and the commence of Iran 's National Elites Foundation ( Bonyade Mellie Nokhbegan ) , students or university graduates who are accepted as members of this organization ( because of their special achievements , e.g. , recognized researchers with proven accomplishments , national and international olympiad medalists and winners of invention competitions ) can have a " scientific research " substitution instead of mandatory military service , <head>and</head> the research grant is given to these members from military universities , otherwise , formally these members are regarded as " soldiers " who are spending the mandatory military service program , and in any publication related to that research , their citations have to be that of the military university giving the research grant .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-0-31-1" docsrc="Robert_W._Service">
+      <context> <head>An</head> " enterprising salesman sold 1700 copies in advance orders from galley proofs . " The publisher " sent Robert 's cheque back to him and offered a ten percent royalty contract for the book . " " When copies of the book reached Whitehorse , Robert 's own minister took him aside to let him know how wicked were his stories . Service hung his head in shame ....</context>
+    </instance>
+    <instance id="Robert_W._Service-service-0-39-1" docsrc="Robert_W._Service">
+      <context> <head>In</head> 1912 she " married Leroy Grant , a surveyor and railroad engineer based in Prince Rupert . " === Later life === Service left Dawson City for good in 1912 .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-0-40-2" docsrc="Robert_W._Service">
+      <context> <head>Service</head> left Dawson City for good in 1912 . From 1912 to 1913 he was a correspondent for the Toronto Star during the Balkan Wars . Service was 41 when World War I broke out ; he attempted to enlist , but was turned down " due to varicose veins . "</context>
+    </instance>
+    <instance id="Robert_W._Service-service-0-48-5" docsrc="Robert_W._Service">
+      <context> <head>After</head> the war , Service and his wife returned to his home in Brittany , to find it destroyed . They rebuilt , and he lived there until his death in 1958 , though he wintered in Monte Carlo on the French Riviera . Service 's wife and daughter , Iris , travelled to the Yukon in 1946 " and visited Whitehorse and Dawson City , which by then was becoming a ghost town .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-0-48-6" docsrc="Robert_W._Service">
+      <context> <head>They</head> rebuilt , and he lived there until his death in 1958 , though he wintered in Monte Carlo on the French Riviera . Service 's wife and daughter , Iris , travelled to the Yukon in 1946 " and visited Whitehorse and Dawson City , which by then was becoming a ghost town . Service could not bring himself to go back .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-0-48-8" docsrc="Robert_W._Service">
+      <context> <head>Service</head> could not bring himself to go back . He preferred to remember the town as it had been . " Service wrote prolifically during his last years , publishing six books of verse from 1949 to 1955 .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-0-49-4" docsrc="Robert_W._Service">
+      <context> <head>It</head> was at Service 's flat in Monte Carlo that Canadian broadcaster Pierre Berton recorded , over a period of three days , many hours of autobiographical television interview , for the Canadian Broadcasting Corporation , in the spring of 1958 , not long before Service died . At this occasion , Robert Service recited The Shooting of Dan McGrew and The Cremation of Sam McGee Service lived in Monaco from 1947 to 1958 .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-0-56-2" docsrc="Robert_W._Service">
+      <context> <head>In</head> his E. J. Pratt lecture " Silence In the Sea , " critic Northrop Frye argued that Service 's verse was not " serious poetry , " but something else he called " popular poetry " : " the idioms of popular and serious poetry remain inexorably distinct . " Popular poems , he thought , " preserve a surface of explicit statement " – either being " proverbial , like Kipling 's ' If ' or Longfellow 's ' Song of Life ' or Burns 's ' For A ' That ' , " or dealing in " conventionally poetic themes , like the pastoral themes of James Whitcomb Riley , or the adventurous themes of Robert Service . " Service himself did not call his work poetry . " Verse , not poetry , is what I was after ... something the man in the street would take notice of and the sweet old lady would paste in her album ; something the schoolboy would spout and the fellow in the pub would quote .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-0-6-1" docsrc="Robert_W._Service">
+      <context> <head>===</head> Early life === Service was born in Preston , Lancashire , England , the first of ten children .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-0-64-3" docsrc="Robert_W._Service">
+      <context> <head>There</head> was a time , fifty years ago , " he added , " when Robert W.Service represented , with some accuracy , the general level of poetic experience in Canada , as far as the popular reader was concerned .... there has been a prodigious , and , I should think , a permanent , change in public taste . " Service has also been noted for his use of ethnonyms that would normally be considered offensive " slurs " , but with no insult apparently intended .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-1-13-2" docsrc="Robert_W._Service">
+      <context> In <head>1899</head> , Service was a store clerk in Cowichan Bay , British Columbia . He mentioned to a customer ( Charles H. Gibbons , editor of the Victoria Daily Colonist ) that he wrote verses , with the result that six poems by " R.S. " on the Boer Wars had appeared in the Colonist by July 1900 – including " The March of the Dead " that would later appear in his first book . ( Service 's brother , Alick , was a prisoner of the Boers at the time .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-1-169-1" docsrc="Robert_W._Service">
+      <context> James <head>Mackay</head> Robert Service a biography , Vagabond of verse , Mainstream Publishing , 1995 . Robert William Service , Yukon Bard &amp; Poet various articles about Robert W. Service life and work written by his great granddaughter . Robert Service 's war poetry</context>
+    </instance>
+    <instance id="Robert_W._Service-service-1-172-1" docsrc="Robert_W._Service">
+      <context> Robert <head>Service</head> 's war poetry Mossback Minstrelsy : The British Columbia Verse of Robert W. Service Robert Service at Electric Scotland</context>
+    </instance>
+    <instance id="Robert_W._Service-service-1-50-4" docsrc="Robert_W._Service">
+      <context> Ploughman <head>of</head> the Moon and Harper of Heaven . He died in Lancieux and is buried in the local cemetery . Certainly Service 's verse was derivative of Kipling 's .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-1-63-2" docsrc="Robert_W._Service">
+      <context> MacMechan <head>did</head> give grudging respect to Service 's World War I poetry , conceding that his style went well with that subject , and that " his Rhymes of a Red Cross Man are an advance on his previous volumes . He has come into touch with the grimmest of realities ; and while his radical faults have not been cured , his rude lines drive home the truth that he has seen . " Reviewing Service 's Rhymes of a Rebel in 1952 , Frye remarked that the book " interests me chiefly because ... I have noticed so much verse in exactly the same idiom , and I wonder how far Mr. Service 's books may have influenced it .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-1-80-1" docsrc="Robert_W._Service">
+      <context> The <head>Canadian</head> whiskey Yukon Jack ( liqueur ) incorporated various excerpts of his writings in their ads in the 1970s , one of which was the first four lines of his poem " The Men Who Do n't Fit In " . === Dawson City cabin === After Service left for Europe , the Imperial Order of the Daughters of the Empire ( I.O.D.E. ) took care of the cabin until 1971 , preserving it .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-10-171-1" docsrc="Robert_W._Service">
+      <context> Robert William Service , Yukon Bard &amp; Poet various articles <head>about</head> Robert W. Service life and work written by his great granddaughter . Robert Service 's war poetry Mossback Minstrelsy : The British Columbia Verse of Robert W. Service</context>
+    </instance>
+    <instance id="Robert_W._Service-service-12-65-2" docsrc="Robert_W._Service">
+      <context> Service has also been noted for his use of ethnonyms that would <head>normally</head> be considered offensive " slurs " , but with no insult apparently intended . Words used in Service 's poetry include jerries ( Germans ) , dago ( Italian ) , pickaninny ( in reference to a Mozambican infant ) , cheechako ( newcomer to the Yukon and Alaska gold fields , usually from the U.S. ) , nigger ( black person ) , squaw ( Aboriginal woman ) , and Jap ( Japanese ) . Robert W. Service has been honoured with schools named for him including Service High School in Anchorage , Alaska , Robert Service Senior Public School ( Middle/ Jr. High ) in Toronto , Ontario and Robert Service School in Dawson City .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-13-164-1" docsrc="Robert_W._Service">
+      <context> On the Trail of Robert Service , Luath Press Ltd , 1991 . <head>James</head> Mackay Robert Service a biography , Vagabond of verse , Mainstream Publishing , 1995 . Robert William Service , Yukon Bard &amp; Poet various articles about Robert W. Service life and work written by his great granddaughter .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-15-42-3" docsrc="Robert_W._Service">
+      <context> He briefly covered the war for the Toronto Star ( from December 11 , 1915 <head>,</head> through January 29 , 1916 ) , but " was arrested and nearly executed in an outbreak of spy hysteria in Dunkirk . " He then " worked as a stretcher bearer and ambulance driver with the Ambulance Corps of the American Red Cross , until his health broke . " Convalescing in Paris , he wrote a new book of mainly war poetry , Rhymes of a Red Cross Man , in 1916 . The book was dedicated to the memory of Service 's " brother , Lieutenant Albert Service , Canadian Infantry , Killed in Action , France , August 1916 . " Robert W. Service has been honoured by three medals for his war engagement : 1914–15 Star , British War Medal and the Victory Medal .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-16-14-1" docsrc="Robert_W._Service">
+      <context> He had been captured on November 15 , 1899 , alongside Winston Churchill . ) The <head>Colonist</head> also published Service 's " Music in the Bush " on September 18 , 1901 , and " The Little Old Log Cabin " on March 16 , 1902 . In her 2006 biography , Under the Spell of the Yukon , Enid Mallory revealed that Service had fallen in love during this period .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-17-60-3" docsrc="Robert_W._Service">
+      <context> As I started in : There are strange things done in the midnight sun , verse after <head>verse</head> developed with scarce a check ... and when I rolled happily into bed , my ballad was cinched . Next day , with scarcely any effort of memory I put it on paper . " In 1926 , Archibald MacMechan , Professor of English at Canada 's Dalhousie University , pronounced on Service 's Yukon books in his Headwaters of Canadian Literature :</context>
+    </instance>
+    <instance id="Robert_W._Service-service-18-121-1" docsrc="Robert_W._Service">
+      <context> The Song of the Campfire , illustrated by Richard Galaburr ( New York : Dodd Mead , 1912 <head>,</head> 39 , 78 ) The Shooting of Dan McGrew and Other Favorite Poems , jacket drawing by Eric Watts ( Dodd Mead , 1980 ) Servicewise and Otherwise : a selection of extracts in prose and verse from the works of Robert W. Service , which may serve as an introduction to the virile writings of that celebrated author ; collected and arranged by Arthur H. Stewart</context>
+    </instance>
+    <instance id="Robert_W._Service-service-18-35-4" docsrc="Robert_W._Service">
+      <context> During that time he became a freemason , being initiated into Yukon Lodge No . 45 in Dawson <head>.</head> It is unclear what happened between Service and Constance MacLean as no known letters between them exist after Service 's departure for Dawson City .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-18-55-2" docsrc="Robert_W._Service">
+      <context> Certainly Service 's verse was derivative of Kipling 's . In " The Cremation of Sam McGee " <head>,</head> for instance , he uses the form of Kipling 's " The Ballad of East and West " . In his E. J. Pratt lecture " Silence In the Sea , " critic Northrop Frye argued that Service 's verse was not " serious poetry , " but something else he called " popular poetry " : " the idioms of popular and serious poetry remain inexorably distinct .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-2-164-1" docsrc="Robert_W._Service">
+      <context> On the <head>Trail</head> of Robert Service , Luath Press Ltd , 1991 . James Mackay Robert Service a biography , Vagabond of verse , Mainstream Publishing , 1995 . Robert William Service , Yukon Bard &amp; Poet various articles about Robert W. Service life and work written by his great granddaughter .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-2-176-1" docsrc="Robert_W._Service">
+      <context> Works by <head>or</head> about Robert W. Service at Internet Archive Works by Robert W. Service at LibriVox ( public domain audiobooks ) Robert W. Service at Find a Grave</context>
+    </instance>
+    <instance id="Robert_W._Service-service-2-65-2" docsrc="Robert_W._Service">
+      <context> Service has <head>also</head> been noted for his use of ethnonyms that would normally be considered offensive " slurs " , but with no insult apparently intended . Words used in Service 's poetry include jerries ( Germans ) , dago ( Italian ) , pickaninny ( in reference to a Mozambican infant ) , cheechako ( newcomer to the Yukon and Alaska gold fields , usually from the U.S. ) , nigger ( black person ) , squaw ( Aboriginal woman ) , and Jap ( Japanese ) . Robert W. Service has been honoured with schools named for him including Service High School in Anchorage , Alaska , Robert Service Senior Public School ( Middle/ Jr. High ) in Toronto , Ontario and Robert Service School in Dawson City .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-2-71-1" docsrc="Robert_W._Service">
+      <context> Robert W. <head>Service</head> has been honoured with schools named for him including Service High School in Anchorage , Alaska , Robert Service Senior Public School ( Middle/ Jr. High ) in Toronto , Ontario and Robert Service School in Dawson City . He was also honoured on a Canadian postage stamp in 1976 . The Robert Service Way , a main road in Whitehorse , is named after him .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-2-85-2" docsrc="Robert_W._Service">
+      <context> After Service <head>left</head> for Europe , the Imperial Order of the Daughters of the Empire ( I.O.D.E. ) took care of the cabin until 1971 , preserving it . In 1971 it was taken over by Parks Canada , which maintains it , including its sod roof , as a tourist attraction . At the Service Cabin , local Dawson entertainers dressed in period costumes and employed by Parks Canada offer biographical information and recite Service 's poetry for visitors sitting on benches on the front lawn .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-21-65-2" docsrc="Robert_W._Service">
+      <context> Service has also been noted for his use of ethnonyms that would normally be considered offensive " slurs " , but <head>with</head> no insult apparently intended . Words used in Service 's poetry include jerries ( Germans ) , dago ( Italian ) , pickaninny ( in reference to a Mozambican infant ) , cheechako ( newcomer to the Yukon and Alaska gold fields , usually from the U.S. ) , nigger ( black person ) , squaw ( Aboriginal woman ) , and Jap ( Japanese ) . Robert W. Service has been honoured with schools named for him including Service High School in Anchorage , Alaska , Robert Service Senior Public School ( Middle/ Jr. High ) in Toronto , Ontario and Robert Service School in Dawson City .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-22-85-2" docsrc="Robert_W._Service">
+      <context> After Service left for Europe , the Imperial Order of the Daughters of the Empire ( I.O.D.E. ) took care of the <head>cabin</head> until 1971 , preserving it . In 1971 it was taken over by Parks Canada , which maintains it , including its sod roof , as a tourist attraction . At the Service Cabin , local Dawson entertainers dressed in period costumes and employed by Parks Canada offer biographical information and recite Service 's poetry for visitors sitting on benches on the front lawn .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-29-71-2" docsrc="Robert_W._Service">
+      <context> He was also honoured on a Canadian postage stamp in 1976 . The Robert Service Way , a main road in Whitehorse , is named after him . Additionally <head>,</head> the Bard &amp; Banker public house in Victoria is dedicated to him , the building having at one time been a Canadian Bank of Commerce branch where Service was employed while residing in the city .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-3-12-3" docsrc="Robert_W._Service">
+      <context> He drifted around <head>western</head> North America , " wandering from California to British Columbia , " taking and quitting a series of jobs : " Starving in Mexico , residing in a California bordello , farming on Vancouver Island and pursuing unrequited love in Vancouver . " This sometimes required him to leech off his parents ' Scottish neighbors and friends who had previously emigrated to Canada . In 1899 , Service was a store clerk in Cowichan Bay , British Columbia .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-3-163-2" docsrc="Robert_W._Service">
+      <context> G.W. Lockart On <head>the</head> Trail of Robert Service , Luath Press Ltd , 1991 . James Mackay Robert Service a biography , Vagabond of verse , Mainstream Publishing , 1995 .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-3-22-2" docsrc="Robert_W._Service">
+      <context> Whitehorse was a <head>frontier</head> town , less than ten years old . Located on the Yukon River at the White Horse Rapids , it had begun in 1897 as a campground for prospectors on their way to Dawson City to join the Klondike Gold Rush . The railroad that Service rode in on , the White Pass and Yukon Route , had reached Whitehorse only in 1900 .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-3-23-3" docsrc="Robert_W._Service">
+      <context> He also " <head>took</head> part in the extremely active Whitehorse social life . As was popular at the time he recited at concerts – things like ' Casey at the Bat ' and ' Gunga Din ' , but they were getting stale . " One day ( Service later wrote ) , while pondering what to recite at an upcoming church concert he met E.J. " Stroller " White , editor of the Whitehorse Star .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-3-33-2" docsrc="Robert_W._Service">
+      <context> Following his leave <head>,</head> in 1908 the bank transferred Service to Dawson , where he met veterans of the Gold Rush , now ten years in the past : " they loved to reminisce , and Robert listened carefully and remembered . " He used their tales to write a second book of verse , Ballads of a Cheechako , in 1908 . " It too was an overwhelming success . " Newly wealthy , Service was able to travel to Paris , the French Riviera , Hollywood , and beyond .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-3-44-4" docsrc="Robert_W._Service">
+      <context> A Tale of <head>Tahiti</head> ( New York , 1923 ) were both later made into silent movies . During the winter season , Service used to live in Nice with his family where he met British writers including H.G. Wells , A.K. Bruce , Somerset Maugham , Rex Ingram , Franck Scully , James Joyce , Franck Harris , and Frieda Laurence who all spent their winter in the French Riviera and he wrote to have been lucky to have lunch with Colette . In 1930 , Service returned to Kilwinning , to erect a memorial to his family in the town cemetery .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-3-49-2" docsrc="Robert_W._Service">
+      <context> Service wrote prolifically <head>during</head> his last years , publishing six books of verse from 1949 to 1955 . One that he wrote the following year was published posthumously . It was at Service 's flat in Monte Carlo that Canadian broadcaster Pierre Berton recorded , over a period of three days , many hours of autobiographical television interview , for the Canadian Broadcasting Corporation , in the spring of 1958 , not long before Service died .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-3-65-1" docsrc="Robert_W._Service">
+      <context> there has been <head>a</head> prodigious , and , I should think , a permanent , change in public taste . " Service has also been noted for his use of ethnonyms that would normally be considered offensive " slurs " , but with no insult apparently intended . Words used in Service 's poetry include jerries ( Germans ) , dago ( Italian ) , pickaninny ( in reference to a Mozambican infant ) , cheechako ( newcomer to the Yukon and Alaska gold fields , usually from the U.S. ) , nigger ( black person ) , squaw ( Aboriginal woman ) , and Jap ( Japanese ) .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-32-42-3" docsrc="Robert_W._Service">
+      <context> He briefly covered the war for the Toronto Star ( from December 11 , 1915 , through January 29 , 1916 ) , but " was arrested and nearly executed in an <head>outbreak</head> of spy hysteria in Dunkirk . " He then " worked as a stretcher bearer and ambulance driver with the Ambulance Corps of the American Red Cross , until his health broke . " Convalescing in Paris , he wrote a new book of mainly war poetry , Rhymes of a Red Cross Man , in 1916 . The book was dedicated to the memory of Service 's " brother , Lieutenant Albert Service , Canadian Infantry , Killed in Action , France , August 1916 . " Robert W. Service has been honoured by three medals for his war engagement : 1914–15 Star , British War Medal and the Victory Medal .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-36-65-2" docsrc="Robert_W._Service">
+      <context> Service has also been noted for his use of ethnonyms that would normally be considered offensive " slurs " , but with no insult apparently intended . Words used in Service 's poetry include jerries ( <head>Germans</head> ) , dago ( Italian ) , pickaninny ( in reference to a Mozambican infant ) , cheechako ( newcomer to the Yukon and Alaska gold fields , usually from the U.S. ) , nigger ( black person ) , squaw ( Aboriginal woman ) , and Jap ( Japanese ) . Robert W. Service has been honoured with schools named for him including Service High School in Anchorage , Alaska , Robert Service Senior Public School ( Middle/ Jr. High ) in Toronto , Ontario and Robert Service School in Dawson City .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-39-63-2" docsrc="Robert_W._Service">
+      <context> MacMechan did give grudging respect to Service 's World War I poetry , conceding that his style went well with that subject , and that " his Rhymes of a Red Cross Man are an advance on his previous <head>volumes</head> . He has come into touch with the grimmest of realities ; and while his radical faults have not been cured , his rude lines drive home the truth that he has seen . " Reviewing Service 's Rhymes of a Rebel in 1952 , Frye remarked that the book " interests me chiefly because ... I have noticed so much verse in exactly the same idiom , and I wonder how far Mr. Service 's books may have influenced it .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-13-4" docsrc="Robert_W._Service">
+      <context> ( Service 's brother <head>,</head> Alick , was a prisoner of the Boers at the time . He had been captured on November 15 , 1899 , alongside Winston Churchill . ) The Colonist also published Service 's " Music in the Bush " on September 18 , 1901 , and " The Little Old Log Cabin " on March 16 , 1902 .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-16-6" docsrc="Robert_W._Service">
+      <context> In the fall of <head>1904</head> , the bank sent him to their Whitehorse branch in Yukon . With the expense money he bought himself a raccoon coat . " Throughout this period , Service continued writing and saving his verses : " more than a third of the poems in his first volume had been written before he moved north in 1904 . "</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-173-1" docsrc="Robert_W._Service">
+      <context> Mossback Minstrelsy : The <head>British</head> Columbia Verse of Robert W. Service Robert Service at Electric Scotland Works by Robert W. Service at Project Gutenberg</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-175-1" docsrc="Robert_W._Service">
+      <context> Works by Robert W. <head>Service</head> at Project Gutenberg Works by or about Robert W. Service at Internet Archive Works by Robert W. Service at LibriVox ( public domain audiobooks )</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-177-1" docsrc="Robert_W._Service">
+      <context> Works by Robert W. <head>Service</head> at LibriVox ( public domain audiobooks ) Robert W. Service at Find a Grave Works by Robert W. Service at Open Library</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-178-1" docsrc="Robert_W._Service">
+      <context> Robert W. Service at <head>Find</head> a Grave Works by Robert W. Service at Open Library</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-22-3" docsrc="Robert_W._Service">
+      <context> Located on the Yukon <head>River</head> at the White Horse Rapids , it had begun in 1897 as a campground for prospectors on their way to Dawson City to join the Klondike Gold Rush . The railroad that Service rode in on , the White Pass and Yukon Route , had reached Whitehorse only in 1900 . Settling in , " Service dreamed and listened to the stories of the great gold rush . "</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-27-1" docsrc="Robert_W._Service">
+      <context> He spent the night <head>walking</head> in the woods composing " The Cremation of Sam McGee " , and wrote it down from memory the next day . Other verses quickly followed . " In the early spring he stood above the heights of Miles Canyon ... the line ' I have gazed on naked grandeur where there ’s nothing else to gaze on ' came into his mind and again he hammered out a complete poem , " The Call of the Wild " . Conversations with locals led Service to write about things he had not seen ( some of which had not actually happened ) as well .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-43-6" docsrc="Robert_W._Service">
+      <context> Those experiences would be <head>used</head> in his next book of poetry , Ballads of a Bohemian ( 1921 ) : " The poems are given in the persona of an American poet in Paris who serves as an ambulance driver and an infantryman in the war . The verses are separated by diary entries over a period of four years . " In the 1920s , Service began writing thriller novels .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-48-3" docsrc="Robert_W._Service">
+      <context> He was also asked <head>to</head> play himself in the movie The Spoilers ( 1942 ) , working alongside Marlene Dietrich , John Wayne and Randolph Scott . " He was thrilled to play a scene with Marlene Dietrich . " After the war , Service and his wife returned to his home in Brittany , to find it destroyed .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-4-8-2" docsrc="Robert_W._Service">
+      <context> When he was five <head>,</head> Service was sent to live in Kilwinning with his three maiden aunts and his paternal grandfather , the town 's postmaster . There he is said to have composed his first verse , a grace , on his sixth birthday : After leaving school , Service joined the Commercial Bank of Scotland which would later become the Royal Bank of Scotland .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-45-49-2" docsrc="Robert_W._Service">
+      <context> Service wrote prolifically during his last years , publishing six books of verse from 1949 to 1955 . One that he wrote the following year was published posthumously . It was at Service 's flat in Monte Carlo that Canadian broadcaster Pierre Berton recorded , <head>over</head> a period of three days , many hours of autobiographical television interview , for the Canadian Broadcasting Corporation , in the spring of 1958 , not long before Service died .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-5-11-3" docsrc="Robert_W._Service">
+      <context> He was writing at this <head>time</head> and reportedly already " selling his verses " . He was also reading poetry : Browning , Keats , Tennyson , and Thackeray . When he was 21 , Service travelled to Vancouver Island , British Columbia , with his Buffalo Bill outfit and dreams of becoming a cowboy .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-5-152-1" docsrc="Robert_W._Service">
+      <context> Unforgotten ( words by Robert <head>W.</head> Service &amp; Music by Fredrick Sixten , 2012 ) published by Gehrmans Musikförlag , Stockholm , Sweden List of ambulance drivers during World War I Peter J. Mitham Robert W. Service , a biography , Oak Knoll Press .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-5-163-1" docsrc="Robert_W._Service">
+      <context> Peter J. Mitham Robert W. <head>Service</head> , a biography , Oak Knoll Press . G.W. Lockart On the Trail of Robert Service , Luath Press Ltd , 1991 .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-5-44-3" docsrc="Robert_W._Service">
+      <context> The Poisoned Paradise , A <head>Romance</head> of Monte Carlo ( New York , 1922 ) and The Roughneck . A Tale of Tahiti ( New York , 1923 ) were both later made into silent movies . During the winter season , Service used to live in Nice with his family where he met British writers including H.G. Wells , A.K. Bruce , Somerset Maugham , Rex Ingram , Franck Scully , James Joyce , Franck Harris , and Frieda Laurence who all spent their winter in the French Riviera and he wrote to have been lucky to have lunch with Colette .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-5-46-3" docsrc="Robert_W._Service">
+      <context> He also visited the USSR <head>in</head> the 1930s and later wrote a satirical " Ballad of Lenin 's Tomb " . For this reason his poetry was never translated into Russian in the USSR and he was never mentioned in Soviet encyclopedias . During World War II , Service lived in California , " and Hollywood had him join with other celebrities in helping the morale of troops – visiting US Army camps to recite his poems .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-5-49-3" docsrc="Robert_W._Service">
+      <context> One that he wrote the <head>following</head> year was published posthumously . It was at Service 's flat in Monte Carlo that Canadian broadcaster Pierre Berton recorded , over a period of three days , many hours of autobiographical television interview , for the Canadian Broadcasting Corporation , in the spring of 1958 , not long before Service died . At this occasion , Robert Service recited The Shooting of Dan McGrew and The Cremation of Sam McGee</context>
+    </instance>
+    <instance id="Robert_W._Service-service-5-7-1" docsrc="Robert_W._Service">
+      <context> === Early life === Service <head>was</head> born in Preston , Lancashire , England , the first of ten children . His father , also Robert Service , was a banker from Kilwinning , Scotland , who had been transferred to England .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-5-7-2" docsrc="Robert_W._Service">
+      <context> Service was born in Preston <head>,</head> Lancashire , England , the first of ten children . His father , also Robert Service , was a banker from Kilwinning , Scotland , who had been transferred to England . When he was five , Service was sent to live in Kilwinning with his three maiden aunts and his paternal grandfather , the town 's postmaster .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-6-113-1" docsrc="Robert_W._Service">
+      <context> Rhymes for My Rags ( New <head>York</head> : Dodd , Mead , 1956 ) . ==== Collections ==== The Collected Verse of Robert W. Service ( London : E. Benn , 1930 , 43 , 48 , 51 , 53 , 60 , 73 )</context>
+    </instance>
+    <instance id="Robert_W._Service-service-6-114-1" docsrc="Robert_W._Service">
+      <context> ==== Collections ==== The Collected Verse <head>of</head> Robert W. Service ( London : E. Benn , 1930 , 43 , 48 , 51 , 53 , 60 , 73 ) The Complete Poems of Robert W. Service ( New York : Dodd Mead , 1933 )</context>
+    </instance>
+    <instance id="Robert_W._Service-service-6-115-1" docsrc="Robert_W._Service">
+      <context> The Collected Verse of Robert W. <head>Service</head> ( London : E. Benn , 1930 , 43 , 48 , 51 , 53 , 60 , 73 ) The Complete Poems of Robert W. Service ( New York : Dodd Mead , 1933 ) Rhyme and Romance : a Robert Service anthology ( London : E. Benn , 1949 )</context>
+    </instance>
+    <instance id="Robert_W._Service-service-6-146-1" docsrc="Robert_W._Service">
+      <context> My old School Tie ( words <head>and</head> music , 1939 ) Facility words ( words by Robert W. Service &amp; Music by Leslie T. Cochran , G. Ricordi &amp; C° Ltd London ) Unforgotten ( words by Robert W. Service &amp; Music by Fredrick Sixten , 2012 ) published by Gehrmans Musikförlag , Stockholm , Sweden</context>
+    </instance>
+    <instance id="Robert_W._Service-service-6-174-1" docsrc="Robert_W._Service">
+      <context> Robert Service at Electric Scotland Works <head>by</head> Robert W. Service at Project Gutenberg Works by or about Robert W. Service at Internet Archive</context>
+    </instance>
+    <instance id="Robert_W._Service-service-6-35-4" docsrc="Robert_W._Service">
+      <context> During that time he became a <head>freemason</head> , being initiated into Yukon Lodge No . 45 in Dawson . It is unclear what happened between Service and Constance MacLean as no known letters between them exist after Service 's departure for Dawson City .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-6-61-1" docsrc="Robert_W._Service">
+      <context> Next day , with scarcely any <head>effort</head> of memory I put it on paper . " In 1926 , Archibald MacMechan , Professor of English at Canada 's Dalhousie University , pronounced on Service 's Yukon books in his Headwaters of Canadian Literature : MacMechan did give grudging respect to Service 's World War I poetry , conceding that his style went well with that subject , and that " his Rhymes of a Red Cross Man are an advance on his previous volumes .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-69-56-1" docsrc="Robert_W._Service">
+      <context> In " The Cremation of Sam McGee " , for instance , he uses the form of Kipling 's " The Ballad of East and West " . In his E. J. Pratt lecture " Silence In the Sea , " critic Northrop Frye argued that Service 's verse was not " serious poetry , " but something else he called " popular poetry " : " the idioms <head>of</head> popular and serious poetry remain inexorably distinct . " Popular poems , he thought , " preserve a surface of explicit statement " – either being " proverbial , like Kipling 's ' If ' or Longfellow 's ' Song of Life ' or Burns 's ' For A ' That ' , " or dealing in " conventionally poetic themes , like the pastoral themes of James Whitcomb Riley , or the adventurous themes of Robert Service . "</context>
+    </instance>
+    <instance id="Robert_W._Service-service-7-145-1" docsrc="Robert_W._Service">
+      <context> If you ca n't be Good be <head>Careful</head> ( words and music , 1939 ) My old School Tie ( words and music , 1939 ) Facility words ( words by Robert W. Service &amp; Music by Leslie T. Cochran , G. Ricordi &amp; C° Ltd London )</context>
+    </instance>
+    <instance id="Robert_W._Service-service-7-42-4" docsrc="Robert_W._Service">
+      <context> He then " worked as a stretcher <head>bearer</head> and ambulance driver with the Ambulance Corps of the American Red Cross , until his health broke . " Convalescing in Paris , he wrote a new book of mainly war poetry , Rhymes of a Red Cross Man , in 1916 . The book was dedicated to the memory of Service 's " brother , Lieutenant Albert Service , Canadian Infantry , Killed in Action , France , August 1916 . " Robert W. Service has been honoured by three medals for his war engagement : 1914–15 Star , British War Medal and the Victory Medal . With the end of the war , Service " settled down to being a rich man in Paris ....</context>
+    </instance>
+    <instance id="Robert_W._Service-service-7-72-2" docsrc="Robert_W._Service">
+      <context> Additionally , the Bard &amp; Banker public <head>house</head> in Victoria is dedicated to him , the building having at one time been a Canadian Bank of Commerce branch where Service was employed while residing in the city . In 2010 Phillips Brewery in Victoria released the Service 1904 Scottish Stone Fired Ale , available only on tap in three Victoria locations : The Bard &amp; Banker , Irish Times , and Penny Farthing public houses . Folksinger Country Joe McDonald set some of Service 's World War I poetry ( plus " The March of the Dead " from his first book ) , to music for his 1971 studio album , War War War .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-7-87-2" docsrc="Robert_W._Service">
+      <context> At the Service Cabin , local Dawson <head>entertainers</head> dressed in period costumes and employed by Parks Canada offer biographical information and recite Service 's poetry for visitors sitting on benches on the front lawn . Johnny Nunan performed this role through 2006 . Following the presentation , visitors can view Service 's home through the windows and front door .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-8-15-5" docsrc="Robert_W._Service">
+      <context> Though he was smitten , " MacLean was <head>looking</head> for a man of education and means to support her " so was not that interested . To please her , he took courses at McGill University 's Victoria College , but failed . In 1903 , down on his luck , Service was hired by a Canadian Bank of Commerce branch in Victoria , British Columbia , using his Commercial Bank letter of reference .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-8-24-6" docsrc="Robert_W._Service">
+      <context> There ’s a rich paystreak waiting for someone <head>to</head> work . Why don’t you go in and stake it ? " Returning from a walk one Saturday night , Service heard the sounds of revelry from a saloon , and the phrase " A bunch of the boys were whooping it up " popped into his head .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-8-42-3" docsrc="Robert_W._Service">
+      <context> He briefly covered the war for the Toronto <head>Star</head> ( from December 11 , 1915 , through January 29 , 1916 ) , but " was arrested and nearly executed in an outbreak of spy hysteria in Dunkirk . " He then " worked as a stretcher bearer and ambulance driver with the Ambulance Corps of the American Red Cross , until his health broke . " Convalescing in Paris , he wrote a new book of mainly war poetry , Rhymes of a Red Cross Man , in 1916 . The book was dedicated to the memory of Service 's " brother , Lieutenant Albert Service , Canadian Infantry , Killed in Action , France , August 1916 . " Robert W. Service has been honoured by three medals for his war engagement : 1914–15 Star , British War Medal and the Victory Medal .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-8-72-1" docsrc="Robert_W._Service">
+      <context> The Robert Service Way , a main road <head>in</head> Whitehorse , is named after him . Additionally , the Bard &amp; Banker public house in Victoria is dedicated to him , the building having at one time been a Canadian Bank of Commerce branch where Service was employed while residing in the city . In 2010 Phillips Brewery in Victoria released the Service 1904 Scottish Stone Fired Ale , available only on tap in three Victoria locations : The Bard &amp; Banker , Irish Times , and Penny Farthing public houses .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-9-27-3" docsrc="Robert_W._Service">
+      <context> Conversations with locals led Service to write about things <head>he</head> had not seen ( some of which had not actually happened ) as well . He did not set foot in Dawson City until 1908 , arriving in the Klondike ten years after the Gold Rush when his renown as a writer was already established . After having collected enough poems for a book , Service " sent the poems to his father , who had emigrated to Toronto , and asked him to find a printing house so they could make it into a booklet .</context>
+    </instance>
+    <instance id="Robert_W._Service-service-9-32-3" docsrc="Robert_W._Service">
+      <context> According to Enid Mallory , he went to Vancouver <head>and</head> looked up Constance MacLean . Now that he was a successful author , she agreed to become engaged to him . Following his leave , in 1908 the bank transferred Service to Dawson , where he met veterans of the Gold Rush , now ten years in the past : " they loved to reminisce , and Robert listened carefully and remembered . "</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-0-93-1" docsrc="Serve_(tennis)">
+      <context> <head>A</head> ball that hits the net cord but lands outside the service box is still a fault . On serve – both players have held each of their service games in the set or had an equal number of service breaks in the set , putting them " back on serve " . Service winner – a serve that is touched by the opponent , but not returned .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-10-92-3" docsrc="Serve_(tennis)">
+      <context> Such a serve is not considered a fault and the <head>server</head> may repeat the service attempt . A ball that hits the net cord but lands outside the service box is still a fault . On serve – both players have held each of their service games in the set or had an equal number of service breaks in the set , putting them " back on serve " .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-11-92-2" docsrc="Serve_(tennis)">
+      <context> Let – a serve is called a let when the ball <head>hits</head> the net cord but still lands in the service court . Such a serve is not considered a fault and the server may repeat the service attempt . A ball that hits the net cord but lands outside the service box is still a fault .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-14-92-1" docsrc="Serve_(tennis)">
+      <context> Hold – server winning the game . Let – a serve is called a <head>let</head> when the ball hits the net cord but still lands in the service court . Such a serve is not considered a fault and the server may repeat the service attempt .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-15-0-4" docsrc="Serve_(tennis)">
+      <context> Normally players begin a serve by tossing the ball into the air and hitting it <head>(</head> usually near the highest point of the toss ) . The ball can only touch the net on a return and will be considered good if it falls on the opposite side . If the ball contacts the net on the serve but then proceeds to the proper service box , it is called a let ; this is not a legal serve in the major tours ( but see below ) although it is also not a fault .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-15-1-2" docsrc="Serve_(tennis)">
+      <context> The serve is one of the more difficult shots for a novice , but once <head>mastered</head> it can be a considerable advantage . Advanced players can hit the serve in many different ways and often use it as an offensive weapon to gain an advantage in the point or to win it outright . Because of this , players above beginner level are expected to win most of their service games , and the ability to break an opponent 's serve plays a crucial role in a match .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-17-0-1" docsrc="Serve_(tennis)">
+      <context> A serve ( or , more formally , a service ) in tennis is a shot to <head>start</head> a point . A player will hit the ball with a racquet so it will fall into the diagonally opposite service box without being stopped by the net .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-2-32-1" docsrc="Serve_(tennis)">
+      <context> If there <head>have</head> been two faults on this point , the point is awarded to the receiver : this is known as a double fault . === Award of point to the server === On a service , the receiver is required to allow the ball to bounce before attempting to hit it .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-20-91-1" docsrc="Serve_(tennis)">
+      <context> Foot fault – a fault caused by the server stepping on or across his base line or the center line <head>before</head> striking the ball with his racquet . Hold – server winning the game . Let – a serve is called a let when the ball hits the net cord but still lands in the service court .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-21-26-1" docsrc="Serve_(tennis)">
+      <context> However , if a server releases the ball but does not attempt to hit it , there is no fault and <head>the</head> server may repeat the service attempt . If the ball , before bouncing , hits any object other than the net cord , the opponent 's racket or body , it is a fault . So , for example , if the ball hits the net post and then bounces into the correct court , the service is still a fault .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-21-92-3" docsrc="Serve_(tennis)">
+      <context> Such a serve is not considered a fault and the server may repeat the service attempt . A ball that hits <head>the</head> net cord but lands outside the service box is still a fault . On serve – both players have held each of their service games in the set or had an equal number of service breaks in the set , putting them " back on serve " .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-22-88-2" docsrc="Serve_(tennis)">
+      <context> Double fault – hitting a fault on the second service . The server loses the point . Fault – an unsuccessful serve <head>that</head> does not start the point because the ball does not land in the opponent 's designated service box .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-26-25-2" docsrc="Serve_(tennis)">
+      <context> A miss . If the server swings but misses the ball , it is a fault . However , if a server releases the ball but <head>does</head> not attempt to hit it , there is no fault and the server may repeat the service attempt .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-44-2-1" docsrc="Serve_(tennis)">
+      <context> Because of this , players above beginner level are expected to win most of their service games , and the ability to break an opponent 's serve plays a crucial role in a match . For any serve , the server stands behind the <head>baseline</head> without touching it . For the first point of any game , the server stands to the right of the center point of the baseline and serves diagonally across the net to the left side ( from the server 's perspective ) of the court , into the service box which extends to the service line about midway into the opponent 's court .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-5-116-2" docsrc="Serve_(tennis)">
+      <context> Since the server has the <head>advantage</head> of being the initial aggressor , for his opponent to return the ball and to keep it in play often involves the defensive endeavor of minimizing the opponent 's advantage . This may involve simply lunging to get the racket on the ball before it passes . If a controlled return of service is possible , a hard groundstroke to one side or the other of the opponents 's baseline may be performed .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-50-2-1" docsrc="Serve_(tennis)">
+      <context> Because of this , players above beginner level are expected to win most of their service games , and the ability to break an opponent 's serve plays a crucial role in a match . For any serve , the server stands behind the baseline without touching it . For <head>the</head> first point of any game , the server stands to the right of the center point of the baseline and serves diagonally across the net to the left side ( from the server 's perspective ) of the court , into the service box which extends to the service line about midway into the opponent 's court .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-6-21-1" docsrc="Serve_(tennis)">
+      <context> === Let === === Fault === <head>There</head> are multiple reasons why a service attempt may result in a fault .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-8-76-4" docsrc="Serve_(tennis)">
+      <context> Although this serve is legal , it may <head>be</head> seen as unsportsmanlike in adult tennis . Some notable examples include Michael Chang 's in the Round of 16 at the 1989 French Open against Ivan Lendl , and Martina Hingis was booed by the crowd for hitting one at the 1999 French Open . Ace – a serve that lands in the service box and is then untouched by the opponent .</context>
+    </instance>
+    <instance id="Serve_(tennis)-service-9-87-1" docsrc="Serve_(tennis)">
+      <context> Break point – one point away from a break <head>.</head> Challenge – when either player disputes whether the ball landed in or out . Double fault – hitting a fault on the second service .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-1-0-1" docsrc="Service_(motor_vehicle)">
+      <context> A <head>motor</head> vehicle service is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a certain distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-11-0-1" docsrc="Service_(motor_vehicle)">
+      <context> A motor vehicle service is a series of maintenance procedures carried <head>out</head> at a set time interval or after the vehicle has traveled a certain distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-16-0-2" docsrc="Service_(motor_vehicle)">
+      <context> A motor vehicle service is a series of maintenance procedures carried out at a set time <head>interval</head> or after the vehicle has traveled a certain distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel . The completed services are usually recorded in a service book which is rubber stamped by the service centre upon completion of each service .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-2-0-2" docsrc="Service_(motor_vehicle)">
+      <context> A motor <head>vehicle</head> service is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a certain distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel . The completed services are usually recorded in a service book which is rubber stamped by the service centre upon completion of each service .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-2-1-1" docsrc="Service_(motor_vehicle)">
+      <context> The service <head>intervals</head> are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel . The completed services are usually recorded in a service book which is rubber stamped by the service centre upon completion of each service . A complete service history usually adds to the resale value of a vehicle .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-21-20-1" docsrc="Service_(motor_vehicle)">
+      <context> Wash the vehicle and clean the interiors . Mechanical parts that may cause the car to cease transmission or prove unsafe <head>for</head> the road are also noted and advised upon . In the United Kingdom , few parts that are not inspected on the MOT test are inspected and advised upon a Service Inspection .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-22-0-2" docsrc="Service_(motor_vehicle)">
+      <context> A motor vehicle service is a series of maintenance procedures carried out at a set time interval or after the vehicle has <head>traveled</head> a certain distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel . The completed services are usually recorded in a service book which is rubber stamped by the service centre upon completion of each service .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-24-0-1" docsrc="Service_(motor_vehicle)">
+      <context> A motor vehicle service is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a <head>certain</head> distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-8-0-2" docsrc="Service_(motor_vehicle)">
+      <context> A motor vehicle service is a series of <head>maintenance</head> procedures carried out at a set time interval or after the vehicle has traveled a certain distance . The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel . The completed services are usually recorded in a service book which is rubber stamped by the service centre upon completion of each service .</context>
+    </instance>
+    <instance id="Service_(motor_vehicle)-service-9-1-2" docsrc="Service_(motor_vehicle)">
+      <context> The completed services are usually recorded in a service <head>book</head> which is rubber stamped by the service centre upon completion of each service . A complete service history usually adds to the resale value of a vehicle . Maintenance tasks commonly carried out during a motor vehicle service include :</context>
+    </instance>
+    <instance id="br-a14#w507_0" docsrc="br-a14">
+      <context> Shea , the chairman of Mayor_Wagner_'s_Baseball_Committee , will be joined on the dais by Warren_Spahn , the southpaw pitching ace of the Milwaukee_Braves ; Frank_Graham , the Journal-American sports columnist ; Bill_Mazeroski , the World_Series hero of the Pittsburgh_Pirates , and Casey_Stengel , the former manager of the Yankees . Stengel will receive the Ben_Epstein_Good_Guy_Award . Mazeroski , whose homer beat the Yankees in the final series game , will receive the Babe_Ruth_Award as the outstanding player in the 1960 world_series . Graham will be recognized for his meritorious <head>service</head> to baseball and will get the William_J._Slocum_Memorial_Award . To Spahn will go the Sid_Mercer_Memorial_Award as the chapter 's player of the year . A crowd of 1400 is expected for the ceremonies , which will be followed by the show in which the writers will lampoon baseball personalities in skit , dance and song . The 53 - year old Shea , a prominent corporation lawyer with a sports background , is generally recognized as the man most responsible_for the imminent return of a National_League club to New_York .</context>
+    </instance>
+    <instance id="br-d01#w341_0" docsrc="br-d01">
+      <context> In such a world the words `` matter '' and `` spirit '' both referred to directly known realities in the common experience of all . In it important elements of Christianity and of the Biblical view of reality in_general , which now cause us much difficulty , could be responded to quite naturally and spontaneously . The progress of science over these last few centuries and the gradual replacement of Biblical by scientific categories of reality have to a large extent emptied the spirit_world of the entities which previously populated it . In carrying_out this program science has undoubtedly performed a very considerable <head>service</head> for which it can claim due credit . The objectification of the world of spirit in popular superstition had certainly gone far beyond what the experience of spirit could justify or support . Science is fully competent to deal with any element of experience which arises from an object in space and time . When , therefore , it turned its attention to the concrete entities with which popular imagination had peopled the world of spirit , these entities soon lost whatever status they had enjoyed as actual elements of external reality .</context>
+    </instance>
+    <instance id="br-d03#w732_0" docsrc="br-d03">
+      <context> A Protestant woman marveled to me over the large crowds going_in and out of the Birmingham_Oratory ( Catholic ) Church on Sunday mornings . She found this a marvel because , as she said , only six per_cent of English_people are churchgoers . She may not have been exact on this number , but others here feel quite certain that the percentage would be less_than ten . From many sides come remarks that Protestant churches are badly attended and the large medieval cathedrals look all_but empty during <head>services</head> . A Catholic priest recently recounted how in the chapel of a large city_university , following Anglican evensong , at which there was a congregation of twelve , he celebrated Mass before more_than a_hundred . The Protestants themselves are the first to admit the great falling_off in effective membership in their churches . According_to a newspaper report of the 1961 statistics of the Church_of_England , the `` total of confirmed members is 9748000 , but only 2887671 are registered on the parochial church_rolls '' , and `` over 27 million people in England are baptized into the Church_of_England , but roughly only a tenth of them continue '' .</context>
+    </instance>
+    <instance id="br-e28#w339_0" docsrc="br-e28">
+      <context> Average consumer is becoming more sophisticated regarding product and advertising claims , partly because of widespread criticism of such assertions . This problem can force a change in marketing approach in many kinds of businesses . Have you examined this problem of increasing consumer sophistication from the standpoint of your own company ? Need for <head>service</head> is here to stay - and the problem is going_to be tougher to solve in the sixties . There are two reasons for this . First , most products tend to become more complex . Second , in a competitive market , the customer feels his weight and throws it around .</context>
+    </instance>
+    <instance id="br-e28#w395_0" docsrc="br-e28">
+      <context> There are two reasons for this . First , most products tend to become more complex . Second , in a competitive market , the customer feels his weight and throws it around . Providing good customer <head>service</head> requires as thorough a marketing and general management planning job as the original selling of the product . Too often it is thought_of at the last moment of new product introduction . Good service starts with product design and planning : Many products seem to be designed for a production economy , not for a service one .</context>
+    </instance>
+    <instance id="br-e28#w429_0" docsrc="br-e28">
+      <context> Second , in a competitive market , the customer feels his weight and throws it around . Providing good customer service requires as thorough a marketing and general management planning job as the original selling of the product . Too often it is thought_of at the last moment of new product introduction . Good <head>service</head> starts with product design and planning : Many products seem to be designed for a production economy , not for a service one . Proper follow-through requires training your own sales organization , and your distributor organizations , not_only in the techniques but also in good customer relations . Have you assessed the importance of service and given it proper attention ?</context>
+    </instance>
+    <instance id="br-e28#w451_0" docsrc="br-e28">
+      <context> Providing good customer service requires as thorough a marketing and general management planning job as the original selling of the product . Too often it is thought_of at the last moment of new product introduction . Good service starts with product design and planning : Many products seem to be designed for a production economy , not for a <head>service</head> one . Proper follow-through requires training your own sales organization , and your distributor organizations , not_only in the techniques but also in good customer relations . Have you assessed the importance of service and given it proper attention ? In spending his money today , the consumer is pulled in many directions .</context>
+    </instance>
+    <instance id="br-e28#w485_0" docsrc="br-e28">
+      <context> Good service starts with product design and planning : Many products seem to be designed for a production economy , not for a service one . Proper follow-through requires training your own sales organization , and your distributor organizations , not_only in the techniques but also in good customer relations . Have you assessed the importance of <head>service</head> and given it proper attention ? In spending his money today , the consumer is pulled in many directions . To the manufacturer of the more convenient type product - the purchase of which can be switched , delayed , or put_off entirely - the implications are important . Your competition is now proportionately greater - you are competing not_only against manufacturers in the same field but also against a vast array of manufacturers of other appealing consumer products .</context>
+    </instance>
+    <instance id="br-e30#w14_0" docsrc="br-e30">
+      <context> How long has it been since you reviewed the objectives of your benefit and <head>service</head> program ? Have you permitted it to become a giveaway program rather than one that has the goal of improved employee morale and , consequently , increased productivity ? What effort do you make to assess results of your program ? Do you measure its relation_to reduced absenteeism , turnover , accidents , and grievances , and to improved quality and output ?</context>
+    </instance>
+    <instance id="br-e30#w155_0" docsrc="br-e30">
+      <context> Are you using the most economical printing methods , paper , etc. . Are there other , cheaper communications techniques that could be substituted ? Has your attitude toward employee benefits encouraged an excess of free `` government '' work in your plant ? Is your purchasing_agent offering too_much free buying <head>service</head> for employees ? When improvements are recommended in working conditions - such_as lighting , rest_rooms , eating facilities , air-conditioning - do you try to set a measure of their effectiveness on productivity ? When negotiating with your union , do you make sure employees have a choice between new benefits and their cents per hour cost in wages . Can you consider restricting any additional employee benefits to those paid for by profit-sharing money , such_as was done in the union contract recently signed by American_Motors_Corporation ?</context>
+    </instance>
+    <instance id="br-f13#w376_0" docsrc="br-f13">
+      <context> If the farm is in an industrial area where wages are high , farm labor costs will also be high . A part-time farmer needs unusual skill to get as high production per hen , per cow , or per acre as can be obtained by a competent full-time farmer . It will frequently be uneconomical for him to own the most up-to-date equipment . He may have_to depend_upon custom <head>service</head> for specialized operations , such_as spraying or threshing , and for these , he may have_to wait his turn . There will be losses caused by emergencies that arise while he is away at his off farm job . The farm may be an additional burden if the main job is lost . This may be true whether the farm is owned or rented .</context>
+    </instance>
+    <instance id="br-f18#w537_0" docsrc="br-f18">
+      <context> `` Now I lay me down to sleep , The gray-backs o ' er my body creep ; If they should bite before I wake , I pray the Lord their jaws to break '' `` . Charles_Thiot , a splendid Georgia soldier , differed from most_of his comrades in the ranks in that he was the owner of a large plantation , well-educated , and nearly fifty years of_age . But he was very_much_like his associates in his hatred of camp routine . Near the end of his <head>service</head> he wrote that when the war was over he was going to buy two pups , name one of them `` fall-in '' and the other `` close-up '' , and_then shoot them both , `` and that will be the end of ' fall-in ' and ' close-up '' ' . The soldiers who comprised the rank_and_file of the Civil_War armies were an earthy people . They talked and wrote much about the elemental functions of the body . One of the most common of camp maladies was diarrhoea .</context>
+    </instance>
+    <instance id="br-f20#w1014_0" docsrc="br-f20">
+      <context> There was a question and answer gag that went_around at that time : Q. `` Who 'll carry the Forty-second and Forty-third wards '' ? A. `` O_'_Banion , in his pistol pocket '' . But as November 1924 drew close the Democratic hierarchy was sorely troubled by grapevine reports that O_'_Banion was being wooed by the opposition , and was meeting and conferring with important Republicans . To forestall any change of allegiance , the Democrats hastily organised a testimonial banquet for O_'_Banion , as public reward for his past <head>services</head> and as a reminder of where his loyalties lay . The reception was held in a private dining_room of the Webster_Hotel on Lincoln_Park_West . It was an interesting fraternisation of ex convicts , union racketeers , ward_heelers , sold-out officials , and gunmen . The guest list is in itself a little parable of the state of American civic life at this time .</context>
+    </instance>
+    <instance id="br-f23#w1984_0" docsrc="br-f23">
+      <context> Today it is up_for_grabs . One Latin_American country , Cuba , has become a Soviet bridgehead ninety miles off our coast . In some countries the trend has gone further than others : Mexico , Panama , and Venezuela are displaying open sympathy for Castroism , and there is no country - save the Dominican_Republic whose funeral <head>services</head> we recently arranged - where Castroism and anti Americanism does not prevent the government from unqualifiedly espousing the American cause . Only in Europe have our lines remained_firm - and there only on the surface . The strains of neutralism are running strong , notably in England , and even in Germany . What have we to show by_way_of counter successes ?</context>
+    </instance>
+    <instance id="br-f25#w585_0" docsrc="br-f25">
+      <context> Most_of the teen-agers I interviewed rejected it on pragmatic grounds . `` When you marry , you want to have things in common '' , a girl said , `` and it 's hard when you do n't marry someone with your own background '' . A fourteen year old girl from the Middle_West observed wryly that , in her community , religion inconveniently interfered with religious activities - at_least with the peripheral activities that many middle_class Jews now regard_as religious . It appears that an Orthodox girl in the community disrupted plans for an outing sponsored by one of the Jewish <head>service</head> groups because she would not travel on Saturday and , in_addition , required kosher food . Another girl from a relatively large midwestern city described herself as `` the only Orthodox girl in town '' . This is , no_doubt , inaccurate , but it does convey how isolated she feels among the vast army of the nonobservant . One of the significant things about Jewish culture in the older teen years is that it is largely college oriented .</context>
+    </instance>
+    <instance id="br-g19#w1877_0" docsrc="br-g19">
+      <context> Finally , in The Maltese_Falcon among others , the clash between detective and police is carried to its logical conclusion : Sam_Spade becomes the chief murder_suspect . In_order to exonerate himself , he is compelled to find the real criminal , who happens to be his girl_friend . What was only a vague suspicion in the case of Sherlock_Holmes now appears as a direct accusation : the private_eye is in danger of turning_into his opposite . It is the growing contradiction between individualism and public <head>service</head> in the mystery_story which creates this fatal dilemma . By upholding his own personal code_of_behavior , the private_detective has placed himself in opposition to a society whose fabric is permeated with crime and corruption . That society responds by condemning the private_eye as a threat to the status_quo , a potential criminal . If the detective insists upon retaining his personal standards , he must now do so in conscious defiance of his society .</context>
+    </instance>
+    <instance id="br-g19#w280_0" docsrc="br-g19">
+      <context> He catches criminals not merely because he is paid to do so ( frequently he does not receive a fee at_all ) , but because he enjoys his work , because he firmly believes that murder must be punished . Thus the fictional detective is much more_than a simple businessman . He is , first_and_foremost , a defender of public morals , a servant of society . It is this curious blend of rugged individualism and public <head>service</head> which accounts_for the great appeal of the mythological detective . By_virtue_of his self-reliance , his individualism and his freedom from external restraint , the private_eye is a perfect embodiment of the middle_class conception of liberty , which amounts to doing what you please and let_the_devil_take_the_hindmost . At_the_same_time , because the personal code of the detective coincides with the legal dictates of his society , because he likes to catch criminals , he is in middle_class eyes a virtuous man . In this way , the private_detective gets the best of two possible worlds .</context>
+    </instance>
+    <instance id="br-g19#w645_0" docsrc="br-g19">
+      <context> Driven from the marketplace by the course of history , our hero disguises himself as a private_detective . The birth of the myth compensates for the death of the ideal . Even on the fictional level , however , the contradictions which give_rise to the mystery_story are not fully resolved . The individualism and public <head>service</head> of the private_detective both stem from his dedication to a personal code_of_conduct : he enforces the law without being told to do so . The private_eye is therefore a moral man ; but his morality rests upon that of his society . The basic premise of all mystery_stories is that the distinction between good and bad coincides with the distinction between legal and illegal . Unfortunately , this assumption does not always hold good .</context>
+    </instance>
+    <instance id="br-h01#w1094_0" docsrc="br-h01">
+      <context> New_Product_Introduction_for_Small_Business_Owners , 30 cents ; Developing_and_Selling_New_Products , 45 cents ; U.S._Government_Purchasing_,_Specifications_,_and_Sales_Directory , 60 cents , are available from the Superintendent_of_Documents , U.S._Government_Printing_Office , Washington 25 , D.C. . SBA makes loans to individual small business_firms , providing them with financing when it is not otherwise available through private lending sources on reasonable terms . Many such loans have been made to establish small concerns or to aid in their growth , thereby contributing substantially to community development programs . SBA loans , which may be made to small manufacturers , small business pools , wholesalers , retailers , <head>service</head> establishments and other small businesses ( when financing is not otherwise available to them on reasonable terms ) , are to finance business construction , conversion , or expansion ; the purchase of equipment , facilities , machinery , supplies , or materials ; or to supply working_capital . Evidence that other sources of financing are unavailable must be provided . SBA business loans are of two types : `` participation '' and `` direct '' . Participation_loans are those made jointly by the SBA and banks or other private lending_institutions .</context>
+    </instance>
+    <instance id="br-h01#w1567_0" docsrc="br-h01">
+      <context> Branch Offices are located in other large cities . Small_Business_Administration_,_What_It_Is_,_What_It_Does ; SBA Business_Loans_and_Small_Business_Pooling are available , on_request , from Small_Business_Administration , Washington 25 , D.C. , and its regional offices . The Farm_Credit_Administration , an independent agency located within the Department_of_Agriculture , supervises and coordinates a cooperative credit_system for agriculture . The system is composed of three credit <head>services</head> , Federal_Land_Banks and National_Farm_Loan_Associations , Federal_Intermediate ( short-term ) Credit_Banks , and Banks_for_Cooperatives . This system provides long - and short-term credit to farmers and their cooperative marketing , purchasing , and business service organizations . As a source of investment capital , the system is beneficial to local communities and encourages the development of industries in rural_areas . The credit provdied by the first two services in the system outlined above is primarily for general agricultural purposes .</context>
+    </instance>
+    <instance id="br-h01#w1601_0" docsrc="br-h01">
+      <context> Small_Business_Administration_,_What_It_Is_,_What_It_Does ; SBA Business_Loans_and_Small_Business_Pooling are available , on_request , from Small_Business_Administration , Washington 25 , D.C. , and its regional offices . The Farm_Credit_Administration , an independent agency located within the Department_of_Agriculture , supervises and coordinates a cooperative credit_system for agriculture . The system is composed of three credit services , Federal_Land_Banks and National_Farm_Loan_Associations , Federal_Intermediate ( short-term ) Credit_Banks , and Banks_for_Cooperatives . This system provides long - and short-term credit to farmers and their cooperative marketing , purchasing , and business <head>service</head> organizations . As a source of investment capital , the system is beneficial to local communities and encourages the development of industries in rural_areas . The credit provdied by the first two services in the system outlined above is primarily for general agricultural purposes . The third credit service , Banks_for_Cooperatives , exists under authority of the Farm_Credit_Act_of_1933 .</context>
+    </instance>
+    <instance id="br-h01#w1634_0" docsrc="br-h01">
+      <context> The system is composed of three credit services , Federal_Land_Banks and National_Farm_Loan_Associations , Federal_Intermediate ( short-term ) Credit_Banks , and Banks_for_Cooperatives . This system provides long - and short-term credit to farmers and their cooperative marketing , purchasing , and business service organizations . As a source of investment capital , the system is beneficial to local communities and encourages the development of industries in rural_areas . The credit provdied by the first two <head>services</head> in the system outlined above is primarily for general agricultural purposes . The third credit service , Banks_for_Cooperatives , exists under authority of the Farm_Credit_Act_of_1933 . The Banks_for_Cooperatives were established to provide a permanent source of credit on a sound basis for farmers ' cooperatives . Three distinct classes of loans are made available to farmers ' cooperatives by the Banks_for_Cooperatives :</context>
+    </instance>
+    <instance id="br-h01#w1650_0" docsrc="br-h01">
+      <context> This system provides long - and short-term credit to farmers and their cooperative marketing , purchasing , and business service organizations . As a source of investment capital , the system is beneficial to local communities and encourages the development of industries in rural_areas . The credit provdied by the first two services in the system outlined above is primarily for general agricultural purposes . The third credit <head>service</head> , Banks_for_Cooperatives , exists under authority of the Farm_Credit_Act_of_1933 . The Banks_for_Cooperatives were established to provide a permanent source of credit on a sound basis for farmers ' cooperatives . Three distinct classes of loans are made available to farmers ' cooperatives by the Banks_for_Cooperatives : Commodity loans , operating_capital loans , and facility loans .</context>
+    </instance>
+    <instance id="br-h01#w849_0" docsrc="br-h01">
+      <context> The Administration maintains a productive facilities inventory of small business industrial concerns that have voluntarily registered . It is kept in each Regional office for the small firms within the region . Purpose of this inventory is to include all eligible productive facilities in SBA 's facilities register so that the small business_concerns may have an opportunity to avail themselves of the services authorized by the Congress in establishing the Small_Business_Administration . These services include procurement and technical assistance and notice of surplus sales and invitations to bid on Government contracts for products and <head>services</head> within the registrants ' field_of_operations . SBA can make complete facilities inventories of all small business_concerns in labor surplus areas within budgetary and staff limitations . For further information , contact Small_Business_Administration_Regional_Offices in Atlanta , Ga. ; Boston , Mass. ; Chicago , Ill. ; Cleveland , Ohio ; Dallas , Tex. ; Denver , Colo. ; Detroit , Mich. ; Kansas_City , Mo. ; Los_Angeles , Calif. ; Minneapolis , Minn. ; New_York , N.Y. ; Philadelphia , Pa. ; Richmond , Va. ; San_Francisco , Calif. ; and Seattle , Wash. . Branch Offices are_located in other large cities .</context>
+    </instance>
+    <instance id="br-h09#w429_0" docsrc="br-h09">
+      <context> recommend to the Congress from_time_to_time authorization for construction and operation , or for participation in the construction and operation , of a demonstration plant for any process which he determines , on the basis of subsections ( a ) and ( b ) above , has great promise of accomplishing the purposes of_this Act , such recommendation to be accompanied by a report on the size , location , and cost of the proposed plant and the engineering and economic details with_respect_thereto ; study methods for the recovery and marketing of commercially valuable byproducts resulting from the conversion of saline water ; and undertake economic studies and surveys to determine present and prospective costs of producing water for beneficial consumptive purposes in various parts of the United_States by the leading saline water processes as compared with other standard methods . In carrying_out his functions under section 2 of_this Act , the Secretary may - acquire the <head>services</head> of chemists , physicists , engineers , and other personnel by contract or otherwise ; enter into contracts with educational_institutions , scientific organizations , and industrial and engineering firms ; make research and training grants ; utilize the facilities of Federal scientific laboratories ;</context>
+    </instance>
+    <instance id="br-h11#w799_0" docsrc="br-h11">
+      <context> Results of_this experiment include the frequencies of the two strong spectral lines by which OH may be identified in interstellar gas ; the frequencies are 1665.32 and 1667.36 * * f , with an uncertainty of 0.10 * * f . Success in observing these spectral lines has so_far , apparently , been confined to the laboratory ; extraterrestrial observations have yet to be reported . Preparations are being made for similar experiments on CH and SH radicals . The Bureau is pursuing an active program to provide a temperature scale and thermometer calibration <head>services</head> in the range 1.5 to 20 * * f . The efforts and accomplishments fall_into three main categories : absolute thermometry based upon the velocity of sound in helium gas , secondary thermometry involving principally studies of the behavior of germanium resistors , and helium 4 vapor-pressure measurements ( see p. 144 ) . An acoustical interferometer has been constructed and used , with helium gas as the thermometric fluid , to measure temperatures near 4.2 and 2.1 * * f . Such an interferometer provides a means of absolute_temperature measurement , and may be used as_an_alternative to the gas_thermometer .</context>
+    </instance>
+    <instance id="br-h13#w125_0" docsrc="br-h13">
+      <context> And the solutions to the problems of the commuter lines have been equally varied , ranging all_the_way from Government ownership to complete discontinuance of this important service . There have been a number of sound plans proposed . But none of these has been implemented . Instead we have stood idly by , watched our commuter railroad <head>service</head> decline , and have failed to offer a helping_hand . Though the number of people flowing in and out of our metropolitan areas each_day has increased tremendously since World_War_2 , , total annual rail commutation dropped 124 million from 1947 to 1957 . Nowhere has this decline been more painfully evident than in the New_York_City area . Here the New_York_Central_Railroad , one of the Nation 's most important carriers , has alone lost 47.6 percent of its passengers since 1949 .</context>
+    </instance>
+    <instance id="br-h13#w24_0" docsrc="br-h13">
+      <context> Mr._Speaker , for several years now the commuter railroads serving our large metropolitan areas have found it increasingly difficult to render the kind of <head>service</head> our expanding population wants and is entitled to have . The causes of the decline of the commuter railroads are many and complex - high taxes , losses of revenue to Government subsidized highway and air carriers , to name but two . And the solutions to the problems of the commuter lines have been equally varied , ranging all_the_way from Government ownership to complete discontinuance of this important service . There have been a number of sound plans proposed .</context>
+    </instance>
+    <instance id="br-h13#w344_0" docsrc="br-h13">
+      <context> The New_York_Central has pointed_out that this control , if approved by the Interstate_Commerce_Commission , would give the combined C.+O. - B.+O._Railroad a total of 185 points served in_common with the New_York_Central . Not_only is this kind of duplication wasteful , but it gives the combined system the ability to take freight traffic away from the New_York_Central and other railroads serving the area . The New_York_Central notes : `` The freight traffic most susceptible to raiding by the C. +_O._-_B. +_O. provides the backbone of Central 's revenues . These revenues make it possible to provide essential freight and passenger <head>service</head> over the entire New_York_Central system as_well_as the New_York area commuter and terminal freight services . If these services are to be maintained , the New_York_Central must have the revenues to make them possible '' . The New_York_Central today handles 60 percent of all southbound commuter_traffic coming into New_York_City . This is a $ 14 million operation involving 3500 employees who work_on commuter_traffic exclusively .</context>
+    </instance>
+    <instance id="br-h13#w493_0" docsrc="br-h13">
+      <context> A blow to this phase of the Central 's operations would have serious economic consequences not_only to the railroad itself , but to the 40000 people per day who are provided with efficient , reasonably priced transportation in_and_out of the city . `` There is a workable alternative to this potentially dangerous and harmful C. + O. - B. + O. merger scheme '' - The Central has pointed_out . `` The logic of creating a strong , balanced , competitive two system railroad <head>service</head> in the East is so obvious that B._+_O. was publicly committed to the approach outlined here . Detailed studies of the plan were well underway . Though far from completion , these studies indicated beyond a doubt that savings would result which would be of unprecedented benefit to the railroads concerned , their investors , their customers , their users , and to the public at_large . Then , abandoning the studies in the face of their promising outlook for all concerned , B. + O. entered on-again-off-again negotiations with C. + O. which resulted in the present situation .</context>
+    </instance>
+    <instance id="br-h13#w94_0" docsrc="br-h13">
+      <context> Mr._Speaker , for several years now the commuter railroads serving our large metropolitan areas have found it increasingly difficult to render the kind of service our expanding population wants and is entitled to have . The causes of the decline of the commuter railroads are many and complex - high taxes , losses of revenue to Government subsidized highway and air carriers , to name but two . And the solutions to the problems of the commuter lines have been equally varied , ranging all_the_way from Government ownership to complete discontinuance of this important <head>service</head> . There have been a number of sound plans proposed . But none of these has been implemented . Instead we have stood idly by , watched our commuter railroad service decline , and have failed to offer a helping_hand .</context>
+    </instance>
+    <instance id="br-h16#w237_0" docsrc="br-h16">
+      <context> `` The fact that sticks_out in this voluminous record is that the bulk of du_Pont 's production has always supplied the largest part of the requirements of the one customer in the automobile_industry connected to du_Pont by a stock interest . The inference is overwhelming that du_Pont 's commanding position was promoted by its stock interest and was not gained solely on competitive merit '' . 353_U._S._,_at_605 . This Court agreed with the trial_court `` that considerations of price , quality and <head>service</head> were not overlooked by either du_Pont or General_Motors '' . 353_U._S._,_at_606 . However , it determined that neither this factor , nor `` the fact that all concerned in high executive posts in both companies acted honorably and fairly , each in the honest conviction that his actions were in the best interests of his own company and without any design to overreach anyone , including du_Pont 's competitors '' , 353_U._S._,_at_607 , outweighed the Government 's claim for relief . This claim , as submitted to the District_Court and dismissed by it , 126_F._Supp .235 , alleged violation not_only of 7 of the Clayton_Act , but also of 1 and 2 of the Sherman_Act .</context>
+    </instance>
+    <instance id="br-h17#w1144_0" docsrc="br-h17">
+      <context> He was not prosecuted , however , and his case was subsequently reopened , in the light of Sicurella_v._United_States , 348_U._S._385_(_1955_) . He was again reclassified 1_,_-_A by the local board . There followed a customary Department_of_Justice hearing , at which petitioner appeared . In his report to the Attorney_General , the hearing_officer suggested that the petitioner be exempt only from combatant training and <head>service</head> . On March 21 , 1957 , however , the Department recommended approval of the 1_,_-_A classification . Its ground for this recommendation was that , while petitioner claimed before the local board August 17 , 1956 ( as evidenced by its memorandum in his file of that date ) , that he was devoting 100 hours per month to actual preaching , the headquarters of the Jehovah's_Witnesses reported that he was no_longer doing so and , on_the_contrary , had relinquished both his Pioneer_and_Bible_Student_Servant positions . It reported that he now devoted only some 6 - 1_2 hours per month to public preaching and from 20 to 25 hours per month to church activities .</context>
+    </instance>
+    <instance id="br-j22#w653_0" docsrc="br-j22">
+      <context> Progress is impeded by psychological inhibitions to effective action among those in power and by a failure on their part to understand how local resources , human and material , can be mobilized to achieve the national goals of modernization already symbolically accepted . Most countries in this second category share the difficulty of having many of the structures of a modern political and social_system without the modern standards of performance required to make them effective . In these rapidly changing societies there is also too little appreciation of the need for effort to achieve goals . The colonial period has generally left people believing that government can , if it wishes , provide all manner of <head>services</head> for them - and that with independence free_men do not have_to work to realize the benefits of modern life . For_example , in accordance with the fashion of the times , most transitional societies have announced economic development plans of varying numbers of years ; such is the mystique of planning that people expect that fulfillment of the plan will follow automatically upon its announcement . The civil_services in such societies are generally inadequate to deal competently with the problems facing them ; and their members often equate a government career with security and status rather_than with sacrifice , self-discipline , and competence . American policy should press constantly the view that until these governments demand efficiency and effectiveness of their bureaucracies there is not the slightest hope that they will either modernize of democratize their societies .</context>
+    </instance>
+    <instance id="br-j23#w893_0" docsrc="br-j23">
+      <context> The belief in immortality , where held , functions as a redress for the ills and disappointments of the here_and_now . The tensions accompanying a repressive consciousness of wrongdoing or sinning or some tormenting secret are relieved for the less self-contained or self-sufficient by confession , repentance , and penance . The feeling of individual inferiority , defeat , or humilation growing out of various social situations or individual deficiencies or failures is compensated for by communion in worship or prayer with a friendly , but all-victorious Father-God , as_well as by sympathetic fellowship with others who share this faith , and by opportunities in religious acts for giving_vent to emotions and energies . In providing for these inner individual functions , religion undertakes in behalf of individual peace_of_mind and well-being <head>services</head> for which there is no other institution . In_addition to the functions of religion within man , there have always been the outer social functions for the community and society . The two have never been separable . Religion is vitally necessary in both societal maintenance and regulation .</context>
+    </instance>
+    <instance id="br-j56#w1350_0" docsrc="br-j56">
+      <context> George_Woodcock was manager and troubleshooter ; Elizabeth_Way was the first operator ; and a night operator was also employed . Anyone fortunate enough to have one of those early phones advertised the fact along with the telephone_number in the Manchester_Journal . In 1918 the New_England_Telephone_Company began erecting a building to house its operations on the corner of U._S._Rte._7 and what is now Memorial_Avenue at Manchester_Center . <head>Service</head> running through Barnumville and to Bennington_County towns east of the mountains was in the hands of the `` Gleason_Telephone_Company '' in 1925 , but major supervision of telephone_lines in Manchester was with the New_England_Telephone_and_Telegraph_Company , which eventually gained all control . More aerial and underground equipment was installed as_well as office improvements to take_care of the expanding business . In 1931 Mrs._F._H._Briggs , agent and chief operator , who was to retire in 1946 with thirty years ' service , led agency offices in sales for the year with $ 2490 . William_Hitchcock , who retired in 1938 , was a veteran of thirty-four years ' local service .</context>
+    </instance>
+    <instance id="br-j56#w1429_0" docsrc="br-j56">
+      <context> In 1918 the New_England_Telephone_Company began erecting a building to house its operations on the corner of U._S._Rte._7 and what is now Memorial_Avenue at Manchester_Center . Service running through Barnumville and to Bennington_County towns east of the mountains was in the hands of the `` Gleason_Telephone_Company '' in 1925 , but major supervision of telephone_lines in Manchester was with the New_England_Telephone_and_Telegraph_Company , which eventually gained all control . More aerial and underground equipment was installed as_well as office improvements to take_care of the expanding business . In 1931 Mrs._F._H._Briggs , agent and chief operator , who was to retire in 1946 with thirty years ' <head>service</head> , led agency offices in sales for the year with $ 2490 . William_Hitchcock , who retired in 1938 , was a veteran of thirty-four years ' local service . Another veteran telephone_operator was Edith_Fleming_Blackmer , who had been in the office forty years at the time of her death in 1960 . In 1932 Dorset received its own exchange , which made business easier for the Manchester office , but it was not until February 1953 that area service was extended to include Manchester and Dorset .</context>
+    </instance>
+    <instance id="br-j56#w1458_0" docsrc="br-j56">
+      <context> Service running through Barnumville and to Bennington_County towns east of the mountains was in the hands of the `` Gleason_Telephone_Company '' in 1925 , but major supervision of telephone_lines in Manchester was with the New_England_Telephone_and_Telegraph_Company , which eventually gained all control . More aerial and underground equipment was installed as_well as office improvements to take_care of the expanding business . In 1931 Mrs._F._H._Briggs , agent and chief operator , who was to retire in 1946 with thirty years ' service , led agency offices in sales for the year with $ 2490 . William_Hitchcock , who retired in 1938 , was a veteran of thirty-four years ' local <head>service</head> . Another veteran telephone_operator was Edith_Fleming_Blackmer , who had been in the office forty years at the time of her death in 1960 . In 1932 Dorset received its own exchange , which made business easier for the Manchester office , but it was not until February 1953 that area service was extended to include Manchester and Dorset . This eliminated toll_calls between the two towns .</context>
+    </instance>
+    <instance id="br-j56#w1509_0" docsrc="br-j56">
+      <context> In 1931 Mrs._F._H._Briggs , agent and chief operator , who was to retire in 1946 with thirty years ' service , led agency offices in sales for the year with $ 2490 . William_Hitchcock , who retired in 1938 , was a veteran of thirty-four years ' local service . Another veteran telephone_operator was Edith_Fleming_Blackmer , who had been in the office forty years at the time of her death in 1960 . In 1932 Dorset received its own exchange , which made business easier for the Manchester office , but it was not until February 1953 that area <head>service</head> was extended to include Manchester and Dorset . This eliminated toll_calls between the two towns . Within a month , calls were up seventy per_cent . Electricity plays such an important part in community life today that it is difficult to envision a time when current was not available for daily use .</context>
+    </instance>
+    <instance id="br-j56#w1653_0" docsrc="br-j56">
+      <context> The first mention of an electric plant in Manchester seems to be one installed in Reuben_Colvin 's and Houghton 's gristmill on the West_Branch in Factory_Point . No records are available as_to the date or extent of installation , but it may have been in 1896 . On June_14 , 1900 the Manchester_Journal reported that an electrical_engineer was installing an electric_light plant for Edward_S._Isham at `` Ormsby_Hill '' . This was working by the end of August and giving satisfactory <head>service</head> . In November 1900 surveying was done under John_Marsden on the east mountains to ascertain if it would be possible to get sufficient water and fall to operate an electric power_plant . Nothing came of it , perhaps due_to lack of opportunity for water storage . The next step was construction by the Manchester_Light_and_Power_Company of a plant on the west bank of the Battenkill south of Union_Street bridge .</context>
+    </instance>
+    <instance id="br-j57#w2073_0" docsrc="br-j57">
+      <context> New , indeed , is Luther 's perception , but not modern , as anyone knows who has ever tried to make intelligible to modern students what Luther was getting at . Although Utopian communism is both new in 1516 and also modern , it is not modern communism or even modern socialism , as they exist or have ever existed in_theory or in_practice . Consider the features of Utopian communism : generous public provision for the infirm ; democratic and secret elections of all officers including priests , meals taken publicly in common refectories ; a common habit or uniform prescribed for all citizens ; even houses changed once a decade ; six hours of manual_labor a day for all but a handful of magistrates and scholars , and careful measures to prevent anyone from shirking ; no private_property , no money ; no sort of pricing at_all for any goods or <head>services</head> , and therefore no market in the economic sense of the term . Whatever the merits of its intent , Utopian communism is far too naive , far too crude , to suit any modern socialist or communist . It is not the details of Utopian communism that make Utopia modern , it is the spirit , the attitude of mind that informs those details . What that spirit and attitude were we can best understand if we see more precisely how it contrasts with the communist tradition with the longest continuous history , the one which reached Christianity by_the_way_of Stoicism through the Church_Fathers of Late Antiquity .</context>
+    </instance>
+    <instance id="br-k10#w150_0" docsrc="br-k10">
+      <context> John 's first impulse was to denounce their blasphemy . But the thought occurred that God would want this opportunity used to tell them about Him . Calmly he opened the Bible and read of the woman at the well . He finished the worship <head>service</head> as if there had been no brazen attempt to dishonor God and man . The next morning , as the clock struck nine , he appeared at the Council meeting in the Town_Hall and insisted that the couple would have_to be punished if the Church was to be respected . `` I have told you before , and I tell you again '' , Monsieur_Favre said rudely . `` Stick_to the preaching of the Gospel '' !</context>
+    </instance>
+    <instance id="br-k15#w204_0" docsrc="br-k15">
+      <context> `` It always comes in threes '' , she sighed heavily . `` Trouble never comes but in threes '' . They held the funeral the next morning from the crossroads church and buried the little box in the quiet family plot . Kate moved through all the preparations and <head>services</head> in a state of bewilderment . She would not accept the death of such a little child . `` God called her to Him '' , the minister had said . God would not do that , Kate thought stubbornly .</context>
+    </instance>
+    <instance id="br-m01#w2264_0" docsrc="br-m01">
+      <context> Anyhow , it was high_time the boy was salted . Jubal could n't reconstruct the crime from the way the girls behaved because patterns kept shifting - ABC vs D , then BCD vs A &amp; &amp; &amp; or AB vs CD , or AD vs CB , through all ways that four women can gang_up on each other . This continued most of the week following that ill-starred trip to church , during which period Mike stayed in his room and usually in a trance so deep that Jubal would have pronounced him dead had he not seen it before . Jubal would not have minded it if <head>service</head> had not gone_to_pieces . The girls seemed to spend half their time tiptoeing in `` to see if Mike was all_right '' and they were too preoccupied to cook , much less be secretaries . Even rock-steady Anne - Hell , Anne was the worst ! Absent-minded , subject_to unexplained tears .</context>
+    </instance>
+    <instance id="br-p01#w1471_0" docsrc="br-p01">
+      <context> He would not carry a brief_case . Nor would he work at_all . He would square his shoulders and carry a cane before each step . He would sit inside the coffee_shop and pound a gloved fist upon the table and a girl would hear him and come running , bowing with her running , calling_out in her bowing , `` At your <head>service</head> '' . He would order her to bring coffee , and would take from his vest_pocket a thin black pipe which he would stuff - he would not remove his gloves - and light and smoke . He could do that when he would be a man . `` Hey , Laura '' ! he called to his sister on the porch above the steps .</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="microbe.n" pos="NN">
+    <instance id="Microorganism-microbe-0-112-2" docsrc="Microorganism">
+      <context> <head>====</head> Soil ==== Microbes can make nutrients and minerals in the soil available to plants , produce hormones that spur growth , stimulate the plant immune system and trigger or dampen stress responses .</context>
+    </instance>
+    <instance id="Microorganism-microbe-0-191-1" docsrc="Microorganism">
+      <context> <head>Understanding</head> Our Microbial Planet : The New Science of Metagenomics A 20-page educational booklet providing a basic overview of metagenomics and our microbial planet . Tree of Life Eukaryotes Microbe News from Genome News Network</context>
+    </instance>
+    <instance id="Microorganism-microbe-21-82-6" docsrc="Microorganism">
+      <context> Extremophiles have been known to survive for a prolonged time in a vacuum , and can be highly resistant to radiation <head>,</head> which may even allow them to survive in space . Many types of microorganisms have intimate symbiotic relationships with other larger organisms ; some of which are mutually beneficial ( mutualism ) , while others can be damaging to the host organism ( parasitism ) . If microorganisms can cause disease in a host they are known as pathogens and then they are sometimes referred to as microbes .</context>
+    </instance>
+    <instance id="Microorganism-microbe-5-178-1" docsrc="Microorganism">
+      <context> === Ecology === Microorganisms play <head>critical</head> roles in Earth 's biogeochemical cycles as they are responsible for decomposition and play vital parts in carbon and nitrogen fixation , as well as oxygen production . " Uncharted Microbial World : Microbes and Their Activities in the Environment " Report from the American Academy of Microbiology</context>
+    </instance>
+    <instance id="Microorganism-microbe-6-3-4" docsrc="Microorganism">
+      <context> Microorganisms are also exploited in biotechnology <head>,</head> both in traditional food and beverage preparation , and in modern technologies based on genetic engineering . A small proportion of microorganisms are pathogenic and cause disease and even death in plants and animals . Microorganisms are often referred to as microbes , but this is usually used in reference to pathogens .</context>
+    </instance>
+    <instance id="Microorganism-microbe-9-2-8" docsrc="Microorganism">
+      <context> Other researchers reported related studies that microorganisms thrive inside <head>rocks</head> up to 580 m ( 1,900 ft ; 0.36 mi ) below the sea floor under 2,590 m ( 8,500 ft ; 1.61 mi ) of ocean off the coast of the northwestern United States , as well as 2,400 m ( 7,900 ft ; 1.5 mi ) beneath the seabed off Japan . On 20 August 2014 , scientists confirmed the existence of microorganisms living 800 m ( 2,600 ft ; 0.50 mi ) below the ice of Antarctica . According to one researcher , " You can find microbes everywhere — they 're extremely adaptable to conditions , and survive wherever they are . "</context>
+    </instance>
+    <instance id="a03014485_d_8" docsrc="a03014485_d">
+      <context> of or involving or caused by or being <head>microbes</head> ;</context>
+    </instance>
+    <instance id="n11129808_d_21" docsrc="n11129808_d">
+      <context> Dutch pioneer microscopist who was among the first to recognize cells in animals and who gave the first accurate descriptions of <head>microbes</head> and spermatozoa and blood_corpuscles ;</context>
+    </instance>
+  </lexelt>
+</corpus>

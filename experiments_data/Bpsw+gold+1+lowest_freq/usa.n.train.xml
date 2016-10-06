@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="usa.n" pos="n">
+    <instance id="Lieutenant_general_(United_States)-usa-6-67-1" docsrc="Lieutenant_general_(United_States)">
+      <context> William Eldridge Odom , head of <head>the</head> National Security Agency under president Ronald Reagan , outspoken opponent of the Iraq War and warrantless wiretaping of US citizens . Carol A. Mutter , LtGen , USMC ( Ret ) : first woman to be promoted to Lieutenant General ( 1 September 1996 ) Claudia J. Kennedy , LTG , USA ( Ret ) : first woman to be promoted to Lieutenant General in the United States Army ( 17 June 1997 )</context>
+    </instance>
+    <instance id="United_States-usa-0-368-2" docsrc="United_States">
+      <context> <head>U.S.</head> National Mottos : History and Constitutionality Analysis by the Ontario Consultants on Religious Tolerance USA Collected links to historical data</context>
+    </instance>
+  </lexelt>
+</corpus>

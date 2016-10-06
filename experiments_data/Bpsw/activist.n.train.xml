@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="activist.n" pos="NN">
+    <instance id="Militant-activist-19-1-1" docsrc="Militant">
+      <context> The current meaning of militant does not usually refer to a registered soldier : it can be anyone who <head>subscribes</head> to the idea of using vigorous , sometimes extreme , activity to achieve an objective , usually political . A " militant [ political ] activist " would be expected to be more confrontational and aggressive than an activist not described as militant .</context>
+    </instance>
+    <instance id="Militant-activist-6-1-1" docsrc="Militant">
+      <context> The current meaning of militant does <head>not</head> usually refer to a registered soldier : it can be anyone who subscribes to the idea of using vigorous , sometimes extreme , activity to achieve an objective , usually political . A " militant [ political ] activist " would be expected to be more confrontational and aggressive than an activist not described as militant .</context>
+    </instance>
+    <instance id="Militant-activist-8-7-1" docsrc="Militant">
+      <context> The purpose of the Christian Church Militant is <head>to</head> struggle against sin , the devil and " ..the rulers of the darkness of this world , against spiritual wickedness in high places " ( Ephesians 6:12 ) , but it is not a violent movement . An example of the adjective usages is demonstrated when The New York Times ran an article titled Militant Environmentalists Planning Summer Protests to Save Redwoods describing a group that believes in " confrontational demonstrations " and " nonviolent tactics " to get across their message of preserving the environment . Another usage example includes ' a militant political activist ' , drawing attention to behaviours typical of those engaged in intensive political activism .</context>
+    </instance>
+    <instance id="n08018189_d_7" docsrc="n08018189_d">
+      <context> a terrorist_organization organized in 1959 by student <head>activists</head> who were dissatisfied with the moderate nationalism of the traditional Basque party ; want to create an independent homeland in Spain's western Pyrenees ;</context>
+    </instance>
+    <instance id="n10944013_d_3" docsrc="n10944013_d">
+      <context> United_States_
+     _rights_leader and political <head>activist</head> who campaigned for equality for Black_Americans ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="heavyweight.n" pos="NN">
+    <instance id="n10814574_d_6" docsrc="n10814574_d">
+      <context> United_States prizefighter who won the world <head>heavyweight</head> championship three times ;</context>
+    </instance>
+    <instance id="n10910421_d_1" docsrc="n10910421_d">
+      <context> United_States <head>heavyweight</head> boxing champion ;</context>
+    </instance>
+    <instance id="n10930591_d_5" docsrc="n10930591_d">
+      <context> United_States prizefighter who was world <head>heavyweight</head> champion ;</context>
+    </instance>
+    <instance id="n11135044_d_6" docsrc="n11135044_d">
+      <context> United_States prizefighter who lost his world <head>heavyweight</head> championship to Cassius_Clay in 1964 ;</context>
+    </instance>
+    <instance id="n11141709_d_5" docsrc="n11141709_d">
+      <context> United_States prizefighter who was world <head>heavyweight</head> champion for 12 years ;</context>
+    </instance>
+    <instance id="n11155943_d_6" docsrc="n11155943_d">
+      <context> United_States prizefighter who won the world <head>heavyweight</head> championship in 1952 ;</context>
+    </instance>
+    <instance id="n11351832_d_6" docsrc="n11351832_d">
+      <context> United_States prizefighter who won the world <head>heavyweight</head> championship by defeating Jack_Dempsey twice ;</context>
+    </instance>
+  </lexelt>
+</corpus>

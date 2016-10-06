@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="limit.n" pos="NN">
+    <instance id="n00371059_d_6" docsrc="n00371059_d">
+      <context> extension to or beyond the ordinary <head>limit</head> ;</context>
+    </instance>
+    <instance id="n00792720_d_25" docsrc="n00792720_d">
+      <context> a clinical_trial on a few persons to determine the safety of a new drug or invasive medical device ; for drugs , dosage or toxicity <head>limits</head> should be obtained ;</context>
+    </instance>
+    <instance id="n01222034_d_9" docsrc="n01222034_d">
+      <context> the final irritation that stretches your patience beyond the <head>limit</head> ;</context>
+    </instance>
+    <instance id="n04432942_d_11" docsrc="n04432942_d">
+      <context> indicator consisting of a line at the highwater or low water <head>limits</head> of the tides ;</context>
+    </instance>
+    <instance id="n05118437_d_10" docsrc="n05118437_d">
+      <context> immoderation as a consequence of going beyond sufficient or permitted <head>limits</head> ;</context>
+    </instance>
+    <instance id="n05124792_d_1" docsrc="n05124792_d">
+      <context> a <head>limit</head> to high speed flight imposed by aerodynamic heating ;</context>
+    </instance>
+    <instance id="n05135582_d_8" docsrc="n05135582_d">
+      <context> the property of being very deep ; without <head>limit</head> ;</context>
+    </instance>
+    <instance id="n05863106_d_9" docsrc="n05863106_d">
+      <context> the approach of an infinite series to a finite <head>limit</head> ;</context>
+    </instance>
+    <instance id="n06260518_d_6" docsrc="n06260518_d">
+      <context> a range of frequencies between two <head>limits</head> ;</context>
+    </instance>
+    <instance id="n07407272_d_11" docsrc="n07407272_d">
+      <context> the occurrence of surplus liquid ( as water ) exceeding the <head>limit</head> or capacity ;</context>
+    </instance>
+    <instance id="n08456178_d_3" docsrc="n08456178_d">
+      <context> Islamic_laws stating the <head>limits</head> ordained by Allah and including the deterrent punishments for serious crimes ;</context>
+    </instance>
+    <instance id="n08541130_d_1" docsrc="n08541130_d">
+      <context> the <head>limits</head> of the area occupied by a city or town ;</context>
+    </instance>
+    <instance id="n13758296_ex1_2" docsrc="n13758296_ex1">
+      <context> there are <head>limits</head> on the amount you can bet ;</context>
+    </instance>
+    <instance id="n13759014_d_2" docsrc="n13759014_d">
+      <context> a designated <head>limit</head> beyond which something can not function or must be terminated ;</context>
+    </instance>
+    <instance id="n13759941_d_16" docsrc="n13759941_d">
+      <context> the additional volume of air that the lungs can inhale and exhale when breathing to the <head>limit</head> of capacity in times of stress ;</context>
+    </instance>
+    <instance id="v01798678_d_3" docsrc="v01798678_d">
+      <context> stretch to the <head>limits</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

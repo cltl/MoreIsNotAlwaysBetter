@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="plumber.n" pos="NN">
+    <instance id="br-f33#w1706_0" docsrc="br-f33">
+      <context> The separate vocational or technical high_schools in the large cities must be reckoned as permanent institutions . By_and_large their programs are satisfactorily connected both to the employment situation and to the realities of the apprentice system . It is not often realized to_what_degree certain trades are in many communities closed areas of employment , except for a lucky few . One has_to talk confidentially with some of the directors of vocational high_schools to realize that a boy cannot just say , `` I want to be a <head>plumber</head> '' , and then , by doing good work , find a job . It is far more difficult in many communities to obtain admission to an apprentice program which involves union approval than to get_into the most selective medical_school in the nation . Two stories will illustrate what I have_in_mind . One vocational instructor in a city vocational_school , speaking of his course in a certain field , said he had no difficulty placing all students in jobs outside of the city .</context>
+    </instance>
+    <instance id="br-f33#w1870_0" docsrc="br-f33">
+      <context> In the city , he said , the waiting_list for those who want to join the union is so long that unless a boy has an inside_track he can n't get_in . In a far distant part of the United_States , I was talking to an instructor about a boy who in the twelfth grade was doing special work . `` What does he have_in_mind to do when he graduates '' ? `` Oh , he 'll be a <head>plumber</head> '' , came the answer . `` But is n't it almost impossible to get_into the union '' ? I asked . `` He 'll have no difficulty '' , I was told .</context>
+    </instance>
+    <instance id="br-l15#w1626_0" docsrc="br-l15">
+      <context> `` Old people have their idiosyncrasies '' . `` This one came a_bit high at thirty_thousand or more '' . `` Well , she had a number of them where money was concerned '' , Garth said . `` Sometimes we 'd have trouble persuading her to make tax-exempt charitable contributions , and I 've known her to quarrel with a <head>plumber</head> over a bill for fixing a faucet ; the next moment she 'd put another half million into the scholarship fund or thirty_thousand into something as impractical as this unfortunate Johnston affair . There was no telling how she 'd react to spending money '' . Madden inquired next about the audit of the scholarship fund . There was an annual audit , Garth informed him .</context>
+    </instance>
+    <instance id="n00609669_d_4" docsrc="n00609669_d">
+      <context> the occupation of a <head>plumber</head> ( installing and repairing pipes and fixtures for water or gas or sewage in a building ) ;</context>
+    </instance>
+  </lexelt>
+</corpus>

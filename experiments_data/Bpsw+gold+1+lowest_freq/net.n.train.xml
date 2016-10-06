@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="net.n" pos="NN">
+    <instance id="Profit_(accounting)-net-6-138-1" docsrc="Profit_(accounting)">
+      <context> It is also known as Operating <head>Profit</head> Before Interest and Taxes ( OPBIT ) or simply Profit Before Interest and Taxes ( PBIT ) . Earnings After Tax/ Net Profit After Tax equal sales revenue after deducting all expenses , including taxes ( unless some distinction about the treatment of extraordinary expenses is made ) . In the US , the term Net Income is commonly used .</context>
+    </instance>
+    <instance id="br-g20#w393_0" docsrc="br-g20">
+      <context> Presumably a cocktail_party is expected to fulfill the host 's desire to get_together a number of people who are inadequately acquainted and thereby arrange for bringing the level of acquaintance up to adequacy for future cooperative endeavors . The party is usually in a room small enough so that all guests are within sight and hearing of one another . The information is furnished by each of the guests , is sent by oral broadcasting over the air_waves , and is received by the ears . Since the air is a continuum , the network of communication remains intact regardless of the positions or motions of the points ( the people ) in the <head>net</head> . As shown in Figure 1 , there is a connection for communication between every pair of points . This , and other qualifications , make the cocktail_party the most complete and most chaotic communication_system ever dreamed_up . All four types of message listed in Table 1 are permitted , although decorum and cocktail tradition require holding the commands to a minimum , while exclamations having complimentary intonations are more_than customarily encouraged .</context>
+    </instance>
+    <instance id="n00467995_d_26" docsrc="n00467995_d">
+      <context> a game resembling ice_hockey that is played on an open field ; two opposing teams use curved sticks try to drive a ball into the opponents' <head>net</head> ;</context>
+    </instance>
+    <instance id="n00480211_d_13" docsrc="n00480211_d">
+      <context> a game in which two teams hit an inflated ball over a high <head>net</head> using their hands ;</context>
+    </instance>
+    <instance id="n00909386_d_1" docsrc="n00909386_d">
+      <context> creating <head>nets</head> ;</context>
+    </instance>
+    <instance id="n01264933_d_8" docsrc="n01264933_d">
+      <context> an attempt to put the soccer_ball into the <head>net</head> by using the head ;</context>
+    </instance>
+    <instance id="n01319685_d_7" docsrc="n01319685_d">
+      <context> unwanted marine_creatures that are caught in the <head>nets</head> while fishing for another species ;</context>
+    </instance>
+    <instance id="n02936921_d_1" docsrc="n02936921_d">
+      <context> the <head>net</head> that is the goal in ice_hockey ;</context>
+    </instance>
+  </lexelt>
+</corpus>

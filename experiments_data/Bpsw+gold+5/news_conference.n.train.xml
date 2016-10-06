@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="news_conference.n" pos="NN">
+    <instance id="br-a14#w57_0" docsrc="br-a14">
+      <context> Nick_Skorich , the line_coach for the football champion Philadelphia_Eagles , was elevated today to head coach . Skorich received a three year contract at a salary believed to be between $ 20000 and $ 25000 a year . He succeeds Buck_Shaw , who retired at the end of last season . The appointment was announced at a <head>news_conference</head> at which Skorich said he would retain two members of Shaw 's staff - Jerry_Williams and Charlie_Gauer . Williams is a defensive coach . Gauer works with the ends . The selection had been expected .</context>
+    </instance>
+    <instance id="br-h18#w1055_0" docsrc="br-h18">
+      <context> I tried to do so by calling to their attention some of the problems that a senior departmental policy officer faces . This means practically everybody in this room . Whether it will strike_home for you or not will be for you to determine . The senior policy officer may be moved to think hard about a problem by any of an infinite variety of stimuli : an idea in his own head , the suggestions of a colleague , a question from the Secretary or the President , a proposal by another department , a communication from a foreign government or an American ambassador abroad , the filing of an item for the agenda of the United_Nations or of any other of dozens of international bodies , a news_item read at the breakfast_table , a question to the President or the Secretary at a <head>news_conference</head> , a speech by a Senator or Congressman , an article in a periodical , a resolution from a national organization , a request for assistance from some private American interests abroad , et_cetera , ad_infinitum . The policy officer lives with his antennae alerted for the questions which fall within his range of responsibility . His first thought is about the question itself : Is there a question here for American foreign_policy , and , if so , what is it ?</context>
+    </instance>
+  </lexelt>
+</corpus>

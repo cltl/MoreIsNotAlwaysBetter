@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="banality.n" pos="n">
+    <instance id="Platitude-banality-17-5-1" docsrc="Platitude">
+      <context> However , they are too overused and general to be anything more than undirected statements with ultimately <head>little</head> meaningful contribution towards a solution . The word is a borrowing from the French compound platitude , from plat ' flat ' + -(i)tude ' -ness ' , thus ' flatness ' . The figurative sense is first attested in French in 1694 in the meaning ' the quality of banality ' and in 1740 in the meaning ' a commonplace remark ' .</context>
+    </instance>
+  </lexelt>
+</corpus>

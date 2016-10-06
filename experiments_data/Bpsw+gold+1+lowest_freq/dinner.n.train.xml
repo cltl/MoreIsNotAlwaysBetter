@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="dinner.n" pos="NN">
+    <instance id="a00129612_d_5" docsrc="a00129612_d">
+      <context> preceding a meal ( especially <head>dinner</head> ) ;</context>
+    </instance>
+    <instance id="a00129729_d_5" docsrc="a00129729_d">
+      <context> following a meal ( especially <head>dinner</head> ) ;</context>
+    </instance>
+    <instance id="br-a14#w911_0" docsrc="br-a14">
+      <context> All was quiet in the office of the Yankees and the local National_Leaguers yesterday . On Friday , Roger_Maris , the Yankee outfielder and winner of the American_League 's most-valuable-player award , will meet with Roy_Hamey , the general_manager . Maris is in_line for a big raise . Arnold_Palmer and Sam_Snead will be among those honored at the national awards <head>dinner</head> of the Metropolitan_Golf_Writers_Association tonight . The dinner will be held at the Hotel_Pierre . Palmer , golf 's leading money winner in 1960 , and Snead will be saluted as the winning team in the Canada_Cup matches last June in Dublin . Deane_Beman , the National_Amateur champion , and all the metropolitan district champions , including Bob_Gardner , the amateur title-holder , also will receive awards .</context>
+    </instance>
+    <instance id="br-a14#w918_0" docsrc="br-a14">
+      <context> On Friday , Roger_Maris , the Yankee outfielder and winner of the American_League 's most-valuable-player award , will meet with Roy_Hamey , the general_manager . Maris is in_line for a big raise . Arnold_Palmer and Sam_Snead will be among those honored at the national awards dinner of the Metropolitan_Golf_Writers_Association tonight . The <head>dinner</head> will be held at the Hotel_Pierre . Palmer , golf 's leading money winner in 1960 , and Snead will be saluted as the winning team in the Canada_Cup matches last June in Dublin . Deane_Beman , the National_Amateur champion , and all the metropolitan district champions , including Bob_Gardner , the amateur title-holder , also will receive awards . The writers ' Gold_Tee_Award will go to John_McAuliffe of Plainfield , N._J. , and Palm_Beach , Fla. , for his sponsorship of charity tournaments .</context>
+    </instance>
+    <instance id="br-a15#w896_0" docsrc="br-a15">
+      <context> Those Dodgers won their first 10 games and owned a 21 - 2 mark and a nine game lead by May 8 . The club that overcame the worst start in a comparable period to win the pennant was New_York 's '51 Giants , who dropped 11 of their first 13 . They honored the battling Billikens last night . Speakers at a Tipoff_Club <head>dinner</head> dealt lavish praise to a group of St._Louis_University players who , in the words of Coach_John_Benington , `` had more confidence in themselves than I did '' . The most_valuable_player award was split three ways , among Glen_Mankowski , Gordon_Hartweger and Tom_Kieffer . In_addition , a special award was given to Bob_(_Bevo_) Nordmann , the 6 - foot - 10 center who missed much of the season because of a knee injury . `` You often hear people talk_about team_spirit and that sort of thing '' , Benington said in a conversation after the ceremonies , `` but what this team had was a_little different .</context>
+    </instance>
+    <instance id="br-f20#w1238_0" docsrc="br-f20">
+      <context> In_fact , O_'_Connor was honoured during the ceremony with the presentation of a $ 2500 diamond stickpin . There was a brief interruption while one of O_'_Banion 's men jerked out both his guns and threatened to shoot a waiter who was pestering him for a tip . Then O_'_Banion was presented with a platinum watch set with rubies and diamonds . This <head>dinner</head> was the start of a new blatancy in the relationship between the gangs and the politicians , which , prior to 1924 , says Pasley , `` had been maintained with more_or_less stealth '' , but which henceforth was marked by these ostentatious gatherings , denounced by a clergyman as `` Belshazzar feasts '' , at which `` politicians fraternized cheek_by_jowl with gangsters , openly , in the big downtown hotels '' . Pasley continued : `` They became an institution of the Chicago scene and marked the way to the moral and financial collapse of the municipal and county governments in 1928_-_29 '' . However , this inaugural feast did its sponsors no good whatever . O_'_Banion accepted his platinum watch and the tributes to his loyalty , and proceeded with the bigger and better Republican deal .</context>
+    </instance>
+    <instance id="br-r05#w1417_0" docsrc="br-r05">
+      <context> `` I want the fish served whole , with head and tail '' , the epicure explained , `` and serve it with lemon in mouth '' . The maid demurred . `` That 's silly - lemon in mouth '' , she said . But since the gourmet insisted that it is done that way at_the_most fashionable <head>dinners</head> , the girl reluctantly agreed . So she brought the fish in whole , and she carried a lemon in her mouth . Another specimen of such double-entendre is illustrated by a woman in a department_store . She said to the saleslady , `` I want a dress to put_on around the house '' .</context>
+    </instance>
+    <instance id="n00840517_d_4" docsrc="n00840517_d">
+      <context> the act of eating <head>dinner</head> ;</context>
+    </instance>
+    <instance id="n00841527_d_1" docsrc="n00841527_d">
+      <context> a <head>dinner</head> where each person pays for his own ;</context>
+    </instance>
+    <instance id="v01167780_d_6" docsrc="v01167780_d">
+      <context> give dinner to ; host for <head>dinner</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

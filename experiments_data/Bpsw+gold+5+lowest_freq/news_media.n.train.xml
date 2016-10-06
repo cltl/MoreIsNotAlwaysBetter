@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="news_media.n" pos="NN">
+    <instance id="n05801286_d_14" docsrc="n05801286_d">
+      <context> a poll of voters as they leave the voting place ; usually taken by <head>news_media</head> in order to predict the outcome of an election ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="low.n" pos="NN">
+    <instance id="n05097706_ex1_7" docsrc="n05097706_ex1">
+      <context> the stock market fell to a new <head>low</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

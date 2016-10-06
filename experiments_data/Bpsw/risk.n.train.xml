@@ -1,0 +1,767 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="risk.n" pos="NN">
+    <instance id="Hazard-risk-0-22-1" docsrc="Hazard">
+      <context> <head>(</head> This discussion moved away from hazard to a discussion of risk . ) A common method is to score both likelihood and seriousness on a numerical scale ( with the most likely and most serious scoring highest ) and multiplying one by the other to produce a comparative score . Risk = Hazard × Vulnerability / Capacity</context>
+    </instance>
+    <instance id="Hazard-risk-11-0-2" docsrc="Hazard">
+      <context> A hazard is a situation that poses a level of threat <head>to</head> life , health , property , or environment . These hazards are also very dangerous for human and animal life . Most hazards are dormant or potential , with only a theoretical risk of harm ; however , once a hazard becomes " active " , it can create an emergency .</context>
+    </instance>
+    <instance id="Hazard-risk-11-0-5" docsrc="Hazard">
+      <context> A hazardous situation that has come to pass is called an <head>incident</head> . Hazard and possibility interact together to create risk . Identification of hazard risks is the first step in performing a risk assessment .</context>
+    </instance>
+    <instance id="Hazard-risk-11-21-1" docsrc="Hazard">
+      <context> Ergonomic Hazard There are several methods of classifying hazard , but <head>most</head> systems use some variation on the factors of " likelihood " of the hazard turning into an incident and the " seriousness " of the incident if it were to occur . ( This discussion moved away from hazard to a discussion of risk . )</context>
+    </instance>
+    <instance id="Hazard-risk-12-29-1" docsrc="Hazard">
+      <context> === Prioritization of hazards === Hazards can be identified and prioritized using <head>the</head> SMUG model . The SMUG model provides a means for prioritizing hazards based on the risk they present during an emergency .</context>
+    </instance>
+    <instance id="Hazard-risk-3-0-5" docsrc="Hazard">
+      <context> A hazardous situation <head>that</head> has come to pass is called an incident . Hazard and possibility interact together to create risk . Identification of hazard risks is the first step in performing a risk assessment .</context>
+    </instance>
+    <instance id="Hazard-risk-7-0-4" docsrc="Hazard">
+      <context> Most hazards are dormant or potential , <head>with</head> only a theoretical risk of harm ; however , once a hazard becomes " active " , it can create an emergency . A hazardous situation that has come to pass is called an incident . Hazard and possibility interact together to create risk .</context>
+    </instance>
+    <instance id="Risk-risk-0-131-3" docsrc="Risk">
+      <context> <head>Probabilities</head> for rare failures may be difficult to estimate . This makes risk assessment difficult in hazardous industries , for example nuclear energy , where the frequency of failures is rare , while harmful consequences of failure are severe . Risk is often measured as the expected value of an undesirable outcome .</context>
+    </instance>
+    <instance id="Risk-risk-0-194-2" docsrc="Risk">
+      <context> <head>People</head> may rely on their fear and hesitation to keep them out of the most profoundly unknown circumstances . Fear is a response to perceived danger . Risk could be said to be the way we collectively measure and share this " true fear"—a fusion of rational doubt , irrational fear , and a set of unquantified biases from our own experience .</context>
+    </instance>
+    <instance id="Risk-risk-0-234-2" docsrc="Risk">
+      <context> <head>Measurement</head> of uncertainty : A set of probabilities assigned to a set of possibilities . Example : " There is a 60 % chance this market will double in five years " Risk : A state of uncertainty where some of the possibilities involve a loss , catastrophe , or other undesirable outcome .</context>
+    </instance>
+    <instance id="Risk-risk-0-24-1" docsrc="Risk">
+      <context> <head>Other</head> === Very different approaches to risk management are taken in different fields , e.g. " Risk is the unwanted subset of a set of uncertain outcomes " ( Cornelius Keating ) . Risk can be seen as relating to the probability of uncertain future events .</context>
+    </instance>
+    <instance id="Risk-risk-0-246-6" docsrc="Risk">
+      <context> <head>This</head> gave rise to Prospect theory and Cumulative prospect theory . Hubbard proposes instead that risk is a kind of " vector quantity " that does not collapse the probability and magnitude of a risk by presuming anything about the risk tolerance of the decision maker . Risks are simply described as a set or function of possible loss amounts each associated with specific probabilities .</context>
+    </instance>
+    <instance id="Risk-risk-0-246-8" docsrc="Risk">
+      <context> <head>Risks</head> are simply described as a set or function of possible loss amounts each associated with specific probabilities . How this array is collapsed into a single value can not be done until the risk tolerance of the decision maker is quantified . Risk can be both negative and positive , but it tends to be the negative side that people focus on .</context>
+    </instance>
+    <instance id="Risk-risk-0-247-2" docsrc="Risk">
+      <context> <head>Risk</head> can be both negative and positive , but it tends to be the negative side that people focus on . This is because some things can be dangerous , such as putting their own or someone else ’s life at risk . Risks concern people as they think that they will have a negative effect on their future .</context>
+    </instance>
+    <instance id="Risk-risk-0-29-1" docsrc="Risk">
+      <context> <head>In</head> information security risk is defined as " the potential that a given threat will exploit vulnerabilities of an asset or group of assets and thereby cause harm to the organization " . The related terms " threat " and " hazard " are often used to mean something that could cause harm . Risk is ubiquitous in all areas of life and risk management is something that we all must do , whether we are managing a major organization or simply crossing the road .</context>
+    </instance>
+    <instance id="Risk-risk-0-297-2" docsrc="Risk">
+      <context> <head>Neill</head> , M. Allen , J. Woodhead , N. Reid , S. Irwin , L. Sanderson , H. 2008 " A Positive Approach to Risk Requires Person Centred Thinking " London , CSIP Personalisation Network , Department of Health . Available from : http://networks.csip.org.uk/Personalisation/Topics/Browse/Risk/ [ Accessed 21 July 2008 ] . Risk –</context>
+    </instance>
+    <instance id="Risk-risk-0-8-1" docsrc="Risk">
+      <context> <head>It</head> defines risk as : ( Exposure to ) the possibility of loss , injury , or other adverse or unwelcome circumstance ; a chance or situation involving such a possibility . Risk is an uncertain event or condition that , if it occurs , has an effect on at least one [ project ] objective .</context>
+    </instance>
+    <instance id="Risk-risk-1-100-1" docsrc="Risk">
+      <context> It <head>is</head> not always obvious if financial instruments are " hedging " ( purchasing/selling a financial instrument specifically to reduce or cancel out the risk in another investment ) or " speculation " ( increasing measurable risk and exposing the investor to catastrophic loss in pursuit of very high windfalls that increase expected value ) . === Security === Security risk management involves protection of assets from harm caused by deliberate acts .</context>
+    </instance>
+    <instance id="Risk-risk-1-120-1" docsrc="Risk">
+      <context> In <head>an</head> experiment , people who were led to believe they are very competent at decision making saw more opportunities in a risky choice and took more risks , while those led to believe they were not very competent saw more threats and took fewer risks . === Maintenance === Since risk assessment and management is essential in security management , both are tightly related .</context>
+    </instance>
+    <instance id="Risk-risk-1-14-1" docsrc="Risk">
+      <context> Finance <head>:</head> The possibility that an actual return on an investment will be lower than the expected return . Insurance : A situation where the probability of a variable ( such as burning down of a building ) is known but when a mode of occurrence or the actual value of the occurrence ( whether the fire will occur at a particular property ) is not.(Reference needed ) A risk is not an uncertainty ( where neither the probability nor the mode of occurrence is known ) , a peril ( cause of loss ) , or a hazard ( something that makes the occurrence of a peril more likely or more severe ) .</context>
+    </instance>
+    <instance id="Risk-risk-1-223-1" docsrc="Risk">
+      <context> AR <head>=</head> IR x CR x DR Where AR is audit risk , IR is inherent risk , CR is control risk and DR is detection risk . === Risk and uncertainty ===</context>
+    </instance>
+    <instance id="Risk-risk-1-237-5" docsrc="Risk">
+      <context> In <head>both</head> cases there are more than one outcome . The measure of uncertainty refers only to the probabilities assigned to outcomes , while the measure of risk requires both probabilities for outcomes and losses quantified for outcomes . === Risk attitude , appetite and tolerance ===</context>
+    </instance>
+    <instance id="Risk-risk-1-240-1" docsrc="Risk">
+      <context> The <head>measure</head> of uncertainty refers only to the probabilities assigned to outcomes , while the measure of risk requires both probabilities for outcomes and losses quantified for outcomes . === Risk attitude , appetite and tolerance === === Risk as a vector quantity ===</context>
+    </instance>
+    <instance id="Risk-risk-1-36-1" docsrc="Risk">
+      <context> When <head>describing</head> risk however , it is convenient to consider that risk practitioners operate in some specific practice areas . === Economic risk === Economic risks can be manifested in lower incomes or higher expenditures than expected .</context>
+    </instance>
+    <instance id="Risk-risk-1-47-1" docsrc="Risk">
+      <context> Health <head>,</head> safety , and environment === Over time , a form of risk analysis called environmental risk analysis has developed . Environmental risk analysis is a field of study that attempts to understand events and activities that bring risk to human health or the environment .</context>
+    </instance>
+    <instance id="Risk-risk-1-64-2" docsrc="Risk">
+      <context> Insurance <head>is</head> a risk treatment option which involves risk sharing . It can be considered as a form of contingent capital and is akin to purchasing an option in which the buyer pays a small premium to be protected from a potential large loss . Insurance risk is often taken by insurance companies , who then bear a pool of risks including market risk , credit risk , operational risk , interest rate risk , mortality risk , longevity risks , etc .</context>
+    </instance>
+    <instance id="Risk-risk-1-70-1" docsrc="Risk">
+      <context> A <head>professional</head> code of ethics is usually focused on risk assessment and mitigation ( by the professional on behalf of client , public , society or life in general ) . In the workplace , incidental and inherent risks exist . Incidental risks are those that occur naturally in the business but are not part of the core of the business .</context>
+    </instance>
+    <instance id="Risk-risk-1-70-2" docsrc="Risk">
+      <context> In <head>the</head> workplace , incidental and inherent risks exist . Incidental risks are those that occur naturally in the business but are not part of the core of the business . Inherent risks have a negative effect on the operating profit of the business .</context>
+    </instance>
+    <instance id="Risk-risk-1-79-4" docsrc="Risk">
+      <context> The <head>usual</head> measure of risk for a class of events is then : R = probability of the event × the severity of the consequence . The risks are evaluated using fault tree/event tree techniques ( see safety engineering ) .</context>
+    </instance>
+    <instance id="Risk-risk-10-129-1" docsrc="Risk">
+      <context> An ISO standard on risk management ( Principles and guidelines <head>on</head> implementation ) was published under code ISO 31000 on 13 November 2009 . === Quantitative analysis === There are many formal methods used to " measure " risk .</context>
+    </instance>
+    <instance id="Risk-risk-10-213-5" docsrc="Risk">
+      <context> Third , according to the preparedness hypothesis , people are <head>prone</head> to fear events that have been particularly threatening to survival in human evolutionary history . Given that in most of human evolutionary history people lived in relatively small groups , rarely exceeding 100 people , a dread risk , which kills many people at once , could potentially wipe out one ’s whole group . Indeed , research found that people ’s fear peaks for risks killing around 100 people but does not increase if larger groups are killed .</context>
+    </instance>
+    <instance id="Risk-risk-10-217-3" docsrc="Risk">
+      <context> There is a chance that " judgmental accuracy " is <head>correlated</head> with heightened anxiety . Constans conducted a study to examine how worry propensity ( and current mood and trait anxiety ) might influence college student ’s estimation of their performance on an upcoming exam , and the study found that worry propensity predicted subjective risk bias ( errors in their risk assessments ) , even after variance attributable to current mood and trait anxiety had been removed . Another experiment suggests that trait anxiety is associated with pessimistic risk appraisals ( heightened perceptions of the probability and degree of suffering associated with a negative experience ) , while controlling for depression .</context>
+    </instance>
+    <instance id="Risk-risk-10-25-3" docsrc="Risk">
+      <context> For example , according to factor analysis of information risk <head>,</head> risk is : the probable frequency and probable magnitude of future loss . In computer science this definition is used by The Open Group . OHSAS ( Occupational Health &amp; Safety Advisory Services ) defines risk as the combination of the probability of a hazard resulting in an adverse event , and the severity of the event .</context>
+    </instance>
+    <instance id="Risk-risk-10-265-2" docsrc="Risk">
+      <context> John Handmer and Paul James ( 2005 ) . " <head>Trust</head> Us and Be Scared : The Changing Nature of Risk " . Global Society 21 ( 1 ) : 119–30 . Niklas Luhmann , 1996 : Modern Society Shocked by its Risks (= University of Hong Kong , Department of Sociology Occasional Papers 17 ) , Hong Kong , available via HKU Scholars HUB</context>
+    </instance>
+    <instance id="Risk-risk-10-290-2" docsrc="Risk">
+      <context> Hansson , Sven Ove . ( 2007 ) . " <head>Risk</head> " , The Stanford Encyclopedia of Philosophy ( Summer 2007 Edition ) , Edward N. Zalta ( ed . ) , forthcoming [ 3 ] . Holton , Glyn A. ( 2004 ) . " Defining Risk " , Financial Analysts Journal , 60 ( 6 ) , 19–25 .</context>
+    </instance>
+    <instance id="Risk-risk-10-45-2" docsrc="Risk">
+      <context> === Health , safety , and environment === Over time <head>,</head> a form of risk analysis called environmental risk analysis has developed .</context>
+    </instance>
+    <instance id="Risk-risk-10-94-2" docsrc="Risk">
+      <context> Artzner et al . write " we call risk the <head>investor</head> 's future net worth " . In Novak   " risk is a possibility of an undesirable event " . In financial markets , one may need to measure credit risk , information timing and source risk , probability model risk , and legal risk if there are regulatory or civil actions taken as a result of " investor 's regret " .</context>
+    </instance>
+    <instance id="Risk-risk-11-107-1" docsrc="Risk">
+      <context> === Human factors === One of the growing areas of focus <head>in</head> risk management is the field of human factors where behavioral and organizational psychology underpin our understanding of risk based decision making . This field considers questions such as " how do we make risk based decisions ? " , " why are we irrationally more scared of sharks and terrorists than we are of motor vehicles and medications ? "</context>
+    </instance>
+    <instance id="Risk-risk-11-212-3" docsrc="Risk">
+      <context> One key distinction of dreadful risks seems to be their potential <head>for</head> catastrophic consequences , threatening to kill a large number of people within a short period of time . For example , immediately after the September 11 attacks , many Americans were afraid to fly and took their car instead , a decision that led to a significant increase in the number of fatal crashes in the time period following the 9/11 event compared with the same time period before the attacks . Different hypotheses have been proposed to explain why people fear dread risks .</context>
+    </instance>
+    <instance id="Risk-risk-11-25-1" docsrc="Risk">
+      <context> Very different approaches to risk management are taken in different fields <head>,</head> e.g. " Risk is the unwanted subset of a set of uncertain outcomes " ( Cornelius Keating ) . Risk can be seen as relating to the probability of uncertain future events . For example , according to factor analysis of information risk , risk is : the probable frequency and probable magnitude of future loss .</context>
+    </instance>
+    <instance id="Risk-risk-11-33-1" docsrc="Risk">
+      <context> The related terms " threat " and " hazard " are <head>often</head> used to mean something that could cause harm . Risk is ubiquitous in all areas of life and risk management is something that we all must do , whether we are managing a major organization or simply crossing the road . When describing risk however , it is convenient to consider that risk practitioners operate in some specific practice areas .</context>
+    </instance>
+    <instance id="Risk-risk-11-82-4" docsrc="Risk">
+      <context> A higher level of risk ( typically up to 10 to <head>100</head> times what is considered broadly acceptable ) has to be justified against the costs of reducing it further and the possible benefits that make it tolerable—these risks are described as " Tolerable if ALARP " . Risks beyond this level are classified as " intolerable " . The technique as a whole is usually referred to as probabilistic risk assessment ( PRA ) ( or probabilistic safety assessment , PSA ) .</context>
+    </instance>
+    <instance id="Risk-risk-12-102-3" docsrc="Risk">
+      <context> A more detailed definition is : " A security risk is any <head>event</head> that could result in the compromise of organizational assets i.e. the unauthorized use , loss , damage , disclosure or modification of organizational assets for the profit , personal interest or political interests of individuals , groups or other entities constitutes a compromise of the asset , and includes the risk of harm to people . Compromise of organizational assets may adversely affect the enterprise , its business units and their clients . As such , consideration of security risk is a vital component of risk management . "</context>
+    </instance>
+    <instance id="Risk-risk-12-19-1" docsrc="Risk">
+      <context> A risk is not an uncertainty ( where neither the probability nor <head>the</head> mode of occurrence is known ) , a peril ( cause of loss ) , or a hazard ( something that makes the occurrence of a peril more likely or more severe ) . === International Organization for Standardization === The ISO 31000 ( 2009 ) / ISO Guide 73:2002 definition of risk is the ' effect of uncertainty on objectives ' .</context>
+    </instance>
+    <instance id="Risk-risk-12-283-1" docsrc="Risk">
+      <context> University Press of America . === Articles and papers === Drake , <head>R.</head> A. ( 1985 ) . " Decision making and risk taking : Neurological manipulation with a proposed consistency mediation . " Contemporary Social Psychology , 11 , 149–152 .</context>
+    </instance>
+    <instance id="Risk-risk-12-90-1" docsrc="Risk">
+      <context> === Finance === A fundamental idea in finance is the relationship between <head>risk</head> and return ( see modern portfolio theory ) . The greater the potential return one might seek , the greater the risk that one generally assumes .</context>
+    </instance>
+    <instance id="Risk-risk-13-116-1" docsrc="Risk">
+      <context> This is a practical way of manipulating regional cortical activation to affect risky <head>decisions</head> , especially because directed tapping or listening is easily done . === Psychology of risk taking === A growing area of research has been to examine various psychological aspects of risk taking .</context>
+    </instance>
+    <instance id="Risk-risk-13-117-2" docsrc="Risk">
+      <context> A growing area of research has been to examine various psychological aspects of <head>risk</head> taking . Researchers typically run randomized experiments with a treatment and control group to ascertain the effect of different psychological factors that may be associated with risk taking . Thus , positive and negative feedback about past risk taking can affect future risk taking .</context>
+    </instance>
+    <instance id="Risk-risk-13-202-3" docsrc="Risk">
+      <context> Some studies show a link between anxious behavior and risk ( the chance <head>that</head> an outcome will have an unfavorable result ) . Joseph Forgas introduced valence based research where emotions are grouped as either positive or negative ( Lerner and Keltner , 2000 ) . Positive emotions , such as happiness , are believed to have more optimistic risk assessments and negative emotions , such as anger , have pessimistic risk assessments .</context>
+    </instance>
+    <instance id="Risk-risk-13-74-2" docsrc="Risk">
+      <context> The experience of many people who rely on human services for support is <head>that</head> ' risk ' is often used as a reason to prevent them from gaining further independence or fully accessing the community , and that these services are often unnecessarily risk averse . " People 's autonomy used to be compromised by institution walls , now it 's too often our risk management practices " , according to John O'Brien . Michael Fischer and Ewan Ferlie ( 2013 ) find that contradictions between formal risk controls and the role of subjective factors in human services ( such as the role of emotions and ideology ) can undermine service values , so producing tensions and even intractable and ' heated ' conflict .</context>
+    </instance>
+    <instance id="Risk-risk-14-109-3" docsrc="Risk">
+      <context> In particular , because of bounded rationality ( our brains get overloaded , so <head>we</head> take mental shortcuts ) , the risk of extreme events is discounted because the probability is too low to evaluate intuitively . As an example , one of the leading causes of death is road accidents caused by drunk driving – partly because any given driver frames the problem by largely or totally ignoring the risk of a serious or fatal accident .</context>
+    </instance>
+    <instance id="Risk-risk-14-222-1" docsrc="Risk">
+      <context> It can be analytically expressed as : AR = IR x CR x DR <head>Where</head> AR is audit risk , IR is inherent risk , CR is control risk and DR is detection risk .</context>
+    </instance>
+    <instance id="Risk-risk-14-23-2" docsrc="Risk">
+      <context> === Other === Very different approaches to risk management are taken in different fields <head>,</head> e.g. " Risk is the unwanted subset of a set of uncertain outcomes " ( Cornelius Keating ) .</context>
+    </instance>
+    <instance id="Risk-risk-14-295-2" docsrc="Risk">
+      <context> Miller , L. ( 1985 ) . " Cognitive risk taking after frontal or <head>temporal</head> lobectomy I. The synthesis of fragmented visual information . " Neuropsychologia , 23 , 359–369 . Miller , L. , &amp; Milner , B. ( 1985 ) . " Cognitive risk taking after frontal or temporal lobectomy II.</context>
+    </instance>
+    <instance id="Risk-risk-15-11-1" docsrc="Risk">
+      <context> ( This definition , using project terminology , is easily made universal by removing references <head>to</head> projects ) . The probability of something happening multiplied by the resulting cost or benefit if it does . ( This concept is more properly known as the ' Expectation Value ' or ' Risk Factor ' and is used to compare levels of risk )</context>
+    </instance>
+    <instance id="Risk-risk-15-158-1" docsrc="Risk">
+      <context> For example , if performing activity X has a probability of 0.01 of suffering an <head>accident</head> of A , with a loss of 1000 , then total risk is a loss of 10 , the product of 0.01 and 1000 . Situations are sometimes more complex than the simple binary possibility case . In a situation with several possible accidents , total risk is the sum of the risks for each different accident , provided that the outcomes are comparable :</context>
+    </instance>
+    <instance id="Risk-risk-15-213-7" docsrc="Risk">
+      <context> Indeed , research found that people ’s fear peaks for risks killing around 100 people <head>but</head> does not increase if larger groups are killed . Fourth , fearing dread risks can be an ecologically rational strategy . Besides killing a large number of people at a single point in time , dread risks reduce the number of children and young adults who would have potentially produced offspring .</context>
+    </instance>
+    <instance id="Risk-risk-15-237-2" docsrc="Risk">
+      <context> In this sense , one may have uncertainty without risk but not risk without uncertainty <head>.</head> We can be uncertain about the winner of a contest , but unless we have some personal stake in it , we have no risk . If we bet money on the outcome of the contest , then we have a risk .</context>
+    </instance>
+    <instance id="Risk-risk-15-246-7" docsrc="Risk">
+      <context> Hubbard proposes instead that risk is a kind of " vector quantity " that does <head>not</head> collapse the probability and magnitude of a risk by presuming anything about the risk tolerance of the decision maker . Risks are simply described as a set or function of possible loss amounts each associated with specific probabilities . How this array is collapsed into a single value can not be done until the risk tolerance of the decision maker is quantified .</context>
+    </instance>
+    <instance id="Risk-risk-15-64-2" docsrc="Risk">
+      <context> Insurance is a risk treatment option which involves risk sharing . It can be considered <head>as</head> a form of contingent capital and is akin to purchasing an option in which the buyer pays a small premium to be protected from a potential large loss . Insurance risk is often taken by insurance companies , who then bear a pool of risks including market risk , credit risk , operational risk , interest rate risk , mortality risk , longevity risks , etc .</context>
+    </instance>
+    <instance id="Risk-risk-15-69-1" docsrc="Risk">
+      <context> === Business and management === Means of assessing risk vary widely between professions . Indeed <head>,</head> they may define these professions ; for example , a doctor manages medical risk , while a civil engineer manages risk of structural failure .</context>
+    </instance>
+    <instance id="Risk-risk-15-73-2" docsrc="Risk">
+      <context> === In human services === The experience of many people who rely on human services <head>for</head> support is that ' risk ' is often used as a reason to prevent them from gaining further independence or fully accessing the community , and that these services are often unnecessarily risk averse .</context>
+    </instance>
+    <instance id="Risk-risk-16-56-2" docsrc="Risk">
+      <context> Information security means protecting information and information systems from unauthorized access , use , disclosure , <head>disruption</head> , modification , perusal , inspection , recording or destruction . Information security grew out of practices and procedures of computer security . Information security has grown to information assurance ( IA ) i.e. is the practice of managing risks related to the use , processing , storage , and transmission of information or data and the systems and processes used for those purposes .</context>
+    </instance>
+    <instance id="Risk-risk-16-59-1" docsrc="Risk">
+      <context> While focused dominantly on information in digital form , the full range of IA encompasses not <head>only</head> digital but also analog or physical form . Information assurance is interdisciplinary and draws from multiple fields , including accounting , fraud examination , forensic science , management science , systems engineering , security engineering , and criminology , in addition to computer science . So , IT risk is narrowly focused on computer security , while information security extends to risks related to other forms of information ( paper , microfilm ) .</context>
+    </instance>
+    <instance id="Risk-risk-16-94-2" docsrc="Risk">
+      <context> Artzner et al . write " we call risk the investor 's future net worth " <head>.</head> In Novak   " risk is a possibility of an undesirable event " . In financial markets , one may need to measure credit risk , information timing and source risk , probability model risk , and legal risk if there are regulatory or civil actions taken as a result of " investor 's regret " .</context>
+    </instance>
+    <instance id="Risk-risk-17-227-1" docsrc="Risk">
+      <context> === Risk and uncertainty === In his seminal work Risk , Uncertainty , and Profit , Frank <head>Knight</head> ( 1921 ) established the distinction between risk and uncertainty . Thus , Knightian uncertainty is immeasurable , not possible to calculate , while in the Knightian sense risk is measurable .</context>
+    </instance>
+    <instance id="Risk-risk-17-237-4" docsrc="Risk">
+      <context> If we bet money on the outcome of the contest , then we have a risk . <head>In</head> both cases there are more than one outcome . The measure of uncertainty refers only to the probabilities assigned to outcomes , while the measure of risk requires both probabilities for outcomes and losses quantified for outcomes .</context>
+    </instance>
+    <instance id="Risk-risk-17-47-1" docsrc="Risk">
+      <context> Health , safety , and environment === Over time , a form of risk analysis called environmental <head>risk</head> analysis has developed . Environmental risk analysis is a field of study that attempts to understand events and activities that bring risk to human health or the environment .</context>
+    </instance>
+    <instance id="Risk-risk-18-269-1" docsrc="Risk">
+      <context> Niklas Luhmann , 1996 : Modern Society Shocked by its Risks (= University of Hong Kong , Department <head>of</head> Sociology Occasional Papers 17 ) , Hong Kong , available via HKU Scholars HUB === Books === Historian David A. Moss ' book When All Else Fails explains the U.S. government 's historical role as risk manager of last resort .</context>
+    </instance>
+    <instance id="Risk-risk-18-64-2" docsrc="Risk">
+      <context> Insurance is a risk treatment option which involves risk sharing . It can be considered as a form <head>of</head> contingent capital and is akin to purchasing an option in which the buyer pays a small premium to be protected from a potential large loss . Insurance risk is often taken by insurance companies , who then bear a pool of risks including market risk , credit risk , operational risk , interest rate risk , mortality risk , longevity risks , etc .</context>
+    </instance>
+    <instance id="Risk-risk-18-74-1" docsrc="Risk">
+      <context> In human services === The experience of many people who rely on human services for support is that <head>'</head> risk ' is often used as a reason to prevent them from gaining further independence or fully accessing the community , and that these services are often unnecessarily risk averse . " People 's autonomy used to be compromised by institution walls , now it 's too often our risk management practices " , according to John O'Brien .</context>
+    </instance>
+    <instance id="Risk-risk-18-78-3" docsrc="Risk">
+      <context> Most studies of HROs involve areas such as nuclear aircraft carriers , air traffic control , aerospace and <head>nuclear</head> power stations . Organizations such as these share in common the ability to consistently operate safely in complex , interconnected environments where a single failure in one component could lead to catastrophe . Essentially , they are organizations which appear to operate ' in spite ' of an enormous range of risks .</context>
+    </instance>
+    <instance id="Risk-risk-19-222-1" docsrc="Risk">
+      <context> It can be analytically expressed as : AR = IR x CR x DR Where AR is audit risk <head>,</head> IR is inherent risk , CR is control risk and DR is detection risk .</context>
+    </instance>
+    <instance id="Risk-risk-2-131-2" docsrc="Risk">
+      <context> Often the <head>probability</head> of a negative event is estimated by using the frequency of past similar events . Probabilities for rare failures may be difficult to estimate . This makes risk assessment difficult in hazardous industries , for example nuclear energy , where the frequency of failures is rare , while harmful consequences of failure are severe .</context>
+    </instance>
+    <instance id="Risk-risk-2-206-1" docsrc="Risk">
+      <context> , which <head>refutes</head> Forgas ’ notion of valence and promotes the idea that specific emotions have distinctive influences on judgments , fear is still related to pessimistic expectations . === Consequences of anxiety === === Dread risk ===</context>
+    </instance>
+    <instance id="Risk-risk-2-217-4" docsrc="Risk">
+      <context> Constans conducted <head>a</head> study to examine how worry propensity ( and current mood and trait anxiety ) might influence college student ’s estimation of their performance on an upcoming exam , and the study found that worry propensity predicted subjective risk bias ( errors in their risk assessments ) , even after variance attributable to current mood and trait anxiety had been removed . Another experiment suggests that trait anxiety is associated with pessimistic risk appraisals ( heightened perceptions of the probability and degree of suffering associated with a negative experience ) , while controlling for depression . The audit risk model expresses the risk of an auditor providing an inappropriate opinion of a commercial entity 's financial statements .</context>
+    </instance>
+    <instance id="Risk-risk-2-235-1" docsrc="Risk">
+      <context> Example : <head>"</head> There is a 60 % chance this market will double in five years " Risk : A state of uncertainty where some of the possibilities involve a loss , catastrophe , or other undesirable outcome . Measurement of risk : A set of possibilities each with quantified probabilities and quantified losses .</context>
+    </instance>
+    <instance id="Risk-risk-2-33-1" docsrc="Risk">
+      <context> The related <head>terms</head> " threat " and " hazard " are often used to mean something that could cause harm . Risk is ubiquitous in all areas of life and risk management is something that we all must do , whether we are managing a major organization or simply crossing the road . When describing risk however , it is convenient to consider that risk practitioners operate in some specific practice areas .</context>
+    </instance>
+    <instance id="Risk-risk-2-33-2" docsrc="Risk">
+      <context> Risk is <head>ubiquitous</head> in all areas of life and risk management is something that we all must do , whether we are managing a major organization or simply crossing the road . When describing risk however , it is convenient to consider that risk practitioners operate in some specific practice areas . === Economic risk ===</context>
+    </instance>
+    <instance id="Risk-risk-2-6-1" docsrc="Risk">
+      <context> Any human <head>endeavor</head> carries some risk , but some are much riskier than others . The Oxford English Dictionary cites the earliest use of the word in English ( in the spelling of risque from its from French original , ' risque ' ) as of 1621 , and the spelling as risk from 1655 . It defines risk as :</context>
+    </instance>
+    <instance id="Risk-risk-2-60-1" docsrc="Risk">
+      <context> Information assurance <head>is</head> interdisciplinary and draws from multiple fields , including accounting , fraud examination , forensic science , management science , systems engineering , security engineering , and criminology , in addition to computer science . So , IT risk is narrowly focused on computer security , while information security extends to risks related to other forms of information ( paper , microfilm ) . Information assurance risks include the ones related to the consistency of the business information stored in IT systems and the information stored by other means and the relevant business consequences .</context>
+    </instance>
+    <instance id="Risk-risk-2-82-1" docsrc="Risk">
+      <context> R = <head>probability</head> of the event × the severity of the consequence . The risks are evaluated using fault tree/event tree techniques ( see safety engineering ) . Where these risks are low , they are normally considered to be " broadly acceptable " .</context>
+    </instance>
+    <instance id="Risk-risk-2-90-6" docsrc="Risk">
+      <context> In comparison <head>to</head> an investment or speculative grade corporate bond , US Treasury notes and bonds yield lower rates of return . The reason for this is that a corporation is more likely to default on debt than the U.S. government . Because the risk of investing in a corporate bond is higher , investors are offered a correspondingly higher rate of return .</context>
+    </instance>
+    <instance id="Risk-risk-20-202-4" docsrc="Risk">
+      <context> Joseph Forgas introduced valence based research where emotions are grouped as either positive or negative ( Lerner and Keltner , <head>2000</head> ) . Positive emotions , such as happiness , are believed to have more optimistic risk assessments and negative emotions , such as anger , have pessimistic risk assessments . As an emotion with a negative valence , fear , and therefore anxiety , has long been associated with negative risk perceptions .</context>
+    </instance>
+    <instance id="Risk-risk-20-226-1" docsrc="Risk">
+      <context> Where AR is audit risk , IR is inherent risk , CR is control risk and DR is detection risk <head>.</head> === Risk and uncertainty === In his seminal work Risk , Uncertainty , and Profit , Frank Knight ( 1921 ) established the distinction between risk and uncertainty .</context>
+    </instance>
+    <instance id="Risk-risk-20-247-1" docsrc="Risk">
+      <context> How this array is collapsed into a single value can not be done until the risk tolerance of the decision <head>maker</head> is quantified . Risk can be both negative and positive , but it tends to be the negative side that people focus on . This is because some things can be dangerous , such as putting their own or someone else ’s life at risk .</context>
+    </instance>
+    <instance id="Risk-risk-20-264-1" docsrc="Risk">
+      <context> === Referred literature === James Franklin , 2001 : The Science of Conjecture : Evidence and Probability Before Pascal , <head>Baltimore</head> : Johns Hopkins University Press . John Handmer and Paul James ( 2005 ) . " Trust Us and Be Scared : The Changing Nature of Risk " .</context>
+    </instance>
+    <instance id="Risk-risk-20-94-2" docsrc="Risk">
+      <context> Artzner et al . write " we call risk the investor 's future net worth " . In Novak   <head>"</head> risk is a possibility of an undesirable event " . In financial markets , one may need to measure credit risk , information timing and source risk , probability model risk , and legal risk if there are regulatory or civil actions taken as a result of " investor 's regret " .</context>
+    </instance>
+    <instance id="Risk-risk-21-109-1" docsrc="Risk">
+      <context> This field considers questions such as " how do we make risk based decisions ? " , " why are we <head>irrationally</head> more scared of sharks and terrorists than we are of motor vehicles and medications ? " Framing is a fundamental problem with all forms of risk assessment . In particular , because of bounded rationality ( our brains get overloaded , so we take mental shortcuts ) , the risk of extreme events is discounted because the probability is too low to evaluate intuitively .</context>
+    </instance>
+    <instance id="Risk-risk-21-64-2" docsrc="Risk">
+      <context> Insurance is a risk treatment option which involves risk sharing . It can be considered as a form of contingent capital <head>and</head> is akin to purchasing an option in which the buyer pays a small premium to be protected from a potential large loss . Insurance risk is often taken by insurance companies , who then bear a pool of risks including market risk , credit risk , operational risk , interest rate risk , mortality risk , longevity risks , etc .</context>
+    </instance>
+    <instance id="Risk-risk-22-213-4" docsrc="Risk">
+      <context> Second , because people estimate the frequency of a risk by recalling instances of its occurrence from their social circle or the <head>media</head> , they may overvalue relatively rare but dramatic risks because of their overpresence and undervalue frequent , less dramatic risks . Third , according to the preparedness hypothesis , people are prone to fear events that have been particularly threatening to survival in human evolutionary history . Given that in most of human evolutionary history people lived in relatively small groups , rarely exceeding 100 people , a dread risk , which kills many people at once , could potentially wipe out one ’s whole group .</context>
+    </instance>
+    <instance id="Risk-risk-22-69-1" docsrc="Risk">
+      <context> === Business and management === Means of assessing risk vary widely between professions . Indeed , they may define these professions ; <head>for</head> example , a doctor manages medical risk , while a civil engineer manages risk of structural failure .</context>
+    </instance>
+    <instance id="Risk-risk-23-213-1" docsrc="Risk">
+      <context> For example , immediately after the September 11 attacks , many Americans were afraid to fly and took their car instead , a <head>decision</head> that led to a significant increase in the number of fatal crashes in the time period following the 9/11 event compared with the same time period before the attacks . Different hypotheses have been proposed to explain why people fear dread risks . First , the psychometric paradigm suggests that high lack of control , high catastrophic potential , and severe consequences account for the increased risk perception and anxiety associated with dread risks .</context>
+    </instance>
+    <instance id="Risk-risk-23-245-1" docsrc="Risk">
+      <context> === Risk attitude , appetite and tolerance === === Risk as a vector quantity === Hubbard also argues that defining risk as the <head>product</head> of impact and probability presumes ( probably incorrectly ) that the decision makers are risk neutral .</context>
+    </instance>
+    <instance id="Risk-risk-23-246-5" docsrc="Risk">
+      <context> However , most decision makers are not actually risk neutral and would not consider these equivalent choices . This gave rise to Prospect <head>theory</head> and Cumulative prospect theory . Hubbard proposes instead that risk is a kind of " vector quantity " that does not collapse the probability and magnitude of a risk by presuming anything about the risk tolerance of the decision maker .</context>
+    </instance>
+    <instance id="Risk-risk-24-117-1" docsrc="Risk">
+      <context> === Psychology of risk taking === A growing area of research has been to examine various psychological aspects of risk taking . Researchers typically <head>run</head> randomized experiments with a treatment and control group to ascertain the effect of different psychological factors that may be associated with risk taking .</context>
+    </instance>
+    <instance id="Risk-risk-24-237-1" docsrc="Risk">
+      <context> Example : " There is a 40 % chance the proposed oil well will be dry with a loss of $ 12 million in <head>exploratory</head> drilling costs " . In this sense , one may have uncertainty without risk but not risk without uncertainty . We can be uncertain about the winner of a contest , but unless we have some personal stake in it , we have no risk .</context>
+    </instance>
+    <instance id="Risk-risk-24-64-2" docsrc="Risk">
+      <context> Insurance is a risk treatment option which involves risk sharing . It can be considered as a form of contingent capital and is akin <head>to</head> purchasing an option in which the buyer pays a small premium to be protected from a potential large loss . Insurance risk is often taken by insurance companies , who then bear a pool of risks including market risk , credit risk , operational risk , interest rate risk , mortality risk , longevity risks , etc .</context>
+    </instance>
+    <instance id="Risk-risk-24-94-2" docsrc="Risk">
+      <context> Artzner et al . write " we call risk the investor 's future net worth " . In Novak   " risk is a <head>possibility</head> of an undesirable event " . In financial markets , one may need to measure credit risk , information timing and source risk , probability model risk , and legal risk if there are regulatory or civil actions taken as a result of " investor 's regret " .</context>
+    </instance>
+    <instance id="Risk-risk-24-95-1" docsrc="Risk">
+      <context> In Novak   " risk is a possibility of an undesirable event " . In financial markets , one may need to measure credit <head>risk</head> , information timing and source risk , probability model risk , and legal risk if there are regulatory or civil actions taken as a result of " investor 's regret " . It is not always obvious if financial instruments are " hedging " ( purchasing/selling a financial instrument specifically to reduce or cancel out the risk in another investment ) or " speculation " ( increasing measurable risk and exposing the investor to catastrophic loss in pursuit of very high windfalls that increase expected value ) .</context>
+    </instance>
+    <instance id="Risk-risk-25-105-1" docsrc="Risk">
+      <context> As such , consideration of security risk is a vital component of risk management . " === Human factors === One of the growing areas <head>of</head> focus in risk management is the field of human factors where behavioral and organizational psychology underpin our understanding of risk based decision making .</context>
+    </instance>
+    <instance id="Risk-risk-25-11-1" docsrc="Risk">
+      <context> ( This definition , using project terminology , is easily made universal by removing references to projects ) . The probability of something happening multiplied <head>by</head> the resulting cost or benefit if it does . ( This concept is more properly known as the ' Expectation Value ' or ' Risk Factor ' and is used to compare levels of risk )</context>
+    </instance>
+    <instance id="Risk-risk-25-202-3" docsrc="Risk">
+      <context> Some studies show a link between anxious behavior and risk ( the chance that an outcome will have an unfavorable result ) . Joseph Forgas <head>introduced</head> valence based research where emotions are grouped as either positive or negative ( Lerner and Keltner , 2000 ) . Positive emotions , such as happiness , are believed to have more optimistic risk assessments and negative emotions , such as anger , have pessimistic risk assessments .</context>
+    </instance>
+    <instance id="Risk-risk-27-117-3" docsrc="Risk">
+      <context> Researchers typically run randomized experiments with a treatment and control group to ascertain the effect of different psychological factors that may be associated with risk taking . <head>Thus</head> , positive and negative feedback about past risk taking can affect future risk taking . In an experiment , people who were led to believe they are very competent at decision making saw more opportunities in a risky choice and took more risks , while those led to believe they were not very competent saw more threats and took fewer risks .</context>
+    </instance>
+    <instance id="Risk-risk-27-156-1" docsrc="Risk">
+      <context>     { \displaystyle { \text{R}}=({\text{probability of the accident occurring}})\times ( { \text{expected loss in case of the accident } } ) }   For example , if <head>performing</head> activity X has a probability of 0.01 of suffering an accident of A , with a loss of 1000 , then total risk is a loss of 10 , the product of 0.01 and 1000 .</context>
+    </instance>
+    <instance id="Risk-risk-27-77-1" docsrc="Risk">
+      <context> Michael Fischer and Ewan Ferlie ( 2013 ) find that contradictions between formal risk controls and the role of subjective factors in human services ( such as <head>the</head> role of emotions and ideology ) can undermine service values , so producing tensions and even intractable and ' heated ' conflict . === High reliability organizations ( HROs ) === A high reliability organization ( HRO ) is an organization that has succeeded in avoiding catastrophes in an environment where normal accidents can be expected due to risk factors and complexity .</context>
+    </instance>
+    <instance id="Risk-risk-28-64-2" docsrc="Risk">
+      <context> Insurance is a risk treatment option which involves risk sharing . It can be considered as a form of contingent capital and is akin to purchasing an option <head>in</head> which the buyer pays a small premium to be protected from a potential large loss . Insurance risk is often taken by insurance companies , who then bear a pool of risks including market risk , credit risk , operational risk , interest rate risk , mortality risk , longevity risks , etc .</context>
+    </instance>
+    <instance id="Risk-risk-29-246-5" docsrc="Risk">
+      <context> However , most decision makers are not actually risk neutral and would not consider these equivalent choices . This gave rise to Prospect theory and Cumulative prospect theory . <head>Hubbard</head> proposes instead that risk is a kind of " vector quantity " that does not collapse the probability and magnitude of a risk by presuming anything about the risk tolerance of the decision maker .</context>
+    </instance>
+    <instance id="Risk-risk-29-51-1" docsrc="Risk">
+      <context> Therefore , the risk of even a very hazardous substance approaches zero as the exposure nears zero , given a person 's ( or other organism 's ) biological <head>makeup</head> , activities and location ( See exposome ) . === Information technology and information security === The increasing dependencies of modern society on information and computers networks ( both in private and public sectors , including military ) has led to new terms like IT risk and Cyberwarfare .</context>
+    </instance>
+    <instance id="Risk-risk-3-113-4" docsrc="Risk">
+      <context> Rightward tapping or <head>listening</head> had the effect of narrowing attention such that the frame was ignored . This is a practical way of manipulating regional cortical activation to affect risky decisions , especially because directed tapping or listening is easily done . === Psychology of risk taking ===</context>
+    </instance>
+    <instance id="Risk-risk-3-189-1" docsrc="Risk">
+      <context> For example , <head>if</head> performing activity X has a probability of 0.01 of suffering an accident of A , with a loss of 1000 , and a probability of 0.000001 of suffering an accident of type B , with a loss of 2,000,000 , then total loss expectancy is 12 , which is equal to a loss of 10 from an accident of type A and 2 from an accident of type B. One of the first major uses of this concept was for the planning of the Delta Works in 1953 , a flood protection program in the Netherlands , with the aid of the mathematician David van Dantzig . The kind of risk analysis pioneered there has become common today in fields like nuclear power , aerospace and the chemical industry .</context>
+    </instance>
+    <instance id="Risk-risk-3-20-3" docsrc="Risk">
+      <context> In this definition <head>,</head> uncertainties include events ( which may or may not happen ) and uncertainties caused by ambiguity or a lack of information . It also includes both negative and positive impacts on objectives . Many definitions of risk exist in common usage , however this definition was developed by an international committee representing over 30 countries and is based on the input of several thousand subject matter experts .</context>
+    </instance>
+    <instance id="Risk-risk-3-231-1" docsrc="Risk">
+      <context> In his seminal <head>work</head> Risk , Uncertainty , and Profit , Frank Knight ( 1921 ) established the distinction between risk and uncertainty . Thus , Knightian uncertainty is immeasurable , not possible to calculate , while in the Knightian sense risk is measurable . Another distinction between risk and uncertainty is proposed by Douglas Hubbard :</context>
+    </instance>
+    <instance id="Risk-risk-3-246-1" docsrc="Risk">
+      <context> === Risk as <head>a</head> vector quantity === Hubbard also argues that defining risk as the product of impact and probability presumes ( probably incorrectly ) that the decision makers are risk neutral . Only for a risk neutral person is the " certain monetary equivalent " exactly equal to the probability of the loss times the amount of the loss .</context>
+    </instance>
+    <instance id="Risk-risk-3-26-1" docsrc="Risk">
+      <context> In computer science <head>this</head> definition is used by The Open Group . OHSAS ( Occupational Health &amp; Safety Advisory Services ) defines risk as the combination of the probability of a hazard resulting in an adverse event , and the severity of the event . In information security risk is defined as " the potential that a given threat will exploit vulnerabilities of an asset or group of assets and thereby cause harm to the organization " .</context>
+    </instance>
+    <instance id="Risk-risk-3-48-1" docsrc="Risk">
+      <context> Environmental risk analysis <head>is</head> a field of study that attempts to understand events and activities that bring risk to human health or the environment . Human health and environmental risk is the likelihood of an adverse outcome ( See adverse outcome pathway ) . As such , risk is a function of hazard and exposure .</context>
+    </instance>
+    <instance id="Risk-risk-3-48-4" docsrc="Risk">
+      <context> Hazard is the <head>intrinsic</head> danger or harm that is posed , e.g. the toxicity of a chemical compound . Exposure is the likely contact with that hazard . Therefore , the risk of even a very hazardous substance approaches zero as the exposure nears zero , given a person 's ( or other organism 's ) biological makeup , activities and location ( See exposome ) .</context>
+    </instance>
+    <instance id="Risk-risk-3-59-1" docsrc="Risk">
+      <context> While focused dominantly <head>on</head> information in digital form , the full range of IA encompasses not only digital but also analog or physical form . Information assurance is interdisciplinary and draws from multiple fields , including accounting , fraud examination , forensic science , management science , systems engineering , security engineering , and criminology , in addition to computer science . So , IT risk is narrowly focused on computer security , while information security extends to risks related to other forms of information ( paper , microfilm ) .</context>
+    </instance>
+    <instance id="Risk-risk-3-63-1" docsrc="Risk">
+      <context> Information assurance risks <head>include</head> the ones related to the consistency of the business information stored in IT systems and the information stored by other means and the relevant business consequences . === Insurance === Insurance is a risk treatment option which involves risk sharing .</context>
+    </instance>
+    <instance id="Risk-risk-3-68-1" docsrc="Risk">
+      <context> Insurance risk is <head>often</head> taken by insurance companies , who then bear a pool of risks including market risk , credit risk , operational risk , interest rate risk , mortality risk , longevity risks , etc . === Business and management === Means of assessing risk vary widely between professions .</context>
+    </instance>
+    <instance id="Risk-risk-3-92-2" docsrc="Risk">
+      <context> There are different <head>types</head> of VaR : long term VaR , marginal VaR , factor VaR and shock VaR. The latter is used in measuring risk during the extreme market stress conditions . In finance , risk has no single definition .</context>
+    </instance>
+    <instance id="Risk-risk-30-213-1" docsrc="Risk">
+      <context> For example , immediately after the September 11 attacks , many Americans were afraid to fly and took their car instead , a decision that led to a significant increase <head>in</head> the number of fatal crashes in the time period following the 9/11 event compared with the same time period before the attacks . Different hypotheses have been proposed to explain why people fear dread risks . First , the psychometric paradigm suggests that high lack of control , high catastrophic potential , and severe consequences account for the increased risk perception and anxiety associated with dread risks .</context>
+    </instance>
+    <instance id="Risk-risk-31-213-2" docsrc="Risk">
+      <context> Different hypotheses have been proposed to explain why people fear dread risks . First , the psychometric paradigm suggests that high lack of control , high catastrophic potential , and severe <head>consequences</head> account for the increased risk perception and anxiety associated with dread risks . Second , because people estimate the frequency of a risk by recalling instances of its occurrence from their social circle or the media , they may overvalue relatively rare but dramatic risks because of their overpresence and undervalue frequent , less dramatic risks .</context>
+    </instance>
+    <instance id="Risk-risk-31-64-2" docsrc="Risk">
+      <context> Insurance is a risk treatment option which involves risk sharing . It can be considered as a form of contingent capital and is akin to purchasing an option in which the <head>buyer</head> pays a small premium to be protected from a potential large loss . Insurance risk is often taken by insurance companies , who then bear a pool of risks including market risk , credit risk , operational risk , interest rate risk , mortality risk , longevity risks , etc .</context>
+    </instance>
+    <instance id="Risk-risk-34-64-2" docsrc="Risk">
+      <context> Insurance is a risk treatment option which involves risk sharing . It can be considered as a form of contingent capital and is akin to purchasing an option in which the buyer pays a <head>small</head> premium to be protected from a potential large loss . Insurance risk is often taken by insurance companies , who then bear a pool of risks including market risk , credit risk , operational risk , interest rate risk , mortality risk , longevity risks , etc .</context>
+    </instance>
+    <instance id="Risk-risk-36-95-1" docsrc="Risk">
+      <context> In Novak   " risk is a possibility of an undesirable event " . In financial markets , one may need to measure credit risk , information timing and source risk , probability model risk , <head>and</head> legal risk if there are regulatory or civil actions taken as a result of " investor 's regret " . It is not always obvious if financial instruments are " hedging " ( purchasing/selling a financial instrument specifically to reduce or cancel out the risk in another investment ) or " speculation " ( increasing measurable risk and exposing the investor to catastrophic loss in pursuit of very high windfalls that increase expected value ) .</context>
+    </instance>
+    <instance id="Risk-risk-37-1-2" docsrc="Risk">
+      <context> Risk perception is the subjective judgment people make about the severity and probability of a risk , and may vary person to person . Any human endeavor carries some risk , but some are much riskier than <head>others</head> . The Oxford English Dictionary cites the earliest use of the word in English ( in the spelling of risque from its from French original , ' risque ' ) as of 1621 , and the spelling as risk from 1655 .</context>
+    </instance>
+    <instance id="Risk-risk-38-82-2" docsrc="Risk">
+      <context> The risks are evaluated using fault tree/event tree techniques ( see safety engineering ) . Where these risks are low , they are normally considered to be " broadly acceptable " . A higher level of risk ( <head>typically</head> up to 10 to 100 times what is considered broadly acceptable ) has to be justified against the costs of reducing it further and the possible benefits that make it tolerable—these risks are described as " Tolerable if ALARP " .</context>
+    </instance>
+    <instance id="Risk-risk-4-126-3" docsrc="Risk">
+      <context> Security assessment methodologies like <head>CRAMM</head> contain risk assessment modules as an important part of the first steps of the methodology . On the other hand , risk assessment methodologies like Mehari evolved to become security assessment methodologies . An ISO standard on risk management ( Principles and guidelines on implementation ) was published under code ISO 31000 on 13 November 2009 .</context>
+    </instance>
+    <instance id="Risk-risk-4-190-1" docsrc="Risk">
+      <context> The kind of risk <head>analysis</head> pioneered there has become common today in fields like nuclear power , aerospace and the chemical industry . In statistical decision theory , the risk function is defined as the expected value of a given loss function as a function of the decision rule used to make decisions in the face of uncertainty . === Fear as intuitive risk assessment ===</context>
+    </instance>
+    <instance id="Risk-risk-4-213-6" docsrc="Risk">
+      <context> Given that in most <head>of</head> human evolutionary history people lived in relatively small groups , rarely exceeding 100 people , a dread risk , which kills many people at once , could potentially wipe out one ’s whole group . Indeed , research found that people ’s fear peaks for risks killing around 100 people but does not increase if larger groups are killed . Fourth , fearing dread risks can be an ecologically rational strategy .</context>
+    </instance>
+    <instance id="Risk-risk-4-222-1" docsrc="Risk">
+      <context> It can be analytically <head>expressed</head> as : AR = IR x CR x DR Where AR is audit risk , IR is inherent risk , CR is control risk and DR is detection risk .</context>
+    </instance>
+    <instance id="Risk-risk-4-226-1" docsrc="Risk">
+      <context> Where AR is audit <head>risk</head> , IR is inherent risk , CR is control risk and DR is detection risk . === Risk and uncertainty === In his seminal work Risk , Uncertainty , and Profit , Frank Knight ( 1921 ) established the distinction between risk and uncertainty .</context>
+    </instance>
+    <instance id="Risk-risk-4-246-2" docsrc="Risk">
+      <context> Hubbard also argues that <head>defining</head> risk as the product of impact and probability presumes ( probably incorrectly ) that the decision makers are risk neutral . Only for a risk neutral person is the " certain monetary equivalent " exactly equal to the probability of the loss times the amount of the loss . For example , a risk neutral person would consider 20 % chance of winning $ 1 million exactly equal to $ 200,000 ( or a 20 % chance of losing $ 1 million to be exactly equal to losing $ 200,000 ) .</context>
+    </instance>
+    <instance id="Risk-risk-4-246-5" docsrc="Risk">
+      <context> However , most decision <head>makers</head> are not actually risk neutral and would not consider these equivalent choices . This gave rise to Prospect theory and Cumulative prospect theory . Hubbard proposes instead that risk is a kind of " vector quantity " that does not collapse the probability and magnitude of a risk by presuming anything about the risk tolerance of the decision maker .</context>
+    </instance>
+    <instance id="Risk-risk-4-47-2" docsrc="Risk">
+      <context> Over time , a <head>form</head> of risk analysis called environmental risk analysis has developed . Environmental risk analysis is a field of study that attempts to understand events and activities that bring risk to human health or the environment . Human health and environmental risk is the likelihood of an adverse outcome ( See adverse outcome pathway ) .</context>
+    </instance>
+    <instance id="Risk-risk-4-79-2" docsrc="Risk">
+      <context> Some of these industries <head>manage</head> risk in a highly quantified and enumerated way . These include the nuclear power and aircraft industries , where the possible failure of a complex series of engineered systems could result in highly undesirable outcomes . The usual measure of risk for a class of events is then :</context>
+    </instance>
+    <instance id="Risk-risk-4-82-2" docsrc="Risk">
+      <context> The risks are evaluated <head>using</head> fault tree/event tree techniques ( see safety engineering ) . Where these risks are low , they are normally considered to be " broadly acceptable " . A higher level of risk ( typically up to 10 to 100 times what is considered broadly acceptable ) has to be justified against the costs of reducing it further and the possible benefits that make it tolerable—these risks are described as " Tolerable if ALARP " .</context>
+    </instance>
+    <instance id="Risk-risk-4-94-1" docsrc="Risk">
+      <context> In finance , risk <head>has</head> no single definition . Artzner et al . write " we call risk the investor 's future net worth " . In Novak   " risk is a possibility of an undesirable event " .</context>
+    </instance>
+    <instance id="Risk-risk-40-217-2" docsrc="Risk">
+      <context> The relationship between higher levels of risk perception and " judgmental accuracy " in anxious individuals remains unclear ( Joseph I. Constans , 2001 ) . There is a chance that " judgmental accuracy " is correlated with heightened anxiety <head>.</head> Constans conducted a study to examine how worry propensity ( and current mood and trait anxiety ) might influence college student ’s estimation of their performance on an upcoming exam , and the study found that worry propensity predicted subjective risk bias ( errors in their risk assessments ) , even after variance attributable to current mood and trait anxiety had been removed .</context>
+    </instance>
+    <instance id="Risk-risk-42-213-2" docsrc="Risk">
+      <context> Different hypotheses have been proposed to explain why people fear dread risks . First , the psychometric paradigm suggests that high lack of control , high catastrophic potential , and severe consequences account for the increased risk perception and anxiety associated with <head>dread</head> risks . Second , because people estimate the frequency of a risk by recalling instances of its occurrence from their social circle or the media , they may overvalue relatively rare but dramatic risks because of their overpresence and undervalue frequent , less dramatic risks .</context>
+    </instance>
+    <instance id="Risk-risk-43-73-2" docsrc="Risk">
+      <context> === In human services === The experience of many people who rely on human services for support is that ' risk ' is often used as a reason to prevent them from gaining further independence or fully accessing the community , and that <head>these</head> services are often unnecessarily risk averse .</context>
+    </instance>
+    <instance id="Risk-risk-45-117-3" docsrc="Risk">
+      <context> Researchers typically run randomized experiments with a treatment and control group to ascertain the effect of different psychological factors that may be associated with risk taking . Thus , positive and negative feedback about past risk taking can affect future risk taking . In an <head>experiment</head> , people who were led to believe they are very competent at decision making saw more opportunities in a risky choice and took more risks , while those led to believe they were not very competent saw more threats and took fewer risks .</context>
+    </instance>
+    <instance id="Risk-risk-46-217-2" docsrc="Risk">
+      <context> The relationship between higher levels of risk perception and " judgmental accuracy " in anxious individuals remains unclear ( Joseph I. Constans , 2001 ) . There is a chance that " judgmental accuracy " is correlated with heightened anxiety . Constans conducted a study to <head>examine</head> how worry propensity ( and current mood and trait anxiety ) might influence college student ’s estimation of their performance on an upcoming exam , and the study found that worry propensity predicted subjective risk bias ( errors in their risk assessments ) , even after variance attributable to current mood and trait anxiety had been removed .</context>
+    </instance>
+    <instance id="Risk-risk-5-1-1" docsrc="Risk">
+      <context> Risk perception is the subjective <head>judgment</head> people make about the severity and probability of a risk , and may vary person to person . Any human endeavor carries some risk , but some are much riskier than others .</context>
+    </instance>
+    <instance id="Risk-risk-5-126-2" docsrc="Risk">
+      <context> Since risk assessment and management <head>is</head> essential in security management , both are tightly related . Security assessment methodologies like CRAMM contain risk assessment modules as an important part of the first steps of the methodology . On the other hand , risk assessment methodologies like Mehari evolved to become security assessment methodologies .</context>
+    </instance>
+    <instance id="Risk-risk-5-133-4" docsrc="Risk">
+      <context> See also Expected utility . <head>The</head> simplest case is a binary possibility of Accident or No accident . The associated formula for calculating risk is then :</context>
+    </instance>
+    <instance id="Risk-risk-5-194-3" docsrc="Risk">
+      <context> Fear is a response to <head>perceived</head> danger . Risk could be said to be the way we collectively measure and share this " true fear"—a fusion of rational doubt , irrational fear , and a set of unquantified biases from our own experience . === Fear , anxiety and risk ===</context>
+    </instance>
+    <instance id="Risk-risk-5-212-1" docsrc="Risk">
+      <context> === Dread risk === It <head>is</head> common for people to dread some risks but not others : They tend to be very afraid of epidemic diseases , nuclear power plant failures , and plane accidents but are relatively unconcerned about some highly frequent and deadly events , such as traffic crashes , household accidents , and medical errors . One key distinction of dreadful risks seems to be their potential for catastrophic consequences , threatening to kill a large number of people within a short period of time .</context>
+    </instance>
+    <instance id="Risk-risk-5-245-1" docsrc="Risk">
+      <context> === Risk attitude , appetite <head>and</head> tolerance === === Risk as a vector quantity === Hubbard also argues that defining risk as the product of impact and probability presumes ( probably incorrectly ) that the decision makers are risk neutral .</context>
+    </instance>
+    <instance id="Risk-risk-5-290-1" docsrc="Risk">
+      <context> Gregory , Kent J. , <head>Bibbo</head> , Giovanni and Pattison , John E. ( 2005 ) , " A Standard Approach to Measurement Uncertainties for Scientists and Engineers in Medicine " , Australasian Physical and Engineering Sciences in Medicine 28(2):131–139 . Hansson , Sven Ove . ( 2007 ) . " Risk " , The Stanford Encyclopedia of Philosophy ( Summer 2007 Edition ) , Edward N. Zalta ( ed . ) , forthcoming [ 3 ] .</context>
+    </instance>
+    <instance id="Risk-risk-5-40-1" docsrc="Risk">
+      <context> The causes can be many <head>,</head> for instance , the hike in the price for raw materials , the lapsing of deadlines for construction of a new operating facility , disruptions in a production process , emergence of a serious competitor on the market , the loss of key personnel , the change of a political regime , or natural disasters . === Health === In epidemiology , the lifetime risk of an effect is the cumulative incidence , also called incidence proportion over an entire lifetime .</context>
+    </instance>
+    <instance id="Risk-risk-5-78-4" docsrc="Risk">
+      <context> Organizations such as these share <head>in</head> common the ability to consistently operate safely in complex , interconnected environments where a single failure in one component could lead to catastrophe . Essentially , they are organizations which appear to operate ' in spite ' of an enormous range of risks . Some of these industries manage risk in a highly quantified and enumerated way .</context>
+    </instance>
+    <instance id="Risk-risk-6-102-3" docsrc="Risk">
+      <context> A more detailed definition is : <head>"</head> A security risk is any event that could result in the compromise of organizational assets i.e. the unauthorized use , loss , damage , disclosure or modification of organizational assets for the profit , personal interest or political interests of individuals , groups or other entities constitutes a compromise of the asset , and includes the risk of harm to people . Compromise of organizational assets may adversely affect the enterprise , its business units and their clients . As such , consideration of security risk is a vital component of risk management . "</context>
+    </instance>
+    <instance id="Risk-risk-6-126-1" docsrc="Risk">
+      <context> === Maintenance === Since risk assessment <head>and</head> management is essential in security management , both are tightly related . Security assessment methodologies like CRAMM contain risk assessment modules as an important part of the first steps of the methodology .</context>
+    </instance>
+    <instance id="Risk-risk-6-189-2" docsrc="Risk">
+      <context> One of the first major uses <head>of</head> this concept was for the planning of the Delta Works in 1953 , a flood protection program in the Netherlands , with the aid of the mathematician David van Dantzig . The kind of risk analysis pioneered there has become common today in fields like nuclear power , aerospace and the chemical industry . In statistical decision theory , the risk function is defined as the expected value of a given loss function as a function of the decision rule used to make decisions in the face of uncertainty .</context>
+    </instance>
+    <instance id="Risk-risk-6-216-2" docsrc="Risk">
+      <context> === Anxiety and judgmental accuracy === <head>The</head> relationship between higher levels of risk perception and " judgmental accuracy " in anxious individuals remains unclear ( Joseph I. Constans , 2001 ) .</context>
+    </instance>
+    <instance id="Risk-risk-6-217-4" docsrc="Risk">
+      <context> Constans conducted a study to examine <head>how</head> worry propensity ( and current mood and trait anxiety ) might influence college student ’s estimation of their performance on an upcoming exam , and the study found that worry propensity predicted subjective risk bias ( errors in their risk assessments ) , even after variance attributable to current mood and trait anxiety had been removed . Another experiment suggests that trait anxiety is associated with pessimistic risk appraisals ( heightened perceptions of the probability and degree of suffering associated with a negative experience ) , while controlling for depression . The audit risk model expresses the risk of an auditor providing an inappropriate opinion of a commercial entity 's financial statements .</context>
+    </instance>
+    <instance id="Risk-risk-6-291-1" docsrc="Risk">
+      <context> ( 2007 ) . " Risk <head>"</head> , The Stanford Encyclopedia of Philosophy ( Summer 2007 Edition ) , Edward N. Zalta ( ed . ) , forthcoming [ 3 ] . Holton , Glyn A. ( 2004 ) . " Defining Risk " , Financial Analysts Journal , 60 ( 6 ) , 19–25 . A paper exploring the foundations of risk .</context>
+    </instance>
+    <instance id="Risk-risk-6-45-2" docsrc="Risk">
+      <context> === Health , safety , and <head>environment</head> === Over time , a form of risk analysis called environmental risk analysis has developed .</context>
+    </instance>
+    <instance id="Risk-risk-6-92-1" docsrc="Risk">
+      <context> Because the risk of investing in <head>a</head> corporate bond is higher , investors are offered a correspondingly higher rate of return . There are different types of VaR : long term VaR , marginal VaR , factor VaR and shock VaR. The latter is used in measuring risk during the extreme market stress conditions .</context>
+    </instance>
+    <instance id="Risk-risk-63-102-1" docsrc="Risk">
+      <context> === Security === Security risk management involves protection of assets from harm caused by deliberate acts . A more detailed definition is : " A security risk is any event that could result in the compromise of organizational assets i.e. the unauthorized use , loss , damage , disclosure or modification of organizational assets for the profit , personal interest or political interests <head>of</head> individuals , groups or other entities constitutes a compromise of the asset , and includes the risk of harm to people .</context>
+    </instance>
+    <instance id="Risk-risk-7-213-8" docsrc="Risk">
+      <context> Fourth , fearing dread risks can be <head>an</head> ecologically rational strategy . Besides killing a large number of people at a single point in time , dread risks reduce the number of children and young adults who would have potentially produced offspring . Accordingly , people are more concerned about risks killing younger , and hence more fertile , groups .</context>
+    </instance>
+    <instance id="Risk-risk-7-247-3" docsrc="Risk">
+      <context> This is because some things can be <head>dangerous</head> , such as putting their own or someone else ’s life at risk . Risks concern people as they think that they will have a negative effect on their future . This is a list of books about risk issues .</context>
+    </instance>
+    <instance id="Risk-risk-7-272-1" docsrc="Risk">
+      <context> Historian David A. Moss ' book When <head>All</head> Else Fails explains the U.S. government 's historical role as risk manager of last resort . Rescher , Nicholas ( 1983 ) . A Philosophical Introduction to the Theory of Risk Evaluation and Measurement .</context>
+    </instance>
+    <instance id="Risk-risk-7-291-3" docsrc="Risk">
+      <context> A paper exploring the foundations of risk <head>.</head> ( PDF file ) . Knight , F. H. ( 1921 ) Risk , Uncertainty and Profit , Chicago :</context>
+    </instance>
+    <instance id="Risk-risk-7-69-3" docsrc="Risk">
+      <context> Indeed , they may define these professions <head>;</head> for example , a doctor manages medical risk , while a civil engineer manages risk of structural failure . A professional code of ethics is usually focused on risk assessment and mitigation ( by the professional on behalf of client , public , society or life in general ) . In the workplace , incidental and inherent risks exist .</context>
+    </instance>
+    <instance id="Risk-risk-8-105-1" docsrc="Risk">
+      <context> As such , consideration of security risk is <head>a</head> vital component of risk management . " === Human factors === One of the growing areas of focus in risk management is the field of human factors where behavioral and organizational psychology underpin our understanding of risk based decision making .</context>
+    </instance>
+    <instance id="Risk-risk-8-117-2" docsrc="Risk">
+      <context> A growing area of research has been to <head>examine</head> various psychological aspects of risk taking . Researchers typically run randomized experiments with a treatment and control group to ascertain the effect of different psychological factors that may be associated with risk taking . Thus , positive and negative feedback about past risk taking can affect future risk taking .</context>
+    </instance>
+    <instance id="Risk-risk-8-211-1" docsrc="Risk">
+      <context> === Consequences of anxiety === === Dread risk <head>===</head> It is common for people to dread some risks but not others : They tend to be very afraid of epidemic diseases , nuclear power plant failures , and plane accidents but are relatively unconcerned about some highly frequent and deadly events , such as traffic crashes , household accidents , and medical errors .</context>
+    </instance>
+    <instance id="Risk-risk-8-63-1" docsrc="Risk">
+      <context> Information assurance risks include the ones related to <head>the</head> consistency of the business information stored in IT systems and the information stored by other means and the relevant business consequences . === Insurance === Insurance is a risk treatment option which involves risk sharing .</context>
+    </instance>
+    <instance id="Risk-risk-9-102-1" docsrc="Risk">
+      <context> === Security === Security risk management involves protection of <head>assets</head> from harm caused by deliberate acts . A more detailed definition is : " A security risk is any event that could result in the compromise of organizational assets i.e. the unauthorized use , loss , damage , disclosure or modification of organizational assets for the profit , personal interest or political interests of individuals , groups or other entities constitutes a compromise of the asset , and includes the risk of harm to people .</context>
+    </instance>
+    <instance id="Risk-risk-9-107-2" docsrc="Risk">
+      <context> One of the growing areas of focus in risk <head>management</head> is the field of human factors where behavioral and organizational psychology underpin our understanding of risk based decision making . This field considers questions such as " how do we make risk based decisions ? " , " why are we irrationally more scared of sharks and terrorists than we are of motor vehicles and medications ? " Framing is a fundamental problem with all forms of risk assessment .</context>
+    </instance>
+    <instance id="Risk-risk-9-158-1" docsrc="Risk">
+      <context> For example , if performing activity X has a <head>probability</head> of 0.01 of suffering an accident of A , with a loss of 1000 , then total risk is a loss of 10 , the product of 0.01 and 1000 . Situations are sometimes more complex than the simple binary possibility case . In a situation with several possible accidents , total risk is the sum of the risks for each different accident , provided that the outcomes are comparable :</context>
+    </instance>
+    <instance id="Risk-risk-9-202-1" docsrc="Risk">
+      <context> === Fear , anxiety and risk === According to <head>one</head> set of definitions , fear is a fleeting emotion ascribed to a particular object , while anxiety is a trait of fear ( this is referring to " trait anxiety " , as distinct from how the term " anxiety " is generally used ) that lasts longer and is not attributed to a specific stimulus ( these particular definitions are not used by all authors cited on this page ) . Some studies show a link between anxious behavior and risk ( the chance that an outcome will have an unfavorable result ) .</context>
+    </instance>
+    <instance id="Risk-risk-9-213-2" docsrc="Risk">
+      <context> Different hypotheses have been proposed to explain why people <head>fear</head> dread risks . First , the psychometric paradigm suggests that high lack of control , high catastrophic potential , and severe consequences account for the increased risk perception and anxiety associated with dread risks . Second , because people estimate the frequency of a risk by recalling instances of its occurrence from their social circle or the media , they may overvalue relatively rare but dramatic risks because of their overpresence and undervalue frequent , less dramatic risks .</context>
+    </instance>
+    <instance id="Risk-risk-9-222-1" docsrc="Risk">
+      <context> It can be analytically expressed as : AR = <head>IR</head> x CR x DR Where AR is audit risk , IR is inherent risk , CR is control risk and DR is detection risk .</context>
+    </instance>
+    <instance id="Risk-risk-9-236-2" docsrc="Risk">
+      <context> Measurement of risk : A set of possibilities each <head>with</head> quantified probabilities and quantified losses . Example : " There is a 40 % chance the proposed oil well will be dry with a loss of $ 12 million in exploratory drilling costs " . In this sense , one may have uncertainty without risk but not risk without uncertainty .</context>
+    </instance>
+    <instance id="Risk-risk-9-25-1" docsrc="Risk">
+      <context> Very different approaches to risk management are taken in <head>different</head> fields , e.g. " Risk is the unwanted subset of a set of uncertain outcomes " ( Cornelius Keating ) . Risk can be seen as relating to the probability of uncertain future events . For example , according to factor analysis of information risk , risk is : the probable frequency and probable magnitude of future loss .</context>
+    </instance>
+    <instance id="Risk-risk-9-29-1" docsrc="Risk">
+      <context> In information security risk is defined as " the <head>potential</head> that a given threat will exploit vulnerabilities of an asset or group of assets and thereby cause harm to the organization " . The related terms " threat " and " hazard " are often used to mean something that could cause harm . Risk is ubiquitous in all areas of life and risk management is something that we all must do , whether we are managing a major organization or simply crossing the road .</context>
+    </instance>
+    <instance id="Risk-risk-9-292-3" docsrc="Risk">
+      <context> Houghton Mifflin Company . ( Cited at : [ <head>4</head> ] , § I.I.26 . ) . Miller , L. ( 1985 ) . " Cognitive risk taking after frontal or temporal lobectomy I.</context>
+    </instance>
+    <instance id="Risk-risk-9-69-2" docsrc="Risk">
+      <context> Means of assessing risk vary widely between professions . <head>Indeed</head> , they may define these professions ; for example , a doctor manages medical risk , while a civil engineer manages risk of structural failure . A professional code of ethics is usually focused on risk assessment and mitigation ( by the professional on behalf of client , public , society or life in general ) .</context>
+    </instance>
+    <instance id="Risk-risk-9-87-1" docsrc="Risk">
+      <context> See WASH-1400 for an example of this approach . <head>===</head> Finance === A fundamental idea in finance is the relationship between risk and return ( see modern portfolio theory ) .</context>
+    </instance>
+    <instance id="Risk_of_infection-risk-1-0-2" docsrc="Risk_of_infection">
+      <context> Risk <head>of</head> infection is a nursing diagnosis which is defined as " the state in which an individual is at risk to be invaded by an opportunistic or pathogenic agent ( virus , fungus , bacteria , protozoa , or other parasite ) from endogenous or exogenous sources " and was approved by NANDA in 1986 . Although anyone can become infected by a pathogen , patients with this diagnosis are at an elevated risk and extra infection controls should be considered . The risk of infection depends on a number of endogenous sources .</context>
+    </instance>
+    <instance id="Risk_of_infection-risk-12-12-3" docsrc="Risk_of_infection">
+      <context> Patients should be taught how to recognize the signs of infection and <head>how</head> to reduce their risk . Surgery is a frequent risk factor for infection and a physician may prescribe antibiotics prophylactically . Immunization is another common medical intervention for those who are at high risk for infection .</context>
+    </instance>
+    <instance id="Risk_of_infection-risk-13-4-3" docsrc="Risk_of_infection">
+      <context> Skin damage from incision as well as very young or old age can <head>increase</head> a patient 's risk of infection . Examples of risk factors includes decreased immune system secondary to disease , compromised circulation secondary to peripheral vascular disease , compromised skin integrity secondary to surgery , or repeated contact with contagious agents . The specific nursing interventions will depend on the nature and severity of the risk .</context>
+    </instance>
+    <instance id="Risk_of_infection-risk-16-12-1" docsrc="Risk_of_infection">
+      <context> Examples of risk factors includes decreased immune system secondary to disease , compromised circulation secondary to <head>peripheral</head> vascular disease , compromised skin integrity secondary to surgery , or repeated contact with contagious agents . The specific nursing interventions will depend on the nature and severity of the risk . Patients should be taught how to recognize the signs of infection and how to reduce their risk .</context>
+    </instance>
+    <instance id="Risk_of_infection-risk-17-0-1" docsrc="Risk_of_infection">
+      <context> Risk of infection is a nursing diagnosis which is defined as " the state in which an <head>individual</head> is at risk to be invaded by an opportunistic or pathogenic agent ( virus , fungus , bacteria , protozoa , or other parasite ) from endogenous or exogenous sources " and was approved by NANDA in 1986 . Although anyone can become infected by a pathogen , patients with this diagnosis are at an elevated risk and extra infection controls should be considered .</context>
+    </instance>
+    <instance id="Risk_of_infection-risk-17-4-1" docsrc="Risk_of_infection">
+      <context> Although anyone can become infected by a pathogen , patients with this diagnosis are at an elevated <head>risk</head> and extra infection controls should be considered . The risk of infection depends on a number of endogenous sources . Skin damage from incision as well as very young or old age can increase a patient 's risk of infection .</context>
+    </instance>
+    <instance id="Risk_of_infection-risk-2-4-2" docsrc="Risk_of_infection">
+      <context> The risk <head>of</head> infection depends on a number of endogenous sources . Skin damage from incision as well as very young or old age can increase a patient 's risk of infection . Examples of risk factors includes decreased immune system secondary to disease , compromised circulation secondary to peripheral vascular disease , compromised skin integrity secondary to surgery , or repeated contact with contagious agents .</context>
+    </instance>
+    <instance id="Risk_of_infection-risk-4-12-2" docsrc="Risk_of_infection">
+      <context> The specific nursing interventions <head>will</head> depend on the nature and severity of the risk . Patients should be taught how to recognize the signs of infection and how to reduce their risk . Surgery is a frequent risk factor for infection and a physician may prescribe antibiotics prophylactically .</context>
+    </instance>
+    <instance id="a00066146_d_5" docsrc="a00066146_d">
+      <context> disposed to venture or take <head>risks</head> ;</context>
+    </instance>
+    <instance id="a00066565_d_1" docsrc="a00066565_d">
+      <context> involving <head>risk</head> or willingness to take a risk ;</context>
+    </instance>
+    <instance id="a00066565_d_7" docsrc="a00066565_d">
+      <context> involving risk or willingness to take a <head>risk</head> ;</context>
+    </instance>
+    <instance id="a00885288_d_3" docsrc="a00885288_d">
+      <context> willing to take <head>risks</head> in order to make a profit ;</context>
+    </instance>
+    <instance id="a01411919_d_1" docsrc="a01411919_d">
+      <context> at <head>risk</head> of or subject to experiencing something usually unpleasant ;</context>
+    </instance>
+    <instance id="a01900188_d_2" docsrc="a01900188_d">
+      <context> imprudently incurring <head>risk</head> ;</context>
+    </instance>
+    <instance id="a02057829_d_5" docsrc="a02057829_d">
+      <context> free from danger or the <head>risk</head> of harm ;</context>
+    </instance>
+    <instance id="a02058529_d_5" docsrc="a02058529_d">
+      <context> thought to be devoid of <head>risk</head> ;</context>
+    </instance>
+    <instance id="a02058794_d_5" docsrc="a02058794_d">
+      <context> involving or causing danger or <head>risk</head> ; liable to hurt or harm ;</context>
+    </instance>
+    <instance id="a02059381_d_7" docsrc="a02059381_d">
+      <context> of uncertain outcome ; especially fraught with <head>risk</head> ;</context>
+    </instance>
+    <instance id="a02059811_d_1" docsrc="a02059811_d">
+      <context> involving <head>risk</head> or danger ;</context>
+    </instance>
+    <instance id="a02093888_d_4" docsrc="a02093888_d">
+      <context> free from danger or <head>risk</head> ;</context>
+    </instance>
+    <instance id="a02274869_d_2" docsrc="a02274869_d">
+      <context> involving substantial <head>risk</head> ;</context>
+    </instance>
+    <instance id="br-d02#w964_0" docsrc="br-d02">
+      <context> There is an ancient and venerable tradition in the church ( which derives , however , from the heritage of the Greeks rather than from the Bible ) that God is completely independent of his creation and so has no need of men for accomplishing his work in the world . by analogy , the church also has been regarded_as entirely independent of the `` world '' in the sense of requiring nothing from it in_order to be the church . But , as Scripture everywhere reminds us , God does have need of his creatures , and the church , a_fortiori , can ill afford to do without the talents with which the world , by God 's providence , presents it . And yet this is exactly the <head>risk</head> we run when we assume , as we too often do , that we can continue to preach the gospel in a form that makes it seem incredible and irrelevant to cultured men . Until we translate this gospel into a language that enlightened men today can understand , we are depriving ourselves of the very resources on which the continued success of our witness most certainly depends . In arguing in this way , we are obviously taking for granted that a demythologized restatement of the kerygma can be achieved ; and that we firmly believe this will presently become evident when we set_forth reasons to justify such a conviction . But the main point here is that even if such a restatement were not possible , the demand to demythologize the kerygma would still be unavoidable .</context>
+    </instance>
+    <instance id="br-g22#w1295_0" docsrc="br-g22">
+      <context> So we are faced with a vast network of amorphous entities perpetuating themselves in whatever manner they can , without regard_to the needs of society , controlling society and forcing upon it a regime representing only the corporation 's needs for survival . The corporation has a limited , specific place in our society . Ideally speaking , it should be allowed to operate only where the public has a great stake in the continuity of supply or services , and where the actions of a single proprietor are secondary to the needs of society . Examples are in public utilities , making military aircraft and accessories , or where the investment and <head>risk</head> for a proprietorship would be too great for a much needed project impossible to achieve by_any_means other_than the corporate form , e._g. constructing major airports or dams . Thus , if corporations are not to run_away with us , they must become quasi governmental institutions , subject_to public control and needs . In all other areas , private initiative of the `` proprietorship '' type should be urged to produce the desired goods and services . Avoiding runaway technology can be done only by assuring a humane society ; and for this human_beings must be firmly in control of the economics on which our society rests .</context>
+    </instance>
+    <instance id="br-g43#w77_0" docsrc="br-g43">
+      <context> Two facets of this aspect of the literary process have special significance for our time . One , a reservation on the point I have just made , is the phenomenon of pseudo thinking , pseudo feeling , and pseudo willing , which Fromm discussed in The_Escape_from_Freedom . In_essence this involves grounding one 's thought and emotion in the values and experience of others , rather_than in one 's own values and experience . There is a <head>risk</head> that instead of teaching a person how to be himself , reading fiction and drama may teach him how to be somebody else . Clearly what the person brings to the reading is important . Moreover , if the critic instructs his audience in what to see in a work , he is contributing to this pseudo thinking ; if he instructs them in how to evaluate a work , he is helping them to achieve their own identity . The second timely part of_this sketch of literature and the search for identity has to do with the difference between good and enduring literary_works and the ephemeral mass_culture products of today .</context>
+    </instance>
+    <instance id="br-h13#w2016_0" docsrc="br-h13">
+      <context> So would radar picket_ships . A squadron of Navy jets and another of long-range patrol planes would add support to the carrier task_forces . Three requirements go_with a blockade : It must be proclaimed ; the blockading force must be powerful enough to enforce it ; and it must be enforced without discrimination . Once these conditions of international_law are met , countries that try to run to blockade do so at their own <head>risk</head> . Blockade runners can be stopped - by gunfire , if necessary - searched and held , at_least temporarily . They could be sent to U._S. ports for rulings whether cargo should be confiscated . Plenty , say the experts .</context>
+    </instance>
+    <instance id="br-h17#w28_0" docsrc="br-h17">
+      <context> It is not a medieval mental quirk or an attitude `` unnourished by sense '' to believe that husbands and wives should not be subjected to such a <head>risk</head> , or that such a possibility should not be permitted to endanger the confidentiality of the marriage relationship . While it is easy enough to ridicule Hawkins ' pronouncement in Pleas_of_the_Crown from a metaphysical point_of_view , the concept of the `` oneness '' of a married_couple may reflect an abiding belief that the communion between husband and wife is such_that their actions are not always to be regarded by the criminal_law as if there were no marriage . By making inroads in the name of law_enforcement into the protection which Congress has afforded to the marriage relationship , the Court today continues in the path charted by the recent decision in Wyatt_v._United_States , 362_U._S._525 , where the Court held that , under_the_circumstances of that case , a wife could be compelled to testify against her husband over her objection . One need not waver in his belief in virile law_enforcement to insist that there are other things in American life which are also of great importance , and to which even law_enforcement must accommodate itself .</context>
+    </instance>
+    <instance id="n00740342_d_10" docsrc="n00740342_d">
+      <context> recklessly acting without reasonable caution and putting another person at <head>risk</head> of injury or death ( or failing to do something with the same consequences ) ;</context>
+    </instance>
+    <instance id="n00785596_d_10" docsrc="n00785596_d">
+      <context> a venture by a partnership or conglomerate designed to share <head>risk</head> or expertise ;</context>
+    </instance>
+    <instance id="n00802238_ex1_7" docsrc="n00802238_ex1">
+      <context> he saw the rewards but not the <head>risks</head> of crime ;</context>
+    </instance>
+    <instance id="n00802629_d_1" docsrc="n00802629_d">
+      <context> a <head>risk</head> involving danger ;</context>
+    </instance>
+    <instance id="n00803091_d_5" docsrc="n00803091_d">
+      <context> a venture that involves great <head>risk</head> but promises great rewards ;</context>
+    </instance>
+    <instance id="n01094293_d_2" docsrc="n01094293_d">
+      <context> arbitrage involving <head>risk</head> ; as in the simultaneous purchase of stock in a target_company and sale of stock in its potential acquirer ; if the takeover fails the arbitrageur may lose a great_deal of money ;</context>
+    </instance>
+    <instance id="n01099946_d_14" docsrc="n01099946_d">
+      <context> investing with borrowed money as a way to amplify potential gains ( at the <head>risk</head> of greater losses ) ;</context>
+    </instance>
+    <instance id="n03285348_d_13" docsrc="n03285348_d">
+      <context> antiarrhythmic_drug ( trade_name Enkaid ) used to treat life-threatening arrhythmias but increases the <head>risk</head> of sudden_death in heart_attack patients ;</context>
+    </instance>
+    <instance id="n03362393_d_16" docsrc="n03362393_d">
+      <context> oral antiarrhythmic_medication ( trade_name Tambocor ) used as a last_resort in treating arrhythmias ; increases the <head>risk</head> of sudden_death in heart_attack patients ;</context>
+    </instance>
+    <instance id="n03824014_d_10" docsrc="n03824014_d">
+      <context> calcium_blocker ( trade_name Procardia ) ; appears to increase the <head>risk</head> of recurrent heart_attacks ;</context>
+    </instance>
+    <instance id="n04858785_d_10" docsrc="n04858785_d">
+      <context> the trait of being willing to undertake things that involve <head>risk</head> or danger ;</context>
+    </instance>
+    <instance id="n06663785_d_13" docsrc="n06663785_d">
+      <context> a commercial principle that without a warranty the buyer takes upon himself the <head>risk</head> of quality ;</context>
+    </instance>
+    <instance id="n07175863_d_22" docsrc="n07175863_d">
+      <context> consent by a patient to undergo a medical or surgical treatment or to participate in an experiment after the patient understands the <head>risks</head> involved ;</context>
+    </instance>
+    <instance id="n07226330_d_23" docsrc="n07226330_d">
+      <context> a warning to national policy_makers that an enemy intends war or is preparing for war and is on a course that increases the <head>risk</head> of war ;</context>
+    </instance>
+    <instance id="n08110866_d_12" docsrc="n08110866_d">
+      <context> a species whose numbers are so small that the species is at <head>risk</head> of extinction ;</context>
+    </instance>
+    <instance id="n09606009_d_5" docsrc="n09606009_d">
+      <context> a person who enjoys taking <head>risks</head> ;</context>
+    </instance>
+    <instance id="n10060352_d_9" docsrc="n10060352_d">
+      <context> someone who organizes a business venture and assumes the <head>risk</head> for it ;</context>
+    </instance>
+    <instance id="n13305932_d_28" docsrc="n13305932_d">
+      <context> the opportunity_cost of the funds employed as the result of an investment decision ; the rate_of_return that a business could earn if it chose another investment with equivalent <head>risk</head> ;</context>
+    </instance>
+    <instance id="n13344462_d_8" docsrc="n13344462_d">
+      <context> any technique designed to reduce or eliminate financial <head>risk</head> ; for example , taking two positions that will offset each other if prices change ;</context>
+    </instance>
+    <instance id="n13346630_d_6" docsrc="n13346630_d">
+      <context> insurance that provides protection against certain <head>risks</head> such as storms or fires ;</context>
+    </instance>
+    <instance id="n13348456_d_12" docsrc="n13348456_d">
+      <context> sharing the risk by insurance_companies ; part or all of the insurer's <head>risk</head> is assumed by other companies in return for part of the premium paid by the insured ;</context>
+    </instance>
+    <instance id="n13348456_d_2" docsrc="n13348456_d">
+      <context> sharing the <head>risk</head> by insurance_companies ; part or all of the insurer's risk is assumed by other companies in return for part of the premium paid by the insured ;</context>
+    </instance>
+    <instance id="n13824114_d_24" docsrc="n13824114_d">
+      <context> the ratio ( for a given time_period ) of the number of occurrences of a disease or event to the number of units at <head>risk</head> in the population ;</context>
+    </instance>
+    <instance id="n14269319_d_20" docsrc="n14269319_d">
+      <context> the presence of an abnormal amount of cholesterol in the cells and plasma of the blood ; associated with the <head>risk</head> of atherosclerosis ;</context>
+    </instance>
+    <instance id="n14429150_d_8" docsrc="n14429150_d">
+      <context> exposure to exotic infectious_agents that pose a high <head>risk</head> of life-threatening disease and can be transmitted as an aerosol and for which there is no vaccine or therapy ;</context>
+    </instance>
+    <instance id="n14538908_d_7" docsrc="n14538908_d">
+      <context> safety as a consequence of entailing no <head>risk</head> ;</context>
+    </instance>
+    <instance id="n14542579_d_9" docsrc="n14542579_d">
+      <context> the lack of any incentive to guard against a <head>risk</head> when you are protected against it ( as by insurance ) ;</context>
+    </instance>
+    <instance id="n14543552_d_5" docsrc="n14543552_d">
+      <context> a state of danger involving <head>risk</head> ;</context>
+    </instance>
+    <instance id="n14543756_d_1" docsrc="n14543756_d">
+      <context> financial <head>risk</head> ;</context>
+    </instance>
+    <instance id="n14721342_d_9" docsrc="n14721342_d">
+      <context> carotenoid that makes tomatoes red ; may lower the <head>risk</head> of prostate_cancer ;</context>
+    </instance>
+    <instance id="n14907349_d_30" docsrc="n14907349_d">
+      <context> a lipoprotein that transports cholesterol in the blood ; composed of a high proportion of protein and relatively little cholesterol ; high levels are thought to be associated with decreased <head>risk</head> of coronary heart disease and atherosclerosis ;</context>
+    </instance>
+    <instance id="n14943009_d_31" docsrc="n14943009_d">
+      <context> a lipoprotein that transports cholesterol in the blood ; composed of moderate amount of protein and a large amount of cholesterol ; high levels are thought to be associated with increased <head>risk</head> of coronary heart disease and atherosclerosis ;</context>
+    </instance>
+    <instance id="n15058755_d_20" docsrc="n15058755_d">
+      <context> the cholesterol in high_density_lipoproteins ; the good cholesterol ; a high level in the blood is thought to lower the <head>risk</head> of coronary_artery_disease ;</context>
+    </instance>
+    <instance id="r00377097_d_7" docsrc="r00377097_d">
+      <context> in a manner free from fear or <head>risk</head> ;</context>
+    </instance>
+    <instance id="r00377334_d_4" docsrc="r00377334_d">
+      <context> in a manner involving <head>risk</head> ;</context>
+    </instance>
+    <instance id="v00428067_d_3" docsrc="v00428067_d">
+      <context> minimize loss or <head>risk</head> ;</context>
+    </instance>
+    <instance id="v00436404_d_5" docsrc="v00436404_d">
+      <context> vary in order to spread <head>risk</head> or to expand ;</context>
+    </instance>
+    <instance id="v00870213_d_8" docsrc="v00870213_d">
+      <context> notify of danger , potential harm , or <head>risk</head> ;</context>
+    </instance>
+    <instance id="v00891541_d_17" docsrc="v00891541_d">
+      <context> insure again by assuming all or a part of the liability of an insurance_company already covering a <head>risk</head> ;</context>
+    </instance>
+    <instance id="v02272090_d_3" docsrc="v02272090_d">
+      <context> invest at a <head>risk</head> ;</context>
+    </instance>
+    <instance id="v02373336_d_4" docsrc="v02373336_d">
+      <context> proceed somewhere despite the <head>risk</head> of possible dangers ;</context>
+    </instance>
+    <instance id="v02544348_d_2" docsrc="v02544348_d">
+      <context> take a <head>risk</head> in the hope of a favorable outcome ;</context>
+    </instance>
+    <instance id="v02545272_d_2" docsrc="v02545272_d">
+      <context> put at <head>risk</head> ;</context>
+    </instance>
+    <instance id="v02545939_d_2" docsrc="v02545939_d">
+      <context> take a <head>risk</head> ; perform a daring act ;</context>
+    </instance>
+    <instance id="v02664413_d_7" docsrc="v02664413_d">
+      <context> depend_on a small thing or be at <head>risk</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

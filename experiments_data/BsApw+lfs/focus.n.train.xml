@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="focus.n" pos="NN">
+    <instance id="Focus_(geometry)-focus-10-40-3" docsrc="Focus_(geometry)">
+      <context> Let C be a curve of class m and let <head>I</head> and J denote the circular points at infinity . Draw the m tangents to C through each of I and J. There are two sets of m lines which will have m2 points of intersection , with exceptions in some cases due to singularities , etc . These points of intersection are the defined to be the foci of C.</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-11-40-6" docsrc="Focus_(geometry)">
+      <context> In other words , a point P is a focus if <head>both</head> PI and PJ are tangent to C. When C is a real curve , only the intersections of conjugate pairs are real , so there are m in a real foci and m2−m imaginary foci . When C is a conic , the real foci defined this way are exactly the foci which can be used in the geometric construction of C. Let P1 , P2 , … , Pm be given as foci of a curve C of class m. Let P be the product of the tangential equations of these points and Q the product of the tangential equations of the circular points at infinity .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-13-7-1" docsrc="Focus_(geometry)">
+      <context> Defining conics in terms of two foci === An ellipse can be defined <head>as</head> the locus of points for each of which the sum of the distances to two given foci is a constant . A circle is the special case of an ellipse in which the two foci coincide with each other .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-14-13-2" docsrc="Focus_(geometry)">
+      <context> === Defining conics in terms of a focus and a directrix === It is <head>also</head> possible to describe all conic sections in terms of a single focus and a single directrix , which is a given line not containing the focus .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-14-8-3" docsrc="Focus_(geometry)">
+      <context> Thus , a circle can be more simply defined as the locus of points <head>each</head> of which is a fixed distance from a single given focus . A circle can also be defined as the circle of Apollonius , in terms of two different foci , as the set of points having a fixed ratio of distances to the two foci . A parabola is a limiting case of an ellipse in which one of the foci is a point at infinity .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-15-40-5" docsrc="Focus_(geometry)">
+      <context> These points of intersection are the defined to be the foci of C. In other <head>words</head> , a point P is a focus if both PI and PJ are tangent to C. When C is a real curve , only the intersections of conjugate pairs are real , so there are m in a real foci and m2−m imaginary foci . When C is a conic , the real foci defined this way are exactly the foci which can be used in the geometric construction of C.</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-17-14-1" docsrc="Focus_(geometry)">
+      <context> Defining conics in terms of a focus and a directrix === It is also possible to describe <head>all</head> conic sections in terms of a single focus and a single directrix , which is a given line not containing the focus . A conic is defined as the locus of points for each of which the distance to the focus divided by the distance to the directrix is a fixed positive constant , called the eccentricity e.</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-17-8-2" docsrc="Focus_(geometry)">
+      <context> A circle is the special case of an ellipse in which the two foci coincide with each <head>other</head> . Thus , a circle can be more simply defined as the locus of points each of which is a fixed distance from a single given focus . A circle can also be defined as the circle of Apollonius , in terms of two different foci , as the set of points having a fixed ratio of distances to the two foci .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-20-17-2" docsrc="Focus_(geometry)">
+      <context> === Defining conics in terms of a focus and a directrix circle === It is also possible to describe all <head>the</head> conic sections as loci of points that are equidistant from a single focus and a single , circular directrix .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-20-34-2" docsrc="Focus_(geometry)">
+      <context> A Cartesian oval is the set of points for each of which the weighted sum of the distances to two <head>given</head> foci is a constant . If the weights are equal , the special case of an ellipse results . A Cassini oval is the set of points for each of which the product of the distances to two given foci is a constant .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-21-30-1" docsrc="Focus_(geometry)">
+      <context> === Astronomical significance === Two binary stars also move in ellipses sharing a focus at their barycenter ; for an animation <head>,</head> see here . A Cartesian oval is the set of points for each of which the weighted sum of the distances to two given foci is a constant .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-22-6-2" docsrc="Focus_(geometry)">
+      <context> === Defining conics in terms of two foci === An ellipse can be defined as the locus of points for each of <head>which</head> the sum of the distances to two given foci is a constant .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-25-8-1" docsrc="Focus_(geometry)">
+      <context> An ellipse can be defined as the locus of points for each of which the sum of the distances to two given foci is a <head>constant</head> . A circle is the special case of an ellipse in which the two foci coincide with each other . Thus , a circle can be more simply defined as the locus of points each of which is a fixed distance from a single given focus .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-26-9-1" docsrc="Focus_(geometry)">
+      <context> A circle can also be defined as the circle of Apollonius , in terms of two different foci , as the set of points having a <head>fixed</head> ratio of distances to the two foci . A parabola is a limiting case of an ellipse in which one of the foci is a point at infinity . A hyperbola can be defined as the locus of points for each of which the absolute value of the difference between the distances to two given foci is a constant .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-28-13-2" docsrc="Focus_(geometry)">
+      <context> === Defining conics in terms of a focus and a directrix === It is also possible to describe all conic sections in terms of a single focus and <head>a</head> single directrix , which is a given line not containing the focus .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-33-8-2" docsrc="Focus_(geometry)">
+      <context> A circle is the special case of an ellipse in which the two foci coincide with each other . Thus , a circle can be more simply defined as the locus of points <head>each</head> of which is a fixed distance from a single given focus . A circle can also be defined as the circle of Apollonius , in terms of two different foci , as the set of points having a fixed ratio of distances to the two foci .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-37-18-1" docsrc="Focus_(geometry)">
+      <context> Defining conics in terms of a focus and a directrix circle === It is also possible to describe all the conic sections as loci of points that are equidistant from a single focus and a single , <head>circular</head> directrix . For the ellipse , both the focus and the center of the directrix circle have finite coordinates and the radius of the directrix circle is greater than the distance between the center of this circle and the focus ; thus , the focus is inside the directrix circle .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-4-35-1" docsrc="Focus_(geometry)">
+      <context> If the weights are <head>equal</head> , the special case of an ellipse results . A Cassini oval is the set of points for each of which the product of the distances to two given foci is a constant . The concept of a focus can be generalized to arbitrary algebraic curves .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-42-18-1" docsrc="Focus_(geometry)">
+      <context> Defining conics in terms of a focus and a directrix circle === It is also possible to describe all the conic sections as loci of points that are equidistant from a single focus and a single , circular directrix . For the <head>ellipse</head> , both the focus and the center of the directrix circle have finite coordinates and the radius of the directrix circle is greater than the distance between the center of this circle and the focus ; thus , the focus is inside the directrix circle .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-42-40-4" docsrc="Focus_(geometry)">
+      <context> Draw the m tangents to C through each of I and J. There are two sets of m lines which will have m2 points of intersection , with exceptions in some cases due to singularities , etc . These points of intersection <head>are</head> the defined to be the foci of C. In other words , a point P is a focus if both PI and PJ are tangent to C. When C is a real curve , only the intersections of conjugate pairs are real , so there are m in a real foci and m2−m imaginary foci .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-46-40-4" docsrc="Focus_(geometry)">
+      <context> Draw the m tangents to C through each of I and J. There are two sets of m lines which will have m2 points of intersection , with exceptions in some cases due to singularities , etc . These points of intersection are the defined to <head>be</head> the foci of C. In other words , a point P is a focus if both PI and PJ are tangent to C. When C is a real curve , only the intersections of conjugate pairs are real , so there are m in a real foci and m2−m imaginary foci .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-5-14-3" docsrc="Focus_(geometry)">
+      <context> A conic is defined as <head>the</head> locus of points for each of which the distance to the focus divided by the distance to the directrix is a fixed positive constant , called the eccentricity e. If e is between zero and one the conic is an ellipse ; if e=1 the conic is a parabola ; and if e&gt;1 the conic is a hyperbola . If the distance to the focus is fixed and the directrix is a line at infinity , so the eccentricity is zero , then the conic is a circle .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-6-13-1" docsrc="Focus_(geometry)">
+      <context> A hyperbola can be defined as <head>the</head> locus of points for each of which the absolute value of the difference between the distances to two given foci is a constant . === Defining conics in terms of a focus and a directrix ===</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-6-17-1" docsrc="Focus_(geometry)">
+      <context> If the distance to the focus <head>is</head> fixed and the directrix is a line at infinity , so the eccentricity is zero , then the conic is a circle . === Defining conics in terms of a focus and a directrix circle ===</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-6-18-1" docsrc="Focus_(geometry)">
+      <context> Defining conics in terms of a <head>focus</head> and a directrix circle === It is also possible to describe all the conic sections as loci of points that are equidistant from a single focus and a single , circular directrix . For the ellipse , both the focus and the center of the directrix circle have finite coordinates and the radius of the directrix circle is greater than the distance between the center of this circle and the focus ; thus , the focus is inside the directrix circle .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-6-6-1" docsrc="Focus_(geometry)">
+      <context> === Defining conics in terms of <head>two</head> foci ===</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-7-18-2" docsrc="Focus_(geometry)">
+      <context> It is also possible to describe all <head>the</head> conic sections as loci of points that are equidistant from a single focus and a single , circular directrix . For the ellipse , both the focus and the center of the directrix circle have finite coordinates and the radius of the directrix circle is greater than the distance between the center of this circle and the focus ; thus , the focus is inside the directrix circle . The ellipse thus generated has its second focus at the center of the directrix circle , and the ellipse lies entirely within the circle .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-8-40-5" docsrc="Focus_(geometry)">
+      <context> These points of intersection are the defined to <head>be</head> the foci of C. In other words , a point P is a focus if both PI and PJ are tangent to C. When C is a real curve , only the intersections of conjugate pairs are real , so there are m in a real foci and m2−m imaginary foci . When C is a conic , the real foci defined this way are exactly the foci which can be used in the geometric construction of C.</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-9-24-1" docsrc="Focus_(geometry)">
+      <context> In projective geometry , all conics are equivalent in <head>the</head> sense that every theorem that can be stated for one can be stated for the others . === Astronomical significance === Two binary stars also move in ellipses sharing a focus at their barycenter ; for an animation , see here .</context>
+    </instance>
+    <instance id="Focus_(geometry)-focus-9-40-4" docsrc="Focus_(geometry)">
+      <context> Draw the m tangents to C through each of <head>I</head> and J. There are two sets of m lines which will have m2 points of intersection , with exceptions in some cases due to singularities , etc . These points of intersection are the defined to be the foci of C. In other words , a point P is a focus if both PI and PJ are tangent to C. When C is a real curve , only the intersections of conjugate pairs are real , so there are m in a real foci and m2−m imaginary foci .</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-0-16-1" docsrc="Focus_(optics)">
+      <context> <head>Depth</head> of focus Far point Focus ( geometry )</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-0-19-1" docsrc="Focus_(optics)">
+      <context> <head>Fixed</head> focus Bokeh Focus stacking</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-1-17-1" docsrc="Focus_(optics)">
+      <context> Far <head>point</head> Focus ( geometry ) Fixed focus</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-1-4-1" docsrc="Focus_(optics)">
+      <context> The <head>distance</head> in air from the lens or mirror 's principal plane to the focus is called the focal length . Elliptical mirrors have two focal points : light that passes through one of these before striking the mirror is reflected such that it passes through the other . The focus of a hyperbolic mirror is either of two points which have the property that light from one is reflected as if it came from the other .</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-10-7-3" docsrc="Focus_(optics)">
+      <context> Instead , the focus is the point from which the <head>light</head> appears to be emanating , after it travels through the lens or reflects from the mirror . A convex parabolic mirror will reflect a beam of collimated light to make it appear as if it were radiating from the focal point , or conversely , reflect rays directed toward the focus as a collimated beam . A convex elliptical mirror will reflect light directed towards one focus as if it were radiating from the other focus , both of which are behind the mirror .</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-14-3-2" docsrc="Focus_(optics)">
+      <context> For a lens , or a spherical or parabolic mirror , it is a <head>point</head> onto which collimated light parallel to the axis is focused . Since light can pass through a lens in either direction , a lens has two focal points—one on each side . The distance in air from the lens or mirror 's principal plane to the focus is called the focal length .</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-19-7-3" docsrc="Focus_(optics)">
+      <context> Instead , the focus is the point from which the light appears to be emanating , after it travels <head>through</head> the lens or reflects from the mirror . A convex parabolic mirror will reflect a beam of collimated light to make it appear as if it were radiating from the focal point , or conversely , reflect rays directed toward the focus as a collimated beam . A convex elliptical mirror will reflect light directed towards one focus as if it were radiating from the other focus , both of which are behind the mirror .</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-2-1-2" docsrc="Focus_(optics)">
+      <context> An image <head>,</head> or image point or region , is in focus if light from object points is converged almost as much as possible in the image , and out of focus if light is not well converged . The border between these is sometimes defined using a circle of confusion criterion . A principal focus or focal point is a special focus :</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-2-14-1" docsrc="Focus_(optics)">
+      <context> Defocus aberration <head>Depth</head> of field Depth of focus</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-3-7-1" docsrc="Focus_(optics)">
+      <context> The focus of <head>a</head> hyperbolic mirror is either of two points which have the property that light from one is reflected as if it came from the other . Diverging ( negative ) lenses and convex mirrors do not focus a collimated beam to a point . Instead , the focus is the point from which the light appears to be emanating , after it travels through the lens or reflects from the mirror .</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-33-7-2" docsrc="Focus_(optics)">
+      <context> Diverging ( negative ) lenses and convex mirrors do not focus a collimated beam to a point . Instead , the focus is the point from which the light appears to be emanating <head>,</head> after it travels through the lens or reflects from the mirror . A convex parabolic mirror will reflect a beam of collimated light to make it appear as if it were radiating from the focal point , or conversely , reflect rays directed toward the focus as a collimated beam .</context>
+    </instance>
+    <instance id="Focus_(optics)-focus-9-1-2" docsrc="Focus_(optics)">
+      <context> An image , or image point or region , <head>is</head> in focus if light from object points is converged almost as much as possible in the image , and out of focus if light is not well converged . The border between these is sometimes defined using a circle of confusion criterion . A principal focus or focal point is a special focus :</context>
+    </instance>
+    <instance id="a00105388_d_16" docsrc="a00105388_d">
+      <context> of or relating to an abnormal condition of the eye in which visual_images are not in <head>focus</head> on the retina ;</context>
+    </instance>
+    <instance id="a00782856_d_2" docsrc="a00782856_d">
+      <context> being in <head>focus</head> or brought into focus ;</context>
+    </instance>
+    <instance id="a00782856_d_6" docsrc="a00782856_d">
+      <context> being in focus or brought into <head>focus</head> ;</context>
+    </instance>
+    <instance id="br-e23#w1728_0" docsrc="br-e23">
+      <context> In analyzing the watercolors of Roy_Mason , the first thing that comes_to_mind is their essential decorativeness , yet this word has such a varied connotation that it needs some elaboration here . True , a Mason watercolor is unmistakably a synthesis of nature rather than a detailed inventory . Unlike many decorative patterns that present a static flat convention , this artist 's pictures are full of atmosphere and climate . Long observation has taught Mason that most landscape can be reduced to three essential planes : a foreground in sharp <head>focus</head> - either a light area with dark accents or a dark one with lights ; a middle_distance often containing the major motif ; and a background , usually a silhouetted form foiled against the sky . In following this general principle , Mason provides the observer with a natural eye progression from foreground to background , and the illusion of depth is instantly created . When painting , Mason 's physical eyes are half closed , while his mind's_eye is wide_open , and this circumstance accounts in part for the impression he wishes to convey . He does not insist on telling all he knows about any given subject ; rather his pictures invite the observer to draw on his memory , his imagination , his nostalgia .</context>
+    </instance>
+    <instance id="br-e29#w23_0" docsrc="br-e29">
+      <context> The controversy of the last few years over whether architects or interior_designers should plan the interiors of modern buildings has brought clearly into <head>focus</head> one important difference_of_opinion . The architects do not believe that the education of the interior_designer is sufficiently good or sufficiently extended to compare with that of the architect and that , therefore , the interior_designer is incapable of understanding the architectural principles involved in planning the interior of a building . Ordinary politeness may have militated against this opinion being stated so badly but anyone with a wide acquaintance in both groups and who has sat through the many round_tables , workshops or panel_discussions - whatever they are called - on this subject will recognize that the final , boiled_down crux_of_the_matter is education . It is true that most architectural schools have five year courses , some even have six or more .</context>
+    </instance>
+    <instance id="br-f23#w668_0" docsrc="br-f23">
+      <context> This brings us squarely to the problem of power , and the uses a nation makes of power . I submit that this is the key problem of international relations , that it always has been , that it always will be . And I suggest further that the main cause of the trouble we are in has been the failure of American policy-makers , ever since we assumed free_world leadership in 1945 , to deal with this problem realistically and seriously . In the recent political_campaign two charges were leveled affecting the question of power , and I think we might begin by trying to put them into proper <head>focus</head> . One was demonstrably false ; the other , for_the_most_part , true . The first was that America had become - or was in_danger_of becoming - a second-rate military power . I know I do not have to dwell here on the absurdity of that contention .</context>
+    </instance>
+    <instance id="br-j15#w168_0" docsrc="br-j15">
+      <context> The case described in this paper is that of an older man who developed disabling muscular weakness while receiving a variety of steroids for a refractory anemia . This patient was a 65 - year old white male accountant who entered the New_York_Hospital for his fourth and terminal admission on June 26 , 1959 , because of disabling weakness and general debility . In 1953 the patient developed an unexplained anemia for which 15 blood_transfusions were given over a period of 4 years . Splenomegaly was first noted in 1956 , and a sternal marrow biopsy at that time showed `` scattered <head>foci</head> of fibrosis '' suggestive_of myelofibrosis . No additional transfusions were necessary after the institution of prednisone in July , 1957 , in an initial dose of 40 mg. daily with gradual tapering to 10 mg. daily . This medication was continued until February , 1958 . In February , 1958 , the patient suffered a myocardial_infarction complicated by pulmonary edema .</context>
+    </instance>
+    <instance id="br-j37#w796_0" docsrc="br-j37">
+      <context> They figured prominently in the Balafrej government of May , 1958 , which the King was reportedly determined to keep in office until elections could be held . But the eagerly sought `` homogeneity '' of the Balafrej Council_of_Government was never achieved as the Istiqlal quarreled over foreign_policy , labor politics and economic development . By December , 1958 , when ' Abdallah_Ibrahim became President_of_the_Council , elections had even greater importance . They were increasingly looked_upon as a means of establishing the new rural communes as the <head>focus</head> of a new , constructive national effort . To minimize the chances of repeating the Balafrej debacle the Ibrahim government was formed a titre personnel and a special office was created in the Ministry_of_the_Interior to plan and to conduct the elections . By this time there is little doubt but what election plans were complete . There remained only the delicate task of maneuvering the laws through the labyrinth of Palace politics and making a small number of policy decisions .</context>
+    </instance>
+    <instance id="br-j38#w1141_0" docsrc="br-j38">
+      <context> Thus , besides the training provided to youth in school , the existence of the school program can have supplementary benefits to industry which make it an asset to industrial development efforts . Few states make effective use of their existing vocational education programs or funds for the purpose of attracting new industry . The opportunity exists for states to reserve some of their vocational education funds to apply on an ad_hoc flexible basis to subsidize any local preemployment_training_programs that my be quickly set_up in a community to aid a new industrial plant . The major weakness of vocational training_programs in labor surplus areas is their <head>focus</head> on serving solely local job demands . This weakness is not unique to labor surplus areas , for it is inherent in the system of local school districts in this country . Planning of vocational education programs and courses is oriented to local employer needs for trained_workers . All the manuals for setting_up vocational courses stress the importance of first making a local survey of skill needs , of estimating the growth of local jobs , and of consulting with local employers on the types of courses and their content .</context>
+    </instance>
+    <instance id="br-j38#w1610_0" docsrc="br-j38">
+      <context> A related question is whether unemployed workers can be motivated to take the training provided . There is little evidence that existing public or private training_programs have any great difficulty getting students to enroll in their programs , even though they must pay tuition , receive no subsistence payments , and are not guaranteed a job . However , there always is some limit to the numbers who will spend the time and effort to acquire training . Again , one major difficulty is the local <head>focus</head> . A training_program in a depressed area may have few enrollees unless there is some apparent prospect for better employment opportunities afterwards , and the prospect may be poor if the training is aimed solely at jobs in the local community . If there is adequate information on job opportunities for skilled jobs elsewhere , many_more workers can be expected to respond . Another problem is who will pay for the training .</context>
+    </instance>
+    <instance id="br-j38#w1748_0" docsrc="br-j38">
+      <context> Local school districts are hard_pressed financially and unenthusiastic about vocational training . Programs usually are expanded only when outside funds are available or local business_leaders demand it . Even industrial development leaders find it hard to win local support for training unless a new industry is in_sight and requests it . State_governments have been taking the lead in establishing area vocational_schools , but their <head>focus</head> is still on area job opportunities . Only the Federal_government is likely to be able to take a long-run and nation-wide view and to pay for training to meet national skilled manpower needs . If only state funds were used to pay for the vocational education , it could be argued that the state should not have_to bear the cost of vocational training which would benefit employers in other states . However , if Federal funds are used , it would be entirely appropriate to train workers for jobs which could be obtained elsewhere as_well_as for jobs in the area of chronic unemployment .</context>
+    </instance>
+    <instance id="br-j54#w486_0" docsrc="br-j54">
+      <context> Much which was in_embryo in 1000 had become reasonably well developed by 800 . In this process the Minoan Mycenaean inheritance had been transmuted or finally rejected ; the Aegean world which had existed before 1000 differed from that which rises more clearly in our vision after 800 . Those modern scholars who urge that we must keep in mind the fundamental continuity of Aegean development from earliest times - granted occasional irruptions of peoples and ideas from outside - are correct ; but all_too many observers have been misled by this fact into minimizing the degree of change which took_place in the early first millennium . The <head>focus</head> of novelty in this world now lay_in the south-eastern districts of the Greek mainland , and by 800 virtually the entire Aegean , always excepting its northern shores , had accepted the Geometric style of pottery . While Protogeometric vases usually turn_up , especially outside Greece proper , together with as_many or more examples of local stamp , these `` non Greek '' patterns had mostly vanished by the later ninth century . In their place came local variations within the common style - tentative , as_it_were , in Protogeometric products but truly distinct and sharply defined as the Geometric spirit developed . Attica , though important , was not the only teacher of this age .</context>
+    </instance>
+    <instance id="br-k03#w293_0" docsrc="br-k03">
+      <context> Jane sat receptive and interested . Mickie had a pleasant glow as he said , `` You see , both of them , I mean the President and Jeff_Lawrence , are romantics . A romantic is one who thinks the world is divinely inspired and all he has_to do is find the right key , and then divine justice and altruism will appear . It 's like focusing a camera ; the distant ship is n't there until you get the <head>focus</head> . You know what I'm talking_about . I'm sure all girls feel this way about men until they live with them . `` But when it comes_to war , the Colonel knows what it is and Jeff does n't .</context>
+    </instance>
+    <instance id="br-l11#w604_0" docsrc="br-l11">
+      <context> You still have your paper hat and you 're wearing it , but then , it is an extraordinary paper hat and , in_addition to anything else you may be , you are also the sculptor who created that most peculiar dame out in the back_yard . It 's not too_much to assume that you will have a more lasting interest in paper hats than will Mr._Average_Citizen . You have your paper horn clutched in your big , craggy fist , and for your entrance you have planned a noisy , colorful and exuberant greeting to your friends and tenants . You find your house a <head>focus</head> of public and police attention . Can you imagine yourself forgetting under_the_circumstances that you are approaching this startling and unexpected situation so unsuitably hatted and armed with a paper horn ? Maybe one could be startled into forgetfulness . You shoulder your way through the cluster of the curious and you barge up to the cop on the door .</context>
+    </instance>
+    <instance id="br-n16#w2129_0" docsrc="br-n16">
+      <context> On the truck_bed there was nothing smaller than a piece of rusty machinery ; with more time I could have loosened a small burr or cotter_pin - Suddenly and not a second too soon I thought_of the coins in my pocket . There was no time to pick_out a penny ; I got a coin between my thumb and forefinger , leaned my elbows in a very natural and casual manner on top of the truck cab and flipped my little missile . There was a blur just under my <head>focus</head> of vision , a crash ; the car 's far windshield panel turned_into a silver web with a dark hole in_the center . I heard the screech of brakes behind me , an insane burst of laughter beneath me . Looking_back I saw a gray-haired man getting_out of his halted car and trying to read our license_number . `` S-s-sahjunt '' .</context>
+    </instance>
+    <instance id="n03136773_d_11" docsrc="n03136773_d">
+      <context> either of two fine mutually perpendicular lines that cross in the <head>focus</head> plane of an optical_instrument and are use for sighting or calibration ;</context>
+    </instance>
+    <instance id="n04703235_ex1_1" docsrc="n04703235_ex1">
+      <context> in <head>focus</head> ;</context>
+    </instance>
+    <instance id="n04703235_ex2_2" docsrc="n04703235_ex2">
+      <context> out of <head>focus</head> ;</context>
+    </instance>
+    <instance id="n04821084_ex1_5" docsrc="n04821084_ex1">
+      <context> the controversy brought clearly into <head>focus</head> an important difference of opinion ;</context>
+    </instance>
+    <instance id="n14182697_ex1_1" docsrc="n14182697_ex1">
+      <context> the <head>focus</head> of infection ;</context>
+    </instance>
+  </lexelt>
+</corpus>

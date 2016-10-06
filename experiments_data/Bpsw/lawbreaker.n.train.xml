@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="lawbreaker.n" pos="NN">
+    <instance id="n01210102_d_13" docsrc="n01210102_d">
+      <context> an unpaid service for the benefit of the public that is performed by <head>lawbreakers</head> as part ( or all ) of their sentence ;</context>
+    </instance>
+  </lexelt>
+</corpus>

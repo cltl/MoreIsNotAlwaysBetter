@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="dramatization.n" pos="NN">
+    <instance id="Dramatization-dramatization-0-0-1" docsrc="Dramatization">
+      <context> <head>Dramatization</head> or Dramatisation is the adapting of a literary source ( e.g. a novel , short story , poem ) to drama or theater .</context>
+    </instance>
+  </lexelt>
+</corpus>

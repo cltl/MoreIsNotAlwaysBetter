@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="phosphorus.n" pos="NN">
+    <instance id="a03099742_d_4" docsrc="a03099742_d">
+      <context> containing or characteristic of <head>phosphorus</head> ;</context>
+    </instance>
+    <instance id="br-e02#w2078_0" docsrc="br-e02">
+      <context> Their main asset is an abundance of unsaturated fatty_acids , so necessary for maintaining the good_health of the circulatory_system . Aside from this , the average portion contains some protein , an appreciable amount of vitamins and C - about one-tenth of the minimum daily requirement , and about a third of the official vitamin_E requirement . The B_vitamins are well represented , especially thiamin and riboflavin . Calcium , <head>phosphorus</head> and iron are present in worthwhile amounts , and eleven other minerals also have been found in varying trace amounts . None of these values is destroyed , not significantly altered by refrigeration storage . Dr._Wilson_C._Grant , of the Veterans_'_Administration_Hospital , Coral_Gables , Florida , and the University_of_Miami_School_of_Medicine , set_out to discover if avocados , because of their high content of unsaturated fatty_acids , would reduce the cholesterol of the blood in selected patients . The study comprised 16 male patients , ranging in age from 27 to 72 .</context>
+    </instance>
+    <instance id="n05411785_d_12" docsrc="n05411785_d">
+      <context> hormone synthesized and released into the blood_stream by the parathyroid_glands ; regulates <head>phosphorus</head> and calcium in the body and functions in neuromuscular excitation and blood_clotting ;</context>
+    </instance>
+    <instance id="n14059481_d_15" docsrc="n14059481_d">
+      <context> defective bone development ; usually attributable to renal disease or to disturbances in calcium and <head>phosphorus</head> metabolism ;</context>
+    </instance>
+    <instance id="n14201311_d_16" docsrc="n14201311_d">
+      <context> childhood disease caused by deficiency of vitamin_D and sunlight associated with impaired metabolism of calcium and <head>phosphorus</head> ;</context>
+    </instance>
+    <instance id="n14208176_d_8" docsrc="n14208176_d">
+      <context> abnormal softening of bones caused by deficiencies of <head>phosphorus</head> or calcium or vitamin_D ;</context>
+    </instance>
+    <instance id="n14615264_d_5" docsrc="n14615264_d">
+      <context> a series of oxyacids of <head>phosphorus</head> ;</context>
+    </instance>
+    <instance id="n14666510_d_16" docsrc="n14666510_d">
+      <context> a common complex mineral consisting of calcium fluoride phosphate or calcium_chloride phosphate ; a source of <head>phosphorus</head> ;</context>
+    </instance>
+    <instance id="n14717785_d_4" docsrc="n14717785_d">
+      <context> a corrosion-resistant bronze containing <head>phosphorus</head> ; used in bearings and gears ;</context>
+    </instance>
+    <instance id="n14773447_d_18" docsrc="n14773447_d">
+      <context> pig_iron containing a high percentage of phosphorus ; used in making steel by a process that removes the <head>phosphorus</head> ;</context>
+    </instance>
+    <instance id="n14773447_d_6" docsrc="n14773447_d">
+      <context> pig_iron containing a high percentage of <head>phosphorus</head> ; used in making steel by a process that removes the phosphorus ;</context>
+    </instance>
+    <instance id="n14963317_d_12" docsrc="n14963317_d">
+      <context> a compound containing nitrogen and a more electropositive element ( such as <head>phosphorus</head> or a metal ) ;</context>
+    </instance>
+    <instance id="n15080168_d_5" docsrc="n15080168_d">
+      <context> a pyridine ring with three <head>phosphorus</head> groups ;</context>
+    </instance>
+  </lexelt>
+</corpus>

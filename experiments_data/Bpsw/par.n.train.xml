@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="par.n" pos="NN">
+    <instance id="Par_(score)-par-0-20-1" docsrc="Par_(score)">
+      <context> <head>Nationally</head> , players competed against Colonel Bogey , and this gave the title to a 1914 marching tune , Colonel Bogey March . === Par ===</context>
+    </instance>
+    <instance id="Par_(score)-par-10-11-1" docsrc="Par_(score)">
+      <context> Scores on each hole are reported in the same way <head>that</head> course scores are given . Names are commonly given to scores on holes relative to par .</context>
+    </instance>
+    <instance id="Par_(score)-par-21-14-1" docsrc="Par_(score)">
+      <context> Names are commonly given to scores on holes relative to par . === Bogey === Bogey means one shot more than <head>par</head> ( +1 ) . " Going round in bogey " originally meant an overall par score , starting at the Great Yarmouth Golf Club in 1890 , and based on the phrase " bogey man " and a popular music hall song Here Comes the Bogey Man .</context>
+    </instance>
+    <instance id="Par_(score)-par-6-14-1" docsrc="Par_(score)">
+      <context> Names are commonly given to scores <head>on</head> holes relative to par . === Bogey === Bogey means one shot more than par ( +1 ) . " Going round in bogey " originally meant an overall par score , starting at the Great Yarmouth Golf Club in 1890 , and based on the phrase " bogey man " and a popular music hall song Here Comes the Bogey Man .</context>
+    </instance>
+    <instance id="br-a14#w1135_0" docsrc="br-a14">
+      <context> He won the Masters , the United_States_Open and a record $ 80738 in prize_money . He was heralded as `` Sportsman of the Year '' by Sports_Illustrated , and last night was acclaimed in Rochester as the `` Professional_Athlete_of_the_Year '' , a distinction that earned for him the $ 10000 diamond - studded Hickok_Belt . But he also achieved something that endeared him to every duffer who ever flubbed a shot . A_couple_of weeks ago , he scored a monstrous 12 on a <head>par</head> 5 hole . It made him human . And it also stayed the hands of thousands of brooding incompetents who were meditating the abandonment of a sport whose frustrations were driving them to despair . If such a paragon of perfection as Palmer could commit such a scoring sacrilege , there was hope left for all .</context>
+    </instance>
+    <instance id="br-a14#w1236_0" docsrc="br-a14">
+      <context> If such a paragon of perfection as Palmer could commit such a scoring sacrilege , there was hope left for all . It was neither a spirit of self-sacrifice nor a yen to encourage the downtrodden that motivated Arnold . He merely became victimized by a form of athletics that respects no one and aggravates all . The world 's best golfer , shooting below <head>par</head> , came to the last hole of the opening round of the Los_Angeles_open with every intention of delivering a final crusher . He boomed a 280 - yard drive . Then the pixies and the zombies took_over while the banshees wailed in the distance . On the narrow fairway of a 508 - yard hole , Arnold whipped into his second shot .</context>
+    </instance>
+    <instance id="br-g22#w2176_0" docsrc="br-g22">
+      <context> Perhaps a list of some of the `` practices '' of my company will help here . The company grew out of efforts by two completely inexperienced men in their late twenties , neither having a formal education applicable to , or experience in , manufacturing or selling our type of articles . From an initial investment of $ 1200 in 1943 , it has grown , with no additional capital investment , to a present value estimated by some as exceeding $ 10000000 ( we do n't disclose financial figures to the public ) . Its growth continues steadily on a <head>par</head> with past growth ; and no limitation is in_evidence . Our pin-curl clips and self-locking nuts achieved dominance in just a_few years time , despite substantial , well established competition .</context>
+    </instance>
+    <instance id="n13595276_d_6" docsrc="n13595276_d">
+      <context> a score of one stroke under <head>par</head> on a hole ;</context>
+    </instance>
+    <instance id="n13595414_d_6" docsrc="n13595414_d">
+      <context> a score of one stroke over <head>par</head> on a hole ;</context>
+    </instance>
+    <instance id="n13595699_d_6" docsrc="n13595699_d">
+      <context> a score of two strokes over <head>par</head> for a hole ;</context>
+    </instance>
+    <instance id="n13595968_d_6" docsrc="n13595968_d">
+      <context> a score of two strokes under <head>par</head> on a hole ;</context>
+    </instance>
+    <instance id="n13596106_d_6" docsrc="n13596106_d">
+      <context> a score of three strokes under <head>par</head> on a hole ;</context>
+    </instance>
+    <instance id="n13596756_ex2_0" docsrc="n13596756_ex2">
+      <context> <head>par</head> for this course is 72 ;</context>
+    </instance>
+    <instance id="n13946760_ex1_2" docsrc="n13946760_ex1">
+      <context> on a <head>par</head> with the best ;</context>
+    </instance>
+    <instance id="v01084331_d_5" docsrc="v01084331_d">
+      <context> make a score equal to <head>par</head> ;</context>
+    </instance>
+    <instance id="v01113134_d_5" docsrc="v01113134_d">
+      <context> shoot in two strokes under <head>par</head> ;</context>
+    </instance>
+    <instance id="v01598507_d_5" docsrc="v01598507_d">
+      <context> shoot in one stroke under <head>par</head> ;</context>
+    </instance>
+    <instance id="v01598785_d_5" docsrc="v01598785_d">
+      <context> to shoot two strokes over <head>par</head> ;</context>
+    </instance>
+    <instance id="v01598921_d_6" docsrc="v01598921_d">
+      <context> to shoot in one stroke over <head>par</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

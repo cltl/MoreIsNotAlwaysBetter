@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="par.n" pos="NN">
+    <instance id="br-g22#w2176_0" docsrc="br-g22">
+      <context> Perhaps a list of some of the `` practices '' of my company will help here . The company grew out of efforts by two completely inexperienced men in their late twenties , neither having a formal education applicable to , or experience in , manufacturing or selling our type of articles . From an initial investment of $ 1200 in 1943 , it has grown , with no additional capital investment , to a present value estimated by some as exceeding $ 10000000 ( we do n't disclose financial figures to the public ) . Its growth continues steadily on a <head>par</head> with past growth ; and no limitation is in_evidence . Our pin-curl clips and self-locking nuts achieved dominance in just a_few years time , despite substantial , well established competition .</context>
+    </instance>
+    <instance id="n13595276_d_6" docsrc="n13595276_d">
+      <context> a score of one stroke under <head>par</head> on a hole ;</context>
+    </instance>
+    <instance id="n13595414_d_6" docsrc="n13595414_d">
+      <context> a score of one stroke over <head>par</head> on a hole ;</context>
+    </instance>
+    <instance id="n13946760_ex1_2" docsrc="n13946760_ex1">
+      <context> on a <head>par</head> with the best ;</context>
+    </instance>
+  </lexelt>
+</corpus>

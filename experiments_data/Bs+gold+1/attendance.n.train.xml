@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="attendance.n" pos="NN">
+    <instance id="br-e26#w1119_0" docsrc="br-e26">
+      <context> In 1803 Oersted returned to Copenhagen and applied for the university 's chair in physics but was rejected because he was probably considered more a philosopher than a physicist . However , he continued experimenting and lecturing , publishing the results of his experiments in German and Danish periodicals . In 1806 his ambition was realized and he became professor of physics at the Copenhagen_University , though not realizing full professorship ( ordinarius ) until 1817 . During Oersted 's <head>attendance</head> at the university , it was poorly equipped with physical apparatus for experimenting in the sciences . He was , however , fortunate in his contact with Prof._J._G._L._Manthey ( 1769 - 1842 ) , teacher of chemistry , who , in_addition to his academic chair , was also proprietor of the `` Lion_Pharmacy '' in Copenhagen where Oersted assisted him . Manthey maintained a valuable collection of physical and chemical apparatus which was at Oersted 's disposal during and after his graduation . In 1800 , Manthey went abroad and Oersted was appointed manager of the Lion_Pharmacy .</context>
+    </instance>
+    <instance id="br-e30#w342_0" docsrc="br-e30">
+      <context> When did you last compare your present premium costs with the costs of insurance from other sources ? Can your insurance_company aid you in reducing administrative costs ? Do you try to maintain the principle of employee contributed ( as opposed to fully company paid ) programs ? Do you protect your holiday privileges with an <head>attendance</head> requirement both before and after the holiday ? Do you plan to limit additional holidays to area and / or industrial patterns ? Have you investigated the possibility of moving midweek holidays forward to Monday or back to Friday in_order to have an uninterrupted work week ? Are you carefully policing wash-up time and rest periods to be certain that all other time is productive ?</context>
+    </instance>
+  </lexelt>
+</corpus>

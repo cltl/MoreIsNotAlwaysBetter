@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="edition.n" pos="NN">
+    <instance id="Edition-edition-0-0-1" docsrc="Edition">
+      <context> <head>Edition</head> may refer to : Edition ( book ) , bibliographical term for a substantially similar set of copies</context>
+    </instance>
+    <instance id="Edition-edition-0-1-1" docsrc="Edition">
+      <context> <head>Edition</head> may refer to : Edition ( book ) , bibliographical term for a substantially similar set of copies Edition ( printmaking ) , publishing term for a set print run</context>
+    </instance>
+    <instance id="Edition-edition-0-2-1" docsrc="Edition">
+      <context> <head>Edition</head> ( book ) , bibliographical term for a substantially similar set of copies Edition ( printmaking ) , publishing term for a set print run Edition Records , British independent record label</context>
+    </instance>
+    <instance id="Edition-edition-5-3-1" docsrc="Edition">
+      <context> Edition ( printmaking ) , <head>publishing</head> term for a set print run Edition Records , British independent record label All pages beginning with " Edition "</context>
+    </instance>
+    <instance id="Edition-edition-5-7-1" docsrc="Edition">
+      <context> Edition Records , British independent <head>record</head> label All pages beginning with " Edition "</context>
+    </instance>
+    <instance id="Edition_(book)-edition-0-128-1" docsrc="Edition_(book)">
+      <context> <head>Principles</head> of Bibliographical Description , Winchester and New Castle , Delaware : St Paul 's Bibliographies and Oak Knoll Press , 2005 ( reprint edition , first published in 1949 ) . Bookpoi.com official homepage — a comprehensive online guide to identifying first editions , rare and collectible books . Edition state terminology</context>
+    </instance>
+    <instance id="Edition_(book)-edition-1-129-1" docsrc="Edition_(book)">
+      <context> Bookpoi.com <head>official</head> homepage — a comprehensive online guide to identifying first editions , rare and collectible books . Edition state terminology First Edition Points Online Reference Guide is a free searchable database of points of issue for hundreds of modern first edition books .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-1-19-1" docsrc="Edition_(book)">
+      <context> Such <head>minor</head> changes do not constitute a new edition , but introduce typographical variations within an edition , which are of interest to collectors . === Collectors ' definition === First edition most often refers to the first commercial publication of a work between its own covers , even if it was first printed in a periodical : the complete text of Ernest Hemingway ’s</context>
+    </instance>
+    <instance id="Edition_(book)-edition-1-81-1" docsrc="Edition_(book)">
+      <context> It <head>is</head> intended for young readers rather than adults . === Large print edition === These editions are typically library editions but the font size of the text is much larger than usual so that persons with poor eyesight ( often older persons ) can more easily read the book .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-10-107-1" docsrc="Edition_(book)">
+      <context> UK === Since 1956 , typographical arrangements of published editions <head>are</head> protected by copyright law . Copyright , Designs and Patents Act 1988 defines a published edition to mean a published edition of the whole or any part of one or more literary , dramatic or musical works .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-10-132-2" docsrc="Edition_(book)">
+      <context> Pulitzer Prize First Edition Guide is a free searchable database <head>of</head> first edition Pulitzer Prize for Fiction books . Includes images and points of issue . Glossary , International League of Antiquarian Booksellers — see " Edition " , " First Edition " , " Impression " , " Printing " etc .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-10-134-1" docsrc="Edition_(book)">
+      <context> Includes images and points of issue . Glossary , International <head>League</head> of Antiquarian Booksellers — see " Edition " , " First Edition " , " Impression " , " Printing " etc .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-10-37-1" docsrc="Edition_(book)">
+      <context> The terms revised edition and nth edition , revised are <head>sometimes</head> used by publishers when the book has been editorially revised or updated but for some reason the author or publisher does not want to call it the n+1th edition ( where n = previous edition number ) . Conversely , they may decide to call a version that is really not very different a " new edition " ( n+1th ) . The qualitative difference , then , between a " revised edition " and a " new edition " is subjective .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-10-74-3" docsrc="Edition_(book)">
+      <context> The rationale was that books took a long time to <head>export</head> to the colonies , that readership in those settlements was avid , and that books were an effective means to disseminate British values . Australia was by far the largest consumer of colonial editions . Macmillan ( London ) published the largest number of colonial edition titles .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-11-123-2" docsrc="Edition_(book)">
+      <context> Bowers , Fredson . Principles of Bibliographical Description , Winchester and <head>New</head> Castle , Delaware : St Paul 's Bibliographies and Oak Knoll Press , 2005 ( reprint edition , first published in 1949 ) . Bookpoi.com official homepage — a comprehensive online guide to identifying first editions , rare and collectible books .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-12-131-1" docsrc="Edition_(book)">
+      <context> Includes images of cover , copyright page , dust jacket flaps , <head>etc</head> . How to Identify a First Edition Pulitzer Prize First Edition Guide is a free searchable database of first edition Pulitzer Prize for Fiction books .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-12-22-2" docsrc="Edition_(book)">
+      <context> First edition most often refers to the first commercial publication of a <head>work</head> between its own covers , even if it was first printed in a periodical : the complete text of Ernest Hemingway ’s The Old Man and the Sea appeared in the September 1 , 1952 issue of Life , yet the generally accepted “ first ” edition is the hardcover book Scribner ’s published on September 8 , 1952 . The term " first trade edition , " refers to the earliest edition of a book offered for sale to the general public in book stores .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-13-28-1" docsrc="Edition_(book)">
+      <context> === Publishers ' definition === Publishers use the term first edition for their <head>own</head> purposes , with little consistency . The " first edition " of a trade book may be the first edition by the current publisher , or the first edition with a particular set of illustrations or editorial commentary .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-13-7-3" docsrc="Edition_(book)">
+      <context> A popular work may be published and reprinted over time by many publishers <head>,</head> and in a variety of formats . There will be a first edition of each , which the publisher may cite on the copyright page , such as : " First mass market paperback edition " . The first edition of a facsimile reprint is the reprint publisher 's first edition , but not the first edition of the work itself .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-15-107-1" docsrc="Edition_(book)">
+      <context> UK === Since 1956 , typographical arrangements of published editions are protected by copyright law <head>.</head> Copyright , Designs and Patents Act 1988 defines a published edition to mean a published edition of the whole or any part of one or more literary , dramatic or musical works .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-15-132-2" docsrc="Edition_(book)">
+      <context> Pulitzer Prize First Edition Guide is a free searchable database of first edition Pulitzer Prize <head>for</head> Fiction books . Includes images and points of issue . Glossary , International League of Antiquarian Booksellers — see " Edition " , " First Edition " , " Impression " , " Printing " etc .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-15-134-1" docsrc="Edition_(book)">
+      <context> Includes images and points of issue . Glossary , International League of Antiquarian Booksellers — <head>see</head> " Edition " , " First Edition " , " Impression " , " Printing " etc .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-16-15-5" docsrc="Edition_(book)">
+      <context> With film , it involved cutting out a bit of the film and inserting a new <head>bit</head> . In an electronic file , it means entering the changes digitally . Such minor changes do not constitute a new edition , but introduce typographical variations within an edition , which are of interest to collectors .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-16-37-1" docsrc="Edition_(book)">
+      <context> The terms revised edition and nth edition , revised are sometimes used by publishers when the <head>book</head> has been editorially revised or updated but for some reason the author or publisher does not want to call it the n+1th edition ( where n = previous edition number ) . Conversely , they may decide to call a version that is really not very different a " new edition " ( n+1th ) . The qualitative difference , then , between a " revised edition " and a " new edition " is subjective .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-18-36-1" docsrc="Edition_(book)">
+      <context> === Revised edition === The terms revised edition and nth edition , revised are sometimes used by publishers <head>when</head> the book has been editorially revised or updated but for some reason the author or publisher does not want to call it the n+1th edition ( where n = previous edition number ) . Conversely , they may decide to call a version that is really not very different a " new edition " ( n+1th ) .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-18-69-1" docsrc="Edition_(book)">
+      <context> === Book club edition === === Cheap edition === After a book has exhausted the market at the <head>high</head> original price a publisher may issue a cheap edition themselves or sell the rights on to another publisher who will produce the book .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-18-7-4" docsrc="Edition_(book)">
+      <context> There will be a first edition of each , which the publisher may cite on the copyright page <head>,</head> such as : " First mass market paperback edition " . The first edition of a facsimile reprint is the reprint publisher 's first edition , but not the first edition of the work itself . The Independent Online Booksellers Association has a A First Edition Primer which discusses several aspects of identifying first editions including publishing and specific publishers way of designating first editions .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-19-7-3" docsrc="Edition_(book)">
+      <context> A popular work may be published and reprinted over time by many publishers , and in a variety of <head>formats</head> . There will be a first edition of each , which the publisher may cite on the copyright page , such as : " First mass market paperback edition " . The first edition of a facsimile reprint is the reprint publisher 's first edition , but not the first edition of the work itself .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-19-92-1" docsrc="Edition_(book)">
+      <context> These will usually have their dust jacket clipped or marked in some way . From time to time , <head>readers</head> may observe an error in the text and report these to the publisher . The publisher typically keeps these reprint corrections in a file pending demand for a new print run of the edition , and before the new run is printed , they will be entered .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-2-28-2" docsrc="Edition_(book)">
+      <context> Publishers use <head>the</head> term first edition for their own purposes , with little consistency . The " first edition " of a trade book may be the first edition by the current publisher , or the first edition with a particular set of illustrations or editorial commentary . === Revised edition ===</context>
+    </instance>
+    <instance id="Edition_(book)-edition-2-55-1" docsrc="Edition_(book)">
+      <context> === Revised <head>and</head> updated edition === The hardcopy book 's content posted online , fully searchable === Library edition ===</context>
+    </instance>
+    <instance id="Edition_(book)-edition-2-65-1" docsrc="Edition_(book)">
+      <context> === Library <head>edition</head> === === Book club edition === === Cheap edition ===</context>
+    </instance>
+    <instance id="Edition_(book)-edition-2-7-3" docsrc="Edition_(book)">
+      <context> A popular <head>work</head> may be published and reprinted over time by many publishers , and in a variety of formats . There will be a first edition of each , which the publisher may cite on the copyright page , such as : " First mass market paperback edition " . The first edition of a facsimile reprint is the reprint publisher 's first edition , but not the first edition of the work itself .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-2-70-1" docsrc="Edition_(book)">
+      <context> === Cheap <head>edition</head> === After a book has exhausted the market at the high original price a publisher may issue a cheap edition themselves or sell the rights on to another publisher who will produce the book . A cheap edition typically uses a low cost paper and is a paperback but they can be hardback .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-2-70-4" docsrc="Edition_(book)">
+      <context> Also typically <head>the</head> size of the font is reduced to fit more words on a page to reduce the overall cost of the book . Naturally for a cheap edition the author will receive a lower royalty but that may be compensated for by a greater volume of sales . ==== Colonial edition ====</context>
+    </instance>
+    <instance id="Edition_(book)-edition-2-74-5" docsrc="Edition_(book)">
+      <context> Macmillan ( <head>London</head> ) published the largest number of colonial edition titles . They began in 1843 and persisted ( in terms of pricing and trade ) until the 1970s . === Cadet edition ===</context>
+    </instance>
+    <instance id="Edition_(book)-edition-2-77-1" docsrc="Edition_(book)">
+      <context> They began <head>in</head> 1843 and persisted ( in terms of pricing and trade ) until the 1970s . === Cadet edition === A cadet edition is a cut down version of a book which is more simply written .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-20-129-1" docsrc="Edition_(book)">
+      <context> Bookpoi.com official homepage — a comprehensive online guide to identifying first editions , rare and collectible books . Edition state <head>terminology</head> First Edition Points Online Reference Guide is a free searchable database of points of issue for hundreds of modern first edition books .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-20-6-1" docsrc="Edition_(book)">
+      <context> The old and new aspects of book edition numbering ( from before and since the advent of computing ) are <head>discussed</head> below . According to the definition of edition above , a book printed today , by the same publisher , and from the same type as when it was first published , is still the first edition of that book to a bibliographer . However , book collectors generally use the term first edition to mean specifically the first print run of the first edition ( aka " first edition , first impression " ) .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-21-14-1" docsrc="Edition_(book)">
+      <context> These books have different covers , the title page and copyright page may differ , and the page margin sizes may <head>differ</head> ( same type area , smaller trim ) , but to a bibliographer they are the same edition . From time to time , readers may observe an error in the text ( or , in the days of metal type , a piece of broken type ) , and report these to the publisher . The publisher typically keeps these " reprint corrections " in a file pending demand for a new print run of the edition , and before the new run is printed , they will be entered .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-22-28-1" docsrc="Edition_(book)">
+      <context> === Publishers ' definition === Publishers use the term first edition for their own purposes , with little consistency . The " <head>first</head> edition " of a trade book may be the first edition by the current publisher , or the first edition with a particular set of illustrations or editorial commentary .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-23-96-2" docsrc="Edition_(book)">
+      <context> Many commercially successful books have been republished , either by their original imprints or by other imprints . This explains why if you <head>look</head> up a popular book title at a large bookseller such as Amazon or a large library catalog such as WorldCat , you often find an array of different copyright years , publishers , editions , formats ( hardcover , softcover , trade , mass market ) , and so forth . The exact distinctions between " reprinting " and " republishing " and on whether a republishing is or is not a " different edition " are not policed by any universal authority , so the meaning of the terms used in any instance can not be known at first glance .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-24-123-1" docsrc="Edition_(book)">
+      <context> Remaindered book Bowers , Fredson . Principles of Bibliographical Description , Winchester and New Castle , Delaware : St Paul 's Bibliographies and Oak <head>Knoll</head> Press , 2005 ( reprint edition , first published in 1949 ) .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-24-22-1" docsrc="Edition_(book)">
+      <context> === Collectors ' definition === First edition most often refers to the first commercial publication of a work between its own covers , even <head>if</head> it was first printed in a periodical : the complete text of Ernest Hemingway ’s The Old Man and the Sea appeared in the September 1 , 1952 issue of Life , yet the generally accepted “ first ” edition is the hardcover book Scribner ’s published on September 8 , 1952 .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-25-6-1" docsrc="Edition_(book)">
+      <context> The old and new aspects of book edition numbering ( from before and since the advent of computing ) are discussed below . According to <head>the</head> definition of edition above , a book printed today , by the same publisher , and from the same type as when it was first published , is still the first edition of that book to a bibliographer . However , book collectors generally use the term first edition to mean specifically the first print run of the first edition ( aka " first edition , first impression " ) .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-26-73-1" docsrc="Edition_(book)">
+      <context> Naturally for a cheap edition the author will receive a lower royalty but that may be compensated for by a greater volume of sales . ==== <head>Colonial</head> edition ==== During the peak of the British Empire , cheap editions of novels published in Britain would often be produced for sale in the colonies before other editions of the books were sold .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-27-7-2" docsrc="Edition_(book)">
+      <context> A " first edition " per se is not a valuable collectible book . A popular work may be published and reprinted over time by many publishers <head>,</head> and in a variety of formats . There will be a first edition of each , which the publisher may cite on the copyright page , such as : " First mass market paperback edition " .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-28-7-4" docsrc="Edition_(book)">
+      <context> There will be a first edition of each , which the publisher may cite on the copyright page , such as : " First mass market paperback edition <head>"</head> . The first edition of a facsimile reprint is the reprint publisher 's first edition , but not the first edition of the work itself . The Independent Online Booksellers Association has a A First Edition Primer which discusses several aspects of identifying first editions including publishing and specific publishers way of designating first editions .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-3-131-1" docsrc="Edition_(book)">
+      <context> Includes images of <head>cover</head> , copyright page , dust jacket flaps , etc . How to Identify a First Edition Pulitzer Prize First Edition Guide is a free searchable database of first edition Pulitzer Prize for Fiction books .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-3-23-3" docsrc="Edition_(book)">
+      <context> For example , <head>Upton</head> Sinclair 's 1906 novel The Jungle was published in two variant forms . A " Sustainers ' Edition " , published by the Jungle Publishing Company , was sent to subscribers who had advanced funds to Sinclair . The first trade edition was published by Doubleday , Page to be sold in bookstores .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-3-28-1" docsrc="Edition_(book)">
+      <context> === Publishers ' <head>definition</head> === Publishers use the term first edition for their own purposes , with little consistency . The " first edition " of a trade book may be the first edition by the current publisher , or the first edition with a particular set of illustrations or editorial commentary .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-3-35-1" docsrc="Edition_(book)">
+      <context> The " first <head>edition</head> " of a trade book may be the first edition by the current publisher , or the first edition with a particular set of illustrations or editorial commentary . === Revised edition === The terms revised edition and nth edition , revised are sometimes used by publishers when the book has been editorially revised or updated but for some reason the author or publisher does not want to call it the n+1th edition ( where n = previous edition number ) .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-3-6-3" docsrc="Edition_(book)">
+      <context> However , book <head>collectors</head> generally use the term first edition to mean specifically the first print run of the first edition ( aka " first edition , first impression " ) . Since World War II , books often include a number line ( printer 's key ) that indicates the print run . A " first edition " per se is not a valuable collectible book .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-3-61-1" docsrc="Edition_(book)">
+      <context> The hardcopy book <head>'s</head> content posted online , fully searchable === Library edition === === Book club edition ===</context>
+    </instance>
+    <instance id="Edition_(book)-edition-3-78-2" docsrc="Edition_(book)">
+      <context> A cadet edition <head>is</head> a cut down version of a book which is more simply written . It is intended for young readers rather than adults . === Large print edition ===</context>
+    </instance>
+    <instance id="Edition_(book)-edition-34-1-3" docsrc="Edition_(book)">
+      <context> The traditional conventions for numbering book editions evolved spontaneously for several centuries before any greater applied science of revision control became important to humanity , which did not occur until the era of widespread <head>computing</head> had arrived ( when software and electronic publishing came into existence ) . The old and new aspects of book edition numbering ( from before and since the advent of computing ) are discussed below . According to the definition of edition above , a book printed today , by the same publisher , and from the same type as when it was first published , is still the first edition of that book to a bibliographer .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-39-13-1" docsrc="Edition_(book)">
+      <context> === Bibliographical definition === Publishers often use the same typesetting for the hardcover and trade paperback versions of a book . These books have different covers , the title page and copyright page may differ , and the page <head>margin</head> sizes may differ ( same type area , smaller trim ) , but to a bibliographer they are the same edition .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-39-35-1" docsrc="Edition_(book)">
+      <context> The " first edition " of a trade book may be the first edition by the current publisher , or the first edition with a particular set of illustrations or editorial commentary . === Revised edition === The terms <head>revised</head> edition and nth edition , revised are sometimes used by publishers when the book has been editorially revised or updated but for some reason the author or publisher does not want to call it the n+1th edition ( where n = previous edition number ) .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-39-96-1" docsrc="Edition_(book)">
+      <context> This is one of the factors that puts the " substantially " into the definition of " substantially the same setting of type " . Many commercially successful books have been republished , either by their original imprints or <head>by</head> other imprints . This explains why if you look up a popular book title at a large bookseller such as Amazon or a large library catalog such as WorldCat , you often find an array of different copyright years , publishers , editions , formats ( hardcover , softcover , trade , mass market ) , and so forth .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-4-0-1" docsrc="Edition_(book)">
+      <context> The bibliographical definition of <head>an</head> edition includes all copies of a book printed “ from substantially the same setting of type , ” including all minor typographical variants . The numbering of book editions is a special case of the wider field of revision control .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-4-108-1" docsrc="Edition_(book)">
+      <context> Copyright , Designs and <head>Patents</head> Act 1988 defines a published edition to mean a published edition of the whole or any part of one or more literary , dramatic or musical works . It thus protects the publisher 's investment in typesetting , as well as the processes of design and selection that are reflected in the appearance of the text . It also covers modern editions of public domain works ( such as the complete works of Shakespeare ) , and prohibits the reproduction of the layout ( but not the work itself ) .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-4-23-2" docsrc="Edition_(book)">
+      <context> The term " first <head>trade</head> edition , " refers to the earliest edition of a book offered for sale to the general public in book stores . For example , Upton Sinclair 's 1906 novel The Jungle was published in two variant forms . A " Sustainers ' Edition " , published by the Jungle Publishing Company , was sent to subscribers who had advanced funds to Sinclair .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-4-38-4" docsrc="Edition_(book)">
+      <context> The difference is their <head>subjective</head> sense of the significance of the change—that is , whether the differences constitute something very different or merely slightly different . Sometimes the distinction has more to do with marketing than with sound reasoning ( that is , encouraging buyers to think that something slightly different is very different ) . === Revised and updated edition ===</context>
+    </instance>
+    <instance id="Edition_(book)-edition-4-70-3" docsrc="Edition_(book)">
+      <context> A cheap edition typically <head>uses</head> a low cost paper and is a paperback but they can be hardback . Also typically the size of the font is reduced to fit more words on a page to reduce the overall cost of the book . Naturally for a cheap edition the author will receive a lower royalty but that may be compensated for by a greater volume of sales .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-45-35-1" docsrc="Edition_(book)">
+      <context> The " first edition " of a trade book may be the first edition by the current publisher , or the first edition with a particular set of illustrations or editorial commentary . === Revised edition === The terms revised edition and nth edition , <head>revised</head> are sometimes used by publishers when the book has been editorially revised or updated but for some reason the author or publisher does not want to call it the n+1th edition ( where n = previous edition number ) .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-5-1-3" docsrc="Edition_(book)">
+      <context> The traditional conventions for numbering <head>book</head> editions evolved spontaneously for several centuries before any greater applied science of revision control became important to humanity , which did not occur until the era of widespread computing had arrived ( when software and electronic publishing came into existence ) . The old and new aspects of book edition numbering ( from before and since the advent of computing ) are discussed below . According to the definition of edition above , a book printed today , by the same publisher , and from the same type as when it was first published , is still the first edition of that book to a bibliographer .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-5-130-2" docsrc="Edition_(book)">
+      <context> First Edition Points Online Reference <head>Guide</head> is a free searchable database of points of issue for hundreds of modern first edition books . Includes images of cover , copyright page , dust jacket flaps , etc . How to Identify a First Edition</context>
+    </instance>
+    <instance id="Edition_(book)-edition-5-22-2" docsrc="Edition_(book)">
+      <context> First edition most often refers <head>to</head> the first commercial publication of a work between its own covers , even if it was first printed in a periodical : the complete text of Ernest Hemingway ’s The Old Man and the Sea appeared in the September 1 , 1952 issue of Life , yet the generally accepted “ first ” edition is the hardcover book Scribner ’s published on September 8 , 1952 . The term " first trade edition , " refers to the earliest edition of a book offered for sale to the general public in book stores .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-5-27-1" docsrc="Edition_(book)">
+      <context> The first trade edition was <head>published</head> by Doubleday , Page to be sold in bookstores . === Publishers ' definition === Publishers use the term first edition for their own purposes , with little consistency .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-5-7-2" docsrc="Edition_(book)">
+      <context> A " first edition " <head>per</head> se is not a valuable collectible book . A popular work may be published and reprinted over time by many publishers , and in a variety of formats . There will be a first edition of each , which the publisher may cite on the copyright page , such as : " First mass market paperback edition " .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-5-81-1" docsrc="Edition_(book)">
+      <context> It is intended for young <head>readers</head> rather than adults . === Large print edition === These editions are typically library editions but the font size of the text is much larger than usual so that persons with poor eyesight ( often older persons ) can more easily read the book .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-6-1-1" docsrc="Edition_(book)">
+      <context> The bibliographical definition of an edition <head>includes</head> all copies of a book printed “ from substantially the same setting of type , ” including all minor typographical variants . The numbering of book editions is a special case of the wider field of revision control . The traditional conventions for numbering book editions evolved spontaneously for several centuries before any greater applied science of revision control became important to humanity , which did not occur until the era of widespread computing had arrived ( when software and electronic publishing came into existence ) .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-6-35-1" docsrc="Edition_(book)">
+      <context> The " first edition " of <head>a</head> trade book may be the first edition by the current publisher , or the first edition with a particular set of illustrations or editorial commentary . === Revised edition === The terms revised edition and nth edition , revised are sometimes used by publishers when the book has been editorially revised or updated but for some reason the author or publisher does not want to call it the n+1th edition ( where n = previous edition number ) .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-7-1-2" docsrc="Edition_(book)">
+      <context> The numbering of book editions is a <head>special</head> case of the wider field of revision control . The traditional conventions for numbering book editions evolved spontaneously for several centuries before any greater applied science of revision control became important to humanity , which did not occur until the era of widespread computing had arrived ( when software and electronic publishing came into existence ) . The old and new aspects of book edition numbering ( from before and since the advent of computing ) are discussed below .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-7-106-2" docsrc="Edition_(book)">
+      <context> === UK === Since 1956 , typographical <head>arrangements</head> of published editions are protected by copyright law .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-8-15-5" docsrc="Edition_(book)">
+      <context> With film , it involved cutting out a <head>bit</head> of the film and inserting a new bit . In an electronic file , it means entering the changes digitally . Such minor changes do not constitute a new edition , but introduce typographical variations within an edition , which are of interest to collectors .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-9-6-1" docsrc="Edition_(book)">
+      <context> The old and new aspects of book edition numbering <head>(</head> from before and since the advent of computing ) are discussed below . According to the definition of edition above , a book printed today , by the same publisher , and from the same type as when it was first published , is still the first edition of that book to a bibliographer . However , book collectors generally use the term first edition to mean specifically the first print run of the first edition ( aka " first edition , first impression " ) .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-9-7-4" docsrc="Edition_(book)">
+      <context> There will be a first edition of each , <head>which</head> the publisher may cite on the copyright page , such as : " First mass market paperback edition " . The first edition of a facsimile reprint is the reprint publisher 's first edition , but not the first edition of the work itself . The Independent Online Booksellers Association has a A First Edition Primer which discusses several aspects of identifying first editions including publishing and specific publishers way of designating first editions .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-9-73-1" docsrc="Edition_(book)">
+      <context> Naturally for a cheap edition the author will receive <head>a</head> lower royalty but that may be compensated for by a greater volume of sales . ==== Colonial edition ==== During the peak of the British Empire , cheap editions of novels published in Britain would often be produced for sale in the colonies before other editions of the books were sold .</context>
+    </instance>
+    <instance id="Edition_(book)-edition-9-74-2" docsrc="Edition_(book)">
+      <context> During the peak of the British Empire , cheap <head>editions</head> of novels published in Britain would often be produced for sale in the colonies before other editions of the books were sold . The rationale was that books took a long time to export to the colonies , that readership in those settlements was avid , and that books were an effective means to disseminate British values . Australia was by far the largest consumer of colonial editions .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-1-28-7" docsrc="Edition_(printmaking)">
+      <context> Charitable <head>organizations</head> are specifically exempt from the provision of the law . The statute of limitations is one year after discovery , and , if discovery of the violation is not made within three years of the sale , then the purchaser ’s remedies are extinguished . Historical editions ( music )</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-1-36-1" docsrc="Edition_(printmaking)">
+      <context> Historical <head>editions</head> ( music ) Print run Special edition</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-11-21-5" docsrc="Edition_(printmaking)">
+      <context> Artists usually print an edition much smaller than the plate allows <head>,</head> both for marketing reasons and to keep the edition comfortably within the lifespan of the plate . Specific steps may also be taken to strengthen the plate , such as electroplating intaglio images , which uses an electric process to put a very thin coat of a stronger metal onto a plate of a weaker metal . California became the first state to regulate the sale of limited edition art prints with the " California Print Law " of 1971 .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-13-11-1" docsrc="Edition_(printmaking)">
+      <context> Some knowledge is often required to tell the difference . The aquatints of <head>Goya</head> , which are done in a technique that wears out quickly on the plate , were the first important prints to be published initially in limited editions , which however were not signed or numbered . In fact the plates survived , and since Goya 's death several further editions have been published , showing a progressive and drastic decline in quality of the image , despite some rework .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-14-11-5" docsrc="Edition_(printmaking)">
+      <context> The plates of later prints are often " cancelled " by defacing the image <head>,</head> with a couple of impressions of the cancelled plate taken to document it . This is now expected by collectors and investors , who want the prints they buy to retain their value . In later times , printmakers recognized the value of limiting the size of an edition and including the volume of the edition in the print number ( e.g. , " 15/30 " for the 15th print in an edition of 30 ) .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-20-21-3" docsrc="Edition_(printmaking)">
+      <context> Tight controls on the process to limit or eliminate variation in quality have become the norm . In monotyping , <head>a</head> technique where only two impressions at most can be taken , prints may be numbered 1/1 , or marked " unique " . Artists usually print an edition much smaller than the plate allows , both for marketing reasons and to keep the edition comfortably within the lifespan of the plate .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-21-11-5" docsrc="Edition_(printmaking)">
+      <context> The plates of later prints are often " cancelled " by defacing the image , with a couple of impressions of <head>the</head> cancelled plate taken to document it . This is now expected by collectors and investors , who want the prints they buy to retain their value . In later times , printmakers recognized the value of limiting the size of an edition and including the volume of the edition in the print number ( e.g. , " 15/30 " for the 15th print in an edition of 30 ) .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-28-28-1" docsrc="Edition_(printmaking)">
+      <context> That law became the template for statutes subsequently enacted by other states . The Georgia Print Law written by ( former ) State Representative Chesley V. Morton , <head>became</head> effective July 1 , 1986 . The law requires art dealers , artists , or auctioneers to supply information to prospective purchasers about the nature of the print , the number of prints and editions ( including HC editions ) produced , and the involvement ( if any ) of the artist in the creation of the print .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-30-4-3" docsrc="Edition_(printmaking)">
+      <context> These may be marketed as " limited editions " with investment potential ( which is rarely realized ) , and even signed and numbered by the artist . Some knowledge <head>is</head> often required to tell the difference . The aquatints of Goya , which are done in a technique that wears out quickly on the plate , were the first important prints to be published initially in limited editions , which however were not signed or numbered .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-32-0-2" docsrc="Edition_(printmaking)">
+      <context> In printmaking , an edition is a number of prints struck from one plate , usually at the same time . This is the meaning covered by this article . This may <head>be</head> a limited edition , with a fixed number of impressions produced on the understanding that no further impressions ( copies ) will be produced later , or an open edition limited only by the number that can be sold or produced before the plate wears .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-32-0-3" docsrc="Edition_(printmaking)">
+      <context> This is the meaning covered by this article . This may be a limited edition , with a fixed number of impressions produced on the understanding that no further impressions ( copies <head>)</head> will be produced later , or an open edition limited only by the number that can be sold or produced before the plate wears . Most modern artists produce only limited editions , normally signed by the artist in pencil , and numbered as say 67/100 to show the unique number of that impression and the total edition size .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-32-28-1" docsrc="Edition_(printmaking)">
+      <context> That law became the template for statutes subsequently enacted by other states . The Georgia Print Law written by ( former ) State Representative Chesley V. Morton , became effective July 1 <head>,</head> 1986 . The law requires art dealers , artists , or auctioneers to supply information to prospective purchasers about the nature of the print , the number of prints and editions ( including HC editions ) produced , and the involvement ( if any ) of the artist in the creation of the print .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-38-11-5" docsrc="Edition_(printmaking)">
+      <context> The plates of later prints are often " cancelled " by defacing the image , with a couple of impressions of the cancelled plate taken to document it . This is now expected by collectors and investors , <head>who</head> want the prints they buy to retain their value . In later times , printmakers recognized the value of limiting the size of an edition and including the volume of the edition in the print number ( e.g. , " 15/30 " for the 15th print in an edition of 30 ) .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-4-21-3" docsrc="Edition_(printmaking)">
+      <context> Tight controls on the <head>process</head> to limit or eliminate variation in quality have become the norm . In monotyping , a technique where only two impressions at most can be taken , prints may be numbered 1/1 , or marked " unique " . Artists usually print an edition much smaller than the plate allows , both for marketing reasons and to keep the edition comfortably within the lifespan of the plate .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-5-0-2" docsrc="Edition_(printmaking)">
+      <context> In printmaking , an edition <head>is</head> a number of prints struck from one plate , usually at the same time . This is the meaning covered by this article . This may be a limited edition , with a fixed number of impressions produced on the understanding that no further impressions ( copies ) will be produced later , or an open edition limited only by the number that can be sold or produced before the plate wears .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-6-0-3" docsrc="Edition_(printmaking)">
+      <context> This is the meaning covered by <head>this</head> article . This may be a limited edition , with a fixed number of impressions produced on the understanding that no further impressions ( copies ) will be produced later , or an open edition limited only by the number that can be sold or produced before the plate wears . Most modern artists produce only limited editions , normally signed by the artist in pencil , and numbered as say 67/100 to show the unique number of that impression and the total edition size .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-7-4-1" docsrc="Edition_(printmaking)">
+      <context> Most modern artists produce only limited editions <head>,</head> normally signed by the artist in pencil , and numbered as say 67/100 to show the unique number of that impression and the total edition size . An important and often confused distinction is that between editions of original prints , produced in the same medium as the artist worked ( e.g. , etching , or lithography ) , and reproduction prints ( or paintings ) , which are photographic reproductions of the original work , essentially in the same category as a picture in a book or magazine , though better printed and on better paper . These may be marketed as " limited editions " with investment potential ( which is rarely realized ) , and even signed and numbered by the artist .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-9-0-4" docsrc="Edition_(printmaking)">
+      <context> This may be a limited edition , with a <head>fixed</head> number of impressions produced on the understanding that no further impressions ( copies ) will be produced later , or an open edition limited only by the number that can be sold or produced before the plate wears . Most modern artists produce only limited editions , normally signed by the artist in pencil , and numbered as say 67/100 to show the unique number of that impression and the total edition size . An important and often confused distinction is that between editions of original prints , produced in the same medium as the artist worked ( e.g. , etching , or lithography ) , and reproduction prints ( or paintings ) , which are photographic reproductions of the original work , essentially in the same category as a picture in a book or magazine , though better printed and on better paper .</context>
+    </instance>
+    <instance id="Edition_(printmaking)-edition-9-11-2" docsrc="Edition_(printmaking)">
+      <context> The aquatints of Goya , which are done in <head>a</head> technique that wears out quickly on the plate , were the first important prints to be published initially in limited editions , which however were not signed or numbered . In fact the plates survived , and since Goya 's death several further editions have been published , showing a progressive and drastic decline in quality of the image , despite some rework . Because of this and other cases , " posthumous editions " produced after the death of an artist , and obviously not signed by him , are usually far less sought after .</context>
+    </instance>
+    <instance id="br-e04#w2081_0" docsrc="br-e04">
+      <context> The Command technique invites you to listen to the depth of the orchestration . Your ear takes you into the ensemble , and you may well become aware of instrumental details which previously were apparent only in the score . It is this sort of experience that makes the concept of high_fidelity of real musical significance for the home music listener . The first substantially complete stereo Giselle ( and the only one of its scope since Feyer 's four-sided LP <head>edition</head> of 1958 for Angel ) , this set is , I'm afraid , likely to provide more horrid fascination than enjoyment . The already faded pastel charms of the naive music itself vanish entirely in Fistoulari 's melodramatic contrasts between ultra vehement brute power and chilly , if suave , sentimentality . And in its engineers ' frantic attempts to achieve maximum dynamic impact and earsplitting brilliance , the recording sounds as though it had been `` doctored for super high_fidelity '' . The home listener is overpowered , all_right , but the experience is a far from pleasant one .</context>
+    </instance>
+    <instance id="br-e04#w254_0" docsrc="br-e04">
+      <context> Recently I was struck anew by the divergent approaches , when in the course of one afternoon and evening I listened to no fewer than ten different performances . The occasion for this marathon : Angel 's long awaited reissue in its `` Great_Recordings_of_the_Century '' series of the Schnabel-Pro_Arte version . Let me say at the outset that the music sounded as sparkling on the last playing as it did on the first . Whether considered alone or in_relation_to other <head>editions</head> , COLH 40 is a document of prime importance . Artur_Schnabel was one of the greatest Schubert-Beethoven-Mozart players of_all_time , and any commentary of his on this repertory is valuable . But Schnabel was a great teacher in_addition_to being a great performer , and the fact that four of the ten versions I listened to are by Schnabel pupils ( Clifford_Curzon , Frank_Glazer , Adrian_Aeschbacher , and Victor_Babin ) also sheds_light_on the master 's pedagogical skills . Certain pianistic traits are common to all five Schnabelian renditions , most notably the `` Schnabel trill '' ( which differs from the conventional trill in_that the two notes are struck simultaneously ) .</context>
+    </instance>
+    <instance id="br-e04#w798_0" docsrc="br-e04">
+      <context> The assisting musicians from the Vienna_Octet are somewhat lacking in expertise , but their contribution is rustic and appealing . ( Special compliments to the double_bass playing of Johann_Krumpp : his scrawny , tottering sound adds a delightful hilarity to the performance . ) The Glazer-Fine_Arts <head>edition</head> ( Concert-Disc ) is a model of lucidity and organization . It is , moreover , a perfectly integrated ensemble effort . But having lived with the disc for some time now , I find the performance less exciting than either Schnabel 's or Fleisher 's ( whose superb performance with the Budapest_Quartet has still to be recorded ) and a good_deal less filled with humor than Curzon 's . Aeschbacher 's work is very_much akin to Schnabel 's , but the sound on his Decca disc is dated , and you will have a hard_time locating a copy of it .</context>
+    </instance>
+    <instance id="br-e04#w911_0" docsrc="br-e04">
+      <context> It is , moreover , a perfectly integrated ensemble effort . But having lived with the disc for some time now , I find the performance less exciting than either Schnabel 's or Fleisher 's ( whose superb performance with the Budapest_Quartet has still to be recorded ) and a good_deal less filled with humor than Curzon 's . Aeschbacher 's work is very_much akin to Schnabel 's , but the sound on his Decca disc is dated , and you will have a hard_time locating a copy of it . The Hephzibah_Menuhin-Amadeus_Quartet ( Angel ) and Victor_Babin-Festival_Quartet ( RCA_Victor ) <head>editions</head> give us superlative string playing ( both in symphonic style ) crippled by unimaginative piano playing . ( Babin has acquired some of Schnabel 's keyboard manner , but his playing is of limited insight . ) Badura-Skoda-Vienna_Konzerthaus ( Westminster ) and Demus-Schubert_Quartet ( Deutsche_Grammophon ) are both warm_toned , pleasantly lyrical , but rather slack and tensionless . Helmut_Roloff , playing with a group of musicians from the Bayreuth_Ensemble , gives a sturdy reading , in much the same vein as that of the last_mentioned pianists .</context>
+    </instance>
+    <instance id="br-g39#w1294_0" docsrc="br-g39">
+      <context> Mercer is_supposed_to have refused it with , `` Anyone who wears a square monocle must be affected '' ! Everett_Miller , then assistant director for the Garrick_Gaieties , a Theatre_Guild production , needed a lyricist for a song he had written ; he just happened not to need any actor at the moment , however . For him Mercer produced the lyric to `` Out_of_Breath_Scared_to_Death_of_You '' , introduced in that most successful of all the Gaieties , by Sterling_Holloway . This 1930 <head>edition</head> also had songs in it by Vernon_Duke and Ira_Gershwin , by E._Y._Harburg and Duke , and by Harry_Myers . Entrance into such stellar song writing company encouraged the burgeoning song_writer to take a wife , Elizabeth_Meehan , a dancer in the Gaieties . The Mercers took_up residence in Brooklyn , and Mercer found a regular job in Wall_Street `` misplacing stocks and bonds '' . When he heard that Paul_Whiteman was looking_for singers to replace the Rhythm_Boys , Mercer applied and got the job , `` not for my voice , I 'm sure , but because I could write songs and material generally '' .</context>
+    </instance>
+    <instance id="n05840650_ex4_5" docsrc="n05840650_ex4">
+      <context> the boy is a younger <head>edition</head> of his father ;</context>
+    </instance>
+    <instance id="n06448594_d_2" docsrc="n06448594_d">
+      <context> the Latin <head>edition</head> of the Bible translated from Hebrew and Greek mainly by St._Jerome at the end of the 4th century ; as revised in 1592 it was adopted as the official text for the Roman_Catholic_Church ;</context>
+    </instance>
+    <instance id="n06590601_d_1" docsrc="n06590601_d">
+      <context> an <head>edition</head> that is restricted to a specific number of copies ;</context>
+    </instance>
+    <instance id="n06590723_d_1" docsrc="n06590723_d">
+      <context> an <head>edition</head> containing various versions of a text or notes by various scholars or editors ;</context>
+    </instance>
+    <instance id="n06597204_ex1_5" docsrc="n06597204_ex1">
+      <context> he read it in yesterday's <head>edition</head> of the Times ;</context>
+    </instance>
+    <instance id="n06597349_d_2" docsrc="n06597349_d">
+      <context> an additional <head>edition</head> of a newspaper ( usually to report a crisis ) ;</context>
+    </instance>
+    <instance id="n06855563_d_16" docsrc="n06855563_d">
+      <context> an identification of a publisher ; a publisher's name along with the date and address and <head>edition</head> that is printed at the bottom of the title_page ;</context>
+    </instance>
+    <instance id="n07959393_ex1_2" docsrc="n07959393_ex1">
+      <context> the first <head>edition</head> appeared in 1920 ;</context>
+    </instance>
+    <instance id="n07959393_ex2_7" docsrc="n07959393_ex2">
+      <context> it was too late for the morning <head>edition</head> ;</context>
+    </instance>
+    <instance id="n07959393_ex3_4" docsrc="n07959393_ex3">
+      <context> they issued a limited <head>edition</head> of Bach recordings ;</context>
+    </instance>
+    <instance id="n10534849_d_20" docsrc="n10534849_d">
+      <context> a book of rules for presiding over a meeting ; written by Henry_M._Martin in 1876 and subsequently updated through many <head>editions</head> ;</context>
+    </instance>
+    <instance id="n10859669_d_8" docsrc="n10859669_d">
+      <context> English editor who in 1818 published an expurgated <head>edition</head> of the works of Shakespeare ;</context>
+    </instance>
+    <instance id="n10966496_d_9" docsrc="n10966496_d">
+      <context> an expert on cooking whose cookbook has undergone many <head>editions</head> ;</context>
+    </instance>
+    <instance id="n11152122_d_11" docsrc="n11152122_d">
+      <context> English scholar remembered for his chronology of Shakespeare's plays and his <head>editions</head> of Shakespeare and Dryden ;</context>
+    </instance>
+    <instance id="n15262624_d_17" docsrc="n15262624_d">
+      <context> a print_run of a newspaper during which some articles or advertisements are changed to produce a different <head>edition</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

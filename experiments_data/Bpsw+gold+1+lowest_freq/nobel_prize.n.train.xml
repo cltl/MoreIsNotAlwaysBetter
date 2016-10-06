@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Nobel_prize.n" pos="NN">
+    <instance id="br-g18#w5_0" docsrc="br-g18">
+      <context> Among the recipients of the <head>Nobel_Prize</head> for Literature more_than half are practically unknown to readers of English . Of these there are surely few that would be more rewarding discoveries than Verner_von_Heidenstam , the Swedish poet and novelist who received the award in 1916 and whose centennial was celebrated two years ago . Equally a master of prose and verse , he recreates the glory of Sweden in the past and continues it into the present . In the following sketch we shall present a brief outline of his life and let him as_much_as_possible speak_for himself .</context>
+    </instance>
+    <instance id="n10359546_d_3" docsrc="n10359546_d">
+      <context> winner of a <head>Nobel_prize</head> ;</context>
+    </instance>
+    <instance id="n10834543_d_5" docsrc="n10834543_d">
+      <context> United_States physicist who won the <head>Nobel_prize</head> for physics twice ;</context>
+    </instance>
+    <instance id="n10897312_d_8" docsrc="n10897312_d">
+      <context> British statesman and leader during World_War_II ; received <head>Nobel_prize</head> for literature in 1953 ;</context>
+    </instance>
+    <instance id="n10917703_d_10" docsrc="n10917703_d">
+      <context> French chemist ( born in Poland ) who won two <head>Nobel_prizes</head> ; one ( with her husband and Henri_Becquerel ) for research on radioactivity and another for her discovery of radium and polonium ;</context>
+    </instance>
+    <instance id="n10957072_d_11" docsrc="n10957072_d">
+      <context> British poet ( born in the United_States ) who won the <head>Nobel_prize</head> for literature ; his plays are outstanding examples of modern verse drama ;</context>
+    </instance>
+    <instance id="n11039860_d_8" docsrc="n11039860_d">
+      <context> an American writer of fiction who won the <head>Nobel_prize</head> for literature in 1954 ;</context>
+    </instance>
+    <instance id="n11208688_d_15" docsrc="n11208688_d">
+      <context> Swedish chemist remembered for his invention of dynamite and for the bequest that created the <head>Nobel_prizes</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

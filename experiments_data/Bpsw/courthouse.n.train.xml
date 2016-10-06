@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="courthouse.n" pos="NN">
+    <instance id="Courthouse-courthouse-1-11-1" docsrc="Courthouse">
+      <context> Security <head>After</head> the Oklahoma City bombing , the federal government proceeded to heavily fortify all large federal buildings , including many urban courthouses . Some courthouses in areas with high levels of violent crime have redundant layers of security .</context>
+    </instance>
+    <instance id="Courthouse-courthouse-1-4-1" docsrc="Courthouse">
+      <context> In <head>most</head> counties in the United States , the local trial courts conduct their business in a centrally located courthouse which may also house county governmental offices . The courthouse is usually located in the county seat , although large metropolitan counties may have satellite or annex offices for their courts .</context>
+    </instance>
+    <instance id="Courthouse-courthouse-10-5-1" docsrc="Courthouse">
+      <context> The courthouse is usually located in the county seat , <head>although</head> large metropolitan counties may have satellite or annex offices for their courts . In some cases this building may be renamed in some way or its function divided as between a judicial building and administrative office building . Many judges also officiate at civil marriage ceremonies in their courthouse chambers .</context>
+    </instance>
+    <instance id="Courthouse-courthouse-13-6-2" docsrc="Courthouse">
+      <context> Each United States district court also has a federally owned building that houses <head>courtrooms</head> , chambers and clerk 's offices . Many federal judicial districts are further split into divisions , which may also have their own courthouses , although sometimes the smaller divisional court facilities are located in buildings that also house other agencies or offices of the United States government . The United States District Court for the Eastern District of California has a courthouse in Yosemite to hear misdemeanors and petty crimes for Yosemite National Park .</context>
+    </instance>
+    <instance id="Courthouse-courthouse-16-6-1" docsrc="Courthouse">
+      <context> Either way , a typical courthouse will have one or more courtrooms and a court clerk <head>'s</head> office with a filing window where litigants may submit documents for filing with the court . Each United States district court also has a federally owned building that houses courtrooms , chambers and clerk 's offices . Many federal judicial districts are further split into divisions , which may also have their own courthouses , although sometimes the smaller divisional court facilities are located in buildings that also house other agencies or offices of the United States government .</context>
+    </instance>
+    <instance id="Courthouse-courthouse-2-25-1" docsrc="Courthouse">
+      <context> Court Courts <head>of</head> England and Wales List of courthouses</context>
+    </instance>
+    <instance id="Courthouse-courthouse-2-26-1" docsrc="Courthouse">
+      <context> Courts of <head>England</head> and Wales List of courthouses U.S. county courthouses by state</context>
+    </instance>
+    <instance id="Courthouse-courthouse-2-33-1" docsrc="Courthouse">
+      <context> List of <head>courthouses</head> U.S. county courthouses by state</context>
+    </instance>
+    <instance id="Courthouse-courthouse-21-5-2" docsrc="Courthouse">
+      <context> In some cases this building may be renamed in some way or its function divided as between a judicial building and <head>administrative</head> office building . Many judges also officiate at civil marriage ceremonies in their courthouse chambers . In some places , the courthouse also contains the main administrative office for the county government , or when a new courthouse is constructed , the former one will often be used for other local government offices .</context>
+    </instance>
+    <instance id="Courthouse-courthouse-21-8-1" docsrc="Courthouse">
+      <context> The United States District Court for the Eastern District of California has a courthouse in Yosemite to hear misdemeanors and petty <head>crimes</head> for Yosemite National Park . Security After the Oklahoma City bombing , the federal government proceeded to heavily fortify all large federal buildings , including many urban courthouses .</context>
+    </instance>
+    <instance id="Courthouse-courthouse-4-12-2" docsrc="Courthouse">
+      <context> Some courthouses in areas <head>with</head> high levels of violent crime have redundant layers of security . For example , when the Supreme Court of California hears oral argument in San Francisco or Los Angeles , visitors must pass through one security checkpoint to enter the building , and another to enter the courtroom . See the category : Courthouses in Canada</context>
+    </instance>
+    <instance id="Courthouse-courthouse-4-17-2" docsrc="Courthouse">
+      <context> In Canada each municipality <head>constructs</head> its own courthouse , or several in the case of large cities . In smaller communities the court is in the same building as the city hall and other municipal offices . In the past many courthouses also included the local prison .</context>
+    </instance>
+    <instance id="Courthouse-courthouse-5-5-2" docsrc="Courthouse">
+      <context> In some cases this building <head>may</head> be renamed in some way or its function divided as between a judicial building and administrative office building . Many judges also officiate at civil marriage ceremonies in their courthouse chambers . In some places , the courthouse also contains the main administrative office for the county government , or when a new courthouse is constructed , the former one will often be used for other local government offices .</context>
+    </instance>
+    <instance id="Courthouse-courthouse-5-5-3" docsrc="Courthouse">
+      <context> Many judges also officiate at <head>civil</head> marriage ceremonies in their courthouse chambers . In some places , the courthouse also contains the main administrative office for the county government , or when a new courthouse is constructed , the former one will often be used for other local government offices . Either way , a typical courthouse will have one or more courtrooms and a court clerk 's office with a filing window where litigants may submit documents for filing with the court .</context>
+    </instance>
+    <instance id="Courthouse-courthouse-7-16-1" docsrc="Courthouse">
+      <context> For example , when the Supreme Court <head>of</head> California hears oral argument in San Francisco or Los Angeles , visitors must pass through one security checkpoint to enter the building , and another to enter the courtroom . See the category : Courthouses in Canada In Canada each municipality constructs its own courthouse , or several in the case of large cities .</context>
+    </instance>
+    <instance id="n03525693_d_4" docsrc="n03525693_d">
+      <context> a jail in a <head>courthouse</head> where accused persons can be confined during a trial ;</context>
+    </instance>
+  </lexelt>
+</corpus>

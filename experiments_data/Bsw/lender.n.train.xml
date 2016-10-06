@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="lender.n" pos="NN">
+    <instance id="Creditor-lender-10-0-4" docsrc="Creditor">
+      <context> The first party , in general , has provided some <head>property</head> or service to the second party under the assumption ( usually enforced by contract ) that the second party will return an equivalent property and service . The second party is frequently called a debtor or borrower . The first party is the creditor , which is the lender of property , service or money .</context>
+    </instance>
+  </lexelt>
+</corpus>

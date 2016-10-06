@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="bacterium.n" pos="NN">
+    <instance id="Bacteria-bacterium-38-97-2" docsrc="Bacteria">
+      <context> Bacteriophages are viruses that infect bacteria . Many types of bacteriophage exist , some simply infect and lyse their host bacteria , while others insert into the bacterial chromosome . A bacteriophage can contain genes that contribute to <head>its</head> host 's phenotype : for example , in the evolution of Escherichia coli O157:H7 and Clostridium botulinum , the toxin genes in an integrated phage converted a harmless ancestral bacterium into a lethal pathogen .</context>
+    </instance>
+    <instance id="Bacteria-bacterium-4-91-1" docsrc="Bacteria">
+      <context> The third method of <head>gene</head> transfer is conjugation , whereby DNA is transferred through direct cell contact . Transformation , unlike transduction or conjugation , depends on numerous bacterial gene products that specifically interact to perform this complex process , and thus transformation is clearly a bacterial adaptation for DNA transfer . In order for a bacterium to bind , take up and recombine donor DNA into its own chromosome , it must first enter a special physiological state termed competence ( see Natural competence ) .</context>
+    </instance>
+    <instance id="a01820684_d_9" docsrc="a01820684_d">
+      <context> ( of bacteria ) being or relating to a <head>bacterium</head> that retains the violet stain used in Gram's_method ;</context>
+    </instance>
+    <instance id="a01821078_d_10" docsrc="a01821078_d">
+      <context> ( of bacteria ) being of or relating to a <head>bacterium</head> that does not retain the violet stain used in Gram's_method ;</context>
+    </instance>
+    <instance id="n00253919_d_9" docsrc="n00253919_d">
+      <context> the procedure of making some object free of live <head>bacteria</head> or other microorganisms ( usually by heat or chemical means ) ;</context>
+    </instance>
+    <instance id="n00275751_d_8" docsrc="n00275751_d">
+      <context> a staining technique used to classify bacteria ; <head>bacteria</head> are stained with gentian_violet and then treated with Gram's_solution ; after being decolorized with alcohol and treated with safranine and washed in water , those that retain the gentian_violet are Gram-positive and those that do not retain it are Gram-negative ;</context>
+    </instance>
+    <instance id="n00399030_d_5" docsrc="n00399030_d">
+      <context> modification of a cell or <head>bacterium</head> by the uptake and incorporation of exogenous DNA ;</context>
+    </instance>
+    <instance id="n00791875_d_28" docsrc="n00791875_d">
+      <context> an assay that relies on an enzymatic conversion reaction and is used to detect the presence of specific substances ( such as enzymes or viruses or antibodies or <head>bacteria</head> ) ;</context>
+    </instance>
+    <instance id="n00920727_d_5" docsrc="n00920727_d">
+      <context> a culture containing yeast or <head>bacteria</head> that is used to start the process of fermentation or souring in making butter or cheese or dough ;</context>
+    </instance>
+    <instance id="n01326897_d_5" docsrc="n01326897_d">
+      <context> an organism ( especially a <head>bacterium</head> ) that requires air or free oxygen for life ;</context>
+    </instance>
+    <instance id="n01327028_d_5" docsrc="n01327028_d">
+      <context> an organism ( especially a <head>bacterium</head> ) that does not require air or free oxygen to live ;</context>
+    </instance>
+    <instance id="n01335218_d_5" docsrc="n01335218_d">
+      <context> a bacteriophage that infects the <head>bacterium</head> Escherichia_coli ;</context>
+    </instance>
+    <instance id="n01335333_d_5" docsrc="n01335333_d">
+      <context> a bacteriophage specific for the <head>bacterium</head> Salmonella_typhi ;</context>
+    </instance>
+    <instance id="n01349495_d_2" docsrc="n01349495_d">
+      <context> a beneficial <head>bacterium</head> found in the intestinal tract of healthy mammals ; often considered to be a plant ;</context>
+    </instance>
+    <instance id="n01349735_d_11" docsrc="n01349735_d">
+      <context> a rodlike bacterium ( especially any of the rod-shaped or branched <head>bacteria</head> in the root nodules of nitrogen-fixing plants ) ;</context>
+    </instance>
+    <instance id="n01349735_d_2" docsrc="n01349735_d">
+      <context> a rodlike <head>bacterium</head> ( especially any of the rod-shaped or branched bacteria in the root nodules of nitrogen-fixing plants ) ;</context>
+    </instance>
+    <instance id="n01349948_d_4" docsrc="n01349948_d">
+      <context> aerobic rod-shaped spore producing <head>bacterium</head> ; often occurring in chainlike formations ; found primarily in soil ;</context>
+    </instance>
+    <instance id="n01350701_d_2" docsrc="n01350701_d">
+      <context> a bacillus <head>bacterium</head> that causes the plague ; aerosolized bacteria can be used as a bioweapon ;</context>
+    </instance>
+    <instance id="n01350701_d_9" docsrc="n01350701_d">
+      <context> a bacillus bacterium that causes the plague ; aerosolized <head>bacteria</head> can be used as a bioweapon ;</context>
+    </instance>
+    <instance id="n01350855_d_5" docsrc="n01350855_d">
+      <context> any spherical or nearly spherical <head>bacteria</head> ;</context>
+    </instance>
+    <instance id="n01351315_d_3" docsrc="n01351315_d">
+      <context> any flagellated aerobic <head>bacteria</head> having a spirally twisted rodlike form ;</context>
+    </instance>
+    <instance id="n01357328_d_1" docsrc="n01357328_d">
+      <context> anaerobic <head>bacterium</head> producing botulin the toxin that causes botulism ;</context>
+    </instance>
+    <instance id="n01357507_d_3" docsrc="n01357507_d">
+      <context> anaerobic Gram-positive rod <head>bacterium</head> that produces epsilon_toxin ; can be used as a bioweapon ;</context>
+    </instance>
+    <instance id="n01359762_d_2" docsrc="n01359762_d">
+      <context> large colonial <head>bacterium</head> common in tropical open ocean waters ; important in carbon and nitrogen_fixation ;</context>
+    </instance>
+    <instance id="n01360330_d_15" docsrc="n01360330_d">
+      <context> one of two usually recognized orders of true_bacteria ; Gram-negative spiral or spherical or rod-shaped <head>bacteria</head> usually motile by polar flagella ; some contain photosynthetic pigments ;</context>
+    </instance>
+    <instance id="n01363288_d_1" docsrc="n01363288_d">
+      <context> any <head>bacterium</head> of the genus_Thiobacillus ;</context>
+    </instance>
+    <instance id="n01363423_d_4" docsrc="n01363423_d">
+      <context> rigid spirally curved elongate <head>bacteria</head> ;</context>
+    </instance>
+    <instance id="n01363719_d_4" docsrc="n01363719_d">
+      <context> spirally twisted elongate rodlike <head>bacteria</head> usually living in stagnant water ;</context>
+    </instance>
+    <instance id="n01363887_d_1" docsrc="n01363887_d">
+      <context> a <head>bacterium</head> causing ratbite_fever ;</context>
+    </instance>
+    <instance id="n01364162_d_3" docsrc="n01364162_d">
+      <context> curved rodlike motile <head>bacterium</head> ;</context>
+    </instance>
+    <instance id="n01365885_d_3" docsrc="n01365885_d">
+      <context> the pus producing <head>bacterium</head> that causes gonorrhea ;</context>
+    </instance>
+    <instance id="n01366015_d_11" docsrc="n01366015_d">
+      <context> a large family of mostly Gram-positive and aerobic and nonmotile rod-shaped <head>bacteria</head> of the order_Eubacteriales ;</context>
+    </instance>
+    <instance id="n01366700_d_3" docsrc="n01366700_d">
+      <context> a species of <head>bacterium</head> that causes diphtheria ;</context>
+    </instance>
+    <instance id="n01368338_d_3" docsrc="n01368338_d">
+      <context> a species of <head>bacterium</head> normally present in intestinal tract of humans and other animals ; sometimes pathogenic ; can be a threat to food safety ;</context>
+    </instance>
+    <instance id="n01372944_d_0" docsrc="n01372944_d">
+      <context> <head>bacteria</head> responsible_for the sexually_transmitted_disease chlamydia ;</context>
+    </instance>
+    <instance id="n01373090_d_0" docsrc="n01373090_d">
+      <context> <head>bacteria</head> responsible_for the sexually_transmitted_diseases chlamydia and lymphogranuloma_venereum ;</context>
+    </instance>
+    <instance id="n01374224_d_5" docsrc="n01374224_d">
+      <context> the motile aerobic rod-shaped Gram-negative <head>bacterium</head> that thrives in central_heating and air_conditioning systems and can cause Legionnaires'_disease ;</context>
+    </instance>
+    <instance id="n01375204_d_1" docsrc="n01375204_d">
+      <context> any <head>bacteria</head> ( some of which are pathogenic for humans and animals ) belonging_to the order_Actinomycetales ;</context>
+    </instance>
+    <instance id="n01377602_d_2" docsrc="n01377602_d">
+      <context> any rod-shaped <head>bacterium</head> ;</context>
+    </instance>
+    <instance id="n01380118_d_3" docsrc="n01380118_d">
+      <context> a Gram-positive rod-shaped <head>bacterium</head> that produces lactic_acid ( especially in milk ) ;</context>
+    </instance>
+    <instance id="n01380298_d_1" docsrc="n01380298_d">
+      <context> a <head>bacterium</head> that is used to make yogurt and to supplement probiotics ;</context>
+    </instance>
+    <instance id="n01380754_d_0" docsrc="n01380754_d">
+      <context> <head>bacterium</head> causing pneumonia in mice and humans ;</context>
+    </instance>
+    <instance id="n01381829_d_7" docsrc="n01381829_d">
+      <context> the type_genus of the family_Spirochaetaceae ; a <head>bacterium</head> that is flexible , undulating , and chiefly aquatic ;</context>
+    </instance>
+    <instance id="n01384491_d_8" docsrc="n01384491_d">
+      <context> a minute life_form ( especially a disease causing <head>bacterium</head> ) ; the term is not in technical use ;</context>
+    </instance>
+    <instance id="n01386007_d_9" docsrc="n01386007_d">
+      <context> any disease producing agent ( especially a virus or <head>bacterium</head> or other microorganism ) ;</context>
+    </instance>
+    <instance id="n02716866_d_7" docsrc="n02716866_d">
+      <context> a chemical_substance derivable from a mold or <head>bacterium</head> that can kill microorganisms and cure bacterial infections ;</context>
+    </instance>
+    <instance id="n03452055_d_6" docsrc="n03452055_d">
+      <context> an antibiotic produced by a soil <head>bacterium</head> ; used chiefly as an antiseptic in treating local infections produced by Gram-positive bacteria ;</context>
+    </instance>
+    <instance id="n03670622_d_9" docsrc="n03670622_d">
+      <context> antibiotic ( trade_name Lincocin ) obtained from a streptomyces <head>bacterium</head> and used in the treatment of certain penicillin-resistant infections ;</context>
+    </instance>
+    <instance id="n03774842_d_9" docsrc="n03774842_d">
+      <context> a complex of antibiotic substances obtained from a streptomyces <head>bacterium</head> ; one form ( trade_name Mutamycin ) shows promise as an anticancer drug ;</context>
+    </instance>
+    <instance id="n03979717_d_10" docsrc="n03979717_d">
+      <context> any of several toxic antibiotics obtained from a particular soil <head>bacterium</head> ;</context>
+    </instance>
+    <instance id="n04348854_d_12" docsrc="n04348854_d">
+      <context> a polypeptide antibiotic ( similar to bacitracin ) obtained from a soil <head>bacterium</head> ;</context>
+    </instance>
+    <instance id="n04505706_d_8" docsrc="n04505706_d">
+      <context> a basic polypeptide antibiotic derived from a soil <head>bacterium</head> ; a major component of tyrothricin ;</context>
+    </instance>
+    <instance id="n05745907_d_11" docsrc="n05745907_d">
+      <context> a skin_test to determine past or present infection with the tuberculosis <head>bacterium</head> ; based on hypersensitivity of the skin to tuberculin ;</context>
+    </instance>
+    <instance id="n07686461_d_8" docsrc="n07686461_d">
+      <context> white wheat bread raised by a salt tolerant <head>bacterium</head> in a mixture of salt and either cornmeal or potato pulp ;</context>
+    </instance>
+    <instance id="n09221424_d_1" docsrc="n09221424_d">
+      <context> any <head>bacterium</head> or virus or toxin that could be used in biological_warfare ;</context>
+    </instance>
+    <instance id="n10867708_d_7" docsrc="n10867708_d">
+      <context> Australian physician and bacteriologist who described the <head>bacterium</head> that causes undulant_fever or brucellosis ;</context>
+    </instance>
+    <instance id="n11362573_d_19" docsrc="n11362573_d">
+      <context> United_States geneticist who published the complete base sequences for all the genes of a free-living organism , the influenza <head>bacterium</head> ; later led team that developed a first draft of the entire human genome ;</context>
+    </instance>
+    <instance id="n13124164_d_12" docsrc="n13124164_d">
+      <context> an organism that feeds on dead organic matter especially a fungus or <head>bacterium</head> ;</context>
+    </instance>
+    <instance id="n13509967_d_5" docsrc="n13509967_d">
+      <context> the process by which a <head>bacterium</head> acquires a phage that becomes integrated into its genome ;</context>
+    </instance>
+    <instance id="n14123510_d_6" docsrc="n14123510_d">
+      <context> acute contagious infection caused by the <head>bacterium</head> Corynebacterium_diphtheriae ; marked by the formation of a false membrane in the throat and other air_passages causing difficulty in breathing ;</context>
+    </instance>
+    <instance id="n14133543_d_6" docsrc="n14133543_d">
+      <context> a common venereal_disease caused by the <head>bacterium</head> Neisseria_gonorrhoeae ; symptoms are painful urination and pain around the urethra ;</context>
+    </instance>
+    <instance id="n14133750_d_5" docsrc="n14133750_d">
+      <context> a venereal_disease caused by a <head>bacterium</head> of the genus_Calymmatobacterium ; characterized by a pimply rash of the skin in the genital and groin region ;</context>
+    </instance>
+    <instance id="n14137066_d_16" docsrc="n14137066_d">
+      <context> an infectious_disease of animals and humans ( especially newborn or immunosuppressed persons ) caused by the <head>bacterium</head> Listeria_monocytogenes ; in sheep and cattle the infection frequently involves the central_nervous_system and causes various neurological symptoms ;</context>
+    </instance>
+    <instance id="n14137561_d_7" docsrc="n14137561_d">
+      <context> infectious_disease caused by a species of chlamydia <head>bacterium</head> ; transmitted by sexual contact ; characterized by genital lesions and swelling of lymph_nodes in the groin ;</context>
+    </instance>
+    <instance id="n14141912_d_6" docsrc="n14141912_d">
+      <context> mild infectious rickettsial_disease caused by a <head>bacterium</head> of the genus_Rickettsia transmitted to humans by the bite a mite that lives on rodents ; characterized by chills and fever and headache and skin lesions that resemble chickenpox ;</context>
+    </instance>
+    <instance id="n14194345_d_5" docsrc="n14194345_d">
+      <context> the condition of a host <head>bacterium</head> that has incorporated a phage into its own genetic material ;</context>
+    </instance>
+    <instance id="n14279235_d_11" docsrc="n14279235_d">
+      <context> disease of tomatoes and potatoes and tobacco etc caused by the <head>bacterium</head> Pseudomonas_solanacearum ;</context>
+    </instance>
+    <instance id="n14587688_d_10" docsrc="n14587688_d">
+      <context> any of several neurotoxins that are produced by the anaerobic <head>bacterium</head> Clostridium_botulinum ; causes muscle paralysis ;</context>
+    </instance>
+    <instance id="n15035123_d_5" docsrc="n15035123_d">
+      <context> potent bacterial_toxin produced by the <head>bacterium</head> Clostridium_botulinum that causes botulism ; can be used as a bioweapon ;</context>
+    </instance>
+    <instance id="n15111903_d_11" docsrc="n15111903_d">
+      <context> a sterile liquid containing a purified protein derivative of the tuberculosis <head>bacterium</head> ; used in the diagnosis of tuberculosis ;</context>
+    </instance>
+  </lexelt>
+</corpus>

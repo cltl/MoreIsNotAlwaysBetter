@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="institute.n" pos="NN">
+    <instance id="Institute-institute-1-18-1" docsrc="Institute">
+      <context> Institution <head>Private</head> foundation Policy institute</context>
+    </instance>
+    <instance id="Institute-institute-1-20-1" docsrc="Institute">
+      <context> Policy <head>institute</head> List of policy institutes Research institute</context>
+    </instance>
+    <instance id="Institute-institute-1-22-1" docsrc="Institute">
+      <context> List <head>of</head> policy institutes Research institute Some Institutes for Advanced Study</context>
+    </instance>
+    <instance id="Institute-institute-1-23-1" docsrc="Institute">
+      <context> Research <head>institute</head> Some Institutes for Advanced Study</context>
+    </instance>
+    <instance id="Institute-institute-1-4-1" docsrc="Institute">
+      <context> Often <head>they</head> are research organisations ( research institutions ) created to do research on specific topics . An institute can also be a professional body .</context>
+    </instance>
+    <instance id="Institute-institute-12-7-2" docsrc="Institute">
+      <context> In some countries , such as South Korea and Japan , private <head>schools</head> are sometimes called institutes , rather than schools . In Spain secondary schools are called institutes . In the United Kingdom and the Isle of Man the term " institute " is a protected word and companies or other organizations may only use the word if they are " organisations which are carrying out research at the highest level or to professional bodies of the highest standing " .</context>
+    </instance>
+    <instance id="Institute-institute-16-6-1" docsrc="Institute">
+      <context> ( See Institute of Technology ) The word " institute " comes from the Latin word <head>institutum</head> meaning " facility " or " habit " ; from instituere meaning " build " , " create " , " raise " or " educate " . In some countries , such as South Korea and Japan , private schools are sometimes called institutes , rather than schools .</context>
+    </instance>
+    <instance id="Institute-institute-2-5-1" docsrc="Institute">
+      <context> An institute <head>can</head> also be a professional body . In some countries institutes can be part of a university or other institutions of higher education , either as a group of departments or an autonomous educational institution without a traditional university status such as a " university Institute " . ( See Institute of Technology )</context>
+    </instance>
+    <instance id="Institute-institute-3-19-1" docsrc="Institute">
+      <context> Private foundation Policy <head>institute</head> List of policy institutes</context>
+    </instance>
+    <instance id="Institute-institute-3-4-2" docsrc="Institute">
+      <context> Often they are <head>research</head> organisations ( research institutions ) created to do research on specific topics . An institute can also be a professional body . In some countries institutes can be part of a university or other institutions of higher education , either as a group of departments or an autonomous educational institution without a traditional university status such as a " university Institute " .</context>
+    </instance>
+    <instance id="Institute-institute-3-5-2" docsrc="Institute">
+      <context> In some countries <head>institutes</head> can be part of a university or other institutions of higher education , either as a group of departments or an autonomous educational institution without a traditional university status such as a " university Institute " . ( See Institute of Technology ) The word " institute " comes from the Latin word institutum meaning " facility " or " habit " ; from instituere meaning " build " , " create " , " raise " or " educate " .</context>
+    </instance>
+    <instance id="Institute-institute-38-4-2" docsrc="Institute">
+      <context> Often they are research organisations ( research institutions ) created to do research on specific topics . An institute can also be a professional body . In some countries institutes can be part of a university or other <head>institutions</head> of higher education , either as a group of departments or an autonomous educational institution without a traditional university status such as a " university Institute " .</context>
+    </instance>
+    <instance id="Institute-institute-5-11-2" docsrc="Institute">
+      <context> In the United Kingdom and <head>the</head> Isle of Man the term " institute " is a protected word and companies or other organizations may only use the word if they are " organisations which are carrying out research at the highest level or to professional bodies of the highest standing " . Furthermore , if a company is carrying on a business under a different name to the company name , that business name must comply with the Business Names Act . Use of the title " institute " requires approval from the Secretary of State .</context>
+    </instance>
+    <instance id="Institute-institute-6-7-1" docsrc="Institute">
+      <context> The word " institute " comes <head>from</head> the Latin word institutum meaning " facility " or " habit " ; from instituere meaning " build " , " create " , " raise " or " educate " . In some countries , such as South Korea and Japan , private schools are sometimes called institutes , rather than schools . In Spain secondary schools are called institutes .</context>
+    </instance>
+    <instance id="br-e29#w1276_0" docsrc="br-e29">
+      <context> This anomalous status of the educator cannot fail to lower his standing in the eyes of the students . The professor in_turn dares not tolerate the influence in his classes of an organization in the policies and standards of which he has no voice . This seems somewhat shortsighted since if the absolute educational qualifications for membership which the organizations profess are ever enforced , the educator will have the molding of the entire profession in his hands . In one way the <head>Institutes</head> and Societies do a disservice to the schools . That_is in the continuance of the `` grandfather_clauses '' in their membership requirements . When these groups were first formed many prominent and accomplished decorators could not have had the advantage of school training since interior_design courses were rare and undeveloped during their youth . Long hard years of `` on_the_job '' training had brought them to their competence .</context>
+    </instance>
+    <instance id="v00607405_d_12" docsrc="v00607405_d">
+      <context> be a student ; follow a course_of_study ; be enrolled at an <head>institute</head> of learning ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="trial_judge.n" pos="NN">
+    <instance id="br-h17#w743_0" docsrc="br-h17">
+      <context> This is a prosecution for refusal to be inducted into the armed_services , in violation of the provisions of the Universal_Military_Training_and_Service_Act , 62_Stat._604_,_622_,_50_U._S._C._App._462_(_a ) . Petitioner , who claims to be a conscientious_objector , contends that he was denied due_process , both in the proceedings before a hearing_officer of the Department_of_Justice and at trial . He says that he was not permitted to rebut before the hearing_officer statements attributed to him by the local board , and , further , that he was denied at trial the right to have the Department_of_Justice hearing_officer 's report and the original report of the Federal_Bureau_of_Investigation as to his claim - all in violation of the Fifth_Amendment . The <head>trial_judge</head> decided that the administrative procedures of the Act were fully complied with and refused to require the production of such documents . Petitioner was found guilty and sentenced to 15 months ' imprisonment . The Court_of_Appeals affirmed . 269_F._2_d_613 .</context>
+    </instance>
+  </lexelt>
+</corpus>

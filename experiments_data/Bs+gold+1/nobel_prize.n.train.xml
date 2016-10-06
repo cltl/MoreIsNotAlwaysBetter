@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Nobel_prize.n" pos="NN">
+    <instance id="br-g18#w5_0" docsrc="br-g18">
+      <context> Among the recipients of the <head>Nobel_Prize</head> for Literature more_than half are practically unknown to readers of English . Of these there are surely few that would be more rewarding discoveries than Verner_von_Heidenstam , the Swedish poet and novelist who received the award in 1916 and whose centennial was celebrated two years ago . Equally a master of prose and verse , he recreates the glory of Sweden in the past and continues it into the present . In the following sketch we shall present a brief outline of his life and let him as_much_as_possible speak_for himself .</context>
+    </instance>
+  </lexelt>
+</corpus>

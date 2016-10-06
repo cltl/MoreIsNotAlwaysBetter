@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="bricklayer.n" pos="NN">
+    <instance id="br-k17#w1486_0" docsrc="br-k17">
+      <context> Styka blew his nose again . `` Were you able to make the arrangements '' ? Andrei asked . `` There is a man named Grabski who is the foreman in_charge_of the <head>bricklayers</head> at Majdanek . I did exactly as instructed . I told him you are on orders from the Home_Army to get inside Majdanek so you can make a report to the government_in_exile in London '' . `` His answer '' ?</context>
+    </instance>
+  </lexelt>
+</corpus>

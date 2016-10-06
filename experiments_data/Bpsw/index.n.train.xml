@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="index.n" pos="NN">
+    <instance id="Exponentiation-index-11-3845-1" docsrc="Exponentiation">
+      <context> This is sometimes written κA to distinguish it from cardinal exponentiation <head>,</head> defined below . This generalized exponential can also be defined for operations on sets or for sets with extra structure . For example , in linear algebra , it makes sense to index direct sums of vector spaces over arbitrary index sets .</context>
+    </instance>
+    <instance id="Exponentiation-index-19-3845-1" docsrc="Exponentiation">
+      <context> This is sometimes written κA to distinguish it from cardinal exponentiation , defined below . This generalized exponential can <head>also</head> be defined for operations on sets or for sets with extra structure . For example , in linear algebra , it makes sense to index direct sums of vector spaces over arbitrary index sets .</context>
+    </instance>
+    <instance id="Exponentiation-index-5-44-2" docsrc="Exponentiation">
+      <context> Nicolas Chuquet used a form <head>of</head> exponential notation in the 15th century , which was later used by Henricus Grammateus and Michael Stifel in the 16th century . The word " exponent " was coined in 1544 by Michael Stifel . Samuel Jeake introduced the term indices in 1696 .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-1-23-3" docsrc="Index_(publishing)">
+      <context> The <head>indexer</head> creates index headings to represent those concepts , which are phrased such that they can be found when in alphabetical order ( so , for example , one would write ' indexing process ' rather than ' how to create an index ' ) . These headings and their associated locators ( indicators to position in the text ) are entered into specialist indexing software which handles the formatting of the index and facilitates the editing phase . The index is then edited to impose consistency throughout the index .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-1-24-1" docsrc="Index_(publishing)">
+      <context> The <head>index</head> is then edited to impose consistency throughout the index . Indexers must analyze the text to enable presentation of concepts and ideas in the index that may not be named within the text . The index is intended to help the reader , researcher , or information professional , rather than the author , find information , so the professional indexer must act as a liaison between the text and its ultimate user .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-10-134-1" docsrc="Index_(publishing)">
+      <context> Usability studies for indexes Reflections on Authorship and Indexing " <head>The</head> Definite Article : Acknowledging ' The ' in Index Entries " , Glenda Browne , The Indexer , vol . 22 , no . 3 April 2001 , pp .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-10-23-3" docsrc="Index_(publishing)">
+      <context> The indexer creates index headings to represent those concepts , <head>which</head> are phrased such that they can be found when in alphabetical order ( so , for example , one would write ' indexing process ' rather than ' how to create an index ' ) . These headings and their associated locators ( indicators to position in the text ) are entered into specialist indexing software which handles the formatting of the index and facilitates the editing phase . The index is then edited to impose consistency throughout the index .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-11-78-2" docsrc="Index_(publishing)">
+      <context> Kurt Vonnegut 's novel Cat 's Cradle includes a character who <head>is</head> a professional indexer and believes that " indexing [ is ] a thing that only the most amateurish author [ undertakes ] to do for his own book . " She claims to be able to read an author 's character through the index he created for his own history text , and warns the narrator , an author , " Never index your own book . " Vladimir Nabokov 's novel Pale Fire includes a parody of an index , reflecting the insanity of the narrator .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-12-34-4" docsrc="Index_(publishing)">
+      <context> Most word processing software , such as StarWriter/OpenOffice.org Writer , Microsoft Word <head>,</head> and WordPerfect , as well as some desktop publishing software ( for example , FrameMaker and InDesign ) , as well as other tools ( MadCap Software 's Flare ) ) have some facility for embedded indexing as well . TExtract supports embedded indexing of Microsoft Word documents . An embedded index requires more time to create than a conventional static index ; however , an embedded index can save time in the long run when the material is updated or repaginated .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-12-79-1" docsrc="Index_(publishing)">
+      <context> She claims to be able to read an author 's character through <head>the</head> index he created for his own history text , and warns the narrator , an author , " Never index your own book . " Vladimir Nabokov 's novel Pale Fire includes a parody of an index , reflecting the insanity of the narrator . Mark Danielewski 's novel House of Leaves contains an exhaustive 41 page index of words in the novel , including even large listings for inconsequential words such as the , and , and in .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-12-80-1" docsrc="Index_(publishing)">
+      <context> Vladimir Nabokov 's novel Pale Fire includes a parody of an index <head>,</head> reflecting the insanity of the narrator . Mark Danielewski 's novel House of Leaves contains an exhaustive 41 page index of words in the novel , including even large listings for inconsequential words such as the , and , and in . ISO 999:1996 Guidelines for the Content , Organization , and Presentation of Indexes ( this is also the national standard in the UK , Australia , and New Zealand )</context>
+    </instance>
+    <instance id="Index_(publishing)-index-13-78-1" docsrc="Index_(publishing)">
+      <context> In " The Library of Babel " , a short story by Jorge <head>Luis</head> Borges , there is an index of indexes that catalogues all of the books in the library , which contains all possible books . Kurt Vonnegut 's novel Cat 's Cradle includes a character who is a professional indexer and believes that " indexing [ is ] a thing that only the most amateurish author [ undertakes ] to do for his own book . " She claims to be able to read an author 's character through the index he created for his own history text , and warns the narrator , an author , " Never index your own book . "</context>
+    </instance>
+    <instance id="Index_(publishing)-index-14-23-4" docsrc="Index_(publishing)">
+      <context> These headings and their associated locators ( indicators to position in the text ) <head>are</head> entered into specialist indexing software which handles the formatting of the index and facilitates the editing phase . The index is then edited to impose consistency throughout the index . Indexers must analyze the text to enable presentation of concepts and ideas in the index that may not be named within the text .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-15-34-1" docsrc="Index_(publishing)">
+      <context> Thus , when the pagination is changed the index can be regenerated with the new <head>locators</head> . LaTeX documents support embedded indexes primarily through the MakeIndex package . Several widely used XML DTDs , including DocBook and TEI , have elements that allow index creation directly in the XML files .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-18-34-4" docsrc="Index_(publishing)">
+      <context> Most word processing software , such as StarWriter/OpenOffice.org Writer , Microsoft Word , and WordPerfect , as well <head>as</head> some desktop publishing software ( for example , FrameMaker and InDesign ) , as well as other tools ( MadCap Software 's Flare ) ) have some facility for embedded indexing as well . TExtract supports embedded indexing of Microsoft Word documents . An embedded index requires more time to create than a conventional static index ; however , an embedded index can save time in the long run when the material is updated or repaginated .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-18-35-1" docsrc="Index_(publishing)">
+      <context> TExtract supports embedded indexing of Microsoft Word documents . An embedded index requires more time to create than <head>a</head> conventional static index ; however , an embedded index can save time in the long run when the material is updated or repaginated . This is because , with a static index , if even a few pages change , the entire index must be recreated , while with an embedded index , only the pages that changed need updating or indexing .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-19-73-2" docsrc="Index_(publishing)">
+      <context> Some indexers specialize in particular subject areas , such as anthropology , business , computers , economics , education <head>,</head> government documents , history , law , mathematics , medicine , psychology , and technology . An indexer can be found for any subject . In " The Library of Babel " , a short story by Jorge Luis Borges , there is an index of indexes that catalogues all of the books in the library , which contains all possible books .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-2-137-1" docsrc="Index_(publishing)">
+      <context> The role <head>of</head> indexing in technical communication Indexing FAQ/Intro Should Authors Index Their Own Books ?</context>
+    </instance>
+    <instance id="Index_(publishing)-index-2-139-1" docsrc="Index_(publishing)">
+      <context> Indexing FAQ/Intro <head>Should</head> Authors Index Their Own Books ?</context>
+    </instance>
+    <instance id="Index_(publishing)-index-2-33-1" docsrc="Index_(publishing)">
+      <context> === Embedded <head>indexing</head> === Embedded indexing involves including the index headings in the midst of the text itself , but surrounded by codes so that they are not normally displayed . A usable index is then generated automatically from the embedded text using the position of the embedded headings to determine the locators .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-2-34-4" docsrc="Index_(publishing)">
+      <context> Most word <head>processing</head> software , such as StarWriter/OpenOffice.org Writer , Microsoft Word , and WordPerfect , as well as some desktop publishing software ( for example , FrameMaker and InDesign ) , as well as other tools ( MadCap Software 's Flare ) ) have some facility for embedded indexing as well . TExtract supports embedded indexing of Microsoft Word documents . An embedded index requires more time to create than a conventional static index ; however , an embedded index can save time in the long run when the material is updated or repaginated .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-20-8-1" docsrc="Index_(publishing)">
+      <context> A similar reference to indexes is in Shakespeare 's lines from Troilus and Cressida ( I.3.344 ) , written nine <head>years</head> later : And in such indexes , although small pricksTo their subsequent volumes , there is seenThe baby figure of the giant massOf things to come at large . But according to G. Norman Knight , " at that period , as often as not , by an ' index to a book ' was meant what we should now call a table of contents . "</context>
+    </instance>
+    <instance id="Index_(publishing)-index-21-73-2" docsrc="Index_(publishing)">
+      <context> Some indexers specialize in particular subject areas , such as anthropology , business , computers , economics , education , government <head>documents</head> , history , law , mathematics , medicine , psychology , and technology . An indexer can be found for any subject . In " The Library of Babel " , a short story by Jorge Luis Borges , there is an index of indexes that catalogues all of the books in the library , which contains all possible books .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-24-10-3" docsrc="Index_(publishing)">
+      <context> A section entitled " An Alphabetical Table of the most material contents of the whole book " may be found in Henry Scobell 's <head>Acts</head> and Ordinances of Parliament of 1658 . This section comes after " An index of the general titles comprised in the ensuing Table " . Both of these indexes predate the index to Alexander Cruden 's Concordance ( 1737 ) , which is erroneously held to be the earliest index found in an English book .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-26-23-2" docsrc="Index_(publishing)">
+      <context> The indexer reads through the text , identifying indexable concepts ( those for which the text provides useful information and which will be of relevance for <head>the</head> text 's readership ) . The indexer creates index headings to represent those concepts , which are phrased such that they can be found when in alphabetical order ( so , for example , one would write ' indexing process ' rather than ' how to create an index ' ) . These headings and their associated locators ( indicators to position in the text ) are entered into specialist indexing software which handles the formatting of the index and facilitates the editing phase .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-27-14-1" docsrc="Index_(publishing)">
+      <context> Both of these indexes predate the index to Alexander Cruden 's Concordance ( 1737 ) , which is erroneously held to be the earliest index found in <head>an</head> English book . G. Norman Knight quotes Shakespeare 's lines from Troilus and Cressida ( I.3.344 ) and says : " But the real importance of this passage is that it establishes for all time the correct literary plural ; we can leave the Latin form " indices " to the mathematicians ( and similarly " appendices " to the anatomists ) . "</context>
+    </instance>
+    <instance id="Index_(publishing)-index-27-35-1" docsrc="Index_(publishing)">
+      <context> TExtract supports embedded indexing of Microsoft Word documents . An embedded index requires more time to create than a conventional static index ; however , an embedded <head>index</head> can save time in the long run when the material is updated or repaginated . This is because , with a static index , if even a few pages change , the entire index must be recreated , while with an embedded index , only the pages that changed need updating or indexing .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-3-10-3" docsrc="Index_(publishing)">
+      <context> A section entitled <head>"</head> An Alphabetical Table of the most material contents of the whole book " may be found in Henry Scobell 's Acts and Ordinances of Parliament of 1658 . This section comes after " An index of the general titles comprised in the ensuing Table " . Both of these indexes predate the index to Alexander Cruden 's Concordance ( 1737 ) , which is erroneously held to be the earliest index found in an English book .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-3-132-1" docsrc="Index_(publishing)">
+      <context> The Indexer ( <head>the</head> international journal ) Consideration in Indexing Online Documents Usability studies for indexes</context>
+    </instance>
+    <instance id="Index_(publishing)-index-3-23-1" docsrc="Index_(publishing)">
+      <context> Conventional indexing === <head>The</head> indexer reads through the text , identifying indexable concepts ( those for which the text provides useful information and which will be of relevance for the text 's readership ) . The indexer creates index headings to represent those concepts , which are phrased such that they can be found when in alphabetical order ( so , for example , one would write ' indexing process ' rather than ' how to create an index ' ) .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-3-7-1" docsrc="Index_(publishing)">
+      <context> Therefore , even <head>as</head> an index to a bookSo to his mind was young Leander 's look . A similar reference to indexes is in Shakespeare 's lines from Troilus and Cressida ( I.3.344 ) , written nine years later : And in such indexes , although small pricksTo their subsequent volumes , there is seenThe baby figure of the giant massOf things to come at large .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-3-9-1" docsrc="Index_(publishing)">
+      <context> And in such <head>indexes</head> , although small pricksTo their subsequent volumes , there is seenThe baby figure of the giant massOf things to come at large . But according to G. Norman Knight , " at that period , as often as not , by an ' index to a book ' was meant what we should now call a table of contents . " Among the first indexes – in the modern sense – to a book in the English language was one in Plutarch 's Parallel Lives , in Sir Thomas North 's 1595 translation .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-4-33-3" docsrc="Index_(publishing)">
+      <context> A usable index is <head>then</head> generated automatically from the embedded text using the position of the embedded headings to determine the locators . Thus , when the pagination is changed the index can be regenerated with the new locators . LaTeX documents support embedded indexes primarily through the MakeIndex package .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-4-57-1" docsrc="Index_(publishing)">
+      <context> Use the same form <head>throughout</head> ( singular vs. plural , capitalisation , etc . ) , using standard indexing conventions Indexing pitfalls : Significant topics with no index entries at all</context>
+    </instance>
+    <instance id="Index_(publishing)-index-4-6-1" docsrc="Index_(publishing)">
+      <context> In the English language <head>,</head> indexes have been referred to as early as 1593 , as can be seen from lines in Christopher Marlowe 's Hero and Leander of that year : Therefore , even as an index to a bookSo to his mind was young Leander 's look . A similar reference to indexes is in Shakespeare 's lines from Troilus and Cressida ( I.3.344 ) , written nine years later :</context>
+    </instance>
+    <instance id="Index_(publishing)-index-43-23-1" docsrc="Index_(publishing)">
+      <context> Conventional indexing === The indexer reads through the text , identifying indexable concepts ( those for which the text provides useful information and which will be of relevance for the text 's readership ) . The indexer creates index headings to represent those <head>concepts</head> , which are phrased such that they can be found when in alphabetical order ( so , for example , one would write ' indexing process ' rather than ' how to create an index ' ) .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-5-32-1" docsrc="Index_(publishing)">
+      <context> The index is intended to <head>help</head> the reader , researcher , or information professional , rather than the author , find information , so the professional indexer must act as a liaison between the text and its ultimate user . === Embedded indexing === Embedded indexing involves including the index headings in the midst of the text itself , but surrounded by codes so that they are not normally displayed .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-5-5-1" docsrc="Index_(publishing)">
+      <context> In the English language , <head>indexes</head> have been referred to as early as 1593 , as can be seen from lines in Christopher Marlowe 's Hero and Leander of that year : Therefore , even as an index to a bookSo to his mind was young Leander 's look .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-6-10-2" docsrc="Index_(publishing)">
+      <context> Among the first indexes – in <head>the</head> modern sense – to a book in the English language was one in Plutarch 's Parallel Lives , in Sir Thomas North 's 1595 translation . A section entitled " An Alphabetical Table of the most material contents of the whole book " may be found in Henry Scobell 's Acts and Ordinances of Parliament of 1658 . This section comes after " An index of the general titles comprised in the ensuing Table " .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-6-10-3" docsrc="Index_(publishing)">
+      <context> A section entitled " An Alphabetical <head>Table</head> of the most material contents of the whole book " may be found in Henry Scobell 's Acts and Ordinances of Parliament of 1658 . This section comes after " An index of the general titles comprised in the ensuing Table " . Both of these indexes predate the index to Alexander Cruden 's Concordance ( 1737 ) , which is erroneously held to be the earliest index found in an English book .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-7-35-1" docsrc="Index_(publishing)">
+      <context> TExtract supports embedded indexing of Microsoft Word <head>documents</head> . An embedded index requires more time to create than a conventional static index ; however , an embedded index can save time in the long run when the material is updated or repaginated . This is because , with a static index , if even a few pages change , the entire index must be recreated , while with an embedded index , only the pages that changed need updating or indexing .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-8-33-2" docsrc="Index_(publishing)">
+      <context> Embedded indexing involves including the index headings in <head>the</head> midst of the text itself , but surrounded by codes so that they are not normally displayed . A usable index is then generated automatically from the embedded text using the position of the embedded headings to determine the locators . Thus , when the pagination is changed the index can be regenerated with the new locators .</context>
+    </instance>
+    <instance id="Index_(publishing)-index-8-53-1" docsrc="Index_(publishing)">
+      <context> sunflower , 47 ← regular entry Some principles <head>of</head> good indexing include : Ensuring each topic/section includes a variety of relevant index entries ; use two or three entries per topic</context>
+    </instance>
+    <instance id="Index_(publishing)-index-8-54-1" docsrc="Index_(publishing)">
+      <context> Some principles of good indexing include : Ensuring <head>each</head> topic/section includes a variety of relevant index entries ; use two or three entries per topic Understanding the audience and understand what kind of index entries they 're likely to look for</context>
+    </instance>
+    <instance id="Index_finger-index-0-22-1" docsrc="Index_finger">
+      <context> <head>Extensor</head> indicis proprius Fingering ( disambiguation ) Index ( typography )</context>
+    </instance>
+    <instance id="Index_finger-index-1-0-5" docsrc="Index_finger">
+      <context> it <head>is</head> shorter than the middle finger , and may be shorter or longer than the ring finger – see digit ratio . " Index finger " literally means " pointing finger " , from the same Latin source as indicate ; its anatomical names are " index finger " and " second digit " .</context>
+    </instance>
+    <instance id="Index_finger-index-1-15-2" docsrc="Index_finger">
+      <context> As <head>an</head> artistic convention , the index finger pointing at the viewer is in the form of a command or summons . Two famous examples of this are recruiting posters used during World War I by the United Kingdom and the United States . The index finger pointing up is a sign of teaching authority .</context>
+    </instance>
+    <instance id="Index_finger-index-13-9-1" docsrc="Index_finger">
+      <context> Pointing === Pointing with index finger may be used to indicate an item <head>or</head> person . In some countries , particularly the Ethnic Malays in Malaysia , pointing using index finger is rude , hence thumb is used instead .</context>
+    </instance>
+    <instance id="Index_finger-index-2-8-2" docsrc="Index_finger">
+      <context> === Pointing <head>===</head> Pointing with index finger may be used to indicate an item or person .</context>
+    </instance>
+    <instance id="Index_finger-index-24-0-5" docsrc="Index_finger">
+      <context> it is shorter than the middle finger , and may be shorter or longer than the ring finger – see digit ratio . " <head>Index</head> finger " literally means " pointing finger " , from the same Latin source as indicate ; its anatomical names are " index finger " and " second digit " .</context>
+    </instance>
+    <instance id="Index_finger-index-3-23-1" docsrc="Index_finger">
+      <context> Fingering ( disambiguation <head>)</head> Index ( typography ) Media related to Index finger at Wikimedia Commons</context>
+    </instance>
+    <instance id="Index_finger-index-3-30-1" docsrc="Index_finger">
+      <context> Index ( typography <head>)</head> Media related to Index finger at Wikimedia Commons</context>
+    </instance>
+    <instance id="Index_finger-index-6-11-1" docsrc="Index_finger">
+      <context> Pointing with index finger may be <head>used</head> to indicate an item or person . In some countries , particularly the Ethnic Malays in Malaysia , pointing using index finger is rude , hence thumb is used instead . As an artistic convention , the index finger pointing at the viewer is in the form of a command or summons .</context>
+    </instance>
+    <instance id="br-j29#w1090_0" docsrc="br-j29">
+      <context> The battery median grade equivalent was used in data analysis in this study . The Wechsler_Intelligence_Scale_for_Children was administered to each sample third grade child by a clinical worker . The relationship of intelligence_test scores to school achievement is a well established fact ( in this case , * * f ) ; therefore , in the investigation of the present hypothesis , it was necessary to control this factor . The criterion score used in the statistical analysis is an <head>index</head> of over - or under-achievement . It is the discrepancy between the actual attained achievement test score and the score that would be predicted by the I._Q. . For_example , on the basis of the regression_equation , a child with an I._Q. of 120 in this sample would be expected to earn an achievement test score of 4.8 ( grade equivalent ) . If a child with an I._Q. of 120 scored 5.5 in achievement , his discrepancy score would be + .7 , representing .7 of one year of over-achievement .</context>
+    </instance>
+    <instance id="br-j35#w1189_0" docsrc="br-j35">
+      <context> His first conclusion , on behavior of individual items , is negative , whereas mine ( on Ath. and Yok . ) was partially positive . His second conclusion , on semantic word_classes , agrees with mine . This second conclusion , independently arrived at by independent study of material from two pairs of language families as different and remote from one another as these four are , cannot be ignored . Thomas also presents a simple equation for deriving an <head>index</head> of persistence , which weights not_only the number of stems ( ' roots ' ) per meaning , but their relative_frequency . Thus his persistence values for some stem frequencies per meaning is : stem identical in 8 languages , 100 % ; stem frequencies 7 and 1 , 86 % ; stem frequencies 4 and 4 , 64 % ; stem frequencies 4 , 3 , and 1 , 57 % . His formula will have to be weighed , may be altered or improved , and it should be tested on additional bodies of material . But consideration of the frequency of stems per constant meaning seems to be established as having significance in comparative situations with diachronic and classificatory relevance ; and Gleason presumably is on_the_way with a further contribution in this area .</context>
+    </instance>
+    <instance id="n01013156_d_7" docsrc="n01013156_d">
+      <context> the act of classifying and providing an <head>index</head> in order to make items easier to retrieve ;</context>
+    </instance>
+    <instance id="n06035413_d_1" docsrc="n06035413_d">
+      <context> an <head>index</head> of the relation between any two sets of scores that can both be represented on ordered binary dimensions ( e.g. , male female ) ;</context>
+    </instance>
+    <instance id="n06393800_d_30" docsrc="n06393800_d">
+      <context> a clause in a contract that provides for an increase or a decrease in wages or prices or benefits etc. depending_on certain conditions ( as a change in the cost_of_living <head>index</head> ) ;</context>
+    </instance>
+    <instance id="n06492040_d_1" docsrc="n06492040_d">
+      <context> an <head>index</head> of all main words in a book along with their immediate contexts ;</context>
+    </instance>
+    <instance id="n06641181_d_1" docsrc="n06641181_d">
+      <context> an <head>index</head> that traces the relative changes in the price of an individual good ( or a market basket of goods ) over time ;</context>
+    </instance>
+    <instance id="n06641423_d_1" docsrc="n06641423_d">
+      <context> an <head>index</head> of changes in retail prices ;</context>
+    </instance>
+    <instance id="n06641524_d_1" docsrc="n06641524_d">
+      <context> an <head>index</head> of changes in wholesale prices ;</context>
+    </instance>
+    <instance id="n06641654_d_1" docsrc="n06641654_d">
+      <context> an <head>index</head> of the cost of all goods and services to a typical consumer ;</context>
+    </instance>
+    <instance id="n06641924_d_0" docsrc="n06641924_d">
+      <context> <head>index</head> based on a statistical compilation of the share prices of a number of representative stocks ;</context>
+    </instance>
+    <instance id="n07274197_d_12" docsrc="n07274197_d">
+      <context> a sign ( for victory ) ; making a V with the <head>index</head> and middle_fingers ;</context>
+    </instance>
+    <instance id="n08071756_d_17" docsrc="n08071756_d">
+      <context> a mutual_fund that invests in the stocks that are the basis of a well-known stock or bond <head>index</head> ;</context>
+    </instance>
+    <instance id="n10203016_d_4" docsrc="n10203016_d">
+      <context> someone who provides an <head>index</head> ;</context>
+    </instance>
+    <instance id="v02354112_d_3" docsrc="v02354112_d">
+      <context> provide with an <head>index</head> ;</context>
+    </instance>
+    <instance id="v02472817_d_3" docsrc="v02472817_d">
+      <context> list in an <head>index</head> ;</context>
+    </instance>
+    <instance id="v02472958_d_2" docsrc="v02472958_d">
+      <context> make an <head>index</head> that refers from one point to the next ;</context>
+    </instance>
+  </lexelt>
+</corpus>

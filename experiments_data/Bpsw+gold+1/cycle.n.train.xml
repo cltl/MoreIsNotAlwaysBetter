@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="cycle.n" pos="NN">
+    <instance id="Bicycle-cycle-15-1-3" docsrc="Bicycle">
+      <context> They are the principal means of transportation in many regions . They also provide a <head>popular</head> form of recreation , and have been adapted for use as children 's toys , general fitness , military and police applications , courier services , and bicycle racing . Other words for bicycle include " bike " , " pushbike " , " pedal cycle " , or " cycle " .</context>
+    </instance>
+    <instance id="a00675701_d_2" docsrc="a00675701_d">
+      <context> recurring in <head>cycles</head> ;</context>
+    </instance>
+    <instance id="a01641648_d_3" docsrc="a01641648_d">
+      <context> ( of a <head>cycle</head> ) beginning or occurring again ;</context>
+    </instance>
+    <instance id="a02138034_d_3" docsrc="a02138034_d">
+      <context> having one estrous <head>cycle</head> per_year ;</context>
+    </instance>
+    <instance id="a02138428_d_7" docsrc="a02138428_d">
+      <context> ( of animals that have several estrous <head>cycles</head> in one breeding season ) in a period of sexual inactivity ;</context>
+    </instance>
+    <instance id="br-g11#w985_0" docsrc="br-g11">
+      <context> To say that science had reduced many such fears merely reiterates the obvious and frequent statement that science eliminated much of magic and superstition . But a somewhat more detailed analysis of this process may be illuminating . The frequently postulated antique worry that the daylight hours might dwindle to complete darkness apparently gave_rise to a ritual and celebration which we still recognize . It is curious that even centuries of repetition of the yearly <head>cycle</head> did not induce a sufficient degree of confidence to allow people to abandon the ceremonies of the winter_solstice . This and other fears of the solar_system have disappeared gradually , first , with the Ptolemaic_system and its built-in concept of periodicity and_then , more firmly , with the Newtonian innovation of an universal force that could account quantitatively for both terrestrial and celestial motions . This understanding provides a very simple example of the fact that one can eliminate fear without instituting any controls . In_fact , although we have dispelled the fear , we have not necessarily assured ourselves that there are no dangers .</context>
+    </instance>
+    <instance id="n07341038_ex1_4" docsrc="n07341038_ex1">
+      <context> a year constitutes a <head>cycle</head> of the seasons ;</context>
+    </instance>
+    <instance id="n07341304_d_2" docsrc="n07341304_d">
+      <context> the complete <head>cycle</head> of events in the heart from the beginning of one heart_beat to the beginning of the next ; an electrical impulse conducted through the heart_muscle that constricts the atria which is followed by constriction of the ventricles ;</context>
+    </instance>
+    <instance id="n07341665_d_1" docsrc="n07341665_d">
+      <context> a <head>cycle</head> ( of expansion and compression ) of an idealized reversible heat_engine that does work without loss of heat ;</context>
+    </instance>
+    <instance id="n07341860_d_2" docsrc="n07341860_d">
+      <context> one complete <head>cycle</head> of operations ( as by a computer ) ;</context>
+    </instance>
+    <instance id="n08377332_ex1_2" docsrc="n08377332_ex1">
+      <context> Schubert's song <head>cycles</head> ;</context>
+    </instance>
+    <instance id="n13481727_d_13" docsrc="n13481727_d">
+      <context> an operation that is completed in a specified number of regularly timed execution <head>cycles</head> ;</context>
+    </instance>
+    <instance id="n15155747_d_6" docsrc="n15155747_d">
+      <context> the dark part of the diurnal <head>cycle</head> considered a time_unit ;</context>
+    </instance>
+    <instance id="n15178841_d_29" docsrc="n15178841_d">
+      <context> the lunar_calendar used by Muslims ; 622 AD dates_from ( the year of the Hegira ) ; the beginning of the Muslim year retrogresses through the solar_year completing the <head>cycle</head> every 32 years ;</context>
+    </instance>
+    <instance id="n15197302_d_17" docsrc="n15197302_d">
+      <context> a Jewish_holy_day celebrated on the 22nd or 23rd of Tishri to celebrate the completion of the annual <head>cycle</head> of readings of the Torah ;</context>
+    </instance>
+    <instance id="n15233614_d_5" docsrc="n15233614_d">
+      <context> time required for one complete <head>cycle</head> of the precession_of_the_equinoxes , about 25,800 years ;</context>
+    </instance>
+    <instance id="n15287830_ex1_2" docsrc="n15287830_ex1">
+      <context> the never-ending <head>cycle</head> of the seasons ;</context>
+    </instance>
+    <instance id="n15289779_d_6" docsrc="n15289779_d">
+      <context> the interval taken to complete one <head>cycle</head> of a regularly repeating phenomenon ;</context>
+    </instance>
+    <instance id="n15293931_d_3" docsrc="n15293931_d">
+      <context> a 15 year <head>cycle</head> used as a chronological unit in ancient Rome and adopted in some medieval kingdoms ;</context>
+    </instance>
+    <instance id="v02051270_d_2" docsrc="v02051270_d">
+      <context> pass_through a <head>cycle</head> ;</context>
+    </instance>
+    <instance id="v02052877_d_4" docsrc="v02052877_d">
+      <context> cause to repeat a <head>cycle</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

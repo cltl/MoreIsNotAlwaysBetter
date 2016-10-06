@@ -1,0 +1,21 @@
+
+Fine-grained score for "evaluation/BsApw+lfs.out" using key "/home/rbevia/wsd_lfs/DATA_FOR_PAPER/semeval-2013-task12-test-data/keys/gold/wordnet/wordnet.en.key":
+ precision: 0.620 (1020.00 correct of 1644.00 attempted)
+ recall: 0.620 (1020.00 correct of 1644.00 in total)
+ attempted: 100.00 % (1644.00 attempted of 1644.00 in total)
+
+MFS evaluation, instances=1035 attempted=100.00
+	Precision: 70.50
+	Recall   : 70.50
+
+LFS evaluation, instances=609 attempted=100.00
+	Precision: 47.60
+	Recall   : 47.60
+
+ALL evaluation, instances=1644 attempted=100.00
+	Precision: 62.00
+	Recall   : 62.00
+
+Average MFS/LFS:
+	Precision: 59.05
+	Recall   : 59.05

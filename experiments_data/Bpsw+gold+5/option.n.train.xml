@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="option.n" pos="NN">
+    <instance id="Choice-option-22-0-2" docsrc="Choice">
+      <context> Choice involves decision making . It can include judging the merits of multiple options and selecting one or more of them . <head>One</head> can make a choice between imagined options ( " what would I do if ... ? " ) or between real options followed by the corresponding action .</context>
+    </instance>
+    <instance id="Choice-option-3-24-2" docsrc="Choice">
+      <context> As a moral <head>principle</head> , decisions should be made by those most affected by the decision , but this is not normally applied to persons in jail , who might likely make a decision other than to remain in jail . Robert Gates cited this principle in allowing photographs of returning war dead . When choosing between options one must make judgments about the quality of each option 's attributes .</context>
+    </instance>
+    <instance id="Choice-option-7-0-2" docsrc="Choice">
+      <context> Choice involves decision making . It can <head>include</head> judging the merits of multiple options and selecting one or more of them . One can make a choice between imagined options ( " what would I do if ... ? " ) or between real options followed by the corresponding action .</context>
+    </instance>
+    <instance id="Choice-option-8-0-1" docsrc="Choice">
+      <context> Choice involves decision making . It can include <head>judging</head> the merits of multiple options and selecting one or more of them .</context>
+    </instance>
+    <instance id="Choice-option-8-2-1" docsrc="Choice">
+      <context> If the arrival at a choice includes more <head>complex</head> motivators , cognition , instinct and feeling can become more intertwined . Most people regard having choices as a good thing , though a severely limited or artificially restricted choice can lead to discomfort with choosing , and possibly an unsatisfactory outcome . In contrast , a choice with excessively numerous options may lead to confusion , regret of the alternatives not taken , and indifference in an unstructured existence ; and the illusion that choosing an object or a course leads necessarily to control of that object or course can cause psychological problems .</context>
+    </instance>
+    <instance id="a03094006_d_2" docsrc="a03094006_d">
+      <context> indicating an <head>option</head> or wish ;</context>
+    </instance>
+    <instance id="n00080619_d_10" docsrc="n00080619_d">
+      <context> a put or call_option backed by the shares underlying the <head>option</head> ;</context>
+    </instance>
+    <instance id="n00080743_d_1" docsrc="n00080743_d">
+      <context> the <head>option</head> to buy a given stock ( or stock_index or commodity future ) at a given price before a given date ;</context>
+    </instance>
+    <instance id="n00080968_d_1" docsrc="n00080968_d">
+      <context> the <head>option</head> to sell a given stock ( or stock_index or commodity future ) at a given price before a given date ;</context>
+    </instance>
+    <instance id="n00081174_d_1" docsrc="n00081174_d">
+      <context> the <head>option</head> to buy or sell a given stock ( or stock_index or commodity future ) at a given price before a given date ; consists of an equal number of put and call_options ;</context>
+    </instance>
+    <instance id="n04659567_d_5" docsrc="n04659567_d">
+      <context> flexibility of interpretation or of <head>options</head> ;</context>
+    </instance>
+    <instance id="n05686086_d_13" docsrc="n05686086_d">
+      <context> state of uncertainty or perplexity especially as requiring a choice between equally unfavorable <head>options</head> ;</context>
+    </instance>
+    <instance id="n05790944_ex1_1" docsrc="n05790944_ex1">
+      <context> what <head>option</head> did I have ? ;</context>
+    </instance>
+    <instance id="n05791864_d_1" docsrc="n05791864_d">
+      <context> an <head>option</head> that is selected automatically unless an alternative is specified ;</context>
+    </instance>
+    <instance id="n06493392_d_3" docsrc="n06493392_d">
+      <context> a list of <head>options</head> available to a computer_user ;</context>
+    </instance>
+    <instance id="n06493579_d_3" docsrc="n06493579_d">
+      <context> a menu of <head>options</head> that appears below the item when the computer_user clicks on it ;</context>
+    </instance>
+    <instance id="r00169769_d_5" docsrc="r00169769_d">
+      <context> for examination ( with an <head>option</head> to buy ) ;</context>
+    </instance>
+  </lexelt>
+</corpus>

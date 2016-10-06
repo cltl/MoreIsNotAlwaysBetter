@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="phosphorus.n" pos="NN">
+    <instance id="br-e02#w2078_0" docsrc="br-e02">
+      <context> Their main asset is an abundance of unsaturated fatty_acids , so necessary for maintaining the good_health of the circulatory_system . Aside from this , the average portion contains some protein , an appreciable amount of vitamins and C - about one-tenth of the minimum daily requirement , and about a third of the official vitamin_E requirement . The B_vitamins are well represented , especially thiamin and riboflavin . Calcium , <head>phosphorus</head> and iron are present in worthwhile amounts , and eleven other minerals also have been found in varying trace amounts . None of these values is destroyed , not significantly altered by refrigeration storage . Dr._Wilson_C._Grant , of the Veterans_'_Administration_Hospital , Coral_Gables , Florida , and the University_of_Miami_School_of_Medicine , set_out to discover if avocados , because of their high content of unsaturated fatty_acids , would reduce the cholesterol of the blood in selected patients . The study comprised 16 male patients , ranging in age from 27 to 72 .</context>
+    </instance>
+  </lexelt>
+</corpus>

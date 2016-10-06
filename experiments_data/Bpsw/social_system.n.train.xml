@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="social_system.n" pos="NN">
+    <instance id="br-g20#w808_0" docsrc="br-g20">
+      <context> In Figure 2 , the points in the network are designated by a letter accompanied by a number . The numbers indicate the number of nearest neighbors . It will be noted that point f has seven nearest neighbors , h and e have six , and p has only one , while the remaining points have intermediate numbers . In any <head>social_system</head> in which communications have an importance comparable_with that of production and other human factors , a point like f in Figure 2 would ( other things being equal ) be the dwelling place for the community leader , while e and h would house the next most important citizens . A point like p gets information directly from n , but all information beyond n is indirectly relayed through n . The dweller at p is last to hear about a new cure , the slowest to announce to his neighbors his urgent distresses , the one who goes the farthest to trade , and the one with the greatest difficulty of all in putting_over an idea or getting people to join him in a cooperative effort . Since the hazards of poor communication are so great , p can be justified as a habitable site only on the basis of unusual productivity such_as is made available by a waterfall for milling purposes , a mine , or a sugar_maple camp .</context>
+    </instance>
+    <instance id="br-j22#w600_0" docsrc="br-j22">
+      <context> Isolated enterprises have been launched , but they are not_yet related to each other in a meaningful pattern . The society is likely to be characterized by having a fairly modernized urban sector and a relatively untouched rural sector , with very poor communications between the two . Progress is impeded by psychological inhibitions to effective action among those in power and by a failure on their part to understand how local resources , human and material , can be mobilized to achieve the national goals of modernization already symbolically accepted . Most countries in this second category share the difficulty of having many of the structures of a modern political and <head>social_system</head> without the modern standards of performance required to make them effective . In these rapidly changing societies there is also too little appreciation of the need for effort to achieve goals . The colonial period has generally left people believing that government can , if it wishes , provide all manner of services for them - and that with independence free_men do not have_to work to realize the benefits of modern life . For_example , in accordance with the fashion of the times , most transitional societies have announced economic development plans of varying numbers of years ; such is the mystique of planning that people expect that fulfillment of the plan will follow automatically upon its announcement .</context>
+    </instance>
+    <instance id="n05965388_d_8" docsrc="n05965388_d">
+      <context> a revolutionary doctrine that advocates destruction of the <head>social_system</head> for its own sake ;</context>
+    </instance>
+    <instance id="n07972425_d_1" docsrc="n07972425_d">
+      <context> the <head>social_system</head> that developed in Europe in the 8th century ; vassals were protected by lords who they had to serve in war ;</context>
+    </instance>
+    <instance id="n07973088_d_3" docsrc="n07973088_d">
+      <context> a form of <head>social_system</head> in which power goes to those with superior intellects ;</context>
+    </instance>
+    <instance id="n08051739_d_3" docsrc="n08051739_d">
+      <context> a political and <head>social_system</head> that no_longer governs ( especially the system that existed in France before the French_Revolution ) ;</context>
+    </instance>
+    <instance id="n08096950_d_3" docsrc="n08096950_d">
+      <context> the religious and <head>social_system</head> of orthodox Hinduism ;</context>
+    </instance>
+    <instance id="n08380340_d_1" docsrc="n08380340_d">
+      <context> a <head>social_system</head> that provides separate facilities for minority groups ;</context>
+    </instance>
+    <instance id="n08380606_d_1" docsrc="n08380606_d">
+      <context> a <head>social_system</head> in which white_people live separately from members of other races ;</context>
+    </instance>
+    <instance id="n11130113_d_7" docsrc="n11130113_d">
+      <context> French cultural_anthropologist who promoted structural analysis of <head>social_systems</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="bankruptcy.n" pos="NN">
+    <instance id="Bankruptcy-bankruptcy-4-0-1" docsrc="Bankruptcy">
+      <context> Bankruptcy is a legal <head>status</head> of a person or other entity that can not repay the debts it owes to creditors . In most jurisdictions , bankruptcy is imposed by a court order , often initiated by the debtor .</context>
+    </instance>
+    <instance id="br-n11#w2105_0" docsrc="br-n11">
+      <context> `` My reputation 's my stock in trade '' , Tom mentioned more_than once . He evidently could n't foresee that it might be his downfall in_the_end . He had made himself the personification of the_Devil to the homesteaders . But to the cattlemen who had been facing <head>bankruptcy</head> from rustling losses and to the cowboys who had been faced with lay-offs a_few years earlier , he was becoming a vastly different type of legendary figure . Such ranchers as Coble and Clay and the Bosler brothers carried him on their books as a cowhand even while he was receiving a much larger salary from parties unknown . He made their spreads his headquarters , and he helped_out in their roundups . In the cow camps , Tom_Horn was regarded_as a hero , as the same kind of champion he was when he entered and invariably won the local rodeos .</context>
+    </instance>
+    <instance id="n01119116_d_13" docsrc="n01119116_d">
+      <context> a sale of assets at very low prices typically when the seller faces <head>bankruptcy</head> ;</context>
+    </instance>
+    <instance id="n13840039_d_7" docsrc="n13840039_d">
+      <context> the responsibility of receiver or trustee in <head>bankruptcy</head> to act in the best interests of the creditor ;</context>
+    </instance>
+    <instance id="n14478433_ex1_5" docsrc="n14478433_ex1">
+      <context> the company had to declare <head>bankruptcy</head> ;</context>
+    </instance>
+    <instance id="n14478684_ex1_1" docsrc="n14478684_ex1">
+      <context> spiritual <head>bankruptcy</head> ;</context>
+    </instance>
+    <instance id="v02318165_d_2" docsrc="v02318165_d">
+      <context> reduce to <head>bankruptcy</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

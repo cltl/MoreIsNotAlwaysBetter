@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Supreme_Court.n" pos="NN">
+    <instance id="br-g01#w1100_0" docsrc="br-g01">
+      <context> I never heard of a poll being taken on the question . No_doubt such a thing would be considered unpatriotic . Prior to 1954 I imagine that a majority of Southerners would have voted against the Confederacy . Since the <head>Supreme_Court</head> 's decision of that year this is more doubtful ; and if a poll had been taken immediately following the dispatch of troops to Little_Rock I believe the majority would have been for the Old_South . Belief in the traditional way_of_life persists much more in the older states than in the new ones . Probably a larger percentage of Virginians and South_Carolinians remain unreconstructed than elsewhere , with Georgia , North_Carolina , and Alabama following along after them . Old attitudes are held more tenaciously in the Tidewater than the Piedmont ; so_that a line running down the length of the South marking the upper_limits of tidewater would roughly divide the Old_South from the new , but with , of_course , important minority enclaves .</context>
+    </instance>
+    <instance id="br-g01#w430_0" docsrc="br-g01">
+      <context> I am naive , they say , to make use of such words . I take this to mean that the intelligent - and therefore necessarily cynical ? - liberal considers that the need for a national economy with controls that will assure his conception of social justice is so great that individual and local liberties as_well_as democratic processes may have to yield before it . This seems like an attitude favoring a sort of totalitarian bureaucracy which , under a President of the same stamp , would try to coerce an uncooperative Congress or <head>Supreme_Court</head> . As for states ' rights , they have never counted in the thinking of my liberal friends except as irritations of a minor and immoral nature which exist now only as anachronisms . The American liberal may , in the world of to-day , have a strong case ; but he presents it publicly so enmeshed in hypocrisy that it is not an honest one . Why , in_the_first_place , call himself a liberal if he is against laissez-faire and favors an authoritarian central government with womb-to-tomb controls over everybody ?</context>
+    </instance>
+    <instance id="n01191364_d_4" docsrc="n01191364_d">
+      <context> a ruling by the <head>Supreme_Court</head> on affirmative_action ; the Court ruled in 1978 that medical_schools are entitled to consider race as a factor in their admission policy ;</context>
+    </instance>
+    <instance id="n05766698_d_28" docsrc="n05766698_d">
+      <context> an interpretation of the U.S. constitution holding that the spirit of the times and the needs of the nation can legitimately influence judicial_decisions ( particularly decisions of the <head>Supreme_Court</head> ) ;</context>
+    </instance>
+    <instance id="n10898693_d_11" docsrc="n10898693_d">
+      <context> United_States psychologist ( born in Panama ) whose research persuaded the <head>Supreme_Court</head> that segregated schools were discriminatory ;</context>
+    </instance>
+    <instance id="n11118602_d_17" docsrc="n11118602_d">
+      <context> United_States architect ( born in England ) whose works include the chambers of the United_States_Congress and the <head>Supreme_Court</head> ; considered the first professional architect in the United_States ;</context>
+    </instance>
+    <instance id="n11158754_d_7" docsrc="n11158754_d">
+      <context> United_States jurist ; as chief_justice of the <head>Supreme_Court</head> he established the principles of United_States constitutional law ;</context>
+    </instance>
+    <instance id="n11288930_d_15" docsrc="n11288930_d">
+      <context> United_States slave who sued for liberty after living in a non-slave state ; caused the <head>Supreme_Court</head> to declare the Missouri_Compromise unconstitutional ;</context>
+    </instance>
+    <instance id="n11367035_d_8" docsrc="n11367035_d">
+      <context> United_States jurist who served as chief_justice of the <head>Supreme_Court</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

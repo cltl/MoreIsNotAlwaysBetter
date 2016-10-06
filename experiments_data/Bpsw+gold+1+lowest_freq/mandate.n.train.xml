@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="mandate.n" pos="NN">
+    <instance id="Mandate_(politics)-mandate-1-18-1" docsrc="Mandate_(politics)">
+      <context> Social <head>contract</head> Heidotting Conley , Patricia ( 2001 ) . Presidential Mandates : How Elections Shape the National Agenda .</context>
+    </instance>
+    <instance id="Mandate_(politics)-mandate-18-3-1" docsrc="Mandate_(politics)">
+      <context> New governments who attempt to introduce policies that they did not make public during an election campaign are <head>said</head> to not have a legitimate mandate to implement such policies . In some languages , a ' mandate ' can mean a parliamentary seat won in an election rather than the electoral victory itself . In case such a mandate is bound to the wishes of the electorate , it is an imperative mandate , otherwise it is called " free " .</context>
+    </instance>
+    <instance id="Mandate_(politics)-mandate-24-1-1" docsrc="Mandate_(politics)">
+      <context> In politics , a mandate is the authority granted by a constituency to act as its representative . The concept of a government having <head>a</head> legitimate mandate to govern via the fair winning of a democratic election is a central idea of representative democracy . New governments who attempt to introduce policies that they did not make public during an election campaign are said to not have a legitimate mandate to implement such policies .</context>
+    </instance>
+    <instance id="Mandate_(politics)-mandate-3-24-1" docsrc="Mandate_(politics)">
+      <context> Citations General information <head>"</head> Doctrine of Mandate " .</context>
+    </instance>
+    <instance id="Mandate_(politics)-mandate-4-3-1" docsrc="Mandate_(politics)">
+      <context> New governments who attempt <head>to</head> introduce policies that they did not make public during an election campaign are said to not have a legitimate mandate to implement such policies . In some languages , a ' mandate ' can mean a parliamentary seat won in an election rather than the electoral victory itself . In case such a mandate is bound to the wishes of the electorate , it is an imperative mandate , otherwise it is called " free " .</context>
+    </instance>
+    <instance id="Mandate_(politics)-mandate-6-1-2" docsrc="Mandate_(politics)">
+      <context> The concept of a government having <head>a</head> legitimate mandate to govern via the fair winning of a democratic election is a central idea of representative democracy . New governments who attempt to introduce policies that they did not make public during an election campaign are said to not have a legitimate mandate to implement such policies . In some languages , a ' mandate ' can mean a parliamentary seat won in an election rather than the electoral victory itself .</context>
+    </instance>
+    <instance id="Mandate_(politics)-mandate-8-0-1" docsrc="Mandate_(politics)">
+      <context> In politics , a mandate is the authority <head>granted</head> by a constituency to act as its representative . The concept of a government having a legitimate mandate to govern via the fair winning of a democratic election is a central idea of representative democracy .</context>
+    </instance>
+    <instance id="n08345366_d_14" docsrc="n08345366_d">
+      <context> the clandestine military wing of the Jewish leadership during the British rule over the <head>mandate</head> of Palestine from 1920 to 1948 ; became the basis for the Israeli defense force ;</context>
+    </instance>
+    <instance id="n10289969_d_4" docsrc="n10289969_d">
+      <context> the recipient of a <head>mandate</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="energy.n" pos="NN">
+    <instance id="United_States_Department_of_Energy-energy-8-5-1" docsrc="United_States_Department_of_Energy">
+      <context> The agency is administered by the United States <head>Secretary</head> of Energy , and its headquarters are located in Southwest Washington , D.C. , on Independence Avenue in the James V. Forrestal Building , named for James Forrestal , as well as in Germantown , Maryland . In 1942 , during World War II , the United States started the Manhattan Project , a project to develop the atomic bomb , under the eye of the U.S. Army Corps of Engineers . After the war in 1946 , the Atomic Energy Commission ( AEC ) was created to control the future of the project .</context>
+    </instance>
+    <instance id="a00804695_d_2" docsrc="a00804695_d">
+      <context> full_of_life and <head>energy</head> ;</context>
+    </instance>
+    <instance id="n04633197_ex1_4" docsrc="n04633197_ex1">
+      <context> his writing conveys great <head>energy</head> ;</context>
+    </instance>
+    <instance id="n04836683_ex1_5" docsrc="n04836683_ex1">
+      <context> Europeans often laugh at American <head>energy</head> ;</context>
+    </instance>
+    <instance id="n05026171_d_7" docsrc="n05026171_d">
+      <context> the mass of a body regarded relativistically <head>energy</head> ;</context>
+    </instance>
+    <instance id="n05035961_ex1_5" docsrc="n05035961_ex1">
+      <context> he plays tennis with great <head>energy</head> ;</context>
+    </instance>
+    <instance id="n11452079_ex1_7" docsrc="n11452079_ex1">
+      <context> the DOE is responsible for maintaining the <head>energy</head> policy ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="journal.n" pos="NN">
+    <instance id="br-f16#w165_0" docsrc="br-f16">
+      <context> What disaster struck the Discovery during those seventeen months ? What happened to the fourteen missing men ? These questions have remained one of the great sea mysteries of_all_time . For hundreds of years , the evidence available consisted_of ( 1 ) the captain 's fragmentary <head>journal</head> , ( 2 ) a highly prejudiced account by one of the survivors , ( 3 ) a note found in a dead man 's desk on_board , and ( 4 ) several second-hand reports . All_told , they offered a highly confused picture . But since 1927 , researchers digging_into ancient court records and legal files have been able to find illuminating pieces of information . Not enough to do away with all doubts , but sufficient to give a fairly accurate picture of the events of the voyage .</context>
+    </instance>
+    <instance id="br-p10#w87_0" docsrc="br-p10">
+      <context> Among us , we three handled quite a few small commissions , from spot drawings for advertising_agencies uptown to magazine work and quick lettering jobs . Each of us had his own specialty besides . George did wonderful complicated pen-and-ink drawings like something out of a medieval miniature : hundreds of delicate details crammed into an eight by ten sheet and looking as if they had been done under a jeweler's_glass . He also drew precise crisp spots , which he sold to various literary and artistic <head>journals</head> , The New_Yorker , for_instance , or Esquire . I did book_jackets and covers for paperback reprints : naked girls huddling in corners of dingy furnished rooms while at the doorway , daring the cops to take him , is the guy in shirt_sleeves clutching a revolver . The book could be The_Brothers_Karamazov , but it would still have the same jacket illustration . I remember once I did a jacket for Magpie_Press ; the book was a fine historical novel about Edward_3 , , and I did a week of research to get the details just_right : the fifteenth century armor , furnishings , clothes .</context>
+    </instance>
+  </lexelt>
+</corpus>

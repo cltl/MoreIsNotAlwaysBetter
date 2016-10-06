@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="Washington.n" pos="NN">
+    <instance id="Booker_T._Washington-washington-0-9-2" docsrc="Booker_T._Washington">
+      <context> <head>Northern</head> critics called Washington 's widespread organization the " Tuskegee Machine " . After 1909 , Washington was criticized by the leaders of the new NAACP , especially W. E. B. Du Bois , who demanded a stronger tone of protest for advancement of civil rights needs . Washington replied that confrontation would lead to disaster for the outnumbered blacks in society , and that cooperation with supportive whites was the only way to overcome pervasive racism in the long run .</context>
+    </instance>
+    <instance id="Booker_T._Washington-washington-3-9-1" docsrc="Booker_T._Washington">
+      <context> Northern critics called <head>Washington</head> 's widespread organization the " Tuskegee Machine " . After 1909 , Washington was criticized by the leaders of the new NAACP , especially W. E. B. Du Bois , who demanded a stronger tone of protest for advancement of civil rights needs .</context>
+    </instance>
+    <instance id="a00826658_d_8" docsrc="a00826658_d">
+      <context> of a region of the United_States generally including <head>Washington</head> ; Oregon ; Idaho ; and sometimes Montana ; Wyoming ;</context>
+    </instance>
+    <instance id="a03037093_d_9" docsrc="a03037093_d">
+      <context> of or relating to or in the state of <head>Washington</head> ;</context>
+    </instance>
+    <instance id="br-a01#w1707_0" docsrc="br-a01">
+      <context> Pelham pointed_out that Georgia voters last November rejected a constitutional amendment to allow legislators to vote on pay raises for future Legislature sessions . A veteran Jackson_County legislator will ask the Georgia_House Monday to back federal aid to education , something it has consistently opposed in the past . Rep._Mac_Barber of Commerce is asking the House in a privilege resolution to `` endorse increased federal support for public education , provided_that such funds be received and expended '' as state funds . Barber , who is in his 13th year as a legislator , said there `` are some members of our congressional delegation in <head>Washington</head> who would_like to see it ( the resolution ) passed '' . But he added that none of Georgia 's congressmen specifically asked him to offer the resolution . The resolution , which Barber tossed into the House hopper Friday , will be formally read Monday . It says that `` in the event Congress does provide this increase in federal funds '' , the State_Board_of_Education should be directed to `` give priority '' to teacher pay raises .</context>
+    </instance>
+    <instance id="br-h18#w750_0" docsrc="br-h18">
+      <context> Dozens of seemingly small matters go_wrong all_over the world . Sometimes those who know about them are too far down the line to be able to do anything about them . I would hope that we could create the recognition in the Department and overseas that those who come_across little things going_wrong have the responsibility for bringing these to the attention of those who can do something about them . If the Department_of_State is to take primary responsibility for foreign_policy in <head>Washington</head> , it follows that the ambassador is expected to take_charge overseas . This does not mean in a purely bureaucratic sense but in an active , operational , interested , responsible fashion . He is expected to know about what is going_on among the representatives of other agencies who are stationed in his country . He is expected to supervise , to encourage , to direct , to assist in any way he can .</context>
+    </instance>
+    <instance id="n02956500_d_3" docsrc="n02956500_d">
+      <context> the government_building in <head>Washington</head> where the United_States_Senate and the House_of_Representatives meet ;</context>
+    </instance>
+    <instance id="n03670456_d_3" docsrc="n03670456_d">
+      <context> memorial building in <head>Washington</head> containing a large marble statue of Abraham_Lincoln ;</context>
+    </instance>
+    <instance id="n09417668_d_11" docsrc="n09417668_d">
+      <context> a mountain in the Black_Hills of South_Dakota ; the likenesses of <head>Washington</head> and Jefferson and Lincoln and Roosevelt are carved on it ;</context>
+    </instance>
+    <instance id="n15187619_d_11" docsrc="n15187619_d">
+      <context> the third Monday in February ; commemorates both presidents Lincoln and <head>Washington</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

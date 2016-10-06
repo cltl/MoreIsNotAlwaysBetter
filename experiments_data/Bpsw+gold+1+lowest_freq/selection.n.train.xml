@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="selection.n" pos="NN">
+    <instance id="Selection-selection-0-1-1" docsrc="Selection">
+      <context> <head>Selection</head> may refer to : In computing : Selection ( user interface )</context>
+    </instance>
+    <instance id="a01863246_d_6" docsrc="a01863246_d">
+      <context> characterized by very careful or fastidious <head>selection</head> ;</context>
+    </instance>
+    <instance id="br-a14#w89_0" docsrc="br-a14">
+      <context> The appointment was announced at a news_conference at which Skorich said he would retain two members of Shaw 's staff - Jerry_Williams and Charlie_Gauer . Williams is a defensive coach . Gauer works with the ends . The <head>selection</head> had been expected . Skorich was considered the logical choice after the club gave Norm_Van_Brocklin permission to seek the head coaching_job with the Minnesota_Vikings , the newest National_Football_League entry . Van_Brocklin , the quarterback who led the Eagles to the title , was signed by the Vikings last Wednesday . Philadelphia permitted him to seek a better connection after he had refused to reconsider his decision to end his career as a player .</context>
+    </instance>
+    <instance id="n00161888_d_1" docsrc="n00161888_d">
+      <context> the <head>selection</head> of a suitable sample for study ;</context>
+    </instance>
+    <instance id="n00162055_d_1" docsrc="n00162055_d">
+      <context> the <head>selection</head> of a random_sample ; each element of the population has an equal chance of been selected ;</context>
+    </instance>
+    <instance id="n00181191_d_1" docsrc="n00181191_d">
+      <context> the <head>selection</head> of a new member ( usually by a vote of the existing membership ) ;</context>
+    </instance>
+    <instance id="n06400849_d_1" docsrc="n06400849_d">
+      <context> a <head>selection</head> of passages from different authors that is compiled as an aid in learning a language ;</context>
+    </instance>
+    <instance id="n07208565_d_5" docsrc="n07208565_d">
+      <context> a formal objection to the <head>selection</head> of a particular person as a juror ;</context>
+    </instance>
+    <instance id="n08399818_ex1_5" docsrc="n08399818_ex1">
+      <context> the store carried a large <head>selection</head> of shoes ;</context>
+    </instance>
+  </lexelt>
+</corpus>

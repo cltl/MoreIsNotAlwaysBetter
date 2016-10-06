@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="journal.n" pos="NN">
+    <instance id="Journal-journal-1-13-1" docsrc="Journal">
+      <context> The <head>word</head> " journalist " , for one whose business is writing for the public press and nowadays also other media , has been in use since the end of the 17th century . The term " journal " is also used in business : A journal is a book or computer file in which monetary transactions are entered the first time they are processed .</context>
+    </instance>
+    <instance id="Journal-journal-1-14-1" docsrc="Journal">
+      <context> The <head>term</head> " journal " is also used in business : A journal is a book or computer file in which monetary transactions are entered the first time they are processed . This journal lists transactions in chronological sequence by date prior to a transfer of the same transactions to a ledger in the process of bookkeeping</context>
+    </instance>
+    <instance id="Journal-journal-10-0-1" docsrc="Journal">
+      <context> A journal ( through French from Latin diurnalis , daily <head>)</head> has several related meanings : a daily record of events or business ; a private journal is usually referred to as a diary</context>
+    </instance>
+    <instance id="Journal-journal-3-4-1" docsrc="Journal">
+      <context> a newspaper or <head>other</head> periodical , in the literal sense of one published each day The word " journalist " , for one whose business is writing for the public press and nowadays also other media , has been in use since the end of the 17th century . The term " journal " is also used in business :</context>
+    </instance>
+    <instance id="br-p10#w87_0" docsrc="br-p10">
+      <context> Among us , we three handled quite a few small commissions , from spot drawings for advertising_agencies uptown to magazine work and quick lettering jobs . Each of us had his own specialty besides . George did wonderful complicated pen-and-ink drawings like something out of a medieval miniature : hundreds of delicate details crammed into an eight by ten sheet and looking as if they had been done under a jeweler's_glass . He also drew precise crisp spots , which he sold to various literary and artistic <head>journals</head> , The New_Yorker , for_instance , or Esquire . I did book_jackets and covers for paperback reprints : naked girls huddling in corners of dingy furnished rooms while at the doorway , daring the cops to take him , is the guy in shirt_sleeves clutching a revolver . The book could be The_Brothers_Karamazov , but it would still have the same jacket illustration . I remember once I did a jacket for Magpie_Press ; the book was a fine historical novel about Edward_3 , , and I did a week of research to get the details just_right : the fifteenth century armor , furnishings , clothes .</context>
+    </instance>
+    <instance id="n03165211_d_2" docsrc="n03165211_d">
+      <context> an accounting <head>journal</head> as a physical_object ;</context>
+    </instance>
+    <instance id="n03542220_d_1" docsrc="n03542220_d">
+      <context> a <head>journal</head> bearing ( as of a railroad_car ) that has overheated ;</context>
+    </instance>
+    <instance id="n05794189_d_22" docsrc="n05794189_d">
+      <context> the scientific study of plants or animals ( more observational than experimental ) usually published in popular magazines rather than in academic <head>journals</head> ;</context>
+    </instance>
+    <instance id="n06402202_d_3" docsrc="n06402202_d">
+      <context> a shared on-line <head>journal</head> where people can post diary entries about their personal experiences and hobbies ;</context>
+    </instance>
+    <instance id="n06597466_ex1_4" docsrc="n06597466_ex1">
+      <context> he reads the medical <head>journals</head> ;</context>
+    </instance>
+    <instance id="n08462534_d_6" docsrc="n08462534_d">
+      <context> all the data ( ledgers and <head>journals</head> and spreadsheets ) that support a financial_statement ; can be hard_copy or machine_readable ;</context>
+    </instance>
+  </lexelt>
+</corpus>

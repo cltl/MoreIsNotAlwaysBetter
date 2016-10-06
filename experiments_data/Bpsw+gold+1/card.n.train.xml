@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="card.n" pos="NN">
+    <instance id="Visiting_card-card-17-0-1" docsrc="Visiting_card">
+      <context> A visiting card , also known as a calling card , is a small paper card with <head>one</head> 's name printed on it , and often bearing an artistic design . In 18th century Europe , the footmen of aristocrats and royalty would deliver these first European visiting cards to the servants of their prospective hosts solemnly introducing the arrival of their owners .</context>
+    </instance>
+    <instance id="n00091503_d_6" docsrc="n00091503_d">
+      <context> the act of throwing_out a useless <head>card</head> or of failing to follow_suit ;</context>
+    </instance>
+    <instance id="n02977058_d_15" docsrc="n02977058_d">
+      <context> an unattended machine ( outside some banks ) that dispenses money when a personal coded <head>card</head> is used ;</context>
+    </instance>
+    <instance id="n03080731_d_6" docsrc="n03080731_d">
+      <context> compass in the form of a <head>card</head> that rotates so that 0 degrees or North points to magnetic_north ;</context>
+    </instance>
+    <instance id="n04004210_d_16" docsrc="n04004210_d">
+      <context> computer_circuit consisting of an electronic sub-assembly ; copper conductors are laminated on an insulating board or <head>card</head> and circuit components are inserted into holes and dip_soldered ;</context>
+    </instance>
+    <instance id="n04249705_d_5" docsrc="n04249705_d">
+      <context> display consisting of a printed <head>card</head> with letters and numbers in lines of decreasing size ; used to test visual_acuity ;</context>
+    </instance>
+    <instance id="n04437131_d_1" docsrc="n04437131_d">
+      <context> a <head>card</head> used with a time_clock to record an employee's starting and quitting times each day ;</context>
+    </instance>
+    <instance id="n06486161_ex1_4" docsrc="n06486161_ex1">
+      <context> the managers presented their <head>cards</head> to the umpire at home plate ;</context>
+    </instance>
+    <instance id="n06488473_d_12" docsrc="n06488473_d">
+      <context> a library_catalog in which each publication is described on a separate file <head>card</head> ;</context>
+    </instance>
+    <instance id="n06504838_d_1" docsrc="n06504838_d">
+      <context> a <head>card</head> recording an employee's starting and quitting times each work_day ;</context>
+    </instance>
+    <instance id="n06507941_ex1_6" docsrc="n06507941_ex1">
+      <context> you have to turn in your <head>card</head> to get a handicap ;</context>
+    </instance>
+    <instance id="n06627006_ex1_4" docsrc="n06627006_ex1">
+      <context> they sent us a <head>card</head> from Miami ;</context>
+    </instance>
+    <instance id="n06793959_d_1" docsrc="n06793959_d">
+      <context> a <head>card</head> with words or numbers or pictures that is flashed to a class by the teacher ;</context>
+    </instance>
+    <instance id="n13472341_d_9" docsrc="n13472341_d">
+      <context> automatic_data_processing by electronic means without the use of tabulating <head>cards</head> or punched tapes ;</context>
+    </instance>
+    <instance id="n13830305_d_8" docsrc="n13830305_d">
+      <context> any of 32 horizontal directions indicated on the <head>card</head> of a compass ;</context>
+    </instance>
+    <instance id="n14805676_d_16" docsrc="n14805676_d">
+      <context> a small piece_of_paper that is supposed to be removed when a hole is punched in a <head>card</head> or paper_tape ;</context>
+    </instance>
+  </lexelt>
+</corpus>

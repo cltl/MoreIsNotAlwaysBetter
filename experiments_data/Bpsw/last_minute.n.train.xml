@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="last_minute.n" pos="NN">
+    <instance id="a01901649_d_7" docsrc="a01901649_d">
+      <context> just before a deadline ; at the <head>last_minute</head> ;</context>
+    </instance>
+    <instance id="n06684262_d_10" docsrc="n06684262_d">
+      <context> late news that is inserted into the newspaper at the <head>last_minute</head> ;</context>
+    </instance>
+    <instance id="n07476177_d_8" docsrc="n07476177_d">
+      <context> a narrow defeat or a defeat at the <head>last_minute</head> ;</context>
+    </instance>
+    <instance id="n15244942_ex2_2" docsrc="n15244942_ex2">
+      <context> at the <head>last_minute</head> the government changed the rules ;</context>
+    </instance>
+  </lexelt>
+</corpus>

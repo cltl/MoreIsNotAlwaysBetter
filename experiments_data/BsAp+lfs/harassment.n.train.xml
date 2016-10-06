@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="harassment.n" pos="NN">
+    <instance id="n00425182_d_0" docsrc="n00425182_d">
+      <context> <head>harassment</head> especially of a tethered animal ;</context>
+    </instance>
+    <instance id="n08197895_d_9" docsrc="n08197895_d">
+      <context> an irregular armed force that fights by sabotage and <head>harassment</head> ; often rural and organized in large groups ;</context>
+    </instance>
+    <instance id="n10150556_d_15" docsrc="n10150556_d">
+      <context> a member of an irregular armed force that fights a stronger force by sabotage and <head>harassment</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

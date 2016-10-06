@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="adaptation.n" pos="NN">
+    <instance id="br-r08#w1179_0" docsrc="br-r08">
+      <context> We would have preferred , however , to have had the rest of the orchestra refrain_from laughing at this and other spots on the recording , since it mars an otherwise sober , if not lofty , performance . As Broadway itself becomes increasingly weighted_down by trite , heavy-handed , commercially successful musicals and inspirational problem dramas , the American theatre is going_through an inexorable renaissance in_that nebulous area known_as `` off-Broadway '' . For the last two years , this frontier of the arts has produced a number of so-called `` non dramas '' which have left indelible , bittersweet impressions on the psyche of_this veteran theatregoer . The latest and , significantly , greatest fruit of_this theatrical vine is The , an <head>adaptation</head> of Basho 's classic frog haiku by Roger_Entwhistle , a former University_of_Maryland chemistry instructor . Although the play does show a certain structural amateurishness ( there are eleven acts varying in length from twenty-five seconds to an hour and a half ) , the statement it makes concerning the ceaseless yearning and searching of youth is profound and worthy of our attention . The action centers about a group of outspoken and offbeat students sitting around a table in a cafeteria and their collective and ultimately fruitless search for a cup of hot coffee . They are relentlessly rebuffed on all sides by a waitress , the police , and an intruding government tutor .</context>
+    </instance>
+  </lexelt>
+</corpus>

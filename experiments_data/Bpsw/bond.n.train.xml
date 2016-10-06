@@ -1,0 +1,1190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="bond.n" pos="NN">
+    <instance id="Adhesion-bond-11-112-1" docsrc="Adhesion">
+      <context> Decals and stickers that adhere to glass without using any chemical <head>adhesives</head> are fairly common as toys and decorations and useful as removable labels because they do not rapidly lose their adhesive properties , as do sticky tapes that use adhesive chemical compounds . It is important to note that these forces also act over very small distances – 99 % of the work necessary to break van der Waals bonds is done once surfaces are pulled more than a nanometer apart .</context>
+    </instance>
+    <instance id="Adhesion-bond-12-16-2" docsrc="Adhesion">
+      <context> Adhesive materials fill the voids or pores of the surfaces and hold <head>surfaces</head> together by interlocking . Other interlocking phenomena are observed on different length scales . Sewing is an example of two materials forming a large scale mechanical bond , velcro forms one on a medium scale , and some textile adhesives ( glue ) form one at a small scale .</context>
+    </instance>
+    <instance id="Adhesion-bond-17-21-1" docsrc="Adhesion">
+      <context> A weaker bond is formed if a Hydrogen atom in one molecule is attracted to an atom <head>of</head> nitrogen , oxygen , or fluorine in another molecule , a phenomenon called hydrogen bonding . Chemical adhesion occurs when the surface atoms of two separate surfaces form ionic , covalent , or hydrogen bonds . The engineering principle behind chemical adhesion in this sense is fairly straightforward : if surface molecules can bond , then the surfaces will be bonded together by a network of these bonds .</context>
+    </instance>
+    <instance id="Adhesion-bond-18-20-3" docsrc="Adhesion">
+      <context> The strongest joints are where atoms of the two materials swap or share electrons ( known as ionic <head>bonding</head> or covalent bonding , respectively ) . A weaker bond is formed if a Hydrogen atom in one molecule is attracted to an atom of nitrogen , oxygen , or fluorine in another molecule , a phenomenon called hydrogen bonding . Chemical adhesion occurs when the surface atoms of two separate surfaces form ionic , covalent , or hydrogen bonds .</context>
+    </instance>
+    <instance id="Adhesion-bond-2-20-2" docsrc="Adhesion">
+      <context> Two materials <head>may</head> form a compound at the joint . The strongest joints are where atoms of the two materials swap or share electrons ( known as ionic bonding or covalent bonding , respectively ) . A weaker bond is formed if a Hydrogen atom in one molecule is attracted to an atom of nitrogen , oxygen , or fluorine in another molecule , a phenomenon called hydrogen bonding .</context>
+    </instance>
+    <instance id="Adhesion-bond-20-112-3" docsrc="Adhesion">
+      <context> 99 % of the work necessary to break van der Waals bonds is done once surfaces are pulled more than <head>a</head> nanometer apart . As a result of this limited motion in both the van der Waals and ionic/covalent bonding situations , practical effectiveness of adhesion due to either or both of these interactions leaves much to be desired . Once a crack is initiated , it propagates easily along the interface because of the brittle nature of the interfacial bonds .</context>
+    </instance>
+    <instance id="Adhesion-bond-26-21-4" docsrc="Adhesion">
+      <context> It bears mentioning that these attractive ionic and covalent forces are effective over only very small distances – less than a nanometer . This means in <head>general</head> not only that surfaces with the potential for chemical bonding need to be brought very close together , but also that these bonds are fairly brittle , since the surfaces then need to be kept close together .</context>
+    </instance>
+    <instance id="Adhesion-bond-31-21-1" docsrc="Adhesion">
+      <context> A weaker bond is formed if a Hydrogen atom in one molecule is attracted to an atom of nitrogen , oxygen , or fluorine in another molecule , a phenomenon called <head>hydrogen</head> bonding . Chemical adhesion occurs when the surface atoms of two separate surfaces form ionic , covalent , or hydrogen bonds . The engineering principle behind chemical adhesion in this sense is fairly straightforward : if surface molecules can bond , then the surfaces will be bonded together by a network of these bonds .</context>
+    </instance>
+    <instance id="Adhesion-bond-6-139-3" docsrc="Adhesion">
+      <context> Stringing occurs when a separation of <head>two</head> surfaces is beginning and molecules at the interface bridge out across the gap , rather than cracking like the interface itself . The most significant consequence of this effect is the restraint of the crack . By providing the otherwise brittle interfacial bonds with some flexibility , the molecules that are stringing across the gap can stop the crack from propagating .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-0-5" docsrc="Bond_(finance)">
+      <context> <head>Very</head> often the bond is negotiable , that is , the ownership of the instrument can be transferred in the secondary market . This means that once the transfer agents at the bank medallion stamp the bond , it is highly liquid on the second market . Bonds and stocks are both securities , but the major difference between the two is that ( capital ) stockholders have an equity stake in the company ( i.e. , they are investors ) , whereas bondholders have a creditor stake in the company ( i.e. , they are lenders ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-122-2" docsrc="Bond_(finance)">
+      <context> <head>The</head> relationship between yield and term to maturity ( or alternatively between yield and the weighted mean term allowing for both interest and capital repayment ) for otherwise identical bonds is called a yield curve . The yield curve is a graph plotting this relationship . Bond markets can also differ from stock markets in that , in some markets , investors sometimes do not pay brokerage commissions to dealers with whom they buy or sell bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-124-4" docsrc="Bond_(finance)">
+      <context> <head>price—and</head> the price at which he or she sells the same bond to another investor—the " ask " or " offer " price . The bid/offer spread represents the total transaction cost associated with transferring a bond from one investor to another . Bonds are bought and traded mostly by institutions like central banks , sovereign wealth funds , pension funds , insurance companies , hedge funds , and banks .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-128-5" docsrc="Bond_(finance)">
+      <context> <head>Most</head> individuals who want to own bonds do so through bond funds . Still , in the U.S. , nearly 10 % of all bonds outstanding are held directly by households . Bonds are also subject to various other risks such as call and prepayment risk , credit risk , reinvestment risk , liquidity risk , event risk , exchange rate risk , volatility risk , inflation risk , sovereign risk and yield curve risk .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-132-6" docsrc="Bond_(finance)">
+      <context> <head>One</head> way to quantify the interest rate risk on a bond is in terms of its duration . Efforts to control this risk are called immunization or hedging . Bond prices can become volatile depending on the credit rating of the issuer – for instance if the credit rating agencies like Standard &amp; Poor 's and Moody 's upgrade or downgrade the credit rating of the issuer .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-141-3" docsrc="Bond_(finance)">
+      <context> <head>The</head> most common American benchmarks are the Barclays Capital Aggregate ( ex Lehman Aggregate ) , Citigroup BIG and Merrill Lynch Domestic Master . Most indices are parts of families of broader indices that can be used to measure global bond portfolios , or may be further subdivided by maturity and/or sector for managing specialized portfolios . Bonds links at DMOZ</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-57-3" docsrc="Bond_(finance)">
+      <context> <head>The</head> entire bond issue can be liquidated by the maturity date ; if not , the remainder is called balloon maturity . Issuers may either pay to trustees , which in turn call randomly selected bonds in the issue , or , alternatively , purchase bonds in open market , then return them to trustees . Bonds are often identified by its international securities identification number , or ISIN , which is a 12 digit alphanumeric code that uniquely identifies debt securities .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-0-8-2" docsrc="Bond_(finance)">
+      <context> <head>In</head> the case of an underwritten bond , the underwriters will charge a fee for underwriting . An alternative process for bond issuance , which is commonly used for smaller issues and avoids this cost , is the private placement bond . Bonds sold directly to buyers may not be tradeable in the bond market .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-135-3" docsrc="Bond_(finance)">
+      <context> As <head>an</head> example , after an accounting scandal and a Chapter 11 bankruptcy at the giant telecommunications company Worldcom , in 2004 its bondholders ended up being paid 35.7 cents on the dollar . In a bankruptcy involving reorganization or recapitalization , as opposed to liquidation , bondholders may end up having the value of their bonds reduced , often through an exchange for a smaller number of newly issued bonds . Some bonds are callable , meaning that even though the company has agreed to make payments plus interest towards the debt for a certain period of time , the company can choose to pay off the bond early .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-136-2" docsrc="Bond_(finance)">
+      <context> Some <head>bonds</head> are callable , meaning that even though the company has agreed to make payments plus interest towards the debt for a certain period of time , the company can choose to pay off the bond early . This creates reinvestment risk , meaning the investor is forced to find a new place for his money , and the investor might not be able to find as good a deal , especially because this usually happens when interest rates are falling . === Bond indices ===</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-20-4" docsrc="Bond_(finance)">
+      <context> The <head>length</head> of time until the maturity date is often referred to as the term or tenor or maturity of a bond . The maturity can be any length of time , although debt securities with a term of less than one year are generally designated money market instruments rather than bonds . Most bonds have a term of up to 30 years .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-20-5" docsrc="Bond_(finance)">
+      <context> The <head>maturity</head> can be any length of time , although debt securities with a term of less than one year are generally designated money market instruments rather than bonds . Most bonds have a term of up to 30 years . Some bonds have been issued with terms of 50 years or more , and historically there have been some issues with no maturity date ( irredeemable ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-50-1" docsrc="Bond_(finance)">
+      <context> Others <head>===</head> Putability — Some bonds give the holder the right to force the issuer to repay the bond before the maturity date on the put dates ; see put option .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-63-1" docsrc="Bond_(finance)">
+      <context> Bonds <head>are</head> often identified by its international securities identification number , or ISIN , which is a 12 digit alphanumeric code that uniquely identifies debt securities . The following descriptions are not mutually exclusive , and more than one of them may apply to a particular bond . Convertible bonds let a bondholder exchange a bond to a number of shares of the issuer 's common stock .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-68-2" docsrc="Bond_(finance)">
+      <context> Convertible <head>bonds</head> let a bondholder exchange a bond to a number of shares of the issuer 's common stock . These are known as hybrid securities , because they combine equity and debt features . Exchangeable bonds allows for exchange to shares of a corporation other than the issuer .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-69-1" docsrc="Bond_(finance)">
+      <context> These <head>are</head> known as hybrid securities , because they combine equity and debt features . Exchangeable bonds allows for exchange to shares of a corporation other than the issuer . Registered bond is a bond whose ownership ( and any subsequent purchaser ) is recorded by the issuer , or by a transfer agent .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-78-3" docsrc="Bond_(finance)">
+      <context> It <head>is</head> the alternative to a Bearer bond . Interest payments , and the principal upon maturity are sent to the registered owner . Municipal bond is a bond issued by a state , U.S. Territory , city , local government , or their agencies .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-81-2" docsrc="Bond_(finance)">
+      <context> Municipal <head>bond</head> is a bond issued by a state , U.S. Territory , city , local government , or their agencies . Interest income received by holders of municipal bonds is often exempt from the federal income tax and from the income tax of the state in which they are issued , although municipal bonds issued for certain purposes may not be tax exempt . Lottery bonds are issued by European and other states .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-84-3" docsrc="Bond_(finance)">
+      <context> Interest <head>is</head> paid as on a traditional fixed rate bond , but the issuer will redeem randomly selected individual bonds within the issue according to a schedule . Some of these redemptions will be for a higher value than the face value of the bond . War bond is a bond issued by a government to fund military operations during war time .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-85-2" docsrc="Bond_(finance)">
+      <context> War <head>bond</head> is a bond issued by a government to fund military operations during war time . This type of bond has low return rate . Serial bond is a bond that matures in installments over a period of time .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-89-1" docsrc="Bond_(finance)">
+      <context> In <head>effect</head> , a $ 100,000 , 5-year serial bond would mature in a $ 20,000 annuity over a 5-year interval . Dual currency bonds Retail bonds are a type of corporate bond mostly designed for ordinary investors .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-95-1" docsrc="Bond_(finance)">
+      <context> === <head>Foreign</head> currencies === Some companies , banks , governments , and other sovereign entities may decide to issue bonds in foreign currencies as it may appear to be more stable and predictable than their domestic currency . Issuing bonds denominated in foreign currencies also gives issuers the ability to access investment capital available in foreign markets .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-95-6" docsrc="Bond_(finance)">
+      <context> Some <head>foreign</head> issuer bonds are called by their nicknames , such as the " samurai bond " . These can be issued by foreign issuers looking to diversify their investor base away from domestic markets . These bond issues are generally governed by the law of the market of issuance , e.g. , a samurai bond , issued by an investor based in Europe , will be governed by Japanese law .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-95-8" docsrc="Bond_(finance)">
+      <context> These <head>bond</head> issues are generally governed by the law of the market of issuance , e.g. , a samurai bond , issued by an investor based in Europe , will be governed by Japanese law . Not all of the following bonds are restricted for purchase by investors in the market of issuance . Baklava bond , a bond denominated in Turkish Lira and issued by a domestic or foreign entity in the Turkish market</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-1-97-1" docsrc="Bond_(finance)">
+      <context> Not <head>all</head> of the following bonds are restricted for purchase by investors in the market of issuance . Baklava bond , a bond denominated in Turkish Lira and issued by a domestic or foreign entity in the Turkish market Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-10-120-5" docsrc="Bond_(finance)">
+      <context> ( See also Accrual bond . ) The price excluding <head>accrued</head> interest is known as the " flat " or " clean price " . The interest rate divided by the current price of the bond is called the current yield ( this is the nominal yield multiplied by the par value and divided by the price ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-10-128-3" docsrc="Bond_(finance)">
+      <context> Insurance companies and pension funds have liabilities which essentially include <head>fixed</head> amounts payable on predetermined dates . They buy the bonds to match their liabilities , and may be compelled by law to do this . Most individuals who want to own bonds do so through bond funds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-10-132-4" docsrc="Bond_(finance)">
+      <context> This can be damaging for professional investors such as banks <head>,</head> insurance companies , pension funds and asset managers ( irrespective of whether the value is immediately " marked to market " or not ) . If there is any chance a holder of individual bonds may need to sell his bonds and " cash out " , interest rate risk could become a real problem ( conversely , bonds ' market prices would increase if the prevailing interest rate were to drop , as it did from 2001 through 2003 . One way to quantify the interest rate risk on a bond is in terms of its duration .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-10-133-1" docsrc="Bond_(finance)">
+      <context> Efforts to control this risk are called immunization or hedging <head>.</head> Bond prices can become volatile depending on the credit rating of the issuer – for instance if the credit rating agencies like Standard &amp; Poor 's and Moody 's upgrade or downgrade the credit rating of the issuer . An unanticipated downgrade will cause the market price of the bond to fall .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-10-7-2" docsrc="Bond_(finance)">
+      <context> In contrast , government bonds are usually issued in an <head>auction</head> . In some cases , both members of the public and banks may bid for bonds . In other cases , only market makers may bid for bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-119-1" docsrc="Bond_(finance)">
+      <context> At the time of issue of the bond , the interest <head>rate</head> and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer . The market price of a bond is the present value of all expected future interest and principal payments of the bond discounted at the bond 's yield to maturity , or rate of return . That relationship is the definition of the redemption yield on the bond , which is likely to be close to the current market interest rate for other bonds with similar characteristics .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-124-2" docsrc="Bond_(finance)">
+      <context> Bond markets can also differ from stock markets in that , <head>in</head> some markets , investors sometimes do not pay brokerage commissions to dealers with whom they buy or sell bonds . Rather , the dealers earn revenue by means of the spread , or difference , between the price at which the dealer buys a bond from one investor—the " bid " price—and the price at which he or she sells the same bond to another investor—the " ask " or " offer " price .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-128-4" docsrc="Bond_(finance)">
+      <context> They buy the bonds to match their liabilities , and may <head>be</head> compelled by law to do this . Most individuals who want to own bonds do so through bond funds . Still , in the U.S. , nearly 10 % of all bonds outstanding are held directly by households .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-33-2" docsrc="Bond_(finance)">
+      <context> The yield to maturity , or redemption yield , which is <head>a</head> more useful measure of the return of the bond . This takes into account the current market price , and the amount and timing of all remaining coupon payments and of the repayment due on maturity . It is equivalent to the internal rate of return of a bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-50-3" docsrc="Bond_(finance)">
+      <context> Some bonds give the holder the right to force the issuer <head>to</head> repay the bond before the maturity date on the put dates ; see put option . These are referred to as retractable or putable bonds . Call dates and put dates—the dates on which callable and putable bonds can be redeemed early .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-11-8-2" docsrc="Bond_(finance)">
+      <context> In the case of an underwritten bond , the underwriters will <head>charge</head> a fee for underwriting . An alternative process for bond issuance , which is commonly used for smaller issues and avoids this cost , is the private placement bond . Bonds sold directly to buyers may not be tradeable in the bond market .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-12-124-3" docsrc="Bond_(finance)">
+      <context> Rather , the dealers earn revenue by means of the spread , <head>or</head> difference , between the price at which the dealer buys a bond from one investor—the " bid " price—and the price at which he or she sells the same bond to another investor—the " ask " or " offer " price . The bid/offer spread represents the total transaction cost associated with transferring a bond from one investor to another .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-12-133-2" docsrc="Bond_(finance)">
+      <context> Bond prices can become volatile depending on the credit rating of the <head>issuer</head> – for instance if the credit rating agencies like Standard &amp; Poor 's and Moody 's upgrade or downgrade the credit rating of the issuer . An unanticipated downgrade will cause the market price of the bond to fall . As with interest rate risk , this risk does not affect the bond 's interest payments ( provided the issuer does not actually default ) , but puts at risk the market price , which affects mutual funds holding these bonds , and holders of individual bonds who may have to sell them .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-12-30-1" docsrc="Bond_(finance)">
+      <context> Coupon === === Yield === The yield is the rate of return <head>received</head> from investing in the bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-13-0-4" docsrc="Bond_(finance)">
+      <context> Interest is usually payable at fixed intervals ( semiannual , annual , sometimes <head>monthly</head> ) . Very often the bond is negotiable , that is , the ownership of the instrument can be transferred in the secondary market . This means that once the transfer agents at the bank medallion stamp the bond , it is highly liquid on the second market .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-13-131-2" docsrc="Bond_(finance)">
+      <context> Bonds are also subject to various other risks such as call and prepayment <head>risk</head> , credit risk , reinvestment risk , liquidity risk , event risk , exchange rate risk , volatility risk , inflation risk , sovereign risk and yield curve risk . Again , some of these will only affect certain classes of investors . Price changes in a bond will immediately affect mutual funds that hold these bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-13-57-2" docsrc="Bond_(finance)">
+      <context> Sinking fund provision of the corporate bond indenture requires a certain portion of <head>the</head> issue to be retired periodically . The entire bond issue can be liquidated by the maturity date ; if not , the remainder is called balloon maturity . Issuers may either pay to trustees , which in turn call randomly selected bonds in the issue , or , alternatively , purchase bonds in open market , then return them to trustees .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-14-20-6" docsrc="Bond_(finance)">
+      <context> Most bonds have a term of up to 30 years . Some bonds have <head>been</head> issued with terms of 50 years or more , and historically there have been some issues with no maturity date ( irredeemable ) . In the market for United States Treasury securities , there are three categories of bond maturities :</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-14-50-1" docsrc="Bond_(finance)">
+      <context> Others === Putability — Some bonds give the holder the right to force the <head>issuer</head> to repay the bond before the maturity date on the put dates ; see put option .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-14-7-1" docsrc="Bond_(finance)">
+      <context> An exception is an irredeemable bond , such as a consol , which is <head>a</head> perpetuity , that is , a bond with no maturity . In contrast , government bonds are usually issued in an auction . In some cases , both members of the public and banks may bid for bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-14-8-3" docsrc="Bond_(finance)">
+      <context> An alternative process for bond issuance , which is commonly used for smaller issues <head>and</head> avoids this cost , is the private placement bond . Bonds sold directly to buyers may not be tradeable in the bond market . Historically an alternative practice of issuance was for the borrowing government authority to issue bonds over a period of time , usually at a fixed price , with volumes sold on a particular day dependent on market conditions .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-15-132-3" docsrc="Bond_(finance)">
+      <context> If the value of the bonds in their trading portfolio falls , the value of <head>the</head> portfolio also falls . This can be damaging for professional investors such as banks , insurance companies , pension funds and asset managers ( irrespective of whether the value is immediately " marked to market " or not ) . If there is any chance a holder of individual bonds may need to sell his bonds and " cash out " , interest rate risk could become a real problem ( conversely , bonds ' market prices would increase if the prevailing interest rate were to drop , as it did from 2001 through 2003 .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-15-7-3" docsrc="Bond_(finance)">
+      <context> In some cases , both members of the public and banks may bid for bonds <head>.</head> In other cases , only market makers may bid for bonds . The overall rate of return on the bond depends on both the terms of the bond and the price paid .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-15-94-1" docsrc="Bond_(finance)">
+      <context> Social impact bonds are an agreement for public sector entities to pay back private investors <head>after</head> meeting verified improved social outcome goals that result in public sector savings from innovative social program pilot projects . === Foreign currencies === Some companies , banks , governments , and other sovereign entities may decide to issue bonds in foreign currencies as it may appear to be more stable and predictable than their domestic currency .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-15-95-4" docsrc="Bond_(finance)">
+      <context> The proceeds from the issuance of these bonds can be used by companies to break <head>into</head> foreign markets , or can be converted into the issuing company 's local currency to be used on existing operations through the use of foreign exchange swap hedges . Foreign issuer bonds can also be used to hedge foreign exchange rate risk . Some foreign issuer bonds are called by their nicknames , such as the " samurai bond " .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-16-141-2" docsrc="Bond_(finance)">
+      <context> A number of bond indices exist for the purposes of managing portfolios and measuring performance , <head>similar</head> to the S&amp;P 500 or Russell Indexes for stocks . The most common American benchmarks are the Barclays Capital Aggregate ( ex Lehman Aggregate ) , Citigroup BIG and Merrill Lynch Domestic Master . Most indices are parts of families of broader indices that can be used to measure global bond portfolios , or may be further subdivided by maturity and/or sector for managing specialized portfolios .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-16-84-2" docsrc="Bond_(finance)">
+      <context> Lottery bonds are issued by European and other states . Interest is paid as on a <head>traditional</head> fixed rate bond , but the issuer will redeem randomly selected individual bonds within the issue according to a schedule . Some of these redemptions will be for a higher value than the face value of the bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-17-103-1" docsrc="Bond_(finance)">
+      <context> Baklava bond , a bond denominated in Turkish Lira and issued by a domestic or foreign entity <head>in</head> the Turkish market Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks . At the time of issue of the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-17-2-3" docsrc="Bond_(finance)">
+      <context> Being a creditor , bondholders have priority over stockholders . This means they will be repaid in <head>advance</head> of stockholders , but will rank behind secured creditors in the event of bankruptcy . Another difference is that bonds usually have a defined term , or maturity , after which the bond is redeemed , whereas stocks are typically outstanding indefinitely .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-18-119-3" docsrc="Bond_(finance)">
+      <context> That relationship is the definition of the redemption yield on the bond , which is likely to be <head>close</head> to the current market interest rate for other bonds with similar characteristics . ( Otherwise there would be arbitrage opportunities . ) The yield and price of a bond are inversely related so that when market interest rates rise , bond prices fall and vice versa .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-18-20-1" docsrc="Bond_(finance)">
+      <context> Maturity === The issuer has to repay the nominal amount on the maturity date . As long as <head>all</head> due payments have been made , the issuer has no further obligations to the bond holders after the maturity date .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-19-58-1" docsrc="Bond_(finance)">
+      <context> Issuers may either pay to trustees , which in turn call randomly selected bonds in the issue , or <head>,</head> alternatively , purchase bonds in open market , then return them to trustees . Bonds are often identified by its international securities identification number , or ISIN , which is a 12 digit alphanumeric code that uniquely identifies debt securities . The following descriptions are not mutually exclusive , and more than one of them may apply to a particular bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-19-84-1" docsrc="Bond_(finance)">
+      <context> Interest income received by holders of municipal bonds is often exempt from the federal income tax and from the <head>income</head> tax of the state in which they are issued , although municipal bonds issued for certain purposes may not be tax exempt . Lottery bonds are issued by European and other states . Interest is paid as on a traditional fixed rate bond , but the issuer will redeem randomly selected individual bonds within the issue according to a schedule .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-19-90-1" docsrc="Bond_(finance)">
+      <context> Dual currency bonds Retail bonds are a type of corporate bond mostly designed for ordinary investors . They have <head>become</head> particularly attractive since the London Stock Exchange ( LSE ) launched an order book for retail bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-19-95-6" docsrc="Bond_(finance)">
+      <context> Some foreign issuer bonds are called by their nicknames , such as the " samurai bond " . These <head>can</head> be issued by foreign issuers looking to diversify their investor base away from domestic markets . These bond issues are generally governed by the law of the market of issuance , e.g. , a samurai bond , issued by an investor based in Europe , will be governed by Japanese law .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-120-1" docsrc="Bond_(finance)">
+      <context> The yield <head>and</head> price of a bond are inversely related so that when market interest rates rise , bond prices fall and vice versa . The market price of a bond may be quoted including the accrued interest since the last coupon date . ( Some bond markets include accrued interest in the trading price and others add it on separately when settlement is made . )</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-16-1" docsrc="Bond_(finance)">
+      <context> === Principal <head>===</head> Nominal , principal , par , or face amount is the amount on which the issuer pays interest , and which , most commonly , has to be repaid at the end of the term . Some structured bonds can have a redemption amount which is different from the face amount and can be linked to performance of particular assets .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-57-1" docsrc="Bond_(finance)">
+      <context> This is <head>also</head> known as a " survivor 's option " . Sinking fund provision of the corporate bond indenture requires a certain portion of the issue to be retired periodically . The entire bond issue can be liquidated by the maturity date ; if not , the remainder is called balloon maturity .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-86-2" docsrc="Bond_(finance)">
+      <context> Serial bond <head>is</head> a bond that matures in installments over a period of time . In effect , a $ 100,000 , 5-year serial bond would mature in a $ 20,000 annuity over a 5-year interval . Dual currency bonds</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-90-2" docsrc="Bond_(finance)">
+      <context> Retail bonds <head>are</head> a type of corporate bond mostly designed for ordinary investors . They have become particularly attractive since the London Stock Exchange ( LSE ) launched an order book for retail bonds . Social impact bonds are an agreement for public sector entities to pay back private investors after meeting verified improved social outcome goals that result in public sector savings from innovative social program pilot projects .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-2-95-3" docsrc="Bond_(finance)">
+      <context> Issuing bonds <head>denominated</head> in foreign currencies also gives issuers the ability to access investment capital available in foreign markets . The proceeds from the issuance of these bonds can be used by companies to break into foreign markets , or can be converted into the issuing company 's local currency to be used on existing operations through the use of foreign exchange swap hedges . Foreign issuer bonds can also be used to hedge foreign exchange rate risk .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-20-117-1" docsrc="Bond_(finance)">
+      <context> Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks . At <head>the</head> time of issue of the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer . The market price of a bond is the present value of all expected future interest and principal payments of the bond discounted at the bond 's yield to maturity , or rate of return .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-20-32-1" docsrc="Bond_(finance)">
+      <context> It usually refers either to The current yield , or running yield , which is simply the annual interest payment <head>divided</head> by the current market price of the bond ( often the clean price ) . The yield to maturity , or redemption yield , which is a more useful measure of the return of the bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-21-2-4" docsrc="Bond_(finance)">
+      <context> This means they will be repaid in advance of stockholders , but will rank behind secured creditors in the event of <head>bankruptcy</head> . Another difference is that bonds usually have a defined term , or maturity , after which the bond is redeemed , whereas stocks are typically outstanding indefinitely . An exception is an irredeemable bond , such as a consol , which is a perpetuity , that is , a bond with no maturity .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-21-20-2" docsrc="Bond_(finance)">
+      <context> The issuer has to repay the nominal amount on the maturity date . As long as all due payments have been <head>made</head> , the issuer has no further obligations to the bond holders after the maturity date . The length of time until the maturity date is often referred to as the term or tenor or maturity of a bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-22-135-2" docsrc="Bond_(finance)">
+      <context> There is no guarantee of how much money will remain to repay bondholders . As an example , after an accounting scandal <head>and</head> a Chapter 11 bankruptcy at the giant telecommunications company Worldcom , in 2004 its bondholders ended up being paid 35.7 cents on the dollar . In a bankruptcy involving reorganization or recapitalization , as opposed to liquidation , bondholders may end up having the value of their bonds reduced , often through an exchange for a smaller number of newly issued bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-23-0-1" docsrc="Bond_(finance)">
+      <context> In finance , a bond is an instrument of indebtedness of the bond issuer to the holders . It is a debt security <head>,</head> under which the issuer owes the holders a debt and , depending on the terms of the bond , is obliged to pay them interest ( the coupon ) and/or to repay the principal at a later date , termed the maturity date .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-23-31-2" docsrc="Bond_(finance)">
+      <context> The yield is the rate of return received from investing in the bond . It usually refers either to The current yield , <head>or</head> running yield , which is simply the annual interest payment divided by the current market price of the bond ( often the clean price ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-23-57-2" docsrc="Bond_(finance)">
+      <context> Sinking fund provision of the corporate bond indenture requires a certain portion of the issue to be retired periodically . The entire bond <head>issue</head> can be liquidated by the maturity date ; if not , the remainder is called balloon maturity . Issuers may either pay to trustees , which in turn call randomly selected bonds in the issue , or , alternatively , purchase bonds in open market , then return them to trustees .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-23-8-1" docsrc="Bond_(finance)">
+      <context> The terms of the bond , such as the coupon , are fixed in advance and the price is determined by the market <head>.</head> In the case of an underwritten bond , the underwriters will charge a fee for underwriting . An alternative process for bond issuance , which is commonly used for smaller issues and avoids this cost , is the private placement bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-24-117-1" docsrc="Bond_(finance)">
+      <context> Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks . At the time of issue <head>of</head> the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer . The market price of a bond is the present value of all expected future interest and principal payments of the bond discounted at the bond 's yield to maturity , or rate of return .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-24-124-1" docsrc="Bond_(finance)">
+      <context> The yield curve is a graph plotting this relationship . Bond markets can also differ from stock markets in that , in some markets <head>,</head> investors sometimes do not pay brokerage commissions to dealers with whom they buy or sell bonds . Rather , the dealers earn revenue by means of the spread , or difference , between the price at which the dealer buys a bond from one investor—the " bid "</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-27-119-1" docsrc="Bond_(finance)">
+      <context> At the time of issue of the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors <head>,</head> such as current market interest rates , the length of the term and the creditworthiness of the issuer . The market price of a bond is the present value of all expected future interest and principal payments of the bond discounted at the bond 's yield to maturity , or rate of return . That relationship is the definition of the redemption yield on the bond , which is likely to be close to the current market interest rate for other bonds with similar characteristics .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-28-20-3" docsrc="Bond_(finance)">
+      <context> As long as all due payments have been made , the issuer has no further obligations to the bond holders after the maturity date . The length of <head>time</head> until the maturity date is often referred to as the term or tenor or maturity of a bond . The maturity can be any length of time , although debt securities with a term of less than one year are generally designated money market instruments rather than bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-28-54-1" docsrc="Bond_(finance)">
+      <context> This is a special case of a Bermudan callable . An American callable can be called at any time until the maturity date . A death put is <head>an</head> optional redemption feature on a debt instrument allowing the beneficiary of the estate of a deceased bondholder to put ( sell ) the bond back to the issuer at face value in the event of the bondholder 's death or legal incapacitation .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-29-121-2" docsrc="Bond_(finance)">
+      <context> The interest rate divided by the current price of the bond is called the current yield ( this is the nominal yield multiplied by the par value and divided <head>by</head> the price ) . There are other yield measures that exist such as the yield to first call , yield to worst , yield to first par call , yield to put , cash flow yield and yield to maturity . The relationship between yield and term to maturity ( or alternatively between yield and the weighted mean term allowing for both interest and capital repayment ) for otherwise identical bonds is called a yield curve .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-0-3" docsrc="Bond_(finance)">
+      <context> It is a <head>debt</head> security , under which the issuer owes the holders a debt and , depending on the terms of the bond , is obliged to pay them interest ( the coupon ) and/or to repay the principal at a later date , termed the maturity date . Interest is usually payable at fixed intervals ( semiannual , annual , sometimes monthly ) . Very often the bond is negotiable , that is , the ownership of the instrument can be transferred in the secondary market .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-128-2" docsrc="Bond_(finance)">
+      <context> Bonds are bought <head>and</head> traded mostly by institutions like central banks , sovereign wealth funds , pension funds , insurance companies , hedge funds , and banks . Insurance companies and pension funds have liabilities which essentially include fixed amounts payable on predetermined dates . They buy the bonds to match their liabilities , and may be compelled by law to do this .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-139-1" docsrc="Bond_(finance)">
+      <context> This creates reinvestment <head>risk</head> , meaning the investor is forced to find a new place for his money , and the investor might not be able to find as good a deal , especially because this usually happens when interest rates are falling . === Bond indices === A number of bond indices exist for the purposes of managing portfolios and measuring performance , similar to the S&amp;P 500 or Russell Indexes for stocks .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-22-1" docsrc="Bond_(finance)">
+      <context> short term ( <head>bills</head> ) : maturities between one to five year ; ( instruments with maturities less than one year are called Money Market Instruments ) medium term ( notes ) : maturities between six to twelve years ; long term ( bonds ) : maturities greater than twelve years .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-85-1" docsrc="Bond_(finance)">
+      <context> Some of these <head>redemptions</head> will be for a higher value than the face value of the bond . War bond is a bond issued by a government to fund military operations during war time . This type of bond has low return rate .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-3-95-4" docsrc="Bond_(finance)">
+      <context> The proceeds from <head>the</head> issuance of these bonds can be used by companies to break into foreign markets , or can be converted into the issuing company 's local currency to be used on existing operations through the use of foreign exchange swap hedges . Foreign issuer bonds can also be used to hedge foreign exchange rate risk . Some foreign issuer bonds are called by their nicknames , such as the " samurai bond " .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-30-122-2" docsrc="Bond_(finance)">
+      <context> The relationship between yield and term to maturity ( or alternatively between yield and the weighted mean term allowing for both interest and capital repayment ) for otherwise identical bonds <head>is</head> called a yield curve . The yield curve is a graph plotting this relationship . Bond markets can also differ from stock markets in that , in some markets , investors sometimes do not pay brokerage commissions to dealers with whom they buy or sell bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-32-81-1" docsrc="Bond_(finance)">
+      <context> Interest payments , and the principal upon maturity are sent to the registered owner . Municipal bond is a bond issued by a state , U.S. Territory , city , local government <head>,</head> or their agencies . Interest income received by holders of municipal bonds is often exempt from the federal income tax and from the income tax of the state in which they are issued , although municipal bonds issued for certain purposes may not be tax exempt .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-33-132-3" docsrc="Bond_(finance)">
+      <context> If the value of the bonds in their trading portfolio falls , the value of the portfolio also falls . This can be damaging for professional investors such as banks , insurance companies <head>,</head> pension funds and asset managers ( irrespective of whether the value is immediately " marked to market " or not ) . If there is any chance a holder of individual bonds may need to sell his bonds and " cash out " , interest rate risk could become a real problem ( conversely , bonds ' market prices would increase if the prevailing interest rate were to drop , as it did from 2001 through 2003 .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-35-40-1" docsrc="Bond_(finance)">
+      <context> === Credit quality === === Market price === The market price of a tradeable bond will be influenced , amongst other factors , by the amounts , currency and timing of the interest payments and <head>capital</head> repayment due , the quality of the bond , and the available redemption yield of other comparable bonds which can be traded in the markets .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-36-135-2" docsrc="Bond_(finance)">
+      <context> There is no guarantee of how much money will remain to repay bondholders . As an example , after an accounting scandal and a Chapter 11 bankruptcy at the giant telecommunications company Worldcom , in 2004 <head>its</head> bondholders ended up being paid 35.7 cents on the dollar . In a bankruptcy involving reorganization or recapitalization , as opposed to liquidation , bondholders may end up having the value of their bonds reduced , often through an exchange for a smaller number of newly issued bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-36-135-3" docsrc="Bond_(finance)">
+      <context> As an example , after an accounting scandal and a Chapter 11 bankruptcy at the giant telecommunications company Worldcom , in 2004 its bondholders ended up being paid 35.7 cents on the dollar . In a <head>bankruptcy</head> involving reorganization or recapitalization , as opposed to liquidation , bondholders may end up having the value of their bonds reduced , often through an exchange for a smaller number of newly issued bonds . Some bonds are callable , meaning that even though the company has agreed to make payments plus interest towards the debt for a certain period of time , the company can choose to pay off the bond early .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-120-3" docsrc="Bond_(finance)">
+      <context> ( Some bond markets <head>include</head> accrued interest in the trading price and others add it on separately when settlement is made . ) The price including accrued interest is known as the " full " or " dirty price " . ( See also Accrual bond . )</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-131-2" docsrc="Bond_(finance)">
+      <context> Bonds are also subject <head>to</head> various other risks such as call and prepayment risk , credit risk , reinvestment risk , liquidity risk , event risk , exchange rate risk , volatility risk , inflation risk , sovereign risk and yield curve risk . Again , some of these will only affect certain classes of investors . Price changes in a bond will immediately affect mutual funds that hold these bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-153-1" docsrc="Bond_(finance)">
+      <context> Bonds links at DMOZ <head>Estate</head> planner victimized terminally ill , FBI List of World Government Bonds on Investing.com</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-2-3" docsrc="Bond_(finance)">
+      <context> Being a creditor , <head>bondholders</head> have priority over stockholders . This means they will be repaid in advance of stockholders , but will rank behind secured creditors in the event of bankruptcy . Another difference is that bonds usually have a defined term , or maturity , after which the bond is redeemed , whereas stocks are typically outstanding indefinitely .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-2-5" docsrc="Bond_(finance)">
+      <context> Another difference is that <head>bonds</head> usually have a defined term , or maturity , after which the bond is redeemed , whereas stocks are typically outstanding indefinitely . An exception is an irredeemable bond , such as a consol , which is a perpetuity , that is , a bond with no maturity . In contrast , government bonds are usually issued in an auction .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-69-1" docsrc="Bond_(finance)">
+      <context> These are known as <head>hybrid</head> securities , because they combine equity and debt features . Exchangeable bonds allows for exchange to shares of a corporation other than the issuer . Registered bond is a bond whose ownership ( and any subsequent purchaser ) is recorded by the issuer , or by a transfer agent .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-7-4" docsrc="Bond_(finance)">
+      <context> In other cases , <head>only</head> market makers may bid for bonds . The overall rate of return on the bond depends on both the terms of the bond and the price paid . The terms of the bond , such as the coupon , are fixed in advance and the price is determined by the market .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-78-3" docsrc="Bond_(finance)">
+      <context> It is the alternative <head>to</head> a Bearer bond . Interest payments , and the principal upon maturity are sent to the registered owner . Municipal bond is a bond issued by a state , U.S. Territory , city , local government , or their agencies .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-8-1" docsrc="Bond_(finance)">
+      <context> The terms of the <head>bond</head> , such as the coupon , are fixed in advance and the price is determined by the market . In the case of an underwritten bond , the underwriters will charge a fee for underwriting . An alternative process for bond issuance , which is commonly used for smaller issues and avoids this cost , is the private placement bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-84-3" docsrc="Bond_(finance)">
+      <context> Interest is paid as <head>on</head> a traditional fixed rate bond , but the issuer will redeem randomly selected individual bonds within the issue according to a schedule . Some of these redemptions will be for a higher value than the face value of the bond . War bond is a bond issued by a government to fund military operations during war time .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-85-2" docsrc="Bond_(finance)">
+      <context> War bond is a <head>bond</head> issued by a government to fund military operations during war time . This type of bond has low return rate . Serial bond is a bond that matures in installments over a period of time .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-4-95-8" docsrc="Bond_(finance)">
+      <context> These bond issues are <head>generally</head> governed by the law of the market of issuance , e.g. , a samurai bond , issued by an investor based in Europe , will be governed by Japanese law . Not all of the following bonds are restricted for purchase by investors in the market of issuance . Baklava bond , a bond denominated in Turkish Lira and issued by a domestic or foreign entity in the Turkish market</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-40-133-2" docsrc="Bond_(finance)">
+      <context> Bond prices can become volatile depending on the credit rating of the issuer – for instance if the credit rating agencies like Standard &amp; Poor 's and Moody 's upgrade or downgrade the credit rating of the issuer . An <head>unanticipated</head> downgrade will cause the market price of the bond to fall . As with interest rate risk , this risk does not affect the bond 's interest payments ( provided the issuer does not actually default ) , but puts at risk the market price , which affects mutual funds holding these bonds , and holders of individual bonds who may have to sell them .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-45-40-1" docsrc="Bond_(finance)">
+      <context> === Credit quality === === Market price === The market price of a tradeable bond will be influenced , amongst other factors , by the amounts , currency and timing of the interest payments and capital repayment due , the quality of the bond , <head>and</head> the available redemption yield of other comparable bonds which can be traded in the markets .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-46-133-2" docsrc="Bond_(finance)">
+      <context> Bond prices can become volatile depending on the credit rating of the issuer – for instance if the credit rating agencies like Standard &amp; Poor 's and Moody 's upgrade or downgrade the credit rating of the issuer . An unanticipated downgrade will cause the market <head>price</head> of the bond to fall . As with interest rate risk , this risk does not affect the bond 's interest payments ( provided the issuer does not actually default ) , but puts at risk the market price , which affects mutual funds holding these bonds , and holders of individual bonds who may have to sell them .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-117-1" docsrc="Bond_(finance)">
+      <context> Shibosai Bond , a private <head>placement</head> bond in the Japanese market with distribution limited to institutions and banks . At the time of issue of the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer . The market price of a bond is the present value of all expected future interest and principal payments of the bond discounted at the bond 's yield to maturity , or rate of return .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-119-4" docsrc="Bond_(finance)">
+      <context> ( Otherwise there would be <head>arbitrage</head> opportunities . ) The yield and price of a bond are inversely related so that when market interest rates rise , bond prices fall and vice versa . The market price of a bond may be quoted including the accrued interest since the last coupon date .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-132-1" docsrc="Bond_(finance)">
+      <context> Again , some of these <head>will</head> only affect certain classes of investors . Price changes in a bond will immediately affect mutual funds that hold these bonds . If the value of the bonds in their trading portfolio falls , the value of the portfolio also falls .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-2-4" docsrc="Bond_(finance)">
+      <context> This means they will be <head>repaid</head> in advance of stockholders , but will rank behind secured creditors in the event of bankruptcy . Another difference is that bonds usually have a defined term , or maturity , after which the bond is redeemed , whereas stocks are typically outstanding indefinitely . An exception is an irredeemable bond , such as a consol , which is a perpetuity , that is , a bond with no maturity .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-43-2" docsrc="Bond_(finance)">
+      <context> The issue price at which <head>investors</head> buy the bonds when they are first issued will typically be approximately equal to the nominal amount . The net proceeds that the issuer receives are thus the issue price , less issuance fees . The market price of the bond will vary over its life : it may trade at a premium ( above par , usually because market interest rates have fallen since issue ) , or at a discount ( price below par , if market rates have risen or there is a high probability of default on the bond ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-5-95-7" docsrc="Bond_(finance)">
+      <context> These can be issued by <head>foreign</head> issuers looking to diversify their investor base away from domestic markets . These bond issues are generally governed by the law of the market of issuance , e.g. , a samurai bond , issued by an investor based in Europe , will be governed by Japanese law . Not all of the following bonds are restricted for purchase by investors in the market of issuance .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-57-43-2" docsrc="Bond_(finance)">
+      <context> The issue price at which investors buy the bonds when they are first issued will typically be approximately equal to the nominal amount . The net proceeds that the issuer receives are thus the issue price , less issuance fees . The market price of the bond will vary over its life : it may trade at <head>a</head> premium ( above par , usually because market interest rates have fallen since issue ) , or at a discount ( price below par , if market rates have risen or there is a high probability of default on the bond ) .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-119-3" docsrc="Bond_(finance)">
+      <context> That relationship is the definition of <head>the</head> redemption yield on the bond , which is likely to be close to the current market interest rate for other bonds with similar characteristics . ( Otherwise there would be arbitrage opportunities . ) The yield and price of a bond are inversely related so that when market interest rates rise , bond prices fall and vice versa .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-128-3" docsrc="Bond_(finance)">
+      <context> Insurance companies and pension funds have <head>liabilities</head> which essentially include fixed amounts payable on predetermined dates . They buy the bonds to match their liabilities , and may be compelled by law to do this . Most individuals who want to own bonds do so through bond funds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-40-1" docsrc="Bond_(finance)">
+      <context> === Credit quality === === Market <head>price</head> === The market price of a tradeable bond will be influenced , amongst other factors , by the amounts , currency and timing of the interest payments and capital repayment due , the quality of the bond , and the available redemption yield of other comparable bonds which can be traded in the markets .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-55-2" docsrc="Bond_(finance)">
+      <context> A death put is an optional <head>redemption</head> feature on a debt instrument allowing the beneficiary of the estate of a deceased bondholder to put ( sell ) the bond back to the issuer at face value in the event of the bondholder 's death or legal incapacitation . This is also known as a " survivor 's option " . Sinking fund provision of the corporate bond indenture requires a certain portion of the issue to be retired periodically .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-7-5" docsrc="Bond_(finance)">
+      <context> The overall rate of return on <head>the</head> bond depends on both the terms of the bond and the price paid . The terms of the bond , such as the coupon , are fixed in advance and the price is determined by the market . In the case of an underwritten bond , the underwriters will charge a fee for underwriting .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-6-97-1" docsrc="Bond_(finance)">
+      <context> Not all of the following bonds <head>are</head> restricted for purchase by investors in the market of issuance . Baklava bond , a bond denominated in Turkish Lira and issued by a domestic or foreign entity in the Turkish market Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-103-1" docsrc="Bond_(finance)">
+      <context> Baklava bond , a bond denominated in <head>Turkish</head> Lira and issued by a domestic or foreign entity in the Turkish market Shibosai Bond , a private placement bond in the Japanese market with distribution limited to institutions and banks . At the time of issue of the bond , the interest rate and other conditions of the bond will have been influenced by a variety of factors , such as current market interest rates , the length of the term and the creditworthiness of the issuer .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-63-1" docsrc="Bond_(finance)">
+      <context> Bonds are often identified by its international <head>securities</head> identification number , or ISIN , which is a 12 digit alphanumeric code that uniquely identifies debt securities . The following descriptions are not mutually exclusive , and more than one of them may apply to a particular bond . Convertible bonds let a bondholder exchange a bond to a number of shares of the issuer 's common stock .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-7-3" docsrc="Bond_(finance)">
+      <context> In some cases , both members of <head>the</head> public and banks may bid for bonds . In other cases , only market makers may bid for bonds . The overall rate of return on the bond depends on both the terms of the bond and the price paid .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-78-1" docsrc="Bond_(finance)">
+      <context> Exchangeable bonds allows for exchange to shares <head>of</head> a corporation other than the issuer . Registered bond is a bond whose ownership ( and any subsequent purchaser ) is recorded by the issuer , or by a transfer agent . It is the alternative to a Bearer bond .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-81-1" docsrc="Bond_(finance)">
+      <context> Interest payments , and the principal upon <head>maturity</head> are sent to the registered owner . Municipal bond is a bond issued by a state , U.S. Territory , city , local government , or their agencies . Interest income received by holders of municipal bonds is often exempt from the federal income tax and from the income tax of the state in which they are issued , although municipal bonds issued for certain purposes may not be tax exempt .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-89-1" docsrc="Bond_(finance)">
+      <context> In effect , a $ 100,000 , <head>5-year</head> serial bond would mature in a $ 20,000 annuity over a 5-year interval . Dual currency bonds Retail bonds are a type of corporate bond mostly designed for ordinary investors .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-9-1" docsrc="Bond_(finance)">
+      <context> Bonds sold directly to buyers may not <head>be</head> tradeable in the bond market . Historically an alternative practice of issuance was for the borrowing government authority to issue bonds over a period of time , usually at a fixed price , with volumes sold on a particular day dependent on market conditions . This was called a tap issue or bond tap .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-7-95-2" docsrc="Bond_(finance)">
+      <context> Some companies , banks , governments , <head>and</head> other sovereign entities may decide to issue bonds in foreign currencies as it may appear to be more stable and predictable than their domestic currency . Issuing bonds denominated in foreign currencies also gives issuers the ability to access investment capital available in foreign markets . The proceeds from the issuance of these bonds can be used by companies to break into foreign markets , or can be converted into the issuing company 's local currency to be used on existing operations through the use of foreign exchange swap hedges .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-8-42-2" docsrc="Bond_(finance)">
+      <context> The price can be quoted as clean or <head>dirty</head> . " Dirty " includes the present value of all future cash flows , including accrued interest , and is most often used in Europe . " Clean " does not include accrued interest , and is most often used in the U.S. The issue price at which investors buy the bonds when they are first issued will typically be approximately equal to the nominal amount .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-8-50-2" docsrc="Bond_(finance)">
+      <context> Putability — Some bonds give the holder the <head>right</head> to force the issuer to repay the bond before the maturity date on the put dates ; see put option . These are referred to as retractable or putable bonds .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-9-132-3" docsrc="Bond_(finance)">
+      <context> If the value of the bonds in their trading <head>portfolio</head> falls , the value of the portfolio also falls . This can be damaging for professional investors such as banks , insurance companies , pension funds and asset managers ( irrespective of whether the value is immediately " marked to market " or not ) . If there is any chance a holder of individual bonds may need to sell his bonds and " cash out " , interest rate risk could become a real problem ( conversely , bonds ' market prices would increase if the prevailing interest rate were to drop , as it did from 2001 through 2003 .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-9-84-1" docsrc="Bond_(finance)">
+      <context> Interest income received by holders of municipal bonds is <head>often</head> exempt from the federal income tax and from the income tax of the state in which they are issued , although municipal bonds issued for certain purposes may not be tax exempt . Lottery bonds are issued by European and other states . Interest is paid as on a traditional fixed rate bond , but the issuer will redeem randomly selected individual bonds within the issue according to a schedule .</context>
+    </instance>
+    <instance id="Bond_(finance)-bond-9-86-1" docsrc="Bond_(finance)">
+      <context> This type of bond has low return rate . <head>Serial</head> bond is a bond that matures in installments over a period of time . In effect , a $ 100,000 , 5-year serial bond would mature in a $ 20,000 annuity over a 5-year interval .</context>
+    </instance>
+    <instance id="Bond_market-bond-0-12-1" docsrc="Bond_market">
+      <context> <head>Municipal</head> Funding Bond market participants are similar to participants in most financial markets and are essentially either buyers ( debt issuer ) of funds or sellers ( institution ) of funds and often both .</context>
+    </instance>
+    <instance id="Bond_market-bond-0-46-3" docsrc="Bond_market">
+      <context> <head>But</head> now I would like to come back as the bond market . You can intimidate everybody . Bonds typically trade in $ 1,000 increments and are priced as a percentage of par value ( 100 % ) .</context>
+    </instance>
+    <instance id="Bond_market-bond-0-52-2" docsrc="Bond_market">
+      <context> <head>Because</head> most bonds have predictable income , they are typically purchased as part of a more conservative investment scheme . Nevertheless , investors have the ability to actively trade bonds , especially corporate bonds and municipal bonds with the market and can make or lose money depending on economic , interest rate , and issuer factors . Bond interest is taxed as ordinary income , in contrast to dividend income , which receives favorable taxation rates .</context>
+    </instance>
+    <instance id="Bond_market-bond-1-26-1" docsrc="Bond_market">
+      <context> In <head>the</head> United States , approximately 10 % of the market is held by private individuals . Amounts outstanding on the global bond market increased by 2 % in the twelve months to March 2012 to nearly $ 100 trillion . Domestic bonds accounted for 70 % of the total and international bonds for the remainder .</context>
+    </instance>
+    <instance id="Bond_market-bond-1-3-1" docsrc="Bond_market">
+      <context> This <head>is</head> usually in the form of bonds , but it may include notes , bills , and so on . An important part of the bond market is the government bond market , because of its size and liquidity . Government bonds are often used to compare other bonds to measure credit risk .</context>
+    </instance>
+    <instance id="Bond_market-bond-1-50-1" docsrc="Bond_market">
+      <context> You <head>can</head> intimidate everybody . Bonds typically trade in $ 1,000 increments and are priced as a percentage of par value ( 100 % ) . Many bonds have minimums imposed by the bond or the dealer .</context>
+    </instance>
+    <instance id="Bond_market-bond-10-0-2" docsrc="Bond_market">
+      <context> The bond market ( also debt market or credit market <head>)</head> is a financial market where participants can issue new debt , known as the primary market , or buy and sell debt securities , known as the secondary market . This is usually in the form of bonds , but it may include notes , bills , and so on . An important part of the bond market is the government bond market , because of its size and liquidity .</context>
+    </instance>
+    <instance id="Bond_market-bond-10-39-3" docsrc="Bond_market">
+      <context> When interest rates increase , the value of existing bonds <head>falls</head> , since new issues pay a higher yield . Likewise , when interest rates decrease , the value of existing bonds rises , since new issues pay a lower yield . This is the fundamental concept of bond market volatility—changes in bond prices are inverse to changes in interest rates .</context>
+    </instance>
+    <instance id="Bond_market-bond-10-46-1" docsrc="Bond_market">
+      <context> Fluctuating interest rates are part of a country 's monetary <head>policy</head> and bond market volatility is a response to expected monetary policy and economic changes . I used to think that if there was reincarnation , I wanted to come back as the president or the pope or as a .400 baseball hitter . But now I would like to come back as the bond market .</context>
+    </instance>
+    <instance id="Bond_market-bond-10-59-1" docsrc="Bond_market">
+      <context> However many government and municipal bonds are exempt from one <head>or</head> more types of taxation . A number of bond indices exist for the purposes of managing portfolios and measuring performance , similar to the S&amp;P 500 or Russell Indexes for stocks . The most common American benchmarks are the Barclays Capital Aggregate Bond Index , Citigroup BIG and Merrill Lynch Domestic Master .</context>
+    </instance>
+    <instance id="Bond_market-bond-11-26-1" docsrc="Bond_market">
+      <context> In the United States , approximately 10 % of the market <head>is</head> held by private individuals . Amounts outstanding on the global bond market increased by 2 % in the twelve months to March 2012 to nearly $ 100 trillion . Domestic bonds accounted for 70 % of the total and international bonds for the remainder .</context>
+    </instance>
+    <instance id="Bond_market-bond-11-39-2" docsrc="Bond_market">
+      <context> But participants who buy and sell bonds before maturity are exposed <head>to</head> many risks , most importantly changes in interest rates . When interest rates increase , the value of existing bonds falls , since new issues pay a higher yield . Likewise , when interest rates decrease , the value of existing bonds rises , since new issues pay a lower yield .</context>
+    </instance>
+    <instance id="Bond_market-bond-12-39-4" docsrc="Bond_market">
+      <context> Likewise , when interest rates decrease , the value of existing bonds <head>rises</head> , since new issues pay a lower yield . This is the fundamental concept of bond market volatility—changes in bond prices are inverse to changes in interest rates . Fluctuating interest rates are part of a country 's monetary policy and bond market volatility is a response to expected monetary policy and economic changes .</context>
+    </instance>
+    <instance id="Bond_market-bond-13-3-2" docsrc="Bond_market">
+      <context> An important part of the bond market is the government bond market , <head>because</head> of its size and liquidity . Government bonds are often used to compare other bonds to measure credit risk . Because of the inverse relationship between bond valuation and interest rates , the bond market is often used to indicate changes in interest rates or the shape of the yield curve , the measure of " cost of funding " .</context>
+    </instance>
+    <instance id="Bond_market-bond-13-3-3" docsrc="Bond_market">
+      <context> Government bonds are often used to compare other bonds to measure credit risk <head>.</head> Because of the inverse relationship between bond valuation and interest rates , the bond market is often used to indicate changes in interest rates or the shape of the yield curve , the measure of " cost of funding " . The Securities Industry and Financial Markets Association ( SIFMA ) classifies the broader bond market into five specific bond markets .</context>
+    </instance>
+    <instance id="Bond_market-bond-13-52-1" docsrc="Bond_market">
+      <context> For broker/dealers , however , anything smaller than a $ 100,000 trade is <head>viewed</head> as an " odd lot " . Because most bonds have predictable income , they are typically purchased as part of a more conservative investment scheme . Nevertheless , investors have the ability to actively trade bonds , especially corporate bonds and municipal bonds with the market and can make or lose money depending on economic , interest rate , and issuer factors .</context>
+    </instance>
+    <instance id="Bond_market-bond-16-52-1" docsrc="Bond_market">
+      <context> For broker/dealers , however , anything smaller than a $ 100,000 trade is viewed as an <head>"</head> odd lot " . Because most bonds have predictable income , they are typically purchased as part of a more conservative investment scheme . Nevertheless , investors have the ability to actively trade bonds , especially corporate bonds and municipal bonds with the market and can make or lose money depending on economic , interest rate , and issuer factors .</context>
+    </instance>
+    <instance id="Bond_market-bond-16-59-2" docsrc="Bond_market">
+      <context> A number of bond indices exist for the purposes of managing portfolios and measuring performance , <head>similar</head> to the S&amp;P 500 or Russell Indexes for stocks . The most common American benchmarks are the Barclays Capital Aggregate Bond Index , Citigroup BIG and Merrill Lynch Domestic Master . Most indices are parts of families of broader indices that can be used to measure global bond portfolios , or may be further subdivided by maturity or sector for managing specialized portfolios .</context>
+    </instance>
+    <instance id="Bond_market-bond-16-59-3" docsrc="Bond_market">
+      <context> The most common American benchmarks are the Barclays Capital Aggregate Bond Index , Citigroup BIG and <head>Merrill</head> Lynch Domestic Master . Most indices are parts of families of broader indices that can be used to measure global bond portfolios , or may be further subdivided by maturity or sector for managing specialized portfolios .</context>
+    </instance>
+    <instance id="Bond_market-bond-18-3-3" docsrc="Bond_market">
+      <context> Government bonds are often used to compare other bonds to measure credit risk . Because of the inverse <head>relationship</head> between bond valuation and interest rates , the bond market is often used to indicate changes in interest rates or the shape of the yield curve , the measure of " cost of funding " . The Securities Industry and Financial Markets Association ( SIFMA ) classifies the broader bond market into five specific bond markets .</context>
+    </instance>
+    <instance id="Bond_market-bond-2-27-4" docsrc="Bond_market">
+      <context> The first <head>half</head> of 2012 was off to a strong start with issuance of over $ 800 billion . The United States was the leading center in terms of value outstanding with 24 % of the total followed by the UK 13 % . === U.S. bond market size ===</context>
+    </instance>
+    <instance id="Bond_market-bond-2-50-4" docsrc="Bond_market">
+      <context> Typical sizes <head>offered</head> are increments of $ 10,000 . For broker/dealers , however , anything smaller than a $ 100,000 trade is viewed as an " odd lot " . Because most bonds have predictable income , they are typically purchased as part of a more conservative investment scheme .</context>
+    </instance>
+    <instance id="Bond_market-bond-20-30-1" docsrc="Bond_market">
+      <context> The United States was the leading center in terms of value outstanding with 24 % of the total followed by <head>the</head> UK 13 % . === U.S. bond market size === According to the Securities Industry and Financial Markets Association ( SIFMA ) , as of Q4 2013 , the U.S. bond market size is ( in billions ) :</context>
+    </instance>
+    <instance id="Bond_market-bond-23-21-1" docsrc="Bond_market">
+      <context> Traders Individuals Because of the specificity of individual bond issues , and the lack of liquidity in many smaller issues , the majority <head>of</head> outstanding bonds are held by institutions like pension funds , banks and mutual funds .</context>
+    </instance>
+    <instance id="Bond_market-bond-3-53-2" docsrc="Bond_market">
+      <context> Bond interest is <head>taxed</head> as ordinary income , in contrast to dividend income , which receives favorable taxation rates . However many government and municipal bonds are exempt from one or more types of taxation . A number of bond indices exist for the purposes of managing portfolios and measuring performance , similar to the S&amp;P 500 or Russell Indexes for stocks .</context>
+    </instance>
+    <instance id="Bond_market-bond-5-0-2" docsrc="Bond_market">
+      <context> The bond market ( also <head>debt</head> market or credit market ) is a financial market where participants can issue new debt , known as the primary market , or buy and sell debt securities , known as the secondary market . This is usually in the form of bonds , but it may include notes , bills , and so on . An important part of the bond market is the government bond market , because of its size and liquidity .</context>
+    </instance>
+    <instance id="Bond_market-bond-5-22-2" docsrc="Bond_market">
+      <context> Because of the specificity of <head>individual</head> bond issues , and the lack of liquidity in many smaller issues , the majority of outstanding bonds are held by institutions like pension funds , banks and mutual funds . In the United States , approximately 10 % of the market is held by private individuals . Amounts outstanding on the global bond market increased by 2 % in the twelve months to March 2012 to nearly $ 100 trillion .</context>
+    </instance>
+    <instance id="Bond_market-bond-5-26-6" docsrc="Bond_market">
+      <context> The considerable growth means that <head>in</head> March 2012 it was much larger than the global equity market which had a market capitalisation of around $ 53 trillion . Growth of the market since the start of the economic slowdown was largely a result of an increase in issuance by governments . The outstanding value of international bonds increased by 2 % in 2011 to $ 30 trillion .</context>
+    </instance>
+    <instance id="Bond_market-bond-5-53-1" docsrc="Bond_market">
+      <context> Nevertheless , investors have the <head>ability</head> to actively trade bonds , especially corporate bonds and municipal bonds with the market and can make or lose money depending on economic , interest rate , and issuer factors . Bond interest is taxed as ordinary income , in contrast to dividend income , which receives favorable taxation rates . However many government and municipal bonds are exempt from one or more types of taxation .</context>
+    </instance>
+    <instance id="Bond_market-bond-6-21-1" docsrc="Bond_market">
+      <context> Traders Individuals Because of the specificity <head>of</head> individual bond issues , and the lack of liquidity in many smaller issues , the majority of outstanding bonds are held by institutions like pension funds , banks and mutual funds .</context>
+    </instance>
+    <instance id="Bond_market-bond-6-3-2" docsrc="Bond_market">
+      <context> An important part of the bond <head>market</head> is the government bond market , because of its size and liquidity . Government bonds are often used to compare other bonds to measure credit risk . Because of the inverse relationship between bond valuation and interest rates , the bond market is often used to indicate changes in interest rates or the shape of the yield curve , the measure of " cost of funding " .</context>
+    </instance>
+    <instance id="Bond_market-bond-6-32-1" docsrc="Bond_market">
+      <context> === U.S. bond market size === <head>According</head> to the Securities Industry and Financial Markets Association ( SIFMA ) , as of Q4 2013 , the U.S. bond market size is ( in billions ) : But participants who buy and sell bonds before maturity are exposed to many risks , most importantly changes in interest rates .</context>
+    </instance>
+    <instance id="Bond_market-bond-6-39-3" docsrc="Bond_market">
+      <context> When interest rates increase , the <head>value</head> of existing bonds falls , since new issues pay a higher yield . Likewise , when interest rates decrease , the value of existing bonds rises , since new issues pay a lower yield . This is the fundamental concept of bond market volatility—changes in bond prices are inverse to changes in interest rates .</context>
+    </instance>
+    <instance id="Bond_market-bond-7-0-1" docsrc="Bond_market">
+      <context> The bond market ( also debt market <head>or</head> credit market ) is a financial market where participants can issue new debt , known as the primary market , or buy and sell debt securities , known as the secondary market . This is usually in the form of bonds , but it may include notes , bills , and so on .</context>
+    </instance>
+    <instance id="Bond_market-bond-7-50-1" docsrc="Bond_market">
+      <context> You can intimidate everybody . Bonds typically <head>trade</head> in $ 1,000 increments and are priced as a percentage of par value ( 100 % ) . Many bonds have minimums imposed by the bond or the dealer .</context>
+    </instance>
+    <instance id="Bond_market-bond-8-26-3" docsrc="Bond_market">
+      <context> Domestic bonds accounted for 70 % of the <head>total</head> and international bonds for the remainder . The United States was the largest market with 33 % of the total followed by Japan ( 14 % ) . As a proportion of global GDP , the bond market increased to over 140 % in 2011 from 119 % in 2008 and 80 % a decade earlier .</context>
+    </instance>
+    <instance id="Bond_market-bond-8-3-1" docsrc="Bond_market">
+      <context> This is usually in the form of bonds <head>,</head> but it may include notes , bills , and so on . An important part of the bond market is the government bond market , because of its size and liquidity . Government bonds are often used to compare other bonds to measure credit risk .</context>
+    </instance>
+    <instance id="Bond_market-bond-9-39-1" docsrc="Bond_market">
+      <context> According to the Securities Industry and Financial Markets Association <head>(</head> SIFMA ) , as of Q4 2013 , the U.S. bond market size is ( in billions ) : But participants who buy and sell bonds before maturity are exposed to many risks , most importantly changes in interest rates . When interest rates increase , the value of existing bonds falls , since new issues pay a higher yield .</context>
+    </instance>
+    <instance id="Bond_market-bond-9-52-1" docsrc="Bond_market">
+      <context> For broker/dealers , however , anything smaller than a <head>$</head> 100,000 trade is viewed as an " odd lot " . Because most bonds have predictable income , they are typically purchased as part of a more conservative investment scheme . Nevertheless , investors have the ability to actively trade bonds , especially corporate bonds and municipal bonds with the market and can make or lose money depending on economic , interest rate , and issuer factors .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-1-2-2" docsrc="Chemical_bond">
+      <context> In <head>general</head> , strong chemical bonding is associated with the sharing or transfer of electrons between the participating atoms . The atoms in molecules , crystals , metals and diatomic gases—indeed most of the physical environment around us—are held together by chemical bonds , which dictate the structure and the bulk properties of matter . All bonds can be explained by quantum theory , but , in practice , simplification rules allow chemists to predict the strength , directionality , and polarity of bonds .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-1-69-2" docsrc="Chemical_bond">
+      <context> A <head>hydrogen</head> bond is effectively a strong example of an interaction between two permanent dipoles . The large difference in electronegativities between hydrogen and any of fluorine , nitrogen and oxygen , coupled with their lone pairs of electrons cause strong electrostatic forces between molecules . Hydrogen bonds are responsible for the high boiling points of water and ammonia with respect to their heavier analogues .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-1-76-1" docsrc="Chemical_bond">
+      <context> A <head>cation–pi</head> interaction occurs between a pi bond and a cation . In the ( unrealistic ) limit of " pure " ionic bonding , electrons are perfectly localized on one of the two atoms in the bond . Such bonds can be understood by classical physics .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-1-76-4" docsrc="Chemical_bond">
+      <context> The <head>forces</head> between the atoms are characterized by isotropic continuum electrostatic potentials . Their magnitude is in simple proportion to the charge difference . Covalent bonds are better understood by valence bond theory or molecular orbital theory .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-10-77-6" docsrc="Chemical_bond">
+      <context> In molecular orbital theory , the linear combination of atomic <head>orbitals</head> ( LCAO ) helps describe the delocalized molecular orbital structures and energies based on the atomic orbitals of the atoms they came from . Unlike pure ionic bonds , covalent bonds may have directed anisotropic properties . These may have their own names , such as sigma bond and pi bond .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-11-1-4" docsrc="Chemical_bond">
+      <context> This attraction constitutes the chemical bond . Due to the matter <head>wave</head> nature of electrons and their smaller mass , they must occupy a much larger amount of volume compared with the nuclei , and this volume occupied by the electrons keeps the atomic nuclei relatively far apart , as compared with the size of the nuclei themselves . This phenomenon limits the distance between nuclei and atoms in a bond .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-12-21-4" docsrc="Chemical_bond">
+      <context> Later extensions have used up to 54 parameters and gave excellent agreement <head>with</head> experiments . This calculation convinced the scientific community that quantum theory could give agreement with experiment . However this approach has none of the physical pictures of the valence bond and molecular orbital theories and is difficult to extend to larger molecules .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-13-77-6" docsrc="Chemical_bond">
+      <context> In molecular orbital theory , the linear combination of atomic orbitals ( LCAO <head>)</head> helps describe the delocalized molecular orbital structures and energies based on the atomic orbitals of the atoms they came from . Unlike pure ionic bonds , covalent bonds may have directed anisotropic properties . These may have their own names , such as sigma bond and pi bond .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-15-30-1" docsrc="Chemical_bond">
+      <context> A strong chemical bond is formed from the transfer or sharing of electrons between atomic <head>centers</head> and relies on the electrostatic attraction between the protons in nuclei and the electrons in the orbitals . The types of strong bond differ due to the difference in electronegativity of the constituent elements . A large difference in electronegativity leads to more polar ( ionic ) character in the bond .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-16-50-1" docsrc="Chemical_bond">
+      <context> The electron density of these two bonding electrons is concentrated in the region between the two <head>atoms</head> , which is the defining quality of a sigma bond . A double bond between two atoms is formed by the sharing of two pairs of electrons , one in a sigma bond and one in a pi bond , with electron density concentrated on two opposite sides of the internuclear axis . A triple bond consists of three shared electron pairs , forming one sigma and two pi bonds .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-17-77-3" docsrc="Chemical_bond">
+      <context> The properties of the atoms involved can be understood using concepts such as oxidation number . The <head>electron</head> density within a bond is not assigned to individual atoms , but is instead delocalized between atoms . In valence bond theory , the two electrons on the two atoms are coupled together with the bond strength depending on the overlap between them .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-2-21-5" docsrc="Chemical_bond">
+      <context> This calculation <head>convinced</head> the scientific community that quantum theory could give agreement with experiment . However this approach has none of the physical pictures of the valence bond and molecular orbital theories and is difficult to extend to larger molecules . Strong chemical bonds are the intramolecular forces which hold atoms together in molecules .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-2-33-1" docsrc="Chemical_bond">
+      <context> A large <head>difference</head> in electronegativity leads to more polar ( ionic ) character in the bond . === Ionic bonding === === Covalent bond ===</context>
+    </instance>
+    <instance id="Chemical_bond-bond-2-4-4" docsrc="Chemical_bond">
+      <context> More sophisticated <head>theories</head> are valence bond theory which includes orbital hybridization and resonance , and molecular orbital theory which includes linear combination of atomic orbitals and ligand field theory . Electrostatics are used to describe bond polarities and the effects they have on chemical substances . A chemical bond is an attraction between atoms .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-2-47-1" docsrc="Chemical_bond">
+      <context> === Covalent <head>bond</head> === ==== Single and multiple bonds ==== A single bond between two atoms corresponds to the sharing of one pair of electrons .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-2-48-2" docsrc="Chemical_bond">
+      <context> A single <head>bond</head> between two atoms corresponds to the sharing of one pair of electrons . The electron density of these two bonding electrons is concentrated in the region between the two atoms , which is the defining quality of a sigma bond . A double bond between two atoms is formed by the sharing of two pairs of electrons , one in a sigma bond and one in a pi bond , with electron density concentrated on two opposite sides of the internuclear axis .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-2-50-1" docsrc="Chemical_bond">
+      <context> The electron <head>density</head> of these two bonding electrons is concentrated in the region between the two atoms , which is the defining quality of a sigma bond . A double bond between two atoms is formed by the sharing of two pairs of electrons , one in a sigma bond and one in a pi bond , with electron density concentrated on two opposite sides of the internuclear axis . A triple bond consists of three shared electron pairs , forming one sigma and two pi bonds .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-2-60-1" docsrc="Chemical_bond">
+      <context> For example <head>the</head> ion Ag+ reacts as a Lewis acid with two molecules of the Lewis base NH3 to form the complex ion Ag(NH3)2+ , which has two Ag←N coordinate covalent bonds . === Metallic bonding === A hydrogen bond is effectively a strong example of an interaction between two permanent dipoles .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-2-77-3" docsrc="Chemical_bond">
+      <context> The properties <head>of</head> the atoms involved can be understood using concepts such as oxidation number . The electron density within a bond is not assigned to individual atoms , but is instead delocalized between atoms . In valence bond theory , the two electrons on the two atoms are coupled together with the bond strength depending on the overlap between them .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-21-48-2" docsrc="Chemical_bond">
+      <context> A single bond between two atoms corresponds to the sharing of one pair of electrons . The electron density of these <head>two</head> bonding electrons is concentrated in the region between the two atoms , which is the defining quality of a sigma bond . A double bond between two atoms is formed by the sharing of two pairs of electrons , one in a sigma bond and one in a pi bond , with electron density concentrated on two opposite sides of the internuclear axis .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-22-2-1" docsrc="Chemical_bond">
+      <context> This phenomenon limits the distance between nuclei and atoms in a bond . In general , strong chemical bonding is associated with <head>the</head> sharing or transfer of electrons between the participating atoms . The atoms in molecules , crystals , metals and diatomic gases—indeed most of the physical environment around us—are held together by chemical bonds , which dictate the structure and the bulk properties of matter .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-25-71-1" docsrc="Chemical_bond">
+      <context> The electron then moves to another part of the electron cloud and the attraction is broken . A cation–pi interaction occurs between a pi bond <head>and</head> a cation . In the ( unrealistic ) limit of " pure " ionic bonding , electrons are perfectly localized on one of the two atoms in the bond .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-26-48-1" docsrc="Chemical_bond">
+      <context> ==== Single and multiple bonds ==== A single bond between two atoms corresponds to the sharing of one pair of electrons . The electron density of <head>these</head> two bonding electrons is concentrated in the region between the two atoms , which is the defining quality of a sigma bond .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-27-48-2" docsrc="Chemical_bond">
+      <context> A single bond between two atoms corresponds to the sharing of one pair of electrons . The electron density of these two bonding electrons is concentrated in <head>the</head> region between the two atoms , which is the defining quality of a sigma bond . A double bond between two atoms is formed by the sharing of two pairs of electrons , one in a sigma bond and one in a pi bond , with electron density concentrated on two opposite sides of the internuclear axis .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-28-2-2" docsrc="Chemical_bond">
+      <context> In general , strong chemical bonding is associated with the sharing or transfer of electrons between the participating atoms . The atoms in molecules , crystals , metals <head>and</head> diatomic gases—indeed most of the physical environment around us—are held together by chemical bonds , which dictate the structure and the bulk properties of matter . All bonds can be explained by quantum theory , but , in practice , simplification rules allow chemists to predict the strength , directionality , and polarity of bonds .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-3-29-1" docsrc="Chemical_bond">
+      <context> However this approach <head>has</head> none of the physical pictures of the valence bond and molecular orbital theories and is difficult to extend to larger molecules . Strong chemical bonds are the intramolecular forces which hold atoms together in molecules . A strong chemical bond is formed from the transfer or sharing of electrons between atomic centers and relies on the electrostatic attraction between the protons in nuclei and the electrons in the orbitals .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-3-50-2" docsrc="Chemical_bond">
+      <context> A double bond <head>between</head> two atoms is formed by the sharing of two pairs of electrons , one in a sigma bond and one in a pi bond , with electron density concentrated on two opposite sides of the internuclear axis . A triple bond consists of three shared electron pairs , forming one sigma and two pi bonds . Quadruple and higher bonds are very rare and occur only between certain transition metal atoms .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-3-51-1" docsrc="Chemical_bond">
+      <context> A triple bond <head>consists</head> of three shared electron pairs , forming one sigma and two pi bonds . Quadruple and higher bonds are very rare and occur only between certain transition metal atoms . === Coordinate covalent bond ( Dipolar bond ) ===</context>
+    </instance>
+    <instance id="Chemical_bond-bond-3-77-5" docsrc="Chemical_bond">
+      <context> In valence bond <head>theory</head> , the two electrons on the two atoms are coupled together with the bond strength depending on the overlap between them . In molecular orbital theory , the linear combination of atomic orbitals ( LCAO ) helps describe the delocalized molecular orbital structures and energies based on the atomic orbitals of the atoms they came from . Unlike pure ionic bonds , covalent bonds may have directed anisotropic properties .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-3-78-1" docsrc="Chemical_bond">
+      <context> These may have <head>their</head> own names , such as sigma bond and pi bond . In the general case , atoms form bonds that are intermediate between ionic and covalent , depending on the relative electronegativity of the atoms involved . This type of bond is sometimes called polar covalent .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-31-57-1" docsrc="Chemical_bond">
+      <context> === Coordinate covalent bond ( Dipolar bond ) === Transition metal complexes are generally bound by coordinate covalent bonds . For example the ion Ag+ reacts as a Lewis acid with <head>two</head> molecules of the Lewis base NH3 to form the complex ion Ag(NH3)2+ , which has two Ag←N coordinate covalent bonds .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-4-29-2" docsrc="Chemical_bond">
+      <context> Strong chemical bonds are <head>the</head> intramolecular forces which hold atoms together in molecules . A strong chemical bond is formed from the transfer or sharing of electrons between atomic centers and relies on the electrostatic attraction between the protons in nuclei and the electrons in the orbitals . The types of strong bond differ due to the difference in electronegativity of the constituent elements .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-4-40-1" docsrc="Chemical_bond">
+      <context> === Ionic bonding === <head>===</head> Covalent bond === ==== Single and multiple bonds ====</context>
+    </instance>
+    <instance id="Chemical_bond-bond-40-8-2" docsrc="Chemical_bond">
+      <context> A chemical bond is an attraction between atoms . This attraction may be seen as the result of different behaviors of the outermost or valence electrons of atoms . Although all of these behaviors merge into each other seamlessly in <head>various</head> bonding situations so that there is no clear line to be drawn between them , the behaviors of atoms become so qualitatively different as the character of the bond changes quantitatively , that it remains useful and customary to differentiate between the bonds that cause these different properties of condensed matter .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-5-1-2" docsrc="Chemical_bond">
+      <context> Since opposite charges attract via <head>a</head> simple electromagnetic force , the negatively charged electrons that are orbiting the nucleus and the positively charged protons in the nucleus attract each other . An electron positioned between two nuclei will be attracted to both of them , and the nuclei will be attracted toward electrons in this position . This attraction constitutes the chemical bond .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-5-4-2" docsrc="Chemical_bond">
+      <context> All bonds can be explained <head>by</head> quantum theory , but , in practice , simplification rules allow chemists to predict the strength , directionality , and polarity of bonds . The octet rule and VSEPR theory are two examples . More sophisticated theories are valence bond theory which includes orbital hybridization and resonance , and molecular orbital theory which includes linear combination of atomic orbitals and ligand field theory .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-5-4-3" docsrc="Chemical_bond">
+      <context> The octet rule and VSEPR <head>theory</head> are two examples . More sophisticated theories are valence bond theory which includes orbital hybridization and resonance , and molecular orbital theory which includes linear combination of atomic orbitals and ligand field theory . Electrostatics are used to describe bond polarities and the effects they have on chemical substances .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-5-77-2" docsrc="Chemical_bond">
+      <context> Covalent bonds are better understood <head>by</head> valence bond theory or molecular orbital theory . The properties of the atoms involved can be understood using concepts such as oxidation number . The electron density within a bond is not assigned to individual atoms , but is instead delocalized between atoms .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-54-8-2" docsrc="Chemical_bond">
+      <context> A chemical bond is an attraction between atoms . This attraction may be seen as the result of different behaviors of the outermost or valence electrons of atoms . Although all of these behaviors merge into each other seamlessly in various bonding situations so that there is no clear line to be drawn between <head>them</head> , the behaviors of atoms become so qualitatively different as the character of the bond changes quantitatively , that it remains useful and customary to differentiate between the bonds that cause these different properties of condensed matter .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-6-51-1" docsrc="Chemical_bond">
+      <context> A triple bond consists of three <head>shared</head> electron pairs , forming one sigma and two pi bonds . Quadruple and higher bonds are very rare and occur only between certain transition metal atoms . === Coordinate covalent bond ( Dipolar bond ) ===</context>
+    </instance>
+    <instance id="Chemical_bond-bond-6-77-5" docsrc="Chemical_bond">
+      <context> In valence bond theory , the <head>two</head> electrons on the two atoms are coupled together with the bond strength depending on the overlap between them . In molecular orbital theory , the linear combination of atomic orbitals ( LCAO ) helps describe the delocalized molecular orbital structures and energies based on the atomic orbitals of the atoms they came from . Unlike pure ionic bonds , covalent bonds may have directed anisotropic properties .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-7-70-4" docsrc="Chemical_bond">
+      <context> This small charge will induce a corresponding <head>dipole</head> in a nearby molecule ; causing an attraction between the two . The electron then moves to another part of the electron cloud and the attraction is broken . A cation–pi interaction occurs between a pi bond and a cation .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-7-76-4" docsrc="Chemical_bond">
+      <context> The forces between the atoms are characterized <head>by</head> isotropic continuum electrostatic potentials . Their magnitude is in simple proportion to the charge difference . Covalent bonds are better understood by valence bond theory or molecular orbital theory .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-7-77-7" docsrc="Chemical_bond">
+      <context> Unlike pure ionic bonds , covalent bonds <head>may</head> have directed anisotropic properties . These may have their own names , such as sigma bond and pi bond . In the general case , atoms form bonds that are intermediate between ionic and covalent , depending on the relative electronegativity of the atoms involved .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-8-8-3" docsrc="Chemical_bond">
+      <context> This attraction may be seen as the result <head>of</head> different behaviors of the outermost or valence electrons of atoms . Although all of these behaviors merge into each other seamlessly in various bonding situations so that there is no clear line to be drawn between them , the behaviors of atoms become so qualitatively different as the character of the bond changes quantitatively , that it remains useful and customary to differentiate between the bonds that cause these different properties of condensed matter . Early speculations into the nature of the chemical bond , from as early as the 12th century , supposed that certain types of chemical species were joined by a type of chemical affinity .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-8-86-3" docsrc="Chemical_bond">
+      <context> HyperPhysics . Retrieved May 18 , 2005 . <head>Linus</head> Pauling and the Nature of the Chemical Bond : A Documentary History .</context>
+    </instance>
+    <instance id="Chemical_bond-bond-9-54-1" docsrc="Chemical_bond">
+      <context> Quadruple and higher bonds are very rare and occur <head>only</head> between certain transition metal atoms . === Coordinate covalent bond ( Dipolar bond ) === Transition metal complexes are generally bound by coordinate covalent bonds .</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-1-70-1" docsrc="James_Bond_(comic_strip)">
+      <context> The <head>James</head> Bond Omnibus : Volume 004 ( October 2012 ) — Trouble Spot , Isle of Condors , The League of Vampires , Die With My Boots On , The Girl Machine , Beware of Butterflies , The Nevsky Nude , The Phoenix Project and The Black Ruby Caper The James Bond Omnibus : Volume 006 ( November 2014 ) — Shark Bait , Doomcrack , The Paradise Plot , Deathmask , Flittermouse , Polestar , The Scent Of Danger , Snake Goddess and Double Eagle James Bond comic books</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-1-80-1" docsrc="James_Bond_(comic_strip)">
+      <context> Outline <head>of</head> James Bond Titan Books ' James Bond Graphic Novels List James Bond comics MI6 coverage of James Bond comics strips and comic books</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-14-11-2" docsrc="James_Bond_(comic_strip)">
+      <context> Regardless , Fleming later agreed , and the first strip Casino Royale was published <head>in</head> 1958 . The story was adapted by Anthony Hern , who previously had serialised Diamonds Are Forever and From Russia with Love for the Daily Express . The illustrations were by John McLusky , who later would illustrate twelve more James Bond comic strips with his partner Henry Gammidge until 1966 .</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-14-41-2" docsrc="James_Bond_(comic_strip)">
+      <context> Beginning in 2004 , Titan reissued these anthologies in larger , revised editions , <head>and</head> also began reprinting stories that had n't been featured in the earlier books . With a more frequent publishing schedule than the first series , all 52 stories had been published in seventeen books by March 2010 . These volumes include new introductory chapters on the history of the strip and the Bond novels , and most of the books have also included special introductions written by Bond film actors , specifically Caroline Munro ( The Spy Who Loved Me ) , George Lazenby ( OHMSS ) , Shirley Eaton ( Goldfinger ) , Eunice Gayson ( Dr. No ) , Roger Moore ( Casino Royale ) , Maud Adams ( Octopussy ) , Britt Ekland ( Colonel Sun ) , and Richard Kiel ( The Golden Ghost ) .</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-2-64-1" docsrc="James_Bond_(comic_strip)">
+      <context> === Third <head>Titan</head> Books series === From September 2009 to November 2014 larger volumes called ' Omnibus ' editions were released containing more stories in each volume . The James Bond Omnibus : Volume 001 ( September 2009 ) — Casino Royale , Live and Let Die , Moonraker , Diamonds Are Forever , From Russia with Love , Dr. No , Goldfinger , Risico , From a View to a Kill , For Your Eyes Only and Thunderball</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-2-65-1" docsrc="James_Bond_(comic_strip)">
+      <context> From September <head>2009</head> to November 2014 larger volumes called ' Omnibus ' editions were released containing more stories in each volume . The James Bond Omnibus : Volume 001 ( September 2009 ) — Casino Royale , Live and Let Die , Moonraker , Diamonds Are Forever , From Russia with Love , Dr. No , Goldfinger , Risico , From a View to a Kill , For Your Eyes Only and Thunderball The James Bond Omnibus : Volume 002 ( February 2011 ) —</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-2-66-2" docsrc="James_Bond_(comic_strip)">
+      <context> The James <head>Bond</head> Omnibus : Volume 002 ( February 2011 ) — On Her Majesty 's Secret Service , You Only Live Twice , The Man with the Golden Gun , The Living Daylights , Octopussy , The Hildebrand Rarity and The Spy Who Loved Me The James Bond Omnibus : Volume 003 ( March 2012 ) —</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-2-67-2" docsrc="James_Bond_(comic_strip)">
+      <context> The James <head>Bond</head> Omnibus : Volume 003 ( March 2012 ) — The Harpies , River of Death , Colonel Sun , The Golden Ghost , Fear Face , Double Jeopardy and Starfire The James Bond Omnibus : Volume 004 ( October 2012 ) — Trouble Spot , Isle of Condors , The League of Vampires , Die With My Boots On , The Girl Machine , Beware of Butterflies , The Nevsky Nude , The Phoenix Project and The Black Ruby Caper</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-2-68-1" docsrc="James_Bond_(comic_strip)">
+      <context> The Harpies <head>,</head> River of Death , Colonel Sun , The Golden Ghost , Fear Face , Double Jeopardy and Starfire The James Bond Omnibus : Volume 004 ( October 2012 ) — Trouble Spot , Isle of Condors , The League of Vampires , Die With My Boots On , The Girl Machine , Beware of Butterflies , The Nevsky Nude , The Phoenix Project and The Black Ruby Caper The James Bond Omnibus : Volume 006 ( November 2014 ) — Shark Bait , Doomcrack , The Paradise Plot , Deathmask , Flittermouse , Polestar , The Scent Of Danger , Snake Goddess and Double Eagle</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-21-6-1" docsrc="James_Bond_(comic_strip)">
+      <context> Starting in 1958 and continuing to 1983 , James Bond , the fictional character created by author Ian Fleming , appeared <head>in</head> a comic strip that consisted of 52 story arcs that were syndicated in British newspapers , seven of which were initially published abroad . === Art by John McLusky === In 1957 , the Daily Express , a newspaper owned by Lord Beaverbrook , approached Ian Fleming about adapting his James Bond stories as comic strips .</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-23-14-2" docsrc="James_Bond_(comic_strip)">
+      <context> The majority of the early comic strips were adapted by Henry Gammidge ; however , the Dr. No adaptation was by Peter O'Donnell <head>,</head> years before he launched his strip Modesty Blaise . In 1962 the Daily Express abruptly cancelled their agreement with Ian Fleming when Lord Beaverbrook and Fleming disputed the rights to the James Bond short story " The Living Daylights " .</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-23-20-2" docsrc="James_Bond_(comic_strip)">
+      <context> In 1966 Yaroslav Horak replaced John McLusky as the artist for the Daily Express comic strip series and adapted six more Ian Fleming <head>James</head> Bond novels and short stories as well as Kingsley Amis ' Colonel Sun with partner Jim Lawrence . The Living Daylights was also republished in the Daily Express after first appearing in the first edition of the Sunday Times magazine on February 4 , 1962 and in the American magazine Argosy in June of the same year under the title Berlin Escape . With the success of The Man with the Golden Gun Horak and Lawrence subsequently went on to write and illustrate twenty original James Bond comic strips for the Daily Express after being granted permission by Ian Fleming 's Trust .</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-24-18-1" docsrc="James_Bond_(comic_strip)">
+      <context> Beaverbrook and Fleming later settled their differences , and the comic strip serial would continue in 1964 with On Her Majesty 's Secret Service <head>.</head> === Art by Yaroslav Horak === In 1966 Yaroslav Horak replaced John McLusky as the artist for the Daily Express comic strip series and adapted six more Ian Fleming James Bond novels and short stories as well as Kingsley Amis ' Colonel Sun with partner Jim Lawrence .</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-26-21-1" docsrc="James_Bond_(comic_strip)">
+      <context> The Living Daylights was also republished in the Daily Express after first appearing in the first edition of the Sunday Times magazine on February 4 , <head>1962</head> and in the American magazine Argosy in June of the same year under the title Berlin Escape . With the success of The Man with the Golden Gun Horak and Lawrence subsequently went on to write and illustrate twenty original James Bond comic strips for the Daily Express after being granted permission by Ian Fleming 's Trust . In 1977 the Daily Express discontinued their series of Bond comic strips , although Horak and Lawrence went on to write and illustrate several other James Bond adventures for syndication abroad in Europe , for the Sunday Express ( the Sunday edition of the Daily Express ) , and the Daily Star .</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-29-41-2" docsrc="James_Bond_(comic_strip)">
+      <context> Beginning in 2004 , Titan reissued these anthologies in larger , revised editions , and also began reprinting stories that had n't been featured in the earlier books . <head>With</head> a more frequent publishing schedule than the first series , all 52 stories had been published in seventeen books by March 2010 . These volumes include new introductory chapters on the history of the strip and the Bond novels , and most of the books have also included special introductions written by Bond film actors , specifically Caroline Munro ( The Spy Who Loved Me ) , George Lazenby ( OHMSS ) , Shirley Eaton ( Goldfinger ) , Eunice Gayson ( Dr. No ) , Roger Moore ( Casino Royale ) , Maud Adams ( Octopussy ) , Britt Ekland ( Colonel Sun ) , and Richard Kiel ( The Golden Ghost ) .</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-3-75-1" docsrc="James_Bond_(comic_strip)">
+      <context> The James Bond <head>Omnibus</head> : Volume 006 ( November 2014 ) — Shark Bait , Doomcrack , The Paradise Plot , Deathmask , Flittermouse , Polestar , The Scent Of Danger , Snake Goddess and Double Eagle James Bond comic books Outline of James Bond</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-4-76-1" docsrc="James_Bond_(comic_strip)">
+      <context> James Bond comic books <head>Outline</head> of James Bond Titan Books ' James Bond Graphic Novels List</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-4-81-1" docsrc="James_Bond_(comic_strip)">
+      <context> Titan Books ' James <head>Bond</head> Graphic Novels List James Bond comics MI6 coverage of James Bond comics strips and comic books Just Johnny 's James Bond Comics Website</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-4-84-1" docsrc="James_Bond_(comic_strip)">
+      <context> Just Johnny 's James <head>Bond</head> Comics Website I Love Comix Archive : James Bond Archivo 007 Spanish James Bond comics</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-4-85-1" docsrc="James_Bond_(comic_strip)">
+      <context> I Love Comix Archive <head>:</head> James Bond Archivo 007 Spanish James Bond comics</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-6-82-1" docsrc="James_Bond_(comic_strip)">
+      <context> James Bond comics MI6 coverage of <head>James</head> Bond comics strips and comic books Just Johnny 's James Bond Comics Website I Love Comix Archive : James Bond</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-7-80-1" docsrc="James_Bond_(comic_strip)">
+      <context> Outline of James Bond Titan Books ' <head>James</head> Bond Graphic Novels List James Bond comics MI6 coverage of James Bond comics strips and comic books</context>
+    </instance>
+    <instance id="James_Bond_(comic_strip)-bond-9-21-1" docsrc="James_Bond_(comic_strip)">
+      <context> The Living Daylights was also republished in the Daily <head>Express</head> after first appearing in the first edition of the Sunday Times magazine on February 4 , 1962 and in the American magazine Argosy in June of the same year under the title Berlin Escape . With the success of The Man with the Golden Gun Horak and Lawrence subsequently went on to write and illustrate twenty original James Bond comic strips for the Daily Express after being granted permission by Ian Fleming 's Trust . In 1977 the Daily Express discontinued their series of Bond comic strips , although Horak and Lawrence went on to write and illustrate several other James Bond adventures for syndication abroad in Europe , for the Sunday Express ( the Sunday edition of the Daily Express ) , and the Daily Star .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-0-2" docsrc="Julian_Bond">
+      <context> <head>Horace</head> Julian Bond ( January 14 , 1940 – August 15 , 2015 ) was an American social activist and leader in the Civil Rights Movement , politician , professor and writer . While a student at Morehouse College in Atlanta , Georgia , during the early 1960s , he helped to establish the Student Nonviolent Coordinating Committee ( SNCC ) . Bond was elected to four terms in the Georgia House of Representatives and later to six terms in the Georgia State Senate , serving a combined twenty years in both legislative chambers .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-23-1" docsrc="Julian_Bond">
+      <context> <head>1969–1973</head> : 111th 1973–1974 : 32nd Bond went on to be elected for six terms in the Georgia Senate , in which he served from 1975 to 1987 .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-24-1" docsrc="Julian_Bond">
+      <context> <head>1973–1974</head> : 32nd Bond went on to be elected for six terms in the Georgia Senate , in which he served from 1975 to 1987 . Bond ran for the United States House of Representatives from Georgia 's 5th congressional district in 1986 .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-26-3" docsrc="Julian_Bond">
+      <context> <head>He</head> lost the Democratic nomination in a runoff to rival civil rights leader John Lewis in a bitter contest , during which Bond was accused of using cocaine and other drugs . During the campaign , Lewis challenged Bond to take a drug test ( Lewis had said he took one and passed ) . Bond refused , saying the drug test was akin to McCarthyism and trivializes the issue of drugs .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-26-7" docsrc="Julian_Bond">
+      <context> <head>As</head> the district had a huge Democratic majority , the nomination delivered the seat to Lewis , who still serves in Congress . Still dogged by allegations of drug use , Bond resigned from the Georgia Senate the following year . Bond 's estranged wife , Alice , who publicly accused him of using cocaine , later retracted her statements .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-27-1" docsrc="Julian_Bond">
+      <context> <head>Bond</head> 's estranged wife , Alice , who publicly accused him of using cocaine , later retracted her statements . After leaving politics , Bond taught at several universities in major cities in the North and South , including American , Drexel and Harvard . Bond taught the history of the civil rights movement at the University of Virginia from 1990 to 2012 .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-27-3" docsrc="Julian_Bond">
+      <context> <head>Bond</head> taught the history of the civil rights movement at the University of Virginia from 1990 to 2012 . While there he had the chance to share his experiences of the movement with thousands of students through stories , newsreels , music and film . Bond was on the Board of Selectors of Jefferson Awards for Public Service .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-30-2" docsrc="Julian_Bond">
+      <context> <head>===</head> In activism === Bond became the first president of the Southern Poverty Law Center in 1971 .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-32-2" docsrc="Julian_Bond">
+      <context> <head>In</head> 1998 , Bond was selected as chairman of the NAACP. In November 2008 , he announced that he would not seek another term as chairman . Bond agreed to stay on in the position through 2009 , as the organization celebrated its 100th anniversary .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-41-1" docsrc="Julian_Bond">
+      <context> <head>He</head> was a strong critic of policies that contribute to anthropogenic climate change and was amongst a group of protesters arrested at the White House for civil disobedience in opposition to the Keystone XL pipeline in February 2013 . === Other political views === Bond was a strong critic of the Bush administration from its assumption of office in 2001 , in large part because Bond believed the administration was illegitimate .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-43-2" docsrc="Julian_Bond">
+      <context> <head>Bond</head> was a strong critic of the Bush administration from its assumption of office in 2001 , in large part because Bond believed the administration was illegitimate . Twice that year , first in February to the NAACP board and then in July at that organization 's national convention , he attacked the administration for selecting Cabinet secretaries " from the Taliban wing of American politics " . Bond specifically targeted Attorney General John Ashcroft , who had opposed affirmative action , and Interior Secretary Gale Norton , who defended the Confederacy in a 1996 speech on states ' rights .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-50-3" docsrc="Julian_Bond">
+      <context> <head>He</head> was also a commentator for radio 's Byline and NBC 's The Today Show . He authored the nationally syndicated newspaper column Viewpoint , and narrated the critically acclaimed PBS series Eyes on the Prize in 1987 and 1990 . Bond hosted Saturday Night Live on April 9 , 1977 , becoming the first black political figure to host the television show .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-51-3" docsrc="Julian_Bond">
+      <context> <head>In</head> 1978 , Bond played himself in the miniseries King . He also had a small appearance playing himself in the movie Ray ( 2004 ) . Bond died from complications of vascular disease on August 15 , 2015 , in Fort Walton Beach , Florida , aged 75 .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-65-1" docsrc="Julian_Bond">
+      <context> <head>1999</head> , an honorary LL.D. from Bates College . 2008 , an honorary degree from George Washington University . Bond was also the 2008 Commencement Keynote Speaker .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-0-66-1" docsrc="Julian_Bond">
+      <context> <head>Bond</head> was also the 2008 Commencement Keynote Speaker . 2009 , an honorary L.H.D. from Macalester College . Bond , Julian ( 1969 ) .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-1-26-4" docsrc="Julian_Bond">
+      <context> During <head>the</head> campaign , Lewis challenged Bond to take a drug test ( Lewis had said he took one and passed ) . Bond refused , saying the drug test was akin to McCarthyism and trivializes the issue of drugs . While Bond had raised twice as much money as Lewis and had a larger national reputation , Lewis cast himself as the man on the front lines of the Civil Rights Movement and ran up large margins over Bond among white liberals in Atlanta .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-1-75-1" docsrc="Julian_Bond">
+      <context> Nationally <head>syndicated</head> column Viewpoint . Poems and articles have appeared in a list of national magazines and newspapers . Julian Bond 's papers reside at the Albert and Shirley Small Special Collections Library at the University of Virginia .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-1-80-1" docsrc="Julian_Bond">
+      <context> Julian <head>Bond</head> 's papers reside at the Albert and Shirley Small Special Collections Library at the University of Virginia . List of civil rights leaders Julian Bond at the NAACP</context>
+    </instance>
+    <instance id="Julian_Bond-bond-1-87-1" docsrc="Julian_Bond">
+      <context> List <head>of</head> civil rights leaders Julian Bond at the NAACP Julian Bond at the Internet Movie Database</context>
+    </instance>
+    <instance id="Julian_Bond-bond-1-90-1" docsrc="Julian_Bond">
+      <context> Julian <head>Bond</head> at the Internet Movie Database Oral History Interview with Julian Bond from Oral Histories of the American South Julian Bond at the American University</context>
+    </instance>
+    <instance id="Julian_Bond-bond-18-56-1" docsrc="Julian_Bond">
+      <context> He also had a small appearance playing himself in the movie Ray ( 2004 ) . Bond died <head>from</head> complications of vascular disease on August 15 , 2015 , in Fort Walton Beach , Florida , aged 75 . He is survived by his wife , his five children , James ( a brother ) , Jane Bond Moore ( a sister ) and eight grandchildren .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-20-35-6" docsrc="Julian_Bond">
+      <context> I would n't change it if I could . Sexuality is unchangeable . In a 2007 speech on the Martin <head>Luther</head> King Day Celebration at Clayton State University in Morrow , Georgia , Bond said , " If you do n't like gay marriage , do n't get gay married . " His positions pitted elements of the NAACP against religious groups in the Civil Rights movement who oppose gay marriage .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-21-41-1" docsrc="Julian_Bond">
+      <context> He was a strong critic of policies that contribute to anthropogenic climate change and was amongst a group of protesters arrested <head>at</head> the White House for civil disobedience in opposition to the Keystone XL pipeline in February 2013 . === Other political views === Bond was a strong critic of the Bush administration from its assumption of office in 2001 , in large part because Bond believed the administration was illegitimate .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-22-26-1" docsrc="Julian_Bond">
+      <context> Bond went on to be elected for six terms in the Georgia Senate , in which he served from 1975 to 1987 <head>.</head> Bond ran for the United States House of Representatives from Georgia 's 5th congressional district in 1986 . He lost the Democratic nomination in a runoff to rival civil rights leader John Lewis in a bitter contest , during which Bond was accused of using cocaine and other drugs .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-3-1-2" docsrc="Julian_Bond">
+      <context> Bond was elected <head>to</head> four terms in the Georgia House of Representatives and later to six terms in the Georgia State Senate , serving a combined twenty years in both legislative chambers . From 1998 to 2010 , he was chairman of the National Association for the Advancement of Colored People ( NAACP ) and the first president of the Southern Poverty Law Center . In 1957 , Bond graduated from George School , a private Quaker preparatory boarding school near Newtown in Bucks County , Pennsylvania .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-3-31-2" docsrc="Julian_Bond">
+      <context> Bond became the <head>first</head> president of the Southern Poverty Law Center in 1971 . He served until 1979 , remaining a board member and president emeritus for the rest of his life . In 1998 , Bond was selected as chairman of the NAACP.</context>
+    </instance>
+    <instance id="Julian_Bond-bond-3-51-1" docsrc="Julian_Bond">
+      <context> He authored the <head>nationally</head> syndicated newspaper column Viewpoint , and narrated the critically acclaimed PBS series Eyes on the Prize in 1987 and 1990 . Bond hosted Saturday Night Live on April 9 , 1977 , becoming the first black political figure to host the television show . In 1978 , Bond played himself in the miniseries King .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-38-26-4" docsrc="Julian_Bond">
+      <context> During the campaign , Lewis challenged Bond to take a drug test ( Lewis had said he took one and passed ) . Bond refused , saying the drug test was akin to McCarthyism and trivializes the issue <head>of</head> drugs . While Bond had raised twice as much money as Lewis and had a larger national reputation , Lewis cast himself as the man on the front lines of the Civil Rights Movement and ran up large margins over Bond among white liberals in Atlanta .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-4-26-8" docsrc="Julian_Bond">
+      <context> Still dogged by allegations <head>of</head> drug use , Bond resigned from the Georgia Senate the following year . Bond 's estranged wife , Alice , who publicly accused him of using cocaine , later retracted her statements . After leaving politics , Bond taught at several universities in major cities in the North and South , including American , Drexel and Harvard .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-48-43-3" docsrc="Julian_Bond">
+      <context> Twice that year , first in February to the NAACP board and then in July at that organization 's national convention , he attacked the administration for selecting Cabinet secretaries " from the Taliban wing of American politics " . Bond specifically targeted Attorney General John Ashcroft , <head>who</head> had opposed affirmative action , and Interior Secretary Gale Norton , who defended the Confederacy in a 1996 speech on states ' rights . In the selection of these individuals , Bond said , Bush had appeased " the wretched appetites of the extreme right wing and chosen Cabinet officials whose devotion to the Confederacy is nearly canine in its uncritical affection . " Then House Majority Leader Dick Armey responded to Bond 's statement with a letter accusing NAACP leaders of " racial McCarthyism . " Bond later added at the annual NAACP convention that year , that since Bush 's election he had " had his picture taken with more black people than voted for him . "</context>
+    </instance>
+    <instance id="Julian_Bond-bond-5-17-2" docsrc="Julian_Bond">
+      <context> === In politics === Throughout <head>his</head> House career , Bond 's district was repeatedly redistricted :</context>
+    </instance>
+    <instance id="Julian_Bond-bond-5-47-1" docsrc="Julian_Bond">
+      <context> In the selection of these <head>individuals</head> , Bond said , Bush had appeased " the wretched appetites of the extreme right wing and chosen Cabinet officials whose devotion to the Confederacy is nearly canine in its uncritical affection . " Then House Majority Leader Dick Armey responded to Bond 's statement with a letter accusing NAACP leaders of " racial McCarthyism . " Bond later added at the annual NAACP convention that year , that since Bush 's election he had " had his picture taken with more black people than voted for him . " === Work and appearances in media === From 1980 to 1997 , Bond hosted America 's Black Forum .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-5-88-1" docsrc="Julian_Bond">
+      <context> Julian Bond at the NAACP <head>Julian</head> Bond at the Internet Movie Database Oral History Interview with Julian Bond from Oral Histories of the American South</context>
+    </instance>
+    <instance id="Julian_Bond-bond-6-26-2" docsrc="Julian_Bond">
+      <context> Bond ran for the United States <head>House</head> of Representatives from Georgia 's 5th congressional district in 1986 . He lost the Democratic nomination in a runoff to rival civil rights leader John Lewis in a bitter contest , during which Bond was accused of using cocaine and other drugs . During the campaign , Lewis challenged Bond to take a drug test ( Lewis had said he took one and passed ) .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-6-32-3" docsrc="Julian_Bond">
+      <context> In November 2008 , he announced <head>that</head> he would not seek another term as chairman . Bond agreed to stay on in the position through 2009 , as the organization celebrated its 100th anniversary . Roslyn M. Brock was chosen as Bond 's successor on February 20 , 2010 .</context>
+    </instance>
+    <instance id="Julian_Bond-bond-63-43-3" docsrc="Julian_Bond">
+      <context> Twice that year , first in February to the NAACP board and then in July at that organization 's national convention , he attacked the administration for selecting Cabinet secretaries " from the Taliban wing of American politics " . Bond specifically targeted Attorney General John Ashcroft , who had opposed affirmative action , and Interior Secretary Gale Norton , who defended the <head>Confederacy</head> in a 1996 speech on states ' rights . In the selection of these individuals , Bond said , Bush had appeased " the wretched appetites of the extreme right wing and chosen Cabinet officials whose devotion to the Confederacy is nearly canine in its uncritical affection . " Then House Majority Leader Dick Armey responded to Bond 's statement with a letter accusing NAACP leaders of " racial McCarthyism . " Bond later added at the annual NAACP convention that year , that since Bush 's election he had " had his picture taken with more black people than voted for him . "</context>
+    </instance>
+    <instance id="Julian_Bond-bond-7-43-3" docsrc="Julian_Bond">
+      <context> Twice that year , first in February <head>to</head> the NAACP board and then in July at that organization 's national convention , he attacked the administration for selecting Cabinet secretaries " from the Taliban wing of American politics " . Bond specifically targeted Attorney General John Ashcroft , who had opposed affirmative action , and Interior Secretary Gale Norton , who defended the Confederacy in a 1996 speech on states ' rights . In the selection of these individuals , Bond said , Bush had appeased " the wretched appetites of the extreme right wing and chosen Cabinet officials whose devotion to the Confederacy is nearly canine in its uncritical affection . " Then House Majority Leader Dick Armey responded to Bond 's statement with a letter accusing NAACP leaders of " racial McCarthyism . " Bond later added at the annual NAACP convention that year , that since Bush 's election he had " had his picture taken with more black people than voted for him . "</context>
+    </instance>
+    <instance id="Julian_Bond-bond-8-26-6" docsrc="Julian_Bond">
+      <context> While Bond had raised twice as much money <head>as</head> Lewis and had a larger national reputation , Lewis cast himself as the man on the front lines of the Civil Rights Movement and ran up large margins over Bond among white liberals in Atlanta . As the district had a huge Democratic majority , the nomination delivered the seat to Lewis , who still serves in Congress . Still dogged by allegations of drug use , Bond resigned from the Georgia Senate the following year .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-1-22-1" docsrc="Samurai_bond">
+      <context> In <head>1998</head> , the Ministry of Finance ’s close regulatory control was annulled . === Advantages === Samurai bonds provide access to a diversified and deep pool of capital .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-1-23-1" docsrc="Samurai_bond">
+      <context> === <head>Advantages</head> === Samurai bonds provide access to a diversified and deep pool of capital . Samurai bonds have relatively lower interest rates .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-1-25-1" docsrc="Samurai_bond">
+      <context> Samurai <head>bonds</head> have relatively lower interest rates . Japanese institutional investors can easily invest in Samurai bonds because they are issued in Japan . Samurai bonds do not have to be left in the custody of securities companies or other institutions .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-1-31-1" docsrc="Samurai_bond">
+      <context> Japanese <head>market</head> is not subject to the same variations and market swings as the U.S. and European markets , giving companies an alternative financing source during economic downturns . === Disadvantages === Samurai bond market has high tax rates and an unclear fiscal environment .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-13-32-1" docsrc="Samurai_bond">
+      <context> === Disadvantages === Samurai bond market has high tax rates and an unclear <head>fiscal</head> environment . Lack of flexibility of issuance terms and conditions that create restrictions to use bonds .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-14-42-1" docsrc="Samurai_bond">
+      <context> Interest Risk Nishi , F. ; Vergus , A. ( n.d . ) . <head>"</head> Asian bond issues in Tokyo : history , structure and prospects . " ( PDF ) .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-14-49-1" docsrc="Samurai_bond">
+      <context> Risk Nishi , F. ; Vergus , A. ( n.d . ) . " <head>Asian</head> bond issues in Tokyo : history , structure and prospects . " ( PDF ) .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-5-34-1" docsrc="Samurai_bond">
+      <context> Samurai bond market has high <head>tax</head> rates and an unclear fiscal environment . Lack of flexibility of issuance terms and conditions that create restrictions to use bonds . Companies that have issued samurai bonds have found high administrative burdens placed upon issuing companies .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-6-12-1" docsrc="Samurai_bond">
+      <context> === Liquidation of rating requirement === <head>===</head> Required standards === The eligibility criteria for issuing Samurai bonds were not loosened until April 1985 .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-6-13-2" docsrc="Samurai_bond">
+      <context> The eligibility criteria for issuing Samurai <head>bonds</head> were not loosened until April 1985 . When examining applications from potential samurai issuers , the Ministry of Finance considered the tendency of the Japanese capital account balance and the liquidity in the country ’s economy . For the actual issuance of Samurai bonds , the Japanese Ministry of Finance set a quota per quarter year , and employed a queue system .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-8-24-1" docsrc="Samurai_bond">
+      <context> Samurai bonds provide access to a diversified and <head>deep</head> pool of capital . Samurai bonds have relatively lower interest rates . Japanese institutional investors can easily invest in Samurai bonds because they are issued in Japan .</context>
+    </instance>
+    <instance id="Samurai_bond-bond-9-35-1" docsrc="Samurai_bond">
+      <context> Lack of flexibility of issuance terms and conditions that <head>create</head> restrictions to use bonds . Companies that have issued samurai bonds have found high administrative burdens placed upon issuing companies . Complicated issuing procedures and high taxes have made Samurai bond market less attractive than European markets , and experience slow growth .</context>
+    </instance>
+    <instance id="a00161684_d_10" docsrc="a00161684_d">
+      <context> capable of being fastened or secured with a rope or <head>bond</head> ;</context>
+    </instance>
+    <instance id="a00252954_d_2" docsrc="a00252954_d">
+      <context> confined by <head>bonds</head> ;</context>
+    </instance>
+    <instance id="a00254152_d_5" docsrc="a00254152_d">
+      <context> not restrained or tied_down by <head>bonds</head> ;</context>
+    </instance>
+    <instance id="a00676855_d_4" docsrc="a00676855_d">
+      <context> having atoms linked by <head>bonds</head> represented in circular or triangular form ;</context>
+    </instance>
+    <instance id="a00757236_d_9" docsrc="a00757236_d">
+      <context> used especially of organic_compounds ; having all available valence <head>bonds</head> filled ;</context>
+    </instance>
+    <instance id="a00757408_d_16" docsrc="a00757408_d">
+      <context> used of a compound ( especially of carbon ) containing atoms sharing more than one valence <head>bond</head> ;</context>
+    </instance>
+    <instance id="a00757634_d_13" docsrc="a00757634_d">
+      <context> ( of long-chain carbon compounds especially fats ) saturated except for one multiple <head>bond</head> ;</context>
+    </instance>
+    <instance id="a00757783_d_11" docsrc="a00757783_d">
+      <context> ( of long-chain carbon compounds especially fats ) having many unsaturated <head>bonds</head> ;</context>
+    </instance>
+    <instance id="a01059058_d_17" docsrc="a01059058_d">
+      <context> of an organic_compound ; containing two or more double_bonds each separated from the other by a single <head>bond</head> ;</context>
+    </instance>
+    <instance id="a02478215_d_15" docsrc="a02478215_d">
+      <context> bound together by or as if by a strong rope ; especially as by a <head>bond</head> of affection ;</context>
+    </instance>
+    <instance id="br-a01#w1202_0" docsrc="br-a01">
+      <context> Caldwell 's resignation had been expected for some time . He will be succeeded by Rob_Ledford of Gainesville , who has been an assistant more than three years . When the gubernatorial campaign starts , Caldwell is expected to become a campaign coordinator for Byrd . The Georgia_Legislature will wind_up its 1961 session Monday and head for home - where some of the highway <head>bond</head> money it approved will follow shortly . Before adjournment Monday afternoon , the Senate is expected to approve a study of the number of legislators allotted to rural and urban_areas to determine what adjustments should be made . Gov._Vandiver is expected to make the traditional visit to both chambers as they work toward adjournment . Vandiver likely will mention the $ 100 million highway bond issue approved earlier in the session as his first priority item .</context>
+    </instance>
+    <instance id="br-a01#w1267_0" docsrc="br-a01">
+      <context> The Georgia_Legislature will wind_up its 1961 session Monday and head for home - where some of the highway bond money it approved will follow shortly . Before adjournment Monday afternoon , the Senate is expected to approve a study of the number of legislators allotted to rural and urban_areas to determine what adjustments should be made . Gov._Vandiver is expected to make the traditional visit to both chambers as they work toward adjournment . Vandiver likely will mention the $ 100 million highway <head>bond</head> issue approved earlier in the session as his first priority item . Meanwhile , it was learned the State_Highway_Department is very near being ready to issue the first $ 30 million worth of highway reconstruction bonds . The bond issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work .</context>
+    </instance>
+    <instance id="br-a01#w1303_0" docsrc="br-a01">
+      <context> Before adjournment Monday afternoon , the Senate is expected to approve a study of the number of legislators allotted to rural and urban_areas to determine what adjustments should be made . Gov._Vandiver is expected to make the traditional visit to both chambers as they work toward adjournment . Vandiver likely will mention the $ 100 million highway bond issue approved earlier in the session as his first priority item . Meanwhile , it was learned the State_Highway_Department is very near being ready to issue the first $ 30 million worth of highway reconstruction <head>bonds</head> . The bond issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new bonds would be issued every time a portion of the old ones are paid_off by tax authorities .</context>
+    </instance>
+    <instance id="br-a01#w1306_0" docsrc="br-a01">
+      <context> Gov._Vandiver is expected to make the traditional visit to both chambers as they work toward adjournment . Vandiver likely will mention the $ 100 million highway bond issue approved earlier in the session as his first priority item . Meanwhile , it was learned the State_Highway_Department is very near being ready to issue the first $ 30 million worth of highway reconstruction bonds . The <head>bond</head> issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new bonds would be issued every time a portion of the old ones are paid_off by tax authorities . Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads bonds proposed by then Gov._Marvin_Griffin .</context>
+    </instance>
+    <instance id="br-a01#w1370_0" docsrc="br-a01">
+      <context> Vandiver likely will mention the $ 100 million highway bond issue approved earlier in the session as his first priority item . Meanwhile , it was learned the State_Highway_Department is very near being ready to issue the first $ 30 million worth of highway reconstruction bonds . The bond issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority <head>bonds</head> for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new bonds would be issued every time a portion of the old ones are paid_off by tax authorities . Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads bonds proposed by then Gov._Marvin_Griffin . The Highway_Department source told The_Constitution , however , that Vandiver has not been consulted yet about the plans to issue the new rural roads bonds .</context>
+    </instance>
+    <instance id="br-a01#w1390_0" docsrc="br-a01">
+      <context> Meanwhile , it was learned the State_Highway_Department is very near being ready to issue the first $ 30 million worth of highway reconstruction bonds . The bond issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new <head>bonds</head> would be issued every time a portion of the old ones are paid_off by tax authorities . Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads bonds proposed by then Gov._Marvin_Griffin . The Highway_Department source told The_Constitution , however , that Vandiver has not been consulted yet about the plans to issue the new rural roads bonds . Schley_County_Rep._B._D._Pelham will offer a resolution Monday in the House to rescind the body 's action of Friday in voting itself a $ 10 per day increase in expense allowances .</context>
+    </instance>
+    <instance id="br-a01#w1434_0" docsrc="br-a01">
+      <context> The bond issue will go to the state courts for a friendly test_suit to test the validity of the act , and_then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways . A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new bonds would be issued every time a portion of the old ones are paid_off by tax authorities . Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads <head>bonds</head> proposed by then Gov._Marvin_Griffin . The Highway_Department source told The_Constitution , however , that Vandiver has not been consulted yet about the plans to issue the new rural roads bonds . Schley_County_Rep._B._D._Pelham will offer a resolution Monday in the House to rescind the body 's action of Friday in voting itself a $ 10 per day increase in expense allowances . Pelham said Sunday night there was research being done on whether the `` quickie '' vote on the increase can be repealed outright or whether notice would have to first be given that reconsideration of the action would be sought .</context>
+    </instance>
+    <instance id="br-a01#w1464_0" docsrc="br-a01">
+      <context> A Highway_Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural_Roads_Authority bonds for rural road construction work . The department apparently intends to make the Rural_Roads_Authority a revolving_fund under which new bonds would be issued every time a portion of the old ones are paid_off by tax authorities . Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads bonds proposed by then Gov._Marvin_Griffin . The Highway_Department source told The_Constitution , however , that Vandiver has not been consulted yet about the plans to issue the new rural roads <head>bonds</head> . Schley_County_Rep._B._D._Pelham will offer a resolution Monday in the House to rescind the body 's action of Friday in voting itself a $ 10 per day increase in expense allowances . Pelham said Sunday night there was research being done on whether the `` quickie '' vote on the increase can be repealed outright or whether notice would have to first be given that reconsideration of the action would be sought . While emphasizing that technical details were not fully worked_out , Pelham said his resolution would seek to set_aside the privilege resolution which the House voted through 87 - 31 .</context>
+    </instance>
+    <instance id="br-a02#w1369_0" docsrc="br-a02">
+      <context> Most of the fire was directed by Cotten against Dallas and Sen._Parkhouse . The bill would increase from $ 5000000 to $ 15000000 the maximum loan the state could make to a local water_project . Cotten construed this as a veiled effort by Parkhouse to help Dallas and other large cities get money which Cotten felt could better be spent providing water for rural Texas . Statements by other legislators that Dallas is paying for all its water_program by local <head>bonds</head> , and that less populous places would benefit most by the pending bill , did not sway Cotten 's attack . The bill 's defenders were mostly small-town legislators like J._W._Buchanan of Dumas , Eligio_(_Kika_)_de_la_Garza of Mission , Sam_F._Collins of Newton and Joe_Chapman of Sulphur_Springs . `` This is a poor boy 's bill '' , said Chapman . `` Dallas and Fort_Worth can vote bonds .</context>
+    </instance>
+    <instance id="br-a02#w1435_0" docsrc="br-a02">
+      <context> Statements by other legislators that Dallas is paying for all its water_program by local bonds , and that less populous places would benefit most by the pending bill , did not sway Cotten 's attack . The bill 's defenders were mostly small-town legislators like J._W._Buchanan of Dumas , Eligio_(_Kika_)_de_la_Garza of Mission , Sam_F._Collins of Newton and Joe_Chapman of Sulphur_Springs . `` This is a poor boy 's bill '' , said Chapman . `` Dallas and Fort_Worth can vote <head>bonds</head> . This would help the little peanut districts '' . A Houston teacher , now serving in the Legislature , proposed Thursday a law reducing the time spent learning `` educational methods '' . Rep._Henry_C._Grover , who teaches history in the Houston public_schools , would reduce from 24 to 12 semester_hours the so-called `` teaching_methods '' courses required to obtain a junior or senior_high_school teaching_certificate .</context>
+    </instance>
+    <instance id="br-a02#w951_0" docsrc="br-a02">
+      <context> One , by Sen._Louis_Crump of San_Saba , would aid more than 17000 retailers who pay a group of miscellaneous excise_taxes by eliminating the requirement that each return be notarized . Instead , retailers would sign a certificate of correctness , violation of which would carry a penalty of one to five years in prison , plus a $ 1000 fine . It was one of a series of recommendations by the Texas_Research_League . The other bill , by Sen._A._M._Aikin_Jr. of Paris , would relieve real_estate_brokers , who pay their own annual licensing_fee , from the $ 12 annual occupation_license on brokers in such_as stocks and <head>bonds</head> . Natural_gas public_utility companies would be given the right of eminent_domain , under a bill by Sen._Frank_Owen /3 , of El_Paso , to acquire sites for underground storage reservoirs for gas . Marshall_Formby of Plainview , former chairman of the Texas_Highway_Commission , suggested a plan to fill by appointment future vacancies in the Legislature and Congress , eliminating the need for costly special elections . Under Formby 's plan , an appointee would be selected by a board composed of the governor , lieutenant_governor , speaker of the House , attorney_general and chief_justice of the Texas_Supreme_Court .</context>
+    </instance>
+    <instance id="br-f20#w738_0" docsrc="br-f20">
+      <context> O_'_Banion 's first conflict with the police came in 1909 , at seventeen , when he was committed to Bridewell_Prison for three months for burglary ; two years later he served another three months for assault . Those were his only interludes behind bars , although he collected four more charges on his police record in 1921 and 1922 , three for burglary and one for robbery . But by now O_'_Banion 's political pull was beginning to be effective . On the occasion of his 1922 indictment the $ 10000 <head>bond</head> was furnished by an alderman , and the charge was nolle_prossed . On one of his 1921 ventures he was actually come_upon by a Detective_Sergeant_John_J._Ryan down on his knees with a tool embedded in a labour office safe in the Postal_Telegraph_Building ; the jury wanted better evidence than that and he was acquitted , at a cost of $ 30000 in bribes , it was estimated . As promptly as Torrio , O_'_Banion jumped into bootlegging . He conducted it with less diplomacy and more spontaneous violence than the Sicilians , but he had his huge North_Side portion to exploit and he made a great_deal of money .</context>
+    </instance>
+    <instance id="br-f25#w14_0" docsrc="br-f25">
+      <context> My interviews with teen-agers confirmed this portrait of the weakening of religious and ethnic <head>bonds</head> . Jewish identity was often confused with social and economic strivings . `` Being Jewish gives you tremendous drive '' , a boy remarked . `` It means that you have_to get_ahead '' .</context>
+    </instance>
+    <instance id="br-g39#w1357_0" docsrc="br-g39">
+      <context> For him Mercer produced the lyric to `` Out_of_Breath_Scared_to_Death_of_You '' , introduced in that most successful of all the Gaieties , by Sterling_Holloway . This 1930 edition also had songs in it by Vernon_Duke and Ira_Gershwin , by E._Y._Harburg and Duke , and by Harry_Myers . Entrance into such stellar song writing company encouraged the burgeoning song_writer to take a wife , Elizabeth_Meehan , a dancer in the Gaieties . The Mercers took_up residence in Brooklyn , and Mercer found a regular job in Wall_Street `` misplacing stocks and <head>bonds</head> '' . When he heard that Paul_Whiteman was looking_for singers to replace the Rhythm_Boys , Mercer applied and got the job , `` not for my voice , I 'm sure , but because I could write songs and material generally '' . While with the Whiteman band Mercer met Jerry_Arlen . He had yet to meet Harold_Arlen , for although they had `` collaborated '' on `` Satan 's Li ' l Lamb '' , Mercer and Harburg had worked from a lead_sheet the composer had furnished them .</context>
+    </instance>
+    <instance id="br-j04#w189_0" docsrc="br-j04">
+      <context> The experimental second_moment **f conforms_to the relation **f in_agreement with theory . Hence , the electron paramagnetic effects ( slope ) can be separated from the nuclear effects ( intercept ) . The paramagnetic dipole effects provide some information on the particle shapes . The nuclear dipole effects provide some information on the motions of the hydrogen nuclei , but the symmetry of the **f <head>bond</head> in **f remains in doubt . The magnetic_moment of an unpaired electron associated nearby may have a tremendous influence on the magnetic_resonance properties of nuclei . It is important to consider and experimentally verify this influence since quantitative nuclear_resonance is becoming increasingly used in investigations of structure . **f appeared to be well suited for the study of these matters , since it is a normal paramagnet , with three unpaired electrons on the chromium , its crystal structure is very simple , and the unknown position of the hydrogen in the strong **f bond provides structural interest .</context>
+    </instance>
+    <instance id="br-j04#w284_0" docsrc="br-j04">
+      <context> The nuclear dipole effects provide some information on the motions of the hydrogen nuclei , but the symmetry of the **f bond in **f remains in doubt . The magnetic_moment of an unpaired electron associated nearby may have a tremendous influence on the magnetic_resonance properties of nuclei . It is important to consider and experimentally verify this influence since quantitative nuclear_resonance is becoming increasingly used in investigations of structure . **f appeared to be well suited for the study of these matters , since it is a normal paramagnet , with three unpaired electrons on the chromium , its crystal structure is very simple , and the unknown position of the hydrogen in the strong **f <head>bond</head> provides structural interest . We first discuss the **f bond in **f . We then outline the theory of the interaction of paramagnetic dipoles with nuclei and show that the theory is in excellent agreement with experiment . Indeed it is possible to separate electron paramagnetic from nuclear effects .</context>
+    </instance>
+    <instance id="br-j04#w294_0" docsrc="br-j04">
+      <context> The magnetic_moment of an unpaired electron associated nearby may have a tremendous influence on the magnetic_resonance properties of nuclei . It is important to consider and experimentally verify this influence since quantitative nuclear_resonance is becoming increasingly used in investigations of structure . **f appeared to be well suited for the study of these matters , since it is a normal paramagnet , with three unpaired electrons on the chromium , its crystal structure is very simple , and the unknown position of the hydrogen in the strong **f bond provides structural interest . We first discuss the **f <head>bond</head> in **f . We then outline the theory of the interaction of paramagnetic dipoles with nuclei and show that the theory is in excellent agreement with experiment . Indeed it is possible to separate electron paramagnetic from nuclear effects . The information provided by the electron paramagnetic effects is then discussed , and finally the nuclear effects are interpreted in_terms_of various motional modified models of the **f bond in **f .</context>
+    </instance>
+    <instance id="br-j04#w362_0" docsrc="br-j04">
+      <context> We first discuss the **f bond in **f . We then outline the theory of the interaction of paramagnetic dipoles with nuclei and show that the theory is in excellent agreement with experiment . Indeed it is possible to separate electron paramagnetic from nuclear effects . The information provided by the electron paramagnetic effects is then discussed , and finally the nuclear effects are interpreted in_terms_of various motional modified models of the **f <head>bond</head> in **f . Theoretical studies of the hydrogen_bond generally agree that the **f bond will be linear in the absence of peculiarities of packing in the solid . Moreover , it will be asymmetric until a certain critical **f distance is reached , below which it will become symmetric . There is ample evidence from many sources that the **f bond in **f is symmetric .</context>
+    </instance>
+    <instance id="br-j04#w376_0" docsrc="br-j04">
+      <context> We then outline the theory of the interaction of paramagnetic dipoles with nuclei and show that the theory is in excellent agreement with experiment . Indeed it is possible to separate electron paramagnetic from nuclear effects . The information provided by the electron paramagnetic effects is then discussed , and finally the nuclear effects are interpreted in_terms_of various motional modified models of the **f bond in **f . Theoretical studies of the hydrogen_bond generally agree that the **f <head>bond</head> will be linear in the absence of peculiarities of packing in the solid . Moreover , it will be asymmetric until a certain critical **f distance is reached , below which it will become symmetric . There is ample evidence from many sources that the **f bond in **f is symmetric . The **f distance in **f is 2.26 A .</context>
+    </instance>
+    <instance id="br-j04#w423_0" docsrc="br-j04">
+      <context> The information provided by the electron paramagnetic effects is then discussed , and finally the nuclear effects are interpreted in_terms_of various motional modified models of the **f bond in **f . Theoretical studies of the hydrogen_bond generally agree that the **f bond will be linear in the absence of peculiarities of packing in the solid . Moreover , it will be asymmetric until a certain critical **f distance is reached , below which it will become symmetric . There is ample evidence from many sources that the **f <head>bond</head> in **f is symmetric . The **f distance in **f is 2.26 A . There is evidence , though less convincing than for **f , that the **f bond in nickel dimethylglyoxime is symmetric . Here the **f distance is 2.44 A .</context>
+    </instance>
+    <instance id="br-j04#w452_0" docsrc="br-j04">
+      <context> Moreover , it will be asymmetric until a certain critical **f distance is reached , below which it will become symmetric . There is ample evidence from many sources that the **f bond in **f is symmetric . The **f distance in **f is 2.26 A . There is evidence , though less convincing than for **f , that the **f <head>bond</head> in nickel dimethylglyoxime is symmetric . Here the **f distance is 2.44 A . A number of semiempirical estimates by various workers lead to the conclusion that the **f bond becomes symmetric when the **f bond length is about 2.4 to 2.5 A , but aside from the possible example of nickel dimethylglyoxime there have been no convincing reports of symmetric **f bonds . Douglass has studied the crystal structure of **f by x-ray_diffraction .</context>
+    </instance>
+    <instance id="br-j04#w482_0" docsrc="br-j04">
+      <context> The **f distance in **f is 2.26 A . There is evidence , though less convincing than for **f , that the **f bond in nickel dimethylglyoxime is symmetric . Here the **f distance is 2.44 A . A number of semiempirical estimates by various workers lead to the conclusion that the **f <head>bond</head> becomes symmetric when the **f bond length is about 2.4 to 2.5 A , but aside from the possible example of nickel dimethylglyoxime there have been no convincing reports of symmetric **f bonds . Douglass has studied the crystal structure of **f by x-ray_diffraction . He finds the structure contains an **f bond with the **f distance of **f . There is , then , the possibility that this **f bond is symmetric , although Douglass was unable to determine its symmetry from his x-ray data .</context>
+    </instance>
+    <instance id="br-j04#w488_0" docsrc="br-j04">
+      <context> The **f distance in **f is 2.26 A . There is evidence , though less convincing than for **f , that the **f bond in nickel dimethylglyoxime is symmetric . Here the **f distance is 2.44 A . A number of semiempirical estimates by various workers lead to the conclusion that the **f bond becomes symmetric when the **f <head>bond</head> length is about 2.4 to 2.5 A , but aside from the possible example of nickel dimethylglyoxime there have been no convincing reports of symmetric **f bonds . Douglass has studied the crystal structure of **f by x-ray_diffraction . He finds the structure contains an **f bond with the **f distance of **f . There is , then , the possibility that this **f bond is symmetric , although Douglass was unable to determine its symmetry from his x-ray data .</context>
+    </instance>
+    <instance id="br-j04#w515_0" docsrc="br-j04">
+      <context> The **f distance in **f is 2.26 A . There is evidence , though less convincing than for **f , that the **f bond in nickel dimethylglyoxime is symmetric . Here the **f distance is 2.44 A . A number of semiempirical estimates by various workers lead to the conclusion that the **f bond becomes symmetric when the **f bond length is about 2.4 to 2.5 A , but aside from the possible example of nickel dimethylglyoxime there have been no convincing reports of symmetric **f <head>bonds</head> . Douglass has studied the crystal structure of **f by x-ray_diffraction . He finds the structure contains an **f bond with the **f distance of **f . There is , then , the possibility that this **f bond is symmetric , although Douglass was unable to determine its symmetry from his x-ray data .</context>
+    </instance>
+    <instance id="br-j04#w535_0" docsrc="br-j04">
+      <context> Here the **f distance is 2.44 A . A number of semiempirical estimates by various workers lead to the conclusion that the **f bond becomes symmetric when the **f bond length is about 2.4 to 2.5 A , but aside from the possible example of nickel dimethylglyoxime there have been no convincing reports of symmetric **f bonds . Douglass has studied the crystal structure of **f by x-ray_diffraction . He finds the structure contains an **f <head>bond</head> with the **f distance of **f . There is , then , the possibility that this **f bond is symmetric , although Douglass was unable to determine its symmetry from his x-ray data . Douglass found **f to be trigonal , Laue symmetry **f , with **f , **f . X-ray and experimental density showed one formula unit in the unit_cell , corresponding to a paramagnetic ion density of **f .</context>
+    </instance>
+    <instance id="br-j04#w553_0" docsrc="br-j04">
+      <context> A number of semiempirical estimates by various workers lead to the conclusion that the **f bond becomes symmetric when the **f bond length is about 2.4 to 2.5 A , but aside from the possible example of nickel dimethylglyoxime there have been no convincing reports of symmetric **f bonds . Douglass has studied the crystal structure of **f by x-ray_diffraction . He finds the structure contains an **f bond with the **f distance of **f . There is , then , the possibility that this **f <head>bond</head> is symmetric , although Douglass was unable to determine its symmetry from his x-ray data . Douglass found **f to be trigonal , Laue symmetry **f , with **f , **f . X-ray and experimental density showed one formula unit in the unit_cell , corresponding to a paramagnetic ion density of **f . The x-ray data did not permit Douglass to determine uniquely the space group , but a negative test for piezoelectricity led him to assume a center of symmetry .</context>
+    </instance>
+    <instance id="br-j04#w818_0" docsrc="br-j04">
+      <context> A drawing of the structure is to be_found in reference 6 . The gross details of the structure appear reasonable . The structure appears to be unique among ROOH compounds , but is the same as that assumed by **f . The <head>bond</head> angles and distances are all within the expected limits and the volume per oxygen is about normal . However , the possible absence of a center of symmetry not_only moves the hydrogen_atom off **f , but also allows the oxygen atoms to become nonequivalent , with **f at **f and **f at **f ( space group **f ) , where **f represents the oxygens on one side of the **f layers and **f those on the other side . However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence .</context>
+    </instance>
+    <instance id="br-j04#w990_0" docsrc="br-j04">
+      <context> However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence . The only effect of lack of a center would then be to release the hydrogen_atoms to occupy general , rather_than special , positions along the [ 111 ] axis . If the **f <head>bond</head> is linear then there are three reasonable positions for the hydrogen_atoms : ( 1 ) The hydrogen_atoms are centered and hence all lie on a sheet midway between the oxygen sheets ; ( 2 ) all hydrogen_atoms lie on a sheet , but the sheet is closer to one oxygen sheet than to the other ; ( 3 ) hydrogen_atoms are asymmetrically placed , either randomly or in an ordered way , so that some hydrogen_atoms are closer to the upper oxygen atoms while others are closer to the lower oxygen atoms . Position ( 2 ) appears to us to be unlikely in_view_of the absence of a piezoelectric_effect and on general chemical structural grounds . A randomization of `` ups '' and `` downs '' is more likely than ordered `` ups '' and `` downs '' in position ( 3 ) since the hydrogen_atoms are well separated and so the position of one could hardly affect the position of another , and also since ordered `` up '' and `` down '' implies a larger unit_cell , for which no evidence exists . Therefore , the only unknown structural feature would appear to be whether the hydrogen_atoms are located symmetrically ( 1 ) or asymmetrically ( 3 ) .</context>
+    </instance>
+    <instance id="br-j06#w279_0" docsrc="br-j06">
+      <context> It appears possible to set a lower_limit of about * * f for the activation_energy of the abstraction of a chlorine atom from a carbon_tetrachloride molecule by a chlorine atom to form * * f radical . The rate of the gas phase exchange reaction appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by reaction with an impurity rather than by bimolecular radical combination reactions . Because of the simplicity of the molecules , isotopic exchange reactions between elemental halogens and the corresponding carbon_tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data . It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical_reactions in both the liquid and gas phases and to determine values for activation_energies of some of the intermediate reactions of atoms and free_radicals , as_well_as information on the heat_of_dissociation of the carbon halogen <head>bond</head> . The reaction of chlorine with carbon_tetrachloride seemed particularly suited for such studies . It should be possible to prepare very pure chlorine by oxidation of inorganic chlorides on a vacuum system followed by multiple distillation of the liquid . It should be possible to free carbon_tetrachloride of any interfering substances by the usual purification methods followed by prechlorination prior to addition of radioactive chlorine .</context>
+    </instance>
+    <instance id="br-j23#w1547_0" docsrc="br-j23">
+      <context> The beliefs of a religion also reflecting the values are expressed in creeds , dogmas , and doctrines , and form what Durkheim calls a credo . As he points_out , a religious group cannot exist without a collective credo , and the more extensive the credo , the more unified and strong is the group . The credo unifies and socializes men by attaching them completely to an identical body of doctrine ; the more extensive and firm the body of doctrine , the firmer the group . The religious symbolism , and especially the closely related rites and worship forms , constitute a powerful <head>bond</head> for the members of the particular faith . The religion , in_fact , is an expression of the unity of the group , small or large . The common codes , for religious action as_such and in their ethical aspects for everyday moral behavior , bind the devotees together . These are ways of jointly participating in significantly symbolized , standardized , and ordered religiously sanctified behavior .</context>
+    </instance>
+    <instance id="br-j23#w1787_0" docsrc="br-j23">
+      <context> Durkheim noted long_ago that religion as `` a unified system of beliefs and practices relative to sacred things - unite [ s ] into one single moral community - all those who adhere to them '' . His view is that every religion pertains to a community , and , conversely , every community is in one aspect a religious unit . This is brought_out in the common religious ethos that prevails even in the denominationally diverse audiences at many secular semi-public and public occasions in the United_States ; and it is evidenced in the prayers offered , in the frequent religious allusions , and in the confirmation of points on religious grounds . The unifying effect of religion is also brought_out in the fact that historically peoples have clung together as more_or_less cohesive cultural units , with religion as the dominant <head>bond</head> , even though spatially dispersed and not politically organized . The Jews for 2500 years have been a prime example , though the adherents of any world or inter people religion are cases_in_point . it might be pointed_out that the integrating function of religion , for good or ill , has often supported or been identified with other groupings - political , nationality , language , class , racial , sociability , even economic . Religion usually exercises a stabilizing conserving function .</context>
+    </instance>
+    <instance id="br-j56#w250_0" docsrc="br-j56">
+      <context> The layout of the sewer_lines was designed by Henry_W._Taylor , who was the engineer for the Manchester_Village disposal_plant . No figures were submitted with the report and no action was taken on it by the town . The 1958 town_meeting directed town authorities to seek federal and state funds with which to conduct a preliminary survey of a proposed sewage plant with its attendant facilities . The final step was a vote for a $ 230000 <head>bond</head> issue for the construction of a sewage_system by the 1959 town_meeting , later confirmed by a two-thirds vote at a special town_meeting June_21 , 1960 . There the matter stands with the prospect that soon Manchester may be removed from the roster of towns contributing raw sewage to its main streams . Manchester 's unusual interest in telegraphy has often been attributed to the fact that the Rev._J._D._Wickham , headmaster of Burr and Burton_Seminary , was a personal friend and correspondent of the inventor , Samuel_F._B._Morse . At_any_rate , Manchester did not lag far behind the first commercial system which was set_up in 1844 between Baltimore and Washington .</context>
+    </instance>
+    <instance id="br-k15#w318_0" docsrc="br-k15">
+      <context> God would not do that , Kate thought stubbornly . Jonathan 's letter came , as she knew it would , and he had accepted their child 's death as another judgment from God against both Kate and himself . In blind panic of grief she accepted Jonathan 's dictum , and believed in her desperation that she had been cursed by God . She held Jonathan 's letter , his words burning like a brand , and knew suddenly that the <head>bonds</head> between them were severed . She had nothing left but her duty to his land and his son . Joel came and sat mutely with her , sharing her pain and anguish , averting his eyes from the ice_packs on her bosom . Juanita and Mrs._Tussle kept Kate in bed a week until her milk dried .</context>
+    </instance>
+    <instance id="br-k18#w915_0" docsrc="br-k18">
+      <context> First thing I knew he was in the kitchenette cooking_up the breakfast and I was handing Eileen her coffee-cup and she was lying there handsome as a queen among her courtiers . I could n't face Thelma after that night . I did n't even have the nerve to call her on the telephone . I wrote her that I 'd met_up_with Eileen and that old <head>bonds</head> had proved too strong and asked her to send my clothes down by express . Of_course I had_to give her Eileen 's address , but she never came_near us . All she did was write me a pleasant little note about how it was beautiful while it lasted but that now life had parted our ways and it was goodbye forever . She never said a word about the fifty dollars .</context>
+    </instance>
+    <instance id="n00079603_d_2" docsrc="n00079603_d">
+      <context> trading in <head>bonds</head> ( usually by a broker on the floor of an exchange ) ;</context>
+    </instance>
+    <instance id="n01100147_d_4" docsrc="n01100147_d">
+      <context> financing a commercial_enterprise by <head>bond</head> or stock shares ;</context>
+    </instance>
+    <instance id="n01119949_d_11" docsrc="n01119949_d">
+      <context> a sale of a relatively large_number of assets ( stocks or <head>bonds</head> or commodities ) at a low price typically done to dispose of them rather than as normal trade ;</context>
+    </instance>
+    <instance id="n03664943_d_4" docsrc="n03664943_d">
+      <context> any connection or unifying <head>bond</head> ;</context>
+    </instance>
+    <instance id="n05689801_d_6" docsrc="n05689801_d">
+      <context> something that hinders as if with <head>bonds</head> ;</context>
+    </instance>
+    <instance id="n06773006_d_6" docsrc="n06773006_d">
+      <context> formal agreement between the issuer of <head>bonds</head> and the bondholders as to terms of the debt ;</context>
+    </instance>
+    <instance id="n08071756_d_16" docsrc="n08071756_d">
+      <context> a mutual_fund that invests in the stocks that are the basis of a well-known stock or <head>bond</head> index ;</context>
+    </instance>
+    <instance id="n08419774_d_20" docsrc="n08419774_d">
+      <context> an agency ( usually a bank ) that is appointed by a corporation to keep records of its stock and <head>bond</head> owners and to resolve problems about certificates ;</context>
+    </instance>
+    <instance id="n09864761_d_3" docsrc="n09864761_d">
+      <context> a holder of <head>bonds</head> issued by a government or corporation ;</context>
+    </instance>
+    <instance id="n09865279_d_4" docsrc="n09865279_d">
+      <context> someone who signs a <head>bond</head> as surety for someone else ;</context>
+    </instance>
+    <instance id="n10179911_d_12" docsrc="n10179911_d">
+      <context> the person who is in possession of a check or note or <head>bond</head> or document of title that is endorsed to him or to whoever holds it ;</context>
+    </instance>
+    <instance id="n10517137_d_13" docsrc="n10517137_d">
+      <context> a person employed to keep a record of the owners of stocks and <head>bonds</head> issued by the company ;</context>
+    </instance>
+    <instance id="n10520964_d_8" docsrc="n10520964_d">
+      <context> someone whose income is from property rents or <head>bond</head> interest and other investments ;</context>
+    </instance>
+    <instance id="n10657444_d_10" docsrc="n10657444_d">
+      <context> an agent in the buying and selling of stocks and <head>bonds</head> ;</context>
+    </instance>
+    <instance id="n10908534_d_5" docsrc="n10908534_d">
+      <context> United_States financier who marketed Union <head>bonds</head> to finance the American_Civil_War ; the failure of his bank resulted in a financial panic in 1873 ;</context>
+    </instance>
+    <instance id="n11436929_d_2" docsrc="n11436929_d">
+      <context> a side <head>bond</head> that links two adjacent chains of atoms in a complex molecule ;</context>
+    </instance>
+    <instance id="n13337471_d_0" docsrc="n13337471_d">
+      <context> <head>bonds</head> sold by a corporation or government_agency at a particular time and identifiable by date of maturity ;</context>
+    </instance>
+    <instance id="n13337634_d_1" docsrc="n13337634_d">
+      <context> a <head>bond</head> that can be converted to other securities under certain conditions ;</context>
+    </instance>
+    <instance id="n13337770_d_1" docsrc="n13337770_d">
+      <context> a <head>bond</head> issued by a corporation ; carries no claim to ownership and pays no dividends but payments to bondholders have priority over payments to stockholders ;</context>
+    </instance>
+    <instance id="n13338066_d_1" docsrc="n13338066_d">
+      <context> a <head>bond</head> issued with detachable coupons that must be presented to the issuer for interest payments ;</context>
+    </instance>
+    <instance id="n13338234_d_1" docsrc="n13338234_d">
+      <context> a <head>bond</head> that is an IOU of the United_States_Treasury ; considered the safest security in the investment world ;</context>
+    </instance>
+    <instance id="n13338439_d_4" docsrc="n13338439_d">
+      <context> a ( speculative ) <head>bond</head> with a credit_rating of BB or lower ; issued for leveraged_buyouts and other takeovers by companies with questionable credit ;</context>
+    </instance>
+    <instance id="n13338657_d_1" docsrc="n13338657_d">
+      <context> a <head>bond</head> issued by a state or local_government ;</context>
+    </instance>
+    <instance id="n13338780_d_1" docsrc="n13338780_d">
+      <context> a <head>bond</head> containing a provision that the holder can not redeem the security before a specific date ( usually at maturity ) ;</context>
+    </instance>
+    <instance id="n13338960_d_1" docsrc="n13338960_d">
+      <context> a <head>bond</head> given to protect the recipient against loss in case the terms_of_a_contract are not filled ; a surety company assumes liability for nonperformance ;</context>
+    </instance>
+    <instance id="n13339189_d_1" docsrc="n13339189_d">
+      <context> a <head>bond</head> made by a reversioner to secure a loan ; payable out of his reversion ;</context>
+    </instance>
+    <instance id="n13339325_d_1" docsrc="n13339325_d">
+      <context> a <head>bond</head> whose owner is recorded on the books of the issuer ; can be transferred to another owner only when endorsed by the registered owner ;</context>
+    </instance>
+    <instance id="n13339542_d_1" docsrc="n13339542_d">
+      <context> a <head>bond</head> issued by an agency that is commissioned to finance public_works ; revenue from the public_property is used to pay_off the bond ;</context>
+    </instance>
+    <instance id="n13339542_d_22" docsrc="n13339542_d">
+      <context> a bond issued by an agency that is commissioned to finance public_works ; revenue from the public_property is used to pay_off the <head>bond</head> ;</context>
+    </instance>
+    <instance id="n13339734_d_1" docsrc="n13339734_d">
+      <context> a <head>bond</head> that is back by collateral ;</context>
+    </instance>
+    <instance id="n13340244_d_12" docsrc="n13340244_d">
+      <context> a security created when a group of mortgages are gathered together and <head>bonds</head> are sold to other institutions or the public ; investors receive a portion of the interest payments on the mortgages as_well as the principal payments ; usually guaranteed by the government ;</context>
+    </instance>
+    <instance id="n13340902_d_1" docsrc="n13340902_d">
+      <context> a <head>bond</head> issued to finance the construction of public_utility services ;</context>
+    </instance>
+    <instance id="n13341052_d_1" docsrc="n13341052_d">
+      <context> a <head>bond</head> that is issued at a deep discount from its value at maturity and pays no interest during the life of the bond ; the commonest form of zero_coupon_security ;</context>
+    </instance>
+    <instance id="n13341052_d_23" docsrc="n13341052_d">
+      <context> a bond that is issued at a deep discount from its value at maturity and pays no interest during the life of the <head>bond</head> ; the commonest form of zero_coupon_security ;</context>
+    </instance>
+    <instance id="n13350976_ex2_2" docsrc="n13350976_ex2">
+      <context> a $10,000 <head>bond</head> was furnished by an alderman ;</context>
+    </instance>
+    <instance id="n13418219_d_13" docsrc="n13418219_d">
+      <context> a type of security issued by a corporation ( usually together with a <head>bond</head> or preferred_stock ) that gives the holder the right to purchase a certain amount of common_stock at a stated price ;</context>
+    </instance>
+    <instance id="n13419325_d_5" docsrc="n13419325_d">
+      <context> a corporate security ( usually <head>bonds</head> or preferred_stock ) that can be exchanged for another form of security ( usually common_stock ) ;</context>
+    </instance>
+    <instance id="n13419535_d_3" docsrc="n13419535_d">
+      <context> a stock or <head>bond</head> that is not registered with the Securities_and_Exchange_Commission and can not be sold in the public market ;</context>
+    </instance>
+    <instance id="n13420722_d_1" docsrc="n13420722_d">
+      <context> a <head>bond</head> that has not been registered with the Securities_and_Exchange_Commission and can not be sold to the general public ;</context>
+    </instance>
+    <instance id="n13494919_d_19" docsrc="n13494919_d">
+      <context> a chemical_reaction in which water reacts with a compound to produce other compounds ; involves the splitting of a <head>bond</head> and the addition of the hydrogen cation and the hydroxide anion from the water ;</context>
+    </instance>
+    <instance id="n13792183_ex2_5" docsrc="n13792183_ex2">
+      <context> their friendship constitutes a powerful <head>bond</head> between them ;</context>
+    </instance>
+    <instance id="n13792468_d_2" docsrc="n13792468_d">
+      <context> the emotional <head>bond</head> between a mother and her offspring ;</context>
+    </instance>
+    <instance id="n14605415_d_7" docsrc="n14605415_d">
+      <context> a nuclease that cleaves nucleic_acids at interior <head>bonds</head> and so produces fragments of various sizes ;</context>
+    </instance>
+    <instance id="n14741474_d_11" docsrc="n14741474_d">
+      <context> an unsaturated_fatty_acid whose carbon chain has one double or triple valence <head>bond</head> per molecule ; found chiefly in olive_oil and chicken and almonds ;</context>
+    </instance>
+    <instance id="n14860280_d_21" docsrc="n14860280_d">
+      <context> flux applied to surfaces that are to be joined by soldering ; flux cleans the surfaces and results in a better <head>bond</head> ;</context>
+    </instance>
+    <instance id="n14955889_d_3" docsrc="n14955889_d">
+      <context> used as a <head>bond</head> in masonry or for covering a wall ;</context>
+    </instance>
+    <instance id="v02218924_d_12" docsrc="v02218924_d">
+      <context> convert into long-term debt that bears fixed interest and is represented by <head>bonds</head> ;</context>
+    </instance>
+    <instance id="v02351925_d_1" docsrc="v02351925_d">
+      <context> issue <head>bonds</head> on ;</context>
+    </instance>
+    <instance id="v02480448_d_15" docsrc="v02480448_d">
+      <context> withdraw from circulation or from the market , as of bills , shares , and <head>bonds</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="contributor.n" pos="NN">
+    <instance id="br-g21#w1610_0" docsrc="br-g21">
+      <context> But before I try to diagnose it , I would offer other evidence . I will mention two volumes of specific comment on this malaise that appeared last year . The earlier of them was an unofficial enterprise , sponsored by Life magazine , under the title of the National purpose . The <head>contributors</head> to this testament were all well-known : a former Democratic candidate for President , a New_Deal poet , the magazine 's chief editorial writer , two newspaper_columnists , head of a national broadcasting_company , a popular Protestant evangelist , etc. . What I want to point_out here is that all_of them are ex liberals , or modified liberals , with perhaps one exception . I suppose we might classify Billy_Graham as an old liberal .</context>
+    </instance>
+    <instance id="br-j70#w608_0" docsrc="br-j70">
+      <context> The pilot plant was a circular lagoon 81 ft in diam at the surface and 65 ft in diam at the bottom , 4 ft below the surface , with a volume of 121000 gal . The side slopes were coated with fiberglas matting coated with asphalt to prevent erosion . The pilot lagoon was located as shown in Figure 1 to serve the area just south of the existing housing area . The major <head>contributor</head> was a shopping_center with houses being added to the system as the subdivision developed . The pilot lagoon was designed to handle the wastes from 314 persons with a 4 - day aeration period . Initially , the wastewater would be entirely from the shopping_center with the domestic sewage from the houses increasing over an 18 - month period . This operation would permit evaluation of the pilot plant , with a slowly increasing load , over a reasonable period_of_time .</context>
+    </instance>
+  </lexelt>
+</corpus>

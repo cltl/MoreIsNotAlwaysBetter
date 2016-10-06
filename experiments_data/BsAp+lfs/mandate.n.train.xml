@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="mandate.n" pos="NN">
+    <instance id="br-h16#w2064_0" docsrc="br-h16">
+      <context> Du_Pont would be denied the right to acquire any additional General_Motors stock except through General_Motors ' distributions of stock or subscription_rights to its stockholders . On June 6 , 1958 , General_Motors submitted its objections to the Government 's proposal . It argued , inter_alia , that a divestiture order would severely depress the market_value of the stock of both General_Motors and du_Pont , with consequent serious loss and hardship to hundreds of thousands of innocent investors , among them thousands of small trusts and charitable institutions ; that there would be a similar decline in the market_values of other automotive and chemical stocks , with similar losses to the stockholders of those companies ; that the tremendous volume of General_Motors stock hanging over the market for ten years would hamper the efforts of General_Motors and other automobile manufacturers to raise equity capital ; and that all this would have a serious adverse effect on the entire stock_market and on general business_activity . General_Motors comprehensively contended that the Government plan would not be `` in the public interest '' as_required by the <head>mandate</head> of_this Court . The decrees proposed by the amici_curiae were filed in August of 1958 . These plans , like du_Pont 's contained provisions for passing the vote on du_Pont 's General_Motors shares on to the ultimate stockholders of du_Pont , Christiana , and Delaware , except that officers and directors of the three companies , their spouses , and other people living in their households , as_well_as other specified persons , were to be totally disenfranchised . Both plans also prohibited common directors , officers , or employees between du_Pont , Christiana , and Delaware , on_the_one_hand , and General_Motors on_the_other .</context>
+    </instance>
+    <instance id="n08345366_d_14" docsrc="n08345366_d">
+      <context> the clandestine military wing of the Jewish leadership during the British rule over the <head>mandate</head> of Palestine from 1920 to 1948 ; became the basis for the Israeli defense force ;</context>
+    </instance>
+    <instance id="n08798771_d_3" docsrc="n08798771_d">
+      <context> a former British <head>mandate</head> on the east coast of the Mediterranean ; divided between Jordan and Israel in 1948 ;</context>
+    </instance>
+  </lexelt>
+</corpus>

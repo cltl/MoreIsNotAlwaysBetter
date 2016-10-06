@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="camera.n" pos="NN">
+    <instance id="Camera-camera-0-146-1" docsrc="Camera">
+      <context> <head>Most</head> TLRs used 120 or 220 film ; some used the smaller 127 film . === Subminiature camera === Cameras taking film significantly smaller than 35 mm were made .</context>
+    </instance>
+    <instance id="Camera-camera-0-192-1" docsrc="Camera">
+      <context> <head>Photography</head> Cinematography Cameras in mobile phones</context>
+    </instance>
+    <instance id="Camera-camera-0-193-1" docsrc="Camera">
+      <context> <head>Cinematography</head> Cameras in mobile phones Camera Obscura</context>
+    </instance>
+    <instance id="Camera-camera-0-34-2" docsrc="Camera">
+      <context> <head>Traditional</head> cameras capture light onto photographic plate or photographic film . Video and digital cameras use an electronic image sensor , usually a charge coupled device ( CCD ) or a CMOS sensor to capture images which can be transferred or stored in a memory card or other storage inside the camera for later playback or processing . Cameras that capture many images in sequence are known as movie cameras or as ciné cameras in Europe ; those designed for single images are still cameras .</context>
+    </instance>
+    <instance id="Camera-camera-0-41-4" docsrc="Camera">
+      <context> <head>The</head> technological revolution in camera design in the 19th century revolutionized optical glass manufacture and lens design with great benefits for modern lens manufacture in a wide range of optical instruments from reading glasses to microscopes . Pioneers included Zeiss and Leitz . Camera lenses are made in a wide range of focal lengths .</context>
+    </instance>
+    <instance id="Camera-camera-1-0-2" docsrc="Camera">
+      <context> A <head>camera</head> is an optical instrument for recording or capturing images , which may be stored locally , transmitted to another location , or both . The images may be individual still photographs or sequences of images constituting videos or movies . The camera is a remote sensing device as it senses subjects without physical contact .</context>
+    </instance>
+    <instance id="Camera-camera-1-108-1" docsrc="Camera">
+      <context> === <head>Folding</head> camera === === Box camera === Box cameras were introduced as a budget level camera and had few if any controls .</context>
+    </instance>
+    <instance id="Camera-camera-1-148-1" docsrc="Camera">
+      <context> === <head>Subminiature</head> camera === Cameras taking film significantly smaller than 35 mm were made . Subminiature cameras were first produced in the nineteenth century .</context>
+    </instance>
+    <instance id="Camera-camera-1-162-1" docsrc="Camera">
+      <context> === <head>Camcorders</head> === === Professional video camera === These cameras earlier used vacuum tubes and later electronic sensors .</context>
+    </instance>
+    <instance id="Camera-camera-1-170-1" docsrc="Camera">
+      <context> === <head>Digital</head> camera === A digital camera ( or digicam ) is a camera that encodes digital images and videos digitally and stores them for later reproduction . Most cameras sold today are digital , and digital cameras are incorporated into many devices ranging from mobile phones ( called camera phones ) to vehicles .</context>
+    </instance>
+    <instance id="Camera-camera-1-180-1" docsrc="Camera">
+      <context> === <head>panoramic</head> camera === ==== VR Camera ==== VR cameras are panoramic cameras that also cover the top and bottom in their field of view . .</context>
+    </instance>
+    <instance id="Camera-camera-1-195-1" docsrc="Camera">
+      <context> Camera <head>Obscura</head> Al Hazen How camera works at How stuff works .</context>
+    </instance>
+    <instance id="Camera-camera-1-205-1" docsrc="Camera">
+      <context> Al <head>Hazen</head> How camera works at How stuff works .</context>
+    </instance>
+    <instance id="Camera-camera-1-22-3" docsrc="Camera">
+      <context> Early <head>wet</head> plate cameras were very simple and little different from Daguerreotype cameras , but more sophisticated designs eventually appeared . The Dubroni of 1864 allowed the sensitizing and developing of the plates to be carried out inside the camera itself rather than in a separate darkroom . Other cameras were fitted with multiple lenses for photographing several small portraits on a single larger plate , useful when making cartes de visite .</context>
+    </instance>
+    <instance id="Camera-camera-1-33-1" docsrc="Camera">
+      <context> Gradually <head>in</head> the 2000s and 2010s , digital cameras became the dominant type of camera across consumer , television and movies . === Image capture === Traditional cameras capture light onto photographic plate or photographic film .</context>
+    </instance>
+    <instance id="Camera-camera-1-45-1" docsrc="Camera">
+      <context> The <head>telephoto</head> lens is useful for sports and wildlife but it is more susceptible to camera shake . === Focus === Some cameras have post focusing .</context>
+    </instance>
+    <instance id="Camera-camera-1-51-2" docsrc="Camera">
+      <context> Some <head>cameras</head> have post focusing . Post focusing means take the pictures first and then focusing later at the personal computer . The camera uses many tiny lenses on the sensor to capture light from every camera angle of a scene and is called plenoptics technology .</context>
+    </instance>
+    <instance id="Camera-camera-10-148-2" docsrc="Camera">
+      <context> Cameras taking film significantly smaller than 35 mm were made <head>.</head> Subminiature cameras were first produced in the nineteenth century . The expensive 8×11 mm Minox , the only type of camera produced by the company from 1937 to 1976 , became very widely known and was often used for espionage ( the Minox company later also produced larger cameras ) .</context>
+    </instance>
+    <instance id="Camera-camera-11-34-2" docsrc="Camera">
+      <context> Traditional cameras capture light onto photographic plate or photographic film . <head>Video</head> and digital cameras use an electronic image sensor , usually a charge coupled device ( CCD ) or a CMOS sensor to capture images which can be transferred or stored in a memory card or other storage inside the camera for later playback or processing . Cameras that capture many images in sequence are known as movie cameras or as ciné cameras in Europe ; those designed for single images are still cameras .</context>
+    </instance>
+    <instance id="Camera-camera-12-0-6" docsrc="Camera">
+      <context> The modern photographic camera evolved from the camera obscura . The functioning <head>of</head> the camera is very similar to the functioning of the human eye . A movie camera or a video camera operates similarly to a still camera , except it records a series of static images in rapid succession , commonly at a rate of 24 frames per second .</context>
+    </instance>
+    <instance id="Camera-camera-12-22-1" docsrc="Camera">
+      <context> Thanks to the help of modern science , A group of photoscientists <head>of</head> MIT has successfully created a camera having frame rate of 1 trillion per second , able to see the light emerging and reflecting or refracting on a opaque or translucent media . The collodion wet plate process that gradually replaced the daguerreotype during the 1850s required photographers to coat and sensitize thin glass or iron plates shortly before use and expose them in the camera while still wet . Early wet plate cameras were very simple and little different from Daguerreotype cameras , but more sophisticated designs eventually appeared .</context>
+    </instance>
+    <instance id="Camera-camera-14-25-1" docsrc="Camera">
+      <context> As more sensitive photographic materials became available , cameras began to incorporate mechanical shutter <head>mechanisms</head> that allowed very short and accurately timed exposures to be made . Films also made possible capture of motion ( cinematography ) establishing the movie industry by end of 19th century . Gradually in the 2000s and 2010s , digital cameras became the dominant type of camera across consumer , television and movies .</context>
+    </instance>
+    <instance id="Camera-camera-14-51-2" docsrc="Camera">
+      <context> Some cameras have post focusing . Post focusing means take the pictures first and <head>then</head> focusing later at the personal computer . The camera uses many tiny lenses on the sensor to capture light from every camera angle of a scene and is called plenoptics technology .</context>
+    </instance>
+    <instance id="Camera-camera-15-34-2" docsrc="Camera">
+      <context> Traditional cameras capture light onto photographic plate or photographic film . Video and digital cameras <head>use</head> an electronic image sensor , usually a charge coupled device ( CCD ) or a CMOS sensor to capture images which can be transferred or stored in a memory card or other storage inside the camera for later playback or processing . Cameras that capture many images in sequence are known as movie cameras or as ciné cameras in Europe ; those designed for single images are still cameras .</context>
+    </instance>
+    <instance id="Camera-camera-15-42-5" docsrc="Camera">
+      <context> The extreme wide angle may be preferred for architecture because it has the capacity to <head>capture</head> a wide view of a building . The normal lens , because it often has a wide aperture , is often used for street and documentary photography . The telephoto lens is useful for sports and wildlife but it is more susceptible to camera shake .</context>
+    </instance>
+    <instance id="Camera-camera-15-58-1" docsrc="Camera">
+      <context> Equivalent exposures can be made using a large aperture size with a fast shutter speed <head>and</head> a small aperture with a slow shutter . === Shutters === Although a range of different shutter devices have been used during the development of the camera only two types have been widely used and remain in use today .</context>
+    </instance>
+    <instance id="Camera-camera-16-110-1" docsrc="Camera">
+      <context> === Box camera === Box cameras were introduced as a budget level camera and had few <head>if</head> any controls . The original box Brownie models had a small reflex viewfinder mounted on the top of the camera and had no aperture or focusing controls and just a simple shutter .</context>
+    </instance>
+    <instance id="Camera-camera-18-153-1" docsrc="Camera">
+      <context> === Movie camera === A ciné camera or movie camera takes a rapid sequence of photographs on image <head>sensor</head> or strips of film . In contrast to a still camera , which captures a single snapshot at a time , the ciné camera takes a series of images , each called a " frame " through the use of an intermittent mechanism .</context>
+    </instance>
+    <instance id="Camera-camera-18-22-2" docsrc="Camera">
+      <context> The collodion wet plate process that gradually replaced the daguerreotype during the 1850s required photographers to coat and <head>sensitize</head> thin glass or iron plates shortly before use and expose them in the camera while still wet . Early wet plate cameras were very simple and little different from Daguerreotype cameras , but more sophisticated designs eventually appeared . The Dubroni of 1864 allowed the sensitizing and developing of the plates to be carried out inside the camera itself rather than in a separate darkroom .</context>
+    </instance>
+    <instance id="Camera-camera-18-6-2" docsrc="Camera">
+      <context> A movie camera or a video camera operates similarly to a still camera , except it records a <head>series</head> of static images in rapid succession , commonly at a rate of 24 frames per second . When the images are combined and displayed in order , the illusion of motion is achieved . Thanks to the help of modern science , A group of photoscientists of MIT has successfully created a camera having frame rate of 1 trillion per second , able to see the light emerging and reflecting or refracting on a opaque or translucent media .</context>
+    </instance>
+    <instance id="Camera-camera-19-54-1" docsrc="Camera">
+      <context> A current plenoptic camera design has 40,000 lenses working together to grab the optimal picture . === Exposure control <head>===</head> The size of the aperture and the brightness of the scene controls the amount of light that enters the camera during a period of time , and the shutter controls the length of time that the light hits the recording surface .</context>
+    </instance>
+    <instance id="Camera-camera-2-0-3" docsrc="Camera">
+      <context> The images <head>may</head> be individual still photographs or sequences of images constituting videos or movies . The camera is a remote sensing device as it senses subjects without physical contact . The word camera comes from camera obscura , which means " dark chamber " and is the Latin name of the original device for projecting an image of external reality onto a flat surface .</context>
+    </instance>
+    <instance id="Camera-camera-2-0-6" docsrc="Camera">
+      <context> The modern <head>photographic</head> camera evolved from the camera obscura . The functioning of the camera is very similar to the functioning of the human eye . A movie camera or a video camera operates similarly to a still camera , except it records a series of static images in rapid succession , commonly at a rate of 24 frames per second .</context>
+    </instance>
+    <instance id="Camera-camera-2-103-1" docsrc="Camera">
+      <context> To make <head>the</head> exposure , the dark slide was carefully slid out and the shutter opened and then closed and the dark slide replaced . === Folding camera === === Box camera ===</context>
+    </instance>
+    <instance id="Camera-camera-2-110-3" docsrc="Camera">
+      <context> The original <head>box</head> Brownie models had a small reflex viewfinder mounted on the top of the camera and had no aperture or focusing controls and just a simple shutter . Later models such as the Brownie 127 had larger direct view optical viewfinders together with a curved film path to reduce the impact of deficiencies in the lens . === Rangefinder camera ===</context>
+    </instance>
+    <instance id="Camera-camera-2-133-2" docsrc="Camera">
+      <context> Some TLR <head>had</head> interchangeable lenses but as these had to be paired lenses they were relatively heavy and did not provide the range of focal lengths that the SLR could support . Most TLRs used 120 or 220 film ; some used the smaller 127 film . === Subminiature camera ===</context>
+    </instance>
+    <instance id="Camera-camera-2-148-5" docsrc="Camera">
+      <context> Later inexpensive <head>subminiatures</head> were made for general use , some using rewound 16 mm cine film . Image quality with these small film sizes was limited . === Movie camera ===</context>
+    </instance>
+    <instance id="Camera-camera-2-151-1" docsrc="Camera">
+      <context> Image quality <head>with</head> these small film sizes was limited . === Movie camera === A ciné camera or movie camera takes a rapid sequence of photographs on image sensor or strips of film .</context>
+    </instance>
+    <instance id="Camera-camera-2-165-1" docsrc="Camera">
+      <context> === Professional <head>video</head> camera === These cameras earlier used vacuum tubes and later electronic sensors . === Digital camera ===</context>
+    </instance>
+    <instance id="Camera-camera-2-168-1" docsrc="Camera">
+      <context> These cameras <head>earlier</head> used vacuum tubes and later electronic sensors . === Digital camera === A digital camera ( or digicam ) is a camera that encodes digital images and videos digitally and stores them for later reproduction .</context>
+    </instance>
+    <instance id="Camera-camera-2-171-3" docsrc="Camera">
+      <context> The diaphragm <head>and</head> shutter admit the correct amount of light to the imager , just as with film but the image pickup device is electronic rather than chemical . However , unlike film cameras , digital cameras can display images on a screen immediately after being recorded , and store and delete images from memory . Most digital cameras can also record moving videos with sound .</context>
+    </instance>
+    <instance id="Camera-camera-2-171-4" docsrc="Camera">
+      <context> However , <head>unlike</head> film cameras , digital cameras can display images on a screen immediately after being recorded , and store and delete images from memory . Most digital cameras can also record moving videos with sound . Some digital cameras can crop and stitch pictures and perform other elementary image editing .</context>
+    </instance>
+    <instance id="Camera-camera-2-172-1" docsrc="Camera">
+      <context> Some digital <head>cameras</head> can crop and stitch pictures and perform other elementary image editing . Consumers adopted digital cameras in 1990s . Professional video cameras transitioned to digital around the 2000s-2010s .</context>
+    </instance>
+    <instance id="Camera-camera-2-172-2" docsrc="Camera">
+      <context> Consumers adopted <head>digital</head> cameras in 1990s . Professional video cameras transitioned to digital around the 2000s-2010s . Finally movie cameras transitioned to digital in the 2010s .</context>
+    </instance>
+    <instance id="Camera-camera-2-172-3" docsrc="Camera">
+      <context> Professional video <head>cameras</head> transitioned to digital around the 2000s-2010s . Finally movie cameras transitioned to digital in the 2010s . === panoramic camera ===</context>
+    </instance>
+    <instance id="Camera-camera-2-175-1" docsrc="Camera">
+      <context> Finally movie <head>cameras</head> transitioned to digital in the 2010s . === panoramic camera === ==== VR Camera ====</context>
+    </instance>
+    <instance id="Camera-camera-2-182-3" docsrc="Camera">
+      <context> There have <head>also</head> been camera rigs employing multiple cameras to cover the whole 360° by 360° field of view . The most famous VR camera rig is known as ' Google Jump ' . List of camera types</context>
+    </instance>
+    <instance id="Camera-camera-2-65-1" docsrc="Camera">
+      <context> Although a <head>range</head> of different shutter devices have been used during the development of the camera only two types have been widely used and remain in use today . ==== Complexities ==== Accessories for cameras are mainly for care , protection , special effects and functions .</context>
+    </instance>
+    <instance id="Camera-camera-2-86-1" docsrc="Camera">
+      <context> Flash equipment <head>:</head> including light diffuser , mount and stand , reflector , soft box , trigger and cord . Care and protection : including camera case and cover , maintenance tools , and screen protector . Large format cameras use special equipment which includes magnifier loupe , view finder , angle finder , focusing rail /truck .</context>
+    </instance>
+    <instance id="Camera-camera-2-90-1" docsrc="Camera">
+      <context> Battery and <head>sometimes</head> a charger . Tripod , microscope adapter , cable release , electric wire release . === Plate camera ===</context>
+    </instance>
+    <instance id="Camera-camera-2-99-4" docsrc="Camera">
+      <context> When focus <head>and</head> composition were satisfactory , the ground glass screen was removed and a sensitised plate put in its place protected by a dark slide . To make the exposure , the dark slide was carefully slid out and the shutter opened and then closed and the dark slide replaced . === Folding camera ===</context>
+    </instance>
+    <instance id="Camera-camera-21-170-1" docsrc="Camera">
+      <context> === Digital camera === A digital camera ( or digicam ) is a camera that encodes digital images and videos digitally <head>and</head> stores them for later reproduction . Most cameras sold today are digital , and digital cameras are incorporated into many devices ranging from mobile phones ( called camera phones ) to vehicles .</context>
+    </instance>
+    <instance id="Camera-camera-21-35-1" docsrc="Camera">
+      <context> Video and digital cameras use an electronic image sensor , usually a charge coupled device ( CCD ) or a CMOS <head>sensor</head> to capture images which can be transferred or stored in a memory card or other storage inside the camera for later playback or processing . Cameras that capture many images in sequence are known as movie cameras or as ciné cameras in Europe ; those designed for single images are still cameras . However these categories overlap as still cameras are often used to capture moving images in special effects work and many modern cameras can quickly switch between still and motion recording modes .</context>
+    </instance>
+    <instance id="Camera-camera-26-34-2" docsrc="Camera">
+      <context> Traditional cameras capture light onto photographic plate or photographic film . Video and digital cameras use an electronic image sensor , usually a charge coupled device <head>(</head> CCD ) or a CMOS sensor to capture images which can be transferred or stored in a memory card or other storage inside the camera for later playback or processing . Cameras that capture many images in sequence are known as movie cameras or as ciné cameras in Europe ; those designed for single images are still cameras .</context>
+    </instance>
+    <instance id="Camera-camera-3-0-4" docsrc="Camera">
+      <context> The camera is <head>a</head> remote sensing device as it senses subjects without physical contact . The word camera comes from camera obscura , which means " dark chamber " and is the Latin name of the original device for projecting an image of external reality onto a flat surface . The modern photographic camera evolved from the camera obscura .</context>
+    </instance>
+    <instance id="Camera-camera-3-113-1" docsrc="Camera">
+      <context> Later models such <head>as</head> the Brownie 127 had larger direct view optical viewfinders together with a curved film path to reduce the impact of deficiencies in the lens . === Rangefinder camera === === Instant picture camera ===</context>
+    </instance>
+    <instance id="Camera-camera-3-154-2" docsrc="Camera">
+      <context> The frames are <head>later</head> played back in a ciné projector at a specific speed , called the " frame rate " ( number of frames per second ) . While viewing , a person 's eyes and brain merge the separate pictures to create the illusion of motion . The first ciné camera was built around 1888 and by 1890 several types were being manufactured .</context>
+    </instance>
+    <instance id="Camera-camera-3-158-1" docsrc="Camera">
+      <context> Other professional standard <head>formats</head> include 70 mm film and 16mm film whilst amateurs film makers used 9.5 mm film , 8mm film or Standard 8 and Super 8 before the move into digital format . === Camcorders === === Professional video camera ===</context>
+    </instance>
+    <instance id="Camera-camera-3-170-2" docsrc="Camera">
+      <context> A digital camera <head>(</head> or digicam ) is a camera that encodes digital images and videos digitally and stores them for later reproduction . Most cameras sold today are digital , and digital cameras are incorporated into many devices ranging from mobile phones ( called camera phones ) to vehicles . Digital and film cameras share an optical system , typically using a lens with a variable diaphragm to focus light onto an image pickup device .</context>
+    </instance>
+    <instance id="Camera-camera-3-171-5" docsrc="Camera">
+      <context> Most digital cameras <head>can</head> also record moving videos with sound . Some digital cameras can crop and stitch pictures and perform other elementary image editing . Consumers adopted digital cameras in 1990s .</context>
+    </instance>
+    <instance id="Camera-camera-3-22-1" docsrc="Camera">
+      <context> Thanks to the <head>help</head> of modern science , A group of photoscientists of MIT has successfully created a camera having frame rate of 1 trillion per second , able to see the light emerging and reflecting or refracting on a opaque or translucent media . The collodion wet plate process that gradually replaced the daguerreotype during the 1850s required photographers to coat and sensitize thin glass or iron plates shortly before use and expose them in the camera while still wet . Early wet plate cameras were very simple and little different from Daguerreotype cameras , but more sophisticated designs eventually appeared .</context>
+    </instance>
+    <instance id="Camera-camera-3-34-1" docsrc="Camera">
+      <context> === Image capture <head>===</head> Traditional cameras capture light onto photographic plate or photographic film . Video and digital cameras use an electronic image sensor , usually a charge coupled device ( CCD ) or a CMOS sensor to capture images which can be transferred or stored in a memory card or other storage inside the camera for later playback or processing .</context>
+    </instance>
+    <instance id="Camera-camera-3-51-3" docsrc="Camera">
+      <context> Post focusing means <head>take</head> the pictures first and then focusing later at the personal computer . The camera uses many tiny lenses on the sensor to capture light from every camera angle of a scene and is called plenoptics technology . A current plenoptic camera design has 40,000 lenses working together to grab the optimal picture .</context>
+    </instance>
+    <instance id="Camera-camera-32-7-1" docsrc="Camera">
+      <context> When the images are combined and displayed in order , the illusion of motion is achieved . Thanks to the help of modern science , A group of photoscientists of MIT has <head>successfully</head> created a camera having frame rate of 1 trillion per second , able to see the light emerging and reflecting or refracting on a opaque or translucent media . The collodion wet plate process that gradually replaced the daguerreotype during the 1850s required photographers to coat and sensitize thin glass or iron plates shortly before use and expose them in the camera while still wet .</context>
+    </instance>
+    <instance id="Camera-camera-38-148-2" docsrc="Camera">
+      <context> Cameras taking film significantly smaller than 35 mm were made . Subminiature cameras were first produced in the nineteenth century . The expensive 8×11 mm Minox , the only type of camera produced by the company from 1937 <head>to</head> 1976 , became very widely known and was often used for espionage ( the Minox company later also produced larger cameras ) .</context>
+    </instance>
+    <instance id="Camera-camera-4-0-5" docsrc="Camera">
+      <context> The word camera comes <head>from</head> camera obscura , which means " dark chamber " and is the Latin name of the original device for projecting an image of external reality onto a flat surface . The modern photographic camera evolved from the camera obscura . The functioning of the camera is very similar to the functioning of the human eye .</context>
+    </instance>
+    <instance id="Camera-camera-4-171-2" docsrc="Camera">
+      <context> Digital and film cameras <head>share</head> an optical system , typically using a lens with a variable diaphragm to focus light onto an image pickup device . The diaphragm and shutter admit the correct amount of light to the imager , just as with film but the image pickup device is electronic rather than chemical . However , unlike film cameras , digital cameras can display images on a screen immediately after being recorded , and store and delete images from memory .</context>
+    </instance>
+    <instance id="Camera-camera-4-180-1" docsrc="Camera">
+      <context> === panoramic camera === <head>====</head> VR Camera ==== VR cameras are panoramic cameras that also cover the top and bottom in their field of view . .</context>
+    </instance>
+    <instance id="Camera-camera-4-182-1" docsrc="Camera">
+      <context> ==== VR Camera ==== <head>VR</head> cameras are panoramic cameras that also cover the top and bottom in their field of view . . There have also been camera rigs employing multiple cameras to cover the whole 360° by 360° field of view .</context>
+    </instance>
+    <instance id="Camera-camera-4-182-2" docsrc="Camera">
+      <context> VR cameras are panoramic <head>cameras</head> that also cover the top and bottom in their field of view . . There have also been camera rigs employing multiple cameras to cover the whole 360° by 360° field of view . The most famous VR camera rig is known as ' Google Jump ' .</context>
+    </instance>
+    <instance id="Camera-camera-4-39-2" docsrc="Camera">
+      <context> === Lens === The <head>lens</head> of a camera captures the light from the subject and brings it to a focus on the sensor .</context>
+    </instance>
+    <instance id="Camera-camera-4-41-2" docsrc="Camera">
+      <context> The lens of a <head>camera</head> captures the light from the subject and brings it to a focus on the sensor . The design and manufacture of the lens is critical to the quality of the photograph being taken . The technological revolution in camera design in the 19th century revolutionized optical glass manufacture and lens design with great benefits for modern lens manufacture in a wide range of optical instruments from reading glasses to microscopes .</context>
+    </instance>
+    <instance id="Camera-camera-4-96-1" docsrc="Camera">
+      <context> Tripod , microscope adapter <head>,</head> cable release , electric wire release . === Plate camera === Focussing of these plate cameras was by the use of a ground glass screen at the point of focus .</context>
+    </instance>
+    <instance id="Camera-camera-40-34-1" docsrc="Camera">
+      <context> === Image capture === Traditional cameras capture light onto photographic plate or photographic film . Video and digital cameras use an electronic image sensor , usually a charge coupled device ( CCD ) or a CMOS sensor to capture images <head>which</head> can be transferred or stored in a memory card or other storage inside the camera for later playback or processing .</context>
+    </instance>
+    <instance id="Camera-camera-5-0-3" docsrc="Camera">
+      <context> The images may be individual <head>still</head> photographs or sequences of images constituting videos or movies . The camera is a remote sensing device as it senses subjects without physical contact . The word camera comes from camera obscura , which means " dark chamber " and is the Latin name of the original device for projecting an image of external reality onto a flat surface .</context>
+    </instance>
+    <instance id="Camera-camera-5-151-1" docsrc="Camera">
+      <context> Image quality with these small <head>film</head> sizes was limited . === Movie camera === A ciné camera or movie camera takes a rapid sequence of photographs on image sensor or strips of film .</context>
+    </instance>
+    <instance id="Camera-camera-5-153-1" docsrc="Camera">
+      <context> === Movie camera === A <head>ciné</head> camera or movie camera takes a rapid sequence of photographs on image sensor or strips of film . In contrast to a still camera , which captures a single snapshot at a time , the ciné camera takes a series of images , each called a " frame " through the use of an intermittent mechanism .</context>
+    </instance>
+    <instance id="Camera-camera-5-85-1" docsrc="Camera">
+      <context> Lens extension tubes allow close <head>focus</head> in macro photography . Flash equipment : including light diffuser , mount and stand , reflector , soft box , trigger and cord . Care and protection : including camera case and cover , maintenance tools , and screen protector .</context>
+    </instance>
+    <instance id="Camera-camera-6-0-6" docsrc="Camera">
+      <context> The modern photographic camera evolved from <head>the</head> camera obscura . The functioning of the camera is very similar to the functioning of the human eye . A movie camera or a video camera operates similarly to a still camera , except it records a series of static images in rapid succession , commonly at a rate of 24 frames per second .</context>
+    </instance>
+    <instance id="Camera-camera-6-154-3" docsrc="Camera">
+      <context> While viewing , a person 's <head>eyes</head> and brain merge the separate pictures to create the illusion of motion . The first ciné camera was built around 1888 and by 1890 several types were being manufactured . The standard film size for ciné cameras was quickly established as 35mm film and this remained in use until transition to digital cinematography .</context>
+    </instance>
+    <instance id="Camera-camera-6-35-1" docsrc="Camera">
+      <context> Video and digital cameras use an <head>electronic</head> image sensor , usually a charge coupled device ( CCD ) or a CMOS sensor to capture images which can be transferred or stored in a memory card or other storage inside the camera for later playback or processing . Cameras that capture many images in sequence are known as movie cameras or as ciné cameras in Europe ; those designed for single images are still cameras . However these categories overlap as still cameras are often used to capture moving images in special effects work and many modern cameras can quickly switch between still and motion recording modes .</context>
+    </instance>
+    <instance id="Camera-camera-7-0-4" docsrc="Camera">
+      <context> The camera is a remote sensing device <head>as</head> it senses subjects without physical contact . The word camera comes from camera obscura , which means " dark chamber " and is the Latin name of the original device for projecting an image of external reality onto a flat surface . The modern photographic camera evolved from the camera obscura .</context>
+    </instance>
+    <instance id="Camera-camera-7-171-2" docsrc="Camera">
+      <context> Digital and film cameras share an optical <head>system</head> , typically using a lens with a variable diaphragm to focus light onto an image pickup device . The diaphragm and shutter admit the correct amount of light to the imager , just as with film but the image pickup device is electronic rather than chemical . However , unlike film cameras , digital cameras can display images on a screen immediately after being recorded , and store and delete images from memory .</context>
+    </instance>
+    <instance id="Camera-camera-8-108-1" docsrc="Camera">
+      <context> === Folding camera === === Box camera === <head>Box</head> cameras were introduced as a budget level camera and had few if any controls .</context>
+    </instance>
+    <instance id="Camera-camera-8-182-1" docsrc="Camera">
+      <context> ==== VR Camera ==== VR cameras are panoramic <head>cameras</head> that also cover the top and bottom in their field of view . . There have also been camera rigs employing multiple cameras to cover the whole 360° by 360° field of view .</context>
+    </instance>
+    <instance id="Camera-camera-8-23-1" docsrc="Camera">
+      <context> It was during the wet plate era that <head>the</head> use of bellows for focusing became widespread , making the bulkier and less easily adjusted nested box design obsolete . For many years , exposure times were long enough that the photographer simply removed the lens cap , counted off the number of seconds ( or minutes ) estimated to be required by the lighting conditions , then replaced the cap . As more sensitive photographic materials became available , cameras began to incorporate mechanical shutter mechanisms that allowed very short and accurately timed exposures to be made .</context>
+    </instance>
+    <instance id="Camera-camera-8-25-1" docsrc="Camera">
+      <context> As more sensitive photographic materials became available , <head>cameras</head> began to incorporate mechanical shutter mechanisms that allowed very short and accurately timed exposures to be made . Films also made possible capture of motion ( cinematography ) establishing the movie industry by end of 19th century . Gradually in the 2000s and 2010s , digital cameras became the dominant type of camera across consumer , television and movies .</context>
+    </instance>
+    <instance id="Camera-camera-9-168-1" docsrc="Camera">
+      <context> These cameras earlier used vacuum tubes and later electronic <head>sensors</head> . === Digital camera === A digital camera ( or digicam ) is a camera that encodes digital images and videos digitally and stores them for later reproduction .</context>
+    </instance>
+    <instance id="Camera-camera-9-170-1" docsrc="Camera">
+      <context> === Digital camera === A digital camera ( or <head>digicam</head> ) is a camera that encodes digital images and videos digitally and stores them for later reproduction . Most cameras sold today are digital , and digital cameras are incorporated into many devices ranging from mobile phones ( called camera phones ) to vehicles .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-1-13-1" docsrc="Professional_video_camera">
+      <context> In <head>2000s</head> , major manufacturers like Sony , Philips introduced the digital professional video cameras . These cameras used CCD sensors and recorded video digitally on flash storage .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-1-20-2" docsrc="Professional_video_camera">
+      <context> The <head>1948</head> Dumont Marconi MK IV was an Image Orthicon Camera . Marconi 's first camera was shown in 1938 . EMI cameras from the UK , were used in the US in the early 1960s , like the EMI 203/4 .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-1-42-2" docsrc="Professional_video_camera">
+      <context> ENG <head>(</head> electronic news gathering ) video cameras were originally designed for use by news camera operators . While they have some similarities to the smaller consumer camcorder , they differ in several regards : ENG cameras are larger and heavier ( helps dampen small movements ) , and usually supported by a camera shoulder support or shoulder stock on the camera operator 's shoulder , taking the weight off the hand , which is freed to operate the zoom lens control .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-1-43-1" docsrc="Professional_video_camera">
+      <context> While <head>they</head> have some similarities to the smaller consumer camcorder , they differ in several regards : ENG cameras are larger and heavier ( helps dampen small movements ) , and usually supported by a camera shoulder support or shoulder stock on the camera operator 's shoulder , taking the weight off the hand , which is freed to operate the zoom lens control . The camera mounts on tripods with Fluid heads and other supports with a quick release plate .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-1-61-1" docsrc="Professional_video_camera">
+      <context> If <head>as</head> in the latter two , it 's a data recording , much higher data rates ( or less video compression ) are used than in consumer devices . === EFP Cameras ===</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-1-63-2" docsrc="Professional_video_camera">
+      <context> Electronic <head>field</head> production cameras are similar to studio cameras in that they are used primarily in multiple camera switched configurations , but outside the studio environment , for concerts , sports and live news coverage of special events . These versatile cameras can be carried on the shoulder , or mounted on camera pedestals and cranes , with the large , very long focal length zoom lenses made for studio camera mounting . These cameras have no recording ability on their own , and transmit their signals back to the broadcast truck through a fiber optic , triax or the virtually obsolete multicore cable .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-1-66-2" docsrc="Professional_video_camera">
+      <context> === <head>Others</head> === Remote cameras are typically very small camera heads designed to be operated by remote control .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-1-68-2" docsrc="Professional_video_camera">
+      <context> Remote <head>cameras</head> are typically very small camera heads designed to be operated by remote control . Despite their small size , they are often capable of performance close to that of the larger ENG and EFP types . Lipstick cameras are so called because the lens and sensor block combined are similar in size and appearance to a lipstick container .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-1-70-3" docsrc="Professional_video_camera">
+      <context> These <head>are</head> either hard mounted in a small location , such as a race car , or on the end of a boom pole . The sensor block and lens are separated from the rest of the camera electronics by a long thin multi conductor cable . The camera settings are manipulated from this box , while the lens settings are normally set when the camera is mounted in place .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-10-18-1" docsrc="Professional_video_camera">
+      <context> 1926 to 1933 " cameras " were a type of <head>flying</head> spot scanner using mechanical disk . 1936 saw the arrival of RCA 's iconoscope camera . The 1948 Dumont Marconi MK IV was an Image Orthicon Camera .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-12-70-2" docsrc="Professional_video_camera">
+      <context> Lipstick cameras are so called because the lens and sensor block combined <head>are</head> similar in size and appearance to a lipstick container . These are either hard mounted in a small location , such as a race car , or on the end of a boom pole . The sensor block and lens are separated from the rest of the camera electronics by a long thin multi conductor cable .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-13-63-1" docsrc="Professional_video_camera">
+      <context> EFP Cameras === Electronic field production cameras are similar to studio cameras in <head>that</head> they are used primarily in multiple camera switched configurations , but outside the studio environment , for concerts , sports and live news coverage of special events . These versatile cameras can be carried on the shoulder , or mounted on camera pedestals and cranes , with the large , very long focal length zoom lenses made for studio camera mounting .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-15-13-3" docsrc="Professional_video_camera">
+      <context> These cameras used CCD sensors and recorded video digitally on flash storage . These were <head>followed</head> by digital HDTV cameras . As digital technology improved and also due to digital television transition , digital professional video cameras have become dominant in television studios , ENG , EFP and even in other areas since 2010s .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-15-40-1" docsrc="Professional_video_camera">
+      <context> === Studio cameras === === ENG cameras === ENG ( electronic news gathering ) video <head>cameras</head> were originally designed for use by news camera operators .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-17-20-4" docsrc="Professional_video_camera">
+      <context> EMI cameras from the UK , were used in the US in the early 1960s , like <head>the</head> EMI 203/4 . Later in the 60s the EMI 2000 and EMI 2001 . In the 2000s , major manufacturers like Sony , Philips introduced the flash storage based digital television cameras .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-17-61-2" docsrc="Professional_video_camera">
+      <context> === EFP Cameras === Electronic field production cameras are similar to studio cameras in that they are <head>used</head> primarily in multiple camera switched configurations , but outside the studio environment , for concerts , sports and live news coverage of special events .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-18-42-2" docsrc="Professional_video_camera">
+      <context> ENG ( electronic news gathering ) video cameras were originally designed for use by news camera operators . <head>While</head> they have some similarities to the smaller consumer camcorder , they differ in several regards : ENG cameras are larger and heavier ( helps dampen small movements ) , and usually supported by a camera shoulder support or shoulder stock on the camera operator 's shoulder , taking the weight off the hand , which is freed to operate the zoom lens control .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-18-70-3" docsrc="Professional_video_camera">
+      <context> These are either hard mounted in a small location , such as a race car , or on <head>the</head> end of a boom pole . The sensor block and lens are separated from the rest of the camera electronics by a long thin multi conductor cable . The camera settings are manipulated from this box , while the lens settings are normally set when the camera is mounted in place .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-19-47-2" docsrc="Professional_video_camera">
+      <context> The lens is focused manually and directly , without intermediate servo controls . However the lens zoom and focus <head>can</head> be operated with remote controls with a television studio configuration operated by a camera control unit ( CCU ) . Controls that need quick access are on hard physical switches , all in the same general place on the camera , irrespective of the camera manufacturer , such as Gain Select , White/Black balance , color bar select , and record start controls and not in menu selection .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-2-27-2" docsrc="Professional_video_camera">
+      <context> In the <head>2000s</head> , major manufacturers like Sony , Philips introduced the flash storage based digital television cameras . Since the 2010s , these digital cameras have become most widely used of all other systems . === Studio cameras ===</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-2-35-1" docsrc="Professional_video_camera">
+      <context> Since the <head>2010s</head> , these digital cameras have become most widely used of all other systems . === Studio cameras === === ENG cameras ===</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-2-63-1" docsrc="Professional_video_camera">
+      <context> EFP Cameras <head>===</head> Electronic field production cameras are similar to studio cameras in that they are used primarily in multiple camera switched configurations , but outside the studio environment , for concerts , sports and live news coverage of special events . These versatile cameras can be carried on the shoulder , or mounted on camera pedestals and cranes , with the large , very long focal length zoom lenses made for studio camera mounting .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-20-47-1" docsrc="Professional_video_camera">
+      <context> They have interchangeable lenses . The lens is focused manually and directly , without intermediate servo controls . However the <head>lens</head> zoom and focus can be operated with remote controls with a television studio configuration operated by a camera control unit ( CCU ) .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-24-47-2" docsrc="Professional_video_camera">
+      <context> The lens is focused manually and directly , without intermediate servo controls . However the lens zoom and focus can be operated with remote <head>controls</head> with a television studio configuration operated by a camera control unit ( CCU ) . Controls that need quick access are on hard physical switches , all in the same general place on the camera , irrespective of the camera manufacturer , such as Gain Select , White/Black balance , color bar select , and record start controls and not in menu selection .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-26-42-2" docsrc="Professional_video_camera">
+      <context> ENG ( electronic news gathering ) video cameras were originally designed for use by news camera operators . While they have some similarities to the smaller <head>consumer</head> camcorder , they differ in several regards : ENG cameras are larger and heavier ( helps dampen small movements ) , and usually supported by a camera shoulder support or shoulder stock on the camera operator 's shoulder , taking the weight off the hand , which is freed to operate the zoom lens control .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-3-20-1" docsrc="Professional_video_camera">
+      <context> 1936 saw the <head>arrival</head> of RCA 's iconoscope camera . The 1948 Dumont Marconi MK IV was an Image Orthicon Camera . Marconi 's first camera was shown in 1938 .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-3-61-2" docsrc="Professional_video_camera">
+      <context> === EFP Cameras <head>===</head> Electronic field production cameras are similar to studio cameras in that they are used primarily in multiple camera switched configurations , but outside the studio environment , for concerts , sports and live news coverage of special events .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-3-87-2" docsrc="Professional_video_camera">
+      <context> Television 's history <head>through</head> the eyes of its cameras . Over 3000 images and largest site of its kind worldwide . History of RCA cameras</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-3-88-1" docsrc="Professional_video_camera">
+      <context> Over 3000 images <head>and</head> largest site of its kind worldwide . History of RCA cameras</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-31-63-1" docsrc="Professional_video_camera">
+      <context> EFP Cameras === Electronic field production cameras are similar to studio cameras in that they are used primarily in multiple camera switched configurations , but outside the studio environment , for <head>concerts</head> , sports and live news coverage of special events . These versatile cameras can be carried on the shoulder , or mounted on camera pedestals and cranes , with the large , very long focal length zoom lenses made for studio camera mounting .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-4-16-1" docsrc="Professional_video_camera">
+      <context> As digital technology improved <head>and</head> also due to digital television transition , digital professional video cameras have become dominant in television studios , ENG , EFP and even in other areas since 2010s . === Chronology === 1926 to 1933 " cameras " were a type of flying spot scanner using mechanical disk .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-6-13-2" docsrc="Professional_video_camera">
+      <context> In 2000s , major manufacturers like <head>Sony</head> , Philips introduced the digital professional video cameras . These cameras used CCD sensors and recorded video digitally on flash storage . These were followed by digital HDTV cameras .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-6-27-1" docsrc="Professional_video_camera">
+      <context> Later in the 60s the EMI <head>2000</head> and EMI 2001 . In the 2000s , major manufacturers like Sony , Philips introduced the flash storage based digital television cameras . Since the 2010s , these digital cameras have become most widely used of all other systems .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-6-66-2" docsrc="Professional_video_camera">
+      <context> === Others === Remote cameras are <head>typically</head> very small camera heads designed to be operated by remote control .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-7-40-1" docsrc="Professional_video_camera">
+      <context> === Studio cameras === === ENG cameras <head>===</head> ENG ( electronic news gathering ) video cameras were originally designed for use by news camera operators .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-8-17-1" docsrc="Professional_video_camera">
+      <context> === Chronology === 1926 to 1933 " cameras <head>"</head> were a type of flying spot scanner using mechanical disk . 1936 saw the arrival of RCA 's iconoscope camera .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-8-61-2" docsrc="Professional_video_camera">
+      <context> === EFP Cameras === Electronic field production cameras <head>are</head> similar to studio cameras in that they are used primarily in multiple camera switched configurations , but outside the studio environment , for concerts , sports and live news coverage of special events .</context>
+    </instance>
+    <instance id="Professional_video_camera-camera-8-82-2" docsrc="Professional_video_camera">
+      <context> === Bibliography === Television 's history through the <head>eyes</head> of its cameras .</context>
+    </instance>
+    <instance id="br-c02#w284_0" docsrc="br-c02">
+      <context> A_few years ago a `` Timex All Star Jazz Show '' offered a broad range of styles , ranging from Lionel_Hampton 's big_band to the free-wheeling Dukes_of_Dixieland . An enthusiastic audience confirmed the `` live '' character of the hour , and provided the interaction between musician and hearer which almost always seems to improve the quality of performance . About that same time John_Crosby 's TV series on the popular arts proved again that giving jazz ample breathing_space is one of the most sensible things a producer can do . In an hour remembered for its almost rudderless movement , a score of jazz luminaries went before the <head>cameras</head> for lengthy periods . The program had been arranged to permit the establishment of a mood of intense concentration on the music . Cameras stared at soloists ' faces in extreme closeups , then considerately pulled_back for full views of ensemble work . `` Chicago and All_That_Jazz '' could not be faulted on the choice of artists .</context>
+    </instance>
+    <instance id="br-c02#w308_0" docsrc="br-c02">
+      <context> About that same time John_Crosby 's TV series on the popular arts proved again that giving jazz ample breathing_space is one of the most sensible things a producer can do . In an hour remembered for its almost rudderless movement , a score of jazz luminaries went before the cameras for lengthy periods . The program had been arranged to permit the establishment of a mood of intense concentration on the music . <head>Cameras</head> stared at soloists ' faces in extreme closeups , then considerately pulled_back for full views of ensemble work . `` Chicago and All_That_Jazz '' could not be faulted on the choice of artists . Some of the in-person performers were Jack_Teagarden , Gene_Krupa , Bud_Freeman , Pee_Wee_Russell , Johnny_St._Cyr , Joe_Sullivan , Red_Allen , Lil_Armstrong , Blossom_Seeley . The jazz buff could hardly ask for more .</context>
+    </instance>
+    <instance id="br-e25#w1983_0" docsrc="br-e25">
+      <context> A typical `` sonogram '' of a human eye , together with a description of the anatomical parts , is shown in Fig. 5 . The frequency used for these experiments is 15 mc. and the transducer is a specially cut crystal with an epoxy lens capable of providing beam diameters smaller than one millimeter . The transducer itself moves the beam in a sector scan , just like a radar antenna , while the entire transducer structure is moved over a 90 - degree arc in_front_of the eye to `` look_into '' all corners . The total picture is only seen by the <head>camera</head> which integrates the many sector scans over the entire 90 - degree rotation period . Drs._Howry and Holmes at the University_of_Colorado_Medical_School have applied the same sonar technique to other areas of soft tissue and have obtained extremely good results . By submerging the patient in a tub and rotating the transducer while the scanning goes_on , they have been able to get cross-section views of the neck , as shown in Fig. 7 , as_well_as many other hitherto impossible insights . As mentioned before , bone reflects the sound energy and in Fig. 7 the portion of the spine shows as the black area in the center .</context>
+    </instance>
+    <instance id="br-e30#w661_0" docsrc="br-e30">
+      <context> Do employees contribute their share of money to recreational_facilities ? Have you considered delegating operational responsibility to your employee association and carefully restricting your plant 's financial contribution ? Could an employee 's garden club take_over partial care of plant grounds ? Would a <head>camera</head> club be useful in taking pictures pertinent to plant safety ? Are you spending too much money on team uniforms that benefit only a_few employees ? Are you underwriting expensive team trips ? Are you utilizing vending_machine proceeds to help pay for your program ?</context>
+    </instance>
+    <instance id="br-f24#w1071_0" docsrc="br-f24">
+      <context> We rode over roads so rough that our Jeep came to rest atop the soil between ruts , all four wheels spinning uselessly . We flew in rickety planes so overloaded that we wondered why they did n't crash . In_the_end we ran_into Communist artillery_fire . `` We '' were Bill_Garrett of the National_Geographic Illustrations_Staff , whose three <head>cameras</head> and eight lenses made him look as formidable as any fighting man we met ; Boun_My , our interpreter ; and myself . Boun_My - the name means one who has a boun , a celebration , and is therefore lucky - was born in Savannakhet , the Border of Paradise . He had attended three universities in the United_States . But he had never seen the mountainous half of his native_land north of Vientiane , including the royal capital , Luang_Prabang .</context>
+    </instance>
+    <instance id="br-f43#w1309_0" docsrc="br-f43">
+      <context> The robbers run from the hide-out , take cover in a wooded declivity , and are shot dead by the posse . As a finale is appended a close-up of one of the band taking_aim and firing his revolver straight at the audience . All this is simple enough , but in telling the story Porter did two important things that had not been done before . Each scene is shot straight through , as had been the universal custom , from a <head>camera</head> fixed in a single position , but in the outdoor scenes , especially in the capture and destruction of the outlaws , Porter 's camera position breaks , necessarily , with the camera position standard until then , which had been , roughly , that of a spectator in a center orchestra seat at a play . The plane of the action in the scene is not parallel with the plane of the film in the camera or on the screen . If the change , at_first_sight , seems minor , we may recall that it took the Italian painters about two hundred years to make an analogous change , and the Italian painters , by universal consent , were the most brilliant group of geniuses any art has seen . In that apparently simple shift Porter opened the way to the sensitive use of the camera as an instrument of art as_well_as a mechanical recording device .</context>
+    </instance>
+    <instance id="br-f43#w1334_0" docsrc="br-f43">
+      <context> The robbers run from the hide-out , take cover in a wooded declivity , and are shot dead by the posse . As a finale is appended a close-up of one of the band taking_aim and firing his revolver straight at the audience . All this is simple enough , but in telling the story Porter did two important things that had not been done before . Each scene is shot straight through , as had been the universal custom , from a camera fixed in a single position , but in the outdoor scenes , especially in the capture and destruction of the outlaws , Porter 's <head>camera</head> position breaks , necessarily , with the camera position standard until then , which had been , roughly , that of a spectator in a center orchestra seat at a play . The plane of the action in the scene is not parallel with the plane of the film in the camera or on the screen . If the change , at_first_sight , seems minor , we may recall that it took the Italian painters about two hundred years to make an analogous change , and the Italian painters , by universal consent , were the most brilliant group of geniuses any art has seen . In that apparently simple shift Porter opened the way to the sensitive use of the camera as an instrument of art as_well_as a mechanical recording device .</context>
+    </instance>
+    <instance id="br-f43#w1342_0" docsrc="br-f43">
+      <context> The robbers run from the hide-out , take cover in a wooded declivity , and are shot dead by the posse . As a finale is appended a close-up of one of the band taking_aim and firing his revolver straight at the audience . All this is simple enough , but in telling the story Porter did two important things that had not been done before . Each scene is shot straight through , as had been the universal custom , from a camera fixed in a single position , but in the outdoor scenes , especially in the capture and destruction of the outlaws , Porter 's camera position breaks , necessarily , with the <head>camera</head> position standard until then , which had been , roughly , that of a spectator in a center orchestra seat at a play . The plane of the action in the scene is not parallel with the plane of the film in the camera or on the screen . If the change , at_first_sight , seems minor , we may recall that it took the Italian painters about two hundred years to make an analogous change , and the Italian painters , by universal consent , were the most brilliant group of geniuses any art has seen . In that apparently simple shift Porter opened the way to the sensitive use of the camera as an instrument of art as_well_as a mechanical recording device .</context>
+    </instance>
+    <instance id="br-f43#w1386_0" docsrc="br-f43">
+      <context> As a finale is appended a close-up of one of the band taking_aim and firing his revolver straight at the audience . All this is simple enough , but in telling the story Porter did two important things that had not been done before . Each scene is shot straight through , as had been the universal custom , from a camera fixed in a single position , but in the outdoor scenes , especially in the capture and destruction of the outlaws , Porter 's camera position breaks , necessarily , with the camera position standard until then , which had been , roughly , that of a spectator in a center orchestra seat at a play . The plane of the action in the scene is not parallel with the plane of the film in the <head>camera</head> or on the screen . If the change , at_first_sight , seems minor , we may recall that it took the Italian painters about two hundred years to make an analogous change , and the Italian painters , by universal consent , were the most brilliant group of geniuses any art has seen . In that apparently simple shift Porter opened the way to the sensitive use of the camera as an instrument of art as_well_as a mechanical recording device . He did more than that .</context>
+    </instance>
+    <instance id="br-f43#w1456_0" docsrc="br-f43">
+      <context> Each scene is shot straight through , as had been the universal custom , from a camera fixed in a single position , but in the outdoor scenes , especially in the capture and destruction of the outlaws , Porter 's camera position breaks , necessarily , with the camera position standard until then , which had been , roughly , that of a spectator in a center orchestra seat at a play . The plane of the action in the scene is not parallel with the plane of the film in the camera or on the screen . If the change , at_first_sight , seems minor , we may recall that it took the Italian painters about two hundred years to make an analogous change , and the Italian painters , by universal consent , were the most brilliant group of geniuses any art has seen . In that apparently simple shift Porter opened the way to the sensitive use of the <head>camera</head> as an instrument of art as_well_as a mechanical recording device . He did more than that . He revealed the potential value of the `` cut '' as the basic technique in the art of the film . Cutting , of_course , takes_place automatically in the creation of a film .</context>
+    </instance>
+    <instance id="br-f43#w2058_0" docsrc="br-f43">
+      <context> Not that there had not been attempts , mostly European , to do exactly that . But in_general the European efforts to make an art of the entertainment had ignored the slowly emerging language of the film itself . Staggeringly condensed versions of famous novels and famous plays were presented . Great actors and actresses - the most notable being Sarah_Bernhardt - were hired to repeat their stage performances before the <head>camera</head> . In all_of this extensive and expensive effort , the camera was downgraded to the status of recording instrument for art_work produced elsewhere by the actor or by the author . The phonograph today , for all its high_fidelity and stereophonic sound , is precisely what the early art purveyors in the movies wished to make of the camera . Not surprisingly , this approach did not work .</context>
+    </instance>
+    <instance id="br-f43#w2069_0" docsrc="br-f43">
+      <context> But in_general the European efforts to make an art of the entertainment had ignored the slowly emerging language of the film itself . Staggeringly condensed versions of famous novels and famous plays were presented . Great actors and actresses - the most notable being Sarah_Bernhardt - were hired to repeat their stage performances before the camera . In all_of this extensive and expensive effort , the <head>camera</head> was downgraded to the status of recording instrument for art_work produced elsewhere by the actor or by the author . The phonograph today , for all its high_fidelity and stereophonic sound , is precisely what the early art purveyors in the movies wished to make of the camera . Not surprisingly , this approach did not work . The effort produced a valuable record of stage techniques in the early years of the century and some interesting records of great theater figures who would otherwise be only names .</context>
+    </instance>
+    <instance id="br-f43#w2117_0" docsrc="br-f43">
+      <context> Staggeringly condensed versions of famous novels and famous plays were presented . Great actors and actresses - the most notable being Sarah_Bernhardt - were hired to repeat their stage performances before the camera . In all_of this extensive and expensive effort , the camera was downgraded to the status of recording instrument for art_work produced elsewhere by the actor or by the author . The phonograph today , for all its high_fidelity and stereophonic sound , is precisely what the early art purveyors in the movies wished to make of the <head>camera</head> . Not surprisingly , this approach did not work . The effort produced a valuable record of stage techniques in the early years of the century and some interesting records of great theater figures who would otherwise be only names . But no art at_all was_born of the art effort in the early movies .</context>
+    </instance>
+    <instance id="br-h11#w342_0" docsrc="br-h11">
+      <context> A high-speed shutter has been developed in_order to permit photographic observation of any portion of the electrical wire explosion . The shutter consists_of two parts : a fast opening part and a fast closing part . Using Edgerton 's method , the fast closing action is obtained from the blackening of a window by exploding a series of parallel lead wires . The fast opening of the shutter consists_of a piece of aluminum_foil ( approximately * * f ) placed directly in_front of the camera_lens so that no light may pass into the <head>camera</head> . The opening action is obtained when a capacitor , charged to high voltage , is suddenly discharged through the foil . During the discharge the magnetic_forces set_up by the passage of current cause the edges of the foil to roll inward toward its center_line , thus allowing light to pass into the camera . Experiments have shown that the shutter is 75 percent open in about 60 - 80 microseconds .</context>
+    </instance>
+    <instance id="br-h11#w396_0" docsrc="br-h11">
+      <context> Using Edgerton 's method , the fast closing action is obtained from the blackening of a window by exploding a series of parallel lead wires . The fast opening of the shutter consists_of a piece of aluminum_foil ( approximately * * f ) placed directly in_front of the camera_lens so that no light may pass into the camera . The opening action is obtained when a capacitor , charged to high voltage , is suddenly discharged through the foil . During the discharge the magnetic_forces set_up by the passage of current cause the edges of the foil to roll inward toward its center_line , thus allowing light to pass into the <head>camera</head> . Experiments have shown that the shutter is 75 percent open in about 60 - 80 microseconds . The shutter aperture may be made larger or smaller by changing the foil area and adjusting the electrical energy input to the foil . Besides the well-known hydrogen line at 21 cm wavelength , the spectra of extraterrestrial radio_sources may contain sharp lines characteristic of other atoms , ions , and small molecules .</context>
+    </instance>
+    <instance id="br-k03#w281_0" docsrc="br-k03">
+      <context> Jane sat receptive and interested . Mickie had a pleasant glow as he said , `` You see , both of them , I mean the President and Jeff_Lawrence , are romantics . A romantic is one who thinks the world is divinely inspired and all he has_to do is find the right key , and then divine justice and altruism will appear . It 's like focusing a <head>camera</head> ; the distant ship is n't there until you get the focus . You know what I'm talking_about . I'm sure all girls feel this way about men until they live with them . `` But when it comes_to war , the Colonel knows what it is and Jeff does n't .</context>
+    </instance>
+    <instance id="br-k23#w1189_0" docsrc="br-k23">
+      <context> It could have been anyone 's infant , for it had not survived the bassinet . But the boy , the boy had been alive yesterday . Each successive movement in his growing was recorded on the unreeling film inside her . He ran on his plump sticks of legs , freezing now_and_again into the sudden startled attitudes which the <head>camera</head> had caught and held_on the paling photographs , all carefully placed and glued and labeled , resting in the fat plush album in the bottom drawer of the escritoire . In the cruel clearness of her memory the boy remained unchanged , quick with the delight of laughter , and the pain with which she recalled that short destroyed childhood was still unendurable to her . It was one with the desolate rocks and the alien water on those days when she hated the sea . The brothers drove down together in Mark 's small red sports_car , Mark at_the_wheel .</context>
+    </instance>
+    <instance id="br-l12#w1006_0" docsrc="br-l12">
+      <context> `` They 're going_to louse me up good . My men have been here all afternoon , setting_up for this thing '' . Bonner explained that , with the nightclub 's cooperation , the police had occupied El_Dorado like a battlefield . Motion_picture <head>cameras</head> had been installed to film the audience , the reservation list was being checked_out name by name , and a special detail was already at_work in the parking_lot scrutinizing automobiles for a possible lead . However , it was virtually impossible to screen the mob outside , even if Bonner had manpower available for the purpose . `` I want you to have the speakers taken_out '' . Andy sighed .</context>
+    </instance>
+    <instance id="br-l18#w2110_0" docsrc="br-l18">
+      <context> Others because they expected some sort of reward for the information . A_few passed along a tip for the simple reason that they liked him and wanted to give him a break . Only an occasional tip turned_out to be a phony , and , like the police , Casey had made a point of running_down all such suggestions and he did not hesitate this time . He was in his car with his <head>camera</head> and equipment bag in less_than two minutes , and it took him only three more to reach the corner , a block from Columbus_Avenue . It was a district of small factories and loft buildings and occasional tenements , and he could see the police_radio_car as he rounded the corner and slammed_on the brakes . He did not bother with his radio - there would be time for that later - but as he scrambled out on the pavement he saw the filling_station and the public telephone_booth and knew instantly how he had been summoned . The police_car had pulled_up behind a small sedan , its headlights still on .</context>
+    </instance>
+    <instance id="br-n15#w1668_0" docsrc="br-n15">
+      <context> Now let 's make sure they 're Japs '' . Even as he said it , Greg knew they had found the enemy . The shapes were unmistakable and the Rising Suns were showing_up , slightly brighter pinpoints in the gray gloom . Greg slapped his hand across the switches that turned_on the guns and gun <head>camera</head> and gun sight . The circle with the dot in the center showed_up yellow on the reflector glass in_front of him . His hands shook . `` Arm your guns , Sweeneys '' .</context>
+    </instance>
+    <instance id="br-n16#w1162_0" docsrc="br-n16">
+      <context> `` In back , buddy '' , the driver said to me . Quickly but carefully lowering my duffel_bag over the low side rack , I stepped_on the running_board ; it flopped down , sprang back up and gouged my shin . The truck was hurtling forward . I seized the rack and made a western style flying mount just_in_time , one of my knees mercifully landing on my duffel_bag - and merely wrecking my <head>camera</head> , I was to discover later - my other knee landing on the slivery truck floor_boards and - but this is no medical_report . I was again in motion and at a speed which belied the truck 's similarity to Senor_X 's Ford turtle . Maybe I would beat old Herry to Siberia after_all . Whatever satisfaction that might offer .</context>
+    </instance>
+    <instance id="br-n17#w840_0" docsrc="br-n17">
+      <context> They 'd peddled the soap virtually alone , and without much success , until about a year ago , when - with the addition of `` SX-21 '' to their secret formula and the inauguration of a high-powered advertising_campaign - sales had soared practically into orbit . Their product had been endorsed by Good_Housekeeping , the A._M._A. , and the Veterinary_Journal , among other repositories of higher wisdom , and before much longer if you did n't have a cake of their soap in the john , even your best friends would think you did n't bathe . My lovely caller - Joyce_Holland was her name - had previously done three filmed commercials for ZING , and this_evening , the fourth , a super production , had been filmed at the home of Louis_Thor . The water in Thor 's big swimming_pool had been covered with a blanket of thick , foamy soapsuds - fashioned , of_course , from ZING - Joyce had dived from the board into the pool , then swirled and cavorted in her luxurious `` bath '' while <head>cameras</head> rolled . The finished - and drastically cut - product would begin with a hazy longshot of Joyce entering the suds , then bursting above the pool 's surface clad in layers of lavender lather , and I had a hunch this item was going_to sell tons and tons of soap ; even to clean men and boys . Joyce went_on , `` When we 'd finished , Lou - Mr._Thor - asked me to stay a_little longer . He wanted a_few stills for magazine ads , he said .</context>
+    </instance>
+  </lexelt>
+</corpus>

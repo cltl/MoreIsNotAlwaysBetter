@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="chart.n" pos="NN">
+    <instance id="Chart-chart-0-4-1" docsrc="Chart">
+      <context> <head>Maps</head> that are adorned with extra information ( map surround ) for a specific purpose are often known as charts , such as a nautical chart or aeronautical chart , typically spread over several map sheets . Other domain specific constructs are sometimes called charts , such as the chord chart in music notation or a record chart for album popularity . Charts are often used to ease understanding of large quantities of data and the relationships between parts of the data .</context>
+    </instance>
+    <instance id="Chart-chart-0-5-1" docsrc="Chart">
+      <context> <head>Other</head> domain specific constructs are sometimes called charts , such as the chord chart in music notation or a record chart for album popularity . Charts are often used to ease understanding of large quantities of data and the relationships between parts of the data . Charts can usually be read more quickly than the raw data that they are produced from .</context>
+    </instance>
+    <instance id="Chart-chart-1-0-1" docsrc="Chart">
+      <context> A <head>chart</head> , also called a graph , is a graphical representation of data , in which " the data is represented by symbols , such as bars in a bar chart , lines in a line chart , or slices in a pie chart " . A chart can represent tabular numeric data , functions or some kinds of qualitative structure and provides different info .</context>
+    </instance>
+    <instance id="Chart-chart-1-21-1" docsrc="Chart">
+      <context> This <head>information</head> allows the data from each variable to be identified in the chart . === Common charts ===</context>
+    </instance>
+    <instance id="Chart-chart-1-48-1" docsrc="Chart">
+      <context> Some <head>types</head> of charts have specific uses in a certain field This gallery shows : Candlestick charts are another type of bar chart used to describe price movements of an equity over time .</context>
+    </instance>
+    <instance id="Chart-chart-1-5-6" docsrc="Chart">
+      <context> For <head>example</head> , data that presents percentages in different groups ( such as " satisfied , not satisfied , unsure " ) are often displayed in a pie chart , but may be more easily understood when presented in a horizontal bar chart . On the other hand , data that represents numbers that change over a period of time ( such as " annual revenue from 1990 to 2000 " ) might be best shown as a line chart . A chart can take a large variety of forms , however there are common features that provide the chart with its ability to extract meaning from data .</context>
+    </instance>
+    <instance id="Chart-chart-1-69-1" docsrc="Chart">
+      <context> The <head>Smith</head> chart serves in radio electronics . === Other charts ===</context>
+    </instance>
+    <instance id="Chart-chart-1-75-2" docsrc="Chart">
+      <context> === <head>Common</head> plots === While charts can be drawn by hand , computer software is often used to automatically produce a chart based on entered data .</context>
+    </instance>
+    <instance id="Chart-chart-11-15-1" docsrc="Chart">
+      <context> Inferences or points of interest can be overlaid directly on the <head>graph</head> to further aid information extraction . When the data appearing in a chart contains multiple variables , the chart may include a legend ( also known as a key ) . A legend contains a list of the variables appearing in the chart and an example of their appearance .</context>
+    </instance>
+    <instance id="Chart-chart-12-14-3" docsrc="Chart">
+      <context> The data may appear as dots or shapes , connected or unconnected <head>,</head> and in any combination of colors and patterns . Inferences or points of interest can be overlaid directly on the graph to further aid information extraction . When the data appearing in a chart contains multiple variables , the chart may include a legend ( also known as a key ) .</context>
+    </instance>
+    <instance id="Chart-chart-13-15-2" docsrc="Chart">
+      <context> When the data appearing in a chart contains multiple variables , the chart <head>may</head> include a legend ( also known as a key ) . A legend contains a list of the variables appearing in the chart and an example of their appearance . This information allows the data from each variable to be identified in the chart .</context>
+    </instance>
+    <instance id="Chart-chart-13-3-1" docsrc="Chart">
+      <context> A data chart is a type of diagram or graph , that organizes <head>and</head> represents a set of numerical or qualitative data . Maps that are adorned with extra information ( map surround ) for a specific purpose are often known as charts , such as a nautical chart or aeronautical chart , typically spread over several map sheets . Other domain specific constructs are sometimes called charts , such as the chord chart in music notation or a record chart for album popularity .</context>
+    </instance>
+    <instance id="Chart-chart-17-35-1" docsrc="Chart">
+      <context> Examples of less common charts are : This gallery shows : A polar area diagram , sometimes <head>called</head> a Coxcomb chart , is an enhanced form of pie chart developed by Florence Nightingale .</context>
+    </instance>
+    <instance id="Chart-chart-17-75-2" docsrc="Chart">
+      <context> === Common plots === While charts can be drawn by hand , computer software is often used <head>to</head> automatically produce a chart based on entered data .</context>
+    </instance>
+    <instance id="Chart-chart-18-5-6" docsrc="Chart">
+      <context> For example , data that presents percentages in different groups ( such as " satisfied , not satisfied <head>,</head> unsure " ) are often displayed in a pie chart , but may be more easily understood when presented in a horizontal bar chart . On the other hand , data that represents numbers that change over a period of time ( such as " annual revenue from 1990 to 2000 " ) might be best shown as a line chart . A chart can take a large variety of forms , however there are common features that provide the chart with its ability to extract meaning from data .</context>
+    </instance>
+    <instance id="Chart-chart-19-2-1" docsrc="Chart">
+      <context> The term " chart " as a graphical representation of data has multiple meanings : A data chart is <head>a</head> type of diagram or graph , that organizes and represents a set of numerical or qualitative data . Maps that are adorned with extra information ( map surround ) for a specific purpose are often known as charts , such as a nautical chart or aeronautical chart , typically spread over several map sheets .</context>
+    </instance>
+    <instance id="Chart-chart-19-53-1" docsrc="Chart">
+      <context> Alternatively , where less detail is required , and chart size is paramount , a Sparkline may be used <head>.</head> Other examples : Interest rates , temperatures , etc . , at the close of the period are plotted with a line chart .</context>
+    </instance>
+    <instance id="Chart-chart-2-1-1" docsrc="Chart">
+      <context> A chart <head>can</head> represent tabular numeric data , functions or some kinds of qualitative structure and provides different info . The term " chart " as a graphical representation of data has multiple meanings : A data chart is a type of diagram or graph , that organizes and represents a set of numerical or qualitative data .</context>
+    </instance>
+    <instance id="Chart-chart-2-25-1" docsrc="Chart">
+      <context> This gallery <head>shows</head> : A histogram consists of tabular frequencies , shown as adjacent rectangles , erected over discrete intervals ( bins ) , with an area equal to the frequency of the observations in the interval ; first introduced by Karl Pearson . A bar chart is a chart with rectangular bars with lengths proportional to the values that they represent .</context>
+    </instance>
+    <instance id="Chart-chart-2-26-3" docsrc="Chart">
+      <context> The bars <head>can</head> be plotted vertically or horizontally . The first known bar charts are usually attributed to Nicole Oresme , Joseph Priestley , and William Playfair . A pie chart shows percentage values as a slice of a pie ; first introduced by William Playfair .</context>
+    </instance>
+    <instance id="Chart-chart-2-27-1" docsrc="Chart">
+      <context> The first <head>known</head> bar charts are usually attributed to Nicole Oresme , Joseph Priestley , and William Playfair . A pie chart shows percentage values as a slice of a pie ; first introduced by William Playfair . Other common charts are :</context>
+    </instance>
+    <instance id="Chart-chart-2-55-1" docsrc="Chart">
+      <context> Interest rates <head>,</head> temperatures , etc . , at the close of the period are plotted with a line chart . Project planners use a Gantt chart to show the timing of tasks as they occur over time . Some specific charts have become well known by effectively explaining a phenomenon or idea .</context>
+    </instance>
+    <instance id="Chart-chart-2-61-1" docsrc="Chart">
+      <context> Project planners <head>use</head> a Gantt chart to show the timing of tasks as they occur over time . Some specific charts have become well known by effectively explaining a phenomenon or idea . An Allele chart is a chart originating from the study of genetics to show the interaction of two data points in a grid .</context>
+    </instance>
+    <instance id="Chart-chart-2-62-1" docsrc="Chart">
+      <context> Some specific <head>charts</head> have become well known by effectively explaining a phenomenon or idea . An Allele chart is a chart originating from the study of genetics to show the interaction of two data points in a grid . A Gantt chart helps in scheduling complex projects .</context>
+    </instance>
+    <instance id="Chart-chart-2-63-1" docsrc="Chart">
+      <context> An Allele <head>chart</head> is a chart originating from the study of genetics to show the interaction of two data points in a grid . A Gantt chart helps in scheduling complex projects . The Nolan chart and the Pournelle chart classify political philosophies according to two axes of variation .</context>
+    </instance>
+    <instance id="Chart-chart-2-64-1" docsrc="Chart">
+      <context> A Gantt <head>chart</head> helps in scheduling complex projects . The Nolan chart and the Pournelle chart classify political philosophies according to two axes of variation . A PERT chart is often used in project management .</context>
+    </instance>
+    <instance id="Chart-chart-2-65-1" docsrc="Chart">
+      <context> The Nolan <head>chart</head> and the Pournelle chart classify political philosophies according to two axes of variation . A PERT chart is often used in project management . The Smith chart serves in radio electronics .</context>
+    </instance>
+    <instance id="Chart-chart-20-3-1" docsrc="Chart">
+      <context> A data chart is a type of diagram or graph , that organizes and represents a set of numerical or <head>qualitative</head> data . Maps that are adorned with extra information ( map surround ) for a specific purpose are often known as charts , such as a nautical chart or aeronautical chart , typically spread over several map sheets . Other domain specific constructs are sometimes called charts , such as the chord chart in music notation or a record chart for album popularity .</context>
+    </instance>
+    <instance id="Chart-chart-25-2-1" docsrc="Chart">
+      <context> The term " chart " as a graphical representation of data has multiple meanings : A data chart is a type of diagram or graph <head>,</head> that organizes and represents a set of numerical or qualitative data . Maps that are adorned with extra information ( map surround ) for a specific purpose are often known as charts , such as a nautical chart or aeronautical chart , typically spread over several map sheets .</context>
+    </instance>
+    <instance id="Chart-chart-28-2-1" docsrc="Chart">
+      <context> The term " chart " as a graphical representation of data has multiple meanings : A data chart is a type of diagram or graph , that organizes <head>and</head> represents a set of numerical or qualitative data . Maps that are adorned with extra information ( map surround ) for a specific purpose are often known as charts , such as a nautical chart or aeronautical chart , typically spread over several map sheets .</context>
+    </instance>
+    <instance id="Chart-chart-28-5-4" docsrc="Chart">
+      <context> They are used in a wide variety of fields , and can be created by hand ( often on graph paper ) or by computer using a charting <head>application</head> . Certain types of charts are more useful for presenting a given data set than others . For example , data that presents percentages in different groups ( such as " satisfied , not satisfied , unsure " ) are often displayed in a pie chart , but may be more easily understood when presented in a horizontal bar chart .</context>
+    </instance>
+    <instance id="Chart-chart-29-13-3" docsrc="Chart">
+      <context> The grid can be enhanced by visually emphasizing the lines at regular or significant graduations . The emphasized lines are then called major grid lines and the remainder are <head>minor</head> grid lines . The data of a chart can appear in all manner of formats , and may include individual textual labels describing the datum associated with the indicated position in the chart .</context>
+    </instance>
+    <instance id="Chart-chart-3-0-2" docsrc="Chart">
+      <context> A chart , <head>also</head> called a graph , is a graphical representation of data , in which " the data is represented by symbols , such as bars in a bar chart , lines in a line chart , or slices in a pie chart " . A chart can represent tabular numeric data , functions or some kinds of qualitative structure and provides different info . The term " chart " as a graphical representation of data has multiple meanings :</context>
+    </instance>
+    <instance id="Chart-chart-3-42-2" docsrc="Chart">
+      <context> A GapChart , <head>a</head> time series chart showing evolving gaps and equalities between series . Other dimensions can be represented with colour or hue . Some types of charts have specific uses in a certain field</context>
+    </instance>
+    <instance id="Chart-chart-3-5-3" docsrc="Chart">
+      <context> Charts can usually <head>be</head> read more quickly than the raw data that they are produced from . They are used in a wide variety of fields , and can be created by hand ( often on graph paper ) or by computer using a charting application . Certain types of charts are more useful for presenting a given data set than others .</context>
+    </instance>
+    <instance id="Chart-chart-35-5-5" docsrc="Chart">
+      <context> Certain types of charts are more useful for presenting a given data set than others . For example , data that presents percentages in different groups ( such as " satisfied , not satisfied , <head>unsure</head> " ) are often displayed in a pie chart , but may be more easily understood when presented in a horizontal bar chart . On the other hand , data that represents numbers that change over a period of time ( such as " annual revenue from 1990 to 2000 " ) might be best shown as a line chart .</context>
+    </instance>
+    <instance id="Chart-chart-4-13-3" docsrc="Chart">
+      <context> The grid can be <head>enhanced</head> by visually emphasizing the lines at regular or significant graduations . The emphasized lines are then called major grid lines and the remainder are minor grid lines . The data of a chart can appear in all manner of formats , and may include individual textual labels describing the datum associated with the indicated position in the chart .</context>
+    </instance>
+    <instance id="Chart-chart-4-26-2" docsrc="Chart">
+      <context> A bar chart is <head>a</head> chart with rectangular bars with lengths proportional to the values that they represent . The bars can be plotted vertically or horizontally . The first known bar charts are usually attributed to Nicole Oresme , Joseph Priestley , and William Playfair .</context>
+    </instance>
+    <instance id="Chart-chart-4-29-1" docsrc="Chart">
+      <context> A pie chart shows <head>percentage</head> values as a slice of a pie ; first introduced by William Playfair . Other common charts are : Examples of less common charts are :</context>
+    </instance>
+    <instance id="Chart-chart-4-70-2" docsrc="Chart">
+      <context> There are dozens of <head>other</head> types of charts . Here are some of them : More example : Bernal chart ...</context>
+    </instance>
+    <instance id="Chart-chart-4-79-2" docsrc="Chart">
+      <context> While charts can be <head>drawn</head> by hand , computer software is often used to automatically produce a chart based on entered data . For examples of commonly used software tools , see List of charting software . Comparison of Adobe Flex charts</context>
+    </instance>
+    <instance id="Chart-chart-42-5-4" docsrc="Chart">
+      <context> They are used in a wide variety of fields , and can be created by hand ( often on graph paper ) or by computer using a charting application . Certain types of charts are more useful for presenting a given data <head>set</head> than others . For example , data that presents percentages in different groups ( such as " satisfied , not satisfied , unsure " ) are often displayed in a pie chart , but may be more easily understood when presented in a horizontal bar chart .</context>
+    </instance>
+    <instance id="Chart-chart-5-21-2" docsrc="Chart">
+      <context> === Common charts === Four <head>of</head> the most common charts are :</context>
+    </instance>
+    <instance id="Chart-chart-5-25-1" docsrc="Chart">
+      <context> This gallery shows : A <head>histogram</head> consists of tabular frequencies , shown as adjacent rectangles , erected over discrete intervals ( bins ) , with an area equal to the frequency of the observations in the interval ; first introduced by Karl Pearson . A bar chart is a chart with rectangular bars with lengths proportional to the values that they represent .</context>
+    </instance>
+    <instance id="Chart-chart-5-54-1" docsrc="Chart">
+      <context> Other examples : Interest rates <head>,</head> temperatures , etc . , at the close of the period are plotted with a line chart . Project planners use a Gantt chart to show the timing of tasks as they occur over time .</context>
+    </instance>
+    <instance id="Chart-chart-5-61-1" docsrc="Chart">
+      <context> Project planners use a Gantt <head>chart</head> to show the timing of tasks as they occur over time . Some specific charts have become well known by effectively explaining a phenomenon or idea . An Allele chart is a chart originating from the study of genetics to show the interaction of two data points in a grid .</context>
+    </instance>
+    <instance id="Chart-chart-5-9-1" docsrc="Chart">
+      <context> On the other hand , <head>data</head> that represents numbers that change over a period of time ( such as " annual revenue from 1990 to 2000 " ) might be best shown as a line chart . A chart can take a large variety of forms , however there are common features that provide the chart with its ability to extract meaning from data . Typically the data in a chart is represented graphically , since humans are generally able to infer meaning from pictures quicker than from text .</context>
+    </instance>
+    <instance id="Chart-chart-6-14-3" docsrc="Chart">
+      <context> The data may appear as dots <head>or</head> shapes , connected or unconnected , and in any combination of colors and patterns . Inferences or points of interest can be overlaid directly on the graph to further aid information extraction . When the data appearing in a chart contains multiple variables , the chart may include a legend ( also known as a key ) .</context>
+    </instance>
+    <instance id="Chart-chart-6-41-1" docsrc="Chart">
+      <context> Other dimensions can be represented with <head>colour</head> or hue . A streamgraph , a stacked , curvilinear area graph displaced around a central axis A GapChart , a time series chart showing evolving gaps and equalities between series .</context>
+    </instance>
+    <instance id="Chart-chart-6-63-1" docsrc="Chart">
+      <context> An Allele chart is a chart <head>originating</head> from the study of genetics to show the interaction of two data points in a grid . A Gantt chart helps in scheduling complex projects . The Nolan chart and the Pournelle chart classify political philosophies according to two axes of variation .</context>
+    </instance>
+    <instance id="Chart-chart-7-3-1" docsrc="Chart">
+      <context> A data chart is a type of <head>diagram</head> or graph , that organizes and represents a set of numerical or qualitative data . Maps that are adorned with extra information ( map surround ) for a specific purpose are often known as charts , such as a nautical chart or aeronautical chart , typically spread over several map sheets . Other domain specific constructs are sometimes called charts , such as the chord chart in music notation or a record chart for album popularity .</context>
+    </instance>
+    <instance id="Chart-chart-7-48-1" docsrc="Chart">
+      <context> Some types of charts have specific uses <head>in</head> a certain field This gallery shows : Candlestick charts are another type of bar chart used to describe price movements of an equity over time .</context>
+    </instance>
+    <instance id="Chart-chart-7-69-2" docsrc="Chart">
+      <context> === Other charts === There are dozens <head>of</head> other types of charts .</context>
+    </instance>
+    <instance id="Chart-chart-9-35-1" docsrc="Chart">
+      <context> Examples of less common charts are : This gallery <head>shows</head> : A polar area diagram , sometimes called a Coxcomb chart , is an enhanced form of pie chart developed by Florence Nightingale .</context>
+    </instance>
+    <instance id="Chart-chart-9-50-1" docsrc="Chart">
+      <context> This gallery shows : Candlestick charts are another type <head>of</head> bar chart used to describe price movements of an equity over time . Alternatively , where less detail is required , and chart size is paramount , a Sparkline may be used .</context>
+    </instance>
+    <instance id="br-e27#w33_0" docsrc="br-e27">
+      <context> Knowing specifically what the many feed additives can do and_how and when to feed them can make a highly competitive business more profitable for beef , dairy , and sheep_men . The target <head>chart</head> quickly and briefly tells you which additives do what . All the additives listed here are sanctioned for use by the Food_and_Drug_Administration of the federal_government . All comments concerning effectiveness and use of drugs have been carefully reviewed by a veterinary medical officer with FDA . This article assumes that the rations you are feeding your beef , dairy_cattle , and sheep are adequately balanced with protein , vitamins , and minerals .</context>
+    </instance>
+    <instance id="br-f16#w1575_0" docsrc="br-f16">
+      <context> The great , crushing ice masses coming into view made him sound like the voice of pure reason . A group of sailors announced to Hudson that they would sail no farther . Instead of quelling the dissension , as many captains of the era would have done ( Sir_Francis_Drake lopped a man 's head off under similar circumstances ) , Hudson decided to be reasonable . He went_to his cabin and emerged carrying a large <head>chart</head> , which he set_up in_view of the crew . Patiently , he explained what he knew about their course and their objectives . When Hudson had finished , the `` town_meeting '' broke_down into a general , wordy argument . One man remarked that if he had a_hundred pounds , he would give ninety of them to be back in England .</context>
+    </instance>
+    <instance id="br-f21#w1307_0" docsrc="br-f21">
+      <context> The moment the alarm goes_off , information is immediately forwarded to Honolulu , which is the center of the warning system . This center also receives prompt reports on earthquakes from four Coast_Survey stations in the Pacific which are equipped with seismographs . Its staff makes a preliminary determination of the epicenter of the quake and alerts tide stations near the epicenter for a tsunami . By means of <head>charts</head> showing wave travel times and depths in the ocean at various locations , it is possible to estimate the rate of approach and probable time_of_arrival at Hawaii of a tsunami getting under_way at any spot in the Pacific . The civil and military authorities are then advised of the danger , and they issue warnings and take all necessary protective steps . All_of these activities are geared to a top priority communication_system , and practice tests have been held to assure that everything will work smoothly . Since the 1946 disaster there have been 15 tsunami in the Pacific , but only one was of any consequence .</context>
+    </instance>
+    <instance id="br-f22#w143_0" docsrc="br-f22">
+      <context> The cry `` Garryowen '' ! bursting from the lips of a charging cavalry trooper was the last sound heard on this earth by untold numbers of Cheyennes , Sioux and Apaches , Mexican banditos under Pancho_Villa , Japanese in the South_Pacific , and Chinese and North_Korean Communists in Korea . Garryowen is the battle_cry of the 7_th_U._S._Cavalry_Regiment , `` The Fighting_Seventh '' . Today a battle_cry may seem an anachronism , for in the modern Army , esprit_de_corps has been sacrificed to organizational <head>charts</head> and tables . But do n't tell that to a veteran of the Fighting_Seventh , especially in a saloon on Saturday night . Of all the thousands of men who have served in the 7_th_Cav , perhaps no one knows its spirit better than Lieutenant_Colonel_Melbourne_C._Chandler . Wiry and burr_headed , with steel_blue eyes and a chest splattered with medals , Chandler is the epitome of the old-time trooper .</context>
+    </instance>
+    <instance id="br-j13#w366_0" docsrc="br-j13">
+      <context> It is convenient to classify a child 's onset ages and completion ages as `` advanced '' , `` moderate '' ( modal ) , or `` delayed '' according_to whether the child 's age equivalent `` dots '' appeared to the left of , upon , or to the right of the appropriate short transverse line . When a dot appears close to the end of the transverse line , the `` moderate '' rating may be further classified according_to the position of the dot with_respect_to the vertical marking denoting the mean age . Such classifications may be called `` somewhat advanced '' or `` somewhat delayed '' , as the case may be , reserving `` moderate '' for dots upon or close to the mean . In the lower portion of each <head>Chart</head> , the Skeletal Age ( Hand ) of boy 34 and girl 2 may be similarly classified . There the middle one of the three curves denotes `` mean Skeletal Age '' for the Maturity Series boys and girls . The upper curve denotes the mean plus one standard_deviation , and the lower curve represents the mean minus one standard_deviation . Thus , a child 's Skeletal Age `` dots '' may be classified as `` advanced '' when they appear above the middle curve , `` moderate '' when they appear immediately above or below the middle curve , and `` delayed '' when they appear below the lower curve .</context>
+    </instance>
+    <instance id="br-j13#w487_0" docsrc="br-j13">
+      <context> There the middle one of the three curves denotes `` mean Skeletal Age '' for the Maturity Series boys and girls . The upper curve denotes the mean plus one standard_deviation , and the lower curve represents the mean minus one standard_deviation . Thus , a child 's Skeletal Age `` dots '' may be classified as `` advanced '' when they appear above the middle curve , `` moderate '' when they appear immediately above or below the middle curve , and `` delayed '' when they appear below the lower curve . To summarize the purpose of the Skeletal Maturity <head>Chart</head> : each contains two kinds of skeletal maturity norms which show two quite different methods of depicting developmental level of growth centers . First , the upper portion requires series of films for every child , consisting_of those from Hand , Elbow , Shoulder , Knee , and Foot . The lower portion necessitates only films of Hand . Second , the upper portion permits comparison of maturity levels of an equal number of growth centers from the long , short , and round_bones of the five regions .</context>
+    </instance>
+    <instance id="br-j13#w777_0" docsrc="br-j13">
+      <context> The lower portion provides a rating at any stage between infancy and adulthood . Onsets , Completions , and Skeletal Ages ( Hand ) of boy 34 and girl 2 may be directly compared and classified , using only those Skeletal Ages which appear immediately below the Onset Profile and the Completion Profile . It may be assumed that differences in ratings due_to selection of growth centers from specific regions of the body will be small , according_to existing tables of onset age and completion age for centers throughout the body . Accordingly , maturity level ratings by means of the upper portion and lower portion of the <head>Chart</head> , respectively , should be somewhat similar since Skeletal Age assessments are dependent upon Onsets during infancy and upon Completions during adolescence . It is clear that there are some differences in the ratings , but there is substantial agreement . Since a Skeletal Age rating can be made at any age during growth , from Elbow , Shoulder , Knee , or Foot as_well_as Hand , it seems to be the method_of_choice when one wishes to study most aspects of skeletal developmental progress during childhood . As stated earlier in the paper , Onsets and Completions - particularly the former - provide a different tool or indicator of expectancy in osseous development , each within a limited age period .</context>
+    </instance>
+    <instance id="br-j13#w85_0" docsrc="br-j13">
+      <context> Some of the features of the top portions of Figure 1 and Figure 2 were mentioned in discussing Table 1 . First , the Onset Profile spreads across approximately 12 years for boys and 10 years for girls . In contrast , 20 of the 21 lines in the Completion Profile ( excluding center 5 for boys and 4 for girls ) are bunched and extend over a much shorter period , approximately 30 months for boys and 40 months for girls . The Maturity <head>Chart</head> for each sex demonstrates clearly that Onset is a phenomenon of infancy and early_childhood whereas Completion is a phenomenon of the later portion of adolescence . Second , for both sexes , the 21 transverse lines in the Onset Profile vary more in individual spread than those in the Completion Profile . Although the standard_deviation values on which spread of the lines are based are relatively larger for those centers which begin to ossify early ( Table 1 ) , there are considerable differences in this value between centers having the closely timed Onsets . Third , the process of calcification is seen to begin later and to continue much longer for these boys than for the girls , a fact which confirms data for other groups of children .</context>
+    </instance>
+    <instance id="br-j70#w739_0" docsrc="br-j70">
+      <context> This operation would permit evaluation of the pilot plant , with a slowly increasing load , over a reasonable period_of_time . The pilot plant was equipped with a 3 - hp turbine aerator ( Figure 2 ) . The aerator had a variable speed drive to permit operation through a range of speeds . The sewage flow into the treatment plant was metered and continuously recorded on 24 - hr <head>charts</head> . The raw sewage was introduced directly under the turbine aerator to insure maximum mixing of the raw sewage with the aeration tank contents . The effluent was collected through two pipes and discharged to the Blue_River through a surface drainage_ditch . Composite samples were collected at weekly intervals .</context>
+    </instance>
+  </lexelt>
+</corpus>

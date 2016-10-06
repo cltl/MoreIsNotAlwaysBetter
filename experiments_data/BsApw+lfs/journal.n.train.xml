@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="journal.n" pos="NN">
+    <instance id="General_journal-journal-1-2-1" docsrc="General_journal">
+      <context> In <head>accounting</head> and bookkeeping , a journal is a record of financial transactions in order by date . A general journal entry includes the date of the transaction , the titles of the accounts debited and credited , the amount of each debit and credit , and an explanation of the transaction also known as a Narration . Sales journal</context>
+    </instance>
+    <instance id="General_journal-journal-1-6-1" docsrc="General_journal">
+      <context> A <head>general</head> journal entry includes the date of the transaction , the titles of the accounts debited and credited , the amount of each debit and credit , and an explanation of the transaction also known as a Narration . Sales journal Special journal</context>
+    </instance>
+    <instance id="General_journal-journal-2-0-3" docsrc="General_journal">
+      <context> The total <head>amount</head> debited and the total amount credited should always be equal , thereby ensuring the accounting equation is maintained . In accounting and bookkeeping , a journal is a record of financial transactions in order by date . A general journal entry includes the date of the transaction , the titles of the accounts debited and credited , the amount of each debit and credit , and an explanation of the transaction also known as a Narration .</context>
+    </instance>
+    <instance id="General_journal-journal-6-0-2" docsrc="General_journal">
+      <context> The journal is where double entry <head>bookkeeping</head> entries are recorded by debiting one or more accounts and crediting another one or more accounts with the same total amount . The total amount debited and the total amount credited should always be equal , thereby ensuring the accounting equation is maintained . In accounting and bookkeeping , a journal is a record of financial transactions in order by date .</context>
+    </instance>
+    <instance id="Journal-journal-1-13-1" docsrc="Journal">
+      <context> The <head>word</head> " journalist " , for one whose business is writing for the public press and nowadays also other media , has been in use since the end of the 17th century . The term " journal " is also used in business : A journal is a book or computer file in which monetary transactions are entered the first time they are processed .</context>
+    </instance>
+    <instance id="Journal-journal-1-14-1" docsrc="Journal">
+      <context> The <head>term</head> " journal " is also used in business : A journal is a book or computer file in which monetary transactions are entered the first time they are processed . This journal lists transactions in chronological sequence by date prior to a transfer of the same transactions to a ledger in the process of bookkeeping</context>
+    </instance>
+    <instance id="Journal-journal-10-0-1" docsrc="Journal">
+      <context> A journal ( through French from Latin diurnalis , daily <head>)</head> has several related meanings : a daily record of events or business ; a private journal is usually referred to as a diary</context>
+    </instance>
+    <instance id="Journal-journal-3-4-1" docsrc="Journal">
+      <context> a newspaper or <head>other</head> periodical , in the literal sense of one published each day The word " journalist " , for one whose business is writing for the public press and nowadays also other media , has been in use since the end of the 17th century . The term " journal " is also used in business :</context>
+    </instance>
+    <instance id="Plain_bearing-journal-1-96-1" docsrc="Plain_bearing">
+      <context> On <head>the</head> other hand , hydrodynamic bearings are simpler to install and are less expensive . In the hydrodynamic state a lubrication " wedge " forms , which lifts the journal . The journal also slightly shifts horizontally in the direction of rotation .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-11-85-1" docsrc="Plain_bearing">
+      <context> Examples of the second type of bearing are Oilites and plastic <head>bearings</head> made from polyacetal ; examples of the third type are metalized graphite bearings and PTFE bearings . Most plain bearings have a plain inner surface , however some are grooved . The grooves help lubrication enter the bearing and cover the whole journal .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-14-101-1" docsrc="Plain_bearing">
+      <context> In electromagnetic equipment like motors , electromagnetic forces can counteract gravity loads , causing <head>the</head> journal to take up unusual positions . Another design is the pressure dam or dammed groove , which has a shallow relief cut in the center of the bearing over the top half of the bearing . The groove abruptly stops in order to create a downward force to stabilize the journal .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-14-95-5" docsrc="Plain_bearing">
+      <context> As a result , hydrodynamic bearings may be aided by secondary bearings that support <head>the</head> shaft during start and stop periods , protecting the fine tolerance machined surfaces of the journal bearing . On the other hand , hydrodynamic bearings are simpler to install and are less expensive . In the hydrodynamic state a lubrication " wedge " forms , which lifts the journal .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-15-96-5" docsrc="Plain_bearing">
+      <context> The attitude angle and eccentricity ratio are dependent on the direction and speed of rotation <head>and</head> the load . In hydrostatic bearings the oil pressure also affects the eccentricity ratio . In electromagnetic equipment like motors , electromagnetic forces can counteract gravity loads , causing the journal to take up unusual positions .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-17-94-2" docsrc="Plain_bearing">
+      <context> Fluid bearings can be hydrostatically or hydrodynamically lubricated . Hydrostatically lubricated bearings are lubricated by an external <head>pump</head> that maintains a static amount of pressure . In a hydrodynamic bearing the pressure in the oil film is maintained by the rotation of the journal .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-2-0-1" docsrc="Plain_bearing">
+      <context> A plain <head>bearing</head> ( in railroading sometimes called a solid bearing ) is the simplest type of bearing , comprising just a bearing surface and no rolling elements . Therefore the journal ( i.e. , the part of the shaft in contact with the bearing ) slides over the bearing surface .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-30-95-3" docsrc="Plain_bearing">
+      <context> They are also more prone to initial wear because lubrication does not occur until there is rotation of the shaft . At low rotational speeds the lubrication may not attain <head>complete</head> separation between shaft and bushing . As a result , hydrodynamic bearings may be aided by secondary bearings that support the shaft during start and stop periods , protecting the fine tolerance machined surfaces of the journal bearing .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-30-96-2" docsrc="Plain_bearing">
+      <context> In the hydrodynamic state a lubrication " wedge " forms , which lifts the journal . The journal also slightly shifts horizontally in the direction of rotation . The location <head>of</head> the journal is measured by the attitude angle , which is the angle formed between the vertical and a line that crosses through the center of the journal and the center of the bearing , and the eccentricity ratio , which is the ratio of the distance of the centre of the journal from the centre of the bearing , to the overall radial clearance .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-4-96-2" docsrc="Plain_bearing">
+      <context> In the hydrodynamic state <head>a</head> lubrication " wedge " forms , which lifts the journal . The journal also slightly shifts horizontally in the direction of rotation . The location of the journal is measured by the attitude angle , which is the angle formed between the vertical and a line that crosses through the center of the journal and the center of the bearing , and the eccentricity ratio , which is the ratio of the distance of the centre of the journal from the centre of the bearing , to the overall radial clearance .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-55-96-2" docsrc="Plain_bearing">
+      <context> In the hydrodynamic state a lubrication " wedge " forms , which lifts the journal . The journal also slightly shifts horizontally in the direction of rotation . The location of the journal is measured by the attitude angle , which is the angle formed between the vertical and a line that crosses through the <head>center</head> of the journal and the center of the bearing , and the eccentricity ratio , which is the ratio of the distance of the centre of the journal from the centre of the bearing , to the overall radial clearance .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-8-37-2" docsrc="Plain_bearing">
+      <context> Babbitt is usually used in integral bearings . <head>It</head> is coated over the bore , usually to a thickness of 1 to 100 thou ( 0.025 to 2.540 mm ) , depending on the diameter . Babbitt bearings are designed to not damage the journal during direct contact and to collect any contaminants in the lubrication .</context>
+    </instance>
+    <instance id="Plain_bearing-journal-8-94-3" docsrc="Plain_bearing">
+      <context> Hydrostatically lubricated bearings are lubricated by an external <head>pump</head> that maintains a static amount of pressure . In a hydrodynamic bearing the pressure in the oil film is maintained by the rotation of the journal . Hydrostatic bearings enter a hydrodynamic state when the journal is rotating .</context>
+    </instance>
+    <instance id="br-f16#w165_0" docsrc="br-f16">
+      <context> What disaster struck the Discovery during those seventeen months ? What happened to the fourteen missing men ? These questions have remained one of the great sea mysteries of_all_time . For hundreds of years , the evidence available consisted_of ( 1 ) the captain 's fragmentary <head>journal</head> , ( 2 ) a highly prejudiced account by one of the survivors , ( 3 ) a note found in a dead man 's desk on_board , and ( 4 ) several second-hand reports . All_told , they offered a highly confused picture . But since 1927 , researchers digging_into ancient court records and legal files have been able to find illuminating pieces of information . Not enough to do away with all doubts , but sufficient to give a fairly accurate picture of the events of the voyage .</context>
+    </instance>
+    <instance id="br-f16#w960_0" docsrc="br-f16">
+      <context> On the third voyage , a near mutiny rising from a quarrel between Dutch and English crew_members on the Half_Moon had almost forced him to head the ship back to Amsterdam in mid Atlantic . Worse , his present crew included five men who had sailed with him before . Of only one could he be sure - young John_Hudson , his second son . The mate , Robert_Juet , who had kept the <head>journal</head> on the half_Moon , was experienced - but he was a bitter old_man , ready to complain or desert at any opportunity . Philip_Staffe , the ship 's carpenter , was a good worker , but perversely independent . Arnold_Lodley and Michael_Perse were like the rest - lukewarm , ready to swing against Hudson in a crisis . But men willing to sail at_all into waters where wooden ships could be crushed like eggs were hard to find .</context>
+    </instance>
+    <instance id="br-p10#w87_0" docsrc="br-p10">
+      <context> Among us , we three handled quite a few small commissions , from spot drawings for advertising_agencies uptown to magazine work and quick lettering jobs . Each of us had his own specialty besides . George did wonderful complicated pen-and-ink drawings like something out of a medieval miniature : hundreds of delicate details crammed into an eight by ten sheet and looking as if they had been done under a jeweler's_glass . He also drew precise crisp spots , which he sold to various literary and artistic <head>journals</head> , The New_Yorker , for_instance , or Esquire . I did book_jackets and covers for paperback reprints : naked girls huddling in corners of dingy furnished rooms while at the doorway , daring the cops to take him , is the guy in shirt_sleeves clutching a revolver . The book could be The_Brothers_Karamazov , but it would still have the same jacket illustration . I remember once I did a jacket for Magpie_Press ; the book was a fine historical novel about Edward_3 , , and I did a week of research to get the details just_right : the fifteenth century armor , furnishings , clothes .</context>
+    </instance>
+    <instance id="n03165211_d_2" docsrc="n03165211_d">
+      <context> an accounting <head>journal</head> as a physical_object ;</context>
+    </instance>
+    <instance id="n03189707_d_2" docsrc="n03189707_d">
+      <context> a personal <head>journal</head> ( as a physical_object ) ;</context>
+    </instance>
+    <instance id="n03542220_d_1" docsrc="n03542220_d">
+      <context> a <head>journal</head> bearing ( as of a railroad_car ) that has overheated ;</context>
+    </instance>
+    <instance id="n03602686_d_4" docsrc="n03602686_d">
+      <context> the bearing of a <head>journal</head> ;</context>
+    </instance>
+    <instance id="n03602790_d_4" docsrc="n03602790_d">
+      <context> metal housing for a <head>journal</head> bearing ;</context>
+    </instance>
+    <instance id="n03938401_d_8" docsrc="n03938401_d">
+      <context> a cast-iron or steel block for supporting a <head>journal</head> or bearing ;</context>
+    </instance>
+    <instance id="n05794189_d_22" docsrc="n05794189_d">
+      <context> the scientific study of plants or animals ( more observational than experimental ) usually published in popular magazines rather than in academic <head>journals</head> ;</context>
+    </instance>
+    <instance id="n06597466_ex1_4" docsrc="n06597466_ex1">
+      <context> he reads the medical <head>journals</head> ;</context>
+    </instance>
+    <instance id="n08462534_d_6" docsrc="n08462534_d">
+      <context> all the data ( ledgers and <head>journals</head> and spreadsheets ) that support a financial_statement ; can be hard_copy or machine_readable ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="lender.n" pos="NN">
+    <instance id="Creditor-lender-10-0-4" docsrc="Creditor">
+      <context> The first party , in general , has provided some <head>property</head> or service to the second party under the assumption ( usually enforced by contract ) that the second party will return an equivalent property and service . The second party is frequently called a debtor or borrower . The first party is the creditor , which is the lender of property , service or money .</context>
+    </instance>
+    <instance id="n01111133_d_4" docsrc="n01111133_d">
+      <context> obtaining funds from a <head>lender</head> ;</context>
+    </instance>
+    <instance id="n13399379_d_20" docsrc="n13399379_d">
+      <context> a loan by a lender to a customer without the use of a third party ; direct lending gives the <head>lender</head> greater discretion in making loans ;</context>
+    </instance>
+    <instance id="n13399379_d_4" docsrc="n13399379_d">
+      <context> a loan by a <head>lender</head> to a customer without the use of a third party ; direct lending gives the lender greater discretion in making loans ;</context>
+    </instance>
+    <instance id="v02330742_d_22" docsrc="v02330742_d">
+      <context> supply with capital , as of a business by using a combination of capital used by investors and debt capital provided by <head>lenders</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

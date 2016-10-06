@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="oxygen.n" pos="NN">
+    <instance id="a00068566_d_2" docsrc="a00068566_d">
+      <context> depending_on free <head>oxygen</head> or air ;</context>
+    </instance>
+    <instance id="a00068738_d_8" docsrc="a00068738_d">
+      <context> living or active only in the presence of <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="a00068883_d_5" docsrc="a00068883_d">
+      <context> taking_place in the presence of <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="a00069060_d_8" docsrc="a00069060_d">
+      <context> living or active in the absence of free <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="a00268273_d_4" docsrc="a00268273_d">
+      <context> tending to deprive of <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="a01929202_d_6" docsrc="a01929202_d">
+      <context> capable of undergoing a chemical_reaction with <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="a01930244_d_3" docsrc="a01930244_d">
+      <context> inert especially toward <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="a02509854_d_8" docsrc="a02509854_d">
+      <context> ( used of blood ) not supplied with <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="a02609168_d_1" docsrc="a02609168_d">
+      <context> deriving <head>oxygen</head> from the air ;</context>
+    </instance>
+    <instance id="a02627787_d_7" docsrc="a02627787_d">
+      <context> relating to or marked by abnormally little <head>oxygen</head> in arterial_blood ;</context>
+    </instance>
+    <instance id="a02627927_d_9" docsrc="a02627927_d">
+      <context> relating to or marked by a severe deficiency of <head>oxygen</head> in tissues or organs ;</context>
+    </instance>
+    <instance id="a03020884_d_12" docsrc="a03020884_d">
+      <context> living in or being an environment rich in organic matter but lacking <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="a03151122_d_8" docsrc="a03151122_d">
+      <context> combined with or having undergone a chemical_reaction with <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="br-h11#w1499_0" docsrc="br-h11">
+      <context> A 6 - year study of the transport properties of air at elevated temperatures has been completed . This project was carried_out under sponsorship of the Ballistic_Missile_Division_of_the_Air_Research_and_Development_Command , U._S._Air_Force , and had as its goal the investigation of the transport by diffusion of the heat_energy of chemical binding . A significant effect discovered during the study is the existence of Prandtl numbers reaching values of more_than unity in the nitrogen dissociation region . Another effect discovered is the large coefficient of thermal diffusion tending to separate nitrogen from the <head>oxygen</head> when temperature differences straddling the nitrogen dissociation region are present . The results of the study , based on collision integrals computed from the latest critically evaluated data on intermolecular forces in air , will be reported in the form of a table of viscosity , thermal conductivity , thermal diffusion , and diffusion coefficients at temperatures of 1000 to 10000 * * f and of logarithm of pressure in atmospheres from * * f to * * f times normal density . In March , 1961 , representatives of the national laboratories of Australia , Canada , The_Netherlands , United_Kingdom , U._S._S._R. , United_States , and West_Germany , met at the NBS to devise means for reaching international agreement on a temperature scale between 10 and 90 * * f . As a first_step toward this goal , arrangements were worked_out for comparing the scales now in_use through circulation of a group of standard platinum resistance_thermometers for calibration by each national laboratory .</context>
+    </instance>
+    <instance id="br-h11#w1988_0" docsrc="br-h11">
+      <context> Under the sponsorship of the Office_of_Naval_Research and the Advanced_Research_Projects_Agency , a data center was established to gather and index all published information on atomic transition probabilities . An exhaustive survey was made of the literature , and a primary reference file of approximately 600 references was catalogued . Selected bibliographies and tables of available data are now in preparation . A wall stabilized high current arc source was constructed and used to study transition probabilities of atomic hydrogen and <head>oxygen</head> . This apparatus will also be used to measure transition probabilities of a large_number of other elements . A study of the hydrogen line profiles indicates that a measurement of these profiles can be used to calculate a temperature for the arc plasma that is reliable to about * * f percent . A set of tables containing spectral intensities for 39000 lines of 70 elements , as observed in a copper matrix in a d-c arc , was completed and published .</context>
+    </instance>
+    <instance id="br-j04#w1020_0" docsrc="br-j04">
+      <context> However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence . The only effect of lack of a center would then be to release the hydrogen_atoms to occupy general , rather_than special , positions along the [ 111 ] axis . If the **f bond is linear then there are three reasonable positions for the hydrogen_atoms : ( 1 ) The hydrogen_atoms are centered and hence all lie on a sheet midway between the <head>oxygen</head> sheets ; ( 2 ) all hydrogen_atoms lie on a sheet , but the sheet is closer to one oxygen sheet than to the other ; ( 3 ) hydrogen_atoms are asymmetrically placed , either randomly or in an ordered way , so that some hydrogen_atoms are closer to the upper oxygen atoms while others are closer to the lower oxygen atoms . Position ( 2 ) appears to us to be unlikely in_view_of the absence of a piezoelectric_effect and on general chemical structural grounds . A randomization of `` ups '' and `` downs '' is more likely than ordered `` ups '' and `` downs '' in position ( 3 ) since the hydrogen_atoms are well separated and so the position of one could hardly affect the position of another , and also since ordered `` up '' and `` down '' implies a larger unit_cell , for which no evidence exists . Therefore , the only unknown structural feature would appear to be whether the hydrogen_atoms are located symmetrically ( 1 ) or asymmetrically ( 3 ) .</context>
+    </instance>
+    <instance id="br-j04#w1040_0" docsrc="br-j04">
+      <context> However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence . The only effect of lack of a center would then be to release the hydrogen_atoms to occupy general , rather_than special , positions along the [ 111 ] axis . If the **f bond is linear then there are three reasonable positions for the hydrogen_atoms : ( 1 ) The hydrogen_atoms are centered and hence all lie on a sheet midway between the oxygen sheets ; ( 2 ) all hydrogen_atoms lie on a sheet , but the sheet is closer to one <head>oxygen</head> sheet than to the other ; ( 3 ) hydrogen_atoms are asymmetrically placed , either randomly or in an ordered way , so that some hydrogen_atoms are closer to the upper oxygen atoms while others are closer to the lower oxygen atoms . Position ( 2 ) appears to us to be unlikely in_view_of the absence of a piezoelectric_effect and on general chemical structural grounds . A randomization of `` ups '' and `` downs '' is more likely than ordered `` ups '' and `` downs '' in position ( 3 ) since the hydrogen_atoms are well separated and so the position of one could hardly affect the position of another , and also since ordered `` up '' and `` down '' implies a larger unit_cell , for which no evidence exists . Therefore , the only unknown structural feature would appear to be whether the hydrogen_atoms are located symmetrically ( 1 ) or asymmetrically ( 3 ) .</context>
+    </instance>
+    <instance id="br-j04#w1072_0" docsrc="br-j04">
+      <context> However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence . The only effect of lack of a center would then be to release the hydrogen_atoms to occupy general , rather_than special , positions along the [ 111 ] axis . If the **f bond is linear then there are three reasonable positions for the hydrogen_atoms : ( 1 ) The hydrogen_atoms are centered and hence all lie on a sheet midway between the oxygen sheets ; ( 2 ) all hydrogen_atoms lie on a sheet , but the sheet is closer to one oxygen sheet than to the other ; ( 3 ) hydrogen_atoms are asymmetrically placed , either randomly or in an ordered way , so that some hydrogen_atoms are closer to the upper <head>oxygen</head> atoms while others are closer to the lower oxygen atoms . Position ( 2 ) appears to us to be unlikely in_view_of the absence of a piezoelectric_effect and on general chemical structural grounds . A randomization of `` ups '' and `` downs '' is more likely than ordered `` ups '' and `` downs '' in position ( 3 ) since the hydrogen_atoms are well separated and so the position of one could hardly affect the position of another , and also since ordered `` up '' and `` down '' implies a larger unit_cell , for which no evidence exists . Therefore , the only unknown structural feature would appear to be whether the hydrogen_atoms are located symmetrically ( 1 ) or asymmetrically ( 3 ) .</context>
+    </instance>
+    <instance id="br-j04#w1081_0" docsrc="br-j04">
+      <context> However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence . The only effect of lack of a center would then be to release the hydrogen_atoms to occupy general , rather_than special , positions along the [ 111 ] axis . If the **f bond is linear then there are three reasonable positions for the hydrogen_atoms : ( 1 ) The hydrogen_atoms are centered and hence all lie on a sheet midway between the oxygen sheets ; ( 2 ) all hydrogen_atoms lie on a sheet , but the sheet is closer to one oxygen sheet than to the other ; ( 3 ) hydrogen_atoms are asymmetrically placed , either randomly or in an ordered way , so that some hydrogen_atoms are closer to the upper oxygen atoms while others are closer to the lower <head>oxygen</head> atoms . Position ( 2 ) appears to us to be unlikely in_view_of the absence of a piezoelectric_effect and on general chemical structural grounds . A randomization of `` ups '' and `` downs '' is more likely than ordered `` ups '' and `` downs '' in position ( 3 ) since the hydrogen_atoms are well separated and so the position of one could hardly affect the position of another , and also since ordered `` up '' and `` down '' implies a larger unit_cell , for which no evidence exists . Therefore , the only unknown structural feature would appear to be whether the hydrogen_atoms are located symmetrically ( 1 ) or asymmetrically ( 3 ) .</context>
+    </instance>
+    <instance id="br-j04#w740_0" docsrc="br-j04">
+      <context> Douglass found powder intensity calculations and measurements to agree best for **f . These data lead to a structure in which sheets of Cr atoms lie between two sheets of O atoms . The O atoms in each sheet are close_packed and each Cr atom is surrounded by a distorted octahedron of O atoms . The **f layers are stacked normal to the [ 111 ] axis with the lower <head>oxygens</head> of one layer directly above the upper oxygens of the neighboring lower layer , in such a manner that the repeat is every three layers . The separate layers are joined together by hydrogen_bonds . A drawing of the structure is to be_found in reference 6 . The gross details of the structure appear reasonable .</context>
+    </instance>
+    <instance id="br-j04#w748_0" docsrc="br-j04">
+      <context> Douglass found powder intensity calculations and measurements to agree best for **f . These data lead to a structure in which sheets of Cr atoms lie between two sheets of O atoms . The O atoms in each sheet are close_packed and each Cr atom is surrounded by a distorted octahedron of O atoms . The **f layers are stacked normal to the [ 111 ] axis with the lower oxygens of one layer directly above the upper <head>oxygens</head> of the neighboring lower layer , in such a manner that the repeat is every three layers . The separate layers are joined together by hydrogen_bonds . A drawing of the structure is to be_found in reference 6 . The gross details of the structure appear reasonable .</context>
+    </instance>
+    <instance id="br-j04#w832_0" docsrc="br-j04">
+      <context> A drawing of the structure is to be_found in reference 6 . The gross details of the structure appear reasonable . The structure appears to be unique among ROOH compounds , but is the same as that assumed by **f . The bond angles and distances are all within the expected limits and the volume per <head>oxygen</head> is about normal . However , the possible absence of a center of symmetry not_only moves the hydrogen_atom off **f , but also allows the oxygen atoms to become nonequivalent , with **f at **f and **f at **f ( space group **f ) , where **f represents the oxygens on one side of the **f layers and **f those on the other side . However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence .</context>
+    </instance>
+    <instance id="br-j04#w858_0" docsrc="br-j04">
+      <context> The gross details of the structure appear reasonable . The structure appears to be unique among ROOH compounds , but is the same as that assumed by **f . The bond angles and distances are all within the expected limits and the volume per oxygen is about normal . However , the possible absence of a center of symmetry not_only moves the hydrogen_atom off **f , but also allows the <head>oxygen</head> atoms to become nonequivalent , with **f at **f and **f at **f ( space group **f ) , where **f represents the oxygens on one side of the **f layers and **f those on the other side . However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence . The only effect of lack of a center would then be to release the hydrogen_atoms to occupy general , rather_than special , positions along the [ 111 ] axis .</context>
+    </instance>
+    <instance id="br-j04#w882_0" docsrc="br-j04">
+      <context> The gross details of the structure appear reasonable . The structure appears to be unique among ROOH compounds , but is the same as that assumed by **f . The bond angles and distances are all within the expected limits and the volume per oxygen is about normal . However , the possible absence of a center of symmetry not_only moves the hydrogen_atom off **f , but also allows the oxygen atoms to become nonequivalent , with **f at **f and **f at **f ( space group **f ) , where **f represents the <head>oxygens</head> on one side of the **f layers and **f those on the other side . However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence . The only effect of lack of a center would then be to release the hydrogen_atoms to occupy general , rather_than special , positions along the [ 111 ] axis .</context>
+    </instance>
+    <instance id="br-j04#w901_0" docsrc="br-j04">
+      <context> The structure appears to be unique among ROOH compounds , but is the same as that assumed by **f . The bond angles and distances are all within the expected limits and the volume per oxygen is about normal . However , the possible absence of a center of symmetry not_only moves the hydrogen_atom off **f , but also allows the oxygen atoms to become nonequivalent , with **f at **f and **f at **f ( space group **f ) , where **f represents the oxygens on one side of the **f layers and **f those on the other side . However , any <head>oxygen</head> nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence . The only effect of lack of a center would then be to release the hydrogen_atoms to occupy general , rather_than special , positions along the [ 111 ] axis . If the **f bond is linear then there are three reasonable positions for the hydrogen_atoms : ( 1 ) The hydrogen_atoms are centered and hence all lie on a sheet midway between the oxygen sheets ; ( 2 ) all hydrogen_atoms lie on a sheet , but the sheet is closer to one oxygen sheet than to the other ; ( 3 ) hydrogen_atoms are asymmetrically placed , either randomly or in an ordered way , so that some hydrogen_atoms are closer to the upper oxygen atoms while others are closer to the lower oxygen atoms .</context>
+    </instance>
+    <instance id="br-j04#w949_0" docsrc="br-j04">
+      <context> The bond angles and distances are all within the expected limits and the volume per oxygen is about normal . However , the possible absence of a center of symmetry not_only moves the hydrogen_atom off **f , but also allows the oxygen atoms to become nonequivalent , with **f at **f and **f at **f ( space group **f ) , where **f represents the oxygens on one side of the **f layers and **f those on the other side . However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen_bonded **f interlayer interactions which are already quite short at 2.58 A . Hence it is difficult to conceive_of a packing of the atoms in this material in which the <head>oxygen</head> atoms are far from geometrical equivalence . The only effect of lack of a center would then be to release the hydrogen_atoms to occupy general , rather_than special , positions along the [ 111 ] axis . If the **f bond is linear then there are three reasonable positions for the hydrogen_atoms : ( 1 ) The hydrogen_atoms are centered and hence all lie on a sheet midway between the oxygen sheets ; ( 2 ) all hydrogen_atoms lie on a sheet , but the sheet is closer to one oxygen sheet than to the other ; ( 3 ) hydrogen_atoms are asymmetrically placed , either randomly or in an ordered way , so that some hydrogen_atoms are closer to the upper oxygen atoms while others are closer to the lower oxygen atoms . Position ( 2 ) appears to us to be unlikely in_view_of the absence of a piezoelectric_effect and on general chemical structural grounds .</context>
+    </instance>
+    <instance id="br-j06#w1432_0" docsrc="br-j06">
+      <context> The fraction of exchange was determined as the ratio of the counts / minute observed in the carbon_tetrachloride to the counts / minute calculated for the carbon_tetrachloride fractions for equilibrium distribution of the activity between the chlorine and carbon_tetrachloride , empirically determined correction being made for the difference in counting efficiency of * * f in * * f and * * f . In studying the liquid phase thermal reaction , some 70 tubes from 12 different manifold fillings were prepared and analyzed . Experiments were done at 180 , 200 , 210 , 220 ` . Following observation of the fact that the reaction rates of supposedly identical reaction mixtures prepared on the same filling manifold and exposed under identical conditions often differed by several hundred per_cent , a systematic series of experiments was undertaken to see whether the difficulty could be ascribed to the method of preparing the chlorine , to the effects of <head>oxygen</head> or moisture or to the effect of surface to volume ratio in the reaction tubes . In_addition to the method described in the section above , chlorine and radiochlorine were prepared by the electrolysis of a * * f eutectic on the vacuum line , and by exchange of * * f with molten * * f . Calcium_hydride was substituted for * * f as a drying_agent for carbon_tetrachloride . No correlation between these variables and the irreproducibility of the results was found .</context>
+    </instance>
+    <instance id="br-j06#w1565_0" docsrc="br-j06">
+      <context> No correlation between these variables and the irreproducibility of the results was found . The reaction rates observed at 200 ` ranged from * * f of the chlorine exchanged per hour to 0.7 exchanged per hour . In most cases the chlorine concentration was about * * f . Sets of reaction tubes containing 0.2 of an atmosphere of added <head>oxygen</head> in one case and added moisture in another , both gave reaction rates in the range of 0.1 to 0.4 of the chlorine exchanged per hour . No detectable reaction was found at room_temperature for reaction mixtures allowed to stand up_to 5 hours . The liquid phase photochemical_exchange between chlorine and carbon_tetrachloride was more reproducible than the thermal exchange , although still erratic . The improvement was most noticeable in the greater consistency among reaction cells prepared as_a_group on the same manifold .</context>
+    </instance>
+    <instance id="br-j06#w1860_0" docsrc="br-j06">
+      <context> By comparing reaction cells sealed from the same manifold temperature dependency corresponding to activation_energies ranging from 11 to 18 * * f was observed while dependence on the first power of the light intensity seemed to be indicated in most cases . It was possible to make estimates of the quantum yield by observing the extent of reduction of a uranyl_oxalate actinometer solution illuminated for a known time in a typical reaction cell and making appropriate conversions based on the differences in the absorption_spectra of uranyl_oxalate and of chlorine , and considering the spectral distribution of the light source . These estimates indicated that the quantum yield for the exchange of chlorine with liquid carbon_tetrachloride at 65 ` is of the order_of_magnitude of unity . When typical reaction cells to which 0.3 of an atmosphere of <head>oxygen</head> had been added were illuminated , chlorine and phosgene were produced . Exchange was also observed in these cells , which had chlorine present at * * f . Although there was some variation in results which must be attributed either to trace impurities or to variation in wall effects , the photochemical_exchange in the gas phase was sufficiently reproducible so that it seemed meaningful to compare the reaction rates in different series of reaction tubes for the purpose of obtaining information on the effect of chlorine concentration and of carbon_tetrachloride concentration on the reaction rate . Data on such comparisons together with data on the effect of light intensity are given in Table /1 .</context>
+    </instance>
+    <instance id="br-j12#w1252_0" docsrc="br-j12">
+      <context> The meaning of this variation in distribution of the bronchial_artery as found in the horse is not clear . However , this artery is known to be a nutrient vessel with a distribution primarily to the proximal airways and supportive tissues of the lung . The alveoli and respiratory bronchioles are primarily diffusing tissues . Theoretically , they are capable of extracting their required <head>oxygen</head> either from the surrounding air ( Ghoreyeb and Karsner , ' 13 ) or from pulmonary arterial blood ( Comroe , ' 58 ) . Therefore , an explanation of this alveolar bronchial_artery supply might be the nutritive requirement of an increased amount of supportive tissue , not primarily diffusing in nature , in the region of the alveolus . If this be true , the possibility exists that an occlusive lesion of the bronchial_arteries might cause widespread degeneration of supportive tissue similar to that seen in generalized emphysema . One would not expect such an event to occur in animals possessing lungs of types 1 , or 2 , .</context>
+    </instance>
+    <instance id="br-j70#w1095_0" docsrc="br-j70">
+      <context> Examination of the data in Table 1 , shows that a_few samples contributed to raising the effluent BOD . The periods of high effluent BOD occurred during cold periods when operational problems with the aerator resulted . Ice caused the aerator to overload , straining the drive belts . The slippage of the drive belts caused the aerator to slow_down and reduce <head>oxygen</head> transfer as_well_as the mixing of the raw sewage . The organic loading on the unit averaged 32 lb of BOD / day or about 2 lb BOD / day 1000 cu_ft aeration capacity . Needless to say , the organic load was very low on a volumetric basis , but was 270 lb BOD / day / acre on a surface loading basis . It seems that the aerated lagoon was a very heavily loaded oxidation pond or a lightly loaded activated sludge system .</context>
+    </instance>
+    <instance id="br-j70#w1339_0" docsrc="br-j70">
+      <context> A skimming device at the effluent weir prevented loss of most of these light solids . The average volatile suspended solids in the effluent was 75 mg / l while MLSS averaged 170 mg / l volatile suspended solids . The average sludge age based on displacement of solids was calculated to be 14.5 days . The <head>oxygen</head> uptake rate in the mixed liquor averaged 0.8 mg / l / hr during the first four months of this study . Variations in aerator speeds during the latter two months of this study caused increased mixing and increased oxygen demand . The increase in oxygen uptake rates from 1.2 to 2.6 mg / l / hr which followed an increase in rotor speed was believed to be related to resuspension of solids which had settled at the lower rotor speeds . It appeared that most of the mixed liquor suspended solids were active microbial solids with the heavier , less active solids settling out .</context>
+    </instance>
+    <instance id="br-j70#w1379_0" docsrc="br-j70">
+      <context> The average volatile suspended solids in the effluent was 75 mg / l while MLSS averaged 170 mg / l volatile suspended solids . The average sludge age based on displacement of solids was calculated to be 14.5 days . The oxygen uptake rate in the mixed liquor averaged 0.8 mg / l / hr during the first four months of this study . Variations in aerator speeds during the latter two months of this study caused increased mixing and increased <head>oxygen</head> demand . The increase in oxygen uptake rates from 1.2 to 2.6 mg / l / hr which followed an increase in rotor speed was believed to be related to resuspension of solids which had settled at the lower rotor speeds . It appeared that most of the mixed liquor suspended solids were active microbial solids with the heavier , less active solids settling out . The suspended solids discharged in the effluent were found to be the major source of the BOD .</context>
+    </instance>
+    <instance id="br-j70#w1385_0" docsrc="br-j70">
+      <context> The average sludge age based on displacement of solids was calculated to be 14.5 days . The oxygen uptake rate in the mixed liquor averaged 0.8 mg / l / hr during the first four months of this study . Variations in aerator speeds during the latter two months of this study caused increased mixing and increased oxygen demand . The increase in <head>oxygen</head> uptake rates from 1.2 to 2.6 mg / l / hr which followed an increase in rotor speed was believed to be related to resuspension of solids which had settled at the lower rotor speeds . It appeared that most of the mixed liquor suspended solids were active microbial solids with the heavier , less active solids settling out . The suspended solids discharged in the effluent were found to be the major source of the BOD . Removal of the suspended solids by a membrane filter yielded an average effluent containing only 20 mg / l BOD .</context>
+    </instance>
+    <instance id="br-j70#w161_0" docsrc="br-j70">
+      <context> The high cost of land and a_few operational problems resulting from excessive loadings have created the need for a wastewater treatment system with the operational characteristics of the oxidation pond but with the ability to treat more organic matter per unit volume . Research at Fayette_, Missouri on oxidation ponds has shown that the BOD in the treated effluent varied from 30 to 53 mg / l with loadings from 8 to 120 lb BOD / day / acre . Since experience indicates that effluents from oxidation ponds do not create major problems at these BOD concentrations , the goal for the effluent quality of the accelerated treatment system was the same as from conventional oxidation ponds . Recent studies by Weston and Stack had indicated that a turbine aerator could be added to an oxidation pond to increase the rate of <head>oxygen</head> transfer . Their study showed that it was possible to transfer 3 to 4 lb of oxygen / hr / hp . O'Connor and Eckenfelder discussed the use of aerated lagoons for treating organic wastes . They indicated that a 4 - day retention , aerated lagoon would give 60 to 76 per_cent BOD reduction .</context>
+    </instance>
+    <instance id="br-j70#w1696_0" docsrc="br-j70">
+      <context> When the temperature reached 32 ` F all protozoan activity ceased ; but as the temperature rose , the numbers of protozoa increased rapidly . Only once were stalked ciliates found in the mixed liquor . The predomination of free_swimming ciliated_protozoa is indicative_of a high bacterial population . One of the important aspects of_this study was to determine the <head>oxygen</head> transfer relationships of the mechanical aerator . Routine determinations were made for dissolved oxygen in the mixed liquor and for oxygen uptake rates . The data given in Table 2 , show the routine operation of the aerator . The dissolved oxygen in the aeration unit was consistently high until January 29 , 1961 .</context>
+    </instance>
+    <instance id="br-j70#w1710_0" docsrc="br-j70">
+      <context> Only once were stalked ciliates found in the mixed liquor . The predomination of free_swimming ciliated_protozoa is indicative_of a high bacterial population . One of the important aspects of_this study was to determine the oxygen transfer relationships of the mechanical aerator . Routine determinations were made for dissolved <head>oxygen</head> in the mixed liquor and for oxygen uptake rates . The data given in Table 2 , show the routine operation of the aerator . The dissolved oxygen in the aeration unit was consistently high until January 29 , 1961 . An extended cold_spell caused ice to build_up on the aerator which was mounted on a floating platform and caused the entire platform to sink lower in the water .</context>
+    </instance>
+    <instance id="br-j70#w1717_0" docsrc="br-j70">
+      <context> Only once were stalked ciliates found in the mixed liquor . The predomination of free_swimming ciliated_protozoa is indicative_of a high bacterial population . One of the important aspects of_this study was to determine the oxygen transfer relationships of the mechanical aerator . Routine determinations were made for dissolved oxygen in the mixed liquor and for <head>oxygen</head> uptake rates . The data given in Table 2 , show the routine operation of the aerator . The dissolved oxygen in the aeration unit was consistently high until January 29 , 1961 . An extended cold_spell caused ice to build_up on the aerator which was mounted on a floating platform and caused the entire platform to sink lower in the water .</context>
+    </instance>
+    <instance id="br-j70#w1738_0" docsrc="br-j70">
+      <context> One of the important aspects of_this study was to determine the oxygen transfer relationships of the mechanical aerator . Routine determinations were made for dissolved oxygen in the mixed liquor and for oxygen uptake rates . The data given in Table 2 , show the routine operation of the aerator . The dissolved <head>oxygen</head> in the aeration unit was consistently high until January 29 , 1961 . An extended cold_spell caused ice to build_up on the aerator which was mounted on a floating platform and caused the entire platform to sink lower in the water . The added resistance to the rotor damaged the drive belts and reduced the oxygen transfer capacity . It was approximately one month before the belt problem was noticed and corrected , but at no time was there a deficiency of dissolved oxygen .</context>
+    </instance>
+    <instance id="br-j70#w178_0" docsrc="br-j70">
+      <context> Research at Fayette_, Missouri on oxidation ponds has shown that the BOD in the treated effluent varied from 30 to 53 mg / l with loadings from 8 to 120 lb BOD / day / acre . Since experience indicates that effluents from oxidation ponds do not create major problems at these BOD concentrations , the goal for the effluent quality of the accelerated treatment system was the same as from conventional oxidation ponds . Recent studies by Weston and Stack had indicated that a turbine aerator could be added to an oxidation pond to increase the rate of oxygen transfer . Their study showed that it was possible to transfer 3 to 4 lb of <head>oxygen</head> / hr / hp . O'Connor and Eckenfelder discussed the use of aerated lagoons for treating organic wastes . They indicated that a 4 - day retention , aerated lagoon would give 60 to 76 per_cent BOD reduction . Later , Eckenfelder increased the efficiency of treatment to between 75 and 85 per_cent in the summer months .</context>
+    </instance>
+    <instance id="br-j70#w1794_0" docsrc="br-j70">
+      <context> The data given in Table 2 , show the routine operation of the aerator . The dissolved oxygen in the aeration unit was consistently high until January 29 , 1961 . An extended cold_spell caused ice to build_up on the aerator which was mounted on a floating platform and caused the entire platform to sink lower in the water . The added resistance to the rotor damaged the drive belts and reduced the <head>oxygen</head> transfer capacity . It was approximately one month before the belt problem was noticed and corrected , but at no time was there a deficiency of dissolved oxygen . A series of eight special tests were conducted at different rotor speeds to determine the oxygen transfer rate . Five of the tests were conducted with a polyethylene cover to simulate an ice cover .</context>
+    </instance>
+    <instance id="br-j70#w1822_0" docsrc="br-j70">
+      <context> The dissolved oxygen in the aeration unit was consistently high until January 29 , 1961 . An extended cold_spell caused ice to build_up on the aerator which was mounted on a floating platform and caused the entire platform to sink lower in the water . The added resistance to the rotor damaged the drive belts and reduced the oxygen transfer capacity . It was approximately one month before the belt problem was noticed and corrected , but at no time was there a deficiency of dissolved <head>oxygen</head> . A series of eight special tests were conducted at different rotor speeds to determine the oxygen transfer rate . Five of the tests were conducted with a polyethylene cover to simulate an ice cover . The rate of oxygen transfer at 1.0 - mg / l dissolved oxygen concentration and 10 ` C for various rotor speeds is given in Table 3 , .</context>
+    </instance>
+    <instance id="br-j70#w1839_0" docsrc="br-j70">
+      <context> An extended cold_spell caused ice to build_up on the aerator which was mounted on a floating platform and caused the entire platform to sink lower in the water . The added resistance to the rotor damaged the drive belts and reduced the oxygen transfer capacity . It was approximately one month before the belt problem was noticed and corrected , but at no time was there a deficiency of dissolved oxygen . A series of eight special tests were conducted at different rotor speeds to determine the <head>oxygen</head> transfer rate . Five of the tests were conducted with a polyethylene cover to simulate an ice cover . The rate of oxygen transfer at 1.0 - mg / l dissolved oxygen concentration and 10 ` C for various rotor speeds is given in Table 3 , . The maximum rate of oxygen transfer at 1.0 mg / l dissolved oxygen was calculated as 220 lb / day at a maximum rate of 9.3 mg / l / hr .</context>
+    </instance>
+    <instance id="br-j70#w1862_0" docsrc="br-j70">
+      <context> It was approximately one month before the belt problem was noticed and corrected , but at no time was there a deficiency of dissolved oxygen . A series of eight special tests were conducted at different rotor speeds to determine the oxygen transfer rate . Five of the tests were conducted with a polyethylene cover to simulate an ice cover . The rate of <head>oxygen</head> transfer at 1.0 - mg / l dissolved oxygen concentration and 10 ` C for various rotor speeds is given in Table 3 , . The maximum rate of oxygen transfer at 1.0 mg / l dissolved oxygen was calculated as 220 lb / day at a maximum rate of 9.3 mg / l / hr . The actual power requirements indicated 2 lb oxygen transfer / hr / hp . The polyethylene cover reduced the oxygen transfer rate by 10 per_cent , indicating that the maximum oxygen transfer is at the rotor rather_than through the surface .</context>
+    </instance>
+    <instance id="br-j70#w1871_0" docsrc="br-j70">
+      <context> It was approximately one month before the belt problem was noticed and corrected , but at no time was there a deficiency of dissolved oxygen . A series of eight special tests were conducted at different rotor speeds to determine the oxygen transfer rate . Five of the tests were conducted with a polyethylene cover to simulate an ice cover . The rate of oxygen transfer at 1.0 - mg / l dissolved <head>oxygen</head> concentration and 10 ` C for various rotor speeds is given in Table 3 , . The maximum rate of oxygen transfer at 1.0 mg / l dissolved oxygen was calculated as 220 lb / day at a maximum rate of 9.3 mg / l / hr . The actual power requirements indicated 2 lb oxygen transfer / hr / hp . The polyethylene cover reduced the oxygen transfer rate by 10 per_cent , indicating that the maximum oxygen transfer is at the rotor rather_than through the surface .</context>
+    </instance>
+    <instance id="br-j70#w1892_0" docsrc="br-j70">
+      <context> A series of eight special tests were conducted at different rotor speeds to determine the oxygen transfer rate . Five of the tests were conducted with a polyethylene cover to simulate an ice cover . The rate of oxygen transfer at 1.0 - mg / l dissolved oxygen concentration and 10 ` C for various rotor speeds is given in Table 3 , . The maximum rate of <head>oxygen</head> transfer at 1.0 mg / l dissolved oxygen was calculated as 220 lb / day at a maximum rate of 9.3 mg / l / hr . The actual power requirements indicated 2 lb oxygen transfer / hr / hp . The polyethylene cover reduced the oxygen transfer rate by 10 per_cent , indicating that the maximum oxygen transfer is at the rotor rather_than through the surface . During this study septic conditions developed in the oxidation pond in the spring when the ice melted .</context>
+    </instance>
+    <instance id="br-j70#w1900_0" docsrc="br-j70">
+      <context> A series of eight special tests were conducted at different rotor speeds to determine the oxygen transfer rate . Five of the tests were conducted with a polyethylene cover to simulate an ice cover . The rate of oxygen transfer at 1.0 - mg / l dissolved oxygen concentration and 10 ` C for various rotor speeds is given in Table 3 , . The maximum rate of oxygen transfer at 1.0 mg / l dissolved <head>oxygen</head> was calculated as 220 lb / day at a maximum rate of 9.3 mg / l / hr . The actual power requirements indicated 2 lb oxygen transfer / hr / hp . The polyethylene cover reduced the oxygen transfer rate by 10 per_cent , indicating that the maximum oxygen transfer is at the rotor rather_than through the surface . During this study septic conditions developed in the oxidation pond in the spring when the ice melted .</context>
+    </instance>
+    <instance id="br-j70#w1927_0" docsrc="br-j70">
+      <context> Five of the tests were conducted with a polyethylene cover to simulate an ice cover . The rate of oxygen transfer at 1.0 - mg / l dissolved oxygen concentration and 10 ` C for various rotor speeds is given in Table 3 , . The maximum rate of oxygen transfer at 1.0 mg / l dissolved oxygen was calculated as 220 lb / day at a maximum rate of 9.3 mg / l / hr . The actual power requirements indicated 2 lb <head>oxygen</head> transfer / hr / hp . The polyethylene cover reduced the oxygen transfer rate by 10 per_cent , indicating that the maximum oxygen transfer is at the rotor rather_than through the surface . During this study septic conditions developed in the oxidation pond in the spring when the ice melted . Shortly after this study ended septic conditions resulted which required the addition of sodium_nitrate .</context>
+    </instance>
+    <instance id="br-j70#w1939_0" docsrc="br-j70">
+      <context> The rate of oxygen transfer at 1.0 - mg / l dissolved oxygen concentration and 10 ` C for various rotor speeds is given in Table 3 , . The maximum rate of oxygen transfer at 1.0 mg / l dissolved oxygen was calculated as 220 lb / day at a maximum rate of 9.3 mg / l / hr . The actual power requirements indicated 2 lb oxygen transfer / hr / hp . The polyethylene cover reduced the <head>oxygen</head> transfer rate by 10 per_cent , indicating that the maximum oxygen transfer is at the rotor rather_than through the surface . During this study septic conditions developed in the oxidation pond in the spring when the ice melted . Shortly after this study ended septic conditions resulted which required the addition of sodium_nitrate . The location of the oxidation pond in a high value residential area makes odor nuisances a sensitive problem for the developer .</context>
+    </instance>
+    <instance id="br-j70#w1950_0" docsrc="br-j70">
+      <context> The rate of oxygen transfer at 1.0 - mg / l dissolved oxygen concentration and 10 ` C for various rotor speeds is given in Table 3 , . The maximum rate of oxygen transfer at 1.0 mg / l dissolved oxygen was calculated as 220 lb / day at a maximum rate of 9.3 mg / l / hr . The actual power requirements indicated 2 lb oxygen transfer / hr / hp . The polyethylene cover reduced the oxygen transfer rate by 10 per_cent , indicating that the maximum <head>oxygen</head> transfer is at the rotor rather_than through the surface . During this study septic conditions developed in the oxidation pond in the spring when the ice melted . Shortly after this study ended septic conditions resulted which required the addition of sodium_nitrate . The location of the oxidation pond in a high value residential area makes odor nuisances a sensitive problem for the developer .</context>
+    </instance>
+    <instance id="br-j70#w438_0" docsrc="br-j70">
+      <context> The pond is currently serving 1230 persons or 260 persons per acre . In the summer of 1960 the oxidation pond became completely septic and emitted obnoxious odors . It was possible to maintain aerobic conditions in the pond by regular additions of sodium_nitrate until the temperature decreased and the algae population changed from blue-green to green_algae . The anaerobic conditions in the existing oxidation pond necessitated examination of other methods for supplying additional <head>oxygen</head> than by sodium_nitrate . At_the_same_time further expansion in the Red_Bridge_Subdivision required the construction of additional sewage treatment facilities . The large land_areas required for oxidation ponds made this type of treatment financially unattractive to the developer . It was proposed that aerated lagoons be used to eliminate the problem at the existing oxidation ponds and to provide the necessary treatment for the additional development .</context>
+    </instance>
+    <instance id="br-m01#w1368_0" docsrc="br-m01">
+      <context> `` We grok God '' . On Mars humans were building pressure_domes for the male and female party that would arrive by next ship . This went faster than scheduled as the Martians were helpful . Part of the time saved was spent on a preliminary estimate for a long-distance plan to free bound <head>oxygen</head> in the sands of Mars to make the planet more friendly to future human generations . The Old_Ones neither helped nor hindered this plan ; time was not_yet . Their meditations were approaching a violent cusp that would shape Martian art for many millennia . On Earth elections continued and a very advanced poet published a limited_edition of verse consisting entirely of punctuation_marks and spaces ; Time_magazine reviewed it and suggested that the Federation_Assembly_Daily_Record should be translated into the medium .</context>
+    </instance>
+    <instance id="n00225593_d_4" docsrc="n00225593_d">
+      <context> killing by depriving of <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n00625858_d_6" docsrc="n00625858_d">
+      <context> exercise that increases the need for <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n00663714_d_5" docsrc="n00663714_d">
+      <context> therapy in which water or <head>oxygen</head> or a drug is introduced into the respiratory_tract with inhaled air ;</context>
+    </instance>
+    <instance id="n00831191_d_11" docsrc="n00831191_d">
+      <context> the bodily_process of inhalation and exhalation ; the process of taking_in <head>oxygen</head> from inhaled air and releasing carbon_dioxide by exhalation ;</context>
+    </instance>
+    <instance id="n00832626_d_44" docsrc="n00832626_d">
+      <context> an emergency_procedure consisting of external cardiac_massage and artificial_respiration ; the first treatment for a person who has collapsed and has no pulse and has stopped breathing ; attempts to restore circulation of the blood and prevent death or brain damage due to lack of <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n00906290_d_14" docsrc="n00906290_d">
+      <context> roentgenography of the brain after spinal_fluid has been replaced by a gas ( usually <head>oxygen</head> ) ; produces an encephalogram ;</context>
+    </instance>
+    <instance id="n00998768_d_7" docsrc="n00998768_d">
+      <context> measurement of the pH level and the <head>oxygen</head> and carbon_dioxide concentrations in arterial_blood ; important in diagnosis of many respiratory_diseases ;</context>
+    </instance>
+    <instance id="n01326897_d_12" docsrc="n01326897_d">
+      <context> an organism ( especially a bacterium ) that requires air or free <head>oxygen</head> for life ;</context>
+    </instance>
+    <instance id="n01327028_d_14" docsrc="n01327028_d">
+      <context> an organism ( especially a bacterium ) that does not require air or free <head>oxygen</head> to live ;</context>
+    </instance>
+    <instance id="n01327204_d_10" docsrc="n01327204_d">
+      <context> an organism that can not grow in the presence of <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n01354324_d_17" docsrc="n01354324_d">
+      <context> the type_genus of Rhizobiaceae ; usually occur in the root nodules of legumes ; can fix atmospheric <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n01373826_d_15" docsrc="n01373826_d">
+      <context> any of a group of small parasitic bacteria that lack cell_walls and can survive without <head>oxygen</head> ; can cause pneumonia and urinary_tract_infection ;</context>
+    </instance>
+    <instance id="n02510769_d_6" docsrc="n02510769_d">
+      <context> respiratory_organ of aquatic animals that breathe <head>oxygen</head> dissolved in water ;</context>
+    </instance>
+    <instance id="n02974454_d_7" docsrc="n02974454_d">
+      <context> an apparatus used to liquefy air or <head>oxygen</head> etc. ;</context>
+    </instance>
+    <instance id="n03156279_d_4" docsrc="n03156279_d">
+      <context> a cylindrical container for <head>oxygen</head> or compressed_air ;</context>
+    </instance>
+    <instance id="n03275864_d_30" docsrc="n03275864_d">
+      <context> a cell containing an electrolyte in which an applied voltage causes a reaction to occur that would not occur otherwise ( such as the breakdown of water into hydrogen and <head>oxygen</head> ) ;</context>
+    </instance>
+    <instance id="n03285730_d_14" docsrc="n03285730_d">
+      <context> an X_ray of the brain made by replacing spinal_fluid with a gas ( usually <head>oxygen</head> ) to improve contrast ;</context>
+    </instance>
+    <instance id="n03286878_d_23" docsrc="n03286878_d">
+      <context> a catheter that is inserted into the trachea through the mouth or nose in order to maintain an open air_passage or to deliver <head>oxygen</head> or to permit the suctioning of mucus or to prevent aspiration of the stomach contents ;</context>
+    </instance>
+    <instance id="n03400389_d_35" docsrc="n03400389_d">
+      <context> a device consisting of a container of fuel and two explosive_charges ; the first charge bursts open the fuel container at a predetermined height and spreads the fuel in a cloud that mixes with atmospheric <head>oxygen</head> ; the second charge detonates the cloud which creates an enormous blast_wave and incinerates whatever is below ;</context>
+    </instance>
+    <instance id="n03400798_d_11" docsrc="n03400798_d">
+      <context> cell that produces electricity by oxidation of fuel ( hydrogen and <head>oxygen</head> or zinc and air ) ; often used in electric_cars ;</context>
+    </instance>
+    <instance id="n03555006_d_6" docsrc="n03555006_d">
+      <context> a large chamber in which the <head>oxygen</head> pressure is above normal for the atmosphere ; used in treating breathing disorders or carbon_monoxide_poisoning ;</context>
+    </instance>
+    <instance id="n03810412_d_15" docsrc="n03810412_d">
+      <context> a tube inserted into the trachea through the nose and pharynx ; used to deliver <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n03868643_d_5" docsrc="n03868643_d">
+      <context> a measuring_instrument that measures the <head>oxygen</head> in arterial_blood ;</context>
+    </instance>
+    <instance id="n03868863_d_12" docsrc="n03868863_d">
+      <context> a breathing_device that is placed over the mouth and nose ; supplies <head>oxygen</head> from an attached storage_tank ;</context>
+    </instance>
+    <instance id="n04082344_d_7" docsrc="n04082344_d">
+      <context> a breathing_apparatus used for resuscitation by forcing <head>oxygen</head> into the lungs of a person who has undergone asphyxia or arrest of respiration ;</context>
+    </instance>
+    <instance id="n04357930_d_4" docsrc="n04357930_d">
+      <context> compressor that forces increased <head>oxygen</head> into the cylinders of an internal_combustion_engine ;</context>
+    </instance>
+    <instance id="n05026508_d_24" docsrc="n05026508_d">
+      <context> the atomic_weight of an element that has the same combining capacity as a given weight of another element ; the standard is 8 for <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n05114652_d_1" docsrc="n05114652_d">
+      <context> temporary <head>oxygen</head> shortage in cells resulting from strenuous exercise ;</context>
+    </instance>
+    <instance id="n05340121_d_11" docsrc="n05340121_d">
+      <context> a chemoreceptor located near the bifurcations of the carotid_arteries ; monitors <head>oxygen</head> content of the blood and helps control respiration ;</context>
+    </instance>
+    <instance id="n05387544_d_17" docsrc="n05387544_d">
+      <context> either of two saclike respiratory_organs in the chest of vertebrates ; serves to remove carbon_dioxide and provide <head>oxygen</head> to the blood ;</context>
+    </instance>
+    <instance id="n05422668_d_7" docsrc="n05422668_d">
+      <context> either of two large veins that return <head>oxygen</head> depleted blood to the right_atrium_of_the_heart ;</context>
+    </instance>
+    <instance id="n05454070_d_8" docsrc="n05454070_d">
+      <context> a mature blood_cell that contains hemoglobin to carry <head>oxygen</head> to the bodily tissues ; a biconcave disc that has no nucleus ;</context>
+    </instance>
+    <instance id="n05509889_d_4" docsrc="n05509889_d">
+      <context> the system for taking_in <head>oxygen</head> and giving_off_
+     _dioxide ; in terrestrial animals this is accomplished by breathing ;</context>
+    </instance>
+    <instance id="n05520699_d_9" docsrc="n05520699_d">
+      <context> the vascular_structure in the uterus of most mammals providing <head>oxygen</head> and nutrients for and transferring wastes from the developing fetus ;</context>
+    </instance>
+    <instance id="n05605192_d_15" docsrc="n05605192_d">
+      <context> the center in the medulla_oblongata and pons that integrates sensory information about the level of <head>oxygen</head> and carbon_dioxide in the blood and determines the signals to be sent to the respiratory muscles ;</context>
+    </instance>
+    <instance id="n10888401_d_14" docsrc="n10888401_d">
+      <context> British chemist and physicist who established that water is a compound of hydrogen and <head>oxygen</head> and who calculated the density of the earth ;</context>
+    </instance>
+    <instance id="n11119917_d_10" docsrc="n11119917_d">
+      <context> French chemist known_as the father of modern chemistry ; discovered <head>oxygen</head> and disproved the theory of phlogiston ;</context>
+    </instance>
+    <instance id="n11246542_d_8" docsrc="n11246542_d">
+      <context> English chemist who isolated many gases and discovered <head>oxygen</head> ( independently of Scheele ) ;</context>
+    </instance>
+    <instance id="n11283843_d_9" docsrc="n11283843_d">
+      <context> Swedish chemist ( born in Germany ) who discovered <head>oxygen</head> before Priestley did ;</context>
+    </instance>
+    <instance id="n11437111_d_13" docsrc="n11437111_d">
+      <context> a chemical_bond consisting of a hydrogen_atom between two electronegative atoms ( e.g. , <head>oxygen</head> or nitrogen ) with one side be a covalent_bond and the other being an ionic_bond ;</context>
+    </instance>
+    <instance id="n11473685_d_8" docsrc="n11473685_d">
+      <context> life sustained in the presence of air or <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n11498679_d_13" docsrc="n11498679_d">
+      <context> reaction_propulsion using stored oxygen for combustion ; used where there is insufficient atmospheric <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n11498679_d_3" docsrc="n11498679_d">
+      <context> reaction_propulsion using stored <head>oxygen</head> for combustion ; used where there is insufficient atmospheric oxygen ;</context>
+    </instance>
+    <instance id="n13450206_d_8" docsrc="n13450206_d">
+      <context> a process in which a substance reacts with <head>oxygen</head> to give heat and light ;</context>
+    </instance>
+    <instance id="n13476590_d_44" docsrc="n13476590_d">
+      <context> excessive nutrients in a lake or other body_of_water , usually caused by runoff of nutrients ( animal waste , fertilizers , sewage ) from the land , which causes a dense growth of plant_life ; the decomposition of the plants depletes the supply of <head>oxygen</head> , leading to the death of animal life ;</context>
+    </instance>
+    <instance id="n13530408_d_8" docsrc="n13530408_d">
+      <context> the process of oxidizing ; the addition of <head>oxygen</head> to a compound with a loss of electrons ; always occurs accompanied by reduction ;</context>
+    </instance>
+    <instance id="n13531149_d_9" docsrc="n13531149_d">
+      <context> the process of providing or combining or treating with <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n13547677_d_16" docsrc="n13547677_d">
+      <context> any process in which electrons are added to an atom or ion ( as by removing <head>oxygen</head> or adding hydrogen ) ; always occurs accompanied by oxidation of the reducing_agent ;</context>
+    </instance>
+    <instance id="n13825292_d_12" docsrc="n13825292_d">
+      <context> the ratio of the volume of carbon_dioxide expired to the volume of <head>oxygen</head> consumed by an organism or cell in a given period_of_time ;</context>
+    </instance>
+    <instance id="n14024581_d_27" docsrc="n14024581_d">
+      <context> absence of systole ; failure of the ventricles of the heart to contract ( usually caused by ventricular_fibrillation ) with consequent absence of the heart_beat leading to <head>oxygen</head> lack and eventually to death ;</context>
+    </instance>
+    <instance id="n14041256_d_0" docsrc="n14041256_d">
+      <context> <head>oxygen</head> deficiency causing a very strong drive to correct the deficiency ;</context>
+    </instance>
+    <instance id="n14042423_d_7" docsrc="n14042423_d">
+      <context> a condition in which insufficient or no <head>oxygen</head> and carbon_dioxide are exchanged on a ventilatory basis ; caused by choking or drowning or electric_shock or poison_gas ;</context>
+    </instance>
+    <instance id="n14042735_d_4" docsrc="n14042735_d">
+      <context> a cumulative deficit of <head>oxygen</head> resulting from intense exercise ; the deficit must be made_up when the body returns to rest ;</context>
+    </instance>
+    <instance id="n14042914_d_8" docsrc="n14042914_d">
+      <context> effects ( as nosebleed or nausea ) of <head>oxygen</head> deficiency in the blood and tissues at high altitudes ;</context>
+    </instance>
+    <instance id="n14043243_d_5" docsrc="n14043243_d">
+      <context> severe hypoxia ; absence of <head>oxygen</head> in inspired gases or in arterial_blood or in the tissues ;</context>
+    </instance>
+    <instance id="n14043882_d_6" docsrc="n14043882_d">
+      <context> the condition of being deprived of <head>oxygen</head> ( as by having breathing stopped ) ;</context>
+    </instance>
+    <instance id="n14055052_d_22" docsrc="n14055052_d">
+      <context> acute lung injury characterized by coughing and rales ; inflammation of the lungs which become stiff and fibrous and can not exchange <head>oxygen</head> ; occurs among persons exposed to irritants such as corrosive chemical vapors or ammonia or chlorine etc. ;</context>
+    </instance>
+    <instance id="n14067076_d_8" docsrc="n14067076_d">
+      <context> bodily collapse or near collapse caused by inadequate <head>oxygen</head> delivery to the cells ; characterized by reduced cardiac_output and rapid heartbeat and circulatory insufficiency and pallor ;</context>
+    </instance>
+    <instance id="n14082303_d_14" docsrc="n14082303_d">
+      <context> a sudden loss_of_consciousness resulting when the rupture or occlusion of a blood_vessel leads to <head>oxygen</head> lack in the brain ;</context>
+    </instance>
+    <instance id="n14085220_d_27" docsrc="n14085220_d">
+      <context> injury to the brain that impairs its functions ( especially permanently ) ; can be caused by trauma to the head , infection , hemorrhage , inadequate <head>oxygen</head> , genetic_abnormality , etc. ;</context>
+    </instance>
+    <instance id="n14102631_d_13" docsrc="n14102631_d">
+      <context> a heart_disease due to an abnormality of the arteries that supply blood and <head>oxygen</head> to the heart ;</context>
+    </instance>
+    <instance id="n14108039_d_11" docsrc="n14108039_d">
+      <context> a heart condition marked by paroxysms of chest_pain due to reduced <head>oxygen</head> to the heart ;</context>
+    </instance>
+    <instance id="n14303009_d_12" docsrc="n14303009_d">
+      <context> a bluish discoloration of the skin and mucous_membranes ; a sign that <head>oxygen</head> in the blood is dangerously diminished ( as in carbon_monoxide_poisoning ) ;</context>
+    </instance>
+    <instance id="n14503234_d_2" docsrc="n14503234_d">
+      <context> abnormally low <head>oxygen</head> content in arterial_blood ;</context>
+    </instance>
+    <instance id="n14642417_d_30" docsrc="n14642417_d">
+      <context> a heavy ductile magnetic metallic_element ; is silver-white in pure form but readily rusts ; used in construction and tools and armament ; plays a role in the transport of <head>oxygen</head> by the blood ;</context>
+    </instance>
+    <instance id="n14648526_d_9" docsrc="n14648526_d">
+      <context> a bluish translucent magnetic liquid obtained by compressing gaseous <head>oxygen</head> and_then cooling it below its boiling_point ; used as an oxidizer in rocket_propellants ;</context>
+    </instance>
+    <instance id="n14654541_d_7" docsrc="n14654541_d">
+      <context> a tetravalent nonmetallic element ; next to <head>oxygen</head> it is the most abundant element in the earth's_crust ; occurs in clay and feldspar and granite and quartz and sand ; used as a semiconductor in transistors ;</context>
+    </instance>
+    <instance id="n14672544_d_12" docsrc="n14672544_d">
+      <context> a blue mineral of magnesium and iron and aluminum and silicon and <head>oxygen</head> ; often used as a gemstone ;</context>
+    </instance>
+    <instance id="n14690335_d_6" docsrc="n14690335_d">
+      <context> an oxide containing five atoms of <head>oxygen</head> in the molecule ;</context>
+    </instance>
+    <instance id="n14709102_d_14" docsrc="n14709102_d">
+      <context> any of a class of organic_compounds that have two hydrocarbon groups linked by an <head>oxygen</head> atom ;</context>
+    </instance>
+    <instance id="n14724645_d_9" docsrc="n14724645_d">
+      <context> substance that inhibits oxidation or inhibits reactions promoted by <head>oxygen</head> or peroxides ;</context>
+    </instance>
+    <instance id="n14737639_d_18" docsrc="n14737639_d">
+      <context> enzyme found in most plant and animal cells that functions as an oxidative catalyst ; decomposes hydrogen_peroxide into <head>oxygen</head> and water ;</context>
+    </instance>
+    <instance id="n14768480_d_8" docsrc="n14768480_d">
+      <context> a liquid that can carry large amounts of <head>oxygen</head> and can serve as a temporary substitute for blood ;</context>
+    </instance>
+    <instance id="n14783670_d_7" docsrc="n14783670_d">
+      <context> any of various acids containing boron and <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n14836127_d_6" docsrc="n14836127_d">
+      <context> an oxide containing two atoms of <head>oxygen</head> in the molecule ;</context>
+    </instance>
+    <instance id="n14841267_d_6" docsrc="n14841267_d">
+      <context> a mixture of gases ( especially <head>oxygen</head> ) required for breathing ; the stuff that the wind consists of ;</context>
+    </instance>
+    <instance id="n14874196_d_19" docsrc="n14874196_d">
+      <context> an atom or group of atoms with at_least one unpaired electron ; in the body it is usually an <head>oxygen</head> molecule that has lost an electron and will stabilize itself by stealing an electron from a nearby molecule ;</context>
+    </instance>
+    <instance id="n14889479_d_15" docsrc="n14889479_d">
+      <context> a red or brown oxide coating on iron or steel caused by the action of <head>oxygen</head> and moisture ;</context>
+    </instance>
+    <instance id="n14914945_d_5" docsrc="n14914945_d">
+      <context> the anion OH having one <head>oxygen</head> and one hydrogen_atom ;</context>
+    </instance>
+    <instance id="n14954601_d_7" docsrc="n14954601_d">
+      <context> an oxide containing just one atom of <head>oxygen</head> in the molecule ;</context>
+    </instance>
+    <instance id="n14971519_d_3" docsrc="n14971519_d">
+      <context> any compound of <head>oxygen</head> with another element or a radical ;</context>
+    </instance>
+    <instance id="n14972184_d_3" docsrc="n14972184_d">
+      <context> a mixture of <head>oxygen</head> and acetylene ; used to create high_temperatures for cutting or welding metals ;</context>
+    </instance>
+    <instance id="n14972359_d_4" docsrc="n14972359_d">
+      <context> any acid that contains <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n14972582_d_6" docsrc="n14972582_d">
+      <context> any acid of iodine that contains <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n14972681_d_8" docsrc="n14972681_d">
+      <context> an oxidoreductase that catalyzes the incorporation of molecular <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n14972807_d_20" docsrc="n14972807_d">
+      <context> a colorless gas soluble in alkalis and cold water ; a strong oxidizing_agent ; can be produced by electric_discharge in <head>oxygen</head> or by the action of ultraviolet_radiation on oxygen in the stratosphere ( where it acts_as a screen for ultraviolet_radiation ) ;</context>
+    </instance>
+    <instance id="n14972807_d_28" docsrc="n14972807_d">
+      <context> a colorless gas soluble in alkalis and cold water ; a strong oxidizing_agent ; can be produced by electric_discharge in oxygen or by the action of ultraviolet_radiation on <head>oxygen</head> in the stratosphere ( where it acts_as a screen for ultraviolet_radiation ) ;</context>
+    </instance>
+    <instance id="n15024240_d_18" docsrc="n15024240_d">
+      <context> a hemoprotein composed of globin and heme that gives red_blood_cells their characteristic color ; function primarily to transport <head>oxygen</head> from the lungs to the body tissues ;</context>
+    </instance>
+    <instance id="n15024606_d_4" docsrc="n15024606_d">
+      <context> a hemoprotein that receives <head>oxygen</head> from hemoglobin and stores it in the tissues until needed ;</context>
+    </instance>
+    <instance id="n15024773_d_11" docsrc="n15024773_d">
+      <context> the bright red hemoglobin that is a combination of hemoglobin and <head>oxygen</head> from the lungs ;</context>
+    </instance>
+    <instance id="n15024997_d_12" docsrc="n15024997_d">
+      <context> a complex red organic pigment containing iron and other atoms to which <head>oxygen</head> binds ;</context>
+    </instance>
+    <instance id="n15025942_d_11" docsrc="n15025942_d">
+      <context> a colorless protein obtained by removing heme from hemoglobin ; the <head>oxygen</head> carrying compound in red_blood_cells ;</context>
+    </instance>
+    <instance id="n15040899_d_12" docsrc="n15040899_d">
+      <context> any of a large class of compounds that have alternate silicon and <head>oxygen</head> atoms ;</context>
+    </instance>
+    <instance id="n15065025_d_11" docsrc="n15065025_d">
+      <context> an enzyme that catalyzes the conversion of superoxide into hydrogen_peroxide and <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="n15069472_d_6" docsrc="n15069472_d">
+      <context> an oxide containing four atoms of <head>oxygen</head> in the molecule ;</context>
+    </instance>
+    <instance id="n15079925_d_6" docsrc="n15079925_d">
+      <context> an oxide containing three atoms of <head>oxygen</head> in the molecule ;</context>
+    </instance>
+    <instance id="v00002325_d_9" docsrc="v00002325_d">
+      <context> undergo the biomedical and metabolic_processes of respiration by taking_up <head>oxygen</head> and producing carbon_monoxide ;</context>
+    </instance>
+    <instance id="v00007328_d_8" docsrc="v00007328_d">
+      <context> utter a yawn , as from lack of <head>oxygen</head> or when one is tired ;</context>
+    </instance>
+    <instance id="v00077698_d_6" docsrc="v00077698_d">
+      <context> struggle for breath ; have insufficient <head>oxygen</head> intake ;</context>
+    </instance>
+    <instance id="v00185465_d_7" docsrc="v00185465_d">
+      <context> impregnate , combine , or supply with <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="v00237877_d_2" docsrc="v00237877_d">
+      <context> to remove <head>oxygen</head> from a compound , or cause to react with hydrogen or form a hydride , or to undergo an increase in the number of electrons ;</context>
+    </instance>
+    <instance id="v00238867_d_1" docsrc="v00238867_d">
+      <context> add <head>oxygen</head> to or combine with oxygen ;</context>
+    </instance>
+    <instance id="v00238867_d_6" docsrc="v00238867_d">
+      <context> add oxygen to or combine with <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="v00239321_d_5" docsrc="v00239321_d">
+      <context> enter into a combination with <head>oxygen</head> or become converted into an oxide ;</context>
+    </instance>
+    <instance id="v00308269_d_2" docsrc="v00308269_d">
+      <context> dehydrogenate with <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="v00359511_d_7" docsrc="v00359511_d">
+      <context> be asphyxiated ; die from lack of <head>oxygen</head> ;</context>
+    </instance>
+    <instance id="v01569017_d_3" docsrc="v01569017_d">
+      <context> deprive of the <head>oxygen</head> necessary for combustion ;</context>
+    </instance>
+    <instance id="v01569181_d_2" docsrc="v01569181_d">
+      <context> deprive of <head>oxygen</head> and prevent from breathing ;</context>
+    </instance>
+    <instance id="v02365073_d_1" docsrc="v02365073_d">
+      <context> remove <head>oxygen</head> from ;</context>
+    </instance>
+  </lexelt>
+</corpus>

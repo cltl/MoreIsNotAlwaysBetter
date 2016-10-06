@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="week.n" pos="NN">
+    <instance id="Week-week-0-70-2" docsrc="Week">
+      <context> <head>A</head> period of eight days , starting and ending on a Sunday , is called an octave , particularly in Roman Catholic liturgy . In German , the phrase in acht Tagen ( literally " in eight days " ) means one week from today . Weeks in a Gregorian calendar year can be numbered for each year .</context>
+    </instance>
+    <instance id="Week-week-1-10-1" docsrc="Week">
+      <context> With <head>respect</head> to the Gregorian calendar : 1 Gregorian calendar year = 52 weeks + 1 day ( 2 days in a leap year ) 1 week = 1600⁄6957 ≈ 22.9984 % of an average Gregorian month</context>
+    </instance>
+    <instance id="Week-week-1-2-1" docsrc="Week">
+      <context> In <head>English</head> , the names are Monday , Tuesday , Wednesday , Thursday , Friday , Saturday and Sunday . ISO 8601 includes the ISO week date system , a numbering system for weeks within a given year – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) .</context>
+    </instance>
+    <instance id="Week-week-1-3-1" docsrc="Week">
+      <context> each <head>week</head> begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) . The term " week " is sometimes expanded to refer to other time units comprising a few days , such as the nundinal cycle of the ancient Roman calendar . A week is defined as an interval of exactly seven days , so that technically , except at daylight saving time transitions or leap seconds ,</context>
+    </instance>
+    <instance id="Week-week-1-7-1" docsrc="Week">
+      <context> The <head>term</head> " week " is sometimes expanded to refer to other time units comprising a few days , such as the nundinal cycle of the ancient Roman calendar . A week is defined as an interval of exactly seven days , so that technically , except at daylight saving time transitions or leap seconds , 1 week = 7 days = 168 hours = 10,080 minutes = 604,800 seconds .</context>
+    </instance>
+    <instance id="Week-week-12-87-1" docsrc="Week">
+      <context> The tire date code mandated by the US DOT is a 4 <head>digit</head> date code WWYY with two digits of the week number WW followed by the last two digits of the calendar year YY. Calendars unrelated to the Chaldean , Hellenistic , Christian or Jewish traditions often have time cycles between the day and the month of varying lengths , sometimes also called " weeks " . The Balinese Pawukon is a 210-day calendar consisting of 10 different concurrent weeks of 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 and 10 days .</context>
+    </instance>
+    <instance id="Week-week-13-1-2" docsrc="Week">
+      <context> The days of the week were named in different languages after classical planets <head>,</head> various deities ( example : Thursday – Thor 's day , a variation after Jupiter 's day from Roman times ) and heavenly bodies ( example : Sunday – Sun 's day ) and other sources . In English , the names are Monday , Tuesday , Wednesday , Thursday , Friday , Saturday and Sunday . ISO 8601 includes the ISO week date system , a numbering system for weeks within a given year –</context>
+    </instance>
+    <instance id="Week-week-13-12-2" docsrc="Week">
+      <context> In a Gregorian mean year , there are 365.2425 days , and thus <head>exactly</head> 52 71⁄400 or 52.1775 weeks ( unlike the Julian year of 365.25 days or 52 5⁄28 ≈ 52.1786 weeks , which can not be represented by a finite decimal expansion ) . There are exactly 20,871 weeks in 400 Gregorian years , so 30 April 1611 was a Saturday just like 30 April 2011 . A system of Dominical letters has been used to determine the day of week in the Gregorian or the Julian calendar .</context>
+    </instance>
+    <instance id="Week-week-13-75-2" docsrc="Week">
+      <context> Weeks in a Gregorian calendar year can be numbered for each year . <head>This</head> style of numbering is commonly used ( for example , by schools and businesses ) in some European and Asian countries , but rare elsewhere . ISO 8601 includes the ISO week date system , a numbering system for weeks – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) .</context>
+    </instance>
+    <instance id="Week-week-15-2-1" docsrc="Week">
+      <context> In English , the names are Monday , Tuesday , Wednesday , Thursday , Friday <head>,</head> Saturday and Sunday . ISO 8601 includes the ISO week date system , a numbering system for weeks within a given year – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) .</context>
+    </instance>
+    <instance id="Week-week-16-75-2" docsrc="Week">
+      <context> Weeks in a Gregorian calendar year can be numbered for each year . This style of <head>numbering</head> is commonly used ( for example , by schools and businesses ) in some European and Asian countries , but rare elsewhere . ISO 8601 includes the ISO week date system , a numbering system for weeks – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) .</context>
+    </instance>
+    <instance id="Week-week-18-11-1" docsrc="Week">
+      <context> 1 Gregorian calendar year = 52 weeks + 1 day ( 2 days in a leap year ) <head>1</head> week = 1600⁄6957 ≈ 22.9984 % of an average Gregorian month In a Gregorian mean year , there are 365.2425 days , and thus exactly 52 71⁄400 or 52.1775 weeks ( unlike the Julian year of 365.25 days or 52 5⁄28 ≈ 52.1786 weeks , which can not be represented by a finite decimal expansion ) .</context>
+    </instance>
+    <instance id="Week-week-18-70-1" docsrc="Week">
+      <context> Justin Martyr wrote : " the first day after the Sabbath , remaining the first of all the <head>days</head> , is called , however , the eighth , according to the number of all the days of the cycle , and [ yet ] remains the first " . A period of eight days , starting and ending on a Sunday , is called an octave , particularly in Roman Catholic liturgy . In German , the phrase in acht Tagen ( literally " in eight days " ) means one week from today .</context>
+    </instance>
+    <instance id="Week-week-19-66-1" docsrc="Week">
+      <context> === Christian Europe === " The Roman context of the spread of Christianity meant that Rome contributed a lot <head>to</head> the structure and calendar of the new faith . " Sunday , in the ecclesiastical numbering system also counted as the feria prima or the first day of the week ; yet , at the same time , figures as the " eighth day " , and has occasionally been so called in Christian liturgy .</context>
+    </instance>
+    <instance id="Week-week-2-76-2" docsrc="Week">
+      <context> ISO 8601 <head>includes</head> the ISO week date system , a numbering system for weeks – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) . For example , week 1 of 2004 ( 2004W01 ) ran from Monday , 29 December 2003 to Sunday , 4 January 2004 , because its Thursday was 1 January 2004 , whereas week 1 of 2005 ( 2005W01 ) ran from Monday , 3 January 2005 to Sunday , 9 January 2005 , because its Thursday was 6 January 2005 and so the first Thursday of 2005 . The highest week number in a year is either 52 or 53 ( it was 53 in the year 2004 ) .</context>
+    </instance>
+    <instance id="Week-week-2-94-1" docsrc="Week">
+      <context> The Balinese <head>Pawukon</head> is a 210-day calendar consisting of 10 different concurrent weeks of 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 and 10 days . === Modern calendar reforms === A 10-day week , called décade , was used in France for nine and a half years from October 1793 to April 1802 ; furthermore , the Paris Commune adopted the Revolutionary Calendar for 18 days in 1871 .</context>
+    </instance>
+    <instance id="Week-week-21-77-2" docsrc="Week">
+      <context> In some countries , though , the numbering system is different from the ISO standard . At least six numberings are <head>in</head> use : The tire date code mandated by the US DOT is a 4 digit date code WWYY with two digits of the week number WW followed by the last two digits of the calendar year YY.</context>
+    </instance>
+    <instance id="Week-week-22-45-2" docsrc="Week">
+      <context> The Zoroastrian calendar follows the Babylonian in relating the seventh and other days of the month to Ahura Mazda . The forerunner <head>of</head> all modern Zoroastrian calendars is the system used to reckon dates in the Persian Empire , adopted from the Babylonian calendar by the 4th century BC. Difficulties with Friedrich Delitzsch 's origin theory connecting Hebrew Shabbat with the Babylonian lunar cycle include reconciling the differences between an unbroken week and a lunar week , and explaining the absence of texts naming the lunar week as Shabbat in any language .</context>
+    </instance>
+    <instance id="Week-week-24-13-1" docsrc="Week">
+      <context> A system of Dominical letters has been used to determine the day of week in the Gregorian or the Julian calendar . Relative to <head>the</head> path of the Moon , a week is 23.659 % of an average lunation , or 94.637 % of an average quarter lunation . In antiquity , days were measured either from sunset to sunset , or from sunrise to sunrise , so that the length of the week ( and the day ) would be subject to slight variations depending on the time of year and the observer 's geographical latitude .</context>
+    </instance>
+    <instance id="Week-week-26-45-2" docsrc="Week">
+      <context> The Zoroastrian calendar follows the Babylonian in relating the seventh and other days of the month to Ahura Mazda . The forerunner of all modern Zoroastrian <head>calendars</head> is the system used to reckon dates in the Persian Empire , adopted from the Babylonian calendar by the 4th century BC. Difficulties with Friedrich Delitzsch 's origin theory connecting Hebrew Shabbat with the Babylonian lunar cycle include reconciling the differences between an unbroken week and a lunar week , and explaining the absence of texts naming the lunar week as Shabbat in any language .</context>
+    </instance>
+    <instance id="Week-week-3-2-2" docsrc="Week">
+      <context> ISO 8601 includes <head>the</head> ISO week date system , a numbering system for weeks within a given year – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) . The term " week " is sometimes expanded to refer to other time units comprising a few days , such as the nundinal cycle of the ancient Roman calendar .</context>
+    </instance>
+    <instance id="Week-week-3-76-1" docsrc="Week">
+      <context> This style of <head>numbering</head> is commonly used ( for example , by schools and businesses ) in some European and Asian countries , but rare elsewhere . ISO 8601 includes the ISO week date system , a numbering system for weeks – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) . For example , week 1 of 2004 ( 2004W01 ) ran from Monday , 29 December 2003 to Sunday , 4 January 2004 , because its Thursday was 1 January 2004 , whereas week 1 of 2005 ( 2005W01 ) ran from Monday , 3 January 2005 to Sunday , 9 January 2005 , because its Thursday was 6 January 2005 and so the first Thursday of 2005 .</context>
+    </instance>
+    <instance id="Week-week-30-75-2" docsrc="Week">
+      <context> Weeks in a Gregorian calendar year can be numbered for each year . This style of numbering is commonly used ( for example , by schools and businesses ) in <head>some</head> European and Asian countries , but rare elsewhere . ISO 8601 includes the ISO week date system , a numbering system for weeks – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) .</context>
+    </instance>
+    <instance id="Week-week-30-79-1" docsrc="Week">
+      <context> At least six numberings are in use : The tire date code mandated by the US DOT is a 4 digit date code WWYY with two digits of the week <head>number</head> WW followed by the last two digits of the calendar year YY. Calendars unrelated to the Chaldean , Hellenistic , Christian or Jewish traditions often have time cycles between the day and the month of varying lengths , sometimes also called " weeks " .</context>
+    </instance>
+    <instance id="Week-week-31-13-2" docsrc="Week">
+      <context> Relative to the path of the Moon , a week is 23.659 % of an average lunation , or 94.637 % of an average quarter lunation . In antiquity , days <head>were</head> measured either from sunset to sunset , or from sunrise to sunrise , so that the length of the week ( and the day ) would be subject to slight variations depending on the time of year and the observer 's geographical latitude . Adding one to the remainder after dividing by seven a date 's Julian day number ( JD modulo 7 + 1 ) yields that date 's ISO 8601 day of the week ,</context>
+    </instance>
+    <instance id="Week-week-31-2-1" docsrc="Week">
+      <context> In English , the names are Monday , Tuesday , Wednesday , Thursday , Friday , Saturday and Sunday . ISO 8601 includes the ISO week date system , a numbering <head>system</head> for weeks within a given year – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) .</context>
+    </instance>
+    <instance id="Week-week-32-11-1" docsrc="Week">
+      <context> 1 Gregorian calendar year = 52 weeks + 1 day ( 2 days in a leap year ) 1 week = 1600⁄6957 ≈ 22.9984 % of an average Gregorian month In a <head>Gregorian</head> mean year , there are 365.2425 days , and thus exactly 52 71⁄400 or 52.1775 weeks ( unlike the Julian year of 365.25 days or 52 5⁄28 ≈ 52.1786 weeks , which can not be represented by a finite decimal expansion ) .</context>
+    </instance>
+    <instance id="Week-week-33-76-1" docsrc="Week">
+      <context> This style of numbering is commonly used ( for example , by schools and businesses ) in some European and Asian countries , but rare elsewhere . ISO 8601 includes the ISO week <head>date</head> system , a numbering system for weeks – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) . For example , week 1 of 2004 ( 2004W01 ) ran from Monday , 29 December 2003 to Sunday , 4 January 2004 , because its Thursday was 1 January 2004 , whereas week 1 of 2005 ( 2005W01 ) ran from Monday , 3 January 2005 to Sunday , 9 January 2005 , because its Thursday was 6 January 2005 and so the first Thursday of 2005 .</context>
+    </instance>
+    <instance id="Week-week-34-36-1" docsrc="Week">
+      <context> ( the text of Plutarch 's treatise has been lost ) . === Ancient Near East === Babylonians celebrated a holy day every seven days , starting from the new moon , then the <head>first</head> visible crescent of the Moon , but adjusted the number of days of the final " week " in each month so that months would continue to commence on the new moon .</context>
+    </instance>
+    <instance id="Week-week-37-45-2" docsrc="Week">
+      <context> The Zoroastrian calendar follows the Babylonian in relating the seventh and other days of the month to Ahura Mazda . The forerunner of all modern Zoroastrian calendars is the system used to reckon dates in the Persian <head>Empire</head> , adopted from the Babylonian calendar by the 4th century BC. Difficulties with Friedrich Delitzsch 's origin theory connecting Hebrew Shabbat with the Babylonian lunar cycle include reconciling the differences between an unbroken week and a lunar week , and explaining the absence of texts naming the lunar week as Shabbat in any language .</context>
+    </instance>
+    <instance id="Week-week-4-0-2" docsrc="Week">
+      <context> A week is a <head>time</head> unit equal to seven days . It is the standard time period used for cycles of work days and rest days in most parts of the world , mostly alongside ( but not strictly part of ) the Gregorian calendar . The days of the week were named in different languages after classical planets , various deities ( example : Thursday – Thor 's day , a variation after Jupiter 's day from Roman times ) and heavenly bodies ( example : Sunday – Sun 's day ) and other sources .</context>
+    </instance>
+    <instance id="Week-week-4-12-1" docsrc="Week">
+      <context> 1 week = 1600⁄6957 <head>≈</head> 22.9984 % of an average Gregorian month In a Gregorian mean year , there are 365.2425 days , and thus exactly 52 71⁄400 or 52.1775 weeks ( unlike the Julian year of 365.25 days or 52 5⁄28 ≈ 52.1786 weeks , which can not be represented by a finite decimal expansion ) . There are exactly 20,871 weeks in 400 Gregorian years , so 30 April 1611 was a Saturday just like 30 April 2011 .</context>
+    </instance>
+    <instance id="Week-week-46-75-2" docsrc="Week">
+      <context> Weeks in a Gregorian calendar year can be numbered for each year . This style of numbering is commonly used ( for example , by schools and businesses ) in some European and Asian countries , but rare elsewhere . ISO 8601 includes the ISO week <head>date</head> system , a numbering system for weeks – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) .</context>
+    </instance>
+    <instance id="Week-week-5-1-2" docsrc="Week">
+      <context> The days of the week <head>were</head> named in different languages after classical planets , various deities ( example : Thursday – Thor 's day , a variation after Jupiter 's day from Roman times ) and heavenly bodies ( example : Sunday – Sun 's day ) and other sources . In English , the names are Monday , Tuesday , Wednesday , Thursday , Friday , Saturday and Sunday . ISO 8601 includes the ISO week date system , a numbering system for weeks within a given year –</context>
+    </instance>
+    <instance id="Week-week-5-112-1" docsrc="Week">
+      <context> Workweek and weekend Chisholm , <head>Hugh</head> , ed . ( 1911 ) . " week " .</context>
+    </instance>
+    <instance id="Week-week-5-75-2" docsrc="Week">
+      <context> Weeks in a Gregorian calendar <head>year</head> can be numbered for each year . This style of numbering is commonly used ( for example , by schools and businesses ) in some European and Asian countries , but rare elsewhere . ISO 8601 includes the ISO week date system , a numbering system for weeks – each week begins on a Monday and is associated with the year that contains that week 's Thursday ( so that if a year starts in a long weekend Friday–Sunday , week number one of the year will start after that ) .</context>
+    </instance>
+    <instance id="Week-week-5-97-1" docsrc="Week">
+      <context> A 10-day week , called <head>décade</head> , was used in France for nine and a half years from October 1793 to April 1802 ; furthermore , the Paris Commune adopted the Revolutionary Calendar for 18 days in 1871 . The International Fixed Calendar ( also known as the " Eastman plan " ) fixed every date always on the same weekday . This plan kept a 7-day week while defining a year of 13 months with 28 days each .</context>
+    </instance>
+    <instance id="Week-week-6-9-1" docsrc="Week">
+      <context> 1 week = 7 days = <head>168</head> hours = 10,080 minutes = 604,800 seconds . With respect to the Gregorian calendar : 1 Gregorian calendar year = 52 weeks + 1 day ( 2 days in a leap year )</context>
+    </instance>
+    <instance id="Week-week-6-97-3" docsrc="Week">
+      <context> This plan kept a 7-day week <head>while</head> defining a year of 13 months with 28 days each . It was the official calendar of the Eastman Kodak Company for decades . Names of the days of the week</context>
+    </instance>
+    <instance id="Week-week-9-12-3" docsrc="Week">
+      <context> There are exactly 20,871 weeks in 400 Gregorian years <head>,</head> so 30 April 1611 was a Saturday just like 30 April 2011 . A system of Dominical letters has been used to determine the day of week in the Gregorian or the Julian calendar . Relative to the path of the Moon , a week is 23.659 % of an average lunation , or 94.637 % of an average quarter lunation .</context>
+    </instance>
+    <instance id="a01441965_d_3" docsrc="a01441965_d">
+      <context> lasting through a <head>week</head> ;</context>
+    </instance>
+    <instance id="br-l18#w1403_0" docsrc="br-l18">
+      <context> Casey believed that much . Calenda was not the sort who walked_around without one of his `` boys '' close_at_hand . `` So '' ? `` With my trial coming_up in Federal_Court next <head>week</head> I would n't want that picture published '' . `` Who says it 's going to be published '' ? `` I would n't even want it to get_around '' . Under normal circumstances Casey was a_little fussy when people told him what to do with pictures he had taken .</context>
+    </instance>
+    <instance id="n03299006_d_20" docsrc="n03299006_d">
+      <context> a genetically engineered anti_TNF_compound ( trade_name Enbrel ) consisting of receptors that bind TNF ; it is injected twice a <head>week</head> in the treatment of rheumatoid_arthritis ;</context>
+    </instance>
+    <instance id="n06594904_d_7" docsrc="n06594904_d">
+      <context> a periodical that is published twice a <head>week</head> or every two_weeks ( either 104 or 26 issues per_year ) ;</context>
+    </instance>
+    <instance id="n15118011_d_9" docsrc="n15118011_d">
+      <context> uptime is 24 hours a day 7 days a <head>week</head> ;</context>
+    </instance>
+    <instance id="n15135996_ex1_5" docsrc="n15135996_ex1">
+      <context> they worked a 40 hour <head>week</head> ;</context>
+    </instance>
+    <instance id="n15136342_d_4" docsrc="n15136342_d">
+      <context> the middle of a <head>week</head> ;</context>
+    </instance>
+    <instance id="n15163005_d_8" docsrc="n15163005_d">
+      <context> any one of the seven days in a <head>week</head> ;</context>
+    </instance>
+    <instance id="n15167675_d_4" docsrc="n15167675_d">
+      <context> any night of the <head>week</head> except Saturday or Sunday ;</context>
+    </instance>
+    <instance id="n15242719_d_4" docsrc="n15242719_d">
+      <context> Christian holiday ; the <head>week</head> beginning on Whitsunday ( especially the first 3 days ) ;</context>
+    </instance>
+    <instance id="r00081591_d_3" docsrc="r00081591_d">
+      <context> without missing a <head>week</head> ;</context>
+    </instance>
+    <instance id="r00178028_d_6" docsrc="r00178028_d">
+      <context> for an indefinite number of successive <head>weeks</head> ;</context>
+    </instance>
+    <instance id="r00254851_d_2" docsrc="r00254851_d">
+      <context> twice a <head>week</head> ;</context>
+    </instance>
+    <instance id="r00402217_d_5" docsrc="r00402217_d">
+      <context> in the middle of the <head>week</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

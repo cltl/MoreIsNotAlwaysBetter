@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="substitution.n" pos="NN">
+    <instance id="br-f03#w1794_0" docsrc="br-f03">
+      <context> Dr._Hilprecht was uncertain as to the language used by the ancient priest in his dream . He was almost positive it was not Assyrian nor Cassite , and imagined it must have been German or English . We may conclude that all six points of information , ostensibly given by the dream priest , could have been furnished by Dr._Hilprecht 's subconscious reasoning . But , in denying any physical reality for this dream , how could the brain possibly compose that realistic , vividly visual continuity uninterrupted by misty fadeout , violent break or sudden <head>substitution</head> ? Which theory is more fantastic : 1 . that the perfect continuity was composed from the job_lot of memory impressions in the professor 's brain , or 2 . that the dream was a reality on the infinite progressions of universal , gradient frequencies , across which the modern professor and the priest of ancient Nippur met ?</context>
+    </instance>
+    <instance id="n00196485_ex1_8" docsrc="n00196485_ex1">
+      <context> he sent Smith in for Jones but the <head>substitution</head> came too late to help ;</context>
+    </instance>
+    <instance id="n05842706_d_27" docsrc="n05842706_d">
+      <context> a style_of_architecture developed in Italy and western Europe between the Roman and the Gothic styles after 1000 AD ; characterized by round_arches and vaults and by the <head>substitution</head> of piers for columns and profuse ornament and arcades ;</context>
+    </instance>
+  </lexelt>
+</corpus>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="analyst.n" pos="NN">
+    <instance id="n06247181_d_30" docsrc="n06247181_d">
+      <context> the process whereby emotions are passed_on or displaced from one person to another ; during psychoanalysis the displacement of feelings toward others ( usually the parents ) is onto the <head>analyst</head> ;</context>
+    </instance>
+    <instance id="n06682152_d_5" docsrc="n06682152_d">
+      <context> a newsletter written by an <head>analyst</head> of the stock_market and sold to subscribers ;</context>
+    </instance>
+    <instance id="n09790666_d_1" docsrc="n09790666_d">
+      <context> an <head>analyst</head> who studies the financial_statements and financial history of applicants for credit in order to evaluate their creditworthiness ;</context>
+    </instance>
+    <instance id="n09791014_d_1" docsrc="n09791014_d">
+      <context> an <head>analyst</head> of conditions affecting a particular industry ;</context>
+    </instance>
+    <instance id="n09791248_d_1" docsrc="n09791248_d">
+      <context> an <head>analyst</head> of conditions affecting a market ( especially the stock_market ) ;</context>
+    </instance>
+  </lexelt>
+</corpus>

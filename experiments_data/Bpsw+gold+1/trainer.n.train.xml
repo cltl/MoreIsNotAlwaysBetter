@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="trainer.n" pos="NN">
+    <instance id="Facilitator-trainer-6-41-3" docsrc="Facilitator">
+      <context> These facilitators are not always subject <head>experts</head> , and attempt to draw on the existing knowledge of the participant(s ) , and to then facilitate access to training where gaps in knowledge are identified and agreed on . Training facilitators focus on the foundations of adult education : establish existing knowledge , build on it and keep it relevant . The role is different from a trainer with subject expertise .</context>
+    </instance>
+    <instance id="Flight_simulator-trainer-12-10-1" docsrc="Flight_simulator">
+      <context> === World War I ( 1914–18 ) === === The 1920s and <head>1930s</head> === Initially , aviation flight schools showed little interest in the " Link Trainer " .</context>
+    </instance>
+    <instance id="n09953178_d_1" docsrc="n09953178_d">
+      <context> a <head>trainer</head> of athletes ;</context>
+    </instance>
+    <instance id="v00833702_d_6" docsrc="v00833702_d">
+      <context> teach and supervise ; act_as a <head>trainer</head> or coach , as in sports ;</context>
+    </instance>
+  </lexelt>
+</corpus>

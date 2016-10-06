@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="goal.n" pos="NN">
+    <instance id="Goal_(sport)-goal-0-39-1" docsrc="Goal_(sport)">
+      <context> <head>===</head> Lacrosse === Lacrosse goals are scored when the ball passes completely through the goal mouth , under the crossbar and between the goal posts . Goals can be disallowed if there is an infraction by the offensive team .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-0-90-3" docsrc="Goal_(sport)">
+      <context> <head>In</head> lower levels of play the goal posts may be placed further apart and/or not extend as far above the crossbar ; for example , in high school football the posts are 23 feet 4 inches ( 7.11 m ) apart . NFL and CFL rules mandate that a ribbon be attached to the top of each goal post . Goals are centered on the field , but on different lines : in American football , they lie on the " end line " ( far end of the end zone ) and in Canadian , on the " goal line " ( beginning of the end zone ) .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-104-1" docsrc="Goal_(sport)">
+      <context> In <head>business</head> , the concept is more abstract , with some performance measure or target being set as a goalpost while achieving the target is often known as achieving a goal . Goalkeeper Own goal</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-105-1" docsrc="Goal_(sport)">
+      <context> Goalkeeper <head>Own</head> goal</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-14-4" docsrc="Goal_(sport)">
+      <context> In <head>Gaelic</head> football and hurling , in which the goalposts are similar to those used in rugby , the ball can be kicked either under the crossbar for a goal , or over the crossbar between the posts for a point . The vertical supports are usually called goal posts and the horizontal top is usually called the crossbar . A goal in these games normally requires that the ball or puck be sent between the posts , under the crossbar and completely behind the goal line .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-15-3" docsrc="Goal_(sport)">
+      <context> In <head>netball</head> , a single post at each end of the court supports a horizontal hoop that the ball must fall through . In basketball , the hoop and net used for scoring can be supported on a post or mechanism at each end , or in smaller buildings attached directly to the wall . The goal is the only method of scoring in several games .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-25-5" docsrc="Goal_(sport)">
+      <context> To <head>score</head> a goal , the ball must pass completely over the goal line between the goal posts and under the crossbar and no rules may be violated on the play ( such as touching the ball with the hand or arm ) . See also offside . The goal structure is defined as a frame 24 feet ( 7.32 m ) wide by 8 feet ( 2.44 m ) tall .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-29-1" docsrc="Goal_(sport)">
+      <context> In <head>most</head> organized levels of play a net is attached behind the goal frame to catch the ball and indicate that a goal has been scored ; but the Laws of the Game do not mandate the use of a net and only require that any net used not interfere with the goalkeeper . === Handball === A goal in handball is scored when the ball is thrown completely over the goal line , below the crossbar and between the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-30-1" docsrc="Goal_(sport)">
+      <context> === <head>Handball</head> === A goal in handball is scored when the ball is thrown completely over the goal line , below the crossbar and between the goal posts . The goal structure in team handball is 2 metres high and 3 metres wide .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-38-1" docsrc="Goal_(sport)">
+      <context> === <head>Hockey</head> === === Lacrosse === Lacrosse goals are scored when the ball passes completely through the goal mouth , under the crossbar and between the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-39-2" docsrc="Goal_(sport)">
+      <context> Lacrosse <head>goals</head> are scored when the ball passes completely through the goal mouth , under the crossbar and between the goal posts . Goals can be disallowed if there is an infraction by the offensive team . The goal structure in Lacrosse is 6 feet ( 1.8 m ) tall and 6 feet ( 1.8 m ) wide and a net is used to prevent the ball from reentering the field of play .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-39-3" docsrc="Goal_(sport)">
+      <context> Goals <head>can</head> be disallowed if there is an infraction by the offensive team . The goal structure in Lacrosse is 6 feet ( 1.8 m ) tall and 6 feet ( 1.8 m ) wide and a net is used to prevent the ball from reentering the field of play . Lacrosse goals are not positioned on the boundary line , and behind the goal play is allowed .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-47-3" docsrc="Goal_(sport)">
+      <context> The <head>ball</head> must be between the goal posts or the imaginary lines extending above the inside edges of the posts . A ball passing directly over a goal post does not score a goal . The goal structure in Polo consists of two poles , at least 10 feet ( 3.0 m ) high and exactly 8 yards apart .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-52-1" docsrc="Goal_(sport)">
+      <context> Shinty <head>===</head> In shinty , a goal is scored if the ball goes over the goal line and under the crossbar . A goal can only be scored with a stick called a " caman " ; no goal is scored if the ball is kicked , carried , or propelled by an attacking player 's hand or arm .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-55-1" docsrc="Goal_(sport)">
+      <context> A <head>goal</head> can only be scored with a stick called a " caman " ; no goal is scored if the ball is kicked , carried , or propelled by an attacking player 's hand or arm . === Water polo === A goal in water polo is scored when the ball passes completely across the goal line , under the crossbar and between the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-57-1" docsrc="Goal_(sport)">
+      <context> === <head>Water</head> polo === A goal in water polo is scored when the ball passes completely across the goal line , under the crossbar and between the goal posts . A goal may be scored through contact with any part of the attacker 's body except a clenched fist .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-57-2" docsrc="Goal_(sport)">
+      <context> A <head>goal</head> in water polo is scored when the ball passes completely across the goal line , under the crossbar and between the goal posts . A goal may be scored through contact with any part of the attacker 's body except a clenched fist . The goal structure in water polo is dependent upon the depth of the water .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-57-3" docsrc="Goal_(sport)">
+      <context> A <head>goal</head> may be scored through contact with any part of the attacker 's body except a clenched fist . The goal structure in water polo is dependent upon the depth of the water . The goal mouth measures 3 metres across and is either 0.9 metres above the surface of the water or 2.4 metres above the floor of the pool , whichever is higher .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-66-4" docsrc="Goal_(sport)">
+      <context> The <head>ball</head> may be punted , drop kicked , or kicked off the ground if the ball is loose . The ball may cross the goal line at any height from ground level up to an infinite height , and may bounce before crossing the line . A goal scores six points .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-66-6" docsrc="Goal_(sport)">
+      <context> A <head>goal</head> scores six points . The alternate method of scoring is a behind , which scores one point ; if the ball passes between the goal posts but is not awarded a goal by the above provisions , it scores a behind . The goal structure consists of two posts at least 6 metres in height and spaced 6.4 metres apart .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-81-5" docsrc="Goal_(sport)">
+      <context> Hurling <head>and</head> Gaelic football use the same goal structure . It is a 6.4 meter wide frame with a net attached . The goal posts are at least 6 meters high , and the crossbar is 2.44 meters above the ground .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-81-6" docsrc="Goal_(sport)">
+      <context> It <head>is</head> a 6.4 meter wide frame with a net attached . The goal posts are at least 6 meters high , and the crossbar is 2.44 meters above the ground . A goal is scored when the ball crosses below the crossbar and a point is scored when the ball passes above it .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-89-3" docsrc="Goal_(sport)">
+      <context> A <head>field</head> goal scores 3 points in both versions of the sport . In the American game , the now rarely used fair catch kick , if successfully made , also scores 3 points . A goal kicked during a try following a touchdown is worth one point .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-90-7" docsrc="Goal_(sport)">
+      <context> Similarly <head>,</head> in arena football , the field goal is nearly identical to that in American and Canadian football . A field goal in arena football scores three points , unless it is drop kicked , in which case it scores four points . The goal structure in arena football consists of a crossbar 15 feet ( 4.6 m ) above the playing surface and 9.5 feet ( 2.9 m ) wide .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-90-8" docsrc="Goal_(sport)">
+      <context> A <head>field</head> goal in arena football scores three points , unless it is drop kicked , in which case it scores four points . The goal structure in arena football consists of a crossbar 15 feet ( 4.6 m ) above the playing surface and 9.5 feet ( 2.9 m ) wide . The goal posts are attached to nets on either side of the crossbar which are taut to allow the ball to rebound back onto the field of play .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-1-93-1" docsrc="Goal_(sport)">
+      <context> These <head>nets</head> do not represent a scoring area , but keep the ball in play and prevent it from entering the crowd . === Rugby football === A goal is scored in either rugby code by place kicking or drop kicking a ball over a crossbar and between goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-11-38-1" docsrc="Goal_(sport)">
+      <context> === Hockey === === Lacrosse === Lacrosse goals are scored when <head>the</head> ball passes completely through the goal mouth , under the crossbar and between the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-11-61-1" docsrc="Goal_(sport)">
+      <context> Nets are required . The following games have more than one <head>possible</head> method of scoring where the goal is the primary method , i.e. the method that scores the most points . In most cases the score is shown as the number of goals , plus the number of secondary scores ( usually 1 point ) , plus the total number of points .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-11-77-1" docsrc="Goal_(sport)">
+      <context> === Gaelic football === In Gaelic football a goal is scored <head>when</head> the ball passes completely beyond the goal line , between the goal posts and under the cross bar . The ball can be played with the hands , but a goal can not be scored off a player 's hand .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-11-89-4" docsrc="Goal_(sport)">
+      <context> In the American game , the now rarely used fair catch <head>kick</head> , if successfully made , also scores 3 points . A goal kicked during a try following a touchdown is worth one point . These are the only methods of putting the ball through the goal that award points to the kicking team ; no points are scored if the ball is punted or thrown through the goal , or if the ball goes through the goal on a kickoff .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-12-25-3" docsrc="Goal_(sport)">
+      <context> It is also used to refer to the scoring structure . A <head>deliberate</head> attempt on goal is referred to as a " shot " . To score a goal , the ball must pass completely over the goal line between the goal posts and under the crossbar and no rules may be violated on the play ( such as touching the ball with the hand or arm ) .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-12-26-1" docsrc="Goal_(sport)">
+      <context> See also offside . The goal structure is defined as a frame <head>24</head> feet ( 7.32 m ) wide by 8 feet ( 2.44 m ) tall . In most organized levels of play a net is attached behind the goal frame to catch the ball and indicate that a goal has been scored ; but the Laws of the Game do not mandate the use of a net and only require that any net used not interfere with the goalkeeper .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-12-47-2" docsrc="Goal_(sport)">
+      <context> In polo , a goal is scored if the ball passes completely <head>between</head> the goal posts , regardless of how far off the ground the ball is . The ball must be between the goal posts or the imaginary lines extending above the inside edges of the posts . A ball passing directly over a goal post does not score a goal .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-12-5-1" docsrc="Goal_(sport)">
+      <context> In other sports , a goal may be one of several scoring <head>methods</head> , and thus may be worth a different set number of points than the others . In some sports , the goal is the sole method of scoring . In these sports the final score is expressed as the number of goals scored by each team , with the winner being the team that accumulated more over the specified time period .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-12-6-2" docsrc="Goal_(sport)">
+      <context> In other sports , a goal is the primary , but not <head>the</head> sole method of scoring . In these sports , the goal is worth a set number of points , and there is another method of scoring which scores fewer points ( often one point ) . In these sports , the score is expressed as the number of goals plus the number of alternate scores and the combined total of points with the winner being decided on total points .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-13-39-3" docsrc="Goal_(sport)">
+      <context> Goals can be disallowed if there is an infraction by the offensive team <head>.</head> The goal structure in Lacrosse is 6 feet ( 1.8 m ) tall and 6 feet ( 1.8 m ) wide and a net is used to prevent the ball from reentering the field of play . Lacrosse goals are not positioned on the boundary line , and behind the goal play is allowed .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-13-51-2" docsrc="Goal_(sport)">
+      <context> === Shinty === In shinty , a goal is scored if the ball <head>goes</head> over the goal line and under the crossbar .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-13-57-5" docsrc="Goal_(sport)">
+      <context> The goal mouth measures 3 metres across and is either 0.9 metres above <head>the</head> surface of the water or 2.4 metres above the floor of the pool , whichever is higher . Nets are required . The following games have more than one possible method of scoring where the goal is the primary method , i.e. the method that scores the most points .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-14-20-1" docsrc="Goal_(sport)">
+      <context> In basketball , the hoop and net used for scoring can be supported on <head>a</head> post or mechanism at each end , or in smaller buildings attached directly to the wall . The goal is the only method of scoring in several games . In each of these cases the winner is the team that scores the most goals within the specified time .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-14-29-1" docsrc="Goal_(sport)">
+      <context> In most organized levels of play a net is attached behind the goal frame <head>to</head> catch the ball and indicate that a goal has been scored ; but the Laws of the Game do not mandate the use of a net and only require that any net used not interfere with the goalkeeper . === Handball === A goal in handball is scored when the ball is thrown completely over the goal line , below the crossbar and between the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-14-42-2" docsrc="Goal_(sport)">
+      <context> === Netball === In netball , a goal is scored when the ball is <head>shot</head> through a goal ring on a pole .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-14-46-2" docsrc="Goal_(sport)">
+      <context> === Polo === In polo , a goal is scored if the ball passes <head>completely</head> between the goal posts , regardless of how far off the ground the ball is .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-14-55-1" docsrc="Goal_(sport)">
+      <context> A goal can only be scored with a stick called a " caman " <head>;</head> no goal is scored if the ball is kicked , carried , or propelled by an attacking player 's hand or arm . === Water polo === A goal in water polo is scored when the ball passes completely across the goal line , under the crossbar and between the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-14-76-1" docsrc="Goal_(sport)">
+      <context> === Basketball === === Gaelic football === In Gaelic football a goal is scored <head>when</head> the ball passes completely beyond the goal line , between the goal posts and under the cross bar .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-14-99-1" docsrc="Goal_(sport)">
+      <context> Rugby league goal posts are generally " H " shaped , 5.5 metres in <head>width</head> , with the cross bar three metres from the ground The expression " moving the goalposts " , which means to make a set of goals more difficult just as they are being met , is often used in business but is derived from association football . It is commonly used to imply bad faith on the part of those setting goals for others to meet , by arbitrarily making additional demands just as the initial ones are about to be met .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-15-90-2" docsrc="Goal_(sport)">
+      <context> In both sports , the goal structure consists of a crossbar suspended 10 feet ( <head>3.0</head> m ) off the ground and goal posts ( colloquially known as " uprights " ) placed 18 feet 6 inches ( 5.64 m ) apart and extending at least 30 feet ( 9.1 m ) above the crossbar . In lower levels of play the goal posts may be placed further apart and/or not extend as far above the crossbar ; for example , in high school football the posts are 23 feet 4 inches ( 7.11 m ) apart . NFL and CFL rules mandate that a ribbon be attached to the top of each goal post .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-15-95-6" docsrc="Goal_(sport)">
+      <context> The kick is taken from a position that is back in line from where the <head>try</head> was scored giving an incentive for teams to try and score near to the centre such that the kick is more attainable . Rugby league goal posts are generally " H " shaped , 5.5 metres in width , with the cross bar three metres from the ground The expression " moving the goalposts " , which means to make a set of goals more difficult just as they are being met , is often used in business but is derived from association football .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-16-25-3" docsrc="Goal_(sport)">
+      <context> It is also used to refer to the scoring structure . A deliberate attempt on goal <head>is</head> referred to as a " shot " . To score a goal , the ball must pass completely over the goal line between the goal posts and under the crossbar and no rules may be violated on the play ( such as touching the ball with the hand or arm ) .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-16-52-1" docsrc="Goal_(sport)">
+      <context> Shinty === In shinty , a goal is scored if the ball goes over the goal <head>line</head> and under the crossbar . A goal can only be scored with a stick called a " caman " ; no goal is scored if the ball is kicked , carried , or propelled by an attacking player 's hand or arm .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-19-76-1" docsrc="Goal_(sport)">
+      <context> === Basketball === === Gaelic football === In Gaelic football a goal is scored when the ball passes completely <head>beyond</head> the goal line , between the goal posts and under the cross bar .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-2-87-1" docsrc="Goal_(sport)">
+      <context> A goal <head>is</head> scored when the ball crosses below the crossbar and a point is scored when the ball passes above it . === Gridiron football === A field goal in American or Canadian football is a secondary method of scoring ; it is scored when the ball is place kicked or drop kicked completely over the crossbar and between or directly over the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-2-89-1" docsrc="Goal_(sport)">
+      <context> === Gridiron <head>football</head> === A field goal in American or Canadian football is a secondary method of scoring ; it is scored when the ball is place kicked or drop kicked completely over the crossbar and between or directly over the goal posts . A field goal scores 3 points in both versions of the sport .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-2-90-6" docsrc="Goal_(sport)">
+      <context> A retractable <head>net</head> may be placed behind the goal , well beyond the field of play , to prevent the ball from entering spectator areas . Similarly , in arena football , the field goal is nearly identical to that in American and Canadian football . A field goal in arena football scores three points , unless it is drop kicked , in which case it scores four points .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-2-95-5" docsrc="Goal_(sport)">
+      <context> In both <head>codes</head> , a goal scored by place kick after a try ( a conversion ) scores two points . The kick is taken from a position that is back in line from where the try was scored giving an incentive for teams to try and score near to the centre such that the kick is more attainable . Rugby league goal posts are generally " H " shaped , 5.5 metres in width , with the cross bar three metres from the ground</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-20-38-1" docsrc="Goal_(sport)">
+      <context> === Hockey === === Lacrosse === Lacrosse goals are scored when the ball passes completely through the goal mouth , <head>under</head> the crossbar and between the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-20-64-1" docsrc="Goal_(sport)">
+      <context> The side with the higher number of total points is the winner . === Australian rules football === In Australian <head>rules</head> football a goal is scored when the ball is kicked by an attacking player completely between the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-20-66-5" docsrc="Goal_(sport)">
+      <context> The ball may cross the goal line at any height from ground level up to an infinite height , and <head>may</head> bounce before crossing the line . A goal scores six points . The alternate method of scoring is a behind , which scores one point ; if the ball passes between the goal posts but is not awarded a goal by the above provisions , it scores a behind .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-20-95-2" docsrc="Goal_(sport)">
+      <context> A goal is scored in either rugby code by place kicking or drop kicking a ball over a crossbar and <head>between</head> goal posts . In rugby union , a goal scored from the field either as a drop kick during normal play or a place kick after a foul scores three points . In rugby league , a goal scored from the field as a drop kick scores one point , and a goal from a place kick after a foul scores two points .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-21-93-1" docsrc="Goal_(sport)">
+      <context> These nets do not represent a scoring area , but keep the ball in play and prevent it from entering the <head>crowd</head> . === Rugby football === A goal is scored in either rugby code by place kicking or drop kicking a ball over a crossbar and between goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-22-26-1" docsrc="Goal_(sport)">
+      <context> See also offside . The goal structure is defined as a frame 24 feet ( 7.32 m ) wide by 8 feet <head>(</head> 2.44 m ) tall . In most organized levels of play a net is attached behind the goal frame to catch the ball and indicate that a goal has been scored ; but the Laws of the Game do not mandate the use of a net and only require that any net used not interfere with the goalkeeper .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-22-89-5" docsrc="Goal_(sport)">
+      <context> A goal kicked during a try following a touchdown is worth one point . These are the only methods of putting the <head>ball</head> through the goal that award points to the kicking team ; no points are scored if the ball is punted or thrown through the goal , or if the ball goes through the goal on a kickoff . In both sports , the goal structure consists of a crossbar suspended 10 feet ( 3.0 m ) off the ground and goal posts ( colloquially known as " uprights " ) placed 18 feet 6 inches ( 5.64 m ) apart and extending at least 30 feet ( 9.1 m ) above the crossbar .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-23-29-1" docsrc="Goal_(sport)">
+      <context> In most organized levels of play a net is attached behind the goal frame to catch the ball and indicate that a goal <head>has</head> been scored ; but the Laws of the Game do not mandate the use of a net and only require that any net used not interfere with the goalkeeper . === Handball === A goal in handball is scored when the ball is thrown completely over the goal line , below the crossbar and between the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-23-55-1" docsrc="Goal_(sport)">
+      <context> A goal can only be scored with a stick called a " caman " ; no goal is scored if the ball is <head>kicked</head> , carried , or propelled by an attacking player 's hand or arm . === Water polo === A goal in water polo is scored when the ball passes completely across the goal line , under the crossbar and between the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-25-0-1" docsrc="Goal_(sport)">
+      <context> In sports , a goal is a physical structure or area where an attacking team must send the ball or puck in order to score <head>points</head> . In several sports , a goal is the sole method of scoring , and thus the final score is expressed in the total number of goals scored by each team .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-25-14-4" docsrc="Goal_(sport)">
+      <context> In Gaelic football and hurling , in which the goalposts are similar to those used in rugby , the ball can be kicked either under <head>the</head> crossbar for a goal , or over the crossbar between the posts for a point . The vertical supports are usually called goal posts and the horizontal top is usually called the crossbar . A goal in these games normally requires that the ball or puck be sent between the posts , under the crossbar and completely behind the goal line .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-27-66-5" docsrc="Goal_(sport)">
+      <context> The ball may cross the goal line at any height from ground level up to an infinite height , and may bounce before crossing the line . <head>A</head> goal scores six points . The alternate method of scoring is a behind , which scores one point ; if the ball passes between the goal posts but is not awarded a goal by the above provisions , it scores a behind .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-29-14-2" docsrc="Goal_(sport)">
+      <context> In many games , at each end of the field of play , there are two vertical posts ( or uprights ) supporting a horizontal crossbar . In some <head>games</head> , such as association football or hockey , the object is to pass the ball between the posts below the crossbar , while in others , such as those based on rugby , the ball must pass over the crossbar instead . In Gaelic football and hurling , in which the goalposts are similar to those used in rugby , the ball can be kicked either under the crossbar for a goal , or over the crossbar between the posts for a point .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-3-25-3" docsrc="Goal_(sport)">
+      <context> It is also <head>used</head> to refer to the scoring structure . A deliberate attempt on goal is referred to as a " shot " . To score a goal , the ball must pass completely over the goal line between the goal posts and under the crossbar and no rules may be violated on the play ( such as touching the ball with the hand or arm ) .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-3-8-1" docsrc="Goal_(sport)">
+      <context> Brisbane 9.12 ( <head>66</head> ) In this example Sydney scored 10 goals ( at six points each ) and 4 behinds ( one point each ) for a total of 64 points . Brisbane scored 9 goals and 12 behinds for a total of 66 points .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-3-8-2" docsrc="Goal_(sport)">
+      <context> In this example <head>Sydney</head> scored 10 goals ( at six points each ) and 4 behinds ( one point each ) for a total of 64 points . Brisbane scored 9 goals and 12 behinds for a total of 66 points . Despite having fewer goals , Brisbane won the game .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-30-99-2" docsrc="Goal_(sport)">
+      <context> The expression " moving the goalposts " , which means to make a set of goals more difficult just as they are being met , is often used in business <head>but</head> is derived from association football . It is commonly used to imply bad faith on the part of those setting goals for others to meet , by arbitrarily making additional demands just as the initial ones are about to be met . In business , the concept is more abstract , with some performance measure or target being set as a goalpost while achieving the target is often known as achieving a goal .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-33-89-4" docsrc="Goal_(sport)">
+      <context> In the American game , the now rarely used fair catch kick , if successfully made , also scores 3 points . A goal kicked during a try following a touchdown is worth <head>one</head> point . These are the only methods of putting the ball through the goal that award points to the kicking team ; no points are scored if the ball is punted or thrown through the goal , or if the ball goes through the goal on a kickoff .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-37-87-1" docsrc="Goal_(sport)">
+      <context> A goal is scored when the ball crosses below the crossbar and a point is scored when the ball passes above it . === Gridiron football === A field goal in American or Canadian football is a <head>secondary</head> method of scoring ; it is scored when the ball is place kicked or drop kicked completely over the crossbar and between or directly over the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-39-90-3" docsrc="Goal_(sport)">
+      <context> In lower levels of play the goal posts may be placed further apart and/or not extend as far above the crossbar ; for example , in high school football the posts are 23 feet 4 inches ( 7.11 m <head>)</head> apart . NFL and CFL rules mandate that a ribbon be attached to the top of each goal post . Goals are centered on the field , but on different lines : in American football , they lie on the " end line " ( far end of the end zone ) and in Canadian , on the " goal line " ( beginning of the end zone ) .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-4-25-2" docsrc="Goal_(sport)">
+      <context> In association football , <head>the</head> goal is the only method of scoring . It is also used to refer to the scoring structure . A deliberate attempt on goal is referred to as a " shot " .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-4-42-2" docsrc="Goal_(sport)">
+      <context> === Netball === In <head>netball</head> , a goal is scored when the ball is shot through a goal ring on a pole .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-4-46-2" docsrc="Goal_(sport)">
+      <context> === Polo === In <head>polo</head> , a goal is scored if the ball passes completely between the goal posts , regardless of how far off the ground the ball is .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-4-51-2" docsrc="Goal_(sport)">
+      <context> === Shinty === In <head>shinty</head> , a goal is scored if the ball goes over the goal line and under the crossbar .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-4-76-1" docsrc="Goal_(sport)">
+      <context> === Basketball === === <head>Gaelic</head> football === In Gaelic football a goal is scored when the ball passes completely beyond the goal line , between the goal posts and under the cross bar .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-42-89-4" docsrc="Goal_(sport)">
+      <context> In the American game , the now rarely used fair catch kick , if successfully made , also scores 3 points . A goal kicked during a try following a touchdown is worth one point . These are the only methods of <head>putting</head> the ball through the goal that award points to the kicking team ; no points are scored if the ball is punted or thrown through the goal , or if the ball goes through the goal on a kickoff .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-0-1" docsrc="Goal_(sport)">
+      <context> In sports , a goal <head>is</head> a physical structure or area where an attacking team must send the ball or puck in order to score points . In several sports , a goal is the sole method of scoring , and thus the final score is expressed in the total number of goals scored by each team .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-0-2" docsrc="Goal_(sport)">
+      <context> In sports , a goal <head>is</head> a physical structure or area where an attacking team must send the ball or puck in order to score points . In several sports , a goal is the sole method of scoring , and thus the final score is expressed in the total number of goals scored by each team . In other sports , a goal may be one of several scoring methods , and thus may be worth a different set number of points than the others .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-0-3" docsrc="Goal_(sport)">
+      <context> In several sports , a <head>goal</head> is the sole method of scoring , and thus the final score is expressed in the total number of goals scored by each team . In other sports , a goal may be one of several scoring methods , and thus may be worth a different set number of points than the others . In some sports , the goal is the sole method of scoring .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-23-1" docsrc="Goal_(sport)">
+      <context> In each of these cases <head>the</head> winner is the team that scores the most goals within the specified time . === Association football === In association football , the goal is the only method of scoring .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-48-2" docsrc="Goal_(sport)">
+      <context> The goal structure in Polo <head>consists</head> of two poles , at least 10 feet ( 3.0 m ) high and exactly 8 yards apart . There is no crossbar and no net is required . The height at which a goal may be scored is infinite .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-5-2" docsrc="Goal_(sport)">
+      <context> In some sports , the <head>goal</head> is the sole method of scoring . In these sports the final score is expressed as the number of goals scored by each team , with the winner being the team that accumulated more over the specified time period . In other sports , a goal is the primary , but not the sole method of scoring .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-6-1" docsrc="Goal_(sport)">
+      <context> In these sports the final <head>score</head> is expressed as the number of goals scored by each team , with the winner being the team that accumulated more over the specified time period . In other sports , a goal is the primary , but not the sole method of scoring . In these sports , the goal is worth a set number of points , and there is another method of scoring which scores fewer points ( often one point ) .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-64-1" docsrc="Goal_(sport)">
+      <context> The side with the higher <head>number</head> of total points is the winner . === Australian rules football === In Australian rules football a goal is scored when the ball is kicked by an attacking player completely between the goal posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-66-3" docsrc="Goal_(sport)">
+      <context> The ball may not contact <head>or</head> pass over the goal post , touch a player on the defensive team , or be touched by any part of the body of an attacker other than the foot or lower leg . The ball may be punted , drop kicked , or kicked off the ground if the ball is loose . The ball may cross the goal line at any height from ground level up to an infinite height , and may bounce before crossing the line .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-89-5" docsrc="Goal_(sport)">
+      <context> A goal kicked during a <head>try</head> following a touchdown is worth one point . These are the only methods of putting the ball through the goal that award points to the kicking team ; no points are scored if the ball is punted or thrown through the goal , or if the ball goes through the goal on a kickoff . In both sports , the goal structure consists of a crossbar suspended 10 feet ( 3.0 m ) off the ground and goal posts ( colloquially known as " uprights " ) placed 18 feet 6 inches ( 5.64 m ) apart and extending at least 30 feet ( 9.1 m ) above the crossbar .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-95-1" docsrc="Goal_(sport)">
+      <context> === Rugby football === A <head>goal</head> is scored in either rugby code by place kicking or drop kicking a ball over a crossbar and between goal posts . In rugby union , a goal scored from the field either as a drop kick during normal play or a place kick after a foul scores three points .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-95-2" docsrc="Goal_(sport)">
+      <context> A goal is scored in <head>either</head> rugby code by place kicking or drop kicking a ball over a crossbar and between goal posts . In rugby union , a goal scored from the field either as a drop kick during normal play or a place kick after a foul scores three points . In rugby league , a goal scored from the field as a drop kick scores one point , and a goal from a place kick after a foul scores two points .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-5-95-3" docsrc="Goal_(sport)">
+      <context> In rugby union , a <head>goal</head> scored from the field either as a drop kick during normal play or a place kick after a foul scores three points . In rugby league , a goal scored from the field as a drop kick scores one point , and a goal from a place kick after a foul scores two points . In both codes , a goal scored by place kick after a try ( a conversion ) scores two points .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-6-14-3" docsrc="Goal_(sport)">
+      <context> In some games , such as <head>association</head> football or hockey , the object is to pass the ball between the posts below the crossbar , while in others , such as those based on rugby , the ball must pass over the crossbar instead . In Gaelic football and hurling , in which the goalposts are similar to those used in rugby , the ball can be kicked either under the crossbar for a goal , or over the crossbar between the posts for a point . The vertical supports are usually called goal posts and the horizontal top is usually called the crossbar .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-6-47-1" docsrc="Goal_(sport)">
+      <context> Polo === In polo , a <head>goal</head> is scored if the ball passes completely between the goal posts , regardless of how far off the ground the ball is . The ball must be between the goal posts or the imaginary lines extending above the inside edges of the posts .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-6-47-2" docsrc="Goal_(sport)">
+      <context> In polo , a goal is <head>scored</head> if the ball passes completely between the goal posts , regardless of how far off the ground the ball is . The ball must be between the goal posts or the imaginary lines extending above the inside edges of the posts . A ball passing directly over a goal post does not score a goal .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-6-7-2" docsrc="Goal_(sport)">
+      <context> Sydney 10.4 ( 64 ) def <head>.</head> Brisbane 9.12 ( 66 ) In this example Sydney scored 10 goals ( at six points each ) and 4 behinds ( one point each ) for a total of 64 points .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-6-90-1" docsrc="Goal_(sport)">
+      <context> These are the only methods of <head>putting</head> the ball through the goal that award points to the kicking team ; no points are scored if the ball is punted or thrown through the goal , or if the ball goes through the goal on a kickoff . In both sports , the goal structure consists of a crossbar suspended 10 feet ( 3.0 m ) off the ground and goal posts ( colloquially known as " uprights " ) placed 18 feet 6 inches ( 5.64 m ) apart and extending at least 30 feet ( 9.1 m ) above the crossbar . In lower levels of play the goal posts may be placed further apart and/or not extend as far above the crossbar ; for example , in high school football the posts are 23 feet 4 inches ( 7.11 m ) apart .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-7-81-3" docsrc="Goal_(sport)">
+      <context> The ball may be played by any <head>legal</head> method except by the hand of the attacker . A ball in flight may be deflected into the goal off the hand of an attacker . Hurling and Gaelic football use the same goal structure .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-8-90-4" docsrc="Goal_(sport)">
+      <context> NFL and CFL rules mandate that a ribbon <head>be</head> attached to the top of each goal post . Goals are centered on the field , but on different lines : in American football , they lie on the " end line " ( far end of the end zone ) and in Canadian , on the " goal line " ( beginning of the end zone ) . A retractable net may be placed behind the goal , well beyond the field of play , to prevent the ball from entering spectator areas .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-8-90-5" docsrc="Goal_(sport)">
+      <context> Goals are centered on the field , but <head>on</head> different lines : in American football , they lie on the " end line " ( far end of the end zone ) and in Canadian , on the " goal line " ( beginning of the end zone ) . A retractable net may be placed behind the goal , well beyond the field of play , to prevent the ball from entering spectator areas . Similarly , in arena football , the field goal is nearly identical to that in American and Canadian football .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-9-66-1" docsrc="Goal_(sport)">
+      <context> === Australian rules football === In Australian rules football <head>a</head> goal is scored when the ball is kicked by an attacking player completely between the goal posts . The ball may not contact or pass over the goal post , touch a player on the defensive team , or be touched by any part of the body of an attacker other than the foot or lower leg .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-9-80-1" docsrc="Goal_(sport)">
+      <context> The ball can be played with the hands , <head>but</head> a goal can not be scored off a player 's hand . === Hurling === In hurling the ball must pass completely beyond the goal line .</context>
+    </instance>
+    <instance id="Goal_(sport)-goal-9-81-2" docsrc="Goal_(sport)">
+      <context> In hurling the ball must pass completely beyond the <head>goal</head> line . The ball may be played by any legal method except by the hand of the attacker . A ball in flight may be deflected into the goal off the hand of an attacker .</context>
+    </instance>
+    <instance id="a01161877_d_7" docsrc="a01161877_d">
+      <context> tending to hinder the achievement of a <head>goal</head> ;</context>
+    </instance>
+    <instance id="a01683667_d_4" docsrc="a01683667_d">
+      <context> not having position or <head>goal</head> definitely set or ascertained ;</context>
+    </instance>
+    <instance id="n00136876_d_5" docsrc="n00136876_d">
+      <context> an attempt to kick a <head>goal</head> ;</context>
+    </instance>
+    <instance id="n00187337_ex1_2" docsrc="n00187337_ex1">
+      <context> the winning <head>goal</head> came with less than a minute left to play ;</context>
+    </instance>
+    <instance id="n00187499_d_1" docsrc="n00187499_d">
+      <context> a <head>goal</head> that results when a player inadvertently knocks the ball into the goal he is defending ;</context>
+    </instance>
+    <instance id="n10436851_d_8" docsrc="n10436851_d">
+      <context> a kicker who makes a place_kick for a <head>goal</head> ;</context>
+    </instance>
+    <instance id="v01112979_d_2" docsrc="v01112979_d">
+      <context> make a <head>goal</head> ;</context>
+    </instance>
+    <instance id="v01115190_d_10" docsrc="v01115190_d">
+      <context> finish a game with an equal number of points , <head>goals</head> , etc. ;</context>
+    </instance>
+    <instance id="v02355596_d_4" docsrc="v02355596_d">
+      <context> achieve a point or <head>goal</head> ;</context>
+    </instance>
+  </lexelt>
+</corpus>

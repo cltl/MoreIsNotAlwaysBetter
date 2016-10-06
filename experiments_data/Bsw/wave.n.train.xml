@@ -1,0 +1,1133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus lang="en">
+  <lexelt item="wave.n" pos="NN">
+    <instance id="Wave-wave-0-0-3" docsrc="Wave">
+      <context> <head>Frequency</head> refers to the addition of time . Wave motion transfers energy from one point to another , which displace particles of the transmission medium — that is , with little or no associated mass transport . Waves consist , instead , of oscillations or vibrations ( of a physical quantity ) , around almost fixed locations .</context>
+    </instance>
+    <instance id="Wave-wave-0-1-6" docsrc="Wave">
+      <context> <head>When</head> air molecules collide , they also bounce away from each other ( a restoring force ) . This keeps the molecules from continuing to travel in the direction of the wave . Waves are described by a wave equation which sets out how the disturbance proceeds over time .</context>
+    </instance>
+    <instance id="Wave-wave-0-1109-2" docsrc="Wave">
+      <context> <head>A</head> standing wave , also known as a stationary wave , is a wave that remains in a constant position . This phenomenon can occur because the medium is moving in the opposite direction to the wave , or it can arise in a stationary medium as a result of interference between two waves traveling in opposite directions . Waves exhibit common behaviors under a number of standard situations , e. g.</context>
+    </instance>
+    <instance id="Wave-wave-0-1118-1" docsrc="Wave">
+      <context> <head>Waves</head> exhibit common behaviors under a number of standard situations , e. g. === Transmission and media === Waves normally move in a straight line ( i.e. rectilinearly ) through a transmission medium .</context>
+    </instance>
+    <instance id="Wave-wave-0-1138-1" docsrc="Wave">
+      <context> <head>When</head> a wave strikes a reflective surface , it changes direction , such that the angle made by the incident wave and line normal to the surface equals the angle made by the reflected wave and the same normal line . === Interference === Waves that encounter each other combine through superposition to create a new wave called an interference pattern .</context>
+    </instance>
+    <instance id="Wave-wave-0-1237-2" docsrc="Wave">
+      <context> <head>===</head> Other === Waves of traffic , that is , propagation of different densities of motor vehicles , and so forth , which can be modeled as kinematic waves</context>
+    </instance>
+    <instance id="Wave-wave-1-1-1" docsrc="Wave">
+      <context> Waves <head>consist</head> , instead , of oscillations or vibrations ( of a physical quantity ) , around almost fixed locations . There are two main types of waves . Mechanical waves propagate through a medium , and the substance of this medium is deformed .</context>
+    </instance>
+    <instance id="Wave-wave-1-1148-1" docsrc="Wave">
+      <context> The <head>directions</head> of incidence and refraction are related to the refractive indices of the two materials by Snell 's law . === Diffraction === A wave exhibits diffraction when it encounters an obstacle that bends the wave or when it spreads after emerging from an opening .</context>
+    </instance>
+    <instance id="Wave-wave-1-1155-1" docsrc="Wave">
+      <context> === <head>Polarization</head> === The phenomenon of polarization arises when wave motion can occur simultaneously in two orthogonal directions . Transverse waves can be polarized , for instance .</context>
+    </instance>
+    <instance id="Wave-wave-1-1155-5" docsrc="Wave">
+      <context> A <head>transverse</head> wave is linearly polarized if it oscillates in only one direction or plane . In the case of linear polarization . it is often useful to add the relative orientation of that plane , perpendicular to the direction of travel , in which the oscillation occurs , such as " horizontal " for instance , if the plane of polarization is parallel to the ground . Electromagnetic waves propagating in free space , for instance , are transverse ; they can be polarized by the use of a polarizing filter .</context>
+    </instance>
+    <instance id="Wave-wave-1-1155-6" docsrc="Wave">
+      <context> In <head>the</head> case of linear polarization . it is often useful to add the relative orientation of that plane , perpendicular to the direction of travel , in which the oscillation occurs , such as " horizontal " for instance , if the plane of polarization is parallel to the ground . Electromagnetic waves propagating in free space , for instance , are transverse ; they can be polarized by the use of a polarizing filter . Longitudinal waves , such as sound waves , do not exhibit polarization .</context>
+    </instance>
+    <instance id="Wave-wave-1-1159-1" docsrc="Wave">
+      <context> For <head>these</head> waves there is only one direction of oscillation , that is , along the direction of travel . === Dispersion === A wave undergoes dispersion when either the phase velocity or the group velocity depends on the wave frequency .</context>
+    </instance>
+    <instance id="Wave-wave-1-1161-3" docsrc="Wave">
+      <context> Dispersion <head>is</head> most easily seen by letting white light pass through a prism , the result of which is to produce the spectrum of colours of the rainbow . Isaac Newton performed experiments with light and prisms , presenting his findings in the Opticks ( 1704 ) that white light consists of several colours and that these colours can not be decomposed any further . === Waves on strings ===</context>
+    </instance>
+    <instance id="Wave-wave-1-1226-1" docsrc="Wave">
+      <context> Ripples <head>on</head> the surface of a pond are actually a combination of transverse and longitudinal waves ; therefore , the points on the surface follow orbital paths . Sound—a mechanical wave that propagates through gases , liquids , solids and plasmas ; Inertial waves , which occur in rotating fluids and are restored by the Coriolis effect ;</context>
+    </instance>
+    <instance id="Wave-wave-1-1238-1" docsrc="Wave">
+      <context> Other <head>===</head> Waves of traffic , that is , propagation of different densities of motor vehicles , and so forth , which can be modeled as kinematic waves Metachronal wave refers to the appearance of a traveling wave produced by coordinated sequential actions .</context>
+    </instance>
+    <instance id="Wave-wave-1-1273-1" docsrc="Wave">
+      <context> === <head>Dirac</head> equation === The Dirac equation is a relativistic wave equation detailing electromagnetic interactions . Dirac waves accounted for the fine details of the hydrogen spectrum in a completely rigorous way .</context>
+    </instance>
+    <instance id="Wave-wave-1-1273-2" docsrc="Wave">
+      <context> The <head>Dirac</head> equation is a relativistic wave equation detailing electromagnetic interactions . Dirac waves accounted for the fine details of the hydrogen spectrum in a completely rigorous way . The wave equation also implied the existence of a new form of matter , antimatter , previously unsuspected and unobserved and which was experimentally confirmed .</context>
+    </instance>
+    <instance id="Wave-wave-1-1375-1" docsrc="Wave">
+      <context> In <head>a</head> wave packet , the wavelength of the particle is not precise , and the local wavelength deviates on either side of the main wavelength value . In representing the wave function of a localized particle , the wave packet is often taken to have a Gaussian shape and is called a Gaussian wave packet . Gaussian wave packets also are used to analyze water waves .</context>
+    </instance>
+    <instance id="Wave-wave-1-1578-1" docsrc="Wave">
+      <context>   <head>that</head> is , a number of waves of wavelengths λ such that kλ = 2 π. Gravity waves are waves generated in a fluid medium or at the interface between two media when the force of gravity or buoyancy tries to restore equilibrium .</context>
+    </instance>
+    <instance id="Wave-wave-1-1583-2" docsrc="Wave">
+      <context> Gravity <head>waves</head> are waves generated in a fluid medium or at the interface between two media when the force of gravity or buoyancy tries to restore equilibrium . A ripple on a pond is one example . Gravitational waves also travel through space .</context>
+    </instance>
+    <instance id="Wave-wave-1-1588-2" docsrc="Wave">
+      <context> Gravitational <head>waves</head> also travel through space . The first observation of gravitational waves was announced on 11 February 2016 . Gravitational waves are disturbances in the curvature of spacetime , predicted by Einstein 's theory of general relativity .</context>
+    </instance>
+    <instance id="Wave-wave-1-1597-1" docsrc="Wave">
+      <context> Such <head>nonuniform</head> traveling waves are common in many physical problems , including the mechanics of the cochlea and waves on hanging ropes . Index of wave articles === Waves in general ===</context>
+    </instance>
+    <instance id="Wave-wave-1-3-4" docsrc="Wave">
+      <context> Further <head>,</head> the behavior of particles in quantum mechanics are described by waves . In addition , gravitational waves also travel through space , which are a result of a vibration or movement in gravitational fields . A wave can be transverse or longitudinal .</context>
+    </instance>
+    <instance id="Wave-wave-1-4-1" docsrc="Wave">
+      <context> In <head>addition</head> , gravitational waves also travel through space , which are a result of a vibration or movement in gravitational fields . A wave can be transverse or longitudinal . Transverse waves occur when a disturbance creates oscillations that are perpendicular to the propagation of energy transfer .</context>
+    </instance>
+    <instance id="Wave-wave-1-4-2" docsrc="Wave">
+      <context> A <head>wave</head> can be transverse or longitudinal . Transverse waves occur when a disturbance creates oscillations that are perpendicular to the propagation of energy transfer . Longitudinal waves occur when the oscillations are parallel to the direction of energy propagation .</context>
+    </instance>
+    <instance id="Wave-wave-10-10-3" docsrc="Wave">
+      <context> In a wave , the energy of a vibration is <head>moving</head> away from the source in the form of a disturbance within the surrounding medium ( Hall 1980 , p. 8 ) . However , this motion is problematic for a standing wave ( for example , a wave on a string ) , where energy is moving in both directions equally , or for electromagnetic ( e.g. , light ) waves in a vacuum , where the concept of medium does not apply and interaction with a target is the key to wave detection and practical applications . There are water waves on the ocean surface ; gamma waves and light waves emitted by the Sun ; microwaves used in microwave ovens and in radar equipment ; radio waves broadcast by radio stations ; and sound waves generated by radio receivers , telephone handsets and living creatures ( as voices ) , to mention only a few wave phenomena .</context>
+    </instance>
+    <instance id="Wave-wave-10-1012-1" docsrc="Wave">
+      <context>     { \displaystyle f={\frac { 1}{T}}.\ , }   In <head>other</head> words , the frequency and period of a wave are reciprocals .</context>
+    </instance>
+    <instance id="Wave-wave-10-12-2" docsrc="Wave">
+      <context> Other properties , however , although usually described in terms <head>of</head> origin , may be generalized to all waves . For such reasons , wave theory represents a particular branch of physics that is concerned with the properties of wave processes independently of their physical origin . For example , based on the mechanical origin of acoustic waves , a moving disturbance in space–time can exist if and only if the medium involved is neither infinitely stiff nor infinitely pliable .</context>
+    </instance>
+    <instance id="Wave-wave-10-12-5" docsrc="Wave">
+      <context> If all the parts making up a medium were rigidly <head>bound</head> , then they would all vibrate as one , with no delay in the transmission of the vibration and therefore no wave motion . On the other hand , if all the parts were independent , then there would not be any transmission of the vibration and again , no wave motion . Although the above statements are meaningless in the case of waves that do not require a medium , they reveal a characteristic that is relevant to all waves regardless of origin : within a wave , the phase of a vibration ( that is , its position within the vibration cycle ) is different for adjacent points in space because the vibration reaches these points at different times .</context>
+    </instance>
+    <instance id="Wave-wave-10-938-1" docsrc="Wave">
+      <context>     { \displaystyle \phi }    is the phase constant <head>.</head> The units of the amplitude depend on the type of wave .</context>
+    </instance>
+    <instance id="Wave-wave-11-11-1" docsrc="Wave">
+      <context> There are water waves on the ocean surface ; gamma waves <head>and</head> light waves emitted by the Sun ; microwaves used in microwave ovens and in radar equipment ; radio waves broadcast by radio stations ; and sound waves generated by radio receivers , telephone handsets and living creatures ( as voices ) , to mention only a few wave phenomena . It may appear that the description of waves is closely related to their physical origin for each specific instance of a wave process . For example , acoustics is distinguished from optics in that sound waves are related to a mechanical rather than an electromagnetic wave transfer caused by vibration .</context>
+    </instance>
+    <instance id="Wave-wave-11-1374-3" docsrc="Wave">
+      <context> To localize a particle , de Broglie proposed a superposition of <head>different</head> wavelengths ranging around a central value in a wave packet , a waveform often used in quantum mechanics to describe the wave function of a particle . In a wave packet , the wavelength of the particle is not precise , and the local wavelength deviates on either side of the main wavelength value . In representing the wave function of a localized particle , the wave packet is often taken to have a Gaussian shape and is called a Gaussian wave packet .</context>
+    </instance>
+    <instance id="Wave-wave-11-609-1" docsrc="Wave">
+      <context>   with Ao the magnitude of A. For example , a <head>common</head> choice for Ao is a Gaussian wave packet :</context>
+    </instance>
+    <instance id="Wave-wave-12-1099-1" docsrc="Wave">
+      <context>    is the wave 's frequency . Wavelength can be a useful <head>concept</head> even if the wave is not periodic in space . For example , in an ocean wave approaching shore , the incoming wave undulates with a varying local wavelength that depends in part on the depth of the sea floor compared to the wave height .</context>
+    </instance>
+    <instance id="Wave-wave-12-1138-1" docsrc="Wave">
+      <context> When a wave strikes a reflective surface , it changes direction , <head>such</head> that the angle made by the incident wave and line normal to the surface equals the angle made by the reflected wave and the same normal line . === Interference === Waves that encounter each other combine through superposition to create a new wave called an interference pattern .</context>
+    </instance>
+    <instance id="Wave-wave-12-1148-1" docsrc="Wave">
+      <context> The directions of incidence and refraction are related to the refractive indices <head>of</head> the two materials by Snell 's law . === Diffraction === A wave exhibits diffraction when it encounters an obstacle that bends the wave or when it spreads after emerging from an opening .</context>
+    </instance>
+    <instance id="Wave-wave-12-3-1" docsrc="Wave">
+      <context> This keeps the molecules from continuing to travel in the direction of <head>the</head> wave . Waves are described by a wave equation which sets out how the disturbance proceeds over time . The mathematical form of this equation varies depending on the type of wave .</context>
+    </instance>
+    <instance id="Wave-wave-12-3-2" docsrc="Wave">
+      <context> Waves are described by a wave equation which sets out how the <head>disturbance</head> proceeds over time . The mathematical form of this equation varies depending on the type of wave . Further , the behavior of particles in quantum mechanics are described by waves .</context>
+    </instance>
+    <instance id="Wave-wave-12-4-3" docsrc="Wave">
+      <context> Transverse waves occur when a disturbance creates oscillations that are perpendicular to <head>the</head> propagation of energy transfer . Longitudinal waves occur when the oscillations are parallel to the direction of energy propagation . While mechanical waves can be both transverse and longitudinal , all electromagnetic waves are transverse in free space .</context>
+    </instance>
+    <instance id="Wave-wave-12-841-1" docsrc="Wave">
+      <context>   showing that the velocity of a localized particle in quantum mechanics <head>is</head> its group velocity . Because the group velocity varies with k , the shape of the wave packet broadens with time , and the particle becomes less localized .</context>
+    </instance>
+    <instance id="Wave-wave-12-841-2" docsrc="Wave">
+      <context> showing that the velocity of a localized particle in quantum mechanics is <head>its</head> group velocity . Because the group velocity varies with k , the shape of the wave packet broadens with time , and the particle becomes less localized . In other words , the velocity of the constituent waves of the wave packet travel at a rate that varies with their wavelength , so some move faster than others , and they can not maintain the same interference pattern as the wave propagates .</context>
+    </instance>
+    <instance id="Wave-wave-13-1-5" docsrc="Wave">
+      <context> For example , sound waves propagate via air molecules colliding with their neighbors <head>.</head> When air molecules collide , they also bounce away from each other ( a restoring force ) . This keeps the molecules from continuing to travel in the direction of the wave .</context>
+    </instance>
+    <instance id="Wave-wave-13-10-3" docsrc="Wave">
+      <context> In a wave , the energy of a vibration is moving away from <head>the</head> source in the form of a disturbance within the surrounding medium ( Hall 1980 , p. 8 ) . However , this motion is problematic for a standing wave ( for example , a wave on a string ) , where energy is moving in both directions equally , or for electromagnetic ( e.g. , light ) waves in a vacuum , where the concept of medium does not apply and interaction with a target is the key to wave detection and practical applications . There are water waves on the ocean surface ; gamma waves and light waves emitted by the Sun ; microwaves used in microwave ovens and in radar equipment ; radio waves broadcast by radio stations ; and sound waves generated by radio receivers , telephone handsets and living creatures ( as voices ) , to mention only a few wave phenomena .</context>
+    </instance>
+    <instance id="Wave-wave-13-1099-3" docsrc="Wave">
+      <context> For example , in an ocean wave approaching shore , the incoming wave <head>undulates</head> with a varying local wavelength that depends in part on the depth of the sea floor compared to the wave height . The analysis of the wave can be based upon comparison of the local wavelength with the local water depth . A standing wave , also known as a stationary wave , is a wave that remains in a constant position .</context>
+    </instance>
+    <instance id="Wave-wave-13-265-1" docsrc="Wave">
+      <context> − v(t + T ) ) = F(x − vt ) provided vT <head>=</head> λ , so an observation of the wave at a fixed location x finds the wave undulating periodically in time with period T = λ/v . === Amplitude and modulation === The amplitude of a wave may be constant ( in which case the wave is a c.w . or continuous wave ) , or may be modulated so as to vary with time and/or position .</context>
+    </instance>
+    <instance id="Wave-wave-13-267-1" docsrc="Wave">
+      <context> === Amplitude and modulation === The amplitude of a wave may be constant <head>(</head> in which case the wave is a c.w . or continuous wave ) , or may be modulated so as to vary with time and/or position . The outline of the variation in amplitude is called the envelope of the wave .</context>
+    </instance>
+    <instance id="Wave-wave-13-985-1" docsrc="Wave">
+      <context>         { \displaystyle T }    is the time for one complete <head>cycle</head> of an oscillation of a wave .</context>
+    </instance>
+    <instance id="Wave-wave-14-814-1" docsrc="Wave">
+      <context>   The group velocity therefore depends upon the dispersion relation connecting ω and k. <head>For</head> example , in quantum mechanics the energy of a particle represented as a wave packet is E = ħω = ( ħk)2/(2m ) .</context>
+    </instance>
+    <instance id="Wave-wave-15-10-2" docsrc="Wave">
+      <context> The term wave is often intuitively understood as referring to a transport of spatial disturbances <head>that</head> are generally not accompanied by a motion of the medium occupying this space as a whole . In a wave , the energy of a vibration is moving away from the source in the form of a disturbance within the surrounding medium ( Hall 1980 , p. 8 ) . However , this motion is problematic for a standing wave ( for example , a wave on a string ) , where energy is moving in both directions equally , or for electromagnetic ( e.g. , light ) waves in a vacuum , where the concept of medium does not apply and interaction with a target is the key to wave detection and practical applications .</context>
+    </instance>
+    <instance id="Wave-wave-15-1089-1" docsrc="Wave">
+      <context>         { \displaystyle v }    is called the phase speed ( magnitude of <head>the</head> phase velocity ) of the wave and</context>
+    </instance>
+    <instance id="Wave-wave-15-11-4" docsrc="Wave">
+      <context> Concepts such as mass , momentum , inertia , or elasticity , become therefore crucial <head>in</head> describing acoustic ( as distinct from optic ) wave processes . This difference in origin introduces certain wave characteristics particular to the properties of the medium involved . For example , in the case of air : vortices , radiation pressure , shock waves etc . ; in the case of solids : Rayleigh waves , dispersion ; and so on .</context>
+    </instance>
+    <instance id="Wave-wave-15-1109-1" docsrc="Wave">
+      <context> The analysis of the wave can be based upon comparison of the local wavelength with <head>the</head> local water depth . A standing wave , also known as a stationary wave , is a wave that remains in a constant position . This phenomenon can occur because the medium is moving in the opposite direction to the wave , or it can arise in a stationary medium as a result of interference between two waves traveling in opposite directions .</context>
+    </instance>
+    <instance id="Wave-wave-15-1223-1" docsrc="Wave">
+      <context> or the square root of the adiabatic bulk modulus divided by the ambient fluid density <head>(</head> see speed of sound ) . === Water waves === Ripples on the surface of a pond are actually a combination of transverse and longitudinal waves ; therefore , the points on the surface follow orbital paths .</context>
+    </instance>
+    <instance id="Wave-wave-16-1159-1" docsrc="Wave">
+      <context> For these waves there is only one direction of oscillation , that is , along the <head>direction</head> of travel . === Dispersion === A wave undergoes dispersion when either the phase velocity or the group velocity depends on the wave frequency .</context>
+    </instance>
+    <instance id="Wave-wave-17-1433-1" docsrc="Wave">
+      <context>     { \displaystyle \psi ( x,\ t=0)=A\ \exp \left(-{\frac { x^{2}}{2\sigma ^{2}}}+ik_{0}x\right)\ , }   at some <head>initial</head> time t = 0 , where the central wavelength is related to the central wave vector k0 as λ0 = 2π / k0 .</context>
+    </instance>
+    <instance id="Wave-wave-17-667-1" docsrc="Wave">
+      <context>     { \displaystyle A_{o}(k_{1})=N\ e^{-\sigma ^{2}(k_{1}-k)^{2}/2}\ , }   where σ determines the spread of k1-values about <head>k</head> , and N is the amplitude of the wave .</context>
+    </instance>
+    <instance id="Wave-wave-18-11-5" docsrc="Wave">
+      <context> This difference in origin introduces certain wave characteristics particular to the properties of the medium involved . For <head>example</head> , in the case of air : vortices , radiation pressure , shock waves etc . ; in the case of solids : Rayleigh waves , dispersion ; and so on . Other properties , however , although usually described in terms of origin , may be generalized to all waves .</context>
+    </instance>
+    <instance id="Wave-wave-18-1593-1" docsrc="Wave">
+      <context> Gravitational waves are disturbances in the curvature of spacetime , predicted by Einstein 's theory of general relativity <head>.</head> In a nonuniform medium , in which the wavenumber k can depend on the location as well as the frequency , the phase term kx is typically replaced by the integral of k(x)dx , according to the WKB method . Such nonuniform traveling waves are common in many physical problems , including the mechanics of the cochlea and waves on hanging ropes .</context>
+    </instance>
+    <instance id="Wave-wave-18-893-1" docsrc="Wave">
+      <context>     { \displaystyle A }    is the maximum amplitude of the wave , maximum distance from the <head>highest</head> point of the disturbance in the medium ( the crest ) to the equilibrium point during one wave cycle . In the illustration to the right , this is the maximum vertical distance between the baseline and the wave .</context>
+    </instance>
+    <instance id="Wave-wave-19-12-1" docsrc="Wave">
+      <context> For example , in the case of air : vortices , radiation pressure , shock waves etc . ; <head>in</head> the case of solids : Rayleigh waves , dispersion ; and so on . Other properties , however , although usually described in terms of origin , may be generalized to all waves . For such reasons , wave theory represents a particular branch of physics that is concerned with the properties of wave processes independently of their physical origin .</context>
+    </instance>
+    <instance id="Wave-wave-2-10-1" docsrc="Wave">
+      <context> While mechanical <head>waves</head> can be both transverse and longitudinal , all electromagnetic waves are transverse in free space . The term wave is often intuitively understood as referring to a transport of spatial disturbances that are generally not accompanied by a motion of the medium occupying this space as a whole . In a wave , the energy of a vibration is moving away from the source in the form of a disturbance within the surrounding medium ( Hall 1980 , p. 8 ) .</context>
+    </instance>
+    <instance id="Wave-wave-2-1099-3" docsrc="Wave">
+      <context> For example <head>,</head> in an ocean wave approaching shore , the incoming wave undulates with a varying local wavelength that depends in part on the depth of the sea floor compared to the wave height . The analysis of the wave can be based upon comparison of the local wavelength with the local water depth . A standing wave , also known as a stationary wave , is a wave that remains in a constant position .</context>
+    </instance>
+    <instance id="Wave-wave-2-1128-1" docsrc="Wave">
+      <context> An isotropic <head>medium</head> if its physical properties are the same in all directions === Absorption === Absorption of waves mean , if a kind of wave strikes a matter , it will be absorbed by the matter .</context>
+    </instance>
+    <instance id="Wave-wave-2-1130-1" docsrc="Wave">
+      <context> === Absorption <head>===</head> Absorption of waves mean , if a kind of wave strikes a matter , it will be absorbed by the matter . When a wave with that same natural frequency impinges upon an atom , then the electrons of that atom will be set into vibrational motion .</context>
+    </instance>
+    <instance id="Wave-wave-2-1130-2" docsrc="Wave">
+      <context> Absorption of <head>waves</head> mean , if a kind of wave strikes a matter , it will be absorbed by the matter . When a wave with that same natural frequency impinges upon an atom , then the electrons of that atom will be set into vibrational motion . If a wave of a given frequency strikes a material with electrons having the same vibrational frequencies , then those electrons will absorb the energy of the wave and transform it into vibrational motion .</context>
+    </instance>
+    <instance id="Wave-wave-2-1133-1" docsrc="Wave">
+      <context> If a <head>wave</head> of a given frequency strikes a material with electrons having the same vibrational frequencies , then those electrons will absorb the energy of the wave and transform it into vibrational motion . === Reflection === When a wave strikes a reflective surface , it changes direction , such that the angle made by the incident wave and line normal to the surface equals the angle made by the reflected wave and the same normal line .</context>
+    </instance>
+    <instance id="Wave-wave-2-1155-3" docsrc="Wave">
+      <context> Transverse waves <head>can</head> be polarized , for instance . When polarization is used as a descriptor without qualification , it usually refers to the special , simple case of linear polarization . A transverse wave is linearly polarized if it oscillates in only one direction or plane .</context>
+    </instance>
+    <instance id="Wave-wave-2-1156-1" docsrc="Wave">
+      <context> Electromagnetic waves <head>propagating</head> in free space , for instance , are transverse ; they can be polarized by the use of a polarizing filter . Longitudinal waves , such as sound waves , do not exhibit polarization . For these waves there is only one direction of oscillation , that is , along the direction of travel .</context>
+    </instance>
+    <instance id="Wave-wave-2-1190-1" docsrc="Wave">
+      <context>   where <head>the</head> linear density μ is the mass per unit length of the string . === Acoustic waves ===</context>
+    </instance>
+    <instance id="Wave-wave-2-1220-1" docsrc="Wave">
+      <context>   or <head>the</head> square root of the adiabatic bulk modulus divided by the ambient fluid density ( see speed of sound ) . === Water waves ===</context>
+    </instance>
+    <instance id="Wave-wave-2-1225-1" docsrc="Wave">
+      <context> === Water <head>waves</head> === Ripples on the surface of a pond are actually a combination of transverse and longitudinal waves ; therefore , the points on the surface follow orbital paths . Sound—a mechanical wave that propagates through gases , liquids , solids and plasmas ;</context>
+    </instance>
+    <instance id="Wave-wave-2-1227-1" docsrc="Wave">
+      <context> Sound—a mechanical <head>wave</head> that propagates through gases , liquids , solids and plasmas ; Inertial waves , which occur in rotating fluids and are restored by the Coriolis effect ; Ocean surface waves , which are perturbations that propagate through water .</context>
+    </instance>
+    <instance id="Wave-wave-2-1228-1" docsrc="Wave">
+      <context> Inertial waves <head>,</head> which occur in rotating fluids and are restored by the Coriolis effect ; Ocean surface waves , which are perturbations that propagate through water . === Seismic waves ===</context>
+    </instance>
+    <instance id="Wave-wave-2-1231-1" docsrc="Wave">
+      <context> Ocean surface <head>waves</head> , which are perturbations that propagate through water . === Seismic waves === === Shock waves ===</context>
+    </instance>
+    <instance id="Wave-wave-2-1374-2" docsrc="Wave">
+      <context> However , <head>a</head> wave like this with definite wavelength is not localized in space , and so can not represent a particle localized in space . To localize a particle , de Broglie proposed a superposition of different wavelengths ranging around a central value in a wave packet , a waveform often used in quantum mechanics to describe the wave function of a particle . In a wave packet , the wavelength of the particle is not precise , and the local wavelength deviates on either side of the main wavelength value .</context>
+    </instance>
+    <instance id="Wave-wave-2-1593-2" docsrc="Wave">
+      <context> In a <head>nonuniform</head> medium , in which the wavenumber k can depend on the location as well as the frequency , the phase term kx is typically replaced by the integral of k(x)dx , according to the WKB method . Such nonuniform traveling waves are common in many physical problems , including the mechanics of the cochlea and waves on hanging ropes . Index of wave articles</context>
+    </instance>
+    <instance id="Wave-wave-2-1606-1" docsrc="Wave">
+      <context> ==== Parameters <head>====</head> ==== Waveforms ==== === Electromagnetic waves ===</context>
+    </instance>
+    <instance id="Wave-wave-2-1644-1" docsrc="Wave">
+      <context> Simulation of <head>transverse</head> traveling wave chapter from an online textbook Simulation of waves on a string</context>
+    </instance>
+    <instance id="Wave-wave-2-20-2" docsrc="Wave">
+      <context> Consider a <head>traveling</head> transverse wave ( which may be a pulse ) on a string ( the medium ) . Consider the string to have a single spatial dimension . Consider this wave as traveling</context>
+    </instance>
+    <instance id="Wave-wave-2-4-3" docsrc="Wave">
+      <context> Transverse waves <head>occur</head> when a disturbance creates oscillations that are perpendicular to the propagation of energy transfer . Longitudinal waves occur when the oscillations are parallel to the direction of energy propagation . While mechanical waves can be both transverse and longitudinal , all electromagnetic waves are transverse in free space .</context>
+    </instance>
+    <instance id="Wave-wave-2-4-4" docsrc="Wave">
+      <context> Longitudinal waves <head>occur</head> when the oscillations are parallel to the direction of energy propagation . While mechanical waves can be both transverse and longitudinal , all electromagnetic waves are transverse in free space . The term wave is often intuitively understood as referring to a transport of spatial disturbances that are generally not accompanied by a motion of the medium occupying this space as a whole .</context>
+    </instance>
+    <instance id="Wave-wave-2-939-1" docsrc="Wave">
+      <context>    is <head>the</head> phase constant . The units of the amplitude depend on the type of wave . Transverse mechanical waves ( e.g. , a wave on a string ) have an amplitude expressed as a distance ( e.g. , meters ) , longitudinal mechanical waves ( e.g. , sound waves ) use units of pressure ( e.g. , pascals ) , and electromagnetic waves ( a form of transverse vacuum wave ) express the amplitude in terms of its electric field ( e.g. , volts/meter ) .</context>
+    </instance>
+    <instance id="Wave-wave-20-1133-1" docsrc="Wave">
+      <context> If a wave of a given frequency strikes a material with electrons having the same vibrational frequencies , then those <head>electrons</head> will absorb the energy of the wave and transform it into vibrational motion . === Reflection === When a wave strikes a reflective surface , it changes direction , such that the angle made by the incident wave and line normal to the surface equals the angle made by the reflected wave and the same normal line .</context>
+    </instance>
+    <instance id="Wave-wave-20-1150-1" docsrc="Wave">
+      <context> === Diffraction === A wave exhibits diffraction when it encounters an obstacle that bends the wave or when it spreads <head>after</head> emerging from an opening . Diffraction effects are more pronounced when the size of the obstacle or opening is comparable to the wavelength of the wave .</context>
+    </instance>
+    <instance id="Wave-wave-20-1374-1" docsrc="Wave">
+      <context>   However , a wave like this with definite wavelength is not localized in space , and so can not <head>represent</head> a particle localized in space . To localize a particle , de Broglie proposed a superposition of different wavelengths ranging around a central value in a wave packet , a waveform often used in quantum mechanics to describe the wave function of a particle .</context>
+    </instance>
+    <instance id="Wave-wave-20-265-1" docsrc="Wave">
+      <context> − v(t + T ) ) = F(x − vt ) provided vT = λ , so an observation of <head>the</head> wave at a fixed location x finds the wave undulating periodically in time with period T = λ/v . === Amplitude and modulation === The amplitude of a wave may be constant ( in which case the wave is a c.w . or continuous wave ) , or may be modulated so as to vary with time and/or position .</context>
+    </instance>
+    <instance id="Wave-wave-21-10-4" docsrc="Wave">
+      <context> However , this motion is problematic for a standing wave ( for example , a wave on a string ) , <head>where</head> energy is moving in both directions equally , or for electromagnetic ( e.g. , light ) waves in a vacuum , where the concept of medium does not apply and interaction with a target is the key to wave detection and practical applications . There are water waves on the ocean surface ; gamma waves and light waves emitted by the Sun ; microwaves used in microwave ovens and in radar equipment ; radio waves broadcast by radio stations ; and sound waves generated by radio receivers , telephone handsets and living creatures ( as voices ) , to mention only a few wave phenomena . It may appear that the description of waves is closely related to their physical origin for each specific instance of a wave process .</context>
+    </instance>
+    <instance id="Wave-wave-21-11-1" docsrc="Wave">
+      <context> There are water waves on the ocean surface ; gamma waves and light waves emitted by the Sun ; microwaves used <head>in</head> microwave ovens and in radar equipment ; radio waves broadcast by radio stations ; and sound waves generated by radio receivers , telephone handsets and living creatures ( as voices ) , to mention only a few wave phenomena . It may appear that the description of waves is closely related to their physical origin for each specific instance of a wave process . For example , acoustics is distinguished from optics in that sound waves are related to a mechanical rather than an electromagnetic wave transfer caused by vibration .</context>
+    </instance>
+    <instance id="Wave-wave-21-262-2" docsrc="Wave">
+      <context> In the case of a periodic function F with period λ , that is , F(x + λ − vt ) <head>=</head> F(x − vt ) , the periodicity of F in space means that a snapshot of the wave at a given time t finds the wave varying periodically in space with period λ ( the wavelength of the wave ) . In a similar fashion , this periodicity of F implies a periodicity in time as well : F(x − v(t + T ) ) = F(x − vt ) provided vT = λ , so an observation of the wave at a fixed location x finds the wave undulating periodically in time with period T = λ/v .</context>
+    </instance>
+    <instance id="Wave-wave-24-11-2" docsrc="Wave">
+      <context> It may appear that the description of waves is closely related to their physical origin for each specific instance of a wave process . <head>For</head> example , acoustics is distinguished from optics in that sound waves are related to a mechanical rather than an electromagnetic wave transfer caused by vibration . Concepts such as mass , momentum , inertia , or elasticity , become therefore crucial in describing acoustic ( as distinct from optic ) wave processes .</context>
+    </instance>
+    <instance id="Wave-wave-25-1237-2" docsrc="Wave">
+      <context> === Other === Waves of traffic , that is , propagation of different densities of motor vehicles , and so forth , which can be <head>modeled</head> as kinematic waves</context>
+    </instance>
+    <instance id="Wave-wave-26-11-4" docsrc="Wave">
+      <context> Concepts such as mass , momentum , inertia , or elasticity , become therefore crucial in describing acoustic ( as distinct from optic ) wave processes <head>.</head> This difference in origin introduces certain wave characteristics particular to the properties of the medium involved . For example , in the case of air : vortices , radiation pressure , shock waves etc . ; in the case of solids : Rayleigh waves , dispersion ; and so on .</context>
+    </instance>
+    <instance id="Wave-wave-26-12-4" docsrc="Wave">
+      <context> For example , based on the mechanical origin of acoustic waves , a moving disturbance in space–time can exist if and only if the medium involved <head>is</head> neither infinitely stiff nor infinitely pliable . If all the parts making up a medium were rigidly bound , then they would all vibrate as one , with no delay in the transmission of the vibration and therefore no wave motion . On the other hand , if all the parts were independent , then there would not be any transmission of the vibration and again , no wave motion .</context>
+    </instance>
+    <instance id="Wave-wave-26-1374-3" docsrc="Wave">
+      <context> To localize a particle , de Broglie proposed a superposition of different wavelengths ranging around a central value in a wave packet , a waveform often <head>used</head> in quantum mechanics to describe the wave function of a particle . In a wave packet , the wavelength of the particle is not precise , and the local wavelength deviates on either side of the main wavelength value . In representing the wave function of a localized particle , the wave packet is often taken to have a Gaussian shape and is called a Gaussian wave packet .</context>
+    </instance>
+    <instance id="Wave-wave-27-1130-2" docsrc="Wave">
+      <context> Absorption of waves mean , if a kind of wave strikes a matter , it will be absorbed by the matter . When a wave with that <head>same</head> natural frequency impinges upon an atom , then the electrons of that atom will be set into vibrational motion . If a wave of a given frequency strikes a material with electrons having the same vibrational frequencies , then those electrons will absorb the energy of the wave and transform it into vibrational motion .</context>
+    </instance>
+    <instance id="Wave-wave-27-12-5" docsrc="Wave">
+      <context> If all the parts making up a medium were rigidly bound , then they would all vibrate as one , with no delay in the transmission of <head>the</head> vibration and therefore no wave motion . On the other hand , if all the parts were independent , then there would not be any transmission of the vibration and again , no wave motion . Although the above statements are meaningless in the case of waves that do not require a medium , they reveal a characteristic that is relevant to all waves regardless of origin : within a wave , the phase of a vibration ( that is , its position within the vibration cycle ) is different for adjacent points in space because the vibration reaches these points at different times .</context>
+    </instance>
+    <instance id="Wave-wave-27-566-1" docsrc="Wave">
+      <context>       where now A(k1 ) ( the integral is the inverse Fourier transform of A(k1 ) ) is a function exhibiting a sharp peak in a <head>region</head> of wave vectors Δk surrounding the point k1 = k.</context>
+    </instance>
+    <instance id="Wave-wave-27-939-1" docsrc="Wave">
+      <context>    is the phase constant . The units of the amplitude depend on the type of wave . Transverse mechanical waves ( e.g. , a wave on <head>a</head> string ) have an amplitude expressed as a distance ( e.g. , meters ) , longitudinal mechanical waves ( e.g. , sound waves ) use units of pressure ( e.g. , pascals ) , and electromagnetic waves ( a form of transverse vacuum wave ) express the amplitude in terms of its electric field ( e.g. , volts/meter ) .</context>
+    </instance>
+    <instance id="Wave-wave-29-262-2" docsrc="Wave">
+      <context> In the case of a periodic function F with period λ , that is , F(x + λ − vt ) = F(x − vt ) , the periodicity <head>of</head> F in space means that a snapshot of the wave at a given time t finds the wave varying periodically in space with period λ ( the wavelength of the wave ) . In a similar fashion , this periodicity of F implies a periodicity in time as well : F(x − v(t + T ) ) = F(x − vt ) provided vT = λ , so an observation of the wave at a fixed location x finds the wave undulating periodically in time with period T = λ/v .</context>
+    </instance>
+    <instance id="Wave-wave-3-10-3" docsrc="Wave">
+      <context> In a wave <head>,</head> the energy of a vibration is moving away from the source in the form of a disturbance within the surrounding medium ( Hall 1980 , p. 8 ) . However , this motion is problematic for a standing wave ( for example , a wave on a string ) , where energy is moving in both directions equally , or for electromagnetic ( e.g. , light ) waves in a vacuum , where the concept of medium does not apply and interaction with a target is the key to wave detection and practical applications . There are water waves on the ocean surface ; gamma waves and light waves emitted by the Sun ; microwaves used in microwave ovens and in radar equipment ; radio waves broadcast by radio stations ; and sound waves generated by radio receivers , telephone handsets and living creatures ( as voices ) , to mention only a few wave phenomena .</context>
+    </instance>
+    <instance id="Wave-wave-3-1097-1" docsrc="Wave">
+      <context>         { <head>\displaystyle</head> f }    is the wave 's frequency .</context>
+    </instance>
+    <instance id="Wave-wave-3-1193-1" docsrc="Wave">
+      <context> where the linear <head>density</head> μ is the mass per unit length of the string . === Acoustic waves === Acoustic or sound waves travel at speed given by</context>
+    </instance>
+    <instance id="Wave-wave-3-1273-4" docsrc="Wave">
+      <context> The wave equation <head>also</head> implied the existence of a new form of matter , antimatter , previously unsuspected and unobserved and which was experimentally confirmed . In the context of quantum field theory , the Dirac equation is reinterpreted to describe quantum fields corresponding to spin-½ particles . === de Broglie waves ===</context>
+    </instance>
+    <instance id="Wave-wave-3-1373-1" docsrc="Wave">
+      <context>     { \displaystyle <head>\mathbf</head> { p } =\hbar \mathbf { k } \ . }   However , a wave like this with definite wavelength is not localized in space , and so can not represent a particle localized in space .</context>
+    </instance>
+    <instance id="Wave-wave-3-1374-3" docsrc="Wave">
+      <context> To localize a <head>particle</head> , de Broglie proposed a superposition of different wavelengths ranging around a central value in a wave packet , a waveform often used in quantum mechanics to describe the wave function of a particle . In a wave packet , the wavelength of the particle is not precise , and the local wavelength deviates on either side of the main wavelength value . In representing the wave function of a localized particle , the wave packet is often taken to have a Gaussian shape and is called a Gaussian wave packet .</context>
+    </instance>
+    <instance id="Wave-wave-3-1578-1" docsrc="Wave">
+      <context>   that is <head>,</head> a number of waves of wavelengths λ such that kλ = 2 π. Gravity waves are waves generated in a fluid medium or at the interface between two media when the force of gravity or buoyancy tries to restore equilibrium .</context>
+    </instance>
+    <instance id="Wave-wave-3-1593-1" docsrc="Wave">
+      <context> Gravitational waves are <head>disturbances</head> in the curvature of spacetime , predicted by Einstein 's theory of general relativity . In a nonuniform medium , in which the wavenumber k can depend on the location as well as the frequency , the phase term kx is typically replaced by the integral of k(x)dx , according to the WKB method . Such nonuniform traveling waves are common in many physical problems , including the mechanics of the cochlea and waves on hanging ropes .</context>
+    </instance>
+    <instance id="Wave-wave-3-1634-1" docsrc="Wave">
+      <context> === Related topics <head>===</head> Interactive Visual Representation of Waves Linear and nonlinear waves</context>
+    </instance>
+    <instance id="Wave-wave-3-1640-1" docsrc="Wave">
+      <context> Simulation of interference <head>of</head> water waves Simulation of longitudinal traveling wave Simulation of stationary wave on a string</context>
+    </instance>
+    <instance id="Wave-wave-3-392-3" docsrc="Wave">
+      <context> To understand them <head>,</head> one must consider several types of waveform . For simplification , examination is restricted to one dimension . The most basic wave ( a form of plane wave ) may be expressed in the form :</context>
+    </instance>
+    <instance id="Wave-wave-30-10-3" docsrc="Wave">
+      <context> In a wave , the energy of a vibration is moving away from the source in the form of a disturbance within the surrounding medium ( Hall 1980 , p. <head>8</head> ) . However , this motion is problematic for a standing wave ( for example , a wave on a string ) , where energy is moving in both directions equally , or for electromagnetic ( e.g. , light ) waves in a vacuum , where the concept of medium does not apply and interaction with a target is the key to wave detection and practical applications . There are water waves on the ocean surface ; gamma waves and light waves emitted by the Sun ; microwaves used in microwave ovens and in radar equipment ; radio waves broadcast by radio stations ; and sound waves generated by radio receivers , telephone handsets and living creatures ( as voices ) , to mention only a few wave phenomena .</context>
+    </instance>
+    <instance id="Wave-wave-31-892-1" docsrc="Wave">
+      <context>         { \displaystyle A }    is the maximum amplitude of the wave , maximum distance from the highest point of the disturbance in the medium ( the crest ) <head>to</head> the equilibrium point during one wave cycle .</context>
+    </instance>
+    <instance id="Wave-wave-32-1109-1" docsrc="Wave">
+      <context> The analysis of the wave can be based upon comparison of the local wavelength with the local water depth . A standing wave , also known as a stationary wave , is <head>a</head> wave that remains in a constant position . This phenomenon can occur because the medium is moving in the opposite direction to the wave , or it can arise in a stationary medium as a result of interference between two waves traveling in opposite directions .</context>
+    </instance>
+    <instance id="Wave-wave-32-12-3" docsrc="Wave">
+      <context> For such reasons , wave theory represents a particular branch of physics that is concerned with the properties of wave processes independently of their physical origin . For example , based on <head>the</head> mechanical origin of acoustic waves , a moving disturbance in space–time can exist if and only if the medium involved is neither infinitely stiff nor infinitely pliable . If all the parts making up a medium were rigidly bound , then they would all vibrate as one , with no delay in the transmission of the vibration and therefore no wave motion .</context>
+    </instance>
+    <instance id="Wave-wave-32-939-1" docsrc="Wave">
+      <context>    is the phase constant . The units of the amplitude depend on the type of wave . Transverse mechanical waves ( e.g. , a wave on a string ) have an <head>amplitude</head> expressed as a distance ( e.g. , meters ) , longitudinal mechanical waves ( e.g. , sound waves ) use units of pressure ( e.g. , pascals ) , and electromagnetic waves ( a form of transverse vacuum wave ) express the amplitude in terms of its electric field ( e.g. , volts/meter ) .</context>
+    </instance>
+    <instance id="Wave-wave-33-1099-1" docsrc="Wave">
+      <context>    is the wave 's frequency . Wavelength can be a useful concept even if the wave is not periodic in space . For example , in an ocean wave approaching shore , <head>the</head> incoming wave undulates with a varying local wavelength that depends in part on the depth of the sea floor compared to the wave height .</context>
+    </instance>
+    <instance id="Wave-wave-33-1374-1" docsrc="Wave">
+      <context>   However , a wave like this with definite wavelength is not localized in space , and so can not represent a particle localized in space . To localize a particle , de <head>Broglie</head> proposed a superposition of different wavelengths ranging around a central value in a wave packet , a waveform often used in quantum mechanics to describe the wave function of a particle .</context>
+    </instance>
+    <instance id="Wave-wave-34-1133-1" docsrc="Wave">
+      <context> If a wave of a given frequency strikes a material with electrons having the same vibrational frequencies , then those electrons will absorb the energy of the wave and transform it into vibrational motion <head>.</head> === Reflection === When a wave strikes a reflective surface , it changes direction , such that the angle made by the incident wave and line normal to the surface equals the angle made by the reflected wave and the same normal line .</context>
+    </instance>
+    <instance id="Wave-wave-34-12-5" docsrc="Wave">
+      <context> If all the parts making up a medium were rigidly bound , then they would all vibrate as one , with no delay in the transmission of the vibration and therefore no wave motion <head>.</head> On the other hand , if all the parts were independent , then there would not be any transmission of the vibration and again , no wave motion . Although the above statements are meaningless in the case of waves that do not require a medium , they reveal a characteristic that is relevant to all waves regardless of origin : within a wave , the phase of a vibration ( that is , its position within the vibration cycle ) is different for adjacent points in space because the vibration reaches these points at different times .</context>
+    </instance>
+    <instance id="Wave-wave-37-1434-1" docsrc="Wave">
+      <context>   at some initial time t = 0 , where the central wavelength is related to the central wave vector k0 as λ0 = 2π / k0 . It is well known from the theory of Fourier <head>analysis</head> , or from the Heisenberg uncertainty principle ( in the case of quantum mechanics ) that a narrow range of wavelengths is necessary to produce a localized wave packet , and the more localized the envelope , the larger the spread in required wavelengths .</context>
+    </instance>
+    <instance id="Wave-wave-38-10-2" docsrc="Wave">
+      <context> The term wave is often intuitively understood as referring to a transport of spatial disturbances that are generally not accompanied by a motion of the medium occupying this space as a whole . In a wave , the <head>energy</head> of a vibration is moving away from the source in the form of a disturbance within the surrounding medium ( Hall 1980 , p. 8 ) . However , this motion is problematic for a standing wave ( for example , a wave on a string ) , where energy is moving in both directions equally , or for electromagnetic ( e.g. , light ) waves in a vacuum , where the concept of medium does not apply and interaction with a target is the key to wave detection and practical applications .</context>
+    </instance>
+    <instance id="Wave-wave-38-10-3" docsrc="Wave">
+      <context> In a wave , the energy of a vibration is moving away from the source in the form of a disturbance within the surrounding medium ( Hall 1980 , p. 8 ) . However , this motion is <head>problematic</head> for a standing wave ( for example , a wave on a string ) , where energy is moving in both directions equally , or for electromagnetic ( e.g. , light ) waves in a vacuum , where the concept of medium does not apply and interaction with a target is the key to wave detection and practical applications . There are water waves on the ocean surface ; gamma waves and light waves emitted by the Sun ; microwaves used in microwave ovens and in radar equipment ; radio waves broadcast by radio stations ; and sound waves generated by radio receivers , telephone handsets and living creatures ( as voices ) , to mention only a few wave phenomena .</context>
+    </instance>
+    <instance id="Wave-wave-39-259-1" docsrc="Wave">
+      <context> General solutions are based upon Duhamel 's principle . === Wave forms === In the case of a periodic function F with period λ , that is , F(x + λ − vt ) = F(x − vt ) <head>,</head> the periodicity of F in space means that a snapshot of the wave at a given time t finds the wave varying periodically in space with period λ ( the wavelength of the wave ) .</context>
+    </instance>
+    <instance id="Wave-wave-4-1-3" docsrc="Wave">
+      <context> Mechanical waves propagate through <head>a</head> medium , and the substance of this medium is deformed . The deformation reverses itself owing to restoring forces resulting from its deformation . For example , sound waves propagate via air molecules colliding with their neighbors .</context>
+    </instance>
+    <instance id="Wave-wave-4-1099-2" docsrc="Wave">
+      <context> Wavelength can be a <head>useful</head> concept even if the wave is not periodic in space . For example , in an ocean wave approaching shore , the incoming wave undulates with a varying local wavelength that depends in part on the depth of the sea floor compared to the wave height . The analysis of the wave can be based upon comparison of the local wavelength with the local water depth .</context>
+    </instance>
+    <instance id="Wave-wave-4-12-1" docsrc="Wave">
+      <context> For example , in <head>the</head> case of air : vortices , radiation pressure , shock waves etc . ; in the case of solids : Rayleigh waves , dispersion ; and so on . Other properties , however , although usually described in terms of origin , may be generalized to all waves . For such reasons , wave theory represents a particular branch of physics that is concerned with the properties of wave processes independently of their physical origin .</context>
+    </instance>
+    <instance id="Wave-wave-4-1624-1" docsrc="Wave">
+      <context> === Other specific types <head>of</head> waves === === Related topics === Interactive Visual Representation of Waves</context>
+    </instance>
+    <instance id="Wave-wave-4-1639-1" docsrc="Wave">
+      <context> Simulation of diffraction of <head>water</head> wave passing through a gap Simulation of interference of water waves Simulation of longitudinal traveling wave</context>
+    </instance>
+    <instance id="Wave-wave-4-1641-1" docsrc="Wave">
+      <context> Simulation of longitudinal traveling <head>wave</head> Simulation of stationary wave on a string Simulation of transverse traveling wave</context>
+    </instance>
+    <instance id="Wave-wave-4-18-1" docsrc="Wave">
+      <context> Although the above statements <head>are</head> meaningless in the case of waves that do not require a medium , they reveal a characteristic that is relevant to all waves regardless of origin : within a wave , the phase of a vibration ( that is , its position within the vibration cycle ) is different for adjacent points in space because the vibration reaches these points at different times . === Wave equation === Consider a traveling transverse wave ( which may be a pulse ) on a string ( the medium ) .</context>
+    </instance>
+    <instance id="Wave-wave-4-265-1" docsrc="Wave">
+      <context> − v(t + T <head>)</head> ) = F(x − vt ) provided vT = λ , so an observation of the wave at a fixed location x finds the wave undulating periodically in time with period T = λ/v . === Amplitude and modulation === The amplitude of a wave may be constant ( in which case the wave is a c.w . or continuous wave ) , or may be modulated so as to vary with time and/or position .</context>
+    </instance>
+    <instance id="Wave-wave-4-267-2" docsrc="Wave">
+      <context> The amplitude of a <head>wave</head> may be constant ( in which case the wave is a c.w . or continuous wave ) , or may be modulated so as to vary with time and/or position . The outline of the variation in amplitude is called the envelope of the wave . Mathematically , the modulated wave can be written in the form :</context>
+    </instance>
+    <instance id="Wave-wave-4-3-3" docsrc="Wave">
+      <context> The mathematical form of <head>this</head> equation varies depending on the type of wave . Further , the behavior of particles in quantum mechanics are described by waves . In addition , gravitational waves also travel through space , which are a result of a vibration or movement in gravitational fields .</context>
+    </instance>
+    <instance id="Wave-wave-4-499-1" docsrc="Wave">
+      <context>     { \displaystyle v_{p}={\frac <head>{</head> \omega }{k}}\ , }   . The other type of wave to be considered is one with localized structure described by an envelope , which may be expressed mathematically as , for example :</context>
+    </instance>
+    <instance id="Wave-wave-4-814-2" docsrc="Wave">
+      <context> The group velocity therefore <head>depends</head> upon the dispersion relation connecting ω and k. For example , in quantum mechanics the energy of a particle represented as a wave packet is E = ħω = ( ħk)2/(2m ) . Consequently , for that wave situation , the group velocity is</context>
+    </instance>
+    <instance id="Wave-wave-42-841-2" docsrc="Wave">
+      <context> showing that the velocity of a localized particle in quantum mechanics is its group velocity . Because the group velocity varies with k , the shape of the wave packet broadens with time , and the particle becomes less localized . In <head>other</head> words , the velocity of the constituent waves of the wave packet travel at a rate that varies with their wavelength , so some move faster than others , and they can not maintain the same interference pattern as the wave propagates .</context>
+    </instance>
+    <instance id="Wave-wave-46-939-1" docsrc="Wave">
+      <context>    is the phase constant . The units of the amplitude depend on the type of wave . Transverse mechanical waves ( e.g. , a wave on a string ) have an amplitude expressed as a distance ( e.g. , meters ) , longitudinal mechanical waves <head>(</head> e.g. , sound waves ) use units of pressure ( e.g. , pascals ) , and electromagnetic waves ( a form of transverse vacuum wave ) express the amplitude in terms of its electric field ( e.g. , volts/meter ) .</context>
+    </instance>
+    <instance id="Wave-wave-47-259-1" docsrc="Wave">
+      <context> General solutions are based upon Duhamel 's principle . === Wave forms === In the case of a periodic function F with period λ , that is , F(x + λ − vt ) = F(x − vt ) , the periodicity of F in space means <head>that</head> a snapshot of the wave at a given time t finds the wave varying periodically in space with period λ ( the wavelength of the wave ) .</context>
+    </instance>
+    <instance id="Wave-wave-5-1-6" docsrc="Wave">
+      <context> When air molecules collide , <head>they</head> also bounce away from each other ( a restoring force ) . This keeps the molecules from continuing to travel in the direction of the wave . Waves are described by a wave equation which sets out how the disturbance proceeds over time .</context>
+    </instance>
+    <instance id="Wave-wave-5-1140-1" docsrc="Wave">
+      <context> === Interference === Waves that <head>encounter</head> each other combine through superposition to create a new wave called an interference pattern . Important interference patterns occur for waves that are in phase .</context>
+    </instance>
+    <instance id="Wave-wave-5-1145-3" docsrc="Wave">
+      <context> Mathematically , this means that <head>the</head> size of the phase velocity changes . Typically , refraction occurs when a wave passes from one medium into another . The amount by which a wave is refracted by a material is given by the refractive index of the material .</context>
+    </instance>
+    <instance id="Wave-wave-5-1167-1" docsrc="Wave">
+      <context> Isaac Newton performed experiments with <head>light</head> and prisms , presenting his findings in the Opticks ( 1704 ) that white light consists of several colours and that these colours can not be decomposed any further . === Waves on strings === The speed of a transverse wave traveling along a vibrating string ( v ) is directly proportional to the square root of the tension of the string ( T ) over the linear mass density ( μ ) :</context>
+    </instance>
+    <instance id="Wave-wave-5-1588-1" docsrc="Wave">
+      <context> A ripple on a pond <head>is</head> one example . Gravitational waves also travel through space . The first observation of gravitational waves was announced on 11 February 2016 .</context>
+    </instance>
+    <instance id="Wave-wave-5-1618-2" docsrc="Wave">
+      <context> === In relativity === === <head>Other</head> specific types of waves ===</context>
+    </instance>
+    <instance id="Wave-wave-5-1637-1" docsrc="Wave">
+      <context> Science Aid : Wave properties—Concise <head>guide</head> aimed at teens Easy JavaScript Simulation Model of One Dimensional Wave Interference Simulation of diffraction of water wave passing through a gap</context>
+    </instance>
+    <instance id="Wave-wave-5-1638-1" docsrc="Wave">
+      <context> Easy JavaScript Simulation Model of <head>One</head> Dimensional Wave Interference Simulation of diffraction of water wave passing through a gap Simulation of interference of water waves</context>
+    </instance>
+    <instance id="Wave-wave-5-1645-1" docsrc="Wave">
+      <context> chapter from an online textbook <head>Simulation</head> of waves on a string of longitudinal and transverse mechanical wave</context>
+    </instance>
+    <instance id="Wave-wave-5-189-1" docsrc="Wave">
+      <context>     { \displaystyle G } <head>  </head> traveling through the medium in opposite directions . A generalized representation of this wave can be obtained as the partial differential equation</context>
+    </instance>
+    <instance id="Wave-wave-53-939-1" docsrc="Wave">
+      <context>    is the phase constant . The units of the amplitude depend on the type of wave . Transverse mechanical waves ( e.g. , a wave on a string ) have an amplitude expressed as a distance ( e.g. , meters ) , longitudinal mechanical waves ( e.g. , sound waves ) use <head>units</head> of pressure ( e.g. , pascals ) , and electromagnetic waves ( a form of transverse vacuum wave ) express the amplitude in terms of its electric field ( e.g. , volts/meter ) .</context>
+    </instance>
+    <instance id="Wave-wave-59-10-3" docsrc="Wave">
+      <context> In a wave , the energy of a vibration is moving away from the source in the form of a disturbance within the surrounding medium ( Hall 1980 , p. 8 ) . However , this motion is problematic for a standing wave ( for example , a wave on a string ) , where energy is moving in <head>both</head> directions equally , or for electromagnetic ( e.g. , light ) waves in a vacuum , where the concept of medium does not apply and interaction with a target is the key to wave detection and practical applications . There are water waves on the ocean surface ; gamma waves and light waves emitted by the Sun ; microwaves used in microwave ovens and in radar equipment ; radio waves broadcast by radio stations ; and sound waves generated by radio receivers , telephone handsets and living creatures ( as voices ) , to mention only a few wave phenomena .</context>
+    </instance>
+    <instance id="Wave-wave-6-0-4" docsrc="Wave">
+      <context> Wave motion transfers energy from one <head>point</head> to another , which displace particles of the transmission medium — that is , with little or no associated mass transport . Waves consist , instead , of oscillations or vibrations ( of a physical quantity ) , around almost fixed locations . There are two main types of waves .</context>
+    </instance>
+    <instance id="Wave-wave-6-1099-1" docsrc="Wave">
+      <context>    is the wave 's frequency <head>.</head> Wavelength can be a useful concept even if the wave is not periodic in space . For example , in an ocean wave approaching shore , the incoming wave undulates with a varying local wavelength that depends in part on the depth of the sea floor compared to the wave height .</context>
+    </instance>
+    <instance id="Wave-wave-6-11-3" docsrc="Wave">
+      <context> For example , acoustics is distinguished <head>from</head> optics in that sound waves are related to a mechanical rather than an electromagnetic wave transfer caused by vibration . Concepts such as mass , momentum , inertia , or elasticity , become therefore crucial in describing acoustic ( as distinct from optic ) wave processes . This difference in origin introduces certain wave characteristics particular to the properties of the medium involved .</context>
+    </instance>
+    <instance id="Wave-wave-6-1143-1" docsrc="Wave">
+      <context> Important interference patterns occur for waves <head>that</head> are in phase . === Refraction === Refraction is the phenomenon of a wave changing its speed .</context>
+    </instance>
+    <instance id="Wave-wave-6-1145-2" docsrc="Wave">
+      <context> Refraction is the phenomenon of a <head>wave</head> changing its speed . Mathematically , this means that the size of the phase velocity changes . Typically , refraction occurs when a wave passes from one medium into another .</context>
+    </instance>
+    <instance id="Wave-wave-6-1153-1" docsrc="Wave">
+      <context> Diffraction effects are more pronounced when <head>the</head> size of the obstacle or opening is comparable to the wavelength of the wave . === Polarization === The phenomenon of polarization arises when wave motion can occur simultaneously in two orthogonal directions .</context>
+    </instance>
+    <instance id="Wave-wave-6-1155-6" docsrc="Wave">
+      <context> In the case of linear polarization <head>.</head> it is often useful to add the relative orientation of that plane , perpendicular to the direction of travel , in which the oscillation occurs , such as " horizontal " for instance , if the plane of polarization is parallel to the ground . Electromagnetic waves propagating in free space , for instance , are transverse ; they can be polarized by the use of a polarizing filter . Longitudinal waves , such as sound waves , do not exhibit polarization .</context>
+    </instance>
+    <instance id="Wave-wave-6-1272-1" docsrc="Wave">
+      <context> === Schrödinger equation === === Dirac <head>equation</head> === The Dirac equation is a relativistic wave equation detailing electromagnetic interactions .</context>
+    </instance>
+    <instance id="Wave-wave-6-1577-1" docsrc="Wave">
+      <context> }\ { \tilde { f}}(k)e^{ikx}\ dk\ <head>;</head> }   that is , a number of waves of wavelengths λ such that kλ = 2 π.</context>
+    </instance>
+    <instance id="Wave-wave-6-1646-1" docsrc="Wave">
+      <context> Simulation of waves on a string <head>of</head> longitudinal and transverse mechanical wave MIT OpenCourseWare 8.03 : Vibrations and Waves Free , independent study course with video lectures , assignments , lecture notes and exams .</context>
+    </instance>
+    <instance id="Wave-wave-6-1647-1" docsrc="Wave">
+      <context> of longitudinal and transverse mechanical wave <head>MIT</head> OpenCourseWare 8.03 : Vibrations and Waves Free , independent study course with video lectures , assignments , lecture notes and exams .</context>
+    </instance>
+    <instance id="Wave-wave-60-259-1" docsrc="Wave">
+      <context> General solutions are based upon Duhamel 's principle . === Wave forms === In the case of a periodic function F with period λ , that is , F(x + λ − vt ) = F(x − vt ) , the periodicity of F in space means that a snapshot of the wave at a given time t finds the <head>wave</head> varying periodically in space with period λ ( the wavelength of the wave ) .</context>
+    </instance>
+    <instance id="Wave-wave-7-10-4" docsrc="Wave">
+      <context> However , this motion is problematic for <head>a</head> standing wave ( for example , a wave on a string ) , where energy is moving in both directions equally , or for electromagnetic ( e.g. , light ) waves in a vacuum , where the concept of medium does not apply and interaction with a target is the key to wave detection and practical applications . There are water waves on the ocean surface ; gamma waves and light waves emitted by the Sun ; microwaves used in microwave ovens and in radar equipment ; radio waves broadcast by radio stations ; and sound waves generated by radio receivers , telephone handsets and living creatures ( as voices ) , to mention only a few wave phenomena . It may appear that the description of waves is closely related to their physical origin for each specific instance of a wave process .</context>
+    </instance>
+    <instance id="Wave-wave-7-1332-1" docsrc="Wave">
+      <context> t=0)=A\ e^{i\mathbf { k\cdot r } }\ <head>,</head> }   where the wavelength is determined by the wave vector k as :</context>
+    </instance>
+    <instance id="Wave-wave-7-1636-1" docsrc="Wave">
+      <context> Linear and nonlinear waves Science Aid : <head>Wave</head> properties—Concise guide aimed at teens Easy JavaScript Simulation Model of One Dimensional Wave Interference</context>
+    </instance>
+    <instance id="Wave-wave-7-315-1" docsrc="Wave">
+      <context>         { \displaystyle A(x,\ t ) <head>}</head>    is the amplitude envelope of the wave ,</context>
+    </instance>
+    <instance id="Wave-wave-7-892-1" docsrc="Wave">
+      <context>         { \displaystyle A }    <head>is</head> the maximum amplitude of the wave , maximum distance from the highest point of the disturbance in the medium ( the crest ) to the equilibrium point during one wave cycle .</context>
+    </instance>
+    <instance id="Wave-wave-7-939-1" docsrc="Wave">
+      <context>    is the phase constant . The <head>units</head> of the amplitude depend on the type of wave . Transverse mechanical waves ( e.g. , a wave on a string ) have an amplitude expressed as a distance ( e.g. , meters ) , longitudinal mechanical waves ( e.g. , sound waves ) use units of pressure ( e.g. , pascals ) , and electromagnetic waves ( a form of transverse vacuum wave ) express the amplitude in terms of its electric field ( e.g. , volts/meter ) .</context>
+    </instance>
+    <instance id="Wave-wave-7-955-1" docsrc="Wave">
+      <context>         { \displaystyle k }   <head>,</head> the spatial frequency of the wave in radians per unit distance ( typically per meter ) , can be associated with the wavelength by the relation</context>
+    </instance>
+    <instance id="Wave-wave-8-1121-1" docsrc="Wave">
+      <context> Such media can be classified into one or <head>more</head> of the following categories : A bounded medium if it is finite in extent , otherwise an unbounded medium A linear medium if the amplitudes of different waves at any particular point in the medium can be added</context>
+    </instance>
+    <instance id="Wave-wave-8-390-1" docsrc="Wave">
+      <context> Otherwise , in cases where the group velocity <head>varies</head> with wavelength , the pulse shape changes in a manner often described using an envelope equation . === Phase velocity and group velocity === There are two velocities that are associated with waves , the phase velocity and the group velocity .</context>
+    </instance>
+    <instance id="Wave-wave-9-10-2" docsrc="Wave">
+      <context> The term wave is often intuitively understood as referring <head>to</head> a transport of spatial disturbances that are generally not accompanied by a motion of the medium occupying this space as a whole . In a wave , the energy of a vibration is moving away from the source in the form of a disturbance within the surrounding medium ( Hall 1980 , p. 8 ) . However , this motion is problematic for a standing wave ( for example , a wave on a string ) , where energy is moving in both directions equally , or for electromagnetic ( e.g. , light ) waves in a vacuum , where the concept of medium does not apply and interaction with a target is the key to wave detection and practical applications .</context>
+    </instance>
+    <instance id="Wave-wave-9-1098-1" docsrc="Wave">
+      <context>     { \displaystyle f }    is the wave <head>'s</head> frequency . Wavelength can be a useful concept even if the wave is not periodic in space .</context>
+    </instance>
+    <instance id="Wave-wave-9-1099-3" docsrc="Wave">
+      <context> For example , in an ocean wave approaching shore <head>,</head> the incoming wave undulates with a varying local wavelength that depends in part on the depth of the sea floor compared to the wave height . The analysis of the wave can be based upon comparison of the local wavelength with the local water depth . A standing wave , also known as a stationary wave , is a wave that remains in a constant position .</context>
+    </instance>
+    <instance id="Wave-wave-9-1128-1" docsrc="Wave">
+      <context> An isotropic medium if its physical properties are the <head>same</head> in all directions === Absorption === Absorption of waves mean , if a kind of wave strikes a matter , it will be absorbed by the matter .</context>
+    </instance>
+    <instance id="Wave-wave-9-1238-1" docsrc="Wave">
+      <context> Other === Waves of traffic , that is , <head>propagation</head> of different densities of motor vehicles , and so forth , which can be modeled as kinematic waves Metachronal wave refers to the appearance of a traveling wave produced by coordinated sequential actions .</context>
+    </instance>
+    <instance id="Wave-wave-9-1375-1" docsrc="Wave">
+      <context> In a wave packet , the wavelength of the <head>particle</head> is not precise , and the local wavelength deviates on either side of the main wavelength value . In representing the wave function of a localized particle , the wave packet is often taken to have a Gaussian shape and is called a Gaussian wave packet . Gaussian wave packets also are used to analyze water waves .</context>
+    </instance>
+    <instance id="Wave-wave-9-1519-1" docsrc="Wave">
+      <context>     { \displaystyle { \tilde { f}}(k)=\sigma e^{-\sigma ^{2}k^{2}/2}\ <head>.</head> }   The Gaussian in space therefore is made up of waves :</context>
+    </instance>
+    <instance id="Wave-wave-9-392-3" docsrc="Wave">
+      <context> To understand them , one must consider several types <head>of</head> waveform . For simplification , examination is restricted to one dimension . The most basic wave ( a form of plane wave ) may be expressed in the form :</context>
+    </instance>
+    <instance id="Wave-wave-9-841-2" docsrc="Wave">
+      <context> showing that the velocity of a localized particle in <head>quantum</head> mechanics is its group velocity . Because the group velocity varies with k , the shape of the wave packet broadens with time , and the particle becomes less localized . In other words , the velocity of the constituent waves of the wave packet travel at a rate that varies with their wavelength , so some move faster than others , and they can not maintain the same interference pattern as the wave propagates .</context>
+    </instance>
+    <instance id="Waves-wave-0-0-1" docsrc="Waves">
+      <context> <head>Waves</head> are oscillations acompanied by a transfer of energy that travel through space or mass . Waves may also refer to :</context>
+    </instance>
+    <instance id="Waves-wave-0-1-1" docsrc="Waves">
+      <context> <head>Waves</head> are oscillations acompanied by a transfer of energy that travel through space or mass . Waves may also refer to : Waves ( Charles Lloyd album )</context>
+    </instance>
+    <instance id="Waves-wave-0-10-1" docsrc="Waves">
+      <context> <head>Waves</head> ( Terje Rypdal album ) Waves ( Waves album ) Waves ( compilation album ) , released on the Crydamoure label</context>
+    </instance>
+    <instance id="Waves-wave-0-11-1" docsrc="Waves">
+      <context> <head>Waves</head> ( Waves album ) Waves ( compilation album ) , released on the Crydamoure label Waves II , compilation album released on the Crydamoure label</context>
+    </instance>
+    <instance id="Waves-wave-0-12-1" docsrc="Waves">
+      <context> <head>Waves</head> ( compilation album ) , released on the Crydamoure label Waves II , compilation album released on the Crydamoure label Waves : Radio 1 Sessions 90–94 , a compilation album by Ride</context>
+    </instance>
+    <instance id="Waves-wave-0-13-1" docsrc="Waves">
+      <context> <head>Waves</head> II , compilation album released on the Crydamoure label Waves : Radio 1 Sessions 90–94 , a compilation album by Ride Waves ( EP ) , by Mick Jenkins</context>
+    </instance>
+    <instance id="Waves-wave-0-14-1" docsrc="Waves">
+      <context> <head>Waves</head> : Radio 1 Sessions 90–94 , a compilation album by Ride Waves ( EP ) , by Mick Jenkins Waves ( Mono Band song )</context>
+    </instance>
+    <instance id="Waves-wave-0-15-1" docsrc="Waves">
+      <context> <head>Waves</head> ( EP ) , by Mick Jenkins Waves ( Mono Band song ) Waves ( Mr Probz song )</context>
+    </instance>
+    <instance id="Waves-wave-0-16-1" docsrc="Waves">
+      <context> <head>Waves</head> ( Mono Band song ) Waves ( Mr Probz song ) Waves ( band )</context>
+    </instance>
+    <instance id="Waves-wave-0-17-1" docsrc="Waves">
+      <context> <head>Waves</head> ( Mr Probz song ) Waves ( band ) WAVES , the Women Accepted for Volunteer Emergency Service</context>
+    </instance>
+    <instance id="Waves-wave-0-18-1" docsrc="Waves">
+      <context> <head>Waves</head> ( band ) WAVES , the Women Accepted for Volunteer Emergency Service Waves ( festival )</context>
+    </instance>
+    <instance id="Waves-wave-0-19-1" docsrc="Waves">
+      <context> <head>WAVES</head> , the Women Accepted for Volunteer Emergency Service Waves ( festival ) Waves ( hairstyle )</context>
+    </instance>
+    <instance id="Waves-wave-0-2-1" docsrc="Waves">
+      <context> <head>Waves</head> may also refer to : Waves ( Charles Lloyd album ) Waves ( Jade Warrior album )</context>
+    </instance>
+    <instance id="Waves-wave-0-20-1" docsrc="Waves">
+      <context> <head>Waves</head> ( festival ) Waves ( hairstyle ) Waves , North Carolina</context>
+    </instance>
+    <instance id="Waves-wave-0-21-1" docsrc="Waves">
+      <context> <head>Waves</head> ( hairstyle ) Waves , North Carolina Waves Audio</context>
+    </instance>
+    <instance id="Waves-wave-0-26-1" docsrc="Waves">
+      <context> <head>Waves</head> , North Carolina Waves Audio Waves FM</context>
+    </instance>
+    <instance id="Waves-wave-0-27-1" docsrc="Waves">
+      <context> <head>Waves</head> Audio Waves FM Waves ' 98</context>
+    </instance>
+    <instance id="Waves-wave-0-3-1" docsrc="Waves">
+      <context> <head>Waves</head> ( Charles Lloyd album ) Waves ( Jade Warrior album ) Waves , a working title for the Kanye West album The Life of Pablo</context>
+    </instance>
+    <instance id="Waves-wave-0-4-1" docsrc="Waves">
+      <context> <head>Waves</head> ( Jade Warrior album ) Waves , a working title for the Kanye West album The Life of Pablo Waves ( Katrina and the Waves album )</context>
+    </instance>
+    <instance id="Waves-wave-0-5-1" docsrc="Waves">
+      <context> <head>Waves</head> , a working title for the Kanye West album The Life of Pablo Waves ( Katrina and the Waves album ) Waves ( Moving Mountains album )</context>
+    </instance>
+    <instance id="Waves-wave-0-6-1" docsrc="Waves">
+      <context> <head>Waves</head> ( Katrina and the Waves album ) Waves ( Moving Mountains album ) Waves ( Rhydian Roberts album )</context>
+    </instance>
+    <instance id="Waves-wave-0-7-1" docsrc="Waves">
+      <context> <head>Waves</head> ( Moving Mountains album ) Waves ( Rhydian Roberts album ) Waves ( Sam Rivers album )</context>
+    </instance>
+    <instance id="Waves-wave-0-8-1" docsrc="Waves">
+      <context> <head>Waves</head> ( Rhydian Roberts album ) Waves ( Sam Rivers album ) Waves ( Terje Rypdal album )</context>
+    </instance>
+    <instance id="Waves-wave-0-9-1" docsrc="Waves">
+      <context> <head>Waves</head> ( Sam Rivers album ) Waves ( Terje Rypdal album ) Waves ( Waves album )</context>
+    </instance>
+    <instance id="Waves-wave-2-9-1" docsrc="Waves">
+      <context> Waves ( <head>Sam</head> Rivers album ) Waves ( Terje Rypdal album ) Waves ( Waves album )</context>
+    </instance>
+    <instance id="Waves-wave-5-4-1" docsrc="Waves">
+      <context> Waves ( Jade Warrior album <head>)</head> Waves , a working title for the Kanye West album The Life of Pablo Waves ( Katrina and the Waves album )</context>
+    </instance>
+    <instance id="Wind_wave-wave-0-152-2" docsrc="Wind_wave">
+      <context> <head>As</head> waves travel from deep to shallow water , their shape alters ( wave height increases , speed decreases , and length decreases as wave orbits become asymmetrical ) . This process is called shoaling . Wave refraction is the process by which wave crests realign themselves as a result of decreasing water depths .</context>
+    </instance>
+    <instance id="Wind_wave-wave-0-16-1" docsrc="Wind_wave">
+      <context> <head>Wave</head> height ( from high trough to crest ) Wave length ( from crest to crest ) Wave period ( time interval between arrival of consecutive crests at a stationary point )</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-145-1" docsrc="Wind_wave">
+      <context>     <head>{</head> \displaystyle C={\sqrt { gd}}=3.1{\sqrt { d } } }   As waves travel from deep to shallow water , their shape alters ( wave height increases , speed decreases , and length decreases as wave orbits become asymmetrical ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-154-2" docsrc="Wind_wave">
+      <context> Because <head>these</head> effects are related to a spatial variation in the phase speed , and because the phase speed also changes with the ambient current – due to the Doppler shift – the same effects of refraction and altering wave height also occur due to current variations . In the case of meeting an adverse current the wave steepens , i.e. its wave height increases while the wave length decreases , similar to the shoaling when the water depth decreases . Some waves undergo a phenomenon called " breaking " .</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-159-2" docsrc="Wind_wave">
+      <context> Some <head>waves</head> undergo a phenomenon called " breaking " . A breaking wave is one whose base can no longer support its top , causing it to collapse . A wave breaks when it runs into shallow water , or when two wave systems oppose and combine forces .</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-159-4" docsrc="Wind_wave">
+      <context> A <head>wave</head> breaks when it runs into shallow water , or when two wave systems oppose and combine forces . When the slope , or steepness ratio , of a wave is too great , breaking is inevitable . Individual waves in deep water break when the wave steepness—the ratio of the wave height H to the wavelength λ—exceeds about 0.07 , so for H &gt; 0.07 λ.</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-164-2" docsrc="Wind_wave">
+      <context> Surging <head>:</head> these may never actually break as they approach the water 's edge , as the water below them is very deep . They tend to form on steep shorelines . These waves can knock swimmers over and drag them back into deeper water .</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-164-3" docsrc="Wind_wave">
+      <context> They <head>tend</head> to form on steep shorelines . These waves can knock swimmers over and drag them back into deeper water . Wind waves are mechanical waves that propagate .</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-171-2" docsrc="Wind_wave">
+      <context> In <head>linear</head> plane waves of one wavelength in deep water , parcels near the surface move not plainly up and down but in circular orbits : forward above and backward below ( compared the wave propagation direction ) . As a result , the surface of the water forms not an exact sine wave , but more a trochoid with the sharper curves upwards—as modeled in trochoidal wave theory . When waves propagate in shallow water , ( where the depth is less than half the wavelength ) the particle trajectories are compressed into ellipses .</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-37-1" docsrc="Wind_wave">
+      <context> If <head>we</head> suppose a very flat sea surface ( Beaufort number , 0 ) , and sudden wind flow blows steadily across the sea surface , physical wave generation process will be like ; 1 . Turbulent wind flows form random pressure fluctuations at the sea surface . Small waves with a few centimeters order of wavelengths is generated by the pressure fluctuations .</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-45-1" docsrc="Wind_wave">
+      <context> The <head>28</head> ft long wave must be either in shallow water or between deep and shallow . ) ) Three different types of wind waves develop over time : Capillary waves , or ripples</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-50-2" docsrc="Wind_wave">
+      <context> Individual <head>"</head> rogue waves " ( also called " freak waves " , " monster waves " , " killer waves " , and " king waves " ) much higher than the other waves in the sea state can occur . In the case of the Draupner wave , its 25 m ( 82 ft ) height was 2.2 times the significant wave height . Such waves are distinct from tides , caused by the Moon and Sun 's gravitational pull , tsunamis that are caused by underwater earthquakes or landslides , and waves generated by underwater explosions or the fall of meteorites—all having far longer wavelengths than wind waves .</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-525-2" docsrc="Wind_wave">
+      <context> Surfers <head>are</head> very interested in the wave forecasts . There are many websites that provide predictions of the surf quality for the upcoming days and weeks . Wind wave models are driven by more general weather models that predict the winds and pressures over the oceans , seas and lakes .</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-525-3" docsrc="Wind_wave">
+      <context> There <head>are</head> many websites that provide predictions of the surf quality for the upcoming days and weeks . Wind wave models are driven by more general weather models that predict the winds and pressures over the oceans , seas and lakes . Wind wave models are also an important part of examining the impact of shore protection and beach nourishment proposals .</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-531-3" docsrc="Wind_wave">
+      <context> These <head>seismic</head> signals usually have the period of 6 ± 2 seconds . Such recordings were first reported and understood in about 1900 . Internal waves may mix nutrients into surface water and trigger plankton blooms .</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-566-1" docsrc="Wind_wave">
+      <context> Introductory <head>oceanography</head> chapter 10 – Ocean Waves HyperPhysics – Ocean Waves</context>
+    </instance>
+    <instance id="Wind_wave-wave-1-566-2" docsrc="Wind_wave">
+      <context> HyperPhysics <head>–</head> Ocean Waves</context>
+    </instance>
+    <instance id="Wind_wave-wave-10-159-3" docsrc="Wind_wave">
+      <context> A breaking wave is one whose base can no longer <head>support</head> its top , causing it to collapse . A wave breaks when it runs into shallow water , or when two wave systems oppose and combine forces . When the slope , or steepness ratio , of a wave is too great , breaking is inevitable .</context>
+    </instance>
+    <instance id="Wind_wave-wave-10-40-1" docsrc="Wind_wave">
+      <context> , 1973 ) and the interaction will transfer wave energy <head>from</head> the shorter waves generated by the Miles mechanism to the waves have slightly lower frequencies than the frequency at the peak wave magnitudes , then finally the waves will be faster than the cross wind speed ( Pierson &amp; Moskowitz ) . ( ( NOTE : Most of the wave speeds calculated from the wave length divided by the period are proportional to sqrt ( length ) . Thus , except for the shortest wave length , the waves follow the deep water theory described in the next section .</context>
+    </instance>
+    <instance id="Wind_wave-wave-10-48-1" docsrc="Wind_wave">
+      <context> Seas Swells Individual " rogue waves " ( also called <head>"</head> freak waves " , " monster waves " , " killer waves " , and " king waves " ) much higher than the other waves in the sea state can occur .</context>
+    </instance>
+    <instance id="Wind_wave-wave-10-51-1" docsrc="Wind_wave">
+      <context> Such waves are distinct from tides , caused by the <head>Moon</head> and Sun 's gravitational pull , tsunamis that are caused by underwater earthquakes or landslides , and waves generated by underwater explosions or the fall of meteorites—all having far longer wavelengths than wind waves . Yet , the largest ever recorded wind waves are common — not rogue — waves in extreme sea states . For example : 29.1 m ( 95 ft ) high waves have been recorded on the RRS Discovery in a sea with 18.5 m ( 61 ft ) significant wave height , so the highest wave is only 1.6 times the significant wave height .</context>
+    </instance>
+    <instance id="Wind_wave-wave-10-556-2" docsrc="Wind_wave">
+      <context> === Other === Carr , Michael ( October 1998 ) <head>.</head> " Understanding Waves " .</context>
+    </instance>
+    <instance id="Wind_wave-wave-11-437-2" docsrc="Wind_wave">
+      <context> When several wave trains are present , as is always the <head>case</head> in nature , the waves form groups . In deep water the groups travel at a group velocity which is half of the phase speed . Following a single wave in a group one can see the wave appearing at the back of the group , growing and finally disappearing at the front of the group .</context>
+    </instance>
+    <instance id="Wind_wave-wave-11-447-1" docsrc="Wind_wave">
+      <context> This causes surf , a breaking of the waves . The <head>movement</head> of wind waves can be captured by wave energy devices . The energy density ( per unit area ) of regular sinusoidal waves depends on the water density</context>
+    </instance>
+    <instance id="Wind_wave-wave-11-526-1" docsrc="Wind_wave">
+      <context> Wind wave models are driven by more general weather models that <head>predict</head> the winds and pressures over the oceans , seas and lakes . Wind wave models are also an important part of examining the impact of shore protection and beach nourishment proposals . For many beach areas there is only patchy information about the wave climate , therefore estimating the effect of wind waves is important for managing littoral environments .</context>
+    </instance>
+    <instance id="Wind_wave-wave-11-8-1" docsrc="Wind_wave">
+      <context> The key statistics of wind waves ( both seas and swells <head>)</head> in evolving sea states can be predicted with wind wave models . The great majority of large breakers seen on a beach result from distant winds . Five factors influence the formation of the flow structures in wind waves :</context>
+    </instance>
+    <instance id="Wind_wave-wave-12-13-1" docsrc="Wind_wave">
+      <context> Width of area affected by fetch Water depth All of these factors <head>work</head> together to determine the size of wind waves and the structures of the flows within :</context>
+    </instance>
+    <instance id="Wind_wave-wave-12-38-4" docsrc="Wind_wave">
+      <context> Then the shear instability expedites the wave growing exponentially . ( The <head>Miles</head> mechanism ) 3 . The interactions between the waves on the surface generate longer waves ( Hasselmann et al .</context>
+    </instance>
+    <instance id="Wind_wave-wave-12-39-2" docsrc="Wind_wave">
+      <context> 3 . The interactions between the waves on the surface generate longer <head>waves</head> ( Hasselmann et al . , 1973 ) and the interaction will transfer wave energy from the shorter waves generated by the Miles mechanism to the waves have slightly lower frequencies than the frequency at the peak wave magnitudes , then finally the waves will be faster than the cross wind speed ( Pierson &amp; Moskowitz ) . ( ( NOTE : Most of the wave speeds calculated from the wave length divided by the period are proportional to sqrt ( length ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-12-445-1" docsrc="Wind_wave">
+      <context>         { \displaystyle d }    decreases towards the coast , <head>this</head> will have an effect : wave height changes due to wave shoaling and refraction .</context>
+    </instance>
+    <instance id="Wind_wave-wave-13-145-1" docsrc="Wind_wave">
+      <context>     { \displaystyle C={\sqrt { gd}}=3.1{\sqrt { d } } }   As <head>waves</head> travel from deep to shallow water , their shape alters ( wave height increases , speed decreases , and length decreases as wave orbits become asymmetrical ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-13-159-2" docsrc="Wind_wave">
+      <context> Some waves undergo a phenomenon called " breaking " . A breaking wave <head>is</head> one whose base can no longer support its top , causing it to collapse . A wave breaks when it runs into shallow water , or when two wave systems oppose and combine forces .</context>
+    </instance>
+    <instance id="Wind_wave-wave-13-159-4" docsrc="Wind_wave">
+      <context> A wave breaks when it runs into shallow water , or when two <head>wave</head> systems oppose and combine forces . When the slope , or steepness ratio , of a wave is too great , breaking is inevitable . Individual waves in deep water break when the wave steepness—the ratio of the wave height H to the wavelength λ—exceeds about 0.07 , so for H &gt; 0.07 λ.</context>
+    </instance>
+    <instance id="Wind_wave-wave-13-39-1" docsrc="Wind_wave">
+      <context> ( The Miles mechanism ) 3 . The interactions between the waves on <head>the</head> surface generate longer waves ( Hasselmann et al . , 1973 ) and the interaction will transfer wave energy from the shorter waves generated by the Miles mechanism to the waves have slightly lower frequencies than the frequency at the peak wave magnitudes , then finally the waves will be faster than the cross wind speed ( Pierson &amp; Moskowitz ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-14-154-1" docsrc="Wind_wave">
+      <context> Therefore , the wave energy between rays is concentrated as they converge , with <head>a</head> resulting increase in wave height . Because these effects are related to a spatial variation in the phase speed , and because the phase speed also changes with the ambient current – due to the Doppler shift – the same effects of refraction and altering wave height also occur due to current variations . In the case of meeting an adverse current the wave steepens , i.e. its wave height increases while the wave length decreases , similar to the shoaling when the water depth decreases .</context>
+    </instance>
+    <instance id="Wind_wave-wave-14-171-1" docsrc="Wind_wave">
+      <context> The initial formation of waves by the wind is described in the theory of <head>Phillips</head> from 1957 , and the subsequent growth of the small waves has been modeled by Miles , also in 1957 . In linear plane waves of one wavelength in deep water , parcels near the surface move not plainly up and down but in circular orbits : forward above and backward below ( compared the wave propagation direction ) . As a result , the surface of the water forms not an exact sine wave , but more a trochoid with the sharper curves upwards—as modeled in trochoidal wave theory .</context>
+    </instance>
+    <instance id="Wind_wave-wave-14-31-1" docsrc="Wind_wave">
+      <context> There are random distribution of normal pressure to the water surface from the turbulent <head>wind</head> . Correlations between air and water motions are neglected . Generally these wave formation mechanisms occur together on the ocean surface and arise wind waves and grows up to the fully developed waves .</context>
+    </instance>
+    <instance id="Wind_wave-wave-14-38-1" docsrc="Wind_wave">
+      <context> ( The Phillips mechanism ) 2 . The cross wind keep acting on the <head>initially</head> fluctuated sea surface , then the wave become larger . As the wave become larger , the pressure differences get larger along to the wave growing , then the wave growth rate is getting faster .</context>
+    </instance>
+    <instance id="Wind_wave-wave-14-50-3" docsrc="Wind_wave">
+      <context> In the case of the Draupner wave , its 25 m ( 82 ft <head>)</head> height was 2.2 times the significant wave height . Such waves are distinct from tides , caused by the Moon and Sun 's gravitational pull , tsunamis that are caused by underwater earthquakes or landslides , and waves generated by underwater explosions or the fall of meteorites—all having far longer wavelengths than wind waves . Yet , the largest ever recorded wind waves are common — not rogue — waves in extreme sea states .</context>
+    </instance>
+    <instance id="Wind_wave-wave-15-48-1" docsrc="Wind_wave">
+      <context> Seas Swells Individual " rogue waves " ( also called " freak waves " , <head>"</head> monster waves " , " killer waves " , and " king waves " ) much higher than the other waves in the sea state can occur .</context>
+    </instance>
+    <instance id="Wind_wave-wave-16-160-1" docsrc="Wind_wave">
+      <context> When the slope , or steepness ratio , of a wave is too great , breaking <head>is</head> inevitable . Individual waves in deep water break when the wave steepness—the ratio of the wave height H to the wavelength λ—exceeds about 0.07 , so for H &gt; 0.07 λ. In shallow water , with the water depth small compared to the wavelength , the individual waves break when their wave height H is larger than 0.8 times the water depth h , that is H &gt; 0.8 h. Waves can also break if the wind grows strong enough to blow the crest off the base of the wave .</context>
+    </instance>
+    <instance id="Wind_wave-wave-16-37-3" docsrc="Wind_wave">
+      <context> Small waves with a few centimeters order of wavelengths is generated by the pressure fluctuations . <head>(</head> The Phillips mechanism ) 2 . The cross wind keep acting on the initially fluctuated sea surface , then the wave become larger .</context>
+    </instance>
+    <instance id="Wind_wave-wave-16-436-1" docsrc="Wind_wave">
+      <context>     { \displaystyle \rho }    = density of the water . When several wave trains <head>are</head> present , as is always the case in nature , the waves form groups .</context>
+    </instance>
+    <instance id="Wind_wave-wave-16-446-1" docsrc="Wind_wave">
+      <context>     { \displaystyle d }    decreases towards the coast , this will have an effect <head>:</head> wave height changes due to wave shoaling and refraction . As the wave height increases , the wave may become unstable when the crest of the wave moves faster than the trough .</context>
+    </instance>
+    <instance id="Wind_wave-wave-18-153-4" docsrc="Wind_wave">
+      <context> This process continues until the crests become ( nearly ) parallel to the depth contours . Rays—lines normal <head>to</head> wave crests between which a fixed amount of energy flux is contained—converge on local shallows and shoals . Therefore , the wave energy between rays is concentrated as they converge , with a resulting increase in wave height .</context>
+    </instance>
+    <instance id="Wind_wave-wave-19-154-1" docsrc="Wind_wave">
+      <context> Therefore , the wave energy between rays is concentrated as they converge , with a resulting increase in wave <head>height</head> . Because these effects are related to a spatial variation in the phase speed , and because the phase speed also changes with the ambient current – due to the Doppler shift – the same effects of refraction and altering wave height also occur due to current variations . In the case of meeting an adverse current the wave steepens , i.e. its wave height increases while the wave length decreases , similar to the shoaling when the water depth decreases .</context>
+    </instance>
+    <instance id="Wind_wave-wave-19-38-1" docsrc="Wind_wave">
+      <context> ( The Phillips mechanism ) 2 . The cross wind keep acting on the initially fluctuated sea surface , <head>then</head> the wave become larger . As the wave become larger , the pressure differences get larger along to the wave growing , then the wave growth rate is getting faster .</context>
+    </instance>
+    <instance id="Wind_wave-wave-2-159-1" docsrc="Wind_wave">
+      <context> In the <head>case</head> of meeting an adverse current the wave steepens , i.e. its wave height increases while the wave length decreases , similar to the shoaling when the water depth decreases . Some waves undergo a phenomenon called " breaking " . A breaking wave is one whose base can no longer support its top , causing it to collapse .</context>
+    </instance>
+    <instance id="Wind_wave-wave-2-31-1" docsrc="Wind_wave">
+      <context> There are <head>random</head> distribution of normal pressure to the water surface from the turbulent wind . Correlations between air and water motions are neglected . Generally these wave formation mechanisms occur together on the ocean surface and arise wind waves and grows up to the fully developed waves .</context>
+    </instance>
+    <instance id="Wind_wave-wave-2-38-1" docsrc="Wind_wave">
+      <context> ( The <head>Phillips</head> mechanism ) 2 . The cross wind keep acting on the initially fluctuated sea surface , then the wave become larger . As the wave become larger , the pressure differences get larger along to the wave growing , then the wave growth rate is getting faster .</context>
+    </instance>
+    <instance id="Wind_wave-wave-2-436-1" docsrc="Wind_wave">
+      <context>     { <head>\displaystyle</head> \rho }    = density of the water . When several wave trains are present , as is always the case in nature , the waves form groups .</context>
+    </instance>
+    <instance id="Wind_wave-wave-2-446-1" docsrc="Wind_wave">
+      <context>     { <head>\displaystyle</head> d }    decreases towards the coast , this will have an effect : wave height changes due to wave shoaling and refraction . As the wave height increases , the wave may become unstable when the crest of the wave moves faster than the trough .</context>
+    </instance>
+    <instance id="Wind_wave-wave-2-526-2" docsrc="Wind_wave">
+      <context> Wind wave <head>models</head> are also an important part of examining the impact of shore protection and beach nourishment proposals . For many beach areas there is only patchy information about the wave climate , therefore estimating the effect of wind waves is important for managing littoral environments . Ocean water waves generate land seismic waves that propagate hundreds of kilometers into the land .</context>
+    </instance>
+    <instance id="Wind_wave-wave-20-160-1" docsrc="Wind_wave">
+      <context> When the slope , or steepness ratio , of a wave is too great , breaking is inevitable . Individual <head>waves</head> in deep water break when the wave steepness—the ratio of the wave height H to the wavelength λ—exceeds about 0.07 , so for H &gt; 0.07 λ. In shallow water , with the water depth small compared to the wavelength , the individual waves break when their wave height H is larger than 0.8 times the water depth h , that is H &gt; 0.8 h. Waves can also break if the wind grows strong enough to blow the crest off the base of the wave .</context>
+    </instance>
+    <instance id="Wind_wave-wave-20-48-1" docsrc="Wind_wave">
+      <context> Seas Swells Individual " rogue waves " ( also called " freak waves " , " monster waves " , <head>"</head> killer waves " , and " king waves " ) much higher than the other waves in the sea state can occur .</context>
+    </instance>
+    <instance id="Wind_wave-wave-20-526-1" docsrc="Wind_wave">
+      <context> Wind wave models are driven by more general weather models that predict the winds and pressures over the oceans , <head>seas</head> and lakes . Wind wave models are also an important part of examining the impact of shore protection and beach nourishment proposals . For many beach areas there is only patchy information about the wave climate , therefore estimating the effect of wind waves is important for managing littoral environments .</context>
+    </instance>
+    <instance id="Wind_wave-wave-21-153-1" docsrc="Wind_wave">
+      <context> This process is called shoaling . Wave refraction is the process by which wave crests realign themselves as a result of <head>decreasing</head> water depths . Varying depths along a wave crest cause the crest to travel at different phase speeds , with those parts of the wave in deeper water moving faster than those in shallow water .</context>
+    </instance>
+    <instance id="Wind_wave-wave-21-2-2" docsrc="Wind_wave">
+      <context> Wind waves have a certain amount of randomness : subsequent waves differ in height , duration , and shape with limited <head>predictability</head> . They can be described as a stochastic process , in combination with the physics governing their generation , growth , propagation and decay—as well as governing the interdependence between flow quantities such as : the water surface movements , flow velocities and water pressure . The key statistics of wind waves ( both seas and swells ) in evolving sea states can be predicted with wind wave models .</context>
+    </instance>
+    <instance id="Wind_wave-wave-21-39-1" docsrc="Wind_wave">
+      <context> ( The Miles mechanism ) 3 . The interactions between the waves on the surface generate longer waves ( Hasselmann et <head>al</head> . , 1973 ) and the interaction will transfer wave energy from the shorter waves generated by the Miles mechanism to the waves have slightly lower frequencies than the frequency at the peak wave magnitudes , then finally the waves will be faster than the cross wind speed ( Pierson &amp; Moskowitz ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-21-50-1" docsrc="Wind_wave">
+      <context> Swells Individual " rogue waves " ( also called " freak waves " , " monster waves " , " killer <head>waves</head> " , and " king waves " ) much higher than the other waves in the sea state can occur . In the case of the Draupner wave , its 25 m ( 82 ft ) height was 2.2 times the significant wave height .</context>
+    </instance>
+    <instance id="Wind_wave-wave-22-31-1" docsrc="Wind_wave">
+      <context> There are random distribution of normal pressure to the water surface from the turbulent wind . Correlations between air and water motions <head>are</head> neglected . Generally these wave formation mechanisms occur together on the ocean surface and arise wind waves and grows up to the fully developed waves .</context>
+    </instance>
+    <instance id="Wind_wave-wave-24-145-1" docsrc="Wind_wave">
+      <context>     { \displaystyle C={\sqrt { gd}}=3.1{\sqrt { d } } }   As waves travel from deep to shallow water , their shape alters <head>(</head> wave height increases , speed decreases , and length decreases as wave orbits become asymmetrical ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-25-169-3" docsrc="Wind_wave">
+      <context> along the interface between water and air ; the restoring force is provided by gravity , and so they are often referred to as surface <head>gravity</head> waves . As the wind blows , pressure and friction perturb the equilibrium of the water surface and transfer energy from the air to the water , forming waves . The initial formation of waves by the wind is described in the theory of Phillips from 1957 , and the subsequent growth of the small waves has been modeled by Miles , also in 1957 .</context>
+    </instance>
+    <instance id="Wind_wave-wave-26-169-1" docsrc="Wind_wave">
+      <context> These waves can knock swimmers over and drag them back into deeper water . Wind waves are mechanical waves that propagate . along the interface between <head>water</head> and air ; the restoring force is provided by gravity , and so they are often referred to as surface gravity waves .</context>
+    </instance>
+    <instance id="Wind_wave-wave-26-169-2" docsrc="Wind_wave">
+      <context> Wind waves are mechanical waves that propagate . along the interface between water and air ; the restoring force is provided by gravity , and so <head>they</head> are often referred to as surface gravity waves . As the wind blows , pressure and friction perturb the equilibrium of the water surface and transfer energy from the air to the water , forming waves .</context>
+    </instance>
+    <instance id="Wind_wave-wave-26-48-1" docsrc="Wind_wave">
+      <context> Seas Swells Individual " rogue waves " ( also called " freak waves " , " monster waves " , " killer waves " , and <head>"</head> king waves " ) much higher than the other waves in the sea state can occur .</context>
+    </instance>
+    <instance id="Wind_wave-wave-27-35-1" docsrc="Wind_wave">
+      <context> Generally these wave formation mechanisms occur together on the ocean surface and arise wind waves and grows up to the fully developed waves . For example , <head>If</head> we suppose a very flat sea surface ( Beaufort number , 0 ) , and sudden wind flow blows steadily across the sea surface , physical wave generation process will be like ;</context>
+    </instance>
+    <instance id="Wind_wave-wave-28-171-1" docsrc="Wind_wave">
+      <context> The initial formation of waves by the wind is described in the theory of Phillips from 1957 , and the subsequent growth of the small waves has been <head>modeled</head> by Miles , also in 1957 . In linear plane waves of one wavelength in deep water , parcels near the surface move not plainly up and down but in circular orbits : forward above and backward below ( compared the wave propagation direction ) . As a result , the surface of the water forms not an exact sine wave , but more a trochoid with the sharper curves upwards—as modeled in trochoidal wave theory .</context>
+    </instance>
+    <instance id="Wind_wave-wave-28-50-2" docsrc="Wind_wave">
+      <context> Individual " rogue waves " ( also called " freak waves " , " monster waves " , " killer waves " , and " king waves " <head>)</head> much higher than the other waves in the sea state can occur . In the case of the Draupner wave , its 25 m ( 82 ft ) height was 2.2 times the significant wave height . Such waves are distinct from tides , caused by the Moon and Sun 's gravitational pull , tsunamis that are caused by underwater earthquakes or landslides , and waves generated by underwater explosions or the fall of meteorites—all having far longer wavelengths than wind waves .</context>
+    </instance>
+    <instance id="Wind_wave-wave-29-51-1" docsrc="Wind_wave">
+      <context> Such waves are distinct from tides , caused by the Moon and Sun 's gravitational pull , tsunamis that are caused by underwater earthquakes or landslides , and waves <head>generated</head> by underwater explosions or the fall of meteorites—all having far longer wavelengths than wind waves . Yet , the largest ever recorded wind waves are common — not rogue — waves in extreme sea states . For example : 29.1 m ( 95 ft ) high waves have been recorded on the RRS Discovery in a sea with 18.5 m ( 61 ft ) significant wave height , so the highest wave is only 1.6 times the significant wave height .</context>
+    </instance>
+    <instance id="Wind_wave-wave-3-153-4" docsrc="Wind_wave">
+      <context> This process continues <head>until</head> the crests become ( nearly ) parallel to the depth contours . Rays—lines normal to wave crests between which a fixed amount of energy flux is contained—converge on local shallows and shoals . Therefore , the wave energy between rays is concentrated as they converge , with a resulting increase in wave height .</context>
+    </instance>
+    <instance id="Wind_wave-wave-3-169-4" docsrc="Wind_wave">
+      <context> As the wind <head>blows</head> , pressure and friction perturb the equilibrium of the water surface and transfer energy from the air to the water , forming waves . The initial formation of waves by the wind is described in the theory of Phillips from 1957 , and the subsequent growth of the small waves has been modeled by Miles , also in 1957 . In linear plane waves of one wavelength in deep water , parcels near the surface move not plainly up and down but in circular orbits : forward above and backward below ( compared the wave propagation direction ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-3-437-2" docsrc="Wind_wave">
+      <context> When several wave <head>trains</head> are present , as is always the case in nature , the waves form groups . In deep water the groups travel at a group velocity which is half of the phase speed . Following a single wave in a group one can see the wave appearing at the back of the group , growing and finally disappearing at the front of the group .</context>
+    </instance>
+    <instance id="Wind_wave-wave-3-462-1" docsrc="Wind_wave">
+      <context>         { <head>\displaystyle</head> g }    and the wave height</context>
+    </instance>
+    <instance id="Wind_wave-wave-3-48-1" docsrc="Wind_wave">
+      <context> Seas Swells Individual <head>"</head> rogue waves " ( also called " freak waves " , " monster waves " , " killer waves " , and " king waves " ) much higher than the other waves in the sea state can occur .</context>
+    </instance>
+    <instance id="Wind_wave-wave-31-18-1" docsrc="Wind_wave">
+      <context> Wave period ( time interval between arrival of consecutive crests at a stationary point ) Wave propagation direction However , if one set a flat water surface ( Beaufort Point,0 ) <head>and</head> abrupt cross wind flows on the surface of the water , then the generation of surface wind waves can be explained by following two mechanisms which initiated by normal pressure fluctuations of turbulent winds and parallel wind shear flows .</context>
+    </instance>
+    <instance id="Wind_wave-wave-32-39-1" docsrc="Wind_wave">
+      <context> ( The Miles mechanism ) 3 . The interactions between the waves on the surface generate longer waves ( Hasselmann et al . , 1973 ) and the interaction will transfer wave <head>energy</head> from the shorter waves generated by the Miles mechanism to the waves have slightly lower frequencies than the frequency at the peak wave magnitudes , then finally the waves will be faster than the cross wind speed ( Pierson &amp; Moskowitz ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-34-169-4" docsrc="Wind_wave">
+      <context> As the wind blows , pressure and friction perturb the equilibrium of the water surface and transfer energy from the air to the water , forming waves . The initial formation of waves by <head>the</head> wind is described in the theory of Phillips from 1957 , and the subsequent growth of the small waves has been modeled by Miles , also in 1957 . In linear plane waves of one wavelength in deep water , parcels near the surface move not plainly up and down but in circular orbits : forward above and backward below ( compared the wave propagation direction ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-34-48-1" docsrc="Wind_wave">
+      <context> Seas Swells Individual " rogue waves " ( also called " freak waves " , " monster waves " , " killer waves " , and " king waves " ) much higher than <head>the</head> other waves in the sea state can occur .</context>
+    </instance>
+    <instance id="Wind_wave-wave-35-51-1" docsrc="Wind_wave">
+      <context> Such waves are distinct from tides , caused by the Moon and Sun 's gravitational pull , tsunamis that are caused by underwater earthquakes or landslides , and waves generated by underwater explosions or the <head>fall</head> of meteorites—all having far longer wavelengths than wind waves . Yet , the largest ever recorded wind waves are common — not rogue — waves in extreme sea states . For example : 29.1 m ( 95 ft ) high waves have been recorded on the RRS Discovery in a sea with 18.5 m ( 61 ft ) significant wave height , so the highest wave is only 1.6 times the significant wave height .</context>
+    </instance>
+    <instance id="Wind_wave-wave-38-39-1" docsrc="Wind_wave">
+      <context> ( The Miles mechanism ) 3 . The interactions between the waves on the surface generate longer waves ( Hasselmann et al . , 1973 ) and the interaction will transfer wave energy from the shorter waves generated <head>by</head> the Miles mechanism to the waves have slightly lower frequencies than the frequency at the peak wave magnitudes , then finally the waves will be faster than the cross wind speed ( Pierson &amp; Moskowitz ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-39-153-5" docsrc="Wind_wave">
+      <context> Rays—lines normal to wave crests between which a fixed amount of energy flux is contained—converge on local shallows and shoals . Therefore , the wave energy between rays is concentrated as they converge , with a resulting increase in <head>wave</head> height . Because these effects are related to a spatial variation in the phase speed , and because the phase speed also changes with the ambient current – due to the Doppler shift – the same effects of refraction and altering wave height also occur due to current variations .</context>
+    </instance>
+    <instance id="Wind_wave-wave-39-160-1" docsrc="Wind_wave">
+      <context> When the slope , or steepness ratio , of a wave is too great , breaking is inevitable . Individual waves in deep water break when the wave steepness—the ratio of the wave height H to the wavelength λ—exceeds <head>about</head> 0.07 , so for H &gt; 0.07 λ. In shallow water , with the water depth small compared to the wavelength , the individual waves break when their wave height H is larger than 0.8 times the water depth h , that is H &gt; 0.8 h. Waves can also break if the wind grows strong enough to blow the crest off the base of the wave .</context>
+    </instance>
+    <instance id="Wind_wave-wave-4-153-1" docsrc="Wind_wave">
+      <context> This process is called <head>shoaling</head> . Wave refraction is the process by which wave crests realign themselves as a result of decreasing water depths . Varying depths along a wave crest cause the crest to travel at different phase speeds , with those parts of the wave in deeper water moving faster than those in shallow water .</context>
+    </instance>
+    <instance id="Wind_wave-wave-4-163-1" docsrc="Wind_wave">
+      <context> They are the most <head>common</head> type of shorebreak Plunging , or dumping : these break suddenly and can " dump " swimmers—pushing them to the bottom with great force . These are the preferred waves for experienced surfers .</context>
+    </instance>
+    <instance id="Wind_wave-wave-4-164-3" docsrc="Wind_wave">
+      <context> They tend to form <head>on</head> steep shorelines . These waves can knock swimmers over and drag them back into deeper water . Wind waves are mechanical waves that propagate .</context>
+    </instance>
+    <instance id="Wind_wave-wave-4-169-3" docsrc="Wind_wave">
+      <context> along the interface between <head>water</head> and air ; the restoring force is provided by gravity , and so they are often referred to as surface gravity waves . As the wind blows , pressure and friction perturb the equilibrium of the water surface and transfer energy from the air to the water , forming waves . The initial formation of waves by the wind is described in the theory of Phillips from 1957 , and the subsequent growth of the small waves has been modeled by Miles , also in 1957 .</context>
+    </instance>
+    <instance id="Wind_wave-wave-4-40-2" docsrc="Wind_wave">
+      <context> ( ( NOTE : <head>Most</head> of the wave speeds calculated from the wave length divided by the period are proportional to sqrt ( length ) . Thus , except for the shortest wave length , the waves follow the deep water theory described in the next section . The 28 ft long wave must be either in shallow water or between deep and shallow . ) )</context>
+    </instance>
+    <instance id="Wind_wave-wave-4-446-3" docsrc="Wind_wave">
+      <context> As the wave height <head>increases</head> , the wave may become unstable when the crest of the wave moves faster than the trough . This causes surf , a breaking of the waves . The movement of wind waves can be captured by wave energy devices .</context>
+    </instance>
+    <instance id="Wind_wave-wave-4-558-2" docsrc="Wind_wave">
+      <context> Carr , Michael ( <head>October</head> 1998 ) . " Understanding Waves " . Sail : 38–45 . " Anatomy of a Wave " Holben , Jay boatsafe.com captured 5/23/06</context>
+    </instance>
+    <instance id="Wind_wave-wave-42-51-1" docsrc="Wind_wave">
+      <context> Such waves are distinct from tides , caused by the Moon and Sun 's gravitational pull , tsunamis that are caused by underwater earthquakes or landslides , and waves generated by underwater explosions or the fall of meteorites—all having far longer wavelengths <head>than</head> wind waves . Yet , the largest ever recorded wind waves are common — not rogue — waves in extreme sea states . For example : 29.1 m ( 95 ft ) high waves have been recorded on the RRS Discovery in a sea with 18.5 m ( 61 ft ) significant wave height , so the highest wave is only 1.6 times the significant wave height .</context>
+    </instance>
+    <instance id="Wind_wave-wave-44-50-2" docsrc="Wind_wave">
+      <context> Individual " rogue waves " ( also called " freak waves " , " monster waves " , " killer waves " , and " king waves " ) much higher than the other waves in the sea state can occur . In the <head>case</head> of the Draupner wave , its 25 m ( 82 ft ) height was 2.2 times the significant wave height . Such waves are distinct from tides , caused by the Moon and Sun 's gravitational pull , tsunamis that are caused by underwater earthquakes or landslides , and waves generated by underwater explosions or the fall of meteorites—all having far longer wavelengths than wind waves .</context>
+    </instance>
+    <instance id="Wind_wave-wave-5-160-2" docsrc="Wind_wave">
+      <context> Individual waves in deep water <head>break</head> when the wave steepness—the ratio of the wave height H to the wavelength λ—exceeds about 0.07 , so for H &gt; 0.07 λ. In shallow water , with the water depth small compared to the wavelength , the individual waves break when their wave height H is larger than 0.8 times the water depth h , that is H &gt; 0.8 h. Waves can also break if the wind grows strong enough to blow the crest off the base of the wave . Three main types of breaking waves are identified by surfers or surf lifesavers .</context>
+    </instance>
+    <instance id="Wind_wave-wave-5-163-2" docsrc="Wind_wave">
+      <context> Plunging , or dumping : <head>these</head> break suddenly and can " dump " swimmers—pushing them to the bottom with great force . These are the preferred waves for experienced surfers . Strong offshore winds and long wave periods can cause dumpers .</context>
+    </instance>
+    <instance id="Wind_wave-wave-5-2-2" docsrc="Wind_wave">
+      <context> Wind waves have a certain <head>amount</head> of randomness : subsequent waves differ in height , duration , and shape with limited predictability . They can be described as a stochastic process , in combination with the physics governing their generation , growth , propagation and decay—as well as governing the interdependence between flow quantities such as : the water surface movements , flow velocities and water pressure . The key statistics of wind waves ( both seas and swells ) in evolving sea states can be predicted with wind wave models .</context>
+    </instance>
+    <instance id="Wind_wave-wave-5-24-1" docsrc="Wind_wave">
+      <context> However , if one set <head>a</head> flat water surface ( Beaufort Point,0 ) and abrupt cross wind flows on the surface of the water , then the generation of surface wind waves can be explained by following two mechanisms which initiated by normal pressure fluctuations of turbulent winds and parallel wind shear flows . • The mechanism of the surface wave generation by winds</context>
+    </instance>
+    <instance id="Wind_wave-wave-5-40-3" docsrc="Wind_wave">
+      <context> Thus , except for the <head>shortest</head> wave length , the waves follow the deep water theory described in the next section . The 28 ft long wave must be either in shallow water or between deep and shallow . ) ) Three different types of wind waves develop over time :</context>
+    </instance>
+    <instance id="Wind_wave-wave-58-160-1" docsrc="Wind_wave">
+      <context> When the slope , or steepness ratio , of a wave is too great , breaking is inevitable . Individual waves in deep water break when the wave steepness—the ratio of the wave height H to the wavelength λ—exceeds about 0.07 , so for H &gt; 0.07 λ. In shallow water , with the water depth small compared <head>to</head> the wavelength , the individual waves break when their wave height H is larger than 0.8 times the water depth h , that is H &gt; 0.8 h. Waves can also break if the wind grows strong enough to blow the crest off the base of the wave .</context>
+    </instance>
+    <instance id="Wind_wave-wave-6-38-2" docsrc="Wind_wave">
+      <context> 2 . The cross wind keep <head>acting</head> on the initially fluctuated sea surface , then the wave become larger . As the wave become larger , the pressure differences get larger along to the wave growing , then the wave growth rate is getting faster . Then the shear instability expedites the wave growing exponentially .</context>
+    </instance>
+    <instance id="Wind_wave-wave-6-38-4" docsrc="Wind_wave">
+      <context> Then the shear instability expedites the <head>wave</head> growing exponentially . ( The Miles mechanism ) 3 . The interactions between the waves on the surface generate longer waves ( Hasselmann et al .</context>
+    </instance>
+    <instance id="Wind_wave-wave-6-40-1" docsrc="Wind_wave">
+      <context> , 1973 ) and the interaction <head>will</head> transfer wave energy from the shorter waves generated by the Miles mechanism to the waves have slightly lower frequencies than the frequency at the peak wave magnitudes , then finally the waves will be faster than the cross wind speed ( Pierson &amp; Moskowitz ) . ( ( NOTE : Most of the wave speeds calculated from the wave length divided by the period are proportional to sqrt ( length ) . Thus , except for the shortest wave length , the waves follow the deep water theory described in the next section .</context>
+    </instance>
+    <instance id="Wind_wave-wave-6-470-1" docsrc="Wind_wave">
+      <context>         { \displaystyle H } <head>  </head> ( which , for regular waves , is equal to twice the amplitude ,</context>
+    </instance>
+    <instance id="Wind_wave-wave-6-50-1" docsrc="Wind_wave">
+      <context> Swells Individual " rogue waves " <head>(</head> also called " freak waves " , " monster waves " , " killer waves " , and " king waves " ) much higher than the other waves in the sea state can occur . In the case of the Draupner wave , its 25 m ( 82 ft ) height was 2.2 times the significant wave height .</context>
+    </instance>
+    <instance id="Wind_wave-wave-6-520-1" docsrc="Wind_wave">
+      <context>   The velocity of propagation of <head>this</head> energy is the group velocity . Surfers are very interested in the wave forecasts .</context>
+    </instance>
+    <instance id="Wind_wave-wave-6-526-2" docsrc="Wind_wave">
+      <context> Wind wave models are also an <head>important</head> part of examining the impact of shore protection and beach nourishment proposals . For many beach areas there is only patchy information about the wave climate , therefore estimating the effect of wind waves is important for managing littoral environments . Ocean water waves generate land seismic waves that propagate hundreds of kilometers into the land .</context>
+    </instance>
+    <instance id="Wind_wave-wave-6-564-1" docsrc="Wind_wave">
+      <context> NOAA National Weather Service ESA press <head>release</head> on swell tracking with ASAR onboard ENVISAT Introductory oceanography chapter 10 – Ocean Waves</context>
+    </instance>
+    <instance id="Wind_wave-wave-7-152-2" docsrc="Wind_wave">
+      <context> As waves travel from deep to shallow <head>water</head> , their shape alters ( wave height increases , speed decreases , and length decreases as wave orbits become asymmetrical ) . This process is called shoaling . Wave refraction is the process by which wave crests realign themselves as a result of decreasing water depths .</context>
+    </instance>
+    <instance id="Wind_wave-wave-7-39-2" docsrc="Wind_wave">
+      <context> 3 . The interactions between the waves <head>on</head> the surface generate longer waves ( Hasselmann et al . , 1973 ) and the interaction will transfer wave energy from the shorter waves generated by the Miles mechanism to the waves have slightly lower frequencies than the frequency at the peak wave magnitudes , then finally the waves will be faster than the cross wind speed ( Pierson &amp; Moskowitz ) . ( ( NOTE : Most of the wave speeds calculated from the wave length divided by the period are proportional to sqrt ( length ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-7-446-1" docsrc="Wind_wave">
+      <context>     { \displaystyle d }    decreases <head>towards</head> the coast , this will have an effect : wave height changes due to wave shoaling and refraction . As the wave height increases , the wave may become unstable when the crest of the wave moves faster than the trough .</context>
+    </instance>
+    <instance id="Wind_wave-wave-7-50-3" docsrc="Wind_wave">
+      <context> In the case of the Draupner wave <head>,</head> its 25 m ( 82 ft ) height was 2.2 times the significant wave height . Such waves are distinct from tides , caused by the Moon and Sun 's gravitational pull , tsunamis that are caused by underwater earthquakes or landslides , and waves generated by underwater explosions or the fall of meteorites—all having far longer wavelengths than wind waves . Yet , the largest ever recorded wind waves are common — not rogue — waves in extreme sea states .</context>
+    </instance>
+    <instance id="Wind_wave-wave-8-159-4" docsrc="Wind_wave">
+      <context> A wave breaks when it runs into shallow <head>water</head> , or when two wave systems oppose and combine forces . When the slope , or steepness ratio , of a wave is too great , breaking is inevitable . Individual waves in deep water break when the wave steepness—the ratio of the wave height H to the wavelength λ—exceeds about 0.07 , so for H &gt; 0.07 λ.</context>
+    </instance>
+    <instance id="Wind_wave-wave-8-172-1" docsrc="Wind_wave">
+      <context> As a result , the surface of the <head>water</head> forms not an exact sine wave , but more a trochoid with the sharper curves upwards—as modeled in trochoidal wave theory . When waves propagate in shallow water , ( where the depth is less than half the wavelength ) the particle trajectories are compressed into ellipses . In reality , for finite values of the wave amplitude ( height ) , the particle paths do not form closed orbits ; rather , after the passage of each crest , particles are displaced slightly from their previous positions , a phenomenon known as Stokes drift .</context>
+    </instance>
+    <instance id="Wind_wave-wave-8-39-1" docsrc="Wind_wave">
+      <context> ( The Miles mechanism ) 3 . The <head>interactions</head> between the waves on the surface generate longer waves ( Hasselmann et al . , 1973 ) and the interaction will transfer wave energy from the shorter waves generated by the Miles mechanism to the waves have slightly lower frequencies than the frequency at the peak wave magnitudes , then finally the waves will be faster than the cross wind speed ( Pierson &amp; Moskowitz ) .</context>
+    </instance>
+    <instance id="Wind_wave-wave-8-446-2" docsrc="Wind_wave">
+      <context>    decreases towards the coast , this will <head>have</head> an effect : wave height changes due to wave shoaling and refraction . As the wave height increases , the wave may become unstable when the crest of the wave moves faster than the trough . This causes surf , a breaking of the waves .</context>
+    </instance>
+    <instance id="Wind_wave-wave-9-154-1" docsrc="Wind_wave">
+      <context> Therefore , the wave energy between rays is concentrated <head>as</head> they converge , with a resulting increase in wave height . Because these effects are related to a spatial variation in the phase speed , and because the phase speed also changes with the ambient current – due to the Doppler shift – the same effects of refraction and altering wave height also occur due to current variations . In the case of meeting an adverse current the wave steepens , i.e. its wave height increases while the wave length decreases , similar to the shoaling when the water depth decreases .</context>
+    </instance>
+    <instance id="Wind_wave-wave-9-161-2" docsrc="Wind_wave">
+      <context> Three main types of breaking waves are identified by <head>surfers</head> or surf lifesavers . Their varying characteristics make them more or less suitable for surfing , and present different dangers . Spilling , or rolling : these are the safest waves on which to surf .</context>
+    </instance>
+    <instance id="Wind_wave-wave-9-446-3" docsrc="Wind_wave">
+      <context> As the wave height increases , the wave may <head>become</head> unstable when the crest of the wave moves faster than the trough . This causes surf , a breaking of the waves . The movement of wind waves can be captured by wave energy devices .</context>
+    </instance>
+    <instance id="br-e21#w1050_0" docsrc="br-e21">
+      <context> If the site is on a reservoir , the level of the water at various seasons as it affects recreation should be studied . Check the quality of the water . A stream which has all_of its watershed within a national forest or other lands under good conservation practices is less likely to be affected by pollution than one passing_through unrestricted logging or past an industrial area . Other factors , such as water temperature , depth of water , the fish life it supports , <head>wave</head> action , flooding , etcetera , will affect its recreation value . Other natural features which can be of high interest are the forests , canyons , mountains , deserts , seacoast , beaches , sand_dunes , waterfalls , springs , etcetera with which the area is blessed . Just_as the national and state parks place emphasis on features which are of national or state significance , counties should seek_out these features which are distinctive of their area . Although the site may not contain the features themselves , there are often opportunities to include them as additional interest to the site .</context>
+    </instance>
+    <instance id="br-e26#w615_0" docsrc="br-e26">
+      <context> In_this third year at the university , Hans , in 1797 , was awarded the first important token of recognition , a gold medal for his essay on `` Limits_of_Poetry_and_Prose '' . He completed his training in pharmacy also , taking his degree with high honors in 1797 , and in 1799 was awarded the degree of Doctor_of_Philosophy along with a prize for an essay in medicine . He proposed a fresh theory of alkalis which later was accepted in chemical practices . Han 's student days were at_a time when Europe was in a new intellectual ferment following the revolutions in America and in France , Germany and Italy were rising from divisive nationalisms and a strong <head>wave</head> of intellectual awareness was sweeping the Continent . The new century opened with Oersted beginning his professional career in_charge of an apothecary shop in Copenhagen and as lecturer at the university . He was stirred by the announcement of Volta 's discovery of chemical electricity and he immediately applied the voltaic_pile to experiments with acids and alkalis . The following year he devoted to the customary `` Wanderjahr '' , traveling in Germany , France , and the_Netherlands , meeting the philosophers Schelling , Fichte , and Tieck .</context>
+    </instance>
+    <instance id="br-f03#w1217_0" docsrc="br-f03">
+      <context> But why is it necessary to reproduce the retinal image within the brain ? As retinal images are conceded to be an integral function of the brain it seems logical to suppose that the nerves , between the inner brain and the eyes , carry the direct drive for cooperation from the various brain centers - rather_than to theorize on the transmission of an image which is already in required location . Hereby , the external object viewed by the eyes remains the thing that is seen , not the retinal image , the purpose of which would be to achieve perceptive cooperation by stirring sympathetic impulses in the other sensory centers , motor tensions , associated word symbols , and consciousness . Modern physics has developed the theory that all matter consists_of minute <head>waves</head> of energy . We know that the number of radio and television impulses , sound_waves , ultra-violet rays , etc. , that may occupy the very same space , each solitary upon its own frequency , is infinite . So we may conceive the coexistence of the infinite number of universal , apparently momentary states_of_matter , successive one_after_another in consciousness , but permanent each on its own basic phase of the progressive frequencies . This theory makes it possible for any event throughout eternity to be continuously available at any moment to consciousness .</context>
+    </instance>
+    <instance id="br-f21#w1078_0" docsrc="br-f21">
+      <context> During a 1933 tsunami in Japan the sea glowed brilliantly at night . The luminosity of the water is now believed to have been caused by the stimulation of vast numbers of the luminescent organism Noctiluca_miliaris by the turbulence of the sea . Japanese fishermen have sometimes observed that sardines hauled up in their nets during a tsunami have enormously swollen stomachs ; the fish have swallowed vast numbers of bottom living diatoms , raised to the surface by the disturbance . The <head>waves</head> of a 1923 tsunami in Sagami_Bay brought to the surface and battered to death huge numbers of fishes that normally live at a depth of 3000 feet . Gratified fishermen hauled them in by the thousands . The tsunami warning system developed since the 1946 disaster in Hawaii relies mainly on a simple and ingenious instrument devised by Commander_C._K._Green of the Coast_and_Geodetic_Survey staff . It consists_of a series of pipes and a pressure measuring chamber which record the rise and fall of the water surface .</context>
+    </instance>
+    <instance id="br-f21#w1173_0" docsrc="br-f21">
+      <context> The tsunami warning system developed since the 1946 disaster in Hawaii relies mainly on a simple and ingenious instrument devised by Commander_C._K._Green of the Coast_and_Geodetic_Survey staff . It consists_of a series of pipes and a pressure measuring chamber which record the rise and fall of the water surface . Ordinary water tides are disregarded . But when <head>waves</head> with a period of between 10 and 40 minutes begin to roll over the ocean , they set_in_motion a corresponding oscillation in a column of mercury which closes an electric_circuit . This in_turn sets_off an alarm , notifying the observers at the station that a tsunami is in progress . Such equipment has been installed at Hilo , Midway , Attu and Dutch_Harbor . The moment the alarm goes_off , information is immediately forwarded to Honolulu , which is the center of the warning system .</context>
+    </instance>
+    <instance id="br-f21#w1309_0" docsrc="br-f21">
+      <context> The moment the alarm goes_off , information is immediately forwarded to Honolulu , which is the center of the warning system . This center also receives prompt reports on earthquakes from four Coast_Survey stations in the Pacific which are equipped with seismographs . Its staff makes a preliminary determination of the epicenter of the quake and alerts tide stations near the epicenter for a tsunami . By means of charts showing <head>wave</head> travel times and depths in the ocean at various locations , it is possible to estimate the rate of approach and probable time_of_arrival at Hawaii of a tsunami getting under_way at any spot in the Pacific . The civil and military authorities are then advised of the danger , and they issue warnings and take all necessary protective steps . All_of these activities are geared to a top priority communication_system , and practice tests have been held to assure that everything will work smoothly . Since the 1946 disaster there have been 15 tsunami in the Pacific , but only one was of any consequence .</context>
+    </instance>
+    <instance id="br-f21#w1539_0" docsrc="br-f21">
+      <context> At 17_:_07 that afternoon ( Greenwich_time ) the shock was recorded by the seismograph alarm in Honolulu . The warning system immediately went into action . Within about an hour with the help of reports from seismic stations in Alaska , Arizona and California , the quake 's epicenter was placed at 51 degrees North latitude and 158 degrees East longitude . While accounts of the progress of the tsunami came_in from various points in the Pacific ( Midway reported it was covered with nine feet of water ) , the Hawaiian station made its calculations and notified the military_services and the police that the first big <head>wave</head> would arrive_at Honolulu at 23_:_30 Greenwich_time . It turned_out that the waves were not so high as in 1946 . They hurled a cement barge against a freighter in Honolulu_Harbor , knocked_down telephone_lines , marooned automobiles , flooded lawns , killed six cows . But not a single human life was lost , and property damage in the Hawaiian_Islands did not exceed $ 800000 .</context>
+    </instance>
+    <instance id="br-f21#w1551_0" docsrc="br-f21">
+      <context> The warning system immediately went into action . Within about an hour with the help of reports from seismic stations in Alaska , Arizona and California , the quake 's epicenter was placed at 51 degrees North latitude and 158 degrees East longitude . While accounts of the progress of the tsunami came_in from various points in the Pacific ( Midway reported it was covered with nine feet of water ) , the Hawaiian station made its calculations and notified the military_services and the police that the first big wave would arrive_at Honolulu at 23_:_30 Greenwich_time . It turned_out that the <head>waves</head> were not so high as in 1946 . They hurled a cement barge against a freighter in Honolulu_Harbor , knocked_down telephone_lines , marooned automobiles , flooded lawns , killed six cows . But not a single human life was lost , and property damage in the Hawaiian_Islands did not exceed $ 800000 . There is little doubt that the warning system saved lives and reduced the damage .</context>
+    </instance>
+    <instance id="br-f21#w162_0" docsrc="br-f21">
+      <context> The ancient Greeks recorded several catastrophic inundations by huge waves . Whether or not Plato 's tale of the lost continent of Atlantis is true , skeptics concede that the myth may have some foundation in a great tsunami of ancient times . Indeed , a tremendously destructive tsunami that arose in the Arabian_Sea in 1945 has even revived the interest of geologists and archaeologists in the Biblical story of the Flood . One of the most damaging tsunami on record followed the famous Lisbon earthquake of November 1 , 1755 ; its <head>waves</head> persisted for a week and were felt as far_away as the English coast . Tsunami are rare , however , in the Atlantic_Ocean ; they are far more common in the Pacific . Japan has had 15 destructive ones ( eight of them disastrous ) since 1596 . The Hawaiian_Islands are struck severely an average of once every 25 years .</context>
+    </instance>
+    <instance id="br-f21#w1670_0" docsrc="br-f21">
+      <context> But not a single human life was lost , and property damage in the Hawaiian_Islands did not exceed $ 800000 . There is little doubt that the warning system saved lives and reduced the damage . But it is plain that a warning system , however efficient , is not enough . In the vulnerable areas of the Pacific there should be restrictions against building homes on exposed coasts , or at_least a requirement that they be either raised off the ground or anchored strongly against <head>waves</head> . The key to the world of geology is change ; nothing remains the same . Life has evolved from simple combinations of molecules in the sea to complex combinations in man . The land , too , is changing , and earthquakes are daily reminders of_this .</context>
+    </instance>
+    <instance id="br-f21#w1878_0" docsrc="br-f21">
+      <context> The effects of earthquakes on civilization have been widely publicized , even overemphasized . The role of an earthquake in starting the destruction of whole cities is tremendously frightening , but fire may actually be the principal agent in a particular disaster . Superstition has often blended with fact to color reports . We have learned from earthquakes much of_what we now know about the earth 's interior , for they send <head>waves</head> through the earth which emerge with information about the materials through which they have traveled . These waves have shown that 1800 miles below the surface a liquid core begins , and that it , in_turn , has a solid inner core . Earthquakes originate as far as 400 miles below the surface , but they do not occur at greater depths . Two unsolved mysteries are based on these facts .</context>
+    </instance>
+    <instance id="br-f21#w1896_0" docsrc="br-f21">
+      <context> The role of an earthquake in starting the destruction of whole cities is tremendously frightening , but fire may actually be the principal agent in a particular disaster . Superstition has often blended with fact to color reports . We have learned from earthquakes much of_what we now know about the earth 's interior , for they send waves through the earth which emerge with information about the materials through which they have traveled . These <head>waves</head> have shown that 1800 miles below the surface a liquid core begins , and that it , in_turn , has a solid inner core . Earthquakes originate as far as 400 miles below the surface , but they do not occur at greater depths . Two unsolved mysteries are based on these facts . ( 1 ) As far down as 400 miles below the surface the material should be hot enough to be plastic and adjust itself to twisting forces by sluggish flow rather than by breaking , as rigid surface rocks do .</context>
+    </instance>
+    <instance id="br-f21#w2012_0" docsrc="br-f21">
+      <context> Two unsolved mysteries are based on these facts . ( 1 ) As far down as 400 miles below the surface the material should be hot enough to be plastic and adjust itself to twisting forces by sluggish flow rather than by breaking , as rigid surface rocks do . ( 2 ) If earthquakes do occur at such depths , why not deeper ? Knowledge gained from studying earthquake <head>waves</head> has been applied in various fields . In the search for oil and gas , we make similar waves under controlled conditions with dynamite and learn from them where there are buried rock structures favorable to the accumulation of these resources . We have also developed techniques for recognizing and locating underground nuclear tests through the waves in the ground which they generate . The following discussion of_this subject has been adapted from the book Causes_of_Catastrophe by L._Don_Leet .</context>
+    </instance>
+    <instance id="br-f21#w2031_0" docsrc="br-f21">
+      <context> ( 1 ) As far down as 400 miles below the surface the material should be hot enough to be plastic and adjust itself to twisting forces by sluggish flow rather than by breaking , as rigid surface rocks do . ( 2 ) If earthquakes do occur at such depths , why not deeper ? Knowledge gained from studying earthquake waves has been applied in various fields . In the search for oil and gas , we make similar <head>waves</head> under controlled conditions with dynamite and learn from them where there are buried rock structures favorable to the accumulation of these resources . We have also developed techniques for recognizing and locating underground nuclear tests through the waves in the ground which they generate . The following discussion of_this subject has been adapted from the book Causes_of_Catastrophe by L._Don_Leet . At twelve minutes after five on the morning of Wednesday , April 18 , 1906 , San_Francisco was shaken by a severe earthquake .</context>
+    </instance>
+    <instance id="br-f21#w2069_0" docsrc="br-f21">
+      <context> ( 2 ) If earthquakes do occur at such depths , why not deeper ? Knowledge gained from studying earthquake waves has been applied in various fields . In the search for oil and gas , we make similar waves under controlled conditions with dynamite and learn from them where there are buried rock structures favorable to the accumulation of these resources . We have also developed techniques for recognizing and locating underground nuclear tests through the <head>waves</head> in the ground which they generate . The following discussion of_this subject has been adapted from the book Causes_of_Catastrophe by L._Don_Leet . At twelve minutes after five on the morning of Wednesday , April 18 , 1906 , San_Francisco was shaken by a severe earthquake . A sharp tremor was followed by a jerky roll .</context>
+    </instance>
+    <instance id="br-f21#w231_0" docsrc="br-f21">
+      <context> Tsunami are rare , however , in the Atlantic_Ocean ; they are far more common in the Pacific . Japan has had 15 destructive ones ( eight of them disastrous ) since 1596 . The Hawaiian_Islands are struck severely an average of once every 25 years . In 1707 an earthquake in Japan generated <head>waves</head> so huge that they piled into the Inland_Sea ; one wave swamped more than 1000 ships and boats in Osaka_Bay . A tsunami in the Hawaiian_Islands in 1869 washed away an entire town ( Ponoluu ) , leaving only two forlorn trees standing where the community had been . In 1896 a Japanese tsunami killed 27000 people and swept_away 10000 homes . The dimensions of these waves dwarf all our usual standards_of_measurement .</context>
+    </instance>
+    <instance id="br-f21#w242_0" docsrc="br-f21">
+      <context> Tsunami are rare , however , in the Atlantic_Ocean ; they are far more common in the Pacific . Japan has had 15 destructive ones ( eight of them disastrous ) since 1596 . The Hawaiian_Islands are struck severely an average of once every 25 years . In 1707 an earthquake in Japan generated waves so huge that they piled into the Inland_Sea ; one <head>wave</head> swamped more than 1000 ships and boats in Osaka_Bay . A tsunami in the Hawaiian_Islands in 1869 washed away an entire town ( Ponoluu ) , leaving only two forlorn trees standing where the community had been . In 1896 a Japanese tsunami killed 27000 people and swept_away 10000 homes . The dimensions of these waves dwarf all our usual standards_of_measurement .</context>
+    </instance>
+    <instance id="br-f21#w298_0" docsrc="br-f21">
+      <context> In 1707 an earthquake in Japan generated waves so huge that they piled into the Inland_Sea ; one wave swamped more than 1000 ships and boats in Osaka_Bay . A tsunami in the Hawaiian_Islands in 1869 washed away an entire town ( Ponoluu ) , leaving only two forlorn trees standing where the community had been . In 1896 a Japanese tsunami killed 27000 people and swept_away 10000 homes . The dimensions of these <head>waves</head> dwarf all our usual standards_of_measurement . An ordinary sea wave is rarely more than a_few hundred feet long from crest to crest - no longer than 320 feet in the Atlantic or 1000 feet in the Pacific . But a tsunami often extends more than 100 miles and sometimes as much as 600 miles from crest to crest . While a wind wave never travels at more than 60 miles_per_hour , the velocity of a tsunami in the open sea must be reckoned in hundreds of miles_per_hour .</context>
+    </instance>
+    <instance id="br-f21#w308_0" docsrc="br-f21">
+      <context> A tsunami in the Hawaiian_Islands in 1869 washed away an entire town ( Ponoluu ) , leaving only two forlorn trees standing where the community had been . In 1896 a Japanese tsunami killed 27000 people and swept_away 10000 homes . The dimensions of these waves dwarf all our usual standards_of_measurement . An ordinary sea <head>wave</head> is rarely more than a_few hundred feet long from crest to crest - no longer than 320 feet in the Atlantic or 1000 feet in the Pacific . But a tsunami often extends more than 100 miles and sometimes as much as 600 miles from crest to crest . While a wind wave never travels at more than 60 miles_per_hour , the velocity of a tsunami in the open sea must be reckoned in hundreds of miles_per_hour . The greater the depth of the water , the greater is the speed of the wave ; Lagrange 's law says that its velocity is equal to the square_root of the product of the depth times the acceleration due_to gravity .</context>
+    </instance>
+    <instance id="br-f21#w361_0" docsrc="br-f21">
+      <context> The dimensions of these waves dwarf all our usual standards_of_measurement . An ordinary sea wave is rarely more than a_few hundred feet long from crest to crest - no longer than 320 feet in the Atlantic or 1000 feet in the Pacific . But a tsunami often extends more than 100 miles and sometimes as much as 600 miles from crest to crest . While a wind <head>wave</head> never travels at more than 60 miles_per_hour , the velocity of a tsunami in the open sea must be reckoned in hundreds of miles_per_hour . The greater the depth of the water , the greater is the speed of the wave ; Lagrange 's law says that its velocity is equal to the square_root of the product of the depth times the acceleration due_to gravity . In the deep waters of the Pacific these waves reach a speed of 500 miles_per_hour . Tsunami are so shallow in comparison with their length that in the open ocean they are hardly detectable .</context>
+    </instance>
+    <instance id="br-f21#w402_0" docsrc="br-f21">
+      <context> An ordinary sea wave is rarely more than a_few hundred feet long from crest to crest - no longer than 320 feet in the Atlantic or 1000 feet in the Pacific . But a tsunami often extends more than 100 miles and sometimes as much as 600 miles from crest to crest . While a wind wave never travels at more than 60 miles_per_hour , the velocity of a tsunami in the open sea must be reckoned in hundreds of miles_per_hour . The greater the depth of the water , the greater is the speed of the <head>wave</head> ; Lagrange 's law says that its velocity is equal to the square_root of the product of the depth times the acceleration due_to gravity . In the deep waters of the Pacific these waves reach a speed of 500 miles_per_hour . Tsunami are so shallow in comparison with their length that in the open ocean they are hardly detectable . Their amplitude sometimes is as little as two feet from trough to crest .</context>
+    </instance>
+    <instance id="br-f21#w436_0" docsrc="br-f21">
+      <context> But a tsunami often extends more than 100 miles and sometimes as much as 600 miles from crest to crest . While a wind wave never travels at more than 60 miles_per_hour , the velocity of a tsunami in the open sea must be reckoned in hundreds of miles_per_hour . The greater the depth of the water , the greater is the speed of the wave ; Lagrange 's law says that its velocity is equal to the square_root of the product of the depth times the acceleration due_to gravity . In the deep waters of the Pacific these <head>waves</head> reach a speed of 500 miles_per_hour . Tsunami are so shallow in comparison with their length that in the open ocean they are hardly detectable . Their amplitude sometimes is as little as two feet from trough to crest . Usually it is only_when they approach shallow water on the shore that they build_up to their terrifying heights .</context>
+    </instance>
+    <instance id="br-f21#w505_0" docsrc="br-f21">
+      <context> Tsunami are so shallow in comparison with their length that in the open ocean they are hardly detectable . Their amplitude sometimes is as little as two feet from trough to crest . Usually it is only_when they approach shallow water on the shore that they build_up to their terrifying heights . On the fateful day in 1896 when the great <head>waves</head> approached Japan , fishermen at_sea noticed no unusual swells . Not until they sailed home at the end of the day , through a sea strewn with bodies and the wreckage of houses , were they aware of what had happened . The seemingly quiet ocean had crashed a wall of water from 10 to 100 feet high upon beaches crowded with bathers , drowning thousands of them and flattening villages along the shore . The giant waves are more dangerous on flat shores than on steep ones .</context>
+    </instance>
+    <instance id="br-f21#w53_0" docsrc="br-f21">
+      <context> A tsunami may be started by a sea_bottom slide , an earthquake or a volcanic_eruption . The most infamous of all was launched by the explosion of the island of Krakatoa in 1883 ; it raced across the Pacific at 300 miles an hour , devastated the coasts of Java and Sumatra with <head>waves</head> 100 to 130 feet high , and pounded the shore as far_away as San_Francisco . The ancient Greeks recorded several catastrophic inundations by huge waves . Whether or not Plato 's tale of the lost continent of Atlantis is true , skeptics concede that the myth may have some foundation in a great tsunami of ancient times . Indeed , a tremendously destructive tsunami that arose in the Arabian_Sea in 1945 has even revived the interest of geologists and archaeologists in the Biblical story of the Flood .</context>
+    </instance>
+    <instance id="br-f21#w583_0" docsrc="br-f21">
+      <context> On the fateful day in 1896 when the great waves approached Japan , fishermen at_sea noticed no unusual swells . Not until they sailed home at the end of the day , through a sea strewn with bodies and the wreckage of houses , were they aware of what had happened . The seemingly quiet ocean had crashed a wall of water from 10 to 100 feet high upon beaches crowded with bathers , drowning thousands of them and flattening villages along the shore . The giant <head>waves</head> are more dangerous on flat shores than on steep ones . They usually range from 20 to 60 feet in_height , but when they pour into a V shaped inlet or harbor they may rise to mountainous proportions . Generally the first salvo of a tsunami is a rather sharp swell , not different enough from an ordinary wave to alarm casual observers . This is followed by a tremendous suck of water away from the shore as the first great trough arrives .</context>
+    </instance>
+    <instance id="br-f21#w642_0" docsrc="br-f21">
+      <context> The seemingly quiet ocean had crashed a wall of water from 10 to 100 feet high upon beaches crowded with bathers , drowning thousands of them and flattening villages along the shore . The giant waves are more dangerous on flat shores than on steep ones . They usually range from 20 to 60 feet in_height , but when they pour into a V shaped inlet or harbor they may rise to mountainous proportions . Generally the first salvo of a tsunami is a rather sharp swell , not different enough from an ordinary <head>wave</head> to alarm casual observers . This is followed by a tremendous suck of water away from the shore as the first great trough arrives . Reefs are left high_and_dry , and the beaches are covered with stranded fish . At Hilo large_numbers of people ran out to inspect the amazing spectacle of the denuded beach .</context>
+    </instance>
+    <instance id="br-f21#w716_0" docsrc="br-f21">
+      <context> This is followed by a tremendous suck of water away from the shore as the first great trough arrives . Reefs are left high_and_dry , and the beaches are covered with stranded fish . At Hilo large_numbers of people ran out to inspect the amazing spectacle of the denuded beach . Many_of them paid for their curiosity with their lives , for some minutes later the first giant <head>wave</head> roared over the shore . After an earthquake in Japan in 1793 people on the coast at Tugaru were so terrified by the extraordinary ebbing of the sea that they scurried to higher ground . When a second quake came , they dashed back to the beach , fearing that they might be buried under landslides . Just as they reached the shore , the first huge wave crashed upon them .</context>
+    </instance>
+    <instance id="br-f21#w784_0" docsrc="br-f21">
+      <context> Many_of them paid for their curiosity with their lives , for some minutes later the first giant wave roared over the shore . After an earthquake in Japan in 1793 people on the coast at Tugaru were so terrified by the extraordinary ebbing of the sea that they scurried to higher ground . When a second quake came , they dashed back to the beach , fearing that they might be buried under landslides . Just as they reached the shore , the first huge <head>wave</head> crashed upon them . A tsunami is not a single wave but a series . The waves are separated by intervals of 15_minutes to an hour or more ( because of their great length ) , and this has often lulled people into thinking after the first great wave has crashed that it is all_over . The waves may keep coming for many hours .</context>
+    </instance>
+    <instance id="br-f21#w78_0" docsrc="br-f21">
+      <context> A tsunami may be started by a sea_bottom slide , an earthquake or a volcanic_eruption . The most infamous of all was launched by the explosion of the island of Krakatoa in 1883 ; it raced across the Pacific at 300 miles an hour , devastated the coasts of Java and Sumatra with waves 100 to 130 feet high , and pounded the shore as far_away as San_Francisco . The ancient Greeks recorded several catastrophic inundations by huge <head>waves</head> . Whether or not Plato 's tale of the lost continent of Atlantis is true , skeptics concede that the myth may have some foundation in a great tsunami of ancient times . Indeed , a tremendously destructive tsunami that arose in the Arabian_Sea in 1945 has even revived the interest of geologists and archaeologists in the Biblical story of the Flood . One of the most damaging tsunami on record followed the famous Lisbon earthquake of November 1 , 1755 ; its waves persisted for a week and were felt as far_away as the English coast .</context>
+    </instance>
+    <instance id="br-f21#w795_0" docsrc="br-f21">
+      <context> After an earthquake in Japan in 1793 people on the coast at Tugaru were so terrified by the extraordinary ebbing of the sea that they scurried to higher ground . When a second quake came , they dashed back to the beach , fearing that they might be buried under landslides . Just as they reached the shore , the first huge wave crashed upon them . A tsunami is not a single <head>wave</head> but a series . The waves are separated by intervals of 15_minutes to an hour or more ( because of their great length ) , and this has often lulled people into thinking after the first great wave has crashed that it is all_over . The waves may keep coming for many hours . Usually the third to the eighth waves in the series are the biggest .</context>
+    </instance>
+    <instance id="br-f21#w801_0" docsrc="br-f21">
+      <context> When a second quake came , they dashed back to the beach , fearing that they might be buried under landslides . Just as they reached the shore , the first huge wave crashed upon them . A tsunami is not a single wave but a series . The <head>waves</head> are separated by intervals of 15_minutes to an hour or more ( because of their great length ) , and this has often lulled people into thinking after the first great wave has crashed that it is all_over . The waves may keep coming for many hours . Usually the third to the eighth waves in the series are the biggest . Among the observers of the 1946 tsunami at Hilo was Francis_P._Shepard of the Scripps_Institution_of_Oceanography , one of the world 's foremost marine geologists .</context>
+    </instance>
+    <instance id="br-f21#w833_0" docsrc="br-f21">
+      <context> When a second quake came , they dashed back to the beach , fearing that they might be buried under landslides . Just as they reached the shore , the first huge wave crashed upon them . A tsunami is not a single wave but a series . The waves are separated by intervals of 15_minutes to an hour or more ( because of their great length ) , and this has often lulled people into thinking after the first great <head>wave</head> has crashed that it is all_over . The waves may keep coming for many hours . Usually the third to the eighth waves in the series are the biggest . Among the observers of the 1946 tsunami at Hilo was Francis_P._Shepard of the Scripps_Institution_of_Oceanography , one of the world 's foremost marine geologists .</context>
+    </instance>
+    <instance id="br-f21#w842_0" docsrc="br-f21">
+      <context> Just as they reached the shore , the first huge wave crashed upon them . A tsunami is not a single wave but a series . The waves are separated by intervals of 15_minutes to an hour or more ( because of their great length ) , and this has often lulled people into thinking after the first great wave has crashed that it is all_over . The <head>waves</head> may keep coming for many hours . Usually the third to the eighth waves in the series are the biggest . Among the observers of the 1946 tsunami at Hilo was Francis_P._Shepard of the Scripps_Institution_of_Oceanography , one of the world 's foremost marine geologists . He was able to make a detailed inspection of the waves .</context>
+    </instance>
+    <instance id="br-f21#w856_0" docsrc="br-f21">
+      <context> A tsunami is not a single wave but a series . The waves are separated by intervals of 15_minutes to an hour or more ( because of their great length ) , and this has often lulled people into thinking after the first great wave has crashed that it is all_over . The waves may keep coming for many hours . Usually the third to the eighth <head>waves</head> in the series are the biggest . Among the observers of the 1946 tsunami at Hilo was Francis_P._Shepard of the Scripps_Institution_of_Oceanography , one of the world 's foremost marine geologists . He was able to make a detailed inspection of the waves . Their onrush and retreat , he reported , was accompanied by a great hissing , roaring and rattling .</context>
+    </instance>
+    <instance id="br-f21#w898_0" docsrc="br-f21">
+      <context> The waves may keep coming for many hours . Usually the third to the eighth waves in the series are the biggest . Among the observers of the 1946 tsunami at Hilo was Francis_P._Shepard of the Scripps_Institution_of_Oceanography , one of the world 's foremost marine geologists . He was able to make a detailed inspection of the <head>waves</head> . Their onrush and retreat , he reported , was accompanied by a great hissing , roaring and rattling . The third and fourth waves seemed to be the highest . On some of the islands ' beaches the waves came_in gently ; they were steepest on the shores facing the direction of the seaquake from which the waves had come .</context>
+    </instance>
+    <instance id="br-f21#w923_0" docsrc="br-f21">
+      <context> Among the observers of the 1946 tsunami at Hilo was Francis_P._Shepard of the Scripps_Institution_of_Oceanography , one of the world 's foremost marine geologists . He was able to make a detailed inspection of the waves . Their onrush and retreat , he reported , was accompanied by a great hissing , roaring and rattling . The third and fourth <head>waves</head> seemed to be the highest . On some of the islands ' beaches the waves came_in gently ; they were steepest on the shores facing the direction of the seaquake from which the waves had come . In Hilo_Bay they were from 21 to 26 feet high . The highest waves , 55 feet , occurred at Pololu_Valley .</context>
+    </instance>
+    <instance id="br-f21#w938_0" docsrc="br-f21">
+      <context> He was able to make a detailed inspection of the waves . Their onrush and retreat , he reported , was accompanied by a great hissing , roaring and rattling . The third and fourth waves seemed to be the highest . On some of the islands ' beaches the <head>waves</head> came_in gently ; they were steepest on the shores facing the direction of the seaquake from which the waves had come . In Hilo_Bay they were from 21 to 26 feet high . The highest waves , 55 feet , occurred at Pololu_Valley . Scientists and fishermen have occasionally seen strange by-products of the phenomenon .</context>
+    </instance>
+    <instance id="br-f21#w957_0" docsrc="br-f21">
+      <context> He was able to make a detailed inspection of the waves . Their onrush and retreat , he reported , was accompanied by a great hissing , roaring and rattling . The third and fourth waves seemed to be the highest . On some of the islands ' beaches the waves came_in gently ; they were steepest on the shores facing the direction of the seaquake from which the <head>waves</head> had come . In Hilo_Bay they were from 21 to 26 feet high . The highest waves , 55 feet , occurred at Pololu_Valley . Scientists and fishermen have occasionally seen strange by-products of the phenomenon .</context>
+    </instance>
+    <instance id="br-f21#w974_0" docsrc="br-f21">
+      <context> The third and fourth waves seemed to be the highest . On some of the islands ' beaches the waves came_in gently ; they were steepest on the shores facing the direction of the seaquake from which the waves had come . In Hilo_Bay they were from 21 to 26 feet high . The highest <head>waves</head> , 55 feet , occurred at Pololu_Valley . Scientists and fishermen have occasionally seen strange by-products of the phenomenon . During a 1933 tsunami in Japan the sea glowed brilliantly at night . The luminosity of the water is now believed to have been caused by the stimulation of vast numbers of the luminescent organism Noctiluca_miliaris by the turbulence of the sea .</context>
+    </instance>
+    <instance id="br-f22#w1298_0" docsrc="br-f22">
+      <context> At 6_o_'_clock on the morning of August 12 , they were in doubt no_longer . Then it came , against Troop_H . The enemy had filtered across the river during the night and a full force of 1000 men , armed with Russian machine_guns , attacked the position held by Chandler 's men . They came in <head>waves</head> . First came the cannon_fodder , white clad civilians being driven into death as a massive human battering_ram . They were followed by crack North_Korean troops , who mounted one charge after another . They overran the 7_th_Cav 's forward machine-gun positions through sheer weight of numbers , over piles of_their_own dead .</context>
+    </instance>
+    <instance id="br-f43#w123_0" docsrc="br-f43">
+      <context> Motion-picture exhibitions took_place in stores in a general atmosphere like that of the penny_arcade which can still be found in such urban_areas as Times_Square . Brief snips of actual events were shown : parades , dances , street scenes . The sensational and frightening enjoyed popularity : a train rushes straight at the audience , or a great <head>wave</head> threatens to break over the seats . An early Edison production was The_Execution_of_Mary_Queen_of_Scotts . The unfortunate queen mounted the scaffold ; the headsman swung his axe ; the head dropped off ; end of film . An early film by a competitor of the Wizard of Menlo_Park simply showed a long kiss performed by two actors of the contemporary stage .</context>
+    </instance>
+    <instance id="br-f43#w902_0" docsrc="br-f43">
+      <context> This is the rate of projection ; it is also the rate of photographing . Time is built into the motion_picture , which cannot exist without time . Now time is also the concern of the fictional narrative , which is , at its simplest , the story of an action with , usually , a beginning , a middle , and an end - elements which demand time as the first condition for their existence . The `` moving '' picture of the train or the <head>wave</head> coming at the audience is , to_be_sure , more intense than a still picture of the same subject , but the difference is really one of degree ; the cinematic element of time is merely used to increase the realism of an object which would still be reasonably realistic in a still photo . In narrative , time is essential , as it is in film . Almost everything about the movies that is peculiarly of the movies derives from a tension created and maintained between narrative time and film time . This discovery of Melies was vastly more important than his sometimes dazzling , magician 's tricks produced on film .</context>
+    </instance>
+    <instance id="br-g14#w234_0" docsrc="br-g14">
+      <context> The primary quality of that view seems , now , to have been its quietness , but that cannot at the time have impressed us . What one actually remembers is its greenness . From high in the tree , the whole block lay within range of the eye , but the ground was almost nowhere visible . One looked down on a sea of leaves , a breaking <head>wave</head> of flower . Every path from back door to barn was covered by a grape-arbor , and every yard had its fruit_trees . In the center of any open space remaining our grandfathers had planted syringa and sweet_shrub , snowball , rose-of-Sharon and balm-of-Gilead . From above one could only occasionally catch_a_glimpse of life on the floor of this green sea : a neighbor 's gingham skirt flashing into sight for an instant on the path beneath her grape-arbor , or the movement of hands above a clothesline and the flutter of garments hung there , half-way down the block .</context>
+    </instance>
+    <instance id="br-j01#w918_0" docsrc="br-j01">
+      <context> This sporadic type of planetary radiation is discussed by Burke ( chap. 13 ) and Gallet ( chap. 14 ) . Steady radiation which was presumably of thermal origin was observed from Venus at 3.15 and 9.4 cm , and from Mars and Jupiter at 3.15 cm in 1956 ( Mayer , McCullough , and Sloanaker , 1958 a , b , c ) , and from Saturn at 3.75 cm in 1957 ( Drake and Ewen , 1958 ) . In the relatively short time since these early observations , Venus has been observed at additional wave_lengths in the range from 0.8 to 10.2 cm , and Jupiter has been observed over the wave-length range from 3.03 to 68 cm . The observable characteristics of planetary radio_radiation are the intensity , the polarization , and the direction of arrival of the <head>waves</head> . The maximum angular diameter of any planetary disk as observed from the earth is about 1 minute_of_arc . This is much smaller than the highest resolution of even the very large reflectors now under construction , and consequently the radio_emission of different regions of the disk cannot be resolved . It should be possible , however , to put useful limits on the diameters of the radio_sources by observing with large reflectors or with interferometers .</context>
+    </instance>
+    <instance id="br-j31#w1481_0" docsrc="br-j31">
+      <context> one cannot assume , of_course , that all these accumulated meanings were inherent in the stereotype at the beginning of the therapy , or at any one time later_on when the stereotype was uttered ; probably it is correct to think_of it as a matter of a well grooved , stereotyped mode of expression - and no , or but a_few , other communicational grooves , as_yet - being there , available for the patient 's use , as newly emerging emotions and ideas well_up in him over the course of months . But it is true that the therapist can sense , when he hears this stereotype , that there are at this moment many emotional determinants at_work in it , a blurred babel of indistinct voices which have yet to become clearly delineated from one another . Sometimes it is not a verbal stereotype - a `` How are you now '' ? or an `` I want to go_home '' , or whatever - but a nonverbal one which reveals itself , gradually , as the condensed expression of more than one latent meaning . A hebephrenic man used_to give a repetitious <head>wave</head> of his hand a number of times during his largely silent hours with his therapist . When the therapist came to feel on sufficiently sure ground with him to ask him , `` What is that , Bill - hello or farewell '' ? , the patient replied , `` Both , Dearie - two in one '' . Of all the possible forms of nonverbal expression , that which seems best to give release , and communicational expression , to complex and undifferentiated feelings is laughter .</context>
+    </instance>
+    <instance id="br-k02#w8_0" docsrc="br-k02">
+      <context> Where their sharp edges seemed restless as sea <head>waves</head> thrusting themselves upward in angry motion , Papa-san sat glacier like , his smooth solidity , his very immobility defying all the turmoil about him . `` Our objective '' , the colonel had said that day of the briefing , `` is Papa-san '' . There the objective sat , brooding over all . Gouge , burn , blast , insult it as they would , could anyone really take Papa-san ?</context>
+    </instance>
+    <instance id="br-k07#w1294_0" docsrc="br-k07">
+      <context> He oughta know . It is plain as hell Johnson is no Reactionary . So you 're not tryin , Johnson , you bastard you . He looked over at him , lying there , asleep , and he felt a <head>wave</head> of revulsion . How he loathed him . Sleepy-eyed , soft-spoken Johnson . Biggest thorn in my side of the whole fucken squad .</context>
+    </instance>
+    <instance id="br-k07#w2183_0" docsrc="br-k07">
+      <context> Goddamn . Goddammit . Just let me go_home to Jersey , back to the shore , oh , Jesus , the shore . The <head>waves</head> breakin in on you and your girl at night there on the warm beach in the moonlight even Jesus sweet Mary . If I hafta do this to stay alive by God I 'll do it . I hated the goddamn army from the first day I got_in anyhow . All pricks like Coughlin run it anyway , one way or another .</context>
+    </instance>
+    <instance id="br-l18#w90_0" docsrc="br-l18">
+      <context> `` I asked her why she could n't do it tomorrow , but it seems the muse is working good tonight and she 's afraid to let_it_go '' . Casey made some comment , but his mind was busy as he considered the man . His name was George_Needham and he , too , had come from a good family . He was perhaps thirty-two , nicely set_up , with light_brown hair that had a pronounced <head>wave</head> . He was always well groomed and well tailored , and he had that rich_man 's look which was authentic enough and came from two good prep_schools and a proper university . An only child , he had done all the things that young_men do who have been born to money and social position until his father double-crossed him by dying broke . Since then he had worked_at this and that , though some said his main interest was gambling .</context>
+    </instance>
+    <instance id="br-n05#w2308_0" docsrc="br-n05">
+      <context> There were tracks of cattle all_over his six hundred and forty acres . The first part of the road was steep , but it leveled_off after the second bend and curled gradually into the valley . It was hotter once they reached the flat , and drier , but the grass was better . A warm breeze played across it , moving it like <head>waves</head> . A red-tailed_hawk flew in behind them and stayed there , watching for any snakes or rabbits that they might stir_up from the side of the road . It took them an hour before they came to the first houses of Kelseyville . The town was about what Wilson expected : one main_street with its rows of false-fronted buildings , a water_tower , a_few warehouses , a single hotel ; all dusty and sunbaked .</context>
+    </instance>
+    <instance id="br-n16#w1753_0" docsrc="br-n16">
+      <context> I drank furiously . A long time . Emptied the bottle . Teeth again flashing back at me , the driver released a deluge of Spanish in which `` amigo '' appeared every_so_often like an island in the stormy <head>waves</head> of surrounding sound . I bobbed my head each time it appeared . Suddenly the Spanish became an English in which only one word emerged with clarity and precision , `` son_of_a_bitch '' , sometimes hyphenated by vicious jabs of a beer_bottle into Johnson 's quivering ribs . A big car was approaching , its chrome teeth grinning .</context>
+    </instance>
+    <instance id="br-n20#w1408_0" docsrc="br-n20">
+      <context> Through the splash of the rising waters , they could hear the roar of the river as it raged through its canyon , gnashing big chunks out of the banks . The jetting , frothing surface of the river reached the level of the runoff . The dangerous current upon the prairie ceased , but the water stood and kept_on rising . They cringed under sodden covers , listening to the <head>waves</head> slop against the bottom . The cloudburst cut_off abruptly . They were engulfed by the weird silence , broken only by the low , angry murmur of the river . Then the darkness thinned , and there was light again , and_then bright sunlight .</context>
+    </instance>
+    <instance id="br-p07#w1889_0" docsrc="br-p07">
+      <context> Alexander shifted his gaze to Spencer . The calmness and detachment of his tone suggested unawareness of how implicit was his own guilt in the words he had used to defend Cromwell . Alexander knew Spencer too well to think him naive or thick-skulled . And in a sudden <head>wave</head> of painful clarity , Alexander recognized a kinship with Spencer . Here was another human who understood the stupidity of quarreling with the inevitable . There was good_fortune and there was bad and Philip_Spencer , in handcuffs and ankle irons , knew it to be a truth . He expected nothing for himself but that which naturally follows those marked for misfortune .</context>
+    </instance>
+  </lexelt>
+</corpus>
