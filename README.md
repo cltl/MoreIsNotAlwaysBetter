@@ -1,8 +1,24 @@
-
 # More is not always better: balancing sense distributions for all­words Word Sense Disambiguation
 
+This package contains all the data and scripts used to run the experiments presented in:
 
-This package contains all the data and scripts used to run the experiments presented in the paper and obtain the figures shown in the tables. It is designed in a way that allows automatic and full reproducibility of the results.  There are only 3 steps required:
+```xml
+@InProceedings{C16-1330,
+  author = 	"Postma, Marten
+		and Izquierdo Bevia, Ruben
+		and Vossen, Piek",
+  title = 	"More is not always better: balancing sense distributions for all-words Word Sense Disambiguation",
+  booktitle = 	"Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers",
+  year = 	"2016",
+  publisher = 	"The COLING 2016 Organizing Committee",
+  pages = 	"3496--3506",
+  location = 	"Osaka, Japan",
+  url = 	"http://aclweb.org/anthology/C16-1330"
+}
+```
+
+
+It is designed in a way that allows automatic and full reproducibility of the results.  There are only 3 steps required:
 
 
 1.  Download this repository to your computer (Linux/OsX)
